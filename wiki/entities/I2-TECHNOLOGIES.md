@@ -1,0 +1,29 @@
+---
+title: "i2 Technologies"
+slug: I2-TECHNOLOGIES
+page_type: entity
+entity_type: vendor
+sector: "supply chain planning"
+status: "acquired"
+successor: "JDA Software (now Blue Yonder)"
+years_active: "1988-2010"
+tier: 2
+study_count: 0
+obs_count: 0
+aliases: ["i2 Technologies"]
+tags: [type/entity, sector/supply-chain-planning, status/acquired]
+source_csv: known_entities.csv
+---
+
+# i2 Technologies
+
+i2 Technologies is a vendor in supply chain planning. Active 1988-2010. Status: acquired.
+
+**Appears in 0 studies, 0 observations.**
+
+## DuckDB query for full data
+
+```sql
+SELECT * FROM observations WHERE entity_id = 'I2-TECHNOLOGIES';
+```
+

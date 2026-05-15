@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.path.startsWith("technologies/")
+    - tier == 1
+views:
+  - type: table
+    name: "Top Technologies"
+    order:
+      - title
+      - vendor
+      - category
+      - study_count
+      - obs_count
+    sort:
+      - field: study_count
+        direction: desc

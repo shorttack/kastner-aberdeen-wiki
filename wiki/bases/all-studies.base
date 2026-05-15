@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.path.startsWith("studies/")
+views:
+  - type: table
+    name: "All Studies"
+    order:
+      - file.name
+      - title
+      - date
+      - author
+      - importance
+      - prescience
+    sort:
+      - field: date
+        direction: asc

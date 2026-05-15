@@ -1,0 +1,29 @@
+---
+title: "IBM Systems Management Family (Tivoli TME10)"
+slug: TECH-S4-008
+page_type: technology
+category: systems-management
+vendor: "IBM/Tivoli"
+era: "1994-present"
+lifecycle_at_study: "growth"
+lifecycle_current: "active"
+tier: 2
+study_count: 0
+obs_count: 0
+aliases: ["IBM Systems Management Family (Tivoli TME10)"]
+tags: [type/technology, category/systems-management, vendor/ibmtivoli]
+source_csv: known_technologies.csv
+---
+
+# IBM Systems Management Family (Tivoli TME10)
+
+IBM Systems Management Family (Tivoli TME10) is a systems-management from IBM/Tivoli (era 1994-present). Current lifecycle: active.
+
+**Appears in 0 studies, 0 observations.**
+
+## DuckDB query for full data
+
+```sql
+SELECT * FROM observations WHERE tech_id = 'TECH-S4-008';
+```
+

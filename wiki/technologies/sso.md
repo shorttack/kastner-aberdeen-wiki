@@ -1,0 +1,29 @@
+---
+title: "Single Sign-On (SSO)"
+slug: sso
+page_type: technology
+category: application
+vendor: "Microsoft"
+era: "1998-present"
+lifecycle_at_study: "emerging"
+lifecycle_current: "active"
+tier: 2
+study_count: 0
+obs_count: 0
+aliases: ["Single Sign-On (SSO)"]
+tags: [type/technology, category/application, vendor/microsoft]
+source_csv: known_technologies.csv
+---
+
+# Single Sign-On (SSO)
+
+Single Sign-On (SSO) is a application from Microsoft (era 1998-present). Current lifecycle: active.
+
+**Appears in 0 studies, 0 observations.**
+
+## DuckDB query for full data
+
+```sql
+SELECT * FROM observations WHERE tech_id = 'sso';
+```
+

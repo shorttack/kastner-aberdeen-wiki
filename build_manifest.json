@@ -1,0 +1,28 @@
+{
+  "build_started": "2026-05-15T17:40:49.307031+00:00",
+  "build_finished": "2026-05-15T17:40:51.478278+00:00",
+  "source_archive": "/home/user/workspace/aberdeen-group-archive",
+  "output": "/home/user/workspace/kastner-aberdeen-wiki",
+  "studies": 933,
+  "entities": 3299,
+  "technologies": 4283,
+  "observations": 19175,
+  "tiering": {
+    "entities_tier1": 48,
+    "entities_stub": 3251,
+    "techs_tier1": 33,
+    "techs_stub": 4250,
+    "studies_tier1": 582,
+    "studies_stub": 337,
+    "chapters": 14
+  },
+  "skip_llm": true,
+  "skip_embeddings": false,
+  "embeddings": {
+    "rows": 8549,
+    "dim": 384,
+    "model_used_at_build": "sentence-transformers/all-MiniLM-L6-v2",
+    "reembed_with": "Run scripts/reembed.py --model nomic-ai/nomic-embed-text-v1.5 for 768-dim",
+    "computed_at": "2026-05-15T18:16:28.771253+00:00"
+  }
+}

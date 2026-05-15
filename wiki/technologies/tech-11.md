@@ -1,0 +1,34 @@
+---
+title: "Summarization / pre-aggregation"
+slug: tech-11
+page_type: technology
+category: query-optimization
+vendor: "multiple"
+era: "1990-present"
+lifecycle_at_study: "emerging"
+lifecycle_current: "active"
+tier: 2
+study_count: 2
+obs_count: 4
+aliases: ["Summarization / pre-aggregation"]
+tags: [type/technology, category/query-optimization, vendor/multiple]
+source_csv: known_technologies.csv
+---
+
+# Summarization / pre-aggregation
+
+Summarization / pre-aggregation is a query-optimization from multiple (era 1990-present). Current lifecycle: active.
+
+**Appears in 2 studies, 4 observations.**
+
+## Studies citing this technology
+
+- [[cab199-1-2-0cb163|RDBMS Market Overview — Computer Associates Sales Training]] (1997-11-12)
+- [[aberdeen-1995-data-warehouse-olap|Data Warehouse Query Tools: Evolving to Relational OLAP]] (1995-07-01)
+
+## DuckDB query for full data
+
+```sql
+SELECT * FROM observations WHERE tech_id = 'tech-11';
+```
+

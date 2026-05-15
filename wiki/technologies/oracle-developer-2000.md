@@ -1,0 +1,34 @@
+---
+title: "Oracle Developer/2000"
+slug: oracle-developer-2000
+page_type: technology
+category: application
+vendor: "Oracle Corporation"
+era: "1994-2003"
+lifecycle_at_study: "mature"
+lifecycle_current: "obsolete"
+tier: 2
+study_count: 2
+obs_count: 13
+aliases: ["Oracle Developer/2000"]
+tags: [type/technology, category/application, vendor/oracle-corporation]
+source_csv: known_technologies.csv
+---
+
+# Oracle Developer/2000
+
+Oracle Developer/2000 is a application from Oracle Corporation (era 1994-2003). Current lifecycle: obsolete.
+
+**Appears in 2 studies, 13 observations.**
+
+## Studies citing this technology
+
+- [[1997-oracle-developer-2000-client-server-development-en-5f98ce|Oracle Developer/2000 Client-Server Development Environment]] (1997-06-04)
+- [[aberdeen-1996-oracle-network-computing-architecture|Oracle's Network Computing Architecture]] (1996-10-01)
+
+## DuckDB query for full data
+
+```sql
+SELECT * FROM observations WHERE tech_id = 'oracle-developer-2000';
+```
+

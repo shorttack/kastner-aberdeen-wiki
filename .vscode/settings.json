@@ -1,0 +1,6 @@
+{
+  "files.associations": {"*.base": "yaml"},
+  "markdown.preview.fontSize": 14,
+  "editor.wordWrap": "on",
+  "[markdown]": {"editor.quickSuggestions": {"comments": "off", "strings": "off", "other": "off"}}
+}

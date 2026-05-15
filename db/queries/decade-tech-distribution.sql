@@ -1,0 +1,1 @@
+SELECT t.tech_id, t.tech_name, t.vendor, CAST(SUBSTRING(s.date, 1, 3) || '0s' AS VARCHAR) AS decade, COUNT(*) c FROM technologies t JOIN studies s USING (study_id) WHERE s.date IS NOT NULL AND s.date <> '' GROUP BY 1,2,3,4 ORDER BY 1, 4;

@@ -1,0 +1,29 @@
+---
+title: "Rob Chapman"
+slug: rob-chapman
+page_type: entity
+entity_type: person
+sector: "Intel Analyst Relations"
+status: "unknown"
+successor: ""
+years_active: "2000s"
+tier: 2
+study_count: 0
+obs_count: 0
+aliases: ["Rob Chapman"]
+tags: [type/entity, sector/intel-analyst-relations, status/unknown]
+source_csv: known_entities.csv
+---
+
+# Rob Chapman
+
+Rob Chapman is a person in Intel Analyst Relations. Active 2000s. Status: unknown.
+
+**Appears in 0 studies, 0 observations.**
+
+## DuckDB query for full data
+
+```sql
+SELECT * FROM observations WHERE entity_id = 'rob-chapman';
+```
+

@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.path.startsWith("volume-1/")
+views:
+  - type: table
+    name: "Volume 1"
+    order:
+      - title
+      - date
+      - obs_count
+    sort:
+      - field: file.name
+        direction: asc

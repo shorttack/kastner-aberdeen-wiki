@@ -1,0 +1,29 @@
+---
+title: "Borland International Inc. (soon to be Inprise)"
+slug: borland-international
+page_type: entity
+entity_type: company
+sector: "enterprise-software"
+status: "unknown"
+successor: "unknown"
+years_active: "1983-2009"
+tier: 2
+study_count: 0
+obs_count: 0
+aliases: ["Borland International Inc. (soon to be Inprise)"]
+tags: [type/entity, sector/enterprise-software, status/unknown]
+source_csv: known_entities.csv
+---
+
+# Borland International Inc. (soon to be Inprise)
+
+Borland International Inc. (soon to be Inprise) is a company in enterprise-software. Active 1983-2009. Status: unknown.
+
+**Appears in 0 studies, 0 observations.**
+
+## DuckDB query for full data
+
+```sql
+SELECT * FROM observations WHERE entity_id = 'borland-international';
+```
+

@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.path.startsWith("entities/")
+    - tier == 1
+views:
+  - type: table
+    name: "Top Entities"
+    order:
+      - title
+      - sector
+      - study_count
+      - obs_count
+    sort:
+      - field: study_count
+        direction: desc

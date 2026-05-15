@@ -1,0 +1,29 @@
+---
+title: "Intershop Communications Inc."
+slug: intershop
+page_type: entity
+entity_type: company
+sector: "Internet Software / e-Commerce"
+status: "public"
+successor: "unknown"
+years_active: "1992-present"
+tier: 2
+study_count: 0
+obs_count: 0
+aliases: ["Intershop Communications Inc."]
+tags: [type/entity, sector/internet-software-e-commerce, status/public]
+source_csv: known_entities.csv
+---
+
+# Intershop Communications Inc.
+
+Intershop Communications Inc. is a company in Internet Software / e-Commerce. Active 1992-present. Status: public.
+
+**Appears in 0 studies, 0 observations.**
+
+## DuckDB query for full data
+
+```sql
+SELECT * FROM observations WHERE entity_id = 'intershop';
+```
+

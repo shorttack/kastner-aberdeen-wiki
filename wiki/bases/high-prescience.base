@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.path.startsWith("studies/")
+    - prescience == "high"
+views:
+  - type: table
+    name: "High Prescience"
+    order:
+      - title
+      - date
+      - prescience_rationale
+    sort:
+      - field: date
+        direction: asc

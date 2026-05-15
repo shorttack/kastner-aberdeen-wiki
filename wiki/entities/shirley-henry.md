@@ -1,0 +1,29 @@
+---
+title: "Shirley Henry"
+slug: shirley-henry
+page_type: entity
+entity_type: person
+sector: "computer-executive"
+status: "unknown"
+successor: ""
+years_active: "1980s"
+tier: 2
+study_count: 0
+obs_count: 0
+aliases: ["Shirley Henry"]
+tags: [type/entity, sector/computer-executive, status/unknown]
+source_csv: known_entities.csv
+---
+
+# Shirley Henry
+
+Shirley Henry is a person in computer-executive. Active 1980s. Status: unknown.
+
+**Appears in 0 studies, 0 observations.**
+
+## DuckDB query for full data
+
+```sql
+SELECT * FROM observations WHERE entity_id = 'shirley-henry';
+```
+

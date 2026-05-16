@@ -1,0 +1,15 @@
+# Python dependencies for the Kastner Aberdeen Wiki query environment.
+# Pinned to known-working versions for the Mac Mini M4 (Python 3.11).
+
+duckdb>=1.1.0
+pyarrow>=17.0.0
+pyyaml>=6.0
+jinja2>=3.1.0
+
+# Embedding model runtime (used by scripts/reembed.py --model and scripts/semantic_search.py)
+sentence-transformers>=3.0.0
+einops>=0.8.0       # required by nomic-embed-text-v1.5
+torch>=2.3.0        # MPS acceleration on M4
+
+# Optional but handy
+rich>=13.0.0

@@ -14,3 +14,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Setup artifacts
+.cache/
+/tmp/kw_hits.txt

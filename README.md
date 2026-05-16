@@ -1,4 +1,4 @@
-# Kastner Aberdeen Wiki
+# Kastner IT Research Archive Wiki
 
 A local-first research environment derived from the Kastner Aberdeen Archive:
 - **933 unique studies** spanning 1979 – 2026

@@ -24,5 +24,74 @@
     "model_used_at_build": "sentence-transformers/all-MiniLM-L6-v2",
     "reembed_with": "Run scripts/reembed.py --model nomic-ai/nomic-embed-text-v1.5 for 768-dim",
     "computed_at": "2026-05-15T18:16:28.771253+00:00"
+  },
+  "pass_a_v2": {
+    "applied_at": "2026-05-20T22:00:00+00:00",
+    "source_archive_commit": "7f0dad1c",
+    "scope": "surgical_update",
+    "data_layer": {
+      "parquet_files_refreshed": [
+        "studies.parquet",
+        "entities.parquet",
+        "technologies.parquet",
+        "observations.parquet",
+        "known_entities.parquet",
+        "known_technologies.parquet",
+        "collection_stats.parquet"
+      ],
+      "duckdb_rebuilt": true,
+      "new_views": [
+        "verification_method_distribution",
+        "viability_predictions_status"
+      ],
+      "counts_after": {
+        "studies": 949,
+        "entities": 9492,
+        "technologies": 7836,
+        "observations": 19694,
+        "known_entities": 3296,
+        "known_technologies": 4381
+      }
+    },
+    "vault_changes": {
+      "new_tier1_study_pages": [
+        "2026-kastner-ibm-longitudinal",
+        "2026-kastner-oracle-longitudinal",
+        "2026-kastner-enterprise-ai-arc"
+      ],
+      "new_entity_stubs": 32,
+      "new_technology_stubs": 133,
+      "new_theme_pages": [
+        "pass-a-v2-verification-pipeline"
+      ],
+      "cross_linked_theme_pages": [
+        "intel-corporation-longitudinal",
+        "kastner-core-arguments-framework",
+        "kastner-top-100-economic-calls"
+      ],
+      "index_page_updated": "_index.md"
+    },
+    "verification_distribution": {
+      "ingest-extraction": 17553,
+      "web-source": 1187,
+      "outcome-linkage": 855,
+      "unverified": 79,
+      "placeholder": 16,
+      "cross-reference": 4
+    },
+    "viability_prediction_status": {
+      "verified": 672,
+      "partially-verified": 102,
+      "refuted": 13,
+      "high": 594,
+      "medium": 285,
+      "low": 20,
+      "verified_plus_partial_rate": 0.461
+    },
+    "method": "no LLM, no external evidence; pure structural verification via predecessor->outcome linkage and rule-based REVIEW triage",
+    "skipped": {
+      "tier1_llm_summaries": "preserved from initial build (still valid for unchanged pages)",
+      "embeddings_reembed": "preserved; new pages can be re-embedded later via scripts/reembed.py"
+    }
   }
 }

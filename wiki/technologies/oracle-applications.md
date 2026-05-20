@@ -1,0 +1,31 @@
+---
+title: "Oracle Applications (EBS)"
+slug: oracle-applications
+page_type: technology
+category: "application"
+vendor: "Oracle"
+era: "1988-present"
+lifecycle_at_study: "mature"
+lifecycle_current: "active"
+study_count: 1
+tier: 2
+tags: [type/technology, pass-a-v2, category/application, vendor/Oracle, lifecycle/active]
+source_csv: known_technologies.csv
+pass_a_v2_added: true
+---
+
+# Oracle Applications (EBS)
+
+> Oracle E-Business Suite; financials, HR, manufacturing, supply chain; primary revenue growth vehicle 1997–2010
+
+**Category:** application · **Vendor:** Oracle · **Era:** 1988-present · **Lifecycle now:** active
+
+## Appears in 1 studies
+
+- [[2026-kastner-oracle-longitudinal]]
+
+## DuckDB query
+
+```sql
+SELECT * FROM observations WHERE tech_id = 'oracle-applications' ORDER BY year_observed;
+```

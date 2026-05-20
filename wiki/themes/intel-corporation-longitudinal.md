@@ -212,6 +212,10 @@ Reference Python implementation: `_intel_threads.json` and `build_intel_longitud
 - [[kastner-top-100-economic-calls]] — Intel x86 calls in top-100 list with significant weight
 - [[kastner-prescience-methodology-demo]] — methodology pattern used to score Intel predictions
 - [[kastner-prescience-market-rollup]] — market-sizing context for x86 displacement claims
+- [[2026-kastner-ibm-longitudinal|IBM longitudinal]] — sibling study (mainframe-survival counter-narrative)
+- [[2026-kastner-oracle-longitudinal|Oracle longitudinal]] — sibling study (RDBMS dominance + cloud pivot)
+- [[2026-kastner-enterprise-ai-arc|Enterprise AI arc]] — cross-entity AI synthesis
+- [[pass-a-v2-verification-pipeline|Pass A v2]] — structural verification applied to all Intel predictions
 - `intel-pulse-check-ia-continuum-2013-3a693f` — most comprehensive single-study source (22 rows)
 - `otellini-intel-techpinions-2013-917213` — CEO-era retrospective with two refutation rows
 

@@ -444,6 +444,10 @@ The base files are deferred to a follow-up commit so the framework page can land
 - [[volume-1-epilogue-argument-with-reality]] — memoir epilogue supports universal-pattern framing
 - [[kastner-prescience-market-rollup]] — cross-archive market sizing for proof-study attribution weights
 - [[aberdeen-productization-pricing-and-survey-research-program-2000]] — ARG-11 free-research-as-marketing primary source
+- [[2026-kastner-ibm-longitudinal|IBM longitudinal]] — single-entity stress test for ARG-1, ARG-2, ARG-5
+- [[2026-kastner-oracle-longitudinal|Oracle longitudinal]] — single-entity stress test for ARG-3, ARG-4, ARG-10
+- [[2026-kastner-enterprise-ai-arc|Enterprise AI arc]] — cross-entity AI thread synthesis
+- [[pass-a-v2-verification-pipeline|Pass A v2]] — structural verification supporting ARG-10 (named winners with verified outcomes)
 
 ---
 

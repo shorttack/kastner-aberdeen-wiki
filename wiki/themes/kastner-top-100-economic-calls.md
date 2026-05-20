@@ -188,4 +188,8 @@ top100 = rows[:100]
 
 - [[kastner-prescience-market-rollup]] — parent methodology study (Phase 4 attribution)
 - [[kastner-technology-breadth-memoir-2026]] — narrative companion
+- [[2026-kastner-ibm-longitudinal|IBM longitudinal]] — 14 IBM predictions verified through Pass A v2
+- [[2026-kastner-oracle-longitudinal|Oracle longitudinal]] — RDBMS dominance calls verified through Pass A v2
+- [[2026-kastner-enterprise-ai-arc|Enterprise AI arc]] — 44 years of AI-adjacent claims
+- [[pass-a-v2-verification-pipeline|Pass A v2]] — verification methodology for top-100 calls
 - [[_index|Wiki index]] · [[_index-themes|All themes]]

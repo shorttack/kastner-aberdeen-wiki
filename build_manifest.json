@@ -3,10 +3,10 @@
   "build_finished": "2026-05-15T17:40:51.478278+00:00",
   "source_archive": "/home/user/workspace/aberdeen-group-archive",
   "output": "/home/user/workspace/kastner-aberdeen-wiki",
-  "studies": 933,
-  "entities": 3299,
-  "technologies": 4283,
-  "observations": 19175,
+  "studies": 950,
+  "entities": 3298,
+  "technologies": 4388,
+  "observations": 19773,
   "tiering": {
     "entities_tier1": 48,
     "entities_stub": 3251,
@@ -26,8 +26,8 @@
     "computed_at": "2026-05-15T18:16:28.771253+00:00"
   },
   "pass_a_v2": {
-    "applied_at": "2026-05-20T22:00:00+00:00",
-    "source_archive_commit": "7f0dad1c",
+    "applied_at": "2026-05-21T00:45:17.736181+00:00",
+    "source_archive_commit": "11670e8",
     "scope": "surgical_update",
     "data_layer": {
       "parquet_files_refreshed": [
@@ -45,22 +45,23 @@
         "viability_predictions_status"
       ],
       "counts_after": {
-        "studies": 949,
-        "entities": 9492,
-        "technologies": 7836,
-        "observations": 19694,
-        "known_entities": 3296,
-        "known_technologies": 4381
+        "studies": 950,
+        "entities": 9510,
+        "technologies": 7853,
+        "observations": 19773,
+        "known_entities": 3298,
+        "known_technologies": 4388
       }
     },
     "vault_changes": {
       "new_tier1_study_pages": [
         "2026-kastner-ibm-longitudinal",
         "2026-kastner-oracle-longitudinal",
-        "2026-kastner-enterprise-ai-arc"
+        "2026-kastner-enterprise-ai-arc",
+        "2026-kastner-dec-longitudinal-22d177"
       ],
-      "new_entity_stubs": 32,
-      "new_technology_stubs": 133,
+      "new_entity_stubs": 33,
+      "new_technology_stubs": 140,
       "new_theme_pages": [
         "pass-a-v2-verification-pipeline"
       ],

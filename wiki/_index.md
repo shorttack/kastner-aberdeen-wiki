@@ -24,6 +24,7 @@ via predecessor→outcome linkage. New tier-1 study pages:
 - [[2026-kastner-ibm-longitudinal|IBM longitudinal (1967–2026)]]
 - [[2026-kastner-oracle-longitudinal|Oracle longitudinal (1980–2024)]]
 - [[2026-kastner-enterprise-ai-arc|Enterprise AI arc (1980–2024)]]
+- [[2026-kastner-dec-longitudinal-22d177|DEC longitudinal (1985–present)]]
 
 ## Navigation
 - [[_index-studies|All studies]]

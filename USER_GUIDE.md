@@ -617,9 +617,15 @@ print(df.iloc[top][["slug", "path"]])
 
 ## 6.5. Cookbook: `kw ask` — the RAG chatbox
 
-Shipped in v1.5.1. `kw ask` wraps bge-m3 retrieval + qwen3.5 synthesis (or
-cloud Claude Sonnet) into a single command. It is the fastest way to ask a
-natural-language question against the entire vault.
+Shipped in v1.5.1, patched in v1.5.1+kw_ask_v3 to remove a broken cloud
+fallback. `kw ask` wraps bge-m3 retrieval + local qwen3.5 synthesis via
+Ollama into a single command. It is the fastest way to ask a natural-language
+question against the entire vault.
+
+> **Cloud synthesis is not currently available.** The `--cloud` flag is
+> reserved for a future release when an API-key-backed provider (Anthropic,
+> Perplexity Sonar API, OpenAI, or Gemini) is wired in. The default local
+> models below are production-grade for this archive.
 
 ### Prerequisites
 
@@ -659,7 +665,7 @@ Same backbone `kw ask` uses; just stops after retrieval.
 | `--k N` | Retrieve top-N pages | 8 |
 | `--type TYPE` | Restrict to one page type (`study`, `entity`, `technology`, `code`, `decade`, `theme`, `collection`) | all |
 | `--model NAME` | Override Ollama synthesizer | `qwen3.5:27b-mlx` |
-| `--cloud` | Use Claude Sonnet 4.6 via `pplx` instead of local Ollama | off |
+| `--cloud` | **Reserved.** Prints a clear error today; future cloud provider TBD | off |
 | `--no-stream` | Disable token-by-token streaming output | streaming on |
 | `--no-llm` | Retrieval-only (same as `kw search`) | off |
 | `--temperature F` | Sampling temperature | 0.2 |
@@ -670,8 +676,8 @@ Same backbone `kw ask` uses; just stops after retrieval.
 # Focus on study pages only, top-5
 kw ask "how did Aberdeen frame ERP failure rates?" --type study --k 5
 
-# Use cloud Claude when local model is too slow
-kw ask "what's the lifecycle of CASE tools?" --cloud
+# When the default 27b feels too small, jump to the 35b
+kw ask "what's the lifecycle of CASE tools?" --model qwen3.5:35b-mlx
 
 # Use the bigger qwen for tricky synthesis
 kw ask "compare Aberdeen's ATM vs Ethernet thesis evolution 1995-2000" \
@@ -1216,6 +1222,6 @@ Items marked ✅ were resolved in v1.5.1; the rest are deferred to v1.6.
 
 ---
 
-_Last updated: 2026-05-26 (v1.5.1 build — adds `kw ask` chatbox §6.5, Volume-1 chapters, 19 themes, dupe cleanup)._
+_Last updated: 2026-05-26 (v1.5.1 build — adds `kw ask` chatbox §6.5, Volume-1 chapters, 19 themes, dupe cleanup; kw_ask.py patched to v3 to disable broken --cloud path)._
 _Source archive: [shorttack/aberdeen-group-archive](https://github.com/shorttack/aberdeen-group-archive)._
 _Wiki repo: [shorttack/kastner-aberdeen-wiki](https://github.com/shorttack/kastner-aberdeen-wiki)._

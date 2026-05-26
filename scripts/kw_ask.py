@@ -1,33 +1,24 @@
 #!/usr/bin/env python3
-"""kw_ask.py — chatbox over the Kastner Aberdeen Wiki via bge-m3 RAG.
+"""kw_ask.py v2 — chatbox over the Kastner Aberdeen Wiki via bge-m3 RAG.
+
+v2 changes:
+  - Disable model "thinking" via Ollama's `think: false` (qwen3.5 emits
+    long <think>...</think> blocks otherwise, eating the entire token budget)
+  - Belt-and-suspenders: strip any <think>...</think> blocks from output
+  - Bump num_predict to 2000 by default (synthesis answers can be long)
+  - Show explicit error message if Ollama returns empty response
 
 Workflow:
   1. Embed your question with bge-m3 via local Ollama
-  2. Cosine-similarity match against data/embeddings.parquet (10,299 pages)
+  2. Cosine-similarity match against data/embeddings.parquet
   3. Load the top-k page contents, build a context bundle
   4. Send to local LLM (qwen3.5:27b-mlx by default) for synthesis
   5. Stream the response, show sources at the end
-
-Usage:
-  kw ask "what did Aberdeen get right about cloud computing?"
-  kw ask "agentic AI in enterprise" --k 10
-  kw ask "Intel manufacturing strategy" --model qwen3.5:35b-mlx
-  kw ask "ATM vs Ethernet 1995-1998" --cloud         # route to Claude via pplx
-  kw ask "rural broadband BEAD economics" --no-stream
-
-Flags:
-  --k N            Number of source pages to retrieve (default: 6)
-  --model NAME     Ollama model for synthesis (default: qwen3.5:27b-mlx)
-  --cloud          Use Claude Sonnet via `pplx ask` instead of local LLM
-  --no-stream      Wait for full response, don't stream tokens
-  --type TYPE      Restrict retrieval to one page_type (study, entity, technology, theme, ...)
-  --no-llm         Just show the retrieval hits, skip synthesis (semantic search only)
-  --temperature F  LLM temperature (default: 0.3)
-  --max-tokens N   Max tokens in response (default: 1200)
 """
 import argparse
 import os
 import sys
+import re
 import json
 import subprocess
 import time
@@ -44,7 +35,9 @@ WIKI_ROOT = ROOT / "wiki"
 OLLAMA_URL = "http://localhost:11434"
 EMBED_MODEL = "bge-m3"
 DEFAULT_LLM = "qwen3.5:27b-mlx"
-PAGE_CHARS = 2000  # per-page context budget
+PAGE_CHARS = 2000
+
+THINK_RE = re.compile(r"<think>.*?</think>\s*", flags=re.DOTALL | re.IGNORECASE)
 
 
 def embed_query(text: str) -> np.ndarray:
@@ -59,22 +52,6 @@ def embed_query(text: str) -> np.ndarray:
     return v
 
 
-def _derive_type(path: str) -> str:
-    parts = path.split("/")
-    folder = parts[-2] if len(parts) >= 2 else ""
-    return {
-        "entities": "entity",
-        "studies": "study",
-        "technologies": "technology",
-        "codes": "code",
-        "collections": "collection",
-        "decades": "decade",
-        "themes": "theme",
-        "volume-1": "volume-1",
-        "bases": "base",
-    }.get(folder, folder or "unknown")
-
-
 def retrieve(query: str, k: int = 6, page_type: str | None = None):
     qv = embed_query(query)
     df = duckdb.sql(
@@ -82,7 +59,6 @@ def retrieve(query: str, k: int = 6, page_type: str | None = None):
         f"FROM '{EMB_PARQUET}' "
         f"WHERE vector IS NOT NULL"
     ).df()
-    # Some old embedding files used 'path'/'embedding'; this build uses 'page_path'/'vector'
     if page_type:
         df = df[df["page_type"] == page_type].reset_index(drop=True)
     if len(df) == 0:
@@ -102,7 +78,6 @@ def load_page_content(page_path: str, char_budget: int = PAGE_CHARS) -> str:
     if not full.exists():
         return ""
     txt = full.read_text(encoding="utf-8", errors="replace")
-    # Strip frontmatter for the LLM (it's noise for synthesis)
     if txt.startswith("---\n"):
         end = txt.find("\n---\n", 4)
         if end > 0:
@@ -114,6 +89,8 @@ def build_prompt(question: str, hits) -> str:
     chunks = []
     for i, (_, h) in enumerate(hits.iterrows(), 1):
         body = load_page_content(h["page_path"])
+        if not body:
+            continue
         chunks.append(
             f"[{i}] {h['title']} ({h['page_type']}, slug={h['slug']}, "
             f"sim={h['score']:.3f})\n{body}"
@@ -125,6 +102,8 @@ using ONLY the source pages below. Cite sources by slug in square brackets,
 e.g. [intel-corporation-longitudinal]. If the sources don't contain a
 reliable answer, say so plainly — do not speculate.
 
+Be direct. Do not deliberate. Start your answer with the conclusion.
+
 QUESTION: {question}
 
 SOURCE PAGES:
@@ -133,11 +112,55 @@ SOURCE PAGES:
 ANSWER (be specific, cite slugs, ~250-400 words):"""
 
 
+class ThinkStripper:
+    """Stream filter that removes <think>...</think> blocks token-by-token."""
+    def __init__(self):
+        self.buf = ""
+        self.in_think = False
+
+    def feed(self, chunk: str) -> str:
+        out = []
+        self.buf += chunk
+        while self.buf:
+            if self.in_think:
+                end = self.buf.find("</think>")
+                if end < 0:
+                    self.buf = ""  # consume but don't emit
+                    return ""
+                self.buf = self.buf[end + len("</think>"):]
+                self.in_think = False
+                # Skip leading whitespace after </think>
+                self.buf = self.buf.lstrip()
+                continue
+            start = self.buf.find("<think>")
+            if start < 0:
+                # No <think> tag in buffer — emit everything we can
+                # but hold back last 8 chars in case "<think>" is being assembled
+                if len(self.buf) <= 8:
+                    return "".join(out)
+                emit = self.buf[:-8]
+                self.buf = self.buf[-8:]
+                out.append(emit)
+                return "".join(out)
+            # Emit text before <think>, then enter think mode
+            if start > 0:
+                out.append(self.buf[:start])
+            self.buf = self.buf[start + len("<think>"):]
+            self.in_think = True
+        return "".join(out)
+
+    def flush(self) -> str:
+        if self.in_think:
+            return ""
+        return self.buf
+
+
 def synthesize_local(prompt: str, model: str, stream: bool, temperature: float, max_tokens: int) -> str:
     payload = {
         "model": model,
         "prompt": prompt,
         "stream": stream,
+        "think": False,  # disable qwen3.5 reasoning blocks
         "options": {
             "temperature": temperature,
             "num_ctx": 16384,
@@ -147,6 +170,7 @@ def synthesize_local(prompt: str, model: str, stream: bool, temperature: float, 
     }
     if stream:
         full = []
+        stripper = ThinkStripper()
         with requests.post(
             f"{OLLAMA_URL}/api/generate", json=payload, stream=True, timeout=600
         ) as r:
@@ -155,24 +179,40 @@ def synthesize_local(prompt: str, model: str, stream: bool, temperature: float, 
                 if not line:
                     continue
                 obj = json.loads(line)
+                if "error" in obj:
+                    print(f"\n[ollama error] {obj['error']}", file=sys.stderr)
+                    sys.exit(1)
                 tok = obj.get("response", "")
                 if tok:
-                    print(tok, end="", flush=True)
-                    full.append(tok)
+                    visible = stripper.feed(tok)
+                    if visible:
+                        print(visible, end="", flush=True)
+                        full.append(visible)
                 if obj.get("done"):
+                    tail = stripper.flush()
+                    if tail:
+                        print(tail, end="", flush=True)
+                        full.append(tail)
                     break
         print()
-        return "".join(full)
+        out = "".join(full).strip()
+        if not out:
+            print("[kw] WARNING: model returned no visible content. "
+                  "Try --model qwen3.5:35b-mlx or --cloud.", file=sys.stderr)
+        return out
     else:
         r = requests.post(f"{OLLAMA_URL}/api/generate", json=payload, timeout=600)
         r.raise_for_status()
         ans = r.json().get("response", "")
-        print(ans)
+        ans = THINK_RE.sub("", ans).strip()
+        if not ans:
+            print("[kw] WARNING: model returned no visible content.", file=sys.stderr)
+        else:
+            print(ans)
         return ans
 
 
 def synthesize_cloud(prompt: str, stream: bool) -> str:
-    """Route to Claude Sonnet via `pplx ask`. Requires pplx CLI on PATH."""
     cmd = ["pplx", "ask", "--model", "claude_sonnet_4_6"]
     proc = subprocess.run(cmd, input=prompt, capture_output=True, text=True, timeout=600)
     if proc.returncode != 0:
@@ -185,24 +225,25 @@ def synthesize_cloud(prompt: str, stream: bool) -> str:
 def main():
     p = argparse.ArgumentParser(prog="kw ask", description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("question", nargs="+", help="Your question (will be joined)")
-    p.add_argument("--k", type=int, default=6, help="Number of source pages (default 6)")
-    p.add_argument("--model", default=DEFAULT_LLM, help="Ollama model for synthesis")
-    p.add_argument("--cloud", action="store_true", help="Use Claude via pplx ask")
-    p.add_argument("--no-stream", action="store_true", help="Don't stream tokens")
+    p.add_argument("question", nargs="+")
+    p.add_argument("--k", type=int, default=6)
+    p.add_argument("--model", default=DEFAULT_LLM)
+    p.add_argument("--cloud", action="store_true")
+    p.add_argument("--no-stream", action="store_true")
     p.add_argument("--type", help="Restrict retrieval to one page type")
-    p.add_argument("--no-llm", action="store_true", help="Just show retrieval hits")
+    p.add_argument("--no-llm", action="store_true")
     p.add_argument("--temperature", type=float, default=0.3)
-    p.add_argument("--max-tokens", type=int, default=1200)
+    p.add_argument("--max-tokens", type=int, default=2000)
+    p.add_argument("--show-think", action="store_true",
+                   help="Don't strip <think> blocks (debugging)")
     args = p.parse_args()
 
     question = " ".join(args.question).strip()
     if not question:
         p.error("question is empty")
 
-    # Sanity checks
     if not EMB_PARQUET.exists():
-        print(f"ERROR: {EMB_PARQUET} not found. Run scripts/reembed.py first.", file=sys.stderr)
+        print(f"ERROR: {EMB_PARQUET} not found.", file=sys.stderr)
         sys.exit(1)
 
     t0 = time.time()
@@ -212,7 +253,7 @@ def main():
     print(f"[kw] retrieved {len(hits)} hits in {t_ret:.2f}s", file=sys.stderr)
 
     if len(hits) == 0:
-        print("No matches found. Check page_type filter or vault state.", file=sys.stderr)
+        print("No matches found.", file=sys.stderr)
         sys.exit(1)
 
     if args.no_llm:
@@ -224,8 +265,14 @@ def main():
         return
 
     prompt = build_prompt(question, hits)
-    print(f"[kw] synthesizing with {'Claude (cloud)' if args.cloud else args.model}...", file=sys.stderr)
+    print(f"[kw] synthesizing with {'Claude (cloud)' if args.cloud else args.model}...",
+          file=sys.stderr)
     print()
+
+    # Optionally bypass strip for debugging
+    if args.show_think:
+        global THINK_RE
+        THINK_RE = re.compile(r"(?!a)a")  # never matches
 
     if args.cloud:
         synthesize_cloud(prompt, stream=not args.no_stream)
@@ -235,7 +282,6 @@ def main():
             temperature=args.temperature, max_tokens=args.max_tokens,
         )
 
-    # Sources footer
     print("\n--- Sources ---", file=sys.stderr)
     for _, h in hits.iterrows():
         print(f"  [{h['score']:.3f}] {h['slug']:50s}  ({h['page_type']})", file=sys.stderr)

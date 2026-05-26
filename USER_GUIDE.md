@@ -21,13 +21,14 @@
 4. [Cookbook: DuckDB queries](#4-cookbook-duckdb-queries)
 5. [Cookbook: Obsidian Dataview](#5-cookbook-obsidian-dataview)
 6. [Cookbook: semantic search (bge-m3)](#6-cookbook-semantic-search-bge-m3)
+6.5 [Cookbook: `kw ask` — the RAG chatbox](#65-cookbook-kw-ask--the-rag-chatbox)
 7. [Cookbook: hybrid LLM research workflows](#7-cookbook-hybrid-llm-research-workflows)
 8. [Cookbook: longitudinal & thesis workflows](#8-cookbook-longitudinal--thesis-workflows)
 9. [Cookbook: citation discovery](#9-cookbook-citation-discovery)
 10. [Cookbook: code & methodology dictionary](#10-cookbook-code--methodology-dictionary)
 11. [Performance tips](#11-performance-tips)
 12. [Schema reference](#12-schema-reference)
-13. [Known limitations (v1.5)](#13-known-limitations-v15)
+13. [Known limitations (v1.5.1)](#13-known-limitations-v151)
 
 ---
 
@@ -85,7 +86,10 @@ Each cookbook section below covers one approach with copy-paste examples.
 ## 3. Setup (one-time)
 
 ```bash
-# Clone the wiki
+# Clone the wiki — NOTE: do NOT clone into ~/Desktop or ~/Documents
+# on macOS; those paths are iCloud-synced and will corrupt git working trees.
+# Use ~/Repos/ or ~/Code/ instead.
+mkdir -p ~/Repos && cd ~/Repos
 git clone https://github.com/shorttack/kastner-aberdeen-wiki.git
 cd kastner-aberdeen-wiki
 
@@ -101,6 +105,12 @@ ollama pull bge-m3
 
 # Optional: hybrid LLM workflows
 ollama pull qwen3.5:27b-mlx   # or any 7B+ model
+
+# Optional: install the kw CLI (one-shot RAG chatbox, see §6.5)
+mkdir -p ~/bin && cp bin/kw ~/bin/kw && chmod +x ~/bin/kw
+echo 'export PATH="$HOME/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+kw verify    # confirm vault + embeddings + DuckDB are intact
 ```
 
 **Opening in Obsidian:**
@@ -605,6 +615,118 @@ print(df.iloc[top][["slug", "path"]])
 
 ---
 
+## 6.5. Cookbook: `kw ask` — the RAG chatbox
+
+Shipped in v1.5.1. `kw ask` wraps bge-m3 retrieval + qwen3.5 synthesis (or
+cloud Claude Sonnet) into a single command. It is the fastest way to ask a
+natural-language question against the entire vault.
+
+### Prerequisites
+
+```bash
+ollama serve &                 # if not already running
+ollama pull bge-m3             # 1024-dim retriever, ~1.2 GB
+ollama pull qwen3.5:27b-mlx    # synthesizer, ~16 GB (or 35b-mlx, ~22 GB)
+```
+
+Confirm the kw CLI is on your `$PATH` (see §3 setup). `kw` is dispatched
+by `bin/kw`; the Python core lives at `scripts/kw_ask.py`.
+
+### Example 27a — Ask a question, get a cited answer
+
+```bash
+kw ask "what did Aberdeen get right about cloud computing?"
+```
+
+Returns a 3-5 paragraph synthesis with `[N]`-style numbered citations back
+to the wiki page slugs that were retrieved. The 4 sources shown are the
+actual pages whose embeddings scored highest against the query.
+
+### Example 27b — Retrieval only (no LLM)
+
+```bash
+kw search "agentic AI"
+```
+
+Returns the top-k retrieved page slugs with cosine-similarity scores. Use
+this when you want to discover relevant pages, not synthesize an answer.
+Same backbone `kw ask` uses; just stops after retrieval.
+
+### Example 27c — Tune the answer
+
+| Flag | Effect | Default |
+|---|---|---|
+| `--k N` | Retrieve top-N pages | 8 |
+| `--type TYPE` | Restrict to one page type (`study`, `entity`, `technology`, `code`, `decade`, `theme`, `collection`) | all |
+| `--model NAME` | Override Ollama synthesizer | `qwen3.5:27b-mlx` |
+| `--cloud` | Use Claude Sonnet 4.6 via `pplx` instead of local Ollama | off |
+| `--no-stream` | Disable token-by-token streaming output | streaming on |
+| `--no-llm` | Retrieval-only (same as `kw search`) | off |
+| `--temperature F` | Sampling temperature | 0.2 |
+| `--max-tokens N` | Cap on response length | 2000 |
+| `--show-think` | Show qwen `<think>` deliberation blocks (debug) | hidden |
+
+```bash
+# Focus on study pages only, top-5
+kw ask "how did Aberdeen frame ERP failure rates?" --type study --k 5
+
+# Use cloud Claude when local model is too slow
+kw ask "what's the lifecycle of CASE tools?" --cloud
+
+# Use the bigger qwen for tricky synthesis
+kw ask "compare Aberdeen's ATM vs Ethernet thesis evolution 1995-2000" \
+  --model qwen3.5:35b-mlx --max-tokens 3000
+```
+
+### Example 27d — Other `kw` subcommands
+
+```bash
+kw verify              # full vault + embeddings + DuckDB self-test
+kw cd                  # cd into ~/Repos/kastner-aberdeen-wiki (alias)
+kw rebuild-embeddings  # regenerate data/embeddings.parquet (see below)
+```
+
+### Example 27e — Rebuilding the embedding index
+
+`scripts/reembed.py` walks every `wiki/**/*.md`, re-embeds the page with
+bge-m3, and writes `data/embeddings.parquet` (zstd-compressed). It is **not
+incremental** — the full vault is re-embedded every run (~12 minutes for
+10,285 pages on an M4 Pro). Required flag: `--model <hf-model>` OR
+`--ollama <name>`.
+
+```bash
+# Re-embed via Ollama bge-m3 (recommended, what kw ships with)
+python3 scripts/reembed.py --ollama bge-m3
+
+# Or via local HuggingFace sentence-transformers
+python3 scripts/reembed.py --model BAAI/bge-m3
+
+# Same as the above, but driven by the kw CLI:
+kw rebuild-embeddings
+```
+
+After a rebuild, commit `data/embeddings.parquet` so other clones can pull
+the same index without re-embedding (the parquet is ~56 MB and well within
+git's comfort zone).
+
+### Why the launcher exists
+
+- Provides `kw ask` as a memorable verb (no `python3 scripts/kw_ask.py ...`)
+- Resolves `KW_ROOT` even if you're cd'd elsewhere
+- Auto-detects whether Ollama is running and warns clearly if not
+- Stays out of `$PATH` collisions by living in `~/bin/`
+
+### Known quirk: qwen3.5 thinking blocks
+
+qwen3.5-mlx is a "thinking" model and will emit `<think>...</think>` blocks
+before its real answer. `kw_ask.py` v2 (shipped in v1.5.1) handles this two
+ways: it passes `think: false` in the Ollama payload, and it streams the
+response through a `ThinkStripper` that removes any block the model emits
+anyway. If you ever see empty output from `kw ask`, run with `--show-think`
+to debug, then file an issue.
+
+---
+
 ## 7. Cookbook: hybrid LLM research workflows
 
 Combine DuckDB filtering + local Ollama for synthesis. Cloud LLM (Claude
@@ -1049,9 +1171,10 @@ Tech pages additionally carry: `tech_id`, `category`, `vendor`, `era`,
 
 ---
 
-## 13. Known limitations (v1.5)
+## 13. Known limitations (v1.5.1)
 
 These are documented in `v1.5_phase1_anomalies_v1.md` in the source archive.
+Items marked ✅ were resolved in v1.5.1; the rest are deferred to v1.6.
 
 1. **350/1,434 studies (24%) lack `pub_year`** — date column was empty or
    non-parseable. Affects decade-slice queries.
@@ -1061,10 +1184,12 @@ These are documented in `v1.5_phase1_anomalies_v1.md` in the source archive.
 3. **1,323/4,312 technologies (31%) have `occurrence_count=0`** — same root.
 4. **Prescience coverage is partial** — only Bucket A+B (308 studies, 2,723
    obs) scored in Pass C. Bucket C+D coming in v1.6.
-5. **6 collections, not the originally-planned 14** — `collection` vs `theme`
-   conflation in master CSV; theme rollup pages are deferred to v1.6.
-6. **Volume-1 chapter pages not yet emitted** — requires memoir source text
-   integration. Deferred to v1.6.
+5. **✅ Theme rollup pages emitted in v1.5.1** — 19 themes now ship as
+   first-class pages under `wiki/themes/`. Collections still at 6 (mapped from
+   the 6 actual master-CSV collections).
+6. **✅ Volume-1 chapter pages emitted in v1.5.1** — 14 chapters under
+   `wiki/volume-1/`. Note: dupe study-stubs under `wiki/studies/` were removed
+   in v1.5.1; if you cloned between the cherry-pick and the cleanup, re-pull.
 7. **230 obs flagged confidence=1** — Pass C scored these with low confidence;
    they're queued for cloud-LLM sweep before being trusted. See
    `v_low_confidence_prescience`.
@@ -1080,8 +1205,10 @@ These are documented in `v1.5_phase1_anomalies_v1.md` in the source archive.
 | Find the most-prescient studies | DuckDB `v_top_prescient_studies` | 1 |
 | Track an entity over time | DuckDB join through `v_entity_studies` | 31 |
 | Browse while reading | Obsidian Dataview | 17-22 |
-| Search by concept | bge-m3 semantic search | 25 |
+| Ask a natural-language question | `kw ask "..."` | 27a |
+| Search by concept | bge-m3 semantic search OR `kw search` | 25, 27b |
 | Synthesize across studies | hybrid DuckDB + local LLM | 28-30 |
+| Rebuild the embedding index | `kw rebuild-embeddings` | 27e |
 | Find citations of an entity | DuckDB or Obsidian Graph | 9, 36 |
 | Build a vendor history | DuckDB longitudinal slice | 31 |
 | Understand methodology vocabulary | DuckDB `v_codes` | 38-41 |
@@ -1089,6 +1216,6 @@ These are documented in `v1.5_phase1_anomalies_v1.md` in the source archive.
 
 ---
 
-_Last updated: 2026-05-26 (v1.5 build)._
+_Last updated: 2026-05-26 (v1.5.1 build — adds `kw ask` chatbox §6.5, Volume-1 chapters, 19 themes, dupe cleanup)._
 _Source archive: [shorttack/aberdeen-group-archive](https://github.com/shorttack/aberdeen-group-archive)._
 _Wiki repo: [shorttack/kastner-aberdeen-wiki](https://github.com/shorttack/kastner-aberdeen-wiki)._

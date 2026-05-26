@@ -1201,6 +1201,18 @@ Items marked ✅ were resolved in v1.5.1; the rest are deferred to v1.6.
    `v_low_confidence_prescience`.
 8. **1 orphan prescience score** — `obs_id` in Pass C output that doesn't
    exist in `_master_observations.csv`. Cosmetic; ignore.
+9. **Provenance gap: known-missing source studies** — a small number of
+   high-importance studies are known to exist but have not been recovered
+   into the archive. They are tracked in `_missing_sources.csv` in the
+   source archive (a 14-column CSV: id, title, author, publisher, year/month,
+   length, domain, thesis, importance, wiki stub path, recovery notes,
+   status, date logged). Each gets a `status: missing-source` stub page in
+   `wiki/studies/` so RAG and graph queries can surface the gap rather than
+   silently miss it. Current entries: Robbins 1991 ATM (founding networking
+   thesis, ~100pp), Casale 1989 computational chemistry (hard copy held,
+   pending scan), Kastner 1987 Yankee Group transaction processing
+   (ghostwritten for John Logan). See `_missing_sources.csv` for the
+   canonical registry.
 
 ---
 

@@ -29,3 +29,8 @@ prescience_obs_count: 0
 - Users plan ATM backbone implementation in 1996 timeframe — [[study-aberdeen-1995-3com-lanplex-2500]]
 - ATM uplinks shipped but ATM failed to achieve predicted workgroup dominance; Gigabit Ethernet emerged as alternative by 1997-1998 — [[study-aberdeen-1995-3com-lanplex-2500]]
 - ATM did NOT become the desktop/workgroup successor; Gigabit Ethernet (1998) and 10GbE (2002) won. ATM limited to WAN/carrier backbones. — [[study-aberdeen-1995-3com-lanplex-2500]]
+
+
+## Provenance
+
+> The 1991 founding artifact for Aberdeen's ATM thesis is a known missing source: [[study-aberdeen-1991-robbins-atm-future]] (Charles T. Robbins under Tom Willmott, ~100 pages, January 1991). See `_missing_sources.csv` in the source archive for the canonical missing-sources registry.

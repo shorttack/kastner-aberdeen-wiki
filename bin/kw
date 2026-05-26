@@ -1,0 +1,82 @@
+#!/usr/bin/env bash
+# kw — wiki tool launcher. Single dispatcher for kastner-aberdeen-wiki ops.
+#
+# Install: copy this file to ~/bin/kw or /usr/local/bin/kw, chmod +x.
+# Set KW_ROOT to point at your wiki clone if it's not at ~/Repos/kastner-aberdeen-wiki.
+#
+# Usage:
+#   kw ask "your question"              # RAG chatbox via bge-m3 + qwen3.5:27b-mlx
+#   kw ask "..." --cloud                # use Claude Sonnet for synthesis
+#   kw ask "..." --no-llm               # retrieval only (semantic search)
+#   kw ask "..." --type study           # restrict to one page type
+#   kw ask "..." --k 12                 # more sources
+#   kw search "..."                     # alias for ask --no-llm
+#   kw verify                           # run scripts/verify.py
+#   kw rebuild-embeddings               # run scripts/reembed.py --ollama bge-m3
+#
+set -e
+
+KW_ROOT="${KW_ROOT:-$HOME/Repos/kastner-aberdeen-wiki}"
+
+if [[ ! -d "$KW_ROOT" ]]; then
+  echo "kw: KW_ROOT not found: $KW_ROOT" >&2
+  echo "kw: set KW_ROOT or clone the wiki to ~/Repos/kastner-aberdeen-wiki" >&2
+  exit 1
+fi
+
+cmd="${1:-help}"
+shift || true
+
+case "$cmd" in
+  ask)
+    exec python3 "$KW_ROOT/scripts/kw_ask.py" "$@"
+    ;;
+  search)
+    exec python3 "$KW_ROOT/scripts/kw_ask.py" --no-llm "$@"
+    ;;
+  verify)
+    exec python3 "$KW_ROOT/scripts/verify.py"
+    ;;
+  rebuild-embeddings)
+    cd "$KW_ROOT"
+    exec python3 scripts/reembed.py --ollama bge-m3
+    ;;
+  cd)
+    echo "$KW_ROOT"
+    ;;
+  help|--help|-h|"")
+    cat <<EOF
+kw — Kastner Aberdeen Wiki launcher
+
+Subcommands:
+  ask QUESTION              RAG chatbox: bge-m3 retrieval + qwen3.5:27b synthesis
+  search QUESTION           Semantic search only (no LLM)
+  verify                    Run vault integrity check
+  rebuild-embeddings        Re-embed all pages with bge-m3
+  cd                        Print KW_ROOT (use: cd \$(kw cd))
+
+Common flags for 'ask':
+  --k N                     Sources to retrieve (default 6)
+  --model NAME              Local Ollama model (default qwen3.5:27b-mlx)
+  --cloud                   Use Claude Sonnet via pplx ask
+  --type TYPE               study|entity|technology|theme|volume-1|...
+  --no-stream               Wait for full response
+  --no-llm                  Just show retrieval hits
+  --temperature F           Default 0.3
+  --max-tokens N            Default 1200
+
+Examples:
+  kw ask "what did Aberdeen get right about cloud computing?"
+  kw ask "Intel manufacturing strategy 2003-2010" --type theme
+  kw ask "agentic AI in enterprise" --k 12 --cloud
+  kw search "ATM versus Ethernet backbone" --k 20
+
+Current wiki: $KW_ROOT
+EOF
+    ;;
+  *)
+    echo "kw: unknown subcommand: $cmd" >&2
+    echo "kw: run 'kw help' for usage" >&2
+    exit 1
+    ;;
+esac

@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""kw_ask.py v2 — chatbox over the Kastner Aberdeen Wiki via bge-m3 RAG.
+"""kw_ask.py v3 — chatbox over the Kastner Aberdeen Wiki via bge-m3 RAG.
+
+v3 changes:
+  - `--cloud` flag is now a stub: prints a clear error directing the user to
+    `--model qwen3.5:35b-mlx` instead. No more `FileNotFoundError: pplx` traceback.
+  - Cloud synthesis is reserved for a future release when an API-key-backed
+    provider is wired in (Anthropic, Perplexity Sonar API, OpenAI, or Gemini).
 
 v2 changes:
   - Disable model "thinking" via Ollama's `think: false` (qwen3.5 emits
@@ -213,13 +219,24 @@ def synthesize_local(prompt: str, model: str, stream: bool, temperature: float, 
 
 
 def synthesize_cloud(prompt: str, stream: bool) -> str:
-    cmd = ["pplx", "ask", "--model", "claude_sonnet_4_6"]
-    proc = subprocess.run(cmd, input=prompt, capture_output=True, text=True, timeout=600)
-    if proc.returncode != 0:
-        print(f"[pplx] error: {proc.stderr}", file=sys.stderr)
-        sys.exit(1)
-    print(proc.stdout)
-    return proc.stdout
+    """Stub. Cloud synthesis is not currently wired to any provider.
+
+    Previous v1/v2 shelled out to an internal `pplx` CLI that isn't
+    distributable. To re-enable cloud synthesis in a future release, wire
+    one of: Anthropic (ANTHROPIC_API_KEY), Perplexity Sonar API (PPLX_API_KEY),
+    OpenAI (OPENAI_API_KEY), or Gemini (GEMINI_API_KEY). All require a
+    paid/metered key the user must obtain themselves.
+    """
+    print(
+        "[kw] --cloud is not currently available. Cloud synthesis requires a\n"
+        "     paid API key (Anthropic, Perplexity Sonar API, OpenAI, or Gemini)\n"
+        "     that this build doesn't have wired in. For now, use the local\n"
+        "     models which are production-grade for this archive:\n\n"
+        "       kw ask \"...\"                              # qwen3.5:27b-mlx (default)\n"
+        "       kw ask \"...\" --model qwen3.5:35b-mlx     # bigger, slower, smarter\n",
+        file=sys.stderr,
+    )
+    sys.exit(2)
 
 
 def main():

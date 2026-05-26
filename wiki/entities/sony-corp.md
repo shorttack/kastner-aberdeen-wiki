@@ -1,0 +1,28 @@
+---
+title: "Sony Corporation"
+slug: "sony-corp"
+page_type: "entity"
+tags: ["type/entity", "entity-type/company"]
+tier: 2
+source_csv: "_master_entities.csv"
+entity_id: "sony-corp"
+entity_type: "company"
+sector: "consumer-electronics"
+status: "active"
+successor: ""
+years_active: "1946-present"
+occurrence_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Sony Corporation
+
+> Japanese electronics maker; cited as restricting retail PC shipments 2002
+
+
+## Top observations
+
+- Sony competing on premium features and design vs Dell price play — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
+- Sony exited US PDA market in 2004 — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]

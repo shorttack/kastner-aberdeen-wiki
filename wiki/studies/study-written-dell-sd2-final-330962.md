@@ -1,0 +1,34 @@
+---
+title: "==> picture [460 x 434] intentionally omitted <=="
+slug: "study-written-dell-sd2-final-330962"
+page_type: "study"
+tags: ["type/study", "collection/market-study"]
+tier: 1
+source_csv: "_master_studies.csv"
+study_id: "written-dell-sd2-final-330962"
+author: "Aberdeen Group"
+date: ""
+pub_year: 0
+type: "market-study"
+subject_domain: "supply-chain"
+methodology: "industry-analysis, prepared-candidate-finalization"
+source_file: "Written__Dell_SD2_FINAL.pdf"
+license: "CC-BY-4.0"
+importance: "medium"
+relevance: "medium"
+study_prescience_enum: "[DEFERRED]"
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
+---
+
+# ==> picture [460 x 434] intentionally omitted <==
+
+> This study analyzes ==> picture [460 x 434] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+## Top observations
+
+- According to a recent survey, we found nearly 80 percent of our customers are needlessly storing old equipment.** `[ps=4]`
+- Hardware values decline an average of 6 percent per month, and Dell Asset Recovery Services’ value schedules are updated monthly to reflect current market prices.** `[ps=4]`
+- **Nearly 80 percent of customers store unwanted hardware**

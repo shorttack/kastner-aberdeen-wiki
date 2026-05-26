@@ -1,0 +1,37 @@
+---
+title: "==> picture [536 x 110] intentionally omitted <=="
+slug: "study-grandopening092004f-a944eb"
+page_type: "study"
+tags: ["type/study", "collection/benchmark"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "grandopening092004f-a944eb"
+author: "Aberdeen Group"
+date: "2004-01-01"
+pub_year: 2004
+type: "benchmark"
+subject_domain: "technology-market-analysis"
+methodology: "industry-analysis, prepared-candidate-finalization"
+source_file: "grandopening092004f.pdf"
+license: "CC-BY-4.0"
+importance: "medium"
+relevance: "medium"
+study_prescience_enum: "[DEFERRED]"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# ==> picture [536 x 110] intentionally omitted <==
+
+> This study analyzes ==> picture [536 x 110] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2004, author **Aberdeen Group**, type **benchmark**._
+
+
+## Top observations
+
+- Why pay $10,000’s for access to research which is often times of limited value and suspect quality?
+- **Aberdeen** _**Access**_ makes the highest quality research, metrics and tools available to everyone for only $399 per year. **Join by October 15th and save $150 by taking advantage of our Grand Opening price of only $249 per year** .
+- **Grand Prize:** $1,000 Amex Gift Card

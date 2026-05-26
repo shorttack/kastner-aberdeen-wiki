@@ -1,0 +1,13 @@
+filters:
+  - page_type = "technology"
+columns:
+  - title
+  - category
+  - vendor
+  - era
+  - lifecycle_at_study
+  - lifecycle_current
+  - occurrence_count
+sort:
+  - field: occurrence_count
+    direction: desc

@@ -1,0 +1,55 @@
+---
+title: "Eclipsys SunriseXA 3.3 Meets Subsecond Response Time Objective"
+slug: "study-auditor-report-4-43ad9b"
+page_type: "study"
+tags: ["type/study", "collection/benchmark"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "auditor-report-4-43ad9b"
+author: "Peter S. Kastner"
+date: "2004-04"
+pub_year: 2004
+type: "benchmark"
+subject_domain: "Healthcare information systems / clinical software performance benchmarking"
+methodology: "Independent audit of vendor-conducted benchmark; Mercury LoadRunner load simulation; 1-hour and 12-hour sustained load tests; isolation and slow-client tests"
+source_file: "Archive-1/auditor_report_4.doc"
+license: "CC-BY-4.0"
+importance: "medium"
+relevance: "medium"
+study_prescience_enum: "medium"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Eclipsys SunriseXA 3.3 Meets Subsecond Response Time Objective
+
+> Aberdeen Group audit report commissioned by Eclipsys Corp. to independently verify performance benchmarks for SunriseXA Release 3.3, a healthcare clinical information system. Benchmark simulated a 6,000-bed hospital at peak load (5,000 orders/hour, 2.27x the busiest known real hospital rate), executing 65,637 transactions in one steady-state hour via Mercury LoadRunner. Results confirmed subsecond response times for 4 of 5 transaction categories; only administrative log-on (multi-patient download) and batch group-order transactions exceeded 1 second. Database server CPU utilization was only 40% at peak. Aberdeen concludes Eclipsys successfully resolved response time issues identified in October 2003.
+
+
+_Published 2004, author **Peter S. Kastner**, type **benchmark**._
+
+
+## Top observations
+
+- 65,637 transactions
+- >1,000 transactions per minute
+- 40%
+- 0.54s avg (geom); 1.62s 99th pct; 6,525 transactions
+- 0.12s avg (geom); 0.36s 99th pct; 17,986 transactions
+- 0.09s avg (geom); 0.25s 99th pct; 21,549 transactions
+- 0.11s avg (geom); 0.51s 99th pct; 13,073 transactions
+- 0.18s avg (geom); 0.62s 99th pct; 6,504 transactions
+- 8 of 82 transaction types
+- 11.85 seconds
+- 721,158 transactions over 715 minutes
+- 6,000-bed hospital at 5,000 orders/hour = 2.27x busiest known real hospital (2,200 orders/hour)
+- 82 different transaction types
+- Acceptable; response times similar to LoadRunner results on Pentium III 750-MHz 256MB via 11-Mbps wireless
+- Comparable scalability; capable of handling high-end volume workloads
+- Sub-2-second for all transaction types
+- Early summer 2004
+- Viable; sufficient throughput and headroom demonstrated
+- [UNVERIFIED]
+- No perceptible change in response time or throughput when SUT disconnected from wider network
+- 2.50 seconds avg; 99th percentile 6.74 seconds

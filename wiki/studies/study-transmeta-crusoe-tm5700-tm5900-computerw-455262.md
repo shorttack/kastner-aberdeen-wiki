@@ -1,0 +1,42 @@
+---
+title: "Transmeta unveils smaller microprocessors (Crusoe TM5700/TM5900 launch)"
+slug: "study-transmeta-crusoe-tm5700-tm5900-computerw-455262"
+page_type: "study"
+tags: ["type/study", "collection/news-article"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "transmeta-crusoe-tm5700-tm5900-computerw-455262"
+author: "Gillian Law"
+date: "2004-01-05"
+pub_year: 2004
+type: "news-article"
+subject_domain: "low-power-x86-Transmeta-Crusoe-embedded-2004"
+methodology: "news-reporting, product-launch-coverage"
+source_file: "Transmeta-unveils-smaller-microprocessors-8.webarchive"
+license: "CC-BY-4.0"
+importance: "medium"
+relevance: "medium"
+study_prescience_enum: "high"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Transmeta unveils smaller microprocessors (Crusoe TM5700/TM5900 launch)
+
+> IDG News Service report (via Computerworld) on Transmeta's launch of the Crusoe TM5700 and TM5900 x86-compatible processors at 1 GHz in a 21mm-by-21mm package — half the size of the TM5800 — targeting set-top boxes, thin clients, blade servers, portable consumer products. 512KB (TM5900) or 256KB (TM5700) L2 cache, 64-bit DDR SDRAM controller, 32-bit PCI controller, integrated Northbridge. Kastner (Aberdeen EVP/CRO) flags ongoing TM5800 performance complaints (HP TC100 tablet example): 'not been good enough for many of today's applications.'
+
+
+_Published 2004, author **Gillian Law**, type **news-article**._
+
+
+## Top observations
+
+- 21mm x 21mm (0.8-inch square); 50% smaller than TM5800
+- Up to 1 GHz x86-compatible performance
+- 512KB L2 write-back cache (TM5900); 256KB (TM5700); 64KB I-cache + 64KB D-cache; integrated Northbridge; 64-bit DDR SDRAM controller; 32-bit PCI controller
+- 'Transmeta has run into customer concerns over performance with the TM5800, for example in Hewlett-Packards TC100 tablet. Users expect more performance than Transmeta has been able to deliver.' — Kastner
+- Kastner had not been briefed about the new, embedded version of the Crusoe processor but said the power of the processors to date has 'not been good enough for many of todays applications.' — Kastner
+- Reference platform based on TM5900 available in Q1 2004 with schematics, design guides, processor specifications, device drivers
+- No — Transmeta exited processor business 2005 (focused on IP licensing after Efficeon losses), sold IP assets to Novafora 2008, ceased operating 2009. Performance and design-win shortfalls validated Kastner's 'not good enough' thesis.
+- HP TC100 tablet used TM5800; cited by Kastner as performance-complaint venue

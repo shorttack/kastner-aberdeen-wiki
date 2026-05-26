@@ -1,0 +1,32 @@
+---
+title: "The Network Comes Home: Connectivity, Access, and Control"
+slug: "study-homenetworking-toc-0443b2"
+page_type: "study"
+tags: ["type/study", "collection/topic-analysis"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "homenetworking-toc-0443b2"
+author: "Aberdeen Group"
+date: ""
+pub_year: 0
+type: "topic-analysis"
+subject_domain: "ERP"
+methodology: "industry-analysis, prepared-candidate-finalization"
+source_file: "homenetworking-toc.pdf"
+license: "CC-BY-4.0"
+importance: "medium"
+relevance: "medium"
+study_prescience_enum: "[DEFERRED]"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# The Network Comes Home: Connectivity, Access, and Control
+
+> This study analyzes The Network Comes Home: Connectivity, Access, and Control using Aberdeen Group research material and prepared extraction artifacts.
+
+
+## Top observations
+
+- This study analyzes The Network Comes Home: Connectivity, Access, and Control using Aberdeen Group research material and prepared extraction artifacts.

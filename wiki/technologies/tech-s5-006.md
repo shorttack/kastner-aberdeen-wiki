@@ -1,0 +1,29 @@
+---
+title: "Demand-chain Management / Pull-driven SCM"
+slug: "tech-s5-006"
+page_type: "technology"
+tags: ["type/technology", "category/supply-chain-management", "era/1990s-present"]
+tier: 2
+source_csv: "_master_technologies.csv"
+tech_id: "TECH-S5-006"
+category: "supply-chain-management"
+vendor: "industry-concept"
+era: "1990s-present"
+lifecycle_at_study: "early-growth"
+lifecycle_current: "Active (Dell EMC)"
+occurrence_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Demand-chain Management / Pull-driven SCM
+
+> Tested with NonStop VLDB. Legato acquired by EMC 2003; NetWorker continues as Dell Technologies NetWorker.
+
+
+## Top observations
+
+- Positive: manages information flow from customer back through manufacturing enterprise — [[study-1997-industry-matematik-international-co-c398bc]]
+- IMI celebrates 60 years in 2026; six acquisitions since 2021; offices in four countries; doubled revenue and headcount — [[study-1997-industry-matematik-international-co-c398bc]]
+- Must manage: broader product portfolios, multi-national distributors, faster delivery, promotions, lower inventory — [[study-1997-industry-matematik-international-co-c398bc]]

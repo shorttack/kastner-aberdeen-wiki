@@ -1,0 +1,14 @@
+filters:
+  - page_type = "study"
+columns:
+  - title
+  - author
+  - pub_year
+  - type
+  - importance
+  - relevance
+  - study_prescience_enum
+  - prescience_max
+sort:
+  - field: pub_year
+    direction: desc

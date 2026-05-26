@@ -1,0 +1,10 @@
+filters:
+  - page_type = "code"
+columns:
+  - title
+  - code_type
+sort:
+  - field: code_type
+    direction: asc
+  - field: title
+    direction: asc

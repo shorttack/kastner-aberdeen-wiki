@@ -1,0 +1,28 @@
+---
+title: "CommonPoint"
+slug: "commonpoint"
+page_type: "technology"
+tags: ["type/technology", "category/application-framework", "era/unknown"]
+tier: 2
+source_csv: "_master_technologies.csv"
+tech_id: "commonpoint"
+category: "application-framework"
+vendor: "Taligent/IBM"
+era: ""
+lifecycle_at_study: "active"
+lifecycle_current: "discontinued"
+occurrence_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# CommonPoint
+
+> Taligent C++ component framework; Taligent dissolved 1998; CommonPoint discontinued
+
+
+## Top observations
+
+- Aberdeen predicted more OO-adept SoftBench users would use CommonPoint to build collaborative desktop applications on wide hardware range — [[study-aberdeen-1995-hp-softbench]]
+- CommonPoint failed commercially due to extreme learning curve; Taligent dissolved into IBM January 1998; technology merged into Java efforts not C++ SoftBench path — [[study-aberdeen-1995-hp-softbench]]

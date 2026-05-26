@@ -1,0 +1,41 @@
+---
+title: "Microsoft's Move To Mothball Old Code Raises Concerns"
+slug: "study-microsoft-s-move-to-mothball-old-code-ra-724d34"
+page_type: "study"
+tags: ["type/study", "collection/news-article"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "microsoft-s-move-to-mothball-old-code-ra-724d34"
+author: "Sharon Gaudin (Datamation / itmanagement.earthweb.com)"
+date: "2002-06-17"
+pub_year: 2002
+type: "news-article"
+subject_domain: "software-security"
+methodology: "industry-analysis, expert-interview"
+source_file: "Microsoft-s-Move-To-Mothball-Old-Code-Raises-Concerns-7.webarchive"
+license: "CC-BY-4.0"
+importance: "medium"
+relevance: "medium"
+study_prescience_enum: "high"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Microsoft's Move To Mothball Old Code Raises Concerns
+
+> Datamation/EarthWeb article on Microsoft's announcement that it will retire pre-Windows NT 32-bit legacy code (Windows 9x / Windows 95) rather than continue patching vulnerabilities. Peter Kastner (Aberdeen Group CRO) endorses the decision — Microsoft has to make this call to stay true to its 'fix security-prone code' mantra — while noting the collateral pain for the tens of millions still on Windows 9x/95. IDC's Dan Kusnetzky offers contrasting nuance.
+
+
+_Published 2002, author **Sharon Gaudin (Datamation / itmanagement.earthweb.com)**, type **news-article**._
+
+
+## Top observations
+
+- 'I think it's the only answer they could give and still be true to the mantra of: if we find security-prone problems in our code, we will fix it.' Code otherwise working is being ripped out because it has fundamental security flaws.
+- Tens of millions still using Windows 9x, including millions still on Windows 95.
+- Microsoft will say they've been advising enterprise customers for years to move to Windows NT - based on newer 32-bit code.
+- Microsoft announced policy of ripping out legacy pre-NT code rather than patching individual vulnerabilities.
+- 'What will have trouble and what won't depends on what Microsoft finds and what replaces the legacy code. If the new code operates the same…'
+- Kastner and the article imply the old-code retirement is necessary for Microsoft to earn credibility on security.
+- Microsoft Trustworthy Computing produced measurable security improvements: Windows XP SP2 (2004), Vista UAC, defender, certification; 9x formally retired 2006.

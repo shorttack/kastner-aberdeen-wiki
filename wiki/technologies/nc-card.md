@@ -1,0 +1,27 @@
+---
+title: "NC Card (Smart Card)"
+slug: "nc-card"
+page_type: "technology"
+tags: ["type/technology", "category/hardware", "era/1996-2000"]
+tier: 2
+source_csv: "_master_technologies.csv"
+tech_id: "nc-card"
+category: "hardware"
+vendor: "NCI"
+era: "1996-2000"
+lifecycle_at_study: "emerging"
+lifecycle_current: "obsolete"
+occurrence_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# NC Card (Smart Card)
+
+> Smart card for authentication; multi-application capable
+
+
+## Top observations
+
+- Smart card (NC Card) + password/PIN; higher security than magnetic stripe; enables VPN — [[study-netcompute-e6c378]]

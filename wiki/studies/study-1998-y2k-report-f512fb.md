@@ -1,0 +1,59 @@
+---
+title: "Y2K Software Tools Providers 1998"
+slug: "study-1998-y2k-report-f512fb"
+page_type: "study"
+tags: ["type/study", "collection/market-study"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "1998-y2k-report-f512fb"
+author: "Andrew Bochman; Management Support Technology, Inc."
+date: "1998-07-01"
+pub_year: 1998
+type: "market-study"
+subject_domain: "Y2K-remediation"
+methodology: "industry-analysis"
+source_file: "1998 Y2K report.pdf"
+license: "CC-BY-4.0"
+importance: "high"
+relevance: "low"
+study_prescience_enum: "medium"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Y2K Software Tools Providers 1998
+
+> This 57-page Aberdeen Group market report evaluates Year 2000 remediation tools and providers as enterprises face the looming Y2K deadline. Drawing on hundreds of supplier interviews and BA&A service experience, the report profiles 13 tools vendors with proven track records across preparation, impact analysis, conversion, and testing phases. Aberdeen warns that enterprises delaying remediation — particularly those in Europe and Asia planning to begin in 1999 — risk certain IT failures as early as late 1998.
+
+
+_Published 1998, author **Andrew Bochman; Management Support Technology, Inc.**, type **market-study**._
+
+
+## Top observations
+
+- Certain disaster if remediation deferred to 1999
+- Mature — several years on market with refined methodologies
+- Majority started 1-3 years prior (1995-1997)
+- Many waited until 1998 to begin in earnest
+- Will begin affecting non-US enterprises as soon as late 1998
+- Minor disruptions only; no major failures at Y2K rollover
+- Primary platform requiring remediation due to COBOL date handling
+- 2-digit year fields create rollover errors
+- Finding all date-sensitive code instances
+- Applying longer-term code fixes (windowing vs expansion)
+- Last-chance validation of fixed code
+- No robust Y2K project management tooling existed
+- Lack of support for non-IBM Y2K remediation
+- Lack of testing tool breadth
+- Lack of end-to-end tool comprehensiveness
+- Profiled as strong Y2K tools provider
+- Profiled as strong Y2K services provider
+- Profiled as strong Y2K tools provider
+- Profiled as strong Y2K remediation provider
+- Profiled as strong Y2K tools provider
+- Profiled as strong Y2K tools provider
+- Profiled as strong Y2K tools provider
+- Profiled as strong Y2K tools provider
+- Profiled as strong Y2K automated tools provider
+- Based on hundreds of supplier interviews and BA&A services

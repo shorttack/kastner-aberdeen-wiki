@@ -1,0 +1,41 @@
+---
+title: "Refresh or Refurb?"
+slug: "study-pc-refresh-or-refurb-smb-computing-6-37f090"
+page_type: "study"
+tags: ["type/study", "collection/news-article"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "pc-refresh-or-refurb-smb-computing-6-37f090"
+author: "SmallBusinessComputing.com (internet.com)"
+date: "2003-06-15"
+pub_year: 2003
+type: "news-article"
+subject_domain: "small-business-PC-management"
+methodology: "industry-analysis, case-study, expert-opinion"
+source_file: "PC-Refresh-or-Refurb-SMB-Computing-6.webarchive"
+license: "CC-BY-4.0"
+importance: "medium"
+relevance: "low"
+study_prescience_enum: "high"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Refresh or Refurb?
+
+> SmallBusinessComputing.com feature (mid-2003) on the case for small-business PC refresh vs. refurbishment, framed around Windows XP Service Pack 1's stability. Aberdeen analyst Peter S. Kastner endorses mid-2003 as an auspicious time to start or accelerate a PC replacement cycle with Windows XP, notes Aberdeen itself refreshed on the same rationale, and advises that small businesses lacking full-time IT staff should crank up the planning for the recession-disrupted PC replacement cycle. Microsoft product manager Greg Sullivan contributes the vendor view on XP for small business.
+
+
+_Published 2003, author **SmallBusinessComputing.com (internet.com)**, type **news-article**._
+
+
+## Top observations
+
+- Windows XP Pro Service Pack 1 is out in the field and working well indeed. No stability problems here. It's a great client operating system on today's more powerful desktops and laptops.
+- We could not afford the aggravation and potential disruption to our knowledge-worker-driven business of not doing so. Tough medicine, we concluded, but common sense.
+- It's time to crank up the planning for the recession-disrupted PC replacement cycle and with the 21st century.
+- Mid-year is an auspicious time for starting or accelerating a PC replacement cycle with Windows XP.
+- Microsoft product manager Greg Sullivan articulated why small businesses are migrating toward XP.
+- Aberdeen Group refreshed its own PC fleet to Windows XP to avoid disruption and establish case-study credibility for its client recommendations.
+- Windows XP became the dominant corporate desktop OS 2004-2010; remained deployed in enterprises until Microsoft EOL in April 2014.

@@ -1,0 +1,42 @@
+---
+title: "Stratus Readies XA2000 Series to Take on Tandem High End — Computerworld, 2 February 1987 (PSK + Foster quoted)"
+slug: "study-stratus-xa2000-launch-cw-1987-11913f"
+page_type: "study"
+tags: ["type/study", "collection/press-article"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "stratus-xa2000-launch-cw-1987-11913f"
+author: "James Connolly (Computerworld)"
+date: "1987-02-02"
+pub_year: 1987
+type: "press-article"
+subject_domain: "fault-tolerant-computing-product-launch"
+methodology: "industry-analysis, competitive-profiling, expert-opinion"
+source_file: "Stratus-XA20001987-02-02-CW-10.pdf"
+license: "CC-BY-4.0"
+importance: "high"
+relevance: "medium"
+study_prescience_enum: "high"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Stratus Readies XA2000 Series to Take on Tandem High End — Computerworld, 2 February 1987 (PSK + Foster quoted)
+
+> Computerworld feature on the Stratus XA2000 launch (the same family advertised in the ABA Banking Journal ad above). Article reports Stratus is launching a 'full-scale attack' on Tandem with the XA2000 family, pitting the high end against Tandem's 10-month-old NonStop VLX flagship; both vendors claim 50+ transactions/second peak. **William E. Foster, Stratus CEO**, quoted: 'We are selling into a market that has an insatiable appetite for transactions per second' and 'Most new applications for computers tend to be on-line applications. That is really what is driving the market. While people are looking at an on-line application, they have to ask themselves what happens if this thing goes down.' **Peter S. Kastner, manager of marketing support programs for Stratus**, explains the floating-point coprocessor (Motorola 68881) is designed for financial-modeling applications, not scientific/engineering markets. Article reports Stratus officials anticipate near-simultaneous IBM announcement adding XA2000 to **System/88 product line** (under Stratus-IBM OEM). Models 110/120/130/140 use single 40-slot chassis, Motorola 16-MHz 68020 + 68881 coprocessor, VOS Release 6.0 with 32-bit data path, 64MB memory, 64KB cache, 128MB virtual address, 46GB disk. Pricing: $260K-$500K Model 110; $770K-$1.1M Model 140. Yankee Group's Thomas Henkel comments this is Stratus' first move into VLX/IBM 3090 class but questions long-term IBM-Stratus compatibility and Stratus' application/database depth for high-performance TP particularly in manufacturing.
+
+
+_Published 1987, author **James Connolly (Computerworld)**, type **press-article**._
+
+
+## Top observations
+
+- Most new applications for computers tend to be on-line applications. That is really what is driving the market. While people are looking at an on-line application, they have to ask themselves what happens if this thing goes down
+- Both Stratus and Tandem claim 50+ TPS; Stratus designed XA2000 for 45% annual growth in OLTP market over 5 years to >50 TPS averages
+- Model 110 = 15 TPS; Model 120 = 27-29 TPS; Model 130 = 37-40 TPS; Model 140 = 47-53 TPS (ET-1 benchmark)
+- Single 40-slot chassis Models 110-140; Motorola 68020 16-MHz + 68881 coprocessor; VOS 6.0 with 32-bit data path; 64MB memory, 64KB cache, 128MB virtual address, 46GB disk; Model 140 has four tightly-coupled duplicated CPUs
+- $260,000-$500,000 Model 110; $770,000-$1.1M Model 140; transaction-per-second cost half of earlier Stratus products
+- 68881 designed to help users in existing on-line transaction processing markets perform tasks such as financial modeling; no plans to enter scientific/engineering markets
+- Yankee Group Henkel questioned how long IBM will maintain its relationship with Stratus if Stratus' products continue to compete with 3090 mainframes
+- Henkel doubted Stratus had enough application and data base software to support high-performance transaction processing, particularly in growth areas such as manufacturing

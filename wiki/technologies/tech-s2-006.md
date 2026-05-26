@@ -1,0 +1,29 @@
+---
+title: "Electronic Health Records (EHR)"
+slug: "tech-s2-006"
+page_type: "technology"
+tags: ["type/technology", "category/clinical-information-system", "era/1960s-present"]
+tier: 2
+source_csv: "_master_technologies.csv"
+tech_id: "TECH-S2-006"
+category: "clinical-information-system"
+vendor: "Network Computer Inc."
+era: "1960s-present"
+lifecycle_at_study: "early-growth"
+lifecycle_current: "dominant"
+occurrence_count: 2
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Electronic Health Records (EHR)
+
+> ISO-standard smart card for NC user authentication. Concept was ahead of its time; similar approaches now in use (PIV, FIDO2).
+
+
+## Top observations
+
+- Public-private key auth, digital signatures, bank balances — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]
+- 3 factors: understaffed IS, ISV credibility gap, care-provider organizational transition — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]
+- HITECH Act 2009 mandated EHR meaningful use; Epic and Cerner dominated market — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]

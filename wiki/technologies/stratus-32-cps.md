@@ -1,0 +1,35 @@
+---
+title: "Stratus/32 Continuous Processing System"
+slug: "stratus-32-cps"
+page_type: "technology"
+tags: ["type/technology", "category/computer-system", "era/1982-1990s"]
+tier: 2
+source_csv: "_master_technologies.csv"
+tech_id: "stratus-32-cps"
+category: "computer-system"
+vendor: "Stratus"
+era: "1982-1990s"
+lifecycle_at_study: "newly-launched-1982"
+lifecycle_current: "obsolete"
+occurrence_count: 3
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Stratus/32 Continuous Processing System
+
+> Stratus's first commercial product; 32-bit super-mini with VOS
+
+
+## Top observations
+
+- Stratus' second generation is at least a year away; will do best to maintain compatibility; would not rule out different CPU base via code-generator change — [[study-cbn-bochner-stratus-oem-strategy-1982-06-245fd5]]
+- Stratus/32 pits against Prime 750, DEC VAX 11/750 and IBM 4341 Model 1; not directly going after Tandem with price/performance — [[study-cbn-bochner-stratus-oem-strategy-1982-06-245fd5]]
+- Companies such as DG have not yet come out with FT computers because of difficulty of compatibility; startups often have problems getting out second-generation products — [[study-cbn-bochner-stratus-oem-strategy-1982-06-245fd5]]
+- Up to 32 processing modules per system — [[study-mini-micro-stratus-32-arch-freiburghouse-6dc03e]]
+- $172,000 typical: 4 MB memory, dual i43 MB disks, 600 lpm printer, mag tape, COBOL + VOS licenses — [[study-mini-micro-stratus-32-arch-freiburghouse-6dc03e]]
+- Most sales volume in later years; Stratus cannot build $40M of computers in 1982; Olivetti needs time to integrate — [[study-stratus-olivetti-40m-deal-eagle-tribune--b7e3b1]]
+- 30 systems shipped in 1982 at $150,000-$300,000 each — [[study-stratus-olivetti-40m-deal-eagle-tribune--b7e3b1]]
+- Four firms shipped, including West Lynn Creamery and Thom McAn Shoe Co. — [[study-stratus-olivetti-40m-deal-eagle-tribune--b7e3b1]]
+- $172,000 typical config (4MB memory, dual i43MB disks, 600 lpm printer, mag tape, COBOL + VOS licenses) — [[study-stratus-olivetti-40m-deal-eagle-tribune--b7e3b1]]

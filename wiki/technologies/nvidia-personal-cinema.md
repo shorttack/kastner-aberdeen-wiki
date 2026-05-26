@@ -1,0 +1,30 @@
+---
+title: "nVidia Personal Cinema 1.0"
+slug: "nvidia-personal-cinema"
+page_type: "technology"
+tags: ["type/technology", "category/platform", "era/2001-2004"]
+tier: 2
+source_csv: "_master_technologies.csv"
+tech_id: "nvidia-personal-cinema"
+category: "platform"
+vendor: "NVIDIA"
+era: "2001-2004"
+lifecycle_at_study: "emerging"
+lifecycle_current: "discontinued"
+occurrence_count: 2
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# nVidia Personal Cinema 1.0
+
+> Consumer video kit
+
+
+## Top observations
+
+- TV-input category — [[study-dct-video-market-segmentation-2002]]
+- 16 hours over 3 days in December 2001 — [[study-nvidia-personal-cinema-lab-report-2002]]
+- Required unexpected manual hard reboot before drivers installed correctly — [[study-nvidia-personal-cinema-lab-report-2002]]
+- High marks for hardware and packaging; software install integration needs improvement — [[study-nvidia-personal-cinema-lab-report-2002]]

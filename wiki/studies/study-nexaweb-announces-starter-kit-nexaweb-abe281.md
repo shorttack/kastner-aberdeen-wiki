@@ -1,0 +1,41 @@
+---
+title: "Nexaweb Announces Enterprise Web 2.0 Starter Kit for Building Mission-Critical Composite and Mashup Ajax Applications"
+slug: "study-nexaweb-announces-starter-kit-nexaweb-abe281"
+page_type: "study"
+tags: ["type/study", "collection/press-release"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "nexaweb-announces-starter-kit-nexaweb-abe281"
+author: "Nexaweb Technologies, Inc. (press release)"
+date: "2007-03-19"
+pub_year: 2007
+type: "press-release"
+subject_domain: "enterprise-web2-ajax"
+methodology: "press-release, expert-endorsement"
+source_file: "Nexaweb-Announces-Starter-Kit-Nexaweb.webarchive"
+license: "CC-BY-4.0"
+importance: "medium"
+relevance: "low"
+study_prescience_enum: "low"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Nexaweb Announces Enterprise Web 2.0 Starter Kit for Building Mission-Critical Composite and Mashup Ajax Applications
+
+> Nexaweb press release at AJAX World Conference New York (2007-03-19) unveiling a $17,500 Enterprise Web 2.0 Starter Kit combining the Nexaweb EW2.0 platform, Eclipse-based IDE, and unlimited deployment option using Apache XAP. Peter S. Kastner (VP and research director, IT, Aberdeen Group) endorses the incremental/inexpensive adoption approach and recommends proper planning, starting small, and investing in developer tools.
+
+
+_Published 2007, author **Nexaweb Technologies, Inc. (press release)**, type **press-release**._
+
+
+## Top observations
+
+- Enterprise Web 2.0 and Rich Internet Applications are quickly becoming the tool of choice because they deliver on IT business drivers such as faster implementation, business process transformation agility, and lower integration complexity and risk.
+- Chief recommendations: proper planning, starting small on a project or departmental basis, investing in development tools for the long term.
+- Nexaweb Enterprise Web 2.0 Starter Kit launched at $17,500 including the EW2.0 Platform, Eclipse-based IDE, and unlimited deployment via Apache XAP.
+- Positioned as an incremental, inexpensive on-ramp to Ajax and Enterprise Web 2.0 for enterprise developers building composite and mashup applications.
+- Starter Kit uses Apache XAP framework as the open-source Ajax platform under the commercial EW2.0 stack.
+- Analyst framing implies Ajax/Enterprise Web 2.0 will become the default enterprise client paradigm for composite business apps.
+- Nexaweb ceased operating by 2012; Apache XAP retired to the Apache Attic in 2011; the enterprise Ajax RIA category was displaced by HTML5, SPAs (Angular/React), and mobile apps.

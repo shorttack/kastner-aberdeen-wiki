@@ -1,0 +1,29 @@
+---
+title: "Tom Willmott"
+slug: "tom-willmott"
+page_type: "entity"
+tags: ["type/entity", "entity-type/Analyst"]
+tier: 2
+source_csv: "_master_entities.csv"
+entity_id: "tom-willmott"
+entity_type: "Analyst"
+sector: "Market Research / IT Consulting"
+status: "unknown [REVIEW]"
+successor: "[DEFERRED]"
+years_active: "[DEFERRED]"
+occurrence_count: 2
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Tom Willmott
+
+> Aberdeen Group's operational leader through the partnership era and early growth phase; remained in strategic advisory capacity after Bedard transition.
+
+
+## Top observations
+
+- Co-founded Aberdeen Group with Kastner in 1988; former Prime Computer colleague — [[study-volume-1-about-the-author]]
+- Tom Willmott was Aberdeen's effective operational leader through partnership era and early growth phase; by 2003, scaling to 150 employees required different capabilities. — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- Tom Willmott remained in strategic advisory capacity after the Bedard CEO transition; founding partners maintained significant equity and leadership roles. — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]

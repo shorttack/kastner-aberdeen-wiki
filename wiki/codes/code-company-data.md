@@ -1,0 +1,17 @@
+---
+title: "Company Data"
+slug: "code-company-data"
+page_type: "code"
+tags: ["type/code", "code-type/methodology"]
+tier: 2
+source_csv: "_master_codes.csv"
+code_id: "company-data"
+code_type: "methodology"
+---
+
+# Company Data
+
+_Type: **methodology** • ID: `company-data`_
+
+
+Study-specific code: company-data

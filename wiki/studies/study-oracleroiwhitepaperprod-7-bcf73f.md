@@ -1,0 +1,51 @@
+---
+title: "Point Solutions Versus Integrated Oracle Applications: The Road to IT Investment ROI"
+slug: "study-oracleroiwhitepaperprod-7-bcf73f"
+page_type: "study"
+tags: ["type/study", "collection/white-paper"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "oracleroiwhitepaperprod-7-bcf73f"
+author: "Aberdeen Group (Katherine Jones, Tom Dwyer, Peter S. Kastner)"
+date: "2001-06-01"
+pub_year: 2001
+type: "white-paper"
+subject_domain: "enterprise-software/integration-roi (Oracle-sponsored)"
+methodology: "industry-analysis, customer-interview, document-review"
+source_file: "OracleROIWhitePaperPROD-7.doc"
+license: "CC-BY-4.0"
+importance: "high"
+relevance: "high"
+study_prescience_enum: "high"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Point Solutions Versus Integrated Oracle Applications: The Road to IT Investment ROI
+
+> Oracle-sponsored Aberdeen Executive White Paper (June 2001) — SAME core research as study 6 ('Leaving Well Enough Alone', July 2001) but Oracle-branded. Conclusion substitutes 'Oracle provides such an application suite' for the vendor-neutral closing. Chronologically predates study 6 — this is likely the commissioned original; study 6 is the vendor-neutral generalization Aberdeen then released on its own behalf. Cites Beneficial Life and Indian Motorcycle (Oracle customers) only — drops Credit Suisse First Boston/Carreckers (PeopleSoft) and State of Michigan (Lawson) references that appear in study 6.
+
+
+_Published 2001, author **Aberdeen Group (Katherine Jones, Tom Dwyer, Peter S. Kastner)**, type **white-paper**._
+
+
+## Top observations
+
+- 40% of enterprise IT budget on average is committed to application integration; may rise to 70% in certain situations.
+- Nike's four-year, $400M SAP+Siebel+i2 integration effort caused missed quarterly earnings due to integration failures (not application failures).
+- Porter: 'very rarely will individual companies be able to gain durable advantages from deployment of best-of-breed applications.'
+- 2-3 year lag between stand-alone point vendors and integrated suite releases of same functionality; ~3 years to functional parity; but suite version has higher BPI.
+- 18-24 months for integrated suite; 3-6 months for one point solution; 16-20 months to integrate four point applications.
+- Ariba/i2/IBM partnership launched with $1M ad campaign; dissolved less than 6 months later.
+- Beneficial Life (Oracle Applications customer) reports more than 50% of IT staff on customization/integration.
+- Indian Motorcycle implemented Oracle suite in 1999 to run entire business; ROI realized within 1 year of production cutover.
+- Point solution requires 3-4x license fees in initial integration investment; ERP total can reach 10x license fee; suite module drops to factor of 1.
+- When third-party software is architecturally close to existing: integration cost ≈ software cost; when distinctly different: 2-3x software cost.
+- XML standardization via RosettaNet/OAGI (adopted by Microsoft, Oracle, SAP) will prove invaluable to future integration ease.
+- XML/web services became the dominant integration layer by 2001-2003 as predicted, with SOA frameworks solidifying by 2005-2008. The prediction that XML would underpin integration architectures was validated.
+- Primary integration issues: data model variation, workflow/messaging incompatibility, discrete dev cycles, cross-product BPI, lack of standard open persistent interfaces.
+- Paper concludes: 'Oracle provides such an application suite, enabled with comprehensive intra-enterprise and business-to-business best practice business processes designed to generate a sustainable benefit stream.'
+- ERP vendors of 1990s are likely the winners in the long run with packaged integrated cross-enterprise solutions.
+- Oracle consolidated PeopleSoft (2004), Siebel (2006), JD Edwards (via PeopleSoft), Hyperion (2007). SAP maintained ERP dominance. The integrated platform consolidation prediction was validated by actual M&A activity.
+- Pattern of sponsored-then-vendor-neutral paper release evidenced by this study (June) preceding study 6 (July) — same core research, different framing.

@@ -1,0 +1,27 @@
+---
+title: "DCOM (Distributed Component Object Model)"
+slug: "tech-dot-003"
+page_type: "technology"
+tags: ["type/technology", "category/Middleware Standard", "era/1990s"]
+tier: 2
+source_csv: "_master_technologies.csv"
+tech_id: "TECH-DOT-003"
+category: "Middleware Standard"
+vendor: "Microsoft"
+era: "1990s"
+lifecycle_at_study: "Emerging"
+lifecycle_current: "Superseded"
+occurrence_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# DCOM (Distributed Component Object Model)
+
+> Microsoft dropped DCOM after failed attempts to scale; replaced by .NET Remoting then WCF then REST APIs
+
+
+## Top observations
+
+- Limited/Contested — [[study-1997-distributed-object-technology--dead-3cf2d1]]

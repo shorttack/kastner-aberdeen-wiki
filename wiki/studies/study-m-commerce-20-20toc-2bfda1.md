@@ -1,0 +1,32 @@
+---
+title: "Mobile Electronic Commerce"
+slug: "study-m-commerce-20-20toc-2bfda1"
+page_type: "study"
+tags: ["type/study", "collection/topic-analysis"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "m-commerce-20-20toc-2bfda1"
+author: "Aberdeen Group"
+date: ""
+pub_year: 0
+type: "topic-analysis"
+subject_domain: "wireless"
+methodology: "industry-analysis, prepared-candidate-finalization"
+source_file: "m-commerce%20--%20toc.pdf"
+license: "CC-BY-4.0"
+importance: "medium"
+relevance: "medium"
+study_prescience_enum: "[DEFERRED]"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Mobile Electronic Commerce
+
+> This study analyzes Mobile Electronic Commerce using Aberdeen Group research material and prepared extraction artifacts.
+
+
+## Top observations
+
+- This study analyzes Mobile Electronic Commerce using Aberdeen Group research material and prepared extraction artifacts.

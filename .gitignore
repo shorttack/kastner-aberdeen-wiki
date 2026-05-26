@@ -1,0 +1,4 @@
+*.tmp
+.obsidian/workspace*
+.DS_Store
+phase3_full_run.log

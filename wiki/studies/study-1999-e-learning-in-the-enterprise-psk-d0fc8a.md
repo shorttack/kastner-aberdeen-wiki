@@ -1,0 +1,59 @@
+---
+title: "e-Learning in the Enterprise"
+slug: "study-1999-e-learning-in-the-enterprise-psk-d0fc8a"
+page_type: "study"
+tags: ["type/study", "collection/market-study"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "1999-e-learning-in-the-enterprise-psk-d0fc8a"
+author: "Peter S. Kastner"
+date: "1999-11-01"
+pub_year: 1999
+type: "market-study"
+subject_domain: "e-learning"
+methodology: "industry-analysis, competitive-profiling, market-data, field-research, expert-opinion"
+source_file: "2000 e-learning in the enterprise PSK.pdf"
+license: "CC-BY-4.0"
+importance: "high"
+relevance: "high"
+study_prescience_enum: "high"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# e-Learning in the Enterprise
+
+> This Aberdeen Group study by Peter S. Kastner examines the emerging e-Learning market in November 1999, defining e-Learning as a knowledge and information infrastructure leveraging Internet power to provide timely training. The report forecasts that the worldwide e-Learning market will grow from near zero in 1996 to over $10 billion by 2002, that classroom training will reach parity with technology-based training (TBT) by 2002, and that e-Learning will capture approximately one-third of the total training market. Eleven vendor profiles are provided including SmartForce, click2learn.com, Lotus Development, Macromedia, Arthur Andersen Virtual Learning Network, and others.
+
+
+_Published 1999, author **Peter S. Kastner**, type **market-study**._
+
+
+## Top observations
+
+- Near zero in revenues
+- Well over $10 billion worldwide (software + services + content)
+- ~90% of enterprise training opportunities used classroom method
+- ~70% classroom; ~25% TBT
+- Classroom training and TBT will reach approximately equal share of training opportunities by 2002
+- e-Learning will have approximately one-third of total training market by 2002
+- More than 70% of corporations offer employees computer- or web-based training options
+- 60% of higher education institutions offer online learning courses
+- Online learning penetration in corporate/government/higher education will reach ~90% within a few years
+- Travel costs consume up to 40% of average corporate training budget
+- Virtual learning delivery eliminates travel expenses and leaves students in place
+- e-Learning enables personalized curricula vs generalized classroom training
+- e-Learning enables rapid deployment and continuous course updates vs slow classroom refresh
+- Modular e-learning provides only necessary information in smaller blocks vs just-in-case classroom
+- Emerging; enabling technology for self-paced enterprise learning; clear advantages over classroom
+- Emerging; instructor-led collaborative virtual classroom; addresses interaction gap
+- Emerging infrastructure layer for enterprise e-learning administration and tracking
+- Mature but declining; being superseded by web-based delivery
+- Leading e-learning content and courseware provider with library-based subscription model
+- Dominant LMS and authoring platform provider (formerly Asymetrix)
+- IBM Lotus providing enterprise LMS integrated with Lotus Notes groupware platform
+- Dominant e-learning authoring tool vendor (Authorware; Flash; Director)
+- Major professional services firm deploying internal e-learning at enterprise scale
+- SmartForce merged with SkillSoft in September 2002; combined company became leading enterprise e-learning platform
+- click2learn merged with Docent to form SumTotal Systems in March 2004

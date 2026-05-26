@@ -1,0 +1,27 @@
+---
+title: "eCredit"
+slug: "ecredit-com"
+page_type: "entity"
+tags: ["type/entity", "entity-type/company"]
+tier: 2
+source_csv: "_master_entities.csv"
+entity_id: "ecredit-com"
+entity_type: "company"
+sector: "financial-services-software"
+status: "unknown"
+successor: "[DEFERRED]"
+years_active: "late-1990s-2000s"
+occurrence_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# eCredit
+
+> ........................................................ 79 eCredit.com, Inc. .................................................
+
+
+## Top observations
+
+- eCredit named beta program participant — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]

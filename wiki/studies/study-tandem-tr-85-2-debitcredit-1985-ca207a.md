@@ -1,0 +1,45 @@
+---
+title: "A Measure of Transaction Processing Power (Tandem Technical Report 85.2)"
+slug: "study-tandem-tr-85-2-debitcredit-1985-ca207a"
+page_type: "study"
+tags: ["type/study", "collection/benchmark"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "tandem-tr-85-2-debitcredit-1985-ca207a"
+author: "Anon et al (Jim Gray and ~24 TP-industry co-authors; Tandem Computers)"
+date: "1985-02-01"
+pub_year: 1985
+type: "benchmark"
+subject_domain: "transaction-processing-benchmarks"
+methodology: "benchmark-specification, industry-consensus"
+source_file: "A-Measure-of-Transaction-Processing-Power-Tandem-85.2-4.pdf"
+license: "CC-BY-4.0"
+importance: "high"
+relevance: "high"
+study_prescience_enum: "high"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# A Measure of Transaction Processing Power (Tandem Technical Report 85.2)
+
+> Tandem Technical Report 85.2 (February 1985) by 'Anon et al' — the foundational transaction-processing benchmark paper that defined Sort, Scan, and DebitCredit (ET-1/TP-1) and introduced the Transactions Per Second (TPS) and 5-year capital-cost price/performance metrics. A condensed version appeared in Datamation April 1, 1985. The 'Anon et al' byline concealed a collaboration led by Jim Gray (then at Tandem) with ~24 academics, vendors, and users. This paper is the direct ancestor of the Transaction Processing Performance Council (TPC) benchmarks (TPC-A, TPC-B, TPC-C) and is foundational to Kastner's subsequent career as an OLTP/benchmarks analyst at Stratus and Aberdeen Group.
+
+
+_Published 1985, author **Anon et al (Jim Gray and ~24 TP-industry co-authors; Tandem Computers)**, type **benchmark**._
+
+
+## Top observations
+
+- Simple interactive transaction processing application used to define TPS throughput measure
+- Measures system input/output performance via elapsed batch time
+- Bulk-data-movement utility benchmark measuring I/O
+- Five-year capital cost of system equipment exclusive of communications lines, terminals, development and operations
+- Transactions Per Second — standard throughput metric defined to enable cross-vendor comparison
+- Whetstones, MIPS, MegaFLOPS, GigaLIPS all focus on CPU — they do not capture TP-system features
+- Paper predicts standard TPS metric will aid system pricing, sales, and purchase
+- 'Anon et al' — two dozen people active in transaction processing including academics, vendors, and users
+- Condensed version published in Datamation April 1, 1985
+- Transaction Processing Performance Council formed 1988; TPC-A standardized DebitCredit-style benchmark published 1989
+- Kastner (then at Stratus) used ET-1/TP-1 as the standard Stratus-vs-Tandem price/performance comparison framework — see 1986 ET1-vs-TP1 dossier

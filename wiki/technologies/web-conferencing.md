@@ -1,0 +1,49 @@
+---
+title: "Web conferencing / online meeting software"
+slug: "web-conferencing"
+page_type: "technology"
+tags: ["type/technology", "category/enterprise application category", "era/emerging at study"]
+tier: 1
+source_csv: "_master_technologies.csv"
+tech_id: "web-conferencing"
+category: "enterprise application category"
+vendor: "DEC/HP/VMS Software Inc."
+era: "emerging at study"
+lifecycle_at_study: "growth-phase"
+lifecycle_current: "ubiquitous-with-zoom-teams"
+occurrence_count: 8
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Web conferencing / online meeting software
+
+> Oracle Database remains actively developed and deployed as of 2026 (Oracle 23c). Oracle System 7 was the version contemporaneous with this study; Oracle InterOffice used Oracle DB as its data store. | Successor: Oracle Database 23c
+
+
+## Summary
+
+
+
+
+## Top observations
+
+- Digital not prepared to concede VAX ready for Computer Museum — [[study-1992-tpc-benchmarks-vp-745fa1]]
+- 1-face-to-face — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
+- 5-web-conference — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
+- post-911-recession — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
+- pc-ubiquity-plus-conference-call — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
+- store-and-forward-approach — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
+- tectonic — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
+- zoom-disrupts-webex — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
+- covid-19-pandemic — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
+- microsoft-teams — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
+- Market for online business meetings growing; WebEx best positioned — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- WebEx launches Enterprise Edition packaging/pricing for Fortune 1000 — [[study-informationweek-webex-enterprise-collabo-e30ad5]]
+- ERP evolving into Supply Chain Management — [[study-marathon-d186ab]]
+- The week of the attack, we saw a 49 percent increase in usage over the prior week — [[study-meetings-conventions-virtual-meetings-ps-c1b097]]
+- Folsom expects to see 30 to 35 percent more business as a result of the Sept. 11 attacks — [[study-meetings-conventions-virtual-meetings-ps-c1b097]]
+- Reported a similar jump in demand — [[study-meetings-conventions-virtual-meetings-ps-c1b097]]
+- The major companies' push into corporate messaging offers some validation for WebEx, but it should be a cause for concern. If AOL, Yahoo, and Microsoft sense there's a market, they'll do everything they can to subsume them. — [[study-tech-investor-instant-messaging-goes-cor-1a14c2]]
+- Changing the communications habits of businesses won't be easy — [[study-telephony-post911-conferencing-psk-2001--0bf283]]

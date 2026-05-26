@@ -1,0 +1,31 @@
+---
+title: "People's Republic of China"
+slug: "china-prc"
+page_type: "entity"
+tags: ["type/entity", "entity-type/institution"]
+tier: 2
+source_csv: "_master_entities.csv"
+entity_id: "china-prc"
+entity_type: "institution"
+sector: "national-government"
+status: "active"
+successor: ""
+years_active: "1949-present"
+occurrence_count: 2
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# People's Republic of China
+
+> Criticized for incomplete SARS disclosure starting Guandong outbreak
+
+
+## Top observations
+
+- The People's Republic of China is the world's second largest consumer of PCs, and it's almost certainly headed for a recession because of the SARS epidemic — [[study-internetnews-will-sars-infect-high-tech--8569ea]]
+- $50 billion a year in foreign investment is a real stimulus to the Chinese economy. That money could go away overnight, if the government were shown to be untrustworthy. Kicking and screaming the PRC government is being dragged into the 21st century global economy. — [[study-internetnews-will-sars-infect-high-tech--8569ea]]
+- 129 probable/suspected cases; 6 fatal — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]
+- Not fulfilling promise to provide WHO with daily provincial reports on disease progress — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]
+- Partially — short-lived disruption limited by rapid WHO-China containment by July 2003; predictions more fully validated by COVID-19 2020-2022 supply shocks that proved the concentration-risk thesis — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]

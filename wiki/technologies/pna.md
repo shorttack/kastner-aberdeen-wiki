@@ -1,0 +1,24 @@
+---
+title: "HomePNA phoneline networking"
+slug: "pna"
+page_type: "technology"
+tags: ["type/technology", "category/protocol", "era/1998-2010"]
+tier: 2
+source_csv: "_master_technologies.csv"
+tech_id: "pna"
+category: "protocol"
+vendor: ""
+era: "1998-2010"
+lifecycle_at_study: "emerging"
+lifecycle_current: "obsolete"
+occurrence_count: 0
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# HomePNA phoneline networking
+
+
+## Top observations
+

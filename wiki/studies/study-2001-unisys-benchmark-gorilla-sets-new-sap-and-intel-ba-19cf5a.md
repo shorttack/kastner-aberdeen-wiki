@@ -1,0 +1,45 @@
+---
+title: "Unisys 'Benchmark Gorilla' Sets New SAP Standard on Windows- and Intel-based ES7000 Database Server"
+slug: "study-2001-unisys-benchmark-gorilla-sets-new-sap-and-intel-ba-19cf5a"
+page_type: "study"
+tags: ["type/study", "collection/market-study"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "2001-unisys-benchmark-gorilla-sets-new-sap-and-intel-ba-19cf5a"
+author: "Robert Dorin"
+date: "2001-11-01"
+pub_year: 2001
+type: "market-study"
+subject_domain: "enterprise-servers"
+methodology: "benchmarking"
+source_file: "2001 Unisys `Benchmark Gorilla_ Sets New SAP...and Intel-based ES7000 Database Server.pdf"
+license: "CC-BY-4.0"
+importance: "medium"
+relevance: "low"
+study_prescience_enum: "medium"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Unisys 'Benchmark Gorilla' Sets New SAP Standard on Windows- and Intel-based ES7000 Database Server
+
+> In November 2001, Aberdeen Group profiled Unisys Corporation's achievement of 24,000 SD concurrent users on a 32-processor ES7000 Windows/Intel server running SAP. The study positions Unisys as the 'benchmark gorilla' for Windows-based enterprise scalability and argues that Unisys's combination of extreme performance, high availability (Datacenter 2000 and SQL Server 2000), and price-performance advantages over Unix makes the ES7000 an attractive platform for high-end applications.
+
+
+_Published 2001, author **Robert Dorin**, type **market-study**._
+
+
+## Top observations
+
+- 24000 SD concurrent users
+- 32-processor Intel-based server
+- Benchmark gorilla — systematic pursuit of industry performance records to establish credibility
+- Running on Datacenter 2000 and SQL Server 2000 for mission-critical configurations
+- Suitable for mission-critical systems when combined with Datacenter 2000
+- Significant price-performance advantages over Unix-based systems
+- ES7000 positioned as attractive option for high-end applications given performance and reliability
+- Windows and SQL Server scalability addressed by Unisys benchmark series
+- Multiple SAP benchmarks announced by Unisys in 2001 to address scalability question
+- Unisys exited hardware manufacturing circa 2015; transformed into IT services and solutions company; ES7000 line discontinued
+- Unisys Corporation remains active as IT services company; focuses on digital workplace and cloud solutions rather than hardware

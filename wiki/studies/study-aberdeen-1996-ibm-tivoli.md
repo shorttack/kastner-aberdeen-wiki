@@ -1,0 +1,59 @@
+---
+title: "Tivoli Systems: Unifying the Management of Network Computing Environments"
+slug: "study-aberdeen-1996-ibm-tivoli"
+page_type: "study"
+tags: ["type/study", "collection/product-profile"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "aberdeen-1996-ibm-tivoli"
+author: "Aberdeen Group"
+date: "1996-10-01"
+pub_year: 1996
+type: "product-profile"
+subject_domain: "enterprise-IT-management"
+methodology: "industry-analysis, competitive-profiling, field-research"
+source_file: "1996 ibm tivoli pr.pdf"
+license: "CC-BY-4.0"
+importance: "high"
+relevance: "medium"
+study_prescience_enum: "high"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Tivoli Systems: Unifying the Management of Network Computing Environments
+
+> Aberdeen Group profiles Tivoli Systems (an IBM company) and its Tivoli Management Framework (TMF), arguing it provides IT executives the most comprehensive enterprise-grade management solution for unifying diverse client-server, mainframe, and midrange environments under a single policy-based management framework. The study explains IBM's strategic decision to acquire Tivoli instead of completing its own Karat project, and positions TMF as superior to HP OpenView's bottoms-up approach and CA Unicenter's all-or-nothing purchasing model.
+
+
+_Published 1996, author **Aberdeen Group**, type **product-profile**._
+
+
+## Top observations
+
+- IBM chose to replace Karat project with Tivoli rather than augment Karat; positioned SystemView and NetView as Tivoli management applications
+- Karat would have been delivered years after Tivoli; would manage only IBM platforms; production-critical app suppliers were already on Tivoli, not Karat
+- TMF manages 18+ platform operating environments including Unix variants, Windows NT, NetWare, MVS, OS/400, OS/2, DOS
+- TMF framework allows plug-in of best-in-class ISV management applications; 45+ ISV partners in 10/Plus association
+- HP OpenView provides bottoms-up view of enterprise; Tivoli provides top-down view based on IT management policies/procedures
+- CA Unicenter TNG is comprehensive but must be purchased in entirety; less flexible for integrating other management applications
+- IBM has done an about-face and charged ahead with Tivoli; business-line executives, IT executives and IS managers will find their needs realized
+- IBM Tivoli became a multi-billion dollar franchise; Tivoli brand active 20+ years after acquisition; IBM Tivoli Monitoring still referenced in IBM bulletins as of 2024-2026
+- IBM's acquisition provides global consulting and support team for Tivoli-based solutions; validates ISV and user investments
+- IBM built extensive Tivoli professional services organization; Tivoli products became core to IBM Global Services; ISV ecosystem grew substantially
+- TME 10 EC removes administrators from details of underlying technology; manages according to enterprise policy; provides integrated unified view of IT resources
+- Enables rapid deployment of client-server applications instead of holding back due to management cost concerns
+- Extends reach of centralized resources throughout enterprise; reduces cost of administration
+- Unifies management of applications, operating environments, platforms and networks from mainframe to desktop
+- Manages evolving IT environment using policies and procedures instead of administrative skill or whim
+- IT executives have found managing client-server environments to be more costly than anticipated; standardizing on fewest application platforms possible
+- IBM's largest users told IBM they were already deploying the real Karat — and it was Tivoli; validates IBM's acquisition rationale
+- TMF employs managers and agents as smart objects carrying out enterprise policies/procedures; well designed to scale as IT environment grows
+- Controls distribution of software patches, updates, upgrades from central location to any managed Tivoli system (from OS/390 to desktops)
+- Monitors conditions on managed resources; provides alerts; enables thresholds for wide variety of conditions; takes automatic corrective actions
+- IBM's SystemView positioned to become well-behaved Tivoli management application; validates existing SystemView user investments
+- IBM's NetView positioned to become well-behaved Tivoli management application; validates existing NetView user investments
+- Tivoli has minds and hearts of ISVs, system platform suppliers, packaged application suppliers; where ISVs go, so goes the enterprise
+- IBM Tivoli grew extensive ISV/partner ecosystem; partners like BMC, CA, and Remedy continued integrating with Tivoli for years; 10/Plus ecosystem expanded significantly
+- CA users possess ability to visually integrate networked resources using pre-packaged solution vs Tivoli's ability to functionally integrate with best-in-class solutions

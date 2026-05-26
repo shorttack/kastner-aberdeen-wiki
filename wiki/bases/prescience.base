@@ -1,0 +1,14 @@
+filters:
+  - prescience_max >= 4
+columns:
+  - title
+  - pub_year
+  - prescience_max
+  - prescience_mean
+  - prescience_obs_count
+  - study_prescience_enum
+sort:
+  - field: prescience_max
+    direction: desc
+  - field: prescience_mean
+    direction: desc

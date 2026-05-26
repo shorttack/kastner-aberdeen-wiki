@@ -1,0 +1,29 @@
+---
+title: "Hampton, Virginia Police Department"
+slug: "hampton-va-police-department"
+page_type: "entity"
+tags: ["type/entity", "entity-type/agency"]
+tier: 2
+source_csv: "_master_entities.csv"
+entity_id: "hampton-va-police-department"
+entity_type: "agency"
+sector: "municipal-police"
+status: "operating"
+successor: ""
+years_active: "present"
+occurrence_count: 2
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Hampton, Virginia Police Department
+
+> Source of the dispatch software transferred to St. Petersburg FL by ADL recommendation; original system migrated by Andersen Consulting.
+
+
+## Top observations
+
+- ADL recommended migration of Hampton Roads VA dispatch system to St. Petersburg under CICS, with modifications — [[study-adl-public-safety-911-cad-systems-1973-1979-b8a001]]
+- Sent to Hampton, VA to verify whether police information system could be transferred to St. Petersburg, FL; given police radio with officer-needs-assistance code. — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
+- ‘Don’t leave your room at night,’ said the Vice Chief of Police; Kastner spent more mental energy on door lock integrity than database schema. — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]

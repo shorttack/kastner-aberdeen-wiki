@@ -1,0 +1,12 @@
+filters:
+  - page_type = "entity"
+columns:
+  - title
+  - entity_type
+  - sector
+  - status
+  - years_active
+  - occurrence_count
+sort:
+  - field: occurrence_count
+    direction: desc

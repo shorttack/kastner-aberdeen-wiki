@@ -1,0 +1,28 @@
+---
+title: "NeXTSTEP"
+slug: "nextstep"
+page_type: "technology"
+tags: ["type/technology", "category/operating-system", "era/1989-1999"]
+tier: 2
+source_csv: "_master_technologies.csv"
+tech_id: "nextstep"
+category: "operating-system"
+vendor: "NeXT Computer"
+era: "1989-1999"
+lifecycle_at_study: "niche"
+lifecycle_current: "discontinued"
+occurrence_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# NeXTSTEP
+
+> Well-respected object-oriented environment; porting to Intel; Jobs transitioning company to ISV
+
+
+## Top observations
+
+- Ceasing hardware; porting NextStep to Intel and broader audience — [[study-nti-4-nextgen-os-timing-1993-a45049]]
+- [UNVERIFIED] — [[study-nti-4-nextgen-os-timing-1993-a45049]]

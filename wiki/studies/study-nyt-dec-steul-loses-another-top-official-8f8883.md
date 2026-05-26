@@ -1,0 +1,45 @@
+---
+title: "Digital Equipment Loses Another of Its Top Officials (DEC CFO William Steul resigns)"
+slug: "study-nyt-dec-steul-loses-another-top-official-8f8883"
+page_type: "study"
+tags: ["type/study", "collection/national-press-article"]
+tier: 2
+source_csv: "_master_studies.csv"
+study_id: "nyt-dec-steul-loses-another-top-official-8f8883"
+author: "Glenn Rifkin (The New York Times)"
+date: "1994-05-19"
+pub_year: 1994
+type: "national-press-article"
+subject_domain: "computer-industry-leadership-transition"
+methodology: "news-reporting, expert-interview"
+source_file: "DEC-Bill-Steul-leaves-CFO-1994-5-11.pdf"
+license: "CC-BY-4.0"
+importance: "high"
+relevance: "low"
+study_prescience_enum: "high"
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Digital Equipment Loses Another of Its Top Officials (DEC CFO William Steul resigns)
+
+> New York Times article (May 1994 by Glenn Rifkin) on the resignation of Digital Equipment Corp. CFO William M. Steul. Companion to Aaron Zitner's Boston Globe coverage. Notes Steul named CFO by founder Ken Olsen in June 1992, weeks before the board asked Olsen to resign as president; rise was controversial because Steul 'had not worked in the finance operation for more than a decade.' Robert Palmer succeeded Olsen and retained Steul. Other recent departures: Edward Lucente (worldwide sales/marketing VP), Edward McDonough (manufacturing VP), Winston Hindle (quality/ethics/business practices VP) — DEC spokesperson said McDonough/Hindle were planned retirements. Mullarkey (23-year DEC veteran) becomes new CFO. Quote from Franc Romano (Aberdeen Group, former DEC finance manager and market research director, now a consultant): Steul had stepped into a job 'that nobody in the company wanted.' Recent $183M Q3 loss; Palmer 'caught by surprise by the severity of the loss'; analysts speculated Steul might have been 'a victim of that debacle' as Palmer 'sought stronger financial leadership.'
+
+
+_Published 1994, author **Glenn Rifkin (The New York Times)**, type **national-press-article**._
+
+
+## Top observations
+
+- DEC CFO William M. Steul resigned May 1994
+- Vincent J. Mullarkey, 46, controller, promoted to VP/CFO; 23-year DEC veteran
+- Steul named CFO by Ken Olsen June 1992, weeks before board asked Olsen to resign as president
+- Steul's rise had been controversial because he had not worked in the finance operation for more than a decade
+- Edward McDonough (DEC manufacturing VP) — DEC said this was a planned retirement
+- Winston Hindle (DEC VP quality/ethics/business practices) — DEC said this was a planned retirement
+- Palmer 'conceded he had been caught by surprise by the severity of the loss'
+- Steul 'had stepped into a job that nobody in the company wanted'
+- Romano was former DEC finance manager and market research director — gave him deep insight into the political vacuum at DEC corporate finance
+- Analysts speculated Steul might have been a victim of the loss debacle as Palmer sought stronger financial leadership
+- DEC sold to Compaq for $9.6B in 1998 — Mullarkey served as CFO through the sale

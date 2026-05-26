@@ -1,0 +1,34 @@
+---
+title: "Oracle Data Mart Suite for NT"
+slug: "oracle-data-mart-suite-nt"
+page_type: "technology"
+tags: ["type/technology", "category/application", "era/1997-2001"]
+tier: 2
+source_csv: "_master_technologies.csv"
+tech_id: "oracle-data-mart-suite-nt"
+category: "application"
+vendor: "Oracle"
+era: "1997-2001"
+lifecycle_at_study: "emerging"
+lifecycle_current: "obsolete"
+occurrence_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
+---
+
+# Oracle Data Mart Suite for NT
+
+> Pre-packaged NT data mart; succeeded by Oracle Warehouse Builder then Oracle Analytics Cloud
+
+
+## Top observations
+
+- 6-12 months implementation typical for custom data mart — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
+- Data mart in a box — pre-assembled complete package — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
+- Departmental/line-of-business managers; 5-100 users; under $100K total cost — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
+- Under $35,000 for 5 named users; scales to $50-80K for 25-50 users — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
+- Single unified DBA console for entire suite — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
+- Pre-packaged integrated data mart suites will dominate over custom-assembled multi-vendor solutions — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
+- Integrated data warehouse appliances and cloud suites became dominant; Oracle, Microsoft, IBM all pursued bundled approaches; specialized standalone BI vendors (Business Objects, Cognos, Hyperion) were acquired by major platform vendors — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
+- Aberdeen rates Oracle Data Mart Suite as strong market contender — [[study-1997-oracle-data-mart-suite-for-nt-926845]]

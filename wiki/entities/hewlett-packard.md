@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Named as conspicuously absent from vertical SOA competitive landscape: 'Missing from this competitive playing field to date is HP, which has had outstanding vertical process models on the shelf for three years and now, with the new SOA infrastructure from the Mercury Interactive acquisition, is in a better position to enter the next-generation application space than ever before.' Use existing entity ID. | Source: HP Inc. and Hewlett Packard Enterprise both active after 2015 split. Original HP active as multiple successor entities.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 -  — [[study-10ibmiss-f66945]]

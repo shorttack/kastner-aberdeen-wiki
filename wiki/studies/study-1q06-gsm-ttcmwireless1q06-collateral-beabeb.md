@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "1q06-gsm-ttcmwireless1q06-collateral-beabeb"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2006-01-01"
+pub_year: 2006
 type: "market-study"
 subject_domain: "wireless"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # ==> picture [441 x 95] intentionally omitted <==
 
 > This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2006, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

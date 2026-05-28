@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Referenced as data center consolidation technology option alongside utility computing; emerging in 2004; largely superseded by cloud computing and containerization
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 73 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]

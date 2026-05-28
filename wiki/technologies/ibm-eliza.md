@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Self-managing, self-healing architecture initiative; products-not-just-concept; heterogeneous management across IBM and non-IBM environments; precursor to autonomic computing branding.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Positioning and messaging eLiza initiative to IT management, line of business, and developer communities; $1B IT management initiative per success-stories deck — [[study-aberdeen-corporate-collateral-2001-v2-b4b001]]

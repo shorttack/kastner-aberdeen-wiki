@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Primary enterprise storage network for the survey respondents; mid-line storage must integrate into existing SAN/NAS environments
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Surveyed companies (banking finance insurance) have greatest adoption of SAN networks and largest data centers — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]

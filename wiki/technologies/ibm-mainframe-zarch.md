@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > IBM z990 and z900 mainframe systems; primary platform being considered for migration/surround/offload in favor of Itanium-based alternatives.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 -  — [[study-10ibmiss-f66945]]

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Incumbent systems whose process models IBM-Webify vertical components would adjunct or replace for organizations seeking SOA-based customization.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 'Humans are built to avoid anxiety so our goal was to get people through the transition with grace and poise' — executive respondent — [[study-1997-managing-the-people-dimension-of-ma-1d6b17]]

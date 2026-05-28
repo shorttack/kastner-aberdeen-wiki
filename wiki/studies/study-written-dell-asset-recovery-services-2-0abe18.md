@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-dell-asset-recovery-services-2-0abe18"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2003-01-01"
+pub_year: 2003
 type: "market-study"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 26
 # Dell Asset Recovery Services: a Trustworthy Partner for Eliminating Aging IT Assets (possible title: Remove, Resell, Recycle)
 
 > This study analyzes Dell Asset Recovery Services: a Trustworthy Partner for Eliminating Aging IT Assets (possible title: Remove, Resell, Recycle) using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2003, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > $13B supplier; professional services = 40% of revenue ($5.4B); being bought by Compaq for systems integration expertise and sales force; Maynard MA; number three OEM in professional services
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 7.69 — [[study-1992-tpc-benchmarks-vp-ed0e0d]]

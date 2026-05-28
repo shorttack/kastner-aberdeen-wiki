@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Practice area founded by Kastner at Aberdeen Group to provide TPC-certified benchmark auditing; clients included Stratus and Groupe Bull.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Located at Aberdeen corporate HQ in Boston — [[study-aberdeen-press-advisory-kastner-appointm-efd58c]]

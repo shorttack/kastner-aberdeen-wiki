@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > ard, IT, information technology, Kastner, Michael Capellas, Carly Fiorina, merger, acquisition, Dell, Sun Microsystems, StorageWorks,
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - We've kept our eye on the ball. We did well. — [[study-2001-hp-cpq-merger-collection-edbca1]]

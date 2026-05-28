@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "bvr-spendcompmgmt-121704b-e31821"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "1988-01-01"
+pub_year: 1988
 type: "topic-analysis"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 14
 # ==> picture [69 x 792] intentionally omitted <==
 
 > This study analyzes ==> picture [69 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1988, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

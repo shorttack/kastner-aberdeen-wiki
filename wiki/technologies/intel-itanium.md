@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > HP/Intel joint 64-bit VLIW architecture; limited adoption confined to HP-UX/NonStop; killed by AMD64; last shipment 2021
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - There's no doubt that Itanium machines will begin to take material market share away from other architectures going forward this year — [[study-cnet-shankland-ibm-itanium-x450-2003-c91608]]

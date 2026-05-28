@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Oracle InterOffice was discontinued in the late 1990s as Oracle shifted strategy toward Oracle Collaboration Suite and later Oracle WebCenter. Never achieved significant market penetration against Exchange and Notes. | Successor: Oracle Collaboration Suite / Oracle WebCenter
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 5 — [[study-2026-kastner-enterprise-ai-arc]]

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Underwriter of this report; one of world's largest IT services and consulting providers; covers full lifecycle of development, management, maintenance, support, governance for legacy/package/custom apps.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - $15.9 billion — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]

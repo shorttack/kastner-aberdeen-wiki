@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Sioux City/Poway/Irvine direct-sales PC maker; cow-spotted boxes; acquired eMachines 2004; acquired by Acer $710M 2007; brand continues
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - $1132 avg (range $738-$1698); 8 SKUs; 1 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]

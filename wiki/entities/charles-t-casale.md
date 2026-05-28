@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Co-founder of Aberdeen Group. Previously ran Investor Relations at Prime Computer. Held registered financial analyst credential. Covered scientific and high-performance computing.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Kastner was the first analyst to predict the emergence of transaction processing at the workgroup level — a trend that will shake up many of the established suppliers — [[study-aberdeen-press-advisory-kastner-appointm-efd58c]]

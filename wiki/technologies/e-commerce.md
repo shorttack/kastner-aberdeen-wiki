@@ -22,11 +22,6 @@ prescience_obs_count: 148
 > Internet boom and e-commerce infrastructure was the defining transition of Aberdeen's scaled years 1997-2001.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - nhanced customer satisfaction via post-sales service is no longer the hidden secret of best-in-class companies. `[ps=5]` — [[study-ra-lbs-sd-3599-736223]]

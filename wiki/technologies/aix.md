@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > lifecycle_note=AIX remains IBM's enterprise Unix OS for Power Systems; standard_body=IBM; introduced_approx=1986; role=enabling
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - AIX 4.1 allows 10,000+ packaged applications to run on Sagister — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]

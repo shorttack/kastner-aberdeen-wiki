@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "aberdeenprofile-c87d33"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2005-01-01"
+pub_year: 2005
 type: "benchmark"
 subject_domain: "storage"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # Publications
 
 > This study analyzes Publications using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

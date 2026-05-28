@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > 3000 staff; focused on middle-market enterprises; refuses to work with SAP clients; focuses on PeopleSoft and Baan; fixed-price contracts; 70% of 1997 new business internet-related; strong partner of Baan and PeopleSoft
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Acquired by Novell July 10 2001 for ~$266M; Jack Messman (CTP CEO) became Novell CEO — [[study-1998-nt-professional-services-buying-guide-1998-edition-14e452]]

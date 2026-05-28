@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "websidestorysnapshot-d9e992"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2001-01-01"
+pub_year: 2001
 type: "benchmark"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # ==> picture [82 x 80] intentionally omitted <==
 
 > This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2001, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

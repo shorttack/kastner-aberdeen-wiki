@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > First to submit TPC-A result (HP 960 in January 1990); HP 3000 and HP-UX product lines; split into HP Inc. and Hewlett Packard Enterprise in 2015
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 36.5 K$/TPS-A — [[study-1992-tpc-benchmarks-vp-745fa1]]

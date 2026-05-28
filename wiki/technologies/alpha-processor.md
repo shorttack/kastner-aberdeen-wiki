@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > 10-50% performance advantage over Intel for floating-point NT workstations; future uncertain post-Compaq merger
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - >20,000 tpmC at $305/tpmC (AlphaServer 5/35) — [[study-aberdeen-1996-debunking-ntsmp-scalability-myth]]

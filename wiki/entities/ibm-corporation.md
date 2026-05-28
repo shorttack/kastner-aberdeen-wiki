@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Cited in multiple practice definitions: EAS (OEM with Big-5-rivaling business strategic planning services), Platform Infrastructure (AS/400 and mainframe coverage), Platforms Group supplier
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Most popular TP monitor worldwide — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]

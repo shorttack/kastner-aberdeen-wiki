@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-dell-sd2-final-330962"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2001-01-01"
+pub_year: 2001
 type: "market-study"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 2
 # ==> picture [460 x 434] intentionally omitted <==
 
 > This study analyzes ==> picture [460 x 434] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2001, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > De facto standard on Unix servers; projected 1998 license revenues ~$2B; object-relational; Object-Relational DBMS flagship; Network Computing Architecture integration
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Oracle8 RDBMS included as core component of DMS — [[study-1997-oracle-data-mart-suite-for-nt-926845]]

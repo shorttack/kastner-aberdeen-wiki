@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Ellison's vision of thin-client NC replacing PC; Java cartridge model; partially right on Java; NC hardware failed
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Oracle Network Computing Architecture uses cartridges for client/app server/database tiers to enable Internet deployment — [[study-1997-oracle-designer-2000-3201a7]]

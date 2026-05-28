@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Voice processing hardware; Intel acquired for $780M in 1999; subsequently sold multiple times; acquired by Enghouse for $52M in 2020
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 2000000 — [[study-1997-dialogic-ct-media-sets-the-pace-for-440d5e]]

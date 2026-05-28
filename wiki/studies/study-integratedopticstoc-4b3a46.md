@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "integratedopticstoc-4b3a46"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2001-01-01"
+pub_year: 2001
 type: "topic-analysis"
 subject_domain: "telecommunications"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # ~~OPTICAL CIRCU~~ ITS: ~~Market Realities & Po~~ tential
 
 > This study analyzes ~~OPTICAL CIRCU~~ ITS: ~~Market Realities & Po~~ tential using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2001, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

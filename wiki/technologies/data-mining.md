@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Tools supporting IT budgeting process measurement, governance, and cost tracking; report finds most organizations lack effective tools; best-in-class use continuous monitoring
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 18.2 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]

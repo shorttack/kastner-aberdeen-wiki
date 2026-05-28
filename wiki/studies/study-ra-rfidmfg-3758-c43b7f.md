@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-rfidmfg-3758-c43b7f"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2007-01-01"
+pub_year: 2007
 type: "topic-analysis"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 37
 # ==> picture [149 x 20] intentionally omitted <==
 
 > This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

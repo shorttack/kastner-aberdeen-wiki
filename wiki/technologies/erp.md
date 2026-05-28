@@ -22,11 +22,6 @@ prescience_obs_count: 1274
 > ERP providers have best way in to enterprise; web-enabled ERP applications coming into own; ERP data available to less than 15% of users within organizations
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Aberdeen research indicates that nearly 80% of a product’s costs are built-in by the time that product is tossed over-the-wall to manufacturing. `[ps=5]` — [[study-10991290-4e6131]]

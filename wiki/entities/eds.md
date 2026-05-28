@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > 110000 employees in 44 countries; one of largest data processing companies; A.T. Kearney management consulting ($1.1B 1997); E-commerce only 2% of revenues in 1997; major InterWorld project announced March 1998
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - E-commerce only 2% of revenues in 1997 — [[study-ecpspr~1-4968bf]]

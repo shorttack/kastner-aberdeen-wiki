@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "intelitanium-toc-8308d0"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2001-01-01"
+pub_year: 2001
 type: "topic-analysis"
 subject_domain: "Linux"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # Evolving Itanium into the Enterprise
 
 > This study analyzes Evolving Itanium into the Enterprise using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2001, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

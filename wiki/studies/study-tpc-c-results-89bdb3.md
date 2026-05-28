@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "tpc-c-results-89bdb3"
 author: "Date Withdrawn"
-date: ""
-pub_year: 0
+date: "2000-01-01"
+pub_year: 2000
 type: "benchmark"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 2
 # TPC-C BENCHMARK RESULTS
 
 > This study analyzes TPC-C BENCHMARK RESULTS using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2000, author **Date Withdrawn**, type **benchmark**._
 
 
 ## Top observations

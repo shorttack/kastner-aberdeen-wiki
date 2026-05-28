@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Proposed midline disk technology for MaXLine; subject of study. ATA later superseded by Serial ATA (SATA) after 2003; midline SATA became mainstream enterprise tier.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Q10: Would you accept (a) higher-capacity/slightly-less-performance or (b) same-size/similar-performance for cold data migration? — [[study-aberdeen-group-disk-storage-usage-questi-c8ffe9]]

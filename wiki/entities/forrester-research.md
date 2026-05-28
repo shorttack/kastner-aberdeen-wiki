@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Founded 1983 by George Colony. Carved out business technology strategy territory; known for Wave reports and rigorous methodology.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 2-3 years out; current specialty e-business — [[study-aberdeen-training-day-1-522863]]

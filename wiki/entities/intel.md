@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Kastner retained Intel as a retainer client during the 2003-2006 period when he stepped aside from Aberdeen leadership; returned to Aberdeen in 2006 to drive SOA research.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Failed to crack $10K barrier — [[study-1992-tpc-benchmarks-vp-745fa1]]

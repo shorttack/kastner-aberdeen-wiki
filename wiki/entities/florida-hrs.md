@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Buyer agency; accepted EDS/IBM bid over Unisys; FLORIDA System project 1989-1993+; later became Florida Dept. of Children & Families. Reused from cache.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Kastner supported defense counsel Carlton Fields for Unisys; Unisys protested EDS/IBM bid for distributed human resources system; served as plaintiff expert witness; while plaintiff not sustained Florida cancelled $110M EDS contract afterward — [[study-psk-litigation-b452e6]]

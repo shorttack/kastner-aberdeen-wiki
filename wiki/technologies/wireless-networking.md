@@ -22,11 +22,6 @@ prescience_obs_count: 8
 > IDC trend for 2003
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-edocssnapshot-8a34df]]

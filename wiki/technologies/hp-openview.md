@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Major enterprise service management platform; cross-platform product used beyond HP hardware customers; operations-focused; integration cycle with Mercury over next 18 months; capabilities: Application Management, Asset Management, BSM, Config Mgmt, Event/Perf Mgmt, Service Desk, Identity Mgmt, IT Compliance/Governance, IT Service Mgmt, Network Service Mgmt, SOA.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Serious competitor with large installed base but has 'clearly lost momentum'; HP has not decided whether to reinvigorate OpenView product development — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]

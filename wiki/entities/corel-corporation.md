@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Filed Chapter 11 August 1994; CM-5 massively parallel computing technology assets sold; Oracle acquired some IP
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - acquired_ibm_1998 — [[study-1997-data-integration-management-in-hete-de2429]]

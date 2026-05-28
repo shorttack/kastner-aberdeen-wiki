@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Cited as Inflection Point 2000 in Platforms Group practice; Becknell's 'penguin lovers' framing
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - HP acquisition of Compaq enhances Linux business for the new company — [[study-2001-hp-cpq-merger-collection-edbca1]]

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > French IT vendor cited as competing midrange supplier; acquired by Atos 2014 | status_note=Acquired by Atos in August 2014; hq_location=Les Clayes-sous-Bois, France; as_of_study_date=1995
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Led TPC-A price-performance below $10K/TPS-A in Q1 1992 — [[study-1992-tpc-benchmarks-vp-ed0e0d]]

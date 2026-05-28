@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-procurementoutsourcing-rs-sb-3100-b7f944"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2006-01-01"
+pub_year: 2006
 type: "topic-analysis"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 38
 # The Procurement Outsourcing Benchmark Report
 
 > This study analyzes The Procurement Outsourcing Benchmark Report using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

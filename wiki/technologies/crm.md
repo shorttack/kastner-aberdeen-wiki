@@ -22,11 +22,6 @@ prescience_obs_count: 357
 > CRM systems cited as key IT spend driver from consumer empowerment and loyalty program trends.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Best-in-class companies enjoy a performance advantage over their peers in understanding not only who their customers are, but what type of relationship their customers want with them (Figure i). `[ps=5]` — [[study-2007-ra-cmo-smemme-la-3607-eff289]]

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Identified as key ALM component. Design-time governance 'encourages' programmers to reuse existing services; saves initial coding time and long-term maintenance costs. Laggards lack this. Already in cache.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Best-in-Class companies have implemented design-time governance and re-use policy to minimize lifecycle service costs compared to 26% overall — [[study-aberdeen-ra-soa-management-governance-20-ff6a2c]]

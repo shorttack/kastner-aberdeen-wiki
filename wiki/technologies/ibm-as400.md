@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Entry level ~$8,000; OS/400 V3R6/V3R7 Year 2000 compliant; evolved to iSeries (2000), System i (2006), IBM Power Systems running IBM i (2008-present)
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Gerstner cancels breakup; services pivot; AS/400 survival; OS/2 abandoned; Linux bet; IBM buys PwC Consulting — [[study-2026-kastner-ibm-longitudinal]]

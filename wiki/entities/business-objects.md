@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > status_detail=Acquired by SAP on January 22, 2008 for approximately $6.8 billion; operates as SAP BusinessObjects.; hq_location=Paris, France / San Jose, California, USA; description=French business intelligence vendor offering BusinessObjects and preparing Mercury decision-support system.; status_source_url=https://en.wikipedia.org/wiki/BusinessObjects
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Business Objects cited as leading standalone BI competitor — [[study-1997-oracle-data-mart-suite-for-nt-926845]]

@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "ibpp-toc-6e2fc5"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2000-01-01"
+pub_year: 2000
 type: "topic-analysis"
 subject_domain: "e-commerce"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # Internet Bill Presentment and Payment
 
 > This study analyzes Internet Bill Presentment and Payment using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2000, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

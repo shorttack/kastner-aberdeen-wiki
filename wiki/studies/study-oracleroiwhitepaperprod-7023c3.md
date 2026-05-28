@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "oracleroiwhitepaperprod-7023c3"
 author: "Peter S. Kastner"
-date: "June 2001"
-pub_year: 0
+date: "2001-01-01"
+pub_year: 2001
 type: "white-paper"
 subject_domain: "Enterprise Software / ERP Integration"
 methodology: "Qualitative interviews with ~12 IT professionals at large and midsize North American companies; supplemented by Aberdeen research data"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # Point Solutions Versus Integrated Oracle Applications: The Road to IT Investment ROI
 
 > This Aberdeen executive white paper sponsored by Oracle examines the ROI trade-offs between adopting best-of-breed point solutions versus a fully integrated enterprise application suite. Drawing on interviews with a dozen IT professionals at large and midsize North American companies, the paper argues that integration costs for point solutions are consistently underestimated — averaging 3-4x license fees and sometimes reaching 10x — while integrated suite implementations cost roughly 1x the license fee. Key topics include hidden integration costs, data model inconsistencies, workflow incompatibilities, discrete release cycle risk, and the dissipation of competitive advantage over time. The paper concludes that Oracle's integrated suite offers the highest long-term ROI for core business processes.
+
+
+_Published 2001, author **Peter S. Kastner**, type **white-paper**._
 
 
 ## Top observations

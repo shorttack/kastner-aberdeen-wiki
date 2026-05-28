@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > AI hardware arc: Gaudi AI accelerator (2019) and Falcon Shores (2025); zero pre-2010 AI product claims in archive; enables AI rather than building it
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 3 — [[study-2026-kastner-enterprise-ai-arc]]

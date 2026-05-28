@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > DEC's clustered computing system; 6600 installed worldwide at time of document; 16% of all VAX nodes in clusters; 64% of top 200 accounts had VAXcluster; key TP high-availability platform
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 20000 VAXcluster installations — [[study-1991-encore-and-metadata-47f414]]

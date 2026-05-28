@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > CTP client and partner; ERP leader in selected verticals; moving rapidly to extend supply chain; ahead of SAP in some innovation areas
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Baan appears on sound financial footing after turnaround under Invensys — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]

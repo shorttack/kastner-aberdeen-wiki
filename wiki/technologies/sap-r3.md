@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Three-tier client-server ERP suite; version 3.0 announced for AS/400 September 1995; introduced 1992 | version_in_study=3.0; successor_tech=SAP S/4HANA; status_note=SAP R/3 replaced by SAP ERP (ECC) then SAP S/4HANA; R/3 support ended 2015
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - HP 9000 Series 800 was original targeted hardware platform for SAP R3 redevelopment — [[study-1993-hercules-sap-28344a]]

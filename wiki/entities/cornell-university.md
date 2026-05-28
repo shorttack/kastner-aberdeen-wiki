@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Kastner attended 1965-1966 (Hotel Ezra Cornell incident) and returned as computer operator/programmer 1967-1968 running 360/65 SysGen and CHASE simulation.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Returned to Cornell University, School of Hotel Administration, after MIT training — [[study-volume-1-about-the-author]]

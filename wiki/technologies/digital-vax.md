@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > MicroVAX 3100-80 cited as best TPC-A price-performance leader March 1992; VAX 6000-640 SMP achieved 200+ TPS-A.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 7.69 — [[study-1992-tpc-benchmarks-vp-ed0e0d]]

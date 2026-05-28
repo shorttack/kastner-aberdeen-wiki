@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "enterprise-educating-the-team-wb061005a-4fb6c2"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2005-01-01"
+pub_year: 2005
 type: "market-study"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # ==> picture [432 x 130] intentionally omitted <==
 
 > This study analyzes ==> picture [432 x 130] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2005, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

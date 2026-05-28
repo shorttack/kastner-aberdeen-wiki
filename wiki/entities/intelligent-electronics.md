@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Software Corporation|||||87| ||Great Plains|||||89| ||IET – Intelligent Electronics|||||91| ||Infact Technologies|||||93| ||Inference Corporati
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - $3 billion revenue; third-largest US PC distributor behind Ingram Micro and Tech Data — [[study-kastner-ie-v-andersen-expert-report-3de98a]]

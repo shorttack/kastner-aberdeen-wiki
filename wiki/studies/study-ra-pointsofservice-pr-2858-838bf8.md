@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-pointsofservice-pr-2858-838bf8"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2006-01-01"
+pub_year: 2006
 type: "topic-analysis"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 25
 # The New Retail Differentiator: Making Extended Points of Service a Reality
 
 > This study analyzes The New Retail Differentiator: Making Extended Points of Service a Reality using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Research arm of The IIA; publishes internal-audit research
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Effective January 1, 2004 The IIA Research Foundation, Educational Products, and Academic Relations merged under a unified mission statement and new Board of Research and Education Advisors (BREA). — [[study-pc-management-best-practices-page-2-5-962daf]]

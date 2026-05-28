@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "wfms-research-preview-q406-cce768"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2006-01-01"
+pub_year: 2006
 type: "market-study"
 subject_domain: "retail"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # ==> picture [442 x 108] intentionally omitted <==
 
 > This study analyzes ==> picture [442 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2006, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

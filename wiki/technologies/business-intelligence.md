@@ -22,11 +22,6 @@ prescience_obs_count: 13
 > Cognos identified as world leader in BI; supports management cycle from planning/budgeting to measuring/monitoring to reporting/analysis; evolved into modern analytics and AI-driven BI platforms
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - More than 67% of these Best in advanced business intelligence, move to more Class retailers have enterprise-wide frequent BI-related KPI measurements, and make business intelligence applications retention, acquisition standard operating procedure. budgeted or in place. √ `[ps=5]` — [[study-rb-retailersusebidata-gb-3174-7cf5d4]]

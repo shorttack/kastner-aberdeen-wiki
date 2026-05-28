@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Oracle 7.3 is performance champion; TPC-C benchmarks from July 1995; version 7.3 may be TPC-C stop-gap
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - $2.4 billion total 1994 corporate revenue; up 40% from 1993 — [[study-inforx95-3-9a45fe]]

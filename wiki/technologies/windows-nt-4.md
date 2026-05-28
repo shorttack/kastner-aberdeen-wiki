@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > NT 4.0 included SMP enhancements; evolved into Windows 2000 Server then Windows Server 2003+
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Multi-user architectures enable managing entire enterprise from a central server — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]

@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-sro-mvrg-2860-edc995"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2006-01-01"
+pub_year: 2006
 type: "topic-analysis"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 17
 # The Field Service Scheduling & Routing Optimization Solution Selection Report
 
 > This study analyzes The Field Service Scheduling & Routing Optimization Solution Selection Report using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

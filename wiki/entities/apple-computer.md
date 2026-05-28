@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Apple II referenced as the personal-computing benchmark Prime is reacting to (10MB disk / 48K mem / 1 user vs Prime 250's 2000MB / 1MB / 64 processes at 10x price).
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Apple co-announced NC Reference Profile; developing Mac NC (Pippin) — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]

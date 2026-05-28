@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > role=technology-partner; status_note=Acquired by IBM in 2001 for approximately $1 billion; Informix database product line continues under IBM.; hq_location=Menlo Park, CA, USA
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Informix named as supported DataJoiner join target via open-server operations — [[study-1997-ibm-information-integration-family--29351c]]

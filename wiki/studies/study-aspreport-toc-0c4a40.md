@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "aspreport-toc-0c4a40"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "1999-01-01"
+pub_year: 1999
 type: "topic-analysis"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # Evolution of a Revolution: The State of the ASP Industry
 
 > This study analyzes Evolution of a Revolution: The State of the ASP Industry using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1999, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

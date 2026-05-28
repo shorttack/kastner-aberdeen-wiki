@@ -22,11 +22,6 @@ prescience_obs_count: 90
 > Fallback technology context for studies without a specific product or platform signal.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - In 1996, about 90% of the enterprise training opportunities used the traditional classroom method. `[ps=5]` — [[study-2000-e-learning-in-the-enterprise-psk-5caf5b]]

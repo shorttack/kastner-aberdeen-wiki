@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > ........................................................ 35 CompUSA, Inc.: Building Community Fuels Analysis for Customer Insig
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - CompUSA had a lot of deals this week exclusively on HP and Compaq machines. Especially consider Compaq's 6370US for $1,300. — [[study-dct-weekly-2003-01-12]]

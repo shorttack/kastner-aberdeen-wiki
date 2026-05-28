@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Kastner spent six years marketing fault-tolerant computing at Stratus, competing against Tandem and IBM.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Who Cares if the Computer Breaks — [[study-boston-globe-mit-enterprise-forum-kastne-2a3462]]

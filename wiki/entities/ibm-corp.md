@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > ....................................................... 112 IBM Corporation ...........................................................
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - IBM AS/400 D70 ~$920K 5-year cost for 40 tps-A — highest in the set — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]

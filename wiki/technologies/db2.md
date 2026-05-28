@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Referenced alongside grid computing as infrastructure efficiency approach; conceptual precursor to cloud computing pay-per-use models; superseded by IaaS/PaaS cloud services
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - scalable_commercial_grade_vs_research_tools — [[study-1997-data-mining-buying-guide-71e463]]

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Linux guru at Linuxcare; original author of Samba (SMB/CIFS implementation for Linux/Unix); one of the most influential open source contributors.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Andrew Tridgell (original Samba author) is a Linuxcare guru — [[study-linuxcare-ab95f6]]

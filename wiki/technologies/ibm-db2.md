@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > description=IBM relational database management system; referenced as a snapshot source in the Intelligent Snapshot feature.; lifecycle_note=IBM Db2 remains an active product; modernized with cloud and containerized deployments.; successor_technology=IBM Db2 (cloud editions)
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 -  — [[study-10ibmiss-f66945]]

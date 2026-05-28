@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > HT variant launched Nov 2002; appears as 'Pentium 4 HT' in CPUclass
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - P4 HT now mainstream — better multi-tasking and thread-aware apps — [[study-dct-pc-replacement-insight1-2003-04]]

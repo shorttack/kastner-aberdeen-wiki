@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > WfMC's Workflow API was an industry standard attempt at workflow interoperability. Superseded by BPEL4WS, BPMN 2.0, and modern workflow automation platforms. | Successor: BPMN 2.0, BPEL, Camunda, Airflow
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - No significant penalty between OS choices — [[study-1992-tpc-benchmarks-vp-745fa1]]

@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "manufacturing-snapshot-c7bf80"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2007-01-01"
+pub_year: 2007
 type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # ==> picture [222 x 37] intentionally omitted <==
 
 > This study analyzes ==> picture [222 x 37] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

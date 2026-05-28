@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Virtual circuit switching alternative to IP; Aberdeen cited as too complex for campus environments vs. Bay's switch-node approach.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Cheap, infinite network bandwidth with ATM by 2001 — [[study-1996-sequent-38f0b1]]
@@ -39,8 +34,3 @@ prescience_obs_count: 0
 - Linking SecureFast Architecture and IP Switching technology — [[study-aberdeen-1997-aberdeen-group-impacts]]
 - ATM posted healthy growth in 1997 as WAN and LAN backbone but failed as end-to-end desktop technology — [[study-networ~1-96462b]]
 - Will accelerate complex high-volume applications — [[study-nti-2-open-systems-1dd3af]]
-
-
-## Provenance
-
-> The 1991 founding artifact for Aberdeen's ATM thesis is a known missing source: [[study-aberdeen-1991-robbins-atm-future]] (Charles T. Robbins under Tom Willmott, ~100 pages, January 1991). See `_missing_sources.csv` in the source archive for the canonical missing-sources registry.

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Forensic consulting engagement; new system launched January 1 due to accounting convenience; IT manager fired; company weeks from being unable to close books.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Houghton Mifflin was a Honeywell shop running 2000-series mainframe — [[study-adl-commercial-engagements-kastner-1972-1979-b8b001]]

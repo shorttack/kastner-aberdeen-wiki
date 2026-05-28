@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "1997-nortel--transforming-business-by-po-3edae6"
 author: "Aberdeen Group"
-date: "May 1997"
-pub_year: 0
+date: "1997-01-01"
+pub_year: 1997
 type: "Vendor Profile"
 subject_domain: "Enterprise Networking / Telecommunications"
 methodology: "Vendor-sponsored profile; customer interviews; product feature review; competitive analysis"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # Nortel: Transforming Business By Powering The Enterprise
 
 > Aberdeen Group vendor profile positioning Nortel as world leader in end-to-end multimedia networking. Covers Nortel's multimedia calling vision (ATM voice/data/video convergence), Magellan ATM switch product line (#1 claim in multimedia networking), Meridian PBX, Global Enterprise Services (2,000 engineers in 100 countries), and competitive position. Customer testimonials document $435,000/year line cost savings for a 1,600-user frame relay network. Aberdeen concludes Nortel is a best-of-breed benchmark for networking providers. Study was sponsored by Nortel Enterprise Networks. Nortel filed for bankruptcy January 14, 2009.
+
+
+_Published 1997, author **Aberdeen Group**, type **Vendor Profile**._
 
 
 ## Top observations

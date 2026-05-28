@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > description=OMG standard for distributed object interoperability using Interface Definition Language (IDL). ObjectBroker conforms to CORBA 1.2 at time of study.; lifecycle_notes=CORBA remains technically active in some sectors (finance, defense, telecoms via IONA/Micro Focus) but is broadly considered legacy middleware displaced by REST/SOAP/gRPC.; related_entity_id=OMG
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 52 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]

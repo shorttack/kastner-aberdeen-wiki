@@ -22,11 +22,6 @@ prescience_obs_count: 37
 > Aberdeen hired a dedicated Linux analyst when Red Hat took off. Linux won open-architecture battle through open licensing and community development rather than technical standardization.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Recently, Dell replaced Compaq as the number-one Intel server vendor in the U.S. (for servers under $25,000) — although Compaq remains number one worldwide. `[ps=5]` — [[study-09010007-2a8be4]]

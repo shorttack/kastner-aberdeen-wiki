@@ -20,11 +20,6 @@ prescience_obs_count: 0
 # Aberdeen Personal Information Technology Practice
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - $19,500 — [[study-dct-pit-service-offering-2002]]

@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "optical-electronicreport-toc-0a3155"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "1999-01-01"
+pub_year: 1999
 type: "topic-analysis"
 subject_domain: "asset-management"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # Moving at Light Speed: The Transition to Optical Networks
 
 > This study analyzes Moving at Light Speed: The Transition to Optical Networks using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1999, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

@@ -22,11 +22,6 @@ prescience_obs_count: 4
 > Open operating system that, combined with x86 economics, rendered Prime’s minicomputer architecture economically irrelevant by the late 1980s; specifically cited by Kastner: ‘Intel-based server running Unix’.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - HP just spent $350 million on StorageApps, and Compaq has a large emotional and dollar commitment to the undelivered VersaStor. `[ps=2]` — [[study-09010006-f43488]]

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Umbrella brand for DEC's integrated TP hardware and software product suite; announced 1988; includes ACMS, DECintact, DECdtm, DECdta, Rdb/VMS, DECforms, VAXft; Kastner led marketing work for this announcement
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - enterprise_transaction_processing_challenger — [[study-2026-kastner-dec-longitudinal-22d177]]

@@ -22,11 +22,6 @@ prescience_obs_count: 71
 > Derived from source text and entity context.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 2014: Boston launched a $17 million dispatch modernization (using an Intergraph CAD platform) integrating real-time GPS, ShotSpotter gunfire detection, and seamless service for police, fire, and EMS. `[ps=5]` — [[study-adls-911-systems-90e771]]

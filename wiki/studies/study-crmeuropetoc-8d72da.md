@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "crmeuropetoc-8d72da"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2000-01-01"
+pub_year: 2000
 type: "topic-analysis"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # ~~What Works in~~ E urope:
 
 > This study analyzes ~~What Works in~~ E urope: using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2000, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

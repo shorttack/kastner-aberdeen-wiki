@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "edocssnapshot-8a34df"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "1996-01-01"
+pub_year: 1996
 type: "market-study"
 subject_domain: "wireless"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # ==> picture [82 x 80] intentionally omitted <==
 
 > This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1996, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

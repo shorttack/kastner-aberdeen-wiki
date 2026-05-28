@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Rdb/VMS used in VAX TPC-A benchmarks; software improvements drove 50% performance gain on VAX 4000-300.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - From 31.90 to 10.71 (threefold improvement) — [[study-1992-tpc-benchmarks-vp-ed0e0d]]

@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-intelitaniummfewp1-1-204e5f"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2004-01-01"
+pub_year: 2004
 type: "benchmark"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 11
 # Intel’s Itanium: Ready and Desirable for MainframeClass Workloads
 
 > This study analyzes Intel’s Itanium: Ready and Desirable for MainframeClass Workloads using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2004, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

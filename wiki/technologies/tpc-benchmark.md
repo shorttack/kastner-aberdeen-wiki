@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > TPC and other industry benchmarks cited as demonstrating that Itanium 2 absolute performance and scalability has met or surpassed virtually all commercial application workload requirements.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - De facto industry standard for measuring commercial performance and price-performance — [[study-1992-tpc-benchmarks-vp-ed0e0d]]

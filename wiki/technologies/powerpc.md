@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Next-gen CPU for RS/6000; users delaying AIX upgrade were coupling OS+HW upgrade — a high-risk approach per Aberdeen
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Bull intends to implement PowerPC 620 processor in Sagister by fall 1996; OS support dependent on IBM/Bull AIX 64-bit efforts — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]

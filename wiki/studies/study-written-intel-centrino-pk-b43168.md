@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-intel-centrino-pk-b43168"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2003-01-01"
+pub_year: 2003
 type: "market-study"
 subject_domain: "wireless"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 3
 # Intel’s Centrino: Don’t Man the Barricades
 
 > This study analyzes Intel’s Centrino: Don’t Man the Barricades using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2003, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

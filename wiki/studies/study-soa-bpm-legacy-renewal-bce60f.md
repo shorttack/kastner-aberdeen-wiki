@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "soa-bpm-legacy-renewal-bce60f"
 author: "Peter S. Kastner (AI-assisted)"
-date: "~2023-2026"
-pub_year: 0
+date: "2026-01-01"
+pub_year: 2026
 type: "ai-response"
 subject_domain: "SOA; BPM; legacy modernization; enterprise architecture"
 methodology: "AI-generated essay; first-person Kastner voice"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # Embracing the Future: The Case for Integrating SOA and BPM in Legacy Application Renewal
 
 > An AI-generated 2,000-word essay written in Peter Kastner's first person, directed at business decision makers. Argues for adopting a combined SOA + BPM strategy as the primary vehicle for legacy application renewal. Covers legacy system limitations (inflexibility, high maintenance cost, poor UX), SOA's role in agility and interoperability, BPM's role in process optimization and real-time monitoring, and the synergy of the combined approach for customer satisfaction, cost reduction, and future-proofing. Organized around five strategic pillars: agility, process streamlining, customer satisfaction, cost/ROI, and future-proofing.
+
+
+_Published 2026, author **Peter S. Kastner (AI-assisted)**, type **ai-response**._
 
 
 ## Top observations

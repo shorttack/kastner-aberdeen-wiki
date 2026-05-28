@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "enterprise-benchmarking-performance-7387ac"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2004-01-01"
+pub_year: 2004
 type: "benchmark"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # ==> picture [433 x 130] intentionally omitted <==
 
 > This study analyzes ==> picture [433 x 130] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2004, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

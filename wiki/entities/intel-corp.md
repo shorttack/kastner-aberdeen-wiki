@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Reported Q1 2003 earnings April 15 2003; stock ended week at $18.66
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Pentium II up to 450 MHz — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]

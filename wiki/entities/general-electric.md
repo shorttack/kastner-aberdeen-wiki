@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Cited via 'every dollar saved in engineering translates to about $1000 saved in large scale production' from a GE engineer (CAD/CAM section).
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - $56 million in Netscape stock (1.7M shares at ~$33/share) — [[study-aberdeen-1997-actra-commercexpert-internet-commerce]]

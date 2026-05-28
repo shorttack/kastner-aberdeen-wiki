@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > description=Practice of cataloging and managing data about data; central to the Virtual Data Warehouse's SmartData semantic layer approach.; lifecycle_note=Metadata management has grown in importance; modern data catalogs (Apache Atlas, Alation, Collibra) and data governance platforms are direct successors.; successor_technology=Data catalogs; data governance platforms
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 18 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]

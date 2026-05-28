@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Aberdeen's CRM category-creation for Siebel is the strategic analogy cited for the midline category plan
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - ~$3.7 billion (ISV revenues) — [[study-1999-managing-customers-with-next-generation-software-a-a5adc4]]

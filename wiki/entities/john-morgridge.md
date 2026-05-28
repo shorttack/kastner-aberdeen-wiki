@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > VP of Sales and Marketing at Stratus; ex-Honeywell; later became Cisco's first non-founder CEO.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - John Morgridge, Stratus marketing vice-president — [[study-stratus-olivetti-40m-deal-eagle-tribune--b7e3b1]]

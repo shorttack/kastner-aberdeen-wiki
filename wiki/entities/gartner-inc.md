@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > ce management. Before that, Enslow was research director at Gartner, Inc., where she ran its supply chain planning and logistics advi
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 'Future sustained high-growth rates are improbable without major shift' — [[study-dct-personal-it-forecast-research-2001]]

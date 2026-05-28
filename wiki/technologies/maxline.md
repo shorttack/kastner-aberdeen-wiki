@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Maxtor's enterprise-targeted ATA disk; designed for 24/7 operation with higher MTBF than desktop ATA. Positioned as 'complementary' midline storage. Acquired by Seagate 2006.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - The mid-line category of HDDs can resolve both near-line backup and restore window issues with better mid-line software — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]

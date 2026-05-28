@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > New England gas station and convenience store chain; early PHI client for whom Kastner built a retail accounting system handling pump counter rollover at 9,999 gallons.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Kastner designed/programmed retail gas-station accounting system in IBM COBOL; daily cash transmittal proved to pump meter readings — [[study-phi-psd-brochure-and-kastner-engagements-1969-1972-b8d001]]

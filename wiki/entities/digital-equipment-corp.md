@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > DEC's Alpha/OSF1 was 5th Unix attempt in 5 years; Aberdeen strongly recommended against DEC for Hercules; DEC acquired by Compaq for $9.6B in 1998 — outcome validated Aberdeen's concerns
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 20000 VAXcluster installations — [[study-1991-encore-and-metadata-47f414]]

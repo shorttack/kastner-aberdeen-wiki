@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "pscrm99-toc-400c8d"
 author: "Supplier Profiles"
-date: ""
-pub_year: 0
+date: "1999-01-01"
+pub_year: 1999
 type: "topic-analysis"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # A Guide To Customer Relationship Management Professional Services: 1999 Edition
 
 > This study analyzes A Guide To Customer Relationship Management Professional Services: 1999 Edition using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1999, author **Supplier Profiles**, type **topic-analysis**._
 
 
 ## Top observations

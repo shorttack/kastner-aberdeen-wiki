@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Founded 1984 by Len Bosack and Sandy Lerner at Stanford; $4B revenue trailing four quarters at time of report; $40B market cap in 1997; became largest networking company in the world; peak market cap ~$555B in March 2000 during dot-com bubble; still active and dominant as of 2026 (NASDAQ: CSCO).
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - IP Switching, Tag Switching, Flow Switching - migration strategies for high-speed network media — [[study-1997-bay-networks--switch-node-routing-s-4d9885]]

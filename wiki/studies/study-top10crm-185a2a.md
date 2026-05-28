@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "top10crm-185a2a"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2000-01-01"
+pub_year: 2000
 type: "topic-analysis"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # What Works: Ten Significant CRM Implementations of 2000
 
 > This study analyzes What Works: Ten Significant CRM Implementations of 2000 using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2000, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

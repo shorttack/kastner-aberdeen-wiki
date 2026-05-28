@@ -22,11 +22,6 @@ prescience_obs_count: 278
 > External-facing extension of ERP enabling automation with suppliers; extended ERP concept
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Specifically, 60% of enterprises using e-sourcing have been unable to fully implement the savings negotiated online. `[ps=5]` — [[study-bvr-spendcompmgmt-121704b-e31821]]

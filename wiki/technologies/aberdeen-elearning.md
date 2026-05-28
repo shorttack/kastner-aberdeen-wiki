@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Fort Collins CO division offering web-based sales and channel partner education; mentioned as optional service
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - e-Learning listed as Enhanced Practice Opportunity (Level 3-4) — [[study-2001-kickoff-content-1db48b]]

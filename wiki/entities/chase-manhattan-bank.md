@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Site of a securities migration project that Kastner participated in early in his career; cited as one of several formative institutional environments.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Chase Manhattan trust operations relied on Univac 96-column card processing; Univac exit from unit-record business in 1972 forced replacement — [[study-adl-commercial-engagements-kastner-1972-1979-b8b001]]

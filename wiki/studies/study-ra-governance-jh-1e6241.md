@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-governance-jh-1e6241"
 author: "Open Service"
-date: ""
-pub_year: 0
+date: "2005-01-01"
+pub_year: 2005
 type: "topic-analysis"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 37
 # ==> picture [69 x 792] intentionally omitted <==
 
 > This study analyzes ==> picture [69 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2005, author **Open Service**, type **topic-analysis**._
 
 
 ## Top observations

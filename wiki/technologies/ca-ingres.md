@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Study's home vendor RDBMS; architecture described as behind with no parallel/scalable story; noted as number four trailing.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - RDBMS architecture is behind — no parallel/scalable — [[study-cab199-1-2-0cb163]]

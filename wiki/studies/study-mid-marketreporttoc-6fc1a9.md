@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "mid-marketreporttoc-6fc1a9"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2003-01-01"
+pub_year: 2003
 type: "topic-analysis"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # The Small and Middle Market Enterprise
 
 > This study analyzes The Small and Middle Market Enterprise using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2003, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

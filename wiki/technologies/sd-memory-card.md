@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Subject of study; portable storage for digital info transfer between devices. Key differentiator: interoperability across cameras, camcorders, printers, PCs, PDAs, DVDs. Consumer preferred capacity range 256MB-1GB.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Licensed audio and video programming on preprogrammed SD cards; proprietary compression — [[study-dct-oct.-4-hot-topic-b61c0d]]

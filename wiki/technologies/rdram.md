@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Referenced in weekly PC Deals commentary 2002-08-24
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - The segments improving the least are the low end, which we define as $600 and under, and high-performance Pentium machines made with RDRAM. — [[study-dct-weekly-2002-08-24-pc-deals-analysis]]

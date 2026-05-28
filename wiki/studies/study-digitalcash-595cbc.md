@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "digitalcash-595cbc"
 author: "Bottom Line"
-date: ""
-pub_year: 0
+date: "1999-01-01"
+pub_year: 1999
 type: "topic-analysis"
 subject_domain: "e-commerce"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # The Dash to Digital Cash: Enabling Internet Commerce Microtransactions
 
 > This study analyzes The Dash to Digital Cash: Enabling Internet Commerce Microtransactions using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1999, author **Bottom Line**, type **topic-analysis**._
 
 
 ## Top observations

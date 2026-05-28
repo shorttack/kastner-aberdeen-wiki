@@ -22,11 +22,6 @@ prescience_obs_count: 3
 > Aberdeen notes Java is limited by language/class library constraints for complex OLTP in 1996; prediction was accurate for the era.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-cryptocardsnapshot-3ce4c3]]

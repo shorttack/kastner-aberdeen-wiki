@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "aberdeene-businesscollateral-788c61"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2005-01-01"
+pub_year: 2005
 type: "market-study"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # e-Business@Aberdeen Research and Consulting for e-Business
 
 > This study analyzes e-Business@Aberdeen Research and Consulting for e-Business using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2005, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

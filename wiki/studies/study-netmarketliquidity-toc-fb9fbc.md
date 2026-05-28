@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "netmarketliquidity-toc-fb9fbc"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2001-01-01"
+pub_year: 2001
 type: "topic-analysis"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # ~~What Works~~ :
 
 > This study analyzes ~~What Works~~ : using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2001, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

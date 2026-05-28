@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Key RISC/Unix scalability technology; Sun established SMP credibility for commercial workloads in 1995; Sequent focused on high-end SMP for data warehousing
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Good to 4 processors; fair to 8; few do more than 10 well; Sequent does very well — [[study-1996-sequent-38f0b1]]

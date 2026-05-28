@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Intel CEO; quoted Jan 1993 WSJ in 1993 Aberdeen MFA deck
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - WSJ 18-Jan-1993 — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]

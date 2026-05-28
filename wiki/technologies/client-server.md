@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Aberdeen championed client-server as a permanent architectural principle separating presentation, business logic, and data management. Kastner argued this before the term microservices was coined.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 -  — [[study-10ibmiss-f66945]]

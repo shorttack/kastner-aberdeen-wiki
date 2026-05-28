@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Platform for electronic commerce; 45% of US adults with access; 40000 businesses projected to grow 10x by 2000
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Cloud computing (AWS launched 2006; Azure 2010; GCP 2011) fulfilled and vastly exceeded Aberdeen's 1997 prediction that all organizations should consider IT outsourcing — [[study-1997-the-business-value-of-applications-hosting-e92e09]]

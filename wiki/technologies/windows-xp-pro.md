@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Referenced in weekly PC Deals commentary 2002-08-24
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Our argument for a 2.0GHz or better processor is based on lab experiences with Windows XP Pro with Service Pack 1 and standard Office, Internet, and collaboration applications. — [[study-dct-business-2002-11-pc-deals]]

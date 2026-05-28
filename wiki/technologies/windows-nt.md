@@ -22,11 +22,6 @@ prescience_obs_count: 3
 > Windows NT 3.51 mentioned as a supported server and client platform for Oracle InterOffice. NT kernel architecture evolved into Windows 2000, XP, and all modern Windows versions; NT 3.51 itself obsolete. | Successor: Windows Server 2025
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - _**“95% of Fortune 1000 Will Have Intranets By 2000” -- Forrester**_ `[ps=5]` — [[study-infrastructure-speech-7f6c5b]]

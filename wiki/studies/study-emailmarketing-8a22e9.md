@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "emailmarketing-8a22e9"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2001-01-01"
+pub_year: 2001
 type: "topic-analysis"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # e-Mail Marketing: Relevancy, Retention, and ROI
 
 > This study analyzes e-Mail Marketing: Relevancy, Retention, and ROI using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2001, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

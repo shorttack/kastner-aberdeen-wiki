@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-clicks-jl-3710-3cb22d"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2007-01-01"
+pub_year: 2007
 type: "topic-analysis"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 50
 # ==> picture [240 x 792] intentionally omitted <==
 
 > This study analyzes ==> picture [240 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

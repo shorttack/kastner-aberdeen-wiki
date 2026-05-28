@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Referenced in weekly PC Deals commentary 2002-08-24
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - We consider an AMD Athlon 2000+ as functionally equivalent for business applications. — [[study-dct-business-2002-11-pc-deals]]

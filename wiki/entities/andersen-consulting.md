@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > $6.6B revenue 1997; 53,000 professionals; world's largest management and technology consulting firm; attempting break from Arthur Andersen; Chicago IL
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Largest SAP implementation partners; 300 Andersen technicians specialized in Siebel/SAP installation by 1997; take project lead — [[study-1997-teamsap-a3591b]]

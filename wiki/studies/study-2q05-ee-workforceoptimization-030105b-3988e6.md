@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "2q05-ee-workforceoptimization-030105b-3988e6"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2005-01-01"
+pub_year: 2005
 type: "benchmark"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # ==> picture [441 x 108] intentionally omitted <==
 
 > This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

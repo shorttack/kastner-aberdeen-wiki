@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > wspaper insert nationwide   - Kraft paper manufacturing for Continental Forest Industries: trees to cardboard at thousands of feet per second.   Houg
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 2,000-pound paper rolls moving at lethal speeds; 'Order and Harmony' required as matter of physical safety — [[study-management-skills-learned-1969-3e75d0]]

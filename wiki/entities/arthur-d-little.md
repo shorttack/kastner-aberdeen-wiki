@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Kastner’s employer for eight years before Prime; ADL work on fixed-price contracts contrasted with Prime’s equity upside. Schlegel was brother of an ADL colleague.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - ADL substituted COSMOS-based approach for floundering Chase IT project, conceived by Murray Sherry — [[study-adl-commercial-engagements-kastner-1972-1979-b8b001]]

@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-dct-oct-4-hot-topic-13a344"
 author: "Russ Craig & Peter Kastner _AberdeenGroup is a leading market analysis and positioning ser-_"
-date: ""
-pub_year: 0
+date: "2003-01-01"
+pub_year: 2003
 type: "market-study"
 subject_domain: "Linux"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 5
 # ==> picture [450 x 121] intentionally omitted <==
 
 > This study analyzes ==> picture [450 x 121] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2003, author **Russ Craig & Peter Kastner _AberdeenGroup is a leading market analysis and positioning ser-_**, type **market-study**._
 
 
 ## Top observations

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Ran Aberdeen weekly retail PC tracking research; author of the Weekly PC Deals program documentation
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Caroline Kastner ran Aberdeen's retail PC tracking research — [[study-dct-about-weekly-pc-deals-2002]]

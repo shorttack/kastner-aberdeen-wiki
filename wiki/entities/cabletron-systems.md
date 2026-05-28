@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Founded 1983 by Craig Benson and Robert Levine; peak revenue $1B+ (1996); reorganized as holding company in 2000 creating four subsidiaries: Enterasys Networks, Riverstone Networks, Aprisma Management Technologies, and GNTS; Enterasys acquired by The Gores Group (2006) then by Extreme Networks for $180M (2013). Cabletron was effectively dead as a brand by 2001.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Leader in LAN switch, VLAN, and network management technologies since 1990; invested in VLAN technology before the market recognized its importance — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]

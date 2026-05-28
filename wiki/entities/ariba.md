@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > e-Procurement point solution vendor; partnered with i2 and IBM in million-dollar ad campaign, dissolved in under 6 months; cited as example of fragile best-of-breed partnerships.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Ariba acquired by SAP for $4.3B in 2012; validated as the dominant Internet procurement platform with 2.5M+ vendor network — [[study-1998-internet-procurement-cdc4a6]]

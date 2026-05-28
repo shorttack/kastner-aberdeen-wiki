@@ -1,5 +1,19 @@
 #!/usr/bin/env python3
-"""kw_ask.py v3 — chatbox over the Kastner Aberdeen Wiki via bge-m3 RAG.
+"""kw_ask.py v4 — chatbox over the Kastner Aberdeen Wiki via bge-m3 RAG.
+
+v4 changes (2026-05-28, post-Phase-5 schema alignment):
+  - Schema reconciliation with `05_compute_embeddings_v2.py`. The Phase 5
+    writer emits columns `path, slug, embedding, dim`. Prior kw_ask (v2/v3)
+    queried `page_path, slug, title, page_type, vector` — those columns do
+    not exist in the parquet file. Result: `BinderException: Referenced
+    column "vector" not found`.
+  - New approach:
+      * SELECT path, slug, embedding FROM embeddings.parquet
+      * Derive title + page_type from the on-disk markdown frontmatter (we
+        already load each page below; the YAML header is right there).
+      * Cache title/page_type per session so we don't reparse 10,296 files
+        when `--type` filtering is in play.
+  - `page_path` is set equal to `path` for downstream compatibility.
 
 v3 changes:
   - `--cloud` flag is now a stub: prints a clear error directing the user to
@@ -45,6 +59,64 @@ PAGE_CHARS = 2000
 
 THINK_RE = re.compile(r"<think>.*?</think>\s*", flags=re.DOTALL | re.IGNORECASE)
 
+# v4: top-level dir under wiki/ maps to page_type for pages that lack
+# explicit frontmatter `page_type:` (root index files, mostly). Source of
+# truth is the parquet `path` column.
+DIR_TO_PAGE_TYPE = {
+    "studies": "study",
+    "entities": "entity",
+    "technologies": "technology",
+    "codes": "code",
+    "themes": "theme",
+    "volume-1": "volume-1",
+    "decades": "decade",
+    "collections": "collection",
+}
+
+# Cache: page_path -> (title, page_type). Populated lazily by _page_meta().
+_meta_cache: dict[str, tuple[str, str]] = {}
+
+_FM_TITLE_RE = re.compile(r'^title:\s*"?(.*?)"?\s*$', re.MULTILINE)
+_FM_PTYPE_RE = re.compile(r'^page_type:\s*"?(.*?)"?\s*$', re.MULTILINE)
+
+
+def _derive_page_type_from_path(page_path: str) -> str:
+    """Fallback page_type when frontmatter doesn't carry one. Looks at the
+    top-level dir under wiki/ (e.g. wiki/studies/foo.md -> 'study')."""
+    parts = page_path.split("/")
+    if len(parts) >= 2 and parts[0] == "wiki":
+        return DIR_TO_PAGE_TYPE.get(parts[1], "index")
+    return "index"
+
+
+def _page_meta(page_path: str) -> tuple[str, str]:
+    """Return (title, page_type) for a wiki page, parsing YAML frontmatter.
+    Cached per session."""
+    hit = _meta_cache.get(page_path)
+    if hit is not None:
+        return hit
+    full = ROOT / page_path
+    title = Path(page_path).stem
+    ptype = _derive_page_type_from_path(page_path)
+    if full.exists():
+        try:
+            # Read only the first ~2KB — frontmatter is always at the top.
+            head = full.read_text(encoding="utf-8", errors="replace")[:2048]
+            if head.startswith("---\n"):
+                end = head.find("\n---\n", 4)
+                if end > 0:
+                    fm = head[4:end]
+                    m = _FM_TITLE_RE.search(fm)
+                    if m:
+                        title = m.group(1).strip()
+                    m = _FM_PTYPE_RE.search(fm)
+                    if m:
+                        ptype = m.group(1).strip()
+        except OSError:
+            pass
+    _meta_cache[page_path] = (title, ptype)
+    return title, ptype
+
 
 def embed_query(text: str) -> np.ndarray:
     r = requests.post(
@@ -60,15 +132,26 @@ def embed_query(text: str) -> np.ndarray:
 
 def retrieve(query: str, k: int = 6, page_type: str | None = None):
     qv = embed_query(query)
+    # v4: parquet schema is (path, slug, embedding, dim). We alias `embedding`
+    # to `vector` for the rest of the script's variable naming.
     df = duckdb.sql(
-        f"SELECT page_path, slug, title, page_type, vector "
+        f"SELECT path AS page_path, slug, embedding AS vector "
         f"FROM '{EMB_PARQUET}' "
-        f"WHERE vector IS NOT NULL"
+        f"WHERE embedding IS NOT NULL"
     ).df()
+    if len(df) == 0:
+        return df
+
+    # Derive title + page_type from frontmatter (cached).
+    meta = df["page_path"].apply(_page_meta)
+    df["title"] = meta.apply(lambda t: t[0])
+    df["page_type"] = meta.apply(lambda t: t[1])
+
     if page_type:
         df = df[df["page_type"] == page_type].reset_index(drop=True)
     if len(df) == 0:
         return df
+
     vecs = np.stack(df["vector"].apply(np.array).values).astype(np.float32)
     norms = np.linalg.norm(vecs, axis=1, keepdims=True) + 1e-9
     vecs = vecs / norms

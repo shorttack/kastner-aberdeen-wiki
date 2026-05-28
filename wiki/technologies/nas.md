@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > DEC's strategy for integrating non-DEC architectures (MS-DOS, SNA, Cray, Apple) into enterprise-wide computing; three classes: apps access, business comms, info/resource sharing
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Strong — NAS among storage staples buyers will continue buying — [[study-2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb]]

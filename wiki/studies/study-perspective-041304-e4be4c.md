@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "perspective-041304-e4be4c"
 author: "Peter S. Kastner"
-date: "April 13, 2004"
-pub_year: 0
+date: "2004-01-01"
+pub_year: 2004
 type: "topic-analysis"
 subject_domain: "Enterprise Computing / Server Platforms / Mainframe Migration"
 methodology: "Q1-2004 in-depth qualitative interviews with U.S., European, and Asian users; quantitative survey of 98 qualified mainframe users"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # Intel's Itanium: Ready and Desirable for Mainframe-Class Workloads
 
 > This Aberdeen Perspective piece evaluates whether Intel Itanium 2-based platforms can handle mainframe-class workloads and compares them to IBM zSeries mainframes. Drawing on Q1-2004 interviews and a survey of 98 mainframe users, the paper concludes that Itanium platforms are not only capable but in many cases desirable: users report superior performance/scalability, lower TCO, greater flexibility, and comparable robustness. Key findings include that ~40% of mainframe users are open to shifting to Itanium-based platforms; Xeon handles migrated mainframe workloads already in production; COBOL/FORTRAN/DB2 migration is surprisingly straightforward; and CICS/DL1/assembler migration requires significant effort. Aberdeen recommends 'surround, offload, or migrate' strategies over full 'replace' initiatives.
+
+
+_Published 2004, author **Peter S. Kastner**, type **topic-analysis**._
 
 
 ## Top observations

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > AMD 32-bit desktop CPU brand, used K7 Palomino/Thoroughbred/Barton cores; succeeded by Athlon 64 (2003) and Sempron low-end (2004)
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Using clock-speed GHz equivalency ratings pegged to Intel Pentium 4 — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]

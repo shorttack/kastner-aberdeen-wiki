@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Referenced as announcing IP switching devices; WAN/ATM networking vendor; acquired by Lucent Technologies for $20B (1999); became part of Lucent then Alcatel-Lucent.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Primary competitor to Bay Networks in high-density remote access concentrator market — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]

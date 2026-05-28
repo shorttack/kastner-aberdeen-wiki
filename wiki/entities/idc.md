@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Founded 1964. Dominated market sizing and forecasting; owned quantitative shipment/revenue/market-share data. Tom Willmott came from IDC.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - There is no place in the datacenter for lower availability at the application level simply because the storage uses capacity-oriented technology — [[study-05-idc-sata-report-0872b8]]

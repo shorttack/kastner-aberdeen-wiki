@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > C110 and 712/100 Unix workstations benchmarked; HP J210 priced at $34,980 vs Alpha XL at $17,413
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 4,939 tpmC at $232/tpmC (HP/UX, 4-way, Oracle 7) — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]

@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "maynews-888c65"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "1988-01-01"
+pub_year: 1988
 type: "market-study"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 4
 # Volume 2, Number 1
 
 > This study analyzes Volume 2, Number 1 using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1988, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

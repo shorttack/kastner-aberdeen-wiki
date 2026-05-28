@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > NetBurst microarchitecture CPU; high clock speeds 1.4-3.8 GHz; last of the Pentium brand before Core 2 Duo (2006)
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Reference platform for AMD's equivalency claims — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]

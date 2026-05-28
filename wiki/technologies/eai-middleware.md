@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > 45% of companies investing in EAI; large companies 57% vs mid-size 35% vs small 27%
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - e-Commerce is the greatest challenge currently facing traditional EAI suppliers — [[study-2000-enterprise-application-integration1-9e1eca]]

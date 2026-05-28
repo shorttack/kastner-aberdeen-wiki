@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > The proposed centralized architecture; IBM ES/9000 series mainframe family in use circa 1990-1992. Peak CPU hit 95-100% under production load. Reused from cache.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Primary platform requiring remediation due to COBOL date handling — [[study-1998-y2k-report-f512fb]]

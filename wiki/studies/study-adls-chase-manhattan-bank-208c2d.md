@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "adls-chase-manhattan-bank-208c2d"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "1972-01-01"
+pub_year: 1972
 type: "market-study"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 3
 # ADLS Chase Manhattan bank
 
 > This study analyzes ADLS Chase Manhattan bank using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1972, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

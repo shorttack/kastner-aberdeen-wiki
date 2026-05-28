@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Circuitcity.com was the retail channel featured in all four Aug 2003 weeklies for the Athlon-based PCs
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Challenged by new S&C provider competition — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]

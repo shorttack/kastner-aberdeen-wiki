@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "thought-20leadership-20collateral-8fcaaf"
 author: "Market Visibility"
-date: ""
-pub_year: 0
+date: "2004-01-01"
+pub_year: 2004
 type: "market-study"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # Market Visibility
 
 > This study analyzes Market Visibility using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2004, author **Market Visibility**, type **market-study**._
 
 
 ## Top observations

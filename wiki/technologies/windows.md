@@ -22,11 +22,6 @@ prescience_obs_count: 421
 > Derived from source text and entity context.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 66% of organizations have at least five Unified Communications applications, and only 5% have just one `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]

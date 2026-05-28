@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Standard OLTP benchmark simulating bank account transaction processing; measures TPS with 100 virtual terminals per claimed TPS; called the 'four-minute mile' of enterprise computing.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 11 — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]

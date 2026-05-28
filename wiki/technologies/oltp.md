@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Core market concept; $26B market at time, expected to reach $60B by 1991; metrics: transactions-per-second, dollars-per-TPS, response time; 90-95% of transactions must complete in 1-2 seconds
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Update intensive — both reads and writes with focus on writes — [[study-15-classification-key-applications-55b6be]]

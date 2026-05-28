@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Linux as end-user desktop OS; never achieved enterprise desktop dominance; strong on server/cloud/Android/ChromeOS
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Considerably lower than Mac ~3% — [[study-mac-keeps-lead-on-linux-7-e3bcbf]]

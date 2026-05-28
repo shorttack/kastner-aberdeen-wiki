@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > The emerging alternative to centralized mainframe; Unisys's architecture was aligned with distributed/client-server paradigm that was winning the 1990s platform wars. Reused from cache.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Mature — approaching obsolescence as internet architectures emerge — [[study-1997-unify-vision-8fcfc3]]

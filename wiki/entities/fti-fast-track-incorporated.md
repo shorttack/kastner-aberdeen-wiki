@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Primary case study vehicle for EVP-4. FY82 plan: $460M revenue, 20% pretax margin, $2.75 EPS. Characters: MBA (Mighty Big Achiever), CFO (Cut Frilly Overhead), GOH! (Get Out and Hustle, Marketing VP), CFA (Confident Fortyish Analyst), BEAN (Beady Eyed Avid Numberpusher), CPA (Coppers Petersen and Airwick, auditors).
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - $250M to $500M annual revenue (quarter-billion to half-billion dollar sales level) — [[study-casale-evp-2-79187c]]

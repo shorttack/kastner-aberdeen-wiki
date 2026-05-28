@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-amd-profile01-677733"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2000-01-01"
+pub_year: 2000
 type: "benchmark"
 subject_domain: "manufacturing"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # AMD’s Gigahertz Equivalency: Confused Customers Accept Bad Science
 
 > This study analyzes AMD’s Gigahertz Equivalency: Confused Customers Accept Bad Science using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2000, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

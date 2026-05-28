@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > 2000 service professionals dedicated to E-commerce; only IBM claims more; EDI stalwart for nearly 30 years; dominant EC player for almost three decades; global knowledge of local requirements; 40000+ largest customers; 42 countries
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Market leader in EC industry for over 3 decades; 40000 EDI trading partners; largest global trading network — [[study-ecprac~1-a7d0e4]]

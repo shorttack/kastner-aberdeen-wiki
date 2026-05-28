@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Aberdeen built a dedicated data warehousing practice in the early 1990s; correctly predicted every significant enterprise would eventually build one. Technologies evolved from Teradata to columnar stores to cloud warehouses.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Decision support / data warehousing — [[study-1996-electronic-commerce-25d31b]]

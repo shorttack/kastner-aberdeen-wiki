@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Early compensation scheme skewed to customer payment; turned salesmen into 'dunning agents'; ensured initial months of quarter spent collecting rather than selling. Stock price $40 at publication.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - workgroup_departmental_small_business — [[study-1997-commercial-risc-unix-1996-mvp-711569]]

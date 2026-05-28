@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-webex-taking-conferencing-to-the-business-communications-summit-2b6842"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2002-01-01"
+pub_year: 2002
 type: "market-study"
 subject_domain: "wireless"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 2
 # ==> picture [442 x 39] intentionally omitted <==
 
 > This study analyzes ==> picture [442 x 39] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2002, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

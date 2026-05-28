@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "ebi-spendingtoc-a6bf6a"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2002-01-01"
+pub_year: 2002
 type: "topic-analysis"
 subject_domain: "telecommunications"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # ==> picture [68 x 722] intentionally omitted <==
 
 > This study analyzes ==> picture [68 x 722] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2002, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

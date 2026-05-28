@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "e-learning-fd5d01"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "1999-01-01"
+pub_year: 1999
 type: "benchmark"
 subject_domain: "telecommunications"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 10
 # e-Learning in the Enterprise
 
 > This study analyzes e-Learning in the Enterprise using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1999, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

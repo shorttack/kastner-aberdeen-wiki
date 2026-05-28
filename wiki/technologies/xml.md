@@ -22,11 +22,6 @@ prescience_obs_count: 2
 > Cited as most positive movement toward standardized data sharing; supported by Microsoft, Oracle, SAP, and RosettaNet/OAGI standards bodies.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - This study analyzes ==> picture [262 x 66] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-product-innovation-snapshot-e17d47]]

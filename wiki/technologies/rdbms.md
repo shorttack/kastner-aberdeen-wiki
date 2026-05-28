@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Kastner’s personal mission 1985–1995: championing RDBMS that could handle both OLTP and query/reporting. Aberdeen predicted relational model would dominate universally.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Data advantage compounds — [[study-2026-kastner-core-arguments-framework-0b0c6b]]

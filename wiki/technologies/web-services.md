@@ -22,11 +22,6 @@ prescience_obs_count: 1
 > Central to SOA messaging; network traffic shifting to Web Services request messaging; Aberdeen benchmarking state of practice for Web Services-based network applications.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-entrustsnapshot-f78f15]]

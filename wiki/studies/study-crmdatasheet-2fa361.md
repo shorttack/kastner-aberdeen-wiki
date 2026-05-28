@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "crmdatasheet-2fa361"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "1994-01-01"
+pub_year: 1994
 type: "market-study"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # Aberdeen’s Sixth Annual CRM Market Research Re ort p
 
 > This study analyzes Aberdeen’s Sixth Annual CRM Market Research Re ort p using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1994, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

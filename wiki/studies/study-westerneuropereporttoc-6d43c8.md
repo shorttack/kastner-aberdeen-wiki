@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "westerneuropereporttoc-6d43c8"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2002-01-01"
+pub_year: 2002
 type: "topic-analysis"
 subject_domain: "wireless"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # Wireless Enterprise Messaging in Western Europe
 
 > This study analyzes Wireless Enterprise Messaging in Western Europe using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2002, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

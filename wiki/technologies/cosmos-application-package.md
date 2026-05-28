@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Code-generation system at PHI that produced millions of lines of COBOL per specification. Originally called Customer Accounting System (CAS). Named after Creedence Clearwater Revival album 'Cosmos Factory'. Enabled a team of four to build an entire bank checking account system in one year.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - ADL substituted COSMOS-based approach for floundering Chase IT project, conceived by Murray Sherry — [[study-adl-commercial-engagements-kastner-1972-1979-b8b001]]

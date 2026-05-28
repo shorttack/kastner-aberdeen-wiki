@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Leading second-generation CADE with integrated Commercial Messaging, repository/directory, and application partitioning
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Forte is a competing high-end CADE with application partitioning support — [[study-1997-oracle-designer-2000-3201a7]]

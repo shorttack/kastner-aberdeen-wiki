@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Founded 1979. Dominant firm in FIGY; subscription model targeting CIOs with vendor evaluations. Creator of the Magic Quadrant framework.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 1:150 — [[study-aberdeen-training-day-1-522863]]

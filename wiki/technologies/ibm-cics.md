@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Transaction processing monitor; primary dependency on mainframe; cited as hard port when migrating to SQL Server
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - CICS TS 6.3 released September 2025; among oldest continuously-shipped enterprise software — [[study-2026-kastner-ibm-longitudinal]]

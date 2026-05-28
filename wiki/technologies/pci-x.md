@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Extended PCI with higher bandwidth; superseded by PCI Express (PCIe); cited as inadequate for long-term data center needs.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - three PCI-X I/O slots for server-grade peripherals — [[study-dct-apple-powermac-g5-2003-06]]

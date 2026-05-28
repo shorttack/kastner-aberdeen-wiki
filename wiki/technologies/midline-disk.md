@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Aberdeen-coined term for capacity-oriented ATA/SATA disks at ~25% of FC/SCSI cost; emerged as bulk data tier. Wikibon 2011: 85% of enterprise data on SATA/midline at 40% of spend.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Midline disk at approximately 25% of FC/SCSI cost for moderate random access workloads — [[study-computerworld-ilm-article-15f604]]

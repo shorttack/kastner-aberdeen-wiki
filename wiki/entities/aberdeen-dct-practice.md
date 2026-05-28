@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Research practice authoring this methodology
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Boundaries blurring; non-traditional competitors in contact — [[study-dct-webinar-announcement-2002-11]]

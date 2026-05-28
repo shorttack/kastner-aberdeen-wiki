@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Split into Standard, Thin & Light, Value form-factor bands.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - In order to create the jewel-box tiny package, Dell's engineers chose to use notebook peripherals. — [[study-dct-business-2002-12-17-pc-deals]]

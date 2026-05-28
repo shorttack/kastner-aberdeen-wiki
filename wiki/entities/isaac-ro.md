@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > .........................................................13 Isaac Ro ...........................................................
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Research Associate, Emerging Technologies Intelligence Group — [[study-dct-webinar-announcement-2002-11]]

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Cited by interviewees as less real-world-tested than Itanium for mainframe-class workloads; users do not view Opteron as comparable alternative to Intel-based platforms.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - approximately 20% — [[study-2006-amd-ati-acquisition-cf19ff]]

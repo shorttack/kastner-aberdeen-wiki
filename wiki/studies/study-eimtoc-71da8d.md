@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "eimtoc-71da8d"
 author: "Enterprise Applications"
-date: ""
-pub_year: 0
+date: "1984-01-01"
+pub_year: 1984
 type: "topic-analysis"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 1
 # Enterprise Incentive Management
 
 > This study analyzes Enterprise Incentive Management using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1984, author **Enterprise Applications**, type **topic-analysis**._
 
 
 ## Top observations

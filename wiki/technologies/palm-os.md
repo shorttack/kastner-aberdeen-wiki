@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Predicted loser by Aberdeen; remained competitive through 2005; declined after failed smartphone pivot; acquired by HP 2010; effectively dead
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Palm OS declined but iPhone (2007) disrupted both platforms; Pocket PC did gain enterprise share but was itself displaced — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

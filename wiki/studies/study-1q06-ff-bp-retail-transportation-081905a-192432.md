@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "1q06-ff-bp-retail-transportation-081905a-192432"
 author: "Aberdeen Group"
-date: "1905-01-01"
-pub_year: 1905
+date: "2006-01-01"
+pub_year: 2006
 type: "market-study"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -27,7 +27,7 @@ prescience_obs_count: 0
 > This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
 
 
-_Published 1905, author **Aberdeen Group**, type **market-study**._
+_Published 2006, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

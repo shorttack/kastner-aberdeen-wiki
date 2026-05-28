@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > THREAD-3; SMT extension to P4; persistent through subsequent generations
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Pentium 4 with Hyper-Threading Arrives Intel's Pentium 4 at 3.06 GHz with Hyper-Threading (HT) technology arrived November 14th. — [[study-dct-weekly-2002-11-14-p4-ht]]

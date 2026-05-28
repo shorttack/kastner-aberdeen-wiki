@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Intel x86 server CPU brand; gained EM64T 2004 (Nocona); displaced Itanium as primary 64-bit Intel server chip; continues through Scalable, Sapphire Rapids, etc.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Xeon-based systems likely will bring in more revenue for at least the next five years — [[study-cnet-shankland-ibm-itanium-x450-2003-c91608]]

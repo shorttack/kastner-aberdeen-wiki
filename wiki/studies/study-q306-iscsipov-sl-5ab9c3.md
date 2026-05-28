@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "q306-iscsipov-sl-5ab9c3"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2003-01-01"
+pub_year: 2003
 type: "benchmark"
 subject_domain: "storage"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # ==> picture [441 x 95] intentionally omitted <==
 
 > This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2003, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

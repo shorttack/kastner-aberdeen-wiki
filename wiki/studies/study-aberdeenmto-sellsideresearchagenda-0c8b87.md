@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "aberdeenmto-sellsideresearchagenda-0c8b87"
 author: "Research Agenda"
-date: ""
-pub_year: 0
+date: "1988-01-01"
+pub_year: 1988
 type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # ==> picture [441 x 117] intentionally omitted <==
 
 > This study analyzes ==> picture [441 x 117] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1988, author **Research Agenda**, type **benchmark**._
 
 
 ## Top observations

@@ -13,56 +13,56 @@ Top 50 studies by `prescience_max` (≥4) then `prescience_mean`.
 
 | Study | P_max | P_mean | Year |
 |---|---:|---:|---:|
-| [[study-ra-sctippingpt-be-abr2844-49af82|The On-Demand Tipping Point in Supply Chain]] | 5 | 5.0 |  |
-| [[study-written-amd-profile01-677733|AMD’s Gigahertz Equivalency: Confused Customers Accept Bad Science]] | 5 | 5.0 |  |
+| [[study-ra-sctippingpt-be-abr2844-49af82|The On-Demand Tipping Point in Supply Chain]] | 5 | 5.0 | 1988 |
+| [[study-written-amd-profile01-677733|AMD’s Gigahertz Equivalency: Confused Customers Accept Bad Science]] | 5 | 5.0 | 2000 |
 | [[study-written-hp-can-boost-soa-offerings-with-acquisition-of-mercury-2006-4f11c1|==> picture [441 x 108] intentionally omitted <==]] | 5 | 5.0 | 2006 |
 | [[study-written-1996-electronic-commerce-9cdeba|Electronic Commerce: Virtual Corporations Selling to a Virtual Marketplace]] | 5 | 4.5 | 1996 |
 | [[study-written-2004-05dell-storage-profile-editpk-051704f-8b106e|==> picture [442 x 38] intentionally omitted <==]] | 5 | 4.5 | 2004 |
-| [[study-infrastructure-speech-7f6c5b|IT Infrastructure: Are We Building Chaos or Cosmos?]] | 5 | 4.33 |  |
-| [[study-midlinestoragewp-7f30e3|==> picture [442 x 39] intentionally omitted <==]] | 5 | 4.2 |  |
+| [[study-infrastructure-speech-7f6c5b|IT Infrastructure: Are We Building Chaos or Cosmos?]] | 5 | 4.33 | 1995 |
+| [[study-midlinestoragewp-7f30e3|==> picture [442 x 39] intentionally omitted <==]] | 5 | 4.2 | 2003 |
 | [[study-e-proc-tech-rb-vc-ab-3778-7525d9|==> picture [441 x 108] intentionally omitted <==]] | 5 | 4.17 | 2006 |
 | [[study-v12n1-70fd0c|R K E T V I E W P O I N T]] | 5 | 3.89 | 1999 |
-| [[study-ra-scinnovator-be-3028-140f1e|The Supply Chain Innovator’s Technology Footprint]] | 5 | 3.89 |  |
-| [[study-ba-uc-pb-3704-82afab|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.77 |  |
-| [[study-ra-governance-jh-1e6241|==> picture [69 x 792] intentionally omitted <==]] | 5 | 3.76 |  |
-| [[study-bm-manufacturing-intelligence-3594-578435|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.75 |  |
+| [[study-ra-scinnovator-be-3028-140f1e|The Supply Chain Innovator’s Technology Footprint]] | 5 | 3.89 | 2006 |
+| [[study-ba-uc-pb-3704-82afab|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.77 | 2006 |
+| [[study-ra-governance-jh-1e6241|==> picture [69 x 792] intentionally omitted <==]] | 5 | 3.76 | 2005 |
+| [[study-bm-manufacturing-intelligence-3594-578435|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.75 | 1988 |
 | [[study-ma-procuri-cmsi-tm-642bb1|==> picture [441 x 108] intentionally omitted <==]] | 5 | 3.75 | 2005 |
-| [[study-ra-bpsecinfoaccess-jh-8c3eaa|==> picture [69 x 792] intentionally omitted <==]] | 5 | 3.75 |  |
+| [[study-ra-bpsecinfoaccess-jh-8c3eaa|==> picture [69 x 792] intentionally omitted <==]] | 5 | 3.75 | 2005 |
 | [[study-rb-re-thinking-ibm-mainframe-psk-3052-cec46c|==> picture [441 x 108] intentionally omitted <==]] | 5 | 3.75 | 2006 |
 | [[study-2007-aberdeen-research-calendar-629972|Technology Answers for the Global Value Chain]] | 5 | 3.72 | 2007 |
-| [[study-ra-mfsupdate-mvsd-3719-dda2ac|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.72 |  |
+| [[study-ra-mfsupdate-mvsd-3719-dda2ac|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.72 | 2006 |
 | [[study-rb-retailersusebidata-gb-3174-7cf5d4|==> picture [441 x 108] intentionally omitted <==]] | 5 | 3.69 | 2006 |
-| [[study-rr-businessintelligencecustmgmt-gb-3697-5bf0f4|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.69 |  |
-| [[study-ba-mobilemessaging-apw-bs-3703-2a96a0|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.68 |  |
+| [[study-rr-businessintelligencecustmgmt-gb-3697-5bf0f4|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.69 | 2006 |
+| [[study-ba-mobilemessaging-apw-bs-3703-2a96a0|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.68 | 2006 |
 | [[study-rb-tmsinnovate-be-3459-d564f4|==> picture [441 x 108] intentionally omitted <==]] | 5 | 3.67 | 2006 |
-| [[study-bm-compliance-traceability-3702-c02e4b|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.65 |  |
-| [[study-ra-sro-mvrg-2860-edc995|The Field Service Scheduling & Routing Optimization Solution Selection Report]] | 5 | 3.59 |  |
-| [[study-ra-sno-mvmt-2859-790aed|The Service Network Optimization Benchmark Report]] | 5 | 3.58 |  |
-| [[study-ra-supplierenablement-rs-2869-3e06ef|The Supplier Enablement Benchmark Report Enterprises Shift Their Procurement Activities to the Web]] | 5 | 3.58 |  |
-| [[study-ra-procurementoutsourcing-rs-sb-3100-b7f944|The Procurement Outsourcing Benchmark Report]] | 5 | 3.55 |  |
+| [[study-bm-compliance-traceability-3702-c02e4b|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.65 | 2006 |
+| [[study-ra-sro-mvrg-2860-edc995|The Field Service Scheduling & Routing Optimization Solution Selection Report]] | 5 | 3.59 | 2006 |
+| [[study-ra-sno-mvmt-2859-790aed|The Service Network Optimization Benchmark Report]] | 5 | 3.58 | 1988 |
+| [[study-ra-supplierenablement-rs-2869-3e06ef|The Supplier Enablement Benchmark Report Enterprises Shift Their Procurement Activities to the Web]] | 5 | 3.58 | 2006 |
+| [[study-ra-procurementoutsourcing-rs-sb-3100-b7f944|The Procurement Outsourcing Benchmark Report]] | 5 | 3.55 | 2006 |
 | [[study-2007-ra-cmo-smemme-la-3607-eff289|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.54 | 2007 |
-| [[study-eurowiress-13e05b|==> picture [442 x 39] intentionally omitted <==]] | 5 | 3.45 |  |
-| [[study-ra-lean-jb-2845-f319f8|==> picture [240 x 792] intentionally omitted <==]] | 5 | 3.45 |  |
-| [[study-ra-21stcen-3863-65fedd|==> picture [231 x 792] intentionally omitted <==]] | 5 | 3.4 |  |
-| [[study-ra-warehouseautomation-3867-89c99f|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.37 |  |
-| [[study-ra-web-site-search-3910-5f9297|==> picture [240 x 792] intentionally omitted <==]] | 5 | 3.36 |  |
+| [[study-eurowiress-13e05b|==> picture [442 x 39] intentionally omitted <==]] | 5 | 3.45 | 2000 |
+| [[study-ra-lean-jb-2845-f319f8|==> picture [240 x 792] intentionally omitted <==]] | 5 | 3.45 | 2006 |
+| [[study-ra-21stcen-3863-65fedd|==> picture [231 x 792] intentionally omitted <==]] | 5 | 3.4 | 2007 |
+| [[study-ra-warehouseautomation-3867-89c99f|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.37 | 2005 |
+| [[study-ra-web-site-search-3910-5f9297|==> picture [240 x 792] intentionally omitted <==]] | 5 | 3.36 | 2007 |
 | [[study-2006-aberdeen-research-calendar-123ac2|==> picture [433 x 115] intentionally omitted <==]] | 5 | 3.36 | 2006 |
-| [[study-bvr-spendcompmgmt-121704b-e31821|==> picture [69 x 792] intentionally omitted <==]] | 5 | 3.36 |  |
+| [[study-bvr-spendcompmgmt-121704b-e31821|==> picture [69 x 792] intentionally omitted <==]] | 5 | 3.36 | 1988 |
 | [[study-adls-911-systems-90e771|Confirm the procurement date of City of Boston police radio technology.]] | 5 | 3.33 | 2024 |
-| [[study-written-intel-centrino-pk-b43168|Intel’s Centrino: Don’t Man the Barricades]] | 5 | 3.33 |  |
-| [[study-ra-bpsop-se-134043|==> picture [69 x 792] intentionally omitted <==]] | 5 | 3.26 |  |
-| [[study-written-dell-asset-recovery-services-2-0abe18|Dell Asset Recovery Services: a Trustworthy Partner for Eliminating Aging IT Assets (possible title: Remove, Resell, Recycle)]] | 5 | 3.23 |  |
-| [[study-cm-q2c-vp-3715-aa1364|==> picture [240 x 792] intentionally omitted <==]] | 5 | 3.19 |  |
-| [[study-ra-final-endpointnac-bg-3723-84f1e0|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.16 |  |
+| [[study-written-intel-centrino-pk-b43168|Intel’s Centrino: Don’t Man the Barricades]] | 5 | 3.33 | 2003 |
+| [[study-ra-bpsop-se-134043|==> picture [69 x 792] intentionally omitted <==]] | 5 | 3.26 | 2005 |
+| [[study-written-dell-asset-recovery-services-2-0abe18|Dell Asset Recovery Services: a Trustworthy Partner for Eliminating Aging IT Assets (possible title: Remove, Resell, Recycle)]] | 5 | 3.23 | 2003 |
+| [[study-cm-q2c-vp-3715-aa1364|==> picture [240 x 792] intentionally omitted <==]] | 5 | 3.19 | 2006 |
+| [[study-ra-final-endpointnac-bg-3723-84f1e0|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.16 | 2006 |
 | [[study-aberdeen-report-2007-1st-edition-6e3b0d|The Aberdeen Report — 2007]] | 5 | 3.14 | 2007 |
-| [[study-ra-cmo-smemme-la-3607-20a587|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.14 |  |
+| [[study-ra-cmo-smemme-la-3607-20a587|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.14 | 2006 |
 | [[study-2007-ra-clicks-jl-3710-37b7a4|==> picture [240 x 792] intentionally omitted <==]] | 5 | 3.12 | 2007 |
-| [[study-ra-clicks-jl-3710-3cb22d|==> picture [240 x 792] intentionally omitted <==]] | 5 | 3.1 |  |
-| [[study-ra-ttcmwireless-2855-027da7|The Wireless Costs and Performance Benchmark Report]] | 5 | 3.09 |  |
-| [[study-callcenteroptimization-researchreport-rk-3503-0ea8b5|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.07 |  |
-| [[study-endpointdp-bg-3717-8ecfb0|The Endpoint Data Protection Benchmark Report]] | 5 | 3.07 |  |
-| [[study-ra-lbs-sd-3599-736223|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.06 |  |
-| [[study-ra-custanalyticsssg-gb-jl-3709-b60131|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.0 |  |
+| [[study-ra-clicks-jl-3710-3cb22d|==> picture [240 x 792] intentionally omitted <==]] | 5 | 3.1 | 2007 |
+| [[study-ra-ttcmwireless-2855-027da7|The Wireless Costs and Performance Benchmark Report]] | 5 | 3.09 | 2006 |
+| [[study-callcenteroptimization-researchreport-rk-3503-0ea8b5|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.07 | 2006 |
+| [[study-endpointdp-bg-3717-8ecfb0|The Endpoint Data Protection Benchmark Report]] | 5 | 3.07 | 2006 |
+| [[study-ra-lbs-sd-3599-736223|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.06 | 2006 |
+| [[study-ra-custanalyticsssg-gb-jl-3709-b60131|==> picture [149 x 20] intentionally omitted <==]] | 5 | 3.0 | 2007 |
 
 ## Study-level (holistic enum = `high`)
 

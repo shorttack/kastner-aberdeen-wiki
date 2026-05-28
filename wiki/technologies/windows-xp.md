@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Consumer-plus-business NT-kernel Windows release; XP Home, Pro, Media Center, Tablet PC Edition; most widely-deployed Windows release; end-of-support 2014
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Almost all previous Windows users are going to enjoy living with Windows XP — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

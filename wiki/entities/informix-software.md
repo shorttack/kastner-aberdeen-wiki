@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > rformance|Gruener, James|Executive White<br>Paper|| |Oct-97|Informix Software -- MetaCube 4.0: Relational OLAP and RDBMS Create an Integr
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - i2 merged with JDA Software 2010; JDA rebranded Blue Yonder 2020; Panasonic acquired 2021 — [[study-1997-industry-matematik-international-co-c398bc]]

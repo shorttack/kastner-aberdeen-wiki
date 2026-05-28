@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Former Prime Computer colleague who moved to Yankee Group; hired Kastner to ghostwrite 'The Future of Transaction Processing' for $8,000.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - CEO, Obian Group — [[study-aberdeen-company-profile-post-kastner-b01a12]]

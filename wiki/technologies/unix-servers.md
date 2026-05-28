@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > OLE Automation and OCX evolved into ActiveX (renamed 1996), then into COM/DCOM and .NET COM Interop. OCX concept continues in modern Windows development as COM components. | Successor: ActiveX, COM, .NET
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Surprisingly missing from 1991 TPC-A leadership — [[study-1992-tpc-benchmarks-vp-745fa1]]

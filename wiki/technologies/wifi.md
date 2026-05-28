@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Wireless LAN cited as key ingredient for laptop productivity but security/cost concerns delaying enterprise adoption.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Hundreds of millions invested 2003-2005 — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]

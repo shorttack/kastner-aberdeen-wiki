@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Reported 65% YoY earnings decline; denied Universal Music bid rumors
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 'I just don't see a problem here' — no integration, quality, or market risk identified — [[study-mac-news-business-apple-intel-marriage-m-d0a5d8]]

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Referenced in weekly PC Deals commentary 2002-08-24
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - (We favor USB-driven memory drives in 2003) • Monitor: 15" or 17" XGA resolution LCD flat panel • Communications: 10/100 Ethernet or better. — [[study-dct-business-2002-12-17-pc-deals]]

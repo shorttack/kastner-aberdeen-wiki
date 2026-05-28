@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "junenews-fc15cc"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "1988-01-01"
+pub_year: 1988
 type: "market-study"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 2
 # June 2000
 
 > This study analyzes June 2000 using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1988, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

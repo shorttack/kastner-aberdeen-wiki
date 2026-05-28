@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > OMG standard for distributed object communication; Aberdeen reports Oracle and BroadVision promoting CORBA for enterprise internet commerce; InterWorld's Oasis neutral between CORBA and DCOM; CORBA largely superseded by REST, SOAP, and API-based integration by 2010.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - CORBA-based system scales by replacing or adding servers; communicates with existing apps via screen scraping or other CORBA systems — [[study-1997-broadvision-dynamic-web-application-5f10bb]]

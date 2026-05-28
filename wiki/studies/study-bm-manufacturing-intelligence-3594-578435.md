@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "bm-manufacturing-intelligence-3594-578435"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "1988-01-01"
+pub_year: 1988
 type: "topic-analysis"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 52
 # ==> picture [149 x 20] intentionally omitted <==
 
 > This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1988, author **Aberdeen Group**, type **topic-analysis**._
 
 
 ## Top observations

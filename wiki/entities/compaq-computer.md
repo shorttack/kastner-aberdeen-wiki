@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Canadian media theorist; quoted for 'the media is the message'; died 1980; referenced to frame WebEx's media-rich communications value proposition
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 77% more expensive at high end — [[study-1992-tpc-benchmarks-vp-745fa1]]

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Complex multi-table order-entry workload benchmark; became the definitive OLTP server benchmark through the 1990s and 2000s; results published quarterly in trade press.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - high-end server performance breakthrough — [[study-2002-performance-breakthroughs-the-benchmarking-fanatic-6d41fa]]

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Dynamic Web<br>Technology|Stevens, Chris|Profile|| |Oct-97|Amdahl’s NT Challenge: Changing Perceptions, Raising Awareness, an
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Primary IBM-compatible mainframe alternative; competitive pricing against IBM; focused on existing IBM mainframe customer base — [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term]]

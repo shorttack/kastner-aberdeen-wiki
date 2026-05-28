@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > 32-processor Intel/Windows enterprise server; first to support 32-way Windows 2000 Datacenter; line discontinued as Unisys exited hardware
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - 24000 SD concurrent users — [[study-2001-unisys-benchmark-gorilla-sets-new-sap-and-intel-ba-19cf5a]]

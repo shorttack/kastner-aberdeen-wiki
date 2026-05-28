@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Kastner cites the Federal Reserve as employing half a million people to sort and re-touch checks through the American banking system, illustrating pre-digital labor intensity.
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - Nearly half a million people employed every night to sort checks through the financial system circa 1960. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

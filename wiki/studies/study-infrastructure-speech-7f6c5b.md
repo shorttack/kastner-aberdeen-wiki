@@ -7,8 +7,8 @@ tier: 1
 source_csv: "_master_studies.csv"
 study_id: "infrastructure-speech-7f6c5b"
 author: "Management Console"
-date: ""
-pub_year: 0
+date: "1995-01-01"
+pub_year: 1995
 type: "market-study"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 3
 # IT Infrastructure: Are We Building Chaos or Cosmos?
 
 > This study analyzes IT Infrastructure: Are We Building Chaos or Cosmos? using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 1995, author **Management Console**, type **market-study**._
 
 
 ## Top observations

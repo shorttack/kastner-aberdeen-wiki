@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > role_in_study=reseller-integrator; status_notes=EDS acquired by Hewlett-Packard for $13.9 billion; deal announced May 2008 and closed August 26, 2008.; hq_location=Plano, TX; source_url=https://www.nytimes.com/2008/05/13/technology/13iht-webhpeds.12839575.html; status_at_pub=active; status_current=acquired
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - $15.2 billion total revenue; approximately one-third from single client (GM) — [[study-1999pr~1-c5516b]]

@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "snapshots-20market-20visibility-20collateral-34f703"
 author: "Market Visibility"
-date: ""
-pub_year: 0
+date: "2005-01-01"
+pub_year: 2005
 type: "market-study"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 0
 # Market Visibility
 
 > This study analyzes Market Visibility using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2005, author **Market Visibility**, type **market-study**._
 
 
 ## Top observations

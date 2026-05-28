@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > Earlier monolithic Oracle messaging/office product that Oracle InterOffice was designed to supersede. Discontinued. | Successor: Oracle InterOffice (1995), Oracle Collaboration Suite (2003)
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - TPC-B has no terminal network; lower cost but less real-world relevance — [[study-1992-tpc-benchmarks-vp-745fa1]]

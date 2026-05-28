@@ -7,8 +7,8 @@ tier: 2
 source_csv: "_master_studies.csv"
 study_id: "memoir-scratch-pad-464eb7"
 author: "Aberdeen Group"
-date: ""
-pub_year: 0
+date: "2026-01-01"
+pub_year: 2026
 type: "market-study"
 subject_domain: "manufacturing"
 methodology: "industry-analysis, prepared-candidate-finalization"
@@ -25,6 +25,9 @@ prescience_obs_count: 3
 # Memoir Scratch Pad
 
 > This study analyzes Memoir Scratch Pad using Aberdeen Group research material and prepared extraction artifacts.
+
+
+_Published 2026, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

@@ -22,11 +22,6 @@ prescience_obs_count: 0
 > rian|||||94| |Incentive Systems|||||97| |Infinium|||||100| |J.D. Edwards|||||103| |Kadiri Inc. (formerly Decisis)|||||106| |Lawson S
 
 
-## Summary
-
-
-
-
 ## Top observations
 
 - PeopleSoft brings strategic sourcing to JDE's manufacturing customer base — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]

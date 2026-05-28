@@ -1,18 +1,22 @@
 #!/usr/bin/env python3
 """kw ask — RAG over the Kastner Aberdeen Wiki.
 
-v6 changes (2026-05-28, post-reembed):
-  * Schema fix: read the parquet columns reembed.py actually writes —
-    page_path, page_type, slug, title, tier, vector. v4/v5 read stale
-    column names (path, embedding) and crashed after rebuild-embeddings.
-  * Drop the frontmatter-reparse path: page_type is now a real column
-    in the parquet, so we don't need to read 10k .md files to derive it.
-    Retrieval is ~10x faster as a side effect.
-  * --no-notes / --only-notes / --type filters work on the parquet
-    column directly (set-membership in SQL would also work, but pandas
-    filter is fine for 10k rows).
+v7 changes (2026-05-28, post-think-budget bug):
+  * Pass "think": false to Ollama by default. Newer qwen3.5-mlx Ollama
+    builds split output into `thinking` (chain-of-thought) and `response`
+    (final answer). v6 only read `response` and never saw any text
+    because the model was burning its num_predict budget inside the
+    thinking phase before reaching the answer.
+  * Read both `response` and `thinking` from each stream event. With
+    --show-think we surface thinking too. Without, we drop it.
+  * If after the full stream `response` is still empty and only `thinking`
+    arrived, emit a clear stderr diagnostic.
+  * --think flag re-enables thinking (debug only).
 
-Behaviour identical to v5 from the user's perspective.
+v6 changes carried forward:
+  * Parquet schema matches reembed.py output (page_path, page_type, slug,
+    title, tier, vector). No frontmatter reparse at retrieval time.
+  * --no-notes / --only-notes / --type filters.
 """
 from __future__ import annotations
 import argparse
@@ -56,12 +60,6 @@ def retrieve(
     exclude_types: set[str] | None = None,
     include_types: set[str] | None = None,
 ):
-    """Top-k retrieval with optional page_type filters.
-
-    Parquet schema (written by scripts/reembed.py):
-      page_path: str, page_type: str, slug: str, title: str,
-      tier: int32, vector: list<float32>
-    """
     qv = embed_query(query)
     df = duckdb.sql(
         f"SELECT page_path, page_type, slug, title, vector "
@@ -127,86 +125,72 @@ SOURCES:
 ANSWER:"""
 
 
-_THINK_OPEN_RE = re.compile(r"<think>", re.IGNORECASE)
-_THINK_CLOSE_RE = re.compile(r"</think>", re.IGNORECASE)
-
-
-def _strip_think_stream(tokens, show_think: bool = False):
-    """Stream filter that removes <think>...</think> blocks."""
-    buf = ""
-    in_think = False
-    for tok in tokens:
-        buf += tok
-        while True:
-            if in_think:
-                m = _THINK_CLOSE_RE.search(buf)
-                if not m:
-                    if show_think:
-                        yield buf
-                    buf = ""
-                    break
-                if show_think:
-                    yield buf[: m.end()]
-                buf = buf[m.end():]
-                in_think = False
-            else:
-                m = _THINK_OPEN_RE.search(buf)
-                if not m:
-                    yield buf
-                    buf = ""
-                    break
-                yield buf[: m.start()]
-                buf = buf[m.start():]
-                in_think = True
-                close = _THINK_CLOSE_RE.search(buf)
-                if close:
-                    if show_think:
-                        yield buf[: close.end()]
-                    buf = buf[close.end():]
-                    in_think = False
-                else:
-                    break
-    if buf and not in_think:
-        yield buf
-
-
 def stream_ollama(prompt: str, model: str, temperature: float, max_tokens: int,
-                  show_think: bool = False):
+                  enable_think: bool = False, show_think: bool = False):
+    """Stream from Ollama. v7 reads both `response` and `thinking` fields.
+
+    enable_think=False asks Ollama to skip thinking entirely (recommended
+    for production — saves budget, avoids empty-response trap).
+    enable_think=True + show_think=True is for debugging.
+    """
+    payload = {
+        "model": model,
+        "prompt": prompt,
+        "stream": True,
+        "think": enable_think,
+        "options": {
+            "temperature": temperature,
+            "num_predict": max_tokens,
+        },
+    }
     r = requests.post(
         f"{OLLAMA_HOST}/api/generate",
-        json={
-            "model": model,
-            "prompt": prompt,
-            "stream": True,
-            "options": {
-                "temperature": temperature,
-                "num_predict": max_tokens,
-            },
-        },
+        json=payload,
         stream=True,
         timeout=600,
     )
     r.raise_for_status()
 
-    def raw_tokens():
-        for line in r.iter_lines():
-            if not line:
-                continue
-            try:
-                obj = json.loads(line)
-            except Exception:
-                continue
-            tok = obj.get("response", "")
-            if tok:
-                yield tok
-            if obj.get("done"):
-                break
-
-    for piece in _strip_think_stream(raw_tokens(), show_think=show_think):
-        if piece:
-            sys.stdout.write(piece)
+    saw_response = False
+    saw_thinking = False
+    done_reason = ""
+    for line in r.iter_lines():
+        if not line:
+            continue
+        try:
+            obj = json.loads(line)
+        except Exception:
+            continue
+        resp_tok = obj.get("response", "")
+        think_tok = obj.get("thinking", "")
+        if resp_tok:
+            saw_response = True
+            sys.stdout.write(resp_tok)
             sys.stdout.flush()
+        if think_tok:
+            saw_thinking = True
+            if show_think:
+                sys.stderr.write(think_tok)
+                sys.stderr.flush()
+        if obj.get("done"):
+            done_reason = obj.get("done_reason", "")
+            break
+
     sys.stdout.write("\n")
+
+    if not saw_response:
+        if saw_thinking:
+            sys.stderr.write(
+                "\n[kw ask] WARNING: model returned only `thinking`, no `response`.\n"
+                "[kw ask] The thinking phase exhausted the token budget before the\n"
+                "[kw ask] answer started. v7 already passes think=false; if you see\n"
+                "[kw ask] this, your Ollama build may be ignoring the flag.\n"
+                "[kw ask] Try: --max-tokens 4000, or update Ollama, or use --cloud.\n"
+            )
+        else:
+            sys.stderr.write(
+                f"\n[kw ask] WARNING: empty response (done_reason={done_reason!r}).\n"
+            )
 
 
 def call_cloud(prompt: str) -> None:
@@ -238,8 +222,10 @@ def main():
     p.add_argument("--no-llm", action="store_true")
     p.add_argument("--temperature", type=float, default=0.3)
     p.add_argument("--max-tokens", type=int, default=2000)
+    p.add_argument("--think", action="store_true",
+                   help="Enable model's thinking phase (debug). Default OFF in v7.")
     p.add_argument("--show-think", action="store_true",
-                   help="Show <think> chain-of-thought (qwen3 only)")
+                   help="Print thinking phase to stderr (implies --think)")
 
     filt = p.add_mutually_exclusive_group()
     filt.add_argument("--type",
@@ -283,11 +269,14 @@ def main():
     if args.cloud:
         call_cloud(prompt)
     else:
+        # --show-think implies --think
+        enable_think = args.think or args.show_think
         stream_ollama(
             prompt,
             model=args.model,
             temperature=args.temperature,
             max_tokens=args.max_tokens,
+            enable_think=enable_think,
             show_think=args.show_think,
         )
 
@@ -304,7 +293,10 @@ def main():
         mode = "only-notes (interpretive)"
     elif args.type:
         mode = f"type={args.type}"
-    sys.stderr.write(f"[kw ask] filter: {mode}, k={args.k}, model={args.model}\n")
+    think_mode = "off" if not (args.think or args.show_think) else "on"
+    sys.stderr.write(
+        f"[kw ask] filter: {mode}, k={args.k}, model={args.model}, think={think_mode}\n"
+    )
 
 
 if __name__ == "__main__":

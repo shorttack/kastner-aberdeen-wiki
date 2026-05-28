@@ -9,26 +9,35 @@ Default mode is DRY-RUN: kw note prints the file it would write to stdout
 and exits 0. Pass --commit to actually write the file. This matches the
 forever-archive verify-then-write rule.
 
-v2 changes (2026-05-28, post-UNRESOLVED-bug):
-  * Read corpus slugs from the wiki's own parquets in data/ (studies,
-    entities, technologies), NOT from CSVs in archive_masters/. This
-    makes the wiki repo self-contained: anyone who clones it can run
-    kw note without needing the private archive_masters directory on
-    their disk.
-  * Use the verified column names: study_id, entity_id, tech_id.
-    v1 used 'technology_id' which doesn't exist; result was
-    UNRESOLVED: N matched: 0.
-  * Fall back to CSVs at $KW_MASTERS_DIR (default
-    ~/Desktop/Archive/archive_masters) ONLY if parquets are missing
-    AND the dir exists. Pete-only escape hatch.
-  * Diagnostic stderr on load tells you exactly which source was used
-    and how many slugs were loaded per kind.
+v3 changes (2026-05-28, post-matched-0-bug):
+  * Slug index now reads from data/pages_manifest.parquet — the actual
+    wiki page slugs (e.g. 'study-volume-1-ch06-dec-mainframes-last-...',
+    'digital-equipment-corp'). v2 read from studies.parquet.study_id,
+    entities.parquet.entity_id, technologies.parquet.tech_id, which are
+    INTERNAL master IDs (e.g. 'STU-001234') that look nothing like wiki
+    slugs. Net effect on v2: 'matched: 0' even when cited slugs were real
+    wiki pages. v3 reads pages_manifest where slug IS the wiki filename
+    stem and type ∈ {study, entity, technology, code}.
+  * Falls back to data/{studies,entities,technologies,codes}.parquet
+    only as a hard fallback if pages_manifest is missing. This shouldn't
+    happen in practice — refresh_data_layer.py always writes it — but
+    keeps the script robust.
+  * Adds 'code' as a fourth match bucket (related_codes) since
+    pages_manifest knows about 1293 methodology code pages.
+  * CSV fallback removed: the master CSVs don't store the wiki slugs,
+    only the internal IDs. There's no point in falling back to them.
+
+v2 changes carried forward:
+  * Parquet-first slug index — wiki repo is self-contained.
+
+v1 changes carried forward:
+  * --no-notes / --only-notes filter awareness via page_type: note.
 
 Common usage:
 
   # Pipe an answer straight from kw ask
   kw ask "Why did DEC miss the PC transition?" \\
-      --no-notes --no-stream 2>/tmp/sources.txt \\
+      --no-notes 2>/tmp/sources.txt \\
     | kw note --title "Why DEC missed the PC transition" \\
               --question "Why did DEC miss the PC transition?" \\
               --sources-from /tmp/sources.txt \\
@@ -45,12 +54,11 @@ Common usage:
 Frontmatter (page_type: note):
   title, slug, page_type=note, author, author_id, created, updated,
   question (optional), source_method, model, retrieval_k, tier=2,
-  tags, related_studies, related_entities, related_technologies
+  tags, related_studies, related_entities, related_technologies,
+  related_codes
 """
 from __future__ import annotations
 import argparse
-import csv
-import os
 import re
 import sys
 from datetime import date
@@ -60,10 +68,6 @@ ROOT = Path(__file__).resolve().parents[1]
 WIKI_ROOT = ROOT / "wiki"
 NOTES_DIR = WIKI_ROOT / "notes"
 DATA_DIR = ROOT / "data"
-
-# Optional CSV fallback for Pete's local Mac. Set via env if non-default.
-DEFAULT_MASTERS_DIR = Path.home() / "Desktop" / "Archive" / "archive_masters"
-MASTERS_DIR = Path(os.environ.get("KW_MASTERS_DIR", str(DEFAULT_MASTERS_DIR)))
 
 # Authors known to the corpus. Extend by passing --author <freeform string>.
 AUTHORS = {
@@ -80,6 +84,10 @@ CITE_RE = re.compile(r"\[([a-z0-9][a-z0-9-]{2,})\]")
 SRC_LINE_RE = re.compile(
     r"^\s*(?P<score>[01]\.\d{3})\s+(?P<slug>[a-z0-9][a-z0-9-]+)\s+(?P<ptype>\S+)\s*$"
 )
+
+# Map pages_manifest.type -> classify_slugs bucket key (kept identical
+# so frontmatter field names stay stable: related_studies etc.)
+TYPE_BUCKETS = ("study", "entity", "technology", "code")
 
 
 # ---------------------------------------------------------------------------
@@ -139,113 +147,96 @@ def parse_sources_file(path: Path) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# Master lookups for wikilink proposals
+# Slug index — load from data/pages_manifest.parquet (canonical wiki slugs)
 # ---------------------------------------------------------------------------
 
-# Verified by start-of-day protocol on 2026-05-28:
-#   _master_studies.csv       : study_id, title, author, date, ...
-#   _master_entities.csv      : entity_id, entity_name, entity_type, ...
-#   _master_technologies.csv  : tech_id, tech_name, category, ...
-#   studies.parquet           : study_id, title, author, ..., pub_year
-#   entities.parquet          : entity_id, entity_name, ..., occurrence_count
-#   technologies.parquet      : tech_id, tech_name, ..., occurrence_count
-MASTERS_SPEC = {
-    "study": {
-        "parquet": "studies.parquet",
-        "csv": "_master_studies.csv",
-        "id_col": "study_id",
-    },
-    "entity": {
-        "parquet": "entities.parquet",
-        "csv": "_master_entities.csv",
-        "id_col": "entity_id",
-    },
-    "technology": {
-        "parquet": "technologies.parquet",
-        "csv": "_master_technologies.csv",
-        "id_col": "tech_id",
-    },
-}
+def _load_from_pages_manifest() -> dict[str, set[str]] | None:
+    """Read wiki page slugs from data/pages_manifest.parquet.
 
+    Schema verified 2026-05-28:
+      (slug VARCHAR, tier BIGINT, type VARCHAR)
+      type ∈ {study, entity, technology, code}
+      slug values are the actual wiki filename stems used in [[wikilinks]]
 
-def _load_from_parquets() -> dict[str, set[str]] | None:
-    """Read slugs from data/*.parquet via duckdb. Returns None on failure."""
+    Returns dict keyed by classify bucket name, or None if unavailable.
+    """
     try:
         import duckdb  # type: ignore
     except ImportError:
         sys.stderr.write(
-            "[kw note] warn: duckdb not installed; falling back to CSV.\n"
+            "[kw note] warn: duckdb not installed; cannot load slug index.\n"
         )
         return None
-    missing = [
-        spec["parquet"] for spec in MASTERS_SPEC.values()
-        if not (DATA_DIR / spec["parquet"]).exists()
-    ]
-    if missing:
+    pm = DATA_DIR / "pages_manifest.parquet"
+    if not pm.exists():
         sys.stderr.write(
-            f"[kw note] warn: parquets missing in {DATA_DIR}: {missing}; "
-            "falling back to CSV.\n"
+            f"[kw note] warn: {pm} not found; falling back to per-type "
+            "parquets (legacy v2 behavior).\n"
         )
         return None
-    out: dict[str, set[str]] = {k: set() for k in MASTERS_SPEC}
+    out: dict[str, set[str]] = {k: set() for k in TYPE_BUCKETS}
     try:
         con = duckdb.connect(":memory:")
-        for kind, spec in MASTERS_SPEC.items():
-            pq = (DATA_DIR / spec["parquet"]).as_posix()
-            col = spec["id_col"]
-            rows = con.execute(
-                f"SELECT DISTINCT {col} FROM read_parquet('{pq}') "
-                f"WHERE {col} IS NOT NULL"
-            ).fetchall()
-            out[kind] = {r[0] for r in rows if r[0]}
+        rows = con.execute(
+            f"SELECT slug, type FROM read_parquet('{pm.as_posix()}') "
+            "WHERE slug IS NOT NULL AND type IS NOT NULL"
+        ).fetchall()
         con.close()
+        for slug, t in rows:
+            if t in out:
+                out[t].add(slug)
     except Exception as e:
-        sys.stderr.write(f"[kw note] warn: parquet load failed: {e}\n")
+        sys.stderr.write(f"[kw note] warn: pages_manifest load failed: {e}\n")
         return None
     sys.stderr.write(
-        f"[kw note] loaded slug index from parquets in {DATA_DIR}: "
+        f"[kw note] loaded slug index from {pm.name}: "
         f"studies={len(out['study'])} "
         f"entities={len(out['entity'])} "
-        f"technologies={len(out['technology'])}\n"
+        f"technologies={len(out['technology'])} "
+        f"codes={len(out['code'])}\n"
     )
     return out
 
 
-def _load_from_csvs() -> dict[str, set[str]] | None:
-    """Fallback: read slugs from CSV masters at MASTERS_DIR. None on failure."""
-    if not MASTERS_DIR.exists():
-        sys.stderr.write(
-            f"[kw note] warn: CSV fallback dir not found: {MASTERS_DIR}\n"
-        )
+# Legacy fallback (v2 behavior) — only triggers if pages_manifest is missing.
+# Reads from per-type parquets using their ID columns. NOTE: these IDs are
+# internal master IDs (STU-..., ENT-..., TEC-...), not the wiki slugs. This
+# fallback will fail to match any wiki-style citation; it exists only so a
+# truly broken data/ dir doesn't crash the script.
+LEGACY_SPEC = {
+    "study":      ("studies.parquet",      "study_id"),
+    "entity":     ("entities.parquet",     "entity_id"),
+    "technology": ("technologies.parquet", "tech_id"),
+}
+
+
+def _load_from_legacy_parquets() -> dict[str, set[str]] | None:
+    try:
+        import duckdb  # type: ignore
+    except ImportError:
         return None
-    out: dict[str, set[str]] = {k: set() for k in MASTERS_SPEC}
+    out: dict[str, set[str]] = {k: set() for k in TYPE_BUCKETS}
     any_loaded = False
-    for kind, spec in MASTERS_SPEC.items():
-        fp = MASTERS_DIR / spec["csv"]
-        col = spec["id_col"]
-        if not fp.exists():
-            sys.stderr.write(f"[kw note] warn: missing {fp}\n")
-            continue
-        try:
-            with fp.open(newline="", encoding="utf-8") as f:
-                rdr = csv.DictReader(f)
-                if col not in (rdr.fieldnames or []):
-                    sys.stderr.write(
-                        f"[kw note] warn: column '{col}' not in {fp} "
-                        f"(found: {rdr.fieldnames}); skipping.\n"
-                    )
-                    continue
-                for row in rdr:
-                    v = (row.get(col) or "").strip()
-                    if v:
-                        out[kind].add(v)
+    try:
+        con = duckdb.connect(":memory:")
+        for kind, (fname, col) in LEGACY_SPEC.items():
+            fp = DATA_DIR / fname
+            if not fp.exists():
+                continue
+            rows = con.execute(
+                f"SELECT DISTINCT {col} FROM read_parquet('{fp.as_posix()}') "
+                f"WHERE {col} IS NOT NULL"
+            ).fetchall()
+            out[kind] = {r[0] for r in rows if r[0]}
             any_loaded = True
-        except Exception as e:
-            sys.stderr.write(f"[kw note] warn: could not read {fp}: {e}\n")
+        con.close()
+    except Exception as e:
+        sys.stderr.write(f"[kw note] warn: legacy parquet load failed: {e}\n")
+        return None
     if not any_loaded:
         return None
     sys.stderr.write(
-        f"[kw note] loaded slug index from CSVs in {MASTERS_DIR}: "
+        "[kw note] loaded legacy ID index (NOT wiki slugs): "
         f"studies={len(out['study'])} "
         f"entities={len(out['entity'])} "
         f"technologies={len(out['technology'])}\n"
@@ -254,25 +245,28 @@ def _load_from_csvs() -> dict[str, set[str]] | None:
 
 
 def _load_master_slugs() -> dict[str, set[str]]:
-    """Return {'entity': {...}, 'technology': {...}, 'study': {...}}.
+    """Return {'entity': {...}, 'technology': {...}, 'study': {...}, 'code': {...}}.
 
     Order of preference:
-      1. data/*.parquet (wiki-self-contained, works for any cloner)
-      2. CSVs under $KW_MASTERS_DIR or ~/Desktop/Archive/archive_masters/
-      3. Empty sets (everything will UNRESOLVE; user gets a clear warning)
+      1. data/pages_manifest.parquet (the canonical wiki slug list — what
+         [[wikilinks]] actually point at)
+      2. Legacy per-type parquets keyed by master ID (last-resort fallback;
+         won't match wiki-style citations)
+      3. Empty sets (everything UNRESOLVES; clear warning emitted)
     """
-    result = _load_from_parquets()
+    result = _load_from_pages_manifest()
     if result is not None:
         return result
-    result = _load_from_csvs()
+    result = _load_from_legacy_parquets()
     if result is not None:
         return result
     sys.stderr.write(
         "[kw note] warn: no slug index available; all citations will be "
-        "marked UNRESOLVED. Run `kw rebuild-embeddings` or set "
-        "$KW_MASTERS_DIR to a directory containing _master_*.csv files.\n"
+        "marked UNRESOLVED. Run `kw rebuild-embeddings` or "
+        "`scripts/refresh_data_layer.py` to regenerate "
+        "data/pages_manifest.parquet.\n"
     )
-    return {k: set() for k in MASTERS_SPEC}
+    return {k: set() for k in TYPE_BUCKETS}
 
 
 def rewrite_citations(body: str) -> tuple[str, list[str]]:
@@ -304,16 +298,17 @@ def rewrite_citations(body: str) -> tuple[str, list[str]]:
 
 
 def classify_slugs(slugs: list[str], masters: dict[str, set[str]]) -> dict[str, list[str]]:
-    """Bucket cited slugs into related_studies/entities/technologies."""
-    out = {"study": [], "entity": [], "technology": [], "unknown": []}
+    """Bucket cited slugs into related_studies/entities/technologies/codes."""
+    out: dict[str, list[str]] = {k: [] for k in TYPE_BUCKETS}
+    out["unknown"] = []
     for s in slugs:
-        if s in masters["study"]:
-            out["study"].append(s)
-        elif s in masters["entity"]:
-            out["entity"].append(s)
-        elif s in masters["technology"]:
-            out["technology"].append(s)
-        else:
+        placed = False
+        for bucket in TYPE_BUCKETS:
+            if s in masters.get(bucket, set()):
+                out[bucket].append(s)
+                placed = True
+                break
+        if not placed:
             out["unknown"].append(s)
     return out
 
@@ -375,6 +370,7 @@ def build_frontmatter(
     lines.append(f"related_studies: {_yaml_list(related.get('study', []))}")
     lines.append(f"related_entities: {_yaml_list(related.get('entity', []))}")
     lines.append(f"related_technologies: {_yaml_list(related.get('technology', []))}")
+    lines.append(f"related_codes: {_yaml_list(related.get('code', []))}")
     lines.append("---")
     return "\n".join(lines)
 
@@ -410,8 +406,8 @@ def build_body(
         out.append("")
         out.append(
             "The following slugs were cited in the answer but were not found "
-            "in the master slug index. They may be stale, mis-spelled, or "
-            "refer to pages outside the canonical archive:"
+            "in `data/pages_manifest.parquet`. They may be stale, "
+            "mis-spelled, or refer to pages outside the canonical archive:"
         )
         out.append("")
         for s in unknown_slugs:
@@ -422,7 +418,7 @@ def build_body(
     out.append("<!-- Add your annotations here. This section is yours. -->")
     out.append("")
     out.append("---")
-    out.append(f"*Generated by `kw note` v2 on {created}. "
+    out.append(f"*Generated by `kw note` v3 on {created}. "
                "Edit freely — this is a permanent note.*")
     return "\n".join(out)
 
@@ -662,6 +658,7 @@ def main():
         f"[kw note]   matched studies:      {len(classified['study'])}\n"
         f"[kw note]   matched entities:     {len(classified['entity'])}\n"
         f"[kw note]   matched technologies: {len(classified['technology'])}\n"
+        f"[kw note]   matched codes:        {len(classified['code'])}\n"
         f"[kw note]   UNRESOLVED:           {len(classified['unknown'])}\n"
     )
     if classified["unknown"]:

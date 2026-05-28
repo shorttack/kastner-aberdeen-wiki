@@ -9,8 +9,11 @@
 #   kw ask "..." --cloud                # use Claude Sonnet for synthesis
 #   kw ask "..." --no-llm               # retrieval only (semantic search)
 #   kw ask "..." --type study           # restrict to one page type
+#   kw ask "..." --no-notes             # exclude permanent notes (pure archive)
+#   kw ask "..." --only-notes           # only permanent notes (interpretive)
 #   kw ask "..." --k 12                 # more sources
 #   kw search "..."                     # alias for ask --no-llm
+#   kw note --title "..." --body "..."  # write a permanent note
 #   kw verify                           # run scripts/verify.py
 #   kw rebuild-embeddings               # run scripts/reembed.py --ollama bge-m3
 #
@@ -34,6 +37,9 @@ case "$cmd" in
   search)
     exec python3 "$KW_ROOT/scripts/kw_ask.py" --no-llm "$@"
     ;;
+  note)
+    exec python3 "$KW_ROOT/scripts/kw_note.py" "$@"
+    ;;
   verify)
     exec python3 "$KW_ROOT/scripts/verify.py"
     ;;
@@ -51,6 +57,7 @@ kw — Kastner Aberdeen Wiki launcher
 Subcommands:
   ask QUESTION              RAG chatbox: bge-m3 retrieval + qwen3.5:27b synthesis
   search QUESTION           Semantic search only (no LLM)
+  note --title "..."        Create a permanent note (kw ask | kw note works)
   verify                    Run vault integrity check
   rebuild-embeddings        Re-embed all pages with bge-m3
   cd                        Print KW_ROOT (use: cd \$(kw cd))
@@ -59,17 +66,38 @@ Common flags for 'ask':
   --k N                     Sources to retrieve (default 6)
   --model NAME              Local Ollama model (default qwen3.5:27b-mlx)
   --cloud                   Use Claude Sonnet via pplx ask
-  --type TYPE               study|entity|technology|theme|volume-1|...
+  --type TYPE               study|entity|technology|theme|chapter|note|...
+  --no-notes                Exclude permanent notes (pure archive research)
+  --only-notes              Only permanent notes (Pete's interpretive layer)
   --no-stream               Wait for full response
   --no-llm                  Just show retrieval hits
   --temperature F           Default 0.3
   --max-tokens N            Default 1200
 
+Common flags for 'note':
+  --title TITLE             Required for new notes
+  --body TEXT               Inline note body
+  --from-file PATH          Read body from file
+  --question "Q"            Preserve original kw ask question
+  --sources-from PATH       Parse kw ask stderr capture for sources
+  --author pete|bill|NAME   Author identity (default pete)
+  --update SLUG --append    Append an update to an existing note
+  --commit                  Actually write (default is dry-run)
+
 Examples:
   kw ask "what did Aberdeen get right about cloud computing?"
-  kw ask "Intel manufacturing strategy 2003-2010" --type theme
+  kw ask "Intel 2003-2010 strategy" --type theme
   kw ask "agentic AI in enterprise" --k 12 --cloud
+  kw ask "DEC's PC blind spot" --no-notes        # pure archive only
+  kw ask "what have I concluded about ATM?" --only-notes
   kw search "ATM versus Ethernet backbone" --k 20
+
+  # Capture an answer into a permanent note in one pipeline:
+  kw ask "Why did DEC miss the PC transition?" --no-notes 2>/tmp/src.txt \\
+    | kw note --title "Why DEC missed the PC transition" \\
+              --question "Why did DEC miss the PC transition?" \\
+              --sources-from /tmp/src.txt --commit
+  kw rebuild-embeddings                          # make the new note searchable
 
 Current wiki: $KW_ROOT
 EOF

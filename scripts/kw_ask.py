@@ -1,79 +1,63 @@
 #!/usr/bin/env python3
-"""kw_ask.py v4 — chatbox over the Kastner Aberdeen Wiki via bge-m3 RAG.
+"""kw ask — RAG over the Kastner Aberdeen Wiki.
 
-v4 changes (2026-05-28, post-Phase-5 schema alignment):
-  - Schema reconciliation with `05_compute_embeddings_v2.py`. The Phase 5
-    writer emits columns `path, slug, embedding, dim`. Prior kw_ask (v2/v3)
-    queried `page_path, slug, title, page_type, vector` — those columns do
-    not exist in the parquet file. Result: `BinderException: Referenced
-    column "vector" not found`.
-  - New approach:
-      * SELECT path, slug, embedding FROM embeddings.parquet
-      * Derive title + page_type from the on-disk markdown frontmatter (we
-        already load each page below; the YAML header is right there).
-      * Cache title/page_type per session so we don't reparse 10,296 files
-        when `--type` filtering is in play.
-  - `page_path` is set equal to `path` for downstream compatibility.
+v5 changes (2026-05-28):
+  * --no-notes : exclude page_type == "note" from retrieval (pure archive mode)
+  * --only-notes : restrict to notes only (interpretive layer mode)
+  * --type still works exactly as before (single page_type match)
+  * --no-notes and --only-notes are mutually exclusive with each other and
+    with --type; argparse enforces.
 
-v3 changes:
-  - `--cloud` flag is now a stub: prints a clear error directing the user to
-    `--model qwen3.5:35b-mlx` instead. No more `FileNotFoundError: pplx` traceback.
-  - Cloud synthesis is reserved for a future release when an API-key-backed
-    provider is wired in (Anthropic, Perplexity Sonar API, OpenAI, or Gemini).
+Default behaviour is unchanged: all page types are searched, including notes
+once kw_note has started creating them. This means the corpus grows smarter
+every time Pete saves a note.
 
-v2 changes:
-  - Disable model "thinking" via Ollama's `think: false` (qwen3.5 emits
-    long <think>...</think> blocks otherwise, eating the entire token budget)
-  - Belt-and-suspenders: strip any <think>...</think> blocks from output
-  - Bump num_predict to 2000 by default (synthesis answers can be long)
-  - Show explicit error message if Ollama returns empty response
+Filter precedence at retrieval time:
+  --type X       →  page_type == X
+  --only-notes   →  page_type == "note"
+  --no-notes     →  page_type != "note"
+  (none)         →  no filter
 
-Workflow:
-  1. Embed your question with bge-m3 via local Ollama
-  2. Cosine-similarity match against data/embeddings.parquet
-  3. Load the top-k page contents, build a context bundle
-  4. Send to local LLM (qwen3.5:27b-mlx by default) for synthesis
-  5. Stream the response, show sources at the end
+Schema note: the embeddings parquet already carries page_type (written by
+reembed.py from each page's YAML frontmatter), so no re-embed is required to
+enable these flags.
 """
+from __future__ import annotations
 import argparse
-import os
-import sys
-import re
 import json
+import os
+import re
 import subprocess
+import sys
 import time
 from pathlib import Path
 
-import requests
 import duckdb
 import numpy as np
+import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 EMB_PARQUET = ROOT / "data" / "embeddings.parquet"
 WIKI_ROOT = ROOT / "wiki"
 
-OLLAMA_URL = "http://localhost:11434"
-EMBED_MODEL = "bge-m3"
+DEFAULT_EMBED_MODEL = "bge-m3"
 DEFAULT_LLM = "qwen3.5:27b-mlx"
-PAGE_CHARS = 2000
+OLLAMA_HOST = "http://localhost:11434"
+PAGE_CHARS = 4000
 
-THINK_RE = re.compile(r"<think>.*?</think>\s*", flags=re.DOTALL | re.IGNORECASE)
-
-# v4: top-level dir under wiki/ maps to page_type for pages that lack
-# explicit frontmatter `page_type:` (root index files, mostly). Source of
-# truth is the parquet `path` column.
-DIR_TO_PAGE_TYPE = {
+# Top-level dir under wiki/ maps to page_type for pages that lack
+# explicit frontmatter page_type (mostly root index files).
+_DIR_TO_PTYPE = {
     "studies": "study",
     "entities": "entity",
     "technologies": "technology",
-    "codes": "code",
     "themes": "theme",
-    "volume-1": "volume-1",
-    "decades": "decade",
     "collections": "collection",
+    "decades": "decade",
+    "volume-1": "chapter",
+    "notes": "note",          # v5: kw_note writes here
 }
 
-# Cache: page_path -> (title, page_type). Populated lazily by _page_meta().
 _meta_cache: dict[str, tuple[str, str]] = {}
 
 _FM_TITLE_RE = re.compile(r'^title:\s*"?(.*?)"?\s*$', re.MULTILINE)
@@ -81,59 +65,64 @@ _FM_PTYPE_RE = re.compile(r'^page_type:\s*"?(.*?)"?\s*$', re.MULTILINE)
 
 
 def _derive_page_type_from_path(page_path: str) -> str:
-    """Fallback page_type when frontmatter doesn't carry one. Looks at the
-    top-level dir under wiki/ (e.g. wiki/studies/foo.md -> 'study')."""
-    parts = page_path.split("/")
+    parts = Path(page_path).parts
+    # page_path is relative to ROOT, like "wiki/notes/foo.md"
     if len(parts) >= 2 and parts[0] == "wiki":
-        return DIR_TO_PAGE_TYPE.get(parts[1], "index")
-    return "index"
+        return _DIR_TO_PTYPE.get(parts[1], "unknown")
+    return "unknown"
 
 
 def _page_meta(page_path: str) -> tuple[str, str]:
-    """Return (title, page_type) for a wiki page, parsing YAML frontmatter.
-    Cached per session."""
-    hit = _meta_cache.get(page_path)
-    if hit is not None:
-        return hit
+    if page_path in _meta_cache:
+        return _meta_cache[page_path]
     full = ROOT / page_path
     title = Path(page_path).stem
     ptype = _derive_page_type_from_path(page_path)
     if full.exists():
         try:
-            # Read only the first ~2KB — frontmatter is always at the top.
-            head = full.read_text(encoding="utf-8", errors="replace")[:2048]
-            if head.startswith("---\n"):
+            head = full.read_text(encoding="utf-8", errors="replace")[:2000]
+            if head.startswith("---"):
                 end = head.find("\n---\n", 4)
                 if end > 0:
-                    fm = head[4:end]
-                    m = _FM_TITLE_RE.search(fm)
+                    front = head[3:end]
+                    m = _FM_TITLE_RE.search(front)
                     if m:
                         title = m.group(1).strip()
-                    m = _FM_PTYPE_RE.search(fm)
+                    m = _FM_PTYPE_RE.search(front)
                     if m:
                         ptype = m.group(1).strip()
-        except OSError:
+        except Exception:
             pass
     _meta_cache[page_path] = (title, ptype)
     return title, ptype
 
 
-def embed_query(text: str) -> np.ndarray:
+def embed_query(q: str) -> np.ndarray:
     r = requests.post(
-        f"{OLLAMA_URL}/api/embeddings",
-        json={"model": EMBED_MODEL, "prompt": text},
+        f"{OLLAMA_HOST}/api/embeddings",
+        json={"model": DEFAULT_EMBED_MODEL, "prompt": q},
         timeout=60,
     )
     r.raise_for_status()
     v = np.array(r.json()["embedding"], dtype=np.float32)
-    v /= np.linalg.norm(v) + 1e-9
-    return v
+    n = np.linalg.norm(v) + 1e-9
+    return v / n
 
 
-def retrieve(query: str, k: int = 6, page_type: str | None = None):
+def retrieve(
+    query: str,
+    k: int = 6,
+    page_type: str | None = None,
+    exclude_types: set[str] | None = None,
+    include_types: set[str] | None = None,
+):
+    """Top-k retrieval with optional page_type filters.
+
+    Precedence (argparse enforces mutual exclusion at CLI layer):
+      include_types takes priority over exclude_types takes priority over
+      page_type. Inside this function we just apply whatever is non-None.
+    """
     qv = embed_query(query)
-    # v4: parquet schema is (path, slug, embedding, dim). We alias `embedding`
-    # to `vector` for the rest of the script's variable naming.
     df = duckdb.sql(
         f"SELECT path AS page_path, slug, embedding AS vector "
         f"FROM '{EMB_PARQUET}' "
@@ -142,13 +131,17 @@ def retrieve(query: str, k: int = 6, page_type: str | None = None):
     if len(df) == 0:
         return df
 
-    # Derive title + page_type from frontmatter (cached).
     meta = df["page_path"].apply(_page_meta)
     df["title"] = meta.apply(lambda t: t[0])
     df["page_type"] = meta.apply(lambda t: t[1])
 
-    if page_type:
+    if include_types:
+        df = df[df["page_type"].isin(include_types)].reset_index(drop=True)
+    elif exclude_types:
+        df = df[~df["page_type"].isin(exclude_types)].reset_index(drop=True)
+    elif page_type:
         df = df[df["page_type"] == page_type].reset_index(drop=True)
+
     if len(df) == 0:
         return df
 
@@ -170,7 +163,7 @@ def load_page_content(page_path: str, char_budget: int = PAGE_CHARS) -> str:
     if txt.startswith("---\n"):
         end = txt.find("\n---\n", 4)
         if end > 0:
-            txt = txt[end + 5 :]
+            txt = txt[end + 5:]
     return txt[:char_budget].strip()
 
 
@@ -187,204 +180,205 @@ def build_prompt(question: str, hits) -> str:
     context = "\n\n---\n\n".join(chunks)
     return f"""You are a research assistant for the Kastner Aberdeen Wiki — a 1990–2026
 archive of Aberdeen Group technology research. Answer the user's question
-using ONLY the source pages below. Cite sources by slug in square brackets,
-e.g. [intel-corporation-longitudinal]. If the sources don't contain a
-reliable answer, say so plainly — do not speculate.
-
-Be direct. Do not deliberate. Start your answer with the conclusion.
+using ONLY the sources below. Cite each source by its slug in square
+brackets, e.g. [as400]. If the sources don't answer the question, say so.
 
 QUESTION: {question}
 
-SOURCE PAGES:
+SOURCES:
 {context}
 
-ANSWER (be specific, cite slugs, ~250-400 words):"""
+ANSWER:"""
 
 
-class ThinkStripper:
+_THINK_OPEN_RE = re.compile(r"<think>", re.IGNORECASE)
+_THINK_CLOSE_RE = re.compile(r"</think>", re.IGNORECASE)
+
+
+def _strip_think_stream(tokens, show_think: bool = False):
     """Stream filter that removes <think>...</think> blocks token-by-token."""
-    def __init__(self):
-        self.buf = ""
-        self.in_think = False
-
-    def feed(self, chunk: str) -> str:
-        out = []
-        self.buf += chunk
-        while self.buf:
-            if self.in_think:
-                end = self.buf.find("</think>")
-                if end < 0:
-                    self.buf = ""  # consume but don't emit
-                    return ""
-                self.buf = self.buf[end + len("</think>"):]
-                self.in_think = False
-                # Skip leading whitespace after </think>
-                self.buf = self.buf.lstrip()
-                continue
-            start = self.buf.find("<think>")
-            if start < 0:
-                # No <think> tag in buffer — emit everything we can
-                # but hold back last 8 chars in case "<think>" is being assembled
-                if len(self.buf) <= 8:
-                    return "".join(out)
-                emit = self.buf[:-8]
-                self.buf = self.buf[-8:]
-                out.append(emit)
-                return "".join(out)
-            # Emit text before <think>, then enter think mode
-            if start > 0:
-                out.append(self.buf[:start])
-            self.buf = self.buf[start + len("<think>"):]
-            self.in_think = True
-        return "".join(out)
-
-    def flush(self) -> str:
-        if self.in_think:
-            return ""
-        return self.buf
-
-
-def synthesize_local(prompt: str, model: str, stream: bool, temperature: float, max_tokens: int) -> str:
-    payload = {
-        "model": model,
-        "prompt": prompt,
-        "stream": stream,
-        "think": False,  # disable qwen3.5 reasoning blocks
-        "options": {
-            "temperature": temperature,
-            "num_ctx": 16384,
-            "num_predict": max_tokens,
-        },
-        "keep_alive": "30m",
-    }
-    if stream:
-        full = []
-        stripper = ThinkStripper()
-        with requests.post(
-            f"{OLLAMA_URL}/api/generate", json=payload, stream=True, timeout=600
-        ) as r:
-            r.raise_for_status()
-            for line in r.iter_lines():
-                if not line:
-                    continue
-                obj = json.loads(line)
-                if "error" in obj:
-                    print(f"\n[ollama error] {obj['error']}", file=sys.stderr)
-                    sys.exit(1)
-                tok = obj.get("response", "")
-                if tok:
-                    visible = stripper.feed(tok)
-                    if visible:
-                        print(visible, end="", flush=True)
-                        full.append(visible)
-                if obj.get("done"):
-                    tail = stripper.flush()
-                    if tail:
-                        print(tail, end="", flush=True)
-                        full.append(tail)
+    buf = ""
+    in_think = False
+    for tok in tokens:
+        buf += tok
+        while True:
+            if in_think:
+                m = _THINK_CLOSE_RE.search(buf)
+                if not m:
+                    if show_think:
+                        yield buf
+                    buf = ""
                     break
-        print()
-        out = "".join(full).strip()
-        if not out:
-            print("[kw] WARNING: model returned no visible content. "
-                  "Try --model qwen3.5:35b-mlx or --cloud.", file=sys.stderr)
-        return out
-    else:
-        r = requests.post(f"{OLLAMA_URL}/api/generate", json=payload, timeout=600)
-        r.raise_for_status()
-        ans = r.json().get("response", "")
-        ans = THINK_RE.sub("", ans).strip()
-        if not ans:
-            print("[kw] WARNING: model returned no visible content.", file=sys.stderr)
-        else:
-            print(ans)
-        return ans
+                if show_think:
+                    yield buf[: m.end()]
+                buf = buf[m.end():]
+                in_think = False
+            else:
+                m = _THINK_OPEN_RE.search(buf)
+                if not m:
+                    yield buf
+                    buf = ""
+                    break
+                yield buf[: m.start()]
+                buf = buf[m.start():]
+                in_think = True
+                if not show_think:
+                    # drop everything until </think>
+                    pass
+                else:
+                    yield ""  # placeholder
+                # try to find close in remaining buf
+                close = _THINK_CLOSE_RE.search(buf)
+                if close:
+                    if show_think:
+                        yield buf[: close.end()]
+                    buf = buf[close.end():]
+                    in_think = False
+                else:
+                    break
+    if buf and not in_think:
+        yield buf
 
 
-def synthesize_cloud(prompt: str, stream: bool) -> str:
-    """Stub. Cloud synthesis is not currently wired to any provider.
-
-    Previous v1/v2 shelled out to an internal `pplx` CLI that isn't
-    distributable. To re-enable cloud synthesis in a future release, wire
-    one of: Anthropic (ANTHROPIC_API_KEY), Perplexity Sonar API (PPLX_API_KEY),
-    OpenAI (OPENAI_API_KEY), or Gemini (GEMINI_API_KEY). All require a
-    paid/metered key the user must obtain themselves.
-    """
-    print(
-        "[kw] --cloud is not currently available. Cloud synthesis requires a\n"
-        "     paid API key (Anthropic, Perplexity Sonar API, OpenAI, or Gemini)\n"
-        "     that this build doesn't have wired in. For now, use the local\n"
-        "     models which are production-grade for this archive:\n\n"
-        "       kw ask \"...\"                              # qwen3.5:27b-mlx (default)\n"
-        "       kw ask \"...\" --model qwen3.5:35b-mlx     # bigger, slower, smarter\n",
-        file=sys.stderr,
+def stream_ollama(prompt: str, model: str, temperature: float, max_tokens: int,
+                  show_think: bool = False):
+    r = requests.post(
+        f"{OLLAMA_HOST}/api/generate",
+        json={
+            "model": model,
+            "prompt": prompt,
+            "stream": True,
+            "options": {
+                "temperature": temperature,
+                "num_predict": max_tokens,
+            },
+        },
+        stream=True,
+        timeout=600,
     )
-    sys.exit(2)
+    r.raise_for_status()
+
+    def raw_tokens():
+        for line in r.iter_lines():
+            if not line:
+                continue
+            try:
+                obj = json.loads(line)
+            except Exception:
+                continue
+            tok = obj.get("response", "")
+            if tok:
+                yield tok
+            if obj.get("done"):
+                break
+
+    for piece in _strip_think_stream(raw_tokens(), show_think=show_think):
+        if piece:
+            sys.stdout.write(piece)
+            sys.stdout.flush()
+    sys.stdout.write("\n")
+
+
+def call_cloud(prompt: str) -> None:
+    """Defer to `pplx ask` for cloud synthesis."""
+    proc = subprocess.run(
+        ["pplx", "ask", prompt],
+        capture_output=True,
+        text=True,
+        timeout=600,
+    )
+    if proc.returncode != 0:
+        sys.stderr.write(f"[kw ask --cloud] pplx ask failed: {proc.stderr}\n")
+        sys.exit(2)
+    sys.stdout.write(proc.stdout)
+    if not proc.stdout.endswith("\n"):
+        sys.stdout.write("\n")
 
 
 def main():
-    p = argparse.ArgumentParser(prog="kw ask", description=__doc__,
-                                formatter_class=argparse.RawDescriptionHelpFormatter)
+    p = argparse.ArgumentParser(
+        prog="kw ask",
+        description=__doc__,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
     p.add_argument("question", nargs="+")
     p.add_argument("--k", type=int, default=6)
     p.add_argument("--model", default=DEFAULT_LLM)
     p.add_argument("--cloud", action="store_true")
     p.add_argument("--no-stream", action="store_true")
-    p.add_argument("--type", help="Restrict retrieval to one page type")
     p.add_argument("--no-llm", action="store_true")
     p.add_argument("--temperature", type=float, default=0.3)
     p.add_argument("--max-tokens", type=int, default=2000)
     p.add_argument("--show-think", action="store_true",
-                   help="Don't strip <think> blocks (debugging)")
+                   help="Show <think> chain-of-thought (qwen3 only)")
+
+    # Mutually exclusive page_type filters (v5)
+    filt = p.add_mutually_exclusive_group()
+    filt.add_argument("--type",
+                      help="Restrict retrieval to one page type "
+                           "(study|entity|technology|theme|chapter|note|...)")
+    filt.add_argument("--no-notes", action="store_true",
+                      help="Exclude notes — pure archive research mode")
+    filt.add_argument("--only-notes", action="store_true",
+                      help="Restrict to notes — interpretive layer only")
+
     args = p.parse_args()
-
-    question = " ".join(args.question).strip()
-    if not question:
-        p.error("question is empty")
-
-    if not EMB_PARQUET.exists():
-        print(f"ERROR: {EMB_PARQUET} not found.", file=sys.stderr)
-        sys.exit(1)
+    question = " ".join(args.question)
 
     t0 = time.time()
-    print(f"[kw] retrieving k={args.k} pages for: {question!r}", file=sys.stderr)
-    hits = retrieve(question, k=args.k, page_type=args.type)
+    page_type = args.type
+    exclude_types = {"note"} if args.no_notes else None
+    include_types = {"note"} if args.only_notes else None
+
+    hits = retrieve(
+        question,
+        k=args.k,
+        page_type=page_type,
+        exclude_types=exclude_types,
+        include_types=include_types,
+    )
     t_ret = time.time() - t0
-    print(f"[kw] retrieved {len(hits)} hits in {t_ret:.2f}s", file=sys.stderr)
 
     if len(hits) == 0:
-        print("No matches found.", file=sys.stderr)
+        sys.stderr.write("[kw ask] no hits (check filters)\n")
         sys.exit(1)
 
     if args.no_llm:
-        print()
         for _, h in hits.iterrows():
             print(f"  {h['score']:.3f}  {h['page_type']:12s}  {h['slug']}")
-            print(f"          {h['title']}")
-            print(f"          {h['page_path']}")
+        sys.stderr.write(f"[kw ask] retrieve: {t_ret*1000:.0f} ms\n")
         return
 
     prompt = build_prompt(question, hits)
-    print(f"[kw] synthesizing with {'Claude (cloud)' if args.cloud else args.model}...",
-          file=sys.stderr)
-    print()
-
-    # Optionally bypass strip for debugging
-    if args.show_think:
-        global THINK_RE
-        THINK_RE = re.compile(r"(?!a)a")  # never matches
+    sys.stderr.write(f"[kw ask] retrieve: {t_ret*1000:.0f} ms — synthesizing…\n")
 
     if args.cloud:
-        synthesize_cloud(prompt, stream=not args.no_stream)
+        call_cloud(prompt)
     else:
-        synthesize_local(
-            prompt, args.model, stream=not args.no_stream,
-            temperature=args.temperature, max_tokens=args.max_tokens,
+        stream_ollama(
+            prompt,
+            model=args.model,
+            temperature=args.temperature,
+            max_tokens=args.max_tokens,
+            show_think=args.show_think,
         )
 
-    print("\n--- Sources ---", file=sys.stderr)
+    # Sources block (to stderr so it doesn't pollute pipes into kw_note)
+    sys.stderr.write("\n--- Sources ---\n")
     for _, h in hits.iterrows():
-        print(f"  [{h['score']:.3f}] {h['slug']:50s}  ({h['page_type']})", file=sys.stderr)
+        sys.stderr.write(
+            f"{h['score']:.3f}  {h['slug']:48s}  {h['page_type']}\n"
+        )
+
+    # v5: filter banner so the user always sees provenance mode
+    mode = "all"
+    if args.no_notes:
+        mode = "no-notes (pure archive)"
+    elif args.only_notes:
+        mode = "only-notes (interpretive)"
+    elif args.type:
+        mode = f"type={args.type}"
+    sys.stderr.write(f"[kw ask] filter: {mode}, k={args.k}, model={args.model}\n")
 
 
 if __name__ == "__main__":

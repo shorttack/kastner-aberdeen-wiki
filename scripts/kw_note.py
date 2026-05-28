@@ -9,6 +9,21 @@ Default mode is DRY-RUN: kw note prints the file it would write to stdout
 and exits 0. Pass --commit to actually write the file. This matches the
 forever-archive verify-then-write rule.
 
+v2 changes (2026-05-28, post-UNRESOLVED-bug):
+  * Read corpus slugs from the wiki's own parquets in data/ (studies,
+    entities, technologies), NOT from CSVs in archive_masters/. This
+    makes the wiki repo self-contained: anyone who clones it can run
+    kw note without needing the private archive_masters directory on
+    their disk.
+  * Use the verified column names: study_id, entity_id, tech_id.
+    v1 used 'technology_id' which doesn't exist; result was
+    UNRESOLVED: N matched: 0.
+  * Fall back to CSVs at $KW_MASTERS_DIR (default
+    ~/Desktop/Archive/archive_masters) ONLY if parquets are missing
+    AND the dir exists. Pete-only escape hatch.
+  * Diagnostic stderr on load tells you exactly which source was used
+    and how many slugs were loaded per kind.
+
 Common usage:
 
   # Pipe an answer straight from kw ask
@@ -35,6 +50,7 @@ Frontmatter (page_type: note):
 from __future__ import annotations
 import argparse
 import csv
+import os
 import re
 import sys
 from datetime import date
@@ -44,6 +60,10 @@ ROOT = Path(__file__).resolve().parents[1]
 WIKI_ROOT = ROOT / "wiki"
 NOTES_DIR = WIKI_ROOT / "notes"
 DATA_DIR = ROOT / "data"
+
+# Optional CSV fallback for Pete's local Mac. Set via env if non-default.
+DEFAULT_MASTERS_DIR = Path.home() / "Desktop" / "Archive" / "archive_masters"
+MASTERS_DIR = Path(os.environ.get("KW_MASTERS_DIR", str(DEFAULT_MASTERS_DIR)))
 
 # Authors known to the corpus. Extend by passing --author <freeform string>.
 AUTHORS = {
@@ -119,30 +139,140 @@ def parse_sources_file(path: Path) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# Master CSV lookups for wikilink proposals
+# Master lookups for wikilink proposals
 # ---------------------------------------------------------------------------
 
-def _load_master_slugs() -> dict[str, set[str]]:
-    """Return {'entity': {...}, 'technology': {...}, 'study': {...}}."""
-    out = {"entity": set(), "technology": set(), "study": set()}
-    files = {
-        "entity": DATA_DIR / "_master_entities.csv",
-        "technology": DATA_DIR / "_master_technologies.csv",
-        "study": DATA_DIR / "_master_studies.csv",
-    }
-    for kind, fp in files.items():
+# Verified by start-of-day protocol on 2026-05-28:
+#   _master_studies.csv       : study_id, title, author, date, ...
+#   _master_entities.csv      : entity_id, entity_name, entity_type, ...
+#   _master_technologies.csv  : tech_id, tech_name, category, ...
+#   studies.parquet           : study_id, title, author, ..., pub_year
+#   entities.parquet          : entity_id, entity_name, ..., occurrence_count
+#   technologies.parquet      : tech_id, tech_name, ..., occurrence_count
+MASTERS_SPEC = {
+    "study": {
+        "parquet": "studies.parquet",
+        "csv": "_master_studies.csv",
+        "id_col": "study_id",
+    },
+    "entity": {
+        "parquet": "entities.parquet",
+        "csv": "_master_entities.csv",
+        "id_col": "entity_id",
+    },
+    "technology": {
+        "parquet": "technologies.parquet",
+        "csv": "_master_technologies.csv",
+        "id_col": "tech_id",
+    },
+}
+
+
+def _load_from_parquets() -> dict[str, set[str]] | None:
+    """Read slugs from data/*.parquet via duckdb. Returns None on failure."""
+    try:
+        import duckdb  # type: ignore
+    except ImportError:
+        sys.stderr.write(
+            "[kw note] warn: duckdb not installed; falling back to CSV.\n"
+        )
+        return None
+    missing = [
+        spec["parquet"] for spec in MASTERS_SPEC.values()
+        if not (DATA_DIR / spec["parquet"]).exists()
+    ]
+    if missing:
+        sys.stderr.write(
+            f"[kw note] warn: parquets missing in {DATA_DIR}: {missing}; "
+            "falling back to CSV.\n"
+        )
+        return None
+    out: dict[str, set[str]] = {k: set() for k in MASTERS_SPEC}
+    try:
+        con = duckdb.connect(":memory:")
+        for kind, spec in MASTERS_SPEC.items():
+            pq = (DATA_DIR / spec["parquet"]).as_posix()
+            col = spec["id_col"]
+            rows = con.execute(
+                f"SELECT DISTINCT {col} FROM read_parquet('{pq}') "
+                f"WHERE {col} IS NOT NULL"
+            ).fetchall()
+            out[kind] = {r[0] for r in rows if r[0]}
+        con.close()
+    except Exception as e:
+        sys.stderr.write(f"[kw note] warn: parquet load failed: {e}\n")
+        return None
+    sys.stderr.write(
+        f"[kw note] loaded slug index from parquets in {DATA_DIR}: "
+        f"studies={len(out['study'])} "
+        f"entities={len(out['entity'])} "
+        f"technologies={len(out['technology'])}\n"
+    )
+    return out
+
+
+def _load_from_csvs() -> dict[str, set[str]] | None:
+    """Fallback: read slugs from CSV masters at MASTERS_DIR. None on failure."""
+    if not MASTERS_DIR.exists():
+        sys.stderr.write(
+            f"[kw note] warn: CSV fallback dir not found: {MASTERS_DIR}\n"
+        )
+        return None
+    out: dict[str, set[str]] = {k: set() for k in MASTERS_SPEC}
+    any_loaded = False
+    for kind, spec in MASTERS_SPEC.items():
+        fp = MASTERS_DIR / spec["csv"]
+        col = spec["id_col"]
         if not fp.exists():
+            sys.stderr.write(f"[kw note] warn: missing {fp}\n")
             continue
         try:
             with fp.open(newline="", encoding="utf-8") as f:
                 rdr = csv.DictReader(f)
+                if col not in (rdr.fieldnames or []):
+                    sys.stderr.write(
+                        f"[kw note] warn: column '{col}' not in {fp} "
+                        f"(found: {rdr.fieldnames}); skipping.\n"
+                    )
+                    continue
                 for row in rdr:
-                    slug = (row.get("slug") or row.get(f"{kind}_id") or "").strip()
-                    if slug:
-                        out[kind].add(slug)
+                    v = (row.get(col) or "").strip()
+                    if v:
+                        out[kind].add(v)
+            any_loaded = True
         except Exception as e:
             sys.stderr.write(f"[kw note] warn: could not read {fp}: {e}\n")
+    if not any_loaded:
+        return None
+    sys.stderr.write(
+        f"[kw note] loaded slug index from CSVs in {MASTERS_DIR}: "
+        f"studies={len(out['study'])} "
+        f"entities={len(out['entity'])} "
+        f"technologies={len(out['technology'])}\n"
+    )
     return out
+
+
+def _load_master_slugs() -> dict[str, set[str]]:
+    """Return {'entity': {...}, 'technology': {...}, 'study': {...}}.
+
+    Order of preference:
+      1. data/*.parquet (wiki-self-contained, works for any cloner)
+      2. CSVs under $KW_MASTERS_DIR or ~/Desktop/Archive/archive_masters/
+      3. Empty sets (everything will UNRESOLVE; user gets a clear warning)
+    """
+    result = _load_from_parquets()
+    if result is not None:
+        return result
+    result = _load_from_csvs()
+    if result is not None:
+        return result
+    sys.stderr.write(
+        "[kw note] warn: no slug index available; all citations will be "
+        "marked UNRESOLVED. Run `kw rebuild-embeddings` or set "
+        "$KW_MASTERS_DIR to a directory containing _master_*.csv files.\n"
+    )
+    return {k: set() for k in MASTERS_SPEC}
 
 
 def rewrite_citations(body: str) -> tuple[str, list[str]]:
@@ -280,8 +410,8 @@ def build_body(
         out.append("")
         out.append(
             "The following slugs were cited in the answer but were not found "
-            "in the master CSVs. They may be stale, mis-spelled, or refer to "
-            "pages outside the canonical archive:"
+            "in the master slug index. They may be stale, mis-spelled, or "
+            "refer to pages outside the canonical archive:"
         )
         out.append("")
         for s in unknown_slugs:
@@ -292,7 +422,7 @@ def build_body(
     out.append("<!-- Add your annotations here. This section is yours. -->")
     out.append("")
     out.append("---")
-    out.append(f"*Generated by `kw note` v1 on {created}. "
+    out.append(f"*Generated by `kw note` v2 on {created}. "
                "Edit freely — this is a permanent note.*")
     return "\n".join(out)
 

@@ -733,6 +733,259 @@ to debug, then file an issue.
 
 ---
 
+## 6.6. Cookbook: `kw note` — permanent notes that grow the corpus
+
+Shipped 2026-05-28. Bug-fixed to v2 same day. `kw note` is the companion to
+`kw ask`. Where `kw ask` reads the archive, `kw note` writes back to it:
+turn any `kw ask` answer (or any hand-written insight) into a permanent
+markdown page in `wiki/notes/` that is searchable, citable, and embedded
+into the same RAG index the next time you re-embed.
+
+> The corpus grows every time you save a note. By default `kw ask`
+> retrieves across all page types, so saved notes become part of the
+> answer-mix on the very next query (after `kw rebuild-embeddings`). Use
+> `--no-notes` on `kw ask` when you want pure archive truth without your
+> own interpretive layer in the mix.
+
+### Prerequisites
+
+`kw note` ships in the same `bin/kw` launcher as `kw ask`. No extra
+install. The script is at `scripts/kw_note.py` and is auto-discovered by
+`kw` via `KW_ROOT`. To classify wikilinks it reads the slug index from
+`data/studies.parquet`, `data/entities.parquet`, and
+`data/technologies.parquet` — the same parquets `kw ask` retrieves from,
+so the wiki repo is self-contained for any researcher who clones it.
+If parquets are missing it falls back to CSV masters at
+`$KW_MASTERS_DIR` (default `~/Desktop/Archive/archive_masters/`). If
+neither source is reachable, every citation is flagged unresolved and the
+script prints a clear warning — the note still saves.
+
+### Mental model
+
+Two writing surfaces, two purposes:
+
+| Surface | What it is | How to query |
+|---|---|---|
+| `wiki/studies/`, `wiki/entities/`, `wiki/technologies/`, `wiki/themes/`, … | The archive itself. Generated from `_master_*.csv` truth files. | `kw ask "Q" --no-notes` (or default — notes are included) |
+| `wiki/notes/` | Your synthesis layer. Permanent notes captured from `kw ask` sessions or hand-written. | `kw ask "Q" --only-notes` to query *just* your notes |
+
+Default `kw ask` blends both. The `--no-notes` and `--only-notes` flags
+let you choose which surface to read from.
+
+### Example K1 — Capture a `kw ask` answer as a permanent note
+
+```bash
+# One pipe: ask, capture sources to a temp file, file the answer.
+kw ask "Why did DEC miss the PC transition?" --no-notes 2>/tmp/src.txt \
+  | kw note --title "Why DEC missed the PC transition" \
+            --question "Why did DEC miss the PC transition?" \
+            --sources-from /tmp/src.txt \
+            --model qwen3.5:27b-mlx --retrieval-k 6
+```
+
+This is a **dry-run** by default. The full note (frontmatter + body) prints
+to stdout for review; nothing is written to disk. The stderr summary tells
+you the slug, author, how many `[slug]` citations were rewritten as
+`[[wikilinks]]`, and how many citations were *unresolved* (i.e. cited a
+slug not found in the master CSVs).
+
+Re-run with `--commit` to actually write:
+
+```bash
+kw ask "Why did DEC miss the PC transition?" --no-notes 2>/tmp/src.txt \
+  | kw note --title "Why DEC missed the PC transition" \
+            --question "Why did DEC miss the PC transition?" \
+            --sources-from /tmp/src.txt \
+            --model qwen3.5:27b-mlx --retrieval-k 6 \
+            --commit
+```
+
+The note lands at `wiki/notes/note-why-dec-missed-the-pc-transition-2026-05-28.md`.
+
+### Example K2 — File a hand-written permanent note
+
+When the insight isn't from a `kw ask` answer — e.g. a notebook entry, a
+phone call observation, a piece of context you want to preserve forever:
+
+```bash
+kw note --title "ATM vs Ethernet: 2026 retrospective" \
+        --body "Ethernet won because the silicon scaled and ATM cells
+                stayed expensive. The Aberdeen 1996 ATM thesis was
+                directionally wrong on cost curves but right on QoS
+                requirements — see [study-aberdeen-1996-atm-future] and
+                [ethernet-switching]." \
+        --tags topic/networking,decade/1990s,decade/2020s \
+        --commit
+```
+
+Same dry-run semantics — drop `--commit` to preview first. Wikilinks are
+auto-rewritten: `[ethernet-switching]` becomes `[[ethernet-switching]]`
+and gets classified against the master CSVs.
+
+### Example K3 — Append an update to an existing note
+
+Notes are permanent but not frozen. When new evidence shows up:
+
+```bash
+kw note --update note-atm-vs-ethernet-2026-retrospective-2026-05-28 \
+        --append \
+        --body "Update 2026-06-15: new internal DEC memo found in the
+                Robbins 1991 source; ATM was nearly killed by DEC's own
+                customer-base data 5 years before the market verdict." \
+        --commit
+```
+
+The existing note gets a new `## Update (YYYY-MM-DD)` section appended.
+The `updated:` field in the frontmatter is auto-bumped. The original
+content is preserved verbatim (forever-archive rule).
+
+> v1 limitation: `--append` does NOT run the wikilink rewriter on the new
+> text. Hand-edit `[[slug]]` brackets if you want them. v1.5 will close
+> this gap.
+
+### Example K4 — Multi-author notes
+
+If others contribute to the corpus, identify them on the command line:
+
+```bash
+kw note --title "Open source SI strategy, 1999" \
+        --author bill \
+        --body "Bill Wallet's perspective on the Aberdeen open-source
+                SI thesis. SI vendors underestimated the support
+                revenue impact by 3x." \
+        --commit
+```
+
+Recognized short ids: `pete` → Peter S. Kastner, `bill` → Bill Wallet.
+Any other string is taken verbatim as the author name (e.g.
+`--author "Jane Doe"`). The `author_id` is auto-derived from the first
+word for tag/Dataview filtering: `tag: author/pete`, `author/bill`,
+`author/jane`.
+
+### Example K5 — Query just your notes layer
+
+After you've captured a few notes:
+
+```bash
+# Synthesized answer from notes only — what have YOU concluded?
+kw ask "What have I concluded about DEC's strategic blind spots?" --only-notes
+
+# Retrieval-only against notes
+kw ask "DEC PC blind spot" --only-notes --no-llm
+
+# Notes from a specific author (via --type once author filtering ships in v1.5)
+# For now, you can grep:
+grep -l "author_id: bill" wiki/notes/*.md
+```
+
+The default `kw ask` retrieves across **all** page types. `--no-notes`
+gives you the pure archive view. `--only-notes` gives you the
+interpretive view. Always check the filter banner printed to stderr at
+the end of `kw ask`:
+
+```
+[kw ask] filter: only-notes (interpretive), k=6, model=qwen3.5:27b-mlx
+```
+
+### Example K6 — Make a new note searchable
+
+Notes are stored as markdown files but RAG retrieval reads from
+`data/embeddings.parquet`. A newly-saved note is NOT searchable until you
+re-embed:
+
+```bash
+kw rebuild-embeddings    # ~12 min on M4 Pro for ~10k pages
+```
+
+After re-embed, the note's `page_type: note` is written into the parquet
+(by `reembed.py`), and `--no-notes` / `--only-notes` filters work
+correctly. Commit `data/embeddings.parquet` after a rebuild so other
+clones pick up the index without re-embedding locally.
+
+> Incremental re-embed (write just one row to the parquet instead of the
+> whole index) is on the v1.7 backlog. Until then, expect to run
+> `kw rebuild-embeddings` once at the end of a note-taking session, not
+> after every note.
+
+### Flag reference — `kw note`
+
+| Flag | Purpose | Default |
+|---|---|---|
+| `--title TEXT` | Note title (required for new notes) | — |
+| `--slug TEXT` | Override the auto-derived slug | `note-<title-slug>-YYYY-MM-DD` |
+| `--body TEXT` | Inline note body | — |
+| `--from-file PATH` | Read body from a file | — |
+| `--from-stdin` | Read body from stdin (auto-detected when piped) | — |
+| `--question "Q"` | Original `kw ask` question, preserved in frontmatter | — |
+| `--sources-from PATH` | Path to a `kw ask` stderr capture; parses the Sources block | — |
+| `--model NAME` | LLM used to generate the answer (frontmatter only) | — |
+| `--retrieval-k N` | `k` used in `kw ask` (frontmatter only) | — |
+| `--author ID\|NAME` | `pete`, `bill`, or freeform string | `pete` |
+| `--tags a,b,c` | Extra tags (comma-separated, no `type/note` prefix needed) | — |
+| `--update SLUG` | Slug of an existing note to extend | — |
+| `--append` | With `--update`: append as a new Update section | — |
+| `--replace` | With `--update`: overwrite the body, keep frontmatter | — |
+| `--commit` | Actually write the file. Without it: dry-run to stdout. | dry-run |
+
+### Frontmatter schema (`page_type: note`)
+
+```yaml
+---
+title: "Why DEC missed the PC transition"
+slug: note-why-dec-missed-the-pc-transition-2026-05-28
+page_type: note
+author: "Peter S. Kastner"
+author_id: pete
+created: 2026-05-28
+updated: 2026-05-28
+question: "Why did DEC miss the PC transition?"   # absent for manual notes
+source_method: kw-ask                              # kw-ask | manual
+model: "qwen3.5:27b-mlx"                           # absent for manual notes
+retrieval_k: 6                                     # absent for manual notes
+tier: 2
+tags: [type/note, author/pete, topic/dec, decade/1980s]
+related_studies: [study-aberdeen-1996-dec-server-strategy]
+related_entities: [dec, ibm]
+related_technologies: [vax, pc-architecture]
+---
+```
+
+`related_*` arrays are auto-populated from `[slug]` citations in the
+body, matched against the slug index loaded from `data/*.parquet` (or
+CSV masters as a fallback). Anything that doesn't match shows up in an
+**Unresolved citations** section at the bottom of the note, so you can
+fix typos or add the missing entity/tech to the master CSVs and rerun.
+
+### Why the dry-run default?
+
+Forever-archive principle: verify-then-write. Notes are permanent. A
+typo'd slug, a wrong author, a misfiled tag is harder to clean up later
+than a re-run of the same command. The dry-run prints the *exact* bytes
+that will land on disk; you read them, decide they're correct, then
+re-run with `--commit`.
+
+### Roadmap
+
+- **v1.5** — `--promote <slug>` to elevate a note into a first-class
+  `wiki/studies/` page with prescience/importance/relevance scoring and
+  `_master_studies.csv` row generation. Dictation polish pass. Batch
+  wikilink review. `~/.kw/identity.yaml` for default author + signing.
+  `kw --help` overhaul covering every subcommand and flag.
+- **v1.7** — Incremental re-embed so a new note is searchable in seconds
+  instead of after a 12-minute full re-embed.
+
+### Version history
+
+- **v1** (commit `43baa07e`, 2026-05-28 AM) — initial ship. CSV-only
+  lookup. Had two bugs: wrong column name `technology_id` (should be
+  `tech_id`) and wrong path (`data/_master_*.csv` doesn't exist).
+  Symptom: `UNRESOLVED: N, matched: 0` for every citation.
+- **v2** (2026-05-28 PM) — parquet-first slug index from `data/*.parquet`
+  with CSV fallback. Verified column names: `study_id`, `entity_id`,
+  `tech_id`. Wiki repo is now self-contained — anyone who clones it can
+  run `kw note` without a local archive_masters directory.
+
+---
 ## 7. Cookbook: hybrid LLM research workflows
 
 Combine DuckDB filtering + local Ollama for synthesis. Cloud LLM (Claude

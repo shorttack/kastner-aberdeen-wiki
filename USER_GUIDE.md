@@ -922,10 +922,12 @@ clones pick up the index without re-embedding locally.
 | `--retrieval-k N` | `k` used in `kw ask` (frontmatter only) | — |
 | `--author ID\|NAME` | `pete`, `bill`, or freeform string | `pete` |
 | `--tags a,b,c` | Extra tags (comma-separated, no `type/note` prefix needed) | — |
-| `--update SLUG` | Slug of an existing note to extend | — |
+| `--update SLUG` | Slug of an existing note to extend (takes a slug argument) | — |
 | `--append` | With `--update`: append as a new Update section | — |
 | `--replace` | With `--update`: overwrite the body, keep frontmatter | — |
-| `--commit` | Actually write the file. Without it: dry-run to stdout. | dry-run |
+| `--commit` | Actually write the **file to disk**. Without it: dry-run to stdout. **Does NOT run git operations** — see `--git-commit`. | dry-run |
+| `--overwrite` | With `--commit` on new notes: replace the file if it already exists (typically from a prior dry-run). Mutually exclusive with `--update`. | off |
+| `--git-commit` | After `--commit` writes the file, also runs `git add <path> && git commit -m "wiki: note <slug>"` from the wiki repo root. **Does not push** — that stays explicit. | off |
 
 ### Frontmatter schema (`page_type: note`)
 
@@ -956,6 +958,70 @@ CSV masters as a fallback). Anything that doesn't match shows up in an
 **Unresolved citations** section at the bottom of the note, so you can
 fix typos or add the missing entity/tech to the master CSVs and rerun.
 
+### What `--commit` does (and doesn't)
+
+`--commit` writes the note file to **disk**. That's all. It does *not*:
+
+- Run `git add` (use `--git-commit` for that)
+- Run `git push` (always explicit)
+- Re-embed the wiki (use `kw rebuild-embeddings`)
+
+The naming is historical — `kw note v1` only had this one flag, and at the
+time "commit" felt natural for "actually do the thing." In hindsight it
+overloads the word that everyone else uses to mean "git commit." A future
+`v5` may rename to `--write`. Until then, the mental model is:
+
+| Flag | What it does |
+|---|---|
+| (no `--commit`) | Print to stdout. Show what would be written. |
+| `--commit` | Write the .md file to disk. |
+| `--commit --git-commit` | Write the file + `git add` + `git commit`. No push. |
+
+### Recovering from "refuse to overwrite"
+
+If you dry-ran, looked at the output, and want to actually save it — but the
+file already exists from a prior dry-run that wrote to disk — `kw note` will
+refuse with a message listing the four ways out:
+
+```
+[kw note] refuse to overwrite /Users/scott/Repos/kastner-aberdeen-wiki/wiki/notes/note-foo-2026-05-29.md.
+          Choose one:
+            * --overwrite                       replace the file
+                                                (fresh write, drops existing body)
+            * --update note-foo-2026-05-29 --append   keep existing body, add an
+                                                ## Update (YYYY-MM-DD) section
+            * --update note-foo-2026-05-29 --replace  keep frontmatter, replace body
+            * rm 'wiki/notes/note-foo-2026-05-29.md' && rerun  equivalent of --overwrite
+```
+
+Most common case ("I dry-ran, looked good, now actually write it"): pass
+`--overwrite`.
+
+### K7. Overwrite a dry-run preview with the real run
+
+You did a dry-run, the output looked perfect, but `--commit` now refuses
+because the dry-run file exists. Add `--overwrite`:
+
+```bash
+kw ask "Why did DEC miss the PC transition?" --no-notes 2>/tmp/src.txt \
+  | kw note --title "Why DEC missed the PC transition" \
+            --question "Why did DEC miss the PC transition?" \
+            --sources-from /tmp/src.txt \
+            --model qwen3.5:27b-mlx --retrieval-k 6 \
+            --commit --overwrite
+```
+
+Or, to also stage + commit it to git in the same step:
+
+```bash
+kw ask "..." --no-notes 2>/tmp/src.txt \
+  | kw note --title "..." --question "..." \
+            --sources-from /tmp/src.txt \
+            --commit --overwrite --git-commit
+# then push when you're ready:
+cd ~/Repos/kastner-aberdeen-wiki && git push
+```
+
 ### Why the dry-run default?
 
 Forever-archive principle: verify-then-write. Notes are permanent. A
@@ -966,13 +1032,16 @@ re-run with `--commit`.
 
 ### Roadmap
 
-- **v1.5** — `--promote <slug>` to elevate a note into a first-class
+- **v1.6** — `--promote <slug>` to elevate a note into a first-class
   `wiki/studies/` page with prescience/importance/relevance scoring and
   `_master_studies.csv` row generation. Dictation polish pass. Batch
   wikilink review. `~/.kw/identity.yaml` for default author + signing.
   `kw --help` overhaul covering every subcommand and flag.
 - **v1.7** — Incremental re-embed so a new note is searchable in seconds
   instead of after a 12-minute full re-embed.
+- **v1.8+** — KW Console: web GUI for `kw ask` + `kw note` with dictation,
+  running on a localhost FastAPI server. See WORKLIST §19 in the archive
+  repo for the design.
 
 ### Version history
 
@@ -980,10 +1049,23 @@ re-run with `--commit`.
   lookup. Had two bugs: wrong column name `technology_id` (should be
   `tech_id`) and wrong path (`data/_master_*.csv` doesn't exist).
   Symptom: `UNRESOLVED: N, matched: 0` for every citation.
-- **v2** (2026-05-28 PM) — parquet-first slug index from `data/*.parquet`
-  with CSV fallback. Verified column names: `study_id`, `entity_id`,
-  `tech_id`. Wiki repo is now self-contained — anyone who clones it can
-  run `kw note` without a local archive_masters directory.
+- **v2** (commit `8218f1d5`, 2026-05-28 PM) — parquet-first slug index
+  from `data/*.parquet` keyed by internal master IDs (`study_id`,
+  `entity_id`, `tech_id`). Bug: those IDs look like `STU-001234`, not
+  wiki page slugs like `study-volume-1-ch06-...`. Same `matched: 0`
+  symptom as v1 for citations using real wiki slugs.
+- **v3** (commit `320a7729`, 2026-05-28 evening) — reads
+  `data/pages_manifest.parquet`, the canonical wiki slug catalog with
+  schema `(slug, tier, type)` where type ∈ {study, entity, technology,
+  code}. Adds a fourth match bucket: `related_codes`. First version to
+  actually resolve citations. Verified end-to-end on the DEC PC
+  transition note: 5 citations, 4 matched + 1 unresolved.
+- **v4** (2026-05-29, WORKLIST §9b) — CLI/UX cleanup from first-real-use
+  feedback. Adds `--overwrite` (skip the exists-check), `--git-commit`
+  (after writing, run `git add` + `git commit`), and rewrites the
+  refuse-overwrite message to list all four real escape hatches with
+  concrete syntax. Echoes the target path to **stdout** on success so
+  it's visible in terminal scrollback. No data-layer changes — pure UX.
 
 ---
 ## 7. Cookbook: hybrid LLM research workflows

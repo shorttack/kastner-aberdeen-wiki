@@ -9,6 +9,31 @@ Default mode is DRY-RUN: kw note prints the file it would write to stdout
 and exits 0. Pass --commit to actually write the file. This matches the
 forever-archive verify-then-write rule.
 
+  Note on the --commit flag: 'commit' here means 'write the file to disk'
+  (i.e. commit to the wiki tree on the local filesystem). It does NOT
+  run git operations. To then add the note to git history, either:
+    * pass --git-commit (writes file + runs git add + git commit), or
+    * run `git add wiki/notes/ && git commit && git push` manually.
+  The naming is historical (kw_note v1 only had this one flag); a
+  future v5 may rename to --write.
+
+v4 changes (2026-05-29, WORKLIST §9b cleanup — post-first-real-use):
+  * NEW --overwrite flag: skips the exists-check before writing.
+    Use when a dry-run file exists and you want to replace it with the
+    current pipeline output (the common 'I dry-ran, looked good, now
+    write it for real' workflow).
+  * NEW --git-commit flag: after writing the file (and only if --commit
+    is set), runs `git -C <wiki-root> add wiki/notes/<slug>.md && git
+    commit -m "wiki: note <slug>"`. No push — that stays explicit.
+  * Improved refuse-overwrite message: now lists all real escape hatches
+    with concrete syntax (--overwrite, --update <slug> --append,
+    --update <slug> --replace, or rm <path> && rerun).
+  * Stdout echo: in --commit mode, write `path: <target>` to stdout on
+    success so the path is visible in terminal scrollback (not just
+    stderr where pipe-aware tools can't see it).
+  * --overwrite is mutually exclusive with --update (which has its own
+    --append/--replace semantics).
+
 v3 changes (2026-05-28, post-matched-0-bug):
   * Slug index now reads from data/pages_manifest.parquet — the actual
     wiki page slugs (e.g. 'study-volume-1-ch06-dec-mainframes-last-...',
@@ -441,19 +466,38 @@ def read_input(args) -> str:
     sys.exit(2)
 
 
-def write_or_print(target: Path, content: str, commit: bool) -> None:
+def write_or_print(target: Path, content: str, commit: bool,
+                   overwrite: bool = False,
+                   git_commit: bool = False) -> None:
     if commit:
         target.parent.mkdir(parents=True, exist_ok=True)
-        if target.exists():
-            sys.stderr.write(f"[kw note] refuse to overwrite {target}. "
-                             "Use --update to append.\n")
+        if target.exists() and not overwrite:
+            try:
+                rel = target.relative_to(ROOT)
+            except ValueError:
+                rel = target
+            slug = target.stem
+            sys.stderr.write(
+                f"[kw note] refuse to overwrite {target}.\n"
+                f"          Choose one:\n"
+                f"            * --overwrite                       replace the file\n"
+                f"                                                (fresh write, drops existing body)\n"
+                f"            * --update {slug} --append   keep existing body, add an\n"
+                f"                                                ## Update (YYYY-MM-DD) section\n"
+                f"            * --update {slug} --replace  keep frontmatter, replace body\n"
+                f"            * rm '{rel}' && rerun                equivalent of --overwrite\n"
+            )
             sys.exit(3)
         target.write_text(content, encoding="utf-8")
+        # Stdout path echo (visible in terminal scrollback, parseable by pipelines)
+        sys.stdout.write(f"path: {target}\n")
         sys.stderr.write(f"[kw note] wrote {target}\n")
         sys.stderr.write(
             "[kw note] hint: re-embed to make this note searchable:\n"
             "          kw rebuild-embeddings   (or scripts/reembed.py --ollama bge-m3)\n"
         )
+        if git_commit:
+            _run_git_commit(target)
     else:
         sys.stdout.write(content)
         if not content.endswith("\n"):
@@ -462,6 +506,48 @@ def write_or_print(target: Path, content: str, commit: bool) -> None:
             f"[kw note] DRY-RUN — would write {target.relative_to(ROOT)} "
             f"({len(content)} bytes). Re-run with --commit to save.\n"
         )
+
+
+def _run_git_commit(target: Path) -> None:
+    """After --commit wrote the file, also `git add` + `git commit` it.
+
+    Does NOT push — that stays explicit. Best-effort: prints stderr warning
+    on failure but does not exit non-zero, because the file is on disk and
+    the user can recover with a manual git invocation.
+    """
+    import subprocess
+    try:
+        rel = target.relative_to(ROOT)
+    except ValueError:
+        sys.stderr.write(
+            f"[kw note] --git-commit: {target} is not inside {ROOT}; skipping git ops.\n"
+        )
+        return
+    slug = target.stem
+    cmds = [
+        ["git", "-C", str(ROOT), "add", str(rel)],
+        ["git", "-C", str(ROOT), "commit", "-m", f"wiki: note {slug}"],
+    ]
+    for cmd in cmds:
+        try:
+            r = subprocess.run(cmd, check=False, capture_output=True, text=True)
+            if r.returncode != 0:
+                sys.stderr.write(
+                    f"[kw note] --git-commit: `{' '.join(cmd)}` failed:\n"
+                    f"          stdout: {r.stdout.strip()}\n"
+                    f"          stderr: {r.stderr.strip()}\n"
+                    f"          (file is on disk — you can `git add && commit` manually)\n"
+                )
+                return
+        except FileNotFoundError:
+            sys.stderr.write(
+                "[kw note] --git-commit: git not found on PATH.\n"
+            )
+            return
+    sys.stderr.write(f"[kw note] git: staged + committed {rel}\n")
+    sys.stderr.write(
+        "[kw note] hint: run `git push` from the wiki repo when ready.\n"
+    )
 
 
 def append_to_existing(slug: str, addition: str, commit: bool) -> None:
@@ -538,8 +624,35 @@ def main():
     p.add_argument("--retrieval-k", type=int,
                    help="k value used in kw ask (recorded in frontmatter)")
     p.add_argument("--commit", action="store_true",
-                   help="Actually write the file (default is dry-run)")
+                   help="Actually write the file to disk (default is dry-run). "
+                        "This does NOT run git operations — see --git-commit.")
+    p.add_argument("--overwrite", action="store_true",
+                   help="With --commit on new notes: replace the file if it "
+                        "already exists (typically from a prior dry-run). "
+                        "Mutually exclusive with --update.")
+    p.add_argument("--git-commit", action="store_true",
+                   help="After --commit writes the file, also `git add` + "
+                        "`git commit` it from the wiki repo root. Does NOT push.")
     args = p.parse_args()
+
+    # Flag-combo validation: --overwrite and --update are mutually exclusive
+    if args.overwrite and args.update:
+        sys.stderr.write(
+            "[kw note] --overwrite is for new notes; --update is for existing "
+            "notes. Pick one.\n"
+        )
+        sys.exit(2)
+    if args.overwrite and not args.commit:
+        sys.stderr.write(
+            "[kw note] --overwrite has no effect without --commit (dry-runs "
+            "never write).\n"
+        )
+        sys.exit(2)
+    if args.git_commit and not args.commit:
+        sys.stderr.write(
+            "[kw note] --git-commit requires --commit (dry-runs never write).\n"
+        )
+        sys.exit(2)
 
     # Update path
     if args.update:
@@ -666,7 +779,9 @@ def main():
             f"[kw note]   (unresolved listed in the note body for review)\n"
         )
 
-    write_or_print(target, content, args.commit)
+    write_or_print(target, content, args.commit,
+                   overwrite=args.overwrite,
+                   git_commit=args.git_commit)
 
 
 if __name__ == "__main__":

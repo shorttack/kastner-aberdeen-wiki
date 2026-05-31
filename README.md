@@ -1,10 +1,18 @@
-# Kastner Aberdeen Wiki — v1.5
+# Kastner Aberdeen Wiki — v1.6
 
 Local-first research environment derived from the [aberdeen-group-archive](https://github.com/shorttack/aberdeen-group-archive)
 master CSVs. Built by `kastner-wiki-builder` skill v2.
 
-## What's new in v1.5
+**v1.6 — "full 1,400+ study content"** (2026-05-31)
 
+The current corpus: **1,434 studies · 23,605 observations · 3,207 entity rows · 4,312 technology rows · 124 high-prescience studies** (Pass C, `prescience_max ≥ 4`), spanning **1979–2026**.
+
+These are the live counts. Per-subdirectory and per-section numbers elsewhere may lag the masters — when in doubt, `_master_*.csv` is truth.
+
+## What's new in v1.6
+
+- **Full 1,434-study corpus** ingested (up from 944 in v1.5)
+- **Phase 5 embeddings regenerated** with v3 schema (`page_path / page_type / slug / title / vector / dim`)
 - **Prescience scores** from local `qwen3.5:27b-mlx` Pass C run (2026-05-26)
 - New 8th master ingested: `_master_prescience_scores.csv`
 - New DuckDB views: `v_studies_with_prescience`, `v_top_prescient_studies`,

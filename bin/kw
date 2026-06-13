@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # kw — wiki tool launcher. Single dispatcher for kastner-aberdeen-wiki ops.
 #
+# v3 (2026-06-13): add `kw console` subcommand (annotation web UI).
+#
 # Install: copy this file to ~/bin/kw or /usr/local/bin/kw, chmod +x.
 # Set KW_ROOT to point at your wiki clone if it's not at ~/Repos/kastner-aberdeen-wiki.
 #
@@ -13,7 +15,9 @@
 #   kw ask "..." --only-notes           # only permanent notes (interpretive)
 #   kw ask "..." --k 12                 # more sources
 #   kw search "..."                     # alias for ask --no-llm
-#   kw note --title "..." --body "..."  # write a permanent note
+#   kw note --title "..." --body "..."  # write a permanent note (CLI)
+#   kw console                          # browser annotation UI (recommended)
+#   kw pending                          # show uncommitted notes
 #   kw verify                           # run scripts/verify.py
 #   kw rebuild-embeddings               # run scripts/reembed.py --ollama bge-m3
 #
@@ -40,6 +44,41 @@ case "$cmd" in
   note)
     exec python3 "$KW_ROOT/scripts/kw_note.py" "$@"
     ;;
+  console)
+    # Start FastAPI server in background, open browser, then wait.
+    # Ctrl-C kills the server.
+    # Preflight: required Python deps for the console.
+    if ! python3 -c 'import fastapi, uvicorn, duckdb, multipart' >/dev/null 2>&1; then
+      echo "kw console: missing required dependencies." >&2
+      echo "  Install with:" >&2
+      echo "    pip3 install fastapi uvicorn duckdb python-multipart" >&2
+      exit 2
+    fi
+    PORT="${KW_CONSOLE_PORT:-8765}"
+    URL="http://127.0.0.1:${PORT}"
+    echo "kw: starting console at $URL …" >&2
+    # Open browser after a short delay (server needs ~1s to boot)
+    ( sleep 1.5 && \
+      ( command -v open >/dev/null 2>&1 && open "$URL" \
+        || command -v xdg-open >/dev/null 2>&1 && xdg-open "$URL" \
+        || echo "kw: open $URL manually" >&2 ) ) &
+    exec python3 "$KW_ROOT/scripts/kw_console_v1.py" --port "$PORT" "$@"
+    ;;
+  pending)
+    # Quick CLI-side check for uncommitted notes
+    cd "$KW_ROOT"
+    pending=$(git status --porcelain wiki/notes/ 2>/dev/null | grep -E '^(\?\?|.M| M|A |M )' || true)
+    if [[ -z "$pending" ]]; then
+      echo "✓ wiki/notes/ is clean — nothing to commit"
+    else
+      echo "⚠️  Uncommitted notes:"
+      echo "$pending"
+      echo
+      echo "To commit:  git -C $KW_ROOT add wiki/notes/ && git -C $KW_ROOT commit -m 'EOD: notes' && git -C $KW_ROOT push"
+      echo "Or from UI: kw console  →  banner at top  →  [Commit all now]"
+      exit 1
+    fi
+    ;;
   verify)
     exec python3 "$KW_ROOT/scripts/verify.py"
     ;;
@@ -52,12 +91,14 @@ case "$cmd" in
     ;;
   help|--help|-h|"")
     cat <<EOF
-kw — Kastner Aberdeen Wiki launcher
+kw — Kastner Aberdeen Wiki launcher (v3)
 
 Subcommands:
   ask QUESTION              RAG chatbox: bge-m3 retrieval + qwen3.5:27b synthesis
   search QUESTION           Semantic search only (no LLM)
-  note --title "..."        Create a permanent note (kw ask | kw note works)
+  note --title "..."        Create a permanent note via CLI
+  console                   Launch browser annotation UI (recommended for poor typists)
+  pending                   Show uncommitted notes in wiki/notes/ (exit 1 if any)
   verify                    Run vault integrity check
   rebuild-embeddings        Re-embed all pages with bge-m3
   cd                        Print KW_ROOT (use: cd \$(kw cd))
@@ -74,7 +115,7 @@ Common flags for 'ask':
   --temperature F           Default 0.3
   --max-tokens N            Default 1200
 
-Common flags for 'note':
+Common flags for 'note' (CLI):
   --title TITLE             Required for new notes
   --body TEXT               Inline note body
   --from-file PATH          Read body from file
@@ -84,6 +125,9 @@ Common flags for 'note':
   --update SLUG --append    Append an update to an existing note
   --commit                  Actually write (default is dry-run)
 
+'kw console' env:
+  KW_CONSOLE_PORT=8765      Override default port
+
 Examples:
   kw ask "what did Aberdeen get right about cloud computing?"
   kw ask "Intel 2003-2010 strategy" --type theme
@@ -92,12 +136,18 @@ Examples:
   kw ask "what have I concluded about ATM?" --only-notes
   kw search "ATM versus Ethernet backbone" --k 20
 
+  # Browser-driven annotation (paste a slug from Obsidian, write, save):
+  kw console
+
   # Capture an answer into a permanent note in one pipeline:
   kw ask "Why did DEC miss the PC transition?" --no-notes 2>/tmp/src.txt \\
     | kw note --title "Why DEC missed the PC transition" \\
               --question "Why did DEC miss the PC transition?" \\
               --sources-from /tmp/src.txt --commit
   kw rebuild-embeddings                          # make the new note searchable
+
+EOD reminder:
+  Before any end-of-day commit, run 'kw pending' to ensure no notes lingering.
 
 Current wiki: $KW_ROOT
 EOF

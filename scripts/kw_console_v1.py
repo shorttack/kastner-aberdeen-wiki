@@ -166,10 +166,47 @@ def normalize_slug_input(raw: str) -> str:
     return s.lower()
 
 
+# Map bucket name → wiki-filename prefix used in pages_manifest.parquet.
+# These prefixes are on the manifest slugs (e.g. "study-dec-mgmt-memo-...")
+# but NOT on v_studies.study_id / v_entities.entity_id / v_technologies.tech_id.
+# The DB stores the BASE form; we must return the base form so fetch_subject works.
+_BUCKET_PREFIX = {
+    "study": "study-",
+    "entity": "entity-",
+    "technology": "technology-",
+    "code": "code-",
+}
+
+
+def _base_form(slug: str, bucket: str) -> str:
+    """Strip the bucket prefix if present. 'study-foo' → 'foo'; 'foo' → 'foo'."""
+    pfx = _BUCKET_PREFIX.get(bucket, "")
+    if pfx and slug.startswith(pfx):
+        return slug[len(pfx):]
+    return slug
+
+
+def _match_in_bucket(slug: str, bucket_slugs: set[str], bucket: str) -> Optional[str]:
+    """Try both forms (with/without type prefix) against the manifest slug set.
+
+    Returns the MATCHED manifest slug if found, else None.
+    Caller is responsible for stripping the prefix before returning to fetch_subject.
+    """
+    if slug in bucket_slugs:
+        return slug
+    prefixed = _BUCKET_PREFIX.get(bucket, "") + slug
+    if prefixed in bucket_slugs:
+        return prefixed
+    return None
+
+
 def resolve_slug(slug: str, masters: dict[str, set[str]]) -> tuple[Optional[str], list[dict]]:
     """
-    Return (resolved_type, candidates).
-    - If slug matches exactly in one bucket → ('study'|'entity'|'technology'|'code', [single])
+    Return (resolved_type, candidates) where each candidate slug is the BASE
+    form (no 'study-' / 'entity-' / etc. prefix), since that's what v_studies
+    et al. key on.
+
+    - If slug matches exactly in one bucket → ('study'|..., [single])
     - If slug is a unique prefix → as above
     - If ambiguous → (None, [list of {slug, type}])
     - If no match → (None, [])
@@ -177,40 +214,60 @@ def resolve_slug(slug: str, masters: dict[str, set[str]]) -> tuple[Optional[str]
     if not slug:
         return None, []
 
-    # exact match across all buckets
+    # exact match across all buckets, trying both base and type-prefixed forms
     exact = []
     for bucket, slugs in masters.items():
-        if slug in slugs:
-            exact.append({"slug": slug, "type": bucket})
+        hit = _match_in_bucket(slug, slugs, bucket)
+        if hit:
+            exact.append({"slug": _base_form(hit, bucket), "type": bucket})
     if len(exact) == 1:
         return exact[0]["type"], exact
     if len(exact) > 1:
-        # rare cross-type collision; show disambiguation
         return None, exact
 
-    # prefix match
+    # prefix match — try both forms of the query against the manifest slugs
     prefix_matches = []
     for bucket, slugs in masters.items():
-        for s in slugs:
-            if s.startswith(slug):
-                prefix_matches.append({"slug": s, "type": bucket})
+        candidates_to_try = [slug, _BUCKET_PREFIX.get(bucket, "") + slug]
+        for c in candidates_to_try:
+            if not c:
+                continue
+            for s in slugs:
+                if s.startswith(c):
+                    prefix_matches.append({"slug": _base_form(s, bucket), "type": bucket})
+    # de-dupe (a manifest slug can match both forms when type prefix is empty)
+    seen = set()
+    deduped = []
+    for m in prefix_matches:
+        key = (m["type"], m["slug"])
+        if key not in seen:
+            seen.add(key)
+            deduped.append(m)
+    prefix_matches = deduped
     if len(prefix_matches) == 1:
         return prefix_matches[0]["type"], prefix_matches
     if len(prefix_matches) > 1:
-        # cap to 50 to keep the UI sane
         return None, prefix_matches[:50]
 
     # substring fallback — catches partial-title pastes and middle-of-slug fragments.
-    # Only return if hits are reasonably constrained (≤ 50) so we don't dump 500 results.
     substring_matches = []
     for bucket, slugs in masters.items():
         for s in slugs:
             if slug in s:
-                substring_matches.append({"slug": s, "type": bucket})
+                substring_matches.append({"slug": _base_form(s, bucket), "type": bucket})
                 if len(substring_matches) > 50:
                     break
         if len(substring_matches) > 50:
             break
+    # de-dupe substring matches too
+    seen = set()
+    deduped = []
+    for m in substring_matches:
+        key = (m["type"], m["slug"])
+        if key not in seen:
+            seen.add(key)
+            deduped.append(m)
+    substring_matches = deduped
     if len(substring_matches) == 1:
         return substring_matches[0]["type"], substring_matches
     if len(substring_matches) > 1:
@@ -577,10 +634,12 @@ def api_resolve(raw: str):
     masters = _load_master_slugs()
     kind, candidates = resolve_slug(normalized, masters)
     if kind:
-        # also fetch subject details
-        subject = fetch_subject(normalized, kind)
-        return {"ok": True, "kind": kind, "slug": normalized, "subject": subject,
-                "candidates": candidates}
+        # resolver now returns the BASE slug (no type prefix) in candidates,
+        # which is what v_studies/v_entities/v_technologies use as their PK.
+        resolved_slug = candidates[0]["slug"]
+        subject = fetch_subject(resolved_slug, kind)
+        return {"ok": True, "kind": kind, "slug": resolved_slug,
+                "subject": subject, "candidates": candidates}
     return {"ok": False, "error": "ambiguous_or_missing",
             "normalized": normalized, "candidates": candidates}
 

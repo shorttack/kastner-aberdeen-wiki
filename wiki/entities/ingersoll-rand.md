@@ -11,7 +11,7 @@ sector: "Industrial Manufacturing"
 status: "active"
 successor: ""
 years_active: "1871-present"
-occurrence_count: 0
+occurrence_count: 1
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -24,3 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Ingersoll Rand spends ~$70M/year on technology; buys from IBM, HP, and DEC — [[study-cnbc-technology-edge-ibm-dec-hp-transitions-d4f84c]]

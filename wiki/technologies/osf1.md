@@ -11,7 +11,7 @@ vendor: "Open Software Foundation"
 era: "1992-1995"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

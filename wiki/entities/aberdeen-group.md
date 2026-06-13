@@ -11,7 +11,7 @@ sector: "technology research / industry analysis"
 status: "acquired-by-harte-hanks"
 successor: "Harte-Hanks (Sep 2006) -> Halyard Capital (Apr 2015) -> Spiceworks Ziff Davis (Dec 2020)"
 years_active: "1988-2001 (original); rebranded multiple times"
-occurrence_count: 257
+occurrence_count: 273
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Aberdeen Group / Aberdeen Laboratories
 
 > Publisher; community of Global 5000 executives; 100,000+ research members in 36+ countries; affiliate research channel partners with total reach >1M value chain executives. | Source: Aberdeen Group acquired by Harte-Hanks in September 2006, then sold to Halyard Capital in April 2015, then acquired by Spiceworks Ziff Davis in December 2020. https://www.mrweb.com/drno/news5946.htm; https://www.pehub.com/spiceworks-ziff-davis-buys-aberdeen/; https://en.wikipedia.org/wiki/Aberdeen_Strategy_and_Research
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -16,10 +16,10 @@ source_file: "2006_pie_research_calendar.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "not-applicable"
+prescience_max: -1.0
+prescience_mean: -1.0
+prescience_obs_count: 1
 ---
 
 # ==> picture [433 x 115] intentionally omitted <==
@@ -32,4 +32,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- This study analyzes ==> picture [433 x 115] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [433 x 115] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

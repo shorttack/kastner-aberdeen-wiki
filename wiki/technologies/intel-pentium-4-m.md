@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Dominant mobile CPU in Jan 2003 corporate notebooks.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Typically, this means you can go online and configure a desktop machine with a 1.8, 2.0, 2.2, or 2.4 GHz Intel Pentium 4 microprocessor - and pay the exact same price at checkout. — [[study-dct-business-2002-12-17-pc-deals]]

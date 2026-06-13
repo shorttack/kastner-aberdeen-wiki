@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Sponsoring client for the Flash demo; Milpitas CA; demo tool part of Pools of Storage market creation program led by CMO Stephen DiFranco
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Early example of interactive analyst content as sales enablement tool; Aberdeen-created for Maxtor CMO DiFranco — [[study-aberdeenmaxtortooldemo-03-2-5a8f38]]

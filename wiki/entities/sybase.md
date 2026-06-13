@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Open veneer product for common SQL front-end to multiple databases; Enterprise Server for file/multimedia storage; ETL tools; EAI category | Source: SAP acquired Sybase for $5.8 billion in July 2010. https://techcrunch.com/2010/05/12/confirmed-sap-to-acquire-sybase-for-5-8-billion-to-compete-with-oracle/; https://www.sap.com/investors/en/financial-news/ad-hoc-news/2010/05/934992.html
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - installed-base-only — [[study-1998-hp-high-availability-and-metadata-7d1276]]

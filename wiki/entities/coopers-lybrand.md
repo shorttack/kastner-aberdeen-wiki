@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > lpha is Ready|Sloane, Tim|Technology<br>Viewpoint|| |Jun-96|Coopers & Lybrand:  SAP America Global Logo Partner|Irving, Susan|Profile|| |
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Coopers & Lybrand merged with Price Waterhouse July 1998 to form PricewaterhouseCoopers — same year as this report — [[study-1998-nt-professional-services-buying-guide-1998-edition-14e452]]

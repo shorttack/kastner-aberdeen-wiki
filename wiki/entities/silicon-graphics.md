@@ -11,7 +11,7 @@ sector: "workstation-computing"
 status: "dissolved"
 successor: "Bankruptcy 2006; assets acquired by Rackable Systems (2009 for $25M); renamed SGI; then acquired by HPE (2016)"
 years_active: "1981-2009"
-occurrence_count: 7
+occurrence_count: 8
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Silicon Graphics, Inc. (SGI)
 
 > Filed Chapter 11 bankruptcy May 2006; assets acquired by Rackable Systems for ~$42.5M in 2009; Rackable renamed to SGI; SGI acquired by HPE for $275M in 2016
+
+
+## Summary
+
+
 
 
 ## Top observations

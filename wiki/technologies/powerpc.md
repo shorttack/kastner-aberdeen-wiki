@@ -11,7 +11,7 @@ vendor: "IBM / Motorola / Apple (AIM alliance)"
 era: "1991-2006 on Mac"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "discontinued-in-Mac-2006"
-occurrence_count: 6
+occurrence_count: 7
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # PowerPC / Power Macintosh architecture
 
 > Next-gen CPU for RS/6000; users delaying AIX upgrade were coupling OS+HW upgrade — a high-risk approach per Aberdeen
+
+
+## Summary
+
+
 
 
 ## Top observations

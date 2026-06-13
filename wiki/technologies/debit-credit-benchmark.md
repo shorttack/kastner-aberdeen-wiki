@@ -11,7 +11,7 @@ vendor: "Anon-et-al / Tandem / Datamation"
 era: "1985-1989"
 lifecycle_at_study: "industry-defacto-standard"
 lifecycle_current: "superseded-by-TPC-A-and-TPC-C"
-occurrence_count: 5
+occurrence_count: 6
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -22,8 +22,14 @@ prescience_obs_count: 0
 > Standard OLTP benchmark simulating bank account transaction processing; measures TPS with 100 virtual terminals per claimed TPS; called the 'four-minute mile' of enterprise computing.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
+- DEC debit-credit cost-per-transaction <1/3 IBM mainframe cost, ~2x Tandem cost — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
 - 11 — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
 - 95th-percentile-1-second — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
 - DATAMATION-April-1985-Anon-et-al — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]

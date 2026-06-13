@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > role=competitor; status_note=Informix acquired by IBM in 2001 for $1 billion; continued as IBM Informix; active development delegated to HCLSoftware in 2017; hq_country=US; parent_entity=IBM
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Informix and Sybase offer no integrated design tool—Oracle differentiates via Designer/2000 + Developer/2000 integration — [[study-1997-oracle-designer-2000-3201a7]]

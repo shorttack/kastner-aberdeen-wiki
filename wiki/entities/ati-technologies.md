@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Canadian GPU maker; leader in discrete notebook graphics; strong #2 to nVidia in discrete desktop GPUs; makes chipsets and silicon for Microsoft Xbox 360.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Postponed due to SARS (K.Y. Ho) — [[study-2003-sars-electronics-supply-chain-ec0375]]

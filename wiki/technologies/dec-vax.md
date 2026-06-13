@@ -11,7 +11,7 @@ vendor: "Digital Equipment Corporation"
 era: "1977-1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-end-of-life"
-occurrence_count: 0
+occurrence_count: 1
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Storage tier positioned between high-performance SCSI/FC and low-cost desktop ATA. Target for nearline and content workloads.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - High capacity disk storage that has lower price per GB as well as relatively lower performance than higher performance disk storage; suitable for low I/O duty applications — [[study-09-maxtor-workshop-prep-guide-a218dc]]

@@ -11,7 +11,7 @@ vendor: "multiple (Teradata, Red Brick, others)"
 era: "1990s-present"
 lifecycle_at_study: "active-growth"
 lifecycle_current: "{'lifecycle_current': 'evolved', 'notes': 'Traditional on-premises data warehousing has evolved into cloud data warehousing (Snowflake, BigQuery, Redshift). The concept is active and growing but has fundamentally evolved in architecture.', 'source': 'General knowledge / industry consensus'}"
-occurrence_count: 10
+occurrence_count: 13
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Data Warehousing / Business Intelligence
 
 > Aberdeen built a dedicated data warehousing practice in the early 1990s; correctly predicted every significant enterprise would eventually build one. Technologies evolved from Teradata to columnar stores to cloud warehouses.
+
+
+## Summary
+
+
 
 
 ## Top observations
@@ -40,6 +45,7 @@ prescience_obs_count: 0
 - 5% — [[study-cab199-1-2-0cb163]]
 - Almost half of Oracle revenues are services — [[study-cab199-1-2-0cb163]]
 - Very strong unit sales and revenues; one of hottest DBMS sub-segments — [[study-dbmspr~1-7c854e]]
+- Walmart running terabyte-class RDBMS workloads (>100GB common; terabyte at Walmart) — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
 - Query-intensive (primarily sequential reads) — [[study-maxtor-ramp-interview-guide-first-draft-c68ebd]]
-- shifting from optional to necessity — [[study-retail~1-d5de79]]
-- Every significant enterprise eventually built data warehouses. Technologies evolved Teradata → columnar stores → cloud warehouses, but architectural pattern persisted. — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
+- Adds multimedia, spatial, and text data types to the warehouse — [[study-oracle-data-warehousing-launch-multimedia-spatial-d63644]]
+- Kastner: data warehousing is fundamentally systems integration — [[study-oracle-data-warehousing-launch-multimedia-spatial-d63644]]

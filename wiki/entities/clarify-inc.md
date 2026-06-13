@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > CRM/customer service software; held ~22% CRM market share in 1999; acquired by Nortel Networks for $2.1B in stock (2000); Nortel sold Clarify division to Amdocs for $200M cash (2001); Clarify brand absorbed into Amdocs.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - ~22% CRM market share in call center/customer service segment; major market player — [[study-1997-cis-report-ba825e]]

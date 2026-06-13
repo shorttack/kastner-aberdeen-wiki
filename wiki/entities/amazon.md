@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Emerging online retailer in 1998; became dominant retailer by integrating supply chain and customer data — the integration imperative realized online
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Online book/CD seller modeled on Amazon.com; 50000 customers/hour; $20-30/order; $1.5M revenue/hour at risk; crash during peak business hours — [[study-14-formulas-disaster-scenario-c2f0b4]]

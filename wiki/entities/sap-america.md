@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > US subsidiary at 701 Lee Road Wayne PA 19087 | status_note=Continues as SAP America Inc. subsidiary of SAP SE; hq_location=Wayne, PA USA; as_of_study_date=1995
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 100 percent YoY — [[study-aberdeen-1995-ibm-as400-sap-r3]]

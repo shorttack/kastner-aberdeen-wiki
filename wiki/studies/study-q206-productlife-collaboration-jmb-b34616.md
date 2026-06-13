@@ -16,10 +16,10 @@ source_file: "q206_productlife_collaboration_jmb.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "low"
+prescience_max: 0.0
+prescience_mean: -0.33
+prescience_obs_count: 3
 ---
 
 # ==> picture [441 x 108] intentionally omitted <==
@@ -32,6 +32,6 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- Consequently, we are planning a benchmark study to determine what best-in-class companies are doing to better enable their product innovation, product development, and engineering processes through collaboration.
-- _**Research approach:**_ Aberdeen will execute a survey-based benchmark study to find out the forms of collaboration companies are pursuing; the challenges and risks they face; how they overcome the obstacles; the collaborative approaches of best-in-class companies; the improvements companies are achieving; and the business capabilities and technology enablers successful companies put in place to 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- Consequently, we are planning a benchmark study to determine what best-in-class companies are doing to better enable their product innovation, product development, and engineering processes through collaboration. `[ps=0]`
+- _**Research approach:**_ Aberdeen will execute a survey-based benchmark study to find out the forms of collaboration companies are pursuing; the challenges and risks they face; how they overcome the obstacles; the collaborative approaches of best-in-class companies; the improvements companies are achieving; and the business capabilities and technology enablers successful companies put in place to  `[ps=0]`
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

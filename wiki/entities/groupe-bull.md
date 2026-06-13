@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > French IT company; Bull Enterprise Information Systems division created Sagister; 1995 revenue FF 26,656M, first profit since 1988
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Aberdeen assesses Sagister as 'must-have' product for running production UNIX applications in enterprise datacenters — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]

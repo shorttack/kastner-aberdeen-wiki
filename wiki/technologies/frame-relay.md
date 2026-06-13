@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > MFS first to offer FR over ATM 1994; first FR at >1.5 Mbps; 30% faster than conventional packet switched data
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Addition of Frame Relay and ATM combined voice and data networks onto single public network connection — [[study-1998-network-integration-services-report-f75108]]

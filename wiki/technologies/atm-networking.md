@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Virtual circuit switching alternative to IP; Aberdeen cited as too complex for campus environments vs. Bay's switch-node approach.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Cheap, infinite network bandwidth with ATM by 2001 — [[study-1996-sequent-38f0b1]]

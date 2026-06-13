@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # A Guide To Customer Relationship Management Professional Services: 1999 Edition
@@ -32,4 +32,4 @@ _Published 1999, author **Supplier Profiles**, type **topic-analysis**._
 
 ## Top observations
 
-- This study analyzes A Guide To Customer Relationship Management Professional Services: 1999 Edition using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes A Guide To Customer Relationship Management Professional Services: 1999 Edition using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]`

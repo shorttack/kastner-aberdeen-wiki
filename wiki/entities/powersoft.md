@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > role=ecosystem; status_note=Powersoft acquired by Sybase in 1995; PowerBuilder product line continues under SAP; hq_country=US; parent_entity=SAP SE
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - PowerBuilder with S-Designor is a competing high-end development tool with application partitioning support — [[study-1997-oracle-designer-2000-3201a7]]

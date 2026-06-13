@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Sybase relational database engine; shared codebase history with Microsoft SQL Server 4.2; renamed Adaptive Server Enterprise
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - $826 million total 1994 corporate revenue; up 71% from 1993 — [[study-inforx95-3-9a45fe]]

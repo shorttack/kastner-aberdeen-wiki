@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Analyst quoted on Xserve usability; firm not specified in article
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 'It's easy to use, and physically easy to maintain. It should appeal to both the veteran I.T. manager and to new I.T. managers.' — [[study-hostingtech-apple-xserve-asia-zieger-200-052af6]]

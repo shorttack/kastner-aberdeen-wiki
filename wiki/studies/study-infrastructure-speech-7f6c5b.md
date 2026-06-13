@@ -16,7 +16,7 @@ source_file: "Infrastructure speech.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
+study_prescience_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.33
 prescience_obs_count: 3

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Software Artistry acquired by IBM/Tivoli; two units: Service Management Solutions (help desk) and Customer Relationship Management; >30% of Fortune 100 use their products
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Tivoli had competitive disadvantage because it could not deliver production-grade security services that competitors already provided — [[study-1997-tme-10-security-management-8178c6]]

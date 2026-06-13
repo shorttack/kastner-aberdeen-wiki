@@ -11,7 +11,7 @@ sector: "Internet Software / e-Commerce"
 status: "acquired"
 successor: "FatWire Software -> Oracle (2011)"
 years_active: "1994-1999"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Essbase multidimensional OLAP server; merging with Hyperion to form Hyperion Solutions; IBM DB2 partnership for hybrid ROLAP/MDB environment
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - server-based MDB — [[study-aberdeen-1995-data-warehouse-olap]]

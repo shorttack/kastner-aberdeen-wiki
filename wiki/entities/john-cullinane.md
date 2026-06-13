@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Former PHI salesman who saw payroll-package commercial potential; founded Cullinet. | Source: Referenced in Aberdeen archive context; current status not publicly verifiable
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - John Cullinane built Culprit, a report generator, then IDMS network database — among the earliest independent software products. — [[study-on-computers-tips-40th-anniversary-of-th-ee9cc5]]

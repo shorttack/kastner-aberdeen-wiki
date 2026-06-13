@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Founded 1990 in Mountain View CA; acquired by Peregrine Systems for ~$1B in 2001; sold to BMC Software for $355M in 2002 after Peregrine bankruptcy; became BMC Remedy brand.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 3,000+ customers by early 1997 — [[study-1997-automating-and-managing-internal-op-e69e64]]

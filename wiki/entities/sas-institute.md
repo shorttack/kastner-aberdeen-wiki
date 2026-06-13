@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Analytics software cited as example of large-database application where Itanium shows largest immediate payback over mainframe due to CPU-intensive processing.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Recent arrival in financial arena; Longview's years of embedded accounting practices gives it edge over SAS — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]

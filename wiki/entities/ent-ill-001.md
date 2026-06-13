@@ -11,7 +11,7 @@ sector: "Enterprise Software"
 status: "Acquired"
 successor: "Informix (1996)"
 years_active: "1992-1996"
-occurrence_count: 0
+occurrence_count: 1
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

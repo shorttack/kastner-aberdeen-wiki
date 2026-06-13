@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > - CitiBank late-1970s minicomputer SWIFT funds transfer   - Wisconsin electric: remote meter reading using AC voltage fluctuation at five
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Wisconsin Electric used ASEP to control water heaters in 154,000 homes plus remotely meter customers — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]

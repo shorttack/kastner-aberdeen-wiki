@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > n testifying for Microsoft in its anti-trust trial with the U.S. Department of Justice;   - Compaq has a great worldwide Wintel channel already in
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - DOJ proposed splitting Microsoft into separate operating-systems and applications companies; additional remedies included mandatory API disclosure to OEMs and a ban on exclusive arrangements. — [[study-microsoft-split-will-hit-users-pockets-0-edc1ed]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Known entity reused from cache. AI report states: founded 1972 by MIT group; specialized in 32-bit minicomputers for scientific users; diversified into office automation 1980; first quarterly income slump in ten years spring 1983; acquired Computervision 1989.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Founded 1972 by group from MIT; specialized in 32-bit minicomputers for scientific users — [[study-charles-t-casale-influence-cdfb3f]]

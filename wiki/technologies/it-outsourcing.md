@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Core subject. Growing market per Saia: 'IT outsourcing is growing, and mid-size enterprises that want to remain competitive should at least entertain the idea.' Study focuses on mid-market oversight and relationship management failures.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Growing; tracked via Aberdeen Outsourcing Barometer — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]

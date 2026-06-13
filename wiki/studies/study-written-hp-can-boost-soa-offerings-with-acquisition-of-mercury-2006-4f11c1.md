@@ -16,9 +16,9 @@ source_file: "Written__HP Can Boost SOA Offerings with Acquisition of Mercury (2
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: 5.0
-prescience_mean: 5.0
+study_prescience_enum: "high"
+prescience_max: 4.0
+prescience_mean: 4.0
 prescience_obs_count: 3
 ---
 
@@ -32,6 +32,6 @@ _Published 2006, author **Information Technology**, type **benchmark**._
 
 ## Top observations
 
-- With our recent research showing that 90% of all companies will exit 2006 with SOA activities at least underway — and many large enterprises with more than a year’s development experience ( _ESB and SOA Middleware_ , June, 2006) ─ SOA is at the heart of many software buying plans. `[ps=5]`
-- than $50 million in annual revenue) are unlikely to have such complex and diverse IT environments, and typically start a product acquisition cycle with **Microsoft** at the top of the list. `[ps=5]`
-- Aberdeen’s most recent survey indicates mainframes are heavily involved in enterprise-size company (at least $1 billion) SOA plans. `[ps=5]`
+- With our recent research showing that 90% of all companies will exit 2006 with SOA activities at least underway — and many large enterprises with more than a year’s development experience ( _ESB and SOA Middleware_ , June, 2006) ─ SOA is at the heart of many software buying plans. `[ps=4]`
+- than $50 million in annual revenue) are unlikely to have such complex and diverse IT environments, and typically start a product acquisition cycle with **Microsoft** at the top of the list. `[ps=4]`
+- Aberdeen’s most recent survey indicates mainframes are heavily involved in enterprise-size company (at least $1 billion) SOA plans. `[ps=4]`

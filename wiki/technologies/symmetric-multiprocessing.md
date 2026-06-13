@@ -11,7 +11,7 @@ vendor: "DEC/HP/Sun/Sequent/IBM"
 era: "1990-present"
 lifecycle_at_study: "mainstream-rising"
 lifecycle_current: "ubiquitous"
-occurrence_count: 2
+occurrence_count: 3
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -25,4 +25,5 @@ prescience_obs_count: 0
 ## Top observations
 
 - Evaluating Options in Microprocessor Multiprocessing — [[study-aberdeen-open-online-transaction-process-ea272f]]
+- DEC SMP architecture (VAX 8800 series) cited as the key technical enabler for VAX-class TP at IBM 3090 throughput — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
 - >10x growth, 16-way MP — [[study-hp-mainframe-alternative-fernandez-mfasc-a2179f]]

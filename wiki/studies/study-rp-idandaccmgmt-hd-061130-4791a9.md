@@ -16,10 +16,10 @@ source_file: "rp_idandaccmgmt_hd_061130.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "low"
+prescience_max: 0.0
+prescience_mean: -0.5
+prescience_obs_count: 2
 ---
 
 # ==> picture [441 x 95] intentionally omitted <==
@@ -32,5 +32,5 @@ _Published 2005, author **Research Preview**, type **benchmark**._
 
 ## Top observations
 
-- Aberdeen Group will explore the successful methods, in terms of process and technology, used by Best in Class organizations to address the challenges of identity and authentication security and mitigate the risks of potential threats.
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- Aberdeen Group will explore the successful methods, in terms of process and technology, used by Best in Class organizations to address the challenges of identity and authentication security and mitigate the risks of potential threats. `[ps=0]`
+- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

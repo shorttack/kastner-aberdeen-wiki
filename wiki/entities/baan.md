@@ -11,7 +11,7 @@ sector: "Enterprise Software / ERP"
 status: "dissolved"
 successor: "Invensys (2000) -> SSA Global (2003) -> Infor (2006)"
 years_active: "1978-2000"
-occurrence_count: 5
+occurrence_count: 6
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Baan Company N.V.
 
 > CTP client and partner; ERP leader in selected verticals; moving rapidly to extend supply chain; ahead of SAP in some innovation areas
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -11,7 +11,7 @@ vendor: "DEC/Compaq"
 era: "1992-2004"
 lifecycle_at_study: "mature"
 lifecycle_current: "discontinued"
-occurrence_count: 0
+occurrence_count: 1
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -24,3 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- DEC introduced Alpha much too soon; no apps, third-party support absent, 64-bit unused — [[study-cnbc-technology-edge-ibm-dec-hp-transitions-d4f84c]]

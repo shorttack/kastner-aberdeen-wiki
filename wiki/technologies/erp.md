@@ -13,8 +13,8 @@ lifecycle_at_study: "current"
 lifecycle_current: "dominant"
 occurrence_count: 101
 prescience_max: 5.0
-prescience_mean: 3.08
-prescience_obs_count: 1274
+prescience_mean: 1.17
+prescience_obs_count: 1785
 ---
 
 # Enterprise Resource Planning (ERP)
@@ -22,25 +22,30 @@ prescience_obs_count: 1274
 > ERP providers have best way in to enterprise; web-enabled ERP applications coming into own; ERP data available to less than 15% of users within organizations
 
 
+## Summary
+
+
+
+
 ## Top observations
 
+- ## **Nearly 80% of a product’s costs are embedded by the time that product is tossed over-the-wall to manufacturing.** `[ps=5]` — [[study-10991290-4e6131]]
 - Aberdeen research indicates that nearly 80% of a product’s costs are built-in by the time that product is tossed over-the-wall to manufacturing. `[ps=5]` — [[study-10991290-4e6131]]
-- Facilitating product information exchange: Product developers have always wanted best-in-class tools to assist them in performing their specific tasks. `[ps=5]` — [[study-10991290-4e6131]]
+- ## **Nearly 80% of a product’s costs are embedded by the time that product is tossed over-the-wall to manufacturing.** `[ps=5]` — [[study-2004-10991290-87c05d]]
 - Aberdeen research indicates that nearly 80% of a product’s costs are built-in by the time that product is tossed over-the-wall to manufacturing. `[ps=5]` — [[study-2004-10991290-87c05d]]
-- Today’s best-in-class organizations are applying new workforce management strategies and increasingly employing new technology to better manage the employee life cycle to drive continuous improvements in corporate performance. `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- Recent Aberdeen research shows that 96% of HR executives outsource some of their business processes today, with outsourced employee assistance programs, pre-employment areas such as background and drug testing, and payroll and benefits administration being key outsourced areas. `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- We’ll also highlight the technologies| ||and solutions that predominate today to facilitate identity management,| ||and what to expect in the future.| |Success Strategies for|According to industry sources, more than 50% of data leaks involve| |Addressing the Risk of Insider|insiders. `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- However, firms face the increasing threat of internal attacks.| ||Best-in-class companies are achieving the balance between Internet and| ||data access and appropriate controls. `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- And, in most cases, large corporations have<br>invested an enormous amount of time and energy in their current travel<br>and expense, category-specific, and purchasing card solutions.<br>This Solution Selection guide will help buying companies across<br>industries effectively prioritize requirements, benchmark selection<br>criteria against best-in-class and business case goals, and plan for<br>dep `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- Departmental initiatives and point solutions no longer provide the support that best-in-class enterprises need to deliver high-quality products and services. `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- Many firms are looking to global logistics| ||technology vendors, ERP vendors, freight forwarders, third-party| ||logistics companies, and international logistics consultants for| ||assistance in creating winning strategies.| ||Aberdeen’s_Best Practices in International Logistics Report_will look| ||in depth at the success strategies, technologies, and partner strategies of| ||best-in-class compan `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- This report will present a pragmatic framework to help senior marketers and service organizations evaluate and select enabling technologies to support best-in-class online analytics and customer interaction metrics. `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- In addition, the report will benchmark solution selection criteria against best-in-class companies and lay the groundwork for creating alignment between metrics and profitable customer relationships. `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- Using a case study format, this report will take an in-depth look at the proven success strategies of best-in-class companies as well as the adoption of technology to support high-value, multi-channel customer interaction processes and strategies. `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- But today’s best-in-class companies looking to reduce costs, speed time-to-market, and maximize value to the customer are measuring the impact design can ─ and should ─ have on a product’s manufacturability and serviceability. `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- |**Service Parts Planning**<br>**& Execution**|| |---|---| |Enterprise Strategies: The Role of|Guidance for OEMs looking to establish or expand relationships with| |the 3PL in Effective Service Parts|third-party logistics providers (3PLs) to improve execution of service| |Management|parts plans, including profiles of best-in-class partnerships.| |_1Q06_|| |Vendor Landscape/Market Sizing:|| |Servic `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
-- Best-in-class organizations turn process sensor data into business intelligence by leveraging real-time messaging and pro-active alerts, catching exceptions before they become problems. `[ps=5]` — [[study-2007-aberdeen-research-calendar-629972]]
-- Aberdeen will explore the web, application and| |_4Q06_|database security strategies employed by best-in-class organizations to| ||protect personally identifiable information. `[ps=5]` — [[study-2007-aberdeen-research-calendar-629972]]
+- It will profile all the leading IAD solution| |(M2M)|providers and map them to the key solution evaluation criteria| |_3Q06_|identified in the solution selection report.| |Best Practices in Intelligent Asset|This report will assess the approaches and technologies best-in-class| |Diagnostics (M2M)|companies are using to monitor, diagnose, and repair deployed assets| |_4Q06_|remotely for optimal ser `[ps=5]` — [[study-2006-aberdeen-research-calendar-123ac2]]
+- Best-in-class enterprises are leveraging real-time process and equipment condition information and diagnostics to detect and predict failures. `[ps=5]` — [[study-2006-manufacturingagenda-9a368f]]
+- This survey-based study will focus on how best-in-class service organizations in such industries as aerospace, defense, utilities, and office equipment are building successful revenue models upon asset usage, availability, and performance. `[ps=5]` — [[study-2007-aberdeen-research-calendar-082906a-145713]]
+- Best-in-class organizations turn process sensor data into business intelligence by leveraging real-time messaging and pro-active alerts, catching exceptions before they become problems. `[ps=5]` — [[study-2007-aberdeen-research-calendar-3b834a]]
+- Best-in-class enterprises are leveraging real-time| ||process and equipment condition information and diagnostics to detect| ||and predict failures and determine the impact on the production| ||schedule. `[ps=5]` — [[study-2007-aberdeen-research-calendar-3b834a]]
+- Best in Class retailers use BI to understand consumer behavior, habits and trends. `[ps=5]` — [[study-2007-aberdeen-research-calendar-3b834a]]
+- |**Retail Research**|| |---|---| |Business Intelligence Solution<br>Selection Guide:<br>Monetizing Bi Technology To<br>Drive Customer Sell Thru<br>_April, 2007_<br>_Challenge:_The 2006 Aberdeen Group Business Intelligence Research<br>Series focused on the increasing reliance Best in Class retailers place<br>on analytics and business process management to better understand the<br>dynamics of their  `[ps=5]` — [[study-2007-aberdeen-research-calendar-3b834a]]
+- It will also identify how best in class companies are gaining a competitive advantage by focusing on supply chain infrastructure to support more dynamic and flexible processes. `[ps=5]` — [[study-2007-aberdeen-research-calendar-3b834a]]
+- Transportation technology areas<br>covered will include: strategic planning, procurement and contract<br>management, shipment planning, shipment execution, visibility,<br>performance management, and settlement.| ||| ||Automating the Warehouse:<br>Equipment and Wireless<br>Networking Strategies<br>_Q2 2007_<br>**_Warehouse Innovation_**<br>**_Series_**<br>Today’s Best in Class warehouse operations  `[ps=5]` — [[study-2007-aberdeen-research-calendar-3b834a]]
 - Aberdeen_Group_will examine how organizations| ||are protecting their presence in cyberspace and what best in class| ||companies are doing to protect themselves from web security threats.| |Secure Messaging Benchmark:|<br>Electronic communications are the lifeblood of most companies and| |How Secure Are Your|individuals today and increasingly used as a method of attack by outsiders,| |Communicatio `[ps=5]` — [[study-2007-aberdeen-research-calendar-629972]]
 - Best-in-class enterprises are leveraging real-time| ||process and equipment condition information and diagnostics to detect| ||and predict failures and determine the impact on the production| ||schedule. `[ps=5]` — [[study-2007-aberdeen-research-calendar-629972]]
-- It will benchmark telecom<br>network costs and quantify the savings that Best In Class enterprises<br>are able to achieve in their programs. `[ps=5]` — [[study-2007-aberdeen-research-calendar-629972]]
+- In 2007, Aberdeen Group will execute a series of surveybased benchmark studies to assess the challenges, opportunities, processes, capabilities, technologies, and performance metrics used by Best in Class organization across multiple industries. `[ps=5]` — [[study-2007-information-management-agenda-40e141]]
+- Previous Aberdeen Reports including _Data Clogs Mid-Market Retail Channels: No Money for a Plumber?,_ have illustrated that 58% of mid-market retailers claimed that they currently collect CRM data but are not using it effectively, and in many cases not at all. `[ps=5]` — [[study-2007-ra-clicks-jl-3710-37b7a4]]
+- Aberdeen research shows that ubiquitous tools like site search and security/privacy encryption are prerequisites for a strong eCommerce experience, yet do little for those trying to catch up to Best-in-Class online merchants in terms of sales lift (Figure 9). `[ps=5]` — [[study-2007-ra-clicks-jl-3710-37b7a4]]
+- Through the correlation of process information and product measurement and testing, Best in Class performers are able to improve visibility and enhance predictive control while improving the quality of products. `[ps=5]` — [[study-bm-manufacturing-intelligence-3594-578435]]
+- The Best in Class derive the greatest value from their e-procurement programs by driving user adoption, placing more spend under management, and investing in complementary technology. `[ps=5]` — [[study-e-proc-tech-rb-vc-ab-3778-7525d9]]

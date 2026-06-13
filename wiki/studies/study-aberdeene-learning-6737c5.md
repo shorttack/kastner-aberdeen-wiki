@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Services
@@ -32,5 +32,5 @@ _Published 2001, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- Out-of-pocket travel and printing expenses consume 60% of the average sales training budget.
-- This study analyzes Services using Aberdeen Group research material and prepared extraction artifacts.
+- Out-of-pocket travel and printing expenses consume 60% of the average sales training budget. `[ps=0]`
+- This study analyzes Services using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]`

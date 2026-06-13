@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > das, Bayer, DaimlerChrysler, Dow Chemical, IBM, Mastercard, PriceWaterhouseCoopers, Sony, Tenovis, T-Systems, Viessmann, Visa, and Xerox.   **
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Global consulting and CRM implementation with process transformation focus — [[study-1999-crm-professional-services-rpt-96bf13]]

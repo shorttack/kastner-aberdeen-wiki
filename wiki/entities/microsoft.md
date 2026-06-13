@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Cited: Windows Vista OS halted in 2004; tens of millions of lines of code discarded to institute programming process change. Cited as 'bastion of technology brainpower.' Also cited: Microsoft Office as knowledge worker productivity tool. Use existing entity ID. | Source: Microsoft Corporation remains one of the largest technology companies globally. https://www.microsoft.com
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - in_progress — [[study-1997-dec-linkworks-webworker---an-object-db2d2a]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Referenced in weekly PC Deals commentary 2002-10-06
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Mean $1062, median $1050, range $400-$1707; 43 sku-listings — [[study-dct-access-pc-deals-2002-2003]]

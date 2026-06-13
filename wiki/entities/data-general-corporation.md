@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > America Global Logo Partner|Irving, Susan|Profile|| |May-96|Data General Corporation|Sakakeeny, Bob|Profile|| |May-96|Bull Enterprise Informatio
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - $1.0B to $1.2B — [[study-aberdeen-1996-data-general-corporation]]

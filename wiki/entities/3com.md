@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Network infrastructure vendor; acquired by HP for $2.7B in April 2010; integrated into HPE Aruba Networks.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Feature-rich and aggressively priced; most capable offering vs. Cisco and ALANTEC — [[study-aberdeen-1995-3com-lanplex-2500]]

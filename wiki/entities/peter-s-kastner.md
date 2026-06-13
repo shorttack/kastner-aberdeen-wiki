@@ -11,7 +11,7 @@ sector: "technology consulting / industry analysis"
 status: "historical"
 successor: "[none]"
 years_active: "1981-1987 (at Stratus)"
-occurrence_count: 237
+occurrence_count: 254
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Peter S. Kastner
 
 > Co-founder of Aberdeen Group; shifted role from direct client delivery to research strategy and analyst development; kept Intel as retainer during 2003-2006 transition; returned in 2006 to drive SOA research; departed mid-2007 after completing nine SOA studies.
+
+
+## Summary
+
+
 
 
 ## Top observations

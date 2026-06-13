@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Added NT value in systems management and transaction processing but AT&T split raised long-term viability questions
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - NCR adopted Solaris on Intel as reference platform for 64-bit Unix per 1997 partnership announcement — [[study-1997-sun-workgroup-servers-balancing-competition-and-co-cc57b7]]

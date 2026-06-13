@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > PVR pioneer; cited for disk duplication inefficiency in mass-market scenarios
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Leisure & Entertainment — [[study-dct-supplier-list-2002]]

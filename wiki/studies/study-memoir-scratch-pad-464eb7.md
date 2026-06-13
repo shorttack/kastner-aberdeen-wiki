@@ -17,8 +17,8 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: 1.0
-prescience_mean: 0.67
+prescience_max: 0.0
+prescience_mean: 0.0
 prescience_obs_count: 3
 ---
 
@@ -32,6 +32,6 @@ _Published 2026, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- I quickly learned while watching customer printouts scroll by that I was not doing too badly: a study of bank officer titles and salaries informed me that many bank vice presidents earned in the $6,500 range. `[ps=1]`
-- Lesson 1: computer time was $360 per CPU hour. `[ps=1]`
 - I started as a junior programmer at PHI in March 1969 at a salary of $7,200 a year. `[ps=0]`
+- I quickly learned while watching customer printouts scroll by that I was not doing too badly: a study of bank officer titles and salaries informed me that many bank vice presidents earned in the $6,500 range. `[ps=0]`
+- Lesson 1: computer time was $360 per CPU hour. `[ps=0]`

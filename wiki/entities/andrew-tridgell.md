@@ -3,7 +3,7 @@ title: "Andrew Tridgell"
 slug: "andrew-tridgell"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "andrew-tridgell"
 entity_type: "person"

@@ -11,7 +11,7 @@ sector: "database & enterprise software"
 status: "acquired"
 successor: "Accrue Software then JDA Software"
 years_active: "1911-present"
-occurrence_count: 33
+occurrence_count: 38
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # NeoVista Software Inc.
 
 > Oracle Corporation; canonical Oracle entity. Entity-ID variants in archive: oracle, oracle-corp, oracle-corporation, ORACLE, ENT-006, ENT-010, ENT-011, ENT-ORACLE, ENT-ORACLE-DB, ENT-ORACLE-APP, ENT-ORA-001, ent-05, ent-06, e90-05, and 15+ additional ENT-prefixed IDs
+
+
+## Summary
+
+
 
 
 ## Top observations

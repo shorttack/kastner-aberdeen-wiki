@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Aberdeen notes suppliers moving away from CGI toward web-server-to-application-server partitioning; confirmed by Apache/IIS app servers.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - CGI being replaced by ORBs and gateways — [[study-1996-electronic-commerce-25d31b]]

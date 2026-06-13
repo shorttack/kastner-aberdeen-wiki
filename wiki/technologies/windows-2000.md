@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Also called Windows NT 5.0; central focus of Infrastructure Services practice; released February 2000
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Thin-client/server-centric multi-user architectures are now poised to become business-altering competitive weapons — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]

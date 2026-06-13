@@ -16,10 +16,10 @@ source_file: "q206_integrating%20datacenter_pk.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "low"
+prescience_max: 0.0
+prescience_mean: -0.5
+prescience_obs_count: 2
 ---
 
 # ==> picture [441 x 95] intentionally omitted <==
@@ -32,5 +32,5 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- Key findings will provide insights into:
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- Key findings will provide insights into: `[ps=0]`
+- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

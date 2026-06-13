@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Referenced in Perplexity research context as IT analyst firm; Gartner Hype Cycle mentioned as framework for 1990s tech adoption failures. Reused from cache.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - IDC or Gartner start reporting midline metrics by Q3 2004 — [[study-10-maxtor-workshop-02-09-eod-53f22b]]

@@ -3,7 +3,7 @@ title: "Aberdeen Digital Consumer Technology Practice"
 slug: "aberdeen-dct-practice"
 page_type: "entity"
 tags: ["type/entity", "entity-type/institution"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "aberdeen-dct-practice"
 entity_type: "institution"

@@ -11,7 +11,7 @@ sector: "technology research and advisory"
 status: "unknown"
 successor: "International Data Corporation remains division of IDG; IDG taken private by Blackstone 2021"
 years_active: "1964-present"
-occurrence_count: 10
+occurrence_count: 11
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # IDC (International Data Corporation)
 
 > Founded 1964. Dominated market sizing and forecasting; owned quantitative shipment/revenue/market-share data. Tom Willmott came from IDC.
+
+
+## Summary
+
+
 
 
 ## Top observations

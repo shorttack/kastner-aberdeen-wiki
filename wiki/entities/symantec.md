@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > #1 worldwide security vendor in 2002 with 12% market share per IDC; $1.07B revenue FY2002; acquired Veritas 2005 for $13.5B; enterprise security sold to Broadcom 2019
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 12% of $6B worldwide security market (#1 per IDC) — [[study-2003-the-top-10-security-suppliers-fc2b1b]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Growing >50% annually; majority share of Windows NT DBMS market; bundled with Microsoft Back Office; lacks row-level locking and object support in 6.5
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 6,671 tpmC at $90/tpmC (NT, 4-way, Microsoft SQL Server) — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]

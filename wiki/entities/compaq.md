@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Acquiring Digital Equipment; sees Digital as systems integration and professional services provider; combined with Tandem and Digital becomes major EC force
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 38000 (top 14 = ~50% of revenue) — [[study-1998as400-1-146289]]

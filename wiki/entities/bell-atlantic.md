@@ -11,7 +11,7 @@ sector: "telecommunications"
 status: "dissolved"
 successor: "Verizon Communications"
 years_active: "1984-2000"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

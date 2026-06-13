@@ -16,10 +16,10 @@ source_file: "Written__Dell_SD2_FINAL.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
+study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 2
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # ==> picture [460 x 434] intentionally omitted <==
@@ -32,6 +32,6 @@ _Published 2001, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- According to a recent survey, we found nearly 80 percent of our customers are needlessly storing old equipment.** `[ps=4]`
+- **Nearly 80 percent of customers store unwanted hardware** `[ps=4]`
 - Hardware values decline an average of 6 percent per month, and Dell Asset Recovery Services’ value schedules are updated monthly to reflect current market prices.** `[ps=4]`
-- **Nearly 80 percent of customers store unwanted hardware**
+- According to a recent survey, we found nearly 80 percent of our customers are needlessly storing old equipment.** `[ps=0]`

@@ -11,7 +11,7 @@ vendor: "Multiple"
 era: "1990s-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "unknown [REVIEW]"
-occurrence_count: 15
+occurrence_count: 16
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Notebook PC form factor
 
 > Split into Standard, Thin & Light, Value form-factor bands.
+
+
+## Summary
+
+
 
 
 ## Top observations

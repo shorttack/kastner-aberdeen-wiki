@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Wireless laptop platform featuring long battery life; about one-third of corporate PC purchases in 2003 were laptops; brand evolved and eventually retired
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - ~1/3 corporate PC purchases in 2003 will be notebooks; Centrino = long battery life + wireless productivity — [[study-dct-pc-replacement-insight1-2003-04]]

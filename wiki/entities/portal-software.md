@@ -11,7 +11,7 @@ sector: "ISP-billing-software"
 status: "acquired"
 successor: "Oracle (2006)"
 years_active: "1985-2006"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -38,3 +38,6 @@ prescience_obs_count: 0
 - Brand-name driven shake-out; big get bigger; small specialize; highly dynamic environment — [[study-portal-99-fe5656]]
 - Multi-database support including Oracle Rdb and SQL Server 7; multi-threaded invoicing (HTML, XML, DOC1 formats) — [[study-portal-99-fe5656]]
 - Medium-to-large ISPs with 25,000+ subscribers; online/internet-based services; IP telephony providers; gaming companies; content providers; billing service bureaus — [[study-portal-99-fe5656]]
+- Portal Software founded in 1985, based in Cupertino, California — [[study-portal-software-infranet-real-time-billing-742af3]]
+- Portal is positioned as the architectural leader; other vendors will retrofit legacy billing — [[study-portal-software-infranet-real-time-billing-742af3]]
+- [DEFERRED] — [[study-portal-software-infranet-real-time-billing-742af3]]

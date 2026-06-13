@@ -12,8 +12,8 @@ era: "mid-1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 29
-prescience_max: 0.0
-prescience_mean: 0.0
+prescience_max: -1.0
+prescience_mean: -1.0
 prescience_obs_count: 3
 ---
 
@@ -22,11 +22,16 @@ prescience_obs_count: 3
 > Aberdeen notes Java is limited by language/class library constraints for complex OLTP in 1996; prediction was accurate for the era.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-cryptocardsnapshot-3ce4c3]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-spotlightakamai-b83de6]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-sunsnapshota-da6171]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-cryptocardsnapshot-3ce4c3]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-spotlightakamai-b83de6]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-sunsnapshota-da6171]]
 - 4GL/CASE tools generating Java — [[study-1996-electronic-commerce-25d31b]]
 - Aberdeen surveys indicate Java will become very popular development environment — [[study-1997-ibm’s-nt-strategy-strat-pr-b93817]]
 - Java became dominant enterprise development language; IBM was major Java proponent — [[study-1997-ibm’s-nt-strategy-strat-pr-b93817]]

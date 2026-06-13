@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Spun out of AT&T Bell Labs in 1996; Aberdeen cites Lucent/Agile Networks merger as example of PPSN trend; Lucent merged with Alcatel (2006) to form Alcatel-Lucent; Nokia acquired Alcatel-Lucent in 2016.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Aberdeen Impact briefing published for Lucent in 03/97 context — [[study-aberdeen-1997-aberdeen-group-impacts]]

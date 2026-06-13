@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > role_in_study=primary-subject; status_notes=Acquired by Compaq in 1998; Compaq subsequently acquired by HP in 2002. DEC brand retired.; hq_location=Nashua, NH; source_url=https://en.wikipedia.org/wiki/Digital_Equipment_Corporation; status_at_pub=active; status_current=acquired
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - CA acquired Digital Equipment's Polycenter management products and tightly integrated them with CA management console — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]

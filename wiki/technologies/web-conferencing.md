@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Oracle Database remains actively developed and deployed as of 2026 (Oracle 23c). Oracle System 7 was the version contemporaneous with this study; Oracle InterOffice used Oracle DB as its data store. | Successor: Oracle Database 23c
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Digital not prepared to concede VAX ready for Computer Museum — [[study-1992-tpc-benchmarks-vp-745fa1]]

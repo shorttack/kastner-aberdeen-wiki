@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
 prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_mean: -0.33
+prescience_obs_count: 3
 ---
 
 # ==> picture [442 x 38] intentionally omitted <==
@@ -34,4 +34,4 @@ _Published 2004, author **Aberdeen Group**, type **benchmark**._
 
 - The benchmark configuration (called the System Under Test, or SUT) is described in Figure 1. `[ps=0]`
 - Only 1% of users would see a greater response time. `[ps=0]`
-- **Figure 1: Performance Test Certification Environment (or “SUT”)**
+- **Figure 1: Performance Test Certification Environment (or “SUT”)** `[ps=-1]`

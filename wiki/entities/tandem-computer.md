@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > anced Information Management|Pavlic, Chris|Report|| |Nov-96|Tandem Computer's NT  Growth Strategy|Clabby, Joe|Profile|| |Nov-96|royalbl
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Tandem acquired by Compaq June 1997 for ~$3B; report already notes 'Tandem's NT Professional Services (Now Known as Compaq Professional Services)' — [[study-1998-nt-professional-services-buying-guide-1998-edition-14e452]]

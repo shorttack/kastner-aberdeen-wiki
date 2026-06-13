@@ -3,7 +3,7 @@ title: "INTERSOLV Inc."
 slug: "intersolv"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "intersolv"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # INTERSOLV Inc.
 
 > PVCS version control market leader; Year 2000 services; data connectivity software; merged with Merant 1998
+
+
+## Summary
+
+
 
 
 ## Top observations

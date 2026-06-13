@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Number two EDI/VAN integrator; most progressive in moving from VAN to Internet/EDI; second in size only to GEIS; broadest product offerings in industry; EDI/EFT and internet-enabled marketing-to-sales-to-order EC channels
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Sterling Commerce acquired by AT&T (2000), then Oracle (2011) for $1.4B; became Oracle B2B Commerce — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]

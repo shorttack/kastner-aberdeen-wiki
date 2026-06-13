@@ -3,7 +3,7 @@ title: "Design-Time Governance"
 slug: "design-time-governance"
 page_type: "technology"
 tags: ["type/technology", "category/discipline", "era/2005-present"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "design-time-governance"
 category: "discipline"

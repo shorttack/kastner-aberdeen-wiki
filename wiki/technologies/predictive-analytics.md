@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Concept of HA spanning entire application stack rather than individual boxes. Aberdeen rated HP's position as defendable with 12-18 month window. Now mainstream in cloud-native resilience engineering.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - web_champion_java_pioneer — [[study-1997-commercial-risc-unix-1996-mvp-711569]]

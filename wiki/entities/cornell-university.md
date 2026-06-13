@@ -3,7 +3,7 @@ title: "Cornell University"
 slug: "cornell-university"
 page_type: "entity"
 tags: ["type/entity", "entity-type/institution"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "cornell-university"
 entity_type: "institution"

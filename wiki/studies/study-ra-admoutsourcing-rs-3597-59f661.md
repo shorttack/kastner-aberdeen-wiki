@@ -17,8 +17,8 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: 5.0
-prescience_mean: 2.25
+prescience_max: 4.0
+prescience_mean: 2.0
 prescience_obs_count: 4
 ---
 
@@ -32,7 +32,7 @@ _Published 1988, author **Aberdeen Group**, type **topic-analysis**._
 
 ## Top observations
 
-- Best in Class companies can get better results from outsourcing ─ and for their IT groups ─ by retaining strategic work and involving the business units in helping manage outsourcing providers. `[ps=5]`
 - Best in Class organizations excel at saving significantly more money (an average of 56% over in-house development, more than twice that of Industry Average companies), achieving higher user satisfaction, and delivering better project performance than Industry Average and Laggard organizations. `[ps=4]`
+- Best in Class companies can get better results from outsourcing ─ and for their IT groups ─ by retaining strategic work and involving the business units in helping manage outsourcing providers. `[ps=4]`
 - Here are three key findings from Aberdeen’s research: `[ps=0]`
 - This is especially true of Best in Class organizations. `[ps=0]`

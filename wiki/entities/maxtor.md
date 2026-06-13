@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Client for whom tool is built; Maxtor branding (colors fonts logos) required; 'Powered by Aberdeen' logo on interface; under no circumstances to receive this document
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - With Aberdeen research + vocal customer advocates + leading research firm + system vendor support Maxtor can lead the midline category and position MaXLine as the brand of choice — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]

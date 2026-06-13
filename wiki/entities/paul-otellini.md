@@ -3,7 +3,7 @@ title: "Paul S. Otellini"
 slug: "paul-otellini"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "paul-otellini"
 entity_type: "person"
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Paul S. Otellini
 
 > CEO during Centrino mainstream, Atom, Itanium dragging — subject of two retrospective archive studies
+
+
+## Summary
+
+
 
 
 ## Top observations

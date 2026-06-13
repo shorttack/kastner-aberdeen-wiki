@@ -3,7 +3,7 @@ title: "Caroline S. Kastner"
 slug: "caroline-s-kastner"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "caroline-s-kastner"
 entity_type: "person"

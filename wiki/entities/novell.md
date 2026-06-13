@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Role: competitor-referenced; At-study status: active; HQ: Provo, UT, USA; URL: http://www.novell.com. Novell was acquired by Attachmate in 2011; Attachmate itself acquired by Micro Focus in 2014; Micro Focus acquired by OpenText in 2023. Referenced in context of groupware/messaging market competition.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - One of dominant NOSs that enterprises must integrate with Internet — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]

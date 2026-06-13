@@ -11,7 +11,7 @@ vendor: "IBM Corporation"
 era: "1988-present"
 lifecycle_at_study: "production-shipping"
 lifecycle_current: "renamed-iSeries-then-Power-Systems-IBM-i"
-occurrence_count: 5
+occurrence_count: 7
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # IBM AS/400 (iSeries / IBM i)
 
 > Entry level ~$8,000; OS/400 V3R6/V3R7 Year 2000 compliant; evolved to iSeries (2000), System i (2006), IBM Power Systems running IBM i (2008-present)
+
+
+## Summary
+
+
 
 
 ## Top observations

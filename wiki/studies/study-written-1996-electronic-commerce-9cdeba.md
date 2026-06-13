@@ -16,9 +16,9 @@ source_file: "Written__1996 Electronic Commerce.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: 5.0
-prescience_mean: 4.5
+study_prescience_enum: "medium"
+prescience_max: 4.0
+prescience_mean: 2.0
 prescience_obs_count: 2
 ---
 
@@ -32,5 +32,5 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- This study analyzes Electronic Commerce: Virtual Corporations Selling to a Virtual Marketplace using Aberdeen Group research material and prepared extraction artifacts. `[ps=5]`
 - Our electronic commerce research indicates significant IT investments totaling over $7.2 billion are planned over the next three years for information technology used for Internet electronic commerce systems. `[ps=4]`
+- This study analyzes Electronic Commerce: Virtual Corporations Selling to a Virtual Marketplace using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]`

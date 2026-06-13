@@ -11,7 +11,7 @@ vendor: "industry-wide"
 era: "1970s-present"
 lifecycle_at_study: "dominant"
 lifecycle_current: "current"
-occurrence_count: 18
+occurrence_count: 21
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Online Transaction Processing (OLTP)
 
 > Core market concept; $26B market at time, expected to reach $60B by 1991; metrics: transactions-per-second, dollars-per-TPS, response time; 90-95% of transactions must complete in 1-2 seconds
+
+
+## Summary
+
+
 
 
 ## Top observations

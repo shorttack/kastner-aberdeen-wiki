@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Acquired Aberdeen Group in October 2006 for $42 million; served CMOs and marketing directors; owned a database of 4,500 US IT decision-makers; strategic fit with Aberdeen's technical research was weak.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - +50% — [[study-dct-personal-it-forecast-research-2001]]

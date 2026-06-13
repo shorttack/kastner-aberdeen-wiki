@@ -11,7 +11,7 @@ sector: "Consumer Electronics/Software"
 status: "Active (renamed Apple Inc.)"
 successor: "Apple Inc. (renamed January 2007, dropped 'Computer')"
 years_active: "1976-present"
-occurrence_count: 23
+occurrence_count: 25
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Apple Computer, Inc. / Apple Inc.
 
 > Apple II referenced as the personal-computing benchmark Prime is reacting to (10MB disk / 48K mem / 1 user vs Prime 250's 2000MB / 1MB / 64 processes at 10x price).
+
+
+## Summary
+
+
 
 
 ## Top observations

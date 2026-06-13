@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Enabling reliability technology; ATA disks protected as part of RAID group enabling enterprise-class availability; higher capacity means fewer drives that can fail
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 1x; 2x; 3x; 5x (four multipliers across 7 configuration rows) — [[study-20-maxline-mtbf-analysis-4d9111]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Framingham MA IT market research firm; IDG sister company
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - IDC forecasts companies will replace outdated hardware next year (2003) and projects a 6% IT-spending increase — revised after its 2001 forecast of a 2002 rebound missed by a year. — [[study-tech-forecasts-idc-keeps-score-114e08]]

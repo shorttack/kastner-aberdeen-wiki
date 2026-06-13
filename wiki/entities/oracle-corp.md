@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Oracle RDBMS selected as back-end database for SAP R3 (replacing SAP's proprietary mainframe DB); HP 9000 Series 800 was Oracle's most important Unix revenue platform
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Oracle announced Oracle Unbreakable Linux — support for RHEL-compatible Linux at lower fees than Red Hat charges. — [[study-novell-and-microsoft-good-for-business-4-59404e]]

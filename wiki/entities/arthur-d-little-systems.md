@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Custom-systems division of ADL responsible for fault-tolerant minicomputer dispatch systems for police/fire (911 CAD).
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - ADLS Public Safety Group built custom fault-tolerant minicomputer systems for police dispatching including Boston, Philadelphia, Minneapolis, Aurora CO, and St. Petersburg FL — [[study-adl-public-safety-911-cad-systems-1973-1979-b8a001]]

@@ -3,7 +3,7 @@ title: "Fourth Generation Languages (4GLs)"
 slug: "4gl"
 page_type: "technology"
 tags: ["type/technology", "category/language", "era/1979-present"]
-tier: 2
+tier: 1
 source_csv: "_master_technologies.csv"
 tech_id: "4gl"
 category: "language"
@@ -11,7 +11,7 @@ vendor: "Multiple"
 era: "1979-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "legacy-end-of-life"
-occurrence_count: 4
+occurrence_count: 5
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Fourth Generation Languages (4GLs)
 
 > Prime INFORMATION’s application development environment described as a 4GL database environment; positioned as faster than COBOL-based development.
+
+
+## Summary
+
+
 
 
 ## Top observations

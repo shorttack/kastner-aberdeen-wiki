@@ -11,7 +11,7 @@ sector: "fault-tolerant computing / hardware"
 status: "acquired"
 successor: "Stratus Technologies (now Penguin Solutions)"
 years_active: "1980-present"
-occurrence_count: 31
+occurrence_count: 32
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Stratus Computer, Inc.
 
 > Kastner uses Stratus as the example of a niche defended not by patents but by the difficulty of making 'uptime' viscerally real to a buying committee.
+
+
+## Summary
+
+
 
 
 ## Top observations
@@ -42,5 +47,5 @@ prescience_obs_count: 0
 - 3x XA600 ET-1; 2.5x XA600 TP-1 — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
 - Up to 64 MB memory, 64 KB cache, 128 MB virtual address space, 46 GB disk — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
 - $260K-$500K Model 110; $770K-$1.1M Model 140; transaction-per-second cost half of earlier products — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
+- Stratus cited as the other fault-tolerant TP option behind Tandem; smaller market — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
 - From zero to $200M sales level — [[study-dec-resume-performance-review-3-1f133b]]
-- Unprecedented IBM OEM agreement resulting in IBM System/88 (Stratus product) — [[study-dec-resume-performance-review-3-1f133b]]

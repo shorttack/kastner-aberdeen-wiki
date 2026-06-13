@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Subject of snapshot; #1 volume NAS provider; 130,000+ unit installed base; San Jose CA; formerly Meridian Data, then Quantum subsidiary, re-privatized 2002
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Snap Appliance's S2S v2 is a full-featured replication-for-the-masses solution that will give enterprises the opportunity to protect and easily move data without the significant investment or complexity that was required in the past. — [[study-snap-appliance-launches-new-release-of-i-373ab7]]

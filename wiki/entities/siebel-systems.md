@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Founded 1993 by Tom Siebel; rose to ~45% CRM market share by 2002; acquired by Oracle for $5.8B in 2005; Siebel brand persists as Oracle CRM On Demand. At time of report was already the dominant SFA vendor.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Leading SFA vendor; profiled as dominant supplier of sales force automation software — [[study-1997-cis-report-ba825e]]

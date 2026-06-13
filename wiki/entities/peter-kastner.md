@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Research VP and Co-Founder, Enterprise Technology Research, Aberdeen Group; 18 years at Aberdeen; founder of Transaction Processing Council; named top 5 sought analysts by MediaMap 2003; Aberdeen board member; 2H 2006 research focused on BPM and real-time operational decision-making
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Peter Kastner Executive VP will be the executive leading the overall project — [[study-02-sow-final-62f56d]]

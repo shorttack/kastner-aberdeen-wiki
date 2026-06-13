@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Founded by former DEC VAXft engineers in Boxborough MA; pivoted from hardware to software (everRun) in 2004; acquired by Stratus Technologies Sept 24, 2012.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - >40 member companies — [[study-1992-tpc-benchmarks-vp-745fa1]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Referenced in report as a networking vendor adding routing intelligence to switches; formed by merger of Synoptics and Wellfleet (1994); acquired by Nortel Networks for $9.1B (1998); Nortel ultimately failed; Bay Networks assets dispersed.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - High-density access for service providers, telcos, carriers, enterprise networks; modular form in Bay 5000 MSX — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]

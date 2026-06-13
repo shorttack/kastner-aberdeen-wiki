@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Shuttle XPC and similar compact desktops; later displaced by Mac mini, Intel NUC, laptops, and eventually smartphones/tablets
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Desktop Currents - December 2002 The desktop PC business has always been about making products that are "better, faster, cheaper, and smaller". — [[study-dct-business-2002-12-17-pc-deals]]

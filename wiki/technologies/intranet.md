@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Internal Internet-protocol networks; already significant enterprise computing component by 1998.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Strong internal Intranet required — [[study-1996-electronic-commerce-25d31b]]

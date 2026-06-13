@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Philip Hankins, Inc. — founded 1958 (or 1959 per brochure), Arlington MA; one of earliest software-services companies. Wang-Laboratories subsidiary. Kastner-author employer 1969-1972.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Rung 1: Operations / paper slips — [[study-kastner-technology-breadth-memoir-2026]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Schaumburg IL telecom/semi giant; split 2011; mobile division acquired by Google then Lenovo
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Motorola was ordered by Singapore officials to temporarily close its factory when an employee developed SARS-like symptoms. — [[study-sars-high-tech-monday-update-monday-apri-ac0cb5]]

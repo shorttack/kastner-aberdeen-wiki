@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Primary subject of white paper; Dell ARS launched to address enterprise IT asset disposal; Dell Exchange marketplace also offered; became Dell Technologies in 2016
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Dell targeting more computer resellers instead of just selling directly — channel expansion — [[study-2001-hp-cpq-merger-collection-edbca1]]

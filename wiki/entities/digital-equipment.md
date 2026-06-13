@@ -11,7 +11,7 @@ sector: "minicomputer-manufacturing"
 status: "dissolved"
 successor: "Acquired by Compaq 1998; then HP 2002"
 years_active: "1957-1998"
-occurrence_count: 22
+occurrence_count: 23
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Digital Equipment Corporation (DEC)
 
 > $13B supplier; professional services = 40% of revenue ($5.4B); being bought by Compaq for systems integration expertise and sales force; Maynard MA; number three OEM in professional services
+
+
+## Summary
+
+
 
 
 ## Top observations

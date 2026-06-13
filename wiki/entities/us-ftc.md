@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Filed antitrust suit against Intel; referenced as government scrutiny risk.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - FTC antitrust suit filed after AMD settlement — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]

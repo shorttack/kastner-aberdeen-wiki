@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > TPC benchmark standards body; Oracle a founding and dominant member; Kastner used TPC results as primary benchmark currency throughout the 1990s
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Devising our own, new OLTP benchmark standard — [[study-kastner-tandem-topgun-et1-analysis-1987--a3a09c]]

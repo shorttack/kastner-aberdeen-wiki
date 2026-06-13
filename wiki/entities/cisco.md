@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Named as example of networking vendor angling to provide intelligent network services previously run on conventional servers — challenging Sun and traditional server suppliers. | Source: Cisco Systems Inc. remains a major publicly traded networking company (NASDAQ: CSCO). https://investor.cisco.com
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Opening to industry; Centrino LEAP-aware — [[study-intel-centrino-pk-8ecf9a]]

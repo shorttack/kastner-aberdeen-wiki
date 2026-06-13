@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > used on meeting customer requirements.   ## **Who’s Who**   Sanjay Kumar, Chairman and CEO; Russell Artzt, EVP Alliances and eTrust
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 'We want to be good governance people. We should have governance folks come to the board meeting.' — [[study-eweek-ca-team-victorious-proxy-fight-200-c424f4]]

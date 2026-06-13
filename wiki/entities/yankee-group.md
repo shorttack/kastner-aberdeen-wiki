@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Founded 1970. Focused on telecommunications and networking. Required reading in late 1980s as networking became enterprise-critical. Logan previously published Kastner’s Yankee Group study.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Telecom niche — [[study-aberdeen-training-day-1-522863]]

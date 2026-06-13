@@ -11,7 +11,7 @@ sector: "Information Technology"
 status: "acquired"
 successor: "Oracle Corporation (1995)"
 years_active: "1975-present"
-occurrence_count: 14
+occurrence_count: 17
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Microsoft Corporation
 
 > role_in_study=technology-partner; status_notes=Microsoft remains independently active; OLE/COM evolved into COM+ and .NET component model.; hq_location=Redmond, WA; source_url=https://www.microsoft.com/; status_at_pub=active; status_current=active
+
+
+## Summary
+
+
 
 
 ## Top observations

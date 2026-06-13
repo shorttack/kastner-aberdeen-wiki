@@ -16,10 +16,10 @@ source_file: "maynews.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
+study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.75
-prescience_obs_count: 4
+prescience_mean: 0.33
+prescience_obs_count: 6
 ---
 
 # Volume 2, Number 1
@@ -32,9 +32,9 @@ _Published 1988, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- In 1998 and 1999, decisionmakers reported that the average cost to link two major applications within an enterprise ranged from $1 million to $4 million — and, in some circumstances, surpassed $10 million! `[ps=4]`
-- With optical equipment spending estimated to grow from $2.8 billion in 1999 to $17.9 billion in 2003, Aberdeen is closely tracking the transition to optical networking. `[ps=3]`
+- With optical equipment spending estimated to grow from $2.8 billion in 1999 to $17.9 billion in 2003, Aberdeen is closely tracking the transition to optical networking. `[ps=4]`
+- In 1998 and 1999, decisionmakers reported that the average cost to link two major applications within an enterprise ranged from $1 million to $4 million — and, in some circumstances, surpassed $10 million! `[ps=0]`
 - These advanced technologies are used to support the Extended Enterprise represented in Aberdeen’s EBA model (see Figure 1). `[ps=0]`
 - Capitalizing on these EAI features, companies are using EAI to satisfy some important requirements (see Figure 2). `[ps=0]`
-- **Figure 1: Enterprise Business Applications**
-- **Figure 2: The Need for Application Integration**
+- **Figure 1: Enterprise Business Applications** `[ps=-1]`
+- **Figure 2: The Need for Application Integration** `[ps=-1]`

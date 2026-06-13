@@ -16,9 +16,9 @@ source_file: "Aberdeen Preso for EMC Final - Storage.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: 0.0
-prescience_mean: 0.0
+study_prescience_enum: "not-applicable"
+prescience_max: -1.0
+prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
@@ -32,4 +32,4 @@ _Published 2005, author **Next Steps**, type **benchmark**._
 
 ## Top observations
 
-- ~~ Aberdeen ~~ ~~ Group ~~ ==> picture [604 x 115] intentionally omitted <== ==> picture [213 x 125] intentionally omitted <== EMC-Aberdeen Workshop ==> picture [169 x 103] intentionally omitted <== Accelerating the Process At Every step ==> picture [120 x 90] intentionally omitted <== Aberdeen Group Boston • Palo Alto • Ft. Collins ==> picture [720 x 50] intentionally omitted <== ~~ Aberdeen ~~ ~ `[ps=0]`
+- ~~ Aberdeen ~~ ~~ Group ~~ ==> picture [604 x 115] intentionally omitted <== ==> picture [213 x 125] intentionally omitted <== EMC-Aberdeen Workshop ==> picture [169 x 103] intentionally omitted <== Accelerating the Process At Every step ==> picture [120 x 90] intentionally omitted <== Aberdeen Group Boston • Palo Alto • Ft. Collins ==> picture [720 x 50] intentionally omitted <== ~~ Aberdeen ~~ ~ `[ps=-1]`

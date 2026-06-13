@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Largest aggregation of data and metadata in enterprise; limitations: performance at large size; query-only; data fiefdom resistance; daily refresh constraint; all major DB suppliers support
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - CIS and Data Knowledge are among fastest-growing segments of Enterprise Business Applications (EBA) market — [[study-1999pr~1-c5516b]]

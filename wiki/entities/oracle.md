@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Role: primary-vendor; At-study status: active; HQ: Redwood City, CA, USA; URL: http://www.oracle.com. Publicly traded (NYSE: ORCL); Oracle Corporation remains active as of 2026 and is one of the largest enterprise software companies globally. Headquarters relocated from Redwood City, CA to Austin, TX in 2020. Revenue in 1995 was approximately $3 billion.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Oracle Parallel Server cited as example of cluster software complexity; requires special versions and careful architecture — [[study-1996-sequent-38f0b1]]

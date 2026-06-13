@@ -3,7 +3,7 @@ title: "Oracle InterOffice (Pegasus)"
 slug: "oracle-interoffice"
 page_type: "technology"
 tags: ["type/technology", "category/enterprise-groupware", "era/1.0 (initial release, code-named Pegasus)"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "oracle-interoffice"
 category: "enterprise-groupware"

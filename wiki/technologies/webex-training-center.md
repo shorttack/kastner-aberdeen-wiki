@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Standalone Oracle document management product deconstructed into Oracle InterOffice's modular DM component. Discontinued as a standalone product. | Successor: Oracle InterOffice DM module
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Will become very important and closely watched — [[study-1992-tpc-benchmarks-vp-745fa1]]

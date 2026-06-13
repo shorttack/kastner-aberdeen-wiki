@@ -16,7 +16,7 @@ source_file: "Written__Computerworld ILM article.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
+study_prescience_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.0
 prescience_obs_count: 2

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Acquired Mellanox in 2020 for $7B making NVIDIA the owner of InfiniBand; now dominant AI/HPC networking vendor
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - NVIDIA acquired Mellanox for $7 billion in 2020 making NVIDIA the InfiniBand market owner — [[study-2002-does-intel-s-decision-not-to-manufactur-iniband-si-0bd64b]]

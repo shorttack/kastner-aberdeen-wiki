@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Established as production-ready OS in 1995; Solaris 9 (64-bit UltraSPARC) transition anticipated for 1996
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Sun fighting Microsoft on Windows NT in workgroup market while pursuing coexistence with Intel/Windows clients — [[study-1997-sun-workgroup-servers-balancing-competition-and-co-cc57b7]]

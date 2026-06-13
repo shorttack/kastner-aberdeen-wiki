@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > FRx Software suite for budgeting, planning, consolidations, and financial reporting; rebranded as Microsoft Business Solutions for Analytics-FRx and Analytics-Forecaster; later superseded by Microsoft Dynamics
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - key_production_workload — [[study-1997-commercial-risc-unix-1996-mvp-711569]]

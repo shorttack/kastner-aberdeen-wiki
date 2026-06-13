@@ -3,7 +3,7 @@ title: "Intel Itanium 2 Processor / Itanium Architecture"
 slug: "intel-itanium"
 page_type: "technology"
 tags: ["type/technology", "category/platform", "era/2001-2020"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "intel-itanium"
 category: "platform"

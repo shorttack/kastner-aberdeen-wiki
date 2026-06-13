@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > .........................................................72 Time Warner Cable — Improving Customer Service Levels With Automated Workforc
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - First successful demonstration on Time Warner Quantum system NYC — [[study-aberdeen-1996-omnibox-interactive-broadcasting-network]]

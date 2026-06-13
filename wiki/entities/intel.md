@@ -11,7 +11,7 @@ sector: "semiconductor / microprocessor"
 status: "operating"
 successor: "Compaq (1998) then HP (2002)"
 years_active: "1968-present"
-occurrence_count: 48
+occurrence_count: 50
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Digital Equipment Corporation (DEC)
 
 > Kastner retained Intel as a retainer client during the 2003-2006 period when he stepped aside from Aberdeen leadership; returned to Aberdeen in 2006 to drive SOA research.
+
+
+## Summary
+
+
 
 
 ## Top observations

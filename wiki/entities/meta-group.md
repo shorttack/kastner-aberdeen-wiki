@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Referenced in Perplexity research context as analyst firm that developed IT governance frameworks. Reused from cache.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 1:50 — [[study-aberdeen-training-day-1-522863]]

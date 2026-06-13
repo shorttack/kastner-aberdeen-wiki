@@ -11,7 +11,7 @@ sector: "online-information-services"
 status: "acquired"
 successor: "AOL (1998) -> partial assets to various"
 years_active: "1969-1998"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

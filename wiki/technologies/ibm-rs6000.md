@@ -11,7 +11,7 @@ vendor: "IBM"
 era: "1990-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active-as-power10"
-occurrence_count: 2
+occurrence_count: 3
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

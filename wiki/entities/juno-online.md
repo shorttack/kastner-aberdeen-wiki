@@ -11,7 +11,7 @@ sector: "internet-services"
 status: "acquired"
 successor: "United Online (merged 2001)"
 years_active: "unknown"
-occurrence_count: 0
+occurrence_count: 1
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -24,3 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Juno: 6 million free-email accounts using Portal for monetization and real-time billing — [[study-portal-software-infranet-real-time-billing-742af3]]

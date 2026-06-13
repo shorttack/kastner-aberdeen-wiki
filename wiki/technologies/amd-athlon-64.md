@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > AMD first desktop 64-bit CPU (Sep 2003, K8 microarchitecture); brought AMD64 ISA to consumer desktops ahead of Intel EM64T
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - The Aug 2003 PC Deals commentary kept recommending Athlon XP as the value play through August 2003 without anticipating the 64-bit transition. My current view: AMD was way early on 64-bit — OS support was years away. It was not a compelling buying factor at time of purchase and maybe even at end of product life for an August 2003 purchase. — [[study-dct-memoir-athlon-64-prescience-2003]]

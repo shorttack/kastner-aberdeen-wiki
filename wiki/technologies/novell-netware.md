@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Dominant workgroup network OS; RISC/Unix suppliers required to provide NetWare interoperability support
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - One of dominant NOSs that enterprises must integrate with Internet — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]

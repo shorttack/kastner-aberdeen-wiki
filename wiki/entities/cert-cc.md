@@ -3,7 +3,7 @@ title: "CERT Coordination Center"
 slug: "cert-cc"
 page_type: "entity"
 tags: ["type/entity", "entity-type/institution"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "cert-cc"
 entity_type: "institution"
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # CERT Coordination Center
 
 > Carnegie Mellon SEI; now CERT/CC; primary source of vulnerability data cited in study
+
+
+## Summary
+
+
 
 
 ## Top observations

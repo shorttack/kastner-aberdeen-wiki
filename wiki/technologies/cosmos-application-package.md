@@ -3,7 +3,7 @@ title: "Cosmos (Customer Accounting System / CAS)"
 slug: "cosmos-application-package"
 page_type: "technology"
 tags: ["type/technology", "category/application", "era/1965-1980s"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "cosmos-application-package"
 category: "application"

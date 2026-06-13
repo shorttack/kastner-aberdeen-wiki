@@ -13,8 +13,8 @@ lifecycle_at_study: "[DEFERRED]"
 lifecycle_current: "[DEFERRED]"
 occurrence_count: 54
 prescience_max: 5.0
-prescience_mean: 2.64
-prescience_obs_count: 421
+prescience_mean: 0.95
+prescience_obs_count: 496
 ---
 
 # Microsoft Windows
@@ -22,25 +22,30 @@ prescience_obs_count: 421
 > Derived from source text and entity context.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
-- 66% of organizations have at least five Unified Communications applications, and only 5% have just one `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- All Best-in-Class organizations measure their communications service availability, audio quality and capacity performance in real-time or on a daily basis `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- Figure 1 below shows that 66% of the respondents have at least five applications, and only 5% have just one. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- Aberdeen defines the Best-in-Class as no more than 20% of the respondents through the process, organization, knowledge and technology results reported. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- **----- Start of picture text -----**<br> 47%<br>IP Telephony 50%<br>50%<br>56%<br>Mobility 68%<br>71%<br>44%<br>IM & Presence 69%<br>75%<br>54%<br>Conferencing 80%<br>86%<br>0% 20% 40% 60% 80% 100%<br>Best-in-Class Average Laggards<br>**----- End of picture text -----**<br> `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- As shown in figure 3 above, a large proportion of the Best-in-Class have invested in the _collaborative_ applications of Web, Audio and Video Conferencing (86%), Instant Messaging and Presence (75%) and Mobility (71%). `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- As well, the Best-in-Class have made these investments in consistently larger measure than the average and substantially larger measure than the laggards: audio, video and web conferencing (60% more), Instant Messaging and Presence (70% more) and Mobility (27% more). `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- Yet, despite the evidence of extensive penetration of sophisticated applications throughout this market there is still plenty of growth available: 48% of respondents expect to implement technology solutions for Unified Communications within the next twelve months, and there are new capabilities emerging in virtually every category of Unified Communications applications. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- As shown in figure 4 below, the Best-in-Class top five components of their organizations’ strategy: unified vision, unified security and usage policies, unified location-based services, unified purchasing and unified service providers. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- **----- Start of picture text -----**<br> 33%<br>Service Provider 38%<br>46%<br>48%<br>Purchasing 68%<br>77%<br>48%<br>Location-based<br>57%<br>Services<br>77%<br>68%<br>Security & Usage<br>78%<br>Policies<br>94%<br>59%<br>Vision 89%<br>94%<br>0% 20% 40% 60% 80% 100%<br>Best-in-Class Average Laggards<br>**----- End of picture text -----**<br> `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- The Best-in-Class companies make decisions, and make them often, revisiting the enterprise communications strategy more often than average, and considerably more often than laggards. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- Unified Communications, for the Best-in-Class is a suite of productivity applications unified by vision, security and usage policies, location-based services, unified purchasing and unified service providers. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- More of the Best-in-Class have deployed _collaboration_ applications, more have updated their communications strategy in the past 12 months and more consider the five critical components to their strategy than average or laggards. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- Also, as shown in figure 5 below, more of the Best-in-Class also reported the same performance level or an increase in performance this period compared to last period in ROI, availability, audio quality and user satisfaction than industry average or laggards. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- **----- Start of picture text -----**<br> 50%<br>ROI 54%<br>62%<br>54%<br>Audio Quality 64%<br>77%<br>52%<br>Availability 72%<br>86%<br>53%<br>User Satisfaction 75%<br>86%<br>0% 20% 40% 60% 80% 100%<br>Best-in-Class Average Laggards<br>**----- End of picture text -----**<br> `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- Pilot programs are recommended for larger organizations where the design and implementation of a small scale initiative can be a powerful organizational learning platform. 62% of the Best-in-Class use a system of pilot programs to reduce technology risks. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
 - For the cost-conscious organization, capital costs often in the range of $500-$1000/user for modern communications functionality can be converted into a period cost of $40-$50/user/month through a hosted service from any number of service providers. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- Concern about managing disparate applications made management of _“Being able to track a person_ solutions a major obstacle for 43% of _throughout their entire time at work is_ respondents without strategies. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- 36% of the Best-in-Class look to open source software solutions to enable interoperability `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
-- s shown in figure 2, the adoption of Unified Communications solutions is primarily driven by needs for increase in employee productivity, improved collaboA ration within the organization, and better responsiveness to customer needs. `[ps=5]` — [[study-ba-uc-pb-3704-82afab]]
+- Best in Class companies need to review their endpoint data protection plans to ensure that their processes and technologies address not only the loss or theft of endpoints and removable media devices, but also the following: the inadvertent or intentional misappropriation of sensitive data by authorized employees, and unauthorized or improper access of sensitive data by outsiders, employees, and c `[ps=5]` — [[study-endpointdp-bg-3717-8ecfb0]]
+- Aberdeen’s Enterprise Mobile Adoption Report of October 2006 shows companies are planning for substantial growth in their mobile devices. (Figure 4) The trend highlights growing adoption from voice-only phones to more complex devices with data applications that require more support and security. `[ps=5]` — [[study-mobility-management-jb-3822-93c2b3]]
+- 94% of organizations expect to increase bandwidth, 6% expect it to stay the same, none expect bandwidth requirements to decline `[ps=5]` — [[study-ra-wan-pb-3854-d0b6ab]]
+- Converging voice & data is a key capability for 88% of Best-in-Class, 65% of Others `[ps=5]` — [[study-ra-wan-pb-3854-d0b6ab]]
+- So I bet it's {SD Memory Card] more than $25 for 128 megs, but then again, prices should have come down." (Boston male) `[ps=5]` — [[study-written-iha-full-report-draft-jul-28-075611]]
+- "Well, whatever it sells for, if it's $100, I'm sure I could get it for $60 or $70 on the Internet somewhere." (San Diego female) `[ps=5]` — [[study-written-iha-full-report-draft-jul-28-075611]]
+- Maybe I'd pay $30 for it." (Boston female) `[ps=5]` — [[study-written-iha-full-report-draft-jul-28-075611]]
+- "If I got the one gigabyte, which is more like what I need, I'd pay $19.95. [LAUGHTER] I'm serious. `[ps=5]` — [[study-written-iha-full-report-draft-jul-28-075611]]
+- "Not a great deal more because that's really not so unique. $25, tops." (Boston male) `[ps=5]` — [[study-written-iha-full-report-draft-jul-28-075611]]
+- The combined HP/Compaq will have one-third of its $87 billion in revenues in what HP calls “access devices,” which include desktop PCs, laptops and notebooks, and personal digital assistants (PDAs) such as iPaq and Jornada. `[ps=4]` — [[study-09010005-d36601]]
+- We estimate Compaq and HP lost over $300 million on PCs in calendar Q2 this year alone — the kind of red-ink bath that gets serious boardroom attention — even while losing market share. `[ps=4]` — [[study-09010005-d36601]]
+- A $550 iPaq PDA costs less to make than a $550 low-end PC, so it’s a more profitable sale. `[ps=4]` — [[study-2004-09010005-f58946]]
+- All Best-in-Class organizations measure their communications service availability, audio quality and capacity performance in real-time or on a daily basis `[ps=4]` — [[study-ba-uc-pb-3704-82afab]]
+- As well, the Best-in-Class have made these investments in consistently larger measure than the average and substantially larger measure than the laggards: audio, video and web conferencing (60% more), Instant Messaging and Presence (70% more) and Mobility (27% more). `[ps=4]` — [[study-ba-uc-pb-3704-82afab]]
+- s shown in figure 2, the adoption of Unified Communications solutions is primarily driven by needs for increase in employee productivity, improved collaboA ration within the organization, and better responsiveness to customer needs. `[ps=4]` — [[study-ba-uc-pb-3704-82afab]]
+- The Best-in-Class see security as a greater challenge for the information infrastructure of the entire organization and are developing enterprise-wide policies to address that business need. `[ps=4]` — [[study-ba-uc-pb-3704-82afab]]
+- Sixty-seven percent of the Best-in-Class organizations see security as the biggest challenge and an even higher proportion of the Best-in-Class (82%) are developing enterprise-wide security policies to address this issue. `[ps=4]` — [[study-ba-uc-pb-3704-82afab]]
+- Unified security policy is also a major component of 94% of the Best-in-Class Unified Communications strategy (figure 4). `[ps=4]` — [[study-ba-uc-pb-3704-82afab]]
+- Clearly, the industry average and laggards have recognized security as an important obstacle to the effective deployment of Unified Communications, but represent a greater opportunity for security education and technology adoption than the Best-in-Class. `[ps=4]` — [[study-ba-uc-pb-3704-82afab]]

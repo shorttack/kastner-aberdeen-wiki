@@ -16,10 +16,10 @@ source_file: "Written__DCT Oct. 4 hot topic.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: 5.0
-prescience_mean: 1.4
-prescience_obs_count: 5
+study_prescience_enum: "low"
+prescience_max: 4.0
+prescience_mean: 0.67
+prescience_obs_count: 6
 ---
 
 # ==> picture [450 x 121] intentionally omitted <==
@@ -32,9 +32,9 @@ _Published 2003, author **Russ Craig & Peter Kastner _AberdeenGroup is a leading
 
 ## Top observations
 
-- Video programming can be captured using an accessory priced at $260. `[ps=5]`
-- Panasonic and Sony are both expected to launch similar dedicated video players, but pricing is expected to be $300-$500 and up. `[ps=2]`
+- Panasonic and Sony are both expected to launch similar dedicated video players, but pricing is expected to be $300-$500 and up. `[ps=4]`
 - The truly startling thing is the price—$99 plus the SD memory card of choice. `[ps=0]`
+- Video programming can be captured using an accessory priced at $260. `[ps=0]`
 - Add the Cliè at $599 and a 1 Gig Memory Stick Pro at $500, and you end up paying $1,359. `[ps=0]`
 - The list price for the player is $499.99, with “Live Art” `[ps=0]`
-- pack at $69.99 each.
+- pack at $69.99 each. `[ps=0]`

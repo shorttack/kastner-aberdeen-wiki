@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > 13| |**Chapter Five**<br>**Supplier Abstracts**||||**17**| |AT&T Corporation, AT&T Wireless Group||||18| |Cingular Wireless||||21| |Next
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - AT&T Global Information Solutions branding (NCR under AT&T 1991-1996) — [[study-att-worldmark-wsj-ad-aberdeen-quote-1995-ec56fb]]

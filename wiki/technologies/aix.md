@@ -3,7 +3,7 @@ title: "AIX (Advanced Interactive eXecutive)"
 slug: "aix"
 page_type: "technology"
 tags: ["type/technology", "category/operating-system", "era/1986-present"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "aix"
 category: "operating-system"

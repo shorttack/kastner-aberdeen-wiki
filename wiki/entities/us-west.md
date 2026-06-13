@@ -11,7 +11,7 @@ sector: "Telecommunications / Internet Services"
 status: "acquired"
 successor: "Qwest (2000) -> CenturyLink -> Lumen"
 years_active: "1896-2000"
-occurrence_count: 0
+occurrence_count: 1
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

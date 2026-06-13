@@ -11,7 +11,7 @@ sector: "enterprise-software-security"
 status: "dissolved"
 successor: "Broadcom Inc. (November 2018); rebranded as CA Technologies then Broadcom Software"
 years_active: "1976-present"
-occurrence_count: 35
+occurrence_count: 36
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Computer Associates International (CA Inc.)
 
 > Competitor in both ESM and governance/compliance; CA listed in both Table 2 columns (Governance & Compliance and Enterprise Systems Management); HP-Mercury acquisition distances HP from CA and BMC. | Source: Broadcom acquired CA Technologies (formerly Computer Associates) for $18.9 billion in November 2018. https://investors.broadcom.com/news-releases/news-release-details/broadcom-acquire-ca-technologies-189-billion-cash
+
+
+## Summary
+
+
 
 
 ## Top observations

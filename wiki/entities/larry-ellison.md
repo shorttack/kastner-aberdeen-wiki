@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Oracle founder and CEO 1977–2014; Executive Chairman and CTO 2014–present; the archive's most-quoted technology executive; entity IDs: larry-ellison / larry-ellison (person)
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Presenting softer face to user community; less combative — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Mercury had a relationship with BEA; Kastner suggests HP drawing on that relationship for future acquisitions; BEA WebLogic mentioned in ESB/platform context. | Source: Oracle acquired BEA Systems for approximately $8.5 billion, completed January 2008. https://www.cbc.ca/news/science/oracle-completes-8-5b-takeover-of-bea-systems-1.724924
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - BEA EII revenue estimate: $25 million (2003 projected) — [[study-aberdeen-eii-2003-ea3f1a]]

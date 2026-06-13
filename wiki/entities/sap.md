@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Named as ERP vendor: IBM-Webify described as 'viable adjunct to enterprises that now define their processes using ERP systems such as those from SAP, Oracle, Infor, and Lawson.' Use existing entity ID. | Source: SAP SE remains a major publicly traded enterprise software company (NYSE: SAP).
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Mix of writes and reads — updating for transactions plus random reads — [[study-15-classification-key-applications-55b6be]]

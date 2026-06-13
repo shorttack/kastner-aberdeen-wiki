@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Point-to-point serial I/O replacing parallel PCI. x1 through x16 lane widths. PCIe x4 = 2000 MB/s aggregate; PCIe x16 graphics = ~8 GB/s vs AGP8x ~2 GB/s.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Intel shifting focus to PCI Express development as primary I/O strategy — [[study-2002-does-intel-s-decision-not-to-manufactur-iniband-si-0bd64b]]

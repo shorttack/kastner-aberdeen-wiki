@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > co-founder of Bluestreak and a former executive director of Massachusetts Institute of Technology’s Media Lab, is chief marketing officer. Jeff Barnes overse
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Of 129 functional drives purchased from resellers/eBay, only 12% were properly sanitized; rest yielded 675 Word docs, 566 PPTs, 5,000 credit-card numbers, 9,500 emails. — [[study-dell-ars-wp-2-72fd7f]]

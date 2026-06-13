@@ -11,7 +11,7 @@ sector: "computing / industrial / defense"
 status: "active"
 successor: "Bull / NEC (1991)"
 years_active: "1955-1991"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

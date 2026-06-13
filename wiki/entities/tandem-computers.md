@@ -11,7 +11,7 @@ sector: "fault-tolerant computing / hardware"
 status: "dissolved"
 successor: "Compaq (1997) -> HP (2002) -> HPE NonStop (2015-present)"
 years_active: "1974-1997"
-occurrence_count: 28
+occurrence_count: 31
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Tandem Computers Incorporated
 
 > role_in_study=platform-partner; status_notes=Tandem acquired by Compaq in 1997. Compaq subsequently acquired by HP in 2002.; hq_location=Cupertino, CA; source_url=https://en.wikipedia.org/wiki/Tandem_Computers; status_at_pub=active; status_current=acquired
+
+
+## Summary
+
+
 
 
 ## Top observations

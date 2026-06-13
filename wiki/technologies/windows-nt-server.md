@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Primary benchmark analyzed in study; transaction processing successor to Debit/Credit; measures TPS-A with terminal connectivity; retired in 2001 replaced by TPC-C and TPC-E
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 36.5 K$/TPS-A — [[study-1992-tpc-benchmarks-vp-745fa1]]

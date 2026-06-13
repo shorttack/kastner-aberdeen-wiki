@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > $10B+ annual industry 2002; consumer-hostile breakage-dependent model
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Only 40% of consumers submit rebates they are entitled to, 40% submit the rebate and successfully get a check, and 20% have problems — [[study-cuna-win-rebate-runaround-2004-9da530]]

@@ -16,10 +16,10 @@ source_file: "1q06_tresury_cashmngt_jp.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "medium"
+prescience_max: 3.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # ==> picture [441 x 95] intentionally omitted <==
@@ -32,5 +32,5 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- First in the series is a primary benchmark study to determine the current and recommended steps to improve future performance of firms at three levels of maturity: best-in-class, average and lagging.
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- First in the series is a primary benchmark study to determine the current and recommended steps to improve future performance of firms at three levels of maturity: best-in-class, average and lagging. `[ps=3]`
+- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

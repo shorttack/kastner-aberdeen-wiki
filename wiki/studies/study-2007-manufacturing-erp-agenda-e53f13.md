@@ -16,10 +16,10 @@ source_file: "2007_manufacturing_erp_agenda.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "low"
+prescience_max: 0.0
+prescience_mean: -0.5
+prescience_obs_count: 2
 ---
 
 # ==> picture [222 x 36] intentionally omitted <==
@@ -32,5 +32,5 @@ _Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- _**Outcome:**_ This study will identify how best-in-class companies are responding to the challenges of globalization, increased customer demand and open technologies, and make recommendations on how all companies can best prepare for the future.
-- This study analyzes ==> picture [222 x 36] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- _**Outcome:**_ This study will identify how best-in-class companies are responding to the challenges of globalization, increased customer demand and open technologies, and make recommendations on how all companies can best prepare for the future. `[ps=0]`
+- This study analyzes ==> picture [222 x 36] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > ationally branded retailers of consumer electronics such as Best Buy offer numerous categories, and as a result, often carry ver
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Challenged by new S&C provider competition — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]

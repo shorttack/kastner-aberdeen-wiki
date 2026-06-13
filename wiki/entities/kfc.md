@@ -11,7 +11,7 @@ sector: "food service / quick service restaurants"
 status: "active"
 successor: ""
 years_active: ""
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

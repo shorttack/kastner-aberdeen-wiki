@@ -23,7 +23,7 @@ phase5:
 	python3 scripts/build/05_compute_embeddings_v1.py --wiki .
 
 phase6:
-	python3 scripts/build/06_emit_scaffolding_v1.py --wiki .
+	python3 scripts/build/06_emit_scaffolding_v2.py --wiki .
 
 verify:
 	python3 scripts/verify.py --wiki .

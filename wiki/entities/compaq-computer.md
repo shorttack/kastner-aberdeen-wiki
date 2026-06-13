@@ -11,7 +11,7 @@ sector: "information-technology"
 status: "[DEFERRED]"
 successor: "Hewlett-Packard (2002, $25B)"
 years_active: "1911-present"
-occurrence_count: 10
+occurrence_count: 11
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Compaq Computer Corporation
 
 > Canadian media theorist; quoted for 'the media is the message'; died 1980; referenced to frame WebEx's media-rich communications value proposition
+
+
+## Summary
+
+
 
 
 ## Top observations

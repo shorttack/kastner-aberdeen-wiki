@@ -11,7 +11,7 @@ sector: "enterprise-software"
 status: "dissolved"
 successor: "Computer Associates (acquired 1994 for $311M)"
 years_active: "1972-1994"
-occurrence_count: 0
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

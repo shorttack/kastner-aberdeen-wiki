@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Document-stated sub-$500 value positioning; successor chain Gateway->Acer known from industry history.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - $686 avg (range $400-$910); 5 SKUs; 2 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]

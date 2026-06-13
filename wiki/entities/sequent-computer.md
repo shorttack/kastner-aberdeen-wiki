@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > |T3plus Networking, Inc.|Robbins, Charlie|Profile|| |Mar-93|Sequent Computer Systems, Inc.|Kernochan, Wayne|Profile|| |Mar-93|Oracle Cooperative
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - $100K-$150K primary sales range — [[study-1991-encore-and-metadata-47f414]]

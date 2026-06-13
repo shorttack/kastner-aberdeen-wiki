@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > High-performance existing storage tier; high duty-cycle OLTP; used by >50% of enterprises as primary storage; high cost per GB
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - In large FC-based disk array environments (>30 TB) saving more than $100000 off a $500000 deal still very significant even if percentage savings less dramatic — [[study-04-mid-line-storage-v2-whitepaper-7db9bc]]

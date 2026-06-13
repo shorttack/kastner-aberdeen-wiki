@@ -3,7 +3,7 @@ title: "AMD’s Gigahertz Equivalency: Confused Customers Accept Bad Science"
 slug: "study-written-amd-profile01-677733"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
-tier: 1
+tier: 2
 source_csv: "_master_studies.csv"
 study_id: "written-amd-profile01-677733"
 author: "Aberdeen Group"
@@ -16,9 +16,9 @@ source_file: "Written__AMD Profile01.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: 5.0
-prescience_mean: 5.0
+study_prescience_enum: "low"
+prescience_max: 0.0
+prescience_mean: 0.0
 prescience_obs_count: 1
 ---
 
@@ -32,4 +32,4 @@ _Published 2000, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- This study analyzes AMD’s Gigahertz Equivalency: Confused Customers Accept Bad Science using Aberdeen Group research material and prepared extraction artifacts. `[ps=5]`
+- This study analyzes AMD’s Gigahertz Equivalency: Confused Customers Accept Bad Science using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]`

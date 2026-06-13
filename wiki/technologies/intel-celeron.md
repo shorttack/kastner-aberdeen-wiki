@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Intel budget desktop/laptop CPU brand; direct competitor to AMD Sempron; long-running brand through Pentium Gold/Silver era
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Avoid Celeron-class or 233 MHz Pentium II inventory close-outs — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]

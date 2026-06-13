@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Emerging as de-facto technology standard for integrating SOA infrastructure; 60% of large company respondents using/planning shared messaging; three-phase evolution: message bus → service bus → process bus.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - ESB cited as the mid-2000s enterprise integration backbone for reuse, governance, and operational management of services — [[study-aberdeen-ra-soa-middleware-2007-68f39b]]

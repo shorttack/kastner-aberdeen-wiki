@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Kastner argued by 2000 that SOA was the decade's defining architectural shift, comparable to client-server in the 1990s. Standards (SOAP, WSDL, UDDI) were immature. REST APIs eventually displaced heavyweight SOAP-based SOA. Kastner completed nine SOA studies in nine months before departing Aberdeen in mid-2007.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Will constitute majority of development by turn of decade (~2010) — [[study-enterprise-integration-perspective-2-cb6165]]

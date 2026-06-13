@@ -3,7 +3,7 @@ title: "Hewlett-Packard Company"
 slug: "hp-hewlett-packard"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "hp-hewlett-packard"
 entity_type: "company"

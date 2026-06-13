@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Referenced in weekly PC Deals commentary 2002-12-22
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - OfficeMax has the Verbatim DVD+RW/R and CD-RW drive for $200, about $100 less than the going price for DVD writers. — [[study-dct-weekly-2002-12-22]]

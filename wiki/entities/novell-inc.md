@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > NOS technology and market-share leader; NetWare and IntranetWare.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Novell is still technology and market-share NOS leader; not a dead company; NetWare 5 expected summer 1998 — [[study-nospra~1-bd7d6a]]

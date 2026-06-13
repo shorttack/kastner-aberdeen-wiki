@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > High-performance spinning disk; one of three disk technology types in interview taxonomy (SCSI / FC / ATA).
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Q13: SCSI / FC / ATA percentage breakout with drive sizes and rotational speeds — [[study-aberdeen-group-disk-storage-usage-questi-c8ffe9]]

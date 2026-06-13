@@ -3,7 +3,7 @@ title: "IBM Mainframe (zSeries predecessors)"
 slug: "mainframe"
 page_type: "technology"
 tags: ["type/technology", "category/mainframe computing", "era/1960s-present"]
-tier: 2
+tier: 1
 source_csv: "_master_technologies.csv"
 tech_id: "mainframe"
 category: "mainframe computing"
@@ -11,7 +11,7 @@ vendor: "multiple"
 era: "1960s-present"
 lifecycle_at_study: "declining"
 lifecycle_current: "legacy-supported"
-occurrence_count: 3
+occurrence_count: 5
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -22,8 +22,18 @@ prescience_obs_count: 0
 > Kastner argues mainframe fell not because minicomputer engineering was better but because economics inverted and glass-house culture could not adapt.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
+- Mainframes will be around for a long, long time because of installed software — [[study-cnbc-technology-edge-ibm-dec-hp-transitions-d4f84c]]
+- [DEFERRED] — [[study-cnbc-technology-edge-ibm-dec-hp-transitions-d4f84c]]
+- Mainframes aren't going away — role shifts to managing large-scale data networks — [[study-software-2000-it-paradigm-shift-client-server-9e9445]]
+- Mainframes will remain in production indefinitely managing large-scale data networks — [[study-software-2000-it-paradigm-shift-client-server-9e9445]]
+- [DEFERRED] — [[study-software-2000-it-paradigm-shift-client-server-9e9445]]
 - EDS and IBM bid on $200M statewide Florida human services application; RFP required specific terminal response times on average. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
 - IBM delivered a box of computer paper with 525 performance simulation runs and nothing else. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
 - Found critical data point in 525-run IBM simulation; testified IBM’s own performance estimator showed the system would have 20–30 second average response times. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]

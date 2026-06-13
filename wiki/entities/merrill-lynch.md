@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > role_in_study=case-study-user; status_notes=Acquired by Bank of America 2009; hq_country=US; acquired_by=Bank of America; acquisition_year=2009
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 -  — [[study-aberdeen-1995-limd-technology]]

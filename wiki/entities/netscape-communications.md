@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Competitor discussed. Report noted IBM understood HA technologies but had not unified HA across four hardware platforms or pursued end-to-end beyond custom Global Services projects.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 73 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]

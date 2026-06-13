@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 63
 prescience_max: 5.0
-prescience_mean: 2.92
-prescience_obs_count: 278
+prescience_mean: 1.01
+prescience_obs_count: 404
 ---
 
 # Supply Chain Management (SCM)
@@ -22,25 +22,30 @@ prescience_obs_count: 278
 > External-facing extension of ERP enabling automation with suppliers; extended ERP concept
 
 
+## Summary
+
+
+
+
 ## Top observations
 
-- Specifically, 60% of enterprises using e-sourcing have been unable to fully implement the savings negotiated online. `[ps=5]` — [[study-bvr-spendcompmgmt-121704b-e31821]]
+- Best-in-class enterprises are leveraging real-time process and equipment condition information and diagnostics to detect and predict failures. `[ps=5]` — [[study-1q06-asset-20management-e1ca0f]]
+- The merchandising infrastructure of the 21st century is enabled by best-in-class applications that combine predictive forecasting and advanced analytics. `[ps=5]` — [[study-abra-market-to-order-retail-090204-5ba5a7]]
 - In fact, in the typical e-sourcing program 20% to 25% of savings negotiated online remains unrealized. `[ps=5]` — [[study-bvr-spendcompmgmt-121704b-e31821]]
-- Two recent Aberdeen studies of e-sourcing users indicate that more than 80% of Global 1000 corporations have adopted on-line sourcing tools, with most employing both Internet-based reverse auctions and request for quote/proposal (“eRFx”) technologies. `[ps=5]` — [[study-bvr-spendcompmgmt-121704b-e31821]]
-- Not surprisingly, initial investments in e-sourcing were primarily motivated by the potential to identify and negotiate cost reductions (see Figure 2). `[ps=5]` — [[study-bvr-spendcompmgmt-121704b-e31821]]
-- Consider this example: a large transportation company Aberdeen worked with was an aggressive user of online negotiation tools, negotiating nearly $300 million in supply savings over the course of three years. `[ps=5]` — [[study-bvr-spendcompmgmt-121704b-e31821]]
-- In fact, a recent Aberdeen examination of e-sourcing initiatives and plans at 125 enterprises found 60% of e- sourcing users unable to fully implement savings negotiated online. `[ps=5]` — [[study-bvr-spendcompmgmt-121704b-e31821]]
-- In fact, in the typical e-sourcing program, 20% to 25% of savings negotiated online remains unrealized. `[ps=5]` — [[study-bvr-spendcompmgmt-121704b-e31821]]
-- Theoretical GPRS networks can transmit data at rates of up to 171 Kbps, yet projections on the actual speeds of live GPRS networks are estimated at 14 Kbps to 28 Kbps — less than 20% of the theoretical speeds eagerly anticipated 12 months ago. `[ps=5]` — [[study-eurowiress-13e05b]]
-- Companies typically implement only 70% to 80% of negotiated savings. `[ps=5]` — [[study-ma-procuri-cmsi-tm-642bb1]]
-- Best in Class enterprises carefully manage critical assets like intellectual property and supporting technologies. `[ps=5]` — [[study-ra-advancedsourcing-3857-9ede9d]]
-- Best in Class companies, on the other hand, understand the risk of non-managed PCs and they are doing something about it – now. `[ps=5]` — [[study-ra-final-endpointnac-bg-3723-84f1e0]]
-- Best in Class companies currently have either high or complete visibility of their endpoint compliance to security configuration and are also able to detect the endpoints malware infection state pre-admission, post-admission, or both. `[ps=5]` — [[study-ra-final-endpointnac-bg-3723-84f1e0]]
-- Our research unsurprisingly shows that over 75% of surveyed companies allow employee, contractor, partner, auditor, and guest connections to the network from nonmanaged PCs. `[ps=5]` — [[study-ra-final-endpointnac-bg-3723-84f1e0]]
-- **----- Start of picture text -----**<br> HR / Internal Policies 54% 27% 4% 6% 3 6%<br>Federal Government Data Privacy<br>53% 23% 11% 2 5% 6%<br>Directives<br>Sate / Local Data Privacy<br>54% 22% 11% 14% 8%<br>Directives<br>0% 25% 50% 75% 100%<br>% of All Respondents<br>Don't Know Less than $50K $50K - $250K $250K - $750K $750K - $1.5M More than $1.5M<br>**----- End of picture text -----**<br> `[ps=5]` — [[study-ra-final-endpointnac-bg-3723-84f1e0]]
-- Yet only 25% of respondents are currently using NAC technologies to intelligently segment dangerous machines, and address the risk of zero-day infections. `[ps=5]` — [[study-ra-final-endpointnac-bg-3723-84f1e0]]
-- When asked to qualify the actual cost of a non-compliance event (Figure 2), a surprising number of respondents indicated that a compliance failure would cost millions. `[ps=5]` — [[study-ra-final-endpointnac-bg-3723-84f1e0]]
-- etwork access control requirements for most companies are driven primarily within IT security and operations departments (Figure 3) which makes sense beNcause these departments are directly responsible for the infrastructure and resources in question. `[ps=5]` — [[study-ra-final-endpointnac-bg-3723-84f1e0]]
-- **----- Start of picture text -----**<br> IT Security 90%<br>83%<br>76%<br>IT Operations<br>80%<br>33%<br>Compliance / Risk Management<br>37%<br>24%<br>Customer Support<br>25%<br>HR / Legal 33%<br>25%<br>29%<br>Engineering / R&D<br>25%<br>Finance 19%<br>17%<br>Marketing / Business Development 24%<br>17%<br>19%<br>Sales<br>16% Best in Class<br>5%<br>Production / Manufacturing 10% All Respondents<br `[ps=5]` — [[study-ra-final-endpointnac-bg-3723-84f1e0]]
-- While greater than three-quarters of those responding indicated they have non-managed PCs connecting to their corporate LANs more frequently than once a week, by and large, those same companies have limited visibility into their endpoint security compliance states (Figure 4). `[ps=5]` — [[study-ra-final-endpointnac-bg-3723-84f1e0]]
-- When asked about the top drivers that influenced their decision to purchase or implement NAC solutions (Figure 5) respondents indicated that their top driver is to reduce the incidents of malware propagation (with 59%), followed by controlling network access for staff, partners, and contractors (with 53%). `[ps=5]` — [[study-ra-final-endpointnac-bg-3723-84f1e0]]
+- All told, aftermarket service and parts account for 20% to 30% of revenues and about 40% of profits for most manufacturers. `[ps=5]` — [[study-dtp-2005-research-agenda-012705a-8d9c59]]
+- These factors will make the initial uptake of GPRS extremely low, potentially less than 5% of current GSM subscribers in these territories. `[ps=5]` — [[study-eurowiress-13e05b]]
+- Currently more than 40% of DoCoMo’s subscribers use the i-mode system. `[ps=5]` — [[study-eurowiress-13e05b]]
+- Building on these findings, this report will focus on the increasing reliance best-in-class retailers place on analytics and business process management to better understand the dynamics of their mix of merchandise, locations, and customers. `[ps=5]` — [[study-q206-bisurvey-pr-9ea4ac]]
+- Although the technical basis for breaches and vulnerabilities must be part of the program, it is the actions that can be taken, including self-management, mitigation, ignoring risks, and transfer of risks to third parties that are a distinctive hallmark of today’s best-in-class security governance programs. `[ps=5]` — [[study-ra-governance-jh-1e6241]]
+- The benefits from outsourcing application development and maintenance map well to the chief drivers or pressures (Figure 3), which are reducing IT operating costs and the desire to have internal IT focus more heavily on strategic tasks. `[ps=5]` — [[study-written-outsourcing-application-development-and-maintenance-0877e6]]
+- 2. _Know where your IT organization excels ─ and where it doesn’t._ Most Industry Average and Best in Class enterprises retain the most strategic functions associated with application development and maintenance, such as project management, business process optimization, and systems architecture. `[ps=5]` — [[study-written-outsourcing-application-development-and-maintenance-0877e6]]
+- Best-in-class companies are also extending Lean processes beyond manufacturing across both their internal and external supply chains, achieving even more dramatic results. `[ps=4]` — [[study-1q06-leanbenchmarkslick-8e7b1e]]
+- ||**4Q05**|| |---|---|---| |Agile IT Benchmark||This study correlates business performance results against agile IT| |||planning, delivery, and operational procedures, to provide insight into| |||why flexible IT is “best in class” for some firms, simply average for| |||others, and downright laggards for some. `[ps=4]` — [[study-2005-ee-aberdeen-research-calendar-082405-2b2250]]
+- Retention of talent is always an issue,| ||especially when 85% of employees report a likelihood of jumping ship| ||when the economy improves.| |Strategy for IT Change:|This study examines what laggards and leaders are doing to maximize| |Outsource, Renovate, Purchase,|near-term results on IT spending. `[ps=4]` — [[study-2005-ee-aberdeen-research-calendar-082405-2b2250]]
+- All told,| ||aftermarket service and parts account for 20% to 30% of revenues and| ||about 40% of profits for most manufacturers. `[ps=4]` — [[study-2005-ee-aberdeen-research-calendar-082405-2b2250]]
+- Although changes to manual A/P processes has been| ||slow across the board, a number of best-in-class firms are making| ||invoice reconciliation and payment a strategic component of their| ||financial and procurement strategies. `[ps=4]` — [[study-2005-ee-aberdeen-research-calendar-082405-2b2250]]
+- ||**1Q05**|| |---|---|---| |Closed Loop Corporate||This study will explore the strategies of best in class enterprises| |Performance Management||focused on how they drive continuous improvement and success| |Strategies:|The Key to Continuous|<br>through a closed-loop process of planning, objective setting, metric| |Success||determination, execution, and monitoring and analysis. `[ps=4]` — [[study-2005-ee-aberdeen-research-calendar-082405-2b2250]]
+- ||**2Q05**|| |---|---|---| |Best Practices in Sales &||Best practices case studies will profile best-in-class companies that are| |Operations Planning||effectively leveraging S&OP for strong performance improvement and| |||competitive advantage. `[ps=4]` — [[study-2005-ee-aberdeen-research-calendar-082405-2b2250]]
+- This research will highlight how best-in-class companies are| ||reconsidering traditional product strategies, managing emerging| ||‘manufacturing networks’, and how manufacturing leaders can help| ||drive inevitable change.| |Warehousing: Optimizing|Warehouse operations are caught between two seemingly conflicting| |Productivity and Flexibility|requirements: driving greater throughput while handli `[ps=4]` — [[study-2005-ee-aberdeen-research-calendar-082405-2b2250]]
+- Having achieved cost-cutting and productivity goals, best-in-class service organizations can dramatically impact company revenues with growth-oriented strategies, processes, and personnel. `[ps=4]` — [[study-2005-ee-aberdeen-research-calendar-082405-2b2250]]
+- The merchandising infrastructure of the 21st century is enabled by best-in-class applications that combine predictive forecasting and advanced analytics. `[ps=4]` — [[study-aberdeenmto-retailresearchagenda-9b596e]]

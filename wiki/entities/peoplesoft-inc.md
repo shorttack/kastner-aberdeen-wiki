@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > ERP vendor that acquired Vantive in 1999 to enter CRM market; acquired by Oracle for $10.3B in 2004
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Oracle completed hostile acquisition of PeopleSoft for $10.3B in January 2005 — [[study-1997-industry-matematik-international-co-c398bc]]

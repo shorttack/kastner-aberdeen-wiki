@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Canadian-headquartered telecom-equipment manufacturer; Kastner designed US-subsidiary order-entry on IBM 370/158 CICS+TOTAL.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Nortel filed for bankruptcy January 2009; patents sold — [[study-1998-communicating-business-intelligence-through-comput-0290b1]]

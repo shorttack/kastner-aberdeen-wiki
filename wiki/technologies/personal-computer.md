@@ -11,7 +11,7 @@ vendor: "industry"
 era: "1980s-present"
 lifecycle_at_study: "mainstream-peak-Christmas-1994"
 lifecycle_current: "matured"
-occurrence_count: 0
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -24,3 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- almost all PCs and laptops made in the region — [[study-cnbc-sars-electronics-supply-chain-impact-92deff]]
+- RBC cut PC and notebook demand projections citing health crisis — [[study-cnbc-sars-electronics-supply-chain-impact-92deff]]
+- 115 million PCs assembled in Asia, many in China — [[study-cnbc-sars-electronics-supply-chain-impact-92deff]]

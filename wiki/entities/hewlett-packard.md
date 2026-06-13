@@ -11,7 +11,7 @@ sector: "Consumer Electronics / IT Hardware"
 status: "active (split: HP Inc. / HPE 2015)"
 successor: "HP Inc. (consumer/PC) and Hewlett Packard Enterprise (enterprise), split November 2015"
 years_active: "1939-present"
-occurrence_count: 115
+occurrence_count: 116
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Hewlett-Packard Company (Post-Merger)
 
 > Named as conspicuously absent from vertical SOA competitive landscape: 'Missing from this competitive playing field to date is HP, which has had outstanding vertical process models on the shelf for three years and now, with the new SOA infrastructure from the Mercury Interactive acquisition, is in a better position to enter the next-generation application space than ever before.' Use existing entity ID. | Source: HP Inc. and Hewlett Packard Enterprise both active after 2015 split. Original HP active as multiple successor entities.
+
+
+## Summary
+
+
 
 
 ## Top observations

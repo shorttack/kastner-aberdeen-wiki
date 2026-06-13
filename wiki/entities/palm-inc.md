@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > 2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f, Pioneer PDA maker; IPO 2000; acquired by HP 2010 for $1.2B; HP discontinued Palm 2011; trademark sold to TCL 2014
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - High brand awareness and market share but leadership not guaranteed — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]

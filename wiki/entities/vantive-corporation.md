@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > | ||Update Marketing, Inc.|||||183| ||UpShot.com|||||185| ||The Vantive Corporation|||||187|    Aberdeen _Group_ v   Aberdeen _Group_   ## **Ma
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Vantive acquired by PeopleSoft for $433M October 1999 — [[study-1998-cis-report-customer-interaction-software-631068]]

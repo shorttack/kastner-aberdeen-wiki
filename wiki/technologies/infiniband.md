@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > High-speed low-latency data center I/O interconnect; became standard in HPC and AI training clusters; owned by NVIDIA since 2020
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Intel cancelled plans to supply silicon for InfiniBand interface adapters — [[study-2002-does-intel-s-decision-not-to-manufactur-iniband-si-0bd64b]]

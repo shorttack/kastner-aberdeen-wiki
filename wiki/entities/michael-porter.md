@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Harvard Business School professor; cited for 'Strategy and the Internet' (HBR March 2001) arguing that best-of-breed applications cannot deliver durable competitive advantage.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Porter: inability to sustain a durable competitive advantage from a software application over time; point solutions addressed New Economy 'fear of being left behind' — a fear that proved unrealized. — [[study-oracle-middleware-fragment-5-d3d774]]

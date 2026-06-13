@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Aberdeen Group Vice President; author of this Executive Viewpoint. Confirmed in HP Professional Jan 1997 as 'Vice President of Aberdeen Group Inc.'
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Aberdeen helps clients understand why Microsoft's desktop orientation is not transferable to enterprise IS; intended to help executives build consensus on where/where not to use Microsoft beyond desktop — [[study-1997-microsoft--the-joker-of-enterprise--158636]]

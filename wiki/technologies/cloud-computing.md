@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > A significant analytical miss for Kastner: he understood compute commoditization but did not anticipate infrastructure migrating to shared utility services rather than enterprise-owned commodity hardware.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Big hype trend; Salesforce.com as leading example — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]

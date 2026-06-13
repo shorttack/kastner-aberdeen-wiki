@@ -3,7 +3,7 @@ title: "Oracle Office (pre-InterOffice)"
 slug: "oracle-office"
 page_type: "technology"
 tags: ["type/technology", "category/high-availability hardware/software", "era/pre-InterOffice"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "oracle-office"
 category: "high-availability hardware/software"

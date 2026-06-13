@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Dell's key storage partner; Dell|EMC CX family co-developed. Dell acquired EMC for $67B in 2016 — the largest tech acquisition in history. Confirmed per prescience context.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Centera reported at application level to be one-third the performance of conventional RAID-based architecture by enterprise interviewees; indexing features reported missing — [[study-05-idc-sata-report-0872b8]]

@@ -11,7 +11,7 @@ vendor: "Multiple (Oracle, Sybase, Informix, SQL Server)"
 era: "1970s-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Relational databases remain the dominant data storage paradigm. MySQL, PostgreSQL, Oracle DB, SQL Server all actively developed and widely deployed.', 'source': 'General knowledge / industry consensus'}"
-occurrence_count: 25
+occurrence_count: 27
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Relational Database Management System (RDBMS)
 
 > Kastner’s personal mission 1985–1995: championing RDBMS that could handle both OLTP and query/reporting. Aberdeen predicted relational model would dominate universally.
+
+
+## Summary
+
+
 
 
 ## Top observations

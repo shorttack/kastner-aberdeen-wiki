@@ -3,7 +3,7 @@ title: "Oracle Rdb"
 slug: "oracle-rdb"
 page_type: "technology"
 tags: ["type/technology", "category/database-software", "era/1984-present"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "oracle-rdb"
 category: "database-software"

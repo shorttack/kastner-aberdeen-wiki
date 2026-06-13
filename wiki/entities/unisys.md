@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Technology services and solutions company; Unisys Way, Blue Bell PA; 3D Visible Enterprise approach | Source: Unisys Corporation remains active as a publicly traded IT services company (NYSE: UIS). https://www.unisys.com
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Unisys ES7000 set new SAP standard on Windows/Intel platform — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

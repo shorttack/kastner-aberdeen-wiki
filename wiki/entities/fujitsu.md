@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > aq Computer Corporation|44| |Dell Computer Corporation|46| |Fujitsu Limited|48| |Groupe Bull|50| |Hewlett-Packard Company|52| |Hitachi,
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - $3999 — [[study-dct-fujitsu-notebook-lineup-2002]]

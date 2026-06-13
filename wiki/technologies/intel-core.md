@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > First Intel Mac silicon
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - ~175M desktop microprocessors in 2013 — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]

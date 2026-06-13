@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Stratus co-founder and President; ex-Data General VP Software, ex-HP Computer Systems Engineering Manager
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - We have tripled the high end of our computer performance and reduced the cost per transaction by half — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]

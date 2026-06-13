@@ -16,10 +16,10 @@ source_file: "1q05-dtp-best_practices_telecom012705a.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "medium"
+prescience_max: 3.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # ==> picture [441 x 108] intentionally omitted <==
@@ -32,5 +32,5 @@ _Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- However, a number of best-in-class firms are making telecommunications category management a strategic initiative and being rewarded with impressive results.
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- However, a number of best-in-class firms are making telecommunications category management a strategic initiative and being rewarded with impressive results. `[ps=3]`
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

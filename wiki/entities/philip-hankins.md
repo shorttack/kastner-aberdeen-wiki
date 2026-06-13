@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > PHI founder; quoted by Kenney refuting Wang's account that 'a large number' left after the merger. | Source: Referenced in Aberdeen archive context; current status not publicly verifiable
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Hankins recalls only one major player left after about a year, and he himself left after about a year and a half — disputing An Wang's 'Lessons' claim that 'a large number' departed — [[study-phi-legacy-in-wang-labs-runaway-horse-1995-b8e001]]

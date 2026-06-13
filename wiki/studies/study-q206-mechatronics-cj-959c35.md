@@ -16,10 +16,10 @@ source_file: "q206_mechatronics_cj.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "low"
+prescience_max: 0.0
+prescience_mean: -0.5
+prescience_obs_count: 2
 ---
 
 # ==> picture [441 x 108] intentionally omitted <==
@@ -32,5 +32,5 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- This study will analyze different approaches to mechatronic product development – including cross-domain collaboration and synchronized design data management – to identify best in class organizations and their best practices.
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study will analyze different approaches to mechatronic product development – including cross-domain collaboration and synchronized design data management – to identify best in class organizations and their best practices. `[ps=0]`
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

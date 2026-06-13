@@ -16,10 +16,10 @@ source_file: "fulfillment%202005%20research%20agenda%20122704a.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "low"
+prescience_max: 3.0
+prescience_mean: 0.6
+prescience_obs_count: 5
 ---
 
 # Supply Chain Research
@@ -32,8 +32,8 @@ _Published 2020, author **Research Agenda**, type **benchmark**._
 
 ## Top observations
 
-- This study will explore the strategies of best in class enterprises focused on how they drive continuous improvement and success through a closed-loop process of planning, objective setting, metric determination, execution, and monitoring and analysis.
-- Best practices case studies will profile best-in-class companies and how their transportation strategies, processes and technologies are delivering superior customer service while holding down transportation costs.
-- The research will examine the linkage between product development, manufacturing, fulfillment, and sales and marketing to discover how best in class companies are succeeding.
-- Best practices case studies will profile best-in-class companies that are effectively leveraging S&OP for strong performance improvement and competitive advantage.
-- This research will build from the Benchmark research in Q2 2004, "Leveraging S&OP for Competitive Advantage," which defines the CPM Best in Class characteristics and corporate priorities.
+- Best practices case studies will profile best-in-class companies that are effectively leveraging S&OP for strong performance improvement and competitive advantage. `[ps=3]`
+- This study will explore the strategies of best in class enterprises focused on how they drive continuous improvement and success through a closed-loop process of planning, objective setting, metric determination, execution, and monitoring and analysis. `[ps=0]`
+- Best practices case studies will profile best-in-class companies and how their transportation strategies, processes and technologies are delivering superior customer service while holding down transportation costs. `[ps=0]`
+- The research will examine the linkage between product development, manufacturing, fulfillment, and sales and marketing to discover how best in class companies are succeeding. `[ps=0]`
+- This research will build from the Benchmark research in Q2 2004, "Leveraging S&OP for Competitive Advantage," which defines the CPM Best in Class characteristics and corporate priorities. `[ps=0]`

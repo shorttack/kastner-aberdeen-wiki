@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Former Aberdeen retail analyst; co-founder & Managing Partner, RSR Research; recognized top retail technology analyst 2014-2018+ (verified 2026-04 via rsrresearch.com)
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Paula Rosenblum, Aberdeen Group retail analyst, March 2006 — [[study-aberdeen-retail-bi-benchmark-survey-2006-aa440e]]

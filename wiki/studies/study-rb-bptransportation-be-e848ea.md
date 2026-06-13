@@ -17,8 +17,8 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: 5.0
-prescience_mean: 3.0
+prescience_max: 4.0
+prescience_mean: 1.33
 prescience_obs_count: 3
 ---
 
@@ -32,6 +32,6 @@ _Published 2005, author **Research Brief**, type **benchmark**._
 
 ## Top observations
 
-- **Carrier Collaboration:** Best-in-class companies are implementing “carrier friendly” programs to become lower-cost customers for carriers to serve. `[ps=5]`
-- **360-Degree Scorecarding:** Whereas transportation management leaders continue to push the scorecarding envelope, a shocking 50% of laggards say they have no plans to use any type of system (homegrown or commercial) for even basic carrier **Complete Findings** scorecarding. `[ps=4]`
+- **Carrier Collaboration:** Best-in-class companies are implementing “carrier friendly” programs to become lower-cost customers for carriers to serve. `[ps=4]`
 - These are some of the key findings from Aberdeen’s new _Best Practices in Transportation Management_ report. `[ps=0]`
+- **360-Degree Scorecarding:** Whereas transportation management leaders continue to push the scorecarding envelope, a shocking 50% of laggards say they have no plans to use any type of system (homegrown or commercial) for even basic carrier **Complete Findings** scorecarding. `[ps=0]`

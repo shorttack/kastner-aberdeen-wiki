@@ -3,7 +3,7 @@ title: "Russ Craig"
 slug: "russ-craig-aberdeen"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "russ-craig-aberdeen"
 entity_type: "person"

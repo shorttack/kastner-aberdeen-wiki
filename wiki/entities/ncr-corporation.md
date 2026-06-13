@@ -11,7 +11,7 @@ sector: "Enterprise IT Hardware/Data Warehousing"
 status: "active (split)"
 successor: "Spun out of AT&T 1996; later split NCR/NCR Voyix 2023"
 years_active: "1884-present"
-occurrence_count: 18
+occurrence_count: 20
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Andyne Computing Ltd.
 
 > Subject company; acquired by AT&T 1991; spun off 1996 as independent NCR; at time of study selling NT-based HATP servers; exited commodity server market post-2000; split into NCR Voyix (digital commerce) and NCR Atleos (ATM/banking) in 2023
+
+
+## Summary
+
+
 
 
 ## Top observations

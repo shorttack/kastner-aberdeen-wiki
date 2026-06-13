@@ -11,7 +11,7 @@ sector: "Enterprise IT Hardware/Software"
 status: "Acquired by Oracle"
 successor: "Harte-Hanks (2008); Spiceworks Ziff Davis (later)"
 years_active: "1911-present"
-occurrence_count: 63
+occurrence_count: 65
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Sun Microsystems Computer Corporation (SMCC)
 
 > Cited with trademark 'the network is the computer.' Kastner warns Sun: Cisco is angling to provide intelligent network services that have been run on conventional servers. Java development tool also cited. Use existing entity ID. | Source: Oracle acquired Sun Microsystems for $7.4 billion, completed January 2010. https://www.oracle.com/corporate/pressrelease/oracle-buys-sun-042009.html; https://en.wikipedia.org/wiki/Acquisition_of_Sun_Microsystems_by_Oracle_Corporation
+
+
+## Summary
+
+
 
 
 ## Top observations

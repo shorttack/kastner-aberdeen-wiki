@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Competitive reference; presentation argues current-generation AMD options lack 'well supported path' comparable to Intel/Dell transition.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Less real-world-tested — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]

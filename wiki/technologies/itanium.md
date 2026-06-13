@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > HP co-developed with Intel; commercial failure vs x86-64; last shipment 2021; key part of HP server strategy in 2002
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Both working with Intel Itanium — [[study-2001-hp-compaq-kastner-insight1-d6dc38]]

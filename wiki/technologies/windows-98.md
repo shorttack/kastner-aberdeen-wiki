@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Consumer OS on 50M+ aging corporate PCs; end of support January 16 2004; central subject of replacement argument
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 50,000,000+ Windows 98 / NT 4 PCs worldwide — [[study-dct-pc-replacement-insight1-2003-04]]

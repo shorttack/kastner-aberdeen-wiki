@@ -16,10 +16,10 @@ source_file: "FDIC, Washington CS 1995.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
+study_prescience_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 3.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # ==> picture [390 x 293] intentionally omitted <==
@@ -33,5 +33,5 @@ _Published 1995, author **Aberdeen Group**, type **market-study**._
 ## Top observations
 
 - NT Backoffice is a $500 million (US) business `[ps=4]`
+- Just rejected $4 bilion IBM offer. `[ps=3]`
 - Midrange is the fastest growing market segment $25K-$1M US `[ps=2]`
-- Just rejected $4 bilion IBM offer.

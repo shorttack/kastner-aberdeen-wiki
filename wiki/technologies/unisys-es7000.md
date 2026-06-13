@@ -3,7 +3,7 @@ title: "Unisys ES7000 Database Server"
 slug: "unisys-es7000"
 page_type: "technology"
 tags: ["type/technology", "category/hardware", "era/early 2000s"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "unisys-es7000"
 category: "hardware"

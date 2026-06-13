@@ -16,10 +16,10 @@ source_file: "1q06-ff_bp_retail_transportation_081905a.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "medium"
+prescience_max: 3.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # ==> picture [441 x 108] intentionally omitted <==
@@ -32,5 +32,5 @@ _Published 2006, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- This companion Best Practices report will look in-depth at the success strategies and supporting technologies of best-in-class retailers, using a case study format.
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This companion Best Practices report will look in-depth at the success strategies and supporting technologies of best-in-class retailers, using a case study format. `[ps=3]`
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

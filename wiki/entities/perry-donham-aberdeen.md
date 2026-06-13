@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Aberdeen Director, Enterprise Applications Research Mar 2007-Jan 2008; authored SOA Middleware, Modernizing Legacy, SOA/Web Services Testing; current Boston University CAS/CS Lecturer (verified 2026-04 via BU faculty CV)
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Author: Perry Donham, Director, Enterprise Integration Research (perry.donham@aberdeen.com) — [[study-aberdeen-ra-modernizing-legacy-2007-52a27a]]

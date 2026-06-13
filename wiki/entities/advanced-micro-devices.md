@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > ck, not to mention application dependencies.  Nevertheless, Advanced Micro Devices (AMD) last year deliberately took a step down a slippery slope of
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Using clock-speed GHz equivalency ratings pegged to Intel Pentium 4 — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > 307 West Tasman Drive, San Jose CA 95134; (408) 435-7000; www.WebEx.com; clear leader in high-end Web conferencing April 2002; 5,000+ customers; acquired by Cisco 2007 for ~$3.2B.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Market leader in data-rich online business meetings — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]

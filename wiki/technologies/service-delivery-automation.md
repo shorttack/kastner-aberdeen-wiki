@@ -12,9 +12,9 @@ era: "2000-2005"
 lifecycle_at_study: "differentiator"
 lifecycle_current: "[DEFERRED]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Service Delivery Automation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Ability to execute internally — [[study-08011974-195886]]
+- Ability to execute internally `[ps=0]` — [[study-08011974-195886]]

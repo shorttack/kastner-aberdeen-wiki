@@ -3,7 +3,7 @@ title: "==> picture [441 x 95] intentionally omitted <=="
 slug: "study-q406-endpointnac-66d658"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "q406-endpointnac-66d658"
 author: "Research Preview"
@@ -16,10 +16,10 @@ source_file: "q406_endpointnac.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "medium"
+prescience_max: 4.0
+prescience_mean: 2.5
+prescience_obs_count: 4
 ---
 
 # ==> picture [441 x 95] intentionally omitted <==
@@ -32,7 +32,7 @@ _Published 2006, author **Research Preview**, type **benchmark**._
 
 ## Top observations
 
-- Aberdeen Group will explore the successful methods, in terms of process and technology, used by best in class organizations to address the challenges of endpoint security and mitigate the risks of potential threats.
-- This report will reveal how best-in-class companies leverage endpoint security solutions to address internal security threats, increase policy compliance, improve user knowledge of policies, and increase productivity.
-- Key findings of this report will provide insights into:
-- The technologies and processes that are being used by best in class organizations
+- This report will reveal how best-in-class companies leverage endpoint security solutions to address internal security threats, increase policy compliance, improve user knowledge of policies, and increase productivity. `[ps=4]`
+- Aberdeen Group will explore the successful methods, in terms of process and technology, used by best in class organizations to address the challenges of endpoint security and mitigate the risks of potential threats. `[ps=3]`
+- The technologies and processes that are being used by best in class organizations `[ps=3]`
+- Key findings of this report will provide insights into: `[ps=0]`

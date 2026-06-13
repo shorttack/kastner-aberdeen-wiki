@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Core retainer service rebranded and launched Aug 2001; master price list effective Sept 1, 2001
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Five workshops defined for AAS launch package: Go-to-Market; Market Knowledge; Market Positioning; Messaging Strategy; Go-to-Market Readiness — [[study-aas-launch-package-aug-2001-b4a001]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > based applications. Mary Ellen, known as Mel, had worked at marine Midland bank with cosmos and notably was the first woman to graduate fro
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Kastner designed bond-portfolio analysis changes allowing 30-year bonds traded in 1970 — early Y2K-precursor — [[study-phi-psd-brochure-and-kastner-engagements-1969-1972-b8d001]]

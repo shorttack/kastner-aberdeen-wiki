@@ -16,10 +16,10 @@ source_file: "snapshots%20market%20visibility%20collateral.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "low"
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Market Visibility
@@ -32,4 +32,4 @@ _Published 2005, author **Market Visibility**, type **market-study**._
 
 ## Top observations
 
-- This study analyzes Market Visibility using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes Market Visibility using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]`

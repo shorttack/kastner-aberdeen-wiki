@@ -16,10 +16,10 @@ source_file: "aberdeenmascollateral.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "low"
+prescience_max: 0.0
+prescience_mean: -0.5
+prescience_obs_count: 2
 ---
 
 # ==> picture [34 x 716] intentionally omitted <==
@@ -32,5 +32,5 @@ _Published 2005, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- _**Key Findings:**_ Covering the major dynamics in the industry today and the unseen, future trends that are likely to develop over the next 12–48 months.
-- This study analyzes ==> picture [34 x 716] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- _**Key Findings:**_ Covering the major dynamics in the industry today and the unseen, future trends that are likely to develop over the next 12–48 months. `[ps=0]`
+- This study analyzes ==> picture [34 x 716] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

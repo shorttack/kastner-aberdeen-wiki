@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > IBM-branded version of Stratus FT200; OEM deal enabled Stratus marketing message 'The Technology IBM Chose.'
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Questioned how long IBM will maintain its relationship with Stratus if Stratus continues to compete with 3090 mainframes — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]

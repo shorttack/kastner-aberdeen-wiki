@@ -11,7 +11,7 @@ vendor: "Object Management Group"
 era: "1991-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
-occurrence_count: 13
+occurrence_count: 14
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # CORBA (Common Object Request Broker Architecture)
 
 > OMG standard for distributed object communication; Aberdeen reports Oracle and BroadVision promoting CORBA for enterprise internet commerce; InterWorld's Oasis neutral between CORBA and DCOM; CORBA largely superseded by REST, SOAP, and API-based integration by 2010.
+
+
+## Summary
+
+
 
 
 ## Top observations

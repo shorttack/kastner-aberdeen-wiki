@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > EC cited as example of deliberate move away from Microsoft
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Deliberate moves away from Microsoft in first and second world (e.g., EC) — [[study-kastner-letter-to-craig-barrett-intel-2008-1ea221]]

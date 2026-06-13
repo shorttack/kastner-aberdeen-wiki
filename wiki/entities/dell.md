@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Underwriter of this white paper; offers Asset Recovery Services (ARS) for desktops, notebooks, servers, storage, networking, monitors, printers, projectors, peripherals.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Dell named as key winner — [[study-2001-hp-compaq-kastner-insight1-d6dc38]]

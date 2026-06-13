@@ -11,7 +11,7 @@ sector: "Enterprise Computing"
 status: "acquired"
 successor: "Aberdeen Group (Harte-Hanks)"
 years_active: "1947-present"
-occurrence_count: 4
+occurrence_count: 5
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # ICL (International Computers Limited)
 
 > Referenced as the provider of the NT base platform. HP's NT HA story depended on improving upon Microsoft's base platform.
+
+
+## Summary
+
+
 
 
 ## Top observations

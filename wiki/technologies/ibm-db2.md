@@ -11,7 +11,7 @@ vendor: "IBM Corporation"
 era: "1983-present"
 lifecycle_at_study: "industry-standard"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'IBM Db2 (rebranded from DB2) is an actively supported, commercial database product. Db2 for z/OS and Db2 for Linux/Unix/Windows both actively supported through 2027+ with extended support options.', 'source': 'https://www.ibm.com/support/pages/db2-distributed-end-support-eos-dates'}"
-occurrence_count: 9
+occurrence_count: 11
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # IBM DB2 / Db2
 
 > description=IBM relational database management system; referenced as a snapshot source in the Intelligent Snapshot feature.; lifecycle_note=IBM Db2 remains an active product; modernized with cloud and containerized deployments.; successor_technology=IBM Db2 (cloud editions)
+
+
+## Summary
+
+
 
 
 ## Top observations
@@ -40,7 +45,7 @@ prescience_obs_count: 0
 - IBM machines perform 3x faster than DEC measurements — [[study-debit-credit-ibm-dec-1988-2-2fc147]]
 - 265 TPS — [[study-debit-credit-ibm-dec-1988-2-2fc147]]
 - DEC test on virtually identical IBM model yielded substantially poorer results; additional fuel to benchmarketing wars — [[study-debit-credit-ibm-dec-1988-2-2fc147]]
+- Kastner: IBM DB2 for TP still maturing; many customers still on IMS/CICS-VSAM — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
 -  — [[study-ibmtpc92-c32789]]
 - Largest overall DBMS supplier (hard to tell revenues; bundled) — [[study-jungle-1-5-675c58]]
 - New-found competitiveness in DB2: parallel/scalable PQS and SP2; triggers/stored procs; strong proprietary replication — [[study-jungle-1-5-675c58]]
-- Competitive but not leading on SMP; only compatible SMP and MPP story except AT&T — [[study-jungle-6-7af8b7]]

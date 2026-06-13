@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Lotus Notes cited as primary groupware competitor. Acquired by IBM (1995); evolved through IBM Lotus Notes to HCL Notes (2019). HCL Notes still actively used in enterprises as of 2026. | Successor: HCL Notes / HCL Domino
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Over 2000 public and private customer organizations; over 20000 Lotus Notes databases hosted — [[study-1997-the-business-value-of-applications-hosting-e92e09]]

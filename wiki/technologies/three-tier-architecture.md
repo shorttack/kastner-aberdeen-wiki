@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > New architectural pattern requiring CADE support; Centura Application Server targeted at 3-tier development.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Decision-support implementations grow 3-5x every 18 months; three-tier architecture required to avoid scalability/performance problems — [[study-aberdeen-1996-iq-software-www-reporting]]

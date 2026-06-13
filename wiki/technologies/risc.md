@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Aberdeen’s open-systems transition call included the RISC-to-x86 shift as part of the proprietary-to-commodity trajectory.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 -  — [[study-dectp92-0ca51c]]

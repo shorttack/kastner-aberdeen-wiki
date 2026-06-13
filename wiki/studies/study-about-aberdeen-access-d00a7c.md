@@ -16,10 +16,10 @@ source_file: "about_aberdeen_access.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "low"
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # ==> picture [648 x 134] intentionally omitted <==
@@ -32,6 +32,6 @@ _Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- **M** embership dues for **Aberdeen** _**Access**_ are a modest $399, making the program available to executives, managers, and change leaders alike.
-- **Save** $150 during this _Grand Opening_ period, ending October 15[th] .
-- ESPECIALLY FOR CHANGE LEADERS WHAT YOU GET HOW TO JOIN **T** he **Aberdeen** _**Access**_ program gives you all **I** n addition to the benefits mentioned above, Membership dues For **Aberdeen** _**Access**_ are a the frameworks and data for turning insights **Aberdeen** _**Access**_ members are offered tools modest $399, making the program available to into plans that will help your company that 
+- **M** embership dues for **Aberdeen** _**Access**_ are a modest $399, making the program available to executives, managers, and change leaders alike. `[ps=0]`
+- **Save** $150 during this _Grand Opening_ period, ending October 15[th] . `[ps=0]`
+- ESPECIALLY FOR CHANGE LEADERS WHAT YOU GET HOW TO JOIN **T** he **Aberdeen** _**Access**_ program gives you all **I** n addition to the benefits mentioned above, Membership dues For **Aberdeen** _**Access**_ are a the frameworks and data for turning insights **Aberdeen** _**Access**_ members are offered tools modest $399, making the program available to into plans that will help your company that  `[ps=0]`

@@ -11,7 +11,7 @@ sector: "Consumer Electronics"
 status: "active"
 successor: "Sony Group Corporation (renamed 2021)"
 years_active: "1946-present"
-occurrence_count: 34
+occurrence_count: 35
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -22,11 +22,17 @@ prescience_obs_count: 0
 > Announced all Playstation manufacturing to move to PRC; postponed Taiwan procurement conference citing Iraq war
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Consumer-focused Palm OS licensee with multimedia differentiation — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
 - Threatened by S&C provider hardware distribution — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
 - All moving to PRC — [[study-2003-sars-electronics-supply-chain-ec0375]]
+- named by anchor (with Kastner concurrence) as potentially affected — [[study-cnbc-sars-electronics-supply-chain-impact-92deff]]
 - $1175 avg (range $900-$1469); 7 SKUs; 3 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
 - $1150 avg (range $750-$1550); 8 SKUs; 6 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
 - $1115 avg (range $776-$1650); 7 SKUs; 4 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
@@ -43,4 +49,3 @@ prescience_obs_count: 0
 - $1085 avg (range $750-$1760); 7 SKUs; 4 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
 - DCT early-2003 prediction: optical-disc capacity crosses 20 GB in 2003 with format-war start. — [[study-dct-memoir-ramp-vs-dct-prescience-2026]]
 - Sony BDZ-S77 shipped Japan 2003-04-10 at 25 GB. — [[study-dct-memoir-ramp-vs-dct-prescience-2026]]
-- DCT 2003 prediction: Japanese CE incumbents (Sony, Panasonic, Sanyo) pressured by the PC-derived consumer product curve. — [[study-dct-memoir-ramp-vs-dct-prescience-2026]]

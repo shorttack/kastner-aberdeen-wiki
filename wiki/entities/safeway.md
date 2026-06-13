@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Plaintiff/party in major antitrust and breach-of-contract dispute centered on data-warehousing technology; one of the largest North American supermarket chains.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 40-node Teradata system; grown from original 28 nodes (1997) to 34 (2000) to 40 (2002) — [[study-safeway-damages-report-draft-b502f4]]

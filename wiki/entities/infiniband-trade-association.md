@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > working I/O.  This new standard led to the formation of the InfiniBand Trade Association (IBTA).  Currently, the steering committee for the IBTA is compose
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - 2.5 Gbps to 10 Gbps today; expected to reach up to 30 Gbps as it evolves — [[study-infiniband-and-beyond-computerworld-supp-200261]]

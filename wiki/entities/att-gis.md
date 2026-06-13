@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > AT&T acquired NCR in 1991, renamed to AT&T GIS; spun off and reverted to NCR name in 1996
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - secondary_competitor_with_3600 — [[study-aberdeen-1995-rdbms-cray-research-inc]]

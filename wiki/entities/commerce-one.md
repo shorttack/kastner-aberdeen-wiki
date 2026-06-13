@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Founded 1994 as DistriVision; renamed 1997; IPO July 1999; market cap $21.5B at dot-com peak; filed bankruptcy October 2004; acquired by Perfect Commerce 2006
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Commerce One filed for bankruptcy October 2004; acquired by Perfect Commerce 2006; failed to sustain despite IPO success — [[study-1998-internet-procurement-cdc4a6]]

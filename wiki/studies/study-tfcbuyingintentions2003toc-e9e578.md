@@ -16,10 +16,10 @@ source_file: "tfcbuyingintentions2003toc.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "low"
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Technology Forecasting Consortium
@@ -32,4 +32,4 @@ _Published 2003, author **Aberdeen Group**, type **topic-analysis**._
 
 ## Top observations
 
-- This study analyzes Technology Forecasting Consortium using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes Technology Forecasting Consortium using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]`

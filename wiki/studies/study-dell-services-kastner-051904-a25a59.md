@@ -3,7 +3,7 @@ title: "~~Aberdeen~~ ~~Group~~"
 slug: "study-dell-services-kastner-051904-a25a59"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 1
+tier: 2
 source_csv: "_master_studies.csv"
 study_id: "dell-services-kastner-051904-a25a59"
 author: "Aberdeen Group"
@@ -17,8 +17,8 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: 4.0
-prescience_mean: 4.0
+prescience_max: -1.0
+prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
@@ -32,4 +32,4 @@ _Published 2004, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- ~~ Aberdeen ~~ ~~ Group ~~ ==> picture [604 x 115] intentionally omitted <== ==> picture [213 x 125] intentionally omitted <== Dell Services Discussion Materials 5/19/2004 Peter Kastner Executive VP - Research ==> picture [169 x 103] intentionally omitted <== ==> picture [120 x 90] intentionally omitted <== Aberdeen Group Boston • Palo Alto • Ft. Collins ==> picture [720 x 50] intentionally omitte `[ps=4]`
+- ~~ Aberdeen ~~ ~~ Group ~~ ==> picture [604 x 115] intentionally omitted <== ==> picture [213 x 125] intentionally omitted <== Dell Services Discussion Materials 5/19/2004 Peter Kastner Executive VP - Research ==> picture [169 x 103] intentionally omitted <== ==> picture [120 x 90] intentionally omitted <== Aberdeen Group Boston • Palo Alto • Ft. Collins ==> picture [720 x 50] intentionally omitte `[ps=-1]`

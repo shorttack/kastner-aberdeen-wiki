@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Boston-area Ajax/Java enterprise RIA platform vendor
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Nexaweb Enterprise Web 2.0 Starter Kit launched at $17,500 including the EW2.0 Platform, Eclipse-based IDE, and unlimited deployment via Apache XAP. — [[study-nexaweb-announces-starter-kit-nexaweb-abe281]]

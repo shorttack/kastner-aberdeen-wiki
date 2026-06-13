@@ -3,7 +3,7 @@ title: "Object Database Management System (ODBMS)"
 slug: "odbms"
 page_type: "technology"
 tags: ["type/technology", "category/application", "era/1990s-present"]
-tier: 2
+tier: 1
 source_csv: "_master_technologies.csv"
 tech_id: "odbms"
 category: "application"
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Object Database Management System (ODBMS)
 
 > <$200M 1997 revenues; stores objects not just rows/columns; strong in telecom and finance verticals; assimilated into mainstream primarily through ORDBMSs
+
+
+## Summary
+
+
 
 
 ## Top observations

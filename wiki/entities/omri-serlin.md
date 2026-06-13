@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Respected OLTP analyst who had long advocated for an independent benchmark standards body; co-founded TPC with DEC's backing after Kastner's dinner meeting in Los Altos, CA.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - TP1/ET1 measurements are 'at best ambiguous and always the subject of intense controversy' — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]

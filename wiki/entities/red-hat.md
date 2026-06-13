@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Not named in document but the direct long-term successor to Linuxcare's enterprise Linux services model; IBM acquired Red Hat for $34B in 2019 validating the market thesis.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Preferred distributors identified; Red Hat and SUSE expected to lead — [[study-2000-linux-multi-client-study-29e6cf]]

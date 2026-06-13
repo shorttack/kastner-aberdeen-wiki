@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > status_detail=Progress Software Corporation (Nasdaq: PRGS) remains actively traded.; hq_location=Bedford, Massachusetts, USA; description=Technology company that acquired DataDirect Technologies in 2003.; status_source_url=https://www.progress.com
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Internet development tool merging proven Progress CADE with TP-monitor-like web middleware — [[study-aberdeen-1996-progress-software-webspeed-internet]]

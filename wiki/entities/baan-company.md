@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > 5% ERP market share; founded 1978; dual HQ Putten Netherlands and Reston VA (moved from Menlo Park CA); 2,800 systems in 4,800 sites; manufacturing focus
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - BAAN IV classified as 'Dynamic-ERP'; competitors classified as 'Static-ERP' — [[study-aberdeen-1996-baan-changes-rules-erp-game]]

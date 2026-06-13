@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Shift to TCP/IP as universal communications protocol on Web and all networks and between all devices; key factor propelling EC adoption
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - LAN-WAN integration; private IP networks; TCP/IP-SNA integration; network outsourcing alternatives — [[study-1998-network-integration-services-report-f75108]]

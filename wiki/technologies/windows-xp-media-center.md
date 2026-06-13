@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Consumer-focused Windows XP variant optimized for living-room PCs with TV tuners and media playback; folded into Windows Vista/7 Home Premium
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Profile 4 XL 'great platform for Windows XP Media Center' — [[study-dct-kastner-wish-list-2002-12]]

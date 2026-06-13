@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Founded 1976 by Charles B. Wang; third-largest independent software company by 1997; revenues $4B+ with Unicenter at ~$1B run rate. Renamed CA Inc. (2006) then CA Technologies (2010). Acquired by Broadcom Inc. for $18.9B in 2018.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - $1 billion annual run rate (industry-leading) — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]

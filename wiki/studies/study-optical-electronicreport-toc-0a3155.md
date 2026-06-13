@@ -16,10 +16,10 @@ source_file: "optical_electronicreport-toc.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+study_prescience_enum: "low"
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Moving at Light Speed: The Transition to Optical Networks
@@ -32,4 +32,4 @@ _Published 1999, author **Aberdeen Group**, type **topic-analysis**._
 
 ## Top observations
 
-- This study analyzes Moving at Light Speed: The Transition to Optical Networks using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes Moving at Light Speed: The Transition to Optical Networks using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]`

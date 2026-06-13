@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > description=Microsoft RAD tool mentioned as a front-end application development option for ORB-based architectures. ObjectBroker 2.5 supports a Visual Basic DLL IDL binding.; lifecycle_notes=Visual Basic evolved into VB.NET (introduced 2002 with .NET Framework). Classic VB 6.0 development ended; VB.NET remains supported but is niche relative to C#.; related_entity_id=MICROSOFT
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Visual Basic lacks team-development, high-level design, and application-modeling features that Designer/2000 provides — [[study-1997-oracle-designer-2000-3201a7]]

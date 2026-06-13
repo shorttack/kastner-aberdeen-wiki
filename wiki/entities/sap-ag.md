@@ -11,7 +11,7 @@ sector: "enterprise-resource-planning"
 status: "active (renamed SAP SE)"
 successor: "SAP SE (2014 rebranding)"
 years_active: "1972-present"
-occurrence_count: 25
+occurrence_count: 27
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # SAP AG (later SAP SE)
 
 > Founded 1972 by five former IBM employees; SAP AG became SAP SE in 2014 | status_note=Converted to SAP SE on 7 July 2014; hq_location=Walldorf, Germany; as_of_study_date=1995
+
+
+## Summary
+
+
 
 
 ## Top observations

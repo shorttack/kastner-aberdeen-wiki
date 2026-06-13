@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > ATA drives used in Dell|EMC AX100 (up to 3 TB SATA); midline/nearline storage at lower cost than FC. SAS/SATA mixed backplanes became universal in enterprise servers.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - ATA for fixed content and nearline pools; lower cost — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]

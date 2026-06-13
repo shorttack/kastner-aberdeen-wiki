@@ -11,7 +11,7 @@ vendor: "Sybase"
 era: "1987-2015"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
-occurrence_count: 1
+occurrence_count: 3
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

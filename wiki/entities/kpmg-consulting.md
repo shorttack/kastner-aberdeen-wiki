@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > esearch and consulting roles. Most recently, she worked for KPMG Consulting, focusing on e-Business strategy, business planning, and ma
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Big Four consulting firm with CRM practice embedded in broader technology consulting — [[study-1999-crm-professional-services-rpt-96bf13]]

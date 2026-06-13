@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Acquired by HP; Mercury's SOA infrastructure cited as what positions HP well for next-gen application space. Already referenced in hp-mercury-soa-2006-pdf-80785e. | Source: HP acquired Mercury Interactive for $4.5 billion in November 2006. https://www.nytimes.com/2006/07/26/technology/hp-to-pay-45-billion-to-acquire-mercury.html
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Cross-platform testing strategy with Unix and Windows support; WinRunner product — [[study-aberdeen-1996-sqa-suite-50-automated-testing]]

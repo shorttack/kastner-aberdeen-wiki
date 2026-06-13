@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Aberdeen predicted enterprise dominance by 2005; rebranded Windows Mobile 2003; dropped for Windows Phone 2010; completely obsolete
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Pocket PC will eclipse Palm OS as leading handheld platform by 2005 — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

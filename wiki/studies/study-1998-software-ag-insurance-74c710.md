@@ -3,7 +3,7 @@ title: "U.S. Insurance Industry Overview"
 slug: "study-1998-software-ag-insurance-74c710"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 1
+tier: 2
 source_csv: "_master_studies.csv"
 study_id: "1998-software-ag-insurance-74c710"
 author: "Data Warehouse"
@@ -16,9 +16,9 @@ source_file: "1998 Software AG insurance.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
-prescience_max: 4.0
-prescience_mean: 2.0
+study_prescience_enum: "low"
+prescience_max: 3.0
+prescience_mean: 1.5
 prescience_obs_count: 2
 ---
 
@@ -32,5 +32,5 @@ _Published 1998, author **Data Warehouse**, type **market-study**._
 
 ## Top observations
 
-- New application projects typically involve $10 million to $200 million in costs (IT only part). `[ps=4]`
+- New application projects typically involve $10 million to $200 million in costs (IT only part). `[ps=3]`
 - This study analyzes U.S. Insurance Industry Overview using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]`

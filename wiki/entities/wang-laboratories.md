@@ -11,7 +11,7 @@ sector: "minicomputer-and-word-processing"
 status: "bankrupt-1992"
 successor: "Getronics (acquired assets 1999)"
 years_active: "[DEFERRED]"
-occurrence_count: 11
+occurrence_count: 12
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Wang Laboratories (Wang Global)
 
 > ng Action Technologies, AT&T, Burroughs, Staffware plc, and Wang Laboratories.   Chris is a well-known author and speaker, and has contri
+
+
+## Summary
+
+
 
 
 ## Top observations

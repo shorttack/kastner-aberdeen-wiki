@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Report analyzes outsourcing as cost management strategy; warns it may mask problems rather than solve them; J.P. Morgan Chase/IBM cited as cautionary example; cultural conflict noted as barrier (33%)
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - professional_services_pull_through — [[study-1997-commercial-risc-unix-1996-mvp-711569]]

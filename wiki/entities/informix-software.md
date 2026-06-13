@@ -11,7 +11,7 @@ sector: "Enterprise Computing"
 status: "[DEFERRED]"
 successor: "Siemens-Nixdorf"
 years_active: "1984-present"
-occurrence_count: 5
+occurrence_count: 7
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > rformance|Gruener, James|Executive White<br>Paper|| |Oct-97|Informix Software -- MetaCube 4.0: Relational OLAP and RDBMS Create an Integr
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - i2 merged with JDA Software 2010; JDA rebranded Blue Yonder 2020; Panasonic acquired 2021 — [[study-1997-industry-matematik-international-co-c398bc]]
@@ -30,3 +35,17 @@ prescience_obs_count: 0
 - Informix acquired by IBM 2001 — [[study-aberdeen-dors-buying-guide-1996-web-5ee808]]
 - 1-800-688-IFMX ext 18 — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
 - challenging Oracle and Sybase — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- Informix #4 in revenue among the big four RDBMS vendors — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- Informix 15.3% — best of the four — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- Informix +25% — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- Informix = Aerostar van — practical, profitable, room to grow — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- Informix stock to reach $44/share — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- [DEFERRED] — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- Informix will deliver parallel DB via Dynamic Scalable Architecture (DSA) — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- [DEFERRED] — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- Informix will catch up to Sybase Replication Server by late 1994 — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- [DEFERRED] — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- Informix 4GL++ will deliver object-oriented development tools — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- [DEFERRED] — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
+- Phil White: 1994 DSA shared-nothing/shared-everything parallelism -> 1996 Universal Server with typed extensions — [[study-informix-universal-server-launch-object-relational-fb2cd4]]
+- Shipped to 20-30 customers Sept 30 1996; general availability today (Dec 1996); 'twelve to eighteen months ahead of anybody in the industry' — [[study-informix-universal-server-launch-object-relational-fb2cd4]]

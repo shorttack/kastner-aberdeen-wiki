@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > **   Partners include Alcatel, AT&T Broadband, Check Point, Cisco Systems, Enterasys Networks, Everdream, Hewlett Packard, In
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Led with DPX/2 — [[study-1992-tpc-benchmarks-vp-745fa1]]

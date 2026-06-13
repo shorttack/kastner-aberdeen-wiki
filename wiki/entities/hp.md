@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Subject of the analyst call; divisions: PSG (Personal Computing Group), IPG (Imaging and Printing Group), ESG (Enterprise Systems Group), Services. [REVIEW]
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Elitebook-8540p;Elitebook-8440p;Compaq-Elite-8100 — [[study-2010-intel-vpro-daily-globe-6f615e]]

@@ -3,7 +3,7 @@ title: "Aberdeen Transaction Services"
 slug: "aberdeen-transaction-services"
 page_type: "entity"
 tags: ["type/entity", "entity-type/institution"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "aberdeen-transaction-services"
 entity_type: "institution"

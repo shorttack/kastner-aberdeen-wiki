@@ -11,7 +11,7 @@ sector: "computing-industry"
 status: "active"
 successor: "[DEFERRED]"
 years_active: "1968-present"
-occurrence_count: 26
+occurrence_count: 27
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Intel Corporation
 
 > AI hardware arc: Gaudi AI accelerator (2019) and Falcon Shores (2025); zero pre-2010 AI product claims in archive; enables AI rather than building it
+
+
+## Summary
+
+
 
 
 ## Top observations

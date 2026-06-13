@@ -3,7 +3,7 @@ title: "Mirror Image Internet, Inc."
 slug: "mirror-image-internet"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "mirror-image-internet"
 entity_type: "company"

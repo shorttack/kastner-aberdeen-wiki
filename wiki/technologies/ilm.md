@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Central business concept: data moves through lifecycle stages; Pools of Storage framed as the economic best-practice implementation of ILM; ILM later became core enterprise data management concept
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - If ILM is 'getting control over storage' then Pools of Storage is the economic and flexibility 'best approach' — [[study-03-contract-pools-of-storage-phase2-a47fd3]]

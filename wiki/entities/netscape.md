@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > America Online acquired Netscape for $4B in 1998; Netscape Navigator was dominant browser before Internet Explorer took over
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Publicly declared intent to port all server-based applications to AS/400e — [[study-1997-the-new-as-400e-series-aa9cac]]

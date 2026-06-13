@@ -11,7 +11,7 @@ sector: "electronic-commerce"
 status: "acquired"
 successor: "GXS (spun off 2004); OpenText (acquired 2014)"
 years_active: "1960s-2000s"
-occurrence_count: 2
+occurrence_count: 3
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # GE Information Services (GEIS)
 
 > 2000 service professionals dedicated to E-commerce; only IBM claims more; EDI stalwart for nearly 30 years; dominant EC player for almost three decades; global knowledge of local requirements; 40000+ largest customers; 42 countries
+
+
+## Summary
+
+
 
 
 ## Top observations

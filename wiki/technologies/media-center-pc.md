@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Microsoft Windows XP Media Center Edition / Vista/7 Media Center; living-room PC for TV, DVR, music; displaced by streaming services and smart TVs
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Simply trade in a 300MHz or faster Windows based desktop at the time of purchasing your new machine to cash in on the savings. — [[study-dct-weekly-2002-10-27]]

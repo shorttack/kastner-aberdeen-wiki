@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > description=Sybase (then Appeon) RAD development tool mentioned as a front-end option for building OLE-aware client applications against CORBA backends.; lifecycle_notes=PowerBuilder persists in niche enterprise markets under Appeon ownership (acquired from SAP in 2014); new development is minimal but legacy applications remain.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - PowerBuilder with S-Designor is a competing high-end development tool with application partitioning support — [[study-1997-oracle-designer-2000-3201a7]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Acquired MFS for ~$14B Aug 1996; filed largest US bankruptcy (then) July 2002 ($107B assets); emerged as MCI, acquired by Verizon 2006
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - WorldCom filed for bankruptcy July 2002 — the largest US bankruptcy at the time — following $11B accounting fraud — [[study-1998-network-integration-services-report-f75108]]

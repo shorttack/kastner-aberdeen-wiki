@@ -12,8 +12,8 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Web services (SOAP/REST/WSDL) remain active and foundational, though REST/JSON have largely superseded SOAP/XML in new development. Known answer applied.', 'source': 'known'}"
 occurrence_count: 5
-prescience_max: 0.0
-prescience_mean: 0.0
+prescience_max: -1.0
+prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
@@ -22,9 +22,14 @@ prescience_obs_count: 1
 > Central to SOA messaging; network traffic shifting to Web Services request messaging; Aberdeen benchmarking state of practice for Web Services-based network applications.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-entrustsnapshot-f78f15]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-entrustsnapshot-f78f15]]
 - 76% have implemented or plan web services calls to existing applications within 12 months — [[study-esb-in-soa-e002b7]]
 - 90% — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
 - ~50% — [[study-ibm-+-webify-=-industry-soa-application--97733a]]

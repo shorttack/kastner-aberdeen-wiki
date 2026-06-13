@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Cited for Beyond toolset (Workflow Manager) acquired via Banyan's acquisition of Beyond Inc.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Legacy NOS still in use at Fortune 1000 organizations — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]

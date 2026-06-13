@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Named competitor; positioned as 'Stratus Radio' in deck — likely a jab at its high price-point / niche status. Known for ftServer and continuous availability systems.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - >200 TPS-A — [[study-1992-tpc-benchmarks-vp-745fa1]]

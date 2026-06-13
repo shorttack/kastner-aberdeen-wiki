@@ -11,7 +11,7 @@ sector: "Semiconductors"
 status: "active"
 successor: "[DEFERRED]"
 years_active: "1984-present"
-occurrence_count: 0
+occurrence_count: 1
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -24,3 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- named (transcript 'Sirius Logic' — phonetic) as potentially affected — [[study-cnbc-sars-electronics-supply-chain-impact-92deff]]

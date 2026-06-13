@@ -11,7 +11,7 @@ sector: "nation-state"
 status: "active"
 successor: ""
 years_active: ""
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -25,3 +25,4 @@ prescience_obs_count: 0
 ## Top observations
 
 - 85%+ — [[study-2003-sars-electronics-supply-chain-ec0375]]
+- Chen Shui-bian publicly criticized PRC for holding back SARS information — [[study-cnbc-sars-electronics-supply-chain-impact-92deff]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > EAI platforms named as part of the integration technology market explosion across 2000-2006, alongside ETL tools, data quality software, MDM systems, and SOA infrastructure.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - New and distinct market in early stages of formation — [[study-1998-enterprise-application-integration-advanced-techno-71496c]]

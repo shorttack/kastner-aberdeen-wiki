@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Referenced as the business data-processing language whose structured data and file-management conventions PL/1 attempted to absorb alongside FORTRAN's scientific capabilities.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Primary Y2K-affected language; c.era explicitly supports COBOL remediation across MVS and AS/400 platforms — [[study-1997-viasoft-y2k-c2e540]]

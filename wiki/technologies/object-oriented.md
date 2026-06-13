@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Will revolutionize industry by end of 1990s; not market but method; OO databases from BKS Poet, Object Design, Objectivity, Ontos, Servio, Versant
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - many_apet_products_use_oo_design — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]

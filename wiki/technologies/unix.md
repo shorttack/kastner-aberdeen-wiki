@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "dominant-enterprise"
 lifecycle_current: "legacy-supported"
 occurrence_count: 20
-prescience_max: 2.0
-prescience_mean: 0.5
-prescience_obs_count: 4
+prescience_max: 4.0
+prescience_mean: 0.0
+prescience_obs_count: 5
 ---
 
 # Proprietary Unix (Solaris, AIX, HP-UX)
@@ -22,12 +22,18 @@ prescience_obs_count: 4
 > Open operating system that, combined with x86 economics, rendered Prime’s minicomputer architecture economically irrelevant by the late 1980s; specifically cited by Kastner: ‘Intel-based server running Unix’.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
-- HP just spent $350 million on StorageApps, and Compaq has a large emotional and dollar commitment to the undelivered VersaStor. `[ps=2]` — [[study-09010006-f43488]]
-- This study analyzes In Si ht g using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-09010006-f43488]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-patchlinksnapshot-a10275]]
-- This study analyzes ==> picture [442 x 38] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-written-intel-ia2004-pk4-kc-edits-752232]]
+- HP just spent $350 million on StorageApps, and Compaq has a large emotional and dollar commitment to the undelivered VersaStor. `[ps=4]` — [[study-09010006-f43488]]
+- This study analyzes In Si ht g using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-09010006-f43488]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-patchlinksnapshot-a10275]]
+- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-q306-soalegacy-psk-ef497b]]
+- This study analyzes ==> picture [442 x 38] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-written-intel-ia2004-pk4-kc-edits-752232]]
 - Worldwide actual shipment data (units) collected and summarized for baseline — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
 - Worldwide actual dollar shipments (revenue) for Unix application servers — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
 - Support infrastructure quality cited as differentiating factor between Unix and NT in enterprise decisions — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
@@ -43,4 +49,3 @@ prescience_obs_count: 4
 - Market leader for multiuser Intel/Unix midrange servers — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
 - By 1988, most midrange suppliers had to offer Unix-compliant OS to compete; now compete on middleware quality — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
 - Acquired USL from AT&T — [[study-nti-2-open-systems-1dd3af]]
-- Applications portability vision too narrow — [[study-nti-2-open-systems-1dd3af]]

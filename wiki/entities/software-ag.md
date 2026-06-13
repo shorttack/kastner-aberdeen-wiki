@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > German software company; ADABAS D RDBMS; acquired by Silver Lake for €2.2B in 2023; reorganized as GmbH in 2024; ADABAS/Natural being spun off 2025
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - store-and-forward architecture present; full developer APIs not yet provided — [[study-aberdeen-1995-commercial-messaging]]

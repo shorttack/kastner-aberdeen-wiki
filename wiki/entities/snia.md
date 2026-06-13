@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Named as target audience for Pools of Storage evangelization; presentations to SNIA user storage groups listed as deliverable
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Presentations to user storage groups including SNIA as part of evangelism phase — [[study-03-contract-pools-of-storage-phase2-a47fd3]]

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > The four-tier storage lexicon: Online (transactional) / Midline (fixed content) / Near-line (disk backup staging) / Offline (tape archive)
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - All players in the Serial Storage ecosystem will adopt Maxtor's 'Pools' lexicon as imperative to successfully launching midline storage within a year — [[study-03-contract-pools-of-storage-phase2-a47fd3]]

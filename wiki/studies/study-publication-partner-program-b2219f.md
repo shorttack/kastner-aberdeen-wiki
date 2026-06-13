@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: -0.5
+prescience_obs_count: 2
 ---
 
 # ==> picture [506 x 55] intentionally omitted <==
@@ -32,5 +32,5 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- Complimentary research offer for all subscribers (a $399 value) with advanced request option
-- This study analyzes ==> picture [506 x 55] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- Complimentary research offer for all subscribers (a $399 value) with advanced request option `[ps=0]`
+- This study analyzes ==> picture [506 x 55] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

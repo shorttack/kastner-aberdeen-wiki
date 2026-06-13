@@ -3,7 +3,7 @@ title: "SD Card Association"
 slug: "sd-card-association"
 page_type: "entity"
 tags: ["type/entity", "entity-type/institution"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "sd-card-association"
 entity_type: "institution"

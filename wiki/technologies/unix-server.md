@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Study notes early detection tools were Unix-only; NT Server releases becoming commonplace by 1997
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Led TPC-A price-performance below $10K/TPS-A in Q1 1992 — [[study-1992-tpc-benchmarks-vp-ed0e0d]]

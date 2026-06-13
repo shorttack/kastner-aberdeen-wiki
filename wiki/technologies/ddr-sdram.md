@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > First-generation Double Data Rate SDRAM; 200-400 MT/s; Power Mac G5 used 400 MHz DDR; displaced by DDR2 2004-2006
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Aberdeen's Corporate PC Specifications Processor 2.0 GHz Memory 256 DDR HDD 40 GB (7200 RPM) Optical CD-ROM Monitor None Ethernet 10/100 or better Modem None OS Windows XP Pro Warranty 3-Year NBD or better Productivity Office XP (Word, Excel, Outlook, Publi... — [[study-dct-business-2002-11-pc-deals]]

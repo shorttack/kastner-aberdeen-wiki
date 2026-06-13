@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Report sponsor; world leader in BI and performance planning software; founded 1969; 3000 employees, 22000+ customers in 135 countries at time of study; acquired by IBM January 2008 for $5B
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Cognos Impromptu cited as leading query/reporting competitor — [[study-1997-oracle-data-mart-suite-for-nt-926845]]

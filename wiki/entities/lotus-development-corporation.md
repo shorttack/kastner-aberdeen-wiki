@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > role=competitor-referenced; status_note=Acquired by IBM in 1995 for $3.5 billion; Lotus Notes evolved into HCL Notes after HCL Technologies acquired the product from IBM in 2019.; hq_location=Cambridge, MA, USA
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - return_with_ia64 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]

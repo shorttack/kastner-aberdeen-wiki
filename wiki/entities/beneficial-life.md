@@ -3,7 +3,7 @@ title: "Beneficial Life Insurance"
 slug: "beneficial-life"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "beneficial-life"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # Beneficial Life Insurance
 
 > Oracle Applications customer; large company with legacy homegrown software; more than 50% of IT staff involved in new product customization and integration.
+
+
+## Summary
+
+
 
 
 ## Top observations

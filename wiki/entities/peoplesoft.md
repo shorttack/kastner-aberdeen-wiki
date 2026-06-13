@@ -11,7 +11,7 @@ sector: "ERP-enterprise-applications"
 status: "dissolved"
 successor: "PeopleSoft -> Oracle (hostile acquisition 2004)"
 years_active: "1884-present"
-occurrence_count: 10
+occurrence_count: 11
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # MKS Inc. (Mortice Kern Systems)
 
 > Mentioned as ETL adapter target for EAI tools | Source: Oracle completed hostile acquisition of PeopleSoft for $10.3 billion in December 2004. https://www.oracle.com/corporate/pressrelease/oracle-buys-peoplesoft-121304.html
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -22,6 +22,11 @@ prescience_obs_count: 0
 > Co-founder of Aberdeen Group. Came from IDC. Covered networking and remaining white space. Proposed the 1997 venture capital initiative; Kastner notes departure risk was a factor in accepting it.
 
 
+## Summary
+
+
+
+
 ## Top observations
 
 - Evaluating Options in Microprocessor Multiprocessing — [[study-aberdeen-open-online-transaction-process-ea272f]]

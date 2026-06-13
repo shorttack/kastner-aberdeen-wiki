@@ -101,7 +101,21 @@ _spec.loader.exec_module(kw_note)
 # Reused functions from kw_note v4
 slugify = kw_note.slugify
 build_frontmatter = kw_note.build_frontmatter
-_load_master_slugs = kw_note._load_master_slugs
+_load_master_slugs_raw = kw_note._load_master_slugs
+
+# Cache the slug index once per process — v1.0 reloaded the 10K-row parquet
+# on every keystroke debounce (one /api/resolve per typed char). Phase 5
+# auto-embeds new notes; new wiki pages only appear after a Phase 3 regen,
+# and the user restarts kw console between sessions anyway, so a process-
+# lifetime cache is safe.
+_masters_cache: "dict[str, set[str]] | None" = None
+
+def _load_master_slugs() -> "dict[str, set[str]]":
+    global _masters_cache
+    if _masters_cache is None:
+        _masters_cache = _load_master_slugs_raw()
+    return _masters_cache
+
 _yaml_list = kw_note._yaml_list
 _yaml_str = kw_note._yaml_str
 AUTHORS = kw_note.AUTHORS
@@ -114,11 +128,27 @@ WIKILINK_RE = re.compile(r"\[\[([^\[\]|]+?)(?:\|[^\[\]]*)?\]\]")
 PATH_RE = re.compile(r"wiki/(?:studies|entities|technologies|codes|notes)/([^/]+?)\.md")
 
 
+# Unicode dashes that macOS "Smart Dashes" and copy/paste from Word/Obsidian
+# routinely substitute for plain ASCII hyphen-minus. Fold them ALL to '-'.
+#   U+2010 hyphen, U+2011 non-breaking hyphen, U+2012 figure dash,
+#   U+2013 en-dash, U+2014 em-dash, U+2015 horizontal bar, U+2212 minus sign
+_DASH_FOLD = str.maketrans({
+    "\u2010": "-", "\u2011": "-", "\u2012": "-",
+    "\u2013": "-", "\u2014": "-", "\u2015": "-",
+    "\u2212": "-",
+})
+
+
 def normalize_slug_input(raw: str) -> str:
-    """Accept full slug, [[wikilink]], wiki/<type>/<slug>.md path; return bare slug."""
+    """Accept full slug, [[wikilink]], wiki/<type>/<slug>.md path; return bare slug.
+
+    Also folds Unicode dashes → ASCII '-' (macOS Smart Dashes trap).
+    """
     s = raw.strip()
     if not s:
         return ""
+    # Fold Unicode dashes BEFORE regex matching
+    s = s.translate(_DASH_FOLD)
     m = WIKILINK_RE.search(s)
     if m:
         s = m.group(1).strip()
@@ -131,6 +161,8 @@ def normalize_slug_input(raw: str) -> str:
         s = s.rsplit("/", 1)[-1]
     if s.endswith(".md"):
         s = s[:-3]
+    # Fold dashes again post-strip in case .md/path-stripping reintroduced them
+    s = s.translate(_DASH_FOLD)
     return s.lower()
 
 
@@ -167,6 +199,22 @@ def resolve_slug(slug: str, masters: dict[str, set[str]]) -> tuple[Optional[str]
     if len(prefix_matches) > 1:
         # cap to 50 to keep the UI sane
         return None, prefix_matches[:50]
+
+    # substring fallback — catches partial-title pastes and middle-of-slug fragments.
+    # Only return if hits are reasonably constrained (≤ 50) so we don't dump 500 results.
+    substring_matches = []
+    for bucket, slugs in masters.items():
+        for s in slugs:
+            if slug in s:
+                substring_matches.append({"slug": s, "type": bucket})
+                if len(substring_matches) > 50:
+                    break
+        if len(substring_matches) > 50:
+            break
+    if len(substring_matches) == 1:
+        return substring_matches[0]["type"], substring_matches
+    if len(substring_matches) > 1:
+        return None, substring_matches[:50]
 
     return None, []
 

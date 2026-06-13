@@ -357,9 +357,15 @@ def db_conn():
 
 
 def list_studies(q: str | None, limit: int, offset: int) -> list[dict]:
+    # v_studies columns (DESCRIBE 2026-06-13 on Pete's Mac): study_id, title,
+    # author, date, type, subject_domain, methodology, source_file, abstract,
+    # license, importance, importance_rationale, relevance, relevance_rationale,
+    # study_prescience_enum, study_prescience_rationale, pub_year,
+    # prescience_max, prescience_mean, prescience_obs_count.
+    # No "collection_type" column — use "type" instead.
     sql = """
         SELECT study_id AS slug, title, pub_year, study_prescience_enum AS prescience,
-               prescience_obs_count, collection_type
+               prescience_obs_count, type AS collection_type
         FROM v_studies
     """
     params: list = []
@@ -417,8 +423,10 @@ def fetch_subject(slug: str, kind: str) -> dict | None:
     """Pull a single subject row for the annotation form."""
     if kind == "study":
         sql = """
-            SELECT study_id AS slug, title, pub_year, study_prescience_enum AS prescience,
-                   prescience_mean, prescience_obs_count, collection_type
+            SELECT study_id AS slug, title, author, pub_year, type AS collection_type,
+                   subject_domain, study_prescience_enum AS prescience,
+                   study_prescience_rationale AS prescience_rationale,
+                   prescience_mean, prescience_obs_count
             FROM v_studies WHERE study_id = ?
         """
     elif kind == "entity":

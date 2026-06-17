@@ -12,9 +12,9 @@ era: "2003-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Blue-Laser DVD (pre-Blu-ray)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 24-27 GB discs versus 4.7 GB current; likely available 2003 in read/record products — [[study-dct-dceit-practice-v6-2002]]
+- 24-27 GB discs versus 4.7 GB current; likely available 2003 in read/record products `[ps=4]` — [[study-dct-dceit-practice-v6-2002]]

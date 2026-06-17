@@ -12,9 +12,9 @@ era: "1960-2000"
 lifecycle_at_study: "declining"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 3
 ---
 
 # Legacy COBOL / Two-Digit Year Code
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Programmers 1960s-1970s used 2-digit years to save memory; practice persisted into 1980s-1990s for backward compatibility — [[study-aberdeen-1996-enterprise-executives-year-2000-solution]]
+- Programmers 1960s-1970s used 2-digit years to save memory; practice persisted into 1980s-1990s for backward compatibility `[ps=5]` — [[study-aberdeen-1996-enterprise-executives-year-2000-solution]]
+- Contrary to fears, few major errors occurred in 2000; limited outages attributed to pre-emptive remediation spending `[ps=5]` — [[study-aberdeen-1996-enterprise-executives-year-2000-solution]]
+- Non-Y2K-safe businesses will lose competitive ground to Y2K-ready competitors; some corporate viability at risk `[ps=2]` — [[study-aberdeen-1996-enterprise-executives-year-2000-solution]]
 - Finding all corrupt date fields in integrated hardware, software, and network equipment is immense challenge — [[study-aberdeen-1996-enterprise-executives-year-2000-solution]]
-- Non-Y2K-safe businesses will lose competitive ground to Y2K-ready competitors; some corporate viability at risk — [[study-aberdeen-1996-enterprise-executives-year-2000-solution]]
-- Contrary to fears, few major errors occurred in 2000; limited outages attributed to pre-emptive remediation spending — [[study-aberdeen-1996-enterprise-executives-year-2000-solution]]

@@ -3,7 +3,7 @@ title: "PeopleSoft Gains CRM Market Momentum"
 slug: "study-2003-peoplesoft-gains-crm-market-momentum-b4b610"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2003-peoplesoft-gains-crm-market-momentum-b4b610"
 author: "Karen E. Smith"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.0
+prescience_obs_count: 12
 ---
 
 # PeopleSoft Gains CRM Market Momentum
@@ -32,18 +32,18 @@ _Published 2003, author **Karen E. Smith**, type **market-study**._
 
 ## Top observations
 
-- $1.8 billion (stock and cash)
-- $2.9 billion
+- Acquired by Oracle December 2004 for $10.3B; CRM leadership bid ended `[ps=5]`
+- #3 CRM vendor; gaining momentum `[ps=3]`
+- #2 CRM vendor; gaining vs Siebel `[ps=2]`
+- #1 CRM vendor globally `[ps=1]`
+- Acquired by Oracle September 2005 for $5.85B `[ps=1]`
+- $1.8 billion (stock and cash) `[ps=0]`
+- $2.9 billion `[ps=0]`
+- More than 25 industries in 150 countries `[ps=0]`
+- 54% of enterprise applications market `[ps=0]`
+- 15% of enterprise applications market `[ps=0]`
+- 11% of enterprise applications market `[ps=0]`
+- Uncertain — may be too late OR just in time for leadership `[ps=0]`
 - 11900 customers
 - 13000 employees
-- More than 25 industries in 150 countries
-- 54% of enterprise applications market
-- 15% of enterprise applications market
-- 11% of enterprise applications market
-- #1 CRM vendor globally
-- #2 CRM vendor; gaining vs Siebel
-- #3 CRM vendor; gaining momentum
-- Uncertain — may be too late OR just in time for leadership
 - Carefully orchestrated leadership position among global enterprise software vendors
-- Acquired by Oracle December 2004 for $10.3B; CRM leadership bid ended
-- Acquired by Oracle September 2005 for $5.85B

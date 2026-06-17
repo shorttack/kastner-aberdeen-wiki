@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: ""
 years_active: "1980s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Data Decisions
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Tandem pricing from December 1984 Data Decisions report — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]
+- Tandem pricing from December 1984 Data Decisions report `[ps=0]` — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]

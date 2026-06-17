@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 12
 ---
 
 # IBM Section: TPC Benchmark Viewpoint (Aberdeen Group, 1992)
@@ -32,16 +32,16 @@ _Published 1992, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 
 ## Top observations
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
 - 

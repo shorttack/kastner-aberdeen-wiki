@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 40
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.31
+prescience_obs_count: 13
 ---
 
 # Desktop personal computer (tower form factor)
@@ -29,6 +29,19 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- PC commoditization + lowered margins driving share pressure `[ps=4]` — [[study-dct-personal-it-practice-launch-2001]]
+- 30.4 million units (-1.9% YoY) `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- 3% (revised from 7%) `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- 17.5% (revised from 15.5%) `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- 48.4 million units `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- 4.6% `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- 2,525K units, 23.0% share, +30.7% YoY `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- 1,075K units, 9.8% share, -24.7% YoY `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- 935K units, 8.5% share, -9.1% YoY `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- 4.8 million units, +35% YoY `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- +104% `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- Growth market -> mature/saturated replacement market `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- Desktop, laptop, tablet `[ps=0]` — [[study-dct-segment-priorities-matrix-2003]]
 - Mean $1062, median $1050, range $400-$1707; 43 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
 - Mean $1046, median $1078, range $400-$1708; 169 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
 - Mean $1077, median $1088, range $400-$1718; 147 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
@@ -36,16 +49,3 @@ prescience_obs_count: 0
 - Mean $1105, median $1050, range $400-$3008; 137 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
 - Mean $1198, median $1050, range $400-$3239; 150 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
 - Mean $1163, median $979, range $410-$3111; 144 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
-- Mean $1232, median $1100, range $390-$3111; 81 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
-- Mean $1234, median $1050, range $390-$3201; 239 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
-- Mean $1124, median $979, range $350-$2780; 140 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
-- Mean $1145, median $999, range $334-$2500; 186 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
-- Mean $1113, median $1008, range $350-$2974; 210 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
-- Mean $1070, median $900, range $370-$2974; 175 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
-- Mean $1129, median $958, range $370-$2974; 214 sku-listings — [[study-dct-access-pc-deals-2002-2003]]
-- Business PC Deals - November 6, 2002 Introducing Business PC Deals For six months, Aberdeen has been publishing our research on consumer desktop PC price-values - the bang for the buck - at www.Aberdeen.com/PCDeals. — [[study-dct-business-2002-11-pc-deals]]
-- differences in Aberdeen reference managed desktop towers (without monitor). At $1,089, Dell enjoys a $115 price advantage over Gateway, and almost a $200 advantage ov — [[study-dct-business-2002-12-17-pc-deals]]
-- n reference managed desktop towers (without monitor). At $1,089, Dell enjoys a $115 price advantage over Gateway, and almost a $200 advantage over HP and IBM for c — [[study-dct-business-2002-12-17-pc-deals]]
-- Desktop Currents - December 2002 The desktop PC business has always been about making products that are "better, faster, cheaper, and smaller". — [[study-dct-business-2002-12-17-pc-deals]]
-- differences in Aberdeen reference managed desktop towers (without monitor). At $1,089, Dell enjoys a $115 price advantage over Gateway, and almost a $200 advantage ov — [[study-dct-business-2002-12-19-pc-deals]]
-- n reference managed desktop towers (without monitor). At $1,089, Dell enjoys a $115 price advantage over Gateway, and almost a $200 advantage over HP and IBM for c — [[study-dct-business-2002-12-19-pc-deals]]

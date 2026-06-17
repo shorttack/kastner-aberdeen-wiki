@@ -12,9 +12,9 @@ era: "2004-2006"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Intel Pentium M Dothan
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Pentium M Dothan: 2GHz, 21W, 140M transistors — matches 3.2GHz Prescott (82W, 125M transistors) performance at ~1/4 the power. Dothan uses slightly slower transistors, a dramatic power-consumption win. — [[study-intel-longlivedualcore-revised-5-fa8298]]
+- Pentium M Dothan: 2GHz, 21W, 140M transistors — matches 3.2GHz Prescott (82W, 125M transistors) performance at ~1/4 the power. Dothan uses slightly slower transistors, a dramatic power-consumption win. `[ps=5]` — [[study-intel-longlivedualcore-revised-5-fa8298]]

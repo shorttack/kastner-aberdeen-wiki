@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1958-"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 4
 ---
 
 # NORAD (North American Aerospace Defense Command)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Received cold call to present at Mitre Corporation in 1982; fifty silent engineers; declined to state requirements; Kastner had one hour. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
-- $10 million in systems hardware delivered to Cheyenne Mountain, Colorado by late 1980s. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
-- $40 million in spares delivered to Cheyenne Mountain, Colorado by late 1980s. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
-- $50 million total ($10M hardware + $40M spares) for granite-shielded Cheyenne Mountain nerve center monitoring skies for nuclear threats. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- Received cold call to present at Mitre Corporation in 1982; fifty silent engineers; declined to state requirements; Kastner had one hour. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- $10 million in systems hardware delivered to Cheyenne Mountain, Colorado by late 1980s. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- $40 million in spares delivered to Cheyenne Mountain, Colorado by late 1980s. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- $50 million total ($10M hardware + $40M spares) for granite-shielded Cheyenne Mountain nerve center monitoring skies for nuclear threats. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]

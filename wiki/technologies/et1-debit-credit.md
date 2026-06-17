@@ -12,9 +12,9 @@ era: "1985-1989"
 lifecycle_at_study: "current-1985"
 lifecycle_current: "superseded-by-tpc-a"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # ET1 Debit-Credit Benchmark
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- MIPS and Whetstone are inadequate for OLTP; with multiprocessor, MIPS changes as I/O processors are added; transaction benchmarks needed `[ps=5]` — [[study-stratus-et1-functional-spec-and-benchmar-0c3172]]
+- 2M account records, 2K teller records, 200 branch records (1/5 anon-et-al spec) `[ps=0]` — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]
 - 1.0-1.1 tps/CPU (cross-reference from FTSN-32) — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]
-- 2M account records, 2K teller records, 200 branch records (1/5 anon-et-al spec) — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]
-- MIPS and Whetstone are inadequate for OLTP; with multiprocessor, MIPS changes as I/O processors are added; transaction benchmarks needed — [[study-stratus-et1-functional-spec-and-benchmar-0c3172]]

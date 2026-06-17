@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # CMOS Processor Technology
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 0.5-micron CMOS technology (IBM-fabricated) expected to deliver 40-60 MIPS; replaces ECL systems — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
+- 0.5-micron CMOS technology (IBM-fabricated) expected to deliver 40-60 MIPS; replaces ECL systems `[ps=4]` — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
+- 0.5-micron CMOS technology designed by Unisys and fabricated by IBM; new high-end processors expected to deliver 40-60 MIPS `[ps=0]` — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
 - CMOS delivers smaller footprint, power savings vs ECL; cost-effective upgrades preserve customer investments — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
-- 0.5-micron CMOS technology designed by Unisys and fabricated by IBM; new high-end processors expected to deliver 40-60 MIPS — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]

@@ -12,9 +12,9 @@ era: "1960s-1970s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Timesharing Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Timesharing (terminal-based interactive coding) existed at universities and research labs in 1969 but was not typical at commercial service bureaus. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- Timesharing (terminal-based interactive coding) existed at universities and research labs in 1969 but was not typical at commercial service bureaus. `[ps=4]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]

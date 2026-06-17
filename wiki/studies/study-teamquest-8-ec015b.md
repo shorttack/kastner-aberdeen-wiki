@@ -3,7 +3,7 @@ title: "Using TeamQuest Performance Software to Align IT with Business Prioritie
 slug: "study-teamquest-8-ec015b"
 page_type: "study"
 tags: ["type/study", "collection/vendor-whitepaper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "teamquest-8-ec015b"
 author: "TeamQuest Corporation"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Using TeamQuest Performance Software to Align IT with Business Priorities
@@ -32,8 +32,8 @@ _Published 2004, author **TeamQuest Corporation**, type **vendor-whitepaper**._
 
 ## Top observations
 
-- For a large corporation, it's fairly easy to get to millions of dollars in savings through recentralization of servers and expensive IT support.
+- For a large corporation, it's fairly easy to get to millions of dollars in savings through recentralization of servers and expensive IT support. `[ps=4]`
+- Server-consolidation as a discrete vendor-marketing category dissolved by 2018 as hyperscale cloud (AWS, Azure, GCP) became the primary consolidation destination; capacity planning shifted to cloud FinOps / AIOps and to auto-scaling disciplines. `[ps=4]`
 - TeamQuest whitepaper distinguishes three capacity-planning approaches: capacity benchmarking (expensive load testing), capacity trending (quick linear/statistical), and capacity modeling (both simulation and analytic queueing). Modeling is positioned as the only approach permitting evaluation of alternative solutions before implementation.
 - VMware ESX/vSphere drove 5-10x physical-server consolidation in typical enterprise data centers by 2012 — directly validating Kastner's 2004 'millions of dollars in savings' framing, though the mechanism (virtualization) shifted from simple physical recentralization to virtualization-based consolidation.
-- Server-consolidation as a discrete vendor-marketing category dissolved by 2018 as hyperscale cloud (AWS, Azure, GCP) became the primary consolidation destination; capacity planning shifted to cloud FinOps / AIOps and to auto-scaling disciplines.
 - Helpsystems acquired TeamQuest Corporation in 2018; Helpsystems later rebranded as Fortra in 2022; the TeamQuest brand is now subsumed under the Fortra IT-operations portfolio.

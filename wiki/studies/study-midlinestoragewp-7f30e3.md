@@ -1,5 +1,5 @@
 ---
-title: "==> picture [442 x 39] intentionally omitted <=="
+title: "Midlinestoragewp (Aberdeen, 2003)"
 slug: "study-midlinestoragewp-7f30e3"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.62
-prescience_obs_count: 13
+prescience_mean: 2.4
+prescience_obs_count: 10
 ---
 
-# ==> picture [442 x 39] intentionally omitted <==
+# Midlinestoragewp (Aberdeen, 2003)
 
-> This study analyzes ==> picture [442 x 39] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study midlinestoragewp-7f30e3. Source: midlinestoragewp.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2003, author **Aberdeen Group**, type **market-study**._
@@ -42,6 +42,6 @@ _Published 2003, author **Aberdeen Group**, type **market-study**._
 - Midline storage falls between high-performance disk and tape (i.e., tape libraries) in this life cycle (Figure 2). `[ps=0]`
 - For example, a 2-TB disk-based backup appliance can run between $15,000 and $20,000 for SCSI solutions, but only $7,000 to $10,000 for configuration-equivalent ATA solutions. `[ps=0]`
 - In a much larger environment (north of 30 TB) for an FC-based disk array, the savings are not as dramatic, percentagewise, but saving more than $100,000 off a deal that would have gone for half a million dollars is still very significant. `[ps=0]`
-- **Figure 1: The Storage Pyramid — Three Key Levels** `[ps=-1]`
-- **Figure 2: Where Midline Storage Fits** `[ps=-1]`
-- **Figure 3: Storage Pyramid — What Each Level Does Best** `[ps=-1]`
+- **Figure 1: The Storage Pyramid — Three Key Levels**
+- **Figure 2: Where Midline Storage Fits**
+- **Figure 3: Storage Pyramid — What Each Level Does Best**

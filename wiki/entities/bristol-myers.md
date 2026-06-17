@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1887-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Bristol-Myers Squibb
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Bristol Myers cited as large-scale real-world customer using Oracle7 multimedia capabilities — [[study-1997-oracle8-the-database-for-network-computing-674c9d]]
+- Bristol Myers cited as large-scale real-world customer using Oracle7 multimedia capabilities `[ps=0]` — [[study-1997-oracle8-the-database-for-network-computing-674c9d]]

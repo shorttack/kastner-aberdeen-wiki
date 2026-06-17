@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "mature"
 lifecycle_current: "rebranded/discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # HP OpenView
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP OpenView Professional Suite manages small-to-medium companies with 10-2,000 nodes; OpenView Network Node Manager supports LANs and WANs with more than 250 nodes — [[study-1997-desktop-and-systems-management-the--169a9b]]
+- HP OpenView Professional Suite manages small-to-medium companies with 10-2,000 nodes; OpenView Network Node Manager supports LANs and WANs with more than 250 nodes `[ps=0]` — [[study-1997-desktop-and-systems-management-the--169a9b]]
 - HP OpenView rebranded as HP Software Division products in 2007 after acquisitions of Mercury Interactive and Peregrine Systems; eventually sold to MicroFocus; now part of OpenText — [[study-1997-desktop-and-systems-management-the--169a9b]]

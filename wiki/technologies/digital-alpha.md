@@ -12,9 +12,9 @@ era: "1992-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Digital Alpha Architecture (64-bit)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- More than 15,000 Alpha servers shipped in the past year — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
-- Digital has large installed VAX customer base currently upgrading to Alpha — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
+- Digital has large installed VAX customer base currently upgrading to Alpha `[ps=2]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
+- More than 15,000 Alpha servers shipped in the past year `[ps=0]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]

@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "underutilized"
 lifecycle_current: "standard"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Balance Sheet Analysis (tech sector)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Numbers are useful but not to the degree of precision that some wish; comparison of original vs restated figures reveals limitations — [[study-casale-evp-5-aa8f2a]]
+- Numbers are useful but not to the degree of precision that some wish; comparison of original vs restated figures reveals limitations `[ps=4]` — [[study-casale-evp-5-aa8f2a]]

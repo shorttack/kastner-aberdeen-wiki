@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Cisco Webex (Webex by Cisco)"
 years_active: "1995-2007"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.77
+prescience_obs_count: 22
 ---
 
 # WebEx Communications, Inc.
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Market leader in data-rich online business meetings — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Uniquely used by WebEx; ideally suited for live data-rich business communications — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Core platform for live data-rich online business meetings — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Live remote hands-on customer technical support service — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Large online events and web seminars service — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Rolling out April 2002 to address considerable internal training market — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- WebEx Training Center launched April 2002 as predicted — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Private-network infrastructure approach uniquely positions WebEx as long-term leader — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- $3.2 billion acquisition at $57/share in May 2007 — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Utility-grade conferencing infrastructure as competitive moat — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Covers data-rich online meetings, remote support, large events, and training — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Market for online business meetings growing; WebEx best positioned — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Considerable market for internal training addressable by WebEx Training Center — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Web-based business communications as complement/successor to videoconferencing — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- WebEx positioned as business communications summit — top-tier utility infrastructure — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- WebEx launches Enterprise Edition packaging/pricing for Fortune 1000 — [[study-informationweek-webex-enterprise-collabo-e30ad5]]
-- Clear leader in high-end Web conferencing — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
-- 5,000+ customers — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
-- 800+ customers per quarter (virus-like, word-of-mouth-induced) — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
-- ~40 companies competing to deliver shared PowerPoint presentations over Internet in 1999 — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
+- Considerable market for internal training addressable by WebEx Training Center `[ps=5]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Web-based business communications as complement/successor to videoconferencing `[ps=5]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Very easy business case; presenters spend more time at jobs, less on airplanes; training has longer shelf life via recording/rebroadcast `[ps=5]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
+- Market leader in data-rich online business meetings `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Core platform for live data-rich online business meetings `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Live remote hands-on customer technical support service `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Covers data-rich online meetings, remote support, large events, and training `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- WebEx positioned as business communications summit — top-tier utility infrastructure `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Clear leader in high-end Web conferencing `[ps=4]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
+- Acquired by Cisco Systems in 2007 for approximately $3.2 billion; market leadership validated `[ps=4]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
+- Market for online business meetings growing; WebEx best positioned `[ps=3]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Private conferencing switched network on top of Internet; utility-grade QoS and security `[ps=3]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
+- Noun becoming verb: 'Let's WebEx' `[ps=3]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
+- Positioned to become dominant online meeting standard; making online meetings as straightforward as telephone calls `[ps=3]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
+- Uniquely used by WebEx; ideally suited for live data-rich business communications `[ps=2]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Private-network infrastructure approach uniquely positions WebEx as long-term leader `[ps=2]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- WebEx provides utility-grade QoS; Internet provides none; competitors' erratic response times can be catastrophic `[ps=2]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
+- WebEx Training Center launched April 2002 as predicted `[ps=0]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- $3.2 billion acquisition at $57/share in May 2007 `[ps=0]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- 5,000+ customers `[ps=0]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]

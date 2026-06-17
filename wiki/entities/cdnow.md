@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Columbia House/BMG Direct -> Amazon"
 years_active: "1994-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # CDNow
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CDNow accepts digital wallet payments to make transactions as straightforward as possible — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
+- CDNow accepts digital wallet payments to make transactions as straightforward as possible `[ps=0]` — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
 - CDNow acquired by Columbia House/BMG Direct in 2000; eventually absorbed into Amazon — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]

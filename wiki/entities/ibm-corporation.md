@@ -12,9 +12,9 @@ status: "Active (renamed divisions)"
 successor: "IBM (ongoing)"
 years_active: "1911-present"
 occurrence_count: 9
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.76
+prescience_obs_count: 76
 ---
 
 # International Business Machines Corporation
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Most popular TP monitor worldwide — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Unix, OS/2, Windows NT, Digital VAX, MVS/ESA servers; Unix/DOS/OS/2/Win95/NT clients — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Performance approaching RPC — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Most popular LAN groupware product — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Most-used mainframe DBMS — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Very-large-database data-warehousing proven — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Web servers creating scalability bottlenecks — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Migration path for IBM mainframe shops to network computing — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Will add third-party and IBM tools for ORBs and commercial-messaging applications — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Renamed and expanded; ORB integrations added — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Will continue integrating products and development tools with the Internet — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Will extend multimedia capabilities for Web-site and Internet needs — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- DB2 UDB shipped with extensive multimedia/XML/Extender support — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- TP-monitor middleware most critical to Internet architecture scalability — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Java application servers (WebSphere, JBoss, WebLogic) confirmed TP-monitor pattern at Internet scale — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Encina removed from TXSeries V6.1 in 2006 — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- CICS TS 6.3 released September 2025; actively developed with Jakarta EE 10, Spring Boot 3 support — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Assured once-and-only-once delivery with connection independence — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- CICS Gateway for Java; Web and Lotus Notes integration — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Large data types up to 2 GB; Relational Extenders for complex types — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Internet/Intranet adding new TP patterns for e-commerce `[ps=5]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Enterprises facing proliferating data archipelagoes requiring ever-faster merging of larger data streams `[ps=5]` — [[study-1997-ibm-information-integration-family--29351c]]
+- Key value: reuse information integration middleware across recurring projects vs. one-off builds `[ps=5]` — [[study-1997-ibm-information-integration-family--29351c]]
+- IBM positioned both z/OS (mainframe) and Linux as strategic platforms — Linux for distributed; z/OS for mainframe `[ps=5]` — [[study-2001-linux-is-on-the-move-up-6bf089]]
+- Most popular TP monitor worldwide `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Very-large-database data-warehousing proven `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Will add third-party and IBM tools for ORBs and commercial-messaging applications `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Will continue integrating products and development tools with the Internet `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Java application servers (WebSphere, JBoss, WebLogic) confirmed TP-monitor pattern at Internet scale `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Large data types up to 2 GB; Relational Extenders for complex types `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- IMS accessible via Web browser through Internet Connection Server / MQSeries gateway `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Log-based capture to staging area then apply to destination; minimizes production database impact `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
+- State management via variable substitution for OLTP transactions across web connections `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
+- Full enterprise data integration is 'difficult if not impossible'; focused data marts achieve competitive advantage `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
+- Absorbed into IBM DB2 Replication; log-based CDC pattern validated by entire industry `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
+- Visual Programming Environment due next year (1998) for rapid development; further Java capabilities `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
+- Net.data superseded by WebSphere Application Server and JSP/servlet model circa 2000-2002 `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
+- DataPropagator's log-based architecture will deliver performance and isolation advantages in network computing `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
+- Log-based CDC became dominant pattern for enterprise data replication across all major cloud and on-premises tools `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
+- Targets enterprises with multiple-supplier databases; positions reuse as competitive differentiator `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]

@@ -12,9 +12,9 @@ status: "[DEFERRED]"
 successor: "[DEFERRED]"
 years_active: "1983-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM DB2
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DB2 Relational Extenders for text/imaging/audio/video; not yet deep in architecture or sophisticated client-server toolset — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
+- DB2 Relational Extenders for text/imaging/audio/video; not yet deep in architecture or sophisticated client-server toolset `[ps=4]` — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]

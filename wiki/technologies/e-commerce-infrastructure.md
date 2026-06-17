@@ -12,9 +12,9 @@ era: "1998-2002"
 lifecycle_at_study: "growing"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # E-commerce Infrastructure
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Technology spending during 1998-2001 had disconnected from economic reality; enterprises invested in e-commerce, web platforms, integration with optimistic ROI assumptions that couldn't survive scrutiny. — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- Technology spending during 1998-2001 had disconnected from economic reality; enterprises invested in e-commerce, web platforms, integration with optimistic ROI assumptions that couldn't survive scrutiny. `[ps=5]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]

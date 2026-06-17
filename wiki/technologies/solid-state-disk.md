@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant-tier"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Solid State Disk (SSD)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Solid-state disks for ultra-performance-intensive database applications — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
+- Solid-state disks for ultra-performance-intensive database applications `[ps=5]` — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]

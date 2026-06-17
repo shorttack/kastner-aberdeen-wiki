@@ -12,9 +12,9 @@ era: "1995-2003"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # OM-SecureLink
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MD5 hash + SSL + ticketing; HTTP-standard compliant — [[study-aberdeen-1996-open-market-web-based-commerce]]
+- MD5 hash + SSL + ticketing; HTTP-standard compliant `[ps=3]` — [[study-aberdeen-1996-open-market-web-based-commerce]]

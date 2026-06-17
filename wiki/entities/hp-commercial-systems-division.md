@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Hewlett-Packard Enterprise Systems Group"
 years_active: "1984-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.12
+prescience_obs_count: 8
 ---
 
 # HP Commercial Systems Division
@@ -24,12 +24,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 5% planning full replacement — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
-- 65% of enterprise customer base — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
-- 30% of enterprise customer base — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
-- Customer First (installed-base retention; not new customer acquisition) — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
+- Customer First (installed-base retention; not new customer acquisition) `[ps=4]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
+- Direct HP corporate customer dialogue bypassing traditional sales channels `[ps=4]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
+- Open interfaces and interoperability with Unix, NT, MVS ahead of demand `[ps=4]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
+- Customer feedback guiding ISV application partnering `[ps=3]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
+- Improving HP 3000 OS to match best-in-class Unix and NT alternatives `[ps=2]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
+- 5% planning full replacement `[ps=0]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
+- 65% of enterprise customer base `[ps=0]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
+- 30% of enterprise customer base `[ps=0]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
 - Continuous customer feedback driving product development — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
-- Customer feedback guiding ISV application partnering — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
-- Direct HP corporate customer dialogue bypassing traditional sales channels — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
-- Open interfaces and interoperability with Unix, NT, MVS ahead of demand — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
-- Improving HP 3000 OS to match best-in-class Unix and NT alternatives — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]

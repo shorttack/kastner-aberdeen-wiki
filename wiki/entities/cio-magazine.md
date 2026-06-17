@@ -12,9 +12,9 @@ status: "unknown"
 successor: "[DEFERRED]"
 years_active: "1987-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # CIO Magazine
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 77% of IT executives purchase secondary-market equipment; 46% plan to increase spending in that area by at least 15%. — [[study-dell-ars-wp-2-72fd7f]]
+- 77% of IT executives purchase secondary-market equipment; 46% plan to increase spending in that area by at least 15%. `[ps=3]` — [[study-dell-ars-wp-2-72fd7f]]

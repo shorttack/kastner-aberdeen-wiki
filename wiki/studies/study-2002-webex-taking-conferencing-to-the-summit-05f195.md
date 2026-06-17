@@ -3,7 +3,7 @@ title: "WebEx: Taking Conferencing to the Business Communications Summit"
 slug: "study-2002-webex-taking-conferencing-to-the-summit-05f195"
 page_type: "study"
 tags: ["type/study", "collection/profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2002-webex--taking-conferencing-to-the-summit-05f195"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.85
+prescience_obs_count: 26
 ---
 
 # WebEx: Taking Conferencing to the Business Communications Summit
@@ -32,28 +32,28 @@ _Published 2002, author **Aberdeen Group**, type **profile**._
 
 ## Top observations
 
-- 5000+
-- 800+
-- 40
-- private-switched-WAN
-- third-generation
-- 1-face-to-face
-- 2-telephone-call
-- 3-audio-conference
-- 4-video-conference
-- 5-web-conference
-- clear-leader
-- ~40
-- telephone-utility
-- post-911-recession
-- pc-ubiquity-plus-conference-call
-- store-and-forward-approach
-- full-powerpoint-animation
-- flash-sharing-in-meetings
-- secure-remote-desktop
-- multipoint-video-browser-webcam
-- pda-meeting-participation
-- training-schedule-registration
-- test-building-scoring
-- scorm-support
-- noun-becoming-verb
+- zoom-disrupts-webex `[ps=5]`
+- flash-discontinued `[ps=5]`
+- clear-leader `[ps=4]`
+- as-easy-as-phone-call `[ps=4]`
+- isdn-decommissioned `[ps=4]`
+- 5000+ `[ps=0]`
+- 800+ `[ps=0]`
+- third-generation `[ps=0]`
+- 2-telephone-call `[ps=0]`
+- 3-audio-conference `[ps=0]`
+- 4-video-conference `[ps=0]`
+- 5-web-conference `[ps=0]`
+- ~40 `[ps=0]`
+- post-911-recession `[ps=0]`
+- store-and-forward-approach `[ps=0]`
+- full-powerpoint-animation `[ps=0]`
+- flash-sharing-in-meetings `[ps=0]`
+- secure-remote-desktop `[ps=0]`
+- multipoint-video-browser-webcam `[ps=0]`
+- pda-meeting-participation `[ps=0]`
+- training-schedule-registration `[ps=0]`
+- scorm-support `[ps=0]`
+- noun-becoming-verb `[ps=0]`
+- tectonic `[ps=0]`
+- 3200000000 `[ps=0]`

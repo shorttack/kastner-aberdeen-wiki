@@ -12,9 +12,9 @@ era: "1990s-"
 lifecycle_at_study: "mature"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Unique Large Files (X-ray / MRI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- After creation content is fixed — ideally inalterable; read-only — [[study-15-classification-key-applications-55b6be]]
+- After creation content is fixed — ideally inalterable; read-only `[ps=4]` — [[study-15-classification-key-applications-55b6be]]

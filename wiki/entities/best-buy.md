@@ -12,9 +12,9 @@ status: "operating"
 successor: "[DEFERRED]"
 years_active: "1966-present"
 occurrence_count: 27
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.25
+prescience_obs_count: 4
 ---
 
 # Best Buy Co., Inc.
@@ -29,8 +29,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Challenged by new S&C provider competition — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
-- Active; transformed to omnichannel model; Q4 FY26 earnings reported March 2026 — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
+- Best Buy eliminated mail-in rebates effective early 2008, fulfilling the 2-year phase-out pledge made in this 2005 article `[ps=5]` — [[study-great-rebate-runaround-businessweek-grow-00f459]]
+- Challenged by new S&C provider competition `[ps=4]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
+- Active; transformed to omnichannel model; Q4 FY26 earnings reported March 2026 `[ps=0]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
+- April 2002 launch of $2,300 fluorescent green/blue gaming PCs for teenagers `[ps=0]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
 - $1550 avg (range $1500-$1600); 1 SKUs; 1 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
 - Offers unchanged in past three weeks; many already rock bottom — [[study-dct-dceit-observations-2002-06]]
 - BestBuy is your eMachines source, offering three of the four eMachine's PCs in PC Deals this week. Note that BestBuy is not offering printers in any of their bundles this week, but that does mean another $25 off the price tag of many PCs. — [[study-dct-weekly-2003-01-12]]
@@ -47,5 +49,3 @@ prescience_obs_count: 0
 - At Best Buy stores this week, save $100 to $150 with Best Buy's mail-in rebate on all computer packages. Also receive no interest financing for 18 months on all these CPU bundles. — [[study-dct-weekly-2003-05-18]]
 - At Best Buy stores this week, save $150 with Best Buy's mail-in rebate on all computer packages. Also receive no interest financing for 18 months on all these CPU bundles. — [[study-dct-weekly-2003-06-08]]
 - At Best Buy stores this week, save $100 with Best Buy's mail-in rebate on all computer packages. Also receive no interest financing for 18 months on all these CPU bundles. — [[study-dct-weekly-2003-06-15]]
-- At Best Buy stores this week, save $100 with Best Buy's mail-in rebate on all computer packages. Also receive no interest financing for 18 months on all these CPU bundles. — [[study-dct-weekly-2003-06-22]]
-- Best Buy has revamped its website completely. You'll find the link to its "weekly ad" at the bottom, center of the home page along with the "store locator" link. — [[study-dct-weekly-2003-07-06]]

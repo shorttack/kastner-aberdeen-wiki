@@ -12,9 +12,9 @@ era: "1984-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Sun NFS (Network File System)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Based on Sun NFS; centralized file storage (NC clients have no local storage) — [[study-netcompute-e6c378]]
+- Based on Sun NFS; centralized file storage (NC clients have no local storage) `[ps=3]` — [[study-netcompute-e6c378]]

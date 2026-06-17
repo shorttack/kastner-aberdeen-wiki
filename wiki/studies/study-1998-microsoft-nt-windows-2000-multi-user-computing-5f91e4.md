@@ -3,7 +3,7 @@ title: "Microsoft NT/Windows 2000 Multi-User Computing"
 slug: "study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.08
+prescience_obs_count: 12
 ---
 
 # Microsoft NT/Windows 2000 Multi-User Computing
@@ -32,18 +32,18 @@ _Published 1998, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- Thin-client/server-centric multi-user architectures are now poised to become business-altering competitive weapons
+- Windows 2000 Terminal Services and Citrix MetaFrame achieved widespread enterprise adoption 2000-2002 `[ps=5]`
+- Citrix identified as leading thin-client enabling software solutions provider for NT `[ps=5]`
+- Windows 2000 released to manufacturing December 15 1999; general availability February 17 2000 — within Aberdeen's projected timeframe `[ps=5]`
+- Significantly increased rates of adoption for multi-user Windows 2000-based servers expected in forthcoming year `[ps=4]`
+- Cost advantages exist; IS managers should measure TCO in multi-user computing environment `[ps=4]`
+- Windows 2000 positions terminal services as integrated platform feature rather than add-on `[ps=4]`
+- NT 5.0/Windows 2000 will drive significantly increased adoption of multi-user architectures `[ps=4]`
+- Thin-client/server-centric multi-user architectures are now poised to become business-altering competitive weapons `[ps=3]`
+- IS managers must assess systems integration and backward compatibility issues for multi-user deployment `[ps=3]`
+- Aberdeen surveyed dozens of IS managers evaluating NT-based multi-user computing `[ps=0]`
+- IS buyers should evaluate NT multi-user vs. client/server comparative architectural advantages/disadvantages `[ps=0]`
+- NCs, NetPCs, WBTs, servers, networking hardware, Java applications and thin-client enabling technologies all require evaluation `[ps=0]`
 - Multi-user architectures enable managing entire enterprise from a central server
-- Significantly increased rates of adoption for multi-user Windows 2000-based servers expected in forthcoming year
-- Windows 2000 Terminal Services and Citrix MetaFrame achieved widespread enterprise adoption 2000-2002
-- Cost advantages exist; IS managers should measure TCO in multi-user computing environment
-- Aberdeen surveyed dozens of IS managers evaluating NT-based multi-user computing
-- IS buyers should evaluate NT multi-user vs. client/server comparative architectural advantages/disadvantages
-- NCs, NetPCs, WBTs, servers, networking hardware, Java applications and thin-client enabling technologies all require evaluation
 - Report priced at $895; 90 pages; published April 1999
-- Windows 2000 positions terminal services as integrated platform feature rather than add-on
-- Citrix identified as leading thin-client enabling software solutions provider for NT
-- IS managers must assess systems integration and backward compatibility issues for multi-user deployment
-- NT 5.0/Windows 2000 will drive significantly increased adoption of multi-user architectures
-- Windows 2000 released to manufacturing December 15 1999; general availability February 17 2000 — within Aberdeen's projected timeframe
 - IS managers concerned about investment protection when adopting multi-user NT architecture

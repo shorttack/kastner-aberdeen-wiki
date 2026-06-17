@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "1968-2000"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Datapoint Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Earlier billing and booking irregularities; compensation plan heavily skewed to bookings rather than shipments or customer acceptance. — [[study-casale-evp-2-79187c]]
-- Datapoint's compensation plan until recently was heavily skewed towards bookings; resulted in large booking numbers that did not convert to shipments or revenues. — [[study-casale-evp-3-b2b933]]
+- Earlier billing and booking irregularities; compensation plan heavily skewed to bookings rather than shipments or customer acceptance. `[ps=5]` — [[study-casale-evp-2-79187c]]
+- Datapoint's compensation plan until recently was heavily skewed towards bookings; resulted in large booking numbers that did not convert to shipments or revenues. `[ps=0]` — [[study-casale-evp-3-b2b933]]

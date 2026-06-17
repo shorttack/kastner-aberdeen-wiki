@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Compaq Computer Corporation -> Hewlett-Packard -> Hewlett Packard Enterprise / HP Inc."
 years_active: "1968-present"
 occurrence_count: 33
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.07
+prescience_obs_count: 327
 ---
 
 # Evolutionary Technologies International (ETI)
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CA acquired Digital Equipment's Polycenter management products and tightly integrated them with CA management console — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]
-- 52 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
-- 34 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
-- top_single_processor_oltp — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
-- datacenter_enterprise_first_choice — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
-- end_of_support_dec_2025 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
-- 25.5 — [[study-1997-data-integration-management-in-hete-de2429]]
-- 50_to_100 — [[study-1997-data-integration-management-in-hete-de2429]]
-- 13 — [[study-1997-data-integration-management-in-hete-de2429]]
-- 12 — [[study-1997-data-integration-management-in-hete-de2429]]
-- c_cobol_rpg_abap4_and_proprietary — [[study-1997-data-integration-management-in-hete-de2429]]
-- virtually_any_dbms_or_file_system — [[study-1997-data-integration-management-in-hete-de2429]]
-- metastore_mdx_browsing_reporting — [[study-1997-data-integration-management-in-hete-de2429]]
-- bidirectional_legacy_access_scripting_metadata — [[study-1997-data-integration-management-in-hete-de2429]]
-- data_integration_management_specialist — [[study-1997-data-integration-management-in-hete-de2429]]
-- success_first_methodology — [[study-1997-data-integration-management-in-hete-de2429]]
-- strategic_alliance_partners_program — [[study-1997-data-integration-management-in-hete-de2429]]
-- integral_part_of_it_infrastructure — [[study-1997-data-integration-management-in-hete-de2429]]
-- acquired_market_consolidated — [[study-1997-data-integration-management-in-hete-de2429]]
-- users_should_take_close_look_at_eti_today — [[study-1997-data-integration-management-in-hete-de2429]]
+- integral_part_of_it_infrastructure `[ps=5]` — [[study-1997-data-integration-management-in-hete-de2429]]
+- compaq_acquired_dec_june_1998 `[ps=5]` — [[study-1997-dec-linkworks-webworker---an-object-db2d2a]]
+- consumers need simpler instructions than IT professionals and have higher support expectations and lower pain tolerance `[ps=5]` — [[study-2001-hp-camera-lab-journal-prod-d90f3f]]
+- Wintel/x86 acts as a structural pressure throughout the 1990s, weakening proprietary and RISC economics even when DEC retained technical strengths. `[ps=5]` — [[study-2026-kastner-dec-longitudinal-22d177]]
+- VAX/VMS provides the installed-base and technical foundation against which later strategic shifts are measured. `[ps=5]` — [[study-2026-kastner-dec-longitudinal-22d177]]
+- Partially verified: DEC was a serious OLTP benchmark and architecture participant, but enterprise database/application economics consolidated around other vendors. `[ps=5]` — [[study-2026-kastner-dec-longitudinal-22d177]]
+- Refuted: Windows NT became an enterprise force, but not through Alpha as a durable volume platform. `[ps=5]` — [[study-2026-kastner-dec-longitudinal-22d177]]
+- Digital Equipment Corporation was purchased by Compaq in 1998 for $9.6 billion. `[ps=5]` — [[study-2026-kastner-dec-longitudinal-22d177]]
+- Failed: Digital LinkWorks was discontinued after Compaq acquired DEC in 1998 for $9.6B; Lotus Notes and Microsoft Exchange/Outlook dominated enterprise groupware `[ps=5]` — [[study-aberdeen-1995-digital-linkworks]]
+- Administrators can remotely manage downed desktops, obtain system configuration info, schedule software updates, and perform software distribution `[ps=5]` — [[study-aberdeen-1995-digital-multia]]
+- Multia product line discontinued approximately 1997; Alpha processor line discontinued 2004 following HP acquisition of DEC via Compaq `[ps=5]` — [[study-aberdeen-1995-digital-multia]]
+- Digital Equipment Corporation acquired by Compaq in 1998 for approximately $9.6 billion; Multia and Alpha product lines eventually discontinued `[ps=5]` — [[study-aberdeen-1995-digital-multia]]
+- Failed: Digital was acquired by Compaq for $9.6B in June 1998; Multia product line discontinued ~1997 before acquisition; DEC never achieved enterprise client market leadership `[ps=5]` — [[study-aberdeen-1995-digital-multia]]
+- Failed: Alpha processor discontinued by Compaq/HP by 2004 (final Alpha chip: EV7z); Intel/AMD x86-64 dominated. DEC's Alpha never achieved desktop market penetration. `[ps=5]` — [[study-aberdeen-1995-digital-multia]]
+- Digital acquired by Compaq January 1998 for $9.6B; Digital's NT product line and expertise absorbed into Compaq; independent NT market leadership not achieved `[ps=5]` — [[study-aberdeen-1996-digital-leading-nt-across-enterprise-charge]]
+- Personal Workstations should halve the cost of current low-end Unix workstations while providing superior price/performance; Unix workstation suppliers must cut costs or increase functionality `[ps=5]` — [[study-aberdeen-1996-digitals-personal-workstation-new-markets-channels]]
+- 10-100x performance improvement for in-memory database operations over non-VLM systems `[ps=5]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
+- Acquired by Compaq for $9.6B in June 1998; largest computer industry merger at the time `[ps=5]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
+- DEC had the VAX architecture, a genuine relational database in Rdb, and a transaction monitor — but lacked a verifiable competitive story. `[ps=5]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- VAX architecture was 'magnificent — one of the great minicomputer designs ever produced.' But the battle DEC was winning (mini vs. mainframe) was not the defining war of the 1990s. `[ps=5]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

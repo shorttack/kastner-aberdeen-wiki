@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1977-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Oracle Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- video, text (ConText), spatial options added but still distinct servers not fully integrated; extensibility requires future Oracle Universal Database release — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
-- Oracle8/8i/9i delivered full object-relational features; Oracle became dominant RDBMS vendor — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
+- video, text (ConText), spatial options added but still distinct servers not fully integrated; extensibility requires future Oracle Universal Database release `[ps=5]` — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
+- Oracle8/8i/9i delivered full object-relational features; Oracle became dominant RDBMS vendor `[ps=3]` — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]

@@ -12,9 +12,9 @@ era: "2000-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Windows NT 5.0 / Windows 2000
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Upgrade to Windows NT 5.0 in 2000 — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
-- Windows 2000 released Feb 2000 with 64MB min RAM requirement — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
+- Upgrade to Windows NT 5.0 in 2000 `[ps=4]` — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
+- Windows 2000 released Feb 2000 with 64MB min RAM requirement `[ps=0]` — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]

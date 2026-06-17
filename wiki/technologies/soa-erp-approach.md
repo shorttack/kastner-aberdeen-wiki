@@ -12,9 +12,9 @@ era: "2005-2015"
 lifecycle_at_study: "new"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # SOA ERP — ERP-extension approach
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SOA ERP: offers mid-size and some large companies an entry to SOA via extensions to enterprise-resource-planning application software. — [[study-soa-adoption-eats-up-40-per-cent-of-it-r-d0cf12]]
+- SOA ERP: offers mid-size and some large companies an entry to SOA via extensions to enterprise-resource-planning application software. `[ps=4]` — [[study-soa-adoption-eats-up-40-per-cent-of-it-r-d0cf12]]

@@ -12,9 +12,9 @@ era: "1997-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM Component Broker (CB)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Relatively strong position via MQSeries popularity and NCF introduction — [[study-middle~1-a64fa0]]
+- Relatively strong position via MQSeries popularity and NCF introduction `[ps=4]` — [[study-middle~1-a64fa0]]

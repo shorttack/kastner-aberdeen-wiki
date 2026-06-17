@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # U.S. Transportation and Travel Sector
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- High relative to revenue; travel industry was early internet adopter — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]
+- High relative to revenue; travel industry was early internet adopter `[ps=5]` — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]

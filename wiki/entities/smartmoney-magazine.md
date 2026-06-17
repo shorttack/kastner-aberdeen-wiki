@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Discontinued 2012 (merged into WSJ personal-finance)"
 years_active: "1992-2012"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # SmartMoney (Dow Jones/Hearst joint venture)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SmartMoney magazine ceased print publication Sep 2012; content merged into WSJ personal-finance online; smartmoney.com URL redirected to WSJ — [[study-great-rebate-debate-smartmoney-grant-80650c]]
+- SmartMoney magazine ceased print publication Sep 2012; content merged into WSJ personal-finance online; smartmoney.com URL redirected to WSJ `[ps=5]` — [[study-great-rebate-debate-smartmoney-grant-80650c]]

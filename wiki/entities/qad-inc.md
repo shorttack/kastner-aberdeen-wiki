@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1979-"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # QAD Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 92% of customer base remain on support 5 years after purchase — [[study-erpv2p~1-b15573]]
-- 100% JAVA and CORBA compliant; ability to manage entire extended supply chain — [[study-erpv2p~1-b15573]]
+- 92% of customer base remain on support 5 years after purchase `[ps=4]` — [[study-erpv2p~1-b15573]]
+- 100% JAVA and CORBA compliant; ability to manage entire extended supply chain `[ps=3]` — [[study-erpv2p~1-b15573]]

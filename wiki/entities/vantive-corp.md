@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Oracle (via PeopleSoft)"
 years_active: "1990-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # The Vantive Corporation
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CRM suite vendor covering SFA, call center, and field service; publicly traded — [[study-1997-cis-report-ba825e]]
-- Vantive positioned as integrated CRM vendor; expected to grow as market consolidates — [[study-1997-cis-report-ba825e]]
-- Acquired by PeopleSoft in $433M stock-for-stock deal (December 1999); PeopleSoft then acquired by Oracle ($10.3B, 2004); Vantive brand dissolved — [[study-1997-cis-report-ba825e]]
+- Acquired by PeopleSoft in $433M stock-for-stock deal (December 1999); PeopleSoft then acquired by Oracle ($10.3B, 2004); Vantive brand dissolved `[ps=5]` — [[study-1997-cis-report-ba825e]]
+- Vantive positioned as integrated CRM vendor; expected to grow as market consolidates `[ps=2]` — [[study-1997-cis-report-ba825e]]
+- CRM suite vendor covering SFA, call center, and field service; publicly traded `[ps=0]` — [[study-1997-cis-report-ba825e]]

@@ -12,9 +12,9 @@ era: "1996-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # MICA (Modem ISDN Channel Aggregation) Technology
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- High-density digital modem concentration for next-gen ISP access servers; enables sub-T3 installations — [[study-aberdeen-1996-remote-access-cisco-untold-story]]
+- High-density digital modem concentration for next-gen ISP access servers; enables sub-T3 installations `[ps=3]` — [[study-aberdeen-1996-remote-access-cisco-untold-story]]

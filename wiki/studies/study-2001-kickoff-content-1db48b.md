@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Group 2001 Kickoff — Enhanced Practice Opportunities
@@ -32,8 +32,8 @@ _Published 2001, author **Peter S. Kastner / Aberdeen Group**, type **employer-r
 
 ## Top observations
 
+- e-Profiles listed as Enhanced Practice Opportunity (Level 3-4) `[ps=0]`
 - Year 2000 Aberdeen Group Source: Aberdeen Group © 2000 (January 2001 kickoff)
 - Level 1 (X): Practice Definition — bio, practice summary/white paper, core services (RAMPs, collateral development, customer education, MarCom support)
 - Levels 2-4: Reports; Retainers; Multi-Client Studies; Survey Services; Field Sales Training; e-Learning; e-Profiles; Cross-Group Retainers
 - e-Learning listed as Enhanced Practice Opportunity (Level 3-4)
-- e-Profiles listed as Enhanced Practice Opportunity (Level 3-4)

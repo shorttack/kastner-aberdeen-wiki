@@ -3,7 +3,7 @@ title: "Vitria Testimonials — Aberdeen on BPA / SOA Stack"
 slug: "study-vitria-testimonials-kastner-bpa-soa-rese-93ccae"
 page_type: "study"
 tags: ["type/study", "collection/vendor-marketing-page"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "vitria-testimonials-kastner-bpa-soa-rese-93ccae"
 author: "Vitria Technology, Inc."
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.75
+prescience_obs_count: 4
 ---
 
 # Vitria Testimonials — Aberdeen on BPA / SOA Stack
@@ -32,8 +32,8 @@ _Published 2007, author **Vitria Technology, Inc.**, type **vendor-marketing-pag
 
 ## Top observations
 
-- Vitria's BPA vision aligns with our recent primary research: getting to process excellence by traditional means requires complex, custom, and costly integration of applications
-- Buyers believe an SOA stack is the right integration strategy for the future
-- Users want better and more timely views into their business processes
+- Vitria's BPA vision aligns with our recent primary research: getting to process excellence by traditional means requires complex, custom, and costly integration of applications `[ps=4]`
+- Buyers believe an SOA stack is the right integration strategy for the future `[ps=4]`
+- Users want better and more timely views into their business processes `[ps=4]`
+- SOA stack is the right integration strategy for the future `[ps=3]`
 - Goodyear, BP, ALLTEL, KPMG/BearingPoint, MasterBrand, SureWest cited as customers/partners
-- SOA stack is the right integration strategy for the future

@@ -12,9 +12,9 @@ era: "1996-2015"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # HP StorageWorks
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- StorageWorks identified as key strategic pillar supporting long-term HP competitiveness — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]
+- StorageWorks identified as key strategic pillar supporting long-term HP competitiveness `[ps=4]` — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]

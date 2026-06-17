@@ -3,7 +3,7 @@ title: "LaGrande Technology — A Proposal: Consumer Market Research for Intel L
 slug: "study-intel-consumer-lt-10-5-03-580af7"
 page_type: "study"
 tags: ["type/study", "collection/expert-report"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "intel-consumer-lt-10-5-03-580af7"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.72
+prescience_obs_count: 18
 ---
 
 # LaGrande Technology — A Proposal: Consumer Market Research for Intel LT
@@ -32,25 +32,25 @@ _Published 2003, author **Peter S. Kastner**, type **expert-report**._
 
 ## Top observations
 
-- Business-only; consumer segment de-prioritized
-- North of $150 million annually
-- At or above 10 million units
-- ~$100 per PC retail
-- Consumers: highest volume; B2C: second; B2B: lowest
-- LT Platform = LT hardware + OS + applications
-- Consumers surveyed on identity theft and privacy concerns when connected to Internet; ongoing basis past year
-- At least 6 occasions over last 18 months
+- Business-only; consumer segment de-prioritized `[ps=4]`
+- At or above 10 million units `[ps=4]`
+- BLASTER virus cited as example shifting consumer attitudes on security `[ps=4]`
+- Leading up to LT market introduction over 2+ year period from Q4-2003 `[ps=4]`
+- Consumers: highest volume; B2C: second; B2B: lowest `[ps=3]`
+- LT Platform = LT hardware + OS + applications `[ps=3]`
+- Both hardware and software must be ubiquitous to maximize volumes; revenue models may differ for consumers vs businesses `[ps=3]`
+- ~$100 per PC retail `[ps=2]`
+- US, Canada, Japan, Germany, UK (France/Italy substitute; Mexico optional; China excluded as political case) `[ps=2]`
+- Addressable consumer market for LT exists at time of introduction; worth pursuing `[ps=2]`
+- North of $150 million annually `[ps=0]`
+- Consumers surveyed on identity theft and privacy concerns when connected to Internet; ongoing basis past year `[ps=0]`
+- At least 6 occasions over last 18 months `[ps=0]`
+- US, Japan, Germany, UK, France, China (special), Italy, Canada, Brazil, Mexico `[ps=0]`
+- 3 phases: consumer qualitative, business qualitative, consumer quantitative + tracking `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Concepts discussed at IDF September 2003 `[ps=0]`
+- Face-to-face meeting with Intel within 1-2 weeks to discuss approach `[ps=0]`
 - Microsoft in NDA discussions with Aberdeen on related trusted computing technologies
 - Intel and Microsoft among TCG members; Aberdeen engaged with multiple members
-- US, Japan, Germany, UK, France, China (special), Italy, Canada, Brazil, Mexico
-- US, Canada, Japan, Germany, UK (France/Italy substitute; Mexico optional; China excluded as political case)
 - Q4-2003 start; 90-120 days to completion; focus groups may start Q1-04
-- 3 phases: consumer qualitative, business qualitative, consumer quantitative + tracking
-- BLASTER virus cited as example shifting consumer attitudes on security
-- Addressable consumer market for LT exists at time of introduction; worth pursuing
-- [UNVERIFIED]
 - Demographics, early adopter drivers, ID theft fear, psycho-behavioral attributes by culture/country, pricing, distribution channels
-- Concepts discussed at IDF September 2003
-- Face-to-face meeting with Intel within 1-2 weeks to discuss approach
-- Both hardware and software must be ubiquitous to maximize volumes; revenue models may differ for consumers vs businesses
-- Leading up to LT market introduction over 2+ year period from Q4-2003

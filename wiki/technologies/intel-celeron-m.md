@@ -12,9 +12,9 @@ era: "2003-2009"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel Celeron M mobile processor
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Mercury Research president Dean McCarron: 2004 is probably going to be one of the more exciting years in microprocessors because of all the new products and the positioning. `[ps=0]` — [[study-technology-news-hardware-intel-unveils-l-1f420a]]
 - EMachines, HP, and Compaq have the $900 and lower price categories stocked - and not just with Intel Celeron machines, as would have been the case 6 months ago. — [[study-dct-weekly-2003-04-06]]
 - The Celeron M is not a 'dumbing down'; Intel's chip is simply a low-cost, high-performance microprocessor designed for the wireless world. It will be quickly incorporated into value-oriented, under-$1,000 machines. — [[study-technology-news-hardware-intel-unveils-l-1f420a]]
-- Mercury Research president Dean McCarron: 2004 is probably going to be one of the more exciting years in microprocessors because of all the new products and the positioning. — [[study-technology-news-hardware-intel-unveils-l-1f420a]]
 - Intel Celeron M pricing: 1.3 GHz $134, 1.2 GHz $107, 800 MHz ULV $161 (all in 1,000-unit quantities). 0.13-micron process; value-vs-Pentium-M differentiation. — [[study-technology-news-hardware-intel-unveils-l-1f420a]]

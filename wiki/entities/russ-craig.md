@@ -12,9 +12,9 @@ status: "unknown"
 successor: "[DEFERRED]"
 years_active: "unknown [REVIEW]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Russ Craig
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Research Director, Semiconductors — [[study-dct-webinar-announcement-2002-11]]
+- Research Director, Semiconductors `[ps=0]` — [[study-dct-webinar-announcement-2002-11]]

@@ -3,7 +3,7 @@ title: "Creating a Successful dot.com: The Devil Is in the Details"
 slug: "study-2000-kpmg-creating-a-successful-dot-com-the-devil-is-in-9dea24"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2000-kpmg-creating-a-successful-dot-com-the-devil-is-in-9dea24"
 author: "Stephen Lane"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 7
 ---
 
 # Creating a Successful dot.com: The Devil Is in the Details
@@ -32,13 +32,13 @@ _Published 2000, author **Stephen Lane**, type **white-paper**._
 
 ## Top observations
 
-- Launched Microsoft Dot.com Practice — co-branded e-business consulting offering with Microsoft
-- Traditional firms must redesign strategy, processes, and technology to compete in Internet economy
-- Pure-play dot-coms face operational scaling challenges as they grow
+- Traditional firms must redesign strategy, processes, and technology to compete in Internet economy `[ps=5]`
+- Consulting firms restructuring practices to deliver e-business advisory services `[ps=5]`
+- Pure-play dot-coms face operational scaling challenges as they grow `[ps=4]`
+- Launched Microsoft Dot.com Practice — co-branded e-business consulting offering with Microsoft `[ps=0]`
+- Focused on helping existing and would-be dot.com companies deal with Internet economy challenges `[ps=0]`
+- KPMG Consulting renamed BearingPoint 2002; US operations filed Chapter 11 bankruptcy Feb 2009 `[ps=0]`
+- Vendor-sponsored white paper (KPMG Consulting sponsor); not independent research `[ps=0]`
 - Early dot-com winners face commoditization as followers copy business models
-- Consulting firms restructuring practices to deliver e-business advisory services
-- Focused on helping existing and would-be dot.com companies deal with Internet economy challenges
 - KPMG Consulting well-positioned to capture e-business consulting market as premier provider
-- KPMG Consulting renamed BearingPoint 2002; US operations filed Chapter 11 bankruptcy Feb 2009
 - NASDAQ peaked March 2000 (just 5 weeks after publication), fell 78% by Oct 2002; most dot-coms failed
-- Vendor-sponsored white paper (KPMG Consulting sponsor); not independent research

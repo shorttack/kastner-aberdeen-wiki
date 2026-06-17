@@ -12,9 +12,9 @@ era: "1991-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Oracle Express (IRI Software)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- server-based MDB with sparse-matrix — [[study-aberdeen-1995-data-warehouse-olap]]
+- server-based MDB with sparse-matrix `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]

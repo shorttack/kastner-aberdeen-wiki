@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Gustavo Fernandez
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP as best mainframe alternative — [[study-hp-mainframe-alternative-fernandez-mfasc-a2179f]]
+- HP as best mainframe alternative `[ps=2]` — [[study-hp-mainframe-alternative-fernandez-mfasc-a2179f]]

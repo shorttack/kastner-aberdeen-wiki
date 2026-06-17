@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "production"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Transactions Per Second (TPS) per processor
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $23,100 per TPS per Stratus internal figures published by Serlin — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
+- $23,100 per TPS per Stratus internal figures published by Serlin `[ps=0]` — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]

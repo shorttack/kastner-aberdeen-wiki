@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Mto%204Q04%20 %20Proactive%20Service%20102804A (Aberdeen, 2010)"
 slug: "study-mto-204q04-20-20proactive-20service-20102804a-3388b9"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Mto%204Q04%20 %20Proactive%20Service%20102804A (Aberdeen, 2010)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study mto-204q04-20-20proactive-20service-20102804a-3388b9. Source: mto%204q04%20-%20proactive%20service%20102804a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2010, author **Aberdeen Group**, type **market-study**._
@@ -32,4 +32,4 @@ _Published 2010, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

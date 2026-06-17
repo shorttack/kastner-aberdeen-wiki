@@ -12,9 +12,9 @@ era: "2007-2012"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Intel ClassMate PC
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Intel ClassMate PC discontinued ~2012 — [[study-kastner-letter-to-craig-barrett-intel-2008-1ea221]]
+- Intel ClassMate PC discontinued ~2012 `[ps=3]` — [[study-kastner-letter-to-craig-barrett-intel-2008-1ea221]]

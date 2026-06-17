@@ -12,9 +12,9 @@ era: "1998-2008"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Windows Terminal Services
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen surveyed dozens of IS managers evaluating NT-based multi-user computing — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]
+- Aberdeen surveyed dozens of IS managers evaluating NT-based multi-user computing `[ps=0]` — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]

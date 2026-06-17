@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "HP (May 2002 merger); brand retired 2013"
 years_active: "1982-2002"
 occurrence_count: 33
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.44
+prescience_obs_count: 18
 ---
 
 # Compaq Computer Corporation
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 38000 (top 14 = ~50% of revenue) — [[study-1998as400-1-146289]]
+- HP completed acquisition of Compaq in May 2002 for ~$25B `[ps=5]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- Meets product breadth/depth requirements but lacks enterprise-level systems integration and deployment experience necessary for mission-critical NT `[ps=4]` — [[study-aberdeen-1996-digital-leading-nt-across-enterprise-charge]]
+- HP's printer and Compaq's storage products are possible exceptions to significant product integration decisions required `[ps=4]` — [[study-hp-compaq-kastner-insight1-a5a4e0]]
+- #2 NT position achieved in only 16 months; strategy: right price for low-end and mid-range enterprise `[ps=4]` — [[study-workst~1-d22401]]
+- Acquired by HP in May 2002 for $25 billion; brand discontinued `[ps=3]` — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
+- $550 iPaq PDA costs less to make than a $550 low-end PC — more profitable sale `[ps=3]` — [[study-dct-hp-compaq-pcs-insight-2001-09]]
+- HP has not adequately differentiated Compaq and HP brands in retail channel; marketing dollars not effective; Dell ruthlessly focused. `[ps=3]` — [[study-hp-analyst-phone-call-6-204870]]
+- 38000 (top 14 = ~50% of revenue) `[ps=0]` — [[study-1998as400-1-146289]]
+- Storage products (Compaq); Printers (HP) `[ps=0]` — [[study-2001-hp-compaq-kastner-insight1-d6dc38]]
+- Leading Pocket PC hardware vendor `[ps=0]` — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
+- 6,671 tpmC at $90/tpmC (NT, 4-way, Microsoft SQL Server) `[ps=0]` — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]
+- 8,311 tpmC at $95/tpmC (UnixWare, 4-way, Sybase SQL Server with Tuxedo) `[ps=0]` — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]
+- Compaq ProLiant 4500 NT Server TPC-C showed good midrange OLTP performance but TPC-C V3 excluded end-user device costs `[ps=0]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
+- $24 billion `[ps=0]` — [[study-erppsp~1-31f088]]
+- Compaq acquired by HP in 2002 during paper publication period `[ps=0]` — [[study-infiniband-data-center-wp-2002]]
+- $280 million per year in midrange servers based on SCO Unix `[ps=0]` — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
+- Compaq (SystemPro/SCO), NCR 3450/3550, Sequent Symmetry/Dynix, Unisys U/6000 `[ps=0]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
+- Compaq ProLiant 4000s (x2) `[ps=0]` — [[study-sequent-sap-sequen~1-7f70e4]]
 - Compaq + Digital + Tandem workforce estimated at ~34000 professionals; strengthens enterprise-level and NT-based services — [[study-1999pr~1-c5516b]]
-- HP completed acquisition of Compaq in May 2002 for ~$25B — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
-- Storage products (Compaq); Printers (HP) — [[study-2001-hp-compaq-kastner-insight1-d6dc38]]
-- Leading Pocket PC hardware vendor — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
-- Acquired by HP in May 2002 for $25 billion; brand discontinued — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
 - Compaq iPAQ identified as leading Pocket PC hardware driving enterprise Pocket PC adoption — [[study-2001-winning-the-enterprise-pocket-pc-will-he-pervasive-7686b2]]
-- Compaq was major PC vendor contributing volume to the merged entity — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
-- 6,671 tpmC at $90/tpmC (NT, 4-way, Microsoft SQL Server) — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]
-- 8,311 tpmC at $95/tpmC (UnixWare, 4-way, Sybase SQL Server with Tuxedo) — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]
-- Meets product breadth/depth requirements but lacks enterprise-level systems integration and deployment experience necessary for mission-critical NT — [[study-aberdeen-1996-digital-leading-nt-across-enterprise-charge]]
-- Compaq ProLiant 4500 NT Server TPC-C showed good midrange OLTP performance but TPC-C V3 excluded end-user device costs — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
-- Compaq 486/50L: ~$110K 5-year cost at 39.7-46 tps-B — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
-- $1098 avg (range $600-$1554); 8 SKUs; 4 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
-- $1047 avg (range $500-$1684); 13 SKUs; 8 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
-- $1144 avg (range $570-$1683); 9 SKUs; 8 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
-- $1108 avg (range $600-$1692); 11 SKUs; 5 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
-- $873 avg (range $450-$1449); 10 SKUs; 7 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
-- $783 avg (range $500-$1050); 8 SKUs; 6 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
-- $769 avg (range $449-$1300); 9 SKUs; 5 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]

@@ -12,9 +12,9 @@ era: "1996-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # OLAP for Information (OLAP-I)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Server-based technology analogous to OLAP but applied to non-numeric information; unique in market — [[study-perspecta-inc-september-1997-b8e81d]]
+- Server-based technology analogous to OLAP but applied to non-numeric information; unique in market `[ps=3]` — [[study-perspecta-inc-september-1997-b8e81d]]

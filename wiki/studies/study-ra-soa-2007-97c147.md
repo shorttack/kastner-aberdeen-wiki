@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 76
 ---
 
 # SOA and Web Services Testing: How Different Can It Be? (Full Unabridged Version)
@@ -32,28 +32,28 @@ _Published 2007, author **Aberdeen Group (Perry Donham)**, type **employer-recor
 
 ## Top observations
 
-- 94%
-- 76%
-- 17%
-- 61%
-- 46%
-- 18%
-- 57%
-- 31%
-- 21%
-- 71%
-- 50%
-- 13%
-- 81%
-- 48%
-- 49%
-- 70%
-- 55%
-- 60%
-- 28%
-- 20%
-- 7%
-- 51%
-- 62%
-- 38%
-- 28%
+- 94% `[ps=0]`
+- 17% `[ps=0]`
+- 61% `[ps=0]`
+- 18% `[ps=0]`
+- 21% `[ps=0]`
+- 71% `[ps=0]`
+- 13% `[ps=0]`
+- 81% `[ps=0]`
+- 48% `[ps=0]`
+- 49% `[ps=0]`
+- 70% `[ps=0]`
+- 55% `[ps=0]`
+- 60% `[ps=0]`
+- 28% `[ps=0]`
+- 20% `[ps=0]`
+- 7% `[ps=0]`
+- 62% `[ps=0]`
+- 38% `[ps=0]`
+- 28% `[ps=0]`
+- 21% `[ps=0]`
+- 81% `[ps=0]`
+- 54% `[ps=0]`
+- 48% `[ps=0]`
+- 26% `[ps=0]`
+- 57% `[ps=0]`

@@ -12,9 +12,9 @@ era: "1983-1986"
 lifecycle_at_study: "internal-tool"
 lifecycle_current: "superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # TP-1 performance model (Stratus internal)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2.9 — [[study-stratus-tp-1-internal-benchmark-guide-19-9b51bf]]
+- Requester (COBOL/TPF) + Server (PL/1) pattern; transactions on delay interval; no screen/comm I/O; duplicated servers; varied file types/sizes `[ps=4]` — [[study-stratus-tp-1-internal-benchmark-guide-19-9b51bf]]
+- 2.9 `[ps=0]` — [[study-stratus-tp-1-internal-benchmark-guide-19-9b51bf]]
+- 1.8 `[ps=0]` — [[study-stratus-tp-1-internal-benchmark-guide-19-9b51bf]]
 - 2.3 — [[study-stratus-tp-1-internal-benchmark-guide-19-9b51bf]]
-- 1.8 — [[study-stratus-tp-1-internal-benchmark-guide-19-9b51bf]]
-- Requester (COBOL/TPF) + Server (PL/1) pattern; transactions on delay interval; no screen/comm I/O; duplicated servers; varied file types/sizes — [[study-stratus-tp-1-internal-benchmark-guide-19-9b51bf]]
 - Cache utilization significant; disk type/count/file-size dominant; multiple server copies help; server priority > requester priority — [[study-stratus-tp-1-internal-benchmark-guide-19-9b51bf]]

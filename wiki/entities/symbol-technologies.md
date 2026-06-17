@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Motorola Solutions"
 years_active: "1975-2007"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Symbol Technologies Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enterprise wireless handheld specialist; strong vertical market position — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
-- Acquired by Motorola for $3.9 billion in January 2007 — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
+- Enterprise wireless handheld specialist; strong vertical market position `[ps=0]` — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
+- Acquired by Motorola for $3.9 billion in January 2007 `[ps=0]` — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]

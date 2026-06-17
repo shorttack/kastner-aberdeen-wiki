@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Dell Latitude (business notebook)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- OptiPlex desktop and Latitude notebook lines retain three-year warranties with NBD on-site service — [[study-warranty-week-dell-warranty-policies-kas-0c084d]]
+- OptiPlex desktop and Latitude notebook lines retain three-year warranties with NBD on-site service `[ps=5]` — [[study-warranty-week-dell-warranty-policies-kas-0c084d]]

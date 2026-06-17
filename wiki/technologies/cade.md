@@ -12,9 +12,9 @@ era: "1992-2002"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # CADE (Client-Server Application Development Environment)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- No vendor has shrink-wrapped solution for all enterprise Internet needs; require Internet-enabled CADEs for customization — [[study-aberdeen-1996-computer-telephony-integration]]
-- Many second-generation CADEs will allow highly scalable Internet application development by mid-1996 — [[study-aberdeen-1996-computer-telephony-integration]]
-- CADEs (PowerBuilder, Delphi, Forte etc.) added Java support by 1997-1998; CADEs largely displaced by Java IDE tools (Eclipse, NetBeans) by 2000 — [[study-aberdeen-1996-computer-telephony-integration]]
+- No vendor has shrink-wrapped solution for all enterprise Internet needs; require Internet-enabled CADEs for customization `[ps=4]` — [[study-aberdeen-1996-computer-telephony-integration]]
+- CADEs (PowerBuilder, Delphi, Forte etc.) added Java support by 1997-1998; CADEs largely displaced by Java IDE tools (Eclipse, NetBeans) by 2000 `[ps=3]` — [[study-aberdeen-1996-computer-telephony-integration]]
+- Many second-generation CADEs will allow highly scalable Internet application development by mid-1996 `[ps=2]` — [[study-aberdeen-1996-computer-telephony-integration]]

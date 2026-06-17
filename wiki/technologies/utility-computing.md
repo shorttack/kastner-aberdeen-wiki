@@ -12,9 +12,9 @@ era: "2002-present"
 lifecycle_at_study: "early"
 lifecycle_current: "evolved-to-cloud"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Utility / On-Demand Computing
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Utility/on-demand computing among IDC top 10 enterprise tech trends — [[study-wired-idc-tech-bucks-hack-threats-2002-e6375d]]
+- Utility/on-demand computing among IDC top 10 enterprise tech trends `[ps=4]` — [[study-wired-idc-tech-bucks-hack-threats-2002-e6375d]]

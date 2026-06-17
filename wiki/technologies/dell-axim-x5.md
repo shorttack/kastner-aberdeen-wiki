@@ -12,9 +12,9 @@ era: "2002-2004"
 lifecycle_at_study: "new"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Dell Axim X5
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- powerful Pocket PC 'without breaking the bank' — [[study-dct-kastner-wish-list-2002-12]]
+- powerful Pocket PC 'without breaking the bank' `[ps=0]` — [[study-dct-kastner-wish-list-2002-12]]

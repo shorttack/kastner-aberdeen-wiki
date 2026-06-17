@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "declining"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Federated Database
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Vision of one enterprise-standard database or federated database encompassing all data sources is 'pretty much dead'; data migration of all legacy databases too hard for most enterprises — [[study-aberdeen-eii-2003-ea3f1a]]
+- Vision of one enterprise-standard database or federated database encompassing all data sources is 'pretty much dead'; data migration of all legacy databases too hard for most enterprises `[ps=4]` — [[study-aberdeen-eii-2003-ea3f1a]]

@@ -12,9 +12,9 @@ era: "2002-2004"
 lifecycle_at_study: "imminent-launch"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Dell PowerEdge 1655MC
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 6 — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]
-- 84 — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]
-- Intel-Pentium-III-dual — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]
+- 6 `[ps=0]` — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]
+- 84 `[ps=0]` — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]
+- Intel-Pentium-III-dual `[ps=0]` — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]

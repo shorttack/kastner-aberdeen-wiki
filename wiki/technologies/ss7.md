@@ -12,9 +12,9 @@ era: "1980-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # SS7 (Signaling System No. 7)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Stratus became embedded infrastructure for SS7 signaling and emerging digital switching systems; five-nines uptime (99.999%, <6 min downtime/year) was entry requirement. `[ps=4]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
 - Rolm digital PBX switching millions of calls was an always-on application; telecom had highest cost of downtime of any industry. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
-- Stratus became embedded infrastructure for SS7 signaling and emerging digital switching systems; five-nines uptime (99.999%, <6 min downtime/year) was entry requirement. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]

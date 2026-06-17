@@ -12,9 +12,9 @@ status: "Active (renamed Apple Inc.)"
 successor: "Apple Inc. (renamed January 2007, dropped 'Computer')"
 years_active: "1976-present"
 occurrence_count: 25
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.39
+prescience_obs_count: 49
 ---
 
 # Apple Computer, Inc. / Apple Inc.
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Apple co-announced NC Reference Profile; developing Mac NC (Pippin) — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]
-- Steve Jobs killed Mac NC/Pippin in late 1997; iMac inherited some NC technology — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]
-- Apple makes great easy-to-use desktops ($750+) and laptops ($1,300+); small share of consumer PC market — [[study-charlotte-observer-shain-back-to-school--4ec261]]
-- single-processor G5 models shipping last week (approx Jun 2003); dual-processor weeks behind — [[study-dct-apple-powermac-g5-2003-06]]
-- G5 is workstation, not confused with high-end home PC — [[study-dct-apple-powermac-g5-2003-06]]
-- 2.0 GHz G5 beats Intel Xeon and P4 in floating point — [[study-dct-apple-powermac-g5-2003-06]]
-- 2.0 GHz G5 loses to Xeon and P4 in integer — [[study-dct-apple-powermac-g5-2003-06]]
-- dual-G5 beats Xeon and P4 in integer, handily wins floating point — [[study-dct-apple-powermac-g5-2003-06]]
-- Alpha, HP-PA, IBM PowerPC, Sun and Intel Itanium 2 all had 64-bit workstations first — [[study-dct-apple-powermac-g5-2003-06]]
-- supports up to 8 GB DDR-400 SDRAM — [[study-dct-apple-powermac-g5-2003-06]]
-- $3998 configured Power Mac G5 (dual 2GHz, 512MB, 160GB SATA, SuperDrive, ATI 9800 Pro, 17in Studio Display) — [[study-dct-apple-powermac-g5-2003-06]]
-- single-processor 1.6 GHz, no monitor, starts at $1999 — [[study-dct-apple-powermac-g5-2003-06]]
-- 1 GHz front-side bus per processor — [[study-dct-apple-powermac-g5-2003-06]]
-- three PCI-X I/O slots for server-grade peripherals — [[study-dct-apple-powermac-g5-2003-06]]
-- 8x AGP support with latest ATI and nVidia cards — [[study-dct-apple-powermac-g5-2003-06]]
-- 5 USB ports, FireWire 800, gigabit Ethernet, optical digital and analog audio — [[study-dct-apple-powermac-g5-2003-06]]
-- G5 renovates Apple base rather than attacks PC world — [[study-dct-apple-powermac-g5-2003-06]]
-- enterprise Mac users should benchmark work files on G5 — [[study-dct-apple-powermac-g5-2003-06]]
-- -50% US / -40% WW — [[study-dct-personal-it-forecast-research-2001]]
-- No head-to-head competition — [[study-dct-why-aberdeen-follows-pc-deals-2002]]
+- single-processor G5 models shipping last week (approx Jun 2003); dual-processor weeks behind `[ps=5]` — [[study-dct-apple-powermac-g5-2003-06]]
+- Alpha, HP-PA, IBM PowerPC, Sun and Intel Itanium 2 all had 64-bit workstations first `[ps=5]` — [[study-dct-apple-powermac-g5-2003-06]]
+- G5 renovates Apple base rather than attacks PC world `[ps=5]` — [[study-dct-apple-powermac-g5-2003-06]]
+- Apple discontinued Xserve in January 2011 — confirming Kastner's 'channels and acceptance' caution; Apple reverted to non-rack-mount Mac mini/Mac Pro server-class offerings `[ps=5]` — [[study-hostingtech-apple-xserve-asia-zieger-200-052af6]]
+- No major management issues anticipated during limited-duration leave `[ps=5]` — [[study-mac-news-business-is-apple-prepared-for-727ea9]]
+- Tim Cook became CEO on Aug 24, 2011; Jobs died Oct 5, 2011. Transition widely regarded as orderly `[ps=5]` — [[study-mac-news-business-is-apple-prepared-for-727ea9]]
+- Apple discontinued Xserve in January 2011 without further major HPC wins; Apple effectively exited supercomputing by late 2000s `[ps=5]` — [[study-mac-news-computers-us-army-drafts-apple-c2f6f9]]
+- Tiger (Apple's fifth OS X version) coming in year ahead `[ps=5]` — [[study-mac-news-enterprise-systems-apple-s-ente-59fab0]]
+- Apple enterprise adoption came via iPhone/iPad BYOD and vertical deployments (healthcare, retail, logistics); Xserve/OS X Server plays exited `[ps=5]` — [[study-mac-news-enterprise-systems-apple-s-ente-59fab0]]
+- Mac ~15-20% global desktop; Linux ~2-4%. #2 question settled in favor of Mac `[ps=5]` — [[study-mac-os-vs--linux-who-s-2-the-mac-observe-34e63d]]
+- IBM failed to deliver a 3 GHz PowerPC G5 within 12 months as promised at the Jun 2003 introduction; G5 topped out at 2.7 GHz desktop (2005) and never shipped in laptop form due to heat/power — directly prompting Steve Jobs' WWDC Jun 2005 Intel-transition announcement. `[ps=5]` — [[study-technology-news-hardware-apple-s-power-m-91980c]]
+- Apple makes great easy-to-use desktops ($750+) and laptops ($1,300+); small share of consumer PC market `[ps=4]` — [[study-charlotte-observer-shain-back-to-school--4ec261]]
+- G5 is workstation, not confused with high-end home PC `[ps=4]` — [[study-dct-apple-powermac-g5-2003-06]]
+- 2.0 GHz G5 loses to Xeon and P4 in integer `[ps=4]` — [[study-dct-apple-powermac-g5-2003-06]]
+- Indirect channel partners not strong enough to win large enterprise deals `[ps=4]` — [[study-linux-news-enterprise-systems-apple-s-en-a8fdd0]]
+- Apple will turn up the heat via specialized markets (verticals) inside enterprises, not head-on F500 plays `[ps=4]` — [[study-mac-news-enterprise-systems-apple-s-ente-59fab0]]
+- Solid foothold at universities `[ps=4]` — [[study-mac-news-science-the-science-of-this-yea-bb35b4]]
+- 'Apple will have problems filling G5 orders' but demand will not materially impact overall desktop share `[ps=4]` — [[study-macdailynews-analyst-apple-will-have-pro-54defe]]
+- Xserve product line discontinued January 2011 — validated Kastner's 2002 prediction `[ps=4]` — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]
+- Apple announced Intel transition WWDC Jun 2005, shipped first Intel Macs Jan 2006, completed transition by Aug 2006 — validating Kastner's implicit skepticism that PowerPC G5 would retain a unique performance position. Power Mac Pro with Intel Xeon shipped Aug 2006. `[ps=4]` — [[study-technology-news-hardware-amd-beats-apple-5399ec]]

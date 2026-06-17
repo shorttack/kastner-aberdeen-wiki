@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1943-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # US National Laboratories (HPC)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Multiple Linux-based clusters in Top20: Columbia SGI Altix (Linux), MCR Linux Cluster, Lightning Linux Cluster visible in Top500 Nov 2004 — [[study-2001-is-linux-domination-of-the-high-perform-computing--0d06ef]]
+- Multiple Linux-based clusters in Top20: Columbia SGI Altix (Linux), MCR Linux Cluster, Lightning Linux Cluster visible in Top500 Nov 2004 `[ps=4]` — [[study-2001-is-linux-domination-of-the-high-perform-computing--0d06ef]]

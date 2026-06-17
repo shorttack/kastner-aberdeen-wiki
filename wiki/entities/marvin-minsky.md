@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Marvin Minsky
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kastner's MIT roommate worked around the corner from where Marvin Minsky was building frameworks that defined the AI field for a generation. — [[study-volume-1-ch10-the-long-view-1966-2026]]
+- Kastner's MIT roommate worked around the corner from where Marvin Minsky was building frameworks that defined the AI field for a generation. `[ps=4]` — [[study-volume-1-ch10-the-long-view-1966-2026]]

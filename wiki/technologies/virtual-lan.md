@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Virtual LAN (VLAN)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Virtual Networking cited for security, bandwidth management, and ease of moves/adds/changes — [[study-aberdeen-1995-3com-lanplex-2500]]
+- Virtual Networking cited for security, bandwidth management, and ease of moves/adds/changes `[ps=5]` — [[study-aberdeen-1995-3com-lanplex-2500]]

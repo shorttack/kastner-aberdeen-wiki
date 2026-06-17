@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # John D. Porter
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- The question for corporations and higher education is not simply whether to build a warehouse, but when. — [[study-data-warehouse-2-years-later-cause-1994-721bb1]]
-- A data warehouse is often the first client/server application that institutions attempt. — [[study-data-warehouse-2-years-later-cause-1994-721bb1]]
+- The question for corporations and higher education is not simply whether to build a warehouse, but when. `[ps=5]` — [[study-data-warehouse-2-years-later-cause-1994-721bb1]]
+- A data warehouse is often the first client/server application that institutions attempt. `[ps=2]` — [[study-data-warehouse-2-years-later-cause-1994-721bb1]]

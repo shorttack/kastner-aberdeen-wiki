@@ -12,9 +12,9 @@ era: "1988-2005"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Progress Relational Database Engine
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Avoids head-to-head battles; sells via VAR/ISV; best fit RS/6000 uniprocessor or small SMP; modest scalability — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- Avoids head-to-head battles; sells via VAR/ISV; best fit RS/6000 uniprocessor or small SMP; modest scalability `[ps=4]` — [[study-rdbms-for-ibm-powera~1-7a44be]]

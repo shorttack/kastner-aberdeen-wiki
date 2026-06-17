@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'SSO is active. Known answer applied.', 'source': 'known'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Single Sign-On (SSO)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- few will emerge before 2000 enabling integrated I&A and IAC — [[study-securi~1-3e7ced]]
+- few will emerge before 2000 enabling integrated I&A and IAC `[ps=5]` — [[study-securi~1-3e7ced]]

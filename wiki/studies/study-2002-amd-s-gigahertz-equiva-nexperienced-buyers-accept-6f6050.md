@@ -3,7 +3,7 @@ title: "AMD's Gigahertz Equivalency: Inexperienced Buyers Accept Bad Science"
 slug: "study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept-6f6050"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.58
+prescience_obs_count: 12
 ---
 
 # AMD's Gigahertz Equivalency: Inexperienced Buyers Accept Bad Science
@@ -32,16 +32,16 @@ _Published 2002, author **Peter S. Kastner**, type **white-paper**._
 
 ## Top observations
 
-- Using clock-speed GHz equivalency ratings pegged to Intel Pentium 4
-- Assumes specific usage model not applicable to many users
-- Ignores critical platform differences including memory type
-- Inconsistent ratings between mobile and desktop processor lines
-- Uses system-level I/O benchmarks not used by industry for processor-only measurement
-- Bad science / slippery slope
+- Methodology is fundamentally flawed and unlikely to be sustained `[ps=5]`
+- Ignores critical platform differences including memory type `[ps=4]`
+- Assumes specific usage model not applicable to many users `[ps=3]`
+- Dominant clock-speed marketing set market expectation AMD had to counter `[ps=3]`
+- Processor-only benchmarks; I/O not included in CPU measurement `[ps=3]`
+- AMD launched Athlon 64 in September 2003 without GHz-Equivalency PR ratings `[ps=1]`
+- Using clock-speed GHz equivalency ratings pegged to Intel Pentium 4 `[ps=0]`
+- Inconsistent ratings between mobile and desktop processor lines `[ps=0]`
+- Uses system-level I/O benchmarks not used by industry for processor-only measurement `[ps=0]`
+- Bad science / slippery slope `[ps=0]`
+- Reference platform for AMD's equivalency claims `[ps=0]`
+- Athlon XP 2100+ runs at 1733 MHz; implies equivalence to Intel Pentium 4 at 2100 MHz `[ps=0]`
 - Inexperienced buyers accept the misleading ratings
-- Methodology is fundamentally flawed and unlikely to be sustained
-- AMD launched Athlon 64 in September 2003 without GHz-Equivalency PR ratings
-- Reference platform for AMD's equivalency claims
-- Dominant clock-speed marketing set market expectation AMD had to counter
-- Athlon XP 2100+ runs at 1733 MHz; implies equivalence to Intel Pentium 4 at 2100 MHz
-- Processor-only benchmarks; I/O not included in CPU measurement

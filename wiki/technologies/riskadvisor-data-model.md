@@ -12,9 +12,9 @@ era: "1996-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # RiskAdvisor Data Model (RDM)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Highly refined RDBMS star schema (RDM) organizing insurer data by master policy and claim records with premium/claim financial transactions — [[study-platinum-riskadvisor-ec30de]]
+- Highly refined RDBMS star schema (RDM) organizing insurer data by master policy and claim records with premium/claim financial transactions `[ps=4]` — [[study-platinum-riskadvisor-ec30de]]

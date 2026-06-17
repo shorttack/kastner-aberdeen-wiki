@@ -12,9 +12,9 @@ era: "1999-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Internet-Based ERP Architecture
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Must be built on Internet computing architecture — [[study-2000-oracle-the-e-business-supply-chain-meeting-cu-r-re-1a72ef]]
+- Must be built on Internet computing architecture `[ps=4]` — [[study-2000-oracle-the-e-business-supply-chain-meeting-cu-r-re-1a72ef]]
+- Must support demand-driven business procedures `[ps=4]` — [[study-2000-oracle-the-e-business-supply-chain-meeting-cu-r-re-1a72ef]]
 - Must enable universal self-service access — [[study-2000-oracle-the-e-business-supply-chain-meeting-cu-r-re-1a72ef]]
-- Must support demand-driven business procedures — [[study-2000-oracle-the-e-business-supply-chain-meeting-cu-r-re-1a72ef]]

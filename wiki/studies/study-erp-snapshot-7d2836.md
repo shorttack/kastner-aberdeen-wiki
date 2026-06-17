@@ -1,5 +1,5 @@
 ---
-title: "==> picture [222 x 36] intentionally omitted <=="
+title: "Erp Snapshot (Aberdeen, 2007)"
 slug: "study-erp-snapshot-7d2836"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [222 x 36] intentionally omitted <==
+# Erp Snapshot (Aberdeen, 2007)
 
-> This study analyzes ==> picture [222 x 36] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study erp-snapshot-7d2836. Source: erp_snapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **benchmark**._
@@ -32,4 +32,4 @@ _Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- This study analyzes ==> picture [222 x 36] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [222 x 36] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

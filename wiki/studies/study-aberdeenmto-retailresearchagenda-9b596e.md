@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 117] intentionally omitted <=="
+title: "Aberdeenmto Retailresearchagenda (Aberdeen, 1988)"
 slug: "study-aberdeenmto-retailresearchagenda-9b596e"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.0
-prescience_obs_count: 3
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
-# ==> picture [441 x 117] intentionally omitted <==
+# Aberdeenmto Retailresearchagenda (Aberdeen, 1988)
 
-> This study analyzes ==> picture [441 x 117] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study aberdeenmto-retailresearchagenda-9b596e. Source: aberdeenmto-retailresearchagenda.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 1988, author **Retail Research**, type **benchmark**._
@@ -34,4 +34,4 @@ _Published 1988, author **Retail Research**, type **benchmark**._
 
 - The merchandising infrastructure of the 21st century is enabled by best-in-class applications that combine predictive forecasting and advanced analytics. `[ps=4]`
 - **Practical Collaboration —** Retailers and their suppliers digging out from the effects of purchase order errors waste a well-documented $40 billion. `[ps=0]`
-- This study analyzes ==> picture [441 x 117] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 117] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

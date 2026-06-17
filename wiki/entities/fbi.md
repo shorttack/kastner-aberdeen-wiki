@@ -12,9 +12,9 @@ status: "operating"
 successor: ""
 years_active: "1908-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Federal Bureau of Investigation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 90% of FBI/CSI respondents detected computer security breaches in past year — [[study-topic-iia-pc-management-best-practices-2003-10]]
+- 90% of FBI/CSI respondents detected computer security breaches in past year `[ps=0]` — [[study-topic-iia-pc-management-best-practices-2003-10]]

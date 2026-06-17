@@ -12,9 +12,9 @@ era: "1980s-2003"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Management Data Repository (MDR)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Homegrown system; HR, patient, cost data; predates claims adjustment and outpatient — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]
-- Northern California only — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]
+- Homegrown system; HR, patient, cost data; predates claims adjustment and outpatient `[ps=0]` — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]
+- Northern California only `[ps=0]` — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]

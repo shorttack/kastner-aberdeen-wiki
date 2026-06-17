@@ -12,9 +12,9 @@ era: "1996-2000s"
 lifecycle_at_study: "Growth"
 lifecycle_current: "Discontinued (superseded by POWER3/G4/G5 lines)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # PowerPC 604e Processor
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- RS/6000 F50 with PowerPC 604e shipped May 1997 as Aberdeen forecast — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
+- RS/6000 F50 with PowerPC 604e shipped May 1997 as Aberdeen forecast `[ps=5]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]

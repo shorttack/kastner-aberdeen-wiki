@@ -12,9 +12,9 @@ era: "1970s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "declining"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Waterfall Software Development Methodology
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Government procurement relied almost exclusively on waterfall development methods; requirements frozen before development began; catastrophic for software in rapidly changing technology environments — [[study-unisys-florida-hrs-expert-witness-tallah-5b4524]]
+- Government procurement relied almost exclusively on waterfall development methods; requirements frozen before development began; catastrophic for software in rapidly changing technology environments `[ps=5]` — [[study-unisys-florida-hrs-expert-witness-tallah-5b4524]]

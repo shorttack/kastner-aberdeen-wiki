@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 0.5
+prescience_obs_count: 2
 ---
 
 # Internet / E-commerce
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- critical mandatory channel — [[study-retail~1-d5de79]]
-- Prediction proved accurate; e-commerce became dominant channel within 5 years. — [[study-retail~1-d5de79]]
+- Prediction proved accurate; e-commerce became dominant channel within 5 years. `[ps=1]` — [[study-retail~1-d5de79]]
+- critical mandatory channel `[ps=0]` — [[study-retail~1-d5de79]]

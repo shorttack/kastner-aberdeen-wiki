@@ -12,9 +12,9 @@ era: "early 1990s-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # HP OpenMail
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- focused on e-mail market; transaction support planned within 2 years; not a full Commercial Messaging product — [[study-aberdeen-1995-commercial-messaging]]
-- HP indicated transaction support within next 2 years (by approximately 1997) — [[study-aberdeen-1995-commercial-messaging]]
+- focused on e-mail market; transaction support planned within 2 years; not a full Commercial Messaging product `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]
+- HP indicated transaction support within next 2 years (by approximately 1997) `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]

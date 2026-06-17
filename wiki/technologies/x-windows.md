@@ -12,9 +12,9 @@ era: "1984-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature-standard"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # X Window System (X Windows)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- As DECwindows becomes a de facto standard... the environment will become that much more productive — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
-- X Windows managed by MIT-sponsored X Windows Consortium; DEC is member along with 23 other prominent computer vendors — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- As DECwindows becomes a de facto standard... the environment will become that much more productive `[ps=2]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- X Windows managed by MIT-sponsored X Windows Consortium; DEC is member along with 23 other prominent computer vendors `[ps=0]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]

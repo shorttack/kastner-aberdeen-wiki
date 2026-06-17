@@ -1,5 +1,5 @@
 ---
-title: "==> picture [648 x 134] intentionally omitted <=="
+title: "About Aberdeen Access (Aberdeen, 2005)"
 slug: "study-about-aberdeen-access-d00a7c"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 0.0
 prescience_obs_count: 3
 ---
 
-# ==> picture [648 x 134] intentionally omitted <==
+# About Aberdeen Access (Aberdeen, 2005)
 
-> This study analyzes ==> picture [648 x 134] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study about-aberdeen-access-d00a7c. Source: about_aberdeen_access.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **benchmark**._

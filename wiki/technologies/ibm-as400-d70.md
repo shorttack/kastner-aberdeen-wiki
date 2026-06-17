@@ -12,9 +12,9 @@ era: "1991-1994"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM AS/400 D70
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM AS/400 D70 ~$920K 5-year cost for 40 tps-A — highest in the set — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
+- IBM AS/400 D70 ~$920K 5-year cost for 40 tps-A — highest in the set `[ps=0]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]

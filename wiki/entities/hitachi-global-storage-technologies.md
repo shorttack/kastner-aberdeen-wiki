@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Western Digital"
 years_active: "2003-2012"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Hitachi Global Storage Technologies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Hitachi has IBM heritage bringing technical respect but too many diverse interests to focus on midline — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
+- Hitachi has IBM heritage bringing technical respect but too many diverse interests to focus on midline `[ps=1]` — [[study-10-maxtor-workshop-02-09-eod-53f22b]]

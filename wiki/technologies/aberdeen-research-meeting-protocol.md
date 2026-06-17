@@ -12,9 +12,9 @@ era: "1995-2001"
 lifecycle_at_study: "active"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Research Meeting / Research Day Protocol
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2-4 client customers interviewed by phone; Aberdeen reserves right to identify additional independent customers — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
+- 2-4 client customers interviewed by phone; Aberdeen reserves right to identify additional independent customers `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]

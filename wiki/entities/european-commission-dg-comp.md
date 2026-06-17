@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1958-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # European Commission Directorate-General for Competition
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- The European Commission fined Intel €1.06 billion on May 13 2009 for abuse of dominance — the culmination of the investigation that the 2004 Supreme Court ruling helped enable with access to US-held documents. — [[study-supreme-court-orders-intel-documents-rel-e6e110]]
+- The European Commission fined Intel €1.06 billion on May 13 2009 for abuse of dominance — the culmination of the investigation that the 2004 Supreme Court ruling helped enable with access to US-held documents. `[ps=5]` — [[study-supreme-court-orders-intel-documents-rel-e6e110]]
 - EU General Court partially annulled the Intel fine on January 26 2022, finding procedural defects in the Commission's analysis of Intel's rebate practices; case remains ongoing into 2025. — [[study-supreme-court-orders-intel-documents-rel-e6e110]]

@@ -12,9 +12,9 @@ era: "1993-2000s"
 lifecycle_at_study: "Growth"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # AnyNet / MPTN (Multiprotocol Transport Networking)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- De facto call control standard — [[study-1997-dialogic-ct-media-sets-the-pace-for-440d5e]]
-- Positive: smaller software footprint, better performance than encapsulation — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
-- Predicted to remain strategically important for enterprise networking — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
+- Positive: smaller software footprint, better performance than encapsulation `[ps=3]` — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
+- De facto call control standard `[ps=2]` — [[study-1997-dialogic-ct-media-sets-the-pace-for-440d5e]]
+- Predicted to remain strategically important for enterprise networking `[ps=2]` — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
 - Obsolete by mid-2000s; TCP/IP won outright without bridging layer — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]

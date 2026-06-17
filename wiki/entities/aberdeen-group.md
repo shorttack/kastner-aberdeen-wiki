@@ -12,9 +12,9 @@ status: "acquired-by-harte-hanks"
 successor: "Harte-Hanks (Sep 2006) -> Halyard Capital (Apr 2015) -> Spiceworks Ziff Davis (Dec 2020)"
 years_active: "1988-2001 (original); rebranded multiple times"
 occurrence_count: 273
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.25
+prescience_obs_count: 1567
 ---
 
 # Aberdeen Group / Aberdeen Laboratories
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DiFranco commissioned Aberdeen to research whether 'fixed content' storage could be defined as a new category and whether MaXLine could be positioned as the principal brand — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- 70 companies interviewed including Fortune 1000 companies and government agencies — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- Aberdeen identified as expert in identifying and launching hardware and software industry categories — key selection criterion — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- Aberdeen described as 'a respected research company that actively participates in setting Enterprise data-center strategies for Fortune 500 companies' — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- Minimum 75 interviews across wide variety of vertical markets and enterprise sizes including face-to-face interviews — [[study-02-sow-final-62f56d]]
-- Survey results and analysis report plus outline for Aberdeen white paper — both due May 2 2003 — [[study-02-sow-final-62f56d]]
-- Aberdeen grants Maxtor exclusive unrestricted royalty-free worldwide perpetual license to copy publish distribute the Executive White Paper — [[study-02-sow-final-62f56d]]
-- For 6 months after posting Aberdeen will provide download demographics to Maxtor for all who download white paper after registration — [[study-02-sow-final-62f56d]]
-- Aberdeen hosts webcast advertised 'sponsored by Maxtor' reviewing storage market issues from white paper with Maxtor executives on panel — [[study-02-sow-final-62f56d]]
-- Aberdeen provides minimum 4 briefings for Maxtor executives post-publication reviewing near-line market category development and trends — [[study-02-sow-final-62f56d]]
-- Mid-March 2003 expected project start; governed by Services Agreement effective March 17 2003 — [[study-02-sow-final-62f56d]]
-- Aberdeen described as having 'well-developed storage model illustrated below' including MaXLine in emerging cost-effective storage class — [[study-02-sow-final-62f56d]]
-- Aberdeen will review survey instrument with Maxtor before fieldwork begins — [[study-02-sow-final-62f56d]]
-- Executive White Paper will be 10-20 pages; intended audience is IT executives and enterprise executives — [[study-02-sow-final-62f56d]]
-- $60000 plus expenses for Tasks 1 and 2 combined (initial engagement) — [[study-02-sow-final-62f56d]]
-- Optional services include standards groups outreach trade show presentations direct customer sales calls software partnership advisory and eLearning curriculum development — [[study-02-sow-final-62f56d]]
-- Value-based decision tools published to public web sites to validate efficiencies in capital and labor from Pools of Storage program — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- $114000 total project cost across four phases — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- $20000 payment on facilitation of Phase 1 Strategy Workshop — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- $10000 payment on delivery of Phase 2 approval copies — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- Under public review; expected approval summer 1992 `[ps=5]` — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
+- Confirmed: Arbor Software (Essbase MDB) merged with Hyperion 1998; MOLAP persisted but ROLAP/hybrid models dominated enterprise DW. Oracle acquired Hyperion 2007. `[ps=5]` — [[study-aberdeen-1995-data-warehouse-olap]]
+- Confirmed: All major RDBMS vendors (Oracle, SQL Server, DB2) added OLAP/CUBE extensions by 2000; Microsoft SQL Server Analysis Services (1998); Oracle OLAP option; SAP BW (1997) `[ps=5]` — [[study-aberdeen-1995-data-warehouse-olap]]
+- net_development_seeming_important `[ps=5]` — [[study-aberdeen-1996-3com-reconciling-clientserver-development-internet]]
+- internet_info_services_becoming_imperative `[ps=5]` — [[study-aberdeen-1996-3com-reconciling-clientserver-development-internet]]
+- replacing_working_systems_rare `[ps=5]` — [[study-aberdeen-1996-as400-year-2000-ibm-leading-users]]
+- programmers_hardcoded_19_in_year_dates `[ps=5]` — [[study-aberdeen-1996-as400-year-2000-ibm-leading-users]]
+- Programmers 1960s-1970s used 2-digit years to save memory; practice persisted into 1980s-1990s for backward compatibility `[ps=5]` — [[study-aberdeen-1996-enterprise-executives-year-2000-solution]]
+- Start now; establish urgency; get external help; ensure business continuity during remediation `[ps=5]` — [[study-aberdeen-1996-enterprise-executives-year-2000-solution]]
+- The Internet will provide the first business context for widespread adoption of object-oriented line-of-business solutions `[ps=5]` — [[study-aberdeen-1997-lawson-insight-process-orientation-business-management]]
+- Y2K tool market collapsed after 2000; many vendors went out of business or pivoted; Aberdeen's skepticism about tool vendor claims proved warranted — effectiveness varied widely `[ps=5]` — [[study-aberdeen-1997-picks-right-tools-year-2000]]
+- Transition from call tracking to problem resolution and service delivery `[ps=5]` — [[study-aberdeen-1997-silknet-software]]
+- Customer self-service gains prominence — bypassing call center, 24x7 access, reduced wait times `[ps=5]` — [[study-aberdeen-1997-silknet-software]]
+- Integration with complementary enterprise-class applications (SFA, field service, manufacturing, logistics, billing) `[ps=5]` — [[study-aberdeen-1997-silknet-software]]
+- Increasing use of multimedia — images, schematics, video, remote session control to enhance support interactions `[ps=5]` — [[study-aberdeen-1997-silknet-software]]
+- Internet-based CIS self-service is only scratching the surface; virtual call centers, peer forums, universal access are the real value `[ps=5]` — [[study-aberdeen-1997-silknet-software]]
+- Successful internet CIS ISVs must excel at: 1) Ease-of-Use, 2) Solution/Information Access, 3) Customer Communication `[ps=5]` — [[study-aberdeen-1997-silknet-software]]
+- Analyst meets privately with clients at relevant trade shows; walks show floor; discusses competition positioning `[ps=5]` — [[study-aberdeen-corporate-presentation-98680d]]
+- Open OLTP technically mature enough for serious business consideration `[ps=5]` — [[study-aberdeen-open-oltp-enterprise-managers-k-3fc536]]
+- Secure SOA solutions facilitate change, shared services, and federated identity as core enterprise patterns `[ps=5]` — [[study-aberdeen-ra-secure-soa-benchmark-2006-605d67]]

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1948-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # World Health Organization
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1,804 worldwide cases and 62 deaths as of April 1, 2003; 182 new cases and 4 new deaths in the prior 24 hours. — [[study-sars-puts-an-end-to-business-as-usual-in-6b0471]]
+- 1,804 worldwide cases and 62 deaths as of April 1, 2003; 182 new cases and 4 new deaths in the prior 24 hours. `[ps=0]` — [[study-sars-puts-an-end-to-business-as-usual-in-6b0471]]

@@ -12,9 +12,9 @@ era: "1996-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Network Computing (IBM vision)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Be first source for installed base's next-generation information solutions; Network Computing supplier of choice globally — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]
-- Y2K may be bigger and more profitable than Network Computing opportunity; IBM ideally positioned for Y2K Global Services engagement — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]
+- Be first source for installed base's next-generation information solutions; Network Computing supplier of choice globally `[ps=3]` — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]
+- Y2K may be bigger and more profitable than Network Computing opportunity; IBM ideally positioned for Y2K Global Services engagement `[ps=2]` — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]
 - IBM's Network Computing vision prefigured cloud computing and service-oriented architecture; IBM led enterprise services market through 2000s — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]

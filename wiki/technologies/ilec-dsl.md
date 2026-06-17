@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # ILEC DSL / Telco Broadband
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Emerging channel through DSL modem and set-top hardware bundling — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
+- Emerging channel through DSL modem and set-top hardware bundling `[ps=3]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]

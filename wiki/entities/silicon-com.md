@@ -12,9 +12,9 @@ status: "acquired"
 successor: "CBS Interactive Business UK (2008) -> shut down 2012"
 years_active: "1998-2012"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # silicon.com
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- silicon.com was shut down by CBS Interactive in July 2012; the brand and much of its archive was absorbed into TechRepublic and ZDNet UK. The Jul 14 2006 original SOA-40% article survives primarily via the preserved webarchive. — [[study-soa-adoption-eats-up-40-per-cent-of-it-r-d0cf12]]
+- silicon.com was shut down by CBS Interactive in July 2012; the brand and much of its archive was absorbed into TechRepublic and ZDNet UK. The Jul 14 2006 original SOA-40% article survives primarily via the preserved webarchive. `[ps=5]` — [[study-soa-adoption-eats-up-40-per-cent-of-it-r-d0cf12]]

@@ -12,9 +12,9 @@ era: "1987-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Antivirus / Anti-Malware Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 12% of $6B worldwide security market (#1 per IDC) — [[study-2003-the-top-10-security-suppliers-fc2b1b]]
+- 12% of $6B worldwide security market (#1 per IDC) `[ps=0]` — [[study-2003-the-top-10-security-suppliers-fc2b1b]]

@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "hyped-1992"
 lifecycle_current: "ubiquitous-as-modern-3-tier"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Client-Server (Aberdeen 1992 framing)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Much hype -- minimal application implementation; at least 6 common definitions — [[study-aberdeen-snr-architecture-three-tier-sli-abaaa5]]
+- Much hype -- minimal application implementation; at least 6 common definitions `[ps=3]` — [[study-aberdeen-snr-architecture-three-tier-sli-abaaa5]]

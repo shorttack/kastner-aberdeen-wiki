@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: "IBM Software (Observability/AIOps)"
 years_active: "1996-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # IBM Tivoli
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
--  — [[study-caunic-ltr98-80140d]]
--  — [[study-caunic-ltr98-80140d]]
-- co-leader of Framework camp — [[study-system~1-36ba8c]]
+-  `[ps=0]` — [[study-caunic-ltr98-80140d]]
+-  `[ps=0]` — [[study-caunic-ltr98-80140d]]
+- co-leader of Framework camp `[ps=0]` — [[study-system~1-36ba8c]]

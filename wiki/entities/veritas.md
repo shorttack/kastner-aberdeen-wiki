@@ -12,9 +12,9 @@ status: "reorganized"
 successor: "Merged into Symantec (2005); re-spun out as independent Veritas Technologies via Carlyle Group sale (January 2016)"
 years_active: "1989-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # VERITAS Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- leading storage management and backup software — [[study-storag~1-262bc7]]
+- leading storage management and backup software `[ps=0]` — [[study-storag~1-262bc7]]

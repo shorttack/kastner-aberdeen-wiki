@@ -12,9 +12,9 @@ era: "1970s-2004"
 lifecycle_at_study: "superseded"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'SAP R/2 (mainframe-based predecessor to R/3) was discontinued decades ago. SAP R/3 evolved to SAP ECC/S/4HANA. SAP R/2 has no active support.', 'source': 'General SAP product history'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # SAP R/2
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SAP steadily migrating customers away from R/2 — [[study-intelitaniummfewp1[1]-773ea2]]
+- SAP steadily migrating customers away from R/2 `[ps=5]` — [[study-intelitaniummfewp1[1]-773ea2]]

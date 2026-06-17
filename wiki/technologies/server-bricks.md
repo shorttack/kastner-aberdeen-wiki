@@ -12,9 +12,9 @@ era: "2002-2005"
 lifecycle_at_study: "vendor-strategy"
 lifecycle_current: "evolved-into-Open-Compute-Project-and-cloud-disaggregation"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Server Bricks (Modular Computing)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- blades-to-bricks-to-shared-power-and-cooling — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]
+- blades-to-bricks-to-shared-power-and-cooling `[ps=5]` — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Tim Bajarin
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'Apple is quite committed to going after this server marketplace, and over time could be a worthy competitor. It is our opinion that the Asian market could be Apple's best place to gain initial ground.' — [[study-hostingtech-apple-xserve-asia-zieger-200-052af6]]
+- 'Apple is quite committed to going after this server marketplace, and over time could be a worthy competitor. It is our opinion that the Asian market could be Apple's best place to gain initial ground.' `[ps=2]` — [[study-hostingtech-apple-xserve-asia-zieger-200-052af6]]

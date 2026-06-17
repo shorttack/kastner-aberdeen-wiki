@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # GPS/Maps
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- BT + WiFi-x + Cellular + GPS/Maps + Audio — [[study-dct-sony-personal-electronic-vision-2002]]
+- BT + WiFi-x + Cellular + GPS/Maps + Audio `[ps=5]` — [[study-dct-sony-personal-electronic-vision-2002]]

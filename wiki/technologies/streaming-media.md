@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Streaming Media Delivery
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- On-demand and live Web casting options enabling customer communication via Internet-based audio and video — [[study-mirror-image-profile-v2-050404-97e2a6]]
+- On-demand and live Web casting options enabling customer communication via Internet-based audio and video `[ps=4]` — [[study-mirror-image-profile-v2-050404-97e2a6]]

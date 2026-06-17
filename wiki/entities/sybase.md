@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Compaq (1997); then HP (2002); technology lives on as HPE NonStop"
 years_active: "1910-present"
 occurrence_count: 15
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.85
+prescience_obs_count: 33
 ---
 
 # Oracle Corporation
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- installed-base-only — [[study-1998-hp-high-availability-and-metadata-7d1276]]
-- 3 x-times — [[study-aberdeen-1995-limd-technology]]
-- 5 x-times — [[study-aberdeen-1995-limd-technology]]
-- 85 percent — [[study-aberdeen-1995-limd-technology]]
-- 2 gigabytes — [[study-aberdeen-1995-limd-technology]]
-- 10000 users — [[study-aberdeen-1995-limd-technology]]
-- 100 GB-per-hour — [[study-aberdeen-1995-limd-technology]]
-- 10 x-times — [[study-aberdeen-1995-limd-technology]]
-- Established enterprise RDBMS supplier competing in open/distributed market — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
-- Viable independent enterprise RDBMS competitor — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
-- Acquired by SAP AG for $5.8 billion in 2010; ceased to operate as independent company — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
-- Sybase has ported SQL Server to OS/2 Warp Server platform — [[study-aberdeen-1996-ibm-os2-warp-server]]
-- Sybase acquired by SAP 2010 — [[study-aberdeen-dors-buying-guide-1996-web-5ee808]]
-- Sybase open veneer provides common SQL front-end to its own and other relational databases; lets developers write to common SQL; does not allow cross-supplier transactions — [[study-aberdeen-eii-2003-ea3f1a]]
-- Financial difficulties obscure broad product suite with loyal customers; PowerBuilder being revamped for component support; must reassure customers of long-term viability — [[study-develo~1-d25652]]
-- $826 million total 1994 corporate revenue; up 71% from 1993 — [[study-inforx95-3-9a45fe]]
-- $2.4 billion (July 28, 1995) — [[study-inforx95-3-9a45fe]]
-- 41% stock price drop -- first week April 1995 — [[study-inforx95-3-9a45fe]]
-- Adaptive Server + Jaguar CTS + PowerDynamo + Enterprise CONNECT + Powersoft = integrated platform; challenge: Powersoft perceived as proprietary; market unaware of Sybase middleware — [[study-intern~1-45df51]]
-- $826 million total 1994 corporate revenue; up 71% from 1993 — [[study-jungle-1-5-675c58]]
+- Sybase lost RDBMS market share through late 1990s; acquired by SAP 2010 for $5.8B; ASE became niche product `[ps=5]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- SAP R/3 ASE support eventually arrived but Sybase was never a major share-holder of the SAP database installed base. SAP customers continued to split between Oracle, IBM DB2, SQL Server, and later SAP HANA. `[ps=5]` — [[study-sap-sybase-face-off-f2612e]]
+- Well-positioned as client-server advocate; SQLServer remarketed by Microsoft `[ps=4]` — [[study-nti-5-development-toolsets-0e71c5]]
+- There is no doubt Sybase is missing a huge amount of business with SAP. Just look at what a great business SAP has been for Informix. `[ps=4]` — [[study-sap-sybase-face-off-f2612e]]
+- Financial difficulties obscure broad product suite with loyal customers; PowerBuilder being revamped for component support; must reassure customers of long-term viability `[ps=3]` — [[study-develo~1-d25652]]
+- Poor scalability beyond 4 processors; 1980s architecture running out of steam `[ps=3]` — [[study-jungle-1-5-675c58]]
+- Momentum is downwards but could recover in 1996; 1980s architecture running out of steam; very high sales force turnover in 1995 `[ps=3]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- $826 million total 1994 corporate revenue; up 71% from 1993 `[ps=1]` — [[study-inforx95-3-9a45fe]]
+- installed-base-only `[ps=0]` — [[study-1998-hp-high-availability-and-metadata-7d1276]]
+- 3 x-times `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
+- 85 percent `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
+- 2 gigabytes `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
+- 10000 users `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
+- 100 GB-per-hour `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
+- Established enterprise RDBMS supplier competing in open/distributed market `[ps=0]` — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
+- Viable independent enterprise RDBMS competitor `[ps=0]` — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
+- Acquired by SAP AG for $5.8 billion in 2010; ceased to operate as independent company `[ps=0]` — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
+- Sybase has ported SQL Server to OS/2 Warp Server platform `[ps=0]` — [[study-aberdeen-1996-ibm-os2-warp-server]]
+- Sybase open veneer provides common SQL front-end to its own and other relational databases; lets developers write to common SQL; does not allow cross-supplier transactions `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]
+- $2.4 billion (July 28, 1995) `[ps=0]` — [[study-inforx95-3-9a45fe]]

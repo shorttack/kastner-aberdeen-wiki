@@ -12,9 +12,9 @@ era: "2002-2006"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel E7501 chipset
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- E7501 volume 2-way server chipset: up to 16GB real memory, 3 PCI-X I/O buses, dual Gigabit Ethernet. — [[study-planningforemergingindustry-6-40decb]]
+- E7501 volume 2-way server chipset: up to 16GB real memory, 3 PCI-X I/O buses, dual Gigabit Ethernet. `[ps=0]` — [[study-planningforemergingindustry-6-40decb]]

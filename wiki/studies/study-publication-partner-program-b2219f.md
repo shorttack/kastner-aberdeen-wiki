@@ -1,5 +1,5 @@
 ---
-title: "==> picture [506 x 55] intentionally omitted <=="
+title: "Publication Partner Program (Aberdeen, 2006)"
 slug: "study-publication-partner-program-b2219f"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
 prescience_max: 0.0
-prescience_mean: -0.5
-prescience_obs_count: 2
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
-# ==> picture [506 x 55] intentionally omitted <==
+# Publication Partner Program (Aberdeen, 2006)
 
-> This study analyzes ==> picture [506 x 55] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study publication-partner-program-b2219f. Source: publication_partner_program.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **benchmark**._
@@ -33,4 +33,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 ## Top observations
 
 - Complimentary research offer for all subscribers (a $399 value) with advanced request option `[ps=0]`
-- This study analyzes ==> picture [506 x 55] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [506 x 55] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

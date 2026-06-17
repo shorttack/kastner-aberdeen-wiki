@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Current"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sybase DB-Library (DB-Lib)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DB-Lib converter planned for 2Q97 release — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
+- DB-Lib converter planned for 2Q97 release `[ps=0]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]

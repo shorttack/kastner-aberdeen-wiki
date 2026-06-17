@@ -12,9 +12,9 @@ era: "1990-2005"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "migrated-to-linux"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Commercial RDBMS Workloads on Unix
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- performance, scalability, availability, cost of ownership (3-5 year) — [[study-aberdeen-1995-sun-microsystems-computer-company]]
-- considerable resources devoted to RDBMS performance optimization on SPARC/Solaris — [[study-aberdeen-1995-sun-microsystems-computer-company]]
+- considerable resources devoted to RDBMS performance optimization on SPARC/Solaris `[ps=4]` — [[study-aberdeen-1995-sun-microsystems-computer-company]]
+- performance, scalability, availability, cost of ownership (3-5 year) `[ps=0]` — [[study-aberdeen-1995-sun-microsystems-computer-company]]
 - SAP and Oracle Applications referenced as key commercial application targets on Sun servers — [[study-aberdeen-1995-sun-microsystems-computer-company]]

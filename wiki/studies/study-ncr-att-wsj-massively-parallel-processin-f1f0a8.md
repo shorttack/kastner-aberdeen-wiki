@@ -3,7 +3,7 @@ title: "NCR/AT&T Wall Street Journal Full-Page Ad Featuring Aberdeen Group / Kas
 slug: "study-ncr-att-wsj-massively-parallel-processin-f1f0a8"
 page_type: "study"
 tags: ["type/study", "collection/full-page-print-ad"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ncr-att-wsj-massively-parallel-processin-f1f0a8"
 author: "NCR Corporation / AT&T Company (advertiser)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # NCR/AT&T Wall Street Journal Full-Page Ad Featuring Aberdeen Group / Kastner Endorsement of Commercial Massively-Parallel Processing
@@ -32,10 +32,10 @@ _Published 1993, author **NCR Corporation / AT&T Company (advertiser)**, type **
 
 ## Top observations
 
-- >400 System 3600 and DBC/1012 systems
-- ready for commercial applications now; attractive alternative
+- ready for commercial applications now; attractive alternative `[ps=4]`
+- >400 System 3600 and DBC/1012 systems `[ps=0]`
+- Page B9 Monday November 8 1993 `[ps=0]`
 - Peter S. Kastner, Aberdeen Group
 - Aberdeen Group
 - boost performance/reliability/functionality
 - An AT&T Company tagline
-- Page B9 Monday November 8 1993

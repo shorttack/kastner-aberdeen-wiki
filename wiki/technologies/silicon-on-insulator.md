@@ -12,9 +12,9 @@ era: "2001-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Silicon on Insulator (SOI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Finally acknowledged future need — [[study-topic-semiconductor-practice-definition-2002]]
+- Finally acknowledged future need `[ps=0]` — [[study-topic-semiconductor-practice-definition-2002]]

@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 9
 ---
 
 # Open Online Transaction Processing: An Enterprise Manager's Guide
@@ -32,14 +32,14 @@ _Published 1991, author **Peter S. Kastner (Aberdeen Group), funded by NCR Corpo
 
 ## Top observations
 
+- NCR-funded `[ps=0]`
+- Online TP Into the 1990s: The Hardware Suppliers `[ps=0]`
+- Evaluating Options in Microprocessor Multiprocessing `[ps=0]`
+- NCR 1991 `[ps=0]`
+- Transarc 1991 `[ps=0]`
+- USL Release 4.2 `[ps=0]`
+- On-Line Transaction Processing in Open Systems `[ps=0]`
+- Oracle Corporation 1991 `[ps=0]`
+- Aberdeen Group 1990 `[ps=0]`
 - Aberdeen Group, Inc.
-- NCR-funded
 - Commercial Client-Server Applications: Entering the Mainstream
-- Online TP Into the 1990s: The Hardware Suppliers
-- Evaluating Options in Microprocessor Multiprocessing
-- NCR 1991
-- Transarc 1991
-- USL Release 4.2
-- On-Line Transaction Processing in Open Systems
-- Oracle Corporation 1991
-- Aberdeen Group 1990

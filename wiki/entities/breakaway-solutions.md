@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "1997-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Breakaway Solutions Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Pure-play CRM services firm with rapid deployment focus — [[study-1999-crm-professional-services-rpt-96bf13]]
+- Pure-play CRM services firm with rapid deployment focus `[ps=0]` — [[study-1999-crm-professional-services-rpt-96bf13]]

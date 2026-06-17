@@ -3,7 +3,7 @@ title: "Managing IS Amidst IT Chaos: A May 1993 Seminar for Land O'Lakes"
 slug: "study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75"
 page_type: "study"
 tags: ["type/study", "collection/client-seminar-deck"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-managing-is-amidst-it-chaos-lan-05ea75"
 author: "Peter S. Kastner (Aberdeen Group)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.5
+prescience_obs_count: 8
 ---
 
 # Managing IS Amidst IT Chaos: A May 1993 Seminar for Land O'Lakes
@@ -32,13 +32,13 @@ _Published 1993, author **Peter S. Kastner (Aberdeen Group)**, type **client-sem
 
 ## Top observations
 
+- consolidate/cheap-MIPS/outsource/freeze-budgets/downsize-replicated/divisional `[ps=4]`
+- Aberdeen ref slide `[ps=0]`
+- WSJ 18-Jan-1993 `[ps=0]`
+- 3-5 years out `[ps=0]`
+- costs front-end loaded `[ps=0]`
+- high-confidence `[ps=0]`
+- Vice President, Aberdeen Group, Inc. `[ps=0]`
+- May 1993 seminar attendee `[ps=0]`
 - negative
-- consolidate/cheap-MIPS/outsource/freeze-budgets/downsize-replicated/divisional
-- Aberdeen ref slide
-- WSJ 18-Jan-1993
-- 3-5 years out
-- costs front-end loaded
 - >=50% of capital expenditure now for IT
-- high-confidence
-- Vice President, Aberdeen Group, Inc.
-- May 1993 seminar attendee

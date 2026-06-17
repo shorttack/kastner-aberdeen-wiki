@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Supply Chain Integration
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- EAI deployment will impact enterprise total application portfolio and supply chain planning and execution — [[study-1998-enterprise-application-integration-advanced-techno-71496c]]
+- EAI deployment will impact enterprise total application portfolio and supply chain planning and execution `[ps=4]` — [[study-1998-enterprise-application-integration-advanced-techno-71496c]]

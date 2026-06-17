@@ -12,9 +12,9 @@ era: "1991-2021"
 lifecycle_at_study: "mature"
 lifecycle_current: "evolved-to-kyndryl"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 2
 ---
 
 # IBM Global Services
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- By early 2000s IBM became the world's largest IT services firm; services exceeded 50% of revenue `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
+- IBM under Gerstner will pivot successfully to services as hardware revenues decline `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
 - IBM would pivot from hardware firm to services-led company, with services becoming majority of revenue — [[study-2026-kastner-ibm-longitudinal]]
 - 35 matching observations (tight filter) — [[study-2026-kastner-ibm-longitudinal]]
-- By early 2000s IBM became the world's largest IT services firm; services exceeded 50% of revenue — [[study-2026-kastner-ibm-longitudinal]]
 - Post-Kyndryl IBM focused on hybrid cloud and AI; IBM Consulting retained professional services — [[study-2026-kastner-ibm-longitudinal]]
-- IBM under Gerstner will pivot successfully to services as hardware revenues decline — [[study-2026-kastner-ibm-longitudinal]]

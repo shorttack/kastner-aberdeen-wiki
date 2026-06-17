@@ -3,7 +3,7 @@ title: "Chapter 6: Digital Equipment Corporation — The Mainframe's Last Stand 
 slug: "study-volume-1-ch06-dec-mainframes-last-stand-1987-1988"
 page_type: "study"
 tags: ["type/study", "collection/memoir"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "volume-1-ch06-dec-mainframes-last-stand-1987-1988"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.88
+prescience_obs_count: 67
 ---
 
 # Chapter 6: Digital Equipment Corporation — The Mainframe's Last Stand (1987–1988)
@@ -32,28 +32,28 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 
 ## Top observations
 
-- Arrived at DEC in late 1987 carrying intimate technical knowledge from six years at Stratus and a freshly completed ghost-written Yankee Group report.
-- Title was Marketing Executive — DEC's highest-level individual contributor in marketing.
-- Assignment from Bill Steul's Corporate Systems group: 'look around DEC for things that needed to be done to improve the enterprise position.'
-- Online Transaction Processing was 'still an IBM mainframe franchise' for banking, insurance, retail, and financial services as of 1987.
-- DEC had the VAX architecture, a genuine relational database in Rdb, and a transaction monitor — but lacked a verifiable competitive story.
-- 'The Future of Transaction Processing' published by Yankee Group in January 1987.
-- Hired by John Logan at Yankee Group for $8,000 and a month of late evenings to ghostwrite 'The Future of Transaction Processing.'
-- Former Prime Computer colleague who moved to Yankee Group; commissioned Kastner's ghost-written report on transaction processing.
-- Moore's Law was meeting economics of departmental transaction processing; multiprocessor Intel 386 systems were appearing; mainframe cost-per-transaction advantage was evaporating.
-- Mainframe displacement was 'not a matter of whether but when — and when was the early 1990s.'
-- DECtp launch was eight months out when Kastner arrived at DEC; he became apparent Chair of the DECtp Task Force.
-- Kastner networked furiously across ten DEC product groups to build the DECtp story; title of Task Force Chair never received in writing.
-- DEC's hand was stronger than team realized: multiprocessor VAX 8200 + transaction-friendly Rdb + acquired OLTP transaction monitor.
-- The SNA Tax: hidden overhead in IBM's mainframe architecture costing enterprise customers millions of dollars they couldn't see.
-- DECtp marketing launch budget (excluding product R&D) totaled approximately $2 million — described as 'staggering' for a marketing program in 1988.
-- Blind benchmark conducted through a CICS consulting firm in Westwood, Massachusetts using the Cullinet mainframe data center.
-- John Cullinane, known to Kastner from PHI days, 'had built one of the first major commercial software companies.' The Route 128 world was always smaller than it appeared.
-- Objective: measure IBM's highest possible throughput on a 3090 running DB2, then compare head-to-head against a DEC VAX under identical constraints.
-- IBM's own systems analysts brought in under contract; told in writing IBM was to provide all reasonable services and tuning to maximize throughput; unaware DEC was the client.
-- Simulates bank account transaction processing; measures TPS with 100 virtual terminals per claimed 1 TPS; requires 10,000 virtual users for 100 TPS claim; response time under one second.
-- Called the 'four-minute mile' of enterprise computing; every serious OLTP vendor obsessed with it; single test score could define competitive position for years.
-- Kastner had extensive debit-credit benchmark experience from Stratus vs. Tandem competitive engagements.
-- IBM 3090-400 as System Under Test; IBM 3090-200 as load driver — two of IBM's largest mainframes in the same room, running tests at night and on weekends.
-- More than one full 3090 CPU-second required to log in a single 3270 terminal via VTAM.
-- 100 TPS benchmark required 10,000 virtual terminals × 1 CPU-second = 10,000 CPU-seconds of session overhead; over an hour of clock time on a 4-processor 3090-400 before a single transaction.
+- DEC had the VAX architecture, a genuine relational database in Rdb, and a transaction monitor — but lacked a verifiable competitive story. `[ps=5]`
+- Moore's Law was meeting economics of departmental transaction processing; multiprocessor Intel 386 systems were appearing; mainframe cost-per-transaction advantage was evaporating. `[ps=5]`
+- By 1988 OLTP benchmark world had degenerated into 'specsmanship' — vendors designed their own tests, optimized every parameter, published results unreproducible in real deployments. `[ps=5]`
+- TPC required full system pricing (hardware + software + maintenance), independent certified audit, and full public disclosure of configuration and methodology. `[ps=5]`
+- TPC-C became the definitive OLTP server benchmark through the 1990s and into the 2000s; results published in trade press quarterly and tracked like stock prices in the server market. `[ps=5]`
+- VAX architecture was 'magnificent — one of the great minicomputer designs ever produced.' But the battle DEC was winning (mini vs. mainframe) was not the defining war of the 1990s. `[ps=5]`
+- Ken Olsen, DEC's founder, famously resisted Unix, workstations, and x86 architecture throughout the late 1980s and early 1990s. `[ps=5]`
+- 'The mainframe had not been the last stand, it turned out. It was the second-to-last stand.' — referring to VAX/minicomputer era as the actual last stand before x86 dominance. `[ps=5]`
+- The SNA Tax: hidden overhead in IBM's mainframe architecture costing enterprise customers millions of dollars they couldn't see. `[ps=4]`
+- Called the 'four-minute mile' of enterprise computing; every serious OLTP vendor obsessed with it; single test score could define competitive position for years. `[ps=4]`
+- A vendor could claim 500 TPS by selecting workloads that favored their architecture, excluding real-deployment overhead; every vendor won its own benchmark; customers had no trustworthy comparison basis. `[ps=4]`
+- Kastner leaked Digital's TPC leadership position to MIS Week on August 8, 1988; once DEC's commitment was public, other vendors faced a binary choice: join or explain refusal to compete on a level field. `[ps=4]`
+- TPC transformed the OLTP market: vendors could no longer claim self-serving results; CIOs had objective, auditable data; benchmark became standard in every enterprise server RFP for a decade. `[ps=4]`
+- The war that would define the 1990s was x86-versus-everything-else; DEC beat IBM's mainframe pricing in OLTP; within four years x86 servers would beat DEC's VAX pricing in the same argument. `[ps=4]`
+- DEC, which showed the industry how to use objective benchmarks to displace the mainframe, was itself displaced by x86 vendors using those same TPC benchmarks against proprietary minicomputers. `[ps=4]`
+- Left DEC for Aberdeen with the x86 displacement observation 'fully formed'; Aberdeen spent much of the next decade documenting the collapse of the proprietary minicomputer era. `[ps=4]`
+- Kastner's Yankee Group report stated multiprocessor Intel 386 systems were 'appearing on the horizon'; by 1988 DECtp launch those systems were already arriving. `[ps=4]`
+- IBM's DB2 Version 2 announcement (claiming faster performance) was described as crystallizing the need for independent standards: 'the era of proprietary benchmarks had to end.' `[ps=4]`
+- No vendor wanted to step into a ring where they couldn't control the rules; result before TPC founding was industry paralysis on benchmark standards. `[ps=4]`
+- The SNA Tax was the hidden overhead buried in IBM's mainframe architecture 'costing enterprise customers millions of dollars they couldn’t see.' `[ps=4]`
+- Once DEC's TPC commitment was public (August 8, 1988 MIS Week), every other serious OLTP vendor faced binary choice — join the standard or explain to customers why they refused. 'The fence cleared quickly.' `[ps=4]`
+- Moore's Law was 'finally meeting the economics of departmental transaction processing' by 1987, making Intel 386-based multiprocessor servers viable for OLTP. `[ps=4]`
+- Leak to MIS Week served a 'precise purpose': once DEC's commitment was public, every other serious OLTP vendor faced a binary choice — join the standard or explain refusal to customers. `[ps=4]`
+- DEC's hand was stronger than team realized: multiprocessor VAX 8200 + transaction-friendly Rdb + acquired OLTP transaction monitor. `[ps=3]`
+- VAX running OLTP database with clean transaction architecture delivered comparable throughput to IBM 3090 at a small fraction of the cost. `[ps=3]`

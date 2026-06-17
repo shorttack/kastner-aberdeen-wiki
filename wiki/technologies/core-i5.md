@@ -12,9 +12,9 @@ era: "2009-present"
 lifecycle_at_study: "current"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 4
 ---
 
 # Intel Core i5
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2 — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- 2 `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- 4 `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- 1-2 `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- crisp-response `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
 - 90 — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- 4 — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- 1-2 — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- crisp-response — [[study-2010-intel-vpro-daily-globe-6f615e]]

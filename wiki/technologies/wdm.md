@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Wave Division Multiplexing (WDM)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Not yet viable; hardware prototypes only; field trials within one year — [[study-teleco~1-c01702]]
+- Not yet viable; hardware prototypes only; field trials within one year `[ps=0]` — [[study-teleco~1-c01702]]

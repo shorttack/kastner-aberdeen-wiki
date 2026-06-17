@@ -12,9 +12,9 @@ era: "1988–2006"
 lifecycle_at_study: "Mature"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Silicon Graphics IRIX Workstations
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Lack of NT transition commitment differentiates from Digital — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
+- Lack of NT transition commitment differentiates from Digital `[ps=2]` — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]

@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Systems Management Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CA ITRM is 'shining light at the end of the IT tunnel' for unified business-entity IT management — [[study-2001-ca-s-it-resource-management-solutions-p-ing-it-ope-0855b8]]
+- CA ITRM is 'shining light at the end of the IT tunnel' for unified business-entity IT management `[ps=2]` — [[study-2001-ca-s-it-resource-management-solutions-p-ing-it-ope-0855b8]]

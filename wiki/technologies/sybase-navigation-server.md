@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sybase Navigation Server
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Navigation Server platform-limited to NCR 3600, an OLTP dog; SP2 version imminent; poor on AT&T 3600 — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- Navigation Server platform-limited to NCR 3600, an OLTP dog; SP2 version imminent; poor on AT&T 3600 `[ps=0]` — [[study-rdbms-for-ibm-powera~1-7a44be]]

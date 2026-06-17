@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # John Morrell
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- may vault Informix past competitors — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- may vault Informix past competitors `[ps=2]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]

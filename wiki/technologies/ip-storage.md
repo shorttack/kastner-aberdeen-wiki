@@ -12,9 +12,9 @@ era: "2001-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IP Storage Networking (iSCSI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enterprise IT planners should maintain open mind toward using IP for storage networking — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
+- Enterprise IT planners should maintain open mind toward using IP for storage networking `[ps=4]` — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]

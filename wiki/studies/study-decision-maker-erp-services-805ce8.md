@@ -3,7 +3,7 @@ title: "The Decision-Maker's Guide to Professional Services Support for ERP Impl
 slug: "study-decision-maker-erp-services-805ce8"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "decision-maker-erp-services-805ce8"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.74
+prescience_obs_count: 19
 ---
 
 # The Decision-Maker's Guide to Professional Services Support for ERP Implementations
@@ -32,23 +32,23 @@ _Published 1998, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- Enterprises from middle market up are implementing ERP solutions
-- SAP is a primary ERP vendor requiring professional services for implementation
-- Oracle is a primary ERP vendor requiring professional services for implementation
-- J.D. Edwards is a primary ERP vendor requiring professional services for implementation
-- PeopleSoft is a primary ERP vendor requiring professional services for implementation
-- Baan is a primary ERP vendor requiring professional services for implementation
+- SAP is a primary ERP vendor requiring professional services for implementation `[ps=5]`
+- Oracle is a primary ERP vendor requiring professional services for implementation `[ps=5]`
+- Industry-specific expertise differentiates one services firm from another `[ps=5]`
+- Deployment services as core ERP professional services category `[ps=5]`
+- SAP integrated SCM modules; Oracle acquired Siebel and supply chain vendors; SCM became standard ERP pillar by 2005 `[ps=5]`
+- Microsoft Windows NT will have significant impact on ERP solutions `[ps=5]`
+- Windows NT/2000/Server enabled mid-market ERP growth but Microsoft never dominated enterprise ERP; Dynamics acquired from Great Plains/Navision served SMB not SAP tier `[ps=5]`
+- Baan collapsed after 1998 revenue manipulation scandal; sold to Invensys for $700M in 2000 `[ps=5]`
+- Enterprises from middle market up are implementing ERP solutions `[ps=4]`
+- Hardware vs. software vs. management consulting background differentiates firms `[ps=4]`
+- Supporting services as secondary ERP professional services category `[ps=4]`
+- Cost of ERP professional services is a primary decision variable for IT buyers `[ps=4]`
+- ERP will fit into Electronic Commerce as a convergence point `[ps=4]`
+- J.D. Edwards is a primary ERP vendor requiring professional services for implementation `[ps=3]`
+- PeopleSoft is a primary ERP vendor requiring professional services for implementation `[ps=3]`
+- ERP is heading toward and evolving into Supply Chain Management `[ps=3]`
+- Baan is a primary ERP vendor requiring professional services for implementation `[ps=2]`
+- Are professional services needed at all? `[ps=0]`
+- Services firms use tools and methodologies to speed up deployment process `[ps=0]`
 - 20 ERP professional services firms profiled
-- Hardware vs. software vs. management consulting background differentiates firms
-- Industry-specific expertise differentiates one services firm from another
-- Deployment services as core ERP professional services category
-- Supporting services as secondary ERP professional services category
-- Are professional services needed at all?
-- Cost of ERP professional services is a primary decision variable for IT buyers
-- ERP is heading toward and evolving into Supply Chain Management
-- SAP integrated SCM modules; Oracle acquired Siebel and supply chain vendors; SCM became standard ERP pillar by 2005
-- ERP will fit into Electronic Commerce as a convergence point
-- Microsoft Windows NT will have significant impact on ERP solutions
-- Windows NT/2000/Server enabled mid-market ERP growth but Microsoft never dominated enterprise ERP; Dynamics acquired from Great Plains/Navision served SMB not SAP tier
-- Services firms use tools and methodologies to speed up deployment process
-- Baan collapsed after 1998 revenue manipulation scandal; sold to Invensys for $700M in 2000

@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Motorola Broadband Communications Sector
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DVD/CD/MP3 player + cable receiver + audio/video receiver/amp + surround sound + digital theater sound — [[study-dct-dceit-practice-v6-2002]]
-- BMC 8000: network+firewall, PVR, MP3 jukebox. BMC 9000 adds multiple-TV support, dual-tuner PVR, optional HD, optional DVD — [[study-dct-dceit-practice-v6-2002]]
+- BMC 8000: network+firewall, PVR, MP3 jukebox. BMC 9000 adds multiple-TV support, dual-tuner PVR, optional HD, optional DVD `[ps=3]` — [[study-dct-dceit-practice-v6-2002]]
+- DVD/CD/MP3 player + cable receiver + audio/video receiver/amp + surround sound + digital theater sound `[ps=0]` — [[study-dct-dceit-practice-v6-2002]]

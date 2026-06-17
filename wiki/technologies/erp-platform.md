@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Enterprise Resource Planning (ERP)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Professional services (historically PeopleSoft strength) — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]
-- Manufacturing, distribution (historically JDE strength) — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]
+- Manufacturing, distribution (historically JDE strength) `[ps=5]` — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]
+- Professional services (historically PeopleSoft strength) `[ps=0]` — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]

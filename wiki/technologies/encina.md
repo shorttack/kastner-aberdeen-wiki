@@ -12,9 +12,9 @@ era: "1991-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "Encina TP monitor discontinued after IBM acquired Transarc"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Encina (Transarc)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Transarc 1991 — [[study-aberdeen-open-online-transaction-process-ea272f]]
-- New generation of transaction monitors for efficiently integrating OLTP apps, heterogeneous databases, and users — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
+- New generation of transaction monitors for efficiently integrating OLTP apps, heterogeneous databases, and users `[ps=5]` — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
+- Transarc 1991 `[ps=0]` — [[study-aberdeen-open-online-transaction-process-ea272f]]

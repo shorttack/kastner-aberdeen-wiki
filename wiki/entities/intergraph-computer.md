@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Intergraph Corp -> Hexagon AB"
 years_active: "1969-2010"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Intergraph Computer Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- #5 total NT unit volume; strong 3D graphics but loss of share due to lack of mid-level product focus — [[study-workst~1-d22401]]
+- #5 total NT unit volume; strong 3D graphics but loss of share due to lack of mid-level product focus `[ps=4]` — [[study-workst~1-d22401]]

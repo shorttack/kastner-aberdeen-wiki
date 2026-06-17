@@ -12,9 +12,9 @@ status: "acquired-dissolved"
 successor: "AOL (1999); browser discontinued 2008"
 years_active: "1994-1998"
 occurrence_count: 4
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.6
+prescience_obs_count: 5
 ---
 
 # Netscape Communications Corporation
@@ -29,8 +29,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Publicly declared intent to port all server-based applications to AS/400e — [[study-1997-the-new-as-400e-series-aa9cac]]
-- Leading browser and e-commerce enabler competing with Microsoft IE; strategic asset in internet commerce ecosystem — [[study-1998-internet-sales-report-4cde3f]]
-- Acquired by AOL for $4.2B in November 1998; IE won browser wars by 2000; Netscape brand discontinued by 2008 — [[study-1998-internet-sales-report-4cde3f]]
-- Netscape Navigator embedded pre-configured for World Wide Web access — [[study-aberdeen-1995-digital-multia]]
-- Netscape referenced as the default example browser in a June-1996 CA sales deck — accurate market position at time of writing. — [[study-ca-internet-app-dev-sales-training-1996-48db9c]]
+- Acquired by AOL for $4.2B in November 1998; IE won browser wars by 2000; Netscape brand discontinued by 2008 `[ps=5]` — [[study-1998-internet-sales-report-4cde3f]]
+- Leading browser and e-commerce enabler competing with Microsoft IE; strategic asset in internet commerce ecosystem `[ps=3]` — [[study-1998-internet-sales-report-4cde3f]]
+- Publicly declared intent to port all server-based applications to AS/400e `[ps=0]` — [[study-1997-the-new-as-400e-series-aa9cac]]
+- Netscape Navigator embedded pre-configured for World Wide Web access `[ps=0]` — [[study-aberdeen-1995-digital-multia]]
+- Netscape referenced as the default example browser in a June-1996 CA sales deck — accurate market position at time of writing. `[ps=0]` — [[study-ca-internet-app-dev-sales-training-1996-48db9c]]

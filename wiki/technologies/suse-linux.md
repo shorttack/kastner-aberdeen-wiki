@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # SUSE Linux Enterprise
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft and Novell announced interoperability and patent-covenant deal; Microsoft would resell SUSE Linux certificates and pledge not to sue Novell customers for Linux-related patents. — [[study-novell-and-microsoft-good-for-business-4-59404e]]
+- Microsoft and Novell announced interoperability and patent-covenant deal; Microsoft would resell SUSE Linux certificates and pledge not to sue Novell customers for Linux-related patents. `[ps=5]` — [[study-novell-and-microsoft-good-for-business-4-59404e]]

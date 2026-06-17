@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "current"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # 1.3GB Digital Audio Tape (DAT)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 600MB CD-ROM and 1.3GB DAT optional — [[study-ncr-3000-cabinet-engineering-diagram-199-fa564f]]
+- 600MB CD-ROM and 1.3GB DAT optional `[ps=0]` — [[study-ncr-3000-cabinet-engineering-diagram-199-fa564f]]

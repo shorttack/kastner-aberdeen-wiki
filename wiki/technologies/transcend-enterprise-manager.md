@@ -12,9 +12,9 @@ era: "1994-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Transcend Enterprise Manager
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Q4 1995 — [[study-aberdeen-1995-3com-lanplex-2500]]
+- Q4 1995 `[ps=0]` — [[study-aberdeen-1995-3com-lanplex-2500]]

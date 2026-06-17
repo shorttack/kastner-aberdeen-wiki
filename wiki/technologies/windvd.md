@@ -12,9 +12,9 @@ era: "1999-2014"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # InterVideo WinDVD
@@ -22,5 +22,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Excellent full-screen video across tested DVDs — [[study-nvidia-personal-cinema-lab-report-2002]]
-- WinDVD install failed because prior ATI WinDVD was not uninstalled first; blank Company field not accepted; '0'/'O' serial-number confusion — [[study-nvidia-personal-cinema-lab-report-2002]]
+- Excellent full-screen video across tested DVDs `[ps=0]` — [[study-nvidia-personal-cinema-lab-report-2002]]
+- WinDVD install failed because prior ATI WinDVD was not uninstalled first; blank Company field not accepted; '0'/'O' serial-number confusion `[ps=0]` — [[study-nvidia-personal-cinema-lab-report-2002]]

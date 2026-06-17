@@ -12,9 +12,9 @@ era: "1984-present"
 lifecycle_at_study: "declining"
 lifecycle_current: "obsolete"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Banyan VINES
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- IS managers reviewing plans for Banyan VINES and Digital PathWorks migrations `[ps=5]` — [[study-mockup~1-ca8fde]]
+- High-end LAN market leader with sophisticated enterprise directory services `[ps=0]` — [[study-nti-12-client-server-goals-1993-15a519]]
 - Legacy NOS still in use at Fortune 1000 organizations — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
-- IS managers reviewing plans for Banyan VINES and Digital PathWorks migrations — [[study-mockup~1-ca8fde]]
-- High-end LAN market leader with sophisticated enterprise directory services — [[study-nti-12-client-server-goals-1993-15a519]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "workday"
 years_active: "1999-2008"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Cape Clear Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- True ESB must religiously adhere to WS-* stack; proprietary middleware wrappers do not qualify — [[study-esb-in-soa-e002b7]]
+- True ESB must religiously adhere to WS-* stack; proprietary middleware wrappers do not qualify `[ps=1]` — [[study-esb-in-soa-e002b7]]

@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1952-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # General Dynamics
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Avionics work at General Dynamics classified as technical/scientific; removed from Kastner’s commercial territory. — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Avionics work at General Dynamics classified as technical/scientific; removed from Kastner’s commercial territory. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]

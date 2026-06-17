@@ -12,9 +12,9 @@ era: "1991-1996"
 lifecycle_at_study: "current-1993"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Oracle Database on NCR Hardware Family
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Strategic business units; Oracle products run across NCR's complete line from workstations to massively-parallel computers — [[study-oracle-att-ncr-pittsburgh-seminar-letter-98b0a4]]
-- AT&T-NCR + Oracle financial stability to partner for years to come; jointly forming SBUs — [[study-oracle-att-ncr-pittsburgh-seminar-letter-98b0a4]]
+- AT&T-NCR + Oracle financial stability to partner for years to come; jointly forming SBUs `[ps=2]` — [[study-oracle-att-ncr-pittsburgh-seminar-letter-98b0a4]]
+- Strategic business units; Oracle products run across NCR's complete line from workstations to massively-parallel computers `[ps=0]` — [[study-oracle-att-ncr-pittsburgh-seminar-letter-98b0a4]]

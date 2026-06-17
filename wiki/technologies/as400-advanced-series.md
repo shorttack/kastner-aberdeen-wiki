@@ -12,9 +12,9 @@ era: "1995-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.34
+prescience_obs_count: 56
 ---
 
 # IBM AS/400 Advanced Series
@@ -24,23 +24,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 325000 units — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 25 percent YoY — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 40S — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 1 count — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 32 MB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 224 MB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 2 GB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 24 GB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 400 TPm — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 50S — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 1 count — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 64 MB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 1024 MB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 2 GB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 318 GB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 650 TPm — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 925 TPm — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 53S — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 1,2,4 count — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 512 MB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- Study positioned AS/400 Advanced Series as a long-term enterprise platform due to simplicity, integration, and 64-bit RISC advantages `[ps=4]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- Integrated operating environment: easy-to-acquire, -operate, and -maintain; minimal dedicated technical staff needed `[ps=4]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
+- 64-bit RISC transition from 48-bit CISC yields 50+% performance improvement; DB2/400 upgraded for distributed OLTP `[ps=4]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
+- By 1997-1998, Microsoft's focus shifted to Internet/Exchange; direct AS/400 attack program did wind down as Aberdeen predicted `[ps=4]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
+- NT Workstation fat-client PC ($4,900) vs 5250 terminal ($1,940) creates $2,960 per-seat hardware premium for NT `[ps=2]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
+- In 1997 the industry will view the great AS/400-NT Server debate as the challenge-that-was-not `[ps=1]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
+- 25 percent YoY `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 40S `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 1 count `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 32 MB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 224 MB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 2 GB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 24 GB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 400 TPm `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 50S `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 1 count `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 1024 MB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 2 GB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 318 GB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 53S `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]

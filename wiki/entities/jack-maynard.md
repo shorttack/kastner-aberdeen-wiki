@@ -12,9 +12,9 @@ status: "unknown"
 successor: "[DEFERRED]"
 years_active: "1999-2000+"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Jack Maynard
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Lead member of EAS practice team — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- Lead member of EAS practice team `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]

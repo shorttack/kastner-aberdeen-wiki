@@ -12,9 +12,9 @@ status: "defunct"
 successor: "1980s-1990s closure"
 years_active: "1980s-1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Synapse Computer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Synapse Computer cited alongside Stratus as 32-bit FT startup; Mark Leslie president — [[study-ee-times-stratus-tandem-fault-tolerant-1-42f6c7]]
+- Synapse Computer cited alongside Stratus as 32-bit FT startup; Mark Leslie president `[ps=0]` — [[study-ee-times-stratus-tandem-fault-tolerant-1-42f6c7]]

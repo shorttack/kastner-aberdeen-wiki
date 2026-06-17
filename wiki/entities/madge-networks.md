@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Ringdale (via Network Technology UK)"
 years_active: "1986-2006"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Madge Networks
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Filed bankruptcy April 2003; operational business acquired by Network Technology/Ringdale 2006 — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
+- Filed bankruptcy April 2003; operational business acquired by Network Technology/Ringdale 2006 `[ps=0]` — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]

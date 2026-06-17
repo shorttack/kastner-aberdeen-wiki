@@ -12,9 +12,9 @@ status: "[DEFERRED]"
 successor: "CA Technologies (2010 brand) -> Broadcom (2018, $18.9B)"
 years_active: "[DEFERRED]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Computer Associates International, Inc. (CA)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Wyly proxy challenge defeated; Wang/Kumar board retained — [[study-informationweek-ca-victorious-incumbents-143e3b]]
-- Analysts agree changes would have occurred regardless of proxy fight — [[study-informationweek-ca-victorious-incumbents-143e3b]]
+- Wyly proxy challenge defeated; Wang/Kumar board retained `[ps=0]` — [[study-informationweek-ca-victorious-incumbents-143e3b]]
+- Analysts agree changes would have occurred regardless of proxy fight `[ps=0]` — [[study-informationweek-ca-victorious-incumbents-143e3b]]

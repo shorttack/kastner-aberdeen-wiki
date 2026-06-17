@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.0
+prescience_obs_count: 3
 ---
 
 # Offshore Outsourcing Model
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- cost-savings — [[study-2006-unisyswipro-rs-3747-a7e31e]]
-- cheaper-labor-and-high-quality — [[study-2006-unisyswipro-rs-3747-a7e31e]]
-- top-three-indian-providers — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- cost-savings `[ps=3]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- cheaper-labor-and-high-quality `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- top-three-indian-providers `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]

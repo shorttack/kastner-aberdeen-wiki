@@ -12,9 +12,9 @@ era: "1994-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Elastic Packet Buffering
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Guaranteed minimum buffers per port with dynamic expansion; reduces packet drops under port contention — [[study-aberdeen-1995-3com-lanplex-2500]]
+- Guaranteed minimum buffers per port with dynamic expansion; reduces packet drops under port contention `[ps=4]` — [[study-aberdeen-1995-3com-lanplex-2500]]

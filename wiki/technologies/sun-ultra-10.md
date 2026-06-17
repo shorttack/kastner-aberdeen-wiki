@@ -12,9 +12,9 @@ era: "1998-2002"
 lifecycle_at_study: "mature"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Sun Ultra 10
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- iSeries 250 (1-way, $9-14K base, $250M revenue) ↔ Sun Ultra 10 — [[study-sun-as400-market-data-2002-5faa8f]]
+- iSeries 250 (1-way, $9-14K base, $250M revenue) ↔ Sun Ultra 10 `[ps=2]` — [[study-sun-as400-market-data-2002-5faa8f]]

@@ -3,7 +3,7 @@ title: "Insession — Accessing and Leveraging Enterprise Transaction Systems"
 slug: "study-1997-insession-accessing-and-leveragin-cb2e40"
 page_type: "study"
 tags: ["type/study", "collection/Product Profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-insession---accessing-and-leveragin-cb2e40"
 author: "Jeanine Fournier / Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.9
+prescience_obs_count: 10
 ---
 
 # Insession — Accessing and Leveraging Enterprise Transaction Systems
@@ -32,16 +32,16 @@ _Published 1997, author **Jeanine Fournier / Aberdeen Group**, type **Product Pr
 
 ## Top observations
 
-- Provide software enabling integration of heterogeneous distributed environments with host-based systems
-- Organizations want to preserve and leverage investments in ETS and associated data
+- Confirmed: mainframe ETS systems (CICS, IMS, NonStop) remain in active use 2025; legacy integration still multi-billion dollar market `[ps=5]`
+- Provide software enabling integration of heterogeneous distributed environments with host-based systems `[ps=4]`
+- Organizations want to preserve and leverage investments in ETS and associated data `[ps=4]`
+- New applications must adapt to Internet requirements and promote higher-level programming `[ps=4]`
+- Enterprise-scale distributed accessware will be a requirement for competitive IS organizations `[ps=4]`
+- Confirmed: middleware/integration market grew substantially; evolved from EAI to ESB to API management; IBM MQ, Tibco, MuleSoft, etc. `[ps=4]`
+- New distributed applications need accessware to bridge client-server and host-based systems `[ps=4]`
+- Insession effective for organizations preserving ETS investments while integrating new distributed environments `[ps=0]`
+- Insession acquired by ACI Worldwide (Transaction Systems Architects); became Insession Technologies business unit contributing ~13% of ACI revenue through 2005; ICE product renamed ICE/XS `[ps=0]`
+- Niche middleware vendor targeting large organizations with heterogeneous ETS/distributed environments `[ps=0]`
 - Competitive pressures drive IS to build new applications rapidly and cost-effectively
-- New applications must adapt to Internet requirements and promote higher-level programming
-- Insession effective for organizations preserving ETS investments while integrating new distributed environments
-- Insession acquired by ACI Worldwide (Transaction Systems Architects); became Insession Technologies business unit contributing ~13% of ACI revenue through 2005; ICE product renamed ICE/XS
 - Organizations will need to leverage existing host-based ETS for extended period
-- Confirmed: mainframe ETS systems (CICS, IMS, NonStop) remain in active use 2025; legacy integration still multi-billion dollar market
-- Enterprise-scale distributed accessware will be a requirement for competitive IS organizations
-- Confirmed: middleware/integration market grew substantially; evolved from EAI to ESB to API management; IBM MQ, Tibco, MuleSoft, etc.
-- New distributed applications need accessware to bridge client-server and host-based systems
 - Insession ICE enables communication across incompatible computing systems including mainframes and internet
-- Niche middleware vendor targeting large organizations with heterogeneous ETS/distributed environments

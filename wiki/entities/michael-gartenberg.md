@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Michael Gartenberg
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- That's always the danger in making technology claims like that. You just have to hope that the laws of the universe can keep up with your claims. — [[study-power-macs-won-t-hit-3ghz-this-year-anal-73ad0f]]
+- That's always the danger in making technology claims like that. You just have to hope that the laws of the universe can keep up with your claims. `[ps=3]` — [[study-power-macs-won-t-hit-3ghz-this-year-anal-73ad0f]]

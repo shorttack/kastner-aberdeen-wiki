@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Web analytics has evolved significantly (Google Analytics, Adobe Analytics, privacy-first tools). Real-time analytics now standard.', 'source': 'pre-verified'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Real-Time Web Analytics / Click Tracking
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Real-time click tracking replacing survey/Nielsen panel methods — [[study-technology-themes-ee5ba4]]
+- Real-time click tracking replacing survey/Nielsen panel methods `[ps=4]` — [[study-technology-themes-ee5ba4]]

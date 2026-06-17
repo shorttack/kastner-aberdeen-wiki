@@ -12,9 +12,9 @@ era: "1997-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Cluster Server (MSCS/Wolfpack)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MSCS (Wolfpack) introduced fall 1997; two-node failover only; not full HA; no automatic load balancing — [[study-ntserv~1-56bd94]]
+- MSCS (Wolfpack) introduced fall 1997; two-node failover only; not full HA; no automatic load balancing `[ps=4]` — [[study-ntserv~1-56bd94]]

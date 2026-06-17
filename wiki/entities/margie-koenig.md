@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Margie Koenig
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Margie Koenig and Kathleen Roche working on Workshop methodologies; Workshop SLIC in production — [[study-aas-launch-package-aug-2001-b4a001]]
+- Margie Koenig and Kathleen Roche working on Workshop methodologies; Workshop SLIC in production `[ps=0]` — [[study-aas-launch-package-aug-2001-b4a001]]

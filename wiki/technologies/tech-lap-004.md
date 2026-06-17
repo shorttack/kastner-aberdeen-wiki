@@ -12,9 +12,9 @@ era: "1996-2000s"
 lifecycle_at_study: "Active"
 lifecycle_current: "Defunct (superseded by cloud sync)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # SpeedSync
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SpeedSync transfers only changed file portions reducing transfer times by as much as 80% — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]
+- SpeedSync transfers only changed file portions reducing transfer times by as much as 80% `[ps=0]` — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]

@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growing"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Cisco LEAP (Lightweight Extensible Authentication Protocol) was deprecated due to serious security vulnerabilities (susceptible to dictionary attacks). Industry sources confirm it has been deprecated and should not be used. Superseded by PEAP, EAP-TLS, and EAP-FAST.', 'source': 'https://www.geeksforgeeks.org/computer-networks/wireless-security-part-2/'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Cisco LEAP (Lightweight Extensible Authentication Protocol)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Opening to industry; Centrino LEAP-aware — [[study-intel-centrino-pk-8ecf9a]]
+- Opening to industry; Centrino LEAP-aware `[ps=0]` — [[study-intel-centrino-pk-8ecf9a]]

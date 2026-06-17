@@ -12,9 +12,9 @@ era: "2002-2012"
 lifecycle_at_study: "new"
 lifecycle_current: "deprecated"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Tablet PC
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- trends will help move the tablet form factor into the mainstream by 2006, when one-third of all corporate notebooks will include tablet capabilities. — [[study-technology-news-trends-desktop-pcs-decli-7993aa]]
+- trends will help move the tablet form factor into the mainstream by 2006, when one-third of all corporate notebooks will include tablet capabilities. `[ps=1]` — [[study-technology-news-trends-desktop-pcs-decli-7993aa]]

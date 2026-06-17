@@ -12,9 +12,9 @@ status: "bankrupt"
 successor: "Sears Holdings (2005) → bankrupt 2018"
 years_active: "1962-2018"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Kmart
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kmart failed to integrate IT systems; filed Chapter 11 bankruptcy in January 2002; unable to compete with Walmart — [[study-1998-information-technology-in-the-retail-sector-the-in-33dc54]]
+- Kmart failed to integrate IT systems; filed Chapter 11 bankruptcy in January 2002; unable to compete with Walmart `[ps=5]` — [[study-1998-information-technology-in-the-retail-sector-the-in-33dc54]]

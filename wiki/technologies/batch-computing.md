@@ -12,9 +12,9 @@ era: "1950s-1970s"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Batch computing (punched-card era)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Three-machine pipeline (cards in, tape to mainframe, results back) defined the economics of computing for the next decade. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Submit a job and wait defined the economics of computing for the next decade after 1966. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Three-machine pipeline (cards in, tape to mainframe, results back) defined the economics of computing for the next decade. `[ps=3]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Submit a job and wait defined the economics of computing for the next decade after 1966. `[ps=3]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Batch computing, timesharing, minicomputers, fault-tolerant OLTP, client-server revolution, open systems wars, PCs and internet era, rise of research industry. — [[study-volume-1-introduction-physics-of-the-machine]]

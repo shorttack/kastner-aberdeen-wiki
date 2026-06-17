@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1964-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # IDC (International Data Corporation)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $1.3B (excluding Japan), down from $1.4B year prior — 7% decline in revenue — [[study-hostingtech-apple-xserve-asia-zieger-200-052af6]]
+- $1.3B (excluding Japan), down from $1.4B year prior — 7% decline in revenue `[ps=0]` — [[study-hostingtech-apple-xserve-asia-zieger-200-052af6]]
+- Worldwide sales of IT computers/software to reach $835 billion in 1998, +10% `[ps=0]` — [[study-wsj-tech-watching-analyst-industry-1998-002531]]
 - 135 analysts; 'Best market numbers, building consulting'; main buyer = computer makers, Wall St. — [[study-wsj-tech-watching-analyst-industry-1998-002531]]
-- Worldwide sales of IT computers/software to reach $835 billion in 1998, +10% — [[study-wsj-tech-watching-analyst-industry-1998-002531]]

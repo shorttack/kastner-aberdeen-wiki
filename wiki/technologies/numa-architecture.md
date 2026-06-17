@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mainstream"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # Non-Uniform Memory Access (NUMA) server architecture
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NT 8-way servers that scale well are imminent; probably by early 1997 — [[study-aberdeen-1996-debunking-ntsmp-scalability-myth]]
-- 8-way and beyond NT systems: high-margin, low-volume; primarily for decision support, data warehousing, and consolidation servers — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]
-- Sequent scaled NT to 28 processors; sold multiple 14-processor NT/SMP systems — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]
+- 8-way and beyond NT systems: high-margin, low-volume; primarily for decision support, data warehousing, and consolidation servers `[ps=4]` — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]
+- NT 8-way servers that scale well are imminent; probably by early 1997 `[ps=3]` — [[study-aberdeen-1996-debunking-ntsmp-scalability-myth]]
+- Sequent scaled NT to 28 processors; sold multiple 14-processor NT/SMP systems `[ps=0]` — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]

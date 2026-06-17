@@ -12,9 +12,9 @@ era: "1996-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Oasis (Object Architecture and Scalable Interoperating System)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Production-class distributed transaction processing; remote object marshaling limits network communication; avoids messaging queue bottlenecks; CORBA/DCOM neutral via abstraction layer — [[study-1997-commerce-exchange-pvp-250db8]]
-- Distributed OO transaction processing for e-commerce proved directionally correct; modern e-commerce platforms (Shopify, Salesforce Commerce, Magento) use microservices/distributed architectures; however CORBA/DCOM specifically gave way to REST APIs and web services — [[study-1997-commerce-exchange-pvp-250db8]]
+- Distributed OO transaction processing for e-commerce proved directionally correct; modern e-commerce platforms (Shopify, Salesforce Commerce, Magento) use microservices/distributed architectures; however CORBA/DCOM specifically gave way to REST APIs and web services `[ps=4]` — [[study-1997-commerce-exchange-pvp-250db8]]
+- Production-class distributed transaction processing; remote object marshaling limits network communication; avoids messaging queue bottlenecks; CORBA/DCOM neutral via abstraction layer `[ps=2]` — [[study-1997-commerce-exchange-pvp-250db8]]

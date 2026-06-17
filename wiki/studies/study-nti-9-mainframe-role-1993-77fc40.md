@@ -3,7 +3,7 @@ title: "The Role of the Mainframe"
 slug: "study-nti-9-mainframe-role-1993-77fc40"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "nti-9-mainframe-role-1993-77fc40"
 author: "Peter S. Kastner, John Logan, Thomas Willmott"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.1
+prescience_obs_count: 21
 ---
 
 # The Role of the Mainframe
@@ -32,28 +32,28 @@ _Published 1993, author **Peter S. Kastner, John Logan, Thomas Willmott**, type 
 
 ## Top observations
 
-- More MIPS shipped in 1992 than any prior year — but least profitable year
-- Declining 7% per year as datacenters consolidate
+- High-end RISC now has power of largest mainframe TCM processors; next-gen RISC will handily outperform `[ps=5]`
+- More MIPS shipped in 1992 than any prior year — but least profitable year `[ps=4]`
+- Computer Associates pricing models exemplify trend to harvest mainframe business `[ps=4]`
+- More money spent on PCs than on mainframe computers `[ps=4]`
+- Cheap mainframe CPUs allow datacenters to add 20-30% capacity per year for existing back-office apps `[ps=4]`
+- IBM did not advance ES/9000 as it could or should; MVS closed; TCM fell behind RISC; DB2 trails by several generations; no RAID upgrade `[ps=3]`
+- Annual fees increasing with no corresponding productivity gain; installed base declining creates destructive cycle `[ps=3]`
+- Traditional IBM-defined mainframe role is merely maintenance in short term and irrelevant in long term `[ps=3]`
+- New CEO interested in stock price performance; Aberdeen believes this portends disinvestment from mainframes `[ps=3]`
+- Declining 7% per year as datacenters consolidate `[ps=2]`
+- 18-36 months for major new applications; 6-9 months for trivial report changes `[ps=2]`
+- IS managers report up to 80% of mainframe applications are now irrelevant to how enterprises do business `[ps=2]`
+- Advanced midrange systems functionally more powerful than 95% of all installed mainframes for all applications including batch `[ps=2]`
+- Legacy COBOL mainframe applications must be completely rewritten for client-server; client/report/validation logic currently embedded in COBOL `[ps=2]`
+- IBM mainframes will be gradually phased out over next decade; probably irrelevant within 2-4 years `[ps=1]`
+- IBM $30B; Microsoft $25B; Intel $25B; HP $20B `[ps=0]`
+- 12% increase in installations for 1992 `[ps=0]`
+- HP and NCR midrange: 20+ MB/sec per channel; IBM ESCOM mainframe: 9.5 MB/sec `[ps=0]`
+- SCAMP microprocessor, CCE software, rack-mount with industry-standard interfaces; Oracle, Unix server, PC LAN compatible `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
 - 30% vs 45% for PC-clone manufacturers
-- IBM $30B; Microsoft $25B; Intel $25B; HP $20B
-- 18-36 months for major new applications; 6-9 months for trivial report changes
 - Approximately 50% of all capital spending in many enterprises
-- IBM did not advance ES/9000 as it could or should; MVS closed; TCM fell behind RISC; DB2 trails by several generations; no RAID upgrade
-- 12% increase in installations for 1992
-- High-end RISC now has power of largest mainframe TCM processors; next-gen RISC will handily outperform
-- HP and NCR midrange: 20+ MB/sec per channel; IBM ESCOM mainframe: 9.5 MB/sec
 - Became a fiasco; IBM could not deliver promised services; killed mainframe ISV tools market
 - DB2 does not have functionality of Oracle, Ingres, Sybase midrange competitors
-- No clear client-server path despite 1987 promises; did not fulfill vision
-- Annual fees increasing with no corresponding productivity gain; installed base declining creates destructive cycle
-- Computer Associates pricing models exemplify trend to harvest mainframe business
-- Majority of data center professionals are IBM-mainframe trained; 12-18 months to retrain even best staff
-- IS managers report up to 80% of mainframe applications are now irrelevant to how enterprises do business
-- More money spent on PCs than on mainframe computers
-- Cheap mainframe CPUs allow datacenters to add 20-30% capacity per year for existing back-office apps
-- SCAMP microprocessor, CCE software, rack-mount with industry-standard interfaces; Oracle, Unix server, PC LAN compatible
-- IBM mainframes will be gradually phased out over next decade; probably irrelevant within 2-4 years
-- [UNVERIFIED]
-- Three evolutionary paths: Surround (mainframe as data repository), Rehost/Convert, Rewrite
-- Availability of qualified internal personnel is typically the gating factor; nearly all require outside professional services
-- Traditional IBM-defined mainframe role is merely maintenance in short term and irrelevant in long term

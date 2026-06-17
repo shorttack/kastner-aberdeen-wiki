@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growing"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Vendor Management / IT Governance is an active discipline. ITIL, COBIT, and ISO frameworks actively used. Vendor management platforms and processes are standard enterprise practice.', 'source': 'General IT governance'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Vendor Management Process / IT Governance
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- implementing new or revised vendor management processes (majority) — [[study-ma-unisyswipro-rs-3747-36dd33]]
+- implementing new or revised vendor management processes (majority) `[ps=4]` — [[study-ma-unisyswipro-rs-3747-36dd33]]

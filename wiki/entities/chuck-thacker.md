@@ -12,9 +12,9 @@ status: "deceased"
 successor: ""
 years_active: "1943-2017"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Chuck Thacker
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- every 8-9 years for most of careers — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- every 8-9 years for most of careers `[ps=0]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]

@@ -12,9 +12,9 @@ status: "deceased"
 successor: "Brian Krzanich (2013)"
 years_active: "2005-2013 Intel CEO"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Paul S. Otellini
@@ -29,5 +29,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 40 years at Intel; MBA 1974; 8-year CEO tenure 2005-2013 — [[study-otellini-intel-techpinions-2013-917213]]
-- 40-year Intel career — [[study-otellini-preview-how-it-changed-2013-604cfb]]
+- 40 years at Intel; MBA 1974; 8-year CEO tenure 2005-2013 `[ps=0]` — [[study-otellini-intel-techpinions-2013-917213]]
+- 40-year Intel career `[ps=0]` — [[study-otellini-preview-how-it-changed-2013-604cfb]]

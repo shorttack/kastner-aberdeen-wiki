@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Novell / Atos Origin"
 years_active: "1991-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Cambridge Technology Partners
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- rapid application development and customization — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- rapid application development and customization `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]

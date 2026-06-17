@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.6
+prescience_obs_count: 5
 ---
 
 # IBM MQSeries (IBM MQ)
@@ -24,11 +24,11 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MQSeries rebranded IBM MQ 2015; IBM MQ 9.3 LTS current; dominant enterprise messaging standard — [[study-2026-kastner-ibm-longitudinal]]
+- renamed IBM MQ; remained active enterprise messaging platform for 30+ years `[ps=5]` — [[study-aberdeen-1995-commercial-messaging]]
+- IBM MQSeries did achieve dominant enterprise messaging position; renamed IBM MQ in 2014; still a top enterprise messaging platform in 2026 `[ps=5]` — [[study-aberdeen-1995-commercial-messaging]]
+- MQSeries rebranded IBM MQ 2015; IBM MQ 9.3 LTS current; dominant enterprise messaging standard `[ps=4]` — [[study-2026-kastner-ibm-longitudinal]]
+- Aberdeen predicts IBM MQSeries will dominate enterprise commercial messaging; recommends immediate adoption as enterprise infrastructure `[ps=4]` — [[study-aberdeen-1995-commercial-messaging]]
+- market leader in core Commercial Messaging; full-service bundled solution with deep training, consulting, and support `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]
 - market leader; sophisticated; highest flexibility, scalability, programmability among evaluated products — [[study-aberdeen-1995-commercial-messaging]]
 - Unix, AS/400, MVS/ESA, Tandem; Windows/DOS client; Windows 95 and NT upcoming; TCP/IP, SNA, NetBIOS, DECnet simultaneous — [[study-aberdeen-1995-commercial-messaging]]
 - 6-7x in 18 months — [[study-aberdeen-1995-commercial-messaging]]
-- market leader in core Commercial Messaging; full-service bundled solution with deep training, consulting, and support — [[study-aberdeen-1995-commercial-messaging]]
-- renamed IBM MQ; remained active enterprise messaging platform for 30+ years — [[study-aberdeen-1995-commercial-messaging]]
-- Aberdeen predicts IBM MQSeries will dominate enterprise commercial messaging; recommends immediate adoption as enterprise infrastructure — [[study-aberdeen-1995-commercial-messaging]]
-- IBM MQSeries did achieve dominant enterprise messaging position; renamed IBM MQ in 2014; still a top enterprise messaging platform in 2026 — [[study-aberdeen-1995-commercial-messaging]]

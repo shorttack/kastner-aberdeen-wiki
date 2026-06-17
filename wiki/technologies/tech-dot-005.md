@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Mature/Dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Internet/Intranet Applications
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internet will be key deployment target for DOT — [[study-1997-distributed-object-technology--dead-3cf2d1]]
-- Confirmed: Internet became dominant platform — [[study-1997-distributed-object-technology--dead-3cf2d1]]
+- Confirmed: Internet became dominant platform `[ps=5]` — [[study-1997-distributed-object-technology--dead-3cf2d1]]
+- Internet will be key deployment target for DOT `[ps=3]` — [[study-1997-distributed-object-technology--dead-3cf2d1]]

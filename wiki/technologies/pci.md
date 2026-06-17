@@ -12,9 +12,9 @@ era: "1992-2010s"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # PCI (Peripheral Component Interconnect)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 133 MB/s shared by all devices on bus — [[study-infiniband-data-center-wp-2002]]
-- PCI: 64 bits parallel every 66MHz cycle = 532 MB/s aggregate bandwidth per bus. — [[study-planningforemergingindustry-6-40decb]]
+- 133 MB/s shared by all devices on bus `[ps=0]` — [[study-infiniband-data-center-wp-2002]]
+- PCI: 64 bits parallel every 66MHz cycle = 532 MB/s aggregate bandwidth per bus. `[ps=0]` — [[study-planningforemergingindustry-6-40decb]]

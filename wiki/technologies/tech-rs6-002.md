@@ -12,9 +12,9 @@ era: "1997-2001"
 lifecycle_at_study: "Introduction"
 lifecycle_current: "Discontinued (RS64 line ended with POWER4 merger in 2001)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # RS64 (Apache) Processor
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- First 64-bit RS/6000 processor; commercial transaction processing optimized — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
-- RS64 line discontinued in 2001 when POWER4 merged PowerPC and PowerPC-AS instruction sets — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
+- RS64 line discontinued in 2001 when POWER4 merged PowerPC and PowerPC-AS instruction sets `[ps=5]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
+- First 64-bit RS/6000 processor; commercial transaction processing optimized `[ps=4]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]

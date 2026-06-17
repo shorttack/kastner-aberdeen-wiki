@@ -12,9 +12,9 @@ era: "1984-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Teradata Data Warehouse
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NCR to provide NT-based data mart solutions starting with NT Server 4.0; data-mart-up/down routing to Teradata — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NCR/Teradata became leading enterprise data warehouse platform in late 1990s; NT-based data marts proliferated broadly as predicted — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- NCR/Teradata became leading enterprise data warehouse platform in late 1990s; NT-based data marts proliferated broadly as predicted `[ps=4]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- NCR to provide NT-based data mart solutions starting with NT Server 4.0; data-mart-up/down routing to Teradata `[ps=2]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]

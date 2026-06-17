@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Cellular data (2G/3G)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- WiFi, cellular — [[study-dct-segment-priorities-matrix-2003]]
+- WiFi, cellular `[ps=0]` — [[study-dct-segment-priorities-matrix-2003]]

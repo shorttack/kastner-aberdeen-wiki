@@ -12,9 +12,9 @@ era: "1988-2001"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # MMAC-Plus (MultiMedia Access Center Plus)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MMAC chassis released 1988 can be upgraded to ATM, Fast Ethernet, and VLANs — technologies that did not exist when first chassis shipped — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]
+- MMAC chassis released 1988 can be upgraded to ATM, Fast Ethernet, and VLANs — technologies that did not exist when first chassis shipped `[ps=0]` — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]

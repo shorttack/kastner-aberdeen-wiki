@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Oracle Fusion Middleware
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle (Fusion): 18% primary SOA vendor; 8% primary ESB vendor; combined Oracle/SAP 19% indicating SOA ERP as valid category — [[study-esb-0617-5cc5fa]]
+- Oracle (Fusion): 18% primary SOA vendor; 8% primary ESB vendor; combined Oracle/SAP 19% indicating SOA ERP as valid category `[ps=3]` — [[study-esb-0617-5cc5fa]]

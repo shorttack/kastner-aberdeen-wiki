@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Primavera Systems then Oracle"
 years_active: "1997-2003"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Evolve Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IT resource management and PSA platform for enterprise IT departments — [[study-1999-professional-services-automation-rpt-10e22b]]
+- IT resource management and PSA platform for enterprise IT departments `[ps=4]` — [[study-1999-professional-services-automation-rpt-10e22b]]

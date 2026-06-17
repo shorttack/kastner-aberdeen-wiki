@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "mature-1999"
 lifecycle_current: "ubiquitous"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Object-Oriented Development
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- After ten years in the marketplace, object-oriented development is most commonly found in supplier's software products, not in IT applications. In 1999, leading ERP suppliers and IBM's San Francisco project will open a new era of objects for practical business use. — [[study-kastner-jrl-trends-1999-pk-responses-f4c5a4]]
+- After ten years in the marketplace, object-oriented development is most commonly found in supplier's software products, not in IT applications. In 1999, leading ERP suppliers and IBM's San Francisco project will open a new era of objects for practical business use. `[ps=3]` — [[study-kastner-jrl-trends-1999-pk-responses-f4c5a4]]

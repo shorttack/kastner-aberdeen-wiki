@@ -12,9 +12,9 @@ era: "1998-2012"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Enterprise portals / web portals
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Traditional enterprise portal platforms (IBM WebSphere Portal, SAP Portal, Oracle WebCenter) began sustained decline 2012+ as SaaS UIs, iPaaS integration layers, and modern intranet platforms (SharePoint Online, Workplace, Slack) displaced the portal-as-aggregator paradigm Kastner described. — [[study-survey-composite-applications-used-to-so-15f7a5]]
+- Traditional enterprise portal platforms (IBM WebSphere Portal, SAP Portal, Oracle WebCenter) began sustained decline 2012+ as SaaS UIs, iPaaS integration layers, and modern intranet platforms (SharePoint Online, Workplace, Slack) displaced the portal-as-aggregator paradigm Kastner described. `[ps=5]` — [[study-survey-composite-applications-used-to-so-15f7a5]]

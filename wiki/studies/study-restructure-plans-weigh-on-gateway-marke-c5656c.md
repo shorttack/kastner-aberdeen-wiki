@@ -3,7 +3,7 @@ title: "Restructure plans weigh on Gateway"
 slug: "study-restructure-plans-weigh-on-gateway-marke-c5656c"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "restructure-plans-weigh-on-gateway-marke-c5656c"
 author: "Rex Crum, CBS.MarketWatch.com"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.86
+prescience_obs_count: 7
 ---
 
 # Restructure plans weigh on Gateway
@@ -32,13 +32,13 @@ _Published 2003, author **Rex Crum, CBS.MarketWatch.com**, type **news-article**
 
 ## Top observations
 
+- Gateway acquired by Acer in October 2007 for approximately $710 million (~$1.90/share), ending independent operations; retail stores had already closed in April 2004. `[ps=5]`
+- April 2004: Gateway closed all 188 remaining Gateway Country Stores, laid off 2,500, and became a retail-distribution brand ahead of the eMachines merger. `[ps=5]`
+- The market for PCs is brutal; the current market is difficult. `[ps=3]`
+- $50 million loss, 15c per share, matching Wall Street consensus. `[ps=0]`
+- 729,000 units, down from 817,000 in Q3 2001; IDC ranked Gateway #3 in US PC shipments. `[ps=0]`
+- 272 Gateway Country Stores; leases on several expiring in 2003. `[ps=0]`
+- November 2002: Gateway began carrying more than 100 new digital products in retail stores, including a 42-inch plasma TV at $2,999 — about half the price of similar models. `[ps=0]`
 - It looks to us as if Gateway's whole business model is on the boardroom table.
-- $50 million loss, 15c per share, matching Wall Street consensus.
 - $1.12 billion, down 21% from $1.41 billion in Q3 2001.
 - Full-year revenue estimate lowered to $4.3-$4.5B from $4.5-$5B.
-- 729,000 units, down from 817,000 in Q3 2001; IDC ranked Gateway #3 in US PC shipments.
-- 272 Gateway Country Stores; leases on several expiring in 2003.
-- November 2002: Gateway began carrying more than 100 new digital products in retail stores, including a 42-inch plasma TV at $2,999 — about half the price of similar models.
-- The market for PCs is brutal; the current market is difficult.
-- Gateway acquired by Acer in October 2007 for approximately $710 million (~$1.90/share), ending independent operations; retail stores had already closed in April 2004.
-- April 2004: Gateway closed all 188 remaining Gateway Country Stores, laid off 2,500, and became a retail-distribution brand ahead of the eMachines merger.

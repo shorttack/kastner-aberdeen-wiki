@@ -3,7 +3,7 @@ title: "2010 Business Computers Leave the Starting Gate"
 slug: "study-intel-2010-vpro-daily-globe-42697e"
 page_type: "study"
 tags: ["type/study", "collection/expert-report"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "intel-2010-vpro-daily-globe-42697e"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.63
+prescience_obs_count: 19
 ---
 
 # 2010 Business Computers Leave the Starting Gate
@@ -32,26 +32,26 @@ _Published 2010, author **Peter S. Kastner**, type **expert-report**._
 
 ## Top observations
 
-- February 4, 2010
-- 32nm
-- up to 90% of a full core
-- 4-way (2 cores + 2 HT)
-- 8-way (4 cores + 4 HT)
-- 1-2 kWh
-- Yes — AES-NI
-- High likelihood
-- [UNVERIFIED]
+- Out-of-band; works even when OS is down `[ps=4]`
+- Remote lock + re-enrollment of recovered device `[ps=4]`
+- Ecosystem-based; VMware, Symantec, Citrix, Microsoft partners `[ps=4]`
+- February 4, 2010 `[ps=0]`
+- 32nm `[ps=0]`
+- up to 90% of a full core `[ps=0]`
+- 4-way (2 cores + 2 HT) `[ps=0]`
+- 8-way (4 cores + 4 HT) `[ps=0]`
+- 1-2 kWh `[ps=0]`
+- Yes — AES-NI `[ps=0]`
+- High likelihood `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Widespread adoption by large companies `[ps=0]`
+- Small and medium-sized businesses (SMB) `[ps=0]`
+- T series, W510 notebooks, ThinkCentre M90 desktop `[ps=0]`
+- Latitude 13, Precision M6500, Vostro 430 (SMB) `[ps=0]`
+- Elitebook 8540p, 8440p, HP Compaq Elite 8100 `[ps=0]`
+- Less than $1,000 `[ps=0]`
+- Spend smart, do more, be more secure `[ps=0]`
 - $500 to $2,500+
-- Widespread adoption by large companies
-- Small and medium-sized businesses (SMB)
-- Out-of-band; works even when OS is down
-- Remote lock + re-enrollment of recovered device
-- T series, W510 notebooks, ThinkCentre M90 desktop
-- Latitude 13, Precision M6500, Vostro 430 (SMB)
-- Elitebook 8540p, 8440p, HP Compaq Elite 8100
-- Less than $1,000
-- Spend smart, do more, be more secure
-- Ecosystem-based; VMware, Symantec, Citrix, Microsoft partners
 - 30-45 days from launch date
 - Reduced overhead for secure VPN
 - Lost/stolen notebooks with encrypted drives eliminate data liability

@@ -12,9 +12,9 @@ era: "2011-present"
 lifecycle_at_study: "N/A (post-study)"
 lifecycle_current: "Active and growing (dominant thin client paradigm in education)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Chromebook / Chrome OS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Google Chromebook (2011+) achieved NC vision: low-cost, browser-centric, centrally managed, sub-$300 — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]
+- Google Chromebook (2011+) achieved NC vision: low-cost, browser-centric, centrally managed, sub-$300 `[ps=5]` — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]

@@ -12,9 +12,9 @@ era: "mid-1990s"
 lifecycle_at_study: "growth"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # FACT Inc. EnSync Family
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 10m_estimated_180_sites — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- 10m_estimated_180_sites `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]

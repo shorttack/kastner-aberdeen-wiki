@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Dimensional modeling
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- fact tables + dimension (satellite) tables — [[study-aberdeen-1995-data-warehouse-olap]]
+- fact tables + dimension (satellite) tables `[ps=5]` — [[study-aberdeen-1995-data-warehouse-olap]]

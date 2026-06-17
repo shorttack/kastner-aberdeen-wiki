@@ -12,9 +12,9 @@ era: "1995-2015"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # SOA + BPM Integration (Information as a Service)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- 50% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
+- qualitative `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
 - 175 — [[study-kastner-technology-breadth-memoir-2026]]
-- 50% — [[study-ra-bpm-2006-f5a558]]
-- qualitative — [[study-ra-bpm-2006-f5a558]]

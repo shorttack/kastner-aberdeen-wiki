@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Request for Proposal (RFP) Process
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Mid-size financial services respondent cited internal 'knowledge gap' contributing to failed outsourcing — buyers must have knowledge to 'exactly state the business requirements' in RFPs — [[study-it-outsourcing-584848]]
+- Mid-size financial services respondent cited internal 'knowledge gap' contributing to failed outsourcing — buyers must have knowledge to 'exactly state the business requirements' in RFPs `[ps=4]` — [[study-it-outsourcing-584848]]

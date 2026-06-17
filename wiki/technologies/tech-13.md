@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "active"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Multi-pass SQL generation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- multi-pass SQL generation — [[study-aberdeen-1995-data-warehouse-olap]]
+- multi-pass SQL generation `[ps=4]` — [[study-aberdeen-1995-data-warehouse-olap]]

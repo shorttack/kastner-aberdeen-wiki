@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # E-Business / Electronic Commerce
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- EC services include Systems Design/Integration, Project Management, Lifecycle Management, Training — [[study-1999pr~1-c5516b]]
-- IBM claims primary competitors are Andersen Consulting and EDS, not HP/Compaq — [[study-1999pr~1-c5516b]]
+- EC services include Systems Design/Integration, Project Management, Lifecycle Management, Training `[ps=4]` — [[study-1999pr~1-c5516b]]
+- IBM claims primary competitors are Andersen Consulting and EDS, not HP/Compaq `[ps=4]` — [[study-1999pr~1-c5516b]]

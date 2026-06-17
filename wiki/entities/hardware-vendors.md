@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Home Networking Hardware Vendors
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Leading hardware vendors enabling new shared gateway services to take shape — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
-- Home WiFi router/gateway became universal household infrastructure — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Home WiFi router/gateway became universal household infrastructure `[ps=5]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Leading hardware vendors enabling new shared gateway services to take shape `[ps=3]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]

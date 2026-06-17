@@ -3,7 +3,7 @@ title: "NCR Norge AS Open OLTP/RDBMS Mini-Seminar, Oslo, 11 September 1992 — K
 slug: "study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414"
 page_type: "study"
 tags: ["type/study", "collection/client-seminar-deck-with-bios-and-attendees"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414"
 author: "Peter S. Kastner (lead lecturer, Aberdeen Group); Sven Aamodt (Oracle Norge); Scott Hansen (Unix International)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.17
+prescience_obs_count: 12
 ---
 
 # NCR Norge AS Open OLTP/RDBMS Mini-Seminar, Oslo, 11 September 1992 — Kastner / Aamodt / Hansen
@@ -32,21 +32,21 @@ _Published 1992, author **Peter S. Kastner (lead lecturer, Aberdeen Group); Sven
 
 ## Top observations
 
-- 11 September 1992 Oslo Norway
-- Vice President, Commercial Systems Practice, Aberdeen Group
+- computer mechanism that changes the state of the enterprise in real-time while using industry standards which support interoperability across a mixture of computing systems `[ps=4]`
+- Open OLTP technically mature enough for serious enterprise consideration `[ps=4]`
+- NCR positioned in high-growth area of open integrated systems based on industry standards `[ps=4]`
+- NCR-Independence Technologies TopEND port a milestone `[ps=2]`
+- 11 September 1992 Oslo Norway `[ps=0]`
+- Vice President, Commercial Systems Practice, Aberdeen Group `[ps=0]`
+- Transaction Processing into the 1990s; The Hardware Suppliers (both 1990) `[ps=0]`
+- Technical Director, Oracle Norge AS `[ps=0]`
+- Administrative Director, NCR Norge AS `[ps=0]`
+- supports Informix/Oracle/Sybase incl. parallel versions `[ps=0]`
+- DnB (Oslo & Bergen) / Fokus Bank / Fellesdata / Sandefjordbanken / Sparebankenes brukerforening `[ps=0]`
+- IDC Norge AS attended Aberdeen-anchored NCR seminar `[ps=0]`
 - DEC / Prime / Stratus marketing+sales head; Arthur D. Little consultant
-- Transaction Processing into the 1990s; The Hardware Suppliers (both 1990)
 - Evaluating Options in Microprocessor Multiprocessing (1991)
 - Apple / ASK Ingres / DEC / HP / NCR / Stratus
 - Managing Director, Unix International European division
-- Technical Director, Oracle Norge AS
-- Administrative Director, NCR Norge AS
 - UNIX V.4 multiprocessor; up to 8 i486-50MHz; ~320 MIPS; 1000+ workstations
-- supports Informix/Oracle/Sybase incl. parallel versions
-- DnB (Oslo & Bergen) / Fokus Bank / Fellesdata / Sandefjordbanken / Sparebankenes brukerforening
 - Statskonsult / Luftforsvarets Forsyningskommando Kjeller
-- IDC Norge AS attended Aberdeen-anchored NCR seminar
-- computer mechanism that changes the state of the enterprise in real-time while using industry standards which support interoperability across a mixture of computing systems
-- Open OLTP technically mature enough for serious enterprise consideration
-- NCR positioned in high-growth area of open integrated systems based on industry standards
-- NCR-Independence Technologies TopEND port a milestone

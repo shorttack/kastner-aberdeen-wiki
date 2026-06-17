@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "norm"
 lifecycle_current: "extended-to-5plus-years"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # PC replacement cycle (3-year cadence)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- The replacement PC market is driven by price, as buyers see little to differentiate individual brands. The global recession last year led to a decline in sales, even as industry overcapacity drove prices lower. — [[study-rbj-pc-reseller-slump-psk-2002-07-05-9cb170]]
-- Consider it a respite, not a turning point for the U.S. PC market — [[study-rbj-pc-reseller-slump-psk-2002-07-05-9cb170]]
+- The replacement PC market is driven by price, as buyers see little to differentiate individual brands. The global recession last year led to a decline in sales, even as industry overcapacity drove prices lower. `[ps=4]` — [[study-rbj-pc-reseller-slump-psk-2002-07-05-9cb170]]
+- Consider it a respite, not a turning point for the U.S. PC market `[ps=4]` — [[study-rbj-pc-reseller-slump-psk-2002-07-05-9cb170]]

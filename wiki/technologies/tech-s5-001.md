@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Defunct"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.17
+prescience_obs_count: 6
 ---
 
 # System ESS (Enterprise Supply System)
@@ -24,13 +24,13 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Backup/restore will go from commodity to strategic capability `[ps=5]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
+- First-mover; ½ to 1-year technology lead `[ps=4]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
+- Compaq's acquisition of DEC in June 1998 effectively ended NonStop VLDB product development and marketing as predicted. `[ps=4]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
+- 3-16% in tests `[ps=0]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
+- Enterprises with $250M+ annual sales in CPG, consumer/industrial products, wholesale distribution `[ps=0]` — [[study-1997-industry-matematik-international-co-c398bc]]
+- Significant Fortune 500 customer wins; consistent high scores in CPG demand-chain evaluations `[ps=0]` — [[study-1997-industry-matematik-international-co-c398bc]]
 - 400–750 GB/hour — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
-- 3-16% in tests — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
 - 1.5 TB/hour (with 1-2 additional TLIOP channels) — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
 - Oracle, Informix, Sybase, Microsoft SQL Server, SAP R/3 — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
 - High-end Unix or cost-effective Windows NT — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
-- First-mover; ½ to 1-year technology lead — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
-- Backup/restore will go from commodity to strategic capability — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
-- Compaq's acquisition of DEC in June 1998 effectively ended NonStop VLDB product development and marketing as predicted. — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
-- Enterprises with $250M+ annual sales in CPG, consumer/industrial products, wholesale distribution — [[study-1997-industry-matematik-international-co-c398bc]]
-- Significant Fortune 500 customer wins; consistent high scores in CPG demand-chain evaluations — [[study-1997-industry-matematik-international-co-c398bc]]

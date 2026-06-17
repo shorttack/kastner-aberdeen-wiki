@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "active-mature"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 5
 ---
 
 # Microsoft SQL Server 6.5
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Modest scalability; no MPP; good on DEC Alpha — [[study-cab199-1-2-0cb163]]
-- Limited replication in SQL Server 6.5 for NT — [[study-cab199-1-2-0cb163]]
-- Great for PC apps; OLE; ODBC — [[study-cab199-1-2-0cb163]]
-- Major language supplier; ISV leader — [[study-cab199-1-2-0cb163]]
-- Behind in universal server, data warehousing, clustering — [[study-cab199-1-2-0cb163]]
+- Major language supplier; ISV leader `[ps=4]` — [[study-cab199-1-2-0cb163]]
+- Modest scalability; no MPP; good on DEC Alpha `[ps=3]` — [[study-cab199-1-2-0cb163]]
+- Great for PC apps; OLE; ODBC `[ps=3]` — [[study-cab199-1-2-0cb163]]
+- Limited replication in SQL Server 6.5 for NT `[ps=0]` — [[study-cab199-1-2-0cb163]]
+- Behind in universal server, data warehousing, clustering `[ps=0]` — [[study-cab199-1-2-0cb163]]

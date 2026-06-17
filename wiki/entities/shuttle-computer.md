@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1983-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Shuttle Computer Group Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- This month, Shuttle will, for the first time, sell complete, bread-box-sized PC systems in a dazzling array of colors and metallic veneers — selection of small form PCs in sleek aluminum and mirrored panels; SB51G in neon yellow, green, hot pink, red. — [[study-small-is-huge-in-pcs-these-days-blog-arc-655851]]
+- This month, Shuttle will, for the first time, sell complete, bread-box-sized PC systems in a dazzling array of colors and metallic veneers — selection of small form PCs in sleek aluminum and mirrored panels; SB51G in neon yellow, green, hot pink, red. `[ps=0]` — [[study-small-is-huge-in-pcs-these-days-blog-arc-655851]]

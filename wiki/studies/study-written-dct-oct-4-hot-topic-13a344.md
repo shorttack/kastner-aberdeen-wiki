@@ -1,5 +1,5 @@
 ---
-title: "==> picture [450 x 121] intentionally omitted <=="
+title: "Written Dct Oct. 4 Hot Topic (Aberdeen, 2003)"
 slug: "study-written-dct-oct-4-hot-topic-13a344"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -22,9 +22,9 @@ prescience_mean: 0.67
 prescience_obs_count: 6
 ---
 
-# ==> picture [450 x 121] intentionally omitted <==
+# Written Dct Oct. 4 Hot Topic (Aberdeen, 2003)
 
-> This study analyzes ==> picture [450 x 121] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-dct-oct-4-hot-topic-13a344. Source: Written__DCT Oct. 4 hot topic.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: Linux. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2003, author **Russ Craig & Peter Kastner _AberdeenGroup is a leading market analysis and positioning ser-_**, type **market-study**._

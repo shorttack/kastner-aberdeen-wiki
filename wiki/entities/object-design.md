@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Excelon/ObjectStore via Progress Software"
 years_active: "1989-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Object Design, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Requires purchase of ODBMS as part of solution; less resource investment in object caching than Persistence — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Requires purchase of ODBMS as part of solution; less resource investment in object caching than Persistence `[ps=2]` — [[study-aberdeen-1996-live-object-caching-high-performance]]

@@ -12,9 +12,9 @@ era: "1980-1988"
 lifecycle_at_study: "experimental"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.67
+prescience_obs_count: 3
 ---
 
 # XCON (eXpert CONfigurer)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 4 — [[study-2026-kastner-enterprise-ai-arc]]
-- 42 — [[study-2026-kastner-enterprise-ai-arc]]
-- XCON: rule-based computer configuration expert system for DEC; cited as representative commercially significant expert system of the 1980s. — [[study-volume-1-ch10-the-long-view-1966-2026]]
+- XCON: rule-based computer configuration expert system for DEC; cited as representative commercially significant expert system of the 1980s. `[ps=5]` — [[study-volume-1-ch10-the-long-view-1966-2026]]
+- 4 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 42 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]

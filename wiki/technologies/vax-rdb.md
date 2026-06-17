@@ -12,9 +12,9 @@ era: "1984-1994"
 lifecycle_at_study: "active-product"
 lifecycle_current: "Oracle-Rdb-after-1994-sale"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # VAX Rdb/VMS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- formal-database-debit-credit — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
+- formal-database-debit-credit `[ps=0]` — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]

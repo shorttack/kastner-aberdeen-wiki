@@ -3,7 +3,7 @@ title: "Aberdeen Group Flash Report: High Availability Marketing Messages"
 slug: "study-1998-hp-high-availability-and-metadata-7d1276"
 page_type: "study"
 tags: ["type/study", "collection/advisory-report"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1998-hp-high-availability-and-metadata-7d1276"
 author: "Peter Kastner; Thomas Willmott; John Logan"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.22
+prescience_obs_count: 27
 ---
 
 # Aberdeen Group Flash Report: High Availability Marketing Messages
@@ -32,28 +32,28 @@ _Published 1998, author **Peter Kastner; Thomas Willmott; John Logan**, type **a
 
 ## Top observations
 
-- 40
-- credible
-- 12-18
-- defendable-and-sustainable
-- average
-- recommended
-- unavailable
-- recommended
-- did-not-occur
-- transition-away-recommended
-- low-among-executives
-- not-pursued
-- poor-to-fair
-- absent
-- rack-mounted-clusters-only
-- not-pursued
-- installed-base-only
-- broaden-beyond-unix-oltp
-- longer-term
-- confirmed-gradual
-- high
-- high
-- direct-and-indirect
-- telcos-finance-retail
-- challenging
+- broaden-beyond-unix-oltp `[ps=4]`
+- defendable-and-sustainable `[ps=2]`
+- 40 `[ps=0]`
+- credible `[ps=0]`
+- 12-18 `[ps=0]`
+- average `[ps=0]`
+- unavailable `[ps=0]`
+- did-not-occur `[ps=0]`
+- transition-away-recommended `[ps=0]`
+- low-among-executives `[ps=0]`
+- not-pursued `[ps=0]`
+- poor-to-fair `[ps=0]`
+- absent `[ps=0]`
+- not-pursued `[ps=0]`
+- installed-base-only `[ps=0]`
+- longer-term `[ps=0]`
+- confirmed-gradual `[ps=0]`
+- high `[ps=0]`
+- high `[ps=0]`
+- challenging `[ps=0]`
+- critical-for-end-to-end `[ps=0]`
+- critical-for-end-to-end `[ps=0]`
+- acquired `[ps=0]`
+- mainstream-in-cloud `[ps=0]`
+- still-active-but-contextualized `[ps=0]`

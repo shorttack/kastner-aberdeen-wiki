@@ -12,9 +12,9 @@ era: "1997-2013"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Oracle Discoverer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle Discoverer included for ad-hoc query and reporting — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
+- Oracle Discoverer included for ad-hoc query and reporting `[ps=0]` — [[study-1997-oracle-data-mart-suite-for-nt-926845]]

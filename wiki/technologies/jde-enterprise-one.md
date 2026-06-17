@@ -12,9 +12,9 @@ era: "1977-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 3
 ---
 
 # JD Edwards EnterpriseOne
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Closed July 18 2003 for $1.75B — [[study-2003-oracle-v-peoplesoft-don-t-wait-until-the-bout-is-o-4da869]]
-- $1.8 billion (stock and cash) — [[study-2003-peoplesoft-gains-crm-market-momentum-b4b610]]
+- JDE EnterpriseOne remains actively sold and supported by Oracle as of 2026 `[ps=5]` — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]
+- Closed July 18 2003 for $1.75B `[ps=1]` — [[study-2003-oracle-v-peoplesoft-don-t-wait-until-the-bout-is-o-4da869]]
+- $1.8 billion (stock and cash) `[ps=0]` — [[study-2003-peoplesoft-gains-crm-market-momentum-b4b610]]
 - Cross-industry capability expansion: each firm brings unique capabilities to previously underserved verticals — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]
-- JDE EnterpriseOne remains actively sold and supported by Oracle as of 2026 — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]

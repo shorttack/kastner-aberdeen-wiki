@@ -3,7 +3,7 @@ title: "Upgrading to Windows XP: A Long and Winding Road"
 slug: "study-2001-upgrading-to-windows-xp-a-long-and-winding-road-ps-81e090"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2001-upgrading-to-windows-xp-a-long-and-winding-road-ps-81e090"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.18
+prescience_obs_count: 11
 ---
 
 # Upgrading to Windows XP: A Long and Winding Road
@@ -32,15 +32,15 @@ _Published 2001, author **Peter S. Kastner**, type **market-study**._
 
 ## Top observations
 
-- $200 million marketing program backing Windows XP launch
-- Upgrade advisable only if performed by a good technician
-- Users get enterprise stability and speed of Windows 2000
-- Raft of new features supporting audio and visual digital media and networking
-- WEP wireless LAN (Agere/ORiNOCO) tested during upgrade — driver/compatibility challenges noted
-- Factory-installed XP on new PC is the right choice for most consumers and small businesses
-- New XP PC costing around $1000 should be a bargain
-- Targets both SOHO users seeking consumer media features and enterprise seeking W2K stability
+- Factory-installed XP on new PC is the right choice for most consumers and small businesses `[ps=5]`
+- Targets both SOHO users seeking consumer media features and enterprise seeking W2K stability `[ps=5]`
+- Factory-installed XP on new hardware will be the dominant adoption path for most users `[ps=5]`
+- Windows XP reached end of extended support April 8 2014; ran for 13 years — substantially on new hardware as predicted `[ps=5]`
+- WEP officially deprecated by IEEE 802.11i in 2004; replaced by WPA and WPA2 due to fundamental cryptographic weaknesses `[ps=5]`
+- Users get enterprise stability and speed of Windows 2000 `[ps=4]`
+- Upgrade advisable only if performed by a good technician `[ps=3]`
+- Raft of new features supporting audio and visual digital media and networking `[ps=3]`
+- $200 million marketing program backing Windows XP launch `[ps=0]`
+- WEP wireless LAN (Agere/ORiNOCO) tested during upgrade — driver/compatibility challenges noted `[ps=0]`
+- New XP PC costing around $1000 should be a bargain `[ps=0]`
 - WEP used as wireless security standard in tested SOHO network configuration
-- Factory-installed XP on new hardware will be the dominant adoption path for most users
-- Windows XP reached end of extended support April 8 2014; ran for 13 years — substantially on new hardware as predicted
-- WEP officially deprecated by IEEE 802.11i in 2004; replaced by WPA and WPA2 due to fundamental cryptographic weaknesses

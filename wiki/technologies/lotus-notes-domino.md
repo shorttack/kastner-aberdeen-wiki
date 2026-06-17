@@ -12,9 +12,9 @@ era: "1989-present"
 lifecycle_at_study: "Dominant"
 lifecycle_current: "Active under HCLSoftware (HCL Notes/Domino; v14.x as of 2024)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Lotus Notes / Domino
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Sold by IBM to HCL for $1.8B; lost collaboration market to Microsoft 365 `[ps=5]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Will continue integrating products and development tools with the Internet `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Most popular LAN groupware product — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Will continue integrating products and development tools with the Internet — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Sold by IBM to HCL for $1.8B; lost collaboration market to Microsoft 365 — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]

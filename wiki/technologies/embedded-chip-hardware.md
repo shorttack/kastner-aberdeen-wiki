@@ -12,9 +12,9 @@ era: "1998-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Chips Embedded in Hardware (digital cash)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Hardware-based chip creates market for trusted PCs; ready-made network for security vendors — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- Hardware-based chip creates market for trusted PCs; ready-made network for security vendors `[ps=4]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]

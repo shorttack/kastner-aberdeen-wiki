@@ -3,7 +3,7 @@ title: "One Powerhouse Marriage: HP/Compaq Merger Carried Out With Near-Textbook
 slug: "study-processor-editorial-article-one-powerhou-aa3f6c"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "processor-editorial-article-one-powerhou-aa3f6c"
 author: "Warren S. Hersch (Processor Magazine / Sandhills Publishing)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.17
+prescience_obs_count: 6
 ---
 
 # One Powerhouse Marriage: HP/Compaq Merger Carried Out With Near-Textbook Precision
@@ -32,12 +32,12 @@ _Published 2003, author **Warren S. Hersch (Processor Magazine / Sandhills Publi
 
 ## Top observations
 
-- HP carried out on its merger-related goals faster than I expected. The company made strategic decisions that turned out very well. They're now better than what the independent companies were before.
-- The rampant deflation in the server marketplace has everyone running around like crazy trying to lower costs.
-- HP's most serious SMB-market threat comes from IBM, which enjoys a more sizeable channel.
-- HP reported $1.4B operating profit (+63% YoY) on $19.9B revenue (+10% YoY) for Q4 FY2003; industry-standard server revenue up 9%, shipments up 21%.
-- HP cut $3B from budget by eliminating overlap, cut 16,800 jobs from combined 150,000 workforce (60,000 ex-Compaq).
+- HP carried out on its merger-related goals faster than I expected. The company made strategic decisions that turned out very well. They're now better than what the independent companies were before. `[ps=4]`
+- The rampant deflation in the server marketplace has everyone running around like crazy trying to lower costs. `[ps=4]`
+- It's not complicated to take out costs or reduce staff. It is complicated to put together two organizations with disparate cultures and grow the business. From my perspective, they've created no additional value. `[ps=4]`
+- HP's most serious SMB-market threat comes from IBM, which enjoys a more sizeable channel. `[ps=1]`
+- HP reported $1.4B operating profit (+63% YoY) on $19.9B revenue (+10% YoY) for Q4 FY2003; industry-standard server revenue up 9%, shipments up 21%. `[ps=0]`
+- HP cut $3B from budget by eliminating overlap, cut 16,800 jobs from combined 150,000 workforce (60,000 ex-Compaq). `[ps=0]`
 - Pricing is eroding PC margins, which declined 10% during the quarter. We expect to push higher-end desktops through up selling.
 - Our view is that HP has executed extremely well integrating the two companies and finding cost savings. I question whether HP can deliver on the promises to users of all their server operating systems. That is a lot of R&D to sustain.
-- It's not complicated to take out costs or reduce staff. It is complicated to put together two organizations with disparate cultures and grow the business. From my perspective, they've created no additional value.
 - HP split November 2015 into HP Inc. (PCs/printers) and Hewlett Packard Enterprise (servers/services/software), partially unwinding the 2002 Compaq merger structure.

@@ -12,9 +12,9 @@ era: "1978-1990s"
 lifecycle_at_study: "declining"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # VT Terminal Series (VT320/VT330/VT340)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Analysts predicted death of terminals replaced by PCs — that didn't happen; terminals remain preferred for many applications; shipping 500000+ terminals this year — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
-- DEC VT 100/200 terminals in emulation mode were a standard warehouse communication method — [[study-ie-appendix-jones-wms-memo-2e5d6c]]
+- DEC VT 100/200 terminals in emulation mode were a standard warehouse communication method `[ps=4]` — [[study-ie-appendix-jones-wms-memo-2e5d6c]]
+- Analysts predicted death of terminals replaced by PCs — that didn't happen; terminals remain preferred for many applications; shipping 500000+ terminals this year `[ps=2]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]

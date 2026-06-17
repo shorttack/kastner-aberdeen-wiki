@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # TACACS+
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TACACS+ announced March 1995; supports independent user authentication, authorization, accounting, and encryption — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]
+- TACACS+ announced March 1995; supports independent user authentication, authorization, accounting, and encryption `[ps=0]` — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]

@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 0.2
+prescience_obs_count: 10
 ---
 
 # ILM/Pools of Storage Tool Decision Components and IP Framework
@@ -32,19 +32,19 @@ _Published 2003, author **Aberdeen Group (Peter Kastner)**, type **employer-reco
 
 ## Top observations
 
-- Hardware Hawker tool is Aberdeen IP; Maxtor has no rights other than what Aberdeen grants
-- Laptop-only initially; webifying is part of scope
+- How much do we value our long-term business relationship with Maxtor? `[ps=2]`
+- Hardware Hawker tool is Aberdeen IP; Maxtor has no rights other than what Aberdeen grants `[ps=0]`
+- Laptop-only initially; webifying is part of scope `[ps=0]`
+- Accompany Aberdeen on sales calls to other component makers; granted independent laptop tool usage until COE established `[ps=0]`
+- Penetrate up chain of command; leverage Milpitas (HQ) over Shrewsbury `[ps=0]`
+- Spread the PoS/midline message; influence component-maker partners `[ps=0]`
+- Is Aberdeen's new IT business direction congruous with owning a storage COE? `[ps=0]`
+- HP; EMC; Intel; Sun; IBM; NetApp; Permabit will subscribe to Aberdeen Storage COE `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Risk: may part over how to use IP which Maxtor paid Aberdeen to develop `[ps=0]`
 - Approach other storage component makers to sell customization of HH tool; participate in storage COE
-- Accompany Aberdeen on sales calls to other component makers; granted independent laptop tool usage until COE established
-- Penetrate up chain of command; leverage Milpitas (HQ) over Shrewsbury
-- Spread the PoS/midline message; influence component-maker partners
-- How much do we value our long-term business relationship with Maxtor?
-- Is Aberdeen's new IT business direction congruous with owning a storage COE?
 - Aberdeen.com: Yes; Maxtor internal: Yes; Maxtor.com: Yes; SerialStorage.com: No
 - Aberdeen.com: Yes; Maxtor internal: Yes; Maxtor.com: Yes; SerialStorage.com: No
 - Aberdeen.com: 90 days hosting; Maxtor internal: post-90 days; Maxtor.com: post-90 days; SerialStorage.com: No
 - Aberdeen.com: laptop then 90 days; Maxtor: laptops only; Maxtor.com: post-90 day option; SerialStorage.com: via Maxtor.com
-- HP; EMC; Intel; Sun; IBM; NetApp; Permabit will subscribe to Aberdeen Storage COE
-- [UNVERIFIED]
 - Drives eyeballs via Aberdeen.com and Maxtor.com; HH displayed to component makers via press tour and sales calls
-- Risk: may part over how to use IP which Maxtor paid Aberdeen to develop

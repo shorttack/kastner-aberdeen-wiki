@@ -12,9 +12,9 @@ era: "1983-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # LapLink (remote control software)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Support personnel can configure fine-tune and update remote devices via remote control; take control to diagnose problems — [[study-when-does-remote-control-benefit-9bd6e4]]
+- Support personnel can configure fine-tune and update remote devices via remote control; take control to diagnose problems `[ps=4]` — [[study-when-does-remote-control-benefit-9bd6e4]]
+- LapLink positions as solving core remote access cost/time/experience problems for IT `[ps=2]` — [[study-when-does-remote-control-benefit-9bd6e4]]
 - Remote control over remote node provides encryption access control and parameter-setting for heightened security — [[study-when-does-remote-control-benefit-9bd6e4]]
 - Traveling Software's LapLink positioned as enabling remote control over remote node hybrid architecture — [[study-when-does-remote-control-benefit-9bd6e4]]
-- LapLink positions as solving core remote access cost/time/experience problems for IT — [[study-when-does-remote-control-benefit-9bd6e4]]
 - Traveling Software renamed Laplink Software circa 2003; active in 2026 as PC migration software vendor; partnerships with Microsoft (2014) and Intel (2022) — [[study-when-does-remote-control-benefit-9bd6e4]]

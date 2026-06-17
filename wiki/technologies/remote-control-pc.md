@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Remote Control / Remote Desktop Support
@@ -22,4 +22,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Remote Control — lower ROI tier — [[study-kastner-sipp-pc-lifecycle-dynamics-2003-4395fd]]
+- Remote Control — lower ROI tier `[ps=2]` — [[study-kastner-sipp-pc-lifecycle-dynamics-2003-4395fd]]

@@ -12,9 +12,9 @@ era: "1989-1997"
 lifecycle_at_study: "experimental"
 lifecycle_current: "discontinued"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.67
+prescience_obs_count: 6
 ---
 
 # IBM Deep Blue
@@ -24,11 +24,11 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- IBM Deep Blue defeated world chess champion Garry Kasparov in May 1997 match `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
+- IBM decommissioned Deep Blue after 1997 match; technology evolved into HPC research lineage `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
+- 3 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 33 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 25 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 25 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 3 — [[study-2026-kastner-enterprise-ai-arc]]
-- 33 — [[study-2026-kastner-enterprise-ai-arc]]
-- 3 — [[study-2026-kastner-enterprise-ai-arc]]
-- 25 — [[study-2026-kastner-enterprise-ai-arc]]
 - 2 — [[study-2026-kastner-enterprise-ai-arc]]
-- 25 — [[study-2026-kastner-enterprise-ai-arc]]
-- IBM Deep Blue defeated world chess champion Garry Kasparov in May 1997 match — [[study-2026-kastner-ibm-longitudinal]]
-- IBM decommissioned Deep Blue after 1997 match; technology evolved into HPC research lineage — [[study-2026-kastner-ibm-longitudinal]]

@@ -3,7 +3,7 @@ title: "Fault Tolerant — continued (NCR, Tandem low-cost, Tolerant Systems) �
 slug: "study-stratus-ft-market-continued-1987-5105d7"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "stratus-ft-market-continued-1987-5105d7"
 author: "S.K. (staff)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # Fault Tolerant — continued (NCR, Tandem low-cost, Tolerant Systems) — trade press, 1987 (companion clipping)
@@ -32,6 +32,6 @@ _Published 1987, author **S.K. (staff)**, type **press-article**._
 
 ## Top observations
 
-- $25,000-$45,000 NCR low-cost FT POS systems vs >$1M top-end Stratus/Tandem
-- Larger markets mean bigger competition; new entrants targeting Unix and low-cost verticals
-- Aiming low-cost systems at banking, telecommunications, manufacturing, and federal government
+- Larger markets mean bigger competition; new entrants targeting Unix and low-cost verticals `[ps=4]`
+- Aiming low-cost systems at banking, telecommunications, manufacturing, and federal government `[ps=4]`
+- $25,000-$45,000 NCR low-cost FT POS systems vs >$1M top-end Stratus/Tandem `[ps=0]`

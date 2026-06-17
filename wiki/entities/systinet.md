@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Mercury Interactive (2006) → HP Software (2006) → Micro Focus (2017)"
 years_active: "1999-2006"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Systinet
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Mercury acquired Systinet in January 2006 for SOA management and registry capabilities — [[study-hp-can-boost-soa-offerings-with-acquisit-48e07e]]
+- Mercury acquired Systinet in January 2006 for SOA management and registry capabilities `[ps=4]` — [[study-hp-can-boost-soa-offerings-with-acquisit-48e07e]]

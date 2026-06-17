@@ -12,9 +12,9 @@ era: "1997-1999"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 2
 ---
 
 # Microsoft/Intel NetPC
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NetPC as Microsoft/Intel compromise between PC and NC unlikely to establish a durable category. — [[study-ca-acapulco-cio-pcs-ncs-netpcs-1997-552b4c]]
-- NetPC failed to establish a durable commercial category; Microsoft and Intel quietly abandoned NetPC branding by 1999. Kastner prediction verified. — [[study-ca-acapulco-cio-pcs-ncs-netpcs-1997-552b4c]]
+- NetPC as Microsoft/Intel compromise between PC and NC unlikely to establish a durable category. `[ps=5]` — [[study-ca-acapulco-cio-pcs-ncs-netpcs-1997-552b4c]]
+- NetPC failed to establish a durable commercial category; Microsoft and Intel quietly abandoned NetPC branding by 1999. Kastner prediction verified. `[ps=5]` — [[study-ca-acapulco-cio-pcs-ncs-netpcs-1997-552b4c]]

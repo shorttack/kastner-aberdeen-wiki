@@ -3,7 +3,7 @@ title: "IBM AS/400 vs. HP 3000 Marketplace Analysis for Stanley-Vidmar"
 slug: "study-1989-vidmar-as400-hp3000-and-metadata-a32d04"
 page_type: "study"
 tags: ["type/study", "collection/consulting-report"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1989-vidmar-as400-hp3000-and-metadata-a32d04"
 author: "Peter S. Kastner / Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 9
 ---
 
 # IBM AS/400 vs. HP 3000 Marketplace Analysis for Stanley-Vidmar
@@ -32,22 +32,22 @@ _Published 1989, author **Peter S. Kastner / Aberdeen Group**, type **consulting
 
 ## Top observations
 
+- MIPS invalid for AS/400 vs. HPPA comparison; AS/400 MIPS undisclosed by IBM; multiprocessor architecture makes definition unclear `[ps=5]`
+- Stanley Vidmar now Vidmar division of Stanley Black & Decker; still manufacturing heavy-duty storage cabinets in Allentown PA `[ps=5]`
+- MIS staff expertise in HP MPE OS is a significant intangible asset; existing low-priority programs run in MPE V emulation indefinitely `[ps=4]`
+- Journaling and Checksum recommended for production systems can reduce throughput by up to 60% `[ps=3]`
+- AS/400 lacks growth path today; multiple-AS/400 clustering not a reasonable alternative `[ps=1]`
+- AS/400 B60 offers ~25% less performance than HP 3000 Model 70; B70 approximates Model 70 `[ps=0]`
+- Aberdeen recommends HP 950 as entry point; 955 if >25% growth per annum expected in 2 years `[ps=0]`
+- Partner Richard Stuckey stated HP TurboImage was most impressive system in IBM's tests; AA subsequently OEM'd HP systems `[ps=0]`
+- HP ended support December 31, 2010; Stromasys emulator released 2012 for legacy sites `[ps=0]`
 - Not yet mature: no C compiler, 1MB program size limit, frequent OS patch tapes, OS/400 immature
 - 2.5x the performance of Model 70; CPU-upgradable to 955 and 960
-- AS/400 B60 offers ~25% less performance than HP 3000 Model 70; B70 approximates Model 70
 - High risk: MIS staff retraining, software conversion, new sales analysis system from scratch, cost escalation foreseeable
-- Aberdeen recommends HP 950 as entry point; 955 if >25% growth per annum expected in 2 years
-- Partner Richard Stuckey stated HP TurboImage was most impressive system in IBM's tests; AA subsequently OEM'd HP systems
-- Journaling and Checksum recommended for production systems can reduce throughput by up to 60%
-- MIPS invalid for AS/400 vs. HPPA comparison; AS/400 MIPS undisclosed by IBM; multiprocessor architecture makes definition unclear
-- MIS staff expertise in HP MPE OS is a significant intangible asset; existing low-priority programs run in MPE V emulation indefinitely
 - Aberdeen: custom consulting from user interviews; Gartner: subscription research from supplier sources
 - Aberdeen expects Allbase SQL performance to improve 50% during 1990
 - Aberdeen expects TurboImage performance on HPPA to improve 20% in 1990
-- AS/400 lacks growth path today; multiple-AS/400 clustering not a reasonable alternative
 - AS/400 evolved through iSeries, System i to IBM i on Power Systems; still actively supported in 2026 with 100,000+ installations
-- HP ended support December 31, 2010; Stromasys emulator released 2012 for legacy sites
-- Stanley Vidmar now Vidmar division of Stanley Black & Decker; still manufacturing heavy-duty storage cabinets in Allentown PA
 - Arthur Andersen dissolved 2002 following Enron audit scandal; Accenture (formerly Andersen Consulting) spun off 2001
 - 935 70% capacity improvement over Model 70 but not expandable; 950 CPU-upgradable to 955/960 for higher initial cost
 - Aberdeen normalized DebitCredit results across HP's and IBM's vendor-specific benchmark runs to enable cross-vendor comparison

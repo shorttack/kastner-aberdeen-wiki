@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Public Key/Private Key Encryption
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Public Key/Private Key session encryption; symmetric session keys discarded after use — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]
-- Public/private key encryption as internet commerce security foundation — [[study-dollars-and-sense-b2b-ec-eb8c9d]]
+- Public/private key encryption as internet commerce security foundation `[ps=5]` — [[study-dollars-and-sense-b2b-ec-eb8c9d]]
+- Public Key/Private Key session encryption; symmetric session keys discarded after use `[ps=4]` — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]

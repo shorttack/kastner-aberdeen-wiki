@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Chad Robinson
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- A lot of companies are starting to experiment not only with Linux on the server, but also Linux on the desktop. Microsoft's decision is going to hurt them in the eyes of customers. — [[study-processor-editorial-article-much-in-stor-660f27]]
+- A lot of companies are starting to experiment not only with Linux on the server, but also Linux on the desktop. Microsoft's decision is going to hurt them in the eyes of customers. `[ps=2]` — [[study-processor-editorial-article-much-in-stor-660f27]]

@@ -12,9 +12,9 @@ era: "1998-2012"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Enterprise JavaBeans (EJB)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Over 2000 solutions developed `[ps=0]` — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
 - Over 500000 developers worldwide — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
-- Over 2000 solutions developed — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]

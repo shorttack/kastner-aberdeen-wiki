@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Parago (customer list acquired Dec 2004)"
 years_active: "unknown-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # TCA Fulfillment Services
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TCA Rebate Redemption Guide cited 10% redemption for $10-on-$100 rebates and 35% for $50-on-$200, implying clients could gain 20% higher unredeemed rates than competitors — [[study-great-rebate-runaround-businessweek-grow-00f459]]
+- TCA Rebate Redemption Guide cited 10% redemption for $10-on-$100 rebates and 35% for $50-on-$200, implying clients could gain 20% higher unredeemed rates than competitors `[ps=0]` — [[study-great-rebate-runaround-businessweek-grow-00f459]]

@@ -12,9 +12,9 @@ status: "defunct"
 successor: ""
 years_active: "1999-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Axiom8
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Advised packaging service components as voice-centric unified communications suite augmenting rather than replacing PBXes; first product debut fall 2000 — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Advised packaging service components as voice-centric unified communications suite augmenting rather than replacing PBXes; first product debut fall 2000 `[ps=4]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]

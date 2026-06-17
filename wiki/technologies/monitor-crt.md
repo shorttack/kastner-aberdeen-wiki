@@ -12,9 +12,9 @@ era: "1960s-2010"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # CRT Monitor
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 17 inch flat tube <$100 in bundle — [[study-dct-why-aberdeen-follows-pc-deals-2002]]
+- 17 inch flat tube <$100 in bundle `[ps=4]` — [[study-dct-why-aberdeen-follows-pc-deals-2002]]

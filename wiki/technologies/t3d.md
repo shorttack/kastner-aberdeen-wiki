@@ -12,9 +12,9 @@ era: "mid-1990s"
 lifecycle_at_study: "growth"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Cray T3D Massively Parallel Processor
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- scientific_above_5tb — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- scientific_above_5tb `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]

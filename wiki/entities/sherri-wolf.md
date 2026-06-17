@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Sherri Wolf
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 80% recurring revenue; 15-20% pretax operating margins — 'very attractive business model' — [[study-wsj-tech-watching-analyst-industry-1998-002531]]
+- 80% recurring revenue; 15-20% pretax operating margins — 'very attractive business model' `[ps=4]` — [[study-wsj-tech-watching-analyst-industry-1998-002531]]

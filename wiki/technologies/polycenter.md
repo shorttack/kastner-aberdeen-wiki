@@ -12,9 +12,9 @@ era: "1990-1998"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # POLYCENTER Manager on NetView
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- POLYCENTER Manager on NetView positioned as higher-end SNMP platform for large installations beyond ManageWORKS scope — [[study-aberdeen-1996-dec-manageworks-22]]
-- Three-tier: ClientWORKS (desktop) -> ServerWORKS Manager (workgroup SNMP) -> POLYCENTER/CA Unicenter (enterprise) — [[study-aberdeen-1996-digital-leading-nt-across-enterprise-charge]]
+- Three-tier: ClientWORKS (desktop) -> ServerWORKS Manager (workgroup SNMP) -> POLYCENTER/CA Unicenter (enterprise) `[ps=3]` — [[study-aberdeen-1996-digital-leading-nt-across-enterprise-charge]]
+- POLYCENTER Manager on NetView positioned as higher-end SNMP platform for large installations beyond ManageWORKS scope `[ps=2]` — [[study-aberdeen-1996-dec-manageworks-22]]

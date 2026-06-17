@@ -12,9 +12,9 @@ status: "bankrupt"
 successor: "Sears Holdings → bankrupt 2018"
 years_active: "1892-2018"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Sears
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sears Holdings filed Chapter 11 in October 2018; failure to execute digital integration was major factor — [[study-1998-information-technology-in-the-retail-sector-the-in-33dc54]]
+- Sears Holdings filed Chapter 11 in October 2018; failure to execute digital integration was major factor `[ps=4]` — [[study-1998-information-technology-in-the-retail-sector-the-in-33dc54]]

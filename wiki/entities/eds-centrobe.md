@@ -12,9 +12,9 @@ status: "acquired"
 successor: "HP (2008)"
 years_active: "1962-2008"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # EDS Centrobe Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CRM-specific outsourcing and contact center services subsidiary of EDS — [[study-1999-crm-professional-services-rpt-96bf13]]
+- CRM-specific outsourcing and contact center services subsidiary of EDS `[ps=0]` — [[study-1999-crm-professional-services-rpt-96bf13]]

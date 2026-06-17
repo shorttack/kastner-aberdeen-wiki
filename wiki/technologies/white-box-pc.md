@@ -12,9 +12,9 @@ era: "1990-2015"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # White-box PC / channel-assembled PC
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- There might not be increasing budget market demand in the United States, but in other parts of the world such as Thailand or Malaysia, the so-called white-box market represents 40 percent of available sales. — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]
+- There might not be increasing budget market demand in the United States, but in other parts of the world such as Thailand or Malaysia, the so-called white-box market represents 40 percent of available sales. `[ps=4]` — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]

@@ -12,9 +12,9 @@ era: "1997-2015"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # 7200 RPM Hard Drive
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Faster (7200 RPM) > bigger — [[study-dct-why-aberdeen-follows-pc-deals-2002]]
+- Faster (7200 RPM) > bigger `[ps=3]` — [[study-dct-why-aberdeen-follows-pc-deals-2002]]
 - 40GB entry / 80GB multimedia — [[study-dct-why-aberdeen-follows-pc-deals-2002]]

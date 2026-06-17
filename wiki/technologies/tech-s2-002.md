@@ -12,9 +12,9 @@ era: "1996-2003"
 lifecycle_at_study: "early-growth"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 3
 ---
 
 # IBM MedSpeak/Radiology
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Most comprehensive NC software suite in industry — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]
-- Less than 500K — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]
-- Positive: reduces radiology report turnaround from days to minutes — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]
+- Positive: reduces radiology report turnaround from days to minutes `[ps=4]` — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]
+- Most comprehensive NC software suite in industry `[ps=2]` — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]
+- Less than 500K `[ps=0]` — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]
 - Dragon Medical (Nuance) became market leader; IBM MedSpeak discontinued — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]

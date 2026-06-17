@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ra Rfidmfg 3758 (Aberdeen, 2007)"
 slug: "study-ra-rfidmfg-3758-c43b7f"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.33
-prescience_obs_count: 48
+prescience_mean: 1.87
+prescience_obs_count: 39
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ra Rfidmfg 3758 (Aberdeen, 2007)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-rfidmfg-3758-c43b7f. Source: ra_rfidmfg_3758.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **topic-analysis**._

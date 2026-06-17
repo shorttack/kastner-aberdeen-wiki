@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Requirements Tracking Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 45% of Best-in-Class use requirements tracking tools vs 35% of Avg/Laggard — [[study-soa-web-services-2007-c3297b]]
+- 45% of Best-in-Class use requirements tracking tools vs 35% of Avg/Laggard `[ps=0]` — [[study-soa-web-services-2007-c3297b]]

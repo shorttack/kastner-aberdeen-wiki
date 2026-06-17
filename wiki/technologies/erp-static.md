@@ -12,9 +12,9 @@ era: "1985-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Static ERP
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Static ERP customers invest in upfront modeling that does not carry through to implemented system due to serial, disconnected process — [[study-aberdeen-1996-baan-changes-rules-erp-game]]
-- Three failure modes: elongated config/implementation times, rigidly imposed predefined practices, plethora of configuration parameters — [[study-aberdeen-1996-baan-changes-rules-erp-game]]
+- Three failure modes: elongated config/implementation times, rigidly imposed predefined practices, plethora of configuration parameters `[ps=5]` — [[study-aberdeen-1996-baan-changes-rules-erp-game]]
+- Static ERP customers invest in upfront modeling that does not carry through to implemented system due to serial, disconnected process `[ps=4]` — [[study-aberdeen-1996-baan-changes-rules-erp-game]]

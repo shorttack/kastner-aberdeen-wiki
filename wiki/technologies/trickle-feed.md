@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Trickle Feed (Safeway Custom)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Trickle feed was a custom Safeway application for real-time data loading into the ODS layer — [[study-safeway-damages-report-draft-b502f4]]
+- Trickle feed was a custom Safeway application for real-time data loading into the ODS layer `[ps=0]` — [[study-safeway-damages-report-draft-b502f4]]

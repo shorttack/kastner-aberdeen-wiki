@@ -12,9 +12,9 @@ era: "1997-2001"
 lifecycle_at_study: "mature"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Oracle8 / Oracle8i
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Oracle8 introduced object-relational extensions — Oracle's answer to the object database challenge `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle8 positioned as the data tier of NCA — Java cartridges in the app server; Oracle8 as the persistence layer `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
 - ~60 observations 1997–2010 tracking Oracle8 through 10g — [[study-2026-kastner-oracle-longitudinal]]
-- Oracle8 introduced object-relational extensions — Oracle's answer to the object database challenge — [[study-2026-kastner-oracle-longitudinal]]
-- Oracle8 positioned as the data tier of NCA — Java cartridges in the app server; Oracle8 as the persistence layer — [[study-2026-kastner-oracle-longitudinal]]

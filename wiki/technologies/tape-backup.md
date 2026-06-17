@@ -12,9 +12,9 @@ era: "1960s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Sequential tape backup for offline/disaster recovery remains active. LTO tape shipments hit a record 176.5 Exabytes in 2024 (15.4% growth). Tape is widely used for long-term archiving, ransomware protection (air gap), and disaster recovery.', 'source': 'https://www.theregister.com/2025/07/23/lto_2024_tape_shipment_data/'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Sequential Tape (Offline / Disaster Recovery)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Offline tapes represent an enormous liability in litigation; data retention policy adherence required — [[study-computerworld-ilm-article-15f604]]
-- essential despite RAID; required for archiving disaster recovery non-hardware losses — [[study-storag~1-262bc7]]
+- Offline tapes represent an enormous liability in litigation; data retention policy adherence required `[ps=4]` — [[study-computerworld-ilm-article-15f604]]
+- essential despite RAID; required for archiving disaster recovery non-hardware losses `[ps=4]` — [[study-storag~1-262bc7]]

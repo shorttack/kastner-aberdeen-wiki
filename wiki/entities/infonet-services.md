@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "BT Group"
 years_active: "1970-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Infonet Services Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Offers customer-configurable committed information rate (CIR) parameters — [[study-manage~1-b299e4]]
+- Offers customer-configurable committed information rate (CIR) parameters `[ps=0]` — [[study-manage~1-b299e4]]

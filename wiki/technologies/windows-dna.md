@@ -12,9 +12,9 @@ era: "1997-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Windows DNA (Distributed iNternet Architecture)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Windows DNA not made for inter-enterprise computing; NT-tied; lacks scalability and platform independence; Microsoft-only strategy risks missing IBM/Netscape/Sun/Oracle benefits — [[study-intern~1-45df51]]
+- Windows DNA not made for inter-enterprise computing; NT-tied; lacks scalability and platform independence; Microsoft-only strategy risks missing IBM/Netscape/Sun/Oracle benefits `[ps=4]` — [[study-intern~1-45df51]]

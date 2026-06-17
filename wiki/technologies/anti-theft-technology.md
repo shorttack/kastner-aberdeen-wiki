@@ -12,9 +12,9 @@ era: "2008-2015"
 lifecycle_at_study: "current"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Anti-Theft Technology
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- remote-lockdown-and-recovery — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- remote-lockdown-and-recovery `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]

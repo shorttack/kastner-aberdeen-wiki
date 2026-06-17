@@ -12,9 +12,9 @@ era: "1992-2013"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Clariion Storage Array
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $620 million — [[study-aberdeen-1996-risc-unix-market]]
+- $620 million `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]

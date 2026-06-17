@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # PC Total Cost of Ownership
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- 70-80% of PC TCO in operations; only 20-30% in acquisition/deployment `[ps=5]` — [[study-topic-iia-pc-management-best-practices-2003-10]]
+- 20-25% cost reduction from PC best practices `[ps=4]` — [[study-topic-iia-pc-management-best-practices-2003-10]]
 - 8000-9000 TCO per system typical enterprise — [[study-topic-iia-pc-management-best-practices-2003-10]]
-- 20-25% cost reduction from PC best practices — [[study-topic-iia-pc-management-best-practices-2003-10]]
-- 70-80% of PC TCO in operations; only 20-30% in acquisition/deployment — [[study-topic-iia-pc-management-best-practices-2003-10]]

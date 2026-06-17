@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "Growth"
 lifecycle_current: "Active (Oracle)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # IBM Tivoli (TME)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sufficient headroom for 5-year depreciation including video/Internet telephony — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]
+- Sufficient headroom for 5-year depreciation including video/Internet telephony `[ps=2]` — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]

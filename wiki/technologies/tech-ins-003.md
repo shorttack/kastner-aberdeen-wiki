@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Evolved into API gateways / ESB / microservices"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Distributed Accessware
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Enterprise-scale distributed accessware will be a requirement for competitive IS organizations `[ps=4]` — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
+- Confirmed: middleware/integration market grew substantially; evolved from EAI to ESB to API management; IBM MQ, Tibco, MuleSoft, etc. `[ps=4]` — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
 - Competitive pressures drive IS to build new applications rapidly and cost-effectively — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
-- Enterprise-scale distributed accessware will be a requirement for competitive IS organizations — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
-- Confirmed: middleware/integration market grew substantially; evolved from EAI to ESB to API management; IBM MQ, Tibco, MuleSoft, etc. — [[study-1997-insession---accessing-and-leveragin-cb2e40]]

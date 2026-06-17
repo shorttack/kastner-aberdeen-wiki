@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Internet / World Wide Web
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen estimates over 70% of all physicians use the Internet for research — [[study-health~1-056358]]
+- Aberdeen estimates over 70% of all physicians use the Internet for research `[ps=4]` — [[study-health~1-056358]]
 - Within 12-18 months, forward-looking health plans will provide online functionality for claims processing and payment — [[study-health~1-056358]]

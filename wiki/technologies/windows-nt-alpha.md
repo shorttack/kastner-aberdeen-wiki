@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "strategic NT enterprise push"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Windows NT on Alpha
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Refuted: Windows NT became an enterprise force, but not through Alpha as a durable volume platform. — [[study-2026-kastner-dec-longitudinal-22d177]]
+- Refuted: Windows NT became an enterprise force, but not through Alpha as a durable volume platform. `[ps=5]` — [[study-2026-kastner-dec-longitudinal-22d177]]
 - discontinued — [[study-2026-kastner-dec-longitudinal-22d177]]

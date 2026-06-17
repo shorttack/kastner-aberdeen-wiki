@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # iSource Business
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- iSource Business partnership: Supplier Performance Measurement Benchmark Report — go-live Jan 4, 2003; 3,213 downloads. — [[study-ibmfinal1-3-720230]]
+- iSource Business partnership: Supplier Performance Measurement Benchmark Report — go-live Jan 4, 2003; 3,213 downloads. `[ps=0]` — [[study-ibmfinal1-3-720230]]

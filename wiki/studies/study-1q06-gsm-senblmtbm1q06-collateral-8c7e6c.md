@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 95] intentionally omitted <=="
+title: "1Q06 Gsm Senblmtbm1Q06 Collateral (Aberdeen, 2006)"
 slug: "study-1q06-gsm-senblmtbm1q06-collateral-8c7e6c"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 0.0
-prescience_mean: -0.5
-prescience_obs_count: 2
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
-# ==> picture [441 x 95] intentionally omitted <==
+# 1Q06 Gsm Senblmtbm1Q06 Collateral (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study 1q06-gsm-senblmtbm1q06-collateral-8c7e6c. Source: 1q06_gsm_senblmtbm1q06_collateral.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **benchmark**._
@@ -33,4 +33,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 ## Top observations
 
 - Evidence: the typical e-procurement deployment currently has only 17% of its total planned suppliers enabled and manages less than 40% of indirect purchases online. `[ps=0]`
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

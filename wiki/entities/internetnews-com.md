@@ -12,9 +12,9 @@ status: "shut-down"
 successor: "Jupitermedia-WebMediaBrands; folded ~2011"
 years_active: "1995-2013"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # InternetNews.com / internet.com / WebMediaBrands
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- InternetNews.com was acquired into QuinStreet 2009 and the standalone site was later wound down as QuinStreet consolidated IT news brands; the Jun 21 2004 article survives primarily via webarchive. — [[study-supreme-court-orders-intel-documents-rel-e6e110]]
+- InternetNews.com was acquired into QuinStreet 2009 and the standalone site was later wound down as QuinStreet consolidated IT news brands; the Jun 21 2004 article survives primarily via webarchive. `[ps=5]` — [[study-supreme-court-orders-intel-documents-rel-e6e110]]

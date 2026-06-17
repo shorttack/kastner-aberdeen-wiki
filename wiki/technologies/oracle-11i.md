@@ -12,9 +12,9 @@ era: "2000-2007"
 lifecycle_at_study: "emerging-mature"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.62
+prescience_obs_count: 8
 ---
 
 # Oracle e-Business Suite 11i
@@ -24,12 +24,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Installed base satisfaction and upgrade pathways over new product announcements — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]
+- Upgrading installed base is core of new license revenue opportunity `[ps=5]` — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]
+- Installed base satisfaction and upgrade pathways over new product announcements `[ps=4]` — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]
+- Oracle Apps World 2002 messaging shifted from new-product launch to 'let's get you guys to use what we already have' — focused on upgrading the installed base to 11i. `[ps=4]` — [[study-oracle-appsworld-insight-edit-4-813c2e]]
+- Initial releases of Oracle 11i had quality assurance (QA) problems that further dampened upgrade enthusiasm among existing customers. `[ps=4]` — [[study-oracle-appsworld-insight-edit-4-813c2e]]
+- Aberdeen predicts businesses won't be rushed to upgrade due to economy, IT investment slowdown, and magnitude of effort involved. `[ps=4]` — [[study-oracle-appsworld-insight-edit-4-813c2e]]
+- Predicted to be the central upgrade vehicle for existing Oracle customers `[ps=0]` — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]
+- Premier Support ended December 2013; sustaining support extended through December 2014 `[ps=0]` — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]
+- Approximately 50% of Oracle client base (~1,500 customers) still on a 10x release of the applications suite. `[ps=0]` — [[study-oracle-appsworld-insight-edit-4-813c2e]]
 - Largely absent — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]
-- Upgrading installed base is core of new license revenue opportunity — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]
-- Predicted to be the central upgrade vehicle for existing Oracle customers — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]
-- Premier Support ended December 2013; sustaining support extended through December 2014 — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]
-- Oracle Apps World 2002 messaging shifted from new-product launch to 'let's get you guys to use what we already have' — focused on upgrading the installed base to 11i. — [[study-oracle-appsworld-insight-edit-4-813c2e]]
-- Approximately 50% of Oracle client base (~1,500 customers) still on a 10x release of the applications suite. — [[study-oracle-appsworld-insight-edit-4-813c2e]]
-- Initial releases of Oracle 11i had quality assurance (QA) problems that further dampened upgrade enthusiasm among existing customers. — [[study-oracle-appsworld-insight-edit-4-813c2e]]
-- Aberdeen predicts businesses won't be rushed to upgrade due to economy, IT investment slowdown, and magnitude of effort involved. — [[study-oracle-appsworld-insight-edit-4-813c2e]]

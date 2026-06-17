@@ -3,7 +3,7 @@ title: "Power Macs 'won't hit 3GHz this year' – analysts"
 slug: "study-power-macs-won-t-hit-3ghz-this-year-anal-73ad0f"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "power-macs-won-t-hit-3ghz-this-year-anal-73ad0f"
 author: "Macworld UK staff (IDG)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.43
+prescience_obs_count: 7
 ---
 
 # Power Macs 'won't hit 3GHz this year' – analysts
@@ -32,12 +32,12 @@ _Published 2004, author **Macworld UK staff (IDG)**, type **news-article**._
 
 ## Top observations
 
-- In switching to 90 nanometers, the industry has had more problems raising the clock speed than anyone anticipated a year ago.
-- Intel cranked up only a couple of hundred megahertz from 3.2GHz to 3.4GHz.
-- IBM gets an 'A' for the second quarter for being able to crank the chip up from 2GHz to 2.5GHz — that's a 25 per cent increase.
+- I question IBM's ability to meet Apple's increased G5 processor demand moving forward given the company's availability challenges to date. `[ps=5]`
+- WWDC June 2005: Steve Jobs announces Apple's two-year transition from PowerPC to Intel x86; first Intel Macs shipped January 2006. G5 never reached 3GHz in shipping product. `[ps=5]`
+- Intel cancelled the 4GHz Pentium 4 roadmap and pivoted to the Core microarchitecture (Yonah 2006, Conroe 2006), confirming Kastner's diagnosis that the clock-speed race had hit a wall. `[ps=5]`
+- In switching to 90 nanometers, the industry has had more problems raising the clock speed than anyone anticipated a year ago. `[ps=4]`
+- That's always the danger in making technology claims like that. You just have to hope that the laws of the universe can keep up with your claims. `[ps=3]`
+- IBM gets an 'A' for the second quarter for being able to crank the chip up from 2GHz to 2.5GHz — that's a 25 per cent increase. `[ps=2]`
+- Intel cranked up only a couple of hundred megahertz from 3.2GHz to 3.4GHz. `[ps=0]`
 - Kastner doesn't expect the industry to reach the 3GHz target for another year.
 - Apple missed its own 11 June 2004 deadline to ship a 3GHz G5; top speed as of article was 2.5GHz.
-- That's always the danger in making technology claims like that. You just have to hope that the laws of the universe can keep up with your claims.
-- I question IBM's ability to meet Apple's increased G5 processor demand moving forward given the company's availability challenges to date.
-- WWDC June 2005: Steve Jobs announces Apple's two-year transition from PowerPC to Intel x86; first Intel Macs shipped January 2006. G5 never reached 3GHz in shipping product.
-- Intel cancelled the 4GHz Pentium 4 roadmap and pivoted to the Core microarchitecture (Yonah 2006, Conroe 2006), confirming Kastner's diagnosis that the clock-speed race had hit a wall.

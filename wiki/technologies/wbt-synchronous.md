@@ -12,9 +12,9 @@ era: "1997-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Web-based Training (WBT) — Synchronous
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Emerging; instructor-led collaborative virtual classroom; addresses interaction gap — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]
+- Emerging; instructor-led collaborative virtual classroom; addresses interaction gap `[ps=5]` — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]

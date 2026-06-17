@@ -12,9 +12,9 @@ era: "1977-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # SAC (Systems Auditability and Control) model
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- continuation of 1990, 1993, 2001 Systems Assurance and Control projects — [[study-topic-iia-pc-management-best-practices-2003-10]]
+- continuation of 1990, 1993, 2001 Systems Assurance and Control projects `[ps=0]` — [[study-topic-iia-pc-management-best-practices-2003-10]]

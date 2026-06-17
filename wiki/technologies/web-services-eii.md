@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Web Services (in EII context)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Web-servicized EII solution can provide easier access by other Web services to local, remote, and cross-company data — [[study-aberdeen-eii-2003-ea3f1a]]
+- Web-servicized EII solution can provide easier access by other Web services to local, remote, and cross-company data `[ps=4]` — [[study-aberdeen-eii-2003-ea3f1a]]

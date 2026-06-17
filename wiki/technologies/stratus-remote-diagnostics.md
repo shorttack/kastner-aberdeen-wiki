@@ -12,9 +12,9 @@ era: "1982-1990s"
 lifecycle_at_study: "newly-launched-1982"
 lifecycle_current: "ubiquitous-as-modern-RMM"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Stratus Remote Diagnostics + 7% Maintenance Model
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 7%/year maintenance fees instead of industry standard 10-12%/year — [[study-cbn-bochner-stratus-oem-strategy-1982-06-245fd5]]
+- 7%/year maintenance fees instead of industry standard 10-12%/year `[ps=0]` — [[study-cbn-bochner-stratus-oem-strategy-1982-06-245fd5]]

@@ -12,9 +12,9 @@ era: "1967-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.8
+prescience_obs_count: 5
 ---
 
 # CHASE / CRASE / CHESS (Cornell Simulations)
@@ -24,11 +24,11 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CHASE = Cornell Hotel School Administration Simulation Exercise; let student teams manage a virtual hotel with pricing, staffing, inventory decisions and real financial consequences. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- CHESS (Cornell Educational Strategic Simulation) was the first program in the Hotel School to run in real time. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Adopted by Intercontinental Hotels, Marriott, Howard Johnson's, and KFC for management training. Hospitality schools worldwide used them for decades. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Adopted Robert Chase's hotel-management simulation for management training. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Simulations were elegant and showed what computers could do for education, but they were not transforming how actual businesses processed their actual transactions. `[ps=4]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- CHASE = Cornell Hotel School Administration Simulation Exercise; let student teams manage a virtual hotel with pricing, staffing, inventory decisions and real financial consequences. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- CHESS (Cornell Educational Strategic Simulation) was the first program in the Hotel School to run in real time. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Adopted by Intercontinental Hotels, Marriott, Howard Johnson's, and KFC for management training. Hospitality schools worldwide used them for decades. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Adopted Robert Chase's hotel-management simulation for management training. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Adopted Robert Chase's hotel-management simulation for management training. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Adopted Robert Chase's restaurant/hotel simulation for management training. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Adopted Robert Chase's Cornell simulation programs for management training. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Simulations were elegant and showed what computers could do for education, but they were not transforming how actual businesses processed their actual transactions. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

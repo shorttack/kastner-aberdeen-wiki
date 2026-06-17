@@ -12,9 +12,9 @@ era: "1971-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM 3270 Terminal Emulation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM 3270 terminal emulation pre-configured via Rumba (Wall Data) and Kea! (Attachmate) — [[study-aberdeen-1995-digital-multia]]
+- IBM 3270 terminal emulation pre-configured via Rumba (Wall Data) and Kea! (Attachmate) `[ps=0]` — [[study-aberdeen-1995-digital-multia]]

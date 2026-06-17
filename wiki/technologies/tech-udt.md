@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # User-Defined Data Types (UDT)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- UDTs standardized in SQL:1999; implemented in PostgreSQL, DB2, Oracle; foundational to extension ecosystems — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
+- UDTs standardized in SQL:1999; implemented in PostgreSQL, DB2, Oracle; foundational to extension ecosystems `[ps=3]` — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]

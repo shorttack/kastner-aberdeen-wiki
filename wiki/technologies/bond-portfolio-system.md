@@ -12,9 +12,9 @@ era: "1969"
 lifecycle_at_study: "mature"
 lifecycle_current: "dissolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.0
+prescience_obs_count: 3
 ---
 
 # Bond Portfolio System (Marine Midland)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- July 1969; while Apollo 11 transfixed the world, Kastner was fixing a Y2K-class two-digit-year bug in Marine Midland Bank's bond portfolio system. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
-- Kastner was fixing the Y2K bug in July 1969 while the rest of the world was watching Apollo 11. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
-- Kastner fixed the Marine Midland Y2K bug by expanding the maturity date field to accommodate four-digit years. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- July 1969; while Apollo 11 transfixed the world, Kastner was fixing a Y2K-class two-digit-year bug in Marine Midland Bank's bond portfolio system. `[ps=3]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- Kastner was fixing the Y2K bug in July 1969 while the rest of the world was watching Apollo 11. `[ps=0]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- Kastner fixed the Marine Midland Y2K bug by expanding the maturity date field to accommodate four-digit years. `[ps=0]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]

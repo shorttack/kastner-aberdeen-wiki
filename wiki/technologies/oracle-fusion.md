@@ -12,9 +12,9 @@ era: "2007 (projected)"
 lifecycle_at_study: "pre-market"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Oracle Fusion Cloud Applications actively developed and deployed on OCI. Oracle Fusion Middleware 14.1.2 released December 2024 as a Long-Term Support release. Active product with quarterly updates.', 'source': 'https://blogs.oracle.com/fusionmiddlewaresupport/oracle-delivers-the-latest-in-customer-application-infrastructure-with-the-general-availability-of-oracle-fusion-middleware-1412'}"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Oracle Fusion Applications / Oracle Cloud Applications
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle Fusion Applications launched 2011 as next-generation cloud-native replacement for E-Business Suite and PeopleSoft — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle Fusion Applications launched 2011 as next-generation cloud-native replacement for E-Business Suite and PeopleSoft `[ps=3]` — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle process-model-driven Fusion applications expected next year (2007) `[ps=3]` — [[study-ma-ibm-webify-5e0d4b]]
 - 2007 — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
 - [UNVERIFIED] — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
-- Oracle process-model-driven Fusion applications expected next year (2007) — [[study-ma-ibm-webify-5e0d4b]]

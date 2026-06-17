@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: "[DEFERRED]"
 years_active: "2002-2006"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Jamie Bedard
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Jamie Bedard became Aberdeen Group CEO in mid 2002; priorities: operational excellence, research productization, sales force professionalization, financial discipline. — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
-- Bedard's style more corporate and less collegial than partnership era; created friction with analysts but provided stability and predictability the scaled organization required. — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- Jamie Bedard became Aberdeen Group CEO in mid 2002; priorities: operational excellence, research productization, sales force professionalization, financial discipline. `[ps=0]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- Bedard's style more corporate and less collegial than partnership era; created friction with analysts but provided stability and predictability the scaled organization required. `[ps=0]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]

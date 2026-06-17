@@ -12,9 +12,9 @@ era: "1998"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Plato (Microsoft OLAP)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft Plato acquisition from Panorama will increase consolidation trend; many suppliers embracing Plato and planning partnerships despite uncertainty about what Plato actually is — [[study-dssune~1-cbf6e3]]
-- SQL Server 7.0 OLAP Services (1999) did indeed catalyze market consolidation; several pure-play OLAP vendors declined or were acquired — [[study-dssune~1-cbf6e3]]
+- Microsoft Plato acquisition from Panorama will increase consolidation trend; many suppliers embracing Plato and planning partnerships despite uncertainty about what Plato actually is `[ps=4]` — [[study-dssune~1-cbf6e3]]
+- SQL Server 7.0 OLAP Services (1999) did indeed catalyze market consolidation; several pure-play OLAP vendors declined or were acquired `[ps=4]` — [[study-dssune~1-cbf6e3]]

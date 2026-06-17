@@ -12,9 +12,9 @@ era: "1995-2003"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Veritas Vx Reliant Clustering
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Veritas Vx Reliant: cluster 2-4 SMP nodes; 99.9% to 99.999% uptime; optional distributed lock manager for Oracle Parallel Server — [[study-aberdeen-1996-unisys-clearpath-smp-servers]]
+- Veritas Vx Reliant: cluster 2-4 SMP nodes; 99.9% to 99.999% uptime; optional distributed lock manager for Oracle Parallel Server `[ps=0]` — [[study-aberdeen-1996-unisys-clearpath-smp-servers]]

@@ -12,9 +12,9 @@ status: "active"
 successor: "Reverted to NCR; now NCR Voyix + NCR Atleos (split 2023)"
 years_active: "1884-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # AT&T GIS (NCR Corporation)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ~$1 billion — [[study-aberdeen-1996-risc-unix-market]]
-- $1.1 billion — [[study-aberdeen-1996-risc-unix-market]]
+- ~$1 billion `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
+- $1.1 billion `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]

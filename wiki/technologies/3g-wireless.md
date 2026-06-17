@@ -12,9 +12,9 @@ era: "2001-2012"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # 3G Wireless Networks
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3G rollout delays signal global emerging trend, not just hype — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
+- 3G rollout delays signal global emerging trend, not just hype `[ps=5]` — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
 - Global 3G rollout significantly delayed from 2001 projections; mass-market 3G emerged ~2007-2009 — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
 - Slower than expected — [[study-dct-webinar-announcement-2002-11]]

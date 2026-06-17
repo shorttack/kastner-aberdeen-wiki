@@ -3,7 +3,7 @@ title: "Business Process Orientation Changes Application View for Oracle: 'Flows
 slug: "study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c"
 page_type: "study"
 tags: ["type/study", "collection/perspective"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2003-business-process-orientation-changes-ap-le-flows-d-ed067c"
 author: "Dr. Katherine Jones"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.67
+prescience_obs_count: 6
 ---
 
 # Business Process Orientation Changes Application View for Oracle: 'Flows' Define More than Solutions
@@ -32,14 +32,14 @@ _Published 2003, author **Dr. Katherine Jones**, type **perspective**._
 
 ## Top observations
 
-- Oracle shifting to process-flow orientation where 'flows' define solutions rather than functional modules
+- Oracle shifting to process-flow orientation where 'flows' define solutions rather than functional modules `[ps=4]`
+- Keys to good business practices include processes specific to vertical markets (government, education, healthcare) `[ps=4]`
+- SAP referenced as benchmark for process-oriented enterprise software approach `[ps=4]`
+- SAP S/4HANA adopted process-flow and simplified data model as core architecture; prediction directionally correct `[ps=4]`
+- ERP must transition from module-centric to flow-centric design to meet customer needs `[ps=4]`
+- Oracle's adoption of process-flow architecture will be critical to competitiveness against SAP `[ps=2]`
 - Customers think in process terms — how something works within their particular business
 - Supporting workflow must make business processes fluid including touchpoints outside the organization itself
 - Keys to good business practices include business-generic processes
-- Keys to good business practices include processes specific to vertical markets (government, education, healthcare)
-- Oracle's adoption of process-flow architecture will be critical to competitiveness against SAP
 - Oracle Fusion Applications launched 2011 with process-flow architecture as core design; prediction proved correct
-- SAP referenced as benchmark for process-oriented enterprise software approach
-- SAP S/4HANA adopted process-flow and simplified data model as core architecture; prediction directionally correct
 - CRM identified as key domain requiring process-flow orientation alongside ERP
-- ERP must transition from module-centric to flow-centric design to meet customer needs

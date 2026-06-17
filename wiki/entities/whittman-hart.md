@@ -12,9 +12,9 @@ status: "unknown"
 successor: "marchFIRST (merged 2000, bankrupt 2001)"
 years_active: "1984-2001"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Whittman-Hart
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Merged with USinternetworking to form marchFIRST (2000); bankrupt 2001 — [[study-aberdeen-1997-acceleratedsap-strategy]]
-- $120 million — [[study-erppsp~1-31f088]]
+- Merged with USinternetworking to form marchFIRST (2000); bankrupt 2001 `[ps=2]` — [[study-aberdeen-1997-acceleratedsap-strategy]]
+- $120 million `[ps=0]` — [[study-erppsp~1-31f088]]

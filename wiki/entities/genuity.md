@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Level 3 Communications (2003)"
 years_active: "2000-2003"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Genuity Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Genuity of Woburn was acquired by Level 3 Communications with the loss of 800 jobs. — [[study-remarks-of-peter-kastner-to-the-massachu-96335b]]
+- Genuity of Woburn was acquired by Level 3 Communications with the loss of 800 jobs. `[ps=0]` — [[study-remarks-of-peter-kastner-to-the-massachu-96335b]]

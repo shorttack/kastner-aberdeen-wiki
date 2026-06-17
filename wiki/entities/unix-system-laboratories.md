@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Novell (1993), then SCO/Caldera lineage"
 years_active: "1989-1993"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # UNIX System Laboratories (USL)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- USL Release 4.2 — [[study-aberdeen-open-online-transaction-process-ea272f]]
+- USL Release 4.2 `[ps=0]` — [[study-aberdeen-open-online-transaction-process-ea272f]]

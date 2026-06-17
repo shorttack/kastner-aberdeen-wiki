@@ -3,7 +3,7 @@ title: "Measuring the Returns from a Desktop Virtualization Program"
 slug: "study-desktop-virtualization-roi-aberdeen-8fa168"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "desktop-virtualization-roi---aberdeen-8fa168"
 author: "Dick Csaplar"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.39
+prescience_obs_count: 18
 ---
 
 # Measuring the Returns from a Desktop Virtualization Program
@@ -32,28 +32,28 @@ _Published 2011, author **Dick Csaplar**, type **benchmark**._
 
 ## Top observations
 
+- Large enterprises primary adopters; small/mid-sized organizations just beginning `[ps=4]`
+- Expert recommendation against deploying to easiest groups first `[ps=3]`
+- 80% `[ps=0]`
+- 31% `[ps=0]`
+- 34% `[ps=0]`
+- 10% of respondents (all small ops <100 employees) `[ps=0]`
+- 69% of respondents `[ps=0]`
+- 57% of respondents `[ps=0]`
+- 50% of respondents `[ps=0]`
+- -20.4% `[ps=0]`
+- 2.9 `[ps=0]`
+- 1.0 hours `[ps=0]`
+- 7.2 / 10 `[ps=0]`
+- 55% with virtualization vs. 11% without `[ps=0]`
+- 45% with virtualization vs. 19% without `[ps=0]`
+- 40% with virtualization vs. 7% without `[ps=0]`
+- 39% with virtualization vs. 8% without `[ps=0]`
+- >644,000 companies benchmarked over two decades `[ps=0]`
 - 76 organizations
 - 45%
-- 80%
-- 31%
-- 34%
-- 10% of respondents (all small ops <100 employees)
-- 69% of respondents
 - 57% of respondents
-- 57% of respondents
-- 50% of respondents
-- -20.4%
 - -11.7%
-- 2.9
 - -23.4%
-- 1.0 hours
 - 0.9 hours of work
-- 7.2 / 10
 - 60% with virtualization vs. 11% without
-- 55% with virtualization vs. 11% without
-- 45% with virtualization vs. 19% without
-- 40% with virtualization vs. 7% without
-- 45% with virtualization vs. 4% without
-- 40% with virtualization vs. 0% without
-- 39% with virtualization vs. 8% without
-- Primarily operational rather than financial

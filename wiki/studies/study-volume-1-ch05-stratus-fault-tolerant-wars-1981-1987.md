@@ -3,7 +3,7 @@ title: "Chapter 5: Stratus Computer — Six Years in the Fault-Tolerant Wars (19
 slug: "study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987"
 page_type: "study"
 tags: ["type/study", "collection/memoir"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "volume-1-ch05-stratus-fault-tolerant-wars-1981-1987"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.14
+prescience_obs_count: 87
 ---
 
 # Chapter 5: Stratus Computer — Six Years in the Fault-Tolerant Wars (1981-1987)
@@ -32,28 +32,28 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 
 ## Top observations
 
-- Joined Stratus Computer on November 1, 1981 as Manager of Marketing Development, six weeks before product launch.
-- First product announced December 1981, six weeks after Kastner joined.
-- Hired to translate radical engineering into a market-moving story before product was public; 'I landed running.'
-- IBM 4300 would crash on component failure; recovery window of 30 minutes was unacceptable for ATM, airline reservations, stock trading.
-- Software-based fault tolerance using pairs of processors; programmers had to write explicit 'checkpointing' code for backup processor handoff.
-- Technically sound but expensive in the currency that mattered most: programmer time.
-- Founded in 1974 in Cupertino, CA.
-- Four physical microprocessors arranged in two pairs; hardware comparator checks results continuously; failed pair taken offline without losing a single clock cycle.
-- Stratus hardware fault tolerance hides failures from software entirely; application runs without awareness of failure event.
-- Calculate cost of downtime per hour, compare to price premium for fault-tolerant hardware, determine when the math works.
-- Prospects invited to pull a CPU board from a running system during transaction processing; system kept running, red LED lit on failed component.
-- 'Ten seconds of theater replaced fifty pages of white papers.'
-- VP Hardware Gardner Hendrie could not reliably pull a board without crashing the system evening before public launch.
-- Shiny Lexan plastic covers on circuit boards generated static electricity when pulled; carpet doused with water solved launch-day problem; ECO #1 replaced Lexan with cardboard.
-- Engineering Change Order #1 replaced elegant Lexan plastic board covers with cardboard to eliminate static electricity risk.
-- Asked customers: 'What does one hour of downtime cost you?' — shifted IT managers from thinking about performance/capacity to quantifying availability.
-- ATM network processing 10,000 transactions/hour at $40 average value: straightforward arithmetic for cost-per-hour of downtime.
-- Created direct-mail pieces with cost-of-downtime calculators customized by industry; banking, brokerage, retail POS all covered.
-- Ran competitive displacement programs targeting Tandem users frustrated by NonStop programming complexity; message: 'Keep your programmers. Change your hardware.'
-- IBM came to Stratus after being nudged; IBM sales force watching enterprise customers evaluate fault-tolerant systems with nothing to offer them.
-- IBM agreed to rebrand the Stratus FT200 as the IBM System/88; Stratus marketing shifted to anchor: 'The Technology IBM Chose.'
-- 'The Technology IBM Chose' neutralized every startup-risk objection; IBM brand eliminated uncertainty about Stratus viability.
-- IBM putting its name on a startup's product because it had no competitive alternative; validated Stratus without money buying such validation.
-- IBM salesforce carried System/88 competing with conventional IBM mainframes in some use cases; Kastner developed 'battlecard' materials explaining swim lanes.
-- Battlecards for IBM System/88 vs IBM 3090 were essentially conflict-resolution documents for a company simultaneously distributor and competitor.
+- Stratus hardware fault tolerance hides failures from software entirely; application runs without awareness of failure event. `[ps=5]`
+- Calculate cost of downtime per hour, compare to price premium for fault-tolerant hardware, determine when the math works. `[ps=5]`
+- John Morgridge later became Cisco's first non-founder CEO and built that company into a generation-defining enterprise. `[ps=5]`
+- Report predicted microprocessor-based OLTP price-performance was about to explode — Moore's Law meeting economics of departmental/distributed transaction processing. `[ps=5]`
+- 'Red lights sell more than white papers.' You could argue against a benchmark. You could not argue against a machine still running after you just pulled a CPU board. `[ps=5]`
+- Tandem disappeared into HP (retrospective assessment). `[ps=5]`
+- Survived as specialized platform for environments where hardware failure cannot wait for a technician: remote oil rigs, manufacturing floors, telecom nodes. `[ps=5]`
+- Vision articulated in the 1980s — computing infrastructure should be invisible, reliable, and self-healing — became baseline expectation for digital commerce. `[ps=5]`
+- By 1987, technology had matured from regional curiosity to recognized platform in financial services, telecommunications, and mission-critical retail. `[ps=5]`
+- In batch-processing world, 30-minute recovery was annoying but survivable; in ATM/airline/trading world, 30 minutes was catastrophe; 30 seconds was unacceptable. `[ps=5]`
+- John Morgridge would later become Cisco's first non-founder CEO and build it into a generation-defining enterprise. `[ps=5]`
+- IBM 4300 would crash on component failure; recovery window of 30 minutes was unacceptable for ATM, airline reservations, stock trading. `[ps=4]`
+- Technically sound but expensive in the currency that mattered most: programmer time. `[ps=4]`
+- Asked customers: 'What does one hour of downtime cost you?' — shifted IT managers from thinking about performance/capacity to quantifying availability. `[ps=4]`
+- IBM putting its name on a startup's product because it had no competitive alternative; validated Stratus without money buying such validation. `[ps=4]`
+- By mid-1980s principal battlefield was banking/financial services; ATM networks and POS authorization systems expanding rapidly; Tandem and Stratus competed for every significant deal. `[ps=4]`
+- Turned hardware redundancy into a maintenance model: 'the board that mails itself' — pull failed board while system runs, mail it back, no on-site engineer. `[ps=4]`
+- 'Zero-code advantage': on Stratus/System/88, standard COBOL or FORTRAN worked with fault tolerance as invisible infrastructure; no specialized NonStop programmers needed. `[ps=4]`
+- Made pivotal Stratus telecom market recommendation in a men's room; observed Rolm PBX systems needed exactly the reliability Stratus provided. `[ps=4]`
+- Stratus became embedded infrastructure for SS7 signaling and emerging digital switching systems; five-nines uptime (99.999%, <6 min downtime/year) was entry requirement. `[ps=4]`
+- 99.999% uptime — less than six minutes of downtime per year — was entry requirement for telecom contracts, not a sales argument. `[ps=4]`
+- If the US Air Force trusted this machine inside a mountain during a nuclear threat, it could handle a department store's credit card authorizations. `[ps=4]`
+- Report predicted displacement of the mainframe was inevitable as microprocessor-based OLTP price-performance improved. `[ps=4]`
+- 'Your ATM network loses $400,000 of transaction revenue per hour... our hardware costs $180,000 more' is an argument. 'We prevent downtime' is a claim. `[ps=4]`
+- Launched into banking because downtime math was visible; telecom breakthrough came from sideways observation in men's room. Market planning staying in conference rooms misses oblique angles. `[ps=4]`

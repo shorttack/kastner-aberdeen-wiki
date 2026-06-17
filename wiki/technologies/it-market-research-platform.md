@@ -12,9 +12,9 @@ era: "2000"
 lifecycle_at_study: "growth"
 lifecycle_current: "unknown"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # IT Market Research Subscription Service
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 7-slide build sequence of Aberdeen's Competitive Landscape diagram — [[study-aberdeen-cp-100-builds-274224]]
-- Subscription research; one-off seminars; custom consulting; media sound bites — [[study-aberdeen-training-day-1-522863]]
+- 7-slide build sequence of Aberdeen's Competitive Landscape diagram `[ps=0]` — [[study-aberdeen-cp-100-builds-274224]]
+- Subscription research; one-off seminars; custom consulting; media sound bites `[ps=0]` — [[study-aberdeen-training-day-1-522863]]

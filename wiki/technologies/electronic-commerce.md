@@ -12,9 +12,9 @@ era: "mature at study"
 lifecycle_at_study: "emerging-growth"
 lifecycle_current: "active-niche"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 4
 ---
 
 # Internet Electronic Commerce
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- isdn-decommissioned — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
-- Wide array of e-commerce solutions emerging; IS must move aggressively to integrate into architecture — [[study-aberdeen-1996-computer-telephony-integration]]
-- Internet electronic commerce promises dramatic decreases in selling costs and new opportunities for customer interaction — [[study-aberdeen-1996-computer-telephony-integration]]
+- Wide array of e-commerce solutions emerging; IS must move aggressively to integrate into architecture `[ps=5]` — [[study-aberdeen-1996-computer-telephony-integration]]
+- Internet electronic commerce promises dramatic decreases in selling costs and new opportunities for customer interaction `[ps=5]` — [[study-aberdeen-1996-computer-telephony-integration]]
+- isdn-decommissioned `[ps=4]` — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
+- emerging workload requiring HA `[ps=0]` — [[study-marathon-d186ab]]
 - E-commerce transformed retail, financial services, and B2B transactions globally; selling cost reductions materialized as predicted — [[study-aberdeen-1996-computer-telephony-integration]]
-- emerging workload requiring HA — [[study-marathon-d186ab]]

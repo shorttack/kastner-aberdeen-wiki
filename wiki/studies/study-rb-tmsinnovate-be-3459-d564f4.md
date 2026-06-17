@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Rb Tmsinnovate Be 3459 (Aberdeen, 2006)"
 slug: "study-rb-tmsinnovate-be-3459-d564f4"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.9
-prescience_obs_count: 10
+prescience_mean: 2.22
+prescience_obs_count: 9
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Rb Tmsinnovate Be 3459 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study rb-tmsinnovate-be-3459-d564f4. Source: rb_tmsinnovate_be_3459.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **benchmark**._
@@ -41,4 +41,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 - Visibility research conducted in July by Aberdeen shows that 44% of companies rely today on spreadsheets for at least part of their domestic shipment tracking. `[ps=0]`
 - For instance, Cube Route, an on-demand fleet routing and scheduling vendor, serves clients as small as a $10 million bakery and as large as a multibillion dollar home improvement retailer. `[ps=0]`
 - On-demand TMS vendor LeanLogistics, for instance, is providing managed services to P&G to help the consumer goods giant identify and take action on shipment anomalies, helping P&G increase on-time delivery on certain lanes by an average of 3 percentage points – from 94% to 97%. `[ps=0]`
-- **Figure 1: Transportation Management Technology Priorities** `[ps=-1]`
+- **Figure 1: Transportation Management Technology Priorities**

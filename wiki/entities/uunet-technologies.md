@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "WorldCom / MCI / Verizon Business"
 years_active: "1987-1996"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # UUNET Technologies, Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MFS acquired UUNET for $2B just before WorldCom deal; UUNET became core of WorldCom/MCI internet infrastructure — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
-- 50% (per UUNet VP Alan Taffel) — [[study-teleco~1-c01702]]
+- MFS acquired UUNET for $2B just before WorldCom deal; UUNET became core of WorldCom/MCI internet infrastructure `[ps=5]` — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
+- 50% (per UUNet VP Alan Taffel) `[ps=0]` — [[study-teleco~1-c01702]]

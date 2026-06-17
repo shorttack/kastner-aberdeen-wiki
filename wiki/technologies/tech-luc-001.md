@@ -12,9 +12,9 @@ era: "1997-2002"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Obsolete (superseded by softswitch/SIP)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.6
+prescience_obs_count: 5
 ---
 
 # Internet Telephony Server SP
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Lucent developed first scaleable carrier-grade turnkey gateway platform for internet telephony — [[study-1997-lucent-delivers-internet-telephony--888598]]
-- Scaleable from 24 ports upward with real-time alternate routing and flexible call routing — [[study-1997-lucent-delivers-internet-telephony--888598]]
-- System falls back to another data network or PSTN when data network goes down; near toll-grade sound quality — [[study-1997-lucent-delivers-internet-telephony--888598]]
-- Lucent is first supplier capable of wide-scale implementation required for internet telephony and fax to reach mass-markets — [[study-1997-lucent-delivers-internet-telephony--888598]]
-- Lucent merged with Alcatel in 2006 before achieving predicted VoIP dominance; Cisco VOIP infrastructure and Sonus softswitch became more influential in carrier VoIP buildout; Lucent's specific product line was superseded — [[study-1997-lucent-delivers-internet-telephony--888598]]
+- Lucent merged with Alcatel in 2006 before achieving predicted VoIP dominance; Cisco VOIP infrastructure and Sonus softswitch became more influential in carrier VoIP buildout; Lucent's specific product line was superseded `[ps=5]` — [[study-1997-lucent-delivers-internet-telephony--888598]]
+- Lucent developed first scaleable carrier-grade turnkey gateway platform for internet telephony `[ps=3]` — [[study-1997-lucent-delivers-internet-telephony--888598]]
+- System falls back to another data network or PSTN when data network goes down; near toll-grade sound quality `[ps=3]` — [[study-1997-lucent-delivers-internet-telephony--888598]]
+- Lucent is first supplier capable of wide-scale implementation required for internet telephony and fax to reach mass-markets `[ps=2]` — [[study-1997-lucent-delivers-internet-telephony--888598]]
+- Scaleable from 24 ports upward with real-time alternate routing and flexible call routing `[ps=0]` — [[study-1997-lucent-delivers-internet-telephony--888598]]

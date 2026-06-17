@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Abra Design To Procure 090204 (Aberdeen, 2004)"
 slug: "study-abra-design-to-procure-090204-fc3e6d"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 2.0
 prescience_obs_count: 4
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Abra Design To Procure 090204 (Aberdeen, 2004)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study abra-design-to-procure-090204-fc3e6d. Source: abra-design-to-procure-090204.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2004, author **Research Agenda**, type **benchmark**._

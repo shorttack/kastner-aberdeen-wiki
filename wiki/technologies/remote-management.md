@@ -12,9 +12,9 @@ era: "2000s-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Remote Management Technology
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- cost-effective-third-party `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- essential-for-distributed-workforce `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
 - full-remote-diagnosis-and-repair — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- cost-effective-third-party — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- essential-for-distributed-workforce — [[study-2010-intel-vpro-daily-globe-6f615e]]

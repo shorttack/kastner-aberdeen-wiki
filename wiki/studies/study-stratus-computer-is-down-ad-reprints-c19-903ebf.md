@@ -3,7 +3,7 @@ title: "Stratus 'The computer is down' ad reprints (Continuous Processing campai
 slug: "study-stratus-computer-is-down-ad-reprints-c19-903ebf"
 page_type: "study"
 tags: ["type/study", "collection/advertising-collateral"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "stratus-computer-is-down-ad-reprints-c19-903ebf"
 author: "Stratus Computer marketing (Kastner-era; Kastner named in copy as direct contact)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.86
+prescience_obs_count: 7
 ---
 
 # Stratus 'The computer is down' ad reprints (Continuous Processing campaign, c.1984-1985)
@@ -32,13 +32,13 @@ _Published 1985, author **Stratus Computer marketing (Kastner-era; Kastner named
 
 ## Top observations
 
-- $446,350 — comparably configured (memory, disk, comm lines) plus fault tolerance INCLUDED
+- Stratus's hardware fault-tolerant architecture shipped continuously from early 1980s into modern ftServer line and ztC Edge — among the longest-lived commercial fault-tolerant designs `[ps=5]`
+- 98.5% reliability standard means computer goes down once every two weeks on statistical average — 'unthinkable for modern manufacturing' `[ps=4]`
+- 'Designed not to fail; not once every two weeks, or once every 200 weeks, or once every 2,000 weeks' `[ps=3]`
+- Stratus claim: hardware-based fault tolerance from chip-level redundancy adds 'a mere fraction to our cost, and absolutely nothing to your purchase price' `[ps=1]`
+- $446,350 — comparably configured (memory, disk, comm lines) plus fault tolerance INCLUDED `[ps=0]`
+- $437,754 — same comparable config; $/TPS $6,840 `[ps=0]`
+- $3,571 per transaction-per-second — best in 4-vendor comparison; less than half of IBM/HP `[ps=0]`
 - $707,897 — same comparable config; $/TPS $7,079 (highest in comparison)
-- $437,754 — same comparable config; $/TPS $6,840
 - $656,889 — same comparable config; $/TPS $5,999
-- $3,571 per transaction-per-second — best in 4-vendor comparison; less than half of IBM/HP
-- 98.5% reliability standard means computer goes down once every two weeks on statistical average — 'unthinkable for modern manufacturing'
-- 'Designed not to fail; not once every two weeks, or once every 200 weeks, or once every 2,000 weeks'
 - Ad copy reads: 'For information contact your local Stratus sales office, or call Peter Kastner in Massachusetts at (617) 460-2192 or toll-free at 1-800-752-4826'
-- Stratus claim: hardware-based fault tolerance from chip-level redundancy adds 'a mere fraction to our cost, and absolutely nothing to your purchase price'
-- Stratus's hardware fault-tolerant architecture shipped continuously from early 1980s into modern ftServer line and ztC Edge — among the longest-lived commercial fault-tolerant designs

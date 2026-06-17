@@ -12,9 +12,9 @@ era: "2002-2008"
 lifecycle_at_study: "emerging"
 lifecycle_current: "superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Intel Media PC Reference Design
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Reference design targeting OEM media PCs — [[study-dct-webinar-nov-2002]]
+- Reference design targeting OEM media PCs `[ps=3]` — [[study-dct-webinar-nov-2002]]

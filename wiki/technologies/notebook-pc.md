@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 16
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.83
+prescience_obs_count: 6
 ---
 
 # Notebook PC form factor
@@ -29,11 +29,16 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- with consumer and corporate notebook computers 'flying off the shelves,' the mobile segment of the PC industry has become the fastest growing -- prompting PC producers, chipmakers and software vendors to focus on the market. `[ps=5]` — [[study-technology-news-trends-desktop-pcs-decli-7993aa]]
+- 40 percent of users will count a notebook or tablet PC as their primary device `[ps=5]` — [[study-technology-news-trends-desktop-pcs-decli-7993aa]]
+- Global notebook shipments exceeded desktop shipments for the first time in 2008 per IDC data (Q3 2008 was inflection quarter) `[ps=5]` — [[study-technology-news-trends-desktop-pcs-decli-7993aa]]
+- Lighter, thinner notebook PCs are pushing laptop sales ahead of desktop sales `[ps=4]` — [[study-purchasing-mag-high-tech-supply-chains-2-fc2a91]]
+- In the U.S., we're forecasting portables to compose 47 percent of all PC shipments in 2007 `[ps=4]` — [[study-technology-news-trends-desktop-pcs-decli-7993aa]]
+- 3 notebooks per 7 desktops in US corporate 2003 `[ps=0]` — [[study-dct-traveling-with-centrino-2003-05]]
 - In order to create the jewel-box tiny package, Dell's engineers chose to use notebook peripherals. — [[study-dct-business-2002-12-17-pc-deals]]
 - In order to create the jewel-box tiny package, Dell's engineers chose to use notebook peripherals. — [[study-dct-business-2002-12-19-pc-deals]]
 - However, Dell's jewel-like SFF Optiplex 260 uses notebook components, and is thus slower than its slightly bigger rivals. — [[study-dct-business-2003-03-17-pc-deals]]
 - Standard; Thin & Light; Value — [[study-dct-corp-notebooks-jan-2003]]
-- 3 notebooks per 7 desktops in US corporate 2003 — [[study-dct-traveling-with-centrino-2003-05]]
 - desktop at the time of purchasing your new machine to cash in on the savings. $300 on a notebook with a 166 MHz trade-in or better. Also, there's a $249 special — [[study-dct-weekly-2002-10-27]]
 - avings. $300 on a notebook with a 166 MHz trade-in or better. Also, there's a $249 special on a 15" LCD monitor - the best ever national retail deal we can recall — [[study-dct-weekly-2002-10-27]]
 - $300 on a notebook with a 166 MHz trade-in or better. — [[study-dct-weekly-2002-10-27]]
@@ -44,8 +49,3 @@ prescience_obs_count: 0
 - y has returned the two-fer promo. Buy a 700XL for $3499 and get a free 300S or $399 off a second machine. A similar deal exists on the 600XL notebook. This deal — [[study-dct-weekly-2003-01-19]]
 - A similar deal exists on the 600XL notebook. — [[study-dct-weekly-2003-01-19]]
 - ree shipping and, now, no financing for 18 months. Circuit City This week, get $100 gift card on all desktop and notebook systems, and no interest for 12 months at — [[study-dct-weekly-2003-03-16]]
-- This Week's Analysis of PC Deals PC Deals Trends and Commentary Intel's Centrino wireless notebook launch was the hot topic in the industry this week. — [[study-dct-weekly-2003-03-16]]
-- ne here] This Week's Buying Tips Best Buy At Best Buy stores this week, save $150 by mail on all notebooks, enjoy no interest for 12 months on PC bundles, and ta — [[study-dct-weekly-2003-04-13]]
-- [Insert Jeff Buddle's story on cheapo HP machine here] This Week's Buying Tips Best Buy At Best Buy stores this week, save $150 by mail on all notebooks, enjoy no interest for 12 months on PC bundles, and take advantage of free shipping on creation station ... — [[study-dct-weekly-2003-04-13]]
-- s continues. BestBuy.com still offers free shipping. Circuit City Receive a $100 gift card with any desktop or notebook purchase at Circuit City stores. Circui — [[study-dct-weekly-2003-04-20]]
-- Circuit City Receive a $100 gift card with any desktop or notebook purchase at Circuit City stores. — [[study-dct-weekly-2003-04-20]]

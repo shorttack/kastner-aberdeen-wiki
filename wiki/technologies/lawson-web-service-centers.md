@@ -12,9 +12,9 @@ era: "1997-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Lawson Web Service Centers
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 6 pre-built web apps: Employee Service Center, Supervisor Service Center, Internal Procurement Center, Customer Information Center, Vendor Information Center, Financial Information Center — [[study-aberdeen-1997-lawson-insight-process-orientation-business-management]]
+- 6 pre-built web apps: Employee Service Center, Supervisor Service Center, Internal Procurement Center, Customer Information Center, Vendor Information Center, Financial Information Center `[ps=4]` — [[study-aberdeen-1997-lawson-insight-process-orientation-business-management]]

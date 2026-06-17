@@ -12,9 +12,9 @@ status: "active"
 successor: "Polaris Industries (2011)"
 years_active: "1901-1953, revived 1999-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Indian Motorcycle
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Indian Motorcycle implemented Oracle suite in 1999 to run entire business; realized ROI within 1 year of going into production. — [[study-oracle-wp-prod-6-a42b4b]]
-- Indian Motorcycle implemented Oracle suite in 1999 to run entire business; ROI realized within 1 year of production cutover. — [[study-oracleroiwhitepaperprod-7-bcf73f]]
+- Indian Motorcycle implemented Oracle suite in 1999 to run entire business; realized ROI within 1 year of going into production. `[ps=0]` — [[study-oracle-wp-prod-6-a42b4b]]
+- Indian Motorcycle implemented Oracle suite in 1999 to run entire business; ROI realized within 1 year of production cutover. `[ps=0]` — [[study-oracleroiwhitepaperprod-7-bcf73f]]

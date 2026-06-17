@@ -3,7 +3,7 @@ title: "Electronic Commerce: Virtual Corporations Selling to a Virtual Marketpla
 slug: "study-1996-electronic-commerce-25d31b"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1996-electronic-commerce-25d31b"
 author: "Peter S. Kastner; Christopher Stevens"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.77
+prescience_obs_count: 13
 ---
 
 # Electronic Commerce: Virtual Corporations Selling to a Virtual Marketplace
@@ -32,21 +32,21 @@ _Published 1996, author **Peter S. Kastner; Christopher Stevens**, type **white-
 
 ## Top observations
 
-- $7.2 billion
-- B2B; B2C; C2C
-- EDI for purchase orders/invoices
+- True paradigm shift; will forever alter society and IT use `[ps=5]`
+- Fine-granularity individual personality; dynamic personalized catalogs `[ps=5]`
+- Rapid but not overnight; exceptions see explosive growth `[ps=4]`
+- Buy integrated EC architecture `[ps=3]`
+- 4GL/CASE tools generating Java `[ps=3]`
+- Authentication; encryption; firewalls; password control `[ps=3]`
+- $7.2 billion `[ps=0]`
+- B2B; B2C; C2C `[ps=0]`
+- EDI for purchase orders/invoices `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Fast evolving but presently imprecise `[ps=0]`
+- Hallmark of EC IT over at least next decade `[ps=0]`
 - Decision support / data warehousing
-- Buy integrated EC architecture
 - Majority of B2C companies will have 1st or 2nd gen EC by ~1999
-- [UNVERIFIED]
-- Rapid but not overnight; exceptions see explosive growth
-- [UNVERIFIED]
 - Hidden by competitive secrecy
 - Strong internal Intranet required
-- Fast evolving but presently imprecise
-- 4GL/CASE tools generating Java
-- Authentication; encryption; firewalls; password control
-- True paradigm shift; will forever alter society and IT use
-- Hallmark of EC IT over at least next decade
-- Fine-granularity individual personality; dynamic personalized catalogs
 - CGI being replaced by ORBs and gateways

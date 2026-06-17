@@ -12,9 +12,9 @@ era: "1960-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Time Division Multiplexing (TDM)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Private/leased-line TDM networks economic only for largest enterprises due to cost structure — [[study-1998-network-integration-services-report-f75108]]
+- Private/leased-line TDM networks economic only for largest enterprises due to cost structure `[ps=4]` — [[study-1998-network-integration-services-report-f75108]]

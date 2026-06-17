@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Novell (acquired USL from AT&T 1993 for ~$300M); Unix rights transferred to X/Open (1994)"
 years_active: "1990-1993"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Unix System Laboratories (USL)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- USL (now Novell division) introducing new generation of transaction monitors to tie islands of disparate databases — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
+- USL (now Novell division) introducing new generation of transaction monitors to tie islands of disparate databases `[ps=3]` — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]

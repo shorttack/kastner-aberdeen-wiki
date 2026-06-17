@@ -1,5 +1,5 @@
 ---
-title: "==> picture [69 x 792] intentionally omitted <=="
+title: "Ra Bptransmgmt Be (Aberdeen, 2005)"
 slug: "study-ra-bptransmgmt-be-5977ec"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.47
-prescience_obs_count: 34
+prescience_mean: 0.61
+prescience_obs_count: 31
 ---
 
-# ==> picture [69 x 792] intentionally omitted <==
+# Ra Bptransmgmt Be (Aberdeen, 2005)
 
-> This study analyzes ==> picture [69 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-bptransmgmt-be-5977ec. Source: ra_bptransmgmt_be.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **topic-analysis**._

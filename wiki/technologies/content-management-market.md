@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Content Management Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Content management market: $1.2B (2002), $1.6B (2003 projected), $2.0B (2004 projected) — [[study-aberdeen-eii-2003-ea3f1a]]
+- Content management market: $1.2B (2002), $1.6B (2003 projected), $2.0B (2004 projected) `[ps=4]` — [[study-aberdeen-eii-2003-ea3f1a]]

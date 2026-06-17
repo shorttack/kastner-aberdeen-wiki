@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "{'lifecycle_current': 'mature', 'notes': 'Digital camera market is mature (declining consumer, active professional). Known answer applied.', 'source': 'known'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # Consumer digital camera
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Virtually all participants (after desktop computers and printers) — [[study-iha-full-report---draft-jul-28-41de81]]
+- Photos primarily for family/social sharing; minority also use for commercial purposes (eBay listings, rental property docs, freelance news) `[ps=4]` — [[study-iha-full-report---draft-jul-28-41de81]]
+- E-mail is a key behavioral driver; photos emailed to friends/family and printed locally `[ps=3]` — [[study-iha-full-report---draft-jul-28-41de81]]
+- Virtually all participants (after desktop computers and printers) `[ps=0]` — [[study-iha-full-report---draft-jul-28-41de81]]
 - Most users never remove memory card from camera; transfer via USB cable not card — [[study-iha-full-report---draft-jul-28-41de81]]
-- E-mail is a key behavioral driver; photos emailed to friends/family and printed locally — [[study-iha-full-report---draft-jul-28-41de81]]
-- Photos primarily for family/social sharing; minority also use for commercial purposes (eBay listings, rental property docs, freelance news) — [[study-iha-full-report---draft-jul-28-41de81]]

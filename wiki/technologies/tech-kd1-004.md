@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "Active"
 lifecycle_current: "Active / mainstream in cloud"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Parallel Processing
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- RDS parallel processing enables both scale-up and speed-up capabilities for growing retail data — [[study-1997-knowledge-discovery-one's-retail-di-f6b834]]
+- RDS parallel processing enables both scale-up and speed-up capabilities for growing retail data `[ps=4]` — [[study-1997-knowledge-discovery-one's-retail-di-f6b834]]

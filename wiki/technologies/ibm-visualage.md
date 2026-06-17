@@ -12,9 +12,9 @@ era: "1993-2007"
 lifecycle_at_study: "declining"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM VisualAge
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM VisualAge all editions discontinued April 30 2007; Eclipse lineage continues — [[study-2026-kastner-ibm-longitudinal]]
+- IBM VisualAge all editions discontinued April 30 2007; Eclipse lineage continues `[ps=4]` — [[study-2026-kastner-ibm-longitudinal]]

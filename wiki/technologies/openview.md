@@ -12,9 +12,9 @@ era: "1993-2007"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # HP OpenView
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- OpenView identified as HP enterprise management platform strength — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]
+- OpenView identified as HP enterprise management platform strength `[ps=4]` — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]

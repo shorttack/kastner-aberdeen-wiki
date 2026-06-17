@@ -12,9 +12,9 @@ era: "2006-present"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'BitLocker is active. Known answer applied.', 'source': 'known'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Microsoft BitLocker (Full Disk Encryption)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- mainstream-business — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- mainstream-business `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- High likelihood `[ps=0]` — [[study-intel-2010-vpro-daily-globe-42697e]]
+- [UNVERIFIED] `[ps=0]` — [[study-intel-2010-vpro-daily-globe-42697e]]
 - default-enabled — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- High likelihood — [[study-intel-2010-vpro-daily-globe-42697e]]
-- [UNVERIFIED] — [[study-intel-2010-vpro-daily-globe-42697e]]

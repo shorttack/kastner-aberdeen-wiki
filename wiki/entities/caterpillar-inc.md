@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1925-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Caterpillar Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Caterpillar projects 1,000 videoconferencing users by mid-1999 — [[study-informationweek-videoconferencing-boost--b62ff4]]
+- Caterpillar projects 1,000 videoconferencing users by mid-1999 `[ps=0]` — [[study-informationweek-videoconferencing-boost--b62ff4]]

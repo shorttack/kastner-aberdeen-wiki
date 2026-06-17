@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 97
 ---
 
 # The Business Process Management Benchmark Report: Achieving Real Results through Monitoring and Performance Measurement
@@ -32,28 +32,28 @@ _Published 2006, author **Peter S. Kastner, Aberdeen Group**, type **employer-re
 
 ## Top observations
 
-- 58%
-- 160+ Global 5000 enterprises
-- 30
-- 42%
-- 50%
-- 18%
-- 10%
-- 9%
-- 12%
-- 2x
-- 94%
-- 87%
-- 84%
-- 5%
-- $101K-$500K
-- >20%
-- ~18%
-- ~12%
-- 1 minute or less
-- 35%
-- 52%
-- 13%
-- 22%
-- 72%
-- 6%
+- 58% `[ps=0]`
+- 160+ Global 5000 enterprises `[ps=0]`
+- 30 `[ps=0]`
+- 42% `[ps=0]`
+- 18% `[ps=0]`
+- 12% `[ps=0]`
+- 87% `[ps=0]`
+- 84% `[ps=0]`
+- 5% `[ps=0]`
+- $101K-$500K `[ps=0]`
+- >20% `[ps=0]`
+- ~18% `[ps=0]`
+- ~12% `[ps=0]`
+- 1 minute or less `[ps=0]`
+- 35% `[ps=0]`
+- 52% `[ps=0]`
+- 13% `[ps=0]`
+- 22% `[ps=0]`
+- 72% `[ps=0]`
+- 6% `[ps=0]`
+- 20% `[ps=0]`
+- 14% `[ps=0]`
+- 24% `[ps=0]`
+- 63% `[ps=0]`
+- 14% `[ps=0]`

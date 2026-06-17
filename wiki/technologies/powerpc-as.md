@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "superseded"
 lifecycle_current: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # PowerPC AS (64-bit RISC)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- 5 multiple (up to 5x) `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- orders_of_magnitude_greater `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
 - 2 multiple (>2x) — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 5 multiple (up to 5x) — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- orders_of_magnitude_greater — [[study-aberdeen-1995-ibm-as400-sap-r3]]

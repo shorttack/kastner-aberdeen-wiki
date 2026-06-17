@@ -12,9 +12,9 @@ era: "1997-1999"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Oracle Java Productivity Suite (Hatrick)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle Java-based suite 'Hatrick': word processor, spreadsheet, slide-show; integrates with Oracle InterOffice — [[study-netcompute-e6c378]]
+- Oracle Java-based suite 'Hatrick': word processor, spreadsheet, slide-show; integrates with Oracle InterOffice `[ps=0]` — [[study-netcompute-e6c378]]

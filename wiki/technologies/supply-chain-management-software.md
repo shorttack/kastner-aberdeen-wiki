@@ -12,9 +12,9 @@ era: "VT100/VT220 era"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Supply Chain Management Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Emerging; supply chain integration was major unmet need in retail in 1998 — [[study-1998-information-technology-in-the-retail-sector-the-in-33dc54]]
+- Emerging; supply chain integration was major unmet need in retail in 1998 `[ps=4]` — [[study-1998-information-technology-in-the-retail-sector-the-in-33dc54]]

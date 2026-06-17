@@ -1,5 +1,5 @@
 ---
-title: "==> picture [442 x 38] intentionally omitted <=="
+title: "Written Goremote Profile 5 2A (Aberdeen, 2003)"
 slug: "study-written-goremote-profile-5-2a-78ab20"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -22,9 +22,9 @@ prescience_mean: 2.86
 prescience_obs_count: 7
 ---
 
-# ==> picture [442 x 38] intentionally omitted <==
+# Written Goremote Profile 5 2A (Aberdeen, 2003)
 
-> This study analyzes ==> picture [442 x 38] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-goremote-profile-5-2a-78ab20. Source: Written__Goremote Profile 5-2a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2003, author **Aberdeen Group**, type **market-study**._

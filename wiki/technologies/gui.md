@@ -12,9 +12,9 @@ era: "1984-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Graphical User Interface (GUI)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Up to 50% of enterprise capital expenditures over next several years — [[study-nti-3-pc-and-ws-1993-17d49b]]
+- Up to 50% of enterprise capital expenditures over next several years `[ps=4]` — [[study-nti-3-pc-and-ws-1993-17d49b]]
 - Costs increase not decrease with distributed desktop — [[study-nti-3-pc-and-ws-1993-17d49b]]

@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "2000s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Stacey Quandt
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Lead analyst: Stacey Quandt, Research Director, Security Solutions and Services — [[study-aberdeen-ra-secure-soa-benchmark-2006-605d67]]
+- Lead analyst: Stacey Quandt, Research Director, Security Solutions and Services `[ps=0]` — [[study-aberdeen-ra-secure-soa-benchmark-2006-605d67]]

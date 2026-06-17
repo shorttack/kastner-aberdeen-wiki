@@ -3,7 +3,7 @@ title: "AMD Makes Athlon 64 Thinner, Lighter"
 slug: "study-technology-news-hardware-amd-makes-athlo-214a36"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "technology-news-hardware-amd-makes-athlo-214a36"
 author: "Jay Lyman, TechNewsWorld"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.25
+prescience_obs_count: 4
 ---
 
 # AMD Makes Athlon 64 Thinner, Lighter
@@ -32,9 +32,9 @@ _Published 2004, author **Jay Lyman, TechNewsWorld**, type **news-article**._
 
 ## Top observations
 
-- The Athlon 64 has managed increased market traction because it is a lot of performance at a good value.
-- As more consumers buy notebooks as desktop replacements, it makes sense for AMD to replace its mobility processors with 64-bit Athlons. The laptop share of the total PC market is rising steadily, prompting a response from chip and PC makers.
+- Gartner's Martin Reynolds: the enhanced security features with XP SP2 are likely to help cut down on the spread of worms such as the recent Sasser outbreak — across the board from both AMD and Intel. `[ps=5]`
+- The Athlon 64 has managed increased market traction because it is a lot of performance at a good value. `[ps=4]`
+- As more consumers buy notebooks as desktop replacements, it makes sense for AMD to replace its mobility processors with 64-bit Athlons. The laptop share of the total PC market is rising steadily, prompting a response from chip and PC makers. `[ps=4]`
+- NX bit / DEP hardware enforcement became a Windows baseline in Windows Vista (2006) and was later required for Windows 8 (2012). Code-injection worms of the Blaster/Sasser era largely disappeared; attackers shifted to return-oriented programming, JIT spraying, and browser-plugin vulnerabilities. `[ps=4]`
 - AMD priced Mobile Athlon 64 2800+ at US$241 and 2700+ at $209 in 1,000-unit quantities, immediately available worldwide. Acer Ferrari and Chinese OEM Amoi Electronics named as first notebook launch partners.
-- Gartner's Martin Reynolds: the enhanced security features with XP SP2 are likely to help cut down on the spread of worms such as the recent Sasser outbreak — across the board from both AMD and Intel.
 - Worldwide PC shipments: notebooks passed desktops in unit volume in 2008 per IDC/Gartner — validating Kastner's rising-laptop-share thesis. US retail notebook sales crossed over desktops already in 2005.
-- NX bit / DEP hardware enforcement became a Windows baseline in Windows Vista (2006) and was later required for Windows 8 (2012). Code-injection worms of the Blaster/Sasser era largely disappeared; attackers shifted to return-oriented programming, JIT spraying, and browser-plugin vulnerabilities.

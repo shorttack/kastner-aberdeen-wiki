@@ -12,9 +12,9 @@ era: "1999-2002"
 lifecycle_at_study: "declining"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Store-and-forward web conferencing (asynchronous, non-real-time conferencing via recorded/queued transmission) is essentially defunct, superseded by real-time streaming and on-demand video.', 'source': 'pre-verified'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Store-and-Forward Web Conferencing
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Database-centric store-and-forward approach led to many failures; cannot match Mediatone capabilities — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
+- Database-centric store-and-forward approach led to many failures; cannot match Mediatone capabilities `[ps=3]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]

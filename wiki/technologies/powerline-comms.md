@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "operating"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Power-line communications (PLC)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Utilities in Missouri, New Jersey, Minnesota, and California also implemented ASEP; ~12 states using such systems experimentally — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
+- Utilities in Missouri, New Jersey, Minnesota, and California also implemented ASEP; ~12 states using such systems experimentally `[ps=0]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]

@@ -12,9 +12,9 @@ status: "retired"
 successor: ""
 years_active: "1938-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Edson D. de Castro
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Companies such as DG have not yet come out with FT computers because of difficulty of compatibility; startups often have problems getting out second-generation products — [[study-cbn-bochner-stratus-oem-strategy-1982-06-245fd5]]
+- Companies such as DG have not yet come out with FT computers because of difficulty of compatibility; startups often have problems getting out second-generation products `[ps=2]` — [[study-cbn-bochner-stratus-oem-strategy-1982-06-245fd5]]

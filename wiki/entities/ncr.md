@@ -12,9 +12,9 @@ status: "unknown"
 successor: "Split into NCR Voyix (digital commerce) and NCR Atleos (ATMs) in October 2023"
 years_active: "1884-present"
 occurrence_count: 5
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # NCR Corporation
@@ -29,8 +29,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- NCR scaled NT on sixteen processors `[ps=0]` — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]
 - NCR adopted Solaris on Intel as reference platform for 64-bit Unix per 1997 partnership announcement — [[study-1997-sun-workgroup-servers-balancing-competition-and-co-cc57b7]]
-- NCR scaled NT on sixteen processors — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]
 - NCR adopting price-sensitive positioning with new product lines — [[study-aberdeen-1997-aberdeen-group-impacts]]
 - Market leader for multiuser Intel/Unix midrange servers — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
 - POS systems and enterprise retail solutions — [[study-retail~1-d5de79]]

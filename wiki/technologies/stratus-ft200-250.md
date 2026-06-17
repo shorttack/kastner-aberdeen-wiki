@@ -12,9 +12,9 @@ era: "1984-1988"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Stratus FT200/FT250
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1.7 TP-1 tps; 0.7 MIPS — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]
+- 1.7 TP-1 tps; 0.7 MIPS `[ps=0]` — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]

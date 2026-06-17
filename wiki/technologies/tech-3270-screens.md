@@ -12,9 +12,9 @@ era: "1971-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM 3270 Mainframe Screens
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- surround existing systems with new technology — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- surround existing systems with new technology `[ps=4]` — [[study-aberdeen-1995-hp-customer-interaction-software]]

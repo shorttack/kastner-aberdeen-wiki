@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Established"
 lifecycle_current: "Mature/Foundation"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # RSA Cryptography
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- RSA-based cryptography for in-transit information protection in SSSO — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
+- RSA-based cryptography for in-transit information protection in SSSO `[ps=4]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]

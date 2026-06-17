@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1993-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Informatica
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Informatica's analytical applications help enterprises understand cross-enterprise implications of departmental strategy shifts — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- Informatica's analytical applications help enterprises understand cross-enterprise implications of departmental strategy shifts `[ps=3]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

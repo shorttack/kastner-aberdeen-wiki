@@ -12,9 +12,9 @@ era: "2004"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Storage Software Bundling
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dell's bundling reduces number of SKUs, ensures all software components are included, and is budget-friendly through Dell's volume opportunity — [[study-dell-storage-profile-2004]]
+- Dell's bundling reduces number of SKUs, ensures all software components are included, and is budget-friendly through Dell's volume opportunity `[ps=3]` — [[study-dell-storage-profile-2004]]

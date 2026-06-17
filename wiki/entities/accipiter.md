@@ -12,9 +12,9 @@ status: "acquired"
 successor: "CMG/Engage Technologies"
 years_active: "1996-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Accipiter Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquired by CMG and Engage Technologies; signals market recognition of ad server and profiling integration need — [[study-ecprac~1-a7d0e4]]
+- Acquired by CMG and Engage Technologies; signals market recognition of ad server and profiling integration need `[ps=5]` — [[study-ecprac~1-a7d0e4]]

@@ -3,7 +3,7 @@ title: "Oracle InterOffice: Helping IS Deploy Solutions to Business Partners and
 slug: "study-aberdeen-1995-oracle-interoffice"
 page_type: "study"
 tags: ["type/study", "collection/product-profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1995-oracle-interoffice"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 40
 ---
 
 # Oracle InterOffice: Helping IS Deploy Solutions to Business Partners and Customers Over the Internet
@@ -32,28 +32,28 @@ _Published 1995, author **Aberdeen Group**, type **product-profile**._
 
 ## Top observations
 
-- 3000000000 USD
-- Aberdeen states that Oracle is aggressively changing its business model and products to attack the Internet opportunity faster than companies half its size
-- Oracle InterOffice was originally code-named Pegasus prior to its December 13, 1995 announcement
-- Modular cross-platform components for messaging, document management, workflow, and calendaring
-- Oracle InterOffice deconstructs earlier monolithic Oracle products: Document Management, Oracle Office, ConText, and Workflow
-- Aberdeen defines the 'Electronic Economic Community' as a new economic paradigm created by the Internet enabling businesses, partners, suppliers, and customers to communicate and transact without traditional electronic walls or geographic borders
-- Aberdeen believes Oracle has a 6–12 month lead over its nearest competitors with Oracle InterOffice
-- The unique capability to easily incorporate business partners and customers into any Oracle InterOffice enabled business process sets it apart from any other product Aberdeen has researched
-- Oracle InterOffice is described as the first groupware product designed to meet the challenges imposed by the Internet, with Internet integration built in rather than added as a gateway
-- 25 platform-count
-- Oracle InterOffice clients available for Windows NT, Windows 95, Windows 3.1, Motif, Macintosh, ASCII terminals, and Web browsers; with varying levels of functionality per device
-- Oracle InterOffice makes extensive use of threads enabling multiprocessor configurations where each thread can be dispatched to its own processor
-- Oracle InterOffice messaging infrastructure supports thousands of users on a single server, data storage limited only by platform physical constraints, and networks of hundreds of mail servers
-- Oracle InterOffice supports MAPI 1.0 and the Service Provider Interface (SPI), enabling any MS Mail client, Windows 95 In-Box, and MAPI-compliant applications to access Oracle InterOffice
-- Oracle was working with several manufacturers to produce PDA clients that would enable these devices to access Oracle InterOffice
-- Oracle InterOffice comes pre-packaged so that all popular clients, including any World Wide Web browser, can access Oracle InterOffice functionality
-- Oracle InterOffice implements a Common Access Layer—a standard interface enabling all applications to utilize every InterOffice feature via OLE Automation Interface and OCX components
-- Any desktop or server application can access all data stored in Oracle InterOffice using standard SQL through the Oracle System 7 Database; applications can also use PL/SQL for direct server-side data manipulation
-- Oracle InterOffice visual components are packaged as OCX controls for rapid application development in C++, Visual Basic, and other OCX-aware environments including Oracle PowerObjects
-- Oracle InterOffice provides mapping for ODMA (Open Document Management Access) standard interface enabling integration with document management-aware applications
-- Oracle InterOffice will eventually support the Work Flow API (WFAPI) standard for workflow interoperability
-- Oracle intends to integrate Oracle InterOffice with Java (Sun's Distributed Object environment), enabling any Java object on any Java platform direct access to Oracle InterOffice functionality
-- Oracle InterOffice is implemented as functional modules (mail, document management, calendars, schedulers, workflow) sharing a common database engine and common access layer; modules are independent yet functionally enhance each other
-- Messaging features include mail & directory with synchronization, attachments, templates, conferencing, shared & public folders, filters, mobile support
-- Scheduling features include day & week views, alarms, to-do lists, automatic meetings, attendee-free-time views, access control, time zones
+- Aberdeen defines the 'Electronic Economic Community' as a new economic paradigm created by the Internet enabling businesses, partners, suppliers, and customers to communicate and transact without traditional electronic walls or geographic borders `[ps=5]`
+- Every messaging and groupware vendor in the market is scrambling to integrate their offerings to the Internet; most have initially tried to implement SMTP and Web gateways offering very limited services `[ps=5]`
+- Oracle InterOffice failed to gain significant market share against Microsoft Exchange and Lotus Notes. In September 1997 Oracle released InterOffice 4.1 but it failed to gain ground. In January 2002 Oracle CEO Larry Ellison announced Oracle would stop using Oracle InterOffice internally, switching to Internet Messaging. Product discontinued. `[ps=5]`
+- Aberdeen states that Oracle is aggressively changing its business model and products to attack the Internet opportunity faster than companies half its size `[ps=4]`
+- Modular cross-platform components for messaging, document management, workflow, and calendaring `[ps=4]`
+- Messaging features include mail & directory with synchronization, attachments, templates, conferencing, shared & public folders, filters, mobile support `[ps=4]`
+- The three key roadblocks preventing IS from incorporating business partners and customers are: (1) Network Connectivity, (2) Authentication/Security, and (3) Application Access `[ps=4]`
+- Aberdeen argues there is a trade-press misconception that Internet security is inadequate; Aberdeen believes Internet security can be established to a high degree and that IS organizations use security as an excuse to avoid Internet adoption `[ps=4]`
+- The World Wide Web solves the partner/customer application access problem by establishing a single common browser environment and user interface for every platform deployed `[ps=4]`
+- Before the Web, data was held hostage by the applications that created it; IS had to either install the application on every user's desktop or build a costly data gateway between applications `[ps=4]`
+- Aberdeen predicts that when traditional electronic walls are finally exterminated, businesses and consumers will communicate in ways not yet predicted, tied together by technology into an Electronic Economic Community `[ps=4]`
+- Oracle InterOffice approaches data integration in a new way: server applications access via standard SQL, desktop clients through Web browsers, OLE Automation and OCX controls today, and Java objects tomorrow `[ps=4]`
+- A properly designed Internet Firewall coupled with a properly designed application like Oracle InterOffice offers safe and secure communications for most business transactions `[ps=4]`
+- Oracle InterOffice is described as the first groupware product designed to meet the challenges imposed by the Internet, with Internet integration built in rather than added as a gateway `[ps=3]`
+- Oracle InterOffice makes extensive use of threads enabling multiprocessor configurations where each thread can be dispatched to its own processor `[ps=3]`
+- Oracle InterOffice messaging infrastructure supports thousands of users on a single server, data storage limited only by platform physical constraints, and networks of hundreds of mail servers `[ps=3]`
+- Oracle InterOffice comes pre-packaged so that all popular clients, including any World Wide Web browser, can access Oracle InterOffice functionality `[ps=3]`
+- Today's World Wide Web browsers are already evolving to include distributed objects including OLE and Java, enabling tighter data integration beyond HTML-only interactions `[ps=3]`
+- Oracle InterOffice implements a Common Access Layer—a standard interface enabling all applications to utilize every InterOffice feature via OLE Automation Interface and OCX components `[ps=2]`
+- Oracle InterOffice's multi-interface approach (SQL, OLE, OCX, Web, Java) defines a new breed of product that every other vendor will need to catch up to `[ps=2]`
+- Aberdeen believed Oracle had a 6-12 month competitive lead over nearest competitors with Oracle InterOffice at December 1995 announcement `[ps=2]`
+- Oracle planned to integrate Oracle InterOffice with Java (Sun's distributed object environment), enabling any Java object on any Java platform direct access to Oracle InterOffice functionality `[ps=2]`
+- The unique capability to easily incorporate business partners and customers into any Oracle InterOffice enabled business process sets it apart from any other product Aberdeen has researched `[ps=1]`
+- SMTP and Web gateway approaches offer very limited Internet services, require substantial system resources, and demand new administrative processes `[ps=1]`
+- 3000000000 USD `[ps=0]`

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1972-1994"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.25
+prescience_obs_count: 4
 ---
 
 # William M. Steul
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DEC CFO William M. Steul, 51, resigned May 1994; 22-year DEC veteran; CFO since June 1992 — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]
-- DEC CFO William M. Steul resigned May 1994 — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]
-- Steul named CFO by Ken Olsen June 1992, weeks before board asked Olsen to resign as president — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]
-- Steul's rise had been controversial because he had not worked in the finance operation for more than a decade — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]
+- DEC CFO William M. Steul resigned May 1994 `[ps=5]` — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]
+- DEC CFO William M. Steul, 51, resigned May 1994; 22-year DEC veteran; CFO since June 1992 `[ps=0]` — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]
+- Steul named CFO by Ken Olsen June 1992, weeks before board asked Olsen to resign as president `[ps=0]` — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]
+- Steul's rise had been controversial because he had not worked in the finance operation for more than a decade `[ps=0]` — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]

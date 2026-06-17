@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1782-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Harvard Medical School
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Committing a sizable portion of next-generation client/server applications to NetDynamics and Java — [[study-aberdeen-1996-spider-technologies-netdynamics]]
+- Committing a sizable portion of next-generation client/server applications to NetDynamics and Java `[ps=3]` — [[study-aberdeen-1996-spider-technologies-netdynamics]]

@@ -12,9 +12,9 @@ era: "2004-2006"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'evolved', 'notes': 'XML-based content rules engines have evolved into modern policy engines, decision management platforms, and business rules management systems (BRMS). The XML-centric form is largely superseded.', 'source': 'General technology evolution'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # XML-Based Content Rules Engine
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- allows non-IT groups to manage content delivery directly — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
-- Customer programs content rules based on geotargeting time of day place in rotation and wild card image replacements — [[study-mirror-image-profile-v2-050404-97e2a6]]
+- allows non-IT groups to manage content delivery directly `[ps=4]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
+- Customer programs content rules based on geotargeting time of day place in rotation and wild card image replacements `[ps=4]` — [[study-mirror-image-profile-v2-050404-97e2a6]]

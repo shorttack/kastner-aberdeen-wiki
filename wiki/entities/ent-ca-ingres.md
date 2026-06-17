@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Actian Corporation (Ingres); CA Technologies→Broadcom"
 years_active: "1976-2018"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Computer Associates (CA-Ingres + Jasmine)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CA has dual strategy (Jasmine OODBMS + CA-Ingres); no plans to combine or offer Universal Server functionality — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
+- CA has dual strategy (Jasmine OODBMS + CA-Ingres); no plans to combine or offer Universal Server functionality `[ps=5]` — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]

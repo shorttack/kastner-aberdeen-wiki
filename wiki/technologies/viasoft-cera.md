@@ -12,9 +12,9 @@ era: "1997-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 6
 ---
 
 # Viasoft c.era (cooperative strategic initiative)
@@ -24,11 +24,11 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Raises Y2K awareness and improves risk management for enterprise `[ps=4]` — [[study-1997-viasoft-y2k-c2e540]]
+- Framework enables: Y2K efforts; data warehousing; Eurocurrency introduction; modernization; packaged-application implementation `[ps=3]` — [[study-1997-viasoft-y2k-c2e540]]
+- Gathers best tools and practices through pre-qualification; fosters cooperation among multiple vendor projects `[ps=2]` — [[study-1997-viasoft-y2k-c2e540]]
+- Captures valuable information assets from existing systems; by-product creates reusable components for post-Y2K use `[ps=2]` — [[study-1997-viasoft-y2k-c2e540]]
+- Organizations use c.era as single point of contact for all Y2K vendor selection and management `[ps=1]` — [[study-1997-viasoft-y2k-c2e540]]
+- Includes process model plus Rochade repository plus enabling technology infrastructure across all major platforms `[ps=0]` — [[study-1997-viasoft-y2k-c2e540]]
 - Cooperative ecosystem platform; unique approach to Y2K requiring multi-vendor cooperation; single-point-of-contact model — [[study-1997-viasoft-y2k-c2e540]]
-- Organizations use c.era as single point of contact for all Y2K vendor selection and management — [[study-1997-viasoft-y2k-c2e540]]
-- Includes process model plus Rochade repository plus enabling technology infrastructure across all major platforms — [[study-1997-viasoft-y2k-c2e540]]
-- Gathers best tools and practices through pre-qualification; fosters cooperation among multiple vendor projects — [[study-1997-viasoft-y2k-c2e540]]
-- Raises Y2K awareness and improves risk management for enterprise — [[study-1997-viasoft-y2k-c2e540]]
-- Captures valuable information assets from existing systems; by-product creates reusable components for post-Y2K use — [[study-1997-viasoft-y2k-c2e540]]
-- Framework enables: Y2K efforts; data warehousing; Eurocurrency introduction; modernization; packaged-application implementation — [[study-1997-viasoft-y2k-c2e540]]
 - Y2K scope typically greater than anticipated; heterogeneous environments require multi-vendor approach; no single vendor can fix all issues — [[study-1997-viasoft-y2k-c2e540]]

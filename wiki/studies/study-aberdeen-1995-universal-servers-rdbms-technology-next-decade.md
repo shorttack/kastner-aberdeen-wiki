@@ -3,7 +3,7 @@ title: "Universal Servers: RDBMS Technology for the Next Decade"
 slug: "study-aberdeen-1995-universal-servers-rdbms-technology-next-decade"
 page_type: "study"
 tags: ["type/study", "collection/technology-viewpoint"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1995-universal-servers-rdbms-technology-next-decade"
 author: "Peter S. Kastner, Wayne Kernochan (Aberdeen Group)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.91
+prescience_obs_count: 22
 ---
 
 # Universal Servers: RDBMS Technology for the Next Decade
@@ -32,28 +32,28 @@ _Published 1995, author **Peter S. Kastner, Wayne Kernochan (Aberdeen Group)**, 
 
 ## Top observations
 
-- 5 of top-10 ISVs sell RDBMS: Microsoft, CA, Oracle, Sybase, Informix (plus IBM DB2)
-- market voted OODBMSs are niche; not appropriate for large-scale or mission-critical applications
-- RDBMS offering efficient access to complex data types and open extensible user-defined data types
+- market voted OODBMSs are niche; not appropriate for large-scale or mission-critical applications `[ps=5]`
+- video, text (ConText), spatial options added but still distinct servers not fully integrated; extensibility requires future Oracle Universal Database release `[ps=5]`
+- CA has dual strategy (Jasmine OODBMS + CA-Ingres); no plans to combine or offer Universal Server functionality `[ps=5]`
+- Universal Server technology will become widespread within 2-3 years as RDBMS suppliers bring products to market `[ps=5]`
+- RDBMS offering efficient access to complex data types and open extensible user-defined data types `[ps=4]`
+- DB2 Relational Extenders for text/imaging/audio/video; not yet deep in architecture or sophisticated client-server toolset `[ps=4]`
+- Universal Server will provide RDBMS investment protection beyond 2005 `[ps=4]`
+- IBM acquired Informix database assets for $1B in April 2001; Informix leadership ended `[ps=4]`
+- Internet/Intranet demands text and graphic data types that challenge RDBMS integration `[ps=4]`
+- ROLAP multidimensional data, Internet/Intranet text+graphics, OOP development toolsets all pressure simple-data RDBMS `[ps=4]`
+- relational model has survived 20 years; 5 of top-10 ISVs sell RDBMS `[ps=4]`
+- Oracle8/8i/9i delivered full object-relational features; Oracle became dominant RDBMS vendor `[ps=3]`
+- UDTs standardized in SQL:1999; implemented in PostgreSQL, DB2, Oracle; foundational to extension ecosystems `[ps=3]`
+- Informix-OnLine architecture regarded as leader in parallel scalability; hardware suppliers favor for TPC benchmarking `[ps=3]`
+- Universal Server will significantly improve programmer productivity for large-scale data-intensive applications `[ps=2]`
+- today ROLAP/RDBMS bitmap indexing+star schemas deliver order-of-magnitude complex-query speedups; further improvement requires UDT in core optimizer `[ps=2]`
+- Universal Server technology will be one of the most significant advances in RDBMS technology over the next decade `[ps=2]`
+- Informix still the leader that others must follow in Universal Server technology `[ps=1]`
+- 5 of top-10 ISVs sell RDBMS: Microsoft, CA, Oracle, Sybase, Informix (plus IBM DB2) `[ps=0]`
+- not yet implemented comparable complex-data-type support; Adaptive Server + Object-Connect middleware planned `[ps=0]`
+- Extensibility/flexibility + Core RDBMS integration + Performance + Administration + Transparency `[ps=0]`
+- Volume 9/Number 13, June 3, 1995 `[ps=0]`
 - Illustra+Informix-OnLine combination leads in Universal Server; 25 DataBlade modules expected by end of 1995
-- video, text (ConText), spatial options added but still distinct servers not fully integrated; extensibility requires future Oracle Universal Database release
-- DB2 Relational Extenders for text/imaging/audio/video; not yet deep in architecture or sophisticated client-server toolset
-- CA has dual strategy (Jasmine OODBMS + CA-Ingres); no plans to combine or offer Universal Server functionality
-- not yet implemented comparable complex-data-type support; Adaptive Server + Object-Connect middleware planned
-- Universal Server technology will become widespread within 2-3 years as RDBMS suppliers bring products to market
-- Universal Server will provide RDBMS investment protection beyond 2005
-- Informix still the leader that others must follow in Universal Server technology
-- IBM acquired Informix database assets for $1B in April 2001; Informix leadership ended
-- Oracle8/8i/9i delivered full object-relational features; Oracle became dominant RDBMS vendor
 - ROLAP became standard BI architecture; implemented in every major RDBMS by 2000
 - Spatial extensions became standard: PostGIS (2001), Oracle Spatial, SQL Server Spatial; foundational to GIS
-- UDTs standardized in SQL:1999; implemented in PostgreSQL, DB2, Oracle; foundational to extension ecosystems
-- Internet/Intranet demands text and graphic data types that challenge RDBMS integration
-- Extensibility/flexibility + Core RDBMS integration + Performance + Administration + Transparency
-- SAP, PeopleSoft, Baan announced as able to migrate to Informix Universal Server without app-code changes
-- text-search on comments fields can extract repeated information defying today RDBMS query capabilities
-- ROLAP multidimensional data, Internet/Intranet text+graphics, OOP development toolsets all pressure simple-data RDBMS
-- Universal Server will significantly improve programmer productivity for large-scale data-intensive applications
-- today ROLAP/RDBMS bitmap indexing+star schemas deliver order-of-magnitude complex-query speedups; further improvement requires UDT in core optimizer
-- Informix-OnLine architecture regarded as leader in parallel scalability; hardware suppliers favor for TPC benchmarking
-- Volume 9/Number 13, June 3, 1995

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "SAP AG (via Platinum Equity -> Accrue Software)"
 years_active: "1986-2007"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.76
+prescience_obs_count: 17
 ---
 
 # Pilot Software Inc.
@@ -24,21 +24,21 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Multi-tiered server-centric architecture: browser -> Web Server -> Pilot Internet Publisher -> Pilot Analysis Server -> MDB — [[study-pilot-internet-publisher-51e601]]
-- Pilot rejected standard CGI in favor of Microsoft ISAPI for faster and more secure query responses — [[study-pilot-internet-publisher-51e601]]
-- AT&T UNIX SVR4, Digital UNIX, HP UX, IBM AIX, Sequent DYNIX, Sun Solaris — [[study-pilot-internet-publisher-51e601]]
-- Native connections to Oracle and Sybase; ODBC to SQL Server / Informix / IBM DB2 — [[study-pilot-internet-publisher-51e601]]
-- $10000 per Windows NT Server plus $695/user — [[study-pilot-internet-publisher-51e601]]
-- $20000 per Windows NT Server or $30000 per UNIX server — [[study-pilot-internet-publisher-51e601]]
-- 350 employees worldwide — [[study-pilot-internet-publisher-51e601]]
-- Comprehensive suite: Internet Publisher + Analysis Server + Discovery Server (data mining) + Desktop + Designer + Sales & Marketing Library + Excel Add-In — [[study-pilot-internet-publisher-51e601]]
-- Specifically tuned for retail and financial services — promotional effectiveness and risk management — [[study-pilot-internet-publisher-51e601]]
-- Stateless model enabling advanced browser features: move/resize/tile windows and bookmarking — [[study-pilot-internet-publisher-51e601]]
-- Distribution of personal cubes (exported MDB subsets) via email as compressed self-extracting files for offline analysis — [[study-pilot-internet-publisher-51e601]]
-- Exceptions analysis (color-coded); Ranking analysis (ascending/descending); 80/20 analysis (Pareto segmentation) — all as source code modules — [[study-pilot-internet-publisher-51e601]]
-- Aberdeen predicts Pilot will continue to offer a solid cost-effective choice for distributed OLAP through upcoming months and years — [[study-pilot-internet-publisher-51e601]]
+- Multi-tiered server-centric architecture: browser -> Web Server -> Pilot Internet Publisher -> Pilot Analysis Server -> MDB `[ps=4]` — [[study-pilot-internet-publisher-51e601]]
+- Comprehensive suite: Internet Publisher + Analysis Server + Discovery Server (data mining) + Desktop + Designer + Sales & Marketing Library + Excel Add-In `[ps=4]` — [[study-pilot-internet-publisher-51e601]]
+- Multidimensional Database (MDB) organizes data in typical business terms: revenues/costs/gross margins vs. customers/products/regions/time `[ps=4]` — [[study-pilot-internet-publisher-51e601]]
+- Pilot rejected standard CGI in favor of Microsoft ISAPI for faster and more secure query responses `[ps=3]` — [[study-pilot-internet-publisher-51e601]]
+- Specifically tuned for retail and financial services — promotional effectiveness and risk management `[ps=3]` — [[study-pilot-internet-publisher-51e601]]
+- Exceptions analysis (color-coded); Ranking analysis (ascending/descending); 80/20 analysis (Pareto segmentation) — all as source code modules `[ps=3]` — [[study-pilot-internet-publisher-51e601]]
+- Aberdeen predicts Pilot will continue to offer a solid cost-effective choice for distributed OLAP through upcoming months and years `[ps=3]` — [[study-pilot-internet-publisher-51e601]]
+- Stateless model enabling advanced browser features: move/resize/tile windows and bookmarking `[ps=2]` — [[study-pilot-internet-publisher-51e601]]
+- Distribution of personal cubes (exported MDB subsets) via email as compressed self-extracting files for offline analysis `[ps=2]` — [[study-pilot-internet-publisher-51e601]]
+- For enterprises needing to support large populations with multidimensional data access, combination of Pilot Internet Publisher and Pilot Analysis Server delivers complete Web-enabled OLAP solution `[ps=2]` — [[study-pilot-internet-publisher-51e601]]
+- AT&T UNIX SVR4, Digital UNIX, HP UX, IBM AIX, Sequent DYNIX, Sun Solaris `[ps=0]` — [[study-pilot-internet-publisher-51e601]]
+- Native connections to Oracle and Sybase; ODBC to SQL Server / Informix / IBM DB2 `[ps=0]` — [[study-pilot-internet-publisher-51e601]]
+- $10000 per Windows NT Server plus $695/user `[ps=0]` — [[study-pilot-internet-publisher-51e601]]
+- $20000 per Windows NT Server or $30000 per UNIX server `[ps=0]` — [[study-pilot-internet-publisher-51e601]]
+- 350 employees worldwide `[ps=0]` — [[study-pilot-internet-publisher-51e601]]
+- Pilot Software acquired by SAP AG in February 2007; product rebranded SAP Strategy Management `[ps=0]` — [[study-pilot-internet-publisher-51e601]]
+- Pilot planned mid-1997 delivery of advanced Selector Object using Java and ActiveX for hierarchical dimension navigation `[ps=0]` — [[study-pilot-internet-publisher-51e601]]
 - Web-driven functionality will extend OLAP to more users than enterprises have been able to cost-justify in the past — [[study-pilot-internet-publisher-51e601]]
-- Pilot Software acquired by SAP AG in February 2007; product rebranded SAP Strategy Management — [[study-pilot-internet-publisher-51e601]]
-- Pilot planned mid-1997 delivery of advanced Selector Object using Java and ActiveX for hierarchical dimension navigation — [[study-pilot-internet-publisher-51e601]]
-- For enterprises needing to support large populations with multidimensional data access, combination of Pilot Internet Publisher and Pilot Analysis Server delivers complete Web-enabled OLAP solution — [[study-pilot-internet-publisher-51e601]]
-- Multidimensional Database (MDB) organizes data in typical business terms: revenues/costs/gross margins vs. customers/products/regions/time — [[study-pilot-internet-publisher-51e601]]

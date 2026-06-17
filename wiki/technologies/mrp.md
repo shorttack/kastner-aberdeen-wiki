@@ -12,9 +12,9 @@ era: "1970s-mature"
 lifecycle_at_study: "declining"
 lifecycle_current: "unknown"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # Material Requirements Planning (MRP)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- infinite_capacity_no_optimization — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
-- 1970s_rush_to_implement_mrp_ics — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
-- MRP systems failed to deliver expected efficiencies; not architected for demand forecasting — [[study-erpv2p~1-b15573]]
+- 1970s_rush_to_implement_mrp_ics `[ps=4]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- MRP systems failed to deliver expected efficiencies; not architected for demand forecasting `[ps=4]` — [[study-erpv2p~1-b15573]]
+- infinite_capacity_no_optimization `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]

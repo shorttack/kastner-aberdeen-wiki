@@ -12,9 +12,9 @@ era: "1995-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Fast Ethernet (100Base-TX)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Early 1996 (Q1) — [[study-aberdeen-1995-3com-lanplex-2500]]
+- Early 1996 (Q1) `[ps=0]` — [[study-aberdeen-1995-3com-lanplex-2500]]

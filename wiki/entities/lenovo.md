@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1984-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Lenovo Group
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- T-series;W510;ThinkCentre-M90 — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- T series, W510 notebooks, ThinkCentre M90 desktop — [[study-intel-2010-vpro-daily-globe-42697e]]
+- T-series;W510;ThinkCentre-M90 `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- T series, W510 notebooks, ThinkCentre M90 desktop `[ps=0]` — [[study-intel-2010-vpro-daily-globe-42697e]]

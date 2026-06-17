@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1977-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Semiconductor Industry Association (SIA)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Worldwide semiconductor sales fell 3.3% in February 2003 according to the Semiconductor Industry Association. — [[study-sars-high-tech-monday-update-monday-apri-ac0cb5]]
+- Worldwide semiconductor sales fell 3.3% in February 2003 according to the Semiconductor Industry Association. `[ps=0]` — [[study-sars-high-tech-monday-update-monday-apri-ac0cb5]]

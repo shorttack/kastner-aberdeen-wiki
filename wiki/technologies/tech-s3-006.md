@@ -12,9 +12,9 @@ era: "1997-2000s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Superseded"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # IBM Transaction Server (CICS for NT + Encina)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Slow due to legacy analog incompatibility — [[study-1997-digital-equipment-corporation-pr-c375a8]]
-- IBM: more mature, bridges existing CICS environments, 25+ years CICS + 10+ years Encina — [[study-1997-ibm’s-nt-strategy-strat-pr-b93817]]
+- IBM: more mature, bridges existing CICS environments, 25+ years CICS + 10+ years Encina `[ps=4]` — [[study-1997-ibm’s-nt-strategy-strat-pr-b93817]]
+- Slow due to legacy analog incompatibility `[ps=0]` — [[study-1997-digital-equipment-corporation-pr-c375a8]]

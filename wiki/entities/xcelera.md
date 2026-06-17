@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "1999-2007"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Xcelera.com
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Parent company Xcelera.com dissolved circa 2007 — [[study-mirror-image-profile-v2-050404-97e2a6]]
+- Parent company Xcelera.com dissolved circa 2007 `[ps=1]` — [[study-mirror-image-profile-v2-050404-97e2a6]]

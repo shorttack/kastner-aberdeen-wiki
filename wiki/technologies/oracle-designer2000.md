@@ -12,9 +12,9 @@ era: "1996-2002"
 lifecycle_at_study: "declining"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Oracle Designer/2000
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle Designer/2000 was the leading CASE/modeling tool for Oracle-centric enterprise data architecture — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle Designer/2000 was the leading CASE/modeling tool for Oracle-centric enterprise data architecture `[ps=3]` — [[study-2026-kastner-oracle-longitudinal]]

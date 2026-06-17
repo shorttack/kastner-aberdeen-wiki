@@ -12,9 +12,9 @@ era: "1975-1998"
 lifecycle_at_study: "declining"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # DECnet
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DECnet's distributed peer model contrasted with SNA's hierarchical mainframe-centric model — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- DECnet's distributed peer model contrasted with SNA's hierarchical mainframe-centric model `[ps=4]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]

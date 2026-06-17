@@ -12,9 +12,9 @@ era: "2005-2015"
 lifecycle_at_study: "growth"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Orchestration Testing (BPEL/workflow)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Orchestration testing emerges as a critical new piece of overall SOA testing strategy — [[study-aberdeen-rb-testing-soa-web-apps-2007-e2096f]]
+- Orchestration testing emerges as a critical new piece of overall SOA testing strategy `[ps=3]` — [[study-aberdeen-rb-testing-soa-web-apps-2007-e2096f]]

@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Vendor Management Processes
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 30% — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- 30% `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- higher-than-expected `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
 - new-revised-vendor-mgmt-processes — [[study-2006-unisyswipro-rs-3747-a7e31e]]
-- higher-than-expected — [[study-2006-unisyswipro-rs-3747-a7e31e]]
 - management-time-investment — [[study-2006-unisyswipro-rs-3747-a7e31e]]

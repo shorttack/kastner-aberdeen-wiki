@@ -12,9 +12,9 @@ status: "active"
 successor: "CA Technologies → Broadcom (acquired 2018)"
 years_active: "1976-2018"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Computer Associates (CA)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ManageWise vs CA Unicenter vs HP OpenView as competing network management frameworks — [[study-aberdeen-1995-novell-predicament]]
+- ManageWise vs CA Unicenter vs HP OpenView as competing network management frameworks `[ps=3]` — [[study-aberdeen-1995-novell-predicament]]

@@ -1,5 +1,5 @@
 ---
-title: "==> picture [390 x 293] intentionally omitted <=="
+title: "Fdic, Washington Cs 1995 (Aberdeen, 1995)"
 slug: "study-fdic-washington-cs-1995-e3de67"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -22,9 +22,9 @@ prescience_mean: 3.0
 prescience_obs_count: 3
 ---
 
-# ==> picture [390 x 293] intentionally omitted <==
+# Fdic, Washington Cs 1995 (Aberdeen, 1995)
 
-> This study analyzes ==> picture [390 x 293] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study fdic-washington-cs-1995-e3de67. Source: FDIC, Washington CS 1995.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 1995, author **Aberdeen Group**, type **market-study**._

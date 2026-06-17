@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Learning Management Systems (LMS)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Emerging infrastructure layer for enterprise e-learning administration and tracking — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]
-- IBM Lotus providing enterprise LMS integrated with Lotus Notes groupware platform — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]
+- Emerging infrastructure layer for enterprise e-learning administration and tracking `[ps=5]` — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]
+- IBM Lotus providing enterprise LMS integrated with Lotus Notes groupware platform `[ps=3]` — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]

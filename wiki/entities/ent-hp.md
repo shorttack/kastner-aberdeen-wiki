@@ -12,9 +12,9 @@ status: "active"
 successor: "HP Inc / Hewlett Packard Enterprise"
 years_active: "1939-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.41
+prescience_obs_count: 32
 ---
 
 # Hewlett-Packard Company
@@ -24,23 +24,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 40% annually or better — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- >$1.5 billion — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- 40% per year — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- >200 call center sites — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- December 1995 — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- 3800 individuals — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- $30 billion — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- $300-$800 per user — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- HP K100 (low-end) to T-520 (high-end) — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- leading supplier — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- 7 key parts — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- call routing, ANI/screen pop, click-to-dial, event history, call center statistics — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- video clips, images, customer records, mainframe 3270 screens simultaneously — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- application- and communication-device-independent — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- facsimile, internet, dedicated kiosks — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- AT&T and Northern Telecom PBX switches — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- first full-service systems supplier for CIS market — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- CIS systems-supplier-of-choice in 1996 — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- virtually every premier CIS application provider — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- 3 domestic ISCs (manufacturing/financial services/telecom) — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- open APIs enabling wide range of applications and phone systems `[ps=5]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- Partially correct near-term; HP did execute Smart ContAct partnerships but CRM market consolidated around Siebel Systems (dominant 1997-2004) and Salesforce.com (founded 1999). HP exited CIS as distinct business. `[ps=5]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- application- and communication-device-independent `[ps=4]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- partnership-based not monolithic `[ps=4]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- packaged middleware reduces implementation time and costs `[ps=4]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- surround existing systems with new technology `[ps=4]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- Aberdeen predicts CIS market will sustain 40%+ annual growth through mid-to-late 1990s, reaching multi-billion dollar scale `[ps=4]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- video clips, images, customer records, mainframe 3270 screens simultaneously `[ps=3]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- ISCs forming for telecom and financial services in Europe `[ps=3]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- CIS market needs major systems supplier to take the lead `[ps=3]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- Aberdeen predicts CTI (Computer Telephony Integration) middleware will be a critical competitive differentiator in enterprise CIS architectures `[ps=3]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- CIS systems-supplier-of-choice in 1996 `[ps=1]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- firmly endorses Smart ContAct as premier CIS program `[ps=1]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- Aberdeen predicts HP will be the CIS systems-supplier-of-choice in 1996, cementing leadership through Smart ContAct initiative `[ps=1]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- 40% annually or better `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- 40% per year `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- >200 call center sites `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- December 1995 `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- 3800 individuals `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- $30 billion `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]

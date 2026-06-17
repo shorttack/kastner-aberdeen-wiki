@@ -12,9 +12,9 @@ era: "1976-"
 lifecycle_at_study: "active"
 lifecycle_current: "RACF remains IBM's mainframe security manager"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM RACF (Resource Access Control Facility)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- RACF described as proven mainframe security; enterprise desire is RACF-equivalent for distributed computing — [[study-1997-tme-10-security-management-8178c6]]
+- RACF described as proven mainframe security; enterprise desire is RACF-equivalent for distributed computing `[ps=4]` — [[study-1997-tme-10-security-management-8178c6]]

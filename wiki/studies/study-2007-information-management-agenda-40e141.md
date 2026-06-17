@@ -1,5 +1,5 @@
 ---
-title: "==> picture [262 x 66] intentionally omitted <=="
+title: "2007 Information Management Agenda (Aberdeen, 2007)"
 slug: "study-2007-information-management-agenda-40e141"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 0.8
 prescience_obs_count: 10
 ---
 
-# ==> picture [262 x 66] intentionally omitted <==
+# 2007 Information Management Agenda (Aberdeen, 2007)
 
-> This study analyzes ==> picture [262 x 66] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study 2007-information-management-agenda-40e141. Source: 2007_information_management_agenda.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **benchmark**._

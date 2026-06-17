@@ -12,9 +12,9 @@ era: "2000-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.0
+prescience_obs_count: 3
 ---
 
 # CA IT Resource Management (ITRM)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Integrated but modular solution set providing basis for managing IT as a cohesive business entity — [[study-2001-ca-s-it-resource-management-solutions-p-ing-it-ope-0855b8]]
-- Covers systems management, desktop management, help desk, IT resources, operations management, asset management, IT inventory control, remote control — [[study-2001-ca-s-it-resource-management-solutions-p-ing-it-ope-0855b8]]
-- CA also had CRO product mentioned in companion Impact (CA Does the Right Thing; Customers Say CRO Rocks) — [[study-2001-ca-s-it-resource-management-solutions-p-ing-it-ope-0855b8]]
+- Integrated but modular solution set providing basis for managing IT as a cohesive business entity `[ps=3]` — [[study-2001-ca-s-it-resource-management-solutions-p-ing-it-ope-0855b8]]
+- Covers systems management, desktop management, help desk, IT resources, operations management, asset management, IT inventory control, remote control `[ps=0]` — [[study-2001-ca-s-it-resource-management-solutions-p-ing-it-ope-0855b8]]
+- CA also had CRO product mentioned in companion Impact (CA Does the Right Thing; Customers Say CRO Rocks) `[ps=0]` — [[study-2001-ca-s-it-resource-management-solutions-p-ing-it-ope-0855b8]]

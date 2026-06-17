@@ -3,7 +3,7 @@ title: "Kastner Personal IDF Notes — Consumer Spending, Extreme Edition, Presc
 slug: "study-intel-idf-pk-notes-3-6666da"
 page_type: "study"
 tags: ["type/study", "collection/memoir"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "intel-idf-pk-notes-3-6666da"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.14
+prescience_obs_count: 7
 ---
 
 # Kastner Personal IDF Notes — Consumer Spending, Extreme Edition, Prescott, BTX, DTCP
@@ -32,11 +32,11 @@ _Published 2003, author **Peter S. Kastner**, type **memoir**._
 
 ## Top observations
 
-- 2003 U.S. electronics consumer spending ≈ $120 billion.
-- Gateway's all-in-one PC (circa 2003) exhibits nice integration and cable management.
-- Intel P4 Extreme Edition specification: 3.2 GHz, 2 MB L3 cache, 'gamer processor' positioning, 30-60 day availability.
+- Intel P4 Extreme Edition specification: 3.2 GHz, 2 MB L3 cache, 'gamer processor' positioning, 30-60 day availability. `[ps=5]`
+- BTX form factor adoption was minimal as predicted. Intel canceled future BTX retail product development in September 2006 after switching to lower-power Core microarchitecture. Only Gateway, Dell, HP, and Fujitsu-Siemens adopted BTX for limited product lines. ATX remained dominant throughout. `[ps=5]`
+- DTCP-over-IP uses PKI-based authentication to unlock, unscramble, and decompress protected home-network content. `[ps=3]`
+- Balanced Technology Extended (BTX) positioned as quiet, small form factor ('Bigwater'), instant on-off, resilient power. `[ps=2]`
+- 2003 U.S. electronics consumer spending ≈ $120 billion. `[ps=0]`
+- Gateway's all-in-one PC (circa 2003) exhibits nice integration and cable management. `[ps=0]`
+- iCube (Korean) digital media adapter streams from Sony Vaio notebook to TV, using on-the-fly MPEG-2 → MPEG-4 compression. `[ps=0]`
 - 90nm Prescott P4 publicly demoed with PCI Express graphics at the IDF; Q4 2003 ship commitment.
-- Balanced Technology Extended (BTX) positioned as quiet, small form factor ('Bigwater'), instant on-off, resilient power.
-- BTX form factor adoption was minimal as predicted. Intel canceled future BTX retail product development in September 2006 after switching to lower-power Core microarchitecture. Only Gateway, Dell, HP, and Fujitsu-Siemens adopted BTX for limited product lines. ATX remained dominant throughout.
-- iCube (Korean) digital media adapter streams from Sony Vaio notebook to TV, using on-the-fly MPEG-2 → MPEG-4 compression.
-- DTCP-over-IP uses PKI-based authentication to unlock, unscramble, and decompress protected home-network content.

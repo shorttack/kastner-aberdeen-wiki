@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: ""
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 5
 ---
 
 # CA Jasmine OODBMS
@@ -22,8 +22,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
--  — [[study-caunic-ltr98-80140d]]
--  — [[study-caunic-ltr98-80140d]]
--  — [[study-caunic-ltr98-80140d]]
--  — [[study-caunic-ltr98-80140d]]
--  — [[study-caunic-ltr98-80140d]]
+-  `[ps=0]` — [[study-caunic-ltr98-80140d]]
+-  `[ps=0]` — [[study-caunic-ltr98-80140d]]
+-  `[ps=0]` — [[study-caunic-ltr98-80140d]]
+-  `[ps=0]` — [[study-caunic-ltr98-80140d]]
+-  `[ps=0]` — [[study-caunic-ltr98-80140d]]

@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Relational OLAP (ROLAP)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- today ROLAP/RDBMS bitmap indexing+star schemas deliver order-of-magnitude complex-query speedups; further improvement requires UDT in core optimizer `[ps=2]` — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
 - ROLAP became standard BI architecture; implemented in every major RDBMS by 2000 — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
-- today ROLAP/RDBMS bitmap indexing+star schemas deliver order-of-magnitude complex-query speedups; further improvement requires UDT in core optimizer — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]

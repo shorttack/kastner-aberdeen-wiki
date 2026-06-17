@@ -12,9 +12,9 @@ era: "1991-mid-1990s"
 lifecycle_at_study: "current"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # NCR 3000 Server Family
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- two 50MHz Intel486 per processor board — [[study-ncr-3000-cabinet-engineering-diagram-199-fa564f]]
+- two 50MHz Intel486 per processor board `[ps=0]` — [[study-ncr-3000-cabinet-engineering-diagram-199-fa564f]]

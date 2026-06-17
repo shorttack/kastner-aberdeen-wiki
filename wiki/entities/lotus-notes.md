@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM / HCL (2018)"
 years_active: "1984-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Lotus Notes / Domino
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- upcoming incorporation of Lotus Notes into IBM product set will give DB2 close integration with leading groupware solution — [[study-aberdeen-1995-ibm-db2-common-server]]
+- upcoming incorporation of Lotus Notes into IBM product set will give DB2 close integration with leading groupware solution `[ps=3]` — [[study-aberdeen-1995-ibm-db2-common-server]]

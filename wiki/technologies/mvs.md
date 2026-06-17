@@ -12,9 +12,9 @@ era: "1974-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # IBM MVS Operating System
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Old proprietary OS (MVS, VMS) do not matter for new platform decisions — [[study-software-market-safegu~1-ea7453]]
+- Old proprietary OS (MVS, VMS) do not matter for new platform decisions `[ps=2]` — [[study-software-market-safegu~1-ea7453]]

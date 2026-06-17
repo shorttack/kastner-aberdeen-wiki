@@ -12,9 +12,9 @@ era: "1976-2018"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # CA enterprise-software portfolio (2001)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- New plan lets customers sign long-term contracts but add or subtract specific packages — subscription-flexibility ahead of its time — [[study-eweek-ca-team-victorious-proxy-fight-200-c424f4]]
+- New plan lets customers sign long-term contracts but add or subtract specific packages — subscription-flexibility ahead of its time `[ps=4]` — [[study-eweek-ca-team-victorious-proxy-fight-200-c424f4]]

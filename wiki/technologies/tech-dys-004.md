@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Dominant/Standard"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # X.509 Certificates
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- X.509 certificates supported as credential type in BoKS PSDs — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
+- X.509 certificates supported as credential type in BoKS PSDs `[ps=0]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]

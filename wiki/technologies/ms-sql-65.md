@@ -12,9 +12,9 @@ era: "mid-1990s"
 lifecycle_at_study: "current"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Microsoft SQL Server 6.5
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- largest_sybase_sql_server_isv — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
+- largest_sybase_sql_server_isv `[ps=2]` — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]

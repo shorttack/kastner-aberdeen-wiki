@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 21] intentionally omitted <=="
+title: "Ra Compositeapps Rs Pk 3716 (Aberdeen, 2006)"
 slug: "study-ra-compositeapps-rs-pk-3716-05cbff"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.34
-prescience_obs_count: 56
+prescience_mean: 1.62
+prescience_obs_count: 50
 ---
 
-# ==> picture [149 x 21] intentionally omitted <==
+# Ra Compositeapps Rs Pk 3716 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [149 x 21] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-compositeapps-rs-pk-3716-05cbff. Source: ra_compositeapps_rs-pk_3716.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **topic-analysis**._

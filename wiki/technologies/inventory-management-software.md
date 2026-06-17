@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Inventory Management Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Tracking products through production as core competitive requirement — [[study-process-of-process-eba-335083]]
+- Tracking products through production as core competitive requirement `[ps=5]` — [[study-process-of-process-eba-335083]]

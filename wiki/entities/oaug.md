@@ -12,9 +12,9 @@ status: "active"
 successor: "Quest (merged with IOUG)"
 years_active: "1990-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Oracle Applications Users Group (OAUG)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- San Diego — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]
+- San Diego `[ps=0]` — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]

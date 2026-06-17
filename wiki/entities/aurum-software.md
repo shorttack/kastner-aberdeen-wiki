@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Baan (acquired May 1997)"
 years_active: "1990-1997"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Aurum Software, Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SFA and sales management software vendor; already in acquisition process at time of report — [[study-1997-cis-report-ba825e]]
-- Acquired by Baan Company for ~$250M in stock (May 1997); became BaanFrontOffice Suite; Baan filed bankruptcy (1999); Baan acquired by Invensys then SSA Global Technologies; Aurum technology eventually absorbed into Infor — [[study-1997-cis-report-ba825e]]
+- Acquired by Baan Company for ~$250M in stock (May 1997); became BaanFrontOffice Suite; Baan filed bankruptcy (1999); Baan acquired by Invensys then SSA Global Technologies; Aurum technology eventually absorbed into Infor `[ps=4]` — [[study-1997-cis-report-ba825e]]
+- SFA and sales management software vendor; already in acquisition process at time of report `[ps=0]` — [[study-1997-cis-report-ba825e]]

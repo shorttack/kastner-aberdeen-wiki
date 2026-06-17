@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Martin Wolf
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- It's not complicated to take out costs or reduce staff. It is complicated to put together two organizations with disparate cultures and grow the business. From my perspective, they've created no additional value. — [[study-processor-editorial-article-one-powerhou-aa3f6c]]
+- It's not complicated to take out costs or reduce staff. It is complicated to put together two organizations with disparate cultures and grow the business. From my perspective, they've created no additional value. `[ps=4]` — [[study-processor-editorial-article-one-powerhou-aa3f6c]]

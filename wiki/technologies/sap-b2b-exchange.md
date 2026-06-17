@@ -12,9 +12,9 @@ era: "2000-2004"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # SAP B2B Exchange
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Will compete effectively in B2B exchange segment against Commerce One and Ariba — [[study-2001-sap-the-once-and-future-king-fe2827]]
+- Will compete effectively in B2B exchange segment against Commerce One and Ariba `[ps=3]` — [[study-2001-sap-the-once-and-future-king-fe2827]]

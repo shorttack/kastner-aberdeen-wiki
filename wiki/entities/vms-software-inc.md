@@ -12,9 +12,9 @@ status: "active"
 successor: "active"
 years_active: "2014-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 0.5
+prescience_obs_count: 2
 ---
 
 # VMS Software, Inc. (VSI)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- VSI acquired all OpenVMS support business from HPE in 2019, with HPE exiting the OpenVMS market. — [[study-2026-kastner-dec-longitudinal-22d177]]
-- VSI lists support for OpenVMS on x86, Itanium, and Alpha systems. — [[study-2026-kastner-dec-longitudinal-22d177]]
+- VSI acquired all OpenVMS support business from HPE in 2019, with HPE exiting the OpenVMS market. `[ps=1]` — [[study-2026-kastner-dec-longitudinal-22d177]]
+- VSI lists support for OpenVMS on x86, Itanium, and Alpha systems. `[ps=0]` — [[study-2026-kastner-dec-longitudinal-22d177]]

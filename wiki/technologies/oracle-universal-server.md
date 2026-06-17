@@ -12,9 +12,9 @@ era: "1979-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Oracle Universal Server (RDBMS)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Unbeaten RDBMS breadth: parallel scalability, replication, multimedia data types — [[study-aberdeen-1996-oracle-network-computing-architecture]]
-- Oracle Database remains leading enterprise RDBMS 30 years later; active and widely deployed — [[study-aberdeen-1996-oracle-network-computing-architecture]]
+- Oracle Database remains leading enterprise RDBMS 30 years later; active and widely deployed `[ps=5]` — [[study-aberdeen-1996-oracle-network-computing-architecture]]
+- Unbeaten RDBMS breadth: parallel scalability, replication, multimedia data types `[ps=4]` — [[study-aberdeen-1996-oracle-network-computing-architecture]]

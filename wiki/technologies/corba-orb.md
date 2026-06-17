@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "declining"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # CORBA / Object Request Broker (ORB)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Persistence works with Iona Orbix, SunSoft NEO, Visigenic, and Expersoft ORBs — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Persistence works with Iona Orbix, SunSoft NEO, Visigenic, and Expersoft ORBs `[ps=0]` — [[study-aberdeen-1996-live-object-caching-high-performance]]

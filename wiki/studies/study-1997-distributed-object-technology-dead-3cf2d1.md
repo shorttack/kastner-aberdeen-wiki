@@ -3,7 +3,7 @@ title: "Distributed Object Technology: Dead Skunk Or Live Wire"
 slug: "study-1997-distributed-object-technology-dead-3cf2d1"
 page_type: "study"
 tags: ["type/study", "collection/Technology Viewpoint"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-distributed-object-technology--dead-3cf2d1"
 author: "Jeanine Fournier"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.73
+prescience_obs_count: 11
 ---
 
 # Distributed Object Technology: Dead Skunk Or Live Wire
@@ -32,18 +32,18 @@ _Published 1997, author **Jeanine Fournier**, type **Technology Viewpoint**._
 
 ## Top observations
 
-- Immature/Overhyped
-- Strategic future value confirmed
-- Limited/Contested
-- Limited/Contested
+- CORBA declined to niche status by mid-2000s `[ps=5]`
+- Confirmed: Internet became dominant platform `[ps=5]`
+- Immature/Overhyped `[ps=4]`
+- Low performance products `[ps=4]`
+- Industry has not clearly made business case `[ps=4]`
+- Strategic future value confirmed `[ps=3]`
+- Internet will be key deployment target for DOT `[ps=3]`
+- Will deliver long-term benefits `[ps=2]`
+- Limited/Contested `[ps=0]`
+- Limited/Contested `[ps=0]`
+- Adopt DOT pragmatically for Internet apps `[ps=0]`
 - Products often immature and unintegrated
-- Low performance products
-- Industry has not clearly made business case
-- Adopt DOT pragmatically for Internet apps
-- Will deliver long-term benefits
 - Partially correct: replaced by web services
 - CORBA implied as viable standard path
-- CORBA declined to niche status by mid-2000s
-- Internet will be key deployment target for DOT
-- Confirmed: Internet became dominant platform
 - Modular code/data objects enable flexibility

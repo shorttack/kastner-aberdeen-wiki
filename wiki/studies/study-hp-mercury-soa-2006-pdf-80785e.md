@@ -3,7 +3,7 @@ title: "HP Can Boost SOA Offerings with Acquisition of Mercury"
 slug: "study-hp-mercury-soa-2006-pdf-80785e"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "hp-mercury-soa-2006-pdf-80785e"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 9
 ---
 
 # HP Can Boost SOA Offerings with Acquisition of Mercury
@@ -32,15 +32,15 @@ _Published 2006, author **Peter S. Kastner**, type **employer-record**._
 
 ## Top observations
 
+- mainframes heavily involved in enterprise-size ($1B+) company SOA plans `[ps=4]`
+- SOA affects entire design-code-test-deploy-maintain application lifecycle `[ps=4]`
+- HP likely to remain on acquisitive path; BEA relationship could yield interesting discussions `[ps=4]`
+- IBM showing positive growth and financial performance in SOA area `[ps=4]`
+- HP takes giant step closer to IBM; distances from CA and BMC `[ps=2]`
+- Mercury acquired Systinet (SOA registry) in January 2006 `[ps=0]`
+- 3,000 employees `[ps=0]`
+- OpenView integration cycle scheduled over next 18 months `[ps=0]`
+- large enterprises with complex networks, multi-site computing, many IT development projects `[ps=0]`
 - 90% of all companies will exit 2006 with SOA activities at least underway
-- Mercury acquired Systinet (SOA registry) in January 2006
-- HP takes giant step closer to IBM; distances from CA and BMC
 - bulk of market needs considerable education on IT governance
-- 3,000 employees
-- OpenView integration cycle scheduled over next 18 months
-- mainframes heavily involved in enterprise-size ($1B+) company SOA plans
-- large enterprises with complex networks, multi-site computing, many IT development projects
-- SOA affects entire design-code-test-deploy-maintain application lifecycle
 - Aberdeen recommended IT governance as requirement for successful enterprise SOA strategy
-- HP likely to remain on acquisitive path; BEA relationship could yield interesting discussions
-- IBM showing positive growth and financial performance in SOA area

@@ -12,9 +12,9 @@ status: "active-then"
 successor: ""
 years_active: "1980s-2010s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # George Weiss
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- indicates-degree-of-desperation-in-this-marketplace — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]
+- indicates-degree-of-desperation-in-this-marketplace `[ps=3]` — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]

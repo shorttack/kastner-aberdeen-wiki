@@ -1,5 +1,5 @@
 ---
-title: "==> picture [82 x 80] intentionally omitted <=="
+title: "G Logsnapshot (Aberdeen, 1999)"
 slug: "study-g-logsnapshot-418c10"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [82 x 80] intentionally omitted <==
+# G Logsnapshot (Aberdeen, 1999)
 
-> This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study g-logsnapshot-418c10. Source: g-logsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 1999, author **Aberdeen Group**, type **market-study**._
@@ -32,4 +32,4 @@ _Published 1999, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

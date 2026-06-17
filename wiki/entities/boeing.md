@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1916-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Boeing Company
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Boeing selected Baan over SAP and Oracle in 1994 in landmark competitive win for Baan — [[study-aberdeen-1996-baan-changes-rules-erp-game]]
+- Boeing selected Baan over SAP and Oracle in 1994 in landmark competitive win for Baan `[ps=5]` — [[study-aberdeen-1996-baan-changes-rules-erp-game]]

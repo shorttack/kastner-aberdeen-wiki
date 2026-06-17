@@ -12,9 +12,9 @@ era: "2001-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # 300mm wafer / 0.13 micron process
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 300mm wafers at 0.13 micron yield more chips at much lower cost per chip — [[study-dct-dceit-observations-2002-06]]
+- 300mm wafers at 0.13 micron yield more chips at much lower cost per chip `[ps=5]` — [[study-dct-dceit-observations-2002-06]]

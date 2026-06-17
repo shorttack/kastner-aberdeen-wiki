@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ba Mobilemessaging Apw Bs 3703 (Aberdeen, 2006)"
 slug: "study-ba-mobilemessaging-apw-bs-3703-2a96a0"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.27
-prescience_obs_count: 63
+prescience_mean: 1.7
+prescience_obs_count: 53
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ba Mobilemessaging Apw Bs 3703 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ba-mobilemessaging-apw-bs-3703-2a96a0. Source: ba_mobilemessaging_apw_bs_3703.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **topic-analysis**._

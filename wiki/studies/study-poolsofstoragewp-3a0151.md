@@ -1,5 +1,5 @@
 ---
-title: "==> picture [442 x 39] intentionally omitted <=="
+title: "Poolsofstoragewp (Aberdeen, 1988)"
 slug: "study-poolsofstoragewp-3a0151"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.67
-prescience_obs_count: 12
+prescience_mean: 1.22
+prescience_obs_count: 9
 ---
 
-# ==> picture [442 x 39] intentionally omitted <==
+# Poolsofstoragewp (Aberdeen, 1988)
 
-> This study analyzes ==> picture [442 x 39] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study poolsofstoragewp-3a0151. Source: poolsofstoragewp.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 1988, author **Aberdeen Group**, type **benchmark**._
@@ -41,6 +41,6 @@ _Published 1988, author **Aberdeen Group**, type **benchmark**._
 - Thus, most enterprise storage, as every IT executive knows, is FC/SCSI disk arrays at roughly $30 a gigabyte. `[ps=0]`
 - Today, the focus should be on targeted solutions (Figure 4). `[ps=0]`
 - ## **Figure 4: Evolution of ILM Solutions over Time** `[ps=0]`
-- **Figure 1: Application-Based Pools of Storage** `[ps=-1]`
-- **Figure 2: Importance of Factors in Acquiring Storage in 2004** `[ps=-1]`
-- **Figure 3: Features Important for Selecting Midline and Nearline Disk** `[ps=-1]`
+- **Figure 1: Application-Based Pools of Storage**
+- **Figure 2: Importance of Factors in Acquiring Storage in 2004**
+- **Figure 3: Features Important for Selecting Midline and Nearline Disk**

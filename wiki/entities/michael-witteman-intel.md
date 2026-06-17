@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Michael Witteman
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- People have had this wonderful suite of applications at their desktop, then you walk into a conference room and you're faced with 1950s technology — [[study-informationweek-videoconferencing-boost--b62ff4]]
+- People have had this wonderful suite of applications at their desktop, then you walk into a conference room and you're faced with 1950s technology `[ps=3]` — [[study-informationweek-videoconferencing-boost--b62ff4]]

@@ -12,9 +12,9 @@ status: "active"
 successor: "Dell Technologies (2016)"
 years_active: "1984-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Dell Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dell-trying-to-maintain-flexibility-and-agility-at-core-of-business — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]
+- Dell-trying-to-maintain-flexibility-and-agility-at-core-of-business `[ps=0]` — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]

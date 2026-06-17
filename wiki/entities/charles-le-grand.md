@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Charles Le Grand
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IIA AVP Technology Practices; CIA/CISA/CDP — [[study-topic-iia-pc-management-best-practices-2003-10]]
+- IIA AVP Technology Practices; CIA/CISA/CDP `[ps=0]` — [[study-topic-iia-pc-management-best-practices-2003-10]]

@@ -3,7 +3,7 @@ title: "Forte Enterprise Development Environment"
 slug: "study-1997-forte-enterprise-development-enviro-a07cf9"
 page_type: "study"
 tags: ["type/study", "collection/product-profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-forte-enterprise-development-enviro-a07cf9"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.61
+prescience_obs_count: 18
 ---
 
 # Forte Enterprise Development Environment
@@ -32,23 +32,23 @@ _Published 1997, author **Aberdeen Group**, type **product-profile**._
 
 ## Top observations
 
-- leader
-- $43.5M
-- 130%
-- $4.3M
-- best-in-class
-- supported
-- advanced
-- design-time integration
-- viable/growing
-- strong
-- predicted delivery 1998
+- rebranded then discontinued `[ps=5]`
+- viable/growing `[ps=3]`
+- Uniface and Dynasty Technologies cited as closest second-gen HADE peers `[ps=3]`
+- leader `[ps=0]`
+- $43.5M `[ps=0]`
+- 130% `[ps=0]`
+- $4.3M `[ps=0]`
+- best-in-class `[ps=0]`
+- supported `[ps=0]`
+- advanced `[ps=0]`
+- design-time integration `[ps=0]`
+- strong `[ps=0]`
+- predicted delivery 1998 `[ps=0]`
+- partitioning+workflow+lifecycle `[ps=0]`
+- FRTE `[ps=0]`
+- EAI and Java/web integration expertise `[ps=0]`
+- joint-development partnership `[ps=0]`
+- well-integrated `[ps=0]`
 - acquired by Sun for $540M
-- rebranded then discontinued
-- partitioning+workflow+lifecycle
-- FRTE
-- Uniface and Dynasty Technologies cited as closest second-gen HADE peers
 - direct sales primary; Digital as reseller
-- EAI and Java/web integration expertise
-- joint-development partnership
-- well-integrated

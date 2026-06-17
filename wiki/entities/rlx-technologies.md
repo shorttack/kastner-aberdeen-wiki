@@ -12,9 +12,9 @@ status: "acquired"
 successor: "RLX Technologies -> HP (acquired 2005)"
 years_active: "1999-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # RLX Technologies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquired by HP in October 2005 for undisclosed sum — [[study-2001-aberdeen-group-blades-an-evolution-in-server-densi-b56557]]
+- Acquired by HP in October 2005 for undisclosed sum `[ps=0]` — [[study-2001-aberdeen-group-blades-an-evolution-in-server-densi-b56557]]

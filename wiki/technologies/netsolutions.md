@@ -12,9 +12,9 @@ era: "1996-1999"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Oracle NetSolutions
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Includes web-enabled Developer/2000, Designer/2000, Cartridge Development Kit, Oracle Web Server — [[study-aberdeen-1996-oracle-network-computing-architecture]]
+- Includes web-enabled Developer/2000, Designer/2000, Cartridge Development Kit, Oracle Web Server `[ps=0]` — [[study-aberdeen-1996-oracle-network-computing-architecture]]

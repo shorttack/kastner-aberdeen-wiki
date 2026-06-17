@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "planned"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Workshop: Alliances (planned)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Alliances workshop to examine channel and partner opportunities; planned for future (not yet defined as of Aug 2001) — [[study-aas-launch-package-aug-2001-b4a001]]
+- Alliances workshop to examine channel and partner opportunities; planned for future (not yet defined as of Aug 2001) `[ps=0]` — [[study-aas-launch-package-aug-2001-b4a001]]

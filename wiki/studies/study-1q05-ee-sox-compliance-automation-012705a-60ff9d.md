@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 109] intentionally omitted <=="
+title: "1Q05 Ee Sox Compliance Automation 012705A (Aberdeen, 2005)"
 slug: "study-1q05-ee-sox-compliance-automation-012705a-60ff9d"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.33
-prescience_obs_count: 3
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
-# ==> picture [441 x 109] intentionally omitted <==
+# 1Q05 Ee Sox Compliance Automation 012705A (Aberdeen, 2005)
 
-> This study analyzes ==> picture [441 x 109] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study 1q05-ee-sox-compliance-automation-012705a-60ff9d. Source: 1q05-ee-sox_compliance_automation_012705a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **benchmark**._
@@ -34,4 +34,4 @@ _Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 - The early findings also indicate that best-in-class companies are instituting a continuous operational excellence program throughout the firm — business units, finance, and IT — to link business strategy with execution to improve operating results. `[ps=4]`
 - The benchmark results will enable firms to make improvements to accelerate results from laggards, to industry norm, to best-in-class; while providing insight into which automation solutions are appropriate. `[ps=4]`
-- This study analyzes ==> picture [441 x 109] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 109] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

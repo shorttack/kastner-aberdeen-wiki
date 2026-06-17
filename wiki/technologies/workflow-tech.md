@@ -12,9 +12,9 @@ era: "mid-1990s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Workflow Technology
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- three_form_workflow_first_to_field — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
-- still_developing_in_1996 — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
-- still_developing_in_1996 — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
+- three_form_workflow_first_to_field `[ps=0]` — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
+- still_developing_in_1996 `[ps=0]` — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
+- still_developing_in_1996 `[ps=0]` — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]

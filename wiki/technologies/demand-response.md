@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "operating"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 3
 ---
 
 # Demand Response
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Abbott (AS&E VP): 'If electrical usage reaches dangerous levels, the system is capable of turning off blocks of non-essential electrical loads' to avert major problems `[ps=5]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
+- Florida Power & Light planned ASEP for residential AC/heating system and electrical-water-heater control `[ps=4]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
+- Two-way ASEP system prevents electrical brownouts and blackouts by operating over existing power lines, an already-in-place communications medium `[ps=3]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
 - Wisconsin Electric used ASEP to control water heaters in 154,000 homes plus remotely meter customers — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
-- Florida Power & Light planned ASEP for residential AC/heating system and electrical-water-heater control — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
-- Abbott (AS&E VP): 'If electrical usage reaches dangerous levels, the system is capable of turning off blocks of non-essential electrical loads' to avert major problems — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
-- Two-way ASEP system prevents electrical brownouts and blackouts by operating over existing power lines, an already-in-place communications medium — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]

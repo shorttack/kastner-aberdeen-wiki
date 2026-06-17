@@ -12,9 +12,9 @@ era: "1993-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Microsoft NT Workstation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NT Workstation Pentium 133 MHz 24MB: $4,900 (with maintenance) vs IBM 5250 dual-session terminal: $1,940 — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
+- NT Workstation Pentium 133 MHz 24MB: $4,900 (with maintenance) vs IBM 5250 dual-session terminal: $1,940 `[ps=2]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]

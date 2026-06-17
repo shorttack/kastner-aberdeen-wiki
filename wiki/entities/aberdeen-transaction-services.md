@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Folded into Aberdeen core research"
 years_active: "1988-mid-1990s"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Transaction Services
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Billing rate was $15,000 for a couple of days of careful documentation work per benchmark audit. `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
 - Located at Aberdeen corporate HQ in Boston — [[study-aberdeen-press-advisory-kastner-appointm-efd58c]]
-- Billing rate was $15,000 for a couple of days of careful documentation work per benchmark audit. — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
 - Auditing practice ended with TPC-C, when council began requiring certified auditors with formal examinations under authorized firms. Described as 'a productive and pleasantly remunerative sideline.' — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

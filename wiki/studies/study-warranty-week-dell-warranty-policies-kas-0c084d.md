@@ -3,7 +3,7 @@ title: "Dell's Warranty Policies"
 slug: "study-warranty-week-dell-warranty-policies-kas-0c084d"
 page_type: "study"
 tags: ["type/study", "collection/trade-publication-analysis"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "warranty-week-dell-warranty-policies-kas-0c084d"
 author: "Eric Arnum"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 9
 ---
 
 # Dell's Warranty Policies
@@ -32,14 +32,14 @@ _Published 2003, author **Eric Arnum**, type **trade-publication-analysis**._
 
 ## Top observations
 
-- Enterprise PC buyers should look for a minimum three-year basic warranty with provision for next-business-day on-site repairs
-- We price all vendors with three-year, next business day service as a means of leveling the configuration playing field
-- 2.4 GHz Pentium 4, 256 MB RAM, 40 GB HDD, CD-ROM, 15- or 17-inch monitor, Ethernet
+- Enterprise PC buyers should look for a minimum three-year basic warranty with provision for next-business-day on-site repairs `[ps=5]`
+- OptiPlex desktop and Latitude notebook lines retain three-year warranties with NBD on-site service `[ps=5]`
+- Dell cut Dimension and Inspiron consumer line warranties to one year (from prior three-year baseline) `[ps=4]`
+- Three-year-NBD warranty becomes enterprise-procurement default `[ps=4]`
+- We price all vendors with three-year, next business day service as a means of leveling the configuration playing field `[ps=0]`
+- 2.4 GHz Pentium 4, 256 MB RAM, 40 GB HDD, CD-ROM, 15- or 17-inch monitor, Ethernet `[ps=0]`
+- $129 for three-year extended warranty on Dimension desktops; $199 on Inspiron laptops `[ps=0]`
+- Revenue climbed 13.6% to $35.4 billion in fiscal year ended January 2003 `[ps=0]`
+- Gross margin rose from 17.7% (FY02) to 17.9% (FY03) `[ps=0]`
 - Dell OptiPlex GX260 fits Aberdeen reference model precisely
-- Dell cut Dimension and Inspiron consumer line warranties to one year (from prior three-year baseline)
-- $129 for three-year extended warranty on Dimension desktops; $199 on Inspiron laptops
-- OptiPlex desktop and Latitude notebook lines retain three-year warranties with NBD on-site service
-- Revenue climbed 13.6% to $35.4 billion in fiscal year ended January 2003
 - EPS increased from $0.46 to $0.80
-- Gross margin rose from 17.7% (FY02) to 17.9% (FY03)
-- Three-year-NBD warranty becomes enterprise-procurement default

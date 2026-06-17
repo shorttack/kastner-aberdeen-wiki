@@ -12,9 +12,9 @@ era: "1996-2007"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Khalix Financial Warehouse
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Khalix Financial Warehouse runs on Informix, Microsoft SQL Server, Oracle, or Sybase RDBMSs — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
+- Khalix Financial Warehouse runs on Informix, Microsoft SQL Server, Oracle, or Sybase RDBMSs `[ps=0]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]

@@ -12,9 +12,9 @@ status: "merged"
 successor: "Fujitsu Siemens Computers (later Fujitsu)"
 years_active: "1981-1999"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # SNI/Pyramid (Siemens Nixdorf Information Systems / Pyramid Technology)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $825 million — [[study-aberdeen-1996-risc-unix-market]]
-- 10% — [[study-aberdeen-1996-risc-unix-market]]
+- $825 million `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
+- 10% `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]

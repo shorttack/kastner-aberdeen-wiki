@@ -3,7 +3,7 @@ title: "Tech Bucks Trend, Hack Threats Up"
 slug: "study-wired-idc-tech-bucks-hack-threats-2002-e6375d"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "wired-idc-tech-bucks-hack-threats-2002-e6375d"
 author: "Wired staff"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 4
 ---
 
 # Tech Bucks Trend, Hack Threats Up
@@ -32,8 +32,8 @@ _Published 2002, author **Wired staff**, type **news-article**._
 
 ## Top observations
 
-- IDC projects worldwide IT spending growth of 6% in 2003
+- Wireless networking among IDC top 10 enterprise tech trends `[ps=5]`
+- IDC named IT security among the top 10 enterprise tech trends for 2003 `[ps=4]`
+- Utility/on-demand computing among IDC top 10 enterprise tech trends `[ps=4]`
+- IDC projects worldwide IT spending growth of 6% in 2003 `[ps=3]`
 - 6% growth would be totally unsustainable in this economy. Aberdeen places IT spending growth at 3%.
-- IDC named IT security among the top 10 enterprise tech trends for 2003
-- Wireless networking among IDC top 10 enterprise tech trends
-- Utility/on-demand computing among IDC top 10 enterprise tech trends

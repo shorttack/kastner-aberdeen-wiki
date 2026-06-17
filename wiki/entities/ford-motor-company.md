@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1903-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Ford Motor Company
@@ -29,5 +29,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Ford guarantees parts 5 years; Microsoft supports OS 5 years — [[study-dct-pc-replacement-insight1-2003-04]]
-- Ford’s CAD/CAM work at Prime classified as technical/scientific, not commercial; removed from Kastner’s territory. — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Ford guarantees parts 5 years; Microsoft supports OS 5 years `[ps=3]` — [[study-dct-pc-replacement-insight1-2003-04]]
+- Ford’s CAD/CAM work at Prime classified as technical/scientific, not commercial; removed from Kastner’s territory. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]

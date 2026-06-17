@@ -12,9 +12,9 @@ era: "1999-2021"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Intel IA-64 / Itanium (Merced)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- IA-64 Itanium never achieved mass market; Intel discontinued Itanium in July 2021; Aberdeen's conditional 64-bit prediction never triggered `[ps=5]` — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
 - Microsoft plans 64-bit NT 5.0 for Intel IA-64 when Merced reaches mass market; potentially dramatic performance improvements — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
-- IA-64 Itanium never achieved mass market; Intel discontinued Itanium in July 2021; Aberdeen's conditional 64-bit prediction never triggered — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]

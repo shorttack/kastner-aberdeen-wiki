@@ -3,7 +3,7 @@ title: "Hewlett-Packard V-Class: Providing Enterprise Customers With the Power P
 slug: "study-1997-hewlett-packard-v-class-providing-897f7a"
 page_type: "study"
 tags: ["type/study", "collection/product-profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-hewlett-packard-v-class--providing--897f7a"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.43
+prescience_obs_count: 14
 ---
 
 # Hewlett-Packard V-Class: Providing Enterprise Customers With the Power Path They Need
@@ -32,24 +32,24 @@ _Published 1997, author **Aberdeen Group**, type **product-profile**._
 
 ## Top observations
 
+- discontinued 2003 `[ps=5]`
+- not viable this millennium `[ps=1]`
+- 15.36 GB/sec `[ps=0]`
+- 3416 QppD `[ps=0]`
+- 1361 QppD `[ps=0]`
+- >14000 tpm `[ps=0]`
+- November 1997 `[ps=0]`
+- 60-90% OLTP improvement `[ps=0]`
+- 1999 `[ps=0]`
+- 1999 possible `[ps=0]`
+- Acquired by Compaq for $9.6B (June 1998) `[ps=0]`
+- 99.95% availability (4.5 hrs unplanned downtime/year) `[ps=0]`
+- 100% trade-in for T600/K-Class `[ps=0]`
+- <7500 tpm (4-way 604e) `[ps=0]`
 - ~50%
-- 15.36 GB/sec
 - 16 PA-8200 processors
-- 3416 QppD
 - 2009 QppD
-- 1361 QppD
-- >14000 tpm
-- November 1997
-- 60-90% OLTP improvement
-- 1999
-- 1999 possible
-- not viable this millennium
 - shipped November 1997 as scheduled
-- discontinued 2003
 - 2001 (delayed 2 years)
 - significant enterprise adoption by 2001
-- Acquired by Compaq for $9.6B (June 1998)
 - up to 16 V2200 nodes = 256 processors
-- 99.95% availability (4.5 hrs unplanned downtime/year)
-- 100% trade-in for T600/K-Class
-- <7500 tpm (4-way 604e)

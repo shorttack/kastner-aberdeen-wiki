@@ -12,9 +12,9 @@ era: "early-2000s"
 lifecycle_at_study: "current-2002"
 lifecycle_current: "displaced-by-mobile-and-chromebooks"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # 2002 Consumer PC Buying Decision Framework
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Parents should consider buying a low-end computer with few gadgets and add capabilities later — [[study-charlotte-observer-shain-back-to-school--4ec261]]
-- Elementary school: 4-year-old PC will do; high-schoolers may need new PC for entertainment demands — [[study-charlotte-observer-shain-back-to-school--4ec261]]
-- $1,300 laptop ~ $900 desktop in performance; less space; need a lock — [[study-charlotte-observer-shain-back-to-school--4ec261]]
+- Elementary school: 4-year-old PC will do; high-schoolers may need new PC for entertainment demands `[ps=4]` — [[study-charlotte-observer-shain-back-to-school--4ec261]]
+- Parents should consider buying a low-end computer with few gadgets and add capabilities later `[ps=3]` — [[study-charlotte-observer-shain-back-to-school--4ec261]]
+- $1,300 laptop ~ $900 desktop in performance; less space; need a lock `[ps=0]` — [[study-charlotte-observer-shain-back-to-school--4ec261]]

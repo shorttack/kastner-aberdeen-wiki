@@ -3,7 +3,7 @@ title: "DB2 Common Server Relational Database Management System"
 slug: "study-aberdeen-1995-ibm-db2-common-server"
 page_type: "study"
 tags: ["type/study", "collection/product-profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1995-ibm-db2-common-server"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.13
+prescience_obs_count: 39
 ---
 
 # DB2 Common Server Relational Database Management System
@@ -32,28 +32,28 @@ _Published 1995, author **Aberdeen Group**, type **product-profile**._
 
 ## Top observations
 
-- client-server version of DB2/MVS RDBMS running on RS/6000 (AIX) and OS/2 Warp/Warp Connect
-- HP-UX and Sun Solaris; porting in progress to Siemens Nixdorf, Windows NT, and PowerPC
-- major player and strong competitor in the DORS market, especially in the IBM-workstation-server market
-- core DB2 RDBMS plus DataPropagator, DataRefresher, DataJoiner, DataHub, Visualizer, DB2 Parallel Edition
-- databases requiring connectivity to other IBM platforms; middle tier of three-tier solutions; medium-to-large-scale data-warehousing; mission-critical OLTP
-- has added functionality to compete on equal technological basis with, and in some cases surpass, other major DORS suppliers
-- IS buyers should take a new and closer look at DB2 for distributed, open production systems
-- OS/2, AIX, Windows NT servers; beta on HP-UX, Solaris, Sinix; DB2 Web server support upcoming
-- TCP/IP, SPX/IPX, NetBIOS, SNA LU6.2 (APPC/APPN); interconnection to MVS, OS/400, VSE, VM via DRDA
-- 11.0 suppliers
-- vast global direct-sales force, often bundled with IBM hardware and services; channel-enabling for version 2
-- 10.0 years
-- 3119.16 tpmC
-- 349.0 USD/tpmC
-- multithreading support for SMP scalability matching other major DORS suppliers
-- query rewrite, more alternatives, better non-uniform data distribution detection, pre-fetching, parallel I/O, asynchronous writes
-- loosely-coupled RS/6000s with HACMP or LAN, and IBM RS/6000 SP MPP systems; parallelizes joins, inserts, updates, deletes, index, backup
-- parallel backup/restore on tablespace basis; integration with ADSM for mainframe and AS/400 backup
-- capture-stage to staging area then apply-stage to destination; log-based; minimal overhead; operates in virtual isolation
-- supports time-interval-based replication (e.g., hourly or daily mass refresh) across DRDA-supporting DBMSs
-- hotspot reduction, load balancing, fan-out, update batching, push-pull for mobile, data compression before transfer
-- upcoming version will deliver update-anywhere robustness to ensure global data consistency
-- supports distributed joins across relational, IMS, and VSAM; cost-based global optimizer considers networks and I/O speed; provides location/network transparency
-- Visualizer, Lotus Approach, Microsoft Access; IBM VisualAge; Sybase/Powersoft PowerBuilder
-- two-phase commit across LAN internetworks and IBM hardware including RS/6000, PCs, AS/400 (OS/400), mainframes (MVS) via CICS, Encina, or Tuxedo TP monitors
+- IBM acquired Lotus in June 1995 for $3.5B; Notes and DB2 integration deepened through late 1990s. Lotus Domino 5.0 (1999) provided tighter database integration. However Notes market share was eventually eroded by Microsoft Exchange. Product continues as HCL Notes after IBM sold to HCLSoftware in 2019. `[ps=5]`
+- HP-UX and Sun Solaris; porting in progress to Siemens Nixdorf, Windows NT, and PowerPC `[ps=4]`
+- major player and strong competitor in the DORS market, especially in the IBM-workstation-server market `[ps=4]`
+- databases requiring connectivity to other IBM platforms; middle tier of three-tier solutions; medium-to-large-scale data-warehousing; mission-critical OLTP `[ps=4]`
+- IS buyers should take a new and closer look at DB2 for distributed, open production systems `[ps=4]`
+- capture-stage to staging area then apply-stage to destination; log-based; minimal overhead; operates in virtual isolation `[ps=4]`
+- text Extender includes information-retrieval technology; ability to detect user query patterns can improve data mining efficiency significantly `[ps=4]`
+- mainframe/AS/400 connectivity to open servers; large-scale decision-support/data-mart; OLTP on open systems as application servers `[ps=4]`
+- dedicated to being open client-server vendor; aims to incorporate best optimization technology and industrial-strength RDBMS functions plus object extensions `[ps=4]`
+- IS buyers seeking RDBMS-technology with legacy integration should closely examine new DB2 `[ps=4]`
+- multithreading for SMP scalability, two-phase commit, large/complex data types (video, audio, text, imaging) `[ps=4]`
+- IBM delivered advanced DataPropagator functionality through DB2 Replication; technology evolved into InfoSphere Data Replication. IBM DB2 revenue on UNIX/NT grew 73% in 2000 per IBM Annual Report, validating the replication investment. `[ps=4]`
+- IBM planned Relational Database Extenders for text, imaging, audio, video; SQL querying of image content by color/shape/pattern; fingerprint analysis `[ps=4]`
+- IBM shipped DB2 Extenders (text, image, audio, video, XML) through late 1990s-2000s, evolving into DB2 Content Manager and IBM Information Integrator. The multimedia extension concept validated; specific extender products eventually superseded by broader content management. `[ps=4]`
+- Aberdeen predicted DB2 v2 had achieved functional parity and IS buyers should look at DB2 for distributed open production systems as serious Oracle/Sybase/Informix alternative `[ps=4]`
+- upcoming version will deliver update-anywhere robustness to ensure global data consistency `[ps=3]`
+- text, imaging, audio, video server extenders; fingerprint analysis; SQL querying of image content by color, shape, pattern `[ps=3]`
+- upcoming incorporation of Lotus Notes into IBM product set will give DB2 close integration with leading groupware solution `[ps=3]`
+- combinations of data marts on DB2 with data warehouses on RS/6000 SP increasingly attractive to avoid massive central data warehouse reviews `[ps=3]`
+- scalability; distributed-database support; flexibility; administrative support and robustness `[ps=3]`
+- IBM planned upcoming DataPropagator version with update-anywhere robustness ensuring global data consistency during simultaneous updates `[ps=3]`
+- DB2 revenue on UNIX/NT platforms grew 73% in 2000 (IBM Annual Report 2000), growing 3x faster than industry. ~1,000 companies replaced Oracle with DB2 in 18 months to 2000. SAP, Siebel, PeopleSoft selected DB2 as preferred database. However Oracle retained market leadership overall. `[ps=3]`
+- Informix, Oracle, and Sybase support client-side remote access via DRDA Application Requester `[ps=1]`
+- core DB2 RDBMS plus DataPropagator, DataRefresher, DataJoiner, DataHub, Visualizer, DB2 Parallel Edition `[ps=0]`
+- TCP/IP, SPX/IPX, NetBIOS, SNA LU6.2 (APPC/APPN); interconnection to MVS, OS/400, VSE, VM via DRDA `[ps=0]`

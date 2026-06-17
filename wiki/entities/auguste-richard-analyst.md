@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Auguste Richard
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- First Albany analyst Auguste Richard cut his 2003 semiconductor revenue growth forecast from 8% to zero growth, blaming SARS and the Iraq war — saying SARS effects will be bigger than the war. — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]
+- First Albany analyst Auguste Richard cut his 2003 semiconductor revenue growth forecast from 8% to zero growth, blaming SARS and the Iraq war — saying SARS effects will be bigger than the war. `[ps=1]` — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]

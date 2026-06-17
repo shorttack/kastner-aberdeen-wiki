@@ -12,9 +12,9 @@ era: "1987-1995"
 lifecycle_at_study: "production-shipping"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM PS/2
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CASE-workstation-on-LAN — [[study-aberdeen-multitrak-headlines-context-kas-f941d1]]
+- CASE-workstation-on-LAN `[ps=4]` — [[study-aberdeen-multitrak-headlines-context-kas-f941d1]]

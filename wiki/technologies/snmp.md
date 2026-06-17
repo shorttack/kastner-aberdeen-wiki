@@ -12,9 +12,9 @@ era: "1988-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "SNMP remains widely used for network management"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # SNMP (Simple Network Management Protocol)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ManageWORKS forwards SNMP traps to POLYCENTER, NetView for AIX, HP OpenView, or any SNMP-capable enterprise manager — [[study-aberdeen-1996-dec-manageworks-22]]
-- facing limitations as networks evolve rapidly — [[study-system~1-36ba8c]]
+- facing limitations as networks evolve rapidly `[ps=4]` — [[study-system~1-36ba8c]]
+- ManageWORKS forwards SNMP traps to POLYCENTER, NetView for AIX, HP OpenView, or any SNMP-capable enterprise manager `[ps=0]` — [[study-aberdeen-1996-dec-manageworks-22]]

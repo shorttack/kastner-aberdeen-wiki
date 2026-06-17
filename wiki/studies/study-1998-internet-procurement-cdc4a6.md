@@ -3,7 +3,7 @@ title: "Internet Procurement"
 slug: "study-1998-internet-procurement-cdc4a6"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1998-internet-procurement-cdc4a6"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 11
 ---
 
 # Internet Procurement
@@ -32,18 +32,18 @@ _Published 1998, author **Aberdeen Group**, type **white-paper**._
 
 ## Top observations
 
+- Internet Procurement has potential to dramatically redesign and improve purchasing procedures with rapid and measurable process/cost/profit improvements `[ps=5]`
+- Commerce One filed for bankruptcy October 2004; acquired by Perfect Commerce 2006; failed to sustain despite IPO success `[ps=5]`
+- Internet procurement became standard enterprise capability; SAP Ariba alone processes $1.3T annual commerce `[ps=5]`
+- EDI is established but costly; Internet procurement positioned as more accessible and flexible alternative `[ps=5]`
+- Internet technologies will prove most valuable as catalysts to improve supply chain management — especially procurement — not consumer retail `[ps=4]`
+- Procurement of non-production goods and services has been an overlooked opportunity for cost management at most organizations `[ps=4]`
+- Ariba acquired by SAP for $4.3B in 2012; validated as the dominant Internet procurement platform with 2.5M+ vendor network `[ps=4]`
+- Pure-play Internet procurement software specialist targeting indirect/non-production goods buying `[ps=4]`
+- B2B e-marketplace and catalog software provider; launched 5M-product catalog; targeted indirect procurement `[ps=4]`
+- Emerging; automated approval routing was key product differentiator for Ariba and Commerce One `[ps=4]`
+- 12 pages (Viewpoint) + 14 pages (White Paper) `[ps=0]`
 - $150 each or $250 for both reports
 - February 1999 (Viewpoint) and April 1999 (White Paper); research from November 1998
-- 12 pages (Viewpoint) + 14 pages (White Paper)
-- Internet technologies will prove most valuable as catalysts to improve supply chain management — especially procurement — not consumer retail
-- Procurement of non-production goods and services has been an overlooked opportunity for cost management at most organizations
-- Internet Procurement has potential to dramatically redesign and improve purchasing procedures with rapid and measurable process/cost/profit improvements
-- Ariba acquired by SAP for $4.3B in 2012; validated as the dominant Internet procurement platform with 2.5M+ vendor network
-- Commerce One filed for bankruptcy October 2004; acquired by Perfect Commerce 2006; failed to sustain despite IPO success
 - Early adopter survey of Internet Procurement automation users; product selection and actual benefits realized
-- Internet procurement became standard enterprise capability; SAP Ariba alone processes $1.3T annual commerce
 - SAP positioned as ERP vendor beginning to integrate internet procurement capabilities; partnered with Commerce One December 1997
-- Pure-play Internet procurement software specialist targeting indirect/non-production goods buying
-- B2B e-marketplace and catalog software provider; launched 5M-product catalog; targeted indirect procurement
-- EDI is established but costly; Internet procurement positioned as more accessible and flexible alternative
-- Emerging; automated approval routing was key product differentiator for Ariba and Commerce One

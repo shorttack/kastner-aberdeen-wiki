@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1970s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Frank Hawthorne
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Working with Frank Hawthorne (ADL Systems GE-trained CFO), Kastner conducted midyear audit of firm’s OEM contracts. — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
-- GE-trained CFO of ADL Systems; collaborated with Kastner on midyear OEM contract audit. — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
+- Working with Frank Hawthorne (ADL Systems GE-trained CFO), Kastner conducted midyear audit of firm’s OEM contracts. `[ps=0]` — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
+- GE-trained CFO of ADL Systems; collaborated with Kastner on midyear OEM contract audit. `[ps=0]` — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]

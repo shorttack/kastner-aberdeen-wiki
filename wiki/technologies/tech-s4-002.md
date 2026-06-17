@@ -12,9 +12,9 @@ era: "1996-2000s"
 lifecycle_at_study: "Mature/Growth"
 lifecycle_current: "Obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 2
 ---
 
 # Alpha 21164 (EV5) / 21264 (EV6) Processor
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Compaq phased out Alpha in favor of Intel Itanium; sold Alpha IP to Intel in 2001. Last Alpha system sold by HP in April 2007. `[ps=5]` — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
+- Legacy data access and integration identified as critical for network computing ROI `[ps=5]` — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
 - Increasing Alpha clockrates will win more industry-standard benchmarks — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
-- Compaq phased out Alpha in favor of Intel Itanium; sold Alpha IP to Intel in 2001. Last Alpha system sold by HP in April 2007. — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
-- Legacy data access and integration identified as critical for network computing ROI — [[study-1997-ibm’s-network-computing-solution----e74e8a]]

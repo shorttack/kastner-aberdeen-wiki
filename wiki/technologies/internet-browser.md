@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Web Browser
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Browser wars between Netscape Navigator and Microsoft IE defining internet access UX; outcome critical to e-commerce adoption — [[study-1998-internet-sales-report-4cde3f]]
+- Browser wars between Netscape Navigator and Microsoft IE defining internet access UX; outcome critical to e-commerce adoption `[ps=3]` — [[study-1998-internet-sales-report-4cde3f]]

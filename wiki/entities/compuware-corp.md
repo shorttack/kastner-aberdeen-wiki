@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Thoma Bravo (private)"
 years_active: "1973-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Compuware Corp.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Profiled as strong Y2K tools provider — [[study-1998-y2k-report-f512fb]]
+- Profiled as strong Y2K tools provider `[ps=0]` — [[study-1998-y2k-report-f512fb]]

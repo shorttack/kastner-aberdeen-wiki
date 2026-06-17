@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "declining"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 6
 ---
 
 # Tape Library / Robotic Tape
@@ -24,10 +24,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Offline tapes represent enormous liability in litigation; data retention policy adherence is critical — [[study-computerworld-ilm-waiting-2004]]
-- Offline data: offsite sequential tape for disaster recovery; no change from current practice; data retention liability risk — [[study-computerworld-ilm-waiting-2004]]
-- Backup windows still major problem; 75% don't have backup job failures; ~50% split on restore guarantee and management burden; nearly 2/3 say restore time too long — [[study-maxtor-survey-report-5-20c-0f458e]]
-- 12 AM to 6 AM (6 hours) — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- Offline tapes represent enormous liability in litigation; data retention policy adherence is critical `[ps=5]` — [[study-computerworld-ilm-waiting-2004]]
+- Offline data: offsite sequential tape for disaster recovery; no change from current practice; data retention liability risk `[ps=4]` — [[study-computerworld-ilm-waiting-2004]]
+- Backup windows still major problem; 75% don't have backup job failures; ~50% split on restore guarantee and management burden; nearly 2/3 say restore time too long `[ps=3]` — [[study-maxtor-survey-report-5-20c-0f458e]]
+- 12 AM to 6 AM (6 hours) `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- 10 years `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- Longer than desired `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
 - 3 generations — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- 10 years — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- Longer than desired — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]

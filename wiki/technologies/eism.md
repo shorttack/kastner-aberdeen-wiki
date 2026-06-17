@@ -12,9 +12,9 @@ era: "1994-1998"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 3
 ---
 
 # Enterprise Information Systems Management (EISM)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- EISM consolidates: network management, systems management, operations management, database management — [[study-software-market-safegu~1-ea7453]]
-- Distributed systems are rapidly causing administrative chaos; huge interest in alleviating IS pain — [[study-software-market-safegu~1-ea7453]]
-- Software integration services compensate for IS inability to choose/implement — [[study-software-market-safegu~1-ea7453]]
+- EISM consolidates: network management, systems management, operations management, database management `[ps=4]` — [[study-software-market-safegu~1-ea7453]]
+- Distributed systems are rapidly causing administrative chaos; huge interest in alleviating IS pain `[ps=4]` — [[study-software-market-safegu~1-ea7453]]
+- Software integration services compensate for IS inability to choose/implement `[ps=4]` — [[study-software-market-safegu~1-ea7453]]

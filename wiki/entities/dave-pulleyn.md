@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Dave Pulleyn
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Cornell operations manager Dave Pulleyn relieved to have experienced 360/65 hand; immediately assigned Kastner to Sysgen Day. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Cornell operations manager Dave Pulleyn relieved to have experienced 360/65 hand; immediately assigned Kastner to Sysgen Day. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

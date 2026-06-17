@@ -12,9 +12,9 @@ status: "active"
 successor: "[none]"
 years_active: "1988-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Transaction Processing Performance Council (TPC)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 8 — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
+- 8 `[ps=0]` — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
 - Kastner was a founding member of the Transaction Processing Performance Council (TPC) — [[study-volume-1-about-the-author]]
 - TPC brought audited transparency to database performance claims and established standards still in use today — [[study-volume-1-about-the-author]]

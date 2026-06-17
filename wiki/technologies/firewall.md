@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Firewall / Network Access Control
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Prediction proved accurate; Check Point maintained high-end while low-end commoditized. `[ps=4]` — [[study-securi~1-3e7ced]]
 - commoditizing; fragmenting to high-end and low-end; embedding into routers — [[study-securi~1-3e7ced]]
-- Prediction proved accurate; Check Point maintained high-end while low-end commoditized. — [[study-securi~1-3e7ced]]

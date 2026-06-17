@@ -12,9 +12,9 @@ status: "merged"
 successor: "HPE"
 years_active: "1939-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Hewlett-Packard (Storage)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 31.2% revenue share in open SAN market — [[study-2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb]]
+- 31.2% revenue share in open SAN market `[ps=0]` — [[study-2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb]]

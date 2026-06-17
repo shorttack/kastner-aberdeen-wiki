@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # U.S. Communications and Information Sector
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- High; sector is itself an IT producer driving above-average internal IT investment — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]
+- High; sector is itself an IT producer driving above-average internal IT investment `[ps=4]` — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]

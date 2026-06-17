@@ -12,9 +12,9 @@ era: "2002-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 3
 ---
 
 # RDMA (Remote Direct Memory Access)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Offloads transport from host CPU via InfiniBand processor organizing I/O into packets — [[study-infiniband-data-center-wp-2002]]
-- RDMA concepts from IBA directly influenced RoCE (RDMA over Converged Ethernet) and NVMe-oF; foundational to AI/ML training infrastructure — [[study-infiniband-data-center-wp-2002]]
-- IBA/Mellanox critical for NVIDIA AI/ML training clusters; NVIDIA acquired Mellanox for $6.9B in 2019-2020 — [[study-infiniband-data-center-wp-2002]]
+- Offloads transport from host CPU via InfiniBand processor organizing I/O into packets `[ps=5]` — [[study-infiniband-data-center-wp-2002]]
+- RDMA concepts from IBA directly influenced RoCE (RDMA over Converged Ethernet) and NVMe-oF; foundational to AI/ML training infrastructure `[ps=5]` — [[study-infiniband-data-center-wp-2002]]
+- IBA/Mellanox critical for NVIDIA AI/ML training clusters; NVIDIA acquired Mellanox for $6.9B in 2019-2020 `[ps=5]` — [[study-infiniband-data-center-wp-2002]]

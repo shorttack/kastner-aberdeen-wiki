@@ -3,7 +3,7 @@ title: "PDAs in the Enterprise: Analyzing Supplier Viability"
 slug: "study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0"
 author: "Isaac Ro; David Wright; Christopher Fletcher"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 12
 ---
 
 # PDAs in the Enterprise: Analyzing Supplier Viability
@@ -32,20 +32,20 @@ _Published 2001, author **Isaac Ro; David Wright; Christopher Fletcher**, type *
 
 ## Top observations
 
+- High brand/share does not dictate PDA marketplace leadership `[ps=5]`
+- Acquired by Palm in 2003 in stock deal; Treo smartphone line absorbed `[ps=5]`
+- Name dropped in 2007; superseded by Windows Mobile then Windows Phone 2010; never achieved predicted enterprise dominance `[ps=5]`
+- High brand awareness and market share but leadership not guaranteed `[ps=4]`
+- Evaluated under MPP; declining PDA share; pivoting to Treo smartphone `[ps=4]`
+- Evaluated as established enterprise vendor with Jornada line `[ps=4]`
+- Acquired by HP in May 2002 for $25 billion; brand discontinued `[ps=3]`
+- Aberdeen MPP framework applied to PDA vendor evaluation `[ps=0]`
+- Evaluated as leading enterprise PDA platform challenger `[ps=0]`
+- Leading Pocket PC hardware vendor `[ps=0]`
+- Enterprise wireless handheld specialist; strong vertical market position `[ps=0]`
+- Acquired by Motorola for $3.9 billion in January 2007 `[ps=0]`
 - Cost optimization / cutting costs driving PDA adoption in enterprises
-- Aberdeen MPP framework applied to PDA vendor evaluation
-- High brand awareness and market share but leadership not guaranteed
-- Evaluated as leading enterprise PDA platform challenger
-- Leading Pocket PC hardware vendor
-- Evaluated under MPP; declining PDA share; pivoting to Treo smartphone
-- Evaluated as established enterprise vendor with Jornada line
-- Enterprise wireless handheld specialist; strong vertical market position
 - Consumer-focused Palm OS licensee with multimedia differentiation
 - UK PDA pioneer withdrawing from consumer market; pivoting to enterprise
-- High brand/share does not dictate PDA marketplace leadership
 - Pocket PC platform predicted to gain significant enterprise adoption
-- Acquired by HP in May 2002 for $25 billion; brand discontinued
 - Acquired by HP for $1.2 billion in 2010; Palm brand retired 2011
-- Acquired by Motorola for $3.9 billion in January 2007
-- Acquired by Palm in 2003 in stock deal; Treo smartphone line absorbed
-- Name dropped in 2007; superseded by Windows Mobile then Windows Phone 2010; never achieved predicted enterprise dominance

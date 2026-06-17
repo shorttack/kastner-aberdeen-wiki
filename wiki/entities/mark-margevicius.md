@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Mark Margevicius
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'There isn't software coming out anytime soon that needs more performance on the desktop.' — [[study-moore-s-law-true-but-irrelevant-internet-661e40]]
+- 'There isn't software coming out anytime soon that needs more performance on the desktop.' `[ps=1]` — [[study-moore-s-law-true-but-irrelevant-internet-661e40]]

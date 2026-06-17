@@ -1,5 +1,5 @@
 ---
-title: "==> picture [433 x 115] intentionally omitted <=="
+title: "2006 Aberdeen Research Calendar (Aberdeen, 2006)"
 slug: "study-2006-aberdeen-research-calendar-123ac2"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 2.04
 prescience_obs_count: 25
 ---
 
-# ==> picture [433 x 115] intentionally omitted <==
+# 2006 Aberdeen Research Calendar (Aberdeen, 2006)
 
-> This study analyzes ==> picture [433 x 115] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study 2006-aberdeen-research-calendar-123ac2. Source: 2006_aberdeen_research_calendar.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **benchmark**._

@@ -3,7 +3,7 @@ title: "Stratus Press Release — William Foster ACM Annual Conference Speech, 2
 slug: "study-stratus-foster-acm-speech-pr-1982-16a134"
 page_type: "study"
 tags: ["type/study", "collection/press-release"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "stratus-foster-acm-speech-pr-1982-16a134"
 author: "Stratus Computer (corporate communications — Kastner-era)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 2
 ---
 
 # Stratus Press Release — William Foster ACM Annual Conference Speech, 27 October 1982 (Kastner as media contact)
@@ -32,7 +32,7 @@ _Published 1982, author **Stratus Computer (corporate communications — Kastner
 
 ## Top observations
 
-- By using multiple 16 or 32 bit processor chips executing in parallel, major advances in price, performance, and reliability have been achieved... systems using the latest high performance microprocessor chips can distribute work over many processor chips, and system performance can be easily enhanced by adding more chips
+- By using multiple 16 or 32 bit processor chips executing in parallel, major advances in price, performance, and reliability have been achieved... systems using the latest high performance microprocessor chips can distribute work over many processor chips, and system performance can be easily enhanced by adding more chips `[ps=5]`
+- Like the vacuum tube, the transistor, and the gate array, the processor chip has become a high level building block in the most advanced high performance computers `[ps=5]`
 - Parallel processing has allowed us to increase the reliability of on-line systems by 10 to 100 times, a level of reliability which is mandatory as society increases its dependence on computers
-- Like the vacuum tube, the transistor, and the gate array, the processor chip has become a high level building block in the most advanced high performance computers
 - Peter Kastner served as Stratus' named press contact for executive thought-leadership announcements (per this PR document)

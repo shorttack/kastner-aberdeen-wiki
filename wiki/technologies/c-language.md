@@ -12,9 +12,9 @@ era: "1972-present"
 lifecycle_at_study: "emerging-commercial"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # C language
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Viable 3GL component; mostly-tools-some-C multi-component strategy emerging — [[study-nti-5-development-toolsets-0e71c5]]
-- C continued emphasis; gradual migration to object orientation in ISV community — [[study-nti-5-development-toolsets-0e71c5]]
-- [UNVERIFIED] — [[study-nti-5-development-toolsets-0e71c5]]
+- C continued emphasis; gradual migration to object orientation in ISV community `[ps=5]` — [[study-nti-5-development-toolsets-0e71c5]]
+- Viable 3GL component; mostly-tools-some-C multi-component strategy emerging `[ps=3]` — [[study-nti-5-development-toolsets-0e71c5]]
+- [UNVERIFIED] `[ps=0]` — [[study-nti-5-development-toolsets-0e71c5]]

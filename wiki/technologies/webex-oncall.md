@@ -12,9 +12,9 @@ era: "2001-2007"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # WebEx OnCall
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Live remote hands-on customer technical support service — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Live remote hands-on customer technical support service `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]

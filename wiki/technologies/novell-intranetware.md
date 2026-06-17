@@ -12,9 +12,9 @@ era: "1996-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-unsupported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Novell IntranetWare
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Under Eric Schmidt leadership Novell plans products/services leveraging Java and Internet Infrastructure for installed base; must execute — [[study-1999pr~2-cd0049]]
+- Under Eric Schmidt leadership Novell plans products/services leveraging Java and Internet Infrastructure for installed base; must execute `[ps=4]` — [[study-1999pr~2-cd0049]]

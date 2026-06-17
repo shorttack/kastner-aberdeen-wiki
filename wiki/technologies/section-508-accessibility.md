@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Section 508 Accessibility (Rehabilitation Act amendment)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Nexaweb positions Section 508 compliance as a competitive differentiator in financial services and public sector markets. — [[study-outlook-series-david-mcfarlane-nexaweb-p-1dd1b4]]
+- Nexaweb positions Section 508 compliance as a competitive differentiator in financial services and public sector markets. `[ps=3]` — [[study-outlook-series-david-mcfarlane-nexaweb-p-1dd1b4]]

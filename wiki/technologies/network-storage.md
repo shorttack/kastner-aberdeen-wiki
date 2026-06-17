@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Network Storage Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- must treat storage as part of overall system — not commodity — [[study-storag~1-262bc7]]
+- must treat storage as part of overall system — not commodity `[ps=4]` — [[study-storag~1-262bc7]]

@@ -12,9 +12,9 @@ status: "[DEFERRED]"
 successor: "[DEFERRED]"
 years_active: "1980s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Steve Smith
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Smith (Payne-Webber): 'DEC TP will drive demand for bigger computers' as VAX TP workloads scale — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- Smith (Payne-Webber): 'DEC TP will drive demand for bigger computers' as VAX TP workloads scale `[ps=2]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]

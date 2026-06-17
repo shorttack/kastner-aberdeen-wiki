@@ -12,9 +12,9 @@ era: "1964-1975"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM 2311 Disk Pack
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Saturday, September 23, 1967: Arlene Larsen wheeled in punch cards and a 2311 disk pack (13 MB — 'enormous storage by the standards of the day'). Sysgen succeeded. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Saturday, September 23, 1967: Arlene Larsen wheeled in punch cards and a 2311 disk pack (13 MB — 'enormous storage by the standards of the day'). Sysgen succeeded. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - 13 megabytes — described as 'an enormous amount of storage by the standards of the day.' — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 14
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.66
+prescience_obs_count: 59
 ---
 
 # Service-Oriented Architecture (SOA)
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Will constitute majority of development by turn of decade (~2010) — [[study-enterprise-integration-perspective-2-cb6165]]
-- ~10 years for significant dividends in lower IT lifecycle costs and faster more flexible application changes — [[study-enterprise-integration-perspective-2-cb6165]]
-- Programmer productivity stuck at 1970s level at many shops — legacy application spaghetti-code soaks up enormous talent for trivial gains — [[study-enterprise-integration-perspective-2-cb6165]]
-- IT investments must be synergistic — over time worth more than sum of individual projects; integration of IT with business processes is area ripe for improving efficiency — [[study-enterprise-integration-perspective-2-cb6165]]
-- majority of development by ~2010 — [[study-enterprise-integration-perspective-d21c1b]]
-- ~10 years for significant dividends in lower IT lifecycle costs — [[study-enterprise-integration-perspective-d21c1b]]
-- SOA is a good vehicle for virtualizing processing, storage, and network components — [[study-enterprise-integration-perspective-d21c1b]]
-- 73% implementing or planning applications-related services within 12 months — [[study-esb-in-soa-e002b7]]
-- 90% of all companies will exit 2006 with SOA activities at least underway — [[study-hp-mercury-soa-2006-pdf-80785e]]
-- SOA affects entire design-code-test-deploy-maintain application lifecycle — [[study-hp-mercury-soa-2006-pdf-80785e]]
-- IBM showing positive growth and financial performance in SOA area — [[study-hp-mercury-soa-2006-pdf-80785e]]
-- 90% of Global 5000 businesses will exit 2006 with SOA planning, design, or programming activities underway — [[study-ma-ibm-webify-5e0d4b]]
-- One-third of organizations planning four or more SOA projects in 2006 — [[study-ma-ibm-webify-5e0d4b]]
-- SOA services will contain a composite of packaged and homegrown applications for the foreseeable future — not a total rewrite — [[study-ma-ibm-webify-5e0d4b]]
-- distributes and decouples processing from data center to network edge and anywhere in-between — [[study-next-steps-soa-2006-0fdea1]]
-- third in ongoing series of Aberdeen SOA reports — [[study-next-steps-soa-2006-0fdea1]]
-- broad-based survey of IT organizations plus one-on-one interviews — [[study-next-steps-soa-2006-0fdea1]]
-- Over two-thirds of survey respondents see SOA technologies such as Web services and open middleware as the means of improving enterprise application integration. — [[study-q-a-achieving-more-value-from-enterprise-d1d7dd]]
-- SOA takes planning, lest IT fall into what we call an 'accidental architecture.' If IT takes a project-by-project approach to implementing SOA, they must pay particular attention to the SOA infrastructure and tools they pick. — [[study-q-a-achieving-more-value-from-enterprise-d1d7dd]]
-- Three key considerations for SOA infrastructure and tools: cross-platform, cross-process, cross-application capabilities. — [[study-q-a-achieving-more-value-from-enterprise-d1d7dd]]
+- IT investments must be synergistic — over time worth more than sum of individual projects; integration of IT with business processes is area ripe for improving efficiency `[ps=5]` — [[study-enterprise-integration-perspective-2-cb6165]]
+- SOA services will contain a composite of packaged and homegrown applications for the foreseeable future — not a total rewrite `[ps=5]` — [[study-ma-ibm-webify-5e0d4b]]
+- Enterprise Service Bus and SOA adoption peaked 2010-2012 and began decline as microservices (2014+), API gateways, and iPaaS displaced monolithic SOA middleware; TIBCO taken private 2014, Software AG divested webMethods-style middleware 2022+. `[ps=5]` — [[study-soa-adoption-eats-up-40-per-cent-of-it-r-d0cf12]]
+- Debugging problems with complex services and composites: cited by 37% as challenge `[ps=5]` — [[study-soa-lifecycle-perspective-1ff953]]
+- By 2004-2005 SOA reached peak hype; IBM, Oracle, BEA, Microsoft, SAP promoted SOA platforms; many enterprise SOA initiatives delivered disappointing results. `[ps=5]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- IBM promoted SOA platforms with full-page trade press campaigns by 2004-2005 `[ps=5]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- Microsoft promoted SOA platforms with full-page trade press campaigns by 2004-2005 `[ps=5]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- Many enterprise SOA initiatives delivered disappointing results by 2004-2005; organizational discipline to design and govern service interfaces effectively didn't exist yet. `[ps=5]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- Programmer productivity stuck at 1970s level at many shops — legacy application spaghetti-code soaks up enormous talent for trivial gains `[ps=4]` — [[study-enterprise-integration-perspective-2-cb6165]]
+- SOA affects entire design-code-test-deploy-maintain application lifecycle `[ps=4]` — [[study-hp-mercury-soa-2006-pdf-80785e]]
+- IBM showing positive growth and financial performance in SOA area `[ps=4]` — [[study-hp-mercury-soa-2006-pdf-80785e]]
+- One-third of organizations planning four or more SOA projects in 2006 `[ps=4]` — [[study-ma-ibm-webify-5e0d4b]]
+- SOA takes planning, lest IT fall into what we call an 'accidental architecture.' If IT takes a project-by-project approach to implementing SOA, they must pay particular attention to the SOA infrastructure and tools they pick. `[ps=4]` — [[study-q-a-achieving-more-value-from-enterprise-d1d7dd]]
+- Three key considerations for SOA infrastructure and tools: cross-platform, cross-process, cross-application capabilities. `[ps=4]` — [[study-q-a-achieving-more-value-from-enterprise-d1d7dd]]
+- Microservices era (2015-present) repeatedly produced accidental architectures at scale (microservices sprawl, distributed monoliths); teams adopted service meshes and platform engineering to contain, validating Kastner's 2006 warning. `[ps=4]` — [[study-q-a-achieving-more-value-from-enterprise-d1d7dd]]
+- Redesigning business processes, high IT integration costs, and customization challenges are eating up 40% of the IT budget in integration expenditures. `[ps=4]` — [[study-soa-adoption-at-90-percent-c9c4ec]]
+- SOA is broadly seen as a real technology step forward, with the largest companies, who have the biggest integration problems, leading the way. `[ps=4]` — [[study-soa-adoption-at-90-percent-c9c4ec]]
+- By 2015-2020, SOA and ESBs were largely displaced by REST microservices, cloud-native API gateways (AWS API Gateway, Kong, Apigee), and iPaaS (MuleSoft, Boomi, Workato) — though integration still consumed a sizeable portion of IT budgets, validating the underlying Kastner thesis that integration is structurally expensive. `[ps=4]` — [[study-soa-adoption-at-90-percent-c9c4ec]]
+- Multiple industry surveys (Salesforce MuleSoft State of Integration, Gartner, IDC) show integration consuming 25-40% of IT spend through 2023 — Kastner's 40% figure remained durable as the approximate integration-tax on enterprise IT. `[ps=4]` — [[study-soa-adoption-at-90-percent-c9c4ec]]
+- SOA is broadly seen as a real technology step forward, with the largest companies — who have the biggest integration problems — leading the way. `[ps=4]` — [[study-soa-adoption-eats-up-40-per-cent-of-it-r-d0cf12]]

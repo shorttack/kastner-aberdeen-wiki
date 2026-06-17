@@ -12,9 +12,9 @@ era: "1995-"
 lifecycle_at_study: "growing"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Contemporary OLTP
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Mix of writes and reads — updating for transactions plus random reads — [[study-15-classification-key-applications-55b6be]]
+- Mix of writes and reads — updating for transactions plus random reads `[ps=0]` — [[study-15-classification-key-applications-55b6be]]

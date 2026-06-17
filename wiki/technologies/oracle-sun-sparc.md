@@ -12,9 +12,9 @@ era: "1987-present"
 lifecycle_at_study: "declining"
 lifecycle_current: "active-niche"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # Sun SPARC / Solaris
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ~10 observations 2009–2015 on Sun acquisition and integration — [[study-2026-kastner-oracle-longitudinal]]
-- Oracle acquired Sun to control Java — the most widely deployed enterprise application runtime — and to gain hardware systems business — [[study-2026-kastner-oracle-longitudinal]]
-- Oracle discontinued SPARC processor development 2017; Solaris development frozen 2018 — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle acquired Sun to control Java — the most widely deployed enterprise application runtime — and to gain hardware systems business `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle discontinued SPARC processor development 2017; Solaris development frozen 2018 `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
+- ~10 observations 2009–2015 on Sun acquisition and integration `[ps=0]` — [[study-2026-kastner-oracle-longitudinal]]

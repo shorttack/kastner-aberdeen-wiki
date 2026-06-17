@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ba Uc Pb 3704 (Aberdeen, 2006)"
 slug: "study-ba-uc-pb-3704-82afab"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.3
-prescience_obs_count: 80
+prescience_mean: 1.83
+prescience_obs_count: 65
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ba Uc Pb 3704 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ba-uc-pb-3704-82afab. Source: ba_uc_pb_3704.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: wireless. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Debbie Caporusso**, type **topic-analysis**._

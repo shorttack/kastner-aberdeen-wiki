@@ -3,7 +3,7 @@ title: "HP's Consumer PC Business Will Shrink"
 slug: "study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5"
 page_type: "study"
 tags: ["type/study", "collection/insight"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 4
 ---
 
 # HP's Consumer PC Business Will Shrink
@@ -32,16 +32,16 @@ _Published 2002, author **Peter S. Kastner**, type **insight**._
 
 ## Top observations
 
+- HP likely to face challenges in business PC market post-merger `[ps=4]`
+- Dell positioned to gain market share from merged HP-Compaq entity `[ps=4]`
+- Many assumed combined company volume would exceed sum of parts `[ps=0]`
+- Merger requires integration across PC business and retail/consumer and enterprise channels `[ps=0]`
 - Combined company will have better PC margins through buying power of greater volume
 - Post-merger HP unit volumes will be less than sum of current Compaq and HP levels
 - HP consumer PC business will shrink post-merger
-- HP likely to face challenges in business PC market post-merger
-- Dell positioned to gain market share from merged HP-Compaq entity
-- Many assumed combined company volume would exceed sum of parts
 - Compaq was major PC vendor contributing volume to the merged entity
 - Dell unseated HP as PC market leader in Q1 2003
 - HP reported $2.03B net loss in first combined results following Compaq acquisition
 - HP annual PC market share 16.4% in 2003 (up from 16% in 2002) — back on top
 - HP explored options for its $40B Personal Systems Group in 2011
-- Merger requires integration across PC business and retail/consumer and enterprise channels
 - Intel cited as key component vendor shaping consumer PC market dynamics

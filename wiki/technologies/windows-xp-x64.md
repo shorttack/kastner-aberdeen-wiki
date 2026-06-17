@@ -12,9 +12,9 @@ era: "2005-2014"
 lifecycle_at_study: "not-yet-released"
 lifecycle_current: "end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Windows XP Professional x64 Edition
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft shipped Windows XP Professional x64 Edition on April 25, 2005 — approximately 19 months after Athlon 64 launch — [[study-dct-memoir-athlon-64-prescience-2003]]
+- Microsoft shipped Windows XP Professional x64 Edition on April 25, 2005 — approximately 19 months after Athlon 64 launch `[ps=5]` — [[study-dct-memoir-athlon-64-prescience-2003]]

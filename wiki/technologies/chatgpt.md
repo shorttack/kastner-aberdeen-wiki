@@ -12,9 +12,9 @@ era: "2022-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # ChatGPT / GPT-4
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 5 — [[study-2026-kastner-enterprise-ai-arc]]
-- 0 — [[study-2026-kastner-enterprise-ai-arc]]
+- 5 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 0 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]

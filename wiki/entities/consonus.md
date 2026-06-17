@@ -12,9 +12,9 @@ status: "diminished"
 successor: ""
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Consonus Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- FM-200 fire suppression system discharged on February 22 2002 at Consonus Portland data center — [[study-safeway-damages-report-draft-b502f4]]
+- FM-200 fire suppression system discharged on February 22 2002 at Consonus Portland data center `[ps=0]` — [[study-safeway-damages-report-draft-b502f4]]

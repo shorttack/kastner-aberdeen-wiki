@@ -12,9 +12,9 @@ era: "1977-present"
 lifecycle_at_study: "mature/declining"
 lifecycle_current: "legacy"
 occurrence_count: 8
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.4
+prescience_obs_count: 25
 ---
 
 # Digital VAX/OpenVMS
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 7.69 — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
-- 10.71 — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
-- 200+ — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
-- 27 — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
-- 50% throughput increase; 3x price-performance improvement — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
-- Disk -24%; memory -25%; 32MB less memory required; 25% service discount — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
-- Within 20% from MicroVAX 3100 entry-level to VAX 6000-640 — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
-- Still-to-be-announced as of March 1992 — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
--  — [[study-bbn1989-1e6838]]
-- 49 TPS on VAX 6240 running VMS — [[study-debit-credit-ibm-dec-1988-2-2fc147]]
-- Smith (Payne-Webber): 'DEC TP will drive demand for bigger computers' as VAX TP workloads scale — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
-- Rick Case (DEC): VAX 8830 nearly matches IBM 3090 Model 200E TP throughput at ~1/5 the cost — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
-- Logan: DEC has a 2-3 year window to convert IBM TP customers before SAA matures — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
-- Rick Case closes with VAX/ACMS/Rdb/DECnet bundling as 'DECtp' integrated story — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
-- Manages performance and competition marketing for CSG; emphasis on distributed commercial systems — [[study-dec-resume-performance-review-3-1f133b]]
-- DECtp is Digital's Most Important Announcement Since We Introduced the VAX — [[study-dec-resume-performance-review-3-1f133b]]
--  — [[study-dectp92-0ca51c]]
--  — [[study-dectp92-0ca51c]]
--  — [[study-dectp92-0ca51c]]
--  — [[study-dectp92-0ca51c]]
+- Rick Case (DEC): VAX 8830 nearly matches IBM 3090 Model 200E TP throughput at ~1/5 the cost `[ps=3]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- Aggressive pricing to TPC p/p; cost per TPS stable as performance rises; rationalizes VAX pricing; VAX 6640 actually lower cost than 6410 `[ps=3]` — [[study-tpcbench92-139998]]
+- Smith (Payne-Webber): 'DEC TP will drive demand for bigger computers' as VAX TP workloads scale `[ps=2]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- Logan: DEC has a 2-3 year window to convert IBM TP customers before SAA matures `[ps=2]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- 7.69 `[ps=0]` — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
+- 200+ `[ps=0]` — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
+- 27 `[ps=0]` — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
+- Disk -24%; memory -25%; 32MB less memory required; 25% service discount `[ps=0]` — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
+- Within 20% from MicroVAX 3100 entry-level to VAX 6000-640 `[ps=0]` — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
+-  `[ps=0]` — [[study-bbn1989-1e6838]]
+- Rick Case closes with VAX/ACMS/Rdb/DECnet bundling as 'DECtp' integrated story `[ps=0]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+-  `[ps=0]` — [[study-dectp92-0ca51c]]
+-  `[ps=0]` — [[study-dectp92-0ca51c]]
+-  `[ps=0]` — [[study-dectp92-0ca51c]]
+-  `[ps=0]` — [[study-dectp92-0ca51c]]
+-  `[ps=0]` — [[study-dectp92-0ca51c]]
+-  `[ps=0]` — [[study-dectp92-0ca51c]]
+-  `[ps=0]` — [[study-dectp92-0ca51c]]
+-  `[ps=0]` — [[study-dectp92-0ca51c]]
+-  `[ps=0]` — [[study-dectp92-0ca51c]]

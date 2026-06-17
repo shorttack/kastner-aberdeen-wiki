@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Flat-Panel LCD Monitor
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 19 inch flat-panel 'to die for' — [[study-dct-why-aberdeen-follows-pc-deals-2002]]
+- 19 inch flat-panel 'to die for' `[ps=0]` — [[study-dct-why-aberdeen-follows-pc-deals-2002]]

@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: "unknown"
 years_active: "2000s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Stephen DiFranco
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Penetrate up chain of command; leverage Milpitas (HQ) over Shrewsbury — [[study-17-maxtor-tool-decision-components-d9c2fb]]
+- Penetrate up chain of command; leverage Milpitas (HQ) over Shrewsbury `[ps=0]` — [[study-17-maxtor-tool-decision-components-d9c2fb]]

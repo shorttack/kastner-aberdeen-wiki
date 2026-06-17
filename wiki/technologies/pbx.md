@@ -12,9 +12,9 @@ era: "1960-2015"
 lifecycle_at_study: "mature"
 lifecycle_current: "declining"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Private Branch Exchange (PBX)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CTI will have large impact on traditional PBX telephony device market — [[study-1998-communicating-business-intelligence-through-comput-0290b1]]
-- CTI will redefine how user organizations architect and build on-premise telephony networks — [[study-1998-communicating-business-intelligence-through-comput-0290b1]]
+- CTI will have large impact on traditional PBX telephony device market `[ps=4]` — [[study-1998-communicating-business-intelligence-through-comput-0290b1]]
+- CTI will redefine how user organizations architect and build on-premise telephony networks `[ps=3]` — [[study-1998-communicating-business-intelligence-through-comput-0290b1]]

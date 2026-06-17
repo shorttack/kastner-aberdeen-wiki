@@ -12,9 +12,9 @@ era: "1992-2013"
 lifecycle_at_study: "peak"
 lifecycle_current: "legacy-deprecated"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Tivoli Management Environment (TME)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Parallel Tivoli move toward simpler variants — [[study-management-heavies-seek-broader-base-8-723197]]
+- Parallel Tivoli move toward simpler variants `[ps=4]` — [[study-management-heavies-seek-broader-base-8-723197]]
 - IBM retired Tivoli brand ~2013; products merged into IBM portfolio — [[study-management-heavies-seek-broader-base-8-723197]]

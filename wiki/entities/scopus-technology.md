@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Siebel Systems (acquired 1998)"
 years_active: "1990-1998"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Scopus Technology, Inc.
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Customer service software focused on call center and case management — [[study-1997-cis-report-ba825e]]
-- Scopus positioned as customer service/call center specialist; expected to compete in maturing CIS market — [[study-1997-cis-report-ba825e]]
+- Customer service software focused on call center and case management `[ps=3]` — [[study-1997-cis-report-ba825e]]
+- Scopus positioned as customer service/call center specialist; expected to compete in maturing CIS market `[ps=3]` — [[study-1997-cis-report-ba825e]]
 - Acquired by Siebel Systems for $460M in stock (March 1998) — just 6 months after this report; Siebel gained call-center/customer-service capabilities to complement its SFA strength — [[study-1997-cis-report-ba825e]]

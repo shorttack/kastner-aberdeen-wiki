@@ -12,9 +12,9 @@ era: "1996"
 lifecycle_at_study: "emerging"
 lifecycle_current: "superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Microcube Engine
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- BusinessObjects Microcube Engine builds compact multidimensional cubes on-the-fly obviating time-consuming pre-built cube construction; enables workgroup sharing via email — [[study-1997-dev-expanding-universes-for-busines-c42c71]]
+- BusinessObjects Microcube Engine builds compact multidimensional cubes on-the-fly obviating time-consuming pre-built cube construction; enables workgroup sharing via email `[ps=3]` — [[study-1997-dev-expanding-universes-for-busines-c42c71]]

@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM Parallel Sysplex
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Parallel Sysplex (1990) still the highest-availability commercial computing standard; deployed at major banks worldwide 2024 — [[study-2026-kastner-ibm-longitudinal]]
+- Parallel Sysplex (1990) still the highest-availability commercial computing standard; deployed at major banks worldwide 2024 `[ps=4]` — [[study-2026-kastner-ibm-longitudinal]]

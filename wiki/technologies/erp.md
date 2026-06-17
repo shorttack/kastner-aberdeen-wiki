@@ -13,8 +13,8 @@ lifecycle_at_study: "current"
 lifecycle_current: "dominant"
 occurrence_count: 101
 prescience_max: 5.0
-prescience_mean: 1.17
-prescience_obs_count: 1785
+prescience_mean: 1.6
+prescience_obs_count: 1526
 ---
 
 # Enterprise Resource Planning (ERP)

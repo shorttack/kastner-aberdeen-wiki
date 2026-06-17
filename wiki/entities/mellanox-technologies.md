@@ -12,9 +12,9 @@ status: "acquired"
 successor: "NVIDIA (acquired April 2020)"
 years_active: "1999-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Mellanox Technologies
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Mellanox Technologies became dominant InfiniBand HCA silicon vendor `[ps=5]` — [[study-2002-does-intel-s-decision-not-to-manufactur-iniband-si-0bd64b]]
 - Specialist silicon vendors positioned to fill gap left by Intel — [[study-2002-does-intel-s-decision-not-to-manufactur-iniband-si-0bd64b]]
-- Mellanox Technologies became dominant InfiniBand HCA silicon vendor — [[study-2002-does-intel-s-decision-not-to-manufactur-iniband-si-0bd64b]]

@@ -12,9 +12,9 @@ era: "1999-2003"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Windows 2000 Datacenter Server
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Running on Datacenter 2000 and SQL Server 2000 for mission-critical configurations — [[study-2001-unisys-benchmark-gorilla-sets-new-sap-and-intel-ba-19cf5a]]
+- Running on Datacenter 2000 and SQL Server 2000 for mission-critical configurations `[ps=4]` — [[study-2001-unisys-benchmark-gorilla-sets-new-sap-and-intel-ba-19cf5a]]

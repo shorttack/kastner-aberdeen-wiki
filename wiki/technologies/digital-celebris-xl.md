@@ -12,9 +12,9 @@ era: "1995-1998"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Digital Celebris XL Personal Workstation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2,000+ NT native applications on Celebris XL Intel platform; 1,200+ on Alpha XL platform — [[study-aberdeen-1996-digitals-personal-workstation-new-markets-channels]]
-- Celebris XL Pentium: single/dual 100/133/150/166 MHz; Celebris XL Pentium Pro: single 150/180/200 MHz; shipped pre-configured with Windows NT — [[study-aberdeen-1996-digitals-personal-workstation-new-markets-channels]]
+- 2,000+ NT native applications on Celebris XL Intel platform; 1,200+ on Alpha XL platform `[ps=0]` — [[study-aberdeen-1996-digitals-personal-workstation-new-markets-channels]]
+- Celebris XL Pentium: single/dual 100/133/150/166 MHz; Celebris XL Pentium Pro: single 150/180/200 MHz; shipped pre-configured with Windows NT `[ps=0]` — [[study-aberdeen-1996-digitals-personal-workstation-new-markets-channels]]

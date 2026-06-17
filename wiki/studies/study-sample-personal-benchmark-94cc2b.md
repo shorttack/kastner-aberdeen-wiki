@@ -1,5 +1,5 @@
 ---
-title: "==> picture [108 x 107] intentionally omitted <=="
+title: "Sample Personal Benchmark (Aberdeen, 2004)"
 slug: "study-sample-personal-benchmark-94cc2b"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.41
-prescience_obs_count: 22
+prescience_mean: 0.94
+prescience_obs_count: 16
 ---
 
-# ==> picture [108 x 107] intentionally omitted <==
+# Sample Personal Benchmark (Aberdeen, 2004)
 
-> This study analyzes ==> picture [108 x 107] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study sample-personal-benchmark-94cc2b. Source: sample_personal_benchmark.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2004, author **Aberdeen Group**, type **benchmark**._
@@ -48,9 +48,9 @@ _Published 2004, author **Aberdeen Group**, type **benchmark**._
 - ## **Figure 8: Areas of Contract Performance Measured** `[ps=0]`
 - IGS underperformed best-in-class organizations in every major KPI area. `[ps=0]`
 - ## **Figure 9: Contract Key Performance Indicators** `[ps=0]`
-- **Figure 1: IGS Performance Well Below Average** `[ps=-1]`
-- **----- Start of picture text -----**<br> Process<br>Process:Process: 2/52/5<br>Below AverageBelow Average<br>PerformanceMetrics 2/5 Organization Organization:Organization: 2/5 2/5<br>Below AverageBelow Average<br>2/5<br>Knowledge:Knowledge: 1.5/51.5/5<br>0/5<br>LaggingLagging<br>Technology:Technology: 2/52/5<br>1/5 1.5/5 Below AverageBelow Average<br>Performance Performance<br>Industry Norm Metri `[ps=-1]`
-- **Figure 3: Contract Management Procedures** `[ps=-1]`
-- **Figure 5: Contract repository and search capabilities** `[ps=-1]`
-- **Figure 6: Technology Used for Online Negotiation & Authoring** `[ps=-1]`
-- **Figure 7: Contract repository and search capabilities** `[ps=-1]`
+- **Figure 1: IGS Performance Well Below Average**
+- **----- Start of picture text -----**<br> Process<br>Process:Process: 2/52/5<br>Below AverageBelow Average<br>PerformanceMetrics 2/5 Organization Organization:Organization: 2/5 2/5<br>Below AverageBelow Average<br>2/5<br>Knowledge:Knowledge: 1.5/51.5/5<br>0/5<br>LaggingLagging<br>Technology:Technology: 2/52/5<br>1/5 1.5/5 Below AverageBelow Average<br>Performance Performance<br>Industry Norm Metri
+- **Figure 3: Contract Management Procedures**
+- **Figure 5: Contract repository and search capabilities**
+- **Figure 6: Technology Used for Online Negotiation & Authoring**
+- **Figure 7: Contract repository and search capabilities**

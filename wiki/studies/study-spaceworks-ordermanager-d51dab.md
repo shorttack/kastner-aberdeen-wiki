@@ -3,7 +3,7 @@ title: "SpaceWorks OrderManager: An Electronic Sales Channel for Wholesale Distr
 slug: "study-spaceworks-ordermanager-d51dab"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "spaceworks-ordermanager-d51dab"
 author: "David Alschuler (Aberdeen Group)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 6
 ---
 
 # SpaceWorks OrderManager: An Electronic Sales Channel for Wholesale Distributors
@@ -32,13 +32,13 @@ _Published 1997, author **David Alschuler (Aberdeen Group)**, type **market-stud
 
 ## Top observations
 
-- Positioned on completeness + rapid implementation + legacy enterprise integration; targeted mid-to-large organizations and CSPs
+- Wholesale distributors need to manage virtual sales channels and automate sales-to-order processes via Internet-enabled B2B systems `[ps=5]`
+- Positioned on completeness + rapid implementation + legacy enterprise integration; targeted mid-to-large organizations and CSPs `[ps=4]`
+- Product functionality and pricing positions it for mid-to-large sized organizations and Commerce Service Providers offering hosting `[ps=4]`
+- B2B e-commerce wholesale distribution market consolidated around SAP Commerce, Oracle Commerce, and specialized platforms; CSP model evolved into modern SaaS `[ps=3]`
+- Implied viable B2B e-commerce platform for wholesale distribution; Aberdeen publication as endorsement `[ps=2]`
+- Suitable for hosted multi-seller Commerce Server Provider (CSP) environments `[ps=0]`
 - Real-time transaction processing interoperation between web-based sales channel and legacy systems
 - Demonstrated good scalability in early implementations
-- Suitable for hosted multi-seller Commerce Server Provider (CSP) environments
 - Computer products, food and beverage, pharmaceutical and medical supplies, industrial parts and equipment, consumer electronics manufacturers
-- Implied viable B2B e-commerce platform for wholesale distribution; Aberdeen publication as endorsement
 - SpaceWorks shut down operations abruptly in May 2001 after fifth round of financing failed to materialize
-- B2B e-commerce wholesale distribution market consolidated around SAP Commerce, Oracle Commerce, and specialized platforms; CSP model evolved into modern SaaS
-- Product functionality and pricing positions it for mid-to-large sized organizations and Commerce Service Providers offering hosting
-- Wholesale distributors need to manage virtual sales channels and automate sales-to-order processes via Internet-enabled B2B systems

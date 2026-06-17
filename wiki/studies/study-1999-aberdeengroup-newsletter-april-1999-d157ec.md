@@ -3,7 +3,7 @@ title: "AberdeenGroup Newsletter Volume 1 Number 2 — April 1999"
 slug: "study-1999-aberdeengroup-newsletter-april-1999-d157ec"
 page_type: "study"
 tags: ["type/study", "collection/newsletter"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1999-aberdeengroup-newsletter-april-1999-d157ec"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.09
+prescience_obs_count: 22
 ---
 
 # AberdeenGroup Newsletter Volume 1 Number 2 — April 1999
@@ -32,28 +32,28 @@ _Published 1999, author **Aberdeen Group**, type **newsletter**._
 
 ## Top observations
 
-- Supplementing LANs/WANs as the backbone of enterprise networks
-- Emerging low-cost OS alternative to Windows NT and Unix with high reliability and scalability
-- Linux may be about to extend its reach within the enterprise
-- Linux became dominant in server/cloud infrastructure; Red Hat acquired by IBM for $34B in 2019
+- Emerging low-cost OS alternative to Windows NT and Unix with high reliability and scalability `[ps=5]`
+- Linux may be about to extend its reach within the enterprise `[ps=5]`
+- Linux became dominant in server/cloud infrastructure; Red Hat acquired by IBM for $34B in 2019 `[ps=5]`
+- Java delivering enterprise integration and performance enhancements; platform for robust scalable mission-critical web solutions `[ps=5]`
+- Java became dominant enterprise backend language; Spring framework surpassed EJB; Java still top-3 language globally `[ps=5]`
+- Both largely superseded by web services (SOAP/REST) and later microservices; neither CORBA nor DCOM won `[ps=5]`
+- Web-to-host and legacy integration became critical IT discipline; middleware and ESB markets emerged `[ps=5]`
+- Novell acquired by Attachmate in 2011 for $2.2B; NetWare product discontinued `[ps=5]`
+- Dissolved in 2004; VINES NOS discontinued `[ps=5]`
+- Directory will become repository for desktop/system configs and instrumental in delivering QoS `[ps=4]`
+- Active Directory (Microsoft) and OpenLDAP became foundational enterprise infrastructure; directory-guided IT materialized `[ps=4]`
+- Vital to supporting today's myriad applications and key to scaling enterprise networks `[ps=4]`
+- Seventy percent of corporate data still resides in legacy host-based systems `[ps=4]`
+- Companies integrating legacy systems with Internet gain significant time-to-market tactical advantage `[ps=4]`
+- Voice over IP (VoIP)/unified communications fully materialized; voice/video/data convergence complete `[ps=3]`
+- Supplementing LANs/WANs as the backbone of enterprise networks `[ps=0]`
+- Over 2000 solutions developed `[ps=0]`
+- Crucial to ISV strategies; outcome undetermined in 1999 `[ps=0]`
+- Interview-based tool for gauging market demand and implicit buyer requirements; 60-day turnaround with 30-day flash report `[ps=0]`
+- Over a decade of experience analyzing business impact of network technology `[ps=0]`
+- New office opened at 514 High Street Palo Alto CA `[ps=0]`
+- CDNow accepts digital wallet payments to make transactions as straightforward as possible `[ps=0]`
 - Over 500000 developers worldwide
-- Over 2000 solutions developed
-- Java delivering enterprise integration and performance enhancements; platform for robust scalable mission-critical web solutions
-- Java became dominant enterprise backend language; Spring framework surpassed EJB; Java still top-3 language globally
 - LDAP and meta-directory fall far short of what is needed
-- Directory will become repository for desktop/system configs and instrumental in delivering QoS
-- Active Directory (Microsoft) and OpenLDAP became foundational enterprise infrastructure; directory-guided IT materialized
-- Vital to supporting today's myriad applications and key to scaling enterprise networks
-- Crucial to ISV strategies; outcome undetermined in 1999
-- Both largely superseded by web services (SOAP/REST) and later microservices; neither CORBA nor DCOM won
-- Seventy percent of corporate data still resides in legacy host-based systems
-- Companies integrating legacy systems with Internet gain significant time-to-market tactical advantage
-- Web-to-host and legacy integration became critical IT discipline; middleware and ESB markets emerged
 - One of dominant NOSs that enterprises must integrate with Internet
-- Novell acquired by Attachmate in 2011 for $2.2B; NetWare product discontinued
-- Legacy NOS still in use at Fortune 1000 organizations
-- Dissolved in 2004; VINES NOS discontinued
-- Interview-based tool for gauging market demand and implicit buyer requirements; 60-day turnaround with 30-day flash report
-- Over a decade of experience analyzing business impact of network technology
-- New office opened at 514 High Street Palo Alto CA
-- Project underway to allow Linux to run Windows applications

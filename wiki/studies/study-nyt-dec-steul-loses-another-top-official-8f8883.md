@@ -3,7 +3,7 @@ title: "Digital Equipment Loses Another of Its Top Officials (DEC CFO William St
 slug: "study-nyt-dec-steul-loses-another-top-official-8f8883"
 page_type: "study"
 tags: ["type/study", "collection/national-press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "nyt-dec-steul-loses-another-top-official-8f8883"
 author: "Glenn Rifkin (The New York Times)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.11
+prescience_obs_count: 9
 ---
 
 # Digital Equipment Loses Another of Its Top Officials (DEC CFO William Steul resigns)
@@ -32,14 +32,14 @@ _Published 1994, author **Glenn Rifkin (The New York Times)**, type **national-p
 
 ## Top observations
 
-- DEC CFO William M. Steul resigned May 1994
-- Vincent J. Mullarkey, 46, controller, promoted to VP/CFO; 23-year DEC veteran
-- Steul named CFO by Ken Olsen June 1992, weeks before board asked Olsen to resign as president
-- Steul's rise had been controversial because he had not worked in the finance operation for more than a decade
-- Edward McDonough (DEC manufacturing VP) — DEC said this was a planned retirement
-- Winston Hindle (DEC VP quality/ethics/business practices) — DEC said this was a planned retirement
-- Palmer 'conceded he had been caught by surprise by the severity of the loss'
+- DEC CFO William M. Steul resigned May 1994 `[ps=5]`
+- DEC sold to Compaq for $9.6B in 1998 — Mullarkey served as CFO through the sale `[ps=5]`
+- Vincent J. Mullarkey, 46, controller, promoted to VP/CFO; 23-year DEC veteran `[ps=0]`
+- Steul named CFO by Ken Olsen June 1992, weeks before board asked Olsen to resign as president `[ps=0]`
+- Steul's rise had been controversial because he had not worked in the finance operation for more than a decade `[ps=0]`
+- Edward McDonough (DEC manufacturing VP) — DEC said this was a planned retirement `[ps=0]`
+- Winston Hindle (DEC VP quality/ethics/business practices) — DEC said this was a planned retirement `[ps=0]`
+- Palmer 'conceded he had been caught by surprise by the severity of the loss' `[ps=0]`
+- Romano was former DEC finance manager and market research director — gave him deep insight into the political vacuum at DEC corporate finance `[ps=0]`
 - Steul 'had stepped into a job that nobody in the company wanted'
-- Romano was former DEC finance manager and market research director — gave him deep insight into the political vacuum at DEC corporate finance
 - Analysts speculated Steul might have been a victim of the loss debacle as Palmer sought stronger financial leadership
-- DEC sold to Compaq for $9.6B in 1998 — Mullarkey served as CFO through the sale

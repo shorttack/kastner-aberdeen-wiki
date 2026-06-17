@@ -3,7 +3,7 @@ title: "Tiger Responds to Security Warnings"
 slug: "study-tiger-responds-security-warnings-eweek-b-95c721"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "tiger-responds-security-warnings-eweek-b-95c721"
 author: "Ian Betteridge"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.33
+prescience_obs_count: 6
 ---
 
 # Tiger Responds to Security Warnings
@@ -32,11 +32,11 @@ _Published 2005, author **Ian Betteridge**, type **news-article**._
 
 ## Top observations
 
-- 37 of 1,403 new vulnerabilities involving Apple for six months ended Dec 31 2004
+- Yes — 2012 Flashback Trojan (~600K Macs), 2016 KeRanger ransomware, 2020s XCSSET, Silver Sparrow, ongoing enterprise-credential theft campaigns. Apple-enterprise severity per incident generally remained lower than Windows ransomware events. `[ps=5]`
+- 'I agree with Symantec that Apples growing success will bring more attacks, but so far Apple has been able to keep up with — if not a step ahead of — the bad guys.' — Kastner `[ps=4]`
+- 'Microsoft, with nearly 97 percent of the market, is a much more appealing target' — Connell `[ps=4]`
+- Kerberos VPN, stealth-mode firewall, Safe Downloads, secure virtual memory `[ps=4]`
+- Morgan Stanley predicted Apple could see its market share double by end of 2005 `[ps=3]`
+- 37 of 1,403 new vulnerabilities involving Apple for six months ended Dec 31 2004 `[ps=0]`
 - 'While the ratio of new Apple vulnerabilities to total new vulnerabilities approximates Apples market share, the severity and impact on organizations can only be categorized as much lower than with Microsoft operating systems.'
-- 'I agree with Symantec that Apples growing success will bring more attacks, but so far Apple has been able to keep up with — if not a step ahead of — the bad guys.' — Kastner
-- Yes — 2012 Flashback Trojan (~600K Macs), 2016 KeRanger ransomware, 2020s XCSSET, Silver Sparrow, ongoing enterprise-credential theft campaigns. Apple-enterprise severity per incident generally remained lower than Windows ransomware events.
-- 'Microsoft, with nearly 97 percent of the market, is a much more appealing target' — Connell
-- Morgan Stanley predicted Apple could see its market share double by end of 2005
-- Kerberos VPN, stealth-mode firewall, Safe Downloads, secure virtual memory
 - Opener / Renepo discovered by Sophos — script to harvest passwords, copied itself to mounted volumes but lacked effective propagation

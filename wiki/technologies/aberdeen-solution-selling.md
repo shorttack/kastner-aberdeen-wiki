@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "launch"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Solution Selling Methodology
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Step 1: determine client needs via sales data sheet and qualifying questions; Step 2: propose product via sales scenarios; Step 3: handle client questions — [[study-aas-operational-playbooks-aug-2001-b5a001]]
+- Step 1: determine client needs via sales data sheet and qualifying questions; Step 2: propose product via sales scenarios; Step 3: handle client questions `[ps=0]` — [[study-aas-operational-playbooks-aug-2001-b5a001]]

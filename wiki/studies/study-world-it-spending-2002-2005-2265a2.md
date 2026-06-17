@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 17
 ---
 
 # World IT Spending 2002-2005: Timing the Recovery
@@ -32,28 +32,28 @@ _Published 2002, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- $1,117.3B
-- $1,200.0B
-- $1,202.5B
+- $1,117.3B `[ps=0]`
+- $1,200.0B `[ps=0]`
+- $1,202.5B `[ps=0]`
+- $1,360.6B `[ps=0]`
+- $1,422.9B `[ps=0]`
+- $578.2B `[ps=0]`
+- $377.4B `[ps=0]`
+- $251.8B `[ps=0]`
+- $310.9B `[ps=0]`
+- $65.7B `[ps=0]`
+- $83.5B `[ps=0]`
+- $545.1B `[ps=0]`
+- $312.3B `[ps=0]`
+- $517.7B `[ps=0]`
+- 9.5% CAGR 2002-2005 all servers for SMB `[ps=0]`
+- 12.8% CAGR 2002-2005 Intel servers for Large (1000+) `[ps=0]`
+- 10.2% CAGR 2002-2005 Intel servers for Government `[ps=0]`
 - $1,239.7B
 - $1,298.7B
-- $1,360.6B
-- $1,422.9B
 - $475.7B
-- $578.2B
-- $377.4B
 - $410.5B
-- $251.8B
-- $310.9B
-- $65.7B
-- $83.5B
-- $545.1B
 - $592.9B
 - $228.9B
-- $312.3B
 - $428.6B
-- $517.7B
 - 17.4% CAGR 2002-2005 Intel servers for SMB (1-99 employees)
-- 9.5% CAGR 2002-2005 all servers for SMB
-- 8.6% CAGR 2002-2005 Intel servers for Medium (100-999)
-- 12.8% CAGR 2002-2005 Intel servers for Large (1000+)

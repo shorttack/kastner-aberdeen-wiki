@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.02
-prescience_obs_count: 48
+prescience_mean: 1.62
+prescience_obs_count: 37
 ---
 
 # The Procurement Outsourcing Benchmark Report

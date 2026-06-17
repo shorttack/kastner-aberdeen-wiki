@@ -12,9 +12,9 @@ status: "Active"
 successor: ""
 years_active: "1885-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # AT&T
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- AT&T Deutsche Telekom NTT hosting NDS leads to 500000 new users in 1997 — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- AT&T Deutsche Telekom NTT hosting NDS leads to 500000 new users in 1997 `[ps=2]` — [[study-1997-novell-directory-to-the-network-str-048b05]]

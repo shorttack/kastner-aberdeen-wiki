@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Mark Salamasick
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IIARF published 'PC Management Best Practices: A Study of the Total Cost of Ownership, Risk, Security, and Audit' by Mark Salamasick and Charles Le Grand (2003), using COSO and SAC models with case studies. — [[study-pc-management-best-practices-page-2-5-962daf]]
-- Director UT Dallas IIA Endorsed Internal Audit Program; prior 20yr Bank of America incl SVP Internet/Intranet and SVP IT Audit; earlier Andersen Consulting senior consultant — [[study-topic-iia-pc-management-best-practices-2003-10]]
+- IIARF published 'PC Management Best Practices: A Study of the Total Cost of Ownership, Risk, Security, and Audit' by Mark Salamasick and Charles Le Grand (2003), using COSO and SAC models with case studies. `[ps=0]` — [[study-pc-management-best-practices-page-2-5-962daf]]
+- Director UT Dallas IIA Endorsed Internal Audit Program; prior 20yr Bank of America incl SVP Internet/Intranet and SVP IT Audit; earlier Andersen Consulting senior consultant `[ps=0]` — [[study-topic-iia-pc-management-best-practices-2003-10]]

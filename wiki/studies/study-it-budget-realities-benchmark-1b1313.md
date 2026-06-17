@@ -3,7 +3,7 @@ title: "The Strategic Enterprise IT Budget Realities Benchmark Report"
 slug: "study-it-budget-realities-benchmark-1b1313"
 page_type: "study"
 tags: ["type/study", "collection/benchmark-report"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "it-budget-realities-benchmark-1b1313"
 author: "Bill Malik"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 33
 ---
 
 # The Strategic Enterprise IT Budget Realities Benchmark Report
@@ -32,28 +32,28 @@ _Published 2004, author **Bill Malik**, type **benchmark-report**._
 
 ## Top observations
 
-- 15%
-- 25%
-- 10%
-- 25%
-- Business customers demanding new capabilities
-- Pressure to cut IT expenses
-- Key corporate data is fragmented
-- Sustained IT alignment with business strategic priorities
-- Inadequate or inconsistent expertise across spend categories
-- Eroding value of information technology investments
-- Consolidate data and provide unified visibility
-- Eliminate redundant non-value-adding IT costs
-- Establish customer-centric service levels
-- CobiT-style IT process model
-- 65%
-- 58%
-- 57%
-- 67%
-- 60%
-- 41%
-- 33%
-- IT acquisition and lifecycle ill-defined and owned by separate lines of business
-- Corporate IT lifecycle standards exist but numerous exceptions tolerated
-- Corporate IT lifecycle standardized enforced enterprise-wide
-- Buy everything and maintain/operate in house
+- Pressure to cut IT expenses `[ps=4]`
+- Key corporate data is fragmented `[ps=4]`
+- Sustained IT alignment with business strategic priorities `[ps=4]`
+- Consolidate data and provide unified visibility `[ps=4]`
+- IT acquisition and lifecycle ill-defined and owned by separate lines of business `[ps=4]`
+- Corporate IT lifecycle standards exist but numerous exceptions tolerated `[ps=4]`
+- Leadership team attention to minimal but key set of business-relevant metrics developed with user executives `[ps=4]`
+- Best-in-class see sustaining IT alignment as top pressure; customer demand third `[ps=4]`
+- Continuous monitoring became industry standard `[ps=4]`
+- Establish customer-centric service levels `[ps=3]`
+- Corporate IT lifecycle standardized enforced enterprise-wide `[ps=3]`
+- Eroding value of information technology investments `[ps=2]`
+- 15% `[ps=0]`
+- 25% `[ps=0]`
+- 10% `[ps=0]`
+- Business customers demanding new capabilities `[ps=0]`
+- Eliminate redundant non-value-adding IT costs `[ps=0]`
+- 65% `[ps=0]`
+- 58% `[ps=0]`
+- 57% `[ps=0]`
+- 67% `[ps=0]`
+- 60% `[ps=0]`
+- Buy everything and maintain/operate in house `[ps=0]`
+- 74.3% `[ps=0]`
+- 0% `[ps=0]`

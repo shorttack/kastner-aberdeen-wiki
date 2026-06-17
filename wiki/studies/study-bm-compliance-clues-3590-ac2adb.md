@@ -1,5 +1,5 @@
 ---
-title: "==> picture [240 x 792] intentionally omitted <=="
+title: "Bm Compliance Clues 3590 (Aberdeen, 1988)"
 slug: "study-bm-compliance-clues-3590-ac2adb"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.26
-prescience_obs_count: 38
+prescience_mean: 1.0
+prescience_obs_count: 24
 ---
 
-# ==> picture [240 x 792] intentionally omitted <==
+# Bm Compliance Clues 3590 (Aberdeen, 1988)
 
-> This study analyzes ==> picture [240 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study bm-compliance-clues-3590-ac2adb. Source: bm_compliance_clues_3590.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 1988, author **Aberdeen Group**, type **topic-analysis**._
@@ -56,4 +56,4 @@ _Published 1988, author **Aberdeen Group**, type **topic-analysis**._
 - As of fall 2005, Ketera has enabled more than 80 clients with their spend management and procurement initiatives and has processed more than $4 trillion through its spend analysis solution. `[ps=0]`
 - _**Geography** :_ 50% of the respondents were from North America. 34% were from Europe, Middle East and Africa; 14% were from the Asia-Pacific region; 2% were from Latin and South America. `[ps=0]`
 - _**Company size** :_ About 47% of respondents were from large enterprises (annual revenues above US$1 billion); 39% were from midsize enterprises (annual revenues between $50 million and $1 billion); and 14% of respondents were from small businesses (annual revenues of $50 million or less). `[ps=0]`
-- **Figure 1: Number of Non-Compliant Events in Past One Month** `[ps=-1]`
+- **Figure 1: Number of Non-Compliant Events in Past One Month**

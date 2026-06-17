@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "[DEFERRED]"
 years_active: "2000-2008"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Internet Home Alliance (IHA)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- More mature than pre-study conjecture; receptivity and future buying patterns maturing — [[study-iha-full-report---draft-jul-28-41de81]]
-- Consumer electronics stores (Best Buy), computer stores, office superstores, warehouse clubs, mass merchants (Target, Wal-Mart), online; eventually pharmacies, grocery stores, toy stores — [[study-iha-full-report---draft-jul-28-41de81]]
+- More mature than pre-study conjecture; receptivity and future buying patterns maturing `[ps=4]` — [[study-iha-full-report---draft-jul-28-41de81]]
+- Consumer electronics stores (Best Buy), computer stores, office superstores, warehouse clubs, mass merchants (Target, Wal-Mart), online; eventually pharmacies, grocery stores, toy stores `[ps=4]` — [[study-iha-full-report---draft-jul-28-41de81]]
 - Product demonstrations (in-store, continuous loop video, infomercials); mass media (TV, radio, print); online advertising; direct mail — [[study-iha-full-report---draft-jul-28-41de81]]
 - In family households, typically one tech-savvy adult or teen handles digital data transfer; non-family households all members participate — [[study-iha-full-report---draft-jul-28-41de81]]
 - Once one SD product owned would prioritize SD in subsequent purchases — [[study-iha-full-report---draft-jul-28-41de81]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Edgio"
 years_active: "2001-2022"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Limelight Networks
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Limelight Networks rebranded as Edgio in 2022; Edgio filed for bankruptcy in 2024 — [[study-mirror-image-profile-v2-050404-97e2a6]]
+- Limelight Networks rebranded as Edgio in 2022; Edgio filed for bankruptcy in 2024 `[ps=1]` — [[study-mirror-image-profile-v2-050404-97e2a6]]

@@ -12,9 +12,9 @@ era: "early-2000s"
 lifecycle_at_study: "current-2002"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Apple Consumer Desktops/Laptops 2002
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Apple makes great easy-to-use desktops ($750+) and laptops ($1,300+); small share of consumer PC market — [[study-charlotte-observer-shain-back-to-school--4ec261]]
+- Apple makes great easy-to-use desktops ($750+) and laptops ($1,300+); small share of consumer PC market `[ps=4]` — [[study-charlotte-observer-shain-back-to-school--4ec261]]

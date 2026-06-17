@@ -3,7 +3,7 @@ title: "Chapter 7: Founding Aberdeen Group (1988-1997)"
 slug: "study-volume-1-ch07-founding-aberdeen-1988-1997"
 page_type: "study"
 tags: ["type/study", "collection/memoir"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "volume-1-ch07-founding-aberdeen-1988-1997"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.25
+prescience_obs_count: 76
 ---
 
 # Chapter 7: Founding Aberdeen Group (1988-1997)
@@ -32,28 +32,28 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 
 ## Top observations
 
-- Chuck Casale called Kastner at DEC in late 1989 with the proposition to co-found Aberdeen Group.
-- Casale ran Investor Relations at Prime Computer during its rocket-ship years; stock climbed 272% in a single year.
-- Prime Computer stock climbed 272 percent in a single year during Casale’s tenure in Investor Relations.
-- Harvard MBA; previously published Kastner’s Yankee Group study on transaction processing; covered financial side of Aberdeen.
-- Came from IDC; covered networking and remaining white space not covered by other three founding partners.
-- "Aberdeen Group" scored well in focus-group research as ‘highly trusted, top-notch — but I just can’t place it.’ The firm incorporated in 1988.
-- Aberdeen entered the enterprise technology research market in 1990, two years after incorporation.
-- Gartner (founded 1979) built a subscription model targeting CIOs with vendor evaluations; Magic Quadrant was the industry’s most recognizable analytical tool.
-- Enterprise software vendors coveted Leaders quadrant placement; Gartner analysts received enormous pressure around quarterly reviews.
-- IDC (founded 1964) dominated market sizing and forecasting with quantitative reports on shipments, revenues, and market share. ‘IDC owned the numbers.’
-- To tell a board that the database market was a $4 billion opportunity, you cited IDC.
-- Founded 1983 by George Colony; targeted CIOs and business executives; known for Wave reports and rigorous methodology.
-- Founded 1970; focused on telecommunications and networking; required reading in late 1980s as networking became enterprise-critical.
-- Aberdeen built ‘deep technical expertise in specific domains, delivered through concise published research as lead generation for high-margin advisory projects.’ FIGYs sold subscriptions; Aberdeen sold expertise.
-- System software, application software, and x86 servers.
-- Scientific and high-performance computing; held registered financial analyst credential giving Aberdeen unique capabilities.
-- Minicomputers.
-- Networking and everything that didn’t fit the other three buckets.
-- Partner who originated and closed a deal received a defined percentage; business development explicitly compensated.
-- Board-level briefings had their own allocation; structured as two-person presentations to ensure quality and expose clients to multiple perspectives.
-- Kastner called the structure a ‘cooperative hunter-killer community’ — everyone ate but rainmakers also prospered via selling premiums.
-- A purely individualist eat-what-you-kill model would have destroyed the firm; research requires review, quality control, and knowledge sharing.
-- Office overhead, administration, and rent split equally. Hiring partner assumed full financial risk for analyst salary and allocated overhead.
-- Approximately 35% margin on analyst-generated revenue accrued to the hiring partner as reward for the hiring risk.
-- Deep expertise in database systems and data management; could identify lock-escalation patterns causing performance degradation at scale.
+- IDC (founded 1964) dominated market sizing and forecasting with quantitative reports on shipments, revenues, and market share. ‘IDC owned the numbers.’ `[ps=5]`
+- Inside sales team called companies that had downloaded multiple related reports, knowing they were actively evaluating relevant technology decisions. `[ps=5]`
+- Data becoming a strategic asset, not merely an operational record. Enterprises analyzing customer behavior/market trends faster than competitors had sustainable advantages. Kastner has a circa-1991 slide of today’s AI-driven analysis model. `[ps=5]`
+- As client-server proliferated, integration complexity exploded into N-squared complexity. Pattern: architectural proliferation → integration pain → demand for integration platforms → new standards → further proliferation. `[ps=5]`
+- Relational databases remained dominant for operational systems through the 2010s. NoSQL carved out specific use cases but never displaced relational for enterprise applications. `[ps=5]`
+- Integration complexity accelerated as predicted, driving massive investment in middleware, EAI, SOA, and eventually API management. Clients who acted on early Aberdeen research avoided enormous technical debt. `[ps=5]`
+- Aberdeen underestimated how completely relational databases would dominate. Object databases captured negligible market share despite theoretical elegance; industry chose ORM over native object databases. `[ps=5]`
+- Kastner disliked C++ but underestimated how much the industry would tolerate ORM solution rather than abandon SQL. `[ps=5]`
+- VC meant governance changes, growth imperatives, and pressure to build revenue ahead of profitability. Cooperative partnership model difficult to maintain at larger scale with institutional investors. `[ps=5]`
+- Free research distribution built trust and demonstrated expertise before sales conversation. Prospects who consumed research were easier to close and more satisfied clients. `[ps=5]`
+- Data as competitive advantage thesis (early 1990s) anticipated big data (2000s) and AI/ML (2010s): competitive advantage flows from better use of data. `[ps=5]`
+- Enterprises that planned for integration from the start had manageable complexity. Those that treated it as afterthought built technical debt that haunted them for decades. `[ps=5]`
+- Founded 1970. `[ps=5]`
+- Founded 1983 by George Colony; targeted CIOs and business executives; known for Wave reports and rigorous methodology. `[ps=4]`
+- Founded 1970; focused on telecommunications and networking; required reading in late 1980s as networking became enterprise-critical. `[ps=4]`
+- A purely individualist eat-what-you-kill model would have destroyed the firm; research requires review, quality control, and knowledge sharing. `[ps=4]`
+- Former vendor engineers, enterprise architects, systems designers — people who had built and broken things. Ex-reporters also valuable. Analysts could install/configure products they covered. `[ps=4]`
+- Aberdeen published research freely and used it as lead generation for advisory services; fundamentally different from FIGY subscription models. `[ps=4]`
+- Aberdeen bet that in a world where information increasingly wants to be free, expertise and judgment are what clients will pay premium prices for. `[ps=4]`
+- Aberdeen’s free-research distribution model anticipated content marketing by 15 years; deeply contrarian in 1990, conventional wisdom by mid-2000s. `[ps=4]`
+- Relational databases had won the data management battle. ACID transaction guarantees + SQL flexibility = universal standard for operational systems. `[ps=4]`
+- Personal mission from 1985 to 1995 was championing the RDBMS that could handle both transactions AND query/reporting — the killer combination. `[ps=4]`
+- Aberdeen hired a Linux analyst as soon as Red Hat took off, reflecting the firm’s open-architecture conviction. `[ps=4]`
+- Proprietary platforms doomed; Unix and x86 to dominate. Outcome: correct on direction but Unix fragmentation persisted; Linux won via open licensing not technical standardization. `[ps=4]`
+- The VC choice marked the end of Aberdeen as a partnership and the beginning of Aberdeen as a venture-backed research company. `[ps=4]`

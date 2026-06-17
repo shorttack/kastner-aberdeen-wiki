@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Home networking
@@ -22,4 +22,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Multiple-PC households drive broadband connectivity and home-network demand — [[study-dct-personal-it-practice-launch-2001]]
+- Multiple-PC households drive broadband connectivity and home-network demand `[ps=4]` — [[study-dct-personal-it-practice-launch-2001]]

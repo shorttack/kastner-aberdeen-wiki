@@ -3,7 +3,7 @@ title: "Why Aberdeen Is Following Consumer PC Deals — DCT Practice Methodology
 slug: "study-dct-why-aberdeen-follows-pc-deals-2002"
 page_type: "study"
 tags: ["type/study", "collection/dct"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "dct-why-aberdeen-follows-pc-deals-2002"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.12
+prescience_obs_count: 17
 ---
 
 # Why Aberdeen Is Following Consumer PC Deals — DCT Practice Methodology
@@ -32,22 +32,22 @@ _Published 2002, author **Peter S. Kastner**, type **dct**._
 
 ## Top observations
 
-- 6 (Compaq, Dell, eMachines, Gateway, HP, Sony)
-- 8 (CPU, RAM, modem/NIC, HDD, monitor, OS, printer, software)
-- Pentium 4 beats 1.8GHz Celeron on cache
-- 128MB significantly slower than 256MB; multimedia=512MB
-- DDR faster than plain SDRAM
-- Makes sense for high-end Pentium 4 only
-- 56Kb standard
-- 10/100 Ethernet standard
-- Faster (7200 RPM) > bigger
+- DDR faster than plain SDRAM `[ps=5]`
+- XP Pro > XP Home for power/SMB users `[ps=5]`
+- 17 inch flat tube <$100 in bundle `[ps=4]`
+- Faster (7200 RPM) > bigger `[ps=3]`
+- 128MB significantly slower than 256MB; multimedia=512MB `[ps=2]`
+- 6 (Compaq, Dell, eMachines, Gateway, HP, Sony) `[ps=0]`
+- 8 (CPU, RAM, modem/NIC, HDD, monitor, OS, printer, software) `[ps=0]`
+- Pentium 4 beats 1.8GHz Celeron on cache `[ps=0]`
+- Makes sense for high-end Pentium 4 only `[ps=0]`
+- 56Kb standard `[ps=0]`
+- 10/100 Ethernet standard `[ps=0]`
+- 19 inch flat-panel 'to die for' `[ps=0]`
+- $50 and up `[ps=0]`
+- List - rebates + shipping (ex-sales tax) `[ps=0]`
+- Adjusted several times per week `[ps=0]`
+- No head-to-head competition `[ps=0]`
+- Open research question (post-Compaq merger) `[ps=0]`
 - 40GB entry / 80GB multimedia
-- 17 inch flat tube <$100 in bundle
-- 19 inch flat-panel 'to die for'
-- XP Pro > XP Home for power/SMB users
-- $50 and up
-- List - rebates + shipping (ex-sales tax)
-- Adjusted several times per week
 - Six coupons low-side for store purchase
-- No head-to-head competition
-- Open research question (post-Compaq merger)

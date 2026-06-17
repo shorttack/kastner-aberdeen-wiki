@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Google Profile (edit page) — pskastner
@@ -32,6 +32,6 @@ _Published 2009, author **Peter S. Kastner**, type **personal-archive-artifact**
 
 ## Top observations
 
-- Email pskastner@gmail.com; profile URL http://www.google.com/profiles/pskastner; numeric URL http://www.google.com/profiles/110552360138965462985
-- YouTube channel handle: catalina588
-- Picasa Web Albums handle: pskastner
+- Email pskastner@gmail.com; profile URL http://www.google.com/profiles/pskastner; numeric URL http://www.google.com/profiles/110552360138965462985 `[ps=0]`
+- YouTube channel handle: catalina588 `[ps=0]`
+- Picasa Web Albums handle: pskastner `[ps=0]`

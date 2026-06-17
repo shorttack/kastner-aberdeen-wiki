@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Joe Wetz
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- We are anticipating delays, and we are building that into project time frames. Many projects can withstand hardware delays of a few weeks, but if the problem lingers, we might have to find other sources. — [[study-respiratory-illness-could-restrict-i.t.--c3c523]]
+- We are anticipating delays, and we are building that into project time frames. Many projects can withstand hardware delays of a few weeks, but if the problem lingers, we might have to find other sources. `[ps=4]` — [[study-respiratory-illness-could-restrict-i.t.--c3c523]]

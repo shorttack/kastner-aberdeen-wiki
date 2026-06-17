@@ -12,9 +12,9 @@ era: "2018-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Oracle Autonomous Database
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle Autonomous Database launched 2018 — first commercially available self-driving/self-patching/self-scaling database — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle Autonomous Database launched 2018 — first commercially available self-driving/self-patching/self-scaling database `[ps=3]` — [[study-2026-kastner-oracle-longitudinal]]

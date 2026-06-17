@@ -3,7 +3,7 @@ title: "How I'd Succeed as a Marathon Sales Exec"
 slug: "study-marathon-d186ab"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "marathon-d186ab"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.86
+prescience_obs_count: 22
 ---
 
 # How I'd Succeed as a Marathon Sales Exec
@@ -32,28 +32,28 @@ _Published 1998, author **Peter S. Kastner**, type **market-study**._
 
 ## Top observations
 
-- 25%
+- high availability is now affordable `[ps=4]`
+- target Big Six and regional SIs `[ps=4]`
+- ERP evolving into Supply Chain Management `[ps=4]`
+- FUD — build availability paranoia `[ps=3]`
+- local general-business speeches and country-club schmoozing `[ps=2]`
+- time is right for Marathon Endurance `[ps=2]`
+- 25% `[ps=0]`
+- weak / niche ('Stratus Radio') `[ps=0]`
+- weak / distracted post-acquisition `[ps=0]`
+- weak relative to Endurance `[ps=0]`
+- not known for high availability `[ps=0]`
+- customer inertia / skepticism `[ps=0]`
+- 99.9% availability arithmetic `[ps=0]`
+- buy Microsofties a latte and demo `[ps=0]`
+- retail in-store servers and logistics `[ps=0]`
+- public safety and command and control `[ps=0]`
+- utilities deregulation `[ps=0]`
+- financial services `[ps=0]`
+- transportation `[ps=0]`
+- local ISPs (example: Yahoo) `[ps=0]`
+- Microsoft BackOffice VARs `[ps=0]`
+- emerging workload requiring HA `[ps=0]`
 - gaining market share in mission-critical
-- high availability is now affordable
-- weak / niche ('Stratus Radio')
-- weak / distracted post-acquisition
-- weak relative to Endurance
-- not known for high availability
-- customer inertia / skepticism
-- FUD — build availability paranoia
-- 99.9% availability arithmetic
-- buy Microsofties a latte and demo
-- target Big Six and regional SIs
 - engage OEM partners
-- retail in-store servers and logistics
 - health care
-- public safety and command and control
-- utilities deregulation
-- financial services
-- transportation
-- local ISPs (example: Yahoo)
-- Microsoft BackOffice VARs
-- local general-business speeches and country-club schmoozing
-- ERP evolving into Supply Chain Management
-- emerging workload requiring HA
-- time is right for Marathon Endurance

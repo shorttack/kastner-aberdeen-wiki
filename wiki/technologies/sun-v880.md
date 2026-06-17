@@ -12,9 +12,9 @@ era: "2001-2005"
 lifecycle_at_study: "mature"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sun Fire V880
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- iSeries 820 (1-4 way, $64-267K, $2.5B revenue) ↔ Sun V880 — [[study-sun-as400-market-data-2002-5faa8f]]
+- iSeries 820 (1-4 way, $64-267K, $2.5B revenue) ↔ Sun V880 `[ps=0]` — [[study-sun-as400-market-data-2002-5faa8f]]

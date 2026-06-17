@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Plantronics/Poly (2018) -> HP (2022)"
 years_active: "1990-2018"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Polycom, Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Vendors selling videoconferencing equipment could see their sales expand by as much as 35 percent in the fourth quarter of 2001 — [[study-telephony-post911-conferencing-psk-2001--0bf283]]
-- Department of Justice decides not to block Polycom/PictureTel merger — [[study-telephony-post911-conferencing-psk-2001--0bf283]]
+- Vendors selling videoconferencing equipment could see their sales expand by as much as 35 percent in the fourth quarter of 2001 `[ps=0]` — [[study-telephony-post911-conferencing-psk-2001--0bf283]]
+- Department of Justice decides not to block Polycom/PictureTel merger `[ps=0]` — [[study-telephony-post911-conferencing-psk-2001--0bf283]]

@@ -12,9 +12,9 @@ era: "1993-2009"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Novell NetWare 4.x
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Market share leader for file/print services; lacks stability for integrated database/application server role — [[study-aberdeen-1996-ibm-os2-warp-server]]
+- Market share leader for file/print services; lacks stability for integrated database/application server role `[ps=1]` — [[study-aberdeen-1996-ibm-os2-warp-server]]

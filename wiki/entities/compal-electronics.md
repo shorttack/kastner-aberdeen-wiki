@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1984-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Compal Electronics
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- yes - barred employees — [[study-sars2-hot-topic-cf91d4]]
+- yes - barred employees `[ps=0]` — [[study-sars2-hot-topic-cf91d4]]

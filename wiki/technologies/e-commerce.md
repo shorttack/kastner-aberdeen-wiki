@@ -13,8 +13,8 @@ lifecycle_at_study: "growth-1999"
 lifecycle_current: "ubiquitous"
 occurrence_count: 27
 prescience_max: 5.0
-prescience_mean: 0.9
-prescience_obs_count: 186
+prescience_mean: 1.26
+prescience_obs_count: 207
 ---
 
 # E-Commerce Infrastructure
@@ -30,6 +30,9 @@ prescience_obs_count: 186
 ## Top observations
 
 - Web site search is a minimum competitive requirement for online commerce as indicated by the 96% of eCommerce web sites that currently have or will have a search tool in place in the next twenty-four months. `[ps=5]` — [[study-ra-web-site-search-3910-5f9297]]
+- Web site search is a minimum competitive requirement for online commerce as indicated by the 96% of eCommerce web sites that currently have or will have a search tool in place in the next twenty-four months. `[ps=5]` — [[study-ra-web-site-search-3910-sli-16eb05]]
+- • Analytics derived from search are valuable. 72% of Best-in-Class use this data to improve SEO practices and 64% use analytics data to influence marketing campaigns. `[ps=5]` — [[study-ra-web-site-search-3910-sli-16eb05]]
+- Four major trends: Internet/intranet/extranet development; component production/assembly; distributed-app deployment; modeling/repositories `[ps=4]` — [[study-1999pr~2-cd0049]]
 - 66% of respondents claim that field service is either “very” or "extremely” important to their operational and financial performance, while only 13% state the same level of satisfaction with their field service operations. `[ps=4]` — [[study-ra-lbs-sd-3599-736223]]
 - • 69% of firms aim to purchase/upgrade technology to automate portions of their field service operations. `[ps=4]` — [[study-ra-lbs-sd-3599-736223]]
 - As a top strategy, 69% of respondents state they are looking to purchase or upgrade technology solutions to automate their field service operations (Table 1). `[ps=4]` — [[study-ra-lbs-sd-3599-736223]]
@@ -46,6 +49,3 @@ prescience_obs_count: 186
 - 62% of Best-in-Class companies continually fine-tune search to satisfy customers and meet their financial goals. `[ps=4]` — [[study-ra-web-site-search-3910-5f9297]]
 - Although search is a ubiquitous technology, producing accurate and relevant results remains a top pressure for 78% of survey respondents who seek to deliver search tools to enhance the customer experience. `[ps=4]` — [[study-ra-web-site-search-3910-5f9297]]
 - can be accomplished to some degree by internal Search Engine Optimization (SEO) techniques, which are used by 58% of all respondents to produce better results both internally and externally. `[ps=4]` — [[study-ra-web-site-search-3910-5f9297]]
-- Best-in-Class companies follow this up by offering collaborative filtering in the form of related searches or similar products purchased by others to influence a buyer’s purchasing decision. `[ps=4]` — [[study-ra-web-site-search-3910-5f9297]]
-- Additionally, learning more about customers through analytics and personalizing the results for unique customers or customer segments ranked as top strategies for Best-in-Class merchants. `[ps=4]` — [[study-ra-web-site-search-3910-5f9297]]
-- 51% of Laggards dedicate very little time if any at all, to managing search applications. 17% of Best-in-Class have a full time employee dedicated to this task. `[ps=4]` — [[study-ra-web-site-search-3910-5f9297]]

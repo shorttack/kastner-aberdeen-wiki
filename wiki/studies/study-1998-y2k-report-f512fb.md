@@ -3,7 +3,7 @@ title: "Y2K Software Tools Providers 1998"
 slug: "study-1998-y2k-report-f512fb"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1998-y2k-report-f512fb"
 author: "Andrew Bochman; Management Support Technology, Inc."
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.6
+prescience_obs_count: 20
 ---
 
 # Y2K Software Tools Providers 1998
@@ -32,28 +32,28 @@ _Published 1998, author **Andrew Bochman; Management Support Technology, Inc.**,
 
 ## Top observations
 
-- Certain disaster if remediation deferred to 1999
-- Mature — several years on market with refined methodologies
+- Minor disruptions only; no major failures at Y2K rollover `[ps=5]`
+- 2-digit year fields create rollover errors `[ps=5]`
+- Y2K tools vendors will face business wind-down after January 2000 `[ps=5]`
+- Majority dissolved or absorbed; category became obsolete `[ps=5]`
+- Many waited until 1998 to begin in earnest `[ps=4]`
+- Will begin affecting non-US enterprises as soon as late 1998 `[ps=4]`
+- Mature — several years on market with refined methodologies `[ps=3]`
+- Certain disaster if remediation deferred to 1999 `[ps=1]`
+- Finding all date-sensitive code instances `[ps=0]`
+- Last-chance validation of fixed code `[ps=0]`
+- Lack of support for non-IBM Y2K remediation `[ps=0]`
+- Lack of testing tool breadth `[ps=0]`
+- Profiled as strong Y2K tools provider `[ps=0]`
+- Profiled as strong Y2K services provider `[ps=0]`
+- Profiled as strong Y2K tools provider `[ps=0]`
+- Profiled as strong Y2K remediation provider `[ps=0]`
+- Profiled as strong Y2K tools provider `[ps=0]`
+- Profiled as strong Y2K tools provider `[ps=0]`
+- Profiled as strong Y2K automated tools provider `[ps=0]`
+- Based on hundreds of supplier interviews and BA&A services `[ps=0]`
 - Majority started 1-3 years prior (1995-1997)
-- Many waited until 1998 to begin in earnest
-- Will begin affecting non-US enterprises as soon as late 1998
-- Minor disruptions only; no major failures at Y2K rollover
 - Primary platform requiring remediation due to COBOL date handling
-- 2-digit year fields create rollover errors
-- Finding all date-sensitive code instances
 - Applying longer-term code fixes (windowing vs expansion)
-- Last-chance validation of fixed code
 - No robust Y2K project management tooling existed
-- Lack of support for non-IBM Y2K remediation
-- Lack of testing tool breadth
 - Lack of end-to-end tool comprehensiveness
-- Profiled as strong Y2K tools provider
-- Profiled as strong Y2K services provider
-- Profiled as strong Y2K tools provider
-- Profiled as strong Y2K remediation provider
-- Profiled as strong Y2K tools provider
-- Profiled as strong Y2K tools provider
-- Profiled as strong Y2K tools provider
-- Profiled as strong Y2K tools provider
-- Profiled as strong Y2K automated tools provider
-- Based on hundreds of supplier interviews and BA&A services

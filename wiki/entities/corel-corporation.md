@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Dell EMC (Dell Technologies)"
 years_active: "1911-present"
 occurrence_count: 5
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 4
 ---
 
 # U.S. Environmental Protection Agency
@@ -29,9 +29,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- filed_chapter_11_august_1994 `[ps=0]` — [[study-1997-data-mining-buying-guide-71e463]]
+- already_bankrupt_1994_limited_viability `[ps=0]` — [[study-1997-data-mining-buying-guide-71e463]]
+- critical-for-end-to-end `[ps=0]` — [[study-1998-hp-high-availability-and-metadata-7d1276]]
+- mandatory `[ps=0]` — [[study-2003-intel-consumer-lt-10-5-8c346e]]
 - acquired_ibm_1998 — [[study-1997-data-integration-management-in-hete-de2429]]
-- filed_chapter_11_august_1994 — [[study-1997-data-mining-buying-guide-71e463]]
-- already_bankrupt_1994_limited_viability — [[study-1997-data-mining-buying-guide-71e463]]
 - 10x_improvement_100k_sgi_vs_10k_nt — [[study-1997-datafocus'-nutcracker--enterprise-c-bfc11e]]
-- critical-for-end-to-end — [[study-1998-hp-high-availability-and-metadata-7d1276]]
-- mandatory — [[study-2003-intel-consumer-lt-10-5-8c346e]]

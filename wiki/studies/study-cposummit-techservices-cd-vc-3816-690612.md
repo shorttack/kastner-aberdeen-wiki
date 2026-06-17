@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.5
-prescience_obs_count: 32
+prescience_mean: 1.53
+prescience_obs_count: 19
 ---
 
 # The 2006 CPO’s Summit: Technology and Services Benchmark Report
@@ -51,9 +51,9 @@ _Published 2006, author **Aberdeen Group**, type **topic-analysis**._
 - Life sciences represented 8% of the sample. `[ps=0]`
 - _**Company size** :_ About 57% of respondents were from large enterprises (annual revenues above US$1 billion); 8% were from midsize enterprises (annual revenues between $50 million and $1 billion); and 36% of respondents were from small businesses (annual revenues of $50 million or less). `[ps=0]`
 - _The CPO’s Summit: $1.46 Trillion on Tap_ – November 2006 `[ps=0]`
-- **Figure 1: Top CPO Performance Indicators** `[ps=-1]`
-- **Figure 2: Attendees Currently Using an On-Demand Solution** `[ps=-1]`
-- **Figure 3: Top Concerns for Implementing an On-Demand Solution** `[ps=-1]`
-- **Figure 4: Most Compelling Factors in Favor of an On-Demand Solution** `[ps=-1]`
-- **Figure 5: Plans for On-Demand Utilization or Expansion in 12-24 Months** `[ps=-1]`
-- **Figure 6: Number of Source Systems for Spend Analysis** `[ps=-1]`
+- **Figure 1: Top CPO Performance Indicators**
+- **Figure 2: Attendees Currently Using an On-Demand Solution**
+- **Figure 3: Top Concerns for Implementing an On-Demand Solution**
+- **Figure 4: Most Compelling Factors in Favor of an On-Demand Solution**
+- **Figure 5: Plans for On-Demand Utilization or Expansion in 12-24 Months**
+- **Figure 6: Number of Source Systems for Spend Analysis**

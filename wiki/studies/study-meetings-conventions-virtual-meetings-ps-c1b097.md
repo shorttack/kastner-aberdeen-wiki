@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 5
 ---
 
 # Meetings & Conventions Magazine — 'Planners Turn to Tech: Virtual meetings post-Sept 11' (PSK Aberdeen CRO quoted, November 2001)
@@ -32,9 +32,9 @@ _Published 2001, author **M.C. (Meetings & Conventions staff)**, type **trade-pr
 
 ## Top observations
 
-- vice president and chief research officer for The Aberdeen Group, a Boston-based technology consulting firm
-- M&C body text misspells PSK as 'Peter Kassner' — preserved verbatim as primary-source artifact
-- Implementation of virtual meetings and conferences at Aberdeen increased by 25 percent in the week after the events of Sept. 11
-- The week of the attack, we saw a 49 percent increase in usage over the prior week
-- Folsom expects to see 30 to 35 percent more business as a result of the Sept. 11 attacks
+- vice president and chief research officer for The Aberdeen Group, a Boston-based technology consulting firm `[ps=0]`
+- M&C body text misspells PSK as 'Peter Kassner' — preserved verbatim as primary-source artifact `[ps=0]`
+- Implementation of virtual meetings and conferences at Aberdeen increased by 25 percent in the week after the events of Sept. 11 `[ps=0]`
+- The week of the attack, we saw a 49 percent increase in usage over the prior week `[ps=0]`
+- Folsom expects to see 30 to 35 percent more business as a result of the Sept. 11 attacks `[ps=0]`
 - Reported a similar jump in demand

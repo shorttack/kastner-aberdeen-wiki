@@ -12,9 +12,9 @@ era: "2001-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # HP-Compaq merger (2002)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Merged company will be spending next year reorganizing while competitors move ahead with new products and services — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
-- 'HP and Compaq sales forces will be combined and reshuffled — it's quite likely that at least some of the people assigned to an account are likely to be new over the next six months.' — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
+- 'HP and Compaq sales forces will be combined and reshuffled — it's quite likely that at least some of the people assigned to an account are likely to be new over the next six months.' `[ps=5]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
+- Merged company will be spending next year reorganizing while competitors move ahead with new products and services `[ps=4]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]

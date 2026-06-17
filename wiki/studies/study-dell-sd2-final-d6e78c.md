@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 0.2
+prescience_obs_count: 10
 ---
 
 # Asset Recovery Services Field Guide: A New Way to Strengthen Relationships and Increase Sales
@@ -32,18 +32,18 @@ _Published 2003, author **Peter S. Kastner**, type **white-paper**._
 
 ## Top observations
 
-- ~80%
-- ~6% per month
+- Equipment >3 years old or with data security prohibiting Value Recovery `[ps=2]`
+- ~80% `[ps=0]`
+- ~6% per month `[ps=0]`
+- $59 per system (SKU 960-1847, ARVRPAL) `[ps=0]`
+- $49 per system (SKU 310-4253, ARRECBX) `[ps=0]`
+- $59 per system (SKU 960-1839, ARRECPM) `[ps=0]`
+- 2 significant hardware pieces (e.g., CPU + monitor, CPU + printer, 2 CPUs, 2 monitors, 2 printers) `[ps=0]`
+- Lower than or equal to competition `[ps=0]`
+- Monthly `[ps=0]`
+- Within 90 days of Dell taking possession `[ps=0]`
 - $59 per system (SKU 310-4261, ARVRBX)
-- $59 per system (SKU 960-1847, ARVRPAL)
 - $69 per system (SKU 960-1848, ARVRPM)
-- $49 per system (SKU 310-4253, ARRECBX)
 - $49 per system (SKU 960-1838, ARRECPAL)
-- $59 per system (SKU 960-1839, ARRECPM)
-- 2 significant hardware pieces (e.g., CPU + monitor, CPU + printer, 2 CPUs, 2 monitors, 2 printers)
-- Lower than or equal to competition
 - Any brand: desktops, notebooks, servers, storage, networking, monitors, printers, projectors, peripherals
-- Equipment >3 years old or with data security prohibiting Value Recovery
-- Monthly
-- Within 90 days of Dell taking possession
 - Most customers unaware of ARS from any manufacturer

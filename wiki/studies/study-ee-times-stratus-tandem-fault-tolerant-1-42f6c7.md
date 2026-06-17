@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.0
+prescience_obs_count: 5
 ---
 
 # EE Times: Stratus Challenges Tandem in Fault-Tolerant Computing — Pete Kastner on Self-Checking Hardware Strategy (May 1982)
@@ -32,9 +32,9 @@ _Published 1982, author **EE Times (Electronic Engineering Times) staff**, type 
 
 ## Top observations
 
-- Peter Kastner, manager of marketing development at Stratus
-- We're different. We've done it all in hardware. Every one of the components we use is self-checking during each operating cycle.
+- Six-year lead over upstarts; some upstart products seem more advanced `[ps=3]`
+- We're different. We've done it all in hardware. Every one of the components we use is self-checking during each operating cycle. `[ps=2]`
+- Peter Kastner, manager of marketing development at Stratus `[ps=0]`
+- Larry Roberts (partner in firm that backed both Stratus and Synapse) cited as observing 32-bit FT segment dynamics `[ps=0]`
+- Synapse Computer cited alongside Stratus as 32-bit FT startup; Mark Leslie president `[ps=0]`
 - Stratus has already taken a piece out of Tandem's market; Stratus has faster computation; users can extend their FT operations more easily
-- Six-year lead over upstarts; some upstart products seem more advanced
-- Larry Roberts (partner in firm that backed both Stratus and Synapse) cited as observing 32-bit FT segment dynamics
-- Synapse Computer cited alongside Stratus as 32-bit FT startup; Mark Leslie president

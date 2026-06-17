@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1970s-1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.25
+prescience_obs_count: 4
 ---
 
 # William D. Strecker
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Strengthen position relative to IBM and assume leadership role in enterprise-wide information systems — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
-- OSI networking standards will replace IBM SNA as enterprise networking standard; SNA described as closed, complex, hierarchical — not meeting real needs — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
-- MS-DOS, OS/2, IBM SNA, Cray supercomputing, and Apple Macintosh named as non-DEC architecture targets for NAS — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
-- 60 billion USD (40% of worldwide computer revenue) — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- MS-DOS, OS/2, IBM SNA, Cray supercomputing, and Apple Macintosh named as non-DEC architecture targets for NAS `[ps=3]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- Strengthen position relative to IBM and assume leadership role in enterprise-wide information systems `[ps=1]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- OSI networking standards will replace IBM SNA as enterprise networking standard; SNA described as closed, complex, hierarchical — not meeting real needs `[ps=1]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- 60 billion USD (40% of worldwide computer revenue) `[ps=0]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]

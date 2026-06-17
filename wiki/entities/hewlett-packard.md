@@ -12,9 +12,9 @@ status: "active (split: HP Inc. / HPE 2015)"
 successor: "HP Inc. (consumer/PC) and Hewlett Packard Enterprise (enterprise), split November 2015"
 years_active: "1939-present"
 occurrence_count: 116
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.79
+prescience_obs_count: 275
 ---
 
 # Hewlett-Packard Company (Post-Merger)
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
--  — [[study-10ibmiss-f66945]]
-- 61% price-performance improvement; 171% performance improvement — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
-- Advanced from also-ran to serious-contender — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
-- Hercules should implement SAP R3 on HP 9000 Series 800 as sole supplier — [[study-1993-hercules-sap-28344a]]
-- 45%+ market share in commercial RISC/Unix systems — [[study-1993-hercules-sap-28344a]]
-- 7 generations of PA-RISC implementations; Hitachi developing high-end next-gen; Samsung developing low-end — [[study-1993-hercules-sap-28344a]]
-- HP 890-400 has more throughput capability than Hercules' current IBM 3090-200 mainframe — [[study-1993-hercules-sap-28344a]]
-- HP is RISC/Unix reference port for both SAP and Oracle; Oracle's most important multiuser platform in revenue — [[study-1993-hercules-sap-28344a]]
-- Only supplier with both high-end and midrange SMP; broadest product line; granular midrange by processor speed — [[study-1993-hercules-sap-28344a]]
-- Longest history of Unix commitment; HP PSO claimed world's largest Unix services organization — [[study-1993-hercules-sap-28344a]]
-- HP-UX in top tier for Unix stability; OpenView extensions shared with industry accelerated stable Unix acceptance — [[study-1993-hercules-sap-28344a]]
-- 7 generations of PA-RISC; proven track record; Hitachi and Samsung developing next-gen implementations — [[study-1993-hercules-sap-28344a]]
-- SAP and Oracle reference port; majority of ISVs for multiuser Unix marketplace — [[study-1993-hercules-sap-28344a]]
-- HP dominated commercial RISC/Unix through late 1990s; acquired Compaq (including DEC/Tandem) in 2002 for $25B — [[study-1993-hercules-sap-28344a]]
-- Serious competitor with large installed base but has 'clearly lost momentum'; HP has not decided whether to reinvigorate OpenView product development — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]
-- HP commissioned Aberdeen interviews with IT executives undergoing major technology transitions, Sep 1996 — [[study-1997-managing-the-people-dimension-of-ma-1d6b17]]
-- HP engaged Aberdeen to produce research validating HP's training and education services offerings for enterprise technology transitions — [[study-1997-managing-the-people-dimension-of-ma-1d6b17]]
-- One-on-one interviews with key project leaders and decision-makers, September 1996; qualitative primary research — [[study-1997-managing-the-people-dimension-of-ma-1d6b17]]
-- Hewlett-Packard has approximately 25000 professional services staff; number two OEM services provider — [[study-1999pr~1-c5516b]]
-- HP strong in Unix-oriented professional services but comparatively slow to build NT deployment services at scale — [[study-1999pr~1-c5516b]]
+- HP discontinued Tru64 advanced features Dec 2004; migrated to HP-UX on Itanium; many Tru64 developers laid off `[ps=5]` — [[study-2001-hp-cpq-merger-collection-edbca1]]
+- HP planned to migrate Unix customer base from RISC (Alpha/PA-RISC) to HP-UX on Itanium `[ps=5]` — [[study-2001-hp-cpq-merger-collection-edbca1]]
+- Intel discontinued Itanium in 2021; HP's Itanium-based Unix strategy failed to achieve dominance `[ps=5]` — [[study-2001-hp-cpq-merger-collection-edbca1]]
+- HP split into HP Inc. (consumer/printing) and Hewlett Packard Enterprise (servers/services) in November 2015 `[ps=5]` — [[study-2001-hp-cpq-merger-collection-edbca1]]
+- Aberdeen firmly believed distributed computing would become increasingly critical to daily business operations `[ps=5]` — [[study-aberdeen-1995-hp-softbench]]
+- MPE/iX was never ported to Itanium/Merced; HP 3000 EOL announced instead `[ps=5]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
+- Substantial portion of installed base continued using HP 3000 through 2010 EOL; third-party support ongoing post-2010 `[ps=5]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
+- 10.2 (PA-8000 support) → 11.0 (VLM, mid-1997) → 11.X (Merced) `[ps=5]` — [[study-aberdeen-1996-hp-9000-enterprise-server-64bit-pa8000]]
+- Itanium (Merced) shipped in servers in 2001; 3 years later than predicted `[ps=5]` — [[study-aberdeen-1996-hp-9000-enterprise-server-64bit-pa8000]]
+- HP EPS/PA-RISC platform did not become dominant datacenter standard; HP shifted to Itanium (Integrity servers) around 2001-2002; x86/Linux ultimately dominated high-end commercial computing; HP-UX market share declined steadily `[ps=5]` — [[study-aberdeen-1996-hp-enterprise-parallel-server-scalable-performance]]
+- HP PA-8000 processor introduced as planned; HP EPS with PA-8000 nodes improved TPC-C results significantly in 1997; prediction proved accurate `[ps=5]` — [[study-aberdeen-1996-hp-enterprise-parallel-server-scalable-performance]]
+- Networking spending in SMB market will grow as workgroup applications drive bandwidth needs `[ps=5]` — [[study-aberdeen-1996-hp-networking-vision-workgroups]]
+- 100VG lost to 100Base-T as dominant fast Ethernet standard; 100Base-T became universal by late 1990s `[ps=5]` — [[study-aberdeen-1996-hp-networking-vision-workgroups]]
+- SMB networking market grew strongly through late 1990s-2000s; switched Ethernet dominated; HP ProCurve was successful `[ps=5]` — [[study-aberdeen-1996-hp-networking-vision-workgroups]]
+- Role-and-rules-based authorization separating identity/authorization from back-end; authorized access by app/app-server/location/time-of-day/day-of-week/roles; secured replication for HA `[ps=5]` — [[study-aberdeen-1996-hp-praesidium-family]]
+- Role-and-rules authorization separating identity from back-end; access by app/server/location/time/roles; HA replication; transforms mechanical ACLs into flexible business-logic `[ps=5]` — [[study-aberdeen-1996-hp-praesidium-family]]
+- HP Vectra line discontinued in 2002 following HP-Compaq merger; replaced by Evo line. NT/Intel workstations did succeed broadly but HP's specific Vectra XW brand was retired `[ps=5]` — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]
+- HP Medical Products Group sold to Philips Electronics for ~$1.7B in 2001; ended HP's healthcare device leadership `[ps=5]` — [[study-aberdeen-1997-hp-andover-working-group]]
+- IBM's Itanium support trails that of rival Hewlett-Packard, which is betting the company on Itanium `[ps=5]` — [[study-cnet-shankland-ibm-itanium-x450-2003-c91608]]
+- Economic law of consumer electronics: cannot afford many support calls and still profit on mass-market products `[ps=5]` — [[study-copy-of-hp-camera-lab-journal-prod-c103f6]]

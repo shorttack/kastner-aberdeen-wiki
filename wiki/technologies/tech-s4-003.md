@@ -12,9 +12,9 @@ era: "1993-2001"
 lifecycle_at_study: "Growth"
 lifecycle_current: "Obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # IBM Application Development Family (VisualAge)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Crossbar switch Memory Channel — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
-- IBM endorsing Java server-to-client development with VisualAge; opposing ActiveX/Microsoft — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
+- IBM endorsing Java server-to-client development with VisualAge; opposing ActiveX/Microsoft `[ps=4]` — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
+- Crossbar switch Memory Channel `[ps=0]` — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]

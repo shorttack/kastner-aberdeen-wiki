@@ -12,9 +12,9 @@ era: "1987-1995"
 lifecycle_at_study: "growth"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # VMS Services for MS-DOS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- VMS Services for MS-DOS is the leading integration product in the market; won numerous awards — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- VMS Services for MS-DOS is the leading integration product in the market; won numerous awards `[ps=2]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]

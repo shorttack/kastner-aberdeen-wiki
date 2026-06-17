@@ -12,9 +12,9 @@ era: "1997-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IP AutoLearn
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Transparently integrates with existing network routers with no reconfiguration; automatically learns Layer 2 and Layer 3 addresses — [[study-1997-bay-networks--switch-node-routing-s-4d9885]]
+- Transparently integrates with existing network routers with no reconfiguration; automatically learns Layer 2 and Layer 3 addresses `[ps=0]` — [[study-1997-bay-networks--switch-node-routing-s-4d9885]]

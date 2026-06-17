@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1999"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Gerry Hemmendinger
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Qualified and quantified PKI opportunity, what to avoid, which vertical markets to target, and how to best package offerings — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Qualified and quantified PKI opportunity, what to avoid, which vertical markets to target, and how to best package offerings `[ps=0]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]

@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Snap Server 4500 is a legacy NAS model from the early Snap Appliance era. Discontinued as part of the overall early SnapServer product line discontinuation.', 'source': 'https://www.parkplacetechnologies.com/eosl/family/snapserver/'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Snap Server 4500
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3TB — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
+- 3TB `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]

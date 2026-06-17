@@ -12,9 +12,9 @@ status: "operating"
 successor: "[DEFERRED]"
 years_active: "1969-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Samsung Electronics
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 42in plasma HDTV >$5000 in 2002 — [[study-dct-kastner-wish-list-2002-12]]
+- 42in plasma HDTV >$5000 in 2002 `[ps=5]` — [[study-dct-kastner-wish-list-2002-12]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM"
 years_active: "1994-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # CrossWorld Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquired by IBM in 2001 for process integration capabilities — [[study-1998-enterprise-application-integration-advanced-techno-71496c]]
+- Acquired by IBM in 2001 for process integration capabilities `[ps=5]` — [[study-1998-enterprise-application-integration-advanced-techno-71496c]]

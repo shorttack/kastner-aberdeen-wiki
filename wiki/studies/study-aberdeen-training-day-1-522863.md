@@ -3,7 +3,7 @@ title: "Twelve Vital Hours For Your Career Success"
 slug: "study-aberdeen-training-day-1-522863"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-training-day-1-522863"
 author: "Peter S. Kastner / Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.6
+prescience_obs_count: 20
 ---
 
 # Twelve Vital Hours For Your Career Success
@@ -32,28 +32,28 @@ _Published 2000, author **Peter S. Kastner / Aberdeen Group**, type **employer-r
 
 ## Top observations
 
+- Largest continuous advisory service; 'safe' choice for mainstream IT executives `[ps=5]`
+- Research, analyze, and report business impact of emerging technologies `[ps=4]`
+- Evaluates suppliers according to criteria of users, not personal analyst vision `[ps=3]`
+- Boston, Palo Alto, Amsterdam `[ps=0]`
+- Chief Operating Officer and CIO `[ps=0]`
+- IT suppliers; end-user IT organizations; business executives; investor organizations `[ps=0]`
+- Subscription research; one-off seminars; custom consulting; media sound bites `[ps=0]`
+- Global 2000 IT Departments, Director level and below `[ps=0]`
+- No products directly sold to end-user market; small sales force `[ps=0]`
+- 1:150 `[ps=0]`
+- 1:50 `[ps=0]`
+- Positive directions for IT managers; actionable; avoids 'diatribes' `[ps=0]`
+- Issue definition > Opportunity assessment > Research > Analysis > Action recommendations `[ps=0]`
+- Market size/composition; user buying patterns; competitive field; countering negative coverage `[ps=0]`
+- Stock-moving news; sector trends; identifying next Microsoft/Intel/Cisco `[ps=0]`
+- Majority of IT professionals' main source; advertising-driven; less expensive `[ps=0]`
+- Not knowledgeable about IT deployment and IT dynamics `[ps=0]`
+- Instill confidence; explain Aberdeen uniqueness; provide basic skills; build pride `[ps=0]`
+- Evaluate impact of new introductions; identify leaders as they emerge `[ps=0]`
+- Proven Aberdeen practices for establishing business relationships with prospective clients `[ps=0]`
 - 12 hours (four sessions)
-- Boston, Palo Alto, Amsterdam
-- Research, analyze, and report business impact of emerging technologies
-- Chief Operating Officer and CIO
 - One-on-one consultation with clients
-- IT suppliers; end-user IT organizations; business executives; investor organizations
-- Subscription research; one-off seminars; custom consulting; media sound bites
-- Global 2000 IT Departments, Director level and below
-- No products directly sold to end-user market; small sales force
-- 1:150
-- Largest continuous advisory service; 'safe' choice for mainstream IT executives
 - 120+
 - 2-3 years out; current specialty e-business
-- 1:50
 - $13 to $3
-- Up to 100,000 copies; distributed via web and supplier proposals
-- Positive directions for IT managers; actionable; avoids 'diatribes'
-- Issue definition > Opportunity assessment > Research > Analysis > Action recommendations
-- Evaluates suppliers according to criteria of users, not personal analyst vision
-- Between Product Introduction and Rapid Growth phase
-- No single IT supplier; faster supplier-employee turnover; faster tech introduction; IT impact on business performance
-- Aberdeen uniqueness; client representation; Profile/RAMP writing; Analyst Support Services; Business Development
-- Market size/composition; user buying patterns; competitive field; countering negative coverage
-- Stock-moving news; sector trends; identifying next Microsoft/Intel/Cisco
-- Majority of IT professionals' main source; advertising-driven; less expensive

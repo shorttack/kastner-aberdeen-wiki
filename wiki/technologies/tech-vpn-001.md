@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Mature/Standard"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Virtual Private Network (VPN)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Network services becoming carrier/WAN-centric; NSP market emerging — [[study-1997-nortel--transforming-business-by-po-3edae6]]
+- Network services becoming carrier/WAN-centric; NSP market emerging `[ps=4]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]

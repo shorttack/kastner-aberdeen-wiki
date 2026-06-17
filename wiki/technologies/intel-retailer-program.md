@@ -12,9 +12,9 @@ era: "early-2000s"
 lifecycle_at_study: "current-2002"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Intel Retailer Sourcing Program (Asian Suppliers)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Increased involvement in retailer house-brand programs; opened Asian supplier doors — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
-- Intel wins when there is no strong brand out there; could drive down Intel's profits — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
+- Increased involvement in retailer house-brand programs; opened Asian supplier doors `[ps=3]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
+- Intel wins when there is no strong brand out there; could drive down Intel's profits `[ps=2]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]

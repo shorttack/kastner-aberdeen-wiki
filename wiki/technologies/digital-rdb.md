@@ -12,9 +12,9 @@ era: "1984-1990s"
 lifecycle_at_study: "shipping"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Digital Rdb (relational database)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DEC Rdb positioned as relational TP database for VAX, vs IBM DB2 on mainframe — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
-- DEC had the VAX architecture, a genuine relational database in Rdb, and a transaction monitor — but lacked a verifiable competitive story. — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- DEC had the VAX architecture, a genuine relational database in Rdb, and a transaction monitor — but lacked a verifiable competitive story. `[ps=5]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- DEC Rdb positioned as relational TP database for VAX, vs IBM DB2 on mainframe `[ps=0]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]

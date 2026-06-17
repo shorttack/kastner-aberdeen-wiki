@@ -12,9 +12,9 @@ era: "1980s-2000s"
 lifecycle_at_study: "declining"
 lifecycle_current: "{'lifecycle_current': 'end-of-life', 'notes': 'ISDN is end-of-life in most countries. Known answer applied.', 'source': 'known'}"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # ISDN (Integrated Services Digital Network)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Flexible platforms needed for both digital (ISDN) and analog dial-in access; both segments growing — [[study-aberdeen-1996-remote-access-cisco-untold-story]]
-- Free ISDN line ordering via 800-number team; 3Com provisions ISDN for homes, small offices and branch offices — [[study-aberdeen-1997-3com-accelerates-remote-access-market]]
+- Flexible platforms needed for both digital (ISDN) and analog dial-in access; both segments growing `[ps=3]` — [[study-aberdeen-1996-remote-access-cisco-untold-story]]
+- Free ISDN line ordering via 800-number team; 3Com provisions ISDN for homes, small offices and branch offices `[ps=0]` — [[study-aberdeen-1997-3com-accelerates-remote-access-market]]
 - ISDN availability becoming more widespread and tariffing more reasonable; key technology for 3Com's SOHO growth — [[study-aberdeen-1997-3com-accelerates-remote-access-market]]
 - Cisco clearing path for carrier-class dial access market — [[study-aberdeen-1997-aberdeen-group-impacts]]

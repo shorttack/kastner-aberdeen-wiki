@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "1998-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Pequot Capital Management
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen due-diligence study confirmed VC firm's investment opinion — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Aberdeen due-diligence study confirmed VC firm's investment opinion `[ps=0]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]

@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Wireless Technologies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- major IT trend for retail — [[study-retail~1-d5de79]]
+- major IT trend for retail `[ps=0]` — [[study-retail~1-d5de79]]

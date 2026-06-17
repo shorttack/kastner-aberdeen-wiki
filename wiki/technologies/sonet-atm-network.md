@@ -12,9 +12,9 @@ era: "1991-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 4
 ---
 
 # SONET/ATM Fiber Network
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2,559,526 circuits; 165,999 miles of fiber; 4,458 buildings; 49 cities; 26 ATM switches in 25 cities — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
-- Original plan: 65 US metro centers by 2000; accelerated to end of 1998 due to success — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
-- 99.99% availability throughout 1994 and 1995 — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
-- 125,000 miles of fiber optic cable installed — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
+- 2,559,526 circuits; 165,999 miles of fiber; 4,458 buildings; 49 cities; 26 ATM switches in 25 cities `[ps=0]` — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
+- Original plan: 65 US metro centers by 2000; accelerated to end of 1998 due to success `[ps=0]` — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
+- 99.99% availability throughout 1994 and 1995 `[ps=0]` — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
+- 125,000 miles of fiber optic cable installed `[ps=0]` — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
 - MFS will deploy in all 65 US metro centers by end of 1998 (accelerated from year 2000) — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]

@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging-enterprise"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Linux kernel and operating system actively developed. Linux 6.x kernel series current. Dominant OS for servers, cloud, embedded, and supercomputing.', 'source': 'https://www.kernel.org/'}"
 occurrence_count: 41
-prescience_max: 4.0
-prescience_mean: 1.13
-prescience_obs_count: 45
+prescience_max: 5.0
+prescience_mean: 2.36
+prescience_obs_count: 90
 ---
 
 # Linux (Red Hat Advanced Server)
@@ -29,23 +29,23 @@ prescience_obs_count: 45
 
 ## Top observations
 
-- In a recent Aberdeen survey on the use of storage, respondents said that at least 20% of enterprise data fits this definition — and we believe more than half will eventually fall into the midline. `[ps=4]` — [[study-midlinestoragewp-7f30e3]]
-- 3. _Improve the data restoration process._ More than 60% of survey respondents report that data restorations are performed more than once a year — 20% report a data restore monthly or more frequently. `[ps=4]` — [[study-midlinestoragewp-7f30e3]]
-- Aberdeen research indicates that 75% of storage buyers are moderately or highly likely to buy midline storage in the coming year. `[ps=4]` — [[study-midlinestoragewp-7f30e3]]
-- To examine the need for and the progress in implementing midline storage, Aberdeen conducted primary market research that included 75 face-to-face and telephone interviews with storage managers at Applications that are not companies with $1 billion or larger in revenue, write-performance bound, including several Fortune 50-size businesses in such as read-only, fixed the U.S. with financial service `[ps=4]` — [[study-midlinestoragewp-7f30e3]]
-- Storage growth puts pressure on IT organizations to move content down the storage hierarchy stack as quickly as possible to reduce costs and simplify storage management (Figure 3). `[ps=4]` — [[study-midlinestoragewp-7f30e3]]
-- Where content resides depends on performance requirements (Figure 3). `[ps=4]` — [[study-midlinestoragewp-7f30e3]]
-- About 80% of these ISVs have migrated their WebSphere Application Server (e.g., Java) applications to System z9. `[ps=4]` — [[study-rb-re-thinking-ibm-mainframe-psk-3052-cec46c]]
-- Panasonic and Sony are both expected to launch similar dedicated video players, but pricing is expected to be $300-$500 and up. `[ps=4]` — [[study-written-dct-oct-4-hot-topic-13a344]]
-- With our recent research showing that 90% of all companies will exit 2006 with SOA activities at least underway — and many large enterprises with more than a year’s development experience ( _ESB and SOA Middleware_ , June, 2006) ─ SOA is at the heart of many software buying plans. `[ps=4]` — [[study-written-hp-can-boost-soa-offerings-with-acquisition-of-mercury-2006-4f11c1]]
-- than $50 million in annual revenue) are unlikely to have such complex and diverse IT environments, and typically start a product acquisition cycle with **Microsoft** at the top of the list. `[ps=4]` — [[study-written-hp-can-boost-soa-offerings-with-acquisition-of-mercury-2006-4f11c1]]
-- Aberdeen’s most recent survey indicates mainframes are heavily involved in enterprise-size company (at least $1 billion) SOA plans. `[ps=4]` — [[study-written-hp-can-boost-soa-offerings-with-acquisition-of-mercury-2006-4f11c1]]
-- The news from Aberdeen field research is that 40% of mainframe customers are now looking at ways to offload or surround their mainframes. `[ps=4]` — [[study-written-perspective-041304-eb8c4a]]
-- Recently, Dell replaced Compaq as the number-one Intel server vendor in the U.S. (for servers under $25,000) — although Compaq remains number one worldwide. `[ps=3]` — [[study-09010007-2a8be4]]
-- It works like this: DB2 database, Java application server, and Linux workloads are offloaded onto unused mainframe processors at a cost of $95,000 per processor for the IBM z9 Business Class. `[ps=3]` — [[study-rb-re-thinking-ibm-mainframe-psk-3052-cec46c]]
-- With some 40% of IT budgets spent on integration projects and 70% overall on labor, IBM says the mainframe can reduce overall total cost of ownership. `[ps=3]` — [[study-rb-re-thinking-ibm-mainframe-psk-3052-cec46c]]
-- Approximately 40% of mainframe users are open to shifting to an Itanium-based platform. `[ps=2]` — [[study-written-perspective-041304-eb8c4a]]
-- Every Snap Server 4500 can support up to two Snap Disk 10 expansion arrays for easy to manage, best-in-class storage expansion of up to 3TB of raw storage capacity. `[ps=2]` — [[study-written-snap-appliances-snapshot-10-15pk-a7b49c]]
-- This study analyzes In Si ht g using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-09010002-18ee8a]]
-- This study analyzes In Si ht g using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-09010004-25b35c]]
-- This study analyzes In Si ht g using Aberdeen Group research material and prepared extraction artifacts. `[ps=0]` — [[study-09010007-2a8be4]]
+- Emerging low-cost OS alternative to Windows NT and Unix with high reliability and scalability `[ps=5]` — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
+- Linux may be about to extend its reach within the enterprise `[ps=5]` — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
+- Linux became dominant in server/cloud infrastructure; Red Hat acquired by IBM for $34B in 2019 `[ps=5]` — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
+- Linux positioned to achieve significant enterprise server presence within 5 years based on Global 2000 survey data `[ps=5]` — [[study-2000-linux-multi-client-study-29e6cf]]
+- Red Hat acquired by IBM for $34 billion in 2019 — largest software acquisition in history at time `[ps=5]` — [[study-2000-linux-multi-client-study-29e6cf]]
+- Caldera became SCO Group (2002), filed controversial Linux IP lawsuits, declared bankruptcy 2007 `[ps=5]` — [[study-2000-linux-multi-client-study-29e6cf]]
+- Linux will be successful alternative to proprietary systems in high-performance computing `[ps=5]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- Linux/x86 displaced Solaris/SPARC as enterprise standard; Oracle continued strong Linux support `[ps=5]` — [[study-2003-a-view-of-sun-s-2003-worldwide-analyst-conference-206a10]]
+- Linux will join IBM z/OS and Windows as primary server OSs before end of decade `[ps=5]` — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
+- Oracle identified Linux as fastest growing OS for any deployment; aligned with Dell on commodity server vision `[ps=5]` — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
+- Linux did achieve mission-critical status in enterprise environments by 2004-2005. Linux server revenues grew 14 consecutive quarters of double-digit growth through Q4 2005, reaching $5.7B for full-year 2005. Linux databases, SAP on Linux, and Oracle on Linux deployments became mainstream. `[ps=5]` — [[study-dell-sap-v6-d08820]]
+- Bronze, Silver, Gold, Platinum tiers varying in price, response time, contacts `[ps=5]` — [[study-linuxcare-ab95f6]]
+- Gaining acceptance; present in significant minority of Global 2000 IT environments `[ps=4]` — [[study-2000-linux-multi-client-study-29e6cf]]
+- Linux replacing Windows NT in specific market segments and application areas `[ps=4]` — [[study-2000-linux-multi-client-study-29e6cf]]
+- Preferred distributors identified; Red Hat and SUSE expected to lead `[ps=4]` — [[study-2000-linux-multi-client-study-29e6cf]]
+- Linux holds 44.8% server OS market share (2024); powers 100% of TOP500 supercomputers; runs 49.2% of cloud workloads `[ps=4]` — [[study-2000-linux-multi-client-study-29e6cf]]
+- Linux will join IBM z/OS and Microsoft Windows as primary server OSs before end of decade (2010) `[ps=4]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- Linux became dominant server OS by mid-2000s; now runs majority of cloud infrastructure `[ps=4]` — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
+- The architecture for the first time makes Linux robust enough to run enterprise mission-critical applications with low disruption risk. `[ps=4]` — [[study-dell-sap-v6-d08820]]
+- Both HP and Compaq support Linux as additional application platform `[ps=4]` — [[study-hp-compaq-kastner-insight1-a5a4e0]]

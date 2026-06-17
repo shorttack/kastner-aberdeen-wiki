@@ -12,9 +12,9 @@ era: "2004-2012"
 lifecycle_at_study: "future"
 lifecycle_current: "acquired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Marathon everRun (software fault tolerance)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Pivoted to software-only product (everRun) in 2004; acquired by Stratus Technologies September 24, 2012; technology continued as Stratus everRun MX product line — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]
+- Pivoted to software-only product (everRun) in 2004; acquired by Stratus Technologies September 24, 2012; technology continued as Stratus everRun MX product line `[ps=5]` — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]

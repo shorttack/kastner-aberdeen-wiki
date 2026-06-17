@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Production Monitoring and Reporting Tools
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- 50% `[ps=0]` — [[study-ra-soa-2007-97c147]]
 - 60% — [[study-ra-soa-2007-97c147]]
-- 50% — [[study-ra-soa-2007-97c147]]
 - 45% — [[study-ra-soa-2007-97c147]]

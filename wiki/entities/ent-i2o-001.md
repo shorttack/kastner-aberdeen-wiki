@@ -12,9 +12,9 @@ status: "Dissolved"
 successor: "N/A"
 years_active: "1995-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # I2O Special Interest Group (I2O SIG)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Leading Intel server suppliers now shipping I2O-Ready products — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]
-- Steering committee includes 3Com Compaq HP Intel Microsoft NetFRAME Novell Symbios Logic — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]
+- Leading Intel server suppliers now shipping I2O-Ready products `[ps=0]` — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]
+- Steering committee includes 3Com Compaq HP Intel Microsoft NetFRAME Novell Symbios Logic `[ps=0]` — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]

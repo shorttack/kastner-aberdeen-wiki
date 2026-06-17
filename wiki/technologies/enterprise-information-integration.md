@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Enterprise Information Integration (EII)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- EII is technology that promises to augment traditional data warehouse technology; data warehouses look at older information not where business is or will be — [[study-enterprise-integration-perspective-2-cb6165]]
-- EII promises to augment traditional data warehouse technology for RTBI — [[study-enterprise-integration-perspective-d21c1b]]
+- EII promises to augment traditional data warehouse technology for RTBI `[ps=4]` — [[study-enterprise-integration-perspective-d21c1b]]
+- EII is technology that promises to augment traditional data warehouse technology; data warehouses look at older information not where business is or will be `[ps=3]` — [[study-enterprise-integration-perspective-2-cb6165]]

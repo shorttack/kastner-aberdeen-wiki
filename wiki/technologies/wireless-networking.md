@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 10
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 9
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Wireless Networking (Wi-Fi)
@@ -29,13 +29,13 @@ prescience_obs_count: 9
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-1q06-gsm-ttcmwireless1q06-collateral-beabeb]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-edocssnapshot-8a34df]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-latisnetworkssnapshot-90caa6]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-servgatesnapshot-a891dd]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-spotlightavotus-997b04]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-spotlightdigitalreliance-8246bd]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-spotlighttraq-99dc04]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-sygatesnapshot-cdaab7]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-zonelabssnapshot-111c0a]]
-- Wireless networking among IDC top 10 enterprise tech trends — [[study-wired-idc-tech-bucks-hack-threats-2002-e6375d]]
+- Wireless networking among IDC top 10 enterprise tech trends `[ps=5]` — [[study-wired-idc-tech-bucks-hack-threats-2002-e6375d]]
+- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. — [[study-1q06-gsm-ttcmwireless1q06-collateral-beabeb]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. — [[study-edocssnapshot-8a34df]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. — [[study-latisnetworkssnapshot-90caa6]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. — [[study-servgatesnapshot-a891dd]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. — [[study-spotlightavotus-997b04]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. — [[study-spotlightdigitalreliance-8246bd]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. — [[study-spotlighttraq-99dc04]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. — [[study-sygatesnapshot-cdaab7]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. — [[study-zonelabssnapshot-111c0a]]

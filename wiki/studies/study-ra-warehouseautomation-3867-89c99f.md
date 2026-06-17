@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ra Warehouseautomation 3867 (Aberdeen, 2005)"
 slug: "study-ra-warehouseautomation-3867-89c99f"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.03
-prescience_obs_count: 93
+prescience_mean: 1.42
+prescience_obs_count: 78
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ra Warehouseautomation 3867 (Aberdeen, 2005)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-warehouseautomation-3867-89c99f. Source: ra_warehouseautomation_3867.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **topic-analysis**._

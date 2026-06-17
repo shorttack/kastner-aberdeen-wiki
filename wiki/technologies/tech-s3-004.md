@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "Growth"
 lifecycle_current: "Superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Tivoli Management Environment (TME)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- European market leader for messaging — [[study-1997-digital-equipment-corporation-pr-c375a8]]
+- European market leader for messaging `[ps=2]` — [[study-1997-digital-equipment-corporation-pr-c375a8]]

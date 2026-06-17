@@ -12,9 +12,9 @@ era: "1975-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "current"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # CAD/CAM and Post-Production Editing
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Mix of reads and writes on large pieces of data — [[study-15-classification-key-applications-55b6be]]
-- Ford’s CAD/CAM work at Prime classified as technical/scientific, not commercial; removed from Kastner’s territory. — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Mix of reads and writes on large pieces of data `[ps=0]` — [[study-15-classification-key-applications-55b6be]]
+- Ford’s CAD/CAM work at Prime classified as technical/scientific, not commercial; removed from Kastner’s territory. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]

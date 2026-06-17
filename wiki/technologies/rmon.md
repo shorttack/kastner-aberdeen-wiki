@@ -12,9 +12,9 @@ era: "1992-2010"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # RMON (Remote Network Monitoring)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Any port can be designated a roving RMON port; unlimited roving ports per switch; works across multiple switches — [[study-aberdeen-1995-3com-lanplex-2500]]
-- RFC 1271 support enabling RMON access across all ports; developing in-box RMON agent — [[study-aberdeen-1995-3com-lanplex-2500]]
+- Any port can be designated a roving RMON port; unlimited roving ports per switch; works across multiple switches `[ps=3]` — [[study-aberdeen-1995-3com-lanplex-2500]]
+- RFC 1271 support enabling RMON access across all ports; developing in-box RMON agent `[ps=0]` — [[study-aberdeen-1995-3com-lanplex-2500]]

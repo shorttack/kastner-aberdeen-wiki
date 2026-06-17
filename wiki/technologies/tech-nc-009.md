@@ -12,9 +12,9 @@ era: "2000s-present"
 lifecycle_at_study: "N/A (post-study)"
 lifecycle_current: "Active and growing (Windows 365 Cloud PC; Amazon WorkSpaces; Citrix)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Virtual Desktop Infrastructure (VDI) / Cloud PC
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- VDI (Citrix, VMware View) and Cloud PC platforms realized the enterprise NC architecture by 2010-2015. The thin-client/centralized model was validated ~15 years after the original NC. — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]
+- VDI (Citrix, VMware View) and Cloud PC platforms realized the enterprise NC architecture by 2010-2015. The thin-client/centralized model was validated ~15 years after the original NC. `[ps=4]` — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]

@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "early-commercial"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IP Virtual Private Network
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Not yet a reality; no public QoS; enterprises distrust public IP for traffic — [[study-teleco~1-c01702]]
+- Not yet a reality; no public QoS; enterprises distrust public IP for traffic `[ps=3]` — [[study-teleco~1-c01702]]

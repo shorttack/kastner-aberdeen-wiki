@@ -12,9 +12,9 @@ era: "1997-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Internet Applications Architecture (IAA)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Emerging; web startups have architecture advantage but lack enterprise process knowledge — [[study-1999-managing-customers-with-next-generation-software-a-a5adc4]]
+- Emerging; web startups have architecture advantage but lack enterprise process knowledge `[ps=4]` — [[study-1999-managing-customers-with-next-generation-software-a-a5adc4]]

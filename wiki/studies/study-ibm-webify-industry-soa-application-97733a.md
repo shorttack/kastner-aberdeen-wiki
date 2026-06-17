@@ -3,7 +3,7 @@ title: "IBM + Webify = Industry SOA Application Jumpstart"
 slug: "study-ibm-webify-industry-soa-application-97733a"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ibm-+-webify-=-industry-soa-application--97733a"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.3
+prescience_obs_count: 10
 ---
 
 # IBM + Webify = Industry SOA Application Jumpstart
@@ -32,19 +32,19 @@ _Published 2006, author **Peter S. Kastner**, type **market-study**._
 
 ## Top observations
 
-- 90%
-- ~50%
-- 33%
+- Composite of packaged and homegrown applications for foreseeable future; not total rewrite `[ps=5]`
+- Enables boardroom-to-CIO conversations across business transformation, time-to-market, and software lifecycle costs `[ps=3]`
+- Evaluate IBM-Webify vs. Eclipse and Visual Studio on lifecycle lines of code metric `[ps=2]`
+- Proving to lower lifecycle costs vs. prior approaches `[ps=2]`
+- Category of one `[ps=1]`
+- 90% `[ps=0]`
+- ~50% `[ps=0]`
+- 33% `[ps=0]`
+- 120 employees `[ps=0]`
+- 3 years of unutilized vertical process models `[ps=0]`
 - Meets Enterprise SOA definition
-- 120 employees
 - $80 billion
 - Insurance, healthcare, banking, telecom, public sector (in development)
-- Category of one
-- 3 years of unutilized vertical process models
 - 2007
 - [UNVERIFIED]
 - May gain consideration following IBM blessing of vertical SOA customization concept
-- Evaluate IBM-Webify vs. Eclipse and Visual Studio on lifecycle lines of code metric
-- Proving to lower lifecycle costs vs. prior approaches
-- Enables boardroom-to-CIO conversations across business transformation, time-to-market, and software lifecycle costs
-- Composite of packaged and homegrown applications for foreseeable future; not total rewrite

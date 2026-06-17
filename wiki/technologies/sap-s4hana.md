@@ -12,9 +12,9 @@ era: "2015-present"
 lifecycle_at_study: "obsolete"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # SAP S/4HANA
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SAP S/4HANA generally available 2015; built exclusively on HANA in-memory database; successor to R/3 and ECC — [[study-1997-teamsap-a3591b]]
+- SAP S/4HANA generally available 2015; built exclusively on HANA in-memory database; successor to R/3 and ECC `[ps=5]` — [[study-1997-teamsap-a3591b]]

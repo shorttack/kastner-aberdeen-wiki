@@ -3,7 +3,7 @@ title: "Survey: Composite Applications Used to Solve Integration Problems"
 slug: "study-survey-composite-applications-used-to-so-15f7a5"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "survey-composite-applications-used-to-so-15f7a5"
 author: "James Powell, Enterprise Systems Journal (ESJ.com)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 4
 ---
 
 # Survey: Composite Applications Used to Solve Integration Problems
@@ -32,9 +32,9 @@ _Published 2007, author **James Powell, Enterprise Systems Journal (ESJ.com)**, 
 
 ## Top observations
 
-- Our research found that companies are targeting Web-based applications first — specifically portals and browser-based applications — when they're looking to build composite applications.
+- Traditional enterprise portal platforms (IBM WebSphere Portal, SAP Portal, Oracle WebCenter) began sustained decline 2012+ as SaaS UIs, iPaaS integration layers, and modern intranet platforms (SharePoint Online, Workplace, Slack) displaced the portal-as-aggregator paradigm Kastner described. `[ps=5]`
+- Our research found that companies are targeting Web-based applications first — specifically portals and browser-based applications — when they're looking to build composite applications. `[ps=4]`
+- Most organizations have not dived deep enough into SOA to have one fully implemented; they use composite applications as a pragmatic keep-up-with-business mechanism in the meantime. `[ps=4]`
+- The 'composite applications' label largely fell out of IT-trade-press vocabulary by 2012-2015, replaced by 'mashups' briefly and then 'API-led integration' (MuleSoft 2013+) and 'composable enterprise' (Gartner 2020). `[ps=3]`
 - Companies should focus composite-application efforts on optimizing the processes that make them unique: customer satisfaction, service delivery, low-cost supply, fast delivery — rather than replicating generic back-office functions.
 - Aberdeen Group research finds application integration consumes approximately 40 percent of the typical IT budget.
-- Most organizations have not dived deep enough into SOA to have one fully implemented; they use composite applications as a pragmatic keep-up-with-business mechanism in the meantime.
-- The 'composite applications' label largely fell out of IT-trade-press vocabulary by 2012-2015, replaced by 'mashups' briefly and then 'API-led integration' (MuleSoft 2013+) and 'composable enterprise' (Gartner 2020).
-- Traditional enterprise portal platforms (IBM WebSphere Portal, SAP Portal, Oracle WebCenter) began sustained decline 2012+ as SaaS UIs, iPaaS integration layers, and modern intranet platforms (SharePoint Online, Workplace, Slack) displaced the portal-as-aggregator paradigm Kastner described.

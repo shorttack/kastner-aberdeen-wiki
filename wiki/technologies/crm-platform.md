@@ -12,9 +12,9 @@ era: "2001-2018"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Client Relations Management Platform
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Non-quota-carrying group of service professionals — [[study-2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7]]
+- Non-quota-carrying group of service professionals `[ps=0]` — [[study-2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7]]

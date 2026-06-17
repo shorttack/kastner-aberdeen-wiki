@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Active"
 lifecycle_current: "Discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Sun Security Manager
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sun chose DynaSoft as strategic partner for Sun Security Manager — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
+- Sun chose DynaSoft as strategic partner for Sun Security Manager `[ps=2]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]

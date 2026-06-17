@@ -12,9 +12,9 @@ era: "1992-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # SecureFast SmartSwitches
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen strongly endorses the alliance; predicts customers upgrading hub/router LANs will find the combined solution extremely attractive; predicts sustained competitive advantage vs. Cisco — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
-- Users upgrading hub and router LANs to high-speed frame and cell switched networks; SecureFast SmartSwitches provide VLAN capability from desktop through WAN — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
+- Users upgrading hub and router LANs to high-speed frame and cell switched networks; SecureFast SmartSwitches provide VLAN capability from desktop through WAN `[ps=3]` — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
+- Aberdeen strongly endorses the alliance; predicts customers upgrading hub/router LANs will find the combined solution extremely attractive; predicts sustained competitive advantage vs. Cisco `[ps=1]` — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]

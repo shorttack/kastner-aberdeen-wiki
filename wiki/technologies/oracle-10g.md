@@ -12,9 +12,9 @@ era: "2003-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Oracle Database 10g
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle 10g introduced Grid Computing branding — Oracle's reframing of multi-server architectures as 'utility computing grid' — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle 10g introduced Grid Computing branding — Oracle's reframing of multi-server architectures as 'utility computing grid' `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]
 - Oracle Database maintained enterprise RDBMS market leadership continuously from Oracle7 (1992) through Oracle 23ai (2024) — [[study-2026-kastner-oracle-longitudinal]]

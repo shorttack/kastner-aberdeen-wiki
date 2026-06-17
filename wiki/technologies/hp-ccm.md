@@ -12,9 +12,9 @@ era: "1996-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # HP Customer Contact Middleware (CCM)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP's CCM is the most important element; partner software integrated around HP's proprietary middleware layer — [[study-hp-smart-contact-b3c359]]
+- HP's CCM is the most important element; partner software integrated around HP's proprietary middleware layer `[ps=2]` — [[study-hp-smart-contact-b3c359]]

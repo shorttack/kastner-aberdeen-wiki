@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "Transaction Systems Architects (TSA/ACI Worldwide); became Insession Technologies business unit"
 years_active: "1985-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.0
+prescience_obs_count: 4
 ---
 
 # Insession Inc.
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Provide software enabling integration of heterogeneous distributed environments with host-based systems — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
-- Insession effective for organizations preserving ETS investments while integrating new distributed environments — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
-- Insession acquired by ACI Worldwide (Transaction Systems Architects); became Insession Technologies business unit contributing ~13% of ACI revenue through 2005; ICE product renamed ICE/XS — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
-- Niche middleware vendor targeting large organizations with heterogeneous ETS/distributed environments — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
+- Provide software enabling integration of heterogeneous distributed environments with host-based systems `[ps=4]` — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
+- Insession effective for organizations preserving ETS investments while integrating new distributed environments `[ps=0]` — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
+- Insession acquired by ACI Worldwide (Transaction Systems Architects); became Insession Technologies business unit contributing ~13% of ACI revenue through 2005; ICE product renamed ICE/XS `[ps=0]` — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
+- Niche middleware vendor targeting large organizations with heterogeneous ETS/distributed environments `[ps=0]` — [[study-1997-insession---accessing-and-leveragin-cb2e40]]

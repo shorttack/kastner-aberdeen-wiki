@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "declining"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Enterprise Service Bus (ESB)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ESB is foundational middleware for SOA; evolving to include governance and management — [[study-soa-overview-docx-12612f]]
+- ESB is foundational middleware for SOA; evolving to include governance and management `[ps=4]` — [[study-soa-overview-docx-12612f]]

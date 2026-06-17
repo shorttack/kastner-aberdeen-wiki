@@ -12,9 +12,9 @@ era: "2001-present"
 lifecycle_at_study: "production"
 lifecycle_current: "renamed-macOS"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.67
+prescience_obs_count: 3
 ---
 
 # Apple Mac OS X (server)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- No one has lost their job for keeping Windows — [[study-usatoday-maney-mac-or-pc-windows-securit-b45d45]]
-- Apple says Macintosh sales lifted by Windows security concerns — [[study-usatoday-maney-mac-or-pc-windows-securit-b45d45]]
-- Individuals might be tempted to switch to Mac for reasons that didn't exist a couple years ago — [[study-usatoday-maney-mac-or-pc-windows-securit-b45d45]]
+- Apple says Macintosh sales lifted by Windows security concerns `[ps=4]` — [[study-usatoday-maney-mac-or-pc-windows-securit-b45d45]]
+- Individuals might be tempted to switch to Mac for reasons that didn't exist a couple years ago `[ps=4]` — [[study-usatoday-maney-mac-or-pc-windows-securit-b45d45]]
+- No one has lost their job for keeping Windows `[ps=3]` — [[study-usatoday-maney-mac-or-pc-windows-securit-b45d45]]

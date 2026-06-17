@@ -12,9 +12,9 @@ era: "2007-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "ubiquitous"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Mobile banking app
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'I don't have to be tethered to a desktop anymore. Everything I can do on a Web browser, I can do on my iPhone.' — [[study-mobile-banking-may-render-cash-obsolete--e4b699]]
+- 'I don't have to be tethered to a desktop anymore. Everything I can do on a Web browser, I can do on my iPhone.' `[ps=4]` — [[study-mobile-banking-may-render-cash-obsolete--e4b699]]
 - 'Unfortunately, your cellphone can't give you cash.' — [[study-mobile-banking-may-render-cash-obsolete--e4b699]]

@@ -12,9 +12,9 @@ status: "active"
 successor: "LiveRamp Holdings"
 years_active: "1969-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Acxiom Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Revenue $730M; 53% gross margin; 30% of revenue from Internet data services — [[study-data-know-69ab04]]
+- Revenue $730M; 53% gross margin; 30% of revenue from Internet data services `[ps=0]` — [[study-data-know-69ab04]]

@@ -12,9 +12,9 @@ era: "1994-1997"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Microsoft NT Server 3.5x
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Gaining popularity for database/application servers but lacks stability for full IS department needs — [[study-aberdeen-1996-ibm-os2-warp-server]]
-- Cairo (successor OS) migration will not be transparent upgrade; will require new hardware and applications like Windows 3.1 to Windows 95 experience — [[study-aberdeen-1996-ibm-os2-warp-server]]
+- Cairo (successor OS) migration will not be transparent upgrade; will require new hardware and applications like Windows 3.1 to Windows 95 experience `[ps=2]` — [[study-aberdeen-1996-ibm-os2-warp-server]]
+- Gaining popularity for database/application servers but lacks stability for full IS department needs `[ps=1]` — [[study-aberdeen-1996-ibm-os2-warp-server]]

@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: "Sun Microsystems -> Oracle"
 years_active: "1969-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Storage Technology Corporation (StorageTek)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- tape libraries and enterprise storage specialist — [[study-storag~1-262bc7]]
+- tape libraries and enterprise storage specialist `[ps=0]` — [[study-storag~1-262bc7]]

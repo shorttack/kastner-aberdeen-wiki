@@ -12,9 +12,9 @@ era: "1996-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Java Client Applications
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NCs, NetPCs, WBTs, servers, networking hardware, Java applications and thin-client enabling technologies all require evaluation — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]
+- NCs, NetPCs, WBTs, servers, networking hardware, Java applications and thin-client enabling technologies all require evaluation `[ps=0]` — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]

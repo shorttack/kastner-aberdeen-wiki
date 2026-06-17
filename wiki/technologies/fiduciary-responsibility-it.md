@@ -12,9 +12,9 @@ era: "2002-present"
 lifecycle_at_study: "new"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Fiduciary responsibility for IT asset lifecycle
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- It's time to throw the words 'fiduciary responsibility' around the boardroom, and get a PC replacement cycle going soon. — [[study-pc-replacements-lawyers-auditors-and-com-ce8ebb]]
+- It's time to throw the words 'fiduciary responsibility' around the boardroom, and get a PC replacement cycle going soon. `[ps=2]` — [[study-pc-replacements-lawyers-auditors-and-com-ce8ebb]]

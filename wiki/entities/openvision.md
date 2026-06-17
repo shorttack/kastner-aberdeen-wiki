@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Veritas Software (acquired 1997)"
 years_active: "1990-1997"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # OpenVision Technologies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- After difficult start-up phase, OpenVision sold earlier in 1997; acquired by Veritas Software — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]
+- After difficult start-up phase, OpenVision sold earlier in 1997; acquired by Veritas Software `[ps=5]` — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]

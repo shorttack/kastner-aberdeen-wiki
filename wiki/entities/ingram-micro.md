@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Acquired by Tianjin Tianhai/HNA 2016"
 years_active: "1979-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Ingram Micro
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Ingram Micro survived as a leading distributor until acquired by Platinum Equity in 2021 for $7.2B — validating the full-line distributor model `[ps=3]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
 - Ingram Micro was the largest PC distributor — exemplified the low-cost high-volume model that was winning — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
-- Ingram Micro survived as a leading distributor until acquired by Platinum Equity in 2021 for $7.2B — validating the full-line distributor model — [[study-kastner-ie-v-andersen-expert-report-3de98a]]

@@ -12,9 +12,9 @@ era: "1993-1997"
 lifecycle_at_study: "current"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Compaq ProLiant 4000 Server
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Compaq ProLiant 4000s (x2) — [[study-sequent-sap-sequen~1-7f70e4]]
+- Compaq ProLiant 4000s (x2) `[ps=0]` — [[study-sequent-sap-sequen~1-7f70e4]]

@@ -12,9 +12,9 @@ era: "2001-2006"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # HP photo transfer software
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP photo transfer interferes with Windows XP native camera support — [[study-dct-hp-camera-lab-report-2001-09]]
+- HP photo transfer interferes with Windows XP native camera support `[ps=0]` — [[study-dct-hp-camera-lab-report-2001-09]]
 - Do NOT install HP photo transfer software — use native XP support — [[study-dct-hp-camera-lab-report-2001-09]]

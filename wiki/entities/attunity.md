@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Qlik Technologies (May 2019)"
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Attunity
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Attunity, XAware, Nimble Technologies: each $4-7 million EII revenue estimate (2003 projected) — [[study-aberdeen-eii-2003-ea3f1a]]
+- Attunity, XAware, Nimble Technologies: each $4-7 million EII revenue estimate (2003 projected) `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]

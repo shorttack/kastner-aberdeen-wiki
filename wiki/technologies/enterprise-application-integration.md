@@ -12,9 +12,9 @@ era: "1998-2006"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Enterprise Application Integration (EAI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- incremental growth expected — [[study-2002-it-spending-shows-encouraging-signs-0d61cd]]
+- incremental growth expected `[ps=4]` — [[study-2002-it-spending-shows-encouraging-signs-0d61cd]]

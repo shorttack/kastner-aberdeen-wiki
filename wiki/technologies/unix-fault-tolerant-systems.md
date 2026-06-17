@@ -12,9 +12,9 @@ era: "1985-1990s"
 lifecycle_at_study: "early-commercial"
 lifecycle_current: "subsumed-into-HA-clusters"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Unix-Based Fault-Tolerant Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Targeting Unix-based systems at telecom and niche apps like law enforcement — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
+- Targeting Unix-based systems at telecom and niche apps like law enforcement `[ps=4]` — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]

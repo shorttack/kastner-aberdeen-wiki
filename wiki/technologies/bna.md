@@ -12,9 +12,9 @@ era: "1970s-1990s"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Burroughs Network Architecture (BNA)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Unisys proposed more distributed open architecture using BNA and DCA peer-to-peer systems arguing centralized DB2 processing would create bottleneck effect in state-wide distributed network — [[study-unisys-florida-hrs-expert-witness-tallah-5b4524]]
+- Unisys proposed more distributed open architecture using BNA and DCA peer-to-peer systems arguing centralized DB2 processing would create bottleneck effect in state-wide distributed network `[ps=3]` — [[study-unisys-florida-hrs-expert-witness-tallah-5b4524]]

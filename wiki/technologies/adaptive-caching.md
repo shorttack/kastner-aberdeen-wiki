@@ -12,9 +12,9 @@ era: "2003-2004"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Adaptive caching is central to modern CDN operation; now enhanced with ML/AI for predictive caching. Active area of innovation.', 'source': 'https://www.cachefly.com/news/the-power-of-machine-learning-for-advanced-cdn-caching-strategies/'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Adaptive Caching / Adaptive Content Delivery
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- central to on-the-fly content decisions by region — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
+- central to on-the-fly content decisions by region `[ps=5]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]

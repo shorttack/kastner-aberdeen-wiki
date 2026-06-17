@@ -3,7 +3,7 @@ title: "Mid-Line Disk Storage: Emerging as Significant Cost-Saving Opportunity"
 slug: "study-mid-line-storage-white-paper-06-13-03-3-7a2c62"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "mid-line-storage-white-paper-06-13-03-3-7a2c62"
 author: "Peter S. Kastner / Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.93
+prescience_obs_count: 30
 ---
 
 # Mid-Line Disk Storage: Emerging as Significant Cost-Saving Opportunity
@@ -32,28 +32,28 @@ _Published 2003, author **Peter S. Kastner / Aberdeen Group**, type **white-pape
 
 ## Top observations
 
-- >50%
-- >20% immediately; >50% eventually
-- 75%
-- >60%
-- 20%
-- ~67%
-- ~50%
-- ~50%
-- >80%
-- 2x to 8x; up to 300 GB per ATA vs 142/72/36 GB per FC/SCSI
-- ~half the cost per GB
-- up to 5x higher
-- $7,000-$10,000
-- $15,000-$20,000
-- >$100,000 off deals formerly $500,000+
-- >25%
-- ~50%
-- 60%
-- ~40%
-- 60%
-- 75
-- Ageing, Freezing, Accumulation, Redundancy
-- RAM (volatile), High-Perf Disk (FC/SCSI), Mid-Line Disk (ATA), Tape (off-line)
-- Eligible after transaction closure (shipped orders etc.)
-- High — query intensive, primarily sequential reads; cost-per-GB compelling
+- Old emails, log files, CAD/CAM, MRI/X-rays, MP3/video files, web archives, old DB records `[ps=5]`
+- Solid-state disks for ultra-performance-intensive database applications `[ps=5]`
+- Mid-line compatible with existing SAN and NAS infrastructure `[ps=5]`
+- High-capacity online ATA disks; middle tier between high-use FC/SCSI arrays and tape; moderate access/rate-of-change `[ps=5]`
+- IT must adopt QoS perspective and formal/informal SLAs to differentiate storage tiers `[ps=5]`
+- 2x to 8x; up to 300 GB per ATA vs 142/72/36 GB per FC/SCSI `[ps=4]`
+- ~half the cost per GB `[ps=4]`
+- Required for automated tiering; greatest savings with auto-migration online->midline->tape `[ps=4]`
+- 1. Embedded in array/appliance (incremental), 2. Proactive pyramid planning (strategic) `[ps=4]`
+- Major disk drive manufacturers, storage systems suppliers, early adopters all supporting `[ps=4]`
+- Emerging concept for point-in-time restore; complements mid-line disk `[ps=4]`
+- RAM (volatile), High-Perf Disk (FC/SCSI), Mid-Line Disk (ATA), Tape (off-line) `[ps=3]`
+- High — query intensive, primarily sequential reads; cost-per-GB compelling `[ps=3]`
+- "Quiet storage revolution" — trend recognized but enterprises still learning best use `[ps=3]`
+- >50% `[ps=0]`
+- >20% immediately; >50% eventually `[ps=0]`
+- 75% `[ps=0]`
+- 20% `[ps=0]`
+- ~67% `[ps=0]`
+- ~50% `[ps=0]`
+- ~50% `[ps=0]`
+- >80% `[ps=0]`
+- $7,000-$10,000 `[ps=0]`
+- $15,000-$20,000 `[ps=0]`
+- >$100,000 off deals formerly $500,000+ `[ps=0]`

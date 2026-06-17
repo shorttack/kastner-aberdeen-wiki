@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "Mature"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM MQSeries / IBM MQ
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Growing enterprise acceptance of MQSeries as defacto store-and-forward standard — [[study-1997-ibm’s-nt-strategy-strat-pr-b93817]]
+- Growing enterprise acceptance of MQSeries as defacto store-and-forward standard `[ps=4]` — [[study-1997-ibm’s-nt-strategy-strat-pr-b93817]]
 - MQSeries renamed WebSphere MQ 2002; IBM MQ 2014; remains active enterprise middleware — [[study-1997-ibm’s-nt-strategy-strat-pr-b93817]]

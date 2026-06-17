@@ -12,9 +12,9 @@ era: "1977-1998"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # VAX (Virtual Address eXtension)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Against DEC’s VAX ecosystem, Prime’s argument was responsiveness: shorter application cycles, tighter integration, modest minicomputer footprint for mid-sized organizations. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Acquired by Compaq for $9.6 billion in June 1998 `[ps=0]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
 - DEC deliberately chose not to compete in personal computers for the home; positioned this as a strategic strength not weakness — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
-- Acquired by Compaq for $9.6 billion in June 1998 — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
 - Responsiveness: shorter application cycles, tighter integration; mid-sized regional bank could look like national institution on modest minicomputer footprint. — [[study-volume-1-ch04-prime-computer-1979-1981]]
-- Against DEC’s VAX ecosystem, Prime’s argument was responsiveness: shorter application cycles, tighter integration, modest minicomputer footprint for mid-sized organizations. — [[study-volume-1-ch04-prime-computer-1979-1981]]

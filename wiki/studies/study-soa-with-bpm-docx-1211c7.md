@@ -3,7 +3,7 @@ title: "Summary of Peter Kastner's Research on BPM and SOA"
 slug: "study-soa-with-bpm-docx-1211c7"
 page_type: "study"
 tags: ["type/study", "collection/ai-response"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "soa-with-bpm-docx-1211c7"
 author: "Peter S. Kastner (AI-assisted summary)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 3
 ---
 
 # Summary of Peter Kastner's Research on BPM and SOA
@@ -32,12 +32,12 @@ _Published 2024, author **Peter S. Kastner (AI-assisted summary)**, type **ai-re
 
 ## Top observations
 
+- IT-business alignment is crucial for maximizing benefits of both BPM and SOA `[ps=5]`
+- BPM/SOA principles of modularity, scalability, reusability underpin microservices architecture `[ps=4]`
+- BPM research encouraged service-oriented approaches facilitating microservices development `[ps=3]`
 - BPM enhances organizational agility and market responsiveness
 - Management support, IT skills adequacy, systems integration complexity
 - Organizations with clear KPMs more likely to achieve substantial BPM ROI
-- IT-business alignment is crucial for maximizing benefits of both BPM and SOA
 - Governance and management tools essential for BPM/SOA oversight and control
 - BPM and SOA industries experiencing significant growth; organizations recognizing limits of traditional IT
 - If you cannot measure it, you cannot manage it
-- BPM/SOA principles of modularity, scalability, reusability underpin microservices architecture
-- BPM research encouraged service-oriented approaches facilitating microservices development

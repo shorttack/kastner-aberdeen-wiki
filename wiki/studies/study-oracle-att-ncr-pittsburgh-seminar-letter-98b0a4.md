@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 0.67
+prescience_obs_count: 3
 ---
 
 # Oracle U.S.A. / NCR U.S. Group Sales Letter Promoting Pittsburgh October 12 'Customer-Driven Information Solutions' Seminar with Peter Kastner Keynote (1993)
@@ -32,10 +32,10 @@ _Published 1993, author **Oracle U.S.A. and NCR U.S. Group / AT&T-NCR (joint)**,
 
 ## Top observations
 
+- AT&T-NCR + Oracle financial stability to partner for years to come; jointly forming SBUs `[ps=2]`
+- Peter Kastner is one of the world's most popular speakers on information technology `[ps=0]`
+- Strategic business units; Oracle products run across NCR's complete line from workstations to massively-parallel computers `[ps=0]`
 - Tuesday, October 12, Pittsburgh PA; registration 8:30, program 9:00 a.m.-Noon
 - Peter Kastner, Vice President, Aberdeen Group; keynote speaker
-- Peter Kastner is one of the world's most popular speakers on information technology
 - How to take advantage of emerging technologies to build customer-focused IS; leverage current systems while transitioning to distributed environments; use customer applications to develop new revenue and operational efficiency
-- Strategic business units; Oracle products run across NCR's complete line from workstations to massively-parallel computers
-- AT&T-NCR + Oracle financial stability to partner for years to come; jointly forming SBUs
 - One of the emerging trends of the '90s is a shift to customer-driven business strategies — Identify and capture customer info; provide info to people whenever and wherever needed; respond faster than competition

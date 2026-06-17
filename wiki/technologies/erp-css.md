@@ -12,9 +12,9 @@ era: "mid-1990s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Enterprise Resource Planning (ERP) / CSS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- top_tier_css_application_supplier — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
+- top_tier_css_application_supplier `[ps=1]` — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]

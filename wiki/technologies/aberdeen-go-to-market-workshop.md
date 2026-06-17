@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "active"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.57
+prescience_obs_count: 7
 ---
 
 # Aberdeen Go-To-Market Workshop
@@ -24,10 +24,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $50,000 — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
-- 2-day onsite engagement + 4-6 page findings report + 1-hour teleconference + 1-2 page future-engagement recommendations — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
-- Development planning and launch planning stages — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
-- Priced as 'just a half-percent of your total funding' — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
-- Target funding >$2M or pending Series B; alpha-stage development — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
-- Market Knowledge Workshop -> Positioning Strategy -> Messaging Strategy -> Strategy Validation (RAMP) -> Custom Research -> Retainer — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
-- Network Infrastructure and Security identified as the two primary practice areas for 2001 customer success portfolio — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Network Infrastructure and Security identified as the two primary practice areas for 2001 customer success portfolio `[ps=4]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- $50,000 `[ps=0]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- 2-day onsite engagement + 4-6 page findings report + 1-hour teleconference + 1-2 page future-engagement recommendations `[ps=0]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Development planning and launch planning stages `[ps=0]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Priced as 'just a half-percent of your total funding' `[ps=0]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Target funding >$2M or pending Series B; alpha-stage development `[ps=0]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Market Knowledge Workshop -> Positioning Strategy -> Messaging Strategy -> Strategy Validation (RAMP) -> Custom Research -> Retainer `[ps=0]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]

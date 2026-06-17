@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1998-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Christopher Fletcher
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Chris Fletcher, Aberdeen Group: 'If Omnigy is saying that a single customer record is added value, that is exaggerated. Many other companies have this [capability].' — [[study-2001-fletcher-spaght-3bb872]]
+- Chris Fletcher, Aberdeen Group: 'If Omnigy is saying that a single customer record is added value, that is exaggerated. Many other companies have this [capability].' `[ps=3]` — [[study-2001-fletcher-spaght-3bb872]]

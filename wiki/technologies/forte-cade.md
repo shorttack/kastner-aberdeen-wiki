@@ -12,9 +12,9 @@ era: "1991-1999"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Forte (Second-Generation CADE)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $100-200 million — [[study-aberdeen-1995-commercial-messaging]]
-- outstanding example; repartitions and rebundles components online transparently with Commercial Messaging — [[study-aberdeen-1995-commercial-messaging]]
-- acquired by Sun Microsystems 1999; then Oracle 2010; Forte CADE discontinued — [[study-aberdeen-1995-commercial-messaging]]
+- $100-200 million `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]
+- outstanding example; repartitions and rebundles components online transparently with Commercial Messaging `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]
+- acquired by Sun Microsystems 1999; then Oracle 2010; Forte CADE discontinued `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]

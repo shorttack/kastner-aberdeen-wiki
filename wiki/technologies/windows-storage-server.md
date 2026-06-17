@@ -12,9 +12,9 @@ era: "2003-2004"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'end-of-life', 'notes': 'Microsoft Windows Storage Server 2003 reached end of extended support on July 14, 2015, following Windows Server 2003 EOL. No security updates available.', 'source': 'https://security.berkeley.edu/news/microsoft-windows-server-2003-end-life'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Windows Storage Server 2003
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Windows Storage Server 2003; standard not proprietary — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
+- Windows Storage Server 2003; standard not proprietary `[ps=2]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]

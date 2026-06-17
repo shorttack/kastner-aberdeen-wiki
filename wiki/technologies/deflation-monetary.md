@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Price deflation / disinflation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- It's the 800-pound gorilla in the room, and no one's talking about it. Hardware manufacturers have to produce and sell a lot more units at a lower price to keep up on the revenue treadmill. — [[study-tech-investor-deflation-the-dropping-dol-c85a61]]
+- It's the 800-pound gorilla in the room, and no one's talking about it. Hardware manufacturers have to produce and sell a lot more units at a lower price to keep up on the revenue treadmill. `[ps=4]` — [[study-tech-investor-deflation-the-dropping-dol-c85a61]]
 - Tech-hardware price deflation continued structurally through 2003-2015 (PC ASPs dropped, smartphone ASPs flat-to-down outside premium Apple tier, cloud compute prices fell ~30%/year 2010-2015 via AWS et al.) — directly validating Kastner's inherently-deflationary framing. — [[study-tech-investor-deflation-the-dropping-dol-c85a61]]

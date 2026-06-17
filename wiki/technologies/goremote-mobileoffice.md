@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'GoRemote Internet Communications (formerly GRIC) was acquired by iPass Inc. for $76.5M in late 2005/early 2006. The GoRemote MobileOffice client and all GoRemote branded products were discontinued/absorbed into iPass. iPass itself was later acquired by Pareteum in 2019 and subsequently shut down.', 'source': 'https://www.rcrwireless.com/20051212/archived-articles/ipass-to-purchase-rival-goremote-for-76-5m'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # GoRemote MobileOffice Client
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Single Windows client; VPN + personal firewall + auth + online meetings + contact mgmt + T&E reporting; portal with SSO — [[study-goremote-profile-5-2a-8fa814]]
+- Single Windows client; VPN + personal firewall + auth + online meetings + contact mgmt + T&E reporting; portal with SSO `[ps=3]` — [[study-goremote-profile-5-2a-8fa814]]

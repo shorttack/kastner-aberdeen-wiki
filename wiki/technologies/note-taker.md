@@ -12,9 +12,9 @@ era: "2007-2012"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # NoteTaker (CMPC hardware+software)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Operation Note #4: NoteTaker hardware and software are slick but rudimentary — a good 'v1.0' starting point. — [[study-classmate-pc-evaluation-notes-8-103667]]
+- Operation Note #4: NoteTaker hardware and software are slick but rudimentary — a good 'v1.0' starting point. `[ps=0]` — [[study-classmate-pc-evaluation-notes-8-103667]]

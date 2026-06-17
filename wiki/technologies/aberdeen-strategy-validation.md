@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "launch"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Strategy Validation Interview Project
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Validates one of six standard goals: target markets; demand; market awareness; user requirements; go-to-market strategy; licensing opportunities — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]
+- Validates one of six standard goals: target markets; demand; market awareness; user requirements; go-to-market strategy; licensing opportunities `[ps=4]` — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]

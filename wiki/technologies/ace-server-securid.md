@@ -12,9 +12,9 @@ era: "1986-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # RSA ACE/Server and SecurID
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Positive user authentication + SecurID randomly generated access codes during secure transactions — [[study-aberdeen-1996-progress-software-webspeed-internet]]
-- Authentication technology provider integrating with web development platforms — [[study-aberdeen-1996-progress-software-webspeed-internet]]
+- Positive user authentication + SecurID randomly generated access codes during secure transactions `[ps=4]` — [[study-aberdeen-1996-progress-software-webspeed-internet]]
+- Authentication technology provider integrating with web development platforms `[ps=4]` — [[study-aberdeen-1996-progress-software-webspeed-internet]]

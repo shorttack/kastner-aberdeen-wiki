@@ -12,9 +12,9 @@ era: "2002-2004"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Atheros AR5001X chipset
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Market leader / vendor to beat — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]
+- Market leader / vendor to beat `[ps=0]` — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]
 - High-performance at attractive prices — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]

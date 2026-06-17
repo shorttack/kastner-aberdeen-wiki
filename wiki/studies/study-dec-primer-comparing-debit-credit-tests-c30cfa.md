@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 9
 ---
 
 # A Primer on Comparing Debit Credit Tests (Kastner, DEC CSG, 1988)
@@ -32,14 +32,14 @@ _Published 1988, author **Peter S. Kastner — DEC Corporate Systems Group, Comp
 
 ## Top observations
 
-- fully-qualified-all-presentation-services-in-SUT
-- use-Style-3-for-vendor-comparison
-- 40
-- 90pct-2sec
-- 1000-per-100-tps
-- less-than-8.5
-- 15-17
-- 2.5
-- 6.5
+- fully-qualified-all-presentation-services-in-SUT `[ps=0]`
+- use-Style-3-for-vendor-comparison `[ps=0]`
+- 40 `[ps=0]`
+- 90pct-2sec `[ps=0]`
+- 1000-per-100-tps `[ps=0]`
+- less-than-8.5 `[ps=0]`
+- 15-17 `[ps=0]`
+- 2.5 `[ps=0]`
+- 6.5 `[ps=0]`
 - 70-pct-cpu-utilization-in-house-rule
 - DEC-CSG-Competitive-Marketing-Programs

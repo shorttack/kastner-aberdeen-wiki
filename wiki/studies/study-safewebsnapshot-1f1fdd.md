@@ -1,5 +1,5 @@
 ---
-title: "==> picture [82 x 80] intentionally omitted <=="
+title: "Safewebsnapshot (Aberdeen, 2002)"
 slug: "study-safewebsnapshot-1f1fdd"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [82 x 80] intentionally omitted <==
+# Safewebsnapshot (Aberdeen, 2002)
 
-> This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study safewebsnapshot-1f1fdd. Source: safewebsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2002, author **Risk Management**, type **market-study**._
@@ -32,4 +32,4 @@ _Published 2002, author **Risk Management**, type **market-study**._
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

@@ -3,7 +3,7 @@ title: "OLTP Market Transaction Processing Needs: A Vertical Market Analysis for
 slug: "study-1988-encore-oltp-market-tps-needs-deee45"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1988-encore-oltp-market-tps-needs-deee45"
 author: "Peter S. Kastner / Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.53
+prescience_obs_count: 15
 ---
 
 # OLTP Market Transaction Processing Needs: A Vertical Market Analysis for Encore Computer
@@ -32,23 +32,23 @@ _Published 1988, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 
 ## Top observations
 
+- Encore failed commercially; Series 90 did not displace IBM mainframes; company liquidated January 1999 `[ps=5]`
+- UNIX is highly desirable for military COTS OLTP; intelligence analysis, logistics, and decision systems `[ps=5]`
+- Thinking Machines installed at Dow Jones for full-text retrieval; early commercial deployment `[ps=3]`
+- Aberdeen believes insurance industry will increasingly embrace digital imaging and object-oriented databases `[ps=3]`
+- DebitCredit evolving as de facto standard for measuring OLTP performance; TPS at 95th percentile <1 second response `[ps=3]`
+- 200 TPS `[ps=2]`
+- 100 TPS aggregate over 10,000 terminals `[ps=1]`
+- RDBMS performance has been poor until recently; cannot be price/performance justified for decision support with real-time query requirements `[ps=1]`
+- $1.4 billion `[ps=0]`
+- $630 million `[ps=0]`
+- #3 of 10 priority markets; estimated $200M high-end OLTP market `[ps=0]`
+- ~40 TPS; $8M five-year lifecycle cost `[ps=0]`
+- $50M estimated `[ps=0]`
+- $65M estimated; 125 TPS mainframe norm in Europe `[ps=0]`
+- Sears/IBM Prodigy expects 100 TPS within three years `[ps=0]`
 - Price/performance advantage over IBM 3090 mainframes; targets high-end commercial OLTP
-- $1.4 billion
-- $630 million
 - 2,000 TPS peak; 200 TPS per IBM 3090-200; growing at 15% per annum
-- 200 TPS
-- #3 of 10 priority markets; estimated $200M high-end OLTP market
-- ~40 TPS; $8M five-year lifecycle cost
 - Aberdeen believes commercial Series 90 can address wider database/data-communications commercial markets with outstanding price/performance in multiples of IBM mainframes
-- Encore failed commercially; Series 90 did not displace IBM mainframes; company liquidated January 1999
 - $40M estimated; call switching 400 TPS growing to 600 TPS in 5 years
-- $50M estimated
-- $65M estimated; 125 TPS mainframe norm in Europe
-- 100 TPS aggregate over 10,000 terminals
-- Thinking Machines installed at Dow Jones for full-text retrieval; early commercial deployment
-- Sears/IBM Prodigy expects 100 TPS within three years
-- Aberdeen believes insurance industry will increasingly embrace digital imaging and object-oriented databases
-- RDBMS performance has been poor until recently; cannot be price/performance justified for decision support with real-time query requirements
-- UNIX is highly desirable for military COTS OLTP; intelligence analysis, logistics, and decision systems
-- DebitCredit evolving as de facto standard for measuring OLTP performance; TPS at 95th percentile <1 second response
 - Six factors: demonstrable high-end processing requirements; market barriers to entry; entrenched competition; financial attractiveness; time to market for new applications; market innovation or risk aversion tendencies

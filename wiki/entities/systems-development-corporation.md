@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Burroughs Corporation (1981) -> Unisys (1986)"
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Systems Development Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Brought in alongside GTE Sylvania by Mitre as part of NORAD procurement chain. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- Brought in alongside GTE Sylvania by Mitre as part of NORAD procurement chain. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]

@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1872-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # The Boston Globe
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Boston Globe Emerging Business / Ronald Rosenberg — [[study-boston-globe-mit-enterprise-forum-kastne-2a3462]]
+- Boston Globe Emerging Business / Ronald Rosenberg `[ps=0]` — [[study-boston-globe-mit-enterprise-forum-kastne-2a3462]]

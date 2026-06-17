@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # DCOM (Distributed Component Object Model)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Limited/Contested — [[study-1997-distributed-object-technology--dead-3cf2d1]]
+- Limited/Contested `[ps=0]` — [[study-1997-distributed-object-technology--dead-3cf2d1]]

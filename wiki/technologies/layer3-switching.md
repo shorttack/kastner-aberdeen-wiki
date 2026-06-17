@@ -12,9 +12,9 @@ era: "1996-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Layer 3 Switching (Routing Switches)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Combining IP/IPX routing control with full wire speed performance; data plane forwarding separated from control plane topology `[ps=4]` — [[study-1997-bay-networks--switch-node-routing-s-4d9885]]
+- Verify actual adoption rates by 2000-2002. `[ps=0]` — [[study-networ~1-96462b]]
 - IP Switching, Tag Switching, Flow Switching - migration strategies for high-speed network media — [[study-1997-bay-networks--switch-node-routing-s-4d9885]]
-- Combining IP/IPX routing control with full wire speed performance; data plane forwarding separated from control plane topology — [[study-1997-bay-networks--switch-node-routing-s-4d9885]]
 - Routing switches replacing routers in enterprise LAN core; ~10x capacity at ~1/10 cost — [[study-networ~1-96462b]]
-- Verify actual adoption rates by 2000-2002. — [[study-networ~1-96462b]]

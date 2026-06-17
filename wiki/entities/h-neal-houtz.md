@@ -12,9 +12,9 @@ status: "active-then"
 successor: ""
 years_active: "1980s-1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # H. Neal Houtz
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- competitive-truth-squads-to-analysts-and-reporters — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]
+- competitive-truth-squads-to-analysts-and-reporters `[ps=4]` — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]

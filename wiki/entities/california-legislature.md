@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1849-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # California State Legislature
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Consumers Union urges CA Gov to sign SB 1154 (Figueroa) to simplify rebate claims — [[study-make-claiming-rebates-easier-for-consume-9f1dc6]]
+- Consumers Union urges CA Gov to sign SB 1154 (Figueroa) to simplify rebate claims `[ps=0]` — [[study-make-claiming-rebates-easier-for-consume-9f1dc6]]

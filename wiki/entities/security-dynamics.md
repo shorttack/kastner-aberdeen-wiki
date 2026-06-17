@@ -12,9 +12,9 @@ status: "acquired"
 successor: "RSA Security (merged with RSA Data Security 1996)"
 years_active: "1984-1996"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Security Dynamics Technologies, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Authentication technology provider integrating with web development platforms — [[study-aberdeen-1996-progress-software-webspeed-internet]]
+- Authentication technology provider integrating with web development platforms `[ps=4]` — [[study-aberdeen-1996-progress-software-webspeed-internet]]

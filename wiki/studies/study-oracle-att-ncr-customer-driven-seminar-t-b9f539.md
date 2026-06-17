@@ -3,7 +3,7 @@ title: "Oracle / AT&T-NCR 'Transitioning to Customer-Driven Information Solution
 slug: "study-oracle-att-ncr-customer-driven-seminar-t-b9f539"
 page_type: "study"
 tags: ["type/study", "collection/seminar-tour-brochure"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "oracle-att-ncr-customer-driven-seminar-t-b9f539"
 author: "Oracle Corporation (sponsor); AT&T/NCR (co-sponsor); Peter S. Kastner (Aberdeen Group, keynote speaker)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.67
+prescience_obs_count: 6
 ---
 
 # Oracle / AT&T-NCR 'Transitioning to Customer-Driven Information Solutions' 8-City Seminar Tour, Fall 1993 — Kastner Keynote
@@ -32,10 +32,10 @@ _Published 1993, author **Oracle Corporation (sponsor); AT&T/NCR (co-sponsor); P
 
 ## Top observations
 
-- Pittsburgh 10/12; Dallas 10/14; LA 10/19; Seattle 10/21; Cincinnati 10/28; Atlanta 11/2; Boston 11/4; NY 11/9
-- Vice President, Aberdeen Group; responsible for Aberdeen's Corporate Computing practice
-- manufacturing / banking / financial services / healthcare / government
-- Boston-based computer-systems, software, and communications consulting and research organization
-- 8:30 registration / 9:00 intro / 9:10 Kastner keynote / 10:15 AT&T-NCR + Oracle / 11:15 case studies / 11:45 Q&A / 12:00 close
+- Competitive organizations get, move, and use information with the customer in mind `[ps=4]`
+- Pittsburgh 10/12; Dallas 10/14; LA 10/19; Seattle 10/21; Cincinnati 10/28; Atlanta 11/2; Boston 11/4; NY 11/9 `[ps=0]`
+- Vice President, Aberdeen Group; responsible for Aberdeen's Corporate Computing practice `[ps=0]`
+- manufacturing / banking / financial services / healthcare / government `[ps=0]`
+- Boston-based computer-systems, software, and communications consulting and research organization `[ps=0]`
+- 8:30 registration / 9:00 intro / 9:10 Kastner keynote / 10:15 AT&T-NCR + Oracle / 11:15 case studies / 11:45 Q&A / 12:00 close `[ps=0]`
 - marketed as AT&T/NCR in fall 1993 brochures
-- Competitive organizations get, move, and use information with the customer in mind

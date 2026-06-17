@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Internet Technologies (general)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Rapid adoption of Internet technologies simultaneously creates opportunities and risks — [[study-1997-electronic-commerce-to-internet-com-b26a35]]
+- Rapid adoption of Internet technologies simultaneously creates opportunities and risks `[ps=4]` — [[study-1997-electronic-commerce-to-internet-com-b26a35]]

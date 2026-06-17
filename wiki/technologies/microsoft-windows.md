@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Windows
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Anticipated Q2 1992 availability of Microsoft Windows-based Sapiens client; pre-release demo observed — [[study-1992-sapiens-and-metadata-0608b6]]
+- Anticipated Q2 1992 availability of Microsoft Windows-based Sapiens client; pre-release demo observed `[ps=0]` — [[study-1992-sapiens-and-metadata-0608b6]]

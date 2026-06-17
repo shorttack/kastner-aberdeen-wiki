@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Active"
 lifecycle_current: "Defunct"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # BoKS Manager
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NT Server version in field test; planned for future release — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
+- NT Server version in field test; planned for future release `[ps=0]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]

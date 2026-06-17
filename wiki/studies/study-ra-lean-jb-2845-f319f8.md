@@ -1,5 +1,5 @@
 ---
-title: "==> picture [240 x 792] intentionally omitted <=="
+title: "Ra Lean Jb 2845 (Aberdeen, 2006)"
 slug: "study-ra-lean-jb-2845-f319f8"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.08
-prescience_obs_count: 76
+prescience_mean: 1.51
+prescience_obs_count: 63
 ---
 
-# ==> picture [240 x 792] intentionally omitted <==
+# Ra Lean Jb 2845 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [240 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-lean-jb-2845-f319f8. Source: ra_lean_jb_2845.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **topic-analysis**._

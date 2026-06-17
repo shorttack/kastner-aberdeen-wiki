@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Bm Manufacturing Intelligence 3594 (Aberdeen, 1988)"
 slug: "study-bm-manufacturing-intelligence-3594-578435"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.72
-prescience_obs_count: 61
+prescience_mean: 2.07
+prescience_obs_count: 54
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Bm Manufacturing Intelligence 3594 (Aberdeen, 1988)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study bm-manufacturing-intelligence-3594-578435. Source: bm_manufacturing_intelligence_3594.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 1988, author **Aberdeen Group**, type **topic-analysis**._

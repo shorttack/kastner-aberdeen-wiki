@@ -12,9 +12,9 @@ era: "2003-2010"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Aberdeen Online Conference Series (AOCS)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen suggested approach: three phases combining AOCS, Benchmark Study, Installed Base, On Demand Assessment, Private IBM Webinar, Value Assessment Workshop, DSETs, Maturity Grids, Business Modeling Tools. — [[study-ibm-scm-murray2-tm-4a0fbf]]
-- AOCS Best Practices in e-Sourcing metrics: 315 pre-event registrants, 149 attendees, 187 post-event downloads; audience split 43.2% Users / 27.4% Influencers. — [[study-ibmfinal1-3-720230]]
+- Aberdeen suggested approach: three phases combining AOCS, Benchmark Study, Installed Base, On Demand Assessment, Private IBM Webinar, Value Assessment Workshop, DSETs, Maturity Grids, Business Modeling Tools. `[ps=0]` — [[study-ibm-scm-murray2-tm-4a0fbf]]
+- AOCS Best Practices in e-Sourcing metrics: 315 pre-event registrants, 149 attendees, 187 post-event downloads; audience split 43.2% Users / 27.4% Influencers. `[ps=0]` — [[study-ibmfinal1-3-720230]]

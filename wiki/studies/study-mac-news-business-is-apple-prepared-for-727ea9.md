@@ -3,7 +3,7 @@ title: "Is Apple Prepared for a Succession?"
 slug: "study-mac-news-business-is-apple-prepared-for-727ea9"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "mac-news-business-is-apple-prepared-for-727ea9"
 author: "Blane Warrene (reporter, MacNewsWorld); Peter Kastner, Chad Mader (quoted sources)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 4
 ---
 
 # Is Apple Prepared for a Succession?
@@ -32,7 +32,7 @@ _Published 2004, author **Blane Warrene (reporter, MacNewsWorld); Peter Kastner,
 
 ## Top observations
 
-- No major management issues anticipated during limited-duration leave
-- Head of sales running company during back-to-school season
-- Article thesis: Apple has not publicly discussed succession; governance gap
-- Tim Cook became CEO on Aug 24, 2011; Jobs died Oct 5, 2011. Transition widely regarded as orderly
+- No major management issues anticipated during limited-duration leave `[ps=5]`
+- Tim Cook became CEO on Aug 24, 2011; Jobs died Oct 5, 2011. Transition widely regarded as orderly `[ps=5]`
+- Head of sales running company during back-to-school season `[ps=2]`
+- Article thesis: Apple has not publicly discussed succession; governance gap `[ps=2]`

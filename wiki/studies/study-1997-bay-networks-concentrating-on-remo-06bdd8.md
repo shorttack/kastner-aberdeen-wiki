@@ -3,7 +3,7 @@ title: "Bay Networks: Concentrating on Remote Access"
 slug: "study-1997-bay-networks-concentrating-on-remo-06bdd8"
 page_type: "study"
 tags: ["type/study", "collection/announcement-profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-bay-networks--concentrating-on-remo-06bdd8"
 author: "Virginia Brooks"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.89
+prescience_obs_count: 9
 ---
 
 # Bay Networks: Concentrating on Remote Access
@@ -32,17 +32,17 @@ _Published 1997, author **Virginia Brooks**, type **announcement-profile**._
 
 ## Top observations
 
-- High-density access for service providers, telcos, carriers, enterprise networks; modular form in Bay 5000 MSX
-- Stand-alone box for smaller ISPs and enterprise users
-- Acquired via Penril Datability Networks acquisition (November 1996)
-- Competing x2 (3Com) and K56flex (Rockwell) standards created compatibility challenges
-- Bay Networks positioned to address high-density remote access market with 5399 against Ascend and others
-- 5399 won first large order from Prodigy (online service) over Ascend in October 1997; Bay Networks acquired by Nortel for $9.1B in June 1998
-- Aberdeen implies 56K standard fragmentation would need resolution for market to mature
-- ITU ratified V.90 standard February 1998 (draft) and September 1998 (final); unified x2 and K56flex into single standard
+- Competing x2 (3Com) and K56flex (Rockwell) standards created compatibility challenges `[ps=5]`
+- Aberdeen implies 56K standard fragmentation would need resolution for market to mature `[ps=5]`
+- ITU ratified V.90 standard February 1998 (draft) and September 1998 (final); unified x2 and K56flex into single standard `[ps=5]`
+- High-density access for service providers, telcos, carriers, enterprise networks; modular form in Bay 5000 MSX `[ps=3]`
+- Stand-alone box for smaller ISPs and enterprise users `[ps=3]`
+- Bay Networks acquired Penril Datability Networks (November 1996) to gain DSP modem technology for remote access portfolio expansion `[ps=3]`
+- Bay Networks positioned to address high-density remote access market with 5399 against Ascend and others `[ps=2]`
+- Acquired via Penril Datability Networks acquisition (November 1996) `[ps=0]`
+- 5399 won first large order from Prodigy (online service) over Ascend in October 1997; Bay Networks acquired by Nortel for $9.1B in June 1998 `[ps=0]`
 - Two-tier product strategy: high-density modular (5399) for carriers/large enterprise + stand-alone (8000) for SMB/smaller ISPs
 - Acquired by Nortel Networks for $9.1 billion in June 1998; enterprise business eventually sold to Avaya in 2009 following Nortel bankruptcy
-- Bay Networks acquired Penril Datability Networks (November 1996) to gain DSP modem technology for remote access portfolio expansion
 - Primary competitor to Bay Networks in high-density remote access concentrator market
 - Acquired by Lucent Technologies in 1999 for approximately $20 billion
 - High-density access scalability, support for 56K modem technologies, carrier-class reliability

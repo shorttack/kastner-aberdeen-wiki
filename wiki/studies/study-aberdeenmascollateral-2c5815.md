@@ -1,5 +1,5 @@
 ---
-title: "==> picture [34 x 716] intentionally omitted <=="
+title: "Aberdeenmascollateral (Aberdeen, 2005)"
 slug: "study-aberdeenmascollateral-2c5815"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 0.0
-prescience_mean: -0.5
-prescience_obs_count: 2
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
-# ==> picture [34 x 716] intentionally omitted <==
+# Aberdeenmascollateral (Aberdeen, 2005)
 
-> This study analyzes ==> picture [34 x 716] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study aberdeenmascollateral-2c5815. Source: aberdeenmascollateral.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **market-study**._
@@ -33,4 +33,4 @@ _Published 2005, author **Aberdeen Group**, type **market-study**._
 ## Top observations
 
 - _**Key Findings:**_ Covering the major dynamics in the industry today and the unseen, future trends that are likely to develop over the next 12–48 months. `[ps=0]`
-- This study analyzes ==> picture [34 x 716] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [34 x 716] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

@@ -12,9 +12,9 @@ era: "1996-1999"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Defunct (concept evolved into DSCP WFQ)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intelligent Queuing (IQ)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Access Point's IQ software permits IT managers to establish traffic priorities and allocate bandwidth percentages; class defined by IP address range TCP/UDP ports — [[study-1997-managing-corporate-internet-access--ae26d9]]
+- Access Point's IQ software permits IT managers to establish traffic priorities and allocate bandwidth percentages; class defined by IP address range TCP/UDP ports `[ps=0]` — [[study-1997-managing-corporate-internet-access--ae26d9]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "TD SYNNEX"
 years_active: "1974-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Tech Data Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Tech Data merged with SYNNEX in 2021 to form TD SYNNEX — the other surviving major distributor — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
+- Tech Data merged with SYNNEX in 2021 to form TD SYNNEX — the other surviving major distributor `[ps=5]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]

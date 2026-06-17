@@ -12,9 +12,9 @@ era: "1985-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # BOOTP (Boot Protocol)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- BOOTP-based; provides IP address and software images to NC Clients — [[study-netcompute-e6c378]]
+- BOOTP-based; provides IP address and software images to NC Clients `[ps=3]` — [[study-netcompute-e6c378]]

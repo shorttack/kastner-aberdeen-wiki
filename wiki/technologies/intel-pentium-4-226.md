@@ -12,9 +12,9 @@ era: "2002-2003"
 lifecycle_at_study: "new"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel Pentium 4 2.26 GHz
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- P4 2.26 GHz disappeared from PC Deals by October 2002 — [[study-dct-intel-processor-prices-2003-01]]
+- P4 2.26 GHz disappeared from PC Deals by October 2002 `[ps=0]` — [[study-dct-intel-processor-prices-2003-01]]

@@ -12,9 +12,9 @@ era: "1992-2004"
 lifecycle_at_study: "Active standard"
 lifecycle_current: "Obsolete (superseded by PCI-Express)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # PCI Bus
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- PCI bus bandwidth is insufficient for high-performance server I/O workloads — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]
+- PCI bus bandwidth is insufficient for high-performance server I/O workloads `[ps=5]` — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]

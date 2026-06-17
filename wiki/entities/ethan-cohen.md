@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Ethan Cohen
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Home Networking (Cohen); Messaging (Gardner); Intel Servers (Manter); Digital Content (Hoch); Internet Appliances (Ro) — [[study-dct-personal-it-practice-launch-2001]]
+- Home Networking (Cohen); Messaging (Gardner); Intel Servers (Manter); Digital Content (Hoch); Internet Appliances (Ro) `[ps=0]` — [[study-dct-personal-it-practice-launch-2001]]

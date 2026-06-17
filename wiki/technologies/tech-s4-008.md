@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "Mature"
 lifecycle_current: "Succeeded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM Systems Management Family (Tivoli TME10)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Manages mixed heterogeneous environments; integrates SMS, NetView, OpenView, NetManager — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
+- Manages mixed heterogeneous environments; integrates SMS, NetView, OpenView, NetManager `[ps=0]` — [[study-1997-ibm’s-network-computing-solution----e74e8a]]

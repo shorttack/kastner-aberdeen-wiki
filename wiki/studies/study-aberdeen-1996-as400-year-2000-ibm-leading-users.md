@@ -3,7 +3,7 @@ title: "AS/400 and the Year 2000: IBM Leading Users Across an Unknown Chasm"
 slug: "study-aberdeen-1996-as400-year-2000-ibm-leading-users"
 page_type: "study"
 tags: ["type/study", "collection/market-viewpoint"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1996-as400-year-2000-ibm-leading-users"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.2
+prescience_obs_count: 20
 ---
 
 # AS/400 and the Year 2000: IBM Leading Users Across an Unknown Chasm
@@ -32,28 +32,28 @@ _Published 1996, author **Aberdeen Group**, type **market-viewpoint**._
 
 ## Top observations
 
-- os400_v3_year_2000_safe
-- published_compliant_software_list
-- requested_isv_compliance_statements
+- replacing_working_systems_rare `[ps=5]`
+- programmers_hardcoded_19_in_year_dates `[ps=5]`
+- y2k_did_accelerate_some_platform_consolidation `[ps=5]`
+- os400_v3_year_2000_safe `[ps=4]`
+- y2k_leadership_will_increase_user_loyalty `[ps=4]`
+- y2k_costs_must_be_expensed_not_capitalized `[ps=4]`
+- requires_senior_executive_and_mis_management `[ps=4]`
+- making_customers_aware_of_y2k_issues `[ps=4]`
+- enterprise_finds_predicament_larger_every_time `[ps=4]`
+- requested_isv_compliance_statements `[ps=3]`
+- y2k_safe_haven_will_attract_migrations `[ps=2]`
+- published_compliant_software_list `[ps=0]`
+- recruiting_y2k_professional_service_orgs `[ps=0]`
+- 1940_to_2039 `[ps=0]`
+- publicly_released_date_calculation_algorithms `[ps=0]`
+- doing_all_that_hw_supplier_can_do `[ps=0]`
+- impact_different_for_each_enterprise `[ps=0]`
+- continuously_surfacing_problems `[ps=0]`
+- os400_pre_v3_returned_ambiguous_year_dates `[ps=0]`
+- required_manual_date_input_after_jan_1_2000 `[ps=0]`
 - developing_vulnerability_assessment_software
-- recruiting_y2k_professional_service_orgs
-- 1940_to_2039
-- publicly_released_date_calculation_algorithms
-- doing_all_that_hw_supplier_can_do
-- y2k_leadership_will_increase_user_loyalty
 - as400_y2k_transition_successful
 - no_silver_bullet_y2k_solution
 - no_single_fix_confirmed_massive_industry_effort
-- impact_different_for_each_enterprise
-- y2k_costs_must_be_expensed_not_capitalized
-- requires_senior_executive_and_mis_management
 - as400_as_migration_safe_haven
-- as400_rebranded_iseries_2000
-- scarce_and_increasing_cost_of_resources
-- replacing_working_systems_rare
-- continuously_surfacing_problems
-- y2k_embedded_systems_chips_unexpected
-- os400_pre_v3_returned_ambiguous_year_dates
-- required_manual_date_input_after_jan_1_2000
-- programmers_hardcoded_19_in_year_dates
-- different_applications_use_different_date_coding

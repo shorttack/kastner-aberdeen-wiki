@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1998-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # IPMI Promoter/Adopter Forum
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IPMI v1.5 (released 2001): message-passing architecture and extensions for monitoring and reporting across data center LANs and remote serial ports — enabling comprehensive enterprise systems management. — [[study-planningforemergingindustry-6-40decb]]
-- 150+ adopter companies as of 2003; IPMI, in use since 1998, is one of the tools used to build systems-management products lowering data center server-management costs. — [[study-planningforemergingindustry-6-40decb]]
+- 150+ adopter companies as of 2003; IPMI, in use since 1998, is one of the tools used to build systems-management products lowering data center server-management costs. `[ps=5]` — [[study-planningforemergingindustry-6-40decb]]
+- IPMI v1.5 (released 2001): message-passing architecture and extensions for monitoring and reporting across data center LANs and remote serial ports — enabling comprehensive enterprise systems management. `[ps=3]` — [[study-planningforemergingindustry-6-40decb]]

@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 4
 ---
 
 # NCR 3000 Server Cabinet Engineering Diagram (1992): Intel486 50MHz Multiprocessor Boards, Micro Channel, Hot-Pluggable Storage
@@ -32,9 +32,9 @@ _Published 1992, author **NCR Corporation (engineering documentation)**, type **
 
 ## Top observations
 
-- two 50MHz Intel486 per processor board
+- two 50MHz Intel486 per processor board `[ps=0]`
+- Up to 14 full-height or 28 half-height hot-pluggable fixed disks `[ps=0]`
+- 600MB CD-ROM and 1.3GB DAT optional `[ps=0]`
+- AT&T Company (NCR was AT&T-owned 1991-1996) `[ps=0]`
 - 8 primary + 8 optional Micro Channel slots
-- Up to 14 full-height or 28 half-height hot-pluggable fixed disks
 - 525MB QIC tape standard
-- 600MB CD-ROM and 1.3GB DAT optional
-- AT&T Company (NCR was AT&T-owned 1991-1996)

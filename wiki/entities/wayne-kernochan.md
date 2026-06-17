@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1990s-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Wayne Kernochan
@@ -29,6 +29,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sole coordinator — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- scalability flexibility Web robustness ever-increasing workloads rapid online upgradeability — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- Sole coordinator `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- scalability flexibility Web robustness ever-increasing workloads rapid online upgradeability `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - Deep expertise in database systems and data management; could identify lock-escalation patterns causing performance degradation at scale. — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]

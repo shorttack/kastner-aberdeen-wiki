@@ -3,7 +3,7 @@ title: "Intel May Get Chip on Its Shoulder (USA Today on IBM-Intel Pentium FDIV 
 slug: "study-usatoday-maney-pentium-fdiv-kastner-1994-13a035"
 page_type: "study"
 tags: ["type/study", "collection/trade-press-feature"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "usatoday-maney-pentium-fdiv-kastner-1994-13a035"
 author: "Kevin Maney (USA Today)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.11
+prescience_obs_count: 9
 ---
 
 # Intel May Get Chip on Its Shoulder (USA Today on IBM-Intel Pentium FDIV battle)
@@ -32,14 +32,14 @@ _Published 1994, author **Kevin Maney (USA Today)**, type **trade-press-feature*
 
 ## Top observations
 
-- industry will get bloodied
-- negative
-- seconds vs 15 minutes recalc daily
-- once every 27,000 years
+- halted 12-Dec-1994 `[ps=5]`
+- could end up dealing with all customers `[ps=5]`
+- Intel minimizes, IBM maximizes `[ps=3]`
+- industry will get bloodied `[ps=2]`
+- once every 27,000 years `[ps=2]`
+- 1 in 100 million `[ps=2]`
+- negative `[ps=0]`
+- seconds vs 15 minutes recalc daily `[ps=0]`
+- you can always contrive situations `[ps=0]`
 - once per 24 days
-- 1 in 100 million
 - down 2% closing $60.625, 16M shares traded
-- you can always contrive situations
-- halted 12-Dec-1994
-- Intel minimizes, IBM maximizes
-- could end up dealing with all customers

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Kana Software; acquired by Sword Group 2010"
 years_active: "1996-2010"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Kana Communications Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- E-mail-first eCRM startup leveraging web for outbound/inbound customer communications — [[study-1999-managing-customers-with-next-generation-software-a-a5adc4]]
+- E-mail-first eCRM startup leveraging web for outbound/inbound customer communications `[ps=3]` — [[study-1999-managing-customers-with-next-generation-software-a-a5adc4]]

@@ -12,9 +12,9 @@ era: "1997-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 3
 ---
 
 # Perspecta SmartContent System
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Analyzes and defines complex relationships between disparate information sources; dynamically reorganizes content in real-time based on user behavior — [[study-perspecta-inc-september-1997-b8e81d]]
-- Perspecta should be on the short list for applications benefiting from more effective interfaces — [[study-perspecta-inc-september-1997-b8e81d]]
-- Aberdeen implies Perspecta is a viable market participant with a distinctive product worthy of enterprise consideration — [[study-perspecta-inc-september-1997-b8e81d]]
+- Analyzes and defines complex relationships between disparate information sources; dynamically reorganizes content in real-time based on user behavior `[ps=4]` — [[study-perspecta-inc-september-1997-b8e81d]]
+- Aberdeen implies Perspecta is a viable market participant with a distinctive product worthy of enterprise consideration `[ps=2]` — [[study-perspecta-inc-september-1997-b8e81d]]
+- Perspecta should be on the short list for applications benefiting from more effective interfaces `[ps=0]` — [[study-perspecta-inc-september-1997-b8e81d]]

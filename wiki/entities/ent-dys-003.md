@@ -12,9 +12,9 @@ status: "Renamed"
 successor: "RSA Security Inc. (1999)"
 years_active: "1984-1999"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Security Dynamics Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Security Dynamics built security portfolio via acquisitions (RSA Data Security 1996 DynaSoft 1997) — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
+- Security Dynamics built security portfolio via acquisitions (RSA Data Security 1996 DynaSoft 1997) `[ps=4]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]

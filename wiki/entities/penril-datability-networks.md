@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Bay Networks (acquired November 1996)"
 years_active: "?-1996"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Penril Datability Networks
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Bay Networks acquired Penril Datability Networks (November 1996) to gain DSP modem technology for remote access portfolio expansion — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
+- Bay Networks acquired Penril Datability Networks (November 1996) to gain DSP modem technology for remote access portfolio expansion `[ps=3]` — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]

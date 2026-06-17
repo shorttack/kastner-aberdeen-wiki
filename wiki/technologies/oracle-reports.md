@@ -12,9 +12,9 @@ era: "1984-2020"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Oracle Reports
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle Reports provides sophisticated report generation from simple tabular to complex cross-tab and matrix formats — [[study-1997-oracle-developer-2000-client-server-development-en-5f98ce]]
+- Oracle Reports provides sophisticated report generation from simple tabular to complex cross-tab and matrix formats `[ps=0]` — [[study-1997-oracle-developer-2000-client-server-development-en-5f98ce]]

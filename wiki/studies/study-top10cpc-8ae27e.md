@@ -1,5 +1,5 @@
 ---
-title: "==> picture [407 x 242] intentionally omitted <=="
+title: "Top10Cpc (Aberdeen, 2001)"
 slug: "study-top10cpc-8ae27e"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [407 x 242] intentionally omitted <==
+# Top10Cpc (Aberdeen, 2001)
 
-> This study analyzes ==> picture [407 x 242] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study top10cpc-8ae27e. Source: top10cpc.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2001, author **Aberdeen Group**, type **topic-analysis**._
@@ -32,4 +32,4 @@ _Published 2001, author **Aberdeen Group**, type **topic-analysis**._
 
 ## Top observations
 
-- This study analyzes ==> picture [407 x 242] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [407 x 242] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

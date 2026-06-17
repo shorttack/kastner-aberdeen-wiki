@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "2000-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Link Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Advised Web-based and collaboration-market pivot for US market entry; client set up first US sales office — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Advised Web-based and collaboration-market pivot for US market entry; client set up first US sales office `[ps=4]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]

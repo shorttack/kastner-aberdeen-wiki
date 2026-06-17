@@ -12,9 +12,9 @@ era: "2001-present"
 lifecycle_at_study: "launch"
 lifecycle_current: "legacy-superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Mac OS X Server
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- No client access licenses and lower list prices vs. Windows/Unix server competitors — [[study-linux-news-enterprise-systems-apple-s-en-a8fdd0]]
+- No client access licenses and lower list prices vs. Windows/Unix server competitors `[ps=3]` — [[study-linux-news-enterprise-systems-apple-s-en-a8fdd0]]

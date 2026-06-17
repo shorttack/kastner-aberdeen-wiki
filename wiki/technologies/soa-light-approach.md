@@ -12,9 +12,9 @@ era: "2004-2012"
 lifecycle_at_study: "new"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # SOA "light" — open-source + standards
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SOA 'light': based on open-source programs and industry standards; best suited to small companies, lightweight integration, and simple web services such as employee self-service. — [[study-soa-adoption-eats-up-40-per-cent-of-it-r-d0cf12]]
+- SOA 'light': based on open-source programs and industry standards; best suited to small companies, lightweight integration, and simple web services such as employee self-service. `[ps=2]` — [[study-soa-adoption-eats-up-40-per-cent-of-it-r-d0cf12]]

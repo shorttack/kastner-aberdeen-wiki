@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Evolved into APS/S&OP platforms"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Advanced Planning Engine Technologies (APET)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Real-time demand-side orders and near-immediate supply-side materials access achievable — [[study-1997-infinite-resource-planning-wp-893815]]
-- Substantially realized through SAP APO/i2 Technologies/JDA by 2005-2010 — [[study-1997-infinite-resource-planning-wp-893815]]
+- Real-time demand-side orders and near-immediate supply-side materials access achievable `[ps=4]` — [[study-1997-infinite-resource-planning-wp-893815]]
+- Substantially realized through SAP APO/i2 Technologies/JDA by 2005-2010 `[ps=2]` — [[study-1997-infinite-resource-planning-wp-893815]]

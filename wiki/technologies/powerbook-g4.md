@@ -12,9 +12,9 @@ era: "2001-2006"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # PowerBook G4
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1.5 GHz — [[study-year-in-macs-part-one-macworld-dalrymple-dd247c]]
+- 1.5 GHz `[ps=0]` — [[study-year-in-macs-part-one-macworld-dalrymple-dd247c]]

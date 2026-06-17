@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1989-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # Object Management Group (OMG)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 450+ companies supporting CORBA — [[study-aberdeen-1995-digital-objectbroker]]
-- Growing strategic importance forecast — [[study-aberdeen-1995-digital-objectbroker]]
-- Mixed: CORBA adoption peaked ~1998-2002 in enterprise (telecom, finance) but web services (SOAP 1998, REST 2000) emerged as dominant integration paradigm; CORBA largely replaced by SOA/REST/microservices by 2010 — [[study-aberdeen-1995-digital-objectbroker]]
+- Mixed: CORBA adoption peaked ~1998-2002 in enterprise (telecom, finance) but web services (SOAP 1998, REST 2000) emerged as dominant integration paradigm; CORBA largely replaced by SOA/REST/microservices by 2010 `[ps=4]` — [[study-aberdeen-1995-digital-objectbroker]]
+- Growing strategic importance forecast `[ps=3]` — [[study-aberdeen-1995-digital-objectbroker]]
+- 450+ companies supporting CORBA `[ps=0]` — [[study-aberdeen-1995-digital-objectbroker]]
 - Standardizing types of service requests objects universally provide; object behavior in distributed systems — [[study-nti-5-development-toolsets-0e71c5]]

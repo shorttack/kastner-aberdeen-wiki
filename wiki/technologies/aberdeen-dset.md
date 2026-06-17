@@ -12,9 +12,9 @@ era: "2003-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen DSET Framework
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DSET C-Level Focus: Drivers (external forces — economic, political, regulatory, technology, customer preferences, competitive) → Strategies (product/service, target markets, financial, GTM) → Enablers (skilled people, brand, positioning, products/services, partners, financing) → Technology (development platform, applications, network connectivity, UI, training, partner interfaces, data management) — [[study-ibm-aberdeen-wip-deck-2-704ff9]]
+- DSET C-Level Focus: Drivers (external forces — economic, political, regulatory, technology, customer preferences, competitive) → Strategies (product/service, target markets, financial, GTM) → Enablers (skilled people, brand, positioning, products/services, partners, financing) → Technology (development platform, applications, network connectivity, UI, training, partner interfaces, data management) `[ps=0]` — [[study-ibm-aberdeen-wip-deck-2-704ff9]]

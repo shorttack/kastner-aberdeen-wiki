@@ -12,9 +12,9 @@ era: "1995-1997"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Windows NT Workstation 3.51
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft Windows NT Workstation 3.51; enables multitasking and stability — [[study-aberdeen-1995-digital-multia]]
+- Microsoft Windows NT Workstation 3.51; enables multitasking and stability `[ps=4]` — [[study-aberdeen-1995-digital-multia]]

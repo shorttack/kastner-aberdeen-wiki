@@ -12,9 +12,9 @@ era: "1986-2005"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # ATA Disk Drive
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ATA positioned in spectrum below MaXLine toward consumer/low-reliability zone — [[study-19-maxline-data-timeline-slide-6e6572]]
+- ATA positioned in spectrum below MaXLine toward consumer/low-reliability zone `[ps=4]` — [[study-19-maxline-data-timeline-slide-6e6572]]

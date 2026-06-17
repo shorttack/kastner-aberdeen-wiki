@@ -1,5 +1,5 @@
 ---
-title: "==> picture [69 x 792] intentionally omitted <=="
+title: "Ra Bpsop Se (Aberdeen, 2005)"
 slug: "study-ra-bpsop-se-134043"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.24
-prescience_obs_count: 25
+prescience_mean: 1.55
+prescience_obs_count: 22
 ---
 
-# ==> picture [69 x 792] intentionally omitted <==
+# Ra Bpsop Se (Aberdeen, 2005)
 
-> This study analyzes ==> picture [69 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-bpsop-se-134043. Source: ra_bpsop_se.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Gehr Industries**, type **topic-analysis**._
@@ -54,6 +54,6 @@ _Published 2005, author **Gehr Industries**, type **topic-analysis**._
 - Reduced COGS by $150,000, reduced inventory write-offs and supported increased sales with reduced planning personnel and process automation. `[ps=0]`
 - This has enabled the company to reduce COGS by $150,000 and to reduce the risk of company inventory write-offs. `[ps=0]`
 - In March, we raised $6.7M and are backed by US Venture Partners and Shasta Ventures. `[ps=0]`
-- **Figure 2: A Framework for Assessing Industry Priority “Pain Points”** `[ps=-1]`
-- **Figure 3: The Nature of the Business Model Dictates the Decision Focus** `[ps=-1]`
-- **----- Start of picture text -----**<br> COMPELLING<br>BUSINESS CASE<br>TEAM WITH<br>ALIGNED LAGGARD<br>METRICS NORM<br>BEST IN CLASS<br>KEY CUSTOMER<br>COLLABORATION<br>0.0% 20.0% 40.0% 60.0% 80.0%<br>% IDENTIFIED AS CRITICAL<br>ACTIONS<br>PRIORITIZED SUCCESS<br>**----- End of picture text -----**<br> `[ps=-1]`
+- **Figure 2: A Framework for Assessing Industry Priority “Pain Points”**
+- **Figure 3: The Nature of the Business Model Dictates the Decision Focus**
+- **----- Start of picture text -----**<br> COMPELLING<br>BUSINESS CASE<br>TEAM WITH<br>ALIGNED LAGGARD<br>METRICS NORM<br>BEST IN CLASS<br>KEY CUSTOMER<br>COLLABORATION<br>0.0% 20.0% 40.0% 60.0% 80.0%<br>% IDENTIFIED AS CRITICAL<br>ACTIONS<br>PRIORITIZED SUCCESS<br>**----- End of picture text -----**<br>

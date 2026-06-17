@@ -12,9 +12,9 @@ era: "1997-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy-supported"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # Informix Dynamic Server 7.3
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Acquired by IBM in 2001 for approximately $1 billion; product line continues as IBM Informix `[ps=5]` — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
+- Can capture high-end OLTP/BI/ERP but will struggle in commoditized NT segments `[ps=4]` — [[study-dbmspr~1-7c854e]]
+- Revenue restatement and lowering in 1997; refocused strategy `[ps=0]` — [[study-dbmspr~1-7c854e]]
 - Viable independent enterprise RDBMS competitor with strong distributed capabilities — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
-- Acquired by IBM in 2001 for approximately $1 billion; product line continues as IBM Informix — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
-- Revenue restatement and lowering in 1997; refocused strategy — [[study-dbmspr~1-7c854e]]
-- Can capture high-end OLTP/BI/ERP but will struggle in commoditized NT segments — [[study-dbmspr~1-7c854e]]

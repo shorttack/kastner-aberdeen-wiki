@@ -12,9 +12,9 @@ status: "active"
 successor: "Alphabet Inc. (2015)"
 years_active: "1998-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Google, Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Google browser access logs support ~3% Mac figure — [[study-mac-keeps-lead-on-linux-7-e3bcbf]]
-- Google logs support ~3% Mac figure — [[study-mac-os-vs--linux-who-s-2-the-mac-observe-34e63d]]
+- Google browser access logs support ~3% Mac figure `[ps=3]` — [[study-mac-keeps-lead-on-linux-7-e3bcbf]]
+- Google logs support ~3% Mac figure `[ps=0]` — [[study-mac-os-vs--linux-who-s-2-the-mac-observe-34e63d]]

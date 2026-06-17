@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # IT Organizations (Enterprise)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IT management must recognize key directional changes as industry emerges from recession — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]
-- Organizations must recognize structural IT management changes to avoid missed opportunities — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]
-- Recovery timing is critical; early movers on structural changes will capture market share — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]
+- Recovery timing is critical; early movers on structural changes will capture market share `[ps=4]` — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]
+- IT management must recognize key directional changes as industry emerges from recession `[ps=0]` — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]
+- Organizations must recognize structural IT management changes to avoid missed opportunities `[ps=0]` — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]

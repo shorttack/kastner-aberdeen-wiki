@@ -12,9 +12,9 @@ era: "1994-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Fusion/NUMA Technology
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NUMA extends SMP with clustering and MPP features; allows scaling beyond SMP limits without application changes — [[study-aberdeen-1996-computer-telephony-integration]]
+- NUMA extends SMP with clustering and MPP features; allows scaling beyond SMP limits without application changes `[ps=3]` — [[study-aberdeen-1996-computer-telephony-integration]]

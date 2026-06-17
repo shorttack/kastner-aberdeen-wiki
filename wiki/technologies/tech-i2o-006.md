@@ -12,9 +12,9 @@ era: "1983-2010"
 lifecycle_at_study: "Active"
 lifecycle_current: "End-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # NetWare
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Novell NetWare 5 (1998) included I2O support and was the primary OS where I2O achieved any adoption — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]
+- Novell NetWare 5 (1998) included I2O support and was the primary OS where I2O achieved any adoption `[ps=4]` — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]

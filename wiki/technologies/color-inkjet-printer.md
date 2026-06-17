@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Color Inkjet Printer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $50 and up — [[study-dct-why-aberdeen-follows-pc-deals-2002]]
+- $50 and up `[ps=0]` — [[study-dct-why-aberdeen-follows-pc-deals-2002]]

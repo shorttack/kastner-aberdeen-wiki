@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "1Q06 Leanbenchmarkslick (Aberdeen, 2006)"
 slug: "study-1q06-leanbenchmarkslick-8e7b1e"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 1.33
 prescience_obs_count: 3
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# 1Q06 Leanbenchmarkslick (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study 1q06-leanbenchmarkslick-8e7b1e. Source: 1q06_leanbenchmarkslick.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **benchmark**._

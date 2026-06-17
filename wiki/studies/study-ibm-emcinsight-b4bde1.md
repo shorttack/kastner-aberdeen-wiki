@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 3.0
-prescience_mean: 0.33
-prescience_obs_count: 3
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # In Si ht g
@@ -33,5 +33,5 @@ _Published 2001, author **Aberdeen Group**, type **market-study**._
 ## Top observations
 
 - Each has an enterprise and a midrange line (Figure 1). `[ps=3]`
-- **Figure 1: Simple Server/Storage Perspective of the Network Storage Market** `[ps=-1]`
-- This study analyzes In Si ht g using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- **Figure 1: Simple Server/Storage Perspective of the Network Storage Market**
+- This study analyzes In Si ht g using Aberdeen Group research material and prepared extraction artifacts.

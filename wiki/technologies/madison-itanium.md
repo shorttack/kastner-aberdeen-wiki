@@ -12,9 +12,9 @@ era: "2003-2004"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Intel Madison was the Itanium 2 chip codename (2003). Itanium is fully discontinued with final shipments in July 2021.', 'source': 'https://www.theregister.com/2019/02/01/intel_kills_itanium_again/'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Intel Madison (Itanium 2 chip)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 7x improvement planned — [[study-intelitaniummfewp1[1]-773ea2]]
+- 7x improvement planned `[ps=1]` — [[study-intelitaniummfewp1[1]-773ea2]]
 - [UNVERIFIED] — [[study-intelitaniummfewp1[1]-773ea2]]

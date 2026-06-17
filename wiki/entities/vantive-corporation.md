@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "PeopleSoft (acquired 1999)"
 years_active: "1992-1999"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.67
+prescience_obs_count: 3
 ---
 
 # The Vantive Corporation
@@ -29,6 +29,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Vantive acquired by PeopleSoft for $433M October 1999 — [[study-1998-cis-report-customer-interaction-software-631068]]
-- Acquired by PeopleSoft for $433M (October 1999) — [[study-1999-managing-customers-with-next-generation-software-a-a5adc4]]
-- $117 million — [[study-cispra~1-23a333]]
+- Acquired by PeopleSoft for $433M (October 1999) `[ps=5]` — [[study-1999-managing-customers-with-next-generation-software-a-a5adc4]]
+- Vantive acquired by PeopleSoft for $433M October 1999 `[ps=0]` — [[study-1998-cis-report-customer-interaction-software-631068]]
+- $117 million `[ps=0]` — [[study-cispra~1-23a333]]

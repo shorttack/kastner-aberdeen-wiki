@@ -12,9 +12,9 @@ era: "1990-2002"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Compaq ProLiant Servers
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Pre-sales, post-sales, and implementation support for Siebel on Compaq hardware — [[study-1997-the-compaq-siebel-global-alliance-an-e-roach-to-cu-458c35]]
+- Pre-sales, post-sales, and implementation support for Siebel on Compaq hardware `[ps=0]` — [[study-1997-the-compaq-siebel-global-alliance-an-e-roach-to-cu-458c35]]

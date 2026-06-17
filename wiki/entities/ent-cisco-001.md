@@ -12,9 +12,9 @@ status: "Active"
 successor: ""
 years_active: "1984-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Cisco Systems Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Cisco lacks integrated LAN/WAN ATM solutions and end-to-end integration capability — [[study-1997-nortel--transforming-business-by-po-3edae6]]
-- Cisco became the dominant enterprise networking vendor; Nortel collapsed — [[study-1997-nortel--transforming-business-by-po-3edae6]]
+- Cisco became the dominant enterprise networking vendor; Nortel collapsed `[ps=5]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]
+- Cisco lacks integrated LAN/WAN ATM solutions and end-to-end integration capability `[ps=3]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]

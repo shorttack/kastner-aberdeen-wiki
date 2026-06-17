@@ -3,7 +3,7 @@ title: "Systems Management: Delayed Promise"
 slug: "study-systems-management-delayed-promise-1bc587"
 page_type: "study"
 tags: ["type/study", "collection/feature-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "systems-management-delayed-promise-1bc587"
 author: "Stuart J. Johnston with Monua Janah, InformationWeek #694"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 6
 ---
 
 # Systems Management: Delayed Promise
@@ -32,9 +32,9 @@ _Published 1998, author **Stuart J. Johnston with Monua Janah, InformationWeek #
 
 ## Top observations
 
-- Full benefits [of Zero Administration] accrue only to companies with homogeneous NT 5.0 environments. Cost savings Microsoft promises will happen very slowly, in an evolutionary fashion, as companies upgrade to NT 5.0.
-- Microsoft released Windows NT 4.0 Terminal Server Edition in June 1998, roughly one month before this article, extending Windows applications to users on Windows-based terminals without full PCs.
-- Microsoft had begun final testing of Systems Management Server 2.0 as of Aug 1998 — a significant upgrade intended to deliver software distribution, inventory, and remote-control capabilities tied to the Zero Admin vision.
-- Microsoft Windows NT 5.0 delays were the central risk to the Zero Administration initiative as of August 1998; the release was rebranded Windows 2000 and shipped Feb 17 2000 — roughly 18 months after this article, validating Kastner-era skepticism about the schedule.
-- Zero Admin Windows as a branded initiative dissolved, but its substance — Group Policy, IntelliMirror, SMS/SCCM, Remote Desktop — became mainstream only as NT 5.x homogeneity emerged in enterprise desktops 2003-2005, directly validating Kastner's evolutionary-not-revolutionary call.
-- Microsoft Systems Management Server was renamed System Center Configuration Manager (SCCM) with the 2007 release; later co-evolved with Microsoft Intune cloud MDM; rebranded Microsoft Endpoint Configuration Manager (2019) and Microsoft Intune (2022) in the Endpoint Manager family.
+- Full benefits [of Zero Administration] accrue only to companies with homogeneous NT 5.0 environments. Cost savings Microsoft promises will happen very slowly, in an evolutionary fashion, as companies upgrade to NT 5.0. `[ps=5]`
+- Microsoft released Windows NT 4.0 Terminal Server Edition in June 1998, roughly one month before this article, extending Windows applications to users on Windows-based terminals without full PCs. `[ps=5]`
+- Microsoft Windows NT 5.0 delays were the central risk to the Zero Administration initiative as of August 1998; the release was rebranded Windows 2000 and shipped Feb 17 2000 — roughly 18 months after this article, validating Kastner-era skepticism about the schedule. `[ps=4]`
+- Zero Admin Windows as a branded initiative dissolved, but its substance — Group Policy, IntelliMirror, SMS/SCCM, Remote Desktop — became mainstream only as NT 5.x homogeneity emerged in enterprise desktops 2003-2005, directly validating Kastner's evolutionary-not-revolutionary call. `[ps=4]`
+- Microsoft had begun final testing of Systems Management Server 2.0 as of Aug 1998 — a significant upgrade intended to deliver software distribution, inventory, and remote-control capabilities tied to the Zero Admin vision. `[ps=3]`
+- Microsoft Systems Management Server was renamed System Center Configuration Manager (SCCM) with the 2007 release; later co-evolved with Microsoft Intune cloud MDM; rebranded Microsoft Endpoint Configuration Manager (2019) and Microsoft Intune (2022) in the Endpoint Manager family. `[ps=0]`

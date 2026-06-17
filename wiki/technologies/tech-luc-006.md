@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "Not yet standardized at study"
 lifecycle_current: "Dominant VoIP standard"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # SIP (Session Initiation Protocol)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SIP (Session Initiation Protocol RFC 2543 1999) became dominant VoIP signaling standard; H.323 declined; proprietary gateway approaches like Lucent's initial implementation were superseded — [[study-1997-lucent-delivers-internet-telephony--888598]]
+- SIP (Session Initiation Protocol RFC 2543 1999) became dominant VoIP signaling standard; H.323 declined; proprietary gateway approaches like Lucent's initial implementation were superseded `[ps=5]` — [[study-1997-lucent-delivers-internet-telephony--888598]]

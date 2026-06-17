@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # SOA Lite
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ~50% of survey participants building SOA applications using web services and lightweight SOA tools (SOA Lite) — [[study-ma-ibm-webify-5e0d4b]]
-- SOA Lite projects may not sustain common IT failures or follow company or mandated policies due to absence of ESB, repository, management, governance, and lifecycle tools — [[study-ma-ibm-webify-5e0d4b]]
+- SOA Lite projects may not sustain common IT failures or follow company or mandated policies due to absence of ESB, repository, management, governance, and lifecycle tools `[ps=3]` — [[study-ma-ibm-webify-5e0d4b]]
+- ~50% of survey participants building SOA applications using web services and lightweight SOA tools (SOA Lite) `[ps=0]` — [[study-ma-ibm-webify-5e0d4b]]

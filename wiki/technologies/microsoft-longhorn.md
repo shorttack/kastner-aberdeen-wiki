@@ -12,9 +12,9 @@ era: "2001-2007"
 lifecycle_at_study: "preview"
 lifecycle_current: "shipped-as-vista"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Longhorn (became Vista)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft's next generation of operating systems - code-named Blackcomb and Longhorn - as well as the emerging Tablet PC, and advances in speech recognition, knowledge management and storage — [[study-watchit-psk-aberdeen-cro-presenter-2002--5843bc]]
+- Microsoft's next generation of operating systems - code-named Blackcomb and Longhorn - as well as the emerging Tablet PC, and advances in speech recognition, knowledge management and storage `[ps=4]` — [[study-watchit-psk-aberdeen-cro-presenter-2002--5843bc]]

@@ -3,7 +3,7 @@ title: "Oracle Corporation Across Four Decades of the Kastner Archive: RDBMS Dom
 slug: "study-2026-kastner-oracle-longitudinal"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2026-kastner-oracle-longitudinal"
 author: "Peter S. Kastner (assembled with Perplexity Computer using archival-ingest v16)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.7
+prescience_obs_count: 67
 ---
 
 # Oracle Corporation Across Four Decades of the Kastner Archive: RDBMS Dominance, Office Futures, Applications Conquest, and the Cloud Pivot
@@ -32,28 +32,28 @@ _Published 2026, author **Peter S. Kastner (assembled with Perplexity Computer u
 
 ## Top observations
 
-- 327
-- 73
-- 1988-2026
-- 215
-- 1990s
-- Oracle as RDBMS Insurgent (1977–1992)
-- Oracle as Enterprise Platform Builder (1993–2009)
-- Oracle as Cloud-Resistant Incumbent turning Cloud Challenger (2010–2026)
-- ~60 observations 1988–2026
-- Object-relational databases (ODBMS) will displace relational by 2000
-- Object-relational databases did NOT displace Oracle RDBMS
-- NoSQL databases will erode Oracle's enterprise RDBMS dominance by 2015
-- Oracle RDBMS remained dominant enterprise database through 2026
-- Aggressive TPC benchmarking + channel pricing + PL/SQL lock-in as three-pillar retention strategy
-- Oracle held approximately 35% of RDBMS market revenue 1993
-- Oracle held approximately 42% of RDBMS market revenue 1997
-- ~15 benchmark observations 1992–2003
-- Oracle/DEC VAX achieved TPC-C world record 1992 — first of multiple Oracle TPC-C records
-- Oracle on HP achieved TPC-C record on HP9000/K570 cluster 1996
-- TPC results were the single most persuasive data point in enterprise RDBMS competitive sales 1992–2002
-- TPC benchmarks declined as primary competitive currency after 2003 as cloud and TCO metrics replaced raw throughput
-- 39 observations in aberdeen-1995-oracle-interoffice alone; 37 office-keyword obs total
-- Modular cross-platform groupware: messaging, document management, workflow, scheduling — built on Oracle RDBMS
-- Oracle InterOffice included automated document summarization — first such feature documented in the Kastner archive
-- Aberdeen predicted Oracle had 6–12 month competitive lead over nearest competitors with InterOffice
+- Oracle as RDBMS Insurgent (1977–1992) `[ps=5]`
+- Object-relational databases did NOT displace Oracle RDBMS `[ps=5]`
+- Oracle/DEC VAX achieved TPC-C world record 1992 — first of multiple Oracle TPC-C records `[ps=5]`
+- Oracle Developer/2000 declined through 2000–2003; Oracle pivoted to Oracle Forms on Web and eventually Oracle APEX `[ps=5]`
+- Oracle leveraged database installed base to upsell integrated applications suite — same customer same platform strategy `[ps=5]`
+- Oracle hostile bid for PeopleSoft rationalized as HCM capability acquisition + elimination of primary applications competitor `[ps=5]`
+- Oracle acquired PeopleSoft January 2005 for $10.3B after 18-month hostile contest; DOJ antitrust challenge failed `[ps=5]`
+- PeopleSoft HCM and JD Edwards still actively deployed in 2026 — 21 years post-acquisition `[ps=5]`
+- Oracle 10g introduced Grid Computing branding — Oracle's reframing of multi-server architectures as 'utility computing grid' `[ps=5]`
+- PC market continued to grow through 2010; NC devices failed commercially; Ellison prediction refuted on timeline and mechanism `[ps=5]`
+- Oracle Cloud ERP (Fusion Financials) competes with SAP S/4HANA Cloud for large enterprise ERP cloud migrations `[ps=5]`
+- Oracle APEX (2004–present) is the durable successor to Developer/2000 — Oracle-native low-code development on Oracle DB `[ps=5]`
+- Oracle archive contains multiple confirmed prediction refutations — RDBMS displacement (2x refuted); NC device (refuted); Big Iron demise (partially refuted by Oracle itself) `[ps=5]`
+- Oracle's paradox: the company that repeatedly predicted displacement of incumbents (PC, Big Iron, proprietary software) survived every prediction of its own displacement — while its own disruptive bets (NC, InterOffice) failed `[ps=5]`
+- Oracle RDBMS remained dominant enterprise database through 2026 `[ps=4]`
+- Oracle held approximately 35% of RDBMS market revenue 1993 `[ps=4]`
+- Oracle InterOffice failed to gain significant market share; Oracle abandoned the product 2002 `[ps=4]`
+- Aberdeen defined 'Electronic Economic Community' as new paradigm — businesses communicating without electronic walls via Internet `[ps=4]`
+- Oracle Developer/2000 was the leading enterprise forms-and-reports development environment for Oracle shops 1996–2000 `[ps=4]`
+- Oracle E-Business Suite positioned as single integrated platform for supply chain + financials + HR vs. best-of-breed fragmentation `[ps=4]`
+- Oracle and SAP shared enterprise ERP/Applications duopoly by 2000; Oracle stronger in financials; SAP stronger in manufacturing `[ps=4]`
+- Oracle shifted Applications strategy from module-centric to business-process-flow-centric 2003 `[ps=4]`
+- PeopleSoft customers face significant disruption risk regardless of bid outcome — must plan for both scenarios `[ps=4]`
+- Oracle8 introduced object-relational extensions — Oracle's answer to the object database challenge `[ps=4]`
+- Oracle8 positioned as the data tier of NCA — Java cartridges in the app server; Oracle8 as the persistence layer `[ps=4]`

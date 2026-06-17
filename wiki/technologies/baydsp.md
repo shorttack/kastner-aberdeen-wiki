@@ -12,9 +12,9 @@ era: "1996-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # BayDSP Modem Technology
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquired via Penril Datability Networks acquisition (November 1996) — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
-- Bay Networks acquired Penril Datability Networks (November 1996) to gain DSP modem technology for remote access portfolio expansion — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
+- Bay Networks acquired Penril Datability Networks (November 1996) to gain DSP modem technology for remote access portfolio expansion `[ps=3]` — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
+- Acquired via Penril Datability Networks acquisition (November 1996) `[ps=0]` — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]

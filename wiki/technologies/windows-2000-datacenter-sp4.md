@@ -12,9 +12,9 @@ era: "2000-2004"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'end-of-life', 'notes': 'Windows 2000 (all editions including Datacenter Server SP4) reached end of extended support on July 13, 2010. Fully end-of-life with no security updates.', 'source': 'General knowledge / Microsoft lifecycle'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Windows 2000 Data Center SP4
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Comparable scalability; capable of handling high-end volume workloads — [[study-auditor-report-4-43ad9b]]
+- Comparable scalability; capable of handling high-end volume workloads `[ps=4]` — [[study-auditor-report-4-43ad9b]]

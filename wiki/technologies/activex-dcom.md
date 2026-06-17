@@ -12,9 +12,9 @@ era: "1996-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Microsoft ActiveX/DCOM
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Phase I: HTML/ISAPI query; Phase II (planned): ActiveX/DCOM distributed component apps — [[study-aberdeen-1996-flexiinternational-software-financial-acumen-technology]]
+- Phase I: HTML/ISAPI query; Phase II (planned): ActiveX/DCOM distributed component apps `[ps=2]` — [[study-aberdeen-1996-flexiinternational-software-financial-acumen-technology]]

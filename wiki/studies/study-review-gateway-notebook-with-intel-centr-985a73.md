@@ -3,7 +3,7 @@ title: "Review: Gateway Notebook With Intel Centrino Chipset Packs Wi-Fi Power"
 slug: "study-review-gateway-notebook-with-intel-centr-985a73"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "review-gateway-notebook-with-intel-centr-985a73"
 author: "Peter S. Kastner (Aberdeen Group), for InternetWeek / InformationWeek"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # Review: Gateway Notebook With Intel Centrino Chipset Packs Wi-Fi Power
@@ -32,10 +32,10 @@ _Published 2003, author **Peter S. Kastner (Aberdeen Group), for InternetWeek / 
 
 ## Top observations
 
+- IEEE 802.11g ratified June 2003 (matching Kastner timing); widespread enterprise deployment by 2004-2005. `[ps=5]`
+- 802.11b at 11 Mbps today, with 802.11a this summer and 802.11g next year. `[ps=4]`
+- Centrino notebooks are not yet a common sight on airplanes or in corporate conference rooms. `[ps=0]`
 - Designed from the get-go to maximize effective performance while squeezing every watt out of batteries, the Centrino platform is becoming mainstream for business laptops.
 - High marks for the Gateway 450: excels at performance, battery life, screen visibility, and ability to pull in distant Wi-Fi signals.
 - Intel's $300 million Centrino 'unwired experience' ad campaign.
-- 802.11b at 11 Mbps today, with 802.11a this summer and 802.11g next year.
-- Centrino notebooks are not yet a common sight on airplanes or in corporate conference rooms.
 - By 2006 most enterprise business laptops shipped with Centrino branding; Intel led the corporate mobile-CPU market unchallenged until ARM/Apple Silicon emergence in the 2020s.
-- IEEE 802.11g ratified June 2003 (matching Kastner timing); widespread enterprise deployment by 2004-2005.

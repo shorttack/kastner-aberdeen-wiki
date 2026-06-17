@@ -3,7 +3,7 @@ title: "Microsoft Spends a Bunch on Patents — But Is It Worth It?"
 slug: "study-usatoday-maney-microsoft-patents-rd-spen-8fdf22"
 page_type: "study"
 tags: ["type/study", "collection/news-column"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "usatoday-maney-microsoft-patents-rd-spen-8fdf22"
 author: "Kevin Maney"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.8
+prescience_obs_count: 5
 ---
 
 # Microsoft Spends a Bunch on Patents — But Is It Worth It?
@@ -32,10 +32,10 @@ _Published 2004, author **Kevin Maney**, type **news-column**._
 
 ## Top observations
 
+- Tablet PC has not turned into a megahit `[ps=5]`
+- Microsoft gets less respect and visibility for what they are doing in pure research than they deserve `[ps=4]`
+- Office and Windows remain Microsoft's long-standing moneymakers despite R&D spend `[ps=4]`
+- Xbox has not turned into a megahit despite R&D investment `[ps=1]`
+- approximately $9.5 million per patent `[ps=0]`
 - 528 patents
-- approximately $9.5 million per patent
 - more than $5 billion
-- Microsoft gets less respect and visibility for what they are doing in pure research than they deserve
-- Office and Windows remain Microsoft's long-standing moneymakers despite R&D spend
-- Xbox has not turned into a megahit despite R&D investment
-- Tablet PC has not turned into a megahit

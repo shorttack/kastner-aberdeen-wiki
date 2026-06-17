@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "Oracle Corporation (2010)"
 years_active: "1982-2010"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Sun Microsystems
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sun chose DynaSoft as strategic partner for Sun Security Manager — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
-- HP and Sun endorsements consolidate support, widen distribution, add professional services — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
+- HP and Sun endorsements consolidate support, widen distribution, add professional services `[ps=4]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
+- Sun chose DynaSoft as strategic partner for Sun Security Manager `[ps=2]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]

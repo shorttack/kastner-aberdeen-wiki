@@ -3,7 +3,7 @@ title: "Advertising on the Internet: Leveraging the Virtual Channel for Promotio
 slug: "study-1998-advertising-on-the-internet-leveraging-the-virtual-3972d6"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1998-advertising-on-the-internet-leveraging-the-virtual-3972d6"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.0
+prescience_obs_count: 10
 ---
 
 # Advertising on the Internet: Leveraging the Virtual Channel for Promotion and Brand Building
@@ -32,18 +32,18 @@ _Published 1998, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
+- Will grow as bandwidth constraints ease `[ps=5]`
+- Multiple formats emerging; banner dominant `[ps=3]`
+- CTR measurement as primary effectiveness metric `[ps=2]`
+- $5.1 billion `[ps=0]`
+- $8-10 billion run rate `[ps=0]`
+- 4.5% `[ps=0]`
+- ~3% (2000) `[ps=0]`
+- In-house servers vs outsourced ad servers vs full-service advertising networks `[ps=0]`
+- 17 technology providers profiled `[ps=0]`
+- Ad buyers and ad sellers (publishers) `[ps=0]`
 - $1.92 billion
-- $5.1 billion
-- $8-10 billion run rate
-- 4.5%
-- ~3% (2000)
 - Low bandwidth and connectivity speeds limiting advertiser adoption
-- Multiple formats emerging; banner dominant
-- In-house servers vs outsourced ad servers vs full-service advertising networks
 - Five ways to buy advertising on the Web
-- 17 technology providers profiled
-- CTR measurement as primary effectiveness metric
-- Ad buyers and ad sellers (publishers)
-- Will grow as bandwidth constraints ease
 - Rich media became standard with broadband proliferation post-2002
 - $1295

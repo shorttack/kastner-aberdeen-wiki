@@ -12,9 +12,9 @@ status: "mixed"
 successor: ""
 years_active: "1990-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IT Suppliers (Out-of-step)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Out-of-step IT suppliers will lose market share when spending recovers — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]
+- Out-of-step IT suppliers will lose market share when spending recovers `[ps=3]` — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]

@@ -12,9 +12,9 @@ era: "1990s-2010s"
 lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'mature', 'notes': 'Fibre Channel/SCSI disk (15K RPM online tier storage) remains in use in legacy enterprise environments. The technology is mature; new installs favor all-flash arrays (NVMe). FC-NVMe is the current evolution for high-performance FC storage.', 'source': 'https://fibrechannel.org/wp-content/uploads/2024/11/Fibre-Channel-Solutions-Guide-2024.pdf'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Fibre Channel / SCSI Disk (Online Tier)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- FC/SCSI growth projected to be modest as midline pool absorbs workloads previously on expensive disks — [[study-computerworld-ilm-article-15f604]]
+- FC/SCSI growth projected to be modest as midline pool absorbs workloads previously on expensive disks `[ps=4]` — [[study-computerworld-ilm-article-15f604]]

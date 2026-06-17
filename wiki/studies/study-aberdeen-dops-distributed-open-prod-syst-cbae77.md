@@ -3,7 +3,7 @@ title: "Aberdeen Group — Distributed Open Production Systems: The Next Generat
 slug: "study-aberdeen-dops-distributed-open-prod-syst-cbae77"
 page_type: "study"
 tags: ["type/study", "collection/conference-presentation"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-dops-distributed-open-prod-syst-cbae77"
 author: "Peter S. Kastner — Vice-President, Aberdeen Group, Inc."
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.42
+prescience_obs_count: 12
 ---
 
 # Aberdeen Group — Distributed Open Production Systems: The Next Generation Begins (1993)
@@ -32,15 +32,15 @@ _Published 1993, author **Peter S. Kastner — Vice-President, Aberdeen Group, I
 
 ## Top observations
 
-- Distributed-Open-Production-Quality-systems
-- Stratus-IBM-S390-RS6000-HP9000-Pyramid
-- use-more-system-services-hide-complexities
-- 6
-- IBM-endorsement-of-DCE
-- database-interoperability-standard
-- Stratus-Encina-DCE-Sybase-VOS-Order-Processing
-- S-390-CICS-DCE-DB2-DRDA-MVS-ESA-Credit-Admin
-- HP-9000-Encina-DCE-Allbase-HP-UX-MRP
-- Vice-President-Aberdeen-Group
-- 1993-Next-Generation-Begins
-- RS6000-Encina-DCE-Informix-Warehouse-Distribution
+- use-more-system-services-hide-complexities `[ps=5]`
+- database-interoperability-standard `[ps=3]`
+- S-390-CICS-DCE-DB2-DRDA-MVS-ESA-Credit-Admin `[ps=3]`
+- IBM-endorsement-of-DCE `[ps=2]`
+- HP-9000-Encina-DCE-Allbase-HP-UX-MRP `[ps=2]`
+- RS6000-Encina-DCE-Informix-Warehouse-Distribution `[ps=2]`
+- Distributed-Open-Production-Quality-systems `[ps=0]`
+- Stratus-IBM-S390-RS6000-HP9000-Pyramid `[ps=0]`
+- 6 `[ps=0]`
+- Stratus-Encina-DCE-Sybase-VOS-Order-Processing `[ps=0]`
+- Vice-President-Aberdeen-Group `[ps=0]`
+- 1993-Next-Generation-Begins `[ps=0]`

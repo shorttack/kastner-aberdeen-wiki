@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.92
-prescience_obs_count: 12
+prescience_mean: 2.5
+prescience_obs_count: 10
 ---
 
 # e-Learning in the Enterprise
@@ -42,5 +42,5 @@ _Published 2000, author **Aberdeen Group**, type **benchmark**._
 - |**F**|**I**<br>**G**<br>**U**<br>**R**|**E**|**S**|| |---|---|---|---|---| |Figure 1:|e-Learning Defined|||2| |Figure 2:|Training Delivery Methods|||4| |Figure 3:|Types of Training in the Enterprise|||16| |Figure 4:|Worldwide Certified IT Professionals by Category|||29| |Figure 5:|Training Methods in the Enterprise|||35| |Figure 6:|1998 Training by Sector|||42| |Figure 7:|U.S. `[ps=0]`
 - Corporate and Government Training in the 1990s|||42| |Figure 8:|The Fragmented e-Learning Market|||44| |Figure 9:|Arthur Andersen’s Integrated Learning Approach|||56| |Figure 10:|The TBT and Online Learning Market|||62| |Figure 11:|The click2learn.com Learning Solution|||64| |Figure 12:|Eloquent’s Online Turnkey Communication Solution|||80| |Figure 13:|Presenter! `[ps=0]`
 - Layout|||82| |Figure 14:|HyCurve Internet Professional Tracks|||89| |Figure 15:|LearnLinc’s Architecture|||94| |Figure 16:|SmartForce’s e-Learning Solution|||125| ||**T**<br>**A**<br>**B**<br>**L**|**E**|**S**|| |Table 1: e-Learning Compared to Classroom Training||||6| |Table 2: Training Methods||||15| |Table 3: WBT Advantages, Disadvantages, and Concerns||||18| |Table 4: Potential e-Learning Bene `[ps=0]`
-- **Figure 1: e-Learning Defined** `[ps=-1]`
-- **Figure 2: Training Delivery Methods** `[ps=-1]`
+- **Figure 1: e-Learning Defined**
+- **Figure 2: Training Delivery Methods**

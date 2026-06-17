@@ -3,7 +3,7 @@ title: "Charlotte Observer Andrew Shain Back-to-School PC Buying Guide Citing Ab
 slug: "study-charlotte-observer-shain-back-to-school-4ec261"
 page_type: "study"
 tags: ["type/study", "collection/newspaper-consumer-buying-guide"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "charlotte-observer-shain-back-to-school--4ec261"
 author: "Andrew Shain (The Charlotte Observer)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.29
+prescience_obs_count: 7
 ---
 
 # Charlotte Observer Andrew Shain Back-to-School PC Buying Guide Citing Aberdeen's Kastner (August 2002)
@@ -32,11 +32,11 @@ _Published 2002, author **Andrew Shain (The Charlotte Observer)**, type **newspa
 
 ## Top observations
 
-- 'Paul Kastner, chief research officer with Aberdeen Group, a Boston technology marketing analysis firm' — likely misprint of Peter Kastner
-- Parents should consider buying a low-end computer with few gadgets and add capabilities later
-- Elementary school: 4-year-old PC will do; high-schoolers may need new PC for entertainment demands
-- Computer desk $50-$1,000+; wireless network in multi-PC homes shares printer and Web connection (money-saver)
+- Computer desk $50-$1,000+; wireless network in multi-PC homes shares printer and Web connection (money-saver) `[ps=5]`
+- Elementary school: 4-year-old PC will do; high-schoolers may need new PC for entertainment demands `[ps=4]`
+- Apple makes great easy-to-use desktops ($750+) and laptops ($1,300+); small share of consumer PC market `[ps=4]`
+- Parents should consider buying a low-end computer with few gadgets and add capabilities later `[ps=3]`
+- 'Paul Kastner, chief research officer with Aberdeen Group, a Boston technology marketing analysis firm' — likely misprint of Peter Kastner `[ps=0]`
+- $1,300 laptop ~ $900 desktop in performance; less space; need a lock `[ps=0]`
+- Reader pointer: www.aberdeen.com for more buying tips `[ps=0]`
 - $900 desktop with 128 MB RAM and Celeron — good enough for word processing and Web surfing
-- $1,300 laptop ~ $900 desktop in performance; less space; need a lock
-- Apple makes great easy-to-use desktops ($750+) and laptops ($1,300+); small share of consumer PC market
-- Reader pointer: www.aberdeen.com for more buying tips

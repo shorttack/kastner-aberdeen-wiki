@@ -12,9 +12,9 @@ era: "1995-2001"
 lifecycle_at_study: "new-release"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Windows 95
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 400,000 beta users before completion — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
+- 400,000 beta users before completion `[ps=3]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]

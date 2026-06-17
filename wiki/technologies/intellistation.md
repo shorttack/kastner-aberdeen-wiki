@@ -12,9 +12,9 @@ era: "1997-2003"
 lifecycle_at_study: "early-commercial"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IBM IntelliStation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- #6 NT position in 1997 after March launch; significant progress on ISV relationships and qualified apps — [[study-workst~1-d22401]]
+- #6 NT position in 1997 after March launch; significant progress on ISV relationships and qualified apps `[ps=3]` — [[study-workst~1-d22401]]

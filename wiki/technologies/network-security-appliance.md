@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Network Security Appliance
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Worldwide network security appliance and software revenue topped $3.7B in 2004; +30% from 2003 — [[study-2003-the-top-10-security-suppliers-fc2b1b]]
+- Worldwide network security appliance and software revenue topped $3.7B in 2004; +30% from 2003 `[ps=0]` — [[study-2003-the-top-10-security-suppliers-fc2b1b]]

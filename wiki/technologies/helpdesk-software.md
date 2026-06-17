@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "growing"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Internal Help Desk Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Support group is usually first to deploy CIS (before SFA or quality control) — [[study-cispra~1-23a333]]
+- Support group is usually first to deploy CIS (before SFA or quality control) `[ps=2]` — [[study-cispra~1-23a333]]

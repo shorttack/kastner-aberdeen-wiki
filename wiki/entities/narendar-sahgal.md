@@ -12,9 +12,9 @@ status: "unknown"
 successor: "[DEFERRED]"
 years_active: "2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Narendar Sahgal
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Concepts discussed at IDF September 2003 — [[study-intel-consumer-lt-10-5-03-580af7]]
+- Concepts discussed at IDF September 2003 `[ps=0]` — [[study-intel-consumer-lt-10-5-03-580af7]]

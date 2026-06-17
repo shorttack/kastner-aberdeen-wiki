@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # Videoconferencing
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Web-based business communications as complement/successor to videoconferencing — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Companies cancel travel plans; airlines cut routes; videoconferencing booms — [[study-electronic-news-videoconferencing-sars-c-044642]]
+- Web-based business communications as complement/successor to videoconferencing `[ps=5]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Companies cancel travel plans; airlines cut routes; videoconferencing booms `[ps=4]` — [[study-electronic-news-videoconferencing-sars-c-044642]]
+- Caterpillar projects 1,000 videoconferencing users by mid-1999 `[ps=0]` — [[study-informationweek-videoconferencing-boost--b62ff4]]
 - As the costs come down, this technology will be fundamental to communications in the 21st century — [[study-informationweek-videoconferencing-boost--b62ff4]]
-- Caterpillar projects 1,000 videoconferencing users by mid-1999 — [[study-informationweek-videoconferencing-boost--b62ff4]]

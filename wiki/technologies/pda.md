@@ -12,9 +12,9 @@ era: "1990s-2003"
 lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'PDA is discontinued. Known answer applied.', 'source': 'known'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 3
 ---
 
 # Personal Digital Assistant (PDA)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dell discontinued entire Axim PDA line in April 2007 — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
-- Enterprise PDA adoption expected to accelerate with lower price points — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
-- Smartphone category (iPhone 2007) displaced PDA market entirely — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
+- Dell discontinued entire Axim PDA line in April 2007 `[ps=5]` — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
+- Smartphone category (iPhone 2007) displaced PDA market entirely `[ps=5]` — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
+- Enterprise PDA adoption expected to accelerate with lower price points `[ps=2]` — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
 - Laptop, PDA — [[study-dct-segment-priorities-matrix-2003]]

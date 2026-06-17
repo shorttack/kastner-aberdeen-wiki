@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1978-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Samsung Electronics America, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- October 2005: NY AG Eliot Spitzer settled with Samsung Electronics America for $200,000 payment to 4,100 consumers denied rebates due to apartment-address form design — [[study-great-rebate-runaround-businessweek-grow-00f459]]
+- October 2005: NY AG Eliot Spitzer settled with Samsung Electronics America for $200,000 payment to 4,100 consumers denied rebates due to apartment-address form design `[ps=0]` — [[study-great-rebate-runaround-businessweek-grow-00f459]]

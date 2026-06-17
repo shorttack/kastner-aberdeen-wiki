@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Electronic Arts Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Success of narrowband interactive gaming suggests pent-up demand for broadband format; key requirement beyond connectivity is display/processor (P-4) in home; EA platform-agnostic and potential key strategic partner — [[study-dct-dceit-practice-v6-2002]]
+- Success of narrowband interactive gaming suggests pent-up demand for broadband format; key requirement beyond connectivity is display/processor (P-4) in home; EA platform-agnostic and potential key strategic partner `[ps=4]` — [[study-dct-dceit-practice-v6-2002]]

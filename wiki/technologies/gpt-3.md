@@ -12,9 +12,9 @@ era: "2020-2022"
 lifecycle_at_study: "superseded"
 lifecycle_current: "superseded-by-gpt-4"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # OpenAI GPT-3 (175B)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- 2 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 5 — [[study-2026-kastner-enterprise-ai-arc]]
-- 2 — [[study-2026-kastner-enterprise-ai-arc]]

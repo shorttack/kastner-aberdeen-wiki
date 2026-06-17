@@ -3,7 +3,7 @@ title: "News Factor: The Laptop Performance Bottleneck (Smallbiztechnology.com e
 slug: "study-laptop-performance-bottleneck-smallbiz-r-e310b2"
 page_type: "study"
 tags: ["type/study", "collection/blog-reblog"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "laptop-performance-bottleneck-smallbiz-r-e310b2"
 author: "Ramon Ray (Smallbiztechnology.com blog), quoting NewsFactor (Peter Kastner, Aberdeen Group)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.67
+prescience_obs_count: 3
 ---
 
 # News Factor: The Laptop Performance Bottleneck (Smallbiztechnology.com excerpt)
@@ -32,9 +32,9 @@ _Published 2002, author **Ramon Ray (Smallbiztechnology.com blog), quoting NewsF
 
 ## Top observations
 
+- Ray predicts users can ditch desktops once laptops + docking + external displays reach parity `[ps=5]`
+- Q2 2008: US consumer notebook shipments exceeded desktop shipments for the first time (Gartner/IDC data). Laptop-as-primary-device pattern became mainstream ~5-6 years after Ray's prediction. `[ps=4]`
+- By 2015 majority of new consumer laptops shipped with SSDs; by 2018 SSDs were the default. The shift was driven by exactly the I/O-bottleneck reasoning Kastner articulated in 2002. `[ps=2]`
 - 'Hard drive speed counts for an awful lot of overall computing responsiveness' — Peter Kastner, EVP and Chief Research Officer, Aberdeen Group, to NewsFactor
 - 'Get a good laptop, docking station, external monitor and a few more things... and then ditch your desktop'
 - Designers of mobile disk drives face unique constraints: less space, less power, more shock-resistant than desktop HDDs; disk drives are the most noticeable lagging mobile component
-- Ray predicts users can ditch desktops once laptops + docking + external displays reach parity
-- Q2 2008: US consumer notebook shipments exceeded desktop shipments for the first time (Gartner/IDC data). Laptop-as-primary-device pattern became mainstream ~5-6 years after Ray's prediction.
-- By 2015 majority of new consumer laptops shipped with SSDs; by 2018 SSDs were the default. The shift was driven by exactly the I/O-bottleneck reasoning Kastner articulated in 2002.

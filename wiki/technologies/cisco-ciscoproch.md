@@ -12,9 +12,9 @@ era: "1995-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # CiscoPro Channel Program
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Exclusively two-tiered distribution for SMB; premier channel partners (Tech Data, Ingram Micro) responsible for VAR/integrator sales — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]
+- Exclusively two-tiered distribution for SMB; premier channel partners (Tech Data, Ingram Micro) responsible for VAR/integrator sales `[ps=4]` — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]

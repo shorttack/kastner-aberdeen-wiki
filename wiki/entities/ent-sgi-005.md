@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "Oracle (acquired BEA 2008 for $8.5B)"
 years_active: "1995-2008"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # BEA Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Tuxedo 6.1 CFS validated as performance enhancer for large SMP benchmark — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
+- Tuxedo 6.1 CFS validated as performance enhancer for large SMP benchmark `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]

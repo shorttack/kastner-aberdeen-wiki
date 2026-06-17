@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "unknown"
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Astea International Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- >$60 million — [[study-cispra~1-23a333]]
+- >$60 million `[ps=0]` — [[study-cispra~1-23a333]]

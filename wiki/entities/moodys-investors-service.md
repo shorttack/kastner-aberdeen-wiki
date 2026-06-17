@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1909-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Moody's Investors Service
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- This is an accomplishment, but the important question is if it can be sustained — [[study-boston-globe-wang-q1-turnaround-psk-1990-a5aab0]]
+- This is an accomplishment, but the important question is if it can be sustained `[ps=3]` — [[study-boston-globe-wang-q1-turnaround-psk-1990-a5aab0]]

@@ -12,9 +12,9 @@ era: "1962-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Unisys OS 2200 / 1100 Series
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- ClearPath OS 2200 and MCP remain in active production; ClearPath Forward product line updated through 2024; OS 2200 deployed on AWS June 2025 `[ps=5]` — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
 - ClearPath HMP provides effective architecture for modernization; gives 8,500+ customers clear path to multi-tier applications of the future — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
-- ClearPath OS 2200 and MCP remain in active production; ClearPath Forward product line updated through 2024; OS 2200 deployed on AWS June 2025 — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]

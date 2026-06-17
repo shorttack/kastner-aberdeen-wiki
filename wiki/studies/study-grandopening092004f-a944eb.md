@@ -1,5 +1,5 @@
 ---
-title: "==> picture [536 x 110] intentionally omitted <=="
+title: "Grandopening092004F (Aberdeen, 2004)"
 slug: "study-grandopening092004f-a944eb"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 1.67
 prescience_obs_count: 3
 ---
 
-# ==> picture [536 x 110] intentionally omitted <==
+# Grandopening092004F (Aberdeen, 2004)
 
-> This study analyzes ==> picture [536 x 110] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study grandopening092004f-a944eb. Source: grandopening092004f.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2004, author **Aberdeen Group**, type **benchmark**._

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM (1995), then HCL Technologies (2019)"
 years_active: "1982-1995"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Lotus Development Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ~$1 billion — [[study-aberdeen-1995-commercial-messaging]]
-- acquired by IBM for $3.5 billion in 1995 — [[study-aberdeen-1995-commercial-messaging]]
+- ~$1 billion `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]
+- acquired by IBM for $3.5 billion in 1995 `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]

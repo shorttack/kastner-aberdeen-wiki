@@ -3,7 +3,7 @@ title: "State Street RAMP Interview for Maxtor Project"
 slug: "study-state-street-ramp-interview-for-maxtor-p-fa94f8"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "state-street-ramp-interview-for-maxtor-p-fa94f8"
 author: "Peter S. Kastner; David Hill"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.62
+prescience_obs_count: 24
 ---
 
 # State Street RAMP Interview for Maxtor Project
@@ -32,28 +32,28 @@ _Published 2003, author **Peter S. Kastner; David Hill**, type **market-study**.
 
 ## Top observations
 
-- Greater than $5 billion
-- $129 million
+- TCO savings overall, not just device cost reduction `[ps=4]`
+- Multiple decision makers in large organizations; silo-based `[ps=4]`
+- SAN consolidation may complicate multi-OS purchasing decisions if IT not operating as utility `[ps=4]`
+- Low-cost storage = 'overall good TCO'; active archiving = 'follow business rules to move data'; mezzanine/nearline = unknown `[ps=3]`
+- Greater than $5 billion `[ps=0]`
+- $129 million `[ps=0]`
+- Approximately 1 TB `[ps=0]`
+- Approximately 600 GB `[ps=0]`
+- 80% `[ps=0]`
+- 100% SAN (Unix) `[ps=0]`
+- 20-30% `[ps=0]`
+- EMC Symmetrix (RAID-1) `[ps=0]`
+- EMC Symmetrix → DMX `[ps=0]`
+- All production systems replicated to second data center `[ps=0]`
+- Read-write (not seldom-written) `[ps=0]`
+- Not read-only (part of workflow) `[ps=0]`
+- 6 out of 7 `[ps=0]`
+- Not yet discussed `[ps=0]`
+- 12 AM to 6 AM (6 hours) `[ps=0]`
+- 10 years `[ps=0]`
+- Longer than desired `[ps=0]`
+- CDW (Client Data Warehouse / ODS) `[ps=0]`
+- Likely to purchase even with SLA obligations to outside clients `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
 - Reports to President/CEO
-- Approximately 1 TB
-- Approximately 600 GB
-- 15%
-- 80%
-- 100% SAN (Unix)
-- 70-80%
-- 20-30%
-- EMC Symmetrix (RAID-1)
-- EMC Symmetrix → DMX
-- [UNVERIFIED]
-- All production systems replicated to second data center
-- Read-write (not seldom-written)
-- Read-only
-- Read-only or seldom-written
-- Not read-only (part of workflow)
-- 6 out of 7
-- 2 out of 7
-- 7 out of 7 — maximum likelihood
-- Not yet discussed
-- 12 AM to 6 AM (6 hours)
-- 3 generations
-- 10 years

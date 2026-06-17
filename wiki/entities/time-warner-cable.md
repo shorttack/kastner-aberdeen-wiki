@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Charter Communications (Spectrum) 2016"
 years_active: "[DEFERRED]"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.75
+prescience_obs_count: 4
 ---
 
 # Time Warner Cable
@@ -29,7 +29,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- First successful demonstration on Time Warner Quantum system NYC — [[study-aberdeen-1996-omnibox-interactive-broadcasting-network]]
-- $50 install + $9.95/mo (cable modem + gateway + firewall + HomePNA for 3 devices); 802.11b option $30 additional + $14.95/mo — [[study-dct-dceit-practice-v6-2002]]
-- MSOs are financially constrained: capital equipment (STB) must be very cost-effective; profitability is marginal; strong interest in new fee services and content consumption expansion; tremendous rental consumer access; limited field skills, no centralized support, marginal consumer credibility — [[study-dct-dceit-practice-v6-2002]]
-- Full-system field test in NYC verified OmniBox technology ability to deliver high-quality digitized video and interactive services to subscribers' homes — [[study-omnibox97-53bcfe]]
+- MSOs are financially constrained: capital equipment (STB) must be very cost-effective; profitability is marginal; strong interest in new fee services and content consumption expansion; tremendous rental consumer access; limited field skills, no centralized support, marginal consumer credibility `[ps=3]` — [[study-dct-dceit-practice-v6-2002]]
+- First successful demonstration on Time Warner Quantum system NYC `[ps=0]` — [[study-aberdeen-1996-omnibox-interactive-broadcasting-network]]
+- $50 install + $9.95/mo (cable modem + gateway + firewall + HomePNA for 3 devices); 802.11b option $30 additional + $14.95/mo `[ps=0]` — [[study-dct-dceit-practice-v6-2002]]
+- Full-system field test in NYC verified OmniBox technology ability to deliver high-quality digitized video and interactive services to subscribers' homes `[ps=0]` — [[study-omnibox97-53bcfe]]

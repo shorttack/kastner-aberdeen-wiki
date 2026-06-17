@@ -12,9 +12,9 @@ era: "1994"
 lifecycle_at_study: "active-crisis"
 lifecycle_current: "patched-in-revised-Pentium"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.75
+prescience_obs_count: 8
 ---
 
 # Pentium FDIV Bug
@@ -24,12 +24,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- industry will get bloodied — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
-- negative — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
-- seconds vs 15 minutes recalc daily — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
-- once every 27,000 years — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- could end up dealing with all customers `[ps=5]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- Intel minimizes, IBM maximizes `[ps=3]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- industry will get bloodied `[ps=2]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- once every 27,000 years `[ps=2]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- 1 in 100 million `[ps=2]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- negative `[ps=0]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- seconds vs 15 minutes recalc daily `[ps=0]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- you can always contrive situations `[ps=0]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
 - once per 24 days — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
-- 1 in 100 million — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
-- you can always contrive situations — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
-- Intel minimizes, IBM maximizes — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
-- could end up dealing with all customers — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]

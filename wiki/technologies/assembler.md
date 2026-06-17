@@ -12,9 +12,9 @@ era: "1950s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Assembly Language
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kastner self-taught IBM assembler alongside FORTRAN at MIT, 1966-1967. — [[study-volume-1-appendix-career-timeline]]
+- Kastner self-taught IBM assembler alongside FORTRAN at MIT, 1966-1967. `[ps=0]` — [[study-volume-1-appendix-career-timeline]]

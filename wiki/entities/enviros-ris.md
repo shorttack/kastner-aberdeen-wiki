@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Enviros RIS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1999: 34,000 tons e-waste in Canadian landfills; 2005 projected: 67,000 tons. — [[study-dell-ars-wp-2-72fd7f]]
+- 1999: 34,000 tons e-waste in Canadian landfills; 2005 projected: 67,000 tons. `[ps=0]` — [[study-dell-ars-wp-2-72fd7f]]

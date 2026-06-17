@@ -12,9 +12,9 @@ status: "defunct"
 successor: "San Jose CA; renamed Tolerant Eternity Systems then defunct"
 years_active: "1980s-1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Tolerant Systems, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- banking, telecommunications, manufacturing, federal government — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
+- banking, telecommunications, manufacturing, federal government `[ps=0]` — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]

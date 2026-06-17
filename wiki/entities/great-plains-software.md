@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Microsoft Business Solutions (acquired 2001); Microsoft Dynamics GP"
 years_active: "1981-2000"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Great Plains Software Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquired by Microsoft for $1.1B in 2001; became Microsoft Business Solutions; now Microsoft Dynamics GP — [[study-aberdeen-1997-lawson-insight-process-orientation-business-management]]
-- $1.1B Dec 2000 — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]
+- Acquired by Microsoft for $1.1B in 2001; became Microsoft Business Solutions; now Microsoft Dynamics GP `[ps=5]` — [[study-aberdeen-1997-lawson-insight-process-orientation-business-management]]
+- $1.1B Dec 2000 `[ps=0]` — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]

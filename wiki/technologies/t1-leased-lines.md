@@ -12,9 +12,9 @@ era: "1960s-2010s"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # T-1 Leased Lines
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $2000-$5000 per month per connection — [[study-manage~1-b299e4]]
+- $2000-$5000 per month per connection `[ps=0]` — [[study-manage~1-b299e4]]

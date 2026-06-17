@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Clm Q2C Rb Vp 3879 (Aberdeen, 2007)"
 slug: "study-clm-q2c-rb-vp-3879-bc4f62"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 1.29
 prescience_obs_count: 7
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Clm Q2C Rb Vp 3879 (Aberdeen, 2007)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study clm-q2c-rb-vp-3879-bc4f62. Source: clm_q2c_rb_vp_3879.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **benchmark**._

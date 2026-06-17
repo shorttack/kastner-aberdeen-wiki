@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Jack Smith
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DEC's senior marketing executive Jack Smith later told peers: 'DECtp was our most important launch after VAX.' — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- DEC's senior marketing executive Jack Smith later told peers: 'DECtp was our most important launch after VAX.' `[ps=2]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

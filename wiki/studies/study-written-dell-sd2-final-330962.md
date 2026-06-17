@@ -1,5 +1,5 @@
 ---
-title: "==> picture [460 x 434] intentionally omitted <=="
+title: "Written Dell Sd2 Final (Aberdeen, 2001)"
 slug: "study-written-dell-sd2-final-330962"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -22,9 +22,9 @@ prescience_mean: 2.67
 prescience_obs_count: 3
 ---
 
-# ==> picture [460 x 434] intentionally omitted <==
+# Written Dell Sd2 Final (Aberdeen, 2001)
 
-> This study analyzes ==> picture [460 x 434] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-dell-sd2-final-330962. Source: Written__Dell_SD2_FINAL.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2001, author **Aberdeen Group**, type **market-study**._

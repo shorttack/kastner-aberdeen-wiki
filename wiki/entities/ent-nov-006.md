@@ -12,9 +12,9 @@ status: "Active"
 successor: ""
 years_active: "1977-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Oracle Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle agreed to use NDS authentication and management on all shared platforms — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- Oracle agreed to use NDS authentication and management on all shared platforms `[ps=1]` — [[study-1997-novell-directory-to-the-network-str-048b05]]

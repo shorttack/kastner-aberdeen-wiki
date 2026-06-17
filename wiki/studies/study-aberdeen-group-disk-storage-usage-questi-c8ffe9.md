@@ -3,7 +3,7 @@ title: "Aberdeen Group Disk Storage Usage Questionnaire (v1)"
 slug: "study-aberdeen-group-disk-storage-usage-questi-c8ffe9"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-group-disk-storage-usage-questi-c8ffe9"
 author: "Peter S. Kastner; David Hill (Aberdeen Group)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.89
+prescience_obs_count: 19
 ---
 
 # Aberdeen Group Disk Storage Usage Questionnaire (v1)
@@ -32,28 +32,28 @@ _Published 2003, author **Peter S. Kastner; David Hill (Aberdeen Group)**, type 
 
 ## Top observations
 
+- Q8: Number of on-disk copies (excluding parity RAID) plus tape copies — directly measures copy proliferation `[ps=4]`
+- Q11: Despite capacity growing faster than speed, will you still move to larger capacity disks? `[ps=4]`
+- Q1: Total disk available (GB or TB) — server-only; PC/workstations excluded `[ps=3]`
+- Q4: Four-way split — internal DAS / external DAS / SAN / NAS — measured in GB/TB `[ps=3]`
+- SAN listed before NAS in architecture breakout — implicit ordering by enterprise primacy `[ps=3]`
+- Q2: Actual used storage (GB/TB); Q3: Maximum desired utilization (%) `[ps=0]`
+- Q5: Expected storage growth in next 12 months (%) `[ps=0]`
+- Q6: Storage mapped to OS — mainframe / Unix / Windows / Other (GB/TB per OS) `[ps=0]`
+- Q7: Seven redundancy methods probed — RAID 5 / RAID 1 / indexed snapshot / full-volume snapshot / remote mirroring / remote copy / tape generations `[ps=0]`
+- Q9: What percentage of online data does not need highest-availability storage? (closed transactions / old e-mail) `[ps=0]`
+- Q12: Do you allow multiple applications to share an array? `[ps=0]`
+- Q13: SCSI / FC / ATA percentage breakout with drive sizes and rotational speeds `[ps=0]`
+- Q15-Q18: Formal SLA existence / informal criteria / consequences of unavailability and performance degradation `[ps=0]`
+- Q21: nearline storage / active archiving / mezzanine storage — tested for awareness `[ps=0]`
+- Q22: Local / Regional / National / International / Global — five-level geographic scope `[ps=0]`
+- Q23: CIO / CTO / IS Director-Manager / Technical Specialist / Hardware Engineer / Software Engineer / Programmer / Systems Analyst / DBA / Other `[ps=0]`
+- Q25: Revenue from <$10M to >$5B in 9 bands `[ps=0]`
+- Q27: CIO reports to CFO / President-CEO / Other `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
 - Telephone survey questionnaire — version 1 of RAMP quantitative instrument
-- Q1: Total disk available (GB or TB) — server-only; PC/workstations excluded
-- Q2: Actual used storage (GB/TB); Q3: Maximum desired utilization (%)
-- Q4: Four-way split — internal DAS / external DAS / SAN / NAS — measured in GB/TB
-- Q5: Expected storage growth in next 12 months (%)
-- Q6: Storage mapped to OS — mainframe / Unix / Windows / Other (GB/TB per OS)
-- Q7: Seven redundancy methods probed — RAID 5 / RAID 1 / indexed snapshot / full-volume snapshot / remote mirroring / remote copy / tape generations
-- Q8: Number of on-disk copies (excluding parity RAID) plus tape copies — directly measures copy proliferation
-- Q9: What percentage of online data does not need highest-availability storage? (closed transactions / old e-mail)
 - Q10: Would you accept (a) higher-capacity/slightly-less-performance or (b) same-size/similar-performance for cold data migration?
-- Q11: Despite capacity growing faster than speed, will you still move to larger capacity disks?
-- Q12: Do you allow multiple applications to share an array?
-- Q13: SCSI / FC / ATA percentage breakout with drive sizes and rotational speeds
 - Q14: Do you have performance bottlenecks? If yes: CPU / storage / network. If no: expect future bottleneck?
-- Q15-Q18: Formal SLA existence / informal criteria / consequences of unavailability and performance degradation
 - Q19-Q20: Backup window length (or online backup); specific issues — running out of window, job failure rate
-- Q21: nearline storage / active archiving / mezzanine storage — tested for awareness
-- Q22: Local / Regional / National / International / Global — five-level geographic scope
-- Q23: CIO / CTO / IS Director-Manager / Technical Specialist / Hardware Engineer / Software Engineer / Programmer / Systems Analyst / DBA / Other
-- Q25: Revenue from <$10M to >$5B in 9 bands
 - Q26: IT budget from <$1M to >$500M in 9 bands
-- Q27: CIO reports to CFO / President-CEO / Other
 - Q28: 25 industry verticals from Aerospace to Wholesale Trade
-- SAN listed before NAS in architecture breakout — implicit ordering by enterprise primacy
-- [UNVERIFIED]

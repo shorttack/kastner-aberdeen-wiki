@@ -12,9 +12,9 @@ era: "1994-2000s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # High Performance Routing (HPR)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Positive: automatic rerouting without network downtime; congestion control — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
-- Positive: CS/AIX hot standby allows failover if server hardware fails — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
+- Positive: automatic rerouting without network downtime; congestion control `[ps=3]` — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
+- Positive: CS/AIX hot standby allows failover if server hardware fails `[ps=3]` — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]

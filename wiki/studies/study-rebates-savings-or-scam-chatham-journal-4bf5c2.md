@@ -3,7 +3,7 @@ title: "Rebates: Savings or scam?"
 slug: "study-rebates-savings-or-scam-chatham-journal-4bf5c2"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "rebates-savings-or-scam-chatham-journal--4bf5c2"
 author: "Gary Gray (CouponChief.com) via Chatham Journal Weekly"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 5
 ---
 
 # Rebates: Savings or scam?
@@ -32,9 +32,9 @@ _Published 2005, author **Gary Gray (CouponChief.com) via Chatham Journal Weekly
 
 ## Top observations
 
+- Mail-in rebate programs continue in narrow categories (tires, appliances, some PC hardware) but US consumer-electronics big-box retailers (Best Buy, liquidated Circuit City) largely abandoned them by 2015. `[ps=5]`
+- At the outset, merchants hope you won't bother. It takes a lot of work to redeem a rebate. The redemption process is made to be complicated. The tediousness in the process will make you so fed up you'll forget about your savings or give up in the process. `[ps=4]`
+- Nowadays, I've resorted to using savings I can realize at the point of purchase, and no longer rely on rebates for my bargain hunting. I'm resorting to online coupons and coupon codes where I can verify the savings before checkout. `[ps=3]`
+- By 2015, online coupon codes and instant-checkout discounts had largely displaced mail-in rebates in US electronics retail; Honey, RetailMeNot, and similar platforms consolidated the market. `[ps=3]`
+- US rebate spending grew from $1B to $4B between 1999 and 2003. `[ps=0]`
 - Only 40% of consumers submit rebates they are entitled to, 40% submit the rebate and successfully get a check, and 20% have problems.
-- US rebate spending grew from $1B to $4B between 1999 and 2003.
-- Nowadays, I've resorted to using savings I can realize at the point of purchase, and no longer rely on rebates for my bargain hunting. I'm resorting to online coupons and coupon codes where I can verify the savings before checkout.
-- At the outset, merchants hope you won't bother. It takes a lot of work to redeem a rebate. The redemption process is made to be complicated. The tediousness in the process will make you so fed up you'll forget about your savings or give up in the process.
-- By 2015, online coupon codes and instant-checkout discounts had largely displaced mail-in rebates in US electronics retail; Honey, RetailMeNot, and similar platforms consolidated the market.
-- Mail-in rebate programs continue in narrow categories (tires, appliances, some PC hardware) but US consumer-electronics big-box retailers (Best Buy, liquidated Circuit City) largely abandoned them by 2015.

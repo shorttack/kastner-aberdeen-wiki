@@ -3,7 +3,7 @@ title: "The Retail Business Intelligence Benchmark Studies: Hypothesis and Surve
 slug: "study-aberdeen-retail-bi-benchmark-survey-2006-aa440e"
 page_type: "study"
 tags: ["type/study", "collection/research-design-deck"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-retail-bi-benchmark-survey-2006-aa440e"
 author: "Paula Rosenblum"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.8
+prescience_obs_count: 5
 ---
 
 # The Retail Business Intelligence Benchmark Studies: Hypothesis and Survey
@@ -32,9 +32,9 @@ _Published 2006, author **Paula Rosenblum**, type **research-design-deck**._
 
 ## Top observations
 
-- Advanced business intelligence, including predictive analytics, improves top and bottom line retailer performance across assortment, price, promotion planning, and enterprise-wide scorecarding
-- Retailers that have adopted or are considering adoption of advanced BI; targeting GMMs, VPs of Store Operations, VPs of Supply Chain, CIOs
-- Survey distribution via Integrated Solutions for Retailers (ISR) and RIS News partnerships
+- Advanced business intelligence, including predictive analytics, improves top and bottom line retailer performance across assortment, price, promotion planning, and enterprise-wide scorecarding `[ps=5]`
+- Hypothesis qualifies the value of scorecarding the retail organism as a whole, rather than just measuring individual parts `[ps=4]`
+- Retailers that have adopted or are considering adoption of advanced BI; targeting GMMs, VPs of Store Operations, VPs of Supply Chain, CIOs `[ps=0]`
+- Survey distribution via Integrated Solutions for Retailers (ISR) and RIS News partnerships `[ps=0]`
+- Paula Rosenblum, Aberdeen Group retail analyst, March 2006 `[ps=0]`
 - May 30, 2006 planned publication for the resulting Retail BI Benchmark Report
-- Paula Rosenblum, Aberdeen Group retail analyst, March 2006
-- Hypothesis qualifies the value of scorecarding the retail organism as a whole, rather than just measuring individual parts

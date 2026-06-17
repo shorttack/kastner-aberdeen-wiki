@@ -3,7 +3,7 @@ title: "RDBMS Market Overview — Computer Associates Sales Training"
 slug: "study-cab199-1-2-0cb163"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "cab199-1-2-0cb163"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.54
+prescience_obs_count: 54
 ---
 
 # RDBMS Market Overview — Computer Associates Sales Training
@@ -32,28 +32,28 @@ _Published 1997, author **Peter S. Kastner**, type **market-study**._
 
 ## Top observations
 
-- DB2 for MVS costs too much
-- DB2/6000 on SMP suffers from weak RS/6000 SMP story
-- DB2/2 PE on SP credible but lags Informix
-- Strength: query optimizer and multimedia query
-- Do not believe the cross-platform story
-- DB2/6000 does not have attention/understanding of IBM sales force
-- Competitive but not leading on SMP
-- Only compatible SMP and MPP story except NCR
-- Good async replication in Data Propagator; no peer-peer replication
-- Full 2-way DRDA and ODBC; limited non-IBM gateways
-- More limited ISV tool selection than Informix/Oracle/Sybase; tools improving
-- Fast moving DB2 into searchable audio/video/user-defined data types
-- Informix wins most head-to-head benchmarks it competes in
-- XPS architecture widely praised for elegance
-- Good scalability to 8 processors on SMP; many TPC-Cs
-- Now on SP2 and other loosely-coupled HW with version 8 for data warehousing
-- Financial stumble in 1997 hurts credibility
-- Limited resources and customer base
-- Limited visibility/experience at CIO level
-- No-consulting policy slowed large enterprise growth
-- Behind in replication; fair in gateways
-- Enterprise-class; positioned for large enterprises
-- Products seldom lead in technology but are robust and enterprise-capable
-- Good replication including peer-peer; evolving network computing model
-- Tools in transition; OO failed in 1997
+- Object navigation will become desirable for some apps such as Jasmine `[ps=5]`
+- More limited ISV tool selection than Informix/Oracle/Sybase; tools improving `[ps=4]`
+- Financial stumble in 1997 hurts credibility `[ps=4]`
+- Limited visibility/experience at CIO level `[ps=4]`
+- Products seldom lead in technology but are robust and enterprise-capable `[ps=4]`
+- 1980s architecture runs out of steam; needs System 11 now `[ps=4]`
+- Major language supplier; ISV leader `[ps=4]`
+- CA sales force does not understand the Unix world well `[ps=4]`
+- OPENROAD left customers with character 4GL behind — incompatible environment `[ps=4]`
+- CA-Ingres is number four in RDBMS and trailing `[ps=4]`
+- Almost half of Oracle revenues are services `[ps=4]`
+- DB2 for MVS costs too much `[ps=3]`
+- DB2/6000 does not have attention/understanding of IBM sales force `[ps=3]`
+- Competitive but not leading on SMP `[ps=3]`
+- Fast moving DB2 into searchable audio/video/user-defined data types `[ps=3]`
+- Tools in transition; OO failed in 1997 `[ps=3]`
+- Modest scalability; no MPP; good on DEC Alpha `[ps=3]`
+- Great for PC apps; OLE; ODBC `[ps=3]`
+- No Ingres people remain — but few customers have defected `[ps=3]`
+- Informix wins most head-to-head benchmarks it competes in `[ps=2]`
+- XPS architecture widely praised for elegance `[ps=2]`
+- Good scalability to 8 processors on SMP; many TPC-Cs `[ps=2]`
+- RDBMS engine looks dated; is v7.3 a TPC-C stop-gap or major re-write? `[ps=2]`
+- Oracle is beatable by focused selling `[ps=2]`
+- PowerBuilder is a market leader in dev tools `[ps=2]`

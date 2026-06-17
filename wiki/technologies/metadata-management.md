@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "current-generation"
 lifecycle_current: "Metadata management has grown in importance; modern data catalogs (Apache Atlas, Alation, Collibra) and data governance platforms are direct successors."
 occurrence_count: 9
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.33
+prescience_obs_count: 18
 ---
 
 # Intel Trusted Execution Technology (TXT)
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 18 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
-- 20 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
-- power_architecture_power4_2001 — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
-- metastore_mdx_browsing_reporting — [[study-1997-data-integration-management-in-hete-de2429]]
+- wsl_windows_subsystem_for_linux_replaced_posix `[ps=4]` — [[study-1997-datafocus'-nutcracker--enterprise-c-bfc11e]]
+- prevents_win32_integration `[ps=1]` — [[study-1997-datafocus'-nutcracker--enterprise-c-bfc11e]]
+- linkworks_will_leverage_dcom_as_microsoft_delivers `[ps=1]` — [[study-1997-dec-linkworks-webworker---an-object-db2d2a]]
+- 18 `[ps=0]` — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
+- 20 `[ps=0]` — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
+- power_architecture_power4_2001 `[ps=0]` — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
+- metastore_mdx_browsing_reporting `[ps=0]` — [[study-1997-data-integration-management-in-hete-de2429]]
+- policy_wonk_standard_check_off_item_rarely_deployed `[ps=0]` — [[study-1997-datafocus'-nutcracker--enterprise-c-bfc11e]]
+- evolved_to_dotnet_then_deprecated `[ps=0]` — [[study-1997-dec-linkworks-webworker---an-object-db2d2a]]
+- high `[ps=0]` — [[study-1998-hp-high-availability-and-metadata-7d1276]]
+- obsolete `[ps=0]` — [[study-1998-pc-impact-and-metadata-e2a169]]
+- $16-$185/drive `[ps=0]` — [[study-2003-dell-ars-white-paper-53d13d]]
+- increasing `[ps=0]` — [[study-2003-dell-ars-white-paper-53d13d]]
+- confirmed `[ps=0]` — [[study-2003-dell-ars-white-paper-53d13d]]
+- confirmed `[ps=0]` — [[study-2003-dell-ars-white-paper-53d13d]]
+- confirmed `[ps=0]` — [[study-2003-dell-ars-white-paper-53d13d]]
+- confirmed `[ps=0]` — [[study-2003-dell-ars-white-paper-53d13d]]
+- limited `[ps=0]` — [[study-2003-intel-consumer-lt-10-5-8c346e]]
 - affinity_grouping — [[study-1997-data-mining-buying-guide-71e463]]
-- prevents_win32_integration — [[study-1997-datafocus'-nutcracker--enterprise-c-bfc11e]]
-- wsl_windows_subsystem_for_linux_replaced_posix — [[study-1997-datafocus'-nutcracker--enterprise-c-bfc11e]]
-- policy_wonk_standard_check_off_item_rarely_deployed — [[study-1997-datafocus'-nutcracker--enterprise-c-bfc11e]]
 - ole_automation_integrated — [[study-1997-dec-linkworks-webworker---an-object-db2d2a]]
-- linkworks_will_leverage_dcom_as_microsoft_delivers — [[study-1997-dec-linkworks-webworker---an-object-db2d2a]]
-- evolved_to_dotnet_then_deprecated — [[study-1997-dec-linkworks-webworker---an-object-db2d2a]]
-- high — [[study-1998-hp-high-availability-and-metadata-7d1276]]
-- obsolete — [[study-1998-pc-impact-and-metadata-e2a169]]
-- $16-$185/drive — [[study-2003-dell-ars-white-paper-53d13d]]
-- increasing — [[study-2003-dell-ars-white-paper-53d13d]]
-- confirmed — [[study-2003-dell-ars-white-paper-53d13d]]
-- confirmed — [[study-2003-dell-ars-white-paper-53d13d]]
-- confirmed — [[study-2003-dell-ars-white-paper-53d13d]]
-- confirmed — [[study-2003-dell-ars-white-paper-53d13d]]
-- confirmed — [[study-2003-dell-ars-white-paper-53d13d]]

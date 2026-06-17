@@ -3,7 +3,7 @@ title: "AMD's Gigahertz Equivalency: Confused Customers Accept Bad Science"
 slug: "study-amd-profile01-64e43b"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "amd-profile01-64e43b"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.77
+prescience_obs_count: 13
 ---
 
 # AMD's Gigahertz Equivalency: Confused Customers Accept Bad Science
@@ -32,20 +32,20 @@ _Published 2002, author **Peter S. Kastner**, type **white-paper**._
 
 ## Top observations
 
-- Athlon XP 2000+ (1.667GHz) rated equivalent to Intel P4 2.0GHz Willamette
-- No Athlon XP 2000+ results filed with BAPCo as of Feb 15, 2002
-- ~33.3% (one-half Office Productivity plus two-thirds Content Creation)
+- AMD's 1/3-1/3-1/3 office/content/gaming workload mix not representative of many users `[ps=4]`
+- European ads reported GHz-E model numbers as actual GHz; could constitute deceptive trade practices `[ps=3]`
+- GHz-E methodology projected to break down completely within 90 days of any measurement `[ps=2]`
+- AMD will be forced to abandon GHz-E and introduce new rating methodology within 2002 `[ps=1]`
+- Athlon XP 2000+ (1.667GHz) rated equivalent to Intel P4 2.0GHz Willamette `[ps=0]`
+- No Athlon XP 2000+ results filed with BAPCo as of Feb 15, 2002 `[ps=0]`
+- ~33.3% (one-half Office Productivity plus two-thirds Content Creation) `[ps=0]`
+- Winbench 2000 uses DirectX 7.0; AMD/Intel systems tested under DirectX 8.1 `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Announced October 2001 as strategic alternative to GHz-E `[ps=0]`
+- P4 2.0A GHz Northwood (130nm, larger cache) outperforms 2.0GHz Willamette at same clock speed `[ps=0]`
+- Business Winstone 2001 (I/O-intensive system benchmark) included to measure processor performance `[ps=0]`
+- AA attestation covers only the 2000+ model; discrepancies between AA results and Bapco site unexplained `[ps=0]`
 - Benchmark results updated after Arthur Andersen audit to include bug fix favoring AMD
 - Intel's own Bapco results exceed AMD-reported Intel scores on same processor
-- Winbench 2000 uses DirectX 7.0; AMD/Intel systems tested under DirectX 8.1
-- AMD will be forced to abandon GHz-E and introduce new rating methodology within 2002
-- [UNVERIFIED]
-- Announced October 2001 as strategic alternative to GHz-E
-- P4 2.0A GHz Northwood (130nm, larger cache) outperforms 2.0GHz Willamette at same clock speed
-- AMD's 1/3-1/3-1/3 office/content/gaming workload mix not representative of many users
-- Business Winstone 2001 (I/O-intensive system benchmark) included to measure processor performance
-- European ads reported GHz-E model numbers as actual GHz; could constitute deceptive trade practices
 - Aberdeen recommends AMD examine SPECcpu 2000 before advancing TPI
-- GHz-E methodology projected to break down completely within 90 days of any measurement
-- AA attestation covers only the 2000+ model; discrepancies between AA results and Bapco site unexplained
 - AMD processors are efficient for many applications and do not need GHz-E to deserve market respect

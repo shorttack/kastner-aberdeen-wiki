@@ -12,9 +12,9 @@ era: "1995-2015"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # ADSL (Asymmetric Digital Subscriber Line)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ADSL and ISDN as primary home broadband approaches — [[study-aberdeen-1996-omnibox-interactive-broadcasting-network]]
+- ADSL and ISDN as primary home broadband approaches `[ps=3]` — [[study-aberdeen-1996-omnibox-interactive-broadcasting-network]]

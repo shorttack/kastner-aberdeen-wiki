@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 6
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.09
+prescience_obs_count: 11
 ---
 
 # SMP (Symmetric Multiprocessing)
@@ -29,15 +29,15 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- smp_will_dominate_enterprise_db `[ps=5]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- SMP scalability declines as processors are added due to parasitic resource contention. `[ps=5]` — [[study-dell-sap-v6-d08820]]
+- Advanced multiprocessor architecture servers will become standard platforms of mid-to-late 1990s `[ps=5]` — [[study-nti-12-client-server-goals-1993-15a519]]
+- Good scaling to 4 processors; fair to 8; diminishing returns beyond 10 `[ps=4]` — [[study-1996-sequent-38f0b1]]
+- Advanced servers based upon multiple microprocessor architectures will become standard server platforms of mid-to-late 1990s `[ps=4]` — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
+- Well understood technology with new chip-set accelerators and inexpensive engineering `[ps=0]` — [[study-1996-sequent-38f0b1]]
+- Established credibility in 1995 `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
+- $540 million `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
+- 20% `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
+- [UNVERIFIED] `[ps=0]` — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
+- [UNVERIFIED] `[ps=0]` — [[study-nti-12-client-server-goals-1993-15a519]]
 - Good to 4 processors; fair to 8; few do more than 10 well; Sequent does very well — [[study-1996-sequent-38f0b1]]
-- Well understood technology with new chip-set accelerators and inexpensive engineering — [[study-1996-sequent-38f0b1]]
-- Good scaling to 4 processors; fair to 8; diminishing returns beyond 10 — [[study-1996-sequent-38f0b1]]
-- smp_will_dominate_enterprise_db — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- Established credibility in 1995 — [[study-aberdeen-1996-risc-unix-market]]
-- $540 million — [[study-aberdeen-1996-risc-unix-market]]
-- 20% — [[study-aberdeen-1996-risc-unix-market]]
-- SMP scalability declines as processors are added due to parasitic resource contention. — [[study-dell-sap-v6-d08820]]
-- Advanced servers based upon multiple microprocessor architectures will become standard server platforms of mid-to-late 1990s — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
-- [UNVERIFIED] — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
-- Advanced multiprocessor architecture servers will become standard platforms of mid-to-late 1990s — [[study-nti-12-client-server-goals-1993-15a519]]
-- [UNVERIFIED] — [[study-nti-12-client-server-goals-1993-15a519]]

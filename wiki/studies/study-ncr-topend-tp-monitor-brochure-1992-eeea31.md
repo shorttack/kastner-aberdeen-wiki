@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.6
+prescience_obs_count: 5
 ---
 
 # NCR TopEND Transaction Processing Monitor Brochure (1992)
@@ -32,9 +32,9 @@ _Published 1992, author **NCR Corporation (vendor product brochure)**, type **ve
 
 ## Top observations
 
-- Full ACID transaction properties supported
-- X/Open DTP / XA compliant
+- CICS interoperability for migrating mainframe TP workloads `[ps=3]`
+- Full ACID transaction properties supported `[ps=0]`
+- X/Open DTP / XA compliant `[ps=0]`
+- OSI communications-stack compliant `[ps=0]`
+- OSF DCE compliance claimed `[ps=0]`
 - POSIX compliance claimed
-- OSI communications-stack compliant
-- OSF DCE compliance claimed
-- CICS interoperability for migrating mainframe TP workloads

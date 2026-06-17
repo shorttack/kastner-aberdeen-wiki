@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Forrester Research (2003)"
 years_active: "1995-2003"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Giga Information Group
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- consolidating client management tools reduces support costs 30%+ `[ps=4]` — [[study-topic-iia-pc-management-best-practices-2003-10]]
+- 75 analysts; 'Internet delivery, sharp analysis'; main buyer = CIOs and below `[ps=3]` — [[study-wsj-tech-watching-analyst-industry-1998-002531]]
 - standardizing on 4-6 application configs = 15-25% IT cost reduction (~$1600/system) — [[study-topic-iia-pc-management-best-practices-2003-10]]
-- consolidating client management tools reduces support costs 30%+ — [[study-topic-iia-pc-management-best-practices-2003-10]]
-- 75 analysts; 'Internet delivery, sharp analysis'; main buyer = CIOs and below — [[study-wsj-tech-watching-analyst-industry-1998-002531]]

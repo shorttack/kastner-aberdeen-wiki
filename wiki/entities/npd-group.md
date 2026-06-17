@@ -12,9 +12,9 @@ status: "active"
 successor: "Circana (2022 merger with IRI)"
 years_active: "1966-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # NPD Group, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ~1/3 of computer gear and >20% of digital cameras/camcorders/LCD TVs sold with rebates; ~400M rebates/year; $6B total face value; Staples alone $3.5M/week — [[study-great-rebate-runaround-businessweek-grow-00f459]]
+- ~1/3 of computer gear and >20% of digital cameras/camcorders/LCD TVs sold with rebates; ~400M rebates/year; $6B total face value; Staples alone $3.5M/week `[ps=0]` — [[study-great-rebate-runaround-businessweek-grow-00f459]]

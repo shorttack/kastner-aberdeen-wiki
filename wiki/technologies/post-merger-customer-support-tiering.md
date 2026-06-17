@@ -12,9 +12,9 @@ era: "perennial"
 lifecycle_at_study: "production"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Post-merger customer-support tiering
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'The top 500 combined customers of HP and Compaq should continue to see very high levels of sales and support. But those below the 500 who may have been higher up in the pecking order of the smaller company may see less support.' — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
+- 'The top 500 combined customers of HP and Compaq should continue to see very high levels of sales and support. But those below the 500 who may have been higher up in the pecking order of the smaller company may see less support.' `[ps=4]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
 - Kastner recommends IT organizations at major financial firms plan on holding information-exchange meetings so newly-assigned people can come up to speed on present and future needs — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]

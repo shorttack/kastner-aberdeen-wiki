@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-2010s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Mark Templeton
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- 'We intend to be in a better position than ever to become that billion-dollar software company that we know we are.' `[ps=5]` — [[study-sun-sentinel-citrix-templeton-staying-20-b645c7]]
+- Templeton thinks investors and industry have taken a 'wait and see' attitude about Citrix's move into a challenging new product line `[ps=0]` — [[study-sun-sentinel-citrix-templeton-staying-20-b645c7]]
 - Templeton: blames IT spending environment, 'not poor execution, as before' — [[study-sun-sentinel-citrix-templeton-staying-20-b645c7]]
-- 'We intend to be in a better position than ever to become that billion-dollar software company that we know we are.' — [[study-sun-sentinel-citrix-templeton-staying-20-b645c7]]
-- Templeton thinks investors and industry have taken a 'wait and see' attitude about Citrix's move into a challenging new product line — [[study-sun-sentinel-citrix-templeton-staying-20-b645c7]]

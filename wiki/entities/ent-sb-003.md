@@ -12,9 +12,9 @@ status: "Rebranded"
 successor: "Accenture (rebranded 2001)"
 years_active: "1989-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Andersen Consulting
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Siebel uses a virtual professional services organization through partners (Andersen Consulting, KPMG, Cambridge Technology Partners, Price Waterhouse) rather than building its own services capacity — [[study-1997-crm-siebel-systems-pr-569e52]]
+- Siebel uses a virtual professional services organization through partners (Andersen Consulting, KPMG, Cambridge Technology Partners, Price Waterhouse) rather than building its own services capacity `[ps=3]` — [[study-1997-crm-siebel-systems-pr-569e52]]

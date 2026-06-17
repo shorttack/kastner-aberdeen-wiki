@@ -3,7 +3,7 @@ title: "Outsourcing Application Development and Maintenance: Joining Cost Saving
 slug: "study-outsourcing-application-development-and-59d651"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "outsourcing-application-development-and--59d651"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.35
+prescience_obs_count: 23
 ---
 
 # Outsourcing Application Development and Maintenance: Joining Cost Savings with IT Human Asset Management
@@ -32,28 +32,28 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- 80% of respondents
-- 56% savings vs. in-house
-- 26% savings vs. in-house
+- Y2K remediation gave India IT industry global foothold `[ps=5]`
+- Managing outsourced staff requires specialized skills `[ps=5]`
+- 76% say vendor mgmt costs higher than expected `[ps=4]`
+- 38% cite communication/cultural gaps `[ps=4]`
+- 80% of BIC dedicated more management resources `[ps=4]`
+- BIC: retain strategic work, involve business units in provider management `[ps=4]`
+- China, Eastern Europe, Brazil, Canada, Mexico emerging as ADM alternatives `[ps=4]`
+- Near-shore trend driven by time zone and knowledge transfer needs `[ps=4]`
+- 26% savings vs. in-house `[ps=3]`
+- 36% cite same time zone proximity as important `[ps=3]`
+- Mid-market prioritizes expertise over cost savings `[ps=3]`
+- 42% of NA outsourcing to India `[ps=3]`
+- Shared development speeds learning exponentially `[ps=3]`
+- 65% of NA companies sensitive to language/culture gaps `[ps=3]`
+- 56% savings vs. in-house `[ps=2]`
+- 80% of respondents `[ps=0]`
+- 49% improvement `[ps=0]`
+- 46% of application development `[ps=0]`
+- 55% of application maintenance `[ps=0]`
+- Slightly more satisfied with India providers `[ps=0]`
+- 63% cite enabling IT strategic focus `[ps=0]`
+- 37% cite gaining superior expertise `[ps=0]`
+- ~125 enterprises `[ps=0]`
 - ~2% savings vs. in-house
-- 49% improvement
 - 67% of projects on or below budget
-- 46% of application development
-- 55% of application maintenance
-- Slightly more satisfied with India providers
-- 36% cite same time zone proximity as important
-- 82% of NA respondents cite cost-cutting as driver
-- 76% say vendor mgmt costs higher than expected
-- 75% cite reducing IT operating costs
-- 63% cite enabling IT strategic focus
-- 37% cite gaining superior expertise
-- 37% cite need for quicker turnaround
-- 43% cite securing provider with right skills
-- 38% cite communication/cultural gaps
-- 80% of BIC dedicated more management resources
-- Mid-market prioritizes expertise over cost savings
-- 42% of NA outsourcing to India
-- ~125 enterprises
-- 39% NA, 27% APAC, 26% Europe
-- Java/web site development #1 outsource target
-- Start small with short-term pilot projects

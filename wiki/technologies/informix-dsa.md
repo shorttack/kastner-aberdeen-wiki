@@ -12,9 +12,9 @@ era: "1994-2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "absorbed-into-IBM-Informix"
 occurrence_count: 4
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 0.8
+prescience_obs_count: 5
 ---
 
 # Informix Dynamic Scalable Architecture (DSA)
@@ -24,12 +24,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- may vault Informix past competitors — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
-- ahead of Oracle and Sybase in MP support — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
-- high — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- may vault Informix past competitors `[ps=2]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- ahead of Oracle and Sybase in MP support `[ps=2]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- high `[ps=0]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- expects impressive performance gains `[ps=0]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- 1-800-688-IFMX ext 18 `[ps=0]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
 - Hyatt deploying SMP across organization — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
-- expects impressive performance gains — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
-- 1-800-688-IFMX ext 18 — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
 - Informix will deliver parallel DB via Dynamic Scalable Architecture (DSA) — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
 - [DEFERRED] — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
 - Phil White: 1994 DSA shared-nothing/shared-everything parallelism -> 1996 Universal Server with typed extensions — [[study-informix-universal-server-launch-object-relational-fb2cd4]]

@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel LANDesk
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Configuration management, hardware/software inventory, software distribution, metering, remote control, virus protection — [[study-aberdeen-1996-dec-manageworks-22]]
+- Configuration management, hardware/software inventory, software distribution, metering, remote control, virus protection `[ps=0]` — [[study-aberdeen-1996-dec-manageworks-22]]

@@ -12,9 +12,9 @@ era: "1995-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IBM NetFinity
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Over past year Aberdeen interviewed scores of LAN managers; management tools topped desired feature list; OS/2 Warp Server management maps well against administrator needs — [[study-aberdeen-1996-ibm-os2-warp-server]]
+- Over past year Aberdeen interviewed scores of LAN managers; management tools topped desired feature list; OS/2 Warp Server management maps well against administrator needs `[ps=3]` — [[study-aberdeen-1996-ibm-os2-warp-server]]

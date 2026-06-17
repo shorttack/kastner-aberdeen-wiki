@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # XML Messaging Technologies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen expects all EII suppliers to wrap transactions in XML within next 2 years (by 2005) — [[study-aberdeen-eii-2003-ea3f1a]]
+- Aberdeen expects all EII suppliers to wrap transactions in XML within next 2 years (by 2005) `[ps=3]` — [[study-aberdeen-eii-2003-ea3f1a]]

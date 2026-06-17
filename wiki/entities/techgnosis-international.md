@@ -12,9 +12,9 @@ status: "acquired"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # TechGnosis International
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- On October 23, 1995, Intersolv announced the acquisition of TechGnosis International, a Brussels, Belgium-based developer of SequeLink, for approximately $80 million. — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
-- TechGnosis's SequeLink technology connects any client front end to any database server across existing networks and had approximately 4,000 customers at the time of the Intersolv acquisition. — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
+- On October 23, 1995, Intersolv announced the acquisition of TechGnosis International, a Brussels, Belgium-based developer of SequeLink, for approximately $80 million. `[ps=0]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
+- TechGnosis's SequeLink technology connects any client front end to any database server across existing networks and had approximately 4,000 customers at the time of the Intersolv acquisition. `[ps=0]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]

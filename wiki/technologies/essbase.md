@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Arbor Essbase
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Arbor Software Essbase has significant mindshare and marketing might; adopted as popular proprietary multidimensional engine by many financial software developers via APIs — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
-- Arbor Software and Hyperion Software announced intentions to merge into Hyperion Solutions; targeting leadership in custom on-demand and packaged analytic applications — [[study-dssune~1-cbf6e3]]
+- Arbor Software Essbase has significant mindshare and marketing might; adopted as popular proprietary multidimensional engine by many financial software developers via APIs `[ps=4]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
+- Arbor Software and Hyperion Software announced intentions to merge into Hyperion Solutions; targeting leadership in custom on-demand and packaged analytic applications `[ps=4]` — [[study-dssune~1-cbf6e3]]

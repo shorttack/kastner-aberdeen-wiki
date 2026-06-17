@@ -12,9 +12,9 @@ era: "1980s-1990s"
 lifecycle_at_study: "active-product"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # DECintact (Integrated Application Control)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- flat-files-only-RMS-Hash — [[study-dec-zahavi-debit-credit-vaxclusters-1988-1a9e2e]]
+- User security profiles, terminal security profiles, and GEOG attribute provide geographic entitlement: certain functions accessible only from specific terminals (e.g., bank officer sensitive functions only at home office) `[ps=4]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
+- DECintact used in banking: data entry clerks, verify/repair application, Fedwire Xmt queue sending to Federal Reserve; demonstrates exactly-once semantics for distributed queues `[ps=3]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
+- flat-files-only-RMS-Hash `[ps=0]` — [[study-dec-zahavi-debit-credit-vaxclusters-1988-1a9e2e]]
 - 6 TPS (MicroVAX 3600) to 53 TPS (dual VAX 8810s) — [[study-dectp-genspark-research2-4-a09a82]]
 - 1988 — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
-- DECintact used in banking: data entry clerks, verify/repair application, Fedwire Xmt queue sending to Federal Reserve; demonstrates exactly-once semantics for distributed queues — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
-- User security profiles, terminal security profiles, and GEOG attribute provide geographic entitlement: certain functions accessible only from specific terminals (e.g., bank officer sensitive functions only at home office) — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]

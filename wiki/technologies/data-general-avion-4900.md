@@ -12,9 +12,9 @@ era: "1994-1999"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Data General Avion 4900
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 936 users; 4,717 SAPS; 283,000 dialogue steps/hour; WinNT 3.51; 512 MB RAM — [[study-sap-r-3-on-wintel-servers-712986]]
+- 936 users; 4,717 SAPS; 283,000 dialogue steps/hour; WinNT 3.51; 512 MB RAM `[ps=0]` — [[study-sap-r-3-on-wintel-servers-712986]]

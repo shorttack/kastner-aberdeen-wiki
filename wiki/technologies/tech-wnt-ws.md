@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Growing"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Windows NT Workstation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2-3 reboots per day minimum (most stable workstations) — [[study-1997-nt-case-41-56aa2e]]
+- 2-3 reboots per day minimum (most stable workstations) `[ps=1]` — [[study-1997-nt-case-41-56aa2e]]

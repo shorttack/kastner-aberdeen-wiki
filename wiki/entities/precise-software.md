@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Veritas Software (2003)"
 years_active: "1990s-2003"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Precise Software Solutions
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Precise Software was purchased by Veritas. — [[study-remarks-of-peter-kastner-to-the-massachu-96335b]]
+- Precise Software was purchased by Veritas. `[ps=5]` — [[study-remarks-of-peter-kastner-to-the-massachu-96335b]]

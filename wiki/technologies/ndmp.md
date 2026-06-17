@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # NDMP (Network Data Management Protocol)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NetApp leading NDMP standardization effort will result in greater centralized control and interoperable NAS backup ecosystem — [[study-aberdeen-1996-network-appliance-data-appliances]]
-- NDMP became established industry standard for NAS backup; widely supported by backup vendors including Veritas, Legato, IBM — [[study-aberdeen-1996-network-appliance-data-appliances]]
+- NDMP became established industry standard for NAS backup; widely supported by backup vendors including Veritas, Legato, IBM `[ps=5]` — [[study-aberdeen-1996-network-appliance-data-appliances]]
+- NetApp leading NDMP standardization effort will result in greater centralized control and interoperable NAS backup ecosystem `[ps=4]` — [[study-aberdeen-1996-network-appliance-data-appliances]]

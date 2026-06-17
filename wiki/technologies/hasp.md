@@ -12,9 +12,9 @@ era: "1967-1975"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # HASP (Houston Automated Spooling Processor)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Modified IBM OS/360 enhanced with HASP (Houston Automated Spooling Processor) to manage job queue. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Modified IBM OS/360 enhanced with HASP (Houston Automated Spooling Processor) to manage job queue. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

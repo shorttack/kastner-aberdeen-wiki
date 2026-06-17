@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM Somers (analyst relations team)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Brief Somers analyst relations team en masse once or twice. — [[study-ibm-major-account-plan-8-cc6400]]
+- Brief Somers analyst relations team en masse once or twice. `[ps=0]` — [[study-ibm-major-account-plan-8-cc6400]]

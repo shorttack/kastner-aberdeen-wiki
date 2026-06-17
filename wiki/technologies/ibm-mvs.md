@@ -12,9 +12,9 @@ era: "1960s-present"
 lifecycle_at_study: "dominant-mainframe"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # IBM MVS (Multiple Virtual Storage)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM OS/2 Warp: Little ISV support or commitment — [[study-itthar-1-4-32f824]]
-- Business as usual; lion's share IBM MVS — [[study-nti-4-nextgen-os-timing-1993-a45049]]
+- IBM OS/2 Warp: Little ISV support or commitment `[ps=5]` — [[study-itthar-1-4-32f824]]
+- Business as usual; lion's share IBM MVS `[ps=2]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]

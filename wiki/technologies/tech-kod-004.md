@@ -12,9 +12,9 @@ era: "1980s-2010s"
 lifecycle_at_study: "Active"
 lifecycle_current: "Evolved to tiered/cloud storage"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Hierarchical Storage Management (HSM)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen forecasts HSM technology will play key role as organizations need access to digital images in multi-terabyte decision support systems — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
-- HSM evolved into Information Lifecycle Management (ILM) and later cloud storage tiering; Eastman Software HSM did not achieve predicted role; Veritas StorageExec and IBM Tivoli became market leaders — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
+- HSM evolved into Information Lifecycle Management (ILM) and later cloud storage tiering; Eastman Software HSM did not achieve predicted role; Veritas StorageExec and IBM Tivoli became market leaders `[ps=4]` — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
+- Aberdeen forecasts HSM technology will play key role as organizations need access to digital images in multi-terabyte decision support systems `[ps=3]` — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1885-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Arizona State University
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Two years ago, ASU initiated a project that brought together student, financial and human resources data in an integrated data warehouse. — [[study-data-warehouse-2-years-later-cause-1994-721bb1]]
+- Two years ago, ASU initiated a project that brought together student, financial and human resources data in an integrated data warehouse. `[ps=0]` — [[study-data-warehouse-2-years-later-cause-1994-721bb1]]

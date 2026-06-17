@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # 8-inch Semiconductor Wafer Fab
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 8 plants with commitments to NEC, Philips, Oki, Elpida, Infineon — [[study-2003-sars-electronics-supply-chain-ec0375]]
+- 8 plants with commitments to NEC, Philips, Oki, Elpida, Infineon `[ps=0]` — [[study-2003-sars-electronics-supply-chain-ec0375]]

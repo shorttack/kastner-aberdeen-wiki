@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Compaq (1998)"
 years_active: "1957-1998"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Digital Equipment Corporation (DEC)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 4 — [[study-2026-kastner-enterprise-ai-arc]]
-- 42 — [[study-2026-kastner-enterprise-ai-arc]]
+- 4 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 42 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]

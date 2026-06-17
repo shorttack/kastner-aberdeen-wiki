@@ -12,9 +12,9 @@ era: "1996-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # J.D. Edwards OneWorld
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 7% — [[study-erppsp~1-31f088]]
-- Growing Windows NT offering alongside AS/400 standard expected to grow market share — [[study-erpv2p~1-b15573]]
+- Growing Windows NT offering alongside AS/400 standard expected to grow market share `[ps=3]` — [[study-erpv2p~1-b15573]]
+- 7% `[ps=0]` — [[study-erppsp~1-31f088]]

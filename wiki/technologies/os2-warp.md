@@ -12,9 +12,9 @@ era: "1987-2001"
 lifecycle_at_study: "declining"
 lifecycle_current: "legacy-unsupported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # IBM OS/2 Warp
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM OS/2 Warp missed the window. Can never recover. — [[study-software-market-safegu~1-ea7453]]
-- Not confirmed — OS/2 Warp never recovered; IBM discontinued OS/2 in 2001 — [[study-software-market-safegu~1-ea7453]]
+- IBM OS/2 Warp missed the window. Can never recover. `[ps=5]` — [[study-software-market-safegu~1-ea7453]]
+- Not confirmed — OS/2 Warp never recovered; IBM discontinued OS/2 in 2001 `[ps=4]` — [[study-software-market-safegu~1-ea7453]]

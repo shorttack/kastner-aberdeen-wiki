@@ -12,9 +12,9 @@ era: "1990-"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Heartbeat Failover Protocol
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Primary/secondary heartbeat failover: primary saves key data, sends heartbeat; secondary monitors and restarts — [[study-ft-mitfor~1-a56a9d]]
+- Primary/secondary heartbeat failover: primary saves key data, sends heartbeat; secondary monitors and restarts `[ps=4]` — [[study-ft-mitfor~1-a56a9d]]

@@ -12,9 +12,9 @@ status: "active"
 successor: "Aptean (2020s)"
 years_active: "1970-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # American Software, Inc.
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 79_5m_total_20m_apet — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- 79_5m_total_20m_apet `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
 - 1970_founded_amswa_nasdaq_atlanta — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
 - Kastner supported defense counsel Fulbright & Jaworski; software development breach of contract; Aberdeen assessed technical/project management aspects of IBM AS/400 and 3090 mainframe application development case — [[study-psk-litigation-b452e6]]

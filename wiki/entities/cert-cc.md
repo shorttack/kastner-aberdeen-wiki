@@ -12,9 +12,9 @@ status: "operating"
 successor: ""
 years_active: "1988-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 0.5
+prescience_obs_count: 4
 ---
 
 # CERT Coordination Center
@@ -29,9 +29,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- January through October 2002 — [[study-2002-open-source-and-linux-2002-poster-children-for-sec-587674]]
-- CERT/CC security advisory count as vulnerability proxy — [[study-2002-open-source-and-linux-2002-poster-children-for-sec-587674]]
-- 16 of total advisories (per The Register coverage) — [[study-2002-open-source-and-linux-2002-poster-children-for-sec-587674]]
+- CERT/CC security advisory count as vulnerability proxy `[ps=2]` — [[study-2002-open-source-and-linux-2002-poster-children-for-sec-587674]]
+- January through October 2002 `[ps=0]` — [[study-2002-open-source-and-linux-2002-poster-children-for-sec-587674]]
+- 16 of total advisories (per The Register coverage) `[ps=0]` — [[study-2002-open-source-and-linux-2002-poster-children-for-sec-587674]]
+- 56% increase 2001 to 2002 `[ps=0]` — [[study-topic-iia-pc-management-best-practices-2003-10]]
 - 76,404 security incidents reported first half 2003 (vs 82,094 total 2002) — [[study-topic-iia-pc-management-best-practices-2003-10]]
-- 56% increase 2001 to 2002 — [[study-topic-iia-pc-management-best-practices-2003-10]]
 - 86% increase 2002 to 2003 if pace continues — [[study-topic-iia-pc-management-best-practices-2003-10]]

@@ -12,9 +12,9 @@ era: "2003-2014"
 lifecycle_at_study: "forthcoming"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Office 2003
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Out in a few months; worth evaluating — [[study-dct-pc-replacement-insight1-2003-04]]
-- pre-release — [[study-why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622]]
+- Out in a few months; worth evaluating `[ps=0]` — [[study-dct-pc-replacement-insight1-2003-04]]
+- pre-release `[ps=0]` — [[study-why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622]]

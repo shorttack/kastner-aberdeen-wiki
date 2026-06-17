@@ -12,9 +12,9 @@ era: "1987-present"
 lifecycle_at_study: "current"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # SPARC processor architecture
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Sun has superior price and price-performance vs iSeries `[ps=2]` — [[study-sun-as400-main-report-2002-c37e2a]]
 - $340 million — [[study-aberdeen-1996-risc-unix-market]]
-- Sun has superior price and price-performance vs iSeries — [[study-sun-as400-main-report-2002-c37e2a]]

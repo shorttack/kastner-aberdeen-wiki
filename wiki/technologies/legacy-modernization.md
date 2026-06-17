@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Legacy Application Modernization
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Best-in-Class enterprises maximize legacy-system investment through modernization rather than rip-and-replace — [[study-aberdeen-ra-modernizing-legacy-2007-52a27a]]
+- Best-in-Class enterprises maximize legacy-system investment through modernization rather than rip-and-replace `[ps=4]` — [[study-aberdeen-ra-modernizing-legacy-2007-52a27a]]

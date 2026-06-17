@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "active"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Workshop: Go-to-Market Readiness
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Reviews presentations and launch collateral prior to public launch; two variations — [[study-aas-launch-package-aug-2001-b4a001]]
+- Reviews presentations and launch collateral prior to public launch; two variations `[ps=0]` — [[study-aas-launch-package-aug-2001-b4a001]]

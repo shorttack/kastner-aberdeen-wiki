@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1948-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # World Health Organization
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1,804 people in 17 countries; up to 62 deaths; California 20 suspected cases, 0 deaths — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]
+- 1,804 people in 17 countries; up to 62 deaths; California 20 suspected cases, 0 deaths `[ps=0]` — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]

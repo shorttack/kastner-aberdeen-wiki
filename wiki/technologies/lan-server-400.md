@@ -12,9 +12,9 @@ era: "1992-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IBM LAN Server/400
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Three NOS options: Novell NetWare, IBM LAN Server/400, and Microsoft NT Server; IBM proves ability to open AS/400 to customer requirements — [[study-aberdeen-1997-as400-nt-server-ibm-microsoft-working-together]]
+- Three NOS options: Novell NetWare, IBM LAN Server/400, and Microsoft NT Server; IBM proves ability to open AS/400 to customer requirements `[ps=3]` — [[study-aberdeen-1997-as400-nt-server-ibm-microsoft-working-together]]

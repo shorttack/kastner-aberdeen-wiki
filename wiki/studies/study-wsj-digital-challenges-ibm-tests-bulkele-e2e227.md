@@ -3,7 +3,7 @@ title: "WSJ — Digital Challenges Tests by IBM Of Firms' Midrange Computers (Bu
 slug: "study-wsj-digital-challenges-ibm-tests-bulkele-e2e227"
 page_type: "study"
 tags: ["type/study", "collection/newspaper-feature"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "wsj-digital-challenges-ibm-tests-bulkele-e2e227"
 author: "William M. Bulkeley — The Wall Street Journal"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.0
+prescience_obs_count: 7
 ---
 
 # WSJ — Digital Challenges Tests by IBM Of Firms' Midrange Computers (Bulkeley, 17-Jun-1988)
@@ -32,14 +32,14 @@ _Published 1988, author **William M. Bulkeley — The Wall Street Journal**, typ
 
 ## Top observations
 
-- one-of-the-cheapest-tricks-IBM-could-have-pulled
+- competitive-truth-squads-to-analysts-and-reporters `[ps=4]`
+- indicates-degree-of-desperation-in-this-marketplace `[ps=3]`
+- one-of-the-cheapest-tricks-IBM-could-have-pulled `[ps=0]`
+- 1988-06-17 `[ps=0]`
+- 1 `[ps=0]`
+- 10x `[ps=0]`
+- anonymous-analyst-said-questionable-aspects `[ps=0]`
 - widely-circulated-and-duplicated-and-verified
-- 1988-06-17
 - 29.8
-- competitive-truth-squads-to-analysts-and-reporters
-- 1
-- 10x
-- indicates-degree-of-desperation-in-this-marketplace
 - refused-RAMP-C-source-and-independent-audit
-- anonymous-analyst-said-questionable-aspects
 - 2

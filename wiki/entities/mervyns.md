@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "1949-2008"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Mervyn's Department Stores
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- >1 terabyte in production; approaching 10 terabytes next year — [[study-sequent-s-numa-q-2000-solutions-77a77c]]
+- >1 terabyte in production; approaching 10 terabytes next year `[ps=4]` — [[study-sequent-s-numa-q-2000-solutions-77a77c]]

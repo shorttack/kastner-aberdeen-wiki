@@ -12,9 +12,9 @@ era: "2005-present"
 lifecycle_at_study: "new"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Staples Easy Rebates
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Staples' Easy Rebates — most rebates can be activated by just entering two numbers from your store receipt on an online form — [[study-great-rebate-debate-smartmoney-grant-80650c]]
+- Staples' Easy Rebates — most rebates can be activated by just entering two numbers from your store receipt on an online form `[ps=0]` — [[study-great-rebate-debate-smartmoney-grant-80650c]]
 - Staples Easy Rebates became fully online submission by 2008, eliminating mail-in requirement entirely — [[study-great-rebate-debate-smartmoney-grant-80650c]]

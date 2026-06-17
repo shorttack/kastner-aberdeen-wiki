@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # HP Superdome
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- high-end server performance breakthrough `[ps=0]` — [[study-2002-performance-breakthroughs-the-benchmarking-fanatic-6d41fa]]
 - 58% sequential revenue increase in Q4 FY2002; HP ranked #1 on TOP500 Supercomputer Sites enterprise category — [[study-2001-hp-cpq-merger-collection-edbca1]]
-- high-end server performance breakthrough — [[study-2002-performance-breakthroughs-the-benchmarking-fanatic-6d41fa]]
 - positioned for market share battle — [[study-2002-performance-breakthroughs-the-benchmarking-fanatic-6d41fa]]
 - transitioned from Itanium to x86 Xeon; still sold by HPE — [[study-2002-performance-breakthroughs-the-benchmarking-fanatic-6d41fa]]

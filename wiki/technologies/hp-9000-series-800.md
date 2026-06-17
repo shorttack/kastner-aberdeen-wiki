@@ -12,9 +12,9 @@ era: "1986-2008"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # HP 9000 Series 800
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Hercules should implement SAP R3 on HP 9000 Series 800 as sole supplier — [[study-1993-hercules-sap-28344a]]
-- 45%+ market share in commercial RISC/Unix systems — [[study-1993-hercules-sap-28344a]]
+- Hercules should implement SAP R3 on HP 9000 Series 800 as sole supplier `[ps=0]` — [[study-1993-hercules-sap-28344a]]
+- 45%+ market share in commercial RISC/Unix systems `[ps=0]` — [[study-1993-hercules-sap-28344a]]

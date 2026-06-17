@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # x86 Commodity Servers
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dell and Oracle predict demise of big iron (mainframes/large Unix) in favor of commodity Linux clusters — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
-- Linux clusters starting at $18,000 — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
+- Dell and Oracle predict demise of big iron (mainframes/large Unix) in favor of commodity Linux clusters `[ps=3]` — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
+- Linux clusters starting at $18,000 `[ps=0]` — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]

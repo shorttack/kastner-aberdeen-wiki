@@ -12,9 +12,9 @@ era: "2009-present"
 lifecycle_at_study: "pre-launch"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Google Chrome OS
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Potential flaw in the model: always-on Internet in emerging markets — if there's no Internet connection available, there's no useful netbook functionality besides local games `[ps=3]` — [[study-washington-times-kellner-google-chrome-o-02e6a9]]
 - Google has a challenging task — [[study-washington-times-kellner-google-chrome-o-02e6a9]]
-- Potential flaw in the model: always-on Internet in emerging markets — if there's no Internet connection available, there's no useful netbook functionality besides local games — [[study-washington-times-kellner-google-chrome-o-02e6a9]]

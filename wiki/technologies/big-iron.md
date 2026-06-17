@@ -12,9 +12,9 @@ era: "1950-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Big Iron (Mainframes / Large Unix Servers)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM Z mainframes still active in ~6000 shops worldwide as of 2025; mainframe not demised; prediction was overstated — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
+- IBM Z mainframes still active in ~6000 shops worldwide as of 2025; mainframe not demised; prediction was overstated `[ps=4]` — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]

@@ -12,9 +12,9 @@ era: "2008-present"
 lifecycle_at_study: "future"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Smart TV (built-in ITV)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ITV capabilities will have to be included with future television sets, since many consumers will be unwilling to spend extra dollars on new hardware for existing sets — [[study-ect-news-whatever-happened-interactive-t-7446fd]]
+- ITV capabilities will have to be included with future television sets, since many consumers will be unwilling to spend extra dollars on new hardware for existing sets `[ps=2]` — [[study-ect-news-whatever-happened-interactive-t-7446fd]]

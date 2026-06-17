@@ -12,9 +12,9 @@ era: "1965-present"
 lifecycle_at_study: "Active"
 lifecycle_current: "Evolved into Business Intelligence / Analytics"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Decision Support System (DSS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Combining DSS with RDBMS administration creates manageability advantage — [[study-1997-informix-metacube-4.0--relational-o-23491d]]
+- Combining DSS with RDBMS administration creates manageability advantage `[ps=4]` — [[study-1997-informix-metacube-4.0--relational-o-23491d]]

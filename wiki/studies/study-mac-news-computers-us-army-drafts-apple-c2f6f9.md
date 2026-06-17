@@ -3,7 +3,7 @@ title: "US Army Drafts Apple Xserve for Supercomputer"
 slug: "study-mac-news-computers-us-army-drafts-apple-c2f6f9"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "mac-news-computers-us-army-drafts-apple-c2f6f9"
 author: "Blane Warrene (reporter, MacNewsWorld); Peter Kastner (quoted source)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 4
 ---
 
 # US Army Drafts Apple Xserve for Supercomputer
@@ -32,8 +32,8 @@ _Published 2004, author **Blane Warrene (reporter, MacNewsWorld); Peter Kastner 
 
 ## Top observations
 
+- Virginia Tech System X (Big Mac) — first high-profile Apple cluster `[ps=5]`
+- Apple discontinued Xserve in January 2011 without further major HPC wins; Apple effectively exited supercomputing by late 2000s `[ps=5]`
+- 'Apple not a one-shot wonder, but a force to be reckoned with' post-Virginia-Tech System X `[ps=2]`
+- Government IT provider, ~800 employees `[ps=0]`
 - ~25 teraflops, projected #2 behind DOE systems at time of article
-- 'Apple not a one-shot wonder, but a force to be reckoned with' post-Virginia-Tech System X
-- Government IT provider, ~800 employees
-- Virginia Tech System X (Big Mac) — first high-profile Apple cluster
-- Apple discontinued Xserve in January 2011 without further major HPC wins; Apple effectively exited supercomputing by late 2000s

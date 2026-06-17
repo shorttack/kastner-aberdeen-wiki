@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "superseded"
 lifecycle_current: "Superseded by web services (SOAP/REST), SOA, and microservices architectures; OMG CORBA standard technically maintained but rarely used in new development."
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Distributed Object Technology / CORBA
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen notes that Microsoft Exchange, like Lotus Notes, fails the Enterprise Groupware litmus test because it lacks object-oriented architecture and component-based composition. — [[study-aberdeen-1995-digital-linkworks]]
+- Aberdeen notes that Microsoft Exchange, like Lotus Notes, fails the Enterprise Groupware litmus test because it lacks object-oriented architecture and component-based composition. `[ps=1]` — [[study-aberdeen-1995-digital-linkworks]]

@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "niche"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Pen-Based Computing
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Siebel anticipated need for pen-based computing as example of GUI advantage and field sales use case — [[study-1997-crm-siebel-systems-pr-569e52]]
+- Siebel anticipated need for pen-based computing as example of GUI advantage and field sales use case `[ps=2]` — [[study-1997-crm-siebel-systems-pr-569e52]]

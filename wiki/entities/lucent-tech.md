@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Alcatel-Lucent (2006) -> Nokia (2016)"
 years_active: "1996-2006"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Lucent Technologies Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Lucent Technologies merged with Alcatel Dec 1 2006 forming Alcatel-Lucent — Nokia acquired the combined entity in 2016 for €15.6B. — [[study-tech-s-best-hope-pockets-of-prosperity-2-17d6cf]]
+- Lucent Technologies merged with Alcatel Dec 1 2006 forming Alcatel-Lucent — Nokia acquired the combined entity in 2016 for €15.6B. `[ps=5]` — [[study-tech-s-best-hope-pockets-of-prosperity-2-17d6cf]]

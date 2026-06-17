@@ -12,9 +12,9 @@ era: "1983-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-declining"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # Novell NetWare / IntranetWare
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NetWare security limited to NetWare-only platforms; incompatible with other enterprise systems — [[study-1997-tme-10-security-management-8178c6]]
-- IntranetWare maintaining NOS dominance; EJB as infrastructure strategy; must prevent NT 5.0 erosion; Eric Schmidt-led Java/Internet plan; execution remains to be seen — [[study-intern~1-45df51]]
-- Dominant LAN OS market share; NetWare 4.0 moving to enterprise-wide directory services — [[study-nti-12-client-server-goals-1993-15a519]]
+- NetWare security limited to NetWare-only platforms; incompatible with other enterprise systems `[ps=3]` — [[study-1997-tme-10-security-management-8178c6]]
+- IntranetWare maintaining NOS dominance; EJB as infrastructure strategy; must prevent NT 5.0 erosion; Eric Schmidt-led Java/Internet plan; execution remains to be seen `[ps=3]` — [[study-intern~1-45df51]]
+- Dominant LAN OS market share; NetWare 4.0 moving to enterprise-wide directory services `[ps=3]` — [[study-nti-12-client-server-goals-1993-15a519]]

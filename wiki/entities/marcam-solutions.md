@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Invensys -> Wonderware -> AVEVA"
 years_active: "1980-1999"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Marcam Solutions Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- First fully object-based Process ERP solution; competitors underestimate at their risk `[ps=2]` — [[study-erpv2p~1-b15573]]
 - Proof of concept confirmed in production environments — [[study-aberdeen-1997-aberdeen-group-impacts]]
-- First fully object-based Process ERP solution; competitors underestimate at their risk — [[study-erpv2p~1-b15573]]

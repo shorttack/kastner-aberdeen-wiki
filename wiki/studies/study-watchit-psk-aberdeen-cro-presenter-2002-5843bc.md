@@ -3,7 +3,7 @@ title: "WatchIT.com April 2002 lineup — PSK as Aberdeen Chief Research Officer
 slug: "study-watchit-psk-aberdeen-cro-presenter-2002-5843bc"
 page_type: "study"
 tags: ["type/study", "collection/e-learning-program-lineup"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "watchit-psk-aberdeen-cro-presenter-2002--5843bc"
 author: "WatchIT.com Customer Operations Group (program lineup); Peter S. Kastner (presenter); Isaac Ro (presenter); Jackson Shaw (presenter)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # WatchIT.com April 2002 lineup — PSK as Aberdeen Chief Research Officer presenter on 'Microsoft's Future Paths' (with Jackson Shaw and Isaac Ro)
@@ -32,8 +32,8 @@ _Published 2002, author **WatchIT.com Customer Operations Group (program lineup)
 
 ## Top observations
 
+- Microsoft's next generation of operating systems - code-named Blackcomb and Longhorn - as well as the emerging Tablet PC, and advances in speech recognition, knowledge management and storage `[ps=4]`
+- WatchIT.com — E-Learning for IT and Business Professionals; Syosset NY; subscription video `[ps=3]`
+- Research Analyst, Aberdeen Group `[ps=0]`
 - Chief Research Officer
-- Research Analyst, Aberdeen Group
 - Lead Product Manager for the Windows .NET Server Solutions Group at Microsoft
-- Microsoft's next generation of operating systems - code-named Blackcomb and Longhorn - as well as the emerging Tablet PC, and advances in speech recognition, knowledge management and storage
-- WatchIT.com — E-Learning for IT and Business Professionals; Syosset NY; subscription video

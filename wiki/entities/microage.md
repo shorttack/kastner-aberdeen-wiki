@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "[none]"
 years_active: "1976-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # MicroAge Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MicroAge filed for bankruptcy in 2000 — another mid-tier PC distributor eliminated by consolidation — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
+- MicroAge filed for bankruptcy in 2000 — another mid-tier PC distributor eliminated by consolidation `[ps=4]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]

@@ -12,9 +12,9 @@ era: "1997-2001"
 lifecycle_at_study: "declining"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Oracle Data Mart Suite for NT
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle Data Mart Suite for NT addressed mass-market data warehousing opportunity on Windows NT — first Oracle DW product targeting mid-market — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle Data Mart Suite for NT addressed mass-market data warehousing opportunity on Windows NT — first Oracle DW product targeting mid-market `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]

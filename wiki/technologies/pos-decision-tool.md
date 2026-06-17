@@ -12,9 +12,9 @@ era: "2003-2004"
 lifecycle_at_study: "in-development"
 lifecycle_current: "historical"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.0
+prescience_obs_count: 4
 ---
 
 # Pools of Storage Decision Tool
@@ -24,12 +24,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Value-based decision tools published to public web sites to validate efficiencies in capital and labor from Pools of Storage program — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- Value-based decision tools published to public web sites to validate efficiencies in capital and labor from Pools of Storage program `[ps=4]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- Tool to generate highly qualified and information-rich leads from users for Maxtor sales team `[ps=0]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- [UNVERIFIED] `[ps=0]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- $75000 in tool R&D funded by Maxtor engagement helped TTCM site come up in weeks on budget `[ps=0]` — [[study-06-aberdeen-after-action-showandtell-95c6d9]]
 - Plan to create web site Center of Excellence on Pools of Storage where users can learn model savings and learn best practices — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- Tool to generate highly qualified and information-rich leads from users for Maxtor sales team — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- [UNVERIFIED] — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
 - In spite of specs and pilot one tool failed to impress; by re-doing the disliked tool Aberdeen showed commitment — [[study-06-aberdeen-after-action-showandtell-95c6d9]]
-- $75000 in tool R&D funded by Maxtor engagement helped TTCM site come up in weeks on budget — [[study-06-aberdeen-after-action-showandtell-95c6d9]]
 - Aberdeen internal use only — under no circumstances to be shared with client Maxtor; separate sanitized version is the official public functional specification — [[study-07-pools-of-storage-functional-spec-597fa5]]
 - Stage 1: Solution Workflow (recommend business process); Stage 2: Competitive Workflow (maturity grid positioning); Stage 3: Financial Framework (KPI analysis); Stage 4: Case for Action (ROI/TCO output) — [[study-07-pools-of-storage-functional-spec-597fa5]]
 - $23101.55 planned development cost (strictly for development and review; excludes content development support and maintenance) — [[study-07-pools-of-storage-functional-spec-597fa5]]

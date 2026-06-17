@@ -3,7 +3,7 @@ title: "Next Steps in SOA: Applications on the Network"
 slug: "study-next-steps-soa-2006-0fdea1"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "next-steps-soa-2006-0fdea1"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.43
+prescience_obs_count: 7
 ---
 
 # Next Steps in SOA: Applications on the Network
@@ -32,13 +32,13 @@ _Published 2006, author **Peter S. Kastner**, type **employer-record**._
 
 ## Top observations
 
+- requires new balance between architectural readiness and business value realization `[ps=4]`
+- network infrastructure taking on new application-layer roles `[ps=4]`
+- moving from data packets to XML-based content routing and Web Services request messaging `[ps=3]`
+- SOA middleware now delivered inside XML-aware appliances `[ps=3]`
+- SOA on network requires new clarity of roles between application architect and network architect `[ps=3]`
+- total reach in excess of 1 million value chain executives `[ps=0]`
+- broad-based survey of IT organizations plus one-on-one interviews `[ps=0]`
 - distributes and decouples processing from data center to network edge and anywhere in-between
-- moving from data packets to XML-based content routing and Web Services request messaging
-- SOA middleware now delivered inside XML-aware appliances
-- total reach in excess of 1 million value chain executives
-- requires new balance between architectural readiness and business value realization
 - third in ongoing series of Aberdeen SOA reports
 - SOA security in web services and XML processing identified as key finding area
-- SOA on network requires new clarity of roles between application architect and network architect
-- network infrastructure taking on new application-layer roles
-- broad-based survey of IT organizations plus one-on-one interviews

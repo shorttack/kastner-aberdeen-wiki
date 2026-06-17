@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # MySQL
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MySQL remained world's most widely deployed open-source database 15 years post-Oracle acquisition — [[study-2026-kastner-oracle-longitudinal]]
+- MySQL remained world's most widely deployed open-source database 15 years post-Oracle acquisition `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]

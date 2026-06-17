@@ -3,7 +3,7 @@ title: "Microsoft Split Will Hit Users' Pockets"
 slug: "study-microsoft-split-will-hit-users-pockets-0-edc1ed"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "microsoft-split-will-hit-users-pockets-0-edc1ed"
 author: "Linda Leung (Computing UK / vnunet.com)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 6
 ---
 
 # Microsoft Split Will Hit Users' Pockets
@@ -32,11 +32,11 @@ _Published 2000, author **Linda Leung (Computing UK / vnunet.com)**, type **news
 
 ## Top observations
 
-- Breaking up Microsoft creates 'enormous friction, delay, and uncertainty' in IT adoption; without inter-application integration, consumers and IS professionals face additional costly burdens.
-- $6.8 billion in price hikes over 10 years from the two mini-companies charging separately.
+- Kastner analysis implies the remedy imposes costs that will weigh against affirmation; the appellate courts will need to reconsider. `[ps=5]`
+- D.C. Circuit in 2001 unanimously vacated the break-up remedy while largely affirming the underlying antitrust liability; final 2002 consent decree imposed conduct remedies rather than structural break-up. `[ps=5]`
+- $6.8 billion in price hikes over 10 years from the two mini-companies charging separately. `[ps=1]`
+- $20 billion in increased system integration costs for corporate buyers to tie together products from the two companies and third parties. `[ps=1]`
+- Breaking up Microsoft creates 'enormous friction, delay, and uncertainty' in IT adoption; without inter-application integration, consumers and IS professionals face additional costly burdens. `[ps=0]`
+- DOJ proposed splitting Microsoft into separate operating-systems and applications companies; additional remedies included mandatory API disclosure to OEMs and a ban on exclusive arrangements. `[ps=0]`
 - $43 billion over 10 years including legal costs, restructuring, rebranding, and enterprise integration.
-- $20 billion in increased system integration costs for corporate buyers to tie together products from the two companies and third parties.
 - Microsoft should open Windows APIs to all developers on equal footing; an independent panel should police compliance — preferable to break-up.
-- DOJ proposed splitting Microsoft into separate operating-systems and applications companies; additional remedies included mandatory API disclosure to OEMs and a ban on exclusive arrangements.
-- Kastner analysis implies the remedy imposes costs that will weigh against affirmation; the appellate courts will need to reconsider.
-- D.C. Circuit in 2001 unanimously vacated the break-up remedy while largely affirming the underlying antitrust liability; final 2002 consent decree imposed conduct remedies rather than structural break-up.

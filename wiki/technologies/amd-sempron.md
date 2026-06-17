@@ -12,9 +12,9 @@ era: "2004-2013"
 lifecycle_at_study: "new"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.25
+prescience_obs_count: 4
 ---
 
 # AMD Sempron processor
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- To compete with the very low-end systems, AMD needs a mature and inexpensive processor because cost is more important in that market. — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]
-- Insight 64 analyst Dean McCarron frames AMD's split-branding strategy as clearly separating the mainstream segment where people are willing to pay more from the low-cost market where products are purchased on price. — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]
-- AMD launched the Sempron CPU brand July 2004 (one month after this article's publication), placing Sempron in the low-end segment previously held by Athlon XP and freeing the Athlon brand to compete in mainstream/premium alongside Athlon 64. — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]
-- AMD gradually retired the Sempron brand through 2013, replaced by Athlon low-end and later Ryzen 3; the Sempron-vs-Celeron low-end duopoly Kastner described ended as the overall low-end-desktop segment shrank. — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]
+- AMD launched the Sempron CPU brand July 2004 (one month after this article's publication), placing Sempron in the low-end segment previously held by Athlon XP and freeing the Athlon brand to compete in mainstream/premium alongside Athlon 64. `[ps=5]` — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]
+- To compete with the very low-end systems, AMD needs a mature and inexpensive processor because cost is more important in that market. `[ps=4]` — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]
+- Insight 64 analyst Dean McCarron frames AMD's split-branding strategy as clearly separating the mainstream segment where people are willing to pay more from the low-cost market where products are purchased on price. `[ps=4]` — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]
+- AMD gradually retired the Sempron brand through 2013, replaced by Athlon low-end and later Ryzen 3; the Sempron-vs-Celeron low-end duopoly Kastner described ended as the overall low-end-desktop segment shrank. `[ps=4]` — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]

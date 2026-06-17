@@ -1,5 +1,5 @@
 ---
-title: "==> picture [506 x 76] intentionally omitted <=="
+title: "Leopardsnapshot (Aberdeen, 1984)"
 slug: "study-leopardsnapshot-032eb0"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [506 x 76] intentionally omitted <==
+# Leopardsnapshot (Aberdeen, 1984)
 
-> This study analyzes ==> picture [506 x 76] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study leopardsnapshot-032eb0. Source: leopardsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 1984, author **Aberdeen Group**, type **market-study**._
@@ -32,4 +32,4 @@ _Published 1984, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- This study analyzes ==> picture [506 x 76] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [506 x 76] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

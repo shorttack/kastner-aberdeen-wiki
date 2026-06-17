@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Gateway (2004); then Acer (2007); brand discontinued 2013"
 years_active: "1998-2004"
 occurrence_count: 27
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 6
 ---
 
 # eMachines, Inc.
@@ -29,6 +29,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- went private 3 years before 2004 acquisition `[ps=5]` — [[study-dct-gateway-acquires-emachines-2004-03]]
+- stays in PC value segment (low price) `[ps=4]` — [[study-dct-gateway-acquires-emachines-2004-03]]
+- eMachines built quiet brand loyalty through big-box electronics and computer stores `[ps=3]` — [[study-dct-gateway-acquires-emachines-2004-03]]
+- privately-held `[ps=0]` — [[study-dct-gateway-acquires-emachines-2004-03]]
+- #2 brand in retail stores in United States `[ps=0]` — [[study-dct-gateway-acquires-emachines-2004-03]]
+- major shelf space at Best Buy, Circuit City, CompUSA `[ps=0]` — [[study-dct-gateway-acquires-emachines-2004-03]]
 - $686 avg (range $400-$910); 5 SKUs; 2 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
 - $614 avg (range $400-$910); 7 SKUs; 4 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
 - $526 avg (range $400-$840); 5 SKUs; 3 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
@@ -43,9 +49,3 @@ prescience_obs_count: 0
 - $599 avg (range $350-$850); 6 SKUs; 4 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
 - $595 avg (range $370-$850); 11 SKUs; 6 channels; top CPU: Athlon 2600+ — [[study-dct-access-pc-deals-2002-2003]]
 - $585 avg (range $370-$880); 7 SKUs; 5 channels; top CPU: Athlon 2600+ — [[study-dct-access-pc-deals-2002-2003]]
-- $399 — [[study-dct-emachines-q1-2003-lineup]]
-- $499 — [[study-dct-emachines-q1-2003-lineup]]
-- $599 — [[study-dct-emachines-q1-2003-lineup]]
-- $649 — [[study-dct-emachines-q1-2003-lineup]]
-- $399 entry point (T1842) defines sub-$500 consumer PC category — [[study-dct-emachines-q1-2003-lineup]]
-- Celeron in $399-499 tier; Athlon XP in $599-649 tier — [[study-dct-emachines-q1-2003-lineup]]

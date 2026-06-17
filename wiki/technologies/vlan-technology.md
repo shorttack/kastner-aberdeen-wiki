@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # VLAN (Virtual LAN) Technology
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IEEE 802.1Q VLAN standard ratified 1998; VLANs became ubiquitous in enterprise networking; Cabletron's 1990 VLAN investment proved prescient but the company did not become the market leader — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]
+- IEEE 802.1Q VLAN standard ratified 1998; VLANs became ubiquitous in enterprise networking; Cabletron's 1990 VLAN investment proved prescient but the company did not become the market leader `[ps=5]` — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]

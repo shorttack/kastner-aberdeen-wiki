@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Infor"
 years_active: "1971-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Geac Computer Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- geac_abandoned_smartstream_manufacturing — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
+- geac_abandoned_smartstream_manufacturing `[ps=4]` — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]

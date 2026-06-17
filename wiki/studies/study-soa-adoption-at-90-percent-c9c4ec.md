@@ -3,7 +3,7 @@ title: "SOA Adoption at 90 Percent?!"
 slug: "study-soa-adoption-at-90-percent-c9c4ec"
 page_type: "study"
 tags: ["type/study", "collection/editorial"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "soa-adoption-at-90-percent-c9c4ec"
 author: "SYS-CON Media editorial (anonymous)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.29
+prescience_obs_count: 7
 ---
 
 # SOA Adoption at 90 Percent?!
@@ -32,11 +32,11 @@ _Published 2006, author **SYS-CON Media editorial (anonymous)**, type **editoria
 
 ## Top observations
 
-- Nine of every 10 companies are adopting or have adopted service-oriented architectures and will exit 2006 with SOA planning, design, and programming experience.
-- Redesigning business processes, high IT integration costs, and customization challenges are eating up 40% of the IT budget in integration expenditures.
-- SOA is broadly seen as a real technology step forward, with the largest companies, who have the biggest integration problems, leading the way.
-- SOA 'light' — based on open-source programs and industry standards, best suited for small companies, lightweight integration, and simple web services such as employee self-service.
+- Redesigning business processes, high IT integration costs, and customization challenges are eating up 40% of the IT budget in integration expenditures. `[ps=4]`
+- SOA is broadly seen as a real technology step forward, with the largest companies, who have the biggest integration problems, leading the way. `[ps=4]`
+- By 2015-2020, SOA and ESBs were largely displaced by REST microservices, cloud-native API gateways (AWS API Gateway, Kong, Apigee), and iPaaS (MuleSoft, Boomi, Workato) — though integration still consumed a sizeable portion of IT budgets, validating the underlying Kastner thesis that integration is structurally expensive. `[ps=4]`
+- Multiple industry surveys (Salesforce MuleSoft State of Integration, Gartner, IDC) show integration consuming 25-40% of IT spend through 2023 — Kastner's 40% figure remained durable as the approximate integration-tax on enterprise IT. `[ps=4]`
+- SOA 'light' — based on open-source programs and industry standards, best suited for small companies, lightweight integration, and simple web services such as employee self-service. `[ps=3]`
+- SOA ERP — an approach that offers mid-size and some large companies an entry to SOA via extensions to enterprise-resource-planning application software. `[ps=3]`
+- Nine of every 10 companies are adopting or have adopted service-oriented architectures and will exit 2006 with SOA planning, design, and programming experience. `[ps=1]`
 - Enterprise SOA — a suite of middleware for mission-critical and complex installations, best suited for mid-to-large companies.
-- SOA ERP — an approach that offers mid-size and some large companies an entry to SOA via extensions to enterprise-resource-planning application software.
-- By 2015-2020, SOA and ESBs were largely displaced by REST microservices, cloud-native API gateways (AWS API Gateway, Kong, Apigee), and iPaaS (MuleSoft, Boomi, Workato) — though integration still consumed a sizeable portion of IT budgets, validating the underlying Kastner thesis that integration is structurally expensive.
-- Multiple industry surveys (Salesforce MuleSoft State of Integration, Gartner, IDC) show integration consuming 25-40% of IT spend through 2023 — Kastner's 40% figure remained durable as the approximate integration-tax on enterprise IT.

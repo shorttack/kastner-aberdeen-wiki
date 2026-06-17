@@ -12,9 +12,9 @@ era: "1988-present"
 lifecycle_at_study: "early-commercial"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Digital Subscriber Line (DSL/xDSL)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Cable facing challenge from telcos offering similar shared gateway services — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Cable facing challenge from telcos offering similar shared gateway services `[ps=4]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]

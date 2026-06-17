@@ -12,9 +12,9 @@ era: "1984-late-1980s"
 lifecycle_at_study: "current-1987"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Motorola 68020 16 MHz CPU
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- XA 2000 delivered dramatic performance gains while preserving lockstep fault-tolerant architecture using Motorola 68020 processors. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
-- Stratus eventually transitioned from proprietary Motorola chips to Intel architectures, maintaining lockstep edge as commodity hardware improved. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- Stratus eventually transitioned from proprietary Motorola chips to Intel architectures, maintaining lockstep edge as commodity hardware improved. `[ps=4]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- XA 2000 delivered dramatic performance gains while preserving lockstep fault-tolerant architecture using Motorola 68020 processors. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]

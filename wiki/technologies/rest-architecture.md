@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # REST (Representational State Transfer)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- By 2008-2010, REST APIs and lightweight service approaches displaced heavyweight SOAP-based SOA while preserving architectural principles of loose coupling. — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- By 2008-2010, REST APIs and lightweight service approaches displaced heavyweight SOAP-based SOA while preserving architectural principles of loose coupling. `[ps=4]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]

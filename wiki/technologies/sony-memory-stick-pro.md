@@ -12,9 +12,9 @@ era: "2003"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'legacy-unsupported', 'notes': 'Sony Memory Stick Pro (1GB) is a legacy format. Sony began including SD card slots around 2010 as it conceded the format war. Memory Stick Pro as a format is no longer developed or marketed for new products. Sony recently exited most of its memory card business (2026 announcement regarding shutdown due to SSD shortage impacting operations).', 'source': 'https://en.wikipedia.org/wiki/Memory_Stick'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sony Memory Stick Pro (1GB)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $1,359 (Clie $599 + 1GB Memory Stick Pro $500 + accessory $260) — [[study-dct-oct.-4-hot-topic-b61c0d]]
+- $1,359 (Clie $599 + 1GB Memory Stick Pro $500 + accessory $260) `[ps=0]` — [[study-dct-oct.-4-hot-topic-b61c0d]]

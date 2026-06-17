@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # China PC Market
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- The People's Republic of China is the world's second largest consumer of PCs, and it's almost certainly headed for a recession because of the SARS epidemic — [[study-internetnews-will-sars-infect-high-tech--8569ea]]
+- The People's Republic of China is the world's second largest consumer of PCs, and it's almost certainly headed for a recession because of the SARS epidemic `[ps=1]` — [[study-internetnews-will-sars-infect-high-tech--8569ea]]

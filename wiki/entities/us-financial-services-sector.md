@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # U.S. Financial Services Sector
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Highest of all verticals — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]
+- Highest of all verticals `[ps=0]` — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]
 - Financial services sector leads all verticals in IT spending intensity and adoption of new technologies — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]

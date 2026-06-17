@@ -3,7 +3,7 @@ title: "Multiclient Study: Is Linux Already a Viable Alternative OS for Small Bu
 slug: "study-linuxsme99-574d39"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "linuxsme99-574d39"
 author: "Peter S. Kastner / Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.69
+prescience_obs_count: 16
 ---
 
 # Multiclient Study: Is Linux Already a Viable Alternative OS for Small Business?
@@ -32,23 +32,23 @@ _Published 1999, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 
 ## Top observations
 
+- Viable alternative in cost-effective reliable solutions `[ps=4]`
+- Likely front-runner for e-commerce solutions for small businesses `[ps=4]`
+- Estimated 50 million businesses globally `[ps=3]`
+- unknown `[ps=0]`
+- $20M to $100M annual revenue `[ps=0]`
+- 25 on-site interviews planned `[ps=0]`
+- 400 telephone interviews planned `[ps=0]`
+- $28,000 `[ps=0]`
+- $20,000 `[ps=0]`
+- $10,000 `[ps=0]`
+- unknown `[ps=0]`
+- Aberdeen reserves right to cancel if insufficient sponsor interest by Oct 1 1999 `[ps=0]`
+- Findings proprietary to subscribers for 3 months after completion `[ps=0]`
+- Well positioned after early-1999 G2500 Linux adoption study; now pursuing SMB `[ps=0]`
+- January 31, 2000 `[ps=0]`
+- Over 45 research analysts `[ps=0]`
 - Emerging; small business segment seen as early adopter alongside large enterprises
-- Viable alternative in cost-effective reliable solutions
-- unknown
-- Estimated 50 million businesses globally
-- $20M to $100M annual revenue
-- 25 on-site interviews planned
-- 400 telephone interviews planned
-- $28,000
-- $20,000
-- $10,000
 - IBM included Linux as alternative OS on small business website
-- Likely front-runner for e-commerce solutions for small businesses
-- unknown
-- Aberdeen reserves right to cancel if insufficient sponsor interest by Oct 1 1999
-- Findings proprietary to subscribers for 3 months after completion
-- Well positioned after early-1999 G2500 Linux adoption study; now pursuing SMB
-- January 31, 2000
-- Over 45 research analysts
 - Buyers will not care about underlying OS if solution is cost-effective and reliable
 - unknown

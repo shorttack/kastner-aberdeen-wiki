@@ -12,9 +12,9 @@ era: "1980s-1990s"
 lifecycle_at_study: "current-1982"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # StrataLINK Inter-Module High-Speed Coaxial Link
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dual link 2.8 MB/sec; single link 1.4 MB/sec — [[study-mini-micro-stratus-32-arch-freiburghouse-6dc03e]]
+- Dual link 2.8 MB/sec; single link 1.4 MB/sec `[ps=0]` — [[study-mini-micro-stratus-32-arch-freiburghouse-6dc03e]]

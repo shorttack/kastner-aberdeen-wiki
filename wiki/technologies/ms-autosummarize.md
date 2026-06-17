@@ -12,9 +12,9 @@ era: "1997-2010"
 lifecycle_at_study: "mature"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Microsoft Word AutoSummarize
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 5 — [[study-2026-kastner-enterprise-ai-arc]]
-- 25 — [[study-2026-kastner-enterprise-ai-arc]]
+- 5 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 25 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]

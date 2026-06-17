@@ -12,9 +12,9 @@ era: "1992-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Multidimensional Database (MDDB)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Proprietary multidimensional database technologies optimize for domain-specific queries but create proprietary lock-in; RDBMS preferred for enterprise integration — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
+- Proprietary multidimensional database technologies optimize for domain-specific queries but create proprietary lock-in; RDBMS preferred for enterprise integration `[ps=5]` — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]

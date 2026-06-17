@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 109] intentionally omitted <=="
+title: "Dtp 2005 Research Agenda 012705A (Aberdeen, 2005)"
 slug: "study-dtp-2005-research-agenda-012705a-8d9c59"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 2.6
 prescience_obs_count: 5
 ---
 
-# ==> picture [441 x 109] intentionally omitted <==
+# Dtp 2005 Research Agenda 012705A (Aberdeen, 2005)
 
-> This study analyzes ==> picture [441 x 109] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study dtp-2005-research-agenda-012705a-8d9c59. Source: dtp-2005_research_agenda_012705a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Research Agenda**, type **benchmark**._

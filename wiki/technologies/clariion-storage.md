@@ -12,9 +12,9 @@ era: "1992-2012"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # CLARiiON Storage Subsystem
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Fault-tolerant high-availability storage for UNIX and NT — [[study-aberdeen-1996-data-general-corporation]]
-- CLARiiON integration provides great HA features — [[study-aberdeen-1996-data-general-corporation]]
+- Fault-tolerant high-availability storage for UNIX and NT `[ps=4]` — [[study-aberdeen-1996-data-general-corporation]]
+- CLARiiON integration provides great HA features `[ps=4]` — [[study-aberdeen-1996-data-general-corporation]]

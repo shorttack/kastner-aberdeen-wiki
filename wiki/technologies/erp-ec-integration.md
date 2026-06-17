@@ -12,9 +12,9 @@ era: "1997-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # ERP/Electronic Commerce Integration
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Trading partner full systems integration as advanced EC capability — [[study-dollars-and-sense-b2b-ec-eb8c9d]]
-- Most ERP suppliers have launched significant EC initiatives reflecting different technical and business models — [[study-dollars-and-sense-b2b-ec-eb8c9d]]
+- Trading partner full systems integration as advanced EC capability `[ps=4]` — [[study-dollars-and-sense-b2b-ec-eb8c9d]]
+- Most ERP suppliers have launched significant EC initiatives reflecting different technical and business models `[ps=4]` — [[study-dollars-and-sense-b2b-ec-eb8c9d]]

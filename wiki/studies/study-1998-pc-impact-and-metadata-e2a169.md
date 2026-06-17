@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 31
 ---
 
 # Don't Fall for the Siren-Song Price of Under-powered Desktop PCs
@@ -32,28 +32,28 @@ _Published 1998, author **Peter S. Kastner**, type **impact-brief**._
 
 ## Top observations
 
-- 450
-- increasing
-- true
-- 150
-- 32
-- 2000
-- acceptable
-- just-adequate
-- 60
-- 64
-- 3-5
-- 2000
-- 1999
-- 1999
-- 400
-- 128
-- 17
-- 1800-2000
-- decreasing
-- 300
-- 32
-- 1000
-- Win95-OSR2/Win98;TCP/IP;NetBEUI;Office97;IE4;Outlook98;SNMP;antivirus
-- increasing
-- tidal-wave
+- 450 `[ps=0]`
+- increasing `[ps=0]`
+- true `[ps=0]`
+- 32 `[ps=0]`
+- 2000 `[ps=0]`
+- acceptable `[ps=0]`
+- just-adequate `[ps=0]`
+- 64 `[ps=0]`
+- 3-5 `[ps=0]`
+- 2000 `[ps=0]`
+- 1999 `[ps=0]`
+- 1999 `[ps=0]`
+- 400 `[ps=0]`
+- 128 `[ps=0]`
+- 1800-2000 `[ps=0]`
+- 300 `[ps=0]`
+- 32 `[ps=0]`
+- 1000 `[ps=0]`
+- increasing `[ps=0]`
+- increasing `[ps=0]`
+- increasing `[ps=0]`
+- active-budget-line `[ps=0]`
+- obsolete `[ps=0]`
+- acquired `[ps=0]`
+- validated `[ps=0]`

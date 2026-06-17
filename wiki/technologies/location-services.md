@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Location-based services
@@ -22,4 +22,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Location — [[study-dct-segment-priorities-matrix-2003]]
+- Location `[ps=0]` — [[study-dct-segment-priorities-matrix-2003]]

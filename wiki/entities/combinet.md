@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Acquired by Cisco in August 1995 for $114.2M"
 years_active: "1991-1995"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Combinet, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Cisco acquired Combinet in August 1995; spawned 750 ISDN series for SOHO and home — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]
+- Cisco acquired Combinet in August 1995; spawned 750 ISDN series for SOHO and home `[ps=2]` — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]

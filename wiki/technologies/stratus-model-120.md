@@ -12,9 +12,9 @@ era: "1980s"
 lifecycle_at_study: "production-shipping"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Stratus Model 120
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- less-than-8.5 — [[study-dec-primer-comparing-debit-credit-tests--c30cfa]]
-- 15-17 — [[study-dec-primer-comparing-debit-credit-tests--c30cfa]]
+- less-than-8.5 `[ps=0]` — [[study-dec-primer-comparing-debit-credit-tests--c30cfa]]
+- 15-17 `[ps=0]` — [[study-dec-primer-comparing-debit-credit-tests--c30cfa]]

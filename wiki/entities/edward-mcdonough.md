@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1980s-1994"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Edward McDonough
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Edward McDonough (DEC manufacturing VP) — DEC said this was a planned retirement — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]
+- Edward McDonough (DEC manufacturing VP) — DEC said this was a planned retirement `[ps=0]` — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]

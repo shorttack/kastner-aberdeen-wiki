@@ -12,9 +12,9 @@ era: "1996-2004"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sun UltraEnterprise 6000
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1,800 users; 20-way UltraSPARC 167MHz SMP; 5,632 MB RAM; Oracle7; 9x8-way application servers — [[study-sap-r-3-on-wintel-servers-712986]]
+- 1,800 users; 20-way UltraSPARC 167MHz SMP; 5,632 MB RAM; Oracle7; 9x8-way application servers `[ps=0]` — [[study-sap-r-3-on-wintel-servers-712986]]

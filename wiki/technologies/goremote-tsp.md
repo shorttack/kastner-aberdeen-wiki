@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'GoRemote Total Security Protection (TSP) was a GoRemote Communications product, discontinued following the iPass acquisition of GoRemote in early 2006. The brand and product were absorbed into iPass and no longer exist.', 'source': 'https://www.rcrwireless.com/20051212/archived-articles/ipass-to-purchase-rival-goremote-for-76-5m'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # GoRemote Total Security Protection (TSP)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Policy mgmt/enforcement; adaptive location-based protection; automatic remediation; firewall + IDS; VPN endpoint check at each login — [[study-goremote-profile-5-2a-8fa814]]
+- Policy mgmt/enforcement; adaptive location-based protection; automatic remediation; firewall + IDS; VPN endpoint check at each login `[ps=4]` — [[study-goremote-profile-5-2a-8fa814]]

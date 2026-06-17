@@ -12,9 +12,9 @@ era: "2004"
 lifecycle_at_study: "active"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Dell PowerVault Tape Products
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dell standardizes tape automation on DLT derivatives and LTO derivatives; PowerVault 160T uses LTO-2 exclusively; future emphasis on LTO — [[study-dell-storage-profile-2004]]
+- Dell standardizes tape automation on DLT derivatives and LTO derivatives; PowerVault 160T uses LTO-2 exclusively; future emphasis on LTO `[ps=4]` — [[study-dell-storage-profile-2004]]

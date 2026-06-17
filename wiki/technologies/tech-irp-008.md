@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "Active"
 lifecycle_current: "Evolved into SaaS ERP"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Enterprise Business Applications (EBA)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- All enterprise app suppliers will remake products with IRP architecture — [[study-1997-infinite-resource-planning-wp-893815]]
+- All enterprise app suppliers will remake products with IRP architecture `[ps=2]` — [[study-1997-infinite-resource-planning-wp-893815]]
 - Confirmed: SAP NetWeaver/ESA (2003) and Salesforce (1999) represented architectural remake of EBA — [[study-1997-infinite-resource-planning-wp-893815]]

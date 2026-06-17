@@ -12,9 +12,9 @@ era: "2000"
 lifecycle_at_study: "launched"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # Aberdeen Enterprise Applications and Services (EAS) Practice
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Lead member of EAS practice team — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- Authored four-segment Professional Services taxonomy — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- push to Internet Application Architectures; continued Integration of Enterprise Application Backbones; moving from Supply Chain Planning to Supply Chain Execution; impacts of ASPs on Application Supplier Business Models and Distribution Strategies — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- push to Internet Application Architectures; continued Integration of Enterprise Application Backbones; moving from Supply Chain Planning to Supply Chain Execution; impacts of ASPs on Application Supplier Business Models and Distribution Strategies `[ps=4]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- Lead member of EAS practice team `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- Authored four-segment Professional Services taxonomy `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]

@@ -12,9 +12,9 @@ era: "1983-late-1980s"
 lifecycle_at_study: "current-1985"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Tandem TXP System
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- $33.7K / $39.2K / $58K / $80.6K per tps for V.2 / V.5 / V.6 new / V.6 old `[ps=0]` — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]
 - 7.2-9.6 tps/CPU on 4-processor TXP; V.2 9.56 tps; V.5 7.60 tps; V.6 new 4.70 tps; V.6 old 3.17 tps — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]
-- $33.7K / $39.2K / $58K / $80.6K per tps for V.2 / V.5 / V.6 new / V.6 old — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]
 - 16-CPU TXP can do 100 tps; 10-system FOX network can do 'magic 1000 tps' — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]

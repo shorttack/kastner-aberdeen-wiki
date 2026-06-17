@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "SBC Communications -> AT&T"
 years_active: "1983-1999"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Ameritech Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Solidly positioned for regional enterprise needs; leverages IBM for data; focuses on voice core — [[study-teleco~1-c01702]]
+- Solidly positioned for regional enterprise needs; leverages IBM for data; focuses on voice core `[ps=0]` — [[study-teleco~1-c01702]]

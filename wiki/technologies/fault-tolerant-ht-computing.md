@@ -12,9 +12,9 @@ era: "1980-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "superseded-by-vm-ha"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Fault-Tolerant / High-Availability Computing
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Joint Kastner+Kernochan view: fault-tolerant NT — the application segment requiring standards-based Assured Availability — is an emerging market category — [[study-marathon-technologies-demonstrates-99-99-99a38e]]
+- Joint Kastner+Kernochan view: fault-tolerant NT — the application segment requiring standards-based Assured Availability — is an emerging market category `[ps=3]` — [[study-marathon-technologies-demonstrates-99-99-99a38e]]

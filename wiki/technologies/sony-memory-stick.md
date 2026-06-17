@@ -12,9 +12,9 @@ era: "1998-2006"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Sony Memory Stick is discontinued. Known answer applied.', 'source': 'known'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Sony Memory Stick
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sony officially discontinued Memory Stick production for cameras in 2013-2014; the format has been fully supplanted globally by SD/microSD. — [[study-sd-cards-overtake-memory-stick-12-may-20-81d89c]]
+- Sony officially discontinued Memory Stick production for cameras in 2013-2014; the format has been fully supplanted globally by SD/microSD. `[ps=4]` — [[study-sd-cards-overtake-memory-stick-12-may-20-81d89c]]

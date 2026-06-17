@@ -3,7 +3,7 @@ title: "The Fault Tolerant Revolution — Stratus/32 launch advertisement"
 slug: "study-stratus-fault-tolerant-revolution-ad-198-797e0e"
 page_type: "study"
 tags: ["type/study", "collection/marketing-material"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "stratus-fault-tolerant-revolution-ad-198-797e0e"
 author: "Stratus Computer, Inc. (marketing; Peter S. Kastner era)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.11
+prescience_obs_count: 9
 ---
 
 # The Fault Tolerant Revolution — Stratus/32 launch advertisement
@@ -32,13 +32,13 @@ _Published 1981, author **Stratus Computer, Inc. (marketing; Peter S. Kastner er
 
 ## Top observations
 
-- Ad asserts hardware-component cost trajectory continues downward while software/people costs rise
-- Software FT 'robs' system resources via checkpointing at 4 levels (OS, user, file, terminal); hardware FT eliminates this burden
+- Ad asserts hardware-component cost trajectory continues downward while software/people costs rise `[ps=5]`
+- Analyst/programmer works with two computer systems; risk of checkpointing too often destroying performance `[ps=4]`
+- 1 to 32 Processing Modules per local system; hot-add while processing `[ps=3]`
+- 3 benefits: (1) prevent fault contamination, (2) eliminate complex recovery software, (3) reduce repair time via failed-component pinpointing `[ps=3]`
+- Software FT 'robs' system resources via checkpointing at 4 levels (OS, user, file, terminal); hardware FT eliminates this burden `[ps=2]`
+- VOS with DMS, CRT command language, COBOL, Basic, PL/1, X.25 networking, IBM communications, full-screen editor, symbolic debugger, word processing `[ps=2]`
+- 17 Strathmore Road, Natick MA 01760; HQ marketing 617-653-1466 ext. 32 `[ps=0]`
+- Ad dates to Kastner's Stratus Computer marketing tenure (early 1980s) `[ps=0]`
+- Ad appears in Computerworld — the dominant IT trade weekly in 1981 `[ps=0]`
 - $130,000 fully-duplexed, 2MB memory, peripherals, and software included
-- 1 to 32 Processing Modules per local system; hot-add while processing
-- VOS with DMS, CRT command language, COBOL, Basic, PL/1, X.25 networking, IBM communications, full-screen editor, symbolic debugger, word processing
-- Analyst/programmer works with two computer systems; risk of checkpointing too often destroying performance
-- 3 benefits: (1) prevent fault contamination, (2) eliminate complex recovery software, (3) reduce repair time via failed-component pinpointing
-- 17 Strathmore Road, Natick MA 01760; HQ marketing 617-653-1466 ext. 32
-- Ad dates to Kastner's Stratus Computer marketing tenure (early 1980s)
-- Ad appears in Computerworld — the dominant IT trade weekly in 1981

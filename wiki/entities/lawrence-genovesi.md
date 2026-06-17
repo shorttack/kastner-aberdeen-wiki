@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Lawrence Genovesi
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- President Powerstation Technologies Inc. — [[study-boston-globe-mit-enterprise-forum-kastne-2a3462]]
+- President Powerstation Technologies Inc. `[ps=0]` — [[study-boston-globe-mit-enterprise-forum-kastne-2a3462]]

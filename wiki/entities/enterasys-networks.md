@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Extreme Networks"
 years_active: "2001-2013"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Enterasys Networks
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enterasys (Cabletron successor) acquired by Extreme Networks for $180M (2013) — a modest outcome for what was once a $1B+ company — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]
+- Enterasys (Cabletron successor) acquired by Extreme Networks for $180M (2013) — a modest outcome for what was once a $1B+ company `[ps=0]` — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]

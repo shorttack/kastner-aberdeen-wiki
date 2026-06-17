@@ -12,9 +12,9 @@ era: "1987-1994"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # DECwindows
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Common user interface + common programming interface + X Windows industry standard + quick delivery — four-part workstation software strategy — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- Common user interface + common programming interface + X Windows industry standard + quick delivery — four-part workstation software strategy `[ps=3]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
 - Over 50 internal software projects implementing DECwindows applications; hundreds of active users; training hundreds of external developers — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]

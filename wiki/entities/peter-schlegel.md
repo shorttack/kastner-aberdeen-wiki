@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1979-1981"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Peter Schlegel
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Ran Market Planning at Prime; was the brother of an ADL colleague; recruited Kastner and gave him commercial vertical markets, alongside Steve Franson. — [[study-volume-1-ch04-prime-computer-1979-1981]]
-- By Christmas 1979, Schlegel was given the job of launching Prime Office (office automation) and moved to product planning. — [[study-volume-1-ch04-prime-computer-1979-1981]]
-- Schlegel delivered Prime Office running on a Model 750 to the White House as the first office automation system at federal executive level. — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Ran Market Planning at Prime; was the brother of an ADL colleague; recruited Kastner and gave him commercial vertical markets, alongside Steve Franson. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- By Christmas 1979, Schlegel was given the job of launching Prime Office (office automation) and moved to product planning. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Schlegel delivered Prime Office running on a Model 750 to the White House as the first office automation system at federal executive level. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]

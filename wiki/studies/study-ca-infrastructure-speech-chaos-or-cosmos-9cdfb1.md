@@ -3,7 +3,7 @@ title: "IT Infrastructure: Are We Building Chaos or Cosmos? (CA-sponsored infras
 slug: "study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ca-infrastructure-speech-chaos-or-cosmos-9cdfb1"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.89
+prescience_obs_count: 9
 ---
 
 # IT Infrastructure: Are We Building Chaos or Cosmos? (CA-sponsored infrastructure keynote, 1998)
@@ -32,14 +32,14 @@ _Published 1998, author **Peter S. Kastner**, type **employer-record**._
 
 ## Top observations
 
+- CEO views 15% new-apps as incremental change and business driver; CFO and CIO view 85% ongoing-ops as area to be closely managed and controlled. `[ps=5]`
+- Fragmented-infrastructure-vs-consolidate tension is a recurring enterprise IT-strategy theme, not a 1998-specific concern. `[ps=5]`
+- Data warehouse identified as a specific infrastructure component warranting architectural attention. `[ps=5]`
+- ~85% of IS spending goes to ongoing operations; ~15% to new application acquisitions. `[ps=4]`
+- Fragmented piecemeal infrastructure = 'chaos'; consolidated architectural program = 'cosmos'. Kastner argues for cosmos. `[ps=4]`
+- The ~85/15 ongoing-ops-vs-new-apps ratio is stable over time and will continue to characterize enterprise IT spending. `[ps=4]`
+- The 85/15 (or nearby 80/20) ongoing-ops-vs-new-apps ratio has held up remarkably well across decades (confirmed by subsequent Gartner, IDC, and Aberdeen data through the 2000s-2010s). Kastner prediction verified. `[ps=4]`
+- The chaos-vs-cosmos framing re-emerged in multiple subsequent cycles: cloud-service sprawl (2015-2020), SaaS sprawl (2018-2024), and AI-tool sprawl (2024-present). Prediction verified as a structural recurrence. `[ps=4]`
+- CA sponsored distribution of this Kastner infrastructure speech; consistent with the CA-Aberdeen retainer-era analyst-relations practice. `[ps=0]`
 - US enterprises spend ~3% of revenue or value-added on IS (information systems).
-- ~85% of IS spending goes to ongoing operations; ~15% to new application acquisitions.
-- CEO views 15% new-apps as incremental change and business driver; CFO and CIO view 85% ongoing-ops as area to be closely managed and controlled.
 - Increase customer satisfaction; empower fewer users; increase line access to data; increase operational flexibility; shorten application-development cycle time.
-- Fragmented piecemeal infrastructure = 'chaos'; consolidated architectural program = 'cosmos'. Kastner argues for cosmos.
-- The ~85/15 ongoing-ops-vs-new-apps ratio is stable over time and will continue to characterize enterprise IT spending.
-- The 85/15 (or nearby 80/20) ongoing-ops-vs-new-apps ratio has held up remarkably well across decades (confirmed by subsequent Gartner, IDC, and Aberdeen data through the 2000s-2010s). Kastner prediction verified.
-- Fragmented-infrastructure-vs-consolidate tension is a recurring enterprise IT-strategy theme, not a 1998-specific concern.
-- The chaos-vs-cosmos framing re-emerged in multiple subsequent cycles: cloud-service sprawl (2015-2020), SaaS sprawl (2018-2024), and AI-tool sprawl (2024-present). Prediction verified as a structural recurrence.
-- CA sponsored distribution of this Kastner infrastructure speech; consistent with the CA-Aberdeen retainer-era analyst-relations practice.
-- Data warehouse identified as a specific infrastructure component warranting architectural attention.

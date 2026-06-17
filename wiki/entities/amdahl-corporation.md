@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Fujitsu Limited (1997)"
 years_active: "1970-1997"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Amdahl Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Amdahl is NT/mainframe integration specialist not just mainframe maker; EnVista line with ESCON channel for mainframe connectivity — [[study-ntpspr~1-728dc3]]
+- Amdahl is NT/mainframe integration specialist not just mainframe maker; EnVista line with ESCON channel for mainframe connectivity `[ps=2]` — [[study-ntpspr~1-728dc3]]

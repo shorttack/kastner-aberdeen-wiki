@@ -12,9 +12,9 @@ era: "1980s-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "shipping"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Object-oriented technology (general)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Object technology becomes a requirement 3-5 years out — [[study-aberdeen-megatrends-mfa-cs-mis-1993-05-98fc87]]
-- Interoperability of heterogeneous applications / End-user ease & expertise / Multi-user LAN applications — [[study-aberdeen-trends-90s-logan-1991-648c68]]
+- Object technology becomes a requirement 3-5 years out `[ps=4]` — [[study-aberdeen-megatrends-mfa-cs-mis-1993-05-98fc87]]
+- Interoperability of heterogeneous applications / End-user ease & expertise / Multi-user LAN applications `[ps=4]` — [[study-aberdeen-trends-90s-logan-1991-648c68]]

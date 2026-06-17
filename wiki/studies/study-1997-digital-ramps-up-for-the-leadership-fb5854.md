@@ -3,7 +3,7 @@ title: "Digital Ramps Up For The Leadership Role in High Performance Technical C
 slug: "study-1997-digital-ramps-up-for-the-leadership-fb5854"
 page_type: "study"
 tags: ["type/study", "collection/Announcement Profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-digital-ramps-up-for-the-leadership-fb5854"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.08
+prescience_obs_count: 24
 ---
 
 # Digital Ramps Up For The Leadership Role in High Performance Technical Computing
@@ -32,28 +32,28 @@ _Published 1997, author **Aberdeen Group**, type **Announcement Profile**._
 
 ## Top observations
 
+- Compaq phased out Alpha in favor of Intel Itanium; sold Alpha IP to Intel in 2001. Last Alpha system sold by HP in April 2007. `[ps=5]`
+- Linux-based x86 Beowulf clusters dramatically disrupted proprietary RISC HPTC (High Performance Technical Computing) by early 2000s. Aberdeen did not foresee this 1997, but the x86 Linux cluster disruption was real and substantial. `[ps=5]`
+- Very Large Memory (VLM) support beyond 2GB `[ps=4]`
+- Not investing in Convex HPTC; too small a portion of HP `[ps=4]`
+- Uncertain long-term commitment to HPTC `[ps=4]`
+- EDA, MCAD, geoscience, energy, financial services, biosciences, entertainment `[ps=4]`
+- NT workstation expansion driving need for Unix compute backend `[ps=4]`
+- SGI filed Chapter 11 in May 2006 and again in April 2009 (Chapter 7/liquidation). Assets acquired by Rackable Systems (which renamed itself SGI). Aberdeen's criticism of SGI's NT transition proved accurate. `[ps=4]`
+- Aberdeen's prediction that HP was not investing in Convex HPTC proved accurate. HP focused on mainstream ProLiant servers; Convex architecture was effectively abandoned. `[ps=4]`
+- 32-bit MPP; overly expensive for typical HPTC; slow-to-market in 64-bit Unix `[ps=3]`
+- Lack of NT transition commitment differentiates from Digital `[ps=2]`
+- HPTC customers demand both Unix and NT options `[ps=2]`
+- Four quadrant coverage: Unix/NT x workstation/server `[ps=2]`
+- Digital #1; SGI #2; IBM #3; HP/Convex and Sun secondary `[ps=1]`
+- Well-positioned for additional market share gains over next several years `[ps=1]`
+- SGI's lack of NT commitment gives Digital sustained competitive edge `[ps=1]`
+- $10,000 `[ps=0]`
+- 12 CPUs `[ps=0]`
+- Crossbar switch Memory Channel `[ps=0]`
+- 132 and 264 MB/sec PCI I/O `[ps=0]`
+- 5 primary criteria `[ps=0]`
+- Standalone HPTC group + Visual Computing Workstation group `[ps=0]`
+- Dual OS support on single Alpha hardware `[ps=0]`
+- Looking overly expensive and slow for typical production HPTC `[ps=0]`
 - Under 60 min vs 80+ min (Digital wins)
-- $10,000
-- 12 CPUs
-- Crossbar switch Memory Channel
-- Very Large Memory (VLM) support beyond 2GB
-- 132 and 264 MB/sec PCI I/O
-- Lack of NT transition commitment differentiates from Digital
-- 32-bit MPP; overly expensive for typical HPTC; slow-to-market in 64-bit Unix
-- Not investing in Convex HPTC; too small a portion of HP
-- Uncertain long-term commitment to HPTC
-- 5 primary criteria
-- HPTC customers demand both Unix and NT options
-- EDA, MCAD, geoscience, energy, financial services, biosciences, entertainment
-- NT workstation expansion driving need for Unix compute backend
-- Standalone HPTC group + Visual Computing Workstation group
-- Four quadrant coverage: Unix/NT x workstation/server
-- Dual OS support on single Alpha hardware
-- Digital #1; SGI #2; IBM #3; HP/Convex and Sun secondary
-- Well-positioned for additional market share gains over next several years
-- Looking overly expensive and slow for typical production HPTC
-- SGI's lack of NT commitment gives Digital sustained competitive edge
-- Increasing Alpha clockrates will win more industry-standard benchmarks
-- Compaq acquired DEC for $9.6 billion June 1998. HPTC (HP Technical Computing) group dissolved. Alpha continued under Compaq/HP until 2007.
-- Compaq phased out Alpha in favor of Intel Itanium; sold Alpha IP to Intel in 2001. Last Alpha system sold by HP in April 2007.
-- SGI filed Chapter 11 in May 2006 and again in April 2009 (Chapter 7/liquidation). Assets acquired by Rackable Systems (which renamed itself SGI). Aberdeen's criticism of SGI's NT transition proved accurate.

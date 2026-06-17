@@ -3,7 +3,7 @@ title: "Tech's Best Hope: Pockets of Prosperity"
 slug: "study-tech-s-best-hope-pockets-of-prosperity-2-17d6cf"
 page_type: "study"
 tags: ["type/study", "collection/feature-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "tech-s-best-hope-pockets-of-prosperity-2-17d6cf"
 author: "Alex Salkever, BusinessWeek Online"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 11
 ---
 
 # Tech's Best Hope: Pockets of Prosperity
@@ -32,15 +32,15 @@ _Published 2002, author **Alex Salkever, BusinessWeek Online**, type **feature-a
 
 ## Top observations
 
+- Aberdeen projects software revenues climbing from $93.7 billion (2001) to $100 billion (2002), a 6.7% increase — fastest among major tech segments. `[ps=5]`
+- Nortel Networks filed for bankruptcy Jan 14 2009 — the culmination of the telecom 'nuclear winter' Kastner diagnosed in 2002; assets sold piecemeal to Ericsson (wireless), Ciena (Metro Ethernet), Avaya (enterprise), Genband. `[ps=5]`
+- Lucent Technologies merged with Alcatel Dec 1 2006 forming Alcatel-Lucent — Nokia acquired the combined entity in 2016 for €15.6B. `[ps=5]`
+- Oracle completed its $10.3B hostile takeover of PeopleSoft on Jan 7 2005 after an 18-month battle — one of many 2005-2006 enterprise-software consolidations. `[ps=5]`
+- [Telecom-equipment suppliers like Lucent, Nortel, Cisco] remain far from optimistic. It's an industry in nuclear winter. `[ps=4]`
+- Aberdeen projects hardware revenues growing only from $178.4 billion (2001) to $181.4 billion (2002), a 1.7% increase — slowest among major tech segments. `[ps=4]`
+- Dell keeps two hours of inventory. Therefore, if Dell's supplier's supplier has a plant fire, you want to know about that, because this could back up the assembly line tomorrow. `[ps=4]`
+- Aberdeen projects IT services revenues growing from $173.9 billion (2001) to $183.7 billion (2002), a 5.6% increase. `[ps=3]`
+- Kastner observes big systems integrators like IBM and EDS enjoy growing backlogs of work for ERP/CRM installations (PeopleSoft, SAP, Siebel). `[ps=3]`
+- Mar 11 Merrill Lynch survey of 100 chief information officers at major companies found them shifting their expectations of a tech-spending recovery out of 2002 and into early 2003. `[ps=3]`
+- Oracle acquired Siebel Systems for $5.85B on Jan 31 2006 — consolidating the Kastner-era CRM-integration backlog business into Oracle Fusion Applications. `[ps=3]`
 - Aberdeen projects total tech-sector revenues (hardware, software, IT services, excluding heavy telecom) will grow from $446.1 billion (2001) to $465.3 billion (2002), a 4.3% increase.
-- [Telecom-equipment suppliers like Lucent, Nortel, Cisco] remain far from optimistic. It's an industry in nuclear winter.
-- Aberdeen projects IT services revenues growing from $173.9 billion (2001) to $183.7 billion (2002), a 5.6% increase.
-- Aberdeen projects software revenues climbing from $93.7 billion (2001) to $100 billion (2002), a 6.7% increase — fastest among major tech segments.
-- Aberdeen projects hardware revenues growing only from $178.4 billion (2001) to $181.4 billion (2002), a 1.7% increase — slowest among major tech segments.
-- Dell keeps two hours of inventory. Therefore, if Dell's supplier's supplier has a plant fire, you want to know about that, because this could back up the assembly line tomorrow.
-- Kastner observes big systems integrators like IBM and EDS enjoy growing backlogs of work for ERP/CRM installations (PeopleSoft, SAP, Siebel).
-- Mar 11 Merrill Lynch survey of 100 chief information officers at major companies found them shifting their expectations of a tech-spending recovery out of 2002 and into early 2003.
-- Nortel Networks filed for bankruptcy Jan 14 2009 — the culmination of the telecom 'nuclear winter' Kastner diagnosed in 2002; assets sold piecemeal to Ericsson (wireless), Ciena (Metro Ethernet), Avaya (enterprise), Genband.
-- Lucent Technologies merged with Alcatel Dec 1 2006 forming Alcatel-Lucent — Nokia acquired the combined entity in 2016 for €15.6B.
-- Oracle completed its $10.3B hostile takeover of PeopleSoft on Jan 7 2005 after an 18-month battle — one of many 2005-2006 enterprise-software consolidations.
-- Oracle acquired Siebel Systems for $5.85B on Jan 31 2006 — consolidating the Kastner-era CRM-integration backlog business into Oracle Fusion Applications.

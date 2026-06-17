@@ -3,7 +3,7 @@ title: "Aberdeen Workshop Qualifying Questions, Training Plan, and 2001 Customer
 slug: "study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001"
 author: "Aberdeen Group / Peter S. Kastner (program owner)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.08
+prescience_obs_count: 25
 ---
 
 # Aberdeen Workshop Qualifying Questions, Training Plan, and 2001 Customer Success Stories
@@ -32,28 +32,28 @@ _Published 2001, author **Aberdeen Group / Peter S. Kastner (program owner)**, t
 
 ## Top observations
 
-- $50,000
-- 2-day onsite engagement + 4-6 page findings report + 1-hour teleconference + 1-2 page future-engagement recommendations
-- Development planning and launch planning stages
-- Priced as 'just a half-percent of your total funding'
-- Target funding >$2M or pending Series B; alpha-stage development
-- Market Knowledge Workshop -> Positioning Strategy -> Messaging Strategy -> Strategy Validation (RAMP) -> Custom Research -> Retainer
-- Market overview, competitive analysis, market landscape segmentation, current company/product position, market trends, future strategy preparation
-- 'What is your 3-5 year vision on market evolution? Will the market be prey or predator?'
-- Top three competitors, niche competitors, differentiation, future competitors, top five functional strengths, recent wins/losses
-- Results from agency, agency alignment with marketing strategy, compelling written PR/Ad materials, results of latest ad campaign
-- Sales team aligned with market strategy; all customer-facing employees can give same elevator pitch
-- 'What is the perception in the market as to how you are positioned?' vs. 'Do you think your company has the capabilities to meet the market needs?'
-- Competitors' actions, differentiation from competitors, top five functional strengths, competitor weaknesses, five biggest market challenges, recent bid losses
-- Tier 1: company-wide 45-minute overview; Tier 2: research training per technology group; Tier 3: streaming-media vignettes follow-up
-- CEC, EBA, Network Services, Platforms
-- Tom Willmott and/or Practice Directors
-- Defined target market for component-based development; substantiated Go To Market, Product, and Professional Services strategies; secured partners and investors
-- Branding guidance separating products into foundation technology and turnkey XML enterprise platform suites; accelerated sales cycle
-- EDI/XML positioning for emerging market; ongoing assistance maintained through Vitria acquisition
-- Aberdeen due-diligence study confirmed VC firm's investment opinion
-- Aberdeen coined 'mixed-source messaging' concept; client led subsequent dramatic increase in mixed-source sales and went on to lead global mixed-source market
-- Defined tunneled bulk-email infrastructure niche; headed startup toward profitability
-- Advised Web-based and collaboration-market pivot for US market entry; client set up first US sales office
-- Advised packaging service components as voice-centric unified communications suite augmenting rather than replacing PBXes; first product debut fall 2000
-- Full go-to-market plan via field market research covering product concept, pricing, and channel partners
+- Tier 1: company-wide 45-minute overview; Tier 2: research training per technology group; Tier 3: streaming-media vignettes follow-up `[ps=4]`
+- Advised Web-based and collaboration-market pivot for US market entry; client set up first US sales office `[ps=4]`
+- Advised packaging service components as voice-centric unified communications suite augmenting rather than replacing PBXes; first product debut fall 2000 `[ps=4]`
+- Network Infrastructure and Security identified as the two primary practice areas for 2001 customer success portfolio `[ps=4]`
+- Sales team aligned with market strategy; all customer-facing employees can give same elevator pitch `[ps=3]`
+- Branding guidance separating products into foundation technology and turnkey XML enterprise platform suites; accelerated sales cycle `[ps=3]`
+- Full go-to-market plan via field market research covering product concept, pricing, and channel partners `[ps=3]`
+- Aberdeen coined 'mixed-source messaging' concept; client led subsequent dramatic increase in mixed-source sales and went on to lead global mixed-source market `[ps=2]`
+- $50,000 `[ps=0]`
+- 2-day onsite engagement + 4-6 page findings report + 1-hour teleconference + 1-2 page future-engagement recommendations `[ps=0]`
+- Development planning and launch planning stages `[ps=0]`
+- Priced as 'just a half-percent of your total funding' `[ps=0]`
+- Target funding >$2M or pending Series B; alpha-stage development `[ps=0]`
+- Market Knowledge Workshop -> Positioning Strategy -> Messaging Strategy -> Strategy Validation (RAMP) -> Custom Research -> Retainer `[ps=0]`
+- Market overview, competitive analysis, market landscape segmentation, current company/product position, market trends, future strategy preparation `[ps=0]`
+- 'What is your 3-5 year vision on market evolution? Will the market be prey or predator?' `[ps=0]`
+- Top three competitors, niche competitors, differentiation, future competitors, top five functional strengths, recent wins/losses `[ps=0]`
+- CEC, EBA, Network Services, Platforms `[ps=0]`
+- Defined target market for component-based development; substantiated Go To Market, Product, and Professional Services strategies; secured partners and investors `[ps=0]`
+- EDI/XML positioning for emerging market; ongoing assistance maintained through Vitria acquisition `[ps=0]`
+- Aberdeen due-diligence study confirmed VC firm's investment opinion `[ps=0]`
+- Field market research recommendations incorporated into product line; reversed declining sales trend; repositioned value proposition `[ps=0]`
+- Market research with targeted buyers; delivered critical findings on product offering, pricing, invoicing, partnerships, positioning, and messaging `[ps=0]`
+- Qualified and quantified PKI opportunity, what to avoid, which vertical markets to target, and how to best package offerings `[ps=0]`
+- Skeleton/placeholder document only; workshop in development; bullet-point structure present but content not yet drafted `[ps=0]`

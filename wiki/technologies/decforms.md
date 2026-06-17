@@ -12,9 +12,9 @@ era: "1988-1998"
 lifecycle_at_study: "growth"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # DECforms
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DECforms is first implementation of ANSI/ISO Forms Interface Management Systems standard (CODASYL FIMS) — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
+- DECforms is first implementation of ANSI/ISO Forms Interface Management Systems standard (CODASYL FIMS) `[ps=0]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]

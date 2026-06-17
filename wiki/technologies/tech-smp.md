@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Symmetric Multiprocessing (SMP)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- SMP support will be key to growing mission-critical deployments `[ps=4]` — [[study-aberdeen-1995-sun-microsystems-computer-company]]
 - workgroup (SPARCserver 4/5/20), departmental (1000E), enterprise (SPARCcenter 2000E) — [[study-aberdeen-1995-sun-microsystems-computer-company]]
-- SMP support will be key to growing mission-critical deployments — [[study-aberdeen-1995-sun-microsystems-computer-company]]

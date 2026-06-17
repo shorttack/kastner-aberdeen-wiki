@@ -12,9 +12,9 @@ era: "2014-present"
 lifecycle_at_study: "Not yet at study"
 lifecycle_current: "Current standard"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # SD-WAN (Software-Defined WAN)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- QoS became standard in enterprise networking through DSCP/DiffServ WFQ and MPLS QoS; SD-WAN (2014+) represents modern evolution of exactly the dynamic bandwidth allocation Aberdeen described — [[study-1997-managing-corporate-internet-access--ae26d9]]
+- QoS became standard in enterprise networking through DSCP/DiffServ WFQ and MPLS QoS; SD-WAN (2014+) represents modern evolution of exactly the dynamic bandwidth allocation Aberdeen described `[ps=4]` — [[study-1997-managing-corporate-internet-access--ae26d9]]

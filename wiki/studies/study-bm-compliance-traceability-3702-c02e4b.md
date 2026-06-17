@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Bm Compliance Traceability 3702 (Aberdeen, 2006)"
 slug: "study-bm-compliance-traceability-3702-c02e4b"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.38
-prescience_obs_count: 37
+prescience_mean: 2.52
+prescience_obs_count: 25
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Bm Compliance Traceability 3702 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study bm-compliance-traceability-3702-c02e4b. Source: bm_compliance_traceability_3702.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **topic-analysis**._

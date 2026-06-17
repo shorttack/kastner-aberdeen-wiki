@@ -12,9 +12,9 @@ era: "1997-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Virtual Enterprise / Extended Network
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Virtual enterprise concept realized via web services SOA and B2B integration platforms (EDI AS2 XML) — [[study-1997-object-technology-meets-demand-mana-551c84]]
+- Virtual enterprise concept realized via web services SOA and B2B integration platforms (EDI AS2 XML) `[ps=4]` — [[study-1997-object-technology-meets-demand-mana-551c84]]

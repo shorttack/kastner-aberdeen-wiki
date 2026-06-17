@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Silicon Graphics (1996), then HPE (2019)"
 years_active: "1972-1996"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.4
+prescience_obs_count: 15
 ---
 
 # Cray Research, Inc.
@@ -24,23 +24,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 50% — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- 10% — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- smp_will_dominate_enterprise_db `[ps=5]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- evaluate_cray_before_ibm_sp2 `[ps=1]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- 50% `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- 10% `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- 1.76 `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- 16 `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- 10000 `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- 20GB-500GB `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- commercial_database_pivot `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- 70% `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- processor_partitioning `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- hot_swap_capability `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- j_phillip_samper `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- scientific_above_5tb `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- sold_to_tera_computer `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
 - 5TB — [[study-aberdeen-1995-rdbms-cray-research-inc]]
 - 64 — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- 1.76 — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- 16 — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- 10000 — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- 20GB-500GB — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- commercial_database_pivot — [[study-aberdeen-1995-rdbms-cray-research-inc]]
 - major_force_in_commercial_db — [[study-aberdeen-1995-rdbms-cray-research-inc]]
 - acquired_by_SGI — [[study-aberdeen-1995-rdbms-cray-research-inc]]
 - 226400000 — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- smp_will_dominate_enterprise_db — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- 64 — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- 70% — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- processor_partitioning — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- hot_swap_capability — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- j_phillip_samper — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- bobbi_hazard_vp_gm — [[study-aberdeen-1995-rdbms-cray-research-inc]]
-- scientific_above_5tb — [[study-aberdeen-1995-rdbms-cray-research-inc]]

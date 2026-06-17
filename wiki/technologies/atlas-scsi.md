@@ -12,9 +12,9 @@ era: "1995-2006"
 lifecycle_at_study: "mature"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Atlas SCSI Disk Drives
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MaXLine and Atlas positioned as 'co-operative enterprise brands' — on-line and mid-line enterprise storage complement each other — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
+- MaXLine and Atlas positioned as 'co-operative enterprise brands' — on-line and mid-line enterprise storage complement each other `[ps=4]` — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]

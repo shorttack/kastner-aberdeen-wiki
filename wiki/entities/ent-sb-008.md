@@ -12,9 +12,9 @@ status: "Active"
 successor: "Microsoft"
 years_active: "1975-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Microsoft
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Siebel's Microsoft alliance is described as most significant; Siebel provides full support for MS Application Development Tools, MS Office and MS BackOffice — [[study-1997-crm-siebel-systems-pr-569e52]]
+- Siebel's Microsoft alliance is described as most significant; Siebel provides full support for MS Application Development Tools, MS Office and MS BackOffice `[ps=3]` — [[study-1997-crm-siebel-systems-pr-569e52]]

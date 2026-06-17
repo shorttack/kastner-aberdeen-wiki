@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1976-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # SAS Institute Inc.
@@ -29,5 +29,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Recent arrival in financial arena; Longview's years of embedded accounting practices gives it edge over SAS — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
+- Recent arrival in financial arena; Longview's years of embedded accounting practices gives it edge over SAS `[ps=2]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
 - SAS Enterprise Miner has supplanted many third-party suppliers' data mining environments of choice in CRM systems; SEMMA methodology considered leading approach — [[study-dssune~1-cbf6e3]]

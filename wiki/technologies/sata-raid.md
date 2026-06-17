@@ -12,9 +12,9 @@ era: "2004-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Integrated SATA RAID (0/1)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 70-90% read/write speed increase from dual SATA with RAID 0 vs single SATA 120 GB. — [[study-dell-precision-workstations-3-581e89]]
-- Integrated SATA RAID (0/1) now available on all Dell Precision workstations. — [[study-dell-precision-workstations-3-581e89]]
+- 70-90% read/write speed increase from dual SATA with RAID 0 vs single SATA 120 GB. `[ps=0]` — [[study-dell-precision-workstations-3-581e89]]
+- Integrated SATA RAID (0/1) now available on all Dell Precision workstations. `[ps=0]` — [[study-dell-precision-workstations-3-581e89]]

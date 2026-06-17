@@ -12,9 +12,9 @@ era: "1980s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Transaction Processing (TP) Monitors
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Hundreds to thousands of concurrent users — [[study-middle~1-a64fa0]]
+- Hundreds to thousands of concurrent users `[ps=0]` — [[study-middle~1-a64fa0]]

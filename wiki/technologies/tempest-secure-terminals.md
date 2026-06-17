@@ -12,9 +12,9 @@ era: "1960s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # TEMPEST-secure terminals
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $50M market in next two years for OA-compatible TEMPEST secure terminals — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
+- $50M market in next two years for OA-compatible TEMPEST secure terminals `[ps=0]` — [[study-prime-industry-product-5-year-plan-1981-0a3546]]

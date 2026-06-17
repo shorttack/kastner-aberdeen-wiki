@@ -12,9 +12,9 @@ status: "operating"
 successor: ""
 years_active: "1887-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # American Institute of Certified Public Accountants
@@ -29,5 +29,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Information Security #1 issue in AICPA 2003 Top Technologies survey — [[study-topic-iia-pc-management-best-practices-2003-10]]
+- Information Security #1 issue in AICPA 2003 Top Technologies survey `[ps=3]` — [[study-topic-iia-pc-management-best-practices-2003-10]]
 - AICPA manual had a brief chapter on performance auditing; Kastner used it as procedural basis; 'the secret was mundane: methodical process and impeccable notes.' — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

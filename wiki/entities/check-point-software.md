@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1993-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Check Point Software Technologies Ltd.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- leading firewall and VPN vendor — [[study-securi~1-3e7ced]]
+- leading firewall and VPN vendor `[ps=0]` — [[study-securi~1-3e7ced]]

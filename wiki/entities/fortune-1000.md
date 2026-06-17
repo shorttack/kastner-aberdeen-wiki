@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1955-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Fortune 1000
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'We do not foresee significant corporate revenue streams from TP at Fortune 1000-type firms before 1984' — slow but progressive growth from pilots — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
+- 'We do not foresee significant corporate revenue streams from TP at Fortune 1000-type firms before 1984' — slow but progressive growth from pilots `[ps=1]` — [[study-prime-industry-product-5-year-plan-1981-0a3546]]

@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # CIFS (Common Internet File System)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Only vendor providing seamless access to NFS, CIFS, and HTTP simultaneously on one filer — [[study-aberdeen-1996-network-appliance-data-appliances]]
+- Only vendor providing seamless access to NFS, CIFS, and HTTP simultaneously on one filer `[ps=3]` — [[study-aberdeen-1996-network-appliance-data-appliances]]

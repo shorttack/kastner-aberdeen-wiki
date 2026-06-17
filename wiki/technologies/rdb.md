@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "strategic relational database"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.25
+prescience_obs_count: 4
 ---
 
 # DEC Rdb (Relational Database)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Industry trend toward using databases (RDBMS) for TP storage replacing flat files; performance gap closing though flat files remain faster `[ps=5]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- Database, transaction monitor, and enterprise application references show DEC competing for application-platform legitimacy as much as hardware share. `[ps=4]` — [[study-2026-kastner-dec-longitudinal-22d177]]
+- Set mySAP.com performance record running Windows 2000 Datacenter + SQL Server 2000 `[ps=0]` — [[study-2026-kastner-dec-longitudinal-22d177]]
+- active legacy `[ps=0]` — [[study-2026-kastner-dec-longitudinal-22d177]]
 - 326 — [[study-2026-kastner-dec-longitudinal-22d177]]
-- Database, transaction monitor, and enterprise application references show DEC competing for application-platform legitimacy as much as hardware share. — [[study-2026-kastner-dec-longitudinal-22d177]]
-- Set mySAP.com performance record running Windows 2000 Datacenter + SQL Server 2000 — [[study-2026-kastner-dec-longitudinal-22d177]]
-- active legacy — [[study-2026-kastner-dec-longitudinal-22d177]]
-- Industry trend toward using databases (RDBMS) for TP storage replacing flat files; performance gap closing though flat files remain faster — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]

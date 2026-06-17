@@ -12,9 +12,9 @@ era: "2007-2012"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel Mobile Internet Device (MID)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Day 2 Breakout #3: Mobile Internet Platforms — Erik Reid (Dir of Mobile Products Group Marketing) and Gary Willihnganz (Dir of Ultra Mobile Group Marketing) roundtable on Intel's MID, netbooks, and nettop strategy/product plans. — [[study-peter-kastner-10-bde195]]
+- Day 2 Breakout #3: Mobile Internet Platforms — Erik Reid (Dir of Mobile Products Group Marketing) and Gary Willihnganz (Dir of Ultra Mobile Group Marketing) roundtable on Intel's MID, netbooks, and nettop strategy/product plans. `[ps=0]` — [[study-peter-kastner-10-bde195]]

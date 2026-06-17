@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 4
 ---
 
 # Grid / cluster computing
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Standardization, scale-out, on-demand provisioning, grid computing identified as architectural principles — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
-- Grid computing branded concept was superseded by cloud computing circa 2006-2010; utility computing vision was correct, brand was not — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
-- Leading companies will translate lessons from scientific massively parallel computing into a grid for commercial computing; linked to real-time operational analysis and decision-making — [[study-enterprise-integration-perspective-2-cb6165]]
-- leading companies will translate massively parallel scientific computing lessons into commercial computing grid — [[study-enterprise-integration-perspective-d21c1b]]
+- Standardization, scale-out, on-demand provisioning, grid computing identified as architectural principles `[ps=5]` — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
+- Grid computing branded concept was superseded by cloud computing circa 2006-2010; utility computing vision was correct, brand was not `[ps=5]` — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
+- Leading companies will translate lessons from scientific massively parallel computing into a grid for commercial computing; linked to real-time operational analysis and decision-making `[ps=4]` — [[study-enterprise-integration-perspective-2-cb6165]]
+- leading companies will translate massively parallel scientific computing lessons into commercial computing grid `[ps=4]` — [[study-enterprise-integration-perspective-d21c1b]]

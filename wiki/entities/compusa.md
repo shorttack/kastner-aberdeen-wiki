@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Gordon Brothers Group (liquidated 2007–2008); brand/16 stores sold to Systemax/TigerDirect"
 years_active: "1984-2007"
 occurrence_count: 23
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # CompUSA
@@ -29,6 +29,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Quit selling its own house brand; added eMachines full desktop line `[ps=0]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
 - CompUSA had a lot of deals this week exclusively on HP and Compaq machines. Especially consider Compaq's 6370US for $1,300. — [[study-dct-weekly-2003-01-12]]
 - CompUSA continues to have a plethora of deals on HP and Compaq machines. Especially consider Compaq's 6430US and 6350US bundled offers both for under $1,050. — [[study-dct-weekly-2003-01-19]]
 - CompUSA's lack of flyer deals means that many of the bundled Compaq offers from last week are no more. But CompUSA Online has great prices on unbundled versions of the Compaq machines. — [[study-dct-weekly-2003-01-26]]
@@ -48,4 +49,3 @@ prescience_obs_count: 0
 - CompUSA.com tends to continue selling "older" PC models after BestBuy.com and CircuitCity.com have removed them. This means you can get better deals on models that retailers want off the shelves to make room for the newer versions. — [[study-dct-weekly-2003-07-13]]
 - CompUSA's flyer this week has an assortment of PCs, although none of their deals are the best we've seen on the given desktops. CompUSA is the first to offer HP's M290N in a bundled deal. — [[study-dct-weekly-2003-07-26]]
 - No CompUSA flyer appeared in the Atlanta Journal-Constitution this week. CompUSA.com tends to continue selling "older" PC models after BestBuy.com and CircuitCity.com have removed them. — [[study-dct-weekly-2003-08-03]]
-- No CompUSA flyer appeared in the Atlanta Journal-Constitution this week. CompUSA.com tends to continue selling "older" PC models after BestBuy.com and CircuitCity.com have removed them. — [[study-dct-weekly-2003-08-10]]

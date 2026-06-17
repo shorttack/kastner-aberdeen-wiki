@@ -12,9 +12,9 @@ status: "Active"
 successor: ""
 years_active: "1975-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Active Directory announced but not available; mid-1998 target cited `[ps=1]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
 - Active Directory with Windows 2000 became dominant enterprise directory standard — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- Active Directory announced but not available; mid-1998 target cited — [[study-1997-novell-directory-to-the-network-str-048b05]]

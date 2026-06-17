@@ -3,7 +3,7 @@ title: "Commercial RISC/Unix 1996: HP Achieves Over 50% Share In 28% Growth Mark
 slug: "study-1997-commercial-risc-unix-1996-mvp-711569"
 page_type: "study"
 tags: ["type/study", "collection/Market Viewpoint"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-commercial-risc-unix-1996-mvp-711569"
 author: "AberdeenGroup"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.72
+prescience_obs_count: 25
 ---
 
 # Commercial RISC/Unix 1996: HP Achieves Over 50% Share In 28% Growth Market
@@ -32,28 +32,28 @@ _Published 1997, author **AberdeenGroup**, type **Market Viewpoint**._
 
 ## Top observations
 
-- 18.2
-- 28
-- 43
-- 17
-- -5
-- 52
-- 34
-- 18
-- 20
-- 73
-- top_single_processor_oltp
-- datacenter_enterprise_first_choice
-- professional_services_pull_through
-- web_champion_java_pioneer
-- workgroup_departmental_small_business
-- version_1_watch_and_monitor
-- mid_1997_expected
-- key_production_workload
-- >20_pct
-- mid_1998_oem_systems
-- return_with_ia64
-- parallel_not_replacement
-- majority_choose_new_app_path
-- sun_will_overcome_nt_threat
-- majority_servers_ia64
+- declined_post_2001_linux_x86_displaced `[ps=4]`
+- professional_services_pull_through `[ps=3]`
+- unix_for_large_enterprise_nt_for_workgroup `[ps=3]`
+- datacenter_enterprise_first_choice `[ps=2]`
+- web_champion_java_pioneer `[ps=2]`
+- return_with_ia64 `[ps=1]`
+- sun_will_overcome_nt_threat `[ps=1]`
+- acquired_compaq_june_1998_9.6B `[ps=1]`
+- market_contracted_not_grew `[ps=1]`
+- 28 `[ps=0]`
+- 17 `[ps=0]`
+- 52 `[ps=0]`
+- 34 `[ps=0]`
+- 18 `[ps=0]`
+- 20 `[ps=0]`
+- 73 `[ps=0]`
+- top_single_processor_oltp `[ps=0]`
+- mid_1997_expected `[ps=0]`
+- key_production_workload `[ps=0]`
+- >20_pct `[ps=0]`
+- mid_1998_oem_systems `[ps=0]`
+- majority_choose_new_app_path `[ps=0]`
+- acquired_oracle_2010 `[ps=0]`
+- power_architecture_power4_2001 `[ps=0]`
+- double_edged_sword_may_drive_new_risc_unix_apps `[ps=0]`

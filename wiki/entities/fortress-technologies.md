@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Airbus Defence and Space"
 years_active: "1998-2016"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Fortress Technologies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquired by Airbus Defence and Space in 2016; survived due to military-grade niche — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
+- Acquired by Airbus Defence and Space in 2016; survived due to military-grade niche `[ps=0]` — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]

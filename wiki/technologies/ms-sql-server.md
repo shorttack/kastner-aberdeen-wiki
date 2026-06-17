@@ -12,9 +12,9 @@ era: "1989-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Microsoft SQL Server 6.0
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Highly aggressive pricing; excellent performance; Intel/Microsoft represent definite threat to uniprocessor RS/6000; all-Microsoft code by world-class team — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- Highly aggressive pricing; excellent performance; Intel/Microsoft represent definite threat to uniprocessor RS/6000; all-Microsoft code by world-class team `[ps=5]` — [[study-rdbms-for-ibm-powera~1-7a44be]]

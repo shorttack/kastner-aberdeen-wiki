@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1927-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Ziff Davis Publishing Holdings
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen brand now part of Ziff-Davis as of the time of Kastner's writing (2026). — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- Aberdeen brand now part of Ziff-Davis as of the time of Kastner's writing (2026). `[ps=5]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]

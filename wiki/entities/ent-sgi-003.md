@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "HP (acquired Compaq 2002 for $25B)"
 years_active: "1982-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Compaq Computer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 6842.70 tpmC at $100/tpmC — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
+- 6842.70 tpmC at $100/tpmC `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]

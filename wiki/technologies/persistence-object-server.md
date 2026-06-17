@@ -12,9 +12,9 @@ era: "1993-2004"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.75
+prescience_obs_count: 8
 ---
 
 # Persistence Object Server
@@ -24,11 +24,11 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Allows only one client per application/object cache; TransApp Server (late 1996) will resolve multiple-client access — [[study-aberdeen-1996-live-object-caching-high-performance]]
-- Objects where variables are inherently related to other complementary objects (e.g., flight crew schedules, aircraft availability) — [[study-aberdeen-1996-live-object-caching-high-performance]]
-- Objects updated weekly/daily rather than second-by-second; frequently accessed/read, rarely updated/written — [[study-aberdeen-1996-live-object-caching-high-performance]]
-- Objects involved in majority of transactions across customers, suppliers, internal operations — [[study-aberdeen-1996-live-object-caching-high-performance]]
-- Objects reused across billing, inventory, and customer support systems (e.g., product/service objects) — [[study-aberdeen-1996-live-object-caching-high-performance]]
-- Persistence is 'the preeminent provider of tools that enable live object caching'; has distinct advantages over alternatives — [[study-aberdeen-1996-live-object-caching-high-performance]]
-- Live object caching is critical breakthrough making object/relational applications viable for commercial systems; will be increasingly important factor in next-gen strategic business applications — [[study-aberdeen-1996-live-object-caching-high-performance]]
-- Applications with multiple-reads-to-one-write transaction pattern (many-read:1-write); poor fit for classic 1-read:1-write OLTP (e.g., teller transactions) — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Applications with multiple-reads-to-one-write transaction pattern (many-read:1-write); poor fit for classic 1-read:1-write OLTP (e.g., teller transactions) `[ps=5]` — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Objects involved in majority of transactions across customers, suppliers, internal operations `[ps=4]` — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Objects reused across billing, inventory, and customer support systems (e.g., product/service objects) `[ps=4]` — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Live object caching is critical breakthrough making object/relational applications viable for commercial systems; will be increasingly important factor in next-gen strategic business applications `[ps=4]` — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Objects updated weekly/daily rather than second-by-second; frequently accessed/read, rarely updated/written `[ps=3]` — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Persistence is 'the preeminent provider of tools that enable live object caching'; has distinct advantages over alternatives `[ps=2]` — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Allows only one client per application/object cache; TransApp Server (late 1996) will resolve multiple-client access `[ps=0]` — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Objects where variables are inherently related to other complementary objects (e.g., flight crew schedules, aircraft availability) `[ps=0]` — [[study-aberdeen-1996-live-object-caching-high-performance]]

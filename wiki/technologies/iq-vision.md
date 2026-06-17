@@ -12,9 +12,9 @@ era: "1996-1999"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IQ/Vision
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IQ/Vision uses open architecture for OLAP; IQ Software plans to use it as springboard for integrating OLAP and query/reporting tools — [[study-aberdeen-1996-iq-software-www-reporting]]
+- IQ/Vision uses open architecture for OLAP; IQ Software plans to use it as springboard for integrating OLAP and query/reporting tools `[ps=4]` — [[study-aberdeen-1996-iq-software-www-reporting]]

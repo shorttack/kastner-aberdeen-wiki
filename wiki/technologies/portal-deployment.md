@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Portal Deployment for BPM
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 67% — [[study-ra-bpm-2006-f5a558]]
+- 67% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "SAP SE (acquired 2010)"
 years_active: "1984-2010"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Sybase Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- acquired by SAP for $5.8B in 2010 — [[study-aberdeen-1995-progress-software-profile]]
+- acquired by SAP for $5.8B in 2010 `[ps=1]` — [[study-aberdeen-1995-progress-software-profile]]

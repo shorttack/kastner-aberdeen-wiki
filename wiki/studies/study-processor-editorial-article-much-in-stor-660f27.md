@@ -3,7 +3,7 @@ title: "Much In Store Beyond 2004: Microsoft Has Experts Questioning Some Initia
 slug: "study-processor-editorial-article-much-in-stor-660f27"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "processor-editorial-article-much-in-stor-660f27"
 author: "Warren S. Hersch (Processor Magazine / Sandhills Publishing)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.67
+prescience_obs_count: 6
 ---
 
 # Much In Store Beyond 2004: Microsoft Has Experts Questioning Some Initiatives
@@ -32,13 +32,13 @@ _Published 2004, author **Warren S. Hersch (Processor Magazine / Sandhills Publi
 
 ## Top observations
 
-- A product like QuickBooks is more attractive to Microsoft than the spaces that SAP, PeopleSoft, or Oracle compete in because you can sell tens of millions of units around the world. Competing against, say, SAP over a few thousand implementations would break Microsoft's business model.
+- Longhorn (next desktop OS) is not expected to ship before 2006. `[ps=5]`
+- Microsoft has never open-sourced Windows (though parts like WSL, PowerShell, .NET, VS Code are open source). Kastner prediction validated. `[ps=5]`
+- Linux desktop share has remained below 5% for 20 years; Robinson's threat assessment did not materialize — Kastner's skepticism was correct. `[ps=5]`
+- Microsoft plans to launch Virtual Server by midyear 2004 allowing multiple OSes on one server. `[ps=4]`
+- A lot of companies are starting to experiment not only with Linux on the server, but also Linux on the desktop. Microsoft's decision is going to hurt them in the eyes of customers. `[ps=2]`
+- A product like QuickBooks is more attractive to Microsoft than the spaces that SAP, PeopleSoft, or Oracle compete in because you can sell tens of millions of units around the world. Competing against, say, SAP over a few thousand implementations would break Microsoft's business model. `[ps=1]`
 - You'd be asking Microsoft to lose a lot of money in helping a competitor operating system. No sane business person would make this decision. There is no proven mass market for Linux.
 - Windows OSes now reside on more than 90% of SMB desktops.
-- Longhorn (next desktop OS) is not expected to ship before 2006.
 - Microsoft SQL Server codename Yukon planned with enhanced scalability, manageability, availability, business intelligence, deeper dev-tool integration.
-- Microsoft plans to launch Virtual Server by midyear 2004 allowing multiple OSes on one server.
 - When measured in terms of usability, affordability, and support, Microsoft solutions score lower in surveys than competitive offerings from Intuit and salesforce.com.
-- A lot of companies are starting to experiment not only with Linux on the server, but also Linux on the desktop. Microsoft's decision is going to hurt them in the eyes of customers.
-- Microsoft has never open-sourced Windows (though parts like WSL, PowerShell, .NET, VS Code are open source). Kastner prediction validated.
-- Linux desktop share has remained below 5% for 20 years; Robinson's threat assessment did not materialize — Kastner's skepticism was correct.

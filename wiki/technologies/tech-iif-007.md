@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Dominant (Debezium"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Log-based CDC (Change Data Capture)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DataPropagator's log-based architecture will deliver performance and isolation advantages in network computing — [[study-1997-ibm-information-integration-family--29351c]]
-- Log-based CDC became dominant pattern for enterprise data replication across all major cloud and on-premises tools — [[study-1997-ibm-information-integration-family--29351c]]
+- DataPropagator's log-based architecture will deliver performance and isolation advantages in network computing `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
+- Log-based CDC became dominant pattern for enterprise data replication across all major cloud and on-premises tools `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]

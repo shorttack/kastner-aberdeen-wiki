@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1984-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Michael Dell
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dell has 30,000 customers running Oracle database software on Dell servers — double the number doing so a year ago. — [[study-oracle-and-dell-take-aim-at-midsize-busi-770ea6]]
+- Dell has 30,000 customers running Oracle database software on Dell servers — double the number doing so a year ago. `[ps=0]` — [[study-oracle-and-dell-take-aim-at-midsize-busi-770ea6]]
 - Close relationship with Oracle won't affect Dell's relationship with Microsoft because Oracle's Standard Edition One is not a direct competitor with Microsoft. — [[study-oracle-and-dell-take-aim-at-midsize-busi-770ea6]]

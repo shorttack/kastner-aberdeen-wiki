@@ -12,9 +12,9 @@ era: "1993-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # OLE/OCX/ActiveX Components
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SQA Suite uniquely able to test OLE-enabled components and ActiveX objects in Windows environment — [[study-aberdeen-1996-sqa-suite-50-automated-testing]]
+- SQA Suite uniquely able to test OLE-enabled components and ActiveX objects in Windows environment `[ps=2]` — [[study-aberdeen-1996-sqa-suite-50-automated-testing]]

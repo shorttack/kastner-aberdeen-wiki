@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1977-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # U.S. Department of Energy
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Most U.S. states forecast to adopt TOU by 1984-1985 — [[study-minicomputer-news-ase-asep-1979-2b5327]]
+- Most U.S. states forecast to adopt TOU by 1984-1985 `[ps=2]` — [[study-minicomputer-news-ase-asep-1979-2b5327]]

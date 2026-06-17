@@ -12,9 +12,9 @@ era: "1986-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "{'lifecycle_current': 'legacy-supported', 'source': 'Known — Unisys A-Series evolved into ClearPath MCP, still supported by Unisys as of 2024'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Unisys A-Series
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 12% increase in installations for 1992 — [[study-nti-9-mainframe-role-1993-77fc40]]
-- SCAMP microprocessor, CCE software, rack-mount with industry-standard interfaces; Oracle, Unix server, PC LAN compatible — [[study-nti-9-mainframe-role-1993-77fc40]]
+- 12% increase in installations for 1992 `[ps=0]` — [[study-nti-9-mainframe-role-1993-77fc40]]
+- SCAMP microprocessor, CCE software, rack-mount with industry-standard interfaces; Oracle, Unix server, PC LAN compatible `[ps=0]` — [[study-nti-9-mainframe-role-1993-77fc40]]

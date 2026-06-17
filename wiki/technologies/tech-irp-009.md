@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Partially obsolete (web browser fulfilled role)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Thin Client
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Browser-based SaaS fulfilled thin client vision; traditional thin client (Citrix/NC) failed `[ps=4]` — [[study-1997-infinite-resource-planning-wp-893815]]
 - IRP enables no-maintenance thin clients hiding existing system complexity — [[study-1997-infinite-resource-planning-wp-893815]]
-- Browser-based SaaS fulfilled thin client vision; traditional thin client (Citrix/NC) failed — [[study-1997-infinite-resource-planning-wp-893815]]

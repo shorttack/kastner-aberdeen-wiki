@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 4
 ---
 
 # Martin Reynolds
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- It's not so much 64-bit as it is AMD's next-generation chip — which is better, faster and more efficient. — [[study-technology-news-future-tech-microsoft-la-625f49]]
-- Certainly, the message is Sun should reconsider what it's doing with processors. Sun's value doesn't lie in the processor anymore. It lies in the robust systems and infrastructure they're capable of providing. — [[study-technology-news-hardware-sun-unveils-ult-4a76bb]]
-- praised the additional cache Sun built into the new UltraSPARC IV, Reynolds said Sun's multithreading technology is still untested in practice — [[study-technology-news-hardware-sun-unveils-ult-4a76bb]]
-- Intel's Xeon processor is taking a toll on all competitors; the large server market where Sun has historically played well is suffering from the increasing share of lower-cost servers — [[study-technology-news-hardware-sun-unveils-ult-4a76bb]]
+- It's not so much 64-bit as it is AMD's next-generation chip — which is better, faster and more efficient. `[ps=4]` — [[study-technology-news-future-tech-microsoft-la-625f49]]
+- Certainly, the message is Sun should reconsider what it's doing with processors. Sun's value doesn't lie in the processor anymore. It lies in the robust systems and infrastructure they're capable of providing. `[ps=4]` — [[study-technology-news-hardware-sun-unveils-ult-4a76bb]]
+- Intel's Xeon processor is taking a toll on all competitors; the large server market where Sun has historically played well is suffering from the increasing share of lower-cost servers `[ps=4]` — [[study-technology-news-hardware-sun-unveils-ult-4a76bb]]
+- praised the additional cache Sun built into the new UltraSPARC IV, Reynolds said Sun's multithreading technology is still untested in practice `[ps=0]` — [[study-technology-news-hardware-sun-unveils-ult-4a76bb]]

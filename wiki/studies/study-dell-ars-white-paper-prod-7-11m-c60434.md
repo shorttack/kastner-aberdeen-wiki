@@ -3,7 +3,7 @@ title: "Dell Asset Recovery Services: a Trustworthy Partner for Eliminating Agin
 slug: "study-dell-ars-white-paper-prod-7-11m-c60434"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "dell-ars-white-paper-prod-7-11m-c60434"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.56
+prescience_obs_count: 16
 ---
 
 # Dell Asset Recovery Services: a Trustworthy Partner for Eliminating Aging IT Assets
@@ -32,24 +32,24 @@ _Published 2003, author **Peter S. Kastner**, type **white-paper**._
 
 ## Top observations
 
-- 9.6% per month
-- $368 per year
-- $387+ per unit
+- At risk; difficulty competing vs. large-volume operators like Dell `[ps=4]`
+- Illegal in several states; forecast to be illegal in most states `[ps=3]`
+- 36 months (not 48 months) `[ps=2]`
+- 9.6% per month `[ps=0]`
+- $368 per year `[ps=0]`
+- $387+ per unit `[ps=0]`
+- >$1 million per year `[ps=0]`
+- $69 per unit `[ps=0]`
+- Dell ARS $395K ($79/unit) vs DIY $1.94M ($387/unit); savings $1.54M `[ps=0]`
+- $126 per drive (range: $16-$185) `[ps=0]`
+- 2 hours 40 minutes `[ps=0]`
+- $132 per unit (range: $12-$198) `[ps=0]`
+- $48 per unit `[ps=0]`
+- >2 million systems `[ps=0]`
+- 40 units `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
 - >25% of initial acquisition cost
 - 400+ million units
-- 36 months (not 48 months)
-- >$1 million per year
 - $49 per unit
-- $69 per unit
-- Dell ARS $395K ($79/unit) vs DIY $1.94M ($387/unit); savings $1.54M
-- $126 per drive (range: $16-$185)
-- 2 hours 40 minutes
-- $132 per unit (range: $12-$198)
-- $48 per unit
 - $67 per unit (range: $28-$67)
-- >2 million systems
-- 40 units
-- Illegal in several states; forecast to be illegal in most states
-- At risk; difficulty competing vs. large-volume operators like Dell
-- [UNVERIFIED]
 - Incorporate disposal cost impact into future IT acquisition TCO and financing

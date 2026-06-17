@@ -1,5 +1,5 @@
 ---
-title: "==> picture [69 x 792] intentionally omitted <=="
+title: "Ra Bpsecinfoaccess Jh (Aberdeen, 2005)"
 slug: "study-ra-bpsecinfoaccess-jh-8c3eaa"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.76
-prescience_obs_count: 50
+prescience_mean: 2.0
+prescience_obs_count: 46
 ---
 
-# ==> picture [69 x 792] intentionally omitted <==
+# Ra Bpsecinfoaccess Jh (Aberdeen, 2005)
 
-> This study analyzes ==> picture [69 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-bpsecinfoaccess-jh-8c3eaa. Source: ra_bpsecinfoaccess_jh.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **topic-analysis**._

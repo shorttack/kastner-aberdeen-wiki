@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Hewlett-Packard Company"
 years_active: "1970-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 5
 ---
 
 # Compaq Computer Corporation
@@ -24,9 +24,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2h 40m — [[study-2003-dell-ars-white-paper-53d13d]]
-- 6h+ — [[study-2003-dell-ars-white-paper-53d13d]]
-- 235 — [[study-2026-kastner-dec-longitudinal-22d177]]
-- The chain from DEC to Compaq to HP/HPE is the archive's central corporate continuity axis after 1998. — [[study-2026-kastner-dec-longitudinal-22d177]]
+- The chain from DEC to Compaq to HP/HPE is the archive's central corporate continuity axis after 1998. `[ps=5]` — [[study-2026-kastner-dec-longitudinal-22d177]]
+- Compaq agreed to buy Digital Equipment Corporation for about $9.6 billion in 1998. `[ps=5]` — [[study-2026-kastner-dec-longitudinal-22d177]]
+- 2h 40m `[ps=0]` — [[study-2003-dell-ars-white-paper-53d13d]]
+- 6h+ `[ps=0]` — [[study-2003-dell-ars-white-paper-53d13d]]
+- 235 `[ps=0]` — [[study-2026-kastner-dec-longitudinal-22d177]]
 - Serious competitor with large installed base but has 'clearly lost momentum'; HP has not decided whether to reinvigorate OpenView product development — [[study-2026-kastner-dec-longitudinal-22d177]]
-- Compaq agreed to buy Digital Equipment Corporation for about $9.6 billion in 1998. — [[study-2026-kastner-dec-longitudinal-22d177]]

@@ -12,9 +12,9 @@ era: "1997-2000"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Defunct"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # IDAR (Integrated Document Architecture and Repository)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IDAR provides backbone of complete enterprise document life cycle solution combining imaging workflow COLD DM and HSM — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
+- IDAR provides backbone of complete enterprise document life cycle solution combining imaging workflow COLD DM and HSM `[ps=2]` — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]

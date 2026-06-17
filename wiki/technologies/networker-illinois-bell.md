@@ -12,9 +12,9 @@ era: "1986-1990s"
 lifecycle_at_study: "current-1987"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Illinois Bell Networker
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Telephone-network trouble monitoring; battery backup; FT system core — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
+- Telephone-network trouble monitoring; battery backup; FT system core `[ps=0]` — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]

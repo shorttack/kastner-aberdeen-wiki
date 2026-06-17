@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 2
 ---
 
 # Distance Learning / CBT
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Research in 1999 focused on transition from classroom training to distance learning and technology-based training solutions — [[study-1999pr~1-c5516b]]
-- Distance learning provides greater flexibility at lower costs (financial and opportunity); internet/intranet delivery options — [[study-1999pr~1-c5516b]]
+- Research in 1999 focused on transition from classroom training to distance learning and technology-based training solutions `[ps=5]` — [[study-1999pr~1-c5516b]]
+- Distance learning provides greater flexibility at lower costs (financial and opportunity); internet/intranet delivery options `[ps=5]` — [[study-1999pr~1-c5516b]]

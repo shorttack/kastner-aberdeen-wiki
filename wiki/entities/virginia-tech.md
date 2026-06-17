@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1872-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Virginia Polytechnic Institute and State University
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Virginia Tech System X (Big Mac) — first high-profile Apple cluster — [[study-mac-news-computers-us-army-drafts-apple-c2f6f9]]
+- Virginia Tech System X (Big Mac) — first high-profile Apple cluster `[ps=5]` — [[study-mac-news-computers-us-army-drafts-apple-c2f6f9]]

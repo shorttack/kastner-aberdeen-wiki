@@ -12,9 +12,9 @@ era: "1994-1997"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # PowerPC 604 Processor
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Failed to deliver by mid-1995 as promised — [[study-aberdeen-1996-risc-unix-market]]
+- Failed to deliver by mid-1995 as promised `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]

@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Collaborative Product Commerce
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Collaborative Product Commerce; Enterprise Applications; Application Service Providers; Information Appliances; Storage; Enterprise Systems Management; Wireless Carrier and Enterprise Communications; Home Networking; Customer Relationship Management; Data Knowledge Platforms; Energy; e-Business; IT Services; Optical; Security; Enterprise and Internet Infrastructure; Supply Chain Management — [[study-aberdeen-corporate-collateral-2001-v2-b4b001]]
+- Collaborative Product Commerce; Enterprise Applications; Application Service Providers; Information Appliances; Storage; Enterprise Systems Management; Wireless Carrier and Enterprise Communications; Home Networking; Customer Relationship Management; Data Knowledge Platforms; Energy; e-Business; IT Services; Optical; Security; Enterprise and Internet Infrastructure; Supply Chain Management `[ps=0]` — [[study-aberdeen-corporate-collateral-2001-v2-b4b001]]

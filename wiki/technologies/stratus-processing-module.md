@@ -12,9 +12,9 @@ era: "1981-1990"
 lifecycle_at_study: "launch"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Stratus Processing Module (CPU+memory+controllers+IO)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1 to 32 Processing Modules per local system; hot-add while processing — [[study-stratus-fault-tolerant-revolution-ad-198-797e0e]]
+- 1 to 32 Processing Modules per local system; hot-add while processing `[ps=3]` — [[study-stratus-fault-tolerant-revolution-ad-198-797e0e]]

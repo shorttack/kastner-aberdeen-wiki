@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1980-2003"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Infinium Software Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Verticalization by industry increasingly strategic for ERP procurement — [[study-erpv2p~1-b15573]]
+- Verticalization by industry increasingly strategic for ERP procurement `[ps=5]` — [[study-erpv2p~1-b15573]]

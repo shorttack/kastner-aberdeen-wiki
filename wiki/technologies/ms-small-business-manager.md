@@ -12,9 +12,9 @@ era: "1999-2008"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Small Business Manager
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- discontinued 2008; users migrated to GP — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]
+- discontinued 2008; users migrated to GP `[ps=0]` — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]

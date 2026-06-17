@@ -12,9 +12,9 @@ status: "Unknown — likely acquired or dissolved"
 successor: "Unknown"
 years_active: "1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IMI (Integrated Management Inc. / IMI Systems)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Object architecture embraces design capable of leading next phase of technology and business revolution — [[study-1997-object-technology-meets-demand-mana-551c84]]
+- Object architecture embraces design capable of leading next phase of technology and business revolution `[ps=3]` — [[study-1997-object-technology-meets-demand-mana-551c84]]

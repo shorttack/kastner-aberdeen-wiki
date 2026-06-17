@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Linux on IBM Z (zLinux) / IBM LinuxONE is actively developed and supported. IBM LinuxONE 4 Express announced February 2024. Three certified distributions: RHEL, SUSE, Ubuntu. Growing use case for cloud-native on mainframe.', 'source': 'https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Linux on Mainframe (IBM zLinux)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Not comparable to Intel alternative — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
+- Not comparable to Intel alternative `[ps=1]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]

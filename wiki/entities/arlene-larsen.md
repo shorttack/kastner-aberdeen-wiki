@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Arlene Larsen
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Systems programmer Arlene Larsen participated in the September 23, 1967 Sysgen Day alongside Kastner; wheeled in punch-card tray. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Systems programmer Arlene Larsen participated in the September 23, 1967 Sysgen Day alongside Kastner; wheeled in punch-card tray. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

@@ -12,9 +12,9 @@ status: "Defunct/Acquired"
 successor: "Getronics (acquired 1999)"
 years_active: "[DEFERRED]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Wang Laboratories Inc.
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $1.4 billion annual revenue in fiscal year 1997 — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
-- More than 100% revenue growth for last two years in Wang Software business unit — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
-- Wang acquired Sigma Imaging Avail Systems and Vantage Technologies to enhance market position and accelerate NT platform transition — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
+- $1.4 billion annual revenue in fiscal year 1997 `[ps=0]` — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
+- More than 100% revenue growth for last two years in Wang Software business unit `[ps=0]` — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
+- Wang acquired Sigma Imaging Avail Systems and Vantage Technologies to enhance market position and accelerate NT platform transition `[ps=0]` — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]

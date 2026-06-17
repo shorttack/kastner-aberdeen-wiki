@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "IBM Power ISV ecosystem"
 years_active: "1990-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # RS/6000 ISV Community
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Small business users blocked by VAR applications not yet migrated to AIX 4; ISVs also suffered version-3 fatigue — [[study-aberdeen-1996-ibm-aix-4-not-your-fathers-325]]
-- Some niche suppliers abandoned AIX and left customers locked into version 3 — [[study-aberdeen-1996-ibm-aix-4-not-your-fathers-325]]
+- Small business users blocked by VAR applications not yet migrated to AIX 4; ISVs also suffered version-3 fatigue `[ps=4]` — [[study-aberdeen-1996-ibm-aix-4-not-your-fathers-325]]
+- Some niche suppliers abandoned AIX and left customers locked into version 3 `[ps=0]` — [[study-aberdeen-1996-ibm-aix-4-not-your-fathers-325]]

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "2000s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Kerry O'Brien
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Outright fraud is less common nowadays for mail-in rebates... the FTC goes after companies that don't send out rebates in a timely manner or fail to deliver on them at all — [[study-great-rebate-debate-smartmoney-grant-80650c]]
-- If you have a problem, complain and complain loud... call the customer service lines of the manufacturer and of the retailer. They will want to preserve that customer relationship. — [[study-great-rebate-debate-smartmoney-grant-80650c]]
+- Outright fraud is less common nowadays for mail-in rebates... the FTC goes after companies that don't send out rebates in a timely manner or fail to deliver on them at all `[ps=4]` — [[study-great-rebate-debate-smartmoney-grant-80650c]]
+- If you have a problem, complain and complain loud... call the customer service lines of the manufacturer and of the retailer. They will want to preserve that customer relationship. `[ps=0]` — [[study-great-rebate-debate-smartmoney-grant-80650c]]

@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Computer-Telephony Integration (CTI)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Critical enabling technology; integrates phone systems with CIS to pass caller data to agent screens — [[study-1997-cis-report-ba825e]]
+- Critical enabling technology; integrates phone systems with CIS to pass caller data to agent screens `[ps=5]` — [[study-1997-cis-report-ba825e]]
 - CTI evolved into unified communications and contact-center-as-a-service (CCaaS); replaced by cloud-based contact center platforms (Genesys, NICE, Avaya, Twilio Flex) — [[study-1997-cis-report-ba825e]]

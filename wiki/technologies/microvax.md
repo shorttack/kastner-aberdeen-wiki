@@ -12,9 +12,9 @@ era: "1984-1994"
 lifecycle_at_study: "production-shipping"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # MicroVAX
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- branch-office-FEP — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
+- branch-office-FEP `[ps=0]` — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]

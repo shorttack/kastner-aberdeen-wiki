@@ -12,9 +12,9 @@ status: "active"
 successor: "[none]"
 years_active: "1792-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.62
+prescience_obs_count: 24
 ---
 
 # State Street Corporation
@@ -24,23 +24,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Greater than $5 billion — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- $129 million — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- Reports to President/CEO — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- Approximately 1 TB — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- Approximately 600 GB — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- 15% — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- 80% — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- 100% SAN (Unix) — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- 70-80% — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- 20-30% — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- EMC Symmetrix (RAID-1) — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- EMC Symmetrix → DMX — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- [UNVERIFIED] — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- All production systems replicated to second data center — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- Read-write (not seldom-written) — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- Read-only — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- Read-only or seldom-written — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- Not read-only (part of workflow) — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- 6 out of 7 — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
-- 2 out of 7 — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- TCO savings overall, not just device cost reduction `[ps=4]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- Multiple decision makers in large organizations; silo-based `[ps=4]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- SAN consolidation may complicate multi-OS purchasing decisions if IT not operating as utility `[ps=4]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- Low-cost storage = 'overall good TCO'; active archiving = 'follow business rules to move data'; mezzanine/nearline = unknown `[ps=3]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- Greater than $5 billion `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- $129 million `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- Approximately 1 TB `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- Approximately 600 GB `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- 80% `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- 100% SAN (Unix) `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- 20-30% `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- EMC Symmetrix (RAID-1) `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- EMC Symmetrix → DMX `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- All production systems replicated to second data center `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- Read-write (not seldom-written) `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- Not read-only (part of workflow) `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- 6 out of 7 `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- Not yet discussed `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- 12 AM to 6 AM (6 hours) `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- 10 years `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]

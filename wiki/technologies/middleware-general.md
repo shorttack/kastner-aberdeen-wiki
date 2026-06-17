@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Enterprise Middleware
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Vital to supporting today's myriad applications and key to scaling enterprise networks — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
+- Vital to supporting today's myriad applications and key to scaling enterprise networks `[ps=4]` — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
+- Voice over IP (VoIP)/unified communications fully materialized; voice/video/data convergence complete `[ps=3]` — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
 - Voice/data/video consolidation on data networks is a sound business strategy — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
-- Voice over IP (VoIP)/unified communications fully materialized; voice/video/data convergence complete — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]

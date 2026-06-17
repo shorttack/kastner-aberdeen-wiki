@@ -12,9 +12,9 @@ era: "2003"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': '8-inch (200mm) semiconductor fabrication plants remain in active use for mature process nodes (analog, power, RF, MEMS). The SARS-era concern about PRC-based fabs remains relevant. New 8-inch fab investments continue.', 'source': 'General semiconductor industry'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # 8-inch Semiconductor Fabrication Plant
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 8 — [[study-sars2-hot-topic-cf91d4]]
+- 8 `[ps=0]` — [[study-sars2-hot-topic-cf91d4]]

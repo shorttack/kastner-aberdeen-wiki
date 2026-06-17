@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1950-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 5
 ---
 
 # Cable Companies (MSOs)
@@ -24,9 +24,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Recovering huge capital investments from subscribers one month at a time — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Cable facing challenge from telcos offering similar shared gateway services `[ps=4]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Cable will dominate residential broadband delivery `[ps=4]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Cable emerged as dominant residential broadband provider; telcos shifted to fiber and 5G `[ps=4]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- High-margin home networking products to boost revenues beyond broadband `[ps=3]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Recovering huge capital investments from subscribers one month at a time `[ps=0]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
 - Rapidly rolling out high-margin home networking services to complement broadband — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
-- High-margin home networking products to boost revenues beyond broadband — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
-- Cable facing challenge from telcos offering similar shared gateway services — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
-- Cable will dominate residential broadband delivery — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
-- Cable emerged as dominant residential broadband provider; telcos shifted to fiber and 5G — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]

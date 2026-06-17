@@ -12,9 +12,9 @@ status: "merged"
 successor: ""
 years_active: "1939-2015"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Hewlett-Packard / Compaq
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- part of benchmark group post-merger — [[study-2002-it-spending-shows-encouraging-signs-0d61cd]]
+- part of benchmark group post-merger `[ps=0]` — [[study-2002-it-spending-shows-encouraging-signs-0d61cd]]

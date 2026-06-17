@@ -3,7 +3,7 @@ title: "Breakthrough: Objective Communications' VidModem Technology Transforms T
 slug: "study-1997-objective-communications-vidmodem-f3351f"
 page_type: "study"
 tags: ["type/study", "collection/Technology Impact Report"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-objective-communications--vidmodem--f3351f"
 author: "Patricia Borns / Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.27
+prescience_obs_count: 15
 ---
 
 # Breakthrough: Objective Communications' VidModem Technology Transforms The Phone Line Into A Two-Way, Broadcast-Quality Multi-Medium
@@ -32,20 +32,20 @@ _Published 1997, author **Patricia Borns / Aberdeen Group**, type **Technology I
 
 ## Top observations
 
-- Single-sideband FM enabling real-time bidirectional broadcast quality NTSC PAL S-VHS video and stereo audio over twisted pair
-- Broadcast TV quality maintained across 4000 feet of twisted pair phone line
-- Below $3000 per user in useful configuration
+- Broadcast TV quality maintained across 4000 feet of twisted pair phone line `[ps=5]`
+- VidModem and ATM service both declined; IP-based broadband and internet video bypassed the telco ATM path entirely `[ps=5]`
+- Objective Communications did not survive as independent company; VidModem technology displaced by IP video `[ps=4]`
+- Telephone carriers lined up behind VidModem for ATM promotion but dependency on telco buildout poses risk (like ISDN) `[ps=4]`
+- Objective should cultivate partnerships beyond telcos — ISPs NC players PC manufacturers cable companies `[ps=4]`
+- Zoom Microsoft Teams Google Meet WebRTC-based platforms fulfilled enterprise multimedia vision Aberdeen described `[ps=4]`
+- DSL used same twisted pair for broadband internet enabling IP video — different solution same physical medium insight `[ps=4]`
+- Single-sideband FM enabling real-time bidirectional broadcast quality NTSC PAL S-VHS video and stereo audio over twisted pair `[ps=3]`
+- IS shops with high-bandwidth WAN infrastructure should trial VidModem to fast-track multimedia learning curve `[ps=3]`
+- Best suited for call centers banking/finance ATM kiosks medical/imaging manufacturing shop floor military/field training `[ps=3]`
+- VidModem enables CTVI — Computer Telephony Video Integration — seamless segue from phone call to videoconference to document sharing `[ps=3]`
+- Existing twisted pair phone wire viable as multimedia transport with VidModem — no rewiring required `[ps=3]`
+- Overcomes bandwidth CPU drain installation complexity and cost barriers of existing computer-analog integration schemes `[ps=2]`
+- VidModem scales more easily than current multimedia-to-desktop solutions as IS upgrades WAN or incorporates different appliances `[ps=2]`
+- Below $3000 per user in useful configuration `[ps=0]`
 - Switch handles 5 to 100 users; interfaces with ATM ISDN coax DSS
-- IS shops with high-bandwidth WAN infrastructure should trial VidModem to fast-track multimedia learning curve
-- Objective Communications did not survive as independent company; VidModem technology displaced by IP video
-- Telephone carriers lined up behind VidModem for ATM promotion but dependency on telco buildout poses risk (like ISDN)
-- VidModem and ATM service both declined; IP-based broadband and internet video bypassed the telco ATM path entirely
-- Best suited for call centers banking/finance ATM kiosks medical/imaging manufacturing shop floor military/field training
 - H.323 SIP and IP video conferencing displaced analog approaches; Cisco Polycom Tandberg dominated enterprise video
-- Overcomes bandwidth CPU drain installation complexity and cost barriers of existing computer-analog integration schemes
-- VidModem enables CTVI — Computer Telephony Video Integration — seamless segue from phone call to videoconference to document sharing
-- VidModem scales more easily than current multimedia-to-desktop solutions as IS upgrades WAN or incorporates different appliances
-- Objective should cultivate partnerships beyond telcos — ISPs NC players PC manufacturers cable companies
-- Zoom Microsoft Teams Google Meet WebRTC-based platforms fulfilled enterprise multimedia vision Aberdeen described
-- Existing twisted pair phone wire viable as multimedia transport with VidModem — no rewiring required
-- DSL used same twisted pair for broadband internet enabling IP video — different solution same physical medium insight

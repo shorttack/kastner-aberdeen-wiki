@@ -12,9 +12,9 @@ era: "1983-2005"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-unsupported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Network Operating System (NOS)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Implementation and maintenance of NOSes has gotten so complex it often requires outside assistance; especially true for NT Server as enterprise NOS `[ps=5]` — [[study-1999pr~2-cd0049]]
+- NOSes proving more effective than ever as internet arrives; Internet requires directory/admin/security services that NOS is best positioned to provide `[ps=3]` — [[study-1999pr~2-cd0049]]
 - Most mid/large organizations have multi-tier hardware/software with multiple NOSes; key IS question is interoperability strategy not NOS selection — [[study-1999pr~2-cd0049]]
-- NOSes proving more effective than ever as internet arrives; Internet requires directory/admin/security services that NOS is best positioned to provide — [[study-1999pr~2-cd0049]]
 - NOS suppliers answering user server-consolidation goals by delivering broader directory services and cross-platform administrative solutions — [[study-1999pr~2-cd0049]]
-- Implementation and maintenance of NOSes has gotten so complex it often requires outside assistance; especially true for NT Server as enterprise NOS — [[study-1999pr~2-cd0049]]
 - All three major NOS vendors (Microsoft/Novell/IBM) showed sales increases over past two years despite NT Server dominance; market expanding overall — [[study-1999pr~2-cd0049]]

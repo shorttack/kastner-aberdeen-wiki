@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # David Wright
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Drive research methodologies (internal/external); training and new-analyst development; new technology practice and business opportunity development; product development within Research; market forecasts; research content reuse — [[study-2001-kickoff---research-099232]]
+- Drive research methodologies (internal/external); training and new-analyst development; new technology practice and business opportunity development; product development within Research; market forecasts; research content reuse `[ps=0]` — [[study-2001-kickoff---research-099232]]

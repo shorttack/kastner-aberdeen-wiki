@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Very Large Databases (VLDB)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- hundreds of sites exceeding 100GB — [[study-aberdeen-1995-data-warehouse-olap]]
-- Object navigation will become desirable for some apps such as Jasmine — [[study-cab199-1-2-0cb163]]
+- Object navigation will become desirable for some apps such as Jasmine `[ps=5]` — [[study-cab199-1-2-0cb163]]
+- hundreds of sites exceeding 100GB `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]

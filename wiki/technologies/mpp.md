@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 4
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.75
+prescience_obs_count: 4
 ---
 
 # MPP (Massively Parallel Processing)
@@ -29,10 +29,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- In-database analytics became dominant approach in modern MPP systems (Teradata, Greenplum, Vertica, Snowflake, BigQuery); Tandem's architectural vision proven correct — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
-- Invest in maturing MPP for large-scale enterprise deployments — [[study-aberdeen-1996-risc-unix-market]]
-- Invest in maturing MPP platforms for very large-scale deployments — [[study-aberdeen-1996-risc-unix-market]]
-- MPP platforms matured significantly 1996-1998: IBM RS/6000 SP became IBM's Deep Blue platform (1997 chess victory); DEC TruCluster advanced; Oracle RAC emerged as software-based alternative to MPP hardware; Sequent NUMA-Q advanced. However proprietary MPP was ultimately displaced by commodity Linux clusters in 2000s. Prediction confirmed for 1996-1998 period. — [[study-aberdeen-1996-risc-unix-market]]
+- In-database analytics became dominant approach in modern MPP systems (Teradata, Greenplum, Vertica, Snowflake, BigQuery); Tandem's architectural vision proven correct `[ps=4]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
+- Invest in maturing MPP for large-scale enterprise deployments `[ps=4]` — [[study-aberdeen-1996-risc-unix-market]]
+- MPP platforms matured significantly 1996-1998: IBM RS/6000 SP became IBM's Deep Blue platform (1997 chess victory); DEC TruCluster advanced; Oracle RAC emerged as software-based alternative to MPP hardware; Sequent NUMA-Q advanced. However proprietary MPP was ultimately displaced by commodity Linux clusters in 2000s. Prediction confirmed for 1996-1998 period. `[ps=4]` — [[study-aberdeen-1996-risc-unix-market]]
+- Invest in maturing MPP platforms for very large-scale deployments `[ps=3]` — [[study-aberdeen-1996-risc-unix-market]]
 - Massively parallel RDBMS systems will eclipse mainframes for large workloads — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
 - [DEFERRED] — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
 - NCR 3600 cited as parallel hardware platform for large RDBMS workloads — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]

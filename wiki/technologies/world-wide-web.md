@@ -12,9 +12,9 @@ era: "1989-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # World Wide Web (WWW)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- 32% annual growth rate projected, resulting in 319 million Web users by end of 2002. `[ps=4]` — [[study-real-time-billing-for-internet-protocol--5ef746]]
 - 68 million Web users worldwide at the end of 1997 (IDC estimate). — [[study-real-time-billing-for-internet-protocol--5ef746]]
-- 32% annual growth rate projected, resulting in 319 million Web users by end of 2002. — [[study-real-time-billing-for-internet-protocol--5ef746]]

@@ -3,7 +3,7 @@ title: "Compaq Tru64 Unix and Oracle9i Clusters Combine to Reduce Costs: Can SAP
 slug: "study-2001-compaq-tru64-unix-and-oracle9i-clusters-reduce-cos-17b4b2"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2001-compaq-tru64-unix-and-oracle9i-clusters-reduce-cos-17b4b2"
 author: "Robert Dorin"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.27
+prescience_obs_count: 11
 ---
 
 # Compaq Tru64 Unix and Oracle9i Clusters Combine to Reduce Costs: Can SAP Resist This Fit?
@@ -32,15 +32,15 @@ _Published 2001, author **Robert Dorin**, type **market-study**._
 
 ## Top observations
 
-- Provides scalability and high availability advantages for parallel database workloads
-- Provides scalability, availability, manageability, and cost-of-ownership advantages over prior parallel DB options
-- Oracle and Compaq announced joint marketing agreement for Oracle9i on Tru64
-- Tru64 Unix selected as the primary development platform for Oracle9i
-- 'One Database' mySAP.com initiative — database consolidation competing with Oracle9i
+- Oracle9i RAC supersedes Oracle Parallel Server; uses dedicated network for inter-node communication `[ps=5]`
+- Provides scalability, availability, manageability, and cost-of-ownership advantages over prior parallel DB options `[ps=4]`
+- SAP should not resist Compaq/Oracle partnership and should support Oracle9i for SAP workloads `[ps=4]`
+- Provides scalability and high availability advantages for parallel database workloads `[ps=3]`
+- 'One Database' mySAP.com initiative — database consolidation competing with Oracle9i `[ps=2]`
+- HP discontinued Tru64 advanced features in December 2004; laid off many Tru64 developers; switched to Veritas File System `[ps=2]`
+- TruCluster + Oracle9i RAC delivers reduced total cost of ownership vs. alternative clustering solutions `[ps=2]`
+- Tru64 Unix selected as the primary development platform for Oracle9i `[ps=1]`
+- SAP did NOT embrace Oracle9i as strategic platform; instead developed SAP HANA in-memory database by 2010 `[ps=1]`
+- Compaq/Oracle partnership predicted as enduring competitive advantage `[ps=1]`
+- Oracle and Compaq announced joint marketing agreement for Oracle9i on Tru64 `[ps=0]`
 - SAP should enthusiastically support Oracle9i and Compaq/Oracle technology partnership
-- SAP did NOT embrace Oracle9i as strategic platform; instead developed SAP HANA in-memory database by 2010
-- Compaq/Oracle partnership predicted as enduring competitive advantage
-- HP discontinued Tru64 advanced features in December 2004; laid off many Tru64 developers; switched to Veritas File System
-- TruCluster + Oracle9i RAC delivers reduced total cost of ownership vs. alternative clustering solutions
-- Oracle9i RAC supersedes Oracle Parallel Server; uses dedicated network for inter-node communication
-- SAP should not resist Compaq/Oracle partnership and should support Oracle9i for SAP workloads

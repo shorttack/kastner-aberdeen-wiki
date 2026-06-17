@@ -3,7 +3,7 @@ title: "The Strategic R/3 Solution for the Enterprise"
 slug: "study-sequent-sap-sequen-1-7f70e4"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "sequent-sap-sequen~1-7f70e4"
 author: "Sequent Computer Systems"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.5
+prescience_obs_count: 12
 ---
 
 # The Strategic R/3 Solution for the Enterprise
@@ -32,18 +32,18 @@ _Published 1996, author **Sequent Computer Systems**, type **benchmark**._
 
 ## Top observations
 
-- 800
-- 51%
-- Yes
+- Not confirmed — Sequent SMP was technically sound but company acquired by IBM 1999 for $810M before achieving enterprise dominance `[ps=4]`
+- Sequent Symmetry SE70 positioned as viable SAP R/3 enterprise platform competing with HP, Sun, IBM `[ps=2]`
+- 800 `[ps=0]`
+- 51% `[ps=0]`
+- Yes `[ps=0]`
+- 800 `[ps=0]`
+- Only independently certified SAP R/3 SD benchmark on NT & UNIX `[ps=0]`
+- Supported both Windows NT and UNIX for SAP R/3 `[ps=0]`
+- 2.2d `[ps=0]`
+- 20 `[ps=0]`
+- FDDI Ring `[ps=0]`
+- Compaq ProLiant 4000s (x2) `[ps=0]`
 - 900
-- 800
 - 1000
-- Only independently certified SAP R/3 SD benchmark on NT & UNIX
 - SAP strategic partner; operated Competence Center for R/3 on Windows NT
-- Supported both Windows NT and UNIX for SAP R/3
-- 2.2d
-- 20
-- FDDI Ring
-- Compaq ProLiant 4000s (x2)
-- Sequent Symmetry SE70 positioned as viable SAP R/3 enterprise platform competing with HP, Sun, IBM
-- Not confirmed — Sequent SMP was technically sound but company acquired by IBM 1999 for $810M before achieving enterprise dominance

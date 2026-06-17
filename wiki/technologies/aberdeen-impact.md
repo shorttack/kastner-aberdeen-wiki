@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 4
 ---
 
 # Aberdeen Impact (2-page deliverable)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2-page document on Aberdeen Impact paper stock plus HTML/PDF versions — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]
-- Based on single 2-4 hour Research Meeting briefing plus supporting materials; client receives one round of review and comments before sign-off — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]
-- Non-exclusive 1-year license to post on client intranet and/or public WWW site — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]
-- $10,000 (100 copies included); eVersion $12,500; combo $17,500 — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
+- 2-page document on Aberdeen Impact paper stock plus HTML/PDF versions `[ps=0]` — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]
+- Based on single 2-4 hour Research Meeting briefing plus supporting materials; client receives one round of review and comments before sign-off `[ps=0]` — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]
+- Non-exclusive 1-year license to post on client intranet and/or public WWW site `[ps=0]` — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]
+- $10,000 (100 copies included); eVersion $12,500; combo $17,500 `[ps=0]` — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]

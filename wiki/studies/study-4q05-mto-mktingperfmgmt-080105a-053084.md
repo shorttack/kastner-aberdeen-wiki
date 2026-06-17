@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "4Q05 Mto Mktingperfmgmt 080105A (Aberdeen, 2005)"
 slug: "study-4q05-mto-mktingperfmgmt-080105a-053084"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 2.67
 prescience_obs_count: 3
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# 4Q05 Mto Mktingperfmgmt 080105A (Aberdeen, 2005)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study 4q05-mto-mktingperfmgmt-080105a-053084. Source: 4q05-mto-mktingperfmgmt_080105a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Research Preview**, type **benchmark**._

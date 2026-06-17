@@ -12,9 +12,9 @@ era: "2006-2008"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 5
 ---
 
 # AMD Opteron 8220se (dual-core)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SQL Server database: AMD Opteron 8220se dual = 262,989. — [[study-server-benchmarks-2007-sept-7-862cf0]]
-- ERP SAP-SD: AMD Opteron 8220se dual = 2,078 SD users. — [[study-server-benchmarks-2007-sept-7-862cf0]]
-- Java SPECjbb: AMD Opteron 8220se dual = 176,909. — [[study-server-benchmarks-2007-sept-7-862cf0]]
-- Integer SPECint_rate_2006: AMD Opteron 8220se dual = 108. — [[study-server-benchmarks-2007-sept-7-862cf0]]
-- SPEC webserver 2005: AMD Opteron 8220se dual = 22,254. — [[study-server-benchmarks-2007-sept-7-862cf0]]
+- SQL Server database: AMD Opteron 8220se dual = 262,989. `[ps=0]` — [[study-server-benchmarks-2007-sept-7-862cf0]]
+- ERP SAP-SD: AMD Opteron 8220se dual = 2,078 SD users. `[ps=0]` — [[study-server-benchmarks-2007-sept-7-862cf0]]
+- Java SPECjbb: AMD Opteron 8220se dual = 176,909. `[ps=0]` — [[study-server-benchmarks-2007-sept-7-862cf0]]
+- Integer SPECint_rate_2006: AMD Opteron 8220se dual = 108. `[ps=0]` — [[study-server-benchmarks-2007-sept-7-862cf0]]
+- SPEC webserver 2005: AMD Opteron 8220se dual = 22,254. `[ps=0]` — [[study-server-benchmarks-2007-sept-7-862cf0]]

@@ -12,9 +12,9 @@ era: "1998-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Infinite Resource Planning (IRP)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Within next 3 years major business contested in multi-company value chain competition `[ps=4]` — [[study-erpv2p~1-b15573]]
 - Convergence of object orientation, network-centric computing, and Internet — [[study-erpv2p~1-b15573]]
-- Within next 3 years major business contested in multi-company value chain competition — [[study-erpv2p~1-b15573]]

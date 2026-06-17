@@ -12,9 +12,9 @@ era: "1997-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Electronic Wallet Software
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Heavy-wallet approaches not working; lighter versions emerging to maximize user friendliness — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- Heavy-wallet approaches not working; lighter versions emerging to maximize user friendliness `[ps=4]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
 - Apple Pay/Google Pay/PayPal became dominant; lighter/mobile wallet approach validated — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]

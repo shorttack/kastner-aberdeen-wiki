@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 109] intentionally omitted <=="
+title: "Sc 05 06 Planning 080505A (Aberdeen, 2005)"
 slug: "study-sc-05-06-planning-080505a-016cb5"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [441 x 109] intentionally omitted <==
+# Sc 05 06 Planning 080505A (Aberdeen, 2005)
 
-> This study analyzes ==> picture [441 x 109] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study sc-05-06-planning-080505a-016cb5. Source: sc_05-06_planning_080505a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **market-study**._
@@ -32,4 +32,4 @@ _Published 2005, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 109] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 109] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

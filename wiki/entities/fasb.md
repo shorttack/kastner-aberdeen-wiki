@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1973-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Financial Accounting Standards Board (FASB)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- y2k_costs_must_be_expensed_not_capitalized — [[study-aberdeen-1996-as400-year-2000-ibm-leading-users]]
+- y2k_costs_must_be_expensed_not_capitalized `[ps=4]` — [[study-aberdeen-1996-as400-year-2000-ibm-leading-users]]

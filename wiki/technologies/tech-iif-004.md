@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "Growth"
 lifecycle_current: "Active (IBM MQ 9.4 as of June 2024)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # MQSeries
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enables data movement and application location independence as part of information integration — [[study-1997-ibm-information-integration-family--29351c]]
+- Enables data movement and application location independence as part of information integration `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]

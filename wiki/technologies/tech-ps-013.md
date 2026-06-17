@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging/Naming"
 lifecycle_current: "Dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # ETL (Extract Transform Load)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Short iterative steps to create and continuously fine-tune DW information architectures — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
+- Short iterative steps to create and continuously fine-tune DW information architectures `[ps=4]` — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]

@@ -12,9 +12,9 @@ era: "1950-1980"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Punch Cards / Card Decks
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Each card deck submission was a financial event; careless programs failing on first run wasted real money, not just time. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- Each card deck submission was a financial event; careless programs failing on first run wasted real money, not just time. `[ps=3]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]

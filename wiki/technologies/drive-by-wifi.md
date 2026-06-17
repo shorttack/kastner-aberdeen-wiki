@@ -12,9 +12,9 @@ era: "2002-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Drive-by WiFi
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internet access + location-based services — [[study-dct-sony-personal-electronic-vision-2002]]
+- Internet access + location-based services `[ps=5]` — [[study-dct-sony-personal-electronic-vision-2002]]

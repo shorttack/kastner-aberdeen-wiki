@@ -12,9 +12,9 @@ era: "1996-2004"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.75
+prescience_obs_count: 4
 ---
 
 # 56K Modem Technology (x2 / K56flex / V.90)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Competing x2 (3Com) and K56flex (Rockwell) standards created compatibility challenges — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
-- Aberdeen implies 56K standard fragmentation would need resolution for market to mature — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
-- ITU ratified V.90 standard February 1998 (draft) and September 1998 (final); unified x2 and K56flex into single standard — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
+- Competing x2 (3Com) and K56flex (Rockwell) standards created compatibility challenges `[ps=5]` — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
+- Aberdeen implies 56K standard fragmentation would need resolution for market to mature `[ps=5]` — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
+- ITU ratified V.90 standard February 1998 (draft) and September 1998 (final); unified x2 and K56flex into single standard `[ps=5]` — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
+- 56Kb standard `[ps=0]` — [[study-dct-why-aberdeen-follows-pc-deals-2002]]
 - High-density access scalability, support for 56K modem technologies, carrier-class reliability — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
-- 56Kb standard — [[study-dct-why-aberdeen-follows-pc-deals-2002]]

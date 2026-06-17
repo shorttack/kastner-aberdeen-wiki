@@ -12,9 +12,9 @@ era: "1997-2004"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Mirror Image Internet was acquired and wound down; the CAP (Content Access Point) proprietary architecture no longer exists as a distinct product.', 'source': 'https://en.wikipedia.org/wiki/Mirror_Image_Internet'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Mirror Image CAP (Content Access Point) Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- minimizes Mirror Image infrastructure costs; translates to lower client costs — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
+- minimizes Mirror Image infrastructure costs; translates to lower client costs `[ps=2]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]

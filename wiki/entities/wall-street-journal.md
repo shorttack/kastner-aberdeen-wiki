@@ -12,9 +12,9 @@ status: "active"
 successor: "Dow Jones / News Corp"
 years_active: "1889-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # The Wall Street Journal
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Page B9 Monday November 8 1993 — [[study-ncr-att-wsj-massively-parallel-processin-f1f0a8]]
-- Gideon Gartner left and set up Giga Group in 1995; competes with his former firm — [[study-wsj-tech-watching-analyst-industry-1998-002531]]
+- Page B9 Monday November 8 1993 `[ps=0]` — [[study-ncr-att-wsj-massively-parallel-processin-f1f0a8]]
+- Gideon Gartner left and set up Giga Group in 1995; competes with his former firm `[ps=0]` — [[study-wsj-tech-watching-analyst-industry-1998-002531]]

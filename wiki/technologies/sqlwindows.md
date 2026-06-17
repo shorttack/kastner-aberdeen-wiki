@@ -12,9 +12,9 @@ era: "1990-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Gupta SQLWindows
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Niche Windows/Unix RAD tool; declining relative to PowerBuilder — [[study-1997-unify-vision-8fcfc3]]
+- Niche Windows/Unix RAD tool; declining relative to PowerBuilder `[ps=4]` — [[study-1997-unify-vision-8fcfc3]]

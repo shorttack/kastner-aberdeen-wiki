@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Linux server operating system
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Growth in the Linux server sector will be 40 percent during 2003 — not as dramatic as the 50-percent-plus boost in 2002, but still substantial. — [[study-slow-growth-for-it-spending-in-2003-it-t-231f47]]
+- Growth in the Linux server sector will be 40 percent during 2003 — not as dramatic as the 50-percent-plus boost in 2002, but still substantial. `[ps=4]` — [[study-slow-growth-for-it-spending-in-2003-it-t-231f47]]

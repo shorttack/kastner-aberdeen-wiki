@@ -3,7 +3,7 @@ title: "Oracle Data Mart Suite for NT: Hitting The Mass-Market Sweet Spot"
 slug: "study-1997-oracle-data-mart-suite-for-nt-926845"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-oracle-data-mart-suite-for-nt-926845"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.42
+prescience_obs_count: 12
 ---
 
 # Oracle Data Mart Suite for NT: Hitting The Mass-Market Sweet Spot
@@ -32,23 +32,23 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
+- Business Objects cited as leading standalone BI competitor `[ps=5]`
+- Integrated data warehouse appliances and cloud suites became dominant; Oracle, Microsoft, IBM all pursued bundled approaches; specialized standalone BI vendors (Business Objects, Cognos, Hyperion) were acquired by major platform vendors `[ps=5]`
+- Data mart in a box — pre-assembled complete package `[ps=4]`
+- Cognos Impromptu cited as leading query/reporting competitor `[ps=4]`
+- Data mart market estimated in hundreds of millions; growing rapidly `[ps=4]`
+- Red Brick cited as purpose-built data warehouse DB competitor `[ps=3]`
+- Pre-packaged integrated data mart suites will dominate over custom-assembled multi-vendor solutions `[ps=2]`
+- Windows NT/2000 did become dominant enterprise data warehouse platform by 2000-2003; Linux later displaced NT/Windows in data center `[ps=2]`
+- Oracle8 RDBMS included as core component of DMS `[ps=0]`
+- Oracle Express Server included for multidimensional analysis `[ps=0]`
+- Oracle Discoverer included for ad-hoc query and reporting `[ps=0]`
+- Under $35,000 for 5 named users; scales to $50-80K for 25-50 users `[ps=0]`
 - 6-12 months implementation typical for custom data mart
-- Data mart in a box — pre-assembled complete package
 - Departmental/line-of-business managers; 5-100 users; under $100K total cost
-- Oracle8 RDBMS included as core component of DMS
-- Oracle Express Server included for multidimensional analysis
-- Oracle Discoverer included for ad-hoc query and reporting
-- Under $35,000 for 5 named users; scales to $50-80K for 25-50 users
 - Single unified DBA console for entire suite
 - Oracle Data Mart Suite includes ETL/data transformation tools
-- Business Objects cited as leading standalone BI competitor
-- Cognos Impromptu cited as leading query/reporting competitor
-- Red Brick cited as purpose-built data warehouse DB competitor
-- Pre-packaged integrated data mart suites will dominate over custom-assembled multi-vendor solutions
-- Integrated data warehouse appliances and cloud suites became dominant; Oracle, Microsoft, IBM all pursued bundled approaches; specialized standalone BI vendors (Business Objects, Cognos, Hyperion) were acquired by major platform vendors
 - NT chosen as target platform for mass-market appeal and cost-effectiveness vs Unix
-- Data mart market estimated in hundreds of millions; growing rapidly
 - Aberdeen rates Oracle Data Mart Suite as strong market contender
 - Oracle's commitment to NT platform will accelerate enterprise NT adoption for data warehousing
-- Windows NT/2000 did become dominant enterprise data warehouse platform by 2000-2003; Linux later displaced NT/Windows in data center
 - MicroStrategy referenced as high-end BI competitor focused on enterprise scale

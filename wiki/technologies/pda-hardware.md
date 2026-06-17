@@ -12,9 +12,9 @@ era: "1992-2010"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.67
+prescience_obs_count: 3
 ---
 
 # Personal Digital Assistant (PDA)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- personal information management (PIM) in mobile form factor — [[study-2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f]]
-- integrated wireless functionality — [[study-2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f]]
-- clear return on investment for enterprise customers — [[study-2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f]]
+- integrated wireless functionality `[ps=5]` — [[study-2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f]]
+- personal information management (PIM) in mobile form factor `[ps=0]` — [[study-2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f]]
+- clear return on investment for enterprise customers `[ps=0]` — [[study-2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f]]

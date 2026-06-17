@@ -3,7 +3,7 @@ title: "Chapter 10: The Long View — What Fifty Years of Technology Markets Tea
 slug: "study-volume-1-ch10-the-long-view-1966-2026"
 page_type: "study"
 tags: ["type/study", "collection/memoir"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "volume-1-ch10-the-long-view-1966-2026"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.55
+prescience_obs_count: 105
 ---
 
 # Chapter 10: The Long View — What Fifty Years of Technology Markets Teach (1966-2026)
@@ -32,28 +32,28 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 
 ## Top observations
 
-- Kastner taught himself FORTRAN at MIT's computer room at 2am in summer 1966 on a $5 million mainframe costing $360/hour to run.
-- In 2026 Kastner accesses more compute than a 1966 $5M mainframe from a wrist-worn device running on a battery, for essentially nothing.
-- $360 per hour for compute time on a $5 million mainframe.
-- Machine scarce and expensive; human labor abundant and cheap. Every technique — JCL optimization, one-instruction switches, microsecond efficiency — was a response to that economics.
-- By the time Kastner left PHI in 1972, minicomputers were democratizing compute access.
-- By the time Kastner joined Prime in 1979, compute was escaping the glass house.
-- By the time Kastner left Stratus in 1987, the x86 architecture was preparing to displace everything that had come before it.
-- By the time Aberdeen was founded in 1988, the question was no longer whether proprietary platforms were doomed but how soon.
-- Generative AI in 2026 is doing to knowledge work what the minicomputer did to batch processing in the 1970s: making a previously scarce resource suddenly abundant and disruptive.
-- The 12-year-old sorting 10,000 pieces of paper would not be surprised that machines eventually handle the paper, but might be surprised by how long it took and how many intermediate layers of partial automation preceded the full solution.
-- Every major platform transition was driven primarily by economics, not superior engineering. Technical superiority is necessary but not sufficient; technical adequacy plus economic advantage is the sufficient condition.
-- Mainframe was not technically obsolete when minicomputers displaced it; it was economically uncompetitive for departmental workloads.
-- Minicomputer was not technically obsolete when x86 servers displaced it; it was economically uncompetitive compared to commodity hardware manufactured at scale.
-- Unix was not technically inferior to Linux; Linux won on licensing economics and community development.
-- Proprietary platform achieves leadership through innovation, captures high margins, which attract commodity-based open alternatives that improve rapidly and displace the proprietary platform.
-- IBM funded the research that produced Unix, exemplifying Pattern 2 where proprietary platform margins fund the open alternative that displaces them.
-- The Internet boom funded the cloud infrastructure that commoditized enterprise servers, following Pattern 2.
-- In forty years of making and evaluating technology predictions, Kastner cannot think of a single case where a correct architectural prediction came true on the originally projected timeline.
-- SOA: directionally right, five years early.
-- Open source enterprise adoption: directionally right, three years early.
-- Web as application platform: directionally right, two years early.
-- Consumerization of IT: directionally right, two years early.
-- Technology transitions require organizational competency, risk tolerance, procurement adaptation, skills development, and executive conviction — all moving more slowly than engineering capability.
-- If you are correct about a technology direction, start positioning three years before you expect mainstream adoption. If you wait until the direction is obvious, the opportunity has passed.
-- AI adoption across large and small enterprises is much more a 2030s story than a 2020s story.
+- In 2026 Kastner accesses more compute than a 1966 $5M mainframe from a wrist-worn device running on a battery, for essentially nothing. `[ps=5]`
+- By the time Kastner left PHI in 1972, minicomputers were democratizing compute access. `[ps=5]`
+- Mainframe was not technically obsolete when minicomputers displaced it; it was economically uncompetitive for departmental workloads. `[ps=5]`
+- Minicomputer was not technically obsolete when x86 servers displaced it; it was economically uncompetitive compared to commodity hardware manufactured at scale. `[ps=5]`
+- In the early 1990s Kastner coined 'integration tax' — a permanent overhead cost enterprises pay regardless of how good individual components become. `[ps=5]`
+- EAI, SOA, APIs, microservices all addressed integration without eliminating it; each new architecture enabled new application proliferation creating new integration complexity. `[ps=5]`
+- As enterprises integrate AI inference engines with operational systems in 2026, the integration tax is being collected again on a new layer. The pattern is unchanged. `[ps=5]`
+- Kastner argued at Aberdeen in the early 1990s that data was becoming a competitive asset, not merely an operational record. `[ps=5]`
+- Technical components can be specified, tested, verified. Human components — politics, incentives, communication failures, misaligned expectations — are significantly harder to manage and much more likely to be source of catastrophic failure. `[ps=5]`
+- The best technology architects Kastner has known were also skilled organizational diagnosticians who could identify political and governance constraints determining whether a sound architecture could be implemented. `[ps=5]`
+- The machine does what it is told, precisely and relentlessly. The hard part is knowing what to tell it. `[ps=5]`
+- MIT in 1966 was alive with early AI research energy — LISP, ELIZA, Project MAC, researchers working on foundations of machine learning and knowledge representation. `[ps=5]`
+- ELIZA (MIT, 1966, Joseph Weizenbaum): first chatbot; demonstrated pattern-matching rules could simulate conversation convincingly. No actual language understanding; worked by reflecting user statements as questions. `[ps=5]`
+- ELIZA fooled users who knew it was a program; Turing Test implications were described as 'unsettling.' `[ps=5]`
+- Expert systems (1980s): commercially significant but limited by knowledge acquisition bottleneck. Encoding human expertise was slow, expensive, and produced brittle systems that failed outside narrow design domain. `[ps=5]`
+- XCON: rule-based computer configuration expert system for DEC; cited as representative commercially significant expert system of the 1980s. `[ps=5]`
+- Deep learning: multi-layer neural networks enabled by GPU computing and large digital datasets. Applications: image recognition, speech recognition, recommendation systems. `[ps=5]`
+- AlexNet (2012) demonstrated that deep learning could outperform human-engineered features on image classification. `[ps=5]`
+- "Attention is All You Need" (Vaswani et al., Google, 2017): self-attention mechanisms for parallel sequence processing; enabled training on vastly larger datasets efficiently. `[ps=5]`
+- A narrow AI system automates one task. A broad AI system augments one worker across many tasks. The economic calculus is different in kind, not just in degree. `[ps=5]`
+- In 2026: machine inference abundant and cheap; human judgment and creativity the scarce resource. Jobs resisting automation are those requiring contextual judgment, relationship management, navigating ambiguity. `[ps=5]`
+- Permanence of the integration problem correctly predicted. `[ps=5]`
+- Consumerization of IT correctly predicted. `[ps=5]`
+- Object databases: a miss. They did not achieve the predicted market significance. `[ps=5]`
+- Biggest miss: underestimated how thoroughly the smartphone would transform enterprise IT. Consumerization thesis was correct but confined to UI expectations; missed deeper architecture implications of mobile-first. `[ps=5]`

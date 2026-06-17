@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: ""
 years_active: "1980s-1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Management Information Corporation (MIC)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Stratus configurations priced from May 1985 Management Information Corporation report — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]
+- Stratus configurations priced from May 1985 Management Information Corporation report `[ps=0]` — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]

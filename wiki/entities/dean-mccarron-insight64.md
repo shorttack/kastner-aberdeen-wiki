@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Dean McCarron
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Insight 64 analyst Dean McCarron frames AMD's split-branding strategy as clearly separating the mainstream segment where people are willing to pay more from the low-cost market where products are purchased on price. — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]
+- Insight 64 analyst Dean McCarron frames AMD's split-branding strategy as clearly separating the mainstream segment where people are willing to pay more from the low-cost market where products are purchased on price. `[ps=4]` — [[study-technology-news-chips-amd-s-semprons-spa-21b184]]

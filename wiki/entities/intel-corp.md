@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1968-present"
 occurrence_count: 17
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.18
+prescience_obs_count: 61
 ---
 
 # Intel Corporation
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Pentium II up to 450 MHz — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
-- 233 MHz Pentium II with 32MB 'becoming just adequate' — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
-- Avoid Celeron-class or 233 MHz Pentium II inventory close-outs — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
-- Intel Sandy Bridge Pentium 840: 98 — [[study-bapco-sysmark-2012-benchmark-post-a40084]]
-- Intel Core i3-2120: 127 — [[study-bapco-sysmark-2012-benchmark-post-a40084]]
-- Intel Core i5-2500: 166 — [[study-bapco-sysmark-2012-benchmark-post-a40084]]
-- Intel Pentium G620T: 79 — [[study-bapco-sysmark-2012-benchmark-post-a40084]]
-- SYSmark 2012 reference = 100 (Core i3-540 Clarkdale) — [[study-bapco-sysmark-2012-benchmark-post-a40084]]
-- IBM previously sold a server with first-gen Itanium ('Merced') which arrived late and performed poorly; only positioned for developer rebuilds, not real-world use — [[study-cnet-shankland-ibm-itanium-x450-2003-c91608]]
-- Itanium's debut hampered by inability to run older Pentium/Xeon software effectively; Intel addressing with new emulation software — [[study-cnet-shankland-ibm-itanium-x450-2003-c91608]]
-- $9,999 base; $11,999 including monitor; vs $20,000 for proprietary room systems — [[study-informationweek-videoconferencing-boost--b62ff4]]
-- By relying on standard PC technology, Intel is able to price TeamStation below proprietary room systems — [[study-informationweek-videoconferencing-boost--b62ff4]]
-- ~1B processors/year TAM — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- 2B+ processors/year by end of decade — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- ~175M desktop microprocessors in 2013 — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- ~225M notebook microprocessors in 2013 — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- 'Silicon gene-splicing' — application-specific IA variants — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- Atom = embedded SoCs, consumer mobile devices, tablets, soon smartphones — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- Core i3/i5/i7 for business and consumer desktops and notebooks — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- Xeon for workstations, servers, storage, communications — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- 233 MHz Pentium II with 32MB 'becoming just adequate' `[ps=5]` — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
+- Xeon for workstations, servers, storage, communications `[ps=5]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- Xeon Phi = HPC add-in card with dozens of IA cores, runs Linux, competes with GPU-based AMD/nVidia `[ps=5]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- Intel Xeon Phi discontinued 2020 `[ps=5]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- Intel cancelled Sofia and Broxton Atom mobile SoCs 2016 `[ps=5]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- 'By end of decade, silicon fabrication will be under 10nm, and it is a lot less clear how Moore's Law will perform in the 2020s' `[ps=5]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- 'Computing made personal — a person will have multiple computing devices matching time, place, and needs' `[ps=5]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- Launch 'later this quarter' of Haswell (4th-gen Core) `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]
+- Intel acquired Wind River Systems 2009 `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]
+- Intel acquired McAfee 2010 `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]
+- Intel exited smartphone modem business 2019; sold to Apple $1B `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]
+- Intel abandoned tick-tock model in 2016; 10nm delayed multi-year `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]
+- Avoid Celeron-class or 233 MHz Pentium II inventory close-outs `[ps=4]` — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
+- Itanium's debut hampered by inability to run older Pentium/Xeon software effectively; Intel addressing with new emulation software `[ps=4]` — [[study-cnet-shankland-ibm-itanium-x450-2003-c91608]]
+- 'Everybody knows the PC replacement cycle has slowed to a crawl' `[ps=4]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- Haswell adds hardware transactional memory — fine-grain parallelism `[ps=4]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- Haswell FP instructions: up to 60% faster scientific/technical computing `[ps=4]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- 'Company missed the coming iPhone and lost out on a lot of market potential. That can't happen again' `[ps=4]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- Marketing shift from NA/Europe to BRIC (Brazil, Russia, India, China) `[ps=4]` — [[study-otellini-intel-techpinions-2013-917213]]
+- Desktop drove industry for 25 years until notebooks and [phones] `[ps=4]` — [[study-otellini-preview-how-it-changed-2013-604cfb]]

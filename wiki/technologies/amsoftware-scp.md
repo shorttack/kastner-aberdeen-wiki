@@ -12,9 +12,9 @@ era: "mid-1990s"
 lifecycle_at_study: "growth"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # American Software Supply Chain Planning
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 79_5m_total_20m_apet — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- 79_5m_total_20m_apet `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]

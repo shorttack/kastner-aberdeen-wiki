@@ -12,9 +12,9 @@ era: "1993–2000s"
 lifecycle_at_study: "Mature"
 lifecycle_current: "Succeeded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # IBM RS/6000 SP
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 32-bit MPP; overly expensive for typical HPTC; slow-to-market in 64-bit Unix — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
-- Looking overly expensive and slow for typical production HPTC — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
+- 32-bit MPP; overly expensive for typical HPTC; slow-to-market in 64-bit Unix `[ps=3]` — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
+- Looking overly expensive and slow for typical production HPTC `[ps=0]` — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
 - IBM's RS/6000 SP technology evolved into ASCI White and IBM Blue Gene systems. IBM Power-based systems dominated TOP500 HPC list multiple times through the 2000s-2010s. — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]

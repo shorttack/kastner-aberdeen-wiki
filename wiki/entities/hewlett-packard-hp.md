@@ -12,9 +12,9 @@ status: "active (split)"
 successor: "Compaq (1997) then HP (2002)"
 years_active: "1939-present"
 occurrence_count: 5
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.5
+prescience_obs_count: 8
 ---
 
 # SGI (Silicon Graphics Inc.)
@@ -29,13 +29,13 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 36.5 K$/TPS-A — [[study-1992-tpc-benchmarks-vp-745fa1]]
+- No significant penalty between OS choices `[ps=4]` — [[study-1992-tpc-benchmarks-vp-745fa1]]
+- 36.5 K$/TPS-A `[ps=0]` — [[study-1992-tpc-benchmarks-vp-745fa1]]
+- 171% throughput improvement since Jan 1990 `[ps=0]` — [[study-1992-tpc-benchmarks-vp-745fa1]]
+- Improved from also-ran to serious contender `[ps=0]` — [[study-1992-tpc-benchmarks-vp-745fa1]]
+- 25309 `[ps=0]` — [[study-1998as400-1-146289]]
+- $140 `[ps=0]` — [[study-1998as400-1-146289]]
+- microsoft-teams `[ps=0]` — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
+- weak / distracted post-acquisition `[ps=0]` — [[study-marathon-d186ab]]
 - 61% improvement since Jan 1990 — [[study-1992-tpc-benchmarks-vp-745fa1]]
-- 171% throughput improvement since Jan 1990 — [[study-1992-tpc-benchmarks-vp-745fa1]]
-- Improved from also-ran to serious contender — [[study-1992-tpc-benchmarks-vp-745fa1]]
-- No significant penalty between OS choices — [[study-1992-tpc-benchmarks-vp-745fa1]]
-- 25309 — [[study-1998as400-1-146289]]
-- $140 — [[study-1998as400-1-146289]]
-- microsoft-teams — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
 - 3.5 gigabytes — [[study-aberdeen-1995-limd-technology]]
-- weak / distracted post-acquisition — [[study-marathon-d186ab]]

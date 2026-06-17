@@ -1,5 +1,5 @@
 ---
-title: "==> picture [442 x 38] intentionally omitted <=="
+title: "Written Oracleroiwhitepaperprod (Aberdeen, 2001)"
 slug: "study-written-oracleroiwhitepaperprod-235e19"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.31
-prescience_obs_count: 16
+prescience_mean: 0.62
+prescience_obs_count: 13
 ---
 
-# ==> picture [442 x 38] intentionally omitted <==
+# Written Oracleroiwhitepaperprod (Aberdeen, 2001)
 
-> This study analyzes ==> picture [442 x 38] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-oracleroiwhitepaperprod-235e19. Source: Written__OracleROIWhitePaperPROD.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2001, author **Aberdeen Group**, type **market-study**._
@@ -45,6 +45,6 @@ _Published 2001, author **Aberdeen Group**, type **market-study**._
 - It is a continual effort over time that exceeds that of the addition of a new module into the infrastructure (Figure 5). `[ps=0]`
 - The bottom line, as it were, is in the perceived competitive advantage derived from the functions of the single point applications — again, possibly available on the market earlier — when compared to the integrated suite of applications over time (Figure 6). `[ps=0]`
 - **Figure 5: Integrating to the Infrastructure — Effort of Point Solutions vs. `[ps=0]`
-- **Figure 1: Hidden Cost Effects of Integration on Cumulative Benefit Stream** `[ps=-1]`
-- **Figure 3: Time to Benefit for a Point Solution** `[ps=-1]`
-- **Figure 6: Advantage Dissipation over Time** `[ps=-1]`
+- **Figure 1: Hidden Cost Effects of Integration on Cumulative Benefit Stream**
+- **Figure 3: Time to Benefit for a Point Solution**
+- **Figure 6: Advantage Dissipation over Time**

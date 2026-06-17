@@ -12,9 +12,9 @@ status: "retired"
 successor: ""
 years_active: "1981-2020"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Andy Bryant
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Day 1 2:35-3:05 PM: Andy Bryant (Executive VP & Chief Administrative Officer). — [[study-peter-kastner-10-bde195]]
+- Day 1 2:35-3:05 PM: Andy Bryant (Executive VP & Chief Administrative Officer). `[ps=0]` — [[study-peter-kastner-10-bde195]]

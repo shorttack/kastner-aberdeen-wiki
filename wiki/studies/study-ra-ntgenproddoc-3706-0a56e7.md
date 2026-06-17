@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ra Ntgenproddoc 3706 (Aberdeen, 2006)"
 slug: "study-ra-ntgenproddoc-3706-0a56e7"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.65
-prescience_obs_count: 84
+prescience_mean: 1.17
+prescience_obs_count: 64
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ra Ntgenproddoc 3706 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-ntgenproddoc-3706-0a56e7. Source: ra_ntgenproddoc_3706.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Bonni Graham**, type **topic-analysis**._

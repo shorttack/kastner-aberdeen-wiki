@@ -12,9 +12,9 @@ era: "1982-1990s"
 lifecycle_at_study: "production"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # StrataNET
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- System administrator can permit, permit-after-network-password, or deny incoming requests on each system node; access-control lists enforced across the network — [[study-ieee-db-stratus-32-psk-1d4564]]
+- System administrator can permit, permit-after-network-password, or deny incoming requests on each system node; access-control lists enforced across the network `[ps=4]` — [[study-ieee-db-stratus-32-psk-1d4564]]

@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Mainframe Systems Management (zOS/IBM System z)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- mainframes heavily involved in enterprise-size ($1B+) company SOA plans — [[study-hp-mercury-soa-2006-pdf-80785e]]
+- mainframes heavily involved in enterprise-size ($1B+) company SOA plans `[ps=4]` — [[study-hp-mercury-soa-2006-pdf-80785e]]

@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Digital Payment Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Digital payment enabling convergence of physical and virtual corporations; PayPal launched same year — [[study-1998-internet-sales-report-4cde3f]]
+- Digital payment enabling convergence of physical and virtual corporations; PayPal launched same year `[ps=5]` — [[study-1998-internet-sales-report-4cde3f]]

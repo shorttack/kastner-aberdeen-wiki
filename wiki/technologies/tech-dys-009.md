@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Active"
 lifecycle_current: "Superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Personal Security Device (PSD)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Software credential containers independent of specific credential implementations — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
+- Software credential containers independent of specific credential implementations `[ps=4]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]

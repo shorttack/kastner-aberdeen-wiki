@@ -12,9 +12,9 @@ era: "2013-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Hardware Transactional Memory
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Haswell adds hardware transactional memory — fine-grain parallelism — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- Haswell adds hardware transactional memory — fine-grain parallelism `[ps=4]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]

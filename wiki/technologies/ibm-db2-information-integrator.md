@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM DB2 Information Integrator
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM EII revenue estimate: $60 million (2003 projected) — [[study-aberdeen-eii-2003-ea3f1a]]
+- IBM EII revenue estimate: $60 million (2003 projected) `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]

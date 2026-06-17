@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1999-2000+"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Joyce Becknell
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Co-coordinator with James Gruener — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- EPIC architecture + Windows 2000 + Linux as 2000 disruptive triad — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- EPIC architecture + Windows 2000 + Linux as 2000 disruptive triad `[ps=2]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- Co-coordinator with James Gruener `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]

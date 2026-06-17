@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Declining"
 lifecycle_current: "Obsolete (support ended 2006)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 2
 ---
 
 # IBM OS/2
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- OS/2 is being abandoned despite operational stability — [[study-1997-nt-case-41-56aa2e]]
-- IBM ended OS/2 support in 2006 — [[study-1997-nt-case-41-56aa2e]]
+- OS/2 is being abandoned despite operational stability `[ps=5]` — [[study-1997-nt-case-41-56aa2e]]
+- IBM ended OS/2 support in 2006 `[ps=5]` — [[study-1997-nt-case-41-56aa2e]]

@@ -3,7 +3,7 @@ title: "WDI Research Resources: Outsourcing Application Development and Maintena
 slug: "study-research-resources-the-william-davidson-7de658"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "research-resources-the-william-davidson--7de658"
 author: "William Davidson Institute at the University of Michigan (research-resources listing)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.33
+prescience_obs_count: 3
 ---
 
 # WDI Research Resources: Outsourcing Application Development and Maintenance (Saia & Kastner)
@@ -32,7 +32,7 @@ _Published 2006, author **William Davidson Institute at the University of Michig
 
 ## Top observations
 
+- Most companies outsource at least some of their IT work, especially application development and maintenance functions — to India, the US, and elsewhere. `[ps=5]`
+- India IT services sector reached ~$200B revenue by 2020 (NASSCOM), dominated by TCS, Infosys, Wipro, HCL, Tech Mahindra, Cognizant — validating Saia & Kastner's framing of outsourcing as a durable structural market. `[ps=5]`
+- The Aberdeen Saia/Kastner report featured in WDI Research Resources under the Globalization of Services initiative. `[ps=0]`
 - Companies are banking on the outsourcing of some of their application-related work to help boost the skills of their internal IT professionals and let them plunge their hands into more strategic initiatives — not all about the money.
-- Most companies outsource at least some of their IT work, especially application development and maintenance functions — to India, the US, and elsewhere.
-- The Aberdeen Saia/Kastner report featured in WDI Research Resources under the Globalization of Services initiative.
-- India IT services sector reached ~$200B revenue by 2020 (NASSCOM), dominated by TCS, Infosys, Wipro, HCL, Tech Mahindra, Cognizant — validating Saia & Kastner's framing of outsourcing as a durable structural market.

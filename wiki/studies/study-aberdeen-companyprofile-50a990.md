@@ -1,5 +1,5 @@
 ---
-title: "==> picture [489 x 68] intentionally omitted <=="
+title: "Aberdeen Companyprofile (Aberdeen, 2005)"
 slug: "study-aberdeen-companyprofile-50a990"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
 prescience_max: 2.0
-prescience_mean: 0.33
-prescience_obs_count: 3
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
-# ==> picture [489 x 68] intentionally omitted <==
+# Aberdeen Companyprofile (Aberdeen, 2005)
 
-> This study analyzes ==> picture [489 x 68] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study aberdeen-companyprofile-50a990. Source: aberdeen-companyprofile.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **benchmark**._
@@ -34,4 +34,4 @@ _Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 - Research is used by more than 90% of the Fortune 1000 `[ps=2]`
 - Counts more than 93% of the Software 500 as clients `[ps=0]`
-- This study analyzes ==> picture [489 x 68] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [489 x 68] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

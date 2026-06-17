@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "production"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Scan benchmark
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Bulk-data-movement utility benchmark measuring I/O — [[study-tandem-tr-85-2-debitcredit-1985-ca207a]]
+- Bulk-data-movement utility benchmark measuring I/O `[ps=3]` — [[study-tandem-tr-85-2-debitcredit-1985-ca207a]]

@@ -12,9 +12,9 @@ era: "1995-2001"
 lifecycle_at_study: "active"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Aberdeen Termination Fee Ladder
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Contract Execution: 10%; Research Meeting completion: 50%; First draft: 90%; Final delivery: 100% — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
-- 10 business days written notice to Aberdeen project manager + copy to CFO via Certified Mail or FedEx — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
+- Contract Execution: 10%; Research Meeting completion: 50%; First draft: 90%; Final delivery: 100% `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
+- 10 business days written notice to Aberdeen project manager + copy to CFO via Certified Mail or FedEx `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]

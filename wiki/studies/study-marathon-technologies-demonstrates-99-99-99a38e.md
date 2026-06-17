@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.75
+prescience_obs_count: 4
 ---
 
 # Marathon Technologies Demonstrates 99.999% Uptime with Assured Availability Systems for Windows NT at SuperComm in Atlanta
@@ -32,8 +32,8 @@ _Published 1999, author **Marathon Technologies Corporation (Business Wire press
 
 ## Top observations
 
-- 99.999% (five-nines) uptime demonstrated on Windows NT at SuperComm Atlanta
-- Joint Kastner+Kernochan view: fault-tolerant NT — the application segment requiring standards-based Assured Availability — is an emerging market category
-- Low cost; nonstop processing; continuous data access; uninterrupted connectivity; disaster tolerance; component hot-swap
-- HP and Marathon jointly demonstrated five-nines uptime on HP hardware with Marathon Assured Availability layer
+- Joint Kastner+Kernochan view: fault-tolerant NT — the application segment requiring standards-based Assured Availability — is an emerging market category `[ps=3]`
+- 99.999% (five-nines) uptime demonstrated on Windows NT at SuperComm Atlanta `[ps=0]`
+- Low cost; nonstop processing; continuous data access; uninterrupted connectivity; disaster tolerance; component hot-swap `[ps=0]`
+- HP and Marathon jointly demonstrated five-nines uptime on HP hardware with Marathon Assured Availability layer `[ps=0]`
 - Marathon Technologies acquired by Stratus Technologies in 2012

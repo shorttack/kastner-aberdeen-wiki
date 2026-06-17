@@ -12,9 +12,9 @@ era: "1997-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Oracle Advanced Queuing
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle8 Advanced Queuing places messaging in the database engine, reducing middleware complexity and improving performance — [[study-1997-oracle8-the-database-for-network-computing-674c9d]]
+- Oracle8 Advanced Queuing places messaging in the database engine, reducing middleware complexity and improving performance `[ps=2]` — [[study-1997-oracle8-the-database-for-network-computing-674c9d]]

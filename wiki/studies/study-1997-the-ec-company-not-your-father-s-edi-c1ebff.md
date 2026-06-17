@@ -3,7 +3,7 @@ title: "The EC Company: Not Your Father's EDI"
 slug: "study-1997-the-ec-company-not-your-father-s-edi-c1ebff"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-the-ec-company-not-your-father-s-edi-c1ebff"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.58
+prescience_obs_count: 19
 ---
 
 # The EC Company: Not Your Father's EDI
@@ -32,25 +32,25 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- 95%
-- 2% of businesses with 5+ employees
-- $1.00 to $5.00 per transaction
-- $130
-- $30/month including first 25 transactions at $0.45 each additional
-- $11.1 million through three rounds
+- Arthur Andersen dissolved 2002 following Enron accounting scandal `[ps=5]`
+- Public Key/Private Key session encryption; symmetric session keys discarded after use `[ps=4]`
+- Web-forms via Internet extended from EDI server; Internet-enabled EDI server software at partner sites `[ps=4]`
+- RFC 4130 AS2 standard adopted 2005; fulfilled EC Company's internet-native EDI vision `[ps=4]`
+- EDI requires EDI standards knowledge, database mapping, per-partner translation — too complex for mid-market IT staff `[ps=4]`
+- $1-$5 per transaction creates ROI barrier for low-volume mid-market companies `[ps=4]`
+- High initial EDI software/hardware investment deters mid-market adoption `[ps=4]`
+- Sterling Commerce acquired by AT&T (2000), then Oracle (2011) for $1.4B; became Oracle B2B Commerce `[ps=1]`
+- 95% `[ps=0]`
+- 2% of businesses with 5+ employees `[ps=0]`
+- $1.00 to $5.00 per transaction `[ps=0]`
+- $130 `[ps=0]`
+- $30/month including first 25 transactions at $0.45 each additional `[ps=0]`
+- $11.1 million through three rounds `[ps=0]`
+- Well-engineered for ease of use; 16-bit; lacks automated scheduling; not yet enterprise messaging server-class `[ps=0]`
+- Private extranet on outsourced UUNET infrastructure; hub-centric translation; 270 US points of presence `[ps=0]`
+- Company estimates 18-24 months to profitable equilibrium on transaction volume model `[ps=0]`
+- May break the mold of traditional EDI VAN suppliers if transaction volume achieved `[ps=0]`
+- The EC Company did not achieve market breakthrough; likely dissolved or quietly acquired during EDI market consolidation 1998-2002 `[ps=0]`
 - Indirect channel via VAR and OEM partners (Arthur Andersen, Huntington Bank, Thompson Financial, Platinum Software, PeopleSoft)
 - Founded 1994 as Buena Vista Software, Inc.; rebranded to The EC Company
-- Well-engineered for ease of use; 16-bit; lacks automated scheduling; not yet enterprise messaging server-class
-- Private extranet on outsourced UUNET infrastructure; hub-centric translation; 270 US points of presence
-- Public Key/Private Key session encryption; symmetric session keys discarded after use
-- Company estimates 18-24 months to profitable equilibrium on transaction volume model
-- May break the mold of traditional EDI VAN suppliers if transaction volume achieved
-- Web-forms via Internet extended from EDI server; Internet-enabled EDI server software at partner sites
 - First venture investment by Arthur Andersen audit partnership in firm history
-- The EC Company did not achieve market breakthrough; likely dissolved or quietly acquired during EDI market consolidation 1998-2002
-- RFC 4130 AS2 standard adopted 2005; fulfilled EC Company's internet-native EDI vision
-- Sterling Commerce acquired by AT&T (2000), then Oracle (2011) for $1.4B; became Oracle B2B Commerce
-- Arthur Andersen dissolved 2002 following Enron accounting scandal
-- EDI requires EDI standards knowledge, database mapping, per-partner translation — too complex for mid-market IT staff
-- $1-$5 per transaction creates ROI barrier for low-volume mid-market companies
-- High initial EDI software/hardware investment deters mid-market adoption

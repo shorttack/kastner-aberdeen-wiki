@@ -12,9 +12,9 @@ era: "1992-1995"
 lifecycle_at_study: "current"
 lifecycle_current: "end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Windows 3.1 / DOS-Windows
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Runs Windows 3.1 in ROM; software upgradeable only from server or by trained personnel; near-indestructible reliability — [[study-aberdeen-1996-telechips-access-pc-telephony-interaction]]
+- Runs Windows 3.1 in ROM; software upgradeable only from server or by trained personnel; near-indestructible reliability `[ps=3]` — [[study-aberdeen-1996-telechips-access-pc-telephony-interaction]]

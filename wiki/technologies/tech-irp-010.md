@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "Early adoption"
 lifecycle_current: "Mature/dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Electronic Commerce (B2B)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IRP enables B2B e-commerce foundation for virtual corporation operations — [[study-1997-infinite-resource-planning-wp-893815]]
-- Confirmed: EDI evolved to XML/web services B2B; Ariba/Commerce One built on these concepts 1999-2002 — [[study-1997-infinite-resource-planning-wp-893815]]
+- IRP enables B2B e-commerce foundation for virtual corporation operations `[ps=4]` — [[study-1997-infinite-resource-planning-wp-893815]]
+- Confirmed: EDI evolved to XML/web services B2B; Ariba/Commerce One built on these concepts 1999-2002 `[ps=3]` — [[study-1997-infinite-resource-planning-wp-893815]]

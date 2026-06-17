@@ -12,9 +12,9 @@ era: "1986-1990s"
 lifecycle_at_study: "early"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # DEC VAXlink
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- VAXlink positioned as DEC-IBM coexistence path so customers don't need full rip-and-replace — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- VAXlink positioned as DEC-IBM coexistence path so customers don't need full rip-and-replace `[ps=3]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]

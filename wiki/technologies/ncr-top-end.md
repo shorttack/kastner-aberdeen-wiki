@@ -12,9 +12,9 @@ era: "1991-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'legacy-discontinued', 'source': 'Known — NCR Top End transaction monitor was discontinued; NCR shifted to Teradata and retail/ATM focus'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # NCR TOP END
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Redirects client transactions around failed servers, apps, or network nodes — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- Redirects client transactions around failed servers, apps, or network nodes `[ps=4]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]

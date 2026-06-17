@@ -12,9 +12,9 @@ era: "1987-1995"
 lifecycle_at_study: "declining"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Microsoft LAN Manager
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Has not achieved dominance despite high product quality marks and early DEC/IBM relationships — [[study-nti-12-client-server-goals-1993-15a519]]
+- Has not achieved dominance despite high product quality marks and early DEC/IBM relationships `[ps=0]` — [[study-nti-12-client-server-goals-1993-15a519]]

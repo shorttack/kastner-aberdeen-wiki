@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "growing"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'SLA management is an active and essential practice in all outsourcing and managed services contracts.', 'source': 'pre-verified'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Service Level Agreement (SLA) Management
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Poor scope understanding; inaccurate internal metrics; business changes over time away from contract terms — [[study-the-business-value-in-it-outsourcing-7d5f23]]
+- Poor scope understanding; inaccurate internal metrics; business changes over time away from contract terms `[ps=4]` — [[study-the-business-value-in-it-outsourcing-7d5f23]]

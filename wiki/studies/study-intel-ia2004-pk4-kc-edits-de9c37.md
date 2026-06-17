@@ -3,7 +3,7 @@ title: "Planning for Emerging Industry-Standard Platforms Computing Opportunitie
 slug: "study-intel-ia2004-pk4-kc-edits-de9c37"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "intel-ia2004-pk4-kc-edits-de9c37"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.22
+prescience_obs_count: 18
 ---
 
 # Planning for Emerging Industry-Standard Platforms Computing Opportunities
@@ -32,28 +32,28 @@ _Published 2003, author **Peter S. Kastner**, type **white-paper**._
 
 ## Top observations
 
+- winning commercial and scientific benchmarks; gaining share vs. RISC/Unix/mainframe `[ps=5]`
+- PCI-E transition recommended; skip PCI-X 266 `[ps=5]`
+- winning design/rendering benchmarks vs. RISC `[ps=4]`
+- all data-center-class server suppliers migrating to serial I/O in 2004 `[ps=4]`
+- standards-based PCMIA replacement for mobile computers `[ps=4]`
+- more than 1 million `[ps=0]`
+- 50% lower power consumption `[ps=0]`
+- 6.4 GB/second peak `[ps=0]`
+- 4 GB/s peak `[ps=0]`
+- 2004 debut in Intel Lindenhurst chipset `[ps=0]`
+- estimated decade or more `[ps=0]`
+- IBA at 4x (10 Gbps) no longer limited by PCI-X `[ps=0]`
+- 2004 debut at higher clock speeds `[ps=0]`
+- end of 2004 `[ps=0]`
+- should be mandatory for enterprise server evaluation `[ps=0]`
+- gaining share in depressed global market `[ps=0]`
+- Canterwood-875P includes Serial ATA support `[ps=0]`
+- hundreds of millions of dollars; thousands of engineers `[ps=0]`
 - majority of world desktop/workstation/server computers
-- more than 1 million
-- winning design/rendering benchmarks vs. RISC
-- winning commercial and scientific benchmarks; gaining share vs. RISC/Unix/mainframe
-- 50% lower power consumption
-- 6.4 GB/second peak
 - over 150
 - approximately 50% of total TCO
 - 1.06 GB/second at 133 MHz
-- 4 GB/s peak
-- 2004 debut in Intel Lindenhurst chipset
 - 20-30% send/receive improvement
-- estimated decade or more
-- PCI-E transition recommended; skip PCI-X 266
 - [UNVERIFIED]
-- IBA at 4x (10 Gbps) no longer limited by PCI-X
-- 2004 debut at higher clock speeds
-- end of 2004
 - 4x increase in 3 years
-- should be mandatory for enterprise server evaluation
-- gaining share in depressed global market
-- Canterwood-875P includes Serial ATA support
-- hundreds of millions of dollars; thousands of engineers
-- all data-center-class server suppliers migrating to serial I/O in 2004
-- standards-based PCMIA replacement for mobile computers

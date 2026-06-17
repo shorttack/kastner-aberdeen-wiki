@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "current-generation"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Windows XP Pro SP1
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- stable — [[study-why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622]]
+- stable `[ps=0]` — [[study-why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622]]

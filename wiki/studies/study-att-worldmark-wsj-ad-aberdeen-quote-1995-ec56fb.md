@@ -3,7 +3,7 @@ title: "AT&T WorldMark Servers WSJ Ad Featuring Aberdeen Group Endorsement (Nove
 slug: "study-att-worldmark-wsj-ad-aberdeen-quote-1995-ec56fb"
 page_type: "study"
 tags: ["type/study", "collection/full-page-print-ad"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "att-worldmark-wsj-ad-aberdeen-quote-1995-ec56fb"
 author: "AT&T Global Information Solutions (advertiser)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 6
 ---
 
 # AT&T WorldMark Servers WSJ Ad Featuring Aberdeen Group Endorsement (November 1995)
@@ -32,11 +32,11 @@ _Published 1995, author **AT&T Global Information Solutions (advertiser)**, type
 
 ## Top observations
 
+- WorldMark enables customers to gracefully scale data warehouses from SMP to clusters to MPP `[ps=4]`
+- One of the most scalable, compatible server product families in the marketplace `[ps=3]`
+- Clear indication AT&T is back to what it knows best: enterprise, scalable computing, all on Intel-inside `[ps=1]`
+- Aberdeen recommends users take a close look at the renewed prowess of AT&T GIS WorldMark line `[ps=0]`
+- Kastner Aberdeen Group VP of Corporate Computing practice during AT&T-NCR ownership `[ps=0]`
+- AT&T Global Information Solutions branding (NCR under AT&T 1991-1996) `[ps=0]`
 - AT&T WorldMark delivers attractive affordability; investment protection; mix-and-match SMP/cluster/MPP
-- Aberdeen recommends users take a close look at the renewed prowess of AT&T GIS WorldMark line
-- Kastner Aberdeen Group VP of Corporate Computing practice during AT&T-NCR ownership
-- One of the most scalable, compatible server product families in the marketplace
-- Clear indication AT&T is back to what it knows best: enterprise, scalable computing, all on Intel-inside
-- WorldMark enables customers to gracefully scale data warehouses from SMP to clusters to MPP
-- AT&T Global Information Solutions branding (NCR under AT&T 1991-1996)
 - AT&T 5100M with Intel Pentium processors

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1985-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Theodore W. (Ted) Waitt
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- The market for PCs is brutal; the current market is difficult. — [[study-restructure-plans-weigh-on-gateway-marke-c5656c]]
+- The market for PCs is brutal; the current market is difficult. `[ps=3]` — [[study-restructure-plans-weigh-on-gateway-marke-c5656c]]

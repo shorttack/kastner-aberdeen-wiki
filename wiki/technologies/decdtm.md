@@ -12,9 +12,9 @@ era: "1980s-1990s"
 lifecycle_at_study: "emerging distributed transaction manager"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.8
+prescience_obs_count: 5
 ---
 
 # DECdtm (Digital Distributed Transaction Manager)
@@ -24,9 +24,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- historical — [[study-2026-kastner-dec-longitudinal-22d177]]
-- Embedding transaction semantics in VMS kernel provides consistency, interoperability, and flexibility across all applications not limited to traditional TP — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
-- DECdtm uses optimized variant of 2PC; VAXcluster capabilities greatly reduce potential for blocking versus traditional 2PC — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
+- Key requirements for 100-year mean time between failures: software-fault containment using processes and software-fault masking using process checkpointing and transactions `[ps=4]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
+- DECdtm uses optimized variant of 2PC; VAXcluster capabilities greatly reduce potential for blocking versus traditional 2PC `[ps=3]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
+- Embedding transaction semantics in VMS kernel provides consistency, interoperability, and flexibility across all applications not limited to traditional TP `[ps=2]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
+- historical `[ps=0]` — [[study-2026-kastner-dec-longitudinal-22d177]]
+- $START_TRANSW, $END_TRANSW, $ADD_BRANCHW, $START_BRANCHW, $READY_TO_COMMITW, $DECLARE_RMW, $JOIN_RMW, $FINISH_RMOPW system service calls `[ps=0]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
 - Future DECdtm services designed to conform to de facto and international standards for transaction processing; ensures VMS application interoperability with other vendors — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
-- Key requirements for 100-year mean time between failures: software-fault containment using processes and software-fault masking using process checkpointing and transactions — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
-- $START_TRANSW, $END_TRANSW, $ADD_BRANCHW, $START_BRANCHW, $READY_TO_COMMITW, $DECLARE_RMW, $JOIN_RMW, $FINISH_RMOPW system service calls — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]

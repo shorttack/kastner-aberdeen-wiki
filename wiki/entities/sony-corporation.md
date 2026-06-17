@@ -12,9 +12,9 @@ status: "active"
 successor: "Sony Group Corporation"
 years_active: "1946-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sony Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sony 480 GB NAS server retail price: $4,100-$4,400 per channel retailer — [[study-hostingtech-apple-xserve-asia-zieger-200-052af6]]
+- Sony 480 GB NAS server retail price: $4,100-$4,400 per channel retailer `[ps=0]` — [[study-hostingtech-apple-xserve-asia-zieger-200-052af6]]

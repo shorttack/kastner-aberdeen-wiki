@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.38
-prescience_obs_count: 48
+prescience_mean: 2.17
+prescience_obs_count: 36
 ---
 
 # The Supply Chain Innovator’s Technology Footprint

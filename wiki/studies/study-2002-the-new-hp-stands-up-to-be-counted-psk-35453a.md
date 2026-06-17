@@ -3,7 +3,7 @@ title: "The New HP Stands Up to be Counted"
 slug: "study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2002-the-new-hp-stands-up-to-be-counted-psk-35453a"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 14
 ---
 
 # The New HP Stands Up to be Counted
@@ -32,19 +32,19 @@ _Published 2002, author **Peter S. Kastner**, type **market-study**._
 
 ## Top observations
 
-- HPQ fell 11% on day of Capellas resignation announcement
-- Capellas departure not worth 11% hit on HP long-term prospects — selloff is overreaction
-- More bullish than at merger announcement 14 months prior despite disappointing near-term quarters
-- StorageWorks identified as key strategic pillar supporting long-term HP competitiveness
+- Capellas became CEO of WorldCom/MCI Nov 2002 (same week); led MCI through bankruptcy and Verizon merger (2006) `[ps=5]`
+- Capellas departure not worth 11% hit on HP long-term prospects — selloff is overreaction `[ps=4]`
+- StorageWorks identified as key strategic pillar supporting long-term HP competitiveness `[ps=4]`
+- OpenView identified as HP enterprise management platform strength `[ps=4]`
+- Sun identified as enterprise server competitor; HP/Compaq merger creates scale to challenge Sun `[ps=4]`
+- HP trajectory will prove more positive than market perceives at Capellas departure; execution is key `[ps=4]`
+- Itanium commercial failure; Intel ended production 2019; last HP systems shipped 2021; x86-64 dominated market `[ps=4]`
+- More bullish than at merger announcement 14 months prior despite disappointing near-term quarters `[ps=3]`
+- Dell identified as primary PC market competitor; HP scale from Compaq merger creates competitive advantage `[ps=3]`
+- Itanium positioned as strategic enterprise server platform differentiator for HP `[ps=3]`
+- Itanium identified as key strategic pillar for HP enterprise server differentiation `[ps=2]`
+- Bluestone J2EE middleware identified as HP enterprise software platform strength `[ps=2]`
+- HPQ fell 11% on day of Capellas resignation announcement `[ps=0]`
+- HP survived; Carly Fiorina fired Feb 2005; Mark Hurd led recovery; HP split into HPE + HP Inc. Nov 2015 `[ps=0]`
 - ZLE framework positions HP as real-time enterprise infrastructure provider
-- Itanium identified as key strategic pillar for HP enterprise server differentiation
-- Bluestone J2EE middleware identified as HP enterprise software platform strength
-- OpenView identified as HP enterprise management platform strength
 - iPaq (from Compaq) identified as HP mobile device strength in enterprise mobility
-- Dell identified as primary PC market competitor; HP scale from Compaq merger creates competitive advantage
-- Sun identified as enterprise server competitor; HP/Compaq merger creates scale to challenge Sun
-- HP trajectory will prove more positive than market perceives at Capellas departure; execution is key
-- Itanium positioned as strategic enterprise server platform differentiator for HP
-- Capellas became CEO of WorldCom/MCI Nov 2002 (same week); led MCI through bankruptcy and Verizon merger (2006)
-- HP survived; Carly Fiorina fired Feb 2005; Mark Hurd led recovery; HP split into HPE + HP Inc. Nov 2015
-- Itanium commercial failure; Intel ended production 2019; last HP systems shipped 2021; x86-64 dominated market

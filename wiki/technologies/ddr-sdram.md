@@ -12,9 +12,9 @@ era: "2000-2007"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 27
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # DDR SDRAM (DDR266/333/400)
@@ -29,6 +29,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- DDR faster than plain SDRAM `[ps=5]` — [[study-dct-why-aberdeen-follows-pc-deals-2002]]
 - Aberdeen's Corporate PC Specifications Processor 2.0 GHz Memory 256 DDR HDD 40 GB (7200 RPM) Optical CD-ROM Monitor None Ethernet 10/100 or better Modem None OS Windows XP Pro Warranty 3-Year NBD or better Productivity Office XP (Word, Excel, Outlook, Publi... — [[study-dct-business-2002-11-pc-deals]]
 - Aberdeen Group's Enterprise Reference Desktop PC With the upgrade this month to the microprocessor speed, our current recommendation for mainstream desktop personal computers that offer the best combination of price, value, and longevity is: • Microprocesso... — [[study-dct-business-2002-12-17-pc-deals]]
 - Aberdeen Group's Enterprise Reference Desktop PC With the upgrade this month to the microprocessor speed, our current recommendation for mainstream desktop personal computers that offer the best combination of price, value, and longevity is: • Microprocesso... — [[study-dct-business-2002-12-19-pc-deals]]
@@ -48,4 +49,3 @@ prescience_obs_count: 0
 - The chipset also supports dual data paths to DDR memory. — [[study-dct-weekly-2003-04-13]]
 - Dell is blowing away the competition this week with a 2.4 GHz Pentium 4, 256 MB DDR memory, 30 GB value hard drive, a DVD-ROM, and a 17" monitor. — [[study-dct-weekly-2003-04-20]]
 - Dell This week's deals at Dell for the 2350 include a free CD burner in the second bay, a free upgrade to a 60 GB hard drive, and a free upgrade to 256 MB of DDR memory. — [[study-dct-weekly-2003-05-11]]
-- Dell This week's deals at Dell for the 2350 include a free CD burner in the second bay, a free upgrade to a 60 GB hard drive, and a free upgrade to 256 MB of DDR memory. — [[study-dct-weekly-2003-05-18]]

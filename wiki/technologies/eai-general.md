@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "declining"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Enterprise Application Integration (EAI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SOA, EAI, ETL, B2BI, EII, XML, CORBA named as core enterprise integration technologies — [[study-soa-aon-webinar-31973c]]
+- SOA, EAI, ETL, B2BI, EII, XML, CORBA named as core enterprise integration technologies `[ps=3]` — [[study-soa-aon-webinar-31973c]]

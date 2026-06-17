@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Defunct"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 0.4
+prescience_obs_count: 5
 ---
 
 # PushMail
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Best price/performance for any Internet email solution — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
-- Increases operational efficiency of dial-up network — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
-- High-margin way to sell Internet to wider audience — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
-- Good investment for Service Providers — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
-- DynaFlo did not survive; product defunct — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
+- Best price/performance for any Internet email solution `[ps=1]` — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
+- High-margin way to sell Internet to wider audience `[ps=1]` — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
+- Increases operational efficiency of dial-up network `[ps=0]` — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
+- Good investment for Service Providers `[ps=0]` — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
+- DynaFlo did not survive; product defunct `[ps=0]` — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]

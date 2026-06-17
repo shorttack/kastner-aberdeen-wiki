@@ -12,9 +12,9 @@ era: "2003-2006"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Intel Pentium 4 Extreme Edition
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Intel P4 Extreme Edition specification: 3.2 GHz, 2 MB L3 cache, 'gamer processor' positioning, 30-60 day availability. — [[study-intel-idf-pk-notes-3-6666da]]
+- Intel P4 Extreme Edition specification: 3.2 GHz, 2 MB L3 cache, 'gamer processor' positioning, 30-60 day availability. `[ps=5]` — [[study-intel-idf-pk-notes-3-6666da]]

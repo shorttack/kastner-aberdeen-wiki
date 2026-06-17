@@ -12,9 +12,9 @@ status: "active-then"
 successor: "transitioned-to-digital-only-2007"
 years_active: "1978-2007-print"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # InfoWorld Magazine
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 225047 — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]
+- 225047 `[ps=0]` — [[study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c]]

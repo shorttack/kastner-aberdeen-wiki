@@ -3,7 +3,7 @@ title: "The ESB in the Land of SOA"
 slug: "study-esb-in-soa-e002b7"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "esb-in-soa-e002b7"
 author: "William Mougayar"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.45
+prescience_obs_count: 11
 ---
 
 # The ESB in the Land of SOA
@@ -32,19 +32,19 @@ _Published 2005, author **William Mougayar**, type **employer-record**._
 
 ## Top observations
 
-- 60% using or planning shared messaging services within 12 months
-- 76% have implemented or plan web services calls to existing applications within 12 months
-- 73% implementing or planning applications-related services within 12 months
-- 69% currently use or plan business process/workflow services within 12 months
+- 76% have implemented or plan web services calls to existing applications within 12 months `[ps=4]`
+- 69% currently use or plan business process/workflow services within 12 months `[ps=4]`
+- 58% implementing or planning governance/management of services within 12 months `[ps=4]`
+- Adopting SOA is about choosing methodology rather than buying a product; traditional ESB was a finite-task product `[ps=4]`
+- Strong on BPM but does not offer granularity of services; weak on architectural scalability; marriage with SOA pioneers could be powerful `[ps=4]`
+- 4 segments: ESB pioneers/SOA-specific; traditional EAI/EII; application/integration platforms; process-centric `[ps=3]`
+- As companies increase quantity of services, demand for more comprehensive ESBs increases commensurably `[ps=3]`
+- True ESB must religiously adhere to WS-* stack; proprietary middleware wrappers do not qualify `[ps=1]`
+- 60% using or planning shared messaging services within 12 months `[ps=0]`
+- 73% implementing or planning applications-related services within 12 months `[ps=0]`
+- 49% currently use or plan composite applications within 12 months `[ps=0]`
 - 65% currently use or plan XML gateways/adapters within 12 months
 - 60% implementing or planning shared messaging services (registry or bus) within 12 months
-- 58% implementing or planning governance/management of services within 12 months
-- 49% currently use or plan composite applications within 12 months
 - most of the market is in second wave (services orchestration phase)
 - ESB of the future will interact with/inherit Services Registry, exhibit policy/governance management, and interact with specialized data bus
-- Adopting SOA is about choosing methodology rather than buying a product; traditional ESB was a finite-task product
-- True ESB must religiously adhere to WS-* stack; proprietary middleware wrappers do not qualify
-- 4 segments: ESB pioneers/SOA-specific; traditional EAI/EII; application/integration platforms; process-centric
 - Evaluate ESB extensibility; go beyond messaging to orchestration/mediation; include registry/governance; investigate at least one vendor per segment
-- As companies increase quantity of services, demand for more comprehensive ESBs increases commensurably
-- Strong on BPM but does not offer granularity of services; weak on architectural scalability; marriage with SOA pioneers could be powerful

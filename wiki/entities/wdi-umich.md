@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1992-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # William Davidson Institute, University of Michigan
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- The Aberdeen Saia/Kastner report featured in WDI Research Resources under the Globalization of Services initiative. — [[study-research-resources-the-william-davidson--7de658]]
+- The Aberdeen Saia/Kastner report featured in WDI Research Resources under the Globalization of Services initiative. `[ps=0]` — [[study-research-resources-the-william-davidson--7de658]]

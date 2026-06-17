@@ -12,9 +12,9 @@ era: "2005-2015"
 lifecycle_at_study: "growth"
 lifecycle_current: "evolved-to-service-mesh"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Operational SOA Governance
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- More than 80% of Best-in-Class have implemented an automated solution to SOA operations and governance, typically with third-party software — [[study-aberdeen-ra-soa-management-governance-20-ff6a2c]]
+- More than 80% of Best-in-Class have implemented an automated solution to SOA operations and governance, typically with third-party software `[ps=0]` — [[study-aberdeen-ra-soa-management-governance-20-ff6a2c]]
 - Operational governance ensures that eligible services are given the resources they need, and that performance and security issues are managed. It also helps manage the complexity of loosely-coupled services running on multiple servers in a highly distributed fashion — the hallmark of an SOA. — [[study-aberdeen-ra-soa-management-governance-20-ff6a2c]]

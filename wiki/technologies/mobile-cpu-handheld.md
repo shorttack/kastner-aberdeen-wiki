@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 2
 ---
 
 # Mobile handheld CPU (PDA/phone)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Samsung might have difficulty getting the new processor into phones and PDAs other than its own. Breaking into this market is fairly difficult. With proprietary architectures from the likes of Nokia and several device makers already committed to competing approaches, 400-million-unit-per-year mobile business takes more than a fast processor. — [[study-technology-news-hardware-samsung-unveils-e689dd]]
-- Yankee Group's John Jackson: microprocessing power is only one of many critical factors in powering small devices. Advanced microprocessing speed coupled with other efficiencies in the architecture — power management and access to memory subsystems — are sort of the benchmarks handset manufacturers are striving for. Still, microprocessing power isn't everything. — [[study-technology-news-hardware-samsung-unveils-e689dd]]
+- Samsung might have difficulty getting the new processor into phones and PDAs other than its own. Breaking into this market is fairly difficult. With proprietary architectures from the likes of Nokia and several device makers already committed to competing approaches, 400-million-unit-per-year mobile business takes more than a fast processor. `[ps=5]` — [[study-technology-news-hardware-samsung-unveils-e689dd]]
+- Yankee Group's John Jackson: microprocessing power is only one of many critical factors in powering small devices. Advanced microprocessing speed coupled with other efficiencies in the architecture — power management and access to memory subsystems — are sort of the benchmarks handset manufacturers are striving for. Still, microprocessing power isn't everything. `[ps=5]` — [[study-technology-news-hardware-samsung-unveils-e689dd]]

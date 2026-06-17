@@ -12,9 +12,9 @@ era: "1984-1990s"
 lifecycle_at_study: "production-shipping"
 lifecycle_current: "legacy-OpenVMS-Cluster-on-Itanium-then-x86"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # VAXcluster
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- distributed-lock-manager-cross-branch-traffic — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
-- 7.5 — [[study-dec-zahavi-debit-credit-vaxclusters-1988-1a9e2e]]
-- excluded-from-Style-3 — [[study-dec-zahavi-debit-credit-vaxclusters-1988-1a9e2e]]
+- distributed-lock-manager-cross-branch-traffic `[ps=4]` — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
+- 7.5 `[ps=0]` — [[study-dec-zahavi-debit-credit-vaxclusters-1988-1a9e2e]]
+- excluded-from-Style-3 `[ps=0]` — [[study-dec-zahavi-debit-credit-vaxclusters-1988-1a9e2e]]

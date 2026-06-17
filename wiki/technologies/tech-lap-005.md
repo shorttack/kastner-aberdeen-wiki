@@ -12,9 +12,9 @@ era: "1990s-2005"
 lifecycle_at_study: "Dominant (for telecommuters)"
 lifecycle_current: "Obsolete (replaced by broadband/VPN)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Dial-Up Networking
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- IT must enable remote use of bandwidth-hungry applications economically over low-bandwidth dial-in connections while addressing multiple protocols and security `[ps=4]` — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]
 - Over 9.5 million employees work off-site in 1997 — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]
-- IT must enable remote use of bandwidth-hungry applications economically over low-bandwidth dial-in connections while addressing multiple protocols and security — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]

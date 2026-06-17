@@ -12,9 +12,9 @@ era: "1991-present"
 lifecycle_at_study: "rising-but-historically-failed"
 lifecycle_current: "matured-via-iPad-Surface"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Pen-based computing / digital-ink input
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Newton/EO/Lectrice/Pen-Windows — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- Newton/EO/Lectrice/Pen-Windows `[ps=0]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]

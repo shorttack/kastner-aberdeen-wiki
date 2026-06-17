@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Automated Backup/Restore/Healing
@@ -22,4 +22,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Automated Backup/Restore/Healing — second highest ROI — [[study-kastner-sipp-pc-lifecycle-dynamics-2003-4395fd]]
+- Automated Backup/Restore/Healing — second highest ROI `[ps=3]` — [[study-kastner-sipp-pc-lifecycle-dynamics-2003-4395fd]]

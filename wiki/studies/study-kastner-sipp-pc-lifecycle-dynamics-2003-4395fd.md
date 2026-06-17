@@ -3,7 +3,7 @@ title: "PC Lifecycle Dynamics (SIPP Florida speech)"
 slug: "study-kastner-sipp-pc-lifecycle-dynamics-2003-4395fd"
 page_type: "study"
 tags: ["type/study", "collection/presentation"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "kastner-sipp-pc-lifecycle-dynamics-2003-4395fd"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.4
+prescience_obs_count: 5
 ---
 
 # PC Lifecycle Dynamics (SIPP Florida speech)
@@ -32,13 +32,13 @@ _Published 2003, author **Peter S. Kastner**, type **presentation**._
 
 ## Top observations
 
+- Goals: flexible acquisition, right-sizing, user-driven choices, low lifecycle costs. Realities: project-driven acquisition, user-driven config, high support costs, config variability, constant changes, innumerable platforms `[ps=4]`
+- Automated Backup/Restore/Healing — second highest ROI `[ps=3]`
+- Thin Clients ranked slowest ROI in Aberdeen 2003 PC lifecycle Best Practices framework `[ps=3]`
+- Remote Control — lower ROI tier `[ps=2]`
+- Peter Kastner, Executive Vice President and Chief Research Officer, AberdeenGroup `[ps=0]`
 - Poll #1: How do you analyze and control your desktop/laptop TCO? Options ranged from 'good TCO reporting and strong strategies' to 'we don't do much; putting off purchases and cannibalizing/repairing'
-- Goals: flexible acquisition, right-sizing, user-driven choices, low lifecycle costs. Realities: project-driven acquisition, user-driven config, high support costs, config variability, constant changes, innumerable platforms
 - Best Practices lower TCO across downtime, end-user operations, admin, operations, and hardware/software cost categories on annual cost per user basis
 - Aberdeen Best Practices Prioritized by ROI (faster to slower): Standard Images on Common Platforms (highest ROI)
-- Automated Backup/Restore/Healing — second highest ROI
 - Software Distribution — mid ROI tier
 - Device Synchronization — mid ROI tier
-- Remote Control — lower ROI tier
-- Thin Clients ranked slowest ROI in Aberdeen 2003 PC lifecycle Best Practices framework
-- Peter Kastner, Executive Vice President and Chief Research Officer, AberdeenGroup

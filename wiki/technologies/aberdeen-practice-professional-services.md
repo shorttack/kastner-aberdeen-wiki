@@ -12,9 +12,9 @@ era: "2000"
 lifecycle_at_study: "launched"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen IT Professional Services Practice
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Independent Professional Services Suppliers (IPSPs); Independent Software Vendors (ISVs); Original Equipment Manufacturers (OEMs); Resellers and Value-Added Resellers (VARs) — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- Independent Professional Services Suppliers (IPSPs); Independent Software Vendors (ISVs); Original Equipment Manufacturers (OEMs); Resellers and Value-Added Resellers (VARs) `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]

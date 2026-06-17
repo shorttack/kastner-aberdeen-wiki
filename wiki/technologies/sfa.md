@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Sales Force Automation (SFA)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Shifted from cost-reduction focus to revenue growth and customer loyalty focus over past five years — [[study-1999-crm-professional-services-rpt-96bf13]]
+- Shifted from cost-reduction focus to revenue growth and customer loyalty focus over past five years `[ps=4]` — [[study-1999-crm-professional-services-rpt-96bf13]]

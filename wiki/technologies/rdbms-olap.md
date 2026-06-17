@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Relational OLAP (ROLAP)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Internet/Intranets, relational OLAP, universal servers, workgroup servers `[ps=3]` — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
 - Relational OLAP identified as critical next-generation DORS capability — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
-- Internet/Intranets, relational OLAP, universal servers, workgroup servers — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]

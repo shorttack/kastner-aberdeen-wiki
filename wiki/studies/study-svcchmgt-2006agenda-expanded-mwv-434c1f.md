@@ -1,5 +1,5 @@
 ---
-title: "==> picture [432 x 115] intentionally omitted <=="
+title: "Svcchmgt 2006Agenda Expanded Mwv (Aberdeen, 2006)"
 slug: "study-svcchmgt-2006agenda-expanded-mwv-434c1f"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 1.33
 prescience_obs_count: 6
 ---
 
-# ==> picture [432 x 115] intentionally omitted <==
+# Svcchmgt 2006Agenda Expanded Mwv (Aberdeen, 2006)
 
-> This study analyzes ==> picture [432 x 115] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study svcchmgt-2006agenda-expanded-mwv-434c1f. Source: svcchmgt_2006agenda_expanded_mwv.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **benchmark**._

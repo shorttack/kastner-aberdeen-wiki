@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "Active"
 lifecycle_current: "Active / evolved to real-time analytics"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Point of Sale (POS) Data Analysis
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Buyer-loyalty patterns and need to predict customer behavior are increasing competitive requirements for retailers — [[study-1997-knowledge-discovery-one's-retail-di-f6b834]]
-- Retailers face continuously changing POS data requiring tools for value-added decisions on revenues, margins and cost reduction — [[study-1997-knowledge-discovery-one's-retail-di-f6b834]]
+- Buyer-loyalty patterns and need to predict customer behavior are increasing competitive requirements for retailers `[ps=5]` — [[study-1997-knowledge-discovery-one's-retail-di-f6b834]]
+- Retailers face continuously changing POS data requiring tools for value-added decisions on revenues, margins and cost reduction `[ps=4]` — [[study-1997-knowledge-discovery-one's-retail-di-f6b834]]

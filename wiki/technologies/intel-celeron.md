@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "legacy-supported"
 occurrence_count: 14
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Intel Celeron processor
@@ -29,10 +29,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Avoid Celeron-class or 233 MHz Pentium II inventory close-outs — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
+- Avoid Celeron-class or 233 MHz Pentium II inventory close-outs `[ps=4]` — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
+- 1.3 GHz Celeron -> 1.7 GHz Celeron at same price `[ps=0]` — [[study-dct-dceit-observations-2002-06]]
 - Typically, this means you can go online and configure a desktop machine with a 1.8, 2.0, 2.2, or 2.4 GHz Intel Pentium 4 microprocessor - and pay the exact same price at checkout. — [[study-dct-business-2002-12-19-pc-deals]]
 - Over the next quarter, we expect prices to decline due to the flow-through of lower Intel microprocessor prices. — [[study-dct-business-2003-03-17-pc-deals]]
-- 1.3 GHz Celeron -> 1.7 GHz Celeron at same price — [[study-dct-dceit-observations-2002-06]]
 - $399 — [[study-dct-emachines-q1-2003-lineup]]
 - $499 — [[study-dct-emachines-q1-2003-lineup]]
 - Celeron CPUs consistently hold lowest price point under $600 — [[study-dct-intel-processor-prices-2003-01]]

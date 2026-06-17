@@ -3,7 +3,7 @@ title: "Soft Mountain -- Event Driven Java: The Super-Glue Telecoms Require"
 slug: "study-soft-mountain-java-a396b5"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "soft-mountain-java-a396b5"
 author: "Traver H. Kennedy (Aberdeen Group)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.29
+prescience_obs_count: 7
 ---
 
 # Soft Mountain -- Event Driven Java: The Super-Glue Telecoms Require
@@ -32,12 +32,12 @@ _Published 1997, author **Traver H. Kennedy (Aberdeen Group)**, type **market-st
 
 ## Top observations
 
+- Networks increasingly decentralized and non-homogeneous; provisioning and delivering new services is challenged `[ps=5]`
+- Java provides flexibility to combine legacy infrastructure with new application deployment; suitable for telecom integration `[ps=4]`
+- Java became dominant enterprise middleware platform; used widely in telecom OSS/BSS systems `[ps=4]`
+- New services must integrate with existing billing and management infrastructure `[ps=4]`
+- Electronic commerce and intranet services hinge on sophisticated transaction processing and fool-proof security and reliability `[ps=4]`
+- Implied viable vendor for telecom integration use case; Aberdeen publication implies endorsement `[ps=2]`
+- No evidence of successful company growth or acquisition; likely dissolved during dot-com era without major footprint `[ps=0]`
 - New groupware/hosting/intelligent network applications are primary revenue opportunity for carriers and ISPs
-- Networks increasingly decentralized and non-homogeneous; provisioning and delivering new services is challenged
-- Java provides flexibility to combine legacy infrastructure with new application deployment; suitable for telecom integration
 - Real-time event-driven software empowering network managers to incorporate variety of network elements and switching platforms
-- Implied viable vendor for telecom integration use case; Aberdeen publication implies endorsement
-- No evidence of successful company growth or acquisition; likely dissolved during dot-com era without major footprint
-- Java became dominant enterprise middleware platform; used widely in telecom OSS/BSS systems
-- New services must integrate with existing billing and management infrastructure
-- Electronic commerce and intranet services hinge on sophisticated transaction processing and fool-proof security and reliability

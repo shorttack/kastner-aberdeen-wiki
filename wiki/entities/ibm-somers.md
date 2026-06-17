@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM Somers (analyst relations team)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Project eLiza Positioning and Messaging Strategy Workshop held at IBM Somers on May 16, 2001. — [[study-ibm-messaging-workshop-report-final-9-ef7fbc]]
+- Project eLiza Positioning and Messaging Strategy Workshop held at IBM Somers on May 16, 2001. `[ps=0]` — [[study-ibm-messaging-workshop-report-final-9-ef7fbc]]

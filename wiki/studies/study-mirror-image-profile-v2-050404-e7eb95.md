@@ -3,7 +3,7 @@ title: "Mirror Image Internet Advances Delivery Services for Current and New Cus
 slug: "study-mirror-image-profile-v2-050404-e7eb95"
 page_type: "study"
 tags: ["type/study", "collection/case-analysis"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "mirror-image-profile-v2-(050404)-e7eb95"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.62
+prescience_obs_count: 13
 ---
 
 # Mirror Image Internet Advances Delivery Services for Current and New Customers
@@ -32,23 +32,23 @@ _Published 2004, author **Peter S. Kastner**, type **case-analysis**._
 
 ## Top observations
 
-- more than 40 vendors
+- moving beyond static/streaming to application delivery `[ps=5]`
+- significant price pressure on straight image/web site delivery `[ps=5]`
+- central to on-the-fly content decisions by region `[ps=5]`
+- fewer servers, less room, less power, less floor space `[ps=4]`
+- rose dramatically 2001-2004 despite vendor shakeout `[ps=4]`
+- IT groups + marketing/e-commerce/creative teams should evaluate distributed application delivery capabilities `[ps=4]`
+- allows non-IT groups to manage content delivery directly `[ps=4]`
+- minimizes Mirror Image infrastructure costs; translates to lower client costs `[ps=2]`
+- one of top CDN vendors post-shakeout `[ps=1]`
+- more than 40 vendors `[ps=0]`
+- 1997 `[ps=0]`
+- more than 5 billion impressions per month (late 2003) `[ps=0]`
+- less than 45 days from request to production `[ps=0]`
 - fewer than a dozen
-- one of top CDN vendors post-shakeout
 - 75 employees
-- 1997
-- more than 5 billion impressions per month (late 2003)
-- fewer servers, less room, less power, less floor space
 - traffic filtering/IDS not needed at origin; all via CDN
-- rose dramatically 2001-2004 despite vendor shakeout
-- moving beyond static/streaming to application delivery
-- less than 45 days from request to production
-- significant price pressure on straight image/web site delivery
 - XML rules engine; geotargeting; time-of-day; rotation; wild-card replacement
-- central to on-the-fly content decisions by region
-- IT groups + marketing/e-commerce/creative teams should evaluate distributed application delivery capabilities
 - customers need verifiable data before shifting more content/app delivery to CDNs
-- minimizes Mirror Image infrastructure costs; translates to lower client costs
-- allows non-IT groups to manage content delivery directly
 - positioned to succeed as CDN evolves to application delivery
 - [UNVERIFIED]

@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "[none]"
 years_active: "1974-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Inacom Corp.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Inacom filed for bankruptcy in 2001 — third mid-tier PC distributor eliminated — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
+- Inacom filed for bankruptcy in 2001 — third mid-tier PC distributor eliminated `[ps=1]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]

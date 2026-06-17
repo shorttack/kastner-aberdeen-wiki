@@ -12,9 +12,9 @@ era: "2003-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Business Process Management (BPM)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- By 2015 BPM had evolved into iBPMS (intelligent BPMS, per Gartner) and low-code workflow automation platforms (Pegasystems, Appian, ServiceNow workflows), validating Kastner's 50% Global 5000 adoption trajectory `[ps=3]` — [[study-esb-soa-fabric-webmethods-techtarget-see-83b233]]
 - 'We're seeing at this point that roughly 50 percent of the Global 5000 are actively engaged in business process management development.' — Peter S. Kastner, VP Enterprise Integration, Aberdeen Group — [[study-esb-soa-fabric-webmethods-techtarget-see-83b233]]
 - 'Tibco has invested heavily in BPM over the last several years. Fiorano also beefed up their ESB product significantly in the BPM space in the last six months.' — Kastner — [[study-esb-soa-fabric-webmethods-techtarget-see-83b233]]
-- By 2015 BPM had evolved into iBPMS (intelligent BPMS, per Gartner) and low-code workflow automation platforms (Pegasystems, Appian, ServiceNow workflows), validating Kastner's 50% Global 5000 adoption trajectory — [[study-esb-soa-fabric-webmethods-techtarget-see-83b233]]

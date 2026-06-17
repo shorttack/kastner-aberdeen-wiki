@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Oacis Healthcare Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1997 revenues $25M (22% YoY growth); strong clinical data extraction; Oacis Passport web-based CIS launched early 1997; challenge: professional services partnerships — [[study-health~1-056358]]
+- 1997 revenues $25M (22% YoY growth); strong clinical data extraction; Oacis Passport web-based CIS launched early 1997; challenge: professional services partnerships `[ps=0]` — [[study-health~1-056358]]

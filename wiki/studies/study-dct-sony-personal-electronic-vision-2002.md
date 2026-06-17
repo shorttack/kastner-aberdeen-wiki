@@ -3,7 +3,7 @@ title: "Personal Electronic Technology Vision — Sony Client Presentation"
 slug: "study-dct-sony-personal-electronic-vision-2002"
 page_type: "study"
 tags: ["type/study", "collection/dct"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "dct-sony-personal-electronic-vision-2002"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.77
+prescience_obs_count: 13
 ---
 
 # Personal Electronic Technology Vision — Sony Client Presentation
@@ -32,22 +32,22 @@ _Published 2002, author **Peter S. Kastner**, type **dct**._
 
 ## Top observations
 
+- BT + WiFi-x + Cellular + GPS/Maps + Audio `[ps=5]`
+- Internet access + location-based services `[ps=5]`
+- Display/play audio/video anywhere in house on demand from central repository `[ps=4]`
+- Same form factor across home/work/play `[ps=4]`
+- High-end CE (Tweeter/home theater) for demos/missionary sales + kiosks/canned demos in traditional channels `[ps=3]`
+- Base + answering machine + VOIP phones `[ps=2]`
+- Home, in transit, and at work `[ps=0]`
+- Customer support model `[ps=0]`
+- Cable+xDSL+satellite+STB+HDTV tuner+router+firewall+Ethernet+WLAN+comm controller `[ps=0]`
+- Audio + video storage + DVD + CDRW + VCR input `[ps=0]`
+- Listed in Sony home product vision `[ps=0]`
+- Category confusion around system components; need system shelf space `[ps=0]`
+- Financing system sales; installed-base marketing `[ps=0]`
 - This fall to 3+ years out
-- Home, in transit, and at work
 - End-user requirements -> vendor hypotheses -> test/refine
 - Plug and Play Imperative
 - Upgradability (need and benefit)
-- Customer support model
-- Display/play audio/video anywhere in house on demand from central repository
-- Cable+xDSL+satellite+STB+HDTV tuner+router+firewall+Ethernet+WLAN+comm controller
 - High (PCs/printers/phones) + Low (appliance/security)
-- Audio + video storage + DVD + CDRW + VCR input
-- Listed in Sony home product vision
-- BT + WiFi-x + Cellular + GPS/Maps + Audio
-- Internet access + location-based services
 - Good UX + value-added systems + seamless P&P + superb support + field upgrades
-- High-end CE (Tweeter/home theater) for demos/missionary sales + kiosks/canned demos in traditional channels
-- Category confusion around system components; need system shelf space
-- Financing system sales; installed-base marketing
-- Base + answering machine + VOIP phones
-- Same form factor across home/work/play

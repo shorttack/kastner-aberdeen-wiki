@@ -12,9 +12,9 @@ status: "[DEFERRED]"
 successor: "[DEFERRED]"
 years_active: "1980s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Rick Case
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Rick Case closes with VAX/ACMS/Rdb/DECnet bundling as 'DECtp' integrated story — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- Rick Case closes with VAX/ACMS/Rdb/DECnet bundling as 'DECtp' integrated story `[ps=0]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]

@@ -12,9 +12,9 @@ era: "2008-present"
 lifecycle_at_study: "current"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Intel Core i7
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 4 — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- 8 — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- server-class-circa-2000 — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- 4 `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- 8 `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- server-class-circa-2000 `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]

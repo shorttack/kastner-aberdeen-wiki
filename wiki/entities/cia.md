@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1947-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Central Intelligence Agency
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kastner vetted by CIA and MI6 prior to GCHQ visit; facility appeared as normal people in normal offices doing anything-but-normal work. — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Kastner vetted by CIA and MI6 prior to GCHQ visit; facility appeared as normal people in normal offices doing anything-but-normal work. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]

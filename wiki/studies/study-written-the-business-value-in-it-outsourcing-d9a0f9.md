@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Written The Business Value In It Outsourcing (Aberdeen, 2006)"
 slug: "study-written-the-business-value-in-it-outsourcing-d9a0f9"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 3.0
-prescience_mean: 0.5
-prescience_obs_count: 6
+prescience_mean: 1.25
+prescience_obs_count: 4
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Written The Business Value In It Outsourcing (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-the-business-value-in-it-outsourcing-d9a0f9. Source: Written__The Business Value in IT Outsourcing.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Research Brief**, type **benchmark**._
@@ -36,5 +36,5 @@ _Published 2006, author **Research Brief**, type **benchmark**._
 - Over half of the companies rated best-in-class using Aberdeen’s IT maturity model measure ROI after every change, contrasted with over a third of the average and over half the laggard IT organizations. `[ps=2]`
 - We suspect this population represents up to 30% of IT outsourcing engagements. `[ps=0]`
 - Figure 1 depicts IT maturity as measured by the frequency of measuring ROI after a software application upgrade or change. `[ps=0]`
-- **Figure 1: IT Maturity — Application Upgrade/Change ROI Measurement** `[ps=-1]`
-- **----- Start of picture text -----**<br> Laggard 25% 56%<br>(30% of respondents)<br>Average 25% After each upgrade<br>(50% of respondents) 38% Never<br>Best in class 50%<br>(20% of respondents) 6%<br>0% 10% 20% 30% 40% 50% 60%<br>Source: Aberdeen Group , Achieving More Value from Enterprise Integration, May 2006<br>**----- End of picture text -----**<br> `[ps=-1]`
+- **Figure 1: IT Maturity — Application Upgrade/Change ROI Measurement**
+- **----- Start of picture text -----**<br> Laggard 25% 56%<br>(30% of respondents)<br>Average 25% After each upgrade<br>(50% of respondents) 38% Never<br>Best in class 50%<br>(20% of respondents) 6%<br>0% 10% 20% 30% 40% 50% 60%<br>Source: Aberdeen Group , Achieving More Value from Enterprise Integration, May 2006<br>**----- End of picture text -----**<br>

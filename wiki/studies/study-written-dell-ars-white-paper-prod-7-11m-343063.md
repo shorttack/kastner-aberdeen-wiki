@@ -1,5 +1,5 @@
 ---
-title: "==> picture [442 x 38] intentionally omitted <=="
+title: "Written Dell Ars White Paper Prod 7 11M (Aberdeen, 2003)"
 slug: "study-written-dell-ars-white-paper-prod-7-11m-343063"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -22,9 +22,9 @@ prescience_mean: 1.63
 prescience_obs_count: 30
 ---
 
-# ==> picture [442 x 38] intentionally omitted <==
+# Written Dell Ars White Paper Prod 7 11M (Aberdeen, 2003)
 
-> This study analyzes ==> picture [442 x 38] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-dell-ars-white-paper-prod-7-11m-343063. Source: Written__Dell ARS White Paper PROD 7-11m.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2003, author **Aberdeen Group**, type **market-study**._

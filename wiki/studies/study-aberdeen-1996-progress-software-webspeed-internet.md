@@ -3,7 +3,7 @@ title: "Progress Software's WebSpeed: Business Transaction Processing On The Int
 slug: "study-aberdeen-1996-progress-software-webspeed-internet"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1996-progress-software-webspeed-internet"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.74
+prescience_obs_count: 19
 ---
 
 # Progress Software's WebSpeed: Business Transaction Processing On The Internet
@@ -32,27 +32,27 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- Internet development tool merging proven Progress CADE with TP-monitor-like web middleware
-- $200 million
-- Approximately 20%
-- Transaction Agents maintain state across browser disconnects; enables full client-server transaction robustness
-- Spreads transaction load across multiple servers; proven effective for data-intensive apps
-- Four-tier: browser client / web server (Messenger) / Transaction Server / database server
+- Developers can rewrap existing stored procedures as web objects; reuse field-proven legacy apps `[ps=5]`
+- Internet development tool merging proven Progress CADE with TP-monitor-like web middleware `[ps=4]`
+- Transaction Agents maintain state across browser disconnects; enables full client-server transaction robustness `[ps=4]`
+- Spreads transaction load across multiple servers; proven effective for data-intensive apps `[ps=4]`
+- Four-tier: browser client / web server (Messenger) / Transaction Server / database server `[ps=4]`
+- CGI lacks robust transaction processing features necessary to scale without help `[ps=4]`
+- Aberdeen recommends enterprises focus on suppliers tackling broad Internet challenges like Progress `[ps=4]`
+- Java/J2EE became dominant enterprise internet platform by 2000; Progress 4GL relegated to legacy `[ps=4]`
+- Positive user authentication + SecurID randomly generated access codes during secure transactions `[ps=4]`
+- Generates information for runtime merge processing; allows web pages to change based on data `[ps=4]`
+- Authentication technology provider integrating with web development platforms `[ps=4]`
+- 4GL superior to immature Java for complex data-intensive programming in 1996 `[ps=3]`
+- Visual Basic is major CADE; lags in crucial Internet application technology support `[ps=2]`
+- Proven technology; adds data-intensive application scalability via state/TP-monitor support plus CADE productivity `[ps=2]`
+- $200 million `[ps=0]`
+- Approximately 20% `[ps=0]`
+- Workshop: Windows 95/NT; Transaction Server: NT, Sun Solaris, Digital Unix, IBM AIX `[ps=0]`
+- DB2/400, Oracle, PROGRESS databases `[ps=0]`
+- Supports Microsoft IIS and Netscape servers; open architecture `[ps=0]`
 - Transaction Server provides two-phase commit for multi-database data integrity; rolls back on failure
-- 4GL superior to immature Java for complex data-intensive programming in 1996
-- CGI lacks robust transaction processing features necessary to scale without help
-- Workshop: Windows 95/NT; Transaction Server: NT, Sun Solaris, Digital Unix, IBM AIX
-- DB2/400, Oracle, PROGRESS databases
-- Aberdeen recommends enterprises focus on suppliers tackling broad Internet challenges like Progress
 - Products using proven technology will succeed; WebSpeed adds proven scalability to internet
 - Progress Software survived; WebSpeed became legacy; company pivoted to OpenEdge, Telerik, Corticon
-- Java/J2EE became dominant enterprise internet platform by 2000; Progress 4GL relegated to legacy
-- Visual Basic is major CADE; lags in crucial Internet application technology support
 - Internet toolsets lead in web authoring but lack traditional database technology and legacy integration
-- Positive user authentication + SecurID randomly generated access codes during secure transactions
 - Drag-and-drop VPE; rapid creation of data-based web forms; links database schemas
-- Developers can rewrap existing stored procedures as web objects; reuse field-proven legacy apps
-- Generates information for runtime merge processing; allows web pages to change based on data
-- Authentication technology provider integrating with web development platforms
-- Supports Microsoft IIS and Netscape servers; open architecture
-- Proven technology; adds data-intensive application scalability via state/TP-monitor support plus CADE productivity

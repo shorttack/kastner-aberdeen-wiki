@@ -12,9 +12,9 @@ status: "Consolidated"
 successor: "Various (AOL EarthLink AT&T etc.)"
 years_active: "1993-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 6
 ---
 
 # Internet Service Providers (ISP market)
@@ -24,12 +24,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Confirmed: massive ISP consolidation occurred by 2000 `[ps=5]` — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
+- ISPs must address broader market beyond early adopters to survive `[ps=4]` — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
+- Competition from larger players will intensify `[ps=4]` — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
+- Confirmed: telcos and portals dominated by 2000 `[ps=2]` — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
+- Growing at rapid pace with difficulty filling orders `[ps=0]` — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
+- Customer value `[ps=0]` — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
 - 1 in 10 businesses connected; 9 in 10 not yet connected — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
-- Growing at rapid pace with difficulty filling orders — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
 - Growing sales while losing money — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
 - Strong investment value and ROI — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
-- Customer value — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
-- ISPs must address broader market beyond early adopters to survive — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
-- Confirmed: massive ISP consolidation occurred by 2000 — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
-- Competition from larger players will intensify — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]
-- Confirmed: telcos and portals dominated by 2000 — [[study-1997-dynaflo-systems----e-mail-for-the-b-854582]]

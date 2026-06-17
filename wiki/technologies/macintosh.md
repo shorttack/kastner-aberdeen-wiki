@@ -12,9 +12,9 @@ era: "1984-present"
 lifecycle_at_study: "established"
 lifecycle_current: "legacy-evolved"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Apple Macintosh
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DEC announced joint development with Apple; bringing Apple desktop systems into DEC enterprise-wide computing environment; 'just one part of our approach' — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- DEC announced joint development with Apple; bringing Apple desktop systems into DEC enterprise-wide computing environment; 'just one part of our approach' `[ps=2]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- 10 million units shipped; will continue gaining in popularity `[ps=0]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
 - 10 million units announced early 1993 — [[study-nti-3-pc-and-ws-1993-17d49b]]
 - Now leading supplier of PC systems by revenue — [[study-nti-3-pc-and-ws-1993-17d49b]]
-- 10 million units shipped; will continue gaining in popularity — [[study-nti-4-nextgen-os-timing-1993-a45049]]

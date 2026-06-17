@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-2010s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Paul DeGroot
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- current partners would feel very threatened — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]
+- current partners would feel very threatened `[ps=0]` — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]

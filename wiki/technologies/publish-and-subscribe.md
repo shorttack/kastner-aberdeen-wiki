@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 2
 ---
 
 # Publish-and-Subscribe Messaging
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- will proliferate for specific user needs; more suppliers at all levels will enter market — [[study-aberdeen-1995-commercial-messaging]]
-- verified; became dominant messaging paradigm (Apache Kafka, RabbitMQ, AWS SNS/SQS, Azure Service Bus) — [[study-aberdeen-1995-commercial-messaging]]
+- will proliferate for specific user needs; more suppliers at all levels will enter market `[ps=5]` — [[study-aberdeen-1995-commercial-messaging]]
+- verified; became dominant messaging paradigm (Apache Kafka, RabbitMQ, AWS SNS/SQS, Azure Service Bus) `[ps=5]` — [[study-aberdeen-1995-commercial-messaging]]

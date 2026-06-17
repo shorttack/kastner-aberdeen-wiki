@@ -3,7 +3,7 @@ title: "Competing for the IBM AS/400 Market: A Report to the Management of Sun M
 slug: "study-sun-as400-main-report-2002-c37e2a"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "sun-as400-main-report-2002-c37e2a"
 author: "Peter Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.56
+prescience_obs_count: 25
 ---
 
 # Competing for the IBM AS/400 Market: A Report to the Management of Sun Microsystems
@@ -32,28 +32,28 @@ _Published 2002, author **Peter Kastner**, type **market-study**._
 
 ## Top observations
 
-- 450,000 machine AS/400 installed base
-- $7.7B
-- $2.6B
-- 23%
-- $13.5B
-- $56B
-- 1-2-way @ $50-150K
-- 400 to 375,000 TPM-C
-- 85% of revenues through partners
-- one of the industry's leading business partner programs
-- relatively poor; premium-priced, particularly on upgrades
-- customers generally satisfied; no Oracle DBA required
-- Europe is the key battle ground; targeted SMB market
-- well crafted, tested, working positioning and messages
-- replace old AS/400s and centralize
-- IGS-driven WebSphere upgrade
-- HP3000
-- Notes Domino, portals, mid-market ERP with Navision
-- modernize customer apps in CRM/BI, ERP, SCM
-- selectively target small business (<100 employees)
-- replace or refinance Y2K-era machines
-- Regatta transition will unleash ISV camp conflicts between AIX and OS/400 partners
-- Linux emergence in the enterprise creates new opportunity for Sun
-- Sun has superior price and price-performance vs iSeries
-- Sun never captured meaningful AS/400 displacement share before Oracle acquisition; iSeries continued as IBM i on Power Systems
+- Oracle acquired Sun Microsystems for $7.4B in 2010 `[ps=5]`
+- relatively poor; premium-priced, particularly on upgrades `[ps=4]`
+- 90%+ of base is 'rather-die-than-switch' `[ps=4]`
+- 75% of installed base in low/no-growth state of inertia `[ps=4]`
+- Sun must match IBM partner program; any non-partner-led program will fail `[ps=4]`
+- Accenture and global SIs are short-list for frank discussions on CRM/EAS/SCM/B2B `[ps=4]`
+- Europe is the key battle ground; targeted SMB market `[ps=3]`
+- modernize customer apps in CRM/BI, ERP, SCM `[ps=3]`
+- Regatta transition will unleash ISV camp conflicts between AIX and OS/400 partners `[ps=2]`
+- Linux emergence in the enterprise creates new opportunity for Sun `[ps=2]`
+- Sun has superior price and price-performance vs iSeries `[ps=2]`
+- 'Freeze AS/400, go with Sun for new business apps and Edge (H1)' `[ps=2]`
+- $7.7B `[ps=0]`
+- $2.6B `[ps=0]`
+- $56B `[ps=0]`
+- 1-2-way @ $50-150K `[ps=0]`
+- 400 to 375,000 TPM-C `[ps=0]`
+- 85% of revenues through partners `[ps=0]`
+- well crafted, tested, working positioning and messages `[ps=0]`
+- HP3000 `[ps=0]`
+- Notes Domino, portals, mid-market ERP with Navision `[ps=0]`
+- replace or refinance Y2K-era machines `[ps=0]`
+- $1.87B `[ps=0]`
+- $452M (11% × 40% yield) `[ps=0]`
+- Need comprehensive comparative analysis of IBM vs Sun partner programs `[ps=0]`

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM (acquired 1995 for $3.5B)"
 years_active: "1982-1995"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Lotus Development Corporation (IBM)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM acquired Lotus Development Corporation for $3.5B in 1995 — [[study-aberdeen-1995-novell-predicament]]
+- IBM acquired Lotus Development Corporation for $3.5B in 1995 `[ps=5]` — [[study-aberdeen-1995-novell-predicament]]

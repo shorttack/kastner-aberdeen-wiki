@@ -12,9 +12,9 @@ status: "unknown"
 successor: "[DEFERRED]"
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Carreckers
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Carreckers (mid-market) abandoned all old disparate systems for a web-based PeopleSoft suite hosted via ASP; retained only 2 integrated applications; customized only HR essentials. — [[study-oracle-wp-prod-6-a42b4b]]
+- Carreckers (mid-market) abandoned all old disparate systems for a web-based PeopleSoft suite hosted via ASP; retained only 2 integrated applications; customized only HR essentials. `[ps=2]` — [[study-oracle-wp-prod-6-a42b4b]]

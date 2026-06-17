@@ -12,9 +12,9 @@ status: "acquired"
 successor: "FIS Global (2019)"
 years_active: "1997-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # WorldPay
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- International payment processing across multiple currencies and methods — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- International payment processing across multiple currencies and methods `[ps=0]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
 - Acquired by FIS Global for $43B in 2019; one of largest payments industry acquisitions — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]

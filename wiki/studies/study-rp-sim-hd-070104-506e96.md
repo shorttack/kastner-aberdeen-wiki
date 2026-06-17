@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 95] intentionally omitted <=="
+title: "Rp Sim Hd 070104 (Aberdeen, 2005)"
 slug: "study-rp-sim-hd-070104-506e96"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.5
-prescience_obs_count: 2
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
-# ==> picture [441 x 95] intentionally omitted <==
+# Rp Sim Hd 070104 (Aberdeen, 2005)
 
-> This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study rp-sim-hd-070104-506e96. Source: rp_sim_hd_070104.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **benchmark**._
@@ -33,4 +33,4 @@ _Published 2005, author **Aberdeen Group**, type **benchmark**._
 ## Top observations
 
 - Aberdeen Group will explore the successful methods, in terms of process and technology, used by Best in Class organizations to address the challenges of security information management and mitigate the risks of potential threats. `[ps=4]`
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

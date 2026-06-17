@@ -12,9 +12,9 @@ era: "1991-2003"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.75
+prescience_obs_count: 4
 ---
 
 # Baan Orgware
@@ -24,9 +24,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 12 to 18 months ahead — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
-- 18 to 24 months ahead — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
-- Orgware can create hundreds of customer-specific production-ready BAAN IV business objects; functions and workflows from process models — shorter implementation times; reduced costs — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
+- Orgware can create hundreds of customer-specific production-ready BAAN IV business objects; functions and workflows from process models — shorter implementation times; reduced costs `[ps=3]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
+- 12 to 18 months ahead `[ps=0]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
+- 18 to 24 months ahead `[ps=0]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
+- Up to 450 customer-specific production-ready business objects, functions and workflows `[ps=0]` — [[study-aberdeen-1996-baan-changes-rules-erp-game]]
 - Orgware is an important decision factor for companies choosing Baan solutions — [[study-aberdeen-1996-baan-changes-rules-erp-game]]
-- Up to 450 customer-specific production-ready business objects, functions and workflows — [[study-aberdeen-1996-baan-changes-rules-erp-game]]
 - Two model types: Reference Model (industry best practices) and Project Model (company-specific) — [[study-aberdeen-1996-baan-changes-rules-erp-game]]

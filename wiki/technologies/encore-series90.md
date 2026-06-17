@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: ""
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Encore Computer Series 90
@@ -22,5 +22,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
--  — [[study-encore-b7c40d]]
--  — [[study-encore-b7c40d]]
+-  `[ps=0]` — [[study-encore-b7c40d]]
+-  `[ps=0]` — [[study-encore-b7c40d]]

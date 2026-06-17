@@ -12,9 +12,9 @@ era: "1995-2001"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # 3Com Impact ISDN Modems/Adapters
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Foundation of remote access market; 3Com targets with Impact ISDN modems and AccessBuilder Internet — [[study-aberdeen-1997-3com-accelerates-remote-access-market]]
+- Foundation of remote access market; 3Com targets with Impact ISDN modems and AccessBuilder Internet `[ps=2]` — [[study-aberdeen-1997-3com-accelerates-remote-access-market]]

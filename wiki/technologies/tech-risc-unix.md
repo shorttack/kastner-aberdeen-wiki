@@ -12,9 +12,9 @@ era: "1986-2010s"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # RISC/Unix Servers
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP K100 (low-end) to T-520 (high-end) — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- HP K100 (low-end) to T-520 (high-end) `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- 5621 tpm-C (12-way) `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
 - leading supplier — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- 5621 tpm-C (12-way) — [[study-aberdeen-1995-hp-customer-interaction-software]]

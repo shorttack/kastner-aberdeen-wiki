@@ -12,9 +12,9 @@ era: "1999-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Bluestone Software (Totale middleware)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Bluestone J2EE middleware identified as HP enterprise software platform strength — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]
+- Bluestone J2EE middleware identified as HP enterprise software platform strength `[ps=2]` — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]

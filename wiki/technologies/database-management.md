@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Database management is a broad, active technology category encompassing RDBMS, NoSQL, NewSQL, and cloud databases. Market is growing and innovating rapidly.', 'source': 'General technology observation'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Database / Database Management
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Complex commercial litigation involving enterprise database technology; required expertise in relational databases at architectural and market level. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
+- Complex commercial litigation involving enterprise database technology; required expertise in relational databases at architectural and market level. `[ps=4]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]

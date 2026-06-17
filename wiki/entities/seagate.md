@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1978-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Seagate Technology
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Seagate wants to protect its dominance in FC disk market; will be reluctant to compete aggressively in midline market — [[study-09-maxtor-workshop-prep-guide-a218dc]]
-- Seagate will deny existence of midline because midline would threaten its hegemony in FC disk — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
+- Seagate wants to protect its dominance in FC disk market; will be reluctant to compete aggressively in midline market `[ps=1]` — [[study-09-maxtor-workshop-prep-guide-a218dc]]
+- Seagate will deny existence of midline because midline would threaten its hegemony in FC disk `[ps=1]` — [[study-10-maxtor-workshop-02-09-eod-53f22b]]

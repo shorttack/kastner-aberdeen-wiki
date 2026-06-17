@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "EDUCAUSE (1998 merger with Educom)"
 years_active: "1971-1998"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # CAUSE (the association for managing and using information resources in higher education)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CAUSE merged with Educom on 1998-07-01 to form EDUCAUSE; represents consolidation of higher-ed IT professional associations — [[study-data-warehouse-2-years-later-cause-1994-721bb1]]
+- CAUSE merged with Educom on 1998-07-01 to form EDUCAUSE; represents consolidation of higher-ed IT professional associations `[ps=0]` — [[study-data-warehouse-2-years-later-cause-1994-721bb1]]

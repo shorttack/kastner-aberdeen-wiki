@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Robert Paquin
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- You're buying expertise that it doesn't make sense to have full time on staff — [[study-wsj-tech-watching-analyst-industry-1998-002531]]
+- You're buying expertise that it doesn't make sense to have full time on staff `[ps=4]` — [[study-wsj-tech-watching-analyst-industry-1998-002531]]

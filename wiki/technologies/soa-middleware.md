@@ -12,9 +12,9 @@ era: "2004-2012"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'evolved', 'notes': 'SOA middleware as a distinct product category has evolved into API management platforms, microservices brokers, and cloud-native integration. Market still active (~$10.5B in 2024) but under new paradigms. IBM, Oracle, MuleSoft, Red Hat dominate. Original standalone ESB-style SOA middleware superseded.', 'source': 'https://www.amraandelma.com/soa-marketing-statistics/'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.4
+prescience_obs_count: 5
 ---
 
 # Service-Oriented Architecture (SOA) Middleware
@@ -24,9 +24,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SOA middleware picks up where raw web services leave off, providing the platform layer needed for enterprise-scale SOA — [[study-aberdeen-ra-soa-middleware-2007-68f39b]]
-- 33% — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
-- Category of one — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
-- 3 years of unutilized vertical process models — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
+- SOA middleware picks up where raw web services leave off, providing the platform layer needed for enterprise-scale SOA `[ps=4]` — [[study-aberdeen-ra-soa-middleware-2007-68f39b]]
+- Proving to lower lifecycle costs vs. prior approaches `[ps=2]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
+- Category of one `[ps=1]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
+- 33% `[ps=0]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
+- 3 years of unutilized vertical process models `[ps=0]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
 - May gain consideration following IBM blessing of vertical SOA customization concept — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
-- Proving to lower lifecycle costs vs. prior approaches — [[study-ibm-+-webify-=-industry-soa-application--97733a]]

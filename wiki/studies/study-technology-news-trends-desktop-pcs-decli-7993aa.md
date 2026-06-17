@@ -3,7 +3,7 @@ title: "Desktop PCs in Decline as Notebooks Surge"
 slug: "study-technology-news-trends-desktop-pcs-decli-7993aa"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "technology-news-trends-desktop-pcs-decli-7993aa"
 author: "Jay Lyman, TechNewsWorld"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.86
+prescience_obs_count: 7
 ---
 
 # Desktop PCs in Decline as Notebooks Surge
@@ -32,14 +32,14 @@ _Published 2004, author **Jay Lyman, TechNewsWorld**, type **news-article**._
 
 ## Top observations
 
-- with consumer and corporate notebook computers 'flying off the shelves,' the mobile segment of the PC industry has become the fastest growing -- prompting PC producers, chipmakers and software vendors to focus on the market.
+- with consumer and corporate notebook computers 'flying off the shelves,' the mobile segment of the PC industry has become the fastest growing -- prompting PC producers, chipmakers and software vendors to focus on the market. `[ps=5]`
+- 40 percent of users will count a notebook or tablet PC as their primary device `[ps=5]`
+- This multiplicity of devices will force software vendors to focus on information synchronization as well as 'thinning' or 'roaming' applications that enable users to access their information independent of the device they are using. `[ps=5]`
+- Global notebook shipments exceeded desktop shipments for the first time in 2008 per IDC data (Q3 2008 was inflection quarter) `[ps=5]`
+- In the U.S., we're forecasting portables to compose 47 percent of all PC shipments in 2007 `[ps=4]`
+- 15 percent will be using thin clients or other information appliances, such as handhelds `[ps=2]`
+- trends will help move the tablet form factor into the mainstream by 2006, when one-third of all corporate notebooks will include tablet capabilities. `[ps=1]`
 - by 2006, just 45 percent of corporate users will be primarily dependent on a desktop machine
-- 40 percent of users will count a notebook or tablet PC as their primary device
-- 15 percent will be using thin clients or other information appliances, such as handhelds
 - By 2007, the average user will interact regularly with at least four distinct computing devices -- a personal home PC, smart digital entertainment system, corporate computer and mobile information device
-- This multiplicity of devices will force software vendors to focus on information synchronization as well as 'thinning' or 'roaming' applications that enable users to access their information independent of the device they are using.
-- In the U.S., we're forecasting portables to compose 47 percent of all PC shipments in 2007
 - worldwide PC shipments hit record numbers last quarter, driven by notebooks
-- trends will help move the tablet form factor into the mainstream by 2006, when one-third of all corporate notebooks will include tablet capabilities.
-- Global notebook shipments exceeded desktop shipments for the first time in 2008 per IDC data (Q3 2008 was inflection quarter)
 - By 2010, notebooks reached 70%+ of all PC shipments globally per IDC/Gartner tracking

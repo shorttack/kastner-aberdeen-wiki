@@ -12,9 +12,9 @@ era: "1997-2008"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.67
+prescience_obs_count: 3
 ---
 
 # Microsoft Wolfpack / Microsoft Cluster Server (MSCS)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Recovery measured in minutes; requires reboot — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]
-- Expected to ship later in 1997 — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]
-- Shipped September 1997 with Windows NT Server 4.0 Enterprise Edition; had significant reliability problems in v1; only 2-node clusters; improved substantially in Windows 2000 — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]
+- Expected to ship later in 1997 `[ps=5]` — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]
+- Shipped September 1997 with Windows NT Server 4.0 Enterprise Edition; had significant reliability problems in v1; only 2-node clusters; improved substantially in Windows 2000 `[ps=5]` — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]
+- Recovery measured in minutes; requires reboot `[ps=4]` — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]

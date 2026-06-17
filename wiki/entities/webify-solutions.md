@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM (WebSphere division)"
 years_active: "2000s-2006"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Webify Solutions
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 120 employees — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
-- Webify provides pre-built customizable SOA parts, models, and business policies for insurance, healthcare, banking, and telecom markets — [[study-ma-ibm-webify-5e0d4b]]
+- Webify provides pre-built customizable SOA parts, models, and business policies for insurance, healthcare, banking, and telecom markets `[ps=3]` — [[study-ma-ibm-webify-5e0d4b]]
+- 120 employees `[ps=0]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]

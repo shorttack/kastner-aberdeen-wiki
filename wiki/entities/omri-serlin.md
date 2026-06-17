@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 4
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.17
+prescience_obs_count: 6
 ---
 
 # Omri Serlin
@@ -29,9 +29,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TP1/ET1 measurements are 'at best ambiguous and always the subject of intense controversy' — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
-- Serlin recommends users run their own benchmarks with transactions of the type they expect to use — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
-- Official reason given is that this permits comparison across entire product line including low end — [[study-stratus-sales-support-competitive-news-1-2aac8d]]
-- August 1988: Kastner committed DEC as first TPC member to Omri Serlin over dinner. — [[study-volume-1-appendix-career-timeline]]
-- Omri Serlin, a respected OLTP analyst, had been pushing for independent audited industry-standard benchmarks for years; industry was hesitant; result was paralysis. — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
-- TPC founding commitment made over dinner in Los Altos, California between Kastner and Omri Serlin. — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- Serlin recommends users run their own benchmarks with transactions of the type they expect to use `[ps=4]` — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
+- TP1/ET1 measurements are 'at best ambiguous and always the subject of intense controversy' `[ps=3]` — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
+- Official reason given is that this permits comparison across entire product line including low end `[ps=0]` — [[study-stratus-sales-support-competitive-news-1-2aac8d]]
+- August 1988: Kastner committed DEC as first TPC member to Omri Serlin over dinner. `[ps=0]` — [[study-volume-1-appendix-career-timeline]]
+- Omri Serlin, a respected OLTP analyst, had been pushing for independent audited industry-standard benchmarks for years; industry was hesitant; result was paralysis. `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- TPC founding commitment made over dinner in Los Altos, California between Kastner and Omri Serlin. `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

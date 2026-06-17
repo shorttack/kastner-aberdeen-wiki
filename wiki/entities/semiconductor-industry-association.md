@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1977-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Semiconductor Industry Association (SIA)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 52 — [[study-sars2-hot-topic-cf91d4]]
-- 37% — [[study-sars2-hot-topic-cf91d4]]
+- 52 `[ps=0]` — [[study-sars2-hot-topic-cf91d4]]
+- 37% `[ps=0]` — [[study-sars2-hot-topic-cf91d4]]
+- 11% `[ps=0]` — [[study-sars2-hot-topic-cf91d4]]
 - 65 — [[study-sars2-hot-topic-cf91d4]]
-- 11% — [[study-sars2-hot-topic-cf91d4]]

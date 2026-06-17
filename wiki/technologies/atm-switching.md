@@ -12,9 +12,9 @@ era: "1991-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # ATM Switching (Asynchronous Transfer Mode)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- First national ATM data service US (1993); first international ATM (1994); first FR over ATM (1994) — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
-- First to offer VBR (Variable Bit Rate) voice with toll quality fidelity over ATM — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
+- First national ATM data service US (1993); first international ATM (1994); first FR over ATM (1994) `[ps=0]` — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
+- First to offer VBR (Variable Bit Rate) voice with toll quality fidelity over ATM `[ps=0]` — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]

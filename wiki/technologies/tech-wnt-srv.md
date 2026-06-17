@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Growing/Enterprise"
 lifecycle_current: "Obsolete (succeeded by Windows Server 2000+)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 6
 ---
 
 # Windows NT Server
@@ -24,9 +24,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- -33% (one-third decrease in performance) — [[study-1997-nt-case-41-56aa2e]]
-- +50% (fifty-percent increase in management costs) — [[study-1997-nt-case-41-56aa2e]]
-- 70% complete; remaining 30% considered extremely difficult — [[study-1997-nt-case-41-56aa2e]]
-- Unable to service more than modest numbers of end-users; increasing domain engine count required — [[study-1997-nt-case-41-56aa2e]]
-- Microsoft selling NT as a loss-leader to gain enterprise market share — [[study-1997-nt-case-41-56aa2e]]
-- Windows Server dominated enterprise by early 2000s; NT 4.0 succeeded by Windows 2000/2003 — [[study-1997-nt-case-41-56aa2e]]
+- Windows Server dominated enterprise by early 2000s; NT 4.0 succeeded by Windows 2000/2003 `[ps=5]` — [[study-1997-nt-case-41-56aa2e]]
+- Microsoft selling NT as a loss-leader to gain enterprise market share `[ps=4]` — [[study-1997-nt-case-41-56aa2e]]
+- Unable to service more than modest numbers of end-users; increasing domain engine count required `[ps=3]` — [[study-1997-nt-case-41-56aa2e]]
+- -33% (one-third decrease in performance) `[ps=0]` — [[study-1997-nt-case-41-56aa2e]]
+- +50% (fifty-percent increase in management costs) `[ps=0]` — [[study-1997-nt-case-41-56aa2e]]
+- 70% complete; remaining 30% considered extremely difficult `[ps=0]` — [[study-1997-nt-case-41-56aa2e]]

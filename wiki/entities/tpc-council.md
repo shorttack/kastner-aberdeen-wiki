@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1988-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Transaction Processing Performance Council (TPC)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 90% of all servers sold are 4-processor-or-less — [[study-aberdeen-1996-debunking-ntsmp-scalability-myth]]
+- 90% of all servers sold are 4-processor-or-less `[ps=5]` — [[study-aberdeen-1996-debunking-ntsmp-scalability-myth]]

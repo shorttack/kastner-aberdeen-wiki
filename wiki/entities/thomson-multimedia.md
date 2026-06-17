@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Thomson multimedia
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 10/100 Ethernet + USB + HomePNA 2.0 + unlimited video channels with surround + VOD + EPG + Internet/email + interactive services — [[study-dct-dceit-practice-v6-2002]]
+- 10/100 Ethernet + USB + HomePNA 2.0 + unlimited video channels with surround + VOD + EPG + Internet/email + interactive services `[ps=3]` — [[study-dct-dceit-practice-v6-2002]]

@@ -12,9 +12,9 @@ status: "merged"
 successor: "Avaya (2000)"
 years_active: "1996-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Lucent NetCare
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Lucent NetCare profiled as NIS provider for Commercial Financial Services case study — [[study-1998-network-integration-services-report-f75108]]
+- Lucent NetCare profiled as NIS provider for Commercial Financial Services case study `[ps=0]` — [[study-1998-network-integration-services-report-f75108]]

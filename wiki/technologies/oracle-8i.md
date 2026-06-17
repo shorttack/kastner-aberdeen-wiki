@@ -12,9 +12,9 @@ era: "1999-2001"
 lifecycle_at_study: "early-commercial"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Oracle 8i
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle 8i-driven warehouse as center of e-business universe; 81 schemas; embedded BI embedded mining — [[study-data-know-69ab04]]
+- Oracle 8i-driven warehouse as center of e-business universe; 81 schemas; embedded BI embedded mining `[ps=3]` — [[study-data-know-69ab04]]

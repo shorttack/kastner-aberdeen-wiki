@@ -12,9 +12,9 @@ status: "divested"
 successor: "Francisco Partners (2022)"
 years_active: "2015-2022"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # IBM Watson Health
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM sold Watson Health data/analytics products for ~$1B after $5B investment; 7000 staff at peak — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]
+- IBM sold Watson Health data/analytics products for ~$1B after $5B investment; 7000 staff at peak `[ps=5]` — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]

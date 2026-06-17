@@ -12,9 +12,9 @@ era: "1997-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Marcam Protean
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- First fully object-based Process ERP solution; competitors underestimate at their risk — [[study-erpv2p~1-b15573]]
+- First fully object-based Process ERP solution; competitors underestimate at their risk `[ps=2]` — [[study-erpv2p~1-b15573]]

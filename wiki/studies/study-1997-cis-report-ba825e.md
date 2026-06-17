@@ -3,7 +3,7 @@ title: "Managing Customers with Next-Generation Software Applications: 1997 Edit
 slug: "study-1997-cis-report-ba825e"
 page_type: "study"
 tags: ["type/study", "collection/market-research-report"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-cis-report-ba825e"
 author: "Hugh Bishop, Chris Pavlic & Bill Hills (Aberdeen Group)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.16
+prescience_obs_count: 25
 ---
 
 # Managing Customers with Next-Generation Software Applications: 1997 Edition
@@ -32,28 +32,28 @@ _Published 1997, author **Hugh Bishop, Chris Pavlic & Bill Hills (Aberdeen Group
 
 ## Top observations
 
-- Reactive customer service; handling complaints, returns, inquiries; key CIS function
-- Lead tracking, opportunity management, account management, forecasting; most mature CIS category
-- Outbound calling, campaign management, lead qualification via telephone channels
-- Complex product quoting and configuration; enables accurate pricing for multi-option products
-- IT service desk for employee support; tracking incidents and resolutions
-- Fundamental shift in how CIS applications are architected and deployed; transition underway
-- Critical enabling technology; integrates phone systems with CIS to pass caller data to agent screens
-- Rapidly emerging trend; enabling 360-degree customer view by connecting front-office to back-office data
-- Leading SFA vendor; profiled as dominant supplier of sales force automation software
-- ~22% CRM market share in call center/customer service segment; major market player
-- CRM suite vendor covering SFA, call center, and field service; publicly traded
-- Action Request System; leading internal help desk platform; strong workflow capabilities
-- Customer service software focused on call center and case management
-- SFA and sales management software vendor; already in acquisition process at time of report
-- Multi-hundred million dollar market; report priced at $895 for 246-page analysis
-- Over 60 CIS software suppliers profiled; 7 systems integrators; 3 systems suppliers
-- CIS clearly demonstrated ability to raise revenues; user organizations using CIS pulling ahead of rivals in customer satisfaction, retention, new business development, and profitability
-- Siebel positioned as top-tier CIS vendor; expected to remain dominant SFA supplier
-- Siebel peaked at ~45% CRM market share in 2002; acquired by Oracle for $5.8B in 2005; Oracle Siebel persists as legacy on-premises CRM
-- Vantive positioned as integrated CRM vendor; expected to grow as market consolidates
-- Acquired by PeopleSoft in $433M stock-for-stock deal (December 1999); PeopleSoft then acquired by Oracle ($10.3B, 2004); Vantive brand dissolved
-- Clarify positioned as ~22% market share leader in customer service segment; expected to grow
-- Acquired by Nortel Networks for $2.1B (2000) — a networking company buying CRM; Nortel sold Clarify to Amdocs for $200M (2001), a 90% value destruction in 2 years
-- Scopus positioned as customer service/call center specialist; expected to compete in maturing CIS market
-- Acquired by Siebel Systems for $460M in stock (March 1998) — just 6 months after this report; Siebel gained call-center/customer-service capabilities to complement its SFA strength
+- Critical enabling technology; integrates phone systems with CIS to pass caller data to agent screens `[ps=5]`
+- Rapidly emerging trend; enabling 360-degree customer view by connecting front-office to back-office data `[ps=5]`
+- Siebel peaked at ~45% CRM market share in 2002; acquired by Oracle for $5.8B in 2005; Oracle Siebel persists as legacy on-premises CRM `[ps=5]`
+- Acquired by PeopleSoft in $433M stock-for-stock deal (December 1999); PeopleSoft then acquired by Oracle ($10.3B, 2004); Vantive brand dissolved `[ps=5]`
+- Acquired by Nortel Networks for $2.1B (2000) — a networking company buying CRM; Nortel sold Clarify to Amdocs for $200M (2001), a 90% value destruction in 2 years `[ps=5]`
+- Acquired by Peregrine Systems (2001) during Peregrine's acquisition spree; Peregrine filed bankruptcy (2002) due to accounting fraud; Remedy assets sold to BMC Software for $355M (November 2002); Remedy ARS became BMC Remedy ITSM `[ps=5]`
+- Reactive customer service; handling complaints, returns, inquiries; key CIS function `[ps=4]`
+- Lead tracking, opportunity management, account management, forecasting; most mature CIS category `[ps=4]`
+- Outbound calling, campaign management, lead qualification via telephone channels `[ps=4]`
+- IT service desk for employee support; tracking incidents and resolutions `[ps=4]`
+- Fundamental shift in how CIS applications are architected and deployed; transition underway `[ps=4]`
+- Action Request System; leading internal help desk platform; strong workflow capabilities `[ps=4]`
+- Web became the dominant CIS/CRM delivery architecture by 2001-2003; Salesforce.com (1999) validated fully cloud-based CRM; all major vendors migrated to web/SaaS by 2010 `[ps=4]`
+- CIS-ERP integration became a major enterprise software battleground; SAP mySAP CRM and Oracle's E-Business Suite CRM were built on this premise; integration is now table stakes for all enterprise CRM `[ps=4]`
+- Acquired by Baan Company for ~$250M in stock (May 1997); became BaanFrontOffice Suite; Baan filed bankruptcy (1999); Baan acquired by Invensys then SSA Global Technologies; Aurum technology eventually absorbed into Infor `[ps=4]`
+- Customer service software focused on call center and case management `[ps=3]`
+- Siebel positioned as top-tier CIS vendor; expected to remain dominant SFA supplier `[ps=3]`
+- Scopus positioned as customer service/call center specialist; expected to compete in maturing CIS market `[ps=3]`
+- Vantive positioned as integrated CRM vendor; expected to grow as market consolidates `[ps=2]`
+- Clarify positioned as ~22% market share leader in customer service segment; expected to grow `[ps=2]`
+- Leading SFA vendor; profiled as dominant supplier of sales force automation software `[ps=0]`
+- ~22% CRM market share in call center/customer service segment; major market player `[ps=0]`
+- CRM suite vendor covering SFA, call center, and field service; publicly traded `[ps=0]`
+- SFA and sales management software vendor; already in acquisition process at time of report `[ps=0]`
+- Over 60 CIS software suppliers profiled; 7 systems integrators; 3 systems suppliers `[ps=0]`

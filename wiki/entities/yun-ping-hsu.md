@@ -12,9 +12,9 @@ status: "unknown"
 successor: "[none]"
 years_active: "1980s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Yun-Ping Hsu
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- co-author — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
+- co-author `[ps=0]` — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]

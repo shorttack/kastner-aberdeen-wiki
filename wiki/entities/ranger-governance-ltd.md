@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "2001-"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Ranger Governance Ltd.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Initially proposed ousting entire board of 10 directors including Wang and Kumar in favor of new slate — [[study-eweek-ca-team-victorious-proxy-fight-200-c424f4]]
+- Initially proposed ousting entire board of 10 directors including Wang and Kumar in favor of new slate `[ps=0]` — [[study-eweek-ca-team-victorious-proxy-fight-200-c424f4]]

@@ -12,9 +12,9 @@ status: "rebranded"
 successor: "IBM Global Business Services"
 years_active: "2002-2008"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM Business Consulting Services (BCS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Alignment challenge: how to have direct relationship with IBM BCS and fulfill analyst-relations obligations — a structural tension in IBM's multi-BU organization. — [[study-ibm-scm-murray2-tm-4a0fbf]]
+- Alignment challenge: how to have direct relationship with IBM BCS and fulfill analyst-relations obligations — a structural tension in IBM's multi-BU organization. `[ps=4]` — [[study-ibm-scm-murray2-tm-4a0fbf]]

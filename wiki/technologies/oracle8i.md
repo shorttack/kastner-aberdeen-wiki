@@ -12,9 +12,9 @@ era: "1998-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Oracle8i Database
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle8i (1998) delivered Java VM integration, XML support, and further OR enhancements; Oracle9i (2001) added RAC and XML DB; predictions proved substantially correct — [[study-1997-oracle8-the-database-for-network-computing-674c9d]]
+- Oracle8i (1998) delivered Java VM integration, XML support, and further OR enhancements; Oracle9i (2001) added RAC and XML DB; predictions proved substantially correct `[ps=5]` — [[study-1997-oracle8-the-database-for-network-computing-674c9d]]

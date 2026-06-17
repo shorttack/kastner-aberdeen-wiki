@@ -12,9 +12,9 @@ era: "1996-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # CyberSWITCH Family
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Scales from carrier/service provider to SOHO; supports ISDN, frame relay, analog/digital modems; planned ADSL with Motorola; based on Network Express and Netlink acquisitions — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]
+- Scales from carrier/service provider to SOHO; supports ISDN, frame relay, analog/digital modems; planned ADSL with Motorola; based on Network Express and Netlink acquisitions `[ps=0]` — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]

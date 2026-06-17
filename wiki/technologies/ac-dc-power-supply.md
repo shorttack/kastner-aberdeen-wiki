@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'AC-to-DC power supplies are fundamental electronics components, actively manufactured and used across all electronic devices, servers, and computing equipment.', 'source': 'General electronics industry'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # AC-to-DC Power Supply (electronics component)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Single-source dependence: laptop assembly cannot ship without PRC power supply — [[study-2003-sars-electronics-supply-chain-ec0375]]
-- 100% manufactured in PRC — [[study-sars2-hot-topic-cf91d4]]
+- Single-source dependence: laptop assembly cannot ship without PRC power supply `[ps=4]` — [[study-2003-sars-electronics-supply-chain-ec0375]]
+- 100% manufactured in PRC `[ps=0]` — [[study-sars2-hot-topic-cf91d4]]

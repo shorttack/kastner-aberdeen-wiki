@@ -12,9 +12,9 @@ status: "active"
 successor: "Alphabet (2015)"
 years_active: "1998-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Google LLC
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- "Attention is All You Need" (Vaswani et al., Google, 2017): self-attention mechanisms for parallel sequence processing; enabled training on vastly larger datasets efficiently. `[ps=5]` — [[study-volume-1-ch10-the-long-view-1966-2026]]
 - fortune-500-hacking — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- "Attention is All You Need" (Vaswani et al., Google, 2017): self-attention mechanisms for parallel sequence processing; enabled training on vastly larger datasets efficiently. — [[study-volume-1-ch10-the-long-view-1966-2026]]

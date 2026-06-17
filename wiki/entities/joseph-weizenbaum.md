@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Joseph Weizenbaum
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ELIZA (MIT, 1966, Joseph Weizenbaum): first chatbot; demonstrated pattern-matching rules could simulate conversation convincingly. No actual language understanding; worked by reflecting user statements as questions. — [[study-volume-1-ch10-the-long-view-1966-2026]]
+- ELIZA (MIT, 1966, Joseph Weizenbaum): first chatbot; demonstrated pattern-matching rules could simulate conversation convincingly. No actual language understanding; worked by reflecting user statements as questions. `[ps=5]` — [[study-volume-1-ch10-the-long-view-1966-2026]]

@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Regression Testing
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 64% — [[study-ra-soa-2007-97c147]]
-- 38% — [[study-ra-soa-2007-97c147]]
+- 64% `[ps=0]` — [[study-ra-soa-2007-97c147]]
+- 38% `[ps=0]` — [[study-ra-soa-2007-97c147]]

@@ -3,7 +3,7 @@ title: "Dell Asset Recovery Services: An Effective Solution to a Very Real Probl
 slug: "study-2003-dell-ars-white-paper-53d13d"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2003-dell-ars-white-paper-53d13d"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.13
+prescience_obs_count: 31
 ---
 
 # Dell Asset Recovery Services: An Effective Solution to a Very Real Problem
@@ -32,28 +32,28 @@ _Published 2003, author **Aberdeen Group**, type **white-paper**._
 
 ## Top observations
 
-- $387+
-- $49/unit
-- $69/unit
-- 9.6%/month
-- 400M+ units
-- >25%
-- $1M+
-- $1.54M
-- $16-$185/drive
-- 2h 40m
-- 6h+
-- $12-$198/unit
-- $368/year
-- 36 months
-- rising
-- confirmed
-- predicted
-- confirmed
-- increasing
-- confirmed
-- increasing
-- confirmed
-- recommended
-- logistics/disposition/reporting
-- 40 units
+- not core competency `[ps=4]`
+- $387+ `[ps=0]`
+- $49/unit `[ps=0]`
+- $69/unit `[ps=0]`
+- 400M+ units `[ps=0]`
+- >25% `[ps=0]`
+- $1M+ `[ps=0]`
+- $1.54M `[ps=0]`
+- $16-$185/drive `[ps=0]`
+- 2h 40m `[ps=0]`
+- 6h+ `[ps=0]`
+- $12-$198/unit `[ps=0]`
+- $368/year `[ps=0]`
+- predicted `[ps=0]`
+- confirmed `[ps=0]`
+- increasing `[ps=0]`
+- confirmed `[ps=0]`
+- recommended `[ps=0]`
+- logistics/disposition/reporting `[ps=0]`
+- 40 units `[ps=0]`
+- confirmed `[ps=0]`
+- confirmed `[ps=0]`
+- confirmed `[ps=0]`
+- experience/track-record/geography/financial-strength `[ps=0]`
+- recommended `[ps=0]`

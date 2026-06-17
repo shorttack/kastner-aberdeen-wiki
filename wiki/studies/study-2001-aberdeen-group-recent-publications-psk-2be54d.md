@@ -3,7 +3,7 @@ title: "Aberdeen Group Recent Publications — Peter S. Kastner Edition (2001)"
 slug: "study-2001-aberdeen-group-recent-publications-psk-2be54d"
 page_type: "study"
 tags: ["type/study", "collection/publication-catalog"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2001-aberdeen-group-recent-publications-psk-2be54d"
 author: "Peter S. Kastner (compiler); multiple Aberdeen Group analysts"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.3
+prescience_obs_count: 33
 ---
 
 # Aberdeen Group Recent Publications — Peter S. Kastner Edition (2001)
@@ -32,28 +32,28 @@ _Published 2001, author **Peter S. Kastner (compiler); multiple Aberdeen Group a
 
 ## Top observations
 
-- Linux will join IBM z/OS and Microsoft Windows as primary server OSs before end of decade (2010)
-- Linux dominated TOP500 HPC list by 2004+; became primary server OS by 2010
-- Linux will be successful alternative to proprietary systems in high-performance computing
-- Significant majority of ASPs will be seeking additional funding rounds; many will fail
-- Most first-generation ASPs did fail; model pivoted to SaaS by mid-2000s
-- Almost all previous Windows users are going to enjoy living with Windows XP
-- Windows XP became most widely deployed OS in history; Microsoft supported until April 2014
-- Pocket PC will eclipse Palm OS as leading handheld platform by 2005
-- Palm OS declined but iPhone (2007) disrupted both platforms; Pocket PC did gain enterprise share but was itself displaced
-- Two InSights published Nov 2001: Manter (density/cost) and Tanner (SAN virtualization pairing)
-- C&W paid $850M for majority of Exodus assets; 30 data centers; ~3,500 customers
-- Exodus filed Chapter 11 Sep 2001; C&W acquired assets for $755M-$850M Nov 2001
-- HP announced acquisition of Compaq; Aberdeen published multiple InSights examining implications
-- HP completed acquisition of Compaq in May 2002 for ~$25B
-- SAP is 'Once and Future King' — not ready to cede ERP market hegemony
-- SAP remains #1 ERP vendor globally with >400,000 customers in 2025
-- Microsoft's entry into CRM is single biggest threat AND single largest opportunity in market
-- Microsoft Dynamics became #2 CRM market share by 2015; Salesforce #1 but Microsoft major challenger
-- Unisys ES7000 set new SAP standard on Windows/Intel platform
-- HSP market at crossroads: slow adoption and strategy changes opening door for market reordering
-- Aberdeen analysis: events of Sep 11 impact on world's 800-pound gorilla economy
-- DSO, anthrax postal disruption will likely increase appeal for EBPP and e-payment technologies near term
-- EBPP market grew significantly through 2005-2010; now dominant billing method in US
-- Despite downturn: customers, security, and software infrastructure driving spending
-- Enterprise WLANs need security/management systems to become enterprise-strength
+- Linux will be successful alternative to proprietary systems in high-performance computing `[ps=5]`
+- Significant majority of ASPs will be seeking additional funding rounds; many will fail `[ps=5]`
+- Most first-generation ASPs did fail; model pivoted to SaaS by mid-2000s `[ps=5]`
+- Almost all previous Windows users are going to enjoy living with Windows XP `[ps=5]`
+- Palm OS declined but iPhone (2007) disrupted both platforms; Pocket PC did gain enterprise share but was itself displaced `[ps=5]`
+- Exodus filed Chapter 11 Sep 2001; C&W acquired assets for $755M-$850M Nov 2001 `[ps=5]`
+- HP completed acquisition of Compaq in May 2002 for ~$25B `[ps=5]`
+- SAP remains #1 ERP vendor globally with >400,000 customers in 2025 `[ps=5]`
+- Despite downturn: customers, security, and software infrastructure driving spending `[ps=5]`
+- Commerce One filed for bankruptcy in 2004; BayanTrade model did not scale `[ps=5]`
+- Linux will join IBM z/OS and Microsoft Windows as primary server OSs before end of decade (2010) `[ps=4]`
+- SAP is 'Once and Future King' — not ready to cede ERP market hegemony `[ps=4]`
+- DSO, anthrax postal disruption will likely increase appeal for EBPP and e-payment technologies near term `[ps=4]`
+- EBPP market grew significantly through 2005-2010; now dominant billing method in US `[ps=4]`
+- Offshore software development industry highly diverse; globalization and localization key dynamics `[ps=4]`
+- India offshore software market grew from ~$9B in 2001 to >$50B by 2010 `[ps=4]`
+- EMA offers antidote to down economy; significant market opportunity calculated by Aberdeen `[ps=4]`
+- Microsoft Great Plains: widening product breadth, international growth, up-market enterprise sales, likely new mid-market CRM contender `[ps=4]`
+- Customer Interaction Management outsourcing is savvy approach in uncertain 2001 business climate `[ps=4]`
+- Windows XP became most widely deployed OS in history; Microsoft supported until April 2014 `[ps=3]`
+- Microsoft's entry into CRM is single biggest threat AND single largest opportunity in market `[ps=3]`
+- Net markets can succeed using Aberdeen's liquidity measurement framework to identify leaders `[ps=3]`
+- Informatica's analytical applications help enterprises understand cross-enterprise implications of departmental strategy shifts `[ps=3]`
+- Microsoft Dynamics became #2 CRM market share by 2015; Salesforce #1 but Microsoft major challenger `[ps=2]`
+- CA ITRM provides basis for running IT as a cohesive business entity; integrated but modular `[ps=2]`

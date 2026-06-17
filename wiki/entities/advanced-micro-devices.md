@@ -12,9 +12,9 @@ status: "unknown"
 successor: "[DEFERRED]"
 years_active: "1969-present"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.1
+prescience_obs_count: 21
 ---
 
 # Advanced Micro Devices (AMD)
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Using clock-speed GHz equivalency ratings pegged to Intel Pentium 4 — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
-- Assumes specific usage model not applicable to many users — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
-- Ignores critical platform differences including memory type — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
-- Inconsistent ratings between mobile and desktop processor lines — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
-- Uses system-level I/O benchmarks not used by industry for processor-only measurement — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
-- Bad science / slippery slope — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
-- Methodology is fundamentally flawed and unlikely to be sustained — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
-- AMD launched Athlon 64 in September 2003 without GHz-Equivalency PR ratings — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
-- Athlon XP 2100+ runs at 1733 MHz; implies equivalence to Intel Pentium 4 at 2100 MHz — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
-- $5.4 billion — [[study-2006-amd-ati-acquisition-cf19ff]]
-- approximately 20% — [[study-2006-amd-ati-acquisition-cf19ff]]
-- tripled in past three years — [[study-2006-amd-ati-acquisition-cf19ff]]
-- less innovation and higher prices in enterprise volume servers and workstations — [[study-2006-amd-ati-acquisition-cf19ff]]
-- AMD's post-merger market outcome by 2007 was poor. AMD acquired ATI for $5.4 billion in 2006 but the combined company struggled significantly. AMD's CPU market share dropped as Intel released Core 2 in 2006, and the ATI integration created substantial debt and operational difficulties. By 2007-2008 AMD was in financial distress. — [[study-2006-amd-ati-acquisition-cf19ff]]
-- tightly integrated designs visible late 2007 and completely in 2008 — [[study-2006-amd-ati-acquisition-cf19ff]]
-- AMD/ATI's Fusion integrated architecture (CPU+GPU on same die) was delayed significantly beyond the 2008 target. AMD announced Fusion plans in October 2006 targeting 'late 2008/early 2009,' but the first Fusion APU (Llano/Brazos) did not ship until 2011. — [[study-2006-amd-ati-acquisition-cf19ff]]
-- Athlon XP 2000+ (1.667GHz) rated equivalent to Intel P4 2.0GHz Willamette — [[study-amd-profile01-64e43b]]
-- No Athlon XP 2000+ results filed with BAPCo as of Feb 15, 2002 — [[study-amd-profile01-64e43b]]
-- ~33.3% (one-half Office Productivity plus two-thirds Content Creation) — [[study-amd-profile01-64e43b]]
-- Benchmark results updated after Arthur Andersen audit to include bug fix favoring AMD — [[study-amd-profile01-64e43b]]
+- Methodology is fundamentally flawed and unlikely to be sustained `[ps=5]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
+- Ignores critical platform differences including memory type `[ps=4]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
+- AMD's 1/3-1/3-1/3 office/content/gaming workload mix not representative of many users `[ps=4]` — [[study-amd-profile01-64e43b]]
+- Assumes specific usage model not applicable to many users `[ps=3]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
+- European ads reported GHz-E model numbers as actual GHz; could constitute deceptive trade practices `[ps=3]` — [[study-amd-profile01-64e43b]]
+- GHz-E methodology projected to break down completely within 90 days of any measurement `[ps=2]` — [[study-amd-profile01-64e43b]]
+- AMD launched Athlon 64 in September 2003 without GHz-Equivalency PR ratings `[ps=1]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
+- AMD will be forced to abandon GHz-E and introduce new rating methodology within 2002 `[ps=1]` — [[study-amd-profile01-64e43b]]
+- Using clock-speed GHz equivalency ratings pegged to Intel Pentium 4 `[ps=0]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
+- Inconsistent ratings between mobile and desktop processor lines `[ps=0]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
+- Uses system-level I/O benchmarks not used by industry for processor-only measurement `[ps=0]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
+- Bad science / slippery slope `[ps=0]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
+- Athlon XP 2100+ runs at 1733 MHz; implies equivalence to Intel Pentium 4 at 2100 MHz `[ps=0]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
+- Athlon XP 2000+ (1.667GHz) rated equivalent to Intel P4 2.0GHz Willamette `[ps=0]` — [[study-amd-profile01-64e43b]]
+- No Athlon XP 2000+ results filed with BAPCo as of Feb 15, 2002 `[ps=0]` — [[study-amd-profile01-64e43b]]
+- ~33.3% (one-half Office Productivity plus two-thirds Content Creation) `[ps=0]` — [[study-amd-profile01-64e43b]]
+- Winbench 2000 uses DirectX 7.0; AMD/Intel systems tested under DirectX 8.1 `[ps=0]` — [[study-amd-profile01-64e43b]]
+- [UNVERIFIED] `[ps=0]` — [[study-amd-profile01-64e43b]]
+- Announced October 2001 as strategic alternative to GHz-E `[ps=0]` — [[study-amd-profile01-64e43b]]
+- Business Winstone 2001 (I/O-intensive system benchmark) included to measure processor performance `[ps=0]` — [[study-amd-profile01-64e43b]]

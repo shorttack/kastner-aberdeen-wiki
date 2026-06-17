@@ -12,9 +12,9 @@ era: "2002-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # DTCP over IP (Digital Transmission Content Protection)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DTCP-over-IP uses PKI-based authentication to unlock, unscramble, and decompress protected home-network content. — [[study-intel-idf-pk-notes-3-6666da]]
+- DTCP-over-IP uses PKI-based authentication to unlock, unscramble, and decompress protected home-network content. `[ps=3]` — [[study-intel-idf-pk-notes-3-6666da]]

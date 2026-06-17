@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Industry-standard (x86) servers
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- The rampant deflation in the server marketplace has everyone running around like crazy trying to lower costs. — [[study-processor-editorial-article-one-powerhou-aa3f6c]]
+- The rampant deflation in the server marketplace has everyone running around like crazy trying to lower costs. `[ps=4]` — [[study-processor-editorial-article-one-powerhou-aa3f6c]]

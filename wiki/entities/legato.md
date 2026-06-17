@@ -12,9 +12,9 @@ status: "acquired"
 successor: "EMC Corporation (acquired October 2003; operated as Legato Software division of EMC)"
 years_active: "1988-2003"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Legato Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- backup and recovery software via Networker — [[study-storag~1-262bc7]]
+- backup and recovery software via Networker `[ps=0]` — [[study-storag~1-262bc7]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Serena Software (2006), then Micro Focus (2016)"
 years_active: "1999-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # LogicLibrary
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Defined target market for component-based development; substantiated Go To Market, Product, and Professional Services strategies; secured partners and investors — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Defined target market for component-based development; substantiated Go To Market, Product, and Professional Services strategies; secured partners and investors `[ps=0]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]

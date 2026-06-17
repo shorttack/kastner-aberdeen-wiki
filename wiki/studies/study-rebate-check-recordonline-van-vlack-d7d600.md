@@ -3,7 +3,7 @@ title: "The (rebate) check is in the mail – or is it?"
 slug: "study-rebate-check-recordonline-van-vlack-d7d600"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "rebate-check-recordonline-van-vlack-d7d600"
 author: "Jon Van Vlack, Times Herald-Record"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.83
+prescience_obs_count: 6
 ---
 
 # The (rebate) check is in the mail – or is it?
@@ -32,10 +32,10 @@ _Published 2003, author **Jon Van Vlack, Times Herald-Record**, type **news-arti
 
 ## Top observations
 
-- 60 percent of all consumers entitled to a rebate never get the refund. Manufacturers see increased sales, retailers get more sales at full price, and even the government benefits — it collects more sales tax because the tax levy is computed on higher, full-retail prices.
-- last year rebate offers amounted to more than $10 billion
-- Rebates motivate people to buy at full price, and many consumers never send in their rebates for redemption. Manufacturers have the better of two worlds when they use rebates.
-- The Washington Post recently noted that 15 percent of all consumers entitled to a rebate never complete the process
-- Rebates are a marketing game... the game is rigged
+- Major retailers (Staples, Best Buy) shifted to instant or easy-rebate programs 2005-2008; mail-in rebates declined from $10B (2002) to ~$5B (2008) and continued falling `[ps=5]`
+- 60 percent of all consumers entitled to a rebate never get the refund. Manufacturers see increased sales, retailers get more sales at full price, and even the government benefits — it collects more sales tax because the tax levy is computed on higher, full-retail prices. `[ps=4]`
+- Rebates motivate people to buy at full price, and many consumers never send in their rebates for redemption. Manufacturers have the better of two worlds when they use rebates. `[ps=4]`
+- Rebates are a marketing game... the game is rigged `[ps=4]`
+- last year rebate offers amounted to more than $10 billion `[ps=0]`
+- The Washington Post recently noted that 15 percent of all consumers entitled to a rebate never complete the process `[ps=0]`
 - 40% don't file the rebate and 20% bungle the paperwork — 60% total breakage (SmartMoney 2006)
-- Major retailers (Staples, Best Buy) shifted to instant or easy-rebate programs 2005-2008; mail-in rebates declined from $10B (2002) to ~$5B (2008) and continued falling

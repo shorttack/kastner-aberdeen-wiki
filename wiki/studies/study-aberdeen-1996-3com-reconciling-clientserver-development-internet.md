@@ -3,7 +3,7 @@ title: "Reconciling Client/Server Development and the Internet"
 slug: "study-aberdeen-1996-3com-reconciling-clientserver-development-internet"
 page_type: "study"
 tags: ["type/study", "collection/impact-report"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1996-3com-reconciling-clientserver-development-internet"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.9
+prescience_obs_count: 20
 ---
 
 # Reconciling Client/Server Development and the Internet
@@ -32,28 +32,28 @@ _Published 1996, author **Aberdeen Group**, type **impact-report**._
 
 ## Top observations
 
-- massive_enterprise_investments
-- simple_data_viewing_printing_email
-- complex_olap_oltp_data_management
-- not_suited_for_complex_transactions
-- j2ee_dominates_enterprise
-- 5_years
-- as2_ietf_standard_2002
-- web_enabled_cs_tools_will_win
-- mixed_cs_tools_evolved_web_enabled
+- net_development_seeming_important `[ps=5]`
+- internet_info_services_becoming_imperative `[ps=5]`
+- j2ee_dominates_enterprise `[ps=4]`
+- web_enabled_cs_tools_will_win `[ps=4]`
+- j2ee_iis_apache_confirmed `[ps=4]`
+- web_enable_cs_tools_single_strategy `[ps=4]`
+- blend_cs_ergonomics_with_free_net_data `[ps=4]`
+- mixed_cs_tools_evolved_web_enabled `[ps=3]`
+- sessions_intrinsic_to_cs_not_browser `[ps=3]`
+- not_suited_for_complex_transactions `[ps=1]`
+- as2_ietf_standard_2002 `[ps=1]`
+- massive_enterprise_investments `[ps=0]`
+- simple_data_viewing_printing_email `[ps=0]`
+- complex_olap_oltp_data_management `[ps=0]`
+- 5_years `[ps=0]`
+- predefined_db_queries_hr `[ps=0]`
+- emerging_labor_saving_hybrid_apps `[ps=0]`
+- 1990s_client_for_the_masses `[ps=0]`
+- look_anew_at_best_cs_tool_suppliers `[ps=0]`
+- web_server_to_app_server_partitioning `[ps=0]`
 - moving_to_app_server_partitioning
-- j2ee_iis_apache_confirmed
-- predefined_db_queries_hr
-- emerging_labor_saving_hybrid_apps
-- 1990s_client_for_the_masses
-- web_enable_cs_tools_single_strategy
-- net_development_seeming_important
 - 3com_sponsored_report
 - acquired_by_hp_2_7b
-- internet_info_services_becoming_imperative
-- sessions_intrinsic_to_cs_not_browser
 - ideal_for_catalogs_product_literature
-- look_anew_at_best_cs_tool_suppliers
-- web_server_to_app_server_partitioning
 - tcp_ip_opens_doors_to_suppliers
-- blend_cs_ergonomics_with_free_net_data

@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Service Level Agreement (SLA) Management
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Poor choices in metrics and SLAs, confusing low cost with value delivered, inflexible contract language — [[study-business-value-outsourcing-57ce57]]
-- SLAs, governance, preparation, transition, operations, change management, pricing, conflict resolution, metrics — [[study-business-value-outsourcing-57ce57]]
+- Poor choices in metrics and SLAs, confusing low cost with value delivered, inflexible contract language `[ps=4]` — [[study-business-value-outsourcing-57ce57]]
+- SLAs, governance, preparation, transition, operations, change management, pricing, conflict resolution, metrics `[ps=4]` — [[study-business-value-outsourcing-57ce57]]

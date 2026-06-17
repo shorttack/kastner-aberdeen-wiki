@@ -12,9 +12,9 @@ era: "1996-canceled"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Cairo
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Migration from NT Server to Cairo will not be transparent upgrade; will require new hardware and applications — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
+- Migration from NT Server to Cairo will not be transparent upgrade; will require new hardware and applications `[ps=2]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]

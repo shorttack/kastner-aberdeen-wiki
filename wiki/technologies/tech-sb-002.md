@@ -12,9 +12,9 @@ era: "1995-2006"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy/acquired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Siebel Sales Enterprise
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Siebel Application Upgrader is unique: enables new software releases to be seamlessly merged with previous versions and user customizations by a single command `[ps=2]` — [[study-1997-crm-siebel-systems-pr-569e52]]
 - Siebel Enterprise Applications built on N-tiered client-server architecture; supports Windows and Windows NT clients; Unix and Windows NT servers; Oracle, Sybase, Informix and MS SQL Server databases — [[study-1997-crm-siebel-systems-pr-569e52]]
-- Siebel Application Upgrader is unique: enables new software releases to be seamlessly merged with previous versions and user customizations by a single command — [[study-1997-crm-siebel-systems-pr-569e52]]

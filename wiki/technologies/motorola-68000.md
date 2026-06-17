@@ -12,9 +12,9 @@ era: "1979-1990s"
 lifecycle_at_study: "current-1982"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Motorola 68000 CPU
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Approximately $100 per Motorola 68000 in 1983 — [[study-ieee-db-stratus-32-psk-1d4564]]
+- Approximately $100 per Motorola 68000 in 1983 `[ps=0]` — [[study-ieee-db-stratus-32-psk-1d4564]]

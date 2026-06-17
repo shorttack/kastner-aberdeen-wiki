@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ra Wan Pb 3854 (Aberdeen, 2007)"
 slug: "study-ra-wan-pb-3854-d0b6ab"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.18
-prescience_obs_count: 76
+prescience_mean: 1.44
+prescience_obs_count: 68
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ra Wan Pb 3854 (Aberdeen, 2007)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-wan-pb-3854-d0b6ab. Source: ra_wan_pb_3854.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **topic-analysis**._

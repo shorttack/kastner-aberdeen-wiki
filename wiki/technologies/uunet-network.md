@@ -12,9 +12,9 @@ era: "1987-2001"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # UUNET Internet Backbone
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Private extranet on outsourced UUNET infrastructure; hub-centric translation; 270 US points of presence — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]
+- Private extranet on outsourced UUNET infrastructure; hub-centric translation; 270 US points of presence `[ps=0]` — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]

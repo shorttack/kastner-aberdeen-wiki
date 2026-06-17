@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "FlexEnable"
 years_active: "2000-2015"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Plastic Logic
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Fine jets writing circuits with conductive plastic inks — [[study-topic-semiconductor-practice-definition-2002]]
+- Fine jets writing circuits with conductive plastic inks `[ps=4]` — [[study-topic-semiconductor-practice-definition-2002]]

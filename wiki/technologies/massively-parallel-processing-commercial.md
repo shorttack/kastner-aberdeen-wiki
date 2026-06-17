@@ -12,9 +12,9 @@ era: "1983-present"
 lifecycle_at_study: "early-commercial"
 lifecycle_current: "ubiquitous-cloud-warehouse"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Commercial Massively-Parallel Processing
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ready for commercial applications now; attractive alternative — [[study-ncr-att-wsj-massively-parallel-processin-f1f0a8]]
+- ready for commercial applications now; attractive alternative `[ps=4]` — [[study-ncr-att-wsj-massively-parallel-processin-f1f0a8]]
 - Aberdeen Group — [[study-ncr-att-wsj-massively-parallel-processin-f1f0a8]]

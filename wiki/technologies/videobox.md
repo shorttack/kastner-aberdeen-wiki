@@ -12,9 +12,9 @@ era: "1997-2000"
 lifecycle_at_study: "pre-commercial"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # VideoBox Pay-Per-View Service
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $3.00 per buy; 3 buys/month — [[study-omnibox97-53bcfe]]
+- $3.00 per buy; 3 buys/month `[ps=0]` — [[study-omnibox97-53bcfe]]

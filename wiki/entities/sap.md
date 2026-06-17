@@ -12,9 +12,9 @@ status: "active"
 successor: "[none]"
 years_active: "1972-present"
 occurrence_count: 17
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.15
+prescience_obs_count: 20
 ---
 
 # SAP America Inc.
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Mix of writes and reads — updating for transactions plus random reads — [[study-15-classification-key-applications-55b6be]]
-- SAP positioned as ERP vendor beginning to integrate internet procurement capabilities; partnered with Commerce One December 1997 — [[study-1998-internet-procurement-cdc4a6]]
-- SAP is 'Once and Future King' — not ready to cede ERP market hegemony — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
-- SAP remains #1 ERP vendor globally with >400,000 customers in 2025 — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
-- 54% of enterprise applications market — [[study-2003-peoplesoft-gains-crm-market-momentum-b4b610]]
-- #2 CRM vendor; gaining vs Siebel — [[study-2003-peoplesoft-gains-crm-market-momentum-b4b610]]
-- Oracle and SAP shared enterprise ERP/Applications duopoly by 2000; Oracle stronger in financials; SAP stronger in manufacturing — [[study-2026-kastner-oracle-longitudinal]]
-- still_developing_in_1996 — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
-- Microsoft itself uses AS/400 to run its own business operations; its migration to SAP R/3 on BackOffice will be closely watched — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
-- Implementing SAP R/3 throughout an enterprise is a once-in-twenty-year project transforming operational infrastructure — [[study-aberdeen-1996-taming-sap-r3-consultant-led-introspection]]
-- SAP customers tell Aberdeen R/3 has more functionality than any other client-server integrated business process application — [[study-aberdeen-1996-taming-sap-r3-consultant-led-introspection]]
-- SAP R/3/ECC became dominant global ERP platform; SAP consulting became $50B+ annual industry; ASAP methodology institutionalized the introspection process Aberdeen described — [[study-aberdeen-1996-taming-sap-r3-consultant-led-introspection]]
-- SAP targeting mid-market with rapid implementation program — [[study-aberdeen-1997-aberdeen-group-impacts]]
-- MetaMatrix announced OEM agreement with SAP to provide MetaMatrix Server embedded in SAP NetWeaver (Enterprise Services Architecture) — [[study-aberdeen-eii-2003-ea3f1a]]
-- SAP-SFA announced March 1998; delivery planned Q4 1998 — [[study-cispra~1-23a333]]
-- Web-services application platform integrating applications while providing extensibility with .Net, J2EE, and WebSphere de facto standards. — [[study-dell-sap-v6-d08820]]
-- NetWeaver eliminates much of the EAI cost that accompanied the predecessor architecture. — [[study-dell-sap-v6-d08820]]
-- SAP has to date been a server Switzerland, neutral to all comers. After 5,000 installations, SAP is giving a nod to Dell. — [[study-dell-sap-v6-d08820]]
-- Running in 7000+ companies worldwide including Microsoft IBM and General Motors — [[study-ecpspr~1-4968bf]]
-- Joint venture with Intel (Pandesic LLC) announced August 1997 to bring SAP applications to mid-range and small enterprises — [[study-ecpspr~1-4968bf]]
+- SAP remains #1 ERP vendor globally with >400,000 customers in 2025 `[ps=5]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- SAP is 'Once and Future King' — not ready to cede ERP market hegemony `[ps=4]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- Oracle and SAP shared enterprise ERP/Applications duopoly by 2000; Oracle stronger in financials; SAP stronger in manufacturing `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
+- Microsoft itself uses AS/400 to run its own business operations; its migration to SAP R/3 on BackOffice will be closely watched `[ps=4]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
+- Implementing SAP R/3 throughout an enterprise is a once-in-twenty-year project transforming operational infrastructure `[ps=4]` — [[study-aberdeen-1996-taming-sap-r3-consultant-led-introspection]]
+- SAP customers tell Aberdeen R/3 has more functionality than any other client-server integrated business process application `[ps=4]` — [[study-aberdeen-1996-taming-sap-r3-consultant-led-introspection]]
+- Barriers to entry for Financials, HR, and high-end manufacturing (SAP) are huge `[ps=4]` — [[study-software-market-safegu~1-ea7453]]
+- Distribute SAP R/3 to $100M manufacturers; high barrier but large opportunity `[ps=4]` — [[study-software-market-safegu~1-ea7453]]
+- Web-services application platform integrating applications while providing extensibility with .Net, J2EE, and WebSphere de facto standards. `[ps=3]` — [[study-dell-sap-v6-d08820]]
+- NetWeaver eliminates much of the EAI cost that accompanied the predecessor architecture. `[ps=3]` — [[study-dell-sap-v6-d08820]]
+- #2 CRM vendor; gaining vs Siebel `[ps=2]` — [[study-2003-peoplesoft-gains-crm-market-momentum-b4b610]]
+- SAP has to date been a server Switzerland, neutral to all comers. After 5,000 installations, SAP is giving a nod to Dell. `[ps=2]` — [[study-dell-sap-v6-d08820]]
+- Mix of writes and reads — updating for transactions plus random reads `[ps=0]` — [[study-15-classification-key-applications-55b6be]]
+- 54% of enterprise applications market `[ps=0]` — [[study-2003-peoplesoft-gains-crm-market-momentum-b4b610]]
+- still_developing_in_1996 `[ps=0]` — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
+- MetaMatrix announced OEM agreement with SAP to provide MetaMatrix Server embedded in SAP NetWeaver (Enterprise Services Architecture) `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]
+- SAP-SFA announced March 1998; delivery planned Q4 1998 `[ps=0]` — [[study-cispra~1-23a333]]
+- Running in 7000+ companies worldwide including Microsoft IBM and General Motors `[ps=0]` — [[study-ecpspr~1-4968bf]]
+- Joint venture with Intel (Pandesic LLC) announced August 1997 to bring SAP applications to mid-range and small enterprises `[ps=0]` — [[study-ecpspr~1-4968bf]]
+- ERP with retail module; vertical integration `[ps=0]` — [[study-retail~1-d5de79]]

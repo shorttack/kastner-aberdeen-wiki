@@ -12,9 +12,9 @@ era: "2007-2011"
 lifecycle_at_study: "new"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Apache XAP (eXtensible Ajax Platform)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Starter Kit uses Apache XAP framework as the open-source Ajax platform under the commercial EW2.0 stack. — [[study-nexaweb-announces-starter-kit-nexaweb-abe281]]
+- Starter Kit uses Apache XAP framework as the open-source Ajax platform under the commercial EW2.0 stack. `[ps=0]` — [[study-nexaweb-announces-starter-kit-nexaweb-abe281]]

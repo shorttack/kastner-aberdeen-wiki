@@ -12,9 +12,9 @@ era: "1983-present"
 lifecycle_at_study: "Growth"
 lifecycle_current: "Active (IBM Db2 12.1 as of 2024)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # DB2 (Database Server)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DB2 serves as hub for heterogeneous replication when combined with DataJoiner and DataPropagator — [[study-1997-ibm-information-integration-family--29351c]]
+- DB2 serves as hub for heterogeneous replication when combined with DataJoiner and DataPropagator `[ps=3]` — [[study-1997-ibm-information-integration-family--29351c]]

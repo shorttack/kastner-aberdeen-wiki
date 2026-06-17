@@ -12,9 +12,9 @@ era: "2008-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel Lights-Out Data Center
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Day 2 DataCenter Tour description: Intel's newest lights-out data center at Jones Farm Campus — built as part of Intel's datacenter consolidation, two 6,000-square-foot modules each operating at over 500 watts per square foot. — [[study-peter-kastner-10-bde195]]
+- Day 2 DataCenter Tour description: Intel's newest lights-out data center at Jones Farm Campus — built as part of Intel's datacenter consolidation, two 6,000-square-foot modules each operating at over 500 watts per square foot. `[ps=0]` — [[study-peter-kastner-10-bde195]]

@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1994-present"
 occurrence_count: 4
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 5
 ---
 
 # Amazon.com Inc.
@@ -29,8 +29,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Online book/CD seller modeled on Amazon.com; 50000 customers/hour; $20-30/order; $1.5M revenue/hour at risk; crash during peak business hours — [[study-14-formulas-disaster-scenario-c2f0b4]]
-- Amazon built the most integrated retail IT stack in history; achieved $638B net sales by 2024 — [[study-1998-information-technology-in-the-retail-sector-the-in-33dc54]]
-- Internet pure-play retailer; started books; expanding to consumer electronics and general merchandise by 1998 — [[study-1998-internet-sales-report-4cde3f]]
-- Amazon achieved $638B net sales and $2.4T market cap by 2024; most valuable retailer in history — [[study-1998-internet-sales-report-4cde3f]]
-- Mega-datacenter customers: Amazon, Facebook, Google — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- Internet pure-play retailer; started books; expanding to consumer electronics and general merchandise by 1998 `[ps=5]` — [[study-1998-internet-sales-report-4cde3f]]
+- Mega-datacenter customers: Amazon, Facebook, Google `[ps=5]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- Online book/CD seller modeled on Amazon.com; 50000 customers/hour; $20-30/order; $1.5M revenue/hour at risk; crash during peak business hours `[ps=4]` — [[study-14-formulas-disaster-scenario-c2f0b4]]
+- Amazon built the most integrated retail IT stack in history; achieved $638B net sales by 2024 `[ps=4]` — [[study-1998-information-technology-in-the-retail-sector-the-in-33dc54]]
+- Amazon achieved $638B net sales and $2.4T market cap by 2024; most valuable retailer in history `[ps=2]` — [[study-1998-internet-sales-report-4cde3f]]

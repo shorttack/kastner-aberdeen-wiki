@@ -12,9 +12,9 @@ era: "obsolete"
 lifecycle_at_study: "Proprietary DEC interconnect; replaced by InfiniBand and high-speed Ethernet for cluster communications"
 lifecycle_current: "1995"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Memory Channel bus
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 100 MB-per-second — [[study-aberdeen-1995-limd-technology]]
+- 100 MB-per-second `[ps=0]` — [[study-aberdeen-1995-limd-technology]]

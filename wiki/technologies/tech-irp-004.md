@@ -12,9 +12,9 @@ era: "1996-2005"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Obsolete (superseded by .NET/web)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # ActiveX / OLE Automation / OCX
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Reaching market; enabling distributed component apps — [[study-1997-infinite-resource-planning-wp-893815]]
+- Reaching market; enabling distributed component apps `[ps=0]` — [[study-1997-infinite-resource-planning-wp-893815]]

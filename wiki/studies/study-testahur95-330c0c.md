@@ -3,7 +3,7 @@ title: "Speaking Event Overview: Who Cares If the Computer Breaks? - Testa Hurwi
 slug: "study-testahur95-330c0c"
 page_type: "study"
 tags: ["type/study", "collection/consulting-report"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "testahur95-330c0c"
 author: "Peter S. Kastner / Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 4
 ---
 
 # Speaking Event Overview: Who Cares If the Computer Breaks? - Testa Hurwitz & Thibeault (September 1995)
@@ -32,10 +32,10 @@ _Published 1995, author **Peter S. Kastner / Aberdeen Group**, type **consulting
 
 ## Top observations
 
-- Who Cares If the Computer Breaks? at Testa, Hurwitz & Thibeault law firm forum
-- Group Vice President, Corporate Computing practice
-- Society has embraced computer systems to such a degree we cannot work without them; going back to pencil and paper is not possible
-- Number of business, social, and government applications that must keep operating regardless of conditions is larger than most understand, and is growing
+- Society has embraced computer systems to such a degree we cannot work without them; going back to pencil and paper is not possible `[ps=5]`
+- Number of business, social, and government applications that must keep operating regardless of conditions is larger than most understand, and is growing `[ps=5]`
+- Who Cares If the Computer Breaks? at Testa, Hurwitz & Thibeault law firm forum `[ps=0]`
+- Group Vice President, Corporate Computing practice `[ps=0]`
 - Sophisticated industry of hardware, software, and service companies; all thrive on pain and paranoia surrounding computer application failures
 - Trend towards distributed computing creates more failure opportunities at desktop, workgroup, departmental, and enterprise levels
 - Reliability, availability, and serviceability are major buying criteria for markets from home/small business to largest enterprises

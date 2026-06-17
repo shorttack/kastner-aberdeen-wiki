@@ -12,9 +12,9 @@ era: "2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "released-as-media-center"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Freestyle UI
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- www.Microsoft.com/freestyle `[ps=0]` — [[study-dct-microsoft-homestation-notes-2002]]
 - The UI for HomeStation — [[study-dct-microsoft-homestation-notes-2002]]
 - Development well advanced; demonstrated at CES 2002 — [[study-dct-microsoft-homestation-notes-2002]]
-- www.Microsoft.com/freestyle — [[study-dct-microsoft-homestation-notes-2002]]

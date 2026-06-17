@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Verizon (GTE merged 2000)"
 years_active: "1960s-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # GTE Products Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Computer software development breach of contract — [[study-psk-litigate98-72601c]]
+- Computer software development breach of contract `[ps=0]` — [[study-psk-litigate98-72601c]]

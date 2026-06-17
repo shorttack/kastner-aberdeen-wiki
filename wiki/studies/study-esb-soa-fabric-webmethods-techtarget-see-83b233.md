@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.8
+prescience_obs_count: 5
 ---
 
 # The traditional ESB gets weaved into an SOA fabric
@@ -32,13 +32,13 @@ _Published 2006, author **Rich Seeley, SearchWebServices / TechTarget**, type **
 
 ## Top observations
 
+- 'Integration backbones -> service buses -> fabric' progression; 'fabric is the same concept taken one step further to include the business process management and the analytics and the composite application development capabilities' — Marc Breissinger, webMethods CTO `[ps=3]`
+- By 2015 ESB-centric integration architectures had been largely displaced by microservices with API gateway and later service mesh (Istio 2017). Kastner's fabric-terminology moment was a waypoint in that evolution. `[ps=3]`
+- By 2015 BPM had evolved into iBPMS (intelligent BPMS, per Gartner) and low-code workflow automation platforms (Pegasystems, Appian, ServiceNow workflows), validating Kastner's 50% Global 5000 adoption trajectory `[ps=3]`
+- 'The thing that we see in webMethods Fabric 7.0 is a really straightforward development environment for building composite applications in an SOA fashion.' — Bill Swanton, AMR Research `[ps=0]`
+- webMethods announced Fabric 7.0 this week combining EAI, ESB, BPM, BAM, registry/repository, governance `[ps=0]`
 - 'We found almost nobody who is willing to abandon their investments in EAI just to buy an ESB to say that they own one.' — Peter S. Kastner, Aberdeen Group
 - 'My hypothesis going into the year was that the EAI companies would take it on the chin. The reality is the vast majority of their customers are fairly easily connecting SOA via adapters to their EAI fabric or infrastructure.' — Kastner publicly updates his prior EAI-death prediction
 - 'We're seeing at this point that roughly 50 percent of the Global 5000 are actively engaged in business process management development.' — Peter S. Kastner, VP Enterprise Integration, Aberdeen Group
 - 'Tibco has invested heavily in BPM over the last several years. Fiorano also beefed up their ESB product significantly in the BPM space in the last six months.' — Kastner
-- 'The thing that we see in webMethods Fabric 7.0 is a really straightforward development environment for building composite applications in an SOA fashion.' — Bill Swanton, AMR Research
-- webMethods announced Fabric 7.0 this week combining EAI, ESB, BPM, BAM, registry/repository, governance
-- 'Integration backbones -> service buses -> fabric' progression; 'fabric is the same concept taken one step further to include the business process management and the analytics and the composite application development capabilities' — Marc Breissinger, webMethods CTO
 - Software AG acquired webMethods in June 2007 for approximately $546M, folding Fabric 7.0 into its integration portfolio
-- By 2015 ESB-centric integration architectures had been largely displaced by microservices with API gateway and later service mesh (Istio 2017). Kastner's fabric-terminology moment was a waypoint in that evolution.
-- By 2015 BPM had evolved into iBPMS (intelligent BPMS, per Gartner) and low-code workflow automation platforms (Pegasystems, Appian, ServiceNow workflows), validating Kastner's 50% Global 5000 adoption trajectory

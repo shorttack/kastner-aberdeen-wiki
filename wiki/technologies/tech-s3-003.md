@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "Growth"
 lifecycle_current: "Legacy (Amdocs)"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # DB2 Universal Database for NT
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 50% faster on Alpha — [[study-1997-digital-equipment-corporation-pr-c375a8]]
-- Unified multi-service billing from single mechanism — [[study-1997-digital-equipment-corporation-pr-c375a8]]
-- IBM positions DB2 as 20+ year mature product vs relatively young SQL Server — [[study-1997-ibm’s-nt-strategy-strat-pr-b93817]]
+- Unified multi-service billing from single mechanism `[ps=4]` — [[study-1997-digital-equipment-corporation-pr-c375a8]]
+- IBM positions DB2 as 20+ year mature product vs relatively young SQL Server `[ps=3]` — [[study-1997-ibm’s-nt-strategy-strat-pr-b93817]]
+- 50% faster on Alpha `[ps=0]` — [[study-1997-digital-equipment-corporation-pr-c375a8]]

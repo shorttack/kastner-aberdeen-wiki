@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Commerce Application Platform (CAP)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Emerging category; Aberdeen taxonomy organizes internet storefront platforms for selection guidance — [[study-1998-internet-sales-report-4cde3f]]
+- Emerging category; Aberdeen taxonomy organizes internet storefront platforms for selection guidance `[ps=3]` — [[study-1998-internet-sales-report-4cde3f]]

@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Assets acquired by Sun Microsystems 1994; formally dissolved 1999"
 years_active: "1983-1994"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Thinking Machines Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Thinking Machines installed at Dow Jones for full-text retrieval; early commercial deployment — [[study-1988-encore-oltp-market-tps-needs-deee45]]
+- Thinking Machines installed at Dow Jones for full-text retrieval; early commercial deployment `[ps=3]` — [[study-1988-encore-oltp-market-tps-needs-deee45]]

@@ -3,7 +3,7 @@ title: "Stratus Banks on Fault-Tolerant Systems' Success — Computer Business N
 slug: "study-stratus-banks-on-ft-cbn-1982-38dc47"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "stratus-banks-on-ft-cbn-1982-38dc47"
 author: "Peter Bochner (Computer Business News)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.17
+prescience_obs_count: 6
 ---
 
 # Stratus Banks on Fault-Tolerant Systems' Success — Computer Business News, 7 June 1982 (PSK extensively quoted)
@@ -32,12 +32,12 @@ _Published 1982, author **Peter Bochner (Computer Business News)**, type **press
 
 ## Top observations
 
-- End-user, software-house, and two-year OEM contracts; software houses get fee per system sale and discount but no buy requirement; OEMs are 'first point of contact for customer whose computer has gone down'
+- At least a half dozen or more FT vendors will be shipping by the end of 1983 `[ps=4]`
+- CPU boards use four 68000 chips paired off (OS + user); high-level language for OS keeps code small (several thousand lines) and CPU-portable via code-generator changes; pair-of-pair self-checking `[ps=3]`
+- End-user, software-house, and two-year OEM contracts; software houses get fee per system sale and discount but no buy requirement; OEMs are 'first point of contact for customer whose computer has gone down' `[ps=0]`
+- 7% per year (vs industry standard of 10-12%) thanks to remote diagnostics + customer-replaceable boards delivered by cab `[ps=0]`
+- Under-$200,000; positioned vs Prime 750, DEC VAX 11/750, and IBM 4341 Model 1 (against 32-bit minis on price); not directly going after Tandem on price/performance `[ps=0]`
+- Kastner was a former analyst at Arthur D. Little prior to Stratus `[ps=0]`
 - Olivetti to distribute Stratus products in England/France/Italy; OEM-integration agreement; potential $40M by 1985
 - By 1986, all [broad-based] computer companies will have to offer fault-tolerant systems
-- At least a half dozen or more FT vendors will be shipping by the end of 1983
-- CPU boards use four 68000 chips paired off (OS + user); high-level language for OS keeps code small (several thousand lines) and CPU-portable via code-generator changes; pair-of-pair self-checking
-- 7% per year (vs industry standard of 10-12%) thanks to remote diagnostics + customer-replaceable boards delivered by cab
-- Under-$200,000; positioned vs Prime 750, DEC VAX 11/750, and IBM 4341 Model 1 (against 32-bit minis on price); not directly going after Tandem on price/performance
 - Fault-tolerant market is blossoming from a niche market to a cross market; as more work goes on-line, computers get closer to the heart of business operations and the cost of downtime goes up
-- Kastner was a former analyst at Arthur D. Little prior to Stratus

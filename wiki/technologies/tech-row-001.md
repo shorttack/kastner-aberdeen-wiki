@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Differentiating"
 lifecycle_current: "Standard"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Row-Level Locking
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Informix-OnLine supports row-level locking; Sybase System 11 does not — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
+- Informix-OnLine supports row-level locking; Sybase System 11 does not `[ps=1]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]

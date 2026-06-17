@@ -12,9 +12,9 @@ era: "1989-1993"
 lifecycle_at_study: "current"
 lifecycle_current: "superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # TPC Benchmark A
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TPC-A represents limited class of applications; additional benchmarks representing broader range of commercial applications expected to be standardized by TPC in coming years — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
+- TPC-A represents limited class of applications; additional benchmarks representing broader range of commercial applications expected to be standardized by TPC in coming years `[ps=5]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
 - DEC acquired by Compaq in 1998; did not achieve stated goal of TP market leadership; Oracle, IBM, and Tandem/HP dominated TP markets through 1990s; actual-outcome for OBS-033 — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]

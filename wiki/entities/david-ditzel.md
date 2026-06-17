@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1950s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # David Ditzel
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- potential is high — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- potential is high `[ps=4]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]

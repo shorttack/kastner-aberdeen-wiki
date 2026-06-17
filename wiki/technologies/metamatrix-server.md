@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 0.67
+prescience_obs_count: 3
 ---
 
 # MetaMatrix Information Integration Server
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MetaMatrix EII revenue estimate: $10 million (2003 projected) — [[study-aberdeen-eii-2003-ea3f1a]]
-- MetaMatrix is Cadillac of EII solutions — comprehensive features, developer/admin support, sophisticated cross-database application development — [[study-aberdeen-eii-2003-ea3f1a]]
-- MetaMatrix announced OEM agreement with SAP to provide MetaMatrix Server embedded in SAP NetWeaver (Enterprise Services Architecture) — [[study-aberdeen-eii-2003-ea3f1a]]
+- MetaMatrix is Cadillac of EII solutions — comprehensive features, developer/admin support, sophisticated cross-database application development `[ps=2]` — [[study-aberdeen-eii-2003-ea3f1a]]
+- MetaMatrix EII revenue estimate: $10 million (2003 projected) `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]
+- MetaMatrix announced OEM agreement with SAP to provide MetaMatrix Server embedded in SAP NetWeaver (Enterprise Services Architecture) `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]

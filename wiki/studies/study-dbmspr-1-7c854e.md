@@ -3,7 +3,7 @@ title: "Data Management: 1998 Practice Summary"
 slug: "study-dbmspr-1-7c854e"
 page_type: "study"
 tags: ["type/study", "collection/other-research"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "dbmspr~1-7c854e"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.29
+prescience_obs_count: 24
 ---
 
 # Data Management: 1998 Practice Summary
@@ -32,28 +32,28 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 
 ## Top observations
 
-- Turbulent; Oracle/Informix/Sybase revenues stalled or slumped
-- Moderate pace overall; Unix enterprise flat; newer segments exploding
-- <$200 million
-- >50% of new DBMS revenue (first year ORDBMS > pure RDBMS)
-- ~$2 billion 1998 license revenues
+- Explosive growth continuing; branch offices/departments/SMB scaling NT `[ps=5]`
+- NT should scale sufficiently for many enterprise production apps within 2-3 years `[ps=5]`
+- Packaged applications (SAP/Baan/PeopleSoft/Oracle) increasingly drive DBMS purchasing `[ps=5]`
+- RDBMSs have been dominant database model for new installations for past decade `[ps=5]`
+- Moderate pace overall; Unix enterprise flat; newer segments exploding `[ps=4]`
+- Can capture high-end OLTP/BI/ERP but will struggle in commoditized NT segments `[ps=4]`
+- Consulting/services business outpacing software licensing revenues `[ps=4]`
+- Java support has become a required DBMS capability `[ps=4]`
+- Must alter traditional aggressive direct sales strategy to support VARs/ISVs and packaged application vendors `[ps=4]`
+- Vast majority of IBM DBMS sales (DB2/VSAM/IMS) are for mainframe systems `[ps=4]`
+- Turbulent; Oracle/Informix/Sybase revenues stalled or slumped `[ps=3]`
+- First enterprise ODBMS from major vendor; off to good start but ahead of mass market `[ps=3]`
+- Market subdividing into: enterprise production / enterprise DSS / branch office / SMB / single PC / thin client / mobile / PCD `[ps=3]`
+- >50% of new DBMS revenue (first year ORDBMS > pure RDBMS) `[ps=2]`
+- <$200 million `[ps=0]`
+- ~$2 billion 1998 license revenues `[ps=0]`
+- >50% annual revenue growth `[ps=0]`
+- May be the biggest DBMS story of 1998 `[ps=0]`
+- Revenue restatement and lowering in 1997; refocused strategy `[ps=0]`
+- Windows NT growth, packaged applications model, mass-deployment sales `[ps=0]`
+- IBM/Oracle/Informix advocate ORDBMS; Microsoft/CA/Sybase advocate separate relational+object databases `[ps=0]`
+- Very strong unit sales and revenues; one of hottest DBMS sub-segments `[ps=0]`
+- >80% of all new DBMS revenues `[ps=0]`
+- Will lead in niche segments including component-based app development; remain minor player in mainstream `[ps=0]`
 - Will continue to dominate Unix enterprise but face commoditization pressure
-- >50% annual revenue growth
-- May be the biggest DBMS story of 1998
-- Revenue restatement and lowering in 1997; refocused strategy
-- Can capture high-end OLTP/BI/ERP but will struggle in commoditized NT segments
-- Suffering from marketplace dynamics despite good product; mobile and tools products driving fortunes
-- Will expand overall share particularly on IBM servers; will emerge as BI and e-commerce leader
-- First enterprise ODBMS from major vendor; off to good start but ahead of mass market
-- Explosive growth continuing; branch offices/departments/SMB scaling NT
-- NT should scale sufficiently for many enterprise production apps within 2-3 years
-- Windows NT growth, packaged applications model, mass-deployment sales
-- Consulting/services business outpacing software licensing revenues
-- Packaged applications (SAP/Baan/PeopleSoft/Oracle) increasingly drive DBMS purchasing
-- IBM/Oracle/Informix advocate ORDBMS; Microsoft/CA/Sybase advocate separate relational+object databases
-- Java support has become a required DBMS capability
-- Very strong unit sales and revenues; one of hottest DBMS sub-segments
-- >80% of all new DBMS revenues
-- Market subdividing into: enterprise production / enterprise DSS / branch office / SMB / single PC / thin client / mobile / PCD
-- Aberdeen does NOT expect near-term consolidation among major vendors; expects major vendors to buy small start-ups
-- Significant new niche market; very strong unit sales growth

@@ -12,9 +12,9 @@ era: "1983-2010"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.67
+prescience_obs_count: 3
 ---
 
 # NetWare
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NOS without strong directory services should not be considered for mid-to-large enterprise — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- Maintaining multiple non-synchronized directories is neither cost-effective nor efficient — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- LDAP-based directory consolidation became standard enterprise practice; AD became single-directory standard for Windows environments — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- NOS without strong directory services should not be considered for mid-to-large enterprise `[ps=5]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- Maintaining multiple non-synchronized directories is neither cost-effective nor efficient `[ps=5]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- LDAP-based directory consolidation became standard enterprise practice; AD became single-directory standard for Windows environments `[ps=4]` — [[study-1997-novell-directory-to-the-network-str-048b05]]

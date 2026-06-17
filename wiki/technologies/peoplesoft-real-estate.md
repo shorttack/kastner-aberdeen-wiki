@@ -12,9 +12,9 @@ era: "2000-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # PeopleSoft Real Estate Management
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- JDE brings real estate management to PeopleSoft's professional services customer base — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]
+- JDE brings real estate management to PeopleSoft's professional services customer base `[ps=2]` — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]

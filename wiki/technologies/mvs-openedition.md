@@ -12,9 +12,9 @@ era: "1993-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # OpenEdition MVS (POSIX/UNIX for MVS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- New mainframes can run UNIX and Windows NT applications in addition to legacy applications — [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term]]
+- New mainframes can run UNIX and Windows NT applications in addition to legacy applications `[ps=2]` — [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term]]

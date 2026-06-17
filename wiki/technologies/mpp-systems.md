@@ -12,9 +12,9 @@ era: "1988-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.33
+prescience_obs_count: 3
 ---
 
 # MPP (Massively Parallel Processing) Systems
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Traditional 3-Tier + MPP/clustered SMP as fourth-tier for data warehousing and complex query; the 'Plus' in Three-Tier-Plus — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]
-- As Oracle/Informix port to MPP and prices decline, MPP machines will achieve broader market acceptance as enterprise-class servers — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]
-- MPP data warehouse systems (Teradata, Netezza, later Amazon Redshift) became mainstream for enterprise analytics by 2000-2005 — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]
+- Traditional 3-Tier + MPP/clustered SMP as fourth-tier for data warehousing and complex query; the 'Plus' in Three-Tier-Plus `[ps=4]` — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]
+- As Oracle/Informix port to MPP and prices decline, MPP machines will achieve broader market acceptance as enterprise-class servers `[ps=3]` — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]
+- MPP data warehouse systems (Teradata, Netezza, later Amazon Redshift) became mainstream for enterprise analytics by 2000-2005 `[ps=3]` — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]

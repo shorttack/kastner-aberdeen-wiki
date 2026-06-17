@@ -12,9 +12,9 @@ era: "1995-2001"
 lifecycle_at_study: "active"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Aberdeen 50/50 Milestone Billing Model
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 50% invoiced on Research Meeting completion; 50% on draft delivery; net 30 days — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
-- $17,500 on first Research Meeting; $17,500 on first draft delivery; net 30 days — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
+- 50% invoiced on Research Meeting completion; 50% on draft delivery; net 30 days `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
+- $17,500 on first Research Meeting; $17,500 on first draft delivery; net 30 days `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]

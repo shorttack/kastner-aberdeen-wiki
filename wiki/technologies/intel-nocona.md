@@ -12,9 +12,9 @@ era: "2004-2006"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Intel Xeon Nocona (codename)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2004 next-gen Xeon 'Nocona' with Lindenhurst chipset — industry's first chipset with PCI Express serial I/O and DDR2 memory. — [[study-planningforemergingindustry-6-40decb]]
-- Intel Nocona (64-bit Xeon DP with EM64T) launched June 28, 2004, with Lindenhurst chipset platform released August 2, 2004. This was approximately on schedule with the prediction. — [[study-planningforemergingindustry-6-40decb]]
+- Intel Nocona (64-bit Xeon DP with EM64T) launched June 28, 2004, with Lindenhurst chipset platform released August 2, 2004. This was approximately on schedule with the prediction. `[ps=5]` — [[study-planningforemergingindustry-6-40decb]]
+- 2004 next-gen Xeon 'Nocona' with Lindenhurst chipset — industry's first chipset with PCI Express serial I/O and DDR2 memory. `[ps=4]` — [[study-planningforemergingindustry-6-40decb]]

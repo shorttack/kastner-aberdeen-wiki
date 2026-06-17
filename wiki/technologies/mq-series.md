@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IBM MQSeries
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MQSeries implementations lack adequate administrative and development tools — [[study-middle~1-a64fa0]]
+- MQSeries implementations lack adequate administrative and development tools `[ps=3]` — [[study-middle~1-a64fa0]]

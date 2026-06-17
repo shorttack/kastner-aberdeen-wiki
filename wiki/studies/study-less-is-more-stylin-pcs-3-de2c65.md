@@ -3,7 +3,7 @@ title: "Less Is More: Stylin' PCs"
 slug: "study-less-is-more-stylin-pcs-3-de2c65"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "less-is-more-stylin-pcs-3-de2c65"
 author: "Elisa Batista (reporter); Peter Kastner (quoted source)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Less Is More: Stylin' PCs
@@ -32,7 +32,7 @@ _Published 2004, author **Elisa Batista (reporter); Peter Kastner (quoted source
 
 ## Top observations
 
+- Apple Mac mini (2005), Windows Media Center HTPCs, and Apple TV (2007) validated Kastner's 'living-room battle' framing `[ps=4]`
+- Gateway, Sony, and HP identified as category leaders `[ps=2]`
 - 'The next form factor battles are beginning to be fought in the living room'
 - Size, quietness, decor, materials have become first-order selling points
-- Gateway, Sony, and HP identified as category leaders
-- Apple Mac mini (2005), Windows Media Center HTPCs, and Apple TV (2007) validated Kastner's 'living-room battle' framing

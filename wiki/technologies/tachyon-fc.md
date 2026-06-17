@@ -12,9 +12,9 @@ era: "1995-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # HP Tachyon Fibre Channel Adapter
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen predicts HP Tachyon fibre channel adapter has very high probability of becoming an open-systems industry standard; 50+ storage suppliers adopting it — [[study-aberdeen-1996-hp-enterprise-parallel-server-scalable-performance]]
+- Aberdeen predicts HP Tachyon fibre channel adapter has very high probability of becoming an open-systems industry standard; 50+ storage suppliers adopting it `[ps=2]` — [[study-aberdeen-1996-hp-enterprise-parallel-server-scalable-performance]]
 - Fibre Channel became an industry standard for storage connectivity (FC-AL, FCAL SAN), though standardization occurred through ANSI/IEEE rather than Tachyon-specifically; HP Tachyon was a key enabler of FC storage area network adoption in late 1990s — [[study-aberdeen-1996-hp-enterprise-parallel-server-scalable-performance]]

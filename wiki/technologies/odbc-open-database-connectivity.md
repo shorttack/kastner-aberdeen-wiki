@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "ODBC remains an active and widely supported standard for database connectivity, supplemented by JDBC and newer APIs."
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # ODBC (Open Database Connectivity)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- standard interface for report-writer connectivity — [[study-aberdeen-1995-data-warehouse-olap]]
+- standard interface for report-writer connectivity `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]

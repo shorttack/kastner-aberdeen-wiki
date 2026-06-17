@@ -12,9 +12,9 @@ era: "1984-2018"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Navision ERP
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- became Dynamics NAV then Dynamics 365 Business Central; actively sold — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]
+- became Dynamics NAV then Dynamics 365 Business Central; actively sold `[ps=5]` — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]

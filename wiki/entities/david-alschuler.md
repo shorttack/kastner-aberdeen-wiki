@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # David Alschuler
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sole author of practice-definition memo To: Peter Kastner January 17 2000 — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- IT'S THE PROCESS, STUPID — process improvement is real opportunity of e-Business — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- IT'S THE PROCESS, STUPID — process improvement is real opportunity of e-Business `[ps=3]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- Sole author of practice-definition memo To: Peter Kastner January 17 2000 `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - e-Business application and Enterprise application markets are the same market — not separate — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]

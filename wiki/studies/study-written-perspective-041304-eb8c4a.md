@@ -1,5 +1,5 @@
 ---
-title: "==> picture [287 x 58] intentionally omitted <=="
+title: "Written Perspective 041304 (Aberdeen, 1988)"
 slug: "study-written-perspective-041304-eb8c4a"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.67
-prescience_obs_count: 3
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
-# ==> picture [287 x 58] intentionally omitted <==
+# Written Perspective 041304 (Aberdeen, 1988)
 
-> This study analyzes ==> picture [287 x 58] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-perspective-041304-eb8c4a. Source: Written__Perspective 041304.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: Linux. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 1988, author **Aberdeen Group**, type **benchmark**._
@@ -34,4 +34,4 @@ _Published 1988, author **Aberdeen Group**, type **benchmark**._
 
 - The news from Aberdeen field research is that 40% of mainframe customers are now looking at ways to offload or surround their mainframes. `[ps=4]`
 - Approximately 40% of mainframe users are open to shifting to an Itanium-based platform. `[ps=2]`
-- This study analyzes ==> picture [287 x 58] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [287 x 58] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 5
 ---
 
 # Microsoft Scalability Day: The Emperor Has No Clothes
@@ -32,10 +32,10 @@ _Published 1997, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 
 ## Top observations
 
+- Considerable difficulty finding sites with more than a few hundred users `[ps=2]`
+- Use Microsoft partners for enterprise-class software and services; beware all-Microsoft solutions `[ps=2]`
+- Best suited to departmental applications only `[ps=1]`
+- NT will be better in 1998 than it is now `[ps=0]`
+- unknown `[ps=0]`
 - Not a panacea from desktop to enterprise, particularly for Fortune 500 complex environments
-- Considerable difficulty finding sites with more than a few hundred users
-- Use Microsoft partners for enterprise-class software and services; beware all-Microsoft solutions
-- Best suited to departmental applications only
 - Unix, AS/400, and mainframe legitimately remain the province of the enterprise high-end
-- NT will be better in 1998 than it is now
-- unknown

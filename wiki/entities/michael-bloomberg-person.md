@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1942-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Michael Bloomberg
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- expects impressive performance gains — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- expects impressive performance gains `[ps=0]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]

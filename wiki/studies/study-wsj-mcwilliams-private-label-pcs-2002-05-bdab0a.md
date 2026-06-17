@@ -3,7 +3,7 @@ title: "WSJ Gary McWilliams 'Retailers Create Own-Label PCs as Brand Names Dwind
 slug: "study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a"
 page_type: "study"
 tags: ["type/study", "collection/newspaper-feature-with-syndicated-reprint"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "wsj-mcwilliams-private-label-pcs-2002-05-bdab0a"
 author: "Gary McWilliams (Wall Street Journal)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.33
+prescience_obs_count: 9
 ---
 
 # WSJ Gary McWilliams 'Retailers Create Own-Label PCs as Brand Names Dwindle' Featuring Peter S. Kastner CRO Aberdeen (May 2002, with St. Petersburg Times Reprint)
@@ -32,16 +32,16 @@ _Published 2002, author **Gary McWilliams (Wall Street Journal)**, type **newspa
 
 ## Top observations
 
-- Retailers won't let H-P keep all that valuable shelf space
-- Second- and third-time PC buyers know enough to accept house brands, especially if built from components by well-known makers such as Intel
+- Retailers won't let H-P keep all that valuable shelf space `[ps=4]`
+- Pending purchase combines No. 1 and No. 2 retail PC players; expected to reduce selection further `[ps=4]`
+- Second- and third-time PC buyers know enough to accept house brands, especially if built from components by well-known makers such as Intel `[ps=3]`
+- Increased involvement in retailer house-brand programs; opened Asian supplier doors `[ps=3]`
+- Best Buy and Dell are Gateway's two biggest competitors today `[ps=3]`
+- Industry observers say Circuit City also considering private-label addition `[ps=2]`
+- Intel wins when there is no strong brand out there; could drive down Intel's profits `[ps=2]`
+- April 2002 launch of $2,300 fluorescent green/blue gaming PCs for teenagers `[ps=0]`
+- Quit selling its own house brand; added eMachines full desktop line `[ps=0]`
 - Peter S. Kastner, chief research officer at Aberdeen Group
-- April 2002 launch of $2,300 fluorescent green/blue gaming PCs for teenagers
 - Christmas 2001: RadioShack Canada couldn't meet demand for Pentium-4 systems
-- Increased involvement in retailer house-brand programs; opened Asian supplier doors
-- Quit selling its own house brand; added eMachines full desktop line
-- Best Buy and Dell are Gateway's two biggest competitors today
 - Don't believe retailers have the inherent competency to create and manage a brand, particularly in after-sale service
 - IBM, Acer, Packard Bell, Zenith all dropped out of cutthroat retail PC business in recent years
-- Pending purchase combines No. 1 and No. 2 retail PC players; expected to reduce selection further
-- Industry observers say Circuit City also considering private-label addition
-- Intel wins when there is no strong brand out there; could drive down Intel's profits

@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # IBM Parallel Sysplex
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- New clustering technology offers cost-effective alternative to large UNIX server farms — [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term]]
-- Mainframes handle workload peaks more efficiently through dynamic resource allocation within single system image — [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term]]
+- Mainframes handle workload peaks more efficiently through dynamic resource allocation within single system image `[ps=4]` — [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term]]
+- New clustering technology offers cost-effective alternative to large UNIX server farms `[ps=3]` — [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term]]

@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Relational database (1996-era)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'A number of individual situations are adding up to a wrong conclusion. These are all good companies and they will continue to grow at robust double-digit rates.' — Kastner — [[study-upgrades-boost-database-market-iweek-fol-f19804]]
+- 'A number of individual situations are adding up to a wrong conclusion. These are all good companies and they will continue to grow at robust double-digit rates.' — Kastner `[ps=2]` — [[study-upgrades-boost-database-market-iweek-fol-f19804]]

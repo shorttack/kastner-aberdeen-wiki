@@ -12,9 +12,9 @@ era: "2004"
 lifecycle_at_study: "active"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Dell PowerVault NAS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- PowerVault 775N and 770N (midrange file servers); PowerVault 745N (entry-level alternative to microfiche/optical); Windows Storage Server 2003 — [[study-dell-storage-profile-2004]]
+- PowerVault 775N and 770N (midrange file servers); PowerVault 745N (entry-level alternative to microfiche/optical); Windows Storage Server 2003 `[ps=0]` — [[study-dell-storage-profile-2004]]

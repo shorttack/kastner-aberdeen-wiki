@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "dominant"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # HTTP (HyperText Transport Protocol)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Open standard HTTP enables geographic and organizational dispersion of commerce components — [[study-aberdeen-1996-open-market-web-based-commerce]]
+- Open standard HTTP enables geographic and organizational dispersion of commerce components `[ps=5]` — [[study-aberdeen-1996-open-market-web-based-commerce]]

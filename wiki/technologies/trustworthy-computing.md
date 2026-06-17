@@ -12,9 +12,9 @@ era: "2002-2014"
 lifecycle_at_study: "new"
 lifecycle_current: "sunset"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Trustworthy Computing Initiative
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kastner and the article imply the old-code retirement is necessary for Microsoft to earn credibility on security. — [[study-microsoft-s-move-to-mothball-old-code-ra-724d34]]
+- Kastner and the article imply the old-code retirement is necessary for Microsoft to earn credibility on security. `[ps=4]` — [[study-microsoft-s-move-to-mothball-old-code-ra-724d34]]

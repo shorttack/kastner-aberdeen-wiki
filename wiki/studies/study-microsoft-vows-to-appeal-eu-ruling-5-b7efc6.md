@@ -3,7 +3,7 @@ title: "Microsoft Vows To Appeal EU Ruling"
 slug: "study-microsoft-vows-to-appeal-eu-ruling-5-b7efc6"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "microsoft-vows-to-appeal-eu-ruling-5-b7efc6"
 author: "Elizabeth Millard (E-Commerce Times / TechNewsWorld)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.8
+prescience_obs_count: 5
 ---
 
 # Microsoft Vows To Appeal EU Ruling
@@ -32,10 +32,10 @@ _Published 2004, author **Elizabeth Millard (E-Commerce Times / TechNewsWorld)**
 
 ## Top observations
 
-- If EU sets a totally different standard for business conduct than the US, it threatens not only Microsoft but every other global player — because US has already determined Microsoft's practices legal.
+- European Commission announced a $612 million fine alongside Windows Media Player unbundling and interoperability remedies. `[ps=5]`
+- EU General Court upheld bulk of 2004 ruling in 2007; Digital Markets Act (2022) and ongoing cases through 2024 made EU the de-facto global tech-regulation standard-setter. `[ps=5]`
+- If EU sets a totally different standard for business conduct than the US, it threatens not only Microsoft but every other global player — because US has already determined Microsoft's practices legal. `[ps=3]`
+- Microsoft could have paid the fine; an appeal was not the only option. But paying would have meant they couldn't address the issues of law and commerce they're seeking to clarify. `[ps=1]`
+- Microsoft publicly committed on 2004-06-08 to appeal the EU decision. `[ps=0]`
 - As Microsoft's appeal goes forward it will be interesting to note which companies emerge as allies; Microsoft has many 'silent friends' who might become vocal.
-- Microsoft could have paid the fine; an appeal was not the only option. But paying would have meant they couldn't address the issues of law and commerce they're seeking to clarify.
-- European Commission announced a $612 million fine alongside Windows Media Player unbundling and interoperability remedies.
-- Microsoft publicly committed on 2004-06-08 to appeal the EU decision.
 - Kastner warning implies EU would emerge as an independent global standard-setter distinct from US regulators.
-- EU General Court upheld bulk of 2004 ruling in 2007; Digital Markets Act (2022) and ongoing cases through 2024 made EU the de-facto global tech-regulation standard-setter.

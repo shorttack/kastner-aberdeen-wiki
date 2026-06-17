@@ -12,9 +12,9 @@ era: "1981-1987"
 lifecycle_at_study: "current-1985"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Stratus FT200
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1.7 tps; 2.1 sec avg / 3.5 sec 90th-percentile; 85% CPU / 18% disk — [[study-stratus-internal-benchmark-tuning-guide--c53e3f]]
+- 1.7 tps; 2.1 sec avg / 3.5 sec 90th-percentile; 85% CPU / 18% disk `[ps=0]` — [[study-stratus-internal-benchmark-tuning-guide--c53e3f]]

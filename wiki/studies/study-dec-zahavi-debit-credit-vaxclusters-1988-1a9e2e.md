@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 7
 ---
 
 # DEC Zahavi Memo: Debit-Credit Benchmark on VAXclusters (March 1988)
@@ -32,11 +32,11 @@ _Published 1988, author **Bill Zahavi, DEC TP Systems Performance Analysis (HYPE
 
 ## Top observations
 
-- major-obstacle-for-VAXcluster-Debit-Credit
-- 15
-- 7.5
-- flat-files-only-RMS-Hash
+- major-obstacle-for-VAXcluster-Debit-Credit `[ps=0]`
+- 15 `[ps=0]`
+- 7.5 `[ps=0]`
+- flat-files-only-RMS-Hash `[ps=0]`
+- excluded-from-Style-3 `[ps=0]`
+- TP-Databases-VMS `[ps=0]`
+- HYPER-BZAHAVI-MRO1-1-A65 `[ps=0]`
 - not-available-in-DEC-stack
-- excluded-from-Style-3
-- TP-Databases-VMS
-- HYPER-BZAHAVI-MRO1-1-A65

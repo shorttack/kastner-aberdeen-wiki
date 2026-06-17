@@ -3,7 +3,7 @@ title: "Year 2000 Solutions Series Part 1 — Aberdeen Group lead article + 12-p
 slug: "study-y2k-computerworld-aberdeen-psk-irving-19-5bcd20"
 page_type: "study"
 tags: ["type/study", "collection/advertorial-magazine-supplement"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "y2k-computerworld-aberdeen-psk-irving-19-5bcd20"
 author: "Peter S. Kastner and Susan L. Irving (lead article); Peter S. Kastner (12-point Best-Practice sidebar); John R. Logan (companion editorial); Anna Tortig and Computerworld Custom Publications staff (case studies)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.88
+prescience_obs_count: 8
 ---
 
 # Year 2000 Solutions Series Part 1 — Aberdeen Group lead article + 12-point Best Practices (PSK + Susan Irving + John R. Logan, Computerworld Custom Publication, 1997)
@@ -32,15 +32,15 @@ _Published 1997, author **Peter S. Kastner and Susan L. Irving (lead article); P
 
 ## Top observations
 
-- Group Vice President of Aberdeen, and general manager of its commercial systems practice
-- databases, OLTP, decision support, client/server architectures and distributed commercial systems development
-- senior analyst for Professional Services Research
-- Aberdeen Group views the Year 2000 problem as much about competitive advantage as it is about technology
-- By mid-1997, there will be little capacity left in the industry. This will drive conversion prices up
+- By mid-1997, there will be little capacity left in the industry. This will drive conversion prices up `[ps=4]`
+- Aberdeen Group views the Year 2000 problem as much about competitive advantage as it is about technology `[ps=3]`
+- Group Vice President of Aberdeen, and general manager of its commercial systems practice `[ps=0]`
+- databases, OLTP, decision support, client/server architectures and distributed commercial systems development `[ps=0]`
+- senior analyst for Professional Services Research `[ps=0]`
+- 5 years experience; 3 billion lines of code; over 30 Fortune 500 companies `[ps=0]`
+- Wall Street's largest firms; mainframe MVS Y2K toolset `[ps=0]`
+- Stratus 'communications director' (1982) -> Stratus 'manager of marketing development/support' (1982-1987) -> DEC Corporate Systems Group (1988) -> Aberdeen Group VP -> Aberdeen Group EVP -> Aberdeen Group CRO `[ps=0]`
 - 1) Start immediately; 2) Stop wounding messengers; 3) Lawyers/accountants/money; 4) Request full upfront funding; 5) War-time effort; 6) Secure resources quickly; 7) Hardware+systems-software compliance; 8) External-partner compliance plans; 9) Year 2000 community resources; 10) Law of Unintended Consequences; 11) Post-2000 SWAT team; 12) Save blame for Jan 1 2000
 - CFO; Controllers (re FASB); COOs; CIOs/CTOs ('two positions that are by nature aware of this problem'); Board of Directors; CEO
 - Tightly integrated, Web-enabled technology infrastructures are becoming the circulatory system of companies
 - good-enough applications in place as quickly as possible (but by November 1998 at the latest)
-- 5 years experience; 3 billion lines of code; over 30 Fortune 500 companies
-- Wall Street's largest firms; mainframe MVS Y2K toolset
-- Stratus 'communications director' (1982) -> Stratus 'manager of marketing development/support' (1982-1987) -> DEC Corporate Systems Group (1988) -> Aberdeen Group VP -> Aberdeen Group EVP -> Aberdeen Group CRO

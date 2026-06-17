@@ -12,9 +12,9 @@ era: "1996-2002"
 lifecycle_at_study: "Current"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Silicon Graphics Origin2000 Server
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 28 64-bit 195-MHz MIPS R10000 CPUs — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
-- 13 gigabytes main memory — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
+- 28 64-bit 195-MHz MIPS R10000 CPUs `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
+- 13 gigabytes main memory `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
 - 2.4237 terabytes (576 4.2-GB SCSI disk adapters) — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
 - 21500 Silicon Graphics workstations — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]

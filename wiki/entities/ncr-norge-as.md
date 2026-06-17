@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # NCR Norge AS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 11 September 1992 Oslo Norway — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]
+- 11 September 1992 Oslo Norway `[ps=0]` — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]

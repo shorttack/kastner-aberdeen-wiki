@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "2015-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 4
 ---
 
 # OpenAI
@@ -24,9 +24,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- 2 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 5 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 0 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 43 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 5 — [[study-2026-kastner-enterprise-ai-arc]]
-- 2 — [[study-2026-kastner-enterprise-ai-arc]]
 - 5 — [[study-2026-kastner-enterprise-ai-arc]]
-- 0 — [[study-2026-kastner-enterprise-ai-arc]]
-- 5 — [[study-2026-kastner-enterprise-ai-arc]]
-- 43 — [[study-2026-kastner-enterprise-ai-arc]]

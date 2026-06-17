@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1969-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Advanced Micro Devices (AMD)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'A pond made up right now of only a few thousand enthusiasts' — [[study-linuxplanet-reports-opteron-s-first-year-40c423]]
+- 'A pond made up right now of only a few thousand enthusiasts' `[ps=0]` — [[study-linuxplanet-reports-opteron-s-first-year-40c423]]

@@ -12,9 +12,9 @@ era: "1997-2004"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # ORiNOCO Wireless LAN
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- WEP wireless LAN (Agere/ORiNOCO) tested during upgrade — driver/compatibility challenges noted — [[study-2001-upgrading-to-windows-xp-a-long-and-winding-road-ps-81e090]]
+- WEP wireless LAN (Agere/ORiNOCO) tested during upgrade — driver/compatibility challenges noted `[ps=0]` — [[study-2001-upgrading-to-windows-xp-a-long-and-winding-road-ps-81e090]]

@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # SOA Infrastructure Middleware / ESB
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SOA Lite: ~50% of companies; Enterprise SOA: ~30%; ERP SOA: ~20% — [[study-soa-governance-626545]]
-- 40% of IT budget dedicated to application integration; SOA positioned as solution — [[study-soa-governance-626545]]
+- 40% of IT budget dedicated to application integration; SOA positioned as solution `[ps=3]` — [[study-soa-governance-626545]]
+- SOA Lite: ~50% of companies; Enterprise SOA: ~30%; ERP SOA: ~20% `[ps=2]` — [[study-soa-governance-626545]]

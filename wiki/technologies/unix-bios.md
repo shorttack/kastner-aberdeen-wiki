@@ -12,9 +12,9 @@ era: "1970-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Unix OS / PC BIOS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Not automatically Y2K safe; many Unix OSes and PC BIOSs not originally designed for four-digit dates — [[study-aberdeen-1996-year-2000-transition-opportunity-reconstruction]]
+- Not automatically Y2K safe; many Unix OSes and PC BIOSs not originally designed for four-digit dates `[ps=5]` — [[study-aberdeen-1996-year-2000-transition-opportunity-reconstruction]]

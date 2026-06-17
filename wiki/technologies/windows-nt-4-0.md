@@ -12,9 +12,9 @@ era: "1996"
 lifecycle_at_study: "end-of-life"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Windows NT 4.0
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- none `[ps=0]` — [[study-why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622]]
 - 2003-06-30 — [[study-why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622]]
-- none — [[study-why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622]]

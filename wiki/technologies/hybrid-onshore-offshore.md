@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 6
 ---
 
 # Hybrid Onshore-Offshore Delivery
@@ -24,11 +24,11 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- remote-services-prime-contractor `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- 20000 `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- high-potential `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- cost-plus-customer-care `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- dissolved-or-inactive `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- industry-standard `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
 - local-support-subcontractor — [[study-2006-unisyswipro-rs-3747-a7e31e]]
-- remote-services-prime-contractor — [[study-2006-unisyswipro-rs-3747-a7e31e]]
-- 20000 — [[study-2006-unisyswipro-rs-3747-a7e31e]]
 - combines-cost-savings-with-customer-focus — [[study-2006-unisyswipro-rs-3747-a7e31e]]
-- high-potential — [[study-2006-unisyswipro-rs-3747-a7e31e]]
-- cost-plus-customer-care — [[study-2006-unisyswipro-rs-3747-a7e31e]]
-- dissolved-or-inactive — [[study-2006-unisyswipro-rs-3747-a7e31e]]
-- industry-standard — [[study-2006-unisyswipro-rs-3747-a7e31e]]

@@ -12,9 +12,9 @@ era: "1988-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.95
+prescience_obs_count: 43
 ---
 
 # IBM iSeries (AS/400)
@@ -24,23 +24,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $7.7B — [[study-sun-as400-main-report-2002-c37e2a]]
-- $2.6B — [[study-sun-as400-main-report-2002-c37e2a]]
-- 23% — [[study-sun-as400-main-report-2002-c37e2a]]
-- $13.5B — [[study-sun-as400-main-report-2002-c37e2a]]
-- $56B — [[study-sun-as400-main-report-2002-c37e2a]]
-- 1-2-way @ $50-150K — [[study-sun-as400-main-report-2002-c37e2a]]
-- 400 to 375,000 TPM-C — [[study-sun-as400-main-report-2002-c37e2a]]
-- 85% of revenues through partners — [[study-sun-as400-main-report-2002-c37e2a]]
-- one of the industry's leading business partner programs — [[study-sun-as400-main-report-2002-c37e2a]]
-- relatively poor; premium-priced, particularly on upgrades — [[study-sun-as400-main-report-2002-c37e2a]]
-- customers generally satisfied; no Oracle DBA required — [[study-sun-as400-main-report-2002-c37e2a]]
-- Europe is the key battle ground; targeted SMB market — [[study-sun-as400-main-report-2002-c37e2a]]
-- well crafted, tested, working positioning and messages — [[study-sun-as400-main-report-2002-c37e2a]]
-- replace old AS/400s and centralize — [[study-sun-as400-main-report-2002-c37e2a]]
-- IGS-driven WebSphere upgrade — [[study-sun-as400-main-report-2002-c37e2a]]
-- HP3000 — [[study-sun-as400-main-report-2002-c37e2a]]
-- Notes Domino, portals, mid-market ERP with Navision — [[study-sun-as400-main-report-2002-c37e2a]]
-- modernize customer apps in CRM/BI, ERP, SCM — [[study-sun-as400-main-report-2002-c37e2a]]
-- selectively target small business (<100 employees) — [[study-sun-as400-main-report-2002-c37e2a]]
-- replace or refinance Y2K-era machines — [[study-sun-as400-main-report-2002-c37e2a]]
+- iSeries merged into Power Systems as IBM i `[ps=5]` — [[study-sun-as400-market-data-2002-5faa8f]]
+- relatively poor; premium-priced, particularly on upgrades `[ps=4]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- 90%+ of base is 'rather-die-than-switch' `[ps=4]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- 75% of installed base in low/no-growth state of inertia `[ps=4]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- Sun must match IBM partner program; any non-partner-led program will fail `[ps=4]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- Accenture and global SIs are short-list for frank discussions on CRM/EAS/SCM/B2B `[ps=4]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- Europe is as important as North America `[ps=4]` — [[study-sun-as400-presentation-2002-9d925e]]
+- Europe is the key battle ground; targeted SMB market `[ps=3]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- modernize customer apps in CRM/BI, ERP, SCM `[ps=3]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- Regatta transition will unleash ISV camp conflicts between AIX and OS/400 partners `[ps=2]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- 'Freeze AS/400, go with Sun for new business apps and Edge (H1)' `[ps=2]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- Europe is the key SMB battleground `[ps=2]` — [[study-sun-as400-presentation-2002-9d925e]]
+- $7.7B `[ps=0]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- $2.6B `[ps=0]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- $56B `[ps=0]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- 1-2-way @ $50-150K `[ps=0]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- 400 to 375,000 TPM-C `[ps=0]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- 85% of revenues through partners `[ps=0]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- well crafted, tested, working positioning and messages `[ps=0]` — [[study-sun-as400-main-report-2002-c37e2a]]
+- HP3000 `[ps=0]` — [[study-sun-as400-main-report-2002-c37e2a]]

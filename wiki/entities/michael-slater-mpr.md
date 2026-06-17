@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Michael Slater
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Intel minimizes, IBM maximizes — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- Intel minimizes, IBM maximizes `[ps=3]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]

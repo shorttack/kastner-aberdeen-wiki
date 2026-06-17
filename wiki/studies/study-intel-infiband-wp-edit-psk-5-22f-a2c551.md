@@ -3,7 +3,7 @@ title: "InfiniBand Architecture: Planning the Next-Generation Data Center"
 slug: "study-intel-infiband-wp-edit-psk-5-22f-a2c551"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "intel-infiband-wp--edit-psk-5-22f-a2c551"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.31
+prescience_obs_count: 16
 ---
 
 # InfiniBand Architecture: Planning the Next-Generation Data Center
@@ -32,25 +32,25 @@ _Published 2002, author **Peter S. Kastner**, type **white-paper**._
 
 ## Top observations
 
-- more than 200
-- up to 30 Gbps
+- high cost and complexity limits to large enterprise data centers `[ps=4]`
+- enterprise production beginning 2003 `[ps=3]`
+- dense computing and consolidation via IBA `[ps=3]`
+- server-to-server, server-to-storage, TCP offload in 2004 `[ps=3]`
+- near-linear scaling of transaction processing `[ps=2]`
+- primary server-storage protocol `[ps=2]`
+- begin evaluating 2002; phased deployment 2003 `[ps=2]`
+- IBA will replace PCI-X as next-generation I/O interconnect `[ps=1]`
+- emerged as preferred architecture for storage networking per Aberdeen research `[ps=1]`
+- more than 200 `[ps=0]`
+- up to 30 Gbps `[ps=0]`
+- 500 MB/s minimum to 6 GB/s `[ps=0]`
+- on the order of 50% `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- late 2002 or early 2003 `[ps=0]`
+- leading manufacturers 2003 `[ps=0]`
 - 532 MB/second (parallel PCI)
-- 500 MB/s minimum to 6 GB/s
-- on the order of 50%
 - on the order of 70%
-- near-linear scaling of transaction processing
 - significant CPU capacity freed
 - all major computer suppliers in 2003
-- enterprise production beginning 2003
 - [UNVERIFIED]
-- IBA will replace PCI-X as next-generation I/O interconnect
-- [UNVERIFIED]
-- dense computing and consolidation via IBA
-- late 2002 or early 2003
-- leading manufacturers 2003
-- primary server-storage protocol
-- high cost and complexity limits to large enterprise data centers
-- server-to-server, server-to-storage, TCP offload in 2004
 - complementary: 3GIO replaces PCI; IBA handles I/O connectivity beyond motherboard
-- begin evaluating 2002; phased deployment 2003
-- emerged as preferred architecture for storage networking per Aberdeen research

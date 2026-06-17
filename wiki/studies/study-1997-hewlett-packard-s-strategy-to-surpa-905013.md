@@ -3,7 +3,7 @@ title: "Hewlett-Packard's Strategy to Surpass Compaq in the Enterprise-NT Market
 slug: "study-1997-hewlett-packard-s-strategy-to-surpa-905013"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-hewlett-packard’s-strategy-to-surpa-905013"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.74
+prescience_obs_count: 19
 ---
 
 # Hewlett-Packard's Strategy to Surpass Compaq in the Enterprise-NT Marketplace
@@ -32,26 +32,26 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 
 ## Top observations
 
-- $38 billion
+- Endorse Exchange; OpenMail as migration bridge `[ps=5]`
+- Compaq acquired DEC for $9.6B (June 1998) `[ps=5]`
+- HP acquired Compaq for ~$25B (completed May 2002) `[ps=5]`
+- HP did not achieve independent NT leadership; merged with Compaq instead `[ps=5]`
+- Dell surpassed Compaq in PC market share by 2001 `[ps=5]`
+- TCO reduction / HP-MS joint solutions / heterogeneous interoperability `[ps=4]`
+- Manageability + Availability + Performance `[ps=3]`
+- HP will have time-to-market advantage via Merced co-development `[ps=1]`
+- $38 billion `[ps=0]`
+- more than double HP marketshare `[ps=0]`
+- $200M/year `[ps=0]`
+- 23500+ `[ps=0]`
+- 38000+ distributors/VARs `[ps=0]`
+- 70% world monetary transactions; 66% ATM/CC; 90% stock `[ps=0]`
+- potentially by late 1998 `[ps=0]`
+- at least 5 years `[ps=0]`
+- margins below 25% current level `[ps=0]`
+- 2001 (not 1999/2000 as expected) `[ps=0]`
+- $1000 `[ps=0]`
 - $20 billion
-- more than double HP marketshare
 - 9198 tpm at $50/tpm
-- $200M/year
-- 23500+
-- 38000+ distributors/VARs
-- 70% world monetary transactions; 66% ATM/CC; 90% stock
-- TCO reduction / HP-MS joint solutions / heterogeneous interoperability
-- Endorse Exchange; OpenMail as migration bridge
-- potentially by late 1998
-- at least 5 years
-- margins below 25% current level
-- HP will have time-to-market advantage via Merced co-development
 - completed 1997
-- Compaq acquired DEC for $9.6B (June 1998)
-- HP acquired Compaq for ~$25B (completed May 2002)
-- HP did not achieve independent NT leadership; merged with Compaq instead
-- 2001 (not 1999/2000 as expected)
-- Dell surpassed Compaq in PC market share by 2001
-- Manageability + Availability + Performance
-- $1000
 - competitive alternatives to MS (Notes vs Exchange; DB2 vs SQL Server; Java vs ActiveX)

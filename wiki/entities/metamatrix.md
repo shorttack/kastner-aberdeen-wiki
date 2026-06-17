@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Red Hat / JBoss (April 2007)"
 years_active: "late 1990s-2007"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # MetaMatrix Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MetaMatrix EII revenue estimate: $10 million (2003 projected) — [[study-aberdeen-eii-2003-ea3f1a]]
-- MetaMatrix is Cadillac of EII solutions — comprehensive features, developer/admin support, sophisticated cross-database application development — [[study-aberdeen-eii-2003-ea3f1a]]
+- MetaMatrix is Cadillac of EII solutions — comprehensive features, developer/admin support, sophisticated cross-database application development `[ps=2]` — [[study-aberdeen-eii-2003-ea3f1a]]
+- MetaMatrix EII revenue estimate: $10 million (2003 projected) `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]

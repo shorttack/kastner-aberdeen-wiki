@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Server Clustering Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sun expects to ship eight-way clustering in the spring of 2000 — [[study-informationweek-windows-2000-high-end-am-4ccdae]]
+- Sun expects to ship eight-way clustering in the spring of 2000 `[ps=0]` — [[study-informationweek-windows-2000-high-end-am-4ccdae]]

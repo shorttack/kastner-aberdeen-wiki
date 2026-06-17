@@ -12,9 +12,9 @@ era: "1988-2010"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # ISDN (Integrated Services Digital Network)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- VidModem and ATM service both declined; IP-based broadband and internet video bypassed the telco ATM path entirely — [[study-1997-objective-communications--vidmodem--f3351f]]
+- VidModem and ATM service both declined; IP-based broadband and internet video bypassed the telco ATM path entirely `[ps=5]` — [[study-1997-objective-communications--vidmodem--f3351f]]

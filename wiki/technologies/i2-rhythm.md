@@ -12,9 +12,9 @@ era: "1994-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # i2 RHYTHM
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Leading fully integrated supply chain management solution; synchronous and asynchronous ERP integration `[ps=0]` — [[study-erpv2p~1-b15573]]
 - ~$200 million — [[study-erpv2p~1-b15573]]
-- Leading fully integrated supply chain management solution; synchronous and asynchronous ERP integration — [[study-erpv2p~1-b15573]]

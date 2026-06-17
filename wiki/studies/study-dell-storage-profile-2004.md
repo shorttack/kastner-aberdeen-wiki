@@ -3,7 +3,7 @@ title: "Dell: Applying Its Business Value Model to Storage"
 slug: "study-dell-storage-profile-2004"
 page_type: "study"
 tags: ["type/study", "collection/case-analysis"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "dell-storage-profile-2004"
 author: "David Hill; Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.86
+prescience_obs_count: 28
 ---
 
 # Dell: Applying Its Business Value Model to Storage
@@ -32,28 +32,28 @@ _Published 2004, author **David Hill; Peter S. Kastner**, type **case-analysis**
 
 ## Top observations
 
-- 60% of Aberdeen survey respondents cite managing storage within current budget and headcount constraints as critical success factor
-- Three fundamental Dell storage strategies: (1) deliver industry-leading value, (2) drive standards, (3) move high-end functionality downstream
-- Superior SCM techniques and ability to quickly pass cost reductions to customer are Dell's key ongoing advantages
-- FCLC (Fibre Channel), Serial ATA II, Serial Attached SCSI (SAS), and SNIA — Dell actively driving storage standards
-- Dell driving Serial ATA II and SAS standards to enable mixed-backplane enterprise servers
-- SAS/SATA mixed backplanes became universal in enterprise servers confirming Dell's standards-push prediction.
-- In 2003, Dell and EMC extended original five-year agreement to co-brand storage products for another two years through December 2008
-- Partnership demonstrates long-term value both companies see from the relationship; expected to continue post-2008
-- Dell acquired EMC Corporation for $67 billion in 2016 — the largest technology acquisition in history. The partnership profiled in this document became full corporate integration.
-- CX300: 70% faster than CX200; CX500: 100% faster than CX400; CX700: 25% faster than CX600 — at same price
-- When upgrading CX200 to CX300, customer replaces only disk controller not full array; no data migration downtime required
-- Aberdeen research shows obtaining satisfactory performance at less cost is emerging as a major buyer trend — satisfied by new midline products
-- Dell|EMC arrays with ATA drives require several FC drives for FLARE OS; rest of drives can be ATA/FC mix
-- Fixed content storage (fast access; lower performance than online) and nearline disk-to-disk backup and continuous data protection
-- Dell conceived AX100 to meet customers' needs for easier-to-use Fibre Channel system at lower price than CX line
-- AX100 scales up to 3 TB on SATA drives; wizard-based setup; dual controllers; mirrored cache
-- Large companies with many remote sites and small organizations deterred by SAN complexity and cost; AX100 addresses this
-- SATA-based entry-level SANs became standard at workgroup/branch level by 2008. AX100 concept validated and expanded by EMC's later CX4 and VNXe product lines.
-- Viewing Dell as storage integrator (not OEM) explains its efforts to simplify disk array, tape, and software selection
-- Dell's storage team deserves a place at the business discussion table of large, medium-sized, and small companies and government agencies — and workgroups of any size
-- For customers, Dell's standards orientation makes it easier and less costly to integrate Dell storage into heterogeneous environments
-- CX300 and AX100 now have SnapView point-in-time copy capability whereas CX200 did not — functionality moving downstream
-- PowerVault 775N and 770N (midrange file servers); PowerVault 745N (entry-level alternative to microfiche/optical); Windows Storage Server 2003
-- Dell chose Windows Storage Server 2003 over proprietary NAS OS to eliminate IT administrator learning curve
-- Dell standardizes tape automation on DLT derivatives and LTO derivatives; PowerVault 160T uses LTO-2 exclusively; future emphasis on LTO
+- Obtaining satisfactory performance at less cost via midline products is emerging as a major buyer trend `[ps=5]`
+- 60% of Aberdeen survey respondents cite managing storage within current budget and headcount constraints as critical success factor `[ps=4]`
+- Three fundamental Dell storage strategies: (1) deliver industry-leading value, (2) drive standards, (3) move high-end functionality downstream `[ps=4]`
+- Dell driving Serial ATA II and SAS standards to enable mixed-backplane enterprise servers `[ps=4]`
+- SAS/SATA mixed backplanes became universal in enterprise servers confirming Dell's standards-push prediction. `[ps=4]`
+- Dell acquired EMC Corporation for $67 billion in 2016 — the largest technology acquisition in history. The partnership profiled in this document became full corporate integration. `[ps=4]`
+- Aberdeen research shows obtaining satisfactory performance at less cost is emerging as a major buyer trend — satisfied by new midline products `[ps=4]`
+- Fixed content storage (fast access; lower performance than online) and nearline disk-to-disk backup and continuous data protection `[ps=4]`
+- SATA-based entry-level SANs became standard at workgroup/branch level by 2008. AX100 concept validated and expanded by EMC's later CX4 and VNXe product lines. `[ps=4]`
+- Dell's storage team deserves a place at the business discussion table of large, medium-sized, and small companies and government agencies — and workgroups of any size `[ps=4]`
+- CX300 and AX100 now have SnapView point-in-time copy capability whereas CX200 did not — functionality moving downstream `[ps=4]`
+- Dell standardizes tape automation on DLT derivatives and LTO derivatives; PowerVault 160T uses LTO-2 exclusively; future emphasis on LTO `[ps=4]`
+- Each level of standardization enables new users; increases market size; drives technology refinement; enables next standardization level `[ps=4]`
+- Aberdeen watched Dell's storage product line grow in complexity, breadth, and sophistication over past five years `[ps=4]`
+- Dell became one of the world's largest storage vendors through organic growth and the $67B EMC acquisition in 2016 — the largest tech acquisition in history. `[ps=4]`
+- SnapView functionality offered from entry CX300 through high-end CX700 — unusual breadth vs competitors who restrict to high-end `[ps=4]`
+- Large companies with many remote sites and small organizations deterred by SAN complexity and cost; AX100 addresses this `[ps=3]`
+- For customers, Dell's standards orientation makes it easier and less costly to integrate Dell storage into heterogeneous environments `[ps=3]`
+- Dell's bundling reduces number of SKUs, ensures all software components are included, and is budget-friendly through Dell's volume opportunity `[ps=3]`
+- Superior SCM techniques and ability to quickly pass cost reductions to customer are Dell's key ongoing advantages `[ps=2]`
+- Dell chose Windows Storage Server 2003 over proprietary NAS OS to eliminate IT administrator learning curve `[ps=2]`
+- Dell knows where all its storage systems are because it sells directly; enables targeted preventive maintenance `[ps=2]`
+- When upgrading CX200 to CX300, customer replaces only disk controller not full array; no data migration downtime required `[ps=0]`
+- Dell|EMC arrays with ATA drives require several FC drives for FLARE OS; rest of drives can be ATA/FC mix `[ps=0]`
+- Dell conceived AX100 to meet customers' needs for easier-to-use Fibre Channel system at lower price than CX line `[ps=0]`

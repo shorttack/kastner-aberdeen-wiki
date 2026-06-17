@@ -13,8 +13,8 @@ lifecycle_at_study: "[DEFERRED]"
 lifecycle_current: "[DEFERRED]"
 occurrence_count: 139
 prescience_max: 5.0
-prescience_mean: -0.0
-prescience_obs_count: 216
+prescience_mean: 1.42
+prescience_obs_count: 89
 ---
 
 # Technology Market Analysis

@@ -3,7 +3,7 @@ title: "System saves $ for thrifty night owls (AS&E ASEP time-of-day metering)"
 slug: "study-minicomputer-news-ase-asep-1979-2b5327"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "minicomputer-news-ase-asep-1979-2b5327"
 author: "Minicomputer News staff"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.5
+prescience_obs_count: 8
 ---
 
 # System saves $ for thrifty night owls (AS&E ASEP time-of-day metering)
@@ -32,15 +32,15 @@ _Published 1979, author **Minicomputer News staff**, type **news-article**._
 
 ## Top observations
 
-- Small lifestyle change enables savings; Ralph Abbott (AS&E VP) asserts users will adopt TOU
-- Most U.S. states forecast to adopt TOU by 1984-1985
+- TOU reduces oil needed for generation — aids national energy conservation goal `[ps=4]`
+- Can shed non-essential loads during dangerous usage spikes; only minor customer inconvenience `[ps=4]`
+- Two-way signaling over powerlines — communications medium already in place `[ps=4]`
+- Small lifestyle change enables savings; Ralph Abbott (AS&E VP) asserts users will adopt TOU `[ps=3]`
+- Individual meter usage checkable as often as every 30 minutes or as infrequently as monthly `[ps=3]`
+- Most U.S. states forecast to adopt TOU by 1984-1985 `[ps=2]`
+- 154,000 homes under ASEP water-heater load control `[ps=0]`
+- Article dates to Kastner's Arthur D. Little tenure (1972-1979); likely an ADL reference piece on utility-automation minicomputer applications relevant to ADL clients `[ps=0]`
 - Utilities in ~12 states using ASEP on experimental basis in 1979
-- 154,000 homes under ASEP water-heater load control
-- TOU reduces oil needed for generation — aids national energy conservation goal
-- Can shed non-essential loads during dangerous usage spikes; only minor customer inconvenience
 - Florida Power Corp. to test dynamic rate system charging peak only when peak reached
 - Florida, Wisconsin, Missouri, New Jersey, Minnesota, California
-- Individual meter usage checkable as often as every 30 minutes or as infrequently as monthly
-- Article dates to Kastner's Arthur D. Little tenure (1972-1979); likely an ADL reference piece on utility-automation minicomputer applications relevant to ADL clients
-- Two-way signaling over powerlines — communications medium already in place
 - Residential AC/heating systems and electrical water heaters under ASEP control

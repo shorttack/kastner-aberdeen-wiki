@@ -3,7 +3,7 @@ title: "Intel's Centrino: Don't Man the Barricades"
 slug: "study-intel-centrino-pk-8ecf9a"
 page_type: "study"
 tags: ["type/study", "collection/expert-report"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "intel-centrino-pk-8ecf9a"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.36
+prescience_obs_count: 14
 ---
 
 # Intel's Centrino: Don't Man the Barricades
@@ -32,23 +32,23 @@ _Published 2003, author **Peter S. Kastner**, type **expert-report**._
 
 ## Top observations
 
-- March 12, 2003
+- Senior executives, sales/support adopting public wireless before corporate policy exists `[ps=5]`
+- Better performance than Pentium 3 and Pentium 4 mobile `[ps=4]`
+- All major notebook companies rolling out Centrino products `[ps=4]`
+- ~25% or more of PC units sold to enterprises are notebooks `[ps=3]`
+- 30 minutes per day extra productivity `[ps=3]`
+- March 12, 2003 `[ps=0]`
+- Tens of millions of dollars `[ps=0]`
+- ~$90 from CompUSA `[ps=0]`
+- ~150 feet `[ps=0]`
+- Opening to industry; Centrino LEAP-aware `[ps=0]`
+- Proven on Microsoft campus `[ps=0]`
+- 6 months or less `[ps=0]`
+- 1 hour per day in conjunction with digital record-keeping `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
 - ~$300 million
 - Over 5 hours
-- Better performance than Pentium 3 and Pentium 4 mobile
-- All major notebook companies rolling out Centrino products
-- Tens of millions of dollars
-- ~25% or more of PC units sold to enterprises are notebooks
-- ~$90 from CompUSA
-- ~150 feet
 - More than a quarter of business Centrinos expected to ship with wireless mini-card removed
-- Opening to industry; Centrino LEAP-aware
-- Proven on Microsoft campus
-- 6 months or less
-- 30 minutes per day extra productivity
-- 1 hour per day in conjunction with digital record-keeping
 - Centrino/wireless will become standard IT building block
-- [UNVERIFIED]
 - Dominant microprocessor supplier using marketing and infrastructure spending to drive platform adoption
-- Senior executives, sales/support adopting public wireless before corporate policy exists
 - Embrace wireless with LEAP/WS2003 hardening; do not ban

@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Artificial Intelligence and Machine Learning
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Flexible SOA architecture enables organizations to more readily adopt emerging technologies such as AI and machine learning — [[study-soa-bpm-legacy-renewal-bce60f]]
+- Flexible SOA architecture enables organizations to more readily adopt emerging technologies such as AI and machine learning `[ps=4]` — [[study-soa-bpm-legacy-renewal-bce60f]]

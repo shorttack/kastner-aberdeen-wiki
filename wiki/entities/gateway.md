@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Acer (acquired 2007 for $710M)"
 years_active: "1985-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Gateway, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Gateway's all-in-one PC (circa 2003) exhibits nice integration and cable management. — [[study-intel-idf-pk-notes-3-6666da]]
+- Gateway's all-in-one PC (circa 2003) exhibits nice integration and cable management. `[ps=0]` — [[study-intel-idf-pk-notes-3-6666da]]

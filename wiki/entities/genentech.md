@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Roche (2009)"
 years_active: "1976-2009"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Genentech Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Purchased 1,000 new iMacs for staff; plans to use new Xserve for large gene-sequence computing — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]
+- Purchased 1,000 new iMacs for staff; plans to use new Xserve for large gene-sequence computing `[ps=0]` — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]

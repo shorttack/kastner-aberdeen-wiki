@@ -12,9 +12,9 @@ era: "2003"
 lifecycle_at_study: "active"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Windows Storage Server 2003
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dell chose Windows Storage Server 2003 over proprietary NAS OS to eliminate IT administrator learning curve — [[study-dell-storage-profile-2004]]
+- Dell chose Windows Storage Server 2003 over proprietary NAS OS to eliminate IT administrator learning curve `[ps=2]` — [[study-dell-storage-profile-2004]]

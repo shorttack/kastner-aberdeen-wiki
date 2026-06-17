@@ -12,9 +12,9 @@ era: "2009-2010"
 lifecycle_at_study: "research"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Intel Larrabee was cancelled as a consumer GPU product in December 2009, and the project was officially terminated as a standalone graphics product in May 2010. Technology evolved into the Xeon Phi product line for HPC.', 'source': 'https://en.wikipedia.org/wiki/Larrabee_(microarchitecture)'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Intel Larrabee
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Far from a write-off; can be significant HPC business — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]
-- [UNVERIFIED] — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]
+- Far from a write-off; can be significant HPC business `[ps=3]` — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]
+- [UNVERIFIED] `[ps=0]` — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]

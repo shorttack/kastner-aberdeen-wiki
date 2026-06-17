@@ -12,9 +12,9 @@ era: "1980s-2003"
 lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'CD-RW/CD-ROM as primary storage/distribution medium is discontinued. Known answer applied.', 'source': 'known'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # CD-ROM / CD-RW (Optical Disc)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Photos on PC hard drive (some on CDs); music on CDs; video on VHS tapes; no one uses memory cards for permanent storage — [[study-iha-full-report---draft-jul-28-41de81]]
+- Photos on PC hard drive (some on CDs); music on CDs; video on VHS tapes; no one uses memory cards for permanent storage `[ps=4]` — [[study-iha-full-report---draft-jul-28-41de81]]

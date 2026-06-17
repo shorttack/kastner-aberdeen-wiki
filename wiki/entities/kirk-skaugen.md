@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1992-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Kirk Skaugen
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Day 1 3:05-3:30 PM: Kirk Skaugen (VP; GM of Server Products Group). — [[study-peter-kastner-10-bde195]]
+- Day 1 3:05-3:30 PM: Kirk Skaugen (VP; GM of Server Products Group). `[ps=0]` — [[study-peter-kastner-10-bde195]]

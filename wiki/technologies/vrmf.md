@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM VRMF Versioning (Version.Release.Modification.Fix)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- AIX 4's VRMF architecture enables modular upgrades; production-grade OS for future — [[study-aberdeen-1996-ibm-aix-4-not-your-fathers-325]]
+- AIX 4's VRMF architecture enables modular upgrades; production-grade OS for future `[ps=4]` — [[study-aberdeen-1996-ibm-aix-4-not-your-fathers-325]]

@@ -12,9 +12,9 @@ era: "1970-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Just-in-time / lean supply chain
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dell keeps two hours of inventory. Therefore, if Dell's supplier's supplier has a plant fire, you want to know about that, because this could back up the assembly line tomorrow. — [[study-tech-s-best-hope-pockets-of-prosperity-2-17d6cf]]
+- Dell keeps two hours of inventory. Therefore, if Dell's supplier's supplier has a plant fire, you want to know about that, because this could back up the assembly line tomorrow. `[ps=4]` — [[study-tech-s-best-hope-pockets-of-prosperity-2-17d6cf]]

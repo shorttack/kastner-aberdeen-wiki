@@ -12,9 +12,9 @@ status: "unknown"
 successor: "[DEFERRED]"
 years_active: "1960s-1970s"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Murray Sherry
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kastner followed Murray Sherry and others from PHI to Arthur D. Little Systems in Cambridge; described as 'a small, seasoned rescue squad.' — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
-- Kastner followed Murray Sherry and others from PHI to ADL Systems; described as people he trusted. — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
+- Kastner followed Murray Sherry and others from PHI to Arthur D. Little Systems in Cambridge; described as 'a small, seasoned rescue squad.' `[ps=0]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- Kastner followed Murray Sherry and others from PHI to ADL Systems; described as people he trusted. `[ps=0]` — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]

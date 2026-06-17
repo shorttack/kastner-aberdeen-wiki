@@ -12,9 +12,9 @@ era: "1999-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "failed"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Rambus DRAM (RDRAM)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Limited demand per Toshiba [PSK disagrees] — [[study-dct-personal-it-forecast-research-2001]]
-- Makes sense for high-end Pentium 4 only — [[study-dct-why-aberdeen-follows-pc-deals-2002]]
+- Limited demand per Toshiba [PSK disagrees] `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
+- Makes sense for high-end Pentium 4 only `[ps=0]` — [[study-dct-why-aberdeen-follows-pc-deals-2002]]

@@ -3,7 +3,7 @@ title: "Object Databases Such As O2 ODMG: Time To Take A Second Look"
 slug: "study-1997-object-databases-such-as-o2-odmg-t-c98c72"
 page_type: "study"
 tags: ["type/study", "collection/Product Viewpoint (Abstract)"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-object-databases-such-as-o2-odmg--t-c98c72"
 author: "Wayne Kernochan / Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.4
+prescience_obs_count: 10
 ---
 
 # Object Databases Such As O2 ODMG: Time To Take A Second Look
@@ -32,15 +32,15 @@ _Published 1997, author **Wayne Kernochan / Aberdeen Group**, type **Product Vie
 
 ## Top observations
 
-- Achieves scalability extensibility complex-data support and programmer productivity benefits
-- IS buyers should factor object databases into buying decisions for wider range of mission-critical applications
-- IDC 1999: OODBMS $211M vs RDBMS/ORDBMS $11.1B; OODBMS never achieved mainstream status
-- Internet has insatiable appetite for large quantities of objects requiring OODBMS capabilities
+- IDC 1999: OODBMS $211M vs RDBMS/ORDBMS $11.1B; OODBMS never achieved mainstream status `[ps=5]`
+- O2 Technology acquired by Informix in 1998; technology later absorbed by IBM via 2001 Informix acquisition `[ps=5]`
+- Relational databases remained dominant; object-relational extensions by Oracle and IBM addressed complex-data needs `[ps=5]`
+- ODMG disbanded 2001 after transitioning Java binding work to Java Data Objects (JDO) specification `[ps=4]`
+- Component objects proven key to order-of-magnitude productivity improvements in developer-driven competitive applications `[ps=4]`
+- ODMG provides application portability framework; voting members include GemStone O2 ObjectDesign Objectivity POET UniSQL Versant `[ps=3]`
+- Achieves scalability extensibility complex-data support and programmer productivity benefits `[ps=2]`
+- IS buyers should factor object databases into buying decisions for wider range of mission-critical applications `[ps=2]`
+- Internet has insatiable appetite for large quantities of objects requiring OODBMS capabilities `[ps=2]`
+- Best suited for complex-data in data marts; multimedia Internet; rapidly changing applications; business model implementations `[ps=2]`
 - O2 Technology positioned as strong alternative to relational databases for new IS applications
-- O2 Technology acquired by Informix in 1998; technology later absorbed by IBM via 2001 Informix acquisition
-- ODMG provides application portability framework; voting members include GemStone O2 ObjectDesign Objectivity POET UniSQL Versant
-- ODMG disbanded 2001 after transitioning Java binding work to Java Data Objects (JDO) specification
-- Best suited for complex-data in data marts; multimedia Internet; rapidly changing applications; business model implementations
 - Object databases retained specialized niches in CAD/CAM telecom scientific computing; NoSQL document stores addressed web use cases
-- Relational databases remained dominant; object-relational extensions by Oracle and IBM addressed complex-data needs
-- Component objects proven key to order-of-magnitude productivity improvements in developer-driven competitive applications

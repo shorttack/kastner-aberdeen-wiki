@@ -3,7 +3,7 @@ title: "Network Operating Systems: 1998 Practice Summary — Mockup/Template"
 slug: "study-mockup-1-ca8fde"
 page_type: "study"
 tags: ["type/study", "collection/other-research"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "mockup~1-ca8fde"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.29
+prescience_obs_count: 7
 ---
 
 # Network Operating Systems: 1998 Practice Summary — Mockup/Template
@@ -32,13 +32,13 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 
 ## Top observations
 
+- IS managers reviewing plans for Banyan VINES and Digital PathWorks migrations `[ps=5]`
+- Most mid- and large-sized organizations have multi-tier hardware and software with one or more NOSes installed `[ps=4]`
+- Issue is not which NOS to install but how to get pieces to interoperate and whether to pursue NOS unification `[ps=4]`
+- With advent of Internet and intranets what is the role of the NOS? Is the NOS dead? `[ps=3]`
+- Is IBM going to abandon OS/2 Warp Server? `[ps=0]`
+- Is NT Server going to rule the world near term and long term? `[ps=0]`
+- File and Print Services, Directory Services, Network and Systems Management, Security `[ps=0]`
 - Is Novell still a viable company and is NetWare still a viable product?
-- Is IBM going to abandon OS/2 Warp Server?
-- Is NT Server going to rule the world near term and long term?
-- Most mid- and large-sized organizations have multi-tier hardware and software with one or more NOSes installed
 - NT Server's growing role in enterprise and decline of other suppliers making IS decisions urgent
-- With advent of Internet and intranets what is the role of the NOS? Is the NOS dead?
-- File and Print Services, Directory Services, Network and Systems Management, Security
-- IS managers reviewing plans for Banyan VINES and Digital PathWorks migrations
-- Issue is not which NOS to install but how to get pieces to interoperate and whether to pursue NOS unification
 - Core of most Fortune 1000 networks is a welter of LANs each with its own NOS

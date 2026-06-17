@@ -12,9 +12,9 @@ era: "1876-present"
 lifecycle_at_study: "dominant"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Twisted-Pair Phone Wire (POTS)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Existing twisted pair phone wire viable as multimedia transport with VidModem — no rewiring required — [[study-1997-objective-communications--vidmodem--f3351f]]
-- DSL used same twisted pair for broadband internet enabling IP video — different solution same physical medium insight — [[study-1997-objective-communications--vidmodem--f3351f]]
+- DSL used same twisted pair for broadband internet enabling IP video — different solution same physical medium insight `[ps=4]` — [[study-1997-objective-communications--vidmodem--f3351f]]
+- Existing twisted pair phone wire viable as multimedia transport with VidModem — no rewiring required `[ps=3]` — [[study-1997-objective-communications--vidmodem--f3351f]]

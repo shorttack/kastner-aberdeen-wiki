@@ -1,5 +1,5 @@
 ---
-title: "==> picture [231 x 792] intentionally omitted <=="
+title: "Ra 21Stcen 3863 (Aberdeen, 2007)"
 slug: "study-ra-21stcen-3863-65fedd"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.76
-prescience_obs_count: 75
+prescience_mean: 1.92
+prescience_obs_count: 71
 ---
 
-# ==> picture [231 x 792] intentionally omitted <==
+# Ra 21Stcen 3863 (Aberdeen, 2007)
 
-> This study analyzes ==> picture [231 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-21stcen-3863-65fedd. Source: ra_21stcen_3863.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **International Retailer**, type **topic-analysis**._

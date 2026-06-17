@@ -12,9 +12,9 @@ era: "2024-present"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "emerging"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # Intel 18A Process Node
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Tick-tock abandoned 2016; smartphone exit 2019; Itanium discontinued 2021; foundry pivot 2021; AI compute open — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- Under Gelsinger, Intel pivots to a foundry-services business (IFS) competing with TSMC — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- 4 matching observations — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Tick-tock abandoned 2016; smartphone exit 2019; Itanium discontinued 2021; foundry pivot 2021; AI compute open `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Under Gelsinger, Intel pivots to a foundry-services business (IFS) competing with TSMC `[ps=4]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- 4 matching observations `[ps=0]` — [[study-2026-kastner-intel-longitudinal-776f7e]]

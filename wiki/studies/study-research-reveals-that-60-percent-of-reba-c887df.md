@@ -3,7 +3,7 @@ title: "Research Reveals That 60 Percent of Rebates Are Not Redeemed"
 slug: "study-research-reveals-that-60-percent-of-reba-c887df"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "research-reveals-that-60-percent-of-reba-c887df"
 author: "santella.com / JPS Rebate & Fulfillment Articles (staff)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.8
+prescience_obs_count: 5
 ---
 
 # Research Reveals That 60 Percent of Rebates Are Not Redeemed
@@ -32,10 +32,10 @@ _Published 2004, author **santella.com / JPS Rebate & Fulfillment Articles (staf
 
 ## Top observations
 
-- About 60 percent of buyers who could redeem computer-related rebates do not try. That is money the store and/or the manufacturer keep.
+- Traditional rebate-fulfillment houses consolidated or pivoted to broader promotions/loyalty services (e.g., Parago -> Blackhawk Engagement Solutions -> Blackhawk Network) as mail-in rebates shrank. `[ps=5]`
+- About 60 percent of buyers who could redeem computer-related rebates do not try. That is money the store and/or the manufacturer keep. `[ps=3]`
+- Three parties — the product manufacturer, the retailer, and the rebate fulfillment house — are usually involved in each redemption, with each party relying on the others to ensure smooth processing. `[ps=3]`
+- Sponsor-to-fulfillment-house payment cycles take 15 to 90 days after the fulfillment company invoice date; paper-check payment adds several more days for check clearance before consumer checks can be issued. `[ps=3]`
+- A few fulfillment houses (anonymous) have reported to the Federal Trade Commission that sponsoring manufacturers sometimes do not pay rebate-fund invoices at all. `[ps=0]`
 - Of the 40 percent who give it a shot, half experience problems or do not get a check at all.
-- Three parties — the product manufacturer, the retailer, and the rebate fulfillment house — are usually involved in each redemption, with each party relying on the others to ensure smooth processing.
-- Sponsor-to-fulfillment-house payment cycles take 15 to 90 days after the fulfillment company invoice date; paper-check payment adds several more days for check clearance before consumer checks can be issued.
-- A few fulfillment houses (anonymous) have reported to the Federal Trade Commission that sponsoring manufacturers sometimes do not pay rebate-fund invoices at all.
 - By 2015 US consumer-electronics big-box retailers (Best Buy; liquidated Circuit City) had largely abandoned mail-in rebates in favor of instant-savings coupons and digital promo codes; some appliance, tire, and telecom categories continue the practice on a reduced basis.
-- Traditional rebate-fulfillment houses consolidated or pivoted to broader promotions/loyalty services (e.g., Parago -> Blackhawk Engagement Solutions -> Blackhawk Network) as mail-in rebates shrank.

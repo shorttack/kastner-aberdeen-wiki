@@ -12,9 +12,9 @@ era: "1996-planned"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "legacy"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.33
+prescience_obs_count: 3
 ---
 
 # Oracle 8
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Most aggressive in multimedia marketing; objects by 1997; serious about video on demand — [[study-jungle-6-7af8b7]]
+- Oracle 8 with OO technology not until 1997 `[ps=5]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- Confirmed — Oracle 8 released June 1997, consistent with the projected timeline `[ps=5]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- Most aggressive in multimedia marketing; objects by 1997; serious about video on demand `[ps=3]` — [[study-jungle-6-7af8b7]]
 - unknown — [[study-jungle-6-7af8b7]]
-- Oracle 8 with OO technology not until 1997 — [[study-rdbms-for-ibm-powera~1-7a44be]]
-- Confirmed — Oracle 8 released June 1997, consistent with the projected timeline — [[study-rdbms-for-ibm-powera~1-7a44be]]

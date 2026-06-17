@@ -12,9 +12,9 @@ era: "2002-2008"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 19
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Intel Pentium 4 with Hyper-Threading
@@ -29,7 +29,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- P4 HT now mainstream — better multi-tasking and thread-aware apps — [[study-dct-pc-replacement-insight1-2003-04]]
+- P4 HT now mainstream — better multi-tasking and thread-aware apps `[ps=4]` — [[study-dct-pc-replacement-insight1-2003-04]]
 - Pentium 4 with Hyper-Threading Arrives Intel's Pentium 4 at 3.06 GHz with Hyper-Threading (HT) technology arrived November 14th. — [[study-dct-weekly-2002-11-14-p4-ht]]
 - This Week's Analysis of PC Deals Pentium 4 with Hyper-Threading Arrives Intel's Pentium 4 at 3.06 GHz with Hyper-Threading (HT) technology arrived November 14th. — [[study-dct-weekly-2002-11-17]]
 - Intel has not changed microprocessor prices since November. — [[study-dct-weekly-2003-01-19]]

@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1970-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Western Digital
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- WD does not have extensive experience selling to 'business'; sells products not solutions — [[study-09-maxtor-workshop-prep-guide-a218dc]]
-- WD should be positioned as midline competitor; already refers to Raptor as Enterprise Serial ATA; press doesn't need to understand subtleties — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
+- WD does not have extensive experience selling to 'business'; sells products not solutions `[ps=3]` — [[study-09-maxtor-workshop-prep-guide-a218dc]]
+- WD should be positioned as midline competitor; already refers to Raptor as Enterprise Serial ATA; press doesn't need to understand subtleties `[ps=3]` — [[study-10-maxtor-workshop-02-09-eod-53f22b]]

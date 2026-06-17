@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "rising"
 lifecycle_current: "evolved-into-cloud-migration"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.86
+prescience_obs_count: 7
 ---
 
 # Downsizing/Rightsizing
@@ -24,10 +24,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- consolidate/cheap-MIPS/outsource/freeze-budgets/downsize-replicated/divisional — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]
-- costs front-end loaded — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]
-- high-confidence — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]
-- Forrester Research — [[study-hp-mainframe-alternative-fernandez-mfasc-a2179f]]
-- HP as best mainframe alternative — [[study-hp-mainframe-alternative-fernandez-mfasc-a2179f]]
-- MFASC'92 Brazil — [[study-hp-mainframe-alternative-fernandez-mfasc-a2179f]]
-- alignment/BPR/info-architecture/data-utilization — [[study-hp-mainframe-alternative-fernandez-mfasc-a2179f]]
+- consolidate/cheap-MIPS/outsource/freeze-budgets/downsize-replicated/divisional `[ps=4]` — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]
+- HP as best mainframe alternative `[ps=2]` — [[study-hp-mainframe-alternative-fernandez-mfasc-a2179f]]
+- costs front-end loaded `[ps=0]` — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]
+- high-confidence `[ps=0]` — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]
+- Forrester Research `[ps=0]` — [[study-hp-mainframe-alternative-fernandez-mfasc-a2179f]]
+- MFASC'92 Brazil `[ps=0]` — [[study-hp-mainframe-alternative-fernandez-mfasc-a2179f]]
+- alignment/BPR/info-architecture/data-utilization `[ps=0]` — [[study-hp-mainframe-alternative-fernandez-mfasc-a2179f]]

@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Liquidated January 2009; brand revived as online-only retailer by Systemax 2016"
 years_active: "1949-2009"
 occurrence_count: 23
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 3
 ---
 
 # Circuit City Stores, Inc.
@@ -29,9 +29,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Threatened; S&C providers have structural advantages over traditional CE channels `[ps=4]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
+- Industry observers say Circuit City also considering private-label addition `[ps=2]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
+- Filed Chapter 11 November 2008; liquidated all US stores March 2009 `[ps=0]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
 - Challenged by new S&C provider competition — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
-- Threatened; S&C providers have structural advantages over traditional CE channels — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
-- Filed Chapter 11 November 2008; liquidated all US stores March 2009 — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
 - All Circuit City AMD Athlon bundled deals include $100 gift cards. Circuit City no longer sells any Sony PCs on its website. — [[study-dct-weekly-2003-01-19]]
 - Circuit City's flyer only featured four PCs this week. All Circuit City AMD Athlon bundled deals include $100 gift cards. — [[study-dct-weekly-2003-01-26]]
 - This week, get $100-$200 off all Pentium 4 processor systems and no interest for 12 months at Circuit City. Circuitcity.com has reintroduced free shipping for a limited time on all its online items. — [[study-dct-weekly-2003-03-02]]
@@ -48,4 +49,3 @@ prescience_obs_count: 0
 - Save up to $450 on select Desktop and Laptop Computer Packages and enjoy no interest for 12 months. Circuitcity.com has free shipping on all its online items. — [[study-dct-weekly-2003-06-22]]
 - Save up to $250 on select Desktop and Laptop Computer Packages and enjoy no interest for 12 months. Circuit City's weekly ad had only two PCs, but these were two more new models from eMachines. — [[study-dct-weekly-2003-07-06]]
 - Save up to $200 on select Desktop and Laptop Computer Packages and enjoy no interest for 12 months. Circuitcity.com continues its free shipping offer on all its online items. — [[study-dct-weekly-2003-07-13]]
-- Save up to $200 on select Desktop and Laptop Computer Packages and enjoy no interest for 12 months. Circuitcity.com continues its free shipping offer on all its online items. — [[study-dct-weekly-2003-07-26]]

@@ -12,9 +12,9 @@ status: "merged"
 successor: "Adobe Systems (acquired Macromedia 2005)"
 years_active: "1992-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Adobe / Macromedia
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Adobe Flash reached end-of-life December 31 2020; all major browsers removed Flash support; billions of SWF files became inaccessible — [[study-maxtor-flash-demo-2003]]
+- Adobe Flash reached end-of-life December 31 2020; all major browsers removed Flash support; billions of SWF files became inaccessible `[ps=4]` — [[study-maxtor-flash-demo-2003]]

@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: ""
 years_active: "1985-1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Bill Ojile
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- The ET-1 benchmark is about 2 times as easy as TP-1 — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]
-- Handwritten Jan 2 1985 letter from Ojile (Stratus Minneapolis) transmitting Tandem competitive piece to Stratus colleague for rebuttal prep — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]
+- The ET-1 benchmark is about 2 times as easy as TP-1 `[ps=0]` — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]
+- Handwritten Jan 2 1985 letter from Ojile (Stratus Minneapolis) transmitting Tandem competitive piece to Stratus colleague for rebuttal prep `[ps=0]` — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]

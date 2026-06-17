@@ -12,9 +12,9 @@ era: "1980-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Computer-Aided Design (CAD)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Market-leading ISV for CAD/MCAD; applications capture for PTC determines platform purchasing decisions — [[study-workst~1-d22401]]
+- Market-leading ISV for CAD/MCAD; applications capture for PTC determines platform purchasing decisions `[ps=3]` — [[study-workst~1-d22401]]

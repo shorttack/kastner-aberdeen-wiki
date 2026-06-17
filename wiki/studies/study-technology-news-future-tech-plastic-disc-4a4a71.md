@@ -3,7 +3,7 @@ title: "Plastic Discovery Means Advanced Memory"
 slug: "study-technology-news-future-tech-plastic-disc-4a4a71"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "technology-news-future-tech-plastic-disc-4a4a71"
 author: "Jay Lyman, TechNewsWorld"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.4
+prescience_obs_count: 5
 ---
 
 # Plastic Discovery Means Advanced Memory
@@ -32,10 +32,10 @@ _Published 2003, author **Jay Lyman, TechNewsWorld**, type **news-article**._
 
 ## Top observations
 
-- The plastic memory is related to other thin-film polymer memory approaches from the likes of Intel and Advanced Micro Devices.
+- DDR2 SDRAM became mainstream in 2005-2006 desktop and server memory — exactly the year Kastner forecast — and dominated until DDR3 (2007+) and DDR4 (2014+). `[ps=5]`
+- Cost and density advantages of polymer memory still do not address the larger issues for electronic memory — heat and leakage — that will be tackled in new DDR2 memory due out next year (2004). `[ps=4]`
+- The next generation of DVD-writing technology will use much less metal while still being able to support dual layers, which bodes well for the longevity of the technology — refuting predictions that polymer memory would end mainstream CD/DVD use. `[ps=3]`
+- CD/DVD media persisted in enterprise backup and consumer video through 2015-2020 and still exist in 2025 for archival and limited consumer use — outlasting the 2003-era plastic-memory-kills-optical narrative that Kastner refuted. `[ps=3]`
+- The plastic memory is related to other thin-film polymer memory approaches from the likes of Intel and Advanced Micro Devices. `[ps=2]`
 - The biggest problem with today's high-density transistor memory is heat dissipation. If a polymer or plastic can't solve the electronic demands, it won't matter.
-- Cost and density advantages of polymer memory still do not address the larger issues for electronic memory — heat and leakage — that will be tackled in new DDR2 memory due out next year (2004).
-- The next generation of DVD-writing technology will use much less metal while still being able to support dual layers, which bodes well for the longevity of the technology — refuting predictions that polymer memory would end mainstream CD/DVD use.
-- DDR2 SDRAM became mainstream in 2005-2006 desktop and server memory — exactly the year Kastner forecast — and dominated until DDR3 (2007+) and DDR4 (2014+).
 - Polymer/plastic memory never reached commercial volume at mainstream density; Thin Film Electronics filed for bankruptcy/reorganization 2021 after three decades of effort; 3D XPoint/Optane briefly delivered persistent memory 2015-2022 then was discontinued — validating Kastner's 2003 skepticism.
-- CD/DVD media persisted in enterprise backup and consumer video through 2015-2020 and still exist in 2025 for archival and limited consumer use — outlasting the 2003-era plastic-memory-kills-optical narrative that Kastner refuted.

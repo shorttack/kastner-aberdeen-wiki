@@ -12,9 +12,9 @@ era: "1991-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Linux Kernel 2.2/2.4
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle announced Oracle Unbreakable Linux — support for RHEL-compatible Linux at lower fees than Red Hat charges. — [[study-novell-and-microsoft-good-for-business-4-59404e]]
+- Oracle announced Oracle Unbreakable Linux — support for RHEL-compatible Linux at lower fees than Red Hat charges. `[ps=0]` — [[study-novell-and-microsoft-good-for-business-4-59404e]]

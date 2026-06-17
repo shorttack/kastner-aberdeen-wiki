@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "object middleware initiative"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # ObjectBroker
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- discontinued — [[study-2026-kastner-dec-longitudinal-22d177]]
+- discontinued `[ps=0]` — [[study-2026-kastner-dec-longitudinal-22d177]]

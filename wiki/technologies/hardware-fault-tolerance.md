@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "production"
 lifecycle_current: "active"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 4
 ---
 
 # Hardware-based fault tolerance
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Founders averaged ~20 years experience; depth from HP, Honeywell, Data General gave team capacity for 'planned rapid growth' — [[study-stratus-corporate-overview-1982-11-a7e367]]
-- Software FT 'robs' system resources via checkpointing at 4 levels (OS, user, file, terminal); hardware FT eliminates this burden — [[study-stratus-fault-tolerant-revolution-ad-198-797e0e]]
-- 3 benefits: (1) prevent fault contamination, (2) eliminate complex recovery software, (3) reduce repair time via failed-component pinpointing — [[study-stratus-fault-tolerant-revolution-ad-198-797e0e]]
-- Stratus hardware fault tolerance hides failures from software entirely; application runs without awareness of failure event. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- Stratus hardware fault tolerance hides failures from software entirely; application runs without awareness of failure event. `[ps=5]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- Founders averaged ~20 years experience; depth from HP, Honeywell, Data General gave team capacity for 'planned rapid growth' `[ps=4]` — [[study-stratus-corporate-overview-1982-11-a7e367]]
+- 3 benefits: (1) prevent fault contamination, (2) eliminate complex recovery software, (3) reduce repair time via failed-component pinpointing `[ps=3]` — [[study-stratus-fault-tolerant-revolution-ad-198-797e0e]]
+- Software FT 'robs' system resources via checkpointing at 4 levels (OS, user, file, terminal); hardware FT eliminates this burden `[ps=2]` — [[study-stratus-fault-tolerant-revolution-ad-198-797e0e]]

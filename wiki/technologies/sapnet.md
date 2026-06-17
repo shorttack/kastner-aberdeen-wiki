@@ -12,9 +12,9 @@ era: "1996-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # SAPNet
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Online competency center for SAP, partner, and customer knowledge transfer — [[study-1997-teamsap-a3591b]]
+- Online competency center for SAP, partner, and customer knowledge transfer `[ps=5]` — [[study-1997-teamsap-a3591b]]

@@ -12,9 +12,9 @@ era: "1986"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Tolerant Eternity OS Release 5.0
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Release 5.0 enables multiple SBBs to be combined into systems with both linear expandability and fault tolerance — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
+- Release 5.0 enables multiple SBBs to be combined into systems with both linear expandability and fault tolerance `[ps=0]` — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]

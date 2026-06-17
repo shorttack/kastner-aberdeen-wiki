@@ -3,7 +3,7 @@ title: "To InfiniBand and beyond, cry firms"
 slug: "study-infiniband-and-beyond-computerworld-supp-200261"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "infiniband-and-beyond-computerworld-supp-200261"
 author: "Carly Suppa"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.14
+prescience_obs_count: 7
 ---
 
 # To InfiniBand and beyond, cry firms
@@ -32,11 +32,11 @@ _Published 2002, author **Carly Suppa**, type **news-article**._
 
 ## Top observations
 
-- 2.5 Gbps to 10 Gbps today; expected to reach up to 30 Gbps as it evolves
+- 2.5 Gbps to 10 Gbps today; expected to reach up to 30 Gbps as it evolves `[ps=5]`
+- Mixed — did NOT broadly displace TCP/IP in enterprise server-to-server. Substantively validated in HPC (top-500 supercomputers majority-InfiniBand by 2010s) and AI-training clusters (NVIDIA acquired Mellanox 2019 for $6.9B; InfiniBand HDR/NDR the dominant fabric for GPU training 2022-2026). Enterprise storage adopted RoCE/iWARP-over-Ethernet as alternative. `[ps=5]`
+- 'InfiniBand works at very high speeds with very low latency and is a very efficient and transparent protocol.' Plus: parallel connections with low CPU use, enabling huge I/O bandwidth; low-latency blade-to-blade messaging for clustering. `[ps=4]`
+- 'InfiniBand Architecture: Planning the Next Generation Data Centre' — published 2002 `[ps=3]`
+- 'In many instances, [InfiniBand] will replace TCP/IP as the high-speed, server-to-server interconnect technology.' — Kastner `[ps=2]`
+- Kerr: InfiniBand one of the most exciting technologies Dell has seen; absolutely critical in enabling Dell to deliver more scalable systems with standardized interfaces `[ps=2]`
+- ISPs, application service providers, and large web sites with multi-tiered architecture will be initial targets for InfiniBand's functionality `[ps=1]`
 - More than 150 companies worldwide
-- 'In many instances, [InfiniBand] will replace TCP/IP as the high-speed, server-to-server interconnect technology.' — Kastner
-- 'InfiniBand works at very high speeds with very low latency and is a very efficient and transparent protocol.' Plus: parallel connections with low CPU use, enabling huge I/O bandwidth; low-latency blade-to-blade messaging for clustering.
-- ISPs, application service providers, and large web sites with multi-tiered architecture will be initial targets for InfiniBand's functionality
-- Mixed — did NOT broadly displace TCP/IP in enterprise server-to-server. Substantively validated in HPC (top-500 supercomputers majority-InfiniBand by 2010s) and AI-training clusters (NVIDIA acquired Mellanox 2019 for $6.9B; InfiniBand HDR/NDR the dominant fabric for GPU training 2022-2026). Enterprise storage adopted RoCE/iWARP-over-Ethernet as alternative.
-- 'InfiniBand Architecture: Planning the Next Generation Data Centre' — published 2002
-- Kerr: InfiniBand one of the most exciting technologies Dell has seen; absolutely critical in enabling Dell to deliver more scalable systems with standardized interfaces

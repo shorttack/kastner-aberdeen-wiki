@@ -12,9 +12,9 @@ era: "1990-1994"
 lifecycle_at_study: "production"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 5
 ---
 
 # TPC-B Benchmark
@@ -24,10 +24,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- DECsystem 5500: ~$160K — outlier high-cost `[ps=0]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
+- Data General AViiON 4600: ~$102K at 39.7-46 tps-B `[ps=0]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
+- MIPS 3330: ~$110K at 39.7-46 tps-B `[ps=0]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
+- IBM RS/6000 320H: ~$107K at 39.7-46 tps-B `[ps=0]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
+- Sun SPARC Server 2: ~$102K at 39.7-46 tps-B `[ps=0]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
 - Compaq 486/50L: ~$110K 5-year cost at 39.7-46 tps-B — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
-- DECsystem 5500: ~$160K — outlier high-cost — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
 - HP 9000 807S: ~$105K at 39.7-46 tps-B — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
-- Data General AViiON 4600: ~$102K at 39.7-46 tps-B — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
-- MIPS 3330: ~$110K at 39.7-46 tps-B — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
-- IBM RS/6000 320H: ~$107K at 39.7-46 tps-B — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
-- Sun SPARC Server 2: ~$102K at 39.7-46 tps-B — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]

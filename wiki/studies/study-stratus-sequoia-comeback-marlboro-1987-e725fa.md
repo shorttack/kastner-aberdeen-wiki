@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.0
+prescience_obs_count: 3
 ---
 
 # Sequoia Surprises Competition With Comeback — Marlboro Enterprise / Hudson Daily Sun, 16 October 1987 (PSK at Stratus quoted)
@@ -32,10 +32,10 @@ _Published 1987, author **Scott McLennan (Marlboro Enterprise / Hudson Daily Sun
 
 ## Top observations
 
-- $17 billion/year per Stratus (Kastner)
-- ~55% of OLTP market 1987 per Stratus (Kastner)
+- OLTP is the fastest growing segment of the computer industry `[ps=3]`
+- $17 billion/year per Stratus (Kastner) `[ps=0]`
+- ~55% of OLTP market 1987 per Stratus (Kastner) `[ps=0]`
 - IBM agreed in 1987 to buy and resell Stratus products — first time IBM had turned to another vendor for hardware/software OLTP products
-- OLTP is the fastest growing segment of the computer industry
 - Computer companies are in the business of solving problems, and success is dependent upon solutions; a better abstract idea is not going to have customers beating a trail to your door
 - Stratus has the upper hand in the OLTP market; the company does not intend to complacently watch Sequoia
 - The marketplace tends to be unforgiving, and its easy to run out of money

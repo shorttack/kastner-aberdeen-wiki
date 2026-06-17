@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Rr Businessintelligencecustmgmt Gb 3697 (Aberdeen, 2006)"
 slug: "study-rr-businessintelligencecustmgmt-gb-3697-5bf0f4"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.09
-prescience_obs_count: 53
+prescience_mean: 1.64
+prescience_obs_count: 42
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Rr Businessintelligencecustmgmt Gb 3697 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study rr-businessintelligencecustmgmt-gb-3697-5bf0f4. Source: rr_businessintelligencecustmgmt_gb_3697.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **topic-analysis**._

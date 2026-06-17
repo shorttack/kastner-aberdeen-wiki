@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Siemens Medical (2000)"
 years_active: "1969-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Shared Medical Systems (SMS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3000+ customers worldwide; 1997 revenues >$779M; 25+ year presence; Physician Enterprise Manager released Feb 1998; equity stake in Visteon — [[study-health~1-056358]]
+- 3000+ customers worldwide; 1997 revenues >$779M; 25+ year presence; Physician Enterprise Manager released Feb 1998; equity stake in Visteon `[ps=0]` — [[study-health~1-056358]]

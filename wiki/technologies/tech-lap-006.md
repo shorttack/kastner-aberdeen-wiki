@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "Not yet available at study"
 lifecycle_current: "Dominant standard"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Remote Desktop Protocol (RDP)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft RDP (Terminal Services) and Citrix MetaFrame became dominant remote access solutions by 2001; LapLink's dial-up remote control approach became niche — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]
+- Microsoft RDP (Terminal Services) and Citrix MetaFrame became dominant remote access solutions by 2001; LapLink's dial-up remote control approach became niche `[ps=5]` — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]

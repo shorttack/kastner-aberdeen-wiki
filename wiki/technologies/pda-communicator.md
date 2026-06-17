@@ -12,9 +12,9 @@ era: "1996-2010"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # PDA/Communicator
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Same form factor across home/work/play — [[study-dct-sony-personal-electronic-vision-2002]]
+- Same form factor across home/work/play `[ps=4]` — [[study-dct-sony-personal-electronic-vision-2002]]

@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "early-growth"
 lifecycle_current: "Obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # Intranet / Web Server Architecture
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Internet thin-client and web-based architecture became dominant; IBM's prediction accurate `[ps=4]` — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
+- $10,000 `[ps=0]` — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
+- Web browsers/servers/applets; TP-monitor scaling; Intranet migration; legacy integration `[ps=0]` — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
 - Under 60 min vs 80+ min (Digital wins) — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
-- $10,000 — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
-- Web browsers/servers/applets; TP-monitor scaling; Intranet migration; legacy integration — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
-- Internet thin-client and web-based architecture became dominant; IBM's prediction accurate — [[study-1997-ibm’s-network-computing-solution----e74e8a]]

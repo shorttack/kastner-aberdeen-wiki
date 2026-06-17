@@ -12,9 +12,9 @@ era: "1988-2005"
 lifecycle_at_study: "growth"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # ATM (Asynchronous Transfer Mode)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Telephone carriers lined up behind VidModem for ATM promotion but dependency on telco buildout poses risk (like ISDN) — [[study-1997-objective-communications--vidmodem--f3351f]]
+- Telephone carriers lined up behind VidModem for ATM promotion but dependency on telco buildout poses risk (like ISDN) `[ps=4]` — [[study-1997-objective-communications--vidmodem--f3351f]]

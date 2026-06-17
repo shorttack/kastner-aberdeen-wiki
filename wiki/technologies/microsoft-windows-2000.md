@@ -12,9 +12,9 @@ era: "1999-2007"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "legacy-superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Microsoft Windows 2000
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Will not be quickly adopted by large enterprises in 1999; Y2K issues, delayed functionality, requires both server and desktop for proper operation -- likely one of Microsoft's flops at end of 1999 — [[study-trends99-18726b]]
-- unknown — [[study-trends99-18726b]]
+- Will not be quickly adopted by large enterprises in 1999; Y2K issues, delayed functionality, requires both server and desktop for proper operation -- likely one of Microsoft's flops at end of 1999 `[ps=2]` — [[study-trends99-18726b]]
+- unknown `[ps=0]` — [[study-trends99-18726b]]

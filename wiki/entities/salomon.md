@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Microsoft Dynamics SL"
 years_active: "1980-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Salomon Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- discontinued 2008; users migrated to GP — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]
+- discontinued 2008; users migrated to GP `[ps=0]` — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]

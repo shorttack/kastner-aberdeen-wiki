@@ -3,7 +3,7 @@ title: "Intel Antes Up $1B on Success of Itanium Line (USA Today)"
 slug: "study-usatoday-kessler-itanium-mckinley-kastne-77362b"
 page_type: "study"
 tags: ["type/study", "collection/trade-press-feature"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "usatoday-kessler-itanium-mckinley-kastne-77362b"
 author: "Michelle Kessler (USA Today)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.11
+prescience_obs_count: 9
 ---
 
 # Intel Antes Up $1B on Success of Itanium Line (USA Today)
@@ -32,14 +32,14 @@ _Published 2002, author **Michelle Kessler (USA Today)**, type **trade-press-fea
 
 ## Top observations
 
-- Intel and H-P holding party, nobody's coming
-- ~$1 billion, six years
-- $1,000-$4,000 per chip
+- Intel and H-P holding party, nobody's coming `[ps=5]`
+- ISVs reluctant, OEMs reluctant, buyers reluctant `[ps=5]`
+- consolidation reduces server lines `[ps=4]`
+- Sun and IBM also make 64-bit `[ps=3]`
+- new version every year through 2005 `[ps=2]`
+- ~$1 billion, six years `[ps=0]`
+- $1,000-$4,000 per chip `[ps=0]`
+- yes per industry watchers `[ps=0]`
+- USA Today McLean VA, circ 2,241,677 `[ps=0]`
 - few thousand first-gen units
-- yes per industry watchers
-- consolidation reduces server lines
-- new version every year through 2005
 - months per business-grade program
-- Sun and IBM also make 64-bit
-- ISVs reluctant, OEMs reluctant, buyers reluctant
-- USA Today McLean VA, circ 2,241,677

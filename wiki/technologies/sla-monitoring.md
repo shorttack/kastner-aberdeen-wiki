@@ -12,9 +12,9 @@ era: "2003-2006"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'SLA monitoring and near-real-time reporting is a standard, active practice across all infrastructure and service providers.', 'source': 'General IT operations'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # SLA Monitoring / Near-Real-Time Reporting
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- less than 45 days from request to production — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
-- Mirror Image moved from request to production level monitoring tool in less than 45 days — [[study-mirror-image-profile-v2-050404-97e2a6]]
+- less than 45 days from request to production `[ps=0]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
+- Mirror Image moved from request to production level monitoring tool in less than 45 days `[ps=0]` — [[study-mirror-image-profile-v2-050404-97e2a6]]

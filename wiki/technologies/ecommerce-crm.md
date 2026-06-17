@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # E-Commerce CRM Integration
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internet growth as channel pushing CRM issues to forefront of e-commerce strategy — [[study-1999-crm-professional-services-rpt-96bf13]]
+- Internet growth as channel pushing CRM issues to forefront of e-commerce strategy `[ps=4]` — [[study-1999-crm-professional-services-rpt-96bf13]]

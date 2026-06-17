@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # IBM RS/6000 SMP
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Build best-in-class image with best price/performance; make SP market leader for mission-critical/data warehousing; DB2/6000 v2 new functionality; innovative data mining query tools — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- Build best-in-class image with best price/performance; make SP market leader for mission-critical/data warehousing; DB2/6000 v2 new functionality; innovative data mining query tools `[ps=4]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- DB2 for AIX 2 engine functionally improved; Data Propagator for mainframe-RS/6000; good performance/price-performance; outstanding OLTP with CICS/Ensina/Tuxedo; HACMP+SP2 scalability `[ps=4]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
 - Worldwide support and service (SAP R/3 story); enterprises committing to DB2 across IBM platforms; departmental systems to 4 processors for OLTP; modest data warehouses on SMP; larger on SP — [[study-rdbms-for-ibm-powera~1-7a44be]]
-- DB2 for AIX 2 engine functionally improved; Data Propagator for mainframe-RS/6000; good performance/price-performance; outstanding OLTP with CICS/Ensina/Tuxedo; HACMP+SP2 scalability — [[study-rdbms-for-ibm-powera~1-7a44be]]

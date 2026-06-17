@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Legacy Application Modernization via SOA
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Q2 2006: Integrating the Data Center: New Architectures and Opportunities — [[study-soa-aon-webinar-31973c]]
+- Q2 2006: Integrating the Data Center: New Architectures and Opportunities `[ps=0]` — [[study-soa-aon-webinar-31973c]]

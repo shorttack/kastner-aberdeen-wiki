@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-2010s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # George H. Conrades
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 100-MIPS-vs-10-LOC-per-day — [[study-aberdeen-multitrak-headlines-context-kas-f941d1]]
+- 100-MIPS-vs-10-LOC-per-day `[ps=0]` — [[study-aberdeen-multitrak-headlines-context-kas-f941d1]]

@@ -1,5 +1,5 @@
 ---
-title: "==> picture [69 x 792] intentionally omitted <=="
+title: "Ra Governance Jh (Aberdeen, 2005)"
 slug: "study-ra-governance-jh-1e6241"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.68
-prescience_obs_count: 40
+prescience_mean: 1.89
+prescience_obs_count: 37
 ---
 
-# ==> picture [69 x 792] intentionally omitted <==
+# Ra Governance Jh (Aberdeen, 2005)
 
-> This study analyzes ==> picture [69 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-governance-jh-1e6241. Source: ra_governance_jh.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Open Service**, type **topic-analysis**._

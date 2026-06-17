@@ -12,9 +12,9 @@ era: "legacy"
 lifecycle_at_study: "legacy"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # D&B Software Millennium (M) Series
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- support_as_long_as_demand_exists `[ps=0]` — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
 - 80_pct_per_year — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
-- support_as_long_as_demand_exists — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]

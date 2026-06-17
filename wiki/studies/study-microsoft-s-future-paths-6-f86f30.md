@@ -3,7 +3,7 @@ title: "Microsoft's Future Paths"
 slug: "study-microsoft-s-future-paths-6-f86f30"
 page_type: "study"
 tags: ["type/study", "collection/transcript"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "microsoft-s-future-paths-6-f86f30"
 author: "Kathleen Koch (host); Peter Kastner & Isaac Ro (Aberdeen Group) with Jackson Shaw (Microsoft)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.18
+prescience_obs_count: 11
 ---
 
 # Microsoft's Future Paths
@@ -32,15 +32,15 @@ _Published 2002, author **Kathleen Koch (host); Peter Kastner & Isaac Ro (Aberde
 
 ## Top observations
 
-- Longhorn represents an incremental step past XP; Blackcomb is positioned as the longer-term architectural next generation. Transition spans multiple Windows releases.
-- Provides Kastner's guidance on how enterprise buyers should approach Windows upgrades for 2002 and beyond given Longhorn/Blackcomb horizon.
-- Microsoft Tablet PC initiative discussed as a strategic platform bet by Microsoft to extend Windows into pen-centric form factors.
-- Program compares Microsoft's Pocket PC to Palm Pilot; Microsoft pursuing a two-pronged approach and targeted markets distinct from Palm's.
+- Longhorn shipped January 2007 as Windows Vista; delayed from original 2004/2005 target and with reduced feature set (WinFS/unified storage cut). `[ps=5]`
+- Blackcomb as a distinct release never shipped; features were split between Vista (2007) and Windows 7 (2009). `[ps=5]`
+- MiPad remained a Microsoft Research prototype; never shipped commercially. Speech technology ambitions were partly realized later via Cortana, Azure Speech. `[ps=5]`
+- Microsoft Tablet PC initiative discussed as a strategic platform bet by Microsoft to extend Windows into pen-centric form factors. `[ps=4]`
+- Kastner covers where Microsoft is heading in knowledge/document management — integration into OS and apps rather than standalone KM products. `[ps=4]`
+- Microsoft product manager Shaw describes how .NET shifts Microsoft's business model toward services and platform monetization. `[ps=4]`
+- Longhorn represents an incremental step past XP; Blackcomb is positioned as the longer-term architectural next generation. Transition spans multiple Windows releases. `[ps=3]`
+- Program compares Microsoft's Pocket PC to Palm Pilot; Microsoft pursuing a two-pronged approach and targeted markets distinct from Palm's. `[ps=3]`
+- Kastner explains how unified storage (the WinFS relational-storage vision) fits into Microsoft's Blackcomb plans. `[ps=2]`
+- Provides Kastner's guidance on how enterprise buyers should approach Windows upgrades for 2002 and beyond given Longhorn/Blackcomb horizon. `[ps=0]`
+- Kastner introduces Aberdeen's ACTR (Adopt / Contain / Train / Retire) technology-decision model for enterprise planning. `[ps=0]`
 - Implications of Microsoft's MiPad and 'Dr. Who' speech research initiatives; current technology limitations discussed.
-- Kastner covers where Microsoft is heading in knowledge/document management — integration into OS and apps rather than standalone KM products.
-- Kastner explains how unified storage (the WinFS relational-storage vision) fits into Microsoft's Blackcomb plans.
-- Kastner introduces Aberdeen's ACTR (Adopt / Contain / Train / Retire) technology-decision model for enterprise planning.
-- Microsoft product manager Shaw describes how .NET shifts Microsoft's business model toward services and platform monetization.
-- Longhorn shipped January 2007 as Windows Vista; delayed from original 2004/2005 target and with reduced feature set (WinFS/unified storage cut).
-- Blackcomb as a distinct release never shipped; features were split between Vista (2007) and Windows 7 (2009).
-- MiPad remained a Microsoft Research prototype; never shipped commercially. Speech technology ambitions were partly realized later via Cortana, Azure Speech.

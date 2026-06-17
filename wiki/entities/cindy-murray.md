@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Cindy Murray
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sales executive Cindy Murray was on maternity leave during this period. — [[study-ibm-major-account-plan-8-cc6400]]
-- Use 20-25% of Cindy's time on IBM through Q1, then measure effectiveness. — [[study-ibm-major-account-plan-8-cc6400]]
+- Sales executive Cindy Murray was on maternity leave during this period. `[ps=0]` — [[study-ibm-major-account-plan-8-cc6400]]
+- Use 20-25% of Cindy's time on IBM through Q1, then measure effectiveness. `[ps=0]` — [[study-ibm-major-account-plan-8-cc6400]]

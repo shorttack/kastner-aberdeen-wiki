@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Workflow Automation / Business Rules Engine
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- AR System v3.0 added pre-defined keywords to simplify embedding workflow processes and business rules — [[study-1997-automating-and-managing-internal-op-e69e64]]
+- AR System v3.0 added pre-defined keywords to simplify embedding workflow processes and business rules `[ps=0]` — [[study-1997-automating-and-managing-internal-op-e69e64]]

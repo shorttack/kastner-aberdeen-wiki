@@ -12,9 +12,9 @@ era: "2001-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Dell Exchange
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dell Exchange online marketplace allows enterprises to recover residual value from used Dell equipment before it becomes worthless — [[study-2003-dell-asset-recovery-services-white--142827]]
+- Dell Exchange online marketplace allows enterprises to recover residual value from used Dell equipment before it becomes worthless `[ps=3]` — [[study-2003-dell-asset-recovery-services-white--142827]]

@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "production"
 occurrence_count: 4
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.67
+prescience_obs_count: 3
 ---
 
 # Customer Behavior Analysis
@@ -29,8 +29,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- increased_revenue_decreased_costs_via_customer_programs `[ps=5]` — [[study-1997-data-mining-buying-guide-71e463]]
+- 1999 `[ps=0]` — [[study-1998-pc-impact-and-metadata-e2a169]]
+- Q3 2006 `[ps=0]` — [[study-soa-aon-webinar-022206a-125e6b]]
 - workgroup_departmental_small_business — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
 - parallel_not_replacement — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
-- increased_revenue_decreased_costs_via_customer_programs — [[study-1997-data-mining-buying-guide-71e463]]
-- 1999 — [[study-1998-pc-impact-and-metadata-e2a169]]
-- Q3 2006 — [[study-soa-aon-webinar-022206a-125e6b]]

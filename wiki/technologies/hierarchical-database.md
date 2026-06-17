@@ -12,9 +12,9 @@ era: "1960s-2003"
 lifecycle_at_study: "declining"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.67
+prescience_obs_count: 3
 ---
 
 # Hierarchical Database
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- huge costing database on mainframe hierarchical DB; some non-mainframe feeds — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]
-- long-standing agreements; runs like clockwork — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]
-- Aberdeen underestimated how completely relational databases would dominate. Object databases captured negligible market share despite theoretical elegance; industry chose ORM over native object databases. — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
+- Aberdeen underestimated how completely relational databases would dominate. Object databases captured negligible market share despite theoretical elegance; industry chose ORM over native object databases. `[ps=5]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
+- huge costing database on mainframe hierarchical DB; some non-mainframe feeds `[ps=0]` — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]
+- long-standing agreements; runs like clockwork `[ps=0]` — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]

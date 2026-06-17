@@ -3,7 +3,7 @@ title: "Enterprise Data Mining Buying Guide: 1997 Edition"
 slug: "study-1997-data-mining-buying-guide-71e463"
 page_type: "study"
 tags: ["type/study", "collection/Market Research Report"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-data-mining-buying-guide-71e463"
 author: "David Hill & Robert Moran / AberdeenGroup"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.55
+prescience_obs_count: 22
 ---
 
 # Enterprise Data Mining Buying Guide: 1997 Edition
@@ -32,28 +32,28 @@ _Published 1997, author **David Hill & Robert Moran / AberdeenGroup**, type **Ma
 
 ## Top observations
 
-- 75
-- vertical_industry_focus
+- will_systematize_value_extraction_from_databases `[ps=5]`
+- increased_revenue_decreased_costs_via_customer_programs `[ps=5]`
+- became_enterprise_mainstream_as_machine_learning_ai `[ps=5]`
+- vertical_industry_focus `[ps=4]`
+- financial_services_retail_telecom `[ps=4]`
+- deep_learning_llms_dominant `[ps=4]`
+- business_issue_should_improve_bottom_line `[ps=4]`
+- emerging_technology_careful_vendor_selection_needed `[ps=3]`
+- 75 `[ps=0]`
+- algorithm_breadth_and_depth `[ps=0]`
+- lifecycle_arch_ease_services_company_strength `[ps=0]`
+- pricing `[ps=0]`
+- prediction_classification `[ps=0]`
+- prediction `[ps=0]`
+- scales_to_large_databases `[ps=0]`
+- filed_chapter_11_august_1994 `[ps=0]`
+- scalable_commercial_grade_vs_research_tools `[ps=0]`
+- retail_financial_insurance `[ps=0]`
+- already_bankrupt_1994_limited_viability `[ps=0]`
+- acquired_by_yahoo_1996 `[ps=0]`
+- acquired_accrue_1999_then_jda_2001 `[ps=0]`
+- peterson_2013_then_datawatch_2018_then_altair `[ps=0]`
 - server_platforms
-- algorithm_breadth_and_depth
-- lifecycle_arch_ease_services_company_strength
-- pricing
 - financial_services_retail_telecom_other
-- prediction_classification
-- prediction
 - affinity_grouping
-- scales_to_large_databases
-- filed_chapter_11_august_1994
-- line_of_business_led_cross_functional_team
-- scalable_commercial_grade_vs_research_tools
-- financial_services_retail_telecom
-- retail_financial_insurance
-- will_systematize_value_extraction_from_databases
-- increased_revenue_decreased_costs_via_customer_programs
-- significant_differences_require_careful_evaluation
-- already_bankrupt_1994_limited_viability
-- acquired_by_yahoo_1996
-- acquired_accrue_1999_then_jda_2001
-- acquired_spss_2000_spss_acquired_ibm_2009
-- peterson_2013_then_datawatch_2018_then_altair
-- became_enterprise_mainstream_as_machine_learning_ai

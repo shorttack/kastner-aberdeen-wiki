@@ -12,9 +12,9 @@ era: "2011-present"
 lifecycle_at_study: "not yet invented"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # WebRTC / SIP Video
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Zoom Microsoft Teams Google Meet WebRTC-based platforms fulfilled enterprise multimedia vision Aberdeen described — [[study-1997-objective-communications--vidmodem--f3351f]]
+- Zoom Microsoft Teams Google Meet WebRTC-based platforms fulfilled enterprise multimedia vision Aberdeen described `[ps=4]` — [[study-1997-objective-communications--vidmodem--f3351f]]

@@ -12,9 +12,9 @@ era: "1960s-present"
 lifecycle_at_study: "declining"
 lifecycle_current: "legacy-supported"
 occurrence_count: 5
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.29
+prescience_obs_count: 7
 ---
 
 # IBM Mainframe (zSeries predecessors)
@@ -29,15 +29,15 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Mainframe was not technically obsolete when minicomputers displaced it; it was economically uncompetitive for departmental workloads. `[ps=5]` — [[study-volume-1-ch10-the-long-view-1966-2026]]
+- Mainframe fell not because minicomputer engineering was better but because economics inverted and glass-house culture could not adapt quickly enough. `[ps=4]` — [[study-volume-1-epilogue-argument-with-reality]]
+- EDS and IBM bid on $200M statewide Florida human services application; RFP required specific terminal response times on average. `[ps=0]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
+- IBM delivered a box of computer paper with 525 performance simulation runs and nothing else. `[ps=0]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
+- Found critical data point in 525-run IBM simulation; testified IBM’s own performance estimator showed the system would have 20–30 second average response times. `[ps=0]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
+- IBM’s own performance estimator indicated 20–30 second average response times on a system whose RFP required specific lower thresholds. `[ps=0]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
+- System was built at $200M cost; failed acceptance tests with 20–30 second response times — exactly as Kastner had predicted. `[ps=0]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
 - Mainframes will be around for a long, long time because of installed software — [[study-cnbc-technology-edge-ibm-dec-hp-transitions-d4f84c]]
 - [DEFERRED] — [[study-cnbc-technology-edge-ibm-dec-hp-transitions-d4f84c]]
 - Mainframes aren't going away — role shifts to managing large-scale data networks — [[study-software-2000-it-paradigm-shift-client-server-9e9445]]
 - Mainframes will remain in production indefinitely managing large-scale data networks — [[study-software-2000-it-paradigm-shift-client-server-9e9445]]
 - [DEFERRED] — [[study-software-2000-it-paradigm-shift-client-server-9e9445]]
-- EDS and IBM bid on $200M statewide Florida human services application; RFP required specific terminal response times on average. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
-- IBM delivered a box of computer paper with 525 performance simulation runs and nothing else. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
-- Found critical data point in 525-run IBM simulation; testified IBM’s own performance estimator showed the system would have 20–30 second average response times. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
-- IBM’s own performance estimator indicated 20–30 second average response times on a system whose RFP required specific lower thresholds. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
-- System was built at $200M cost; failed acceptance tests with 20–30 second response times — exactly as Kastner had predicted. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
-- Mainframe was not technically obsolete when minicomputers displaced it; it was economically uncompetitive for departmental workloads. — [[study-volume-1-ch10-the-long-view-1966-2026]]
-- Mainframe fell not because minicomputer engineering was better but because economics inverted and glass-house culture could not adapt quickly enough. — [[study-volume-1-epilogue-argument-with-reality]]

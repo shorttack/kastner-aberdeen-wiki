@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "Growth"
 lifecycle_current: "Evolved (renamed IBM Replication / DB2 DataPropagator integrated into DB2 replication services; CDC pattern lives on)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 5
 ---
 
 # DataPropagator (Relational and NonRelational)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Log-based capture to staging area then apply to destination; minimizes production database impact — [[study-1997-ibm-information-integration-family--29351c]]
-- DB2-to-Sybase, DB2-to-Oracle, Oracle-to-DB2, Oracle-to-Oracle confirmed customer deployments — [[study-1997-ibm-information-integration-family--29351c]]
-- Will add further support for traditional RDBMS scalability technologies such as cursors and governors — [[study-1997-ibm-information-integration-family--29351c]]
-- Absorbed into IBM DB2 Replication; log-based CDC pattern validated by entire industry — [[study-1997-ibm-information-integration-family--29351c]]
-- Supports push from laptop or pull from central server for mobile/laptop replication — [[study-1997-ibm-information-integration-family--29351c]]
+- Log-based capture to staging area then apply to destination; minimizes production database impact `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
+- Absorbed into IBM DB2 Replication; log-based CDC pattern validated by entire industry `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
+- Will add further support for traditional RDBMS scalability technologies such as cursors and governors `[ps=2]` — [[study-1997-ibm-information-integration-family--29351c]]
+- DB2-to-Sybase, DB2-to-Oracle, Oracle-to-DB2, Oracle-to-Oracle confirmed customer deployments `[ps=0]` — [[study-1997-ibm-information-integration-family--29351c]]
+- Supports push from laptop or pull from central server for mobile/laptop replication `[ps=0]` — [[study-1997-ibm-information-integration-family--29351c]]

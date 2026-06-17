@@ -12,9 +12,9 @@ era: "1981-mid-1980s"
 lifecycle_at_study: "current-1982"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Tandem NonStop II
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Six-year lead over upstarts; some upstart products seem more advanced — [[study-ee-times-stratus-tandem-fault-tolerant-1-42f6c7]]
-- 1.75 tps ET-1; 0.8 MIPS per processor — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]
+- Six-year lead over upstarts; some upstart products seem more advanced `[ps=3]` — [[study-ee-times-stratus-tandem-fault-tolerant-1-42f6c7]]
+- 1.75 tps ET-1; 0.8 MIPS per processor `[ps=0]` — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]

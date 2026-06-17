@@ -12,9 +12,9 @@ era: "2005-proposed"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # TPC Web-Service Benchmark (proposed)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TPC announced a proposed Web-service benchmark with database interactions and durable message-queue operations displaying ACID properties against a commercial application server. — [[study-open-tpc-database-benchmarks-9-058487]]
+- TPC announced a proposed Web-service benchmark with database interactions and durable message-queue operations displaying ACID properties against a commercial application server. `[ps=0]` — [[study-open-tpc-database-benchmarks-9-058487]]

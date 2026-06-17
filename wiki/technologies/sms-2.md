@@ -12,9 +12,9 @@ era: "1998-2007"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Systems Management Server 2.0
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Systems Management Server 2.0 part of ZAW — requires large ISV customization before yielding value — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
+- Systems Management Server 2.0 part of ZAW — requires large ISV customization before yielding value `[ps=3]` — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]

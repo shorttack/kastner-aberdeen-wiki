@@ -3,7 +3,7 @@ title: "Stratus 'TP-1 Performance Model' internal benchmark guide (1983, Stratus
 slug: "study-stratus-tp-1-internal-benchmark-guide-19-9b51bf"
 page_type: "study"
 tags: ["type/study", "collection/internal-engineering-document"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "stratus-tp-1-internal-benchmark-guide-19-9b51bf"
 author: "Stratus Computer engineering (uncredited)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # Stratus 'TP-1 Performance Model' internal benchmark guide (1983, Stratus internal)
@@ -32,8 +32,8 @@ _Published 1983, author **Stratus Computer engineering (uncredited)**, type **in
 
 ## Top observations
 
-- 2.9
+- Requester (COBOL/TPF) + Server (PL/1) pattern; transactions on delay interval; no screen/comm I/O; duplicated servers; varied file types/sizes `[ps=4]`
+- 2.9 `[ps=0]`
+- 1.8 `[ps=0]`
 - 2.3
-- 1.8
-- Requester (COBOL/TPF) + Server (PL/1) pattern; transactions on delay interval; no screen/comm I/O; duplicated servers; varied file types/sizes
 - Cache utilization significant; disk type/count/file-size dominant; multiple server copies help; server priority > requester priority

@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "legacy"
 lifecycle_current: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Object Request Broker (ORB)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Growing strategic importance forecast — [[study-aberdeen-1995-digital-objectbroker]]
+- Growing strategic importance forecast `[ps=3]` — [[study-aberdeen-1995-digital-objectbroker]]

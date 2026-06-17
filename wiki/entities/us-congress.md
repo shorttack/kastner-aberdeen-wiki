@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1789-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # U.S. Congress
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Congress held hearings and passed two laws preventing unfettered contracts like Florida’s; Congress had put up most of the lost millions. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
+- Congress held hearings and passed two laws preventing unfettered contracts like Florida’s; Congress had put up most of the lost millions. `[ps=0]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]

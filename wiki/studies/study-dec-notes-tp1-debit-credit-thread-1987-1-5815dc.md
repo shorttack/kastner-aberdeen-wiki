@@ -3,7 +3,7 @@ title: "DEC RDB NOTES File Thread: TP1/Debit-Credit Benchmark Discussion (Dec 19
 slug: "study-dec-notes-tp1-debit-credit-thread-1987-1-5815dc"
 page_type: "study"
 tags: ["type/study", "collection/internal-discussion-thread"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "dec-notes-tp1-debit-credit-thread-1987-1-5815dc"
 author: "Multiple DEC engineers (Saghagen, Rowlands, Mascall, Hammond, Kittell, Smith)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.0
+prescience_obs_count: 8
 ---
 
 # DEC RDB NOTES File Thread: TP1/Debit-Credit Benchmark Discussion (Dec 1987)
@@ -32,14 +32,14 @@ _Published 1987, author **Multiple DEC engineers (Saghagen, Rowlands, Mascall, H
 
 ## Top observations
 
-- TP1=Debit-Credit=Gray
-- scope-for-artistic-interpretation
-- TPS-D-C-end-to-end-qualified-and-peak
+- TP1=Debit-Credit=Gray `[ps=4]`
+- scope-for-artistic-interpretation `[ps=4]`
+- TPS-D-C-end-to-end-qualified-and-peak `[ps=0]`
+- DBS-Performance-Manager `[ps=0]`
+- finalist-vs-DEC-in-finance-sale `[ps=0]`
+- anonymous-benchmark-author `[ps=0]`
+- offline-backup-gross-MB-per-sec `[ps=0]`
+- physical-IOs-per-transaction `[ps=0]`
 - TPS-MIP
-- DBS-Performance-Manager
-- finalist-vs-DEC-in-finance-sale
-- anonymous-benchmark-author
 - stating-TPS-without-percentile-and-time-is-like-stereo-without-frequency-response
 - TPS-(benchmark-environment-characterization)
-- offline-backup-gross-MB-per-sec
-- physical-IOs-per-transaction

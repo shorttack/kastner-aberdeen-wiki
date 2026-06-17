@@ -3,7 +3,7 @@ title: "Analyst: 'Apple will have problems filling' G5 orders; demand 'will not 
 slug: "study-macdailynews-analyst-apple-will-have-pro-54defe"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "macdailynews-analyst-apple-will-have-pro-54defe"
 author: "Wrolstad (reporter, via NewsFactor/MacDailyNews); Peter Kastner and Roger Kay (quoted sources)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Analyst: 'Apple will have problems filling' G5 orders; demand 'will not impact Apple's market position'
@@ -32,7 +32,7 @@ _Published 2003, author **Wrolstad (reporter, via NewsFactor/MacDailyNews); Pete
 
 ## Top observations
 
-- Mac buyers 'should run, not walk' to check out G5; 'arguably a performance leader'
+- 'Apple will have problems filling G5 orders' but demand will not materially impact overall desktop share `[ps=4]`
+- Mac buyers 'should run, not walk' to check out G5; 'arguably a performance leader' `[ps=3]`
 - USD 1,999 / 2,399 / 2,999 depending on processor speed
-- 'Apple will have problems filling G5 orders' but demand will not materially impact overall desktop share
 - G5 heat/yield problems forced Apple-Intel transition (announced 2005, completed Aug 2006); last PowerPC Mac discontinued 2006

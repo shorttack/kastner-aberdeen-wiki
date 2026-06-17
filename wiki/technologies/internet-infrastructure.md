@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # Internet Infrastructure (general)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Role of Internet outsourcers will increase substantially over next 5 years; migration from proprietary systems; software/hardware costs insignificant vs. expert labor — [[study-intern~1-45df51]]
-- Deferred verification. — [[study-intern~1-45df51]]
-- Three barriers to enterprise-class Internet deployment: Security, Trust, and Reliability; trust requires directory-based security certificates and PKI — [[study-intern~1-45df51]]
+- Role of Internet outsourcers will increase substantially over next 5 years; migration from proprietary systems; software/hardware costs insignificant vs. expert labor `[ps=4]` — [[study-intern~1-45df51]]
+- Three barriers to enterprise-class Internet deployment: Security, Trust, and Reliability; trust requires directory-based security certificates and PKI `[ps=4]` — [[study-intern~1-45df51]]
+- Deferred verification. `[ps=0]` — [[study-intern~1-45df51]]

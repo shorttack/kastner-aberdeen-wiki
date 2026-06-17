@@ -3,7 +3,7 @@ title: "Microsoft Launches 64-Bit Windows XP Beta"
 slug: "study-technology-news-future-tech-microsoft-la-625f49"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "technology-news-future-tech-microsoft-la-625f49"
 author: "Jay Lyman, TechNewsWorld"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 6
 ---
 
 # Microsoft Launches 64-Bit Windows XP Beta
@@ -32,13 +32,13 @@ _Published 2004, author **Jay Lyman, TechNewsWorld**, type **news-article**._
 
 ## Top observations
 
-- Let's say I have a 64-bit operating system; I have to run all of the applications like Photoshop and even Word in 32-bit. Windows XP 64-bit will not be helpful for customers unless the most popular applications are available.
-- Microsoft is doing this because they think they'll need the code base [for Longhorn].
+- Very few consumer desktops can take advantage of 64-bit. Intel has to drop the other shoe and deem that the broad, mass market for consumers is ready for 64-bit. I predict that will not be this year. `[ps=5]`
+- Intel shipped the last Itanium processors (Kittson) in July 2021 — a decisive confirmation of Kastner's 2004 skepticism about Itanium's mass-market 64-bit viability; AMD64/x86-64 won the 64-bit desktop and server transition Kastner was analyzing. `[ps=5]`
+- Let's say I have a 64-bit operating system; I have to run all of the applications like Photoshop and even Word in 32-bit. Windows XP 64-bit will not be helpful for customers unless the most popular applications are available. `[ps=4]`
+- It's not so much 64-bit as it is AMD's next-generation chip — which is better, faster and more efficient. `[ps=4]`
+- Microsoft is doing this because they think they'll need the code base [for Longhorn]. `[ps=3]`
+- Microsoft released the beta 64-bit Windows XP (for AMD64/Opteron/Athlon 64) on CD-ROM and 450MB download Feb 2004; production version expected end of 2004; Itanium version not supported in this AMD64 build. `[ps=3]`
 - Kastner estimates there are only about 100,000 Intel Itanium 64-bit machines on the market as of early 2004 — a tiny installed base that cannot sustain mass-market 64-bit momentum.
-- Very few consumer desktops can take advantage of 64-bit. Intel has to drop the other shoe and deem that the broad, mass market for consumers is ready for 64-bit. I predict that will not be this year.
 - AMD is selling a lot of its Athlon 64 chips because they are good 32-bit performers. AMD customers are more concerned about the late delivery of Unreal Tournament 2004 than they are waiting like Godot for Windows XP 64.
-- It's not so much 64-bit as it is AMD's next-generation chip — which is better, faster and more efficient.
-- Microsoft released the beta 64-bit Windows XP (for AMD64/Opteron/Athlon 64) on CD-ROM and 450MB download Feb 2004; production version expected end of 2004; Itanium version not supported in this AMD64 build.
 - Microsoft released Windows XP Professional x64 Edition on April 25 2005 — roughly 14 months after the beta covered here; adoption remained niche through XP's lifetime due to the app-ecosystem gap Kastner diagnosed.
 - Windows Longhorn shipped as Windows Vista on Jan 30 2007 — roughly three years after this article — with full x64 support, partially validating Kastner's Longhorn-code-base framing (though Vista x64 adoption itself remained limited until Windows 7 x64 in 2009).
-- Intel shipped the last Itanium processors (Kittson) in July 2021 — a decisive confirmation of Kastner's 2004 skepticism about Itanium's mass-market 64-bit viability; AMD64/x86-64 won the 64-bit desktop and server transition Kastner was analyzing.

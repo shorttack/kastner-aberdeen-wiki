@@ -12,9 +12,9 @@ status: "mixed"
 successor: ""
 years_active: "2000-2010"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Emerging Gateway/Networking Suppliers
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Challenging environment for young suppliers trying to succeed in this market — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
-- Most small home gateway/networking startups were acquired or failed; market consolidated — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Most small home gateway/networking startups were acquired or failed; market consolidated `[ps=5]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Challenging environment for young suppliers trying to succeed in this market `[ps=4]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]

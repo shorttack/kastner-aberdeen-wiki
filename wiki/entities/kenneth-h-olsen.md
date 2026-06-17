@@ -12,9 +12,9 @@ status: "deceased"
 successor: ""
 years_active: "1957-2011"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Kenneth H. Olsen
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Steul named CFO by Olsen in June 1992, weeks before board asked Olsen to resign as president — 'rise had been controversial because he had not worked in the finance operation for more than a decade' — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]
+- Steul named CFO by Olsen in June 1992, weeks before board asked Olsen to resign as president — 'rise had been controversial because he had not worked in the finance operation for more than a decade' `[ps=0]` — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]

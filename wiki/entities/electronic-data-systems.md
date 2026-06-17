@@ -12,9 +12,9 @@ status: "acquired"
 successor: "HP (2008) -> DXC"
 years_active: "1962-2008"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # Electronic Data Systems (EDS)
@@ -29,6 +29,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $15.2 billion total revenue; approximately one-third from single client (GM) — [[study-1999pr~1-c5516b]]
-- EDS not focused on ERP; GM revenue dependency forcing diversification — [[study-erppsp~1-31f088]]
-- EDS second-largest independent services provider; $15.2B revenue; outsourcing and data management specialty; global — [[study-ntpspr~1-728dc3]]
+- EDS not focused on ERP; GM revenue dependency forcing diversification `[ps=4]` — [[study-erppsp~1-31f088]]
+- EDS second-largest independent services provider; $15.2B revenue; outsourcing and data management specialty; global `[ps=3]` — [[study-ntpspr~1-728dc3]]
+- $15.2 billion total revenue; approximately one-third from single client (GM) `[ps=0]` — [[study-1999pr~1-c5516b]]

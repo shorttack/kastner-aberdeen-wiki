@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Bill Schrier
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- This new Microsoft-Novell collaboration agreement could allow significant virtualization of servers, reducing the number of physical platforms we'd have to maintain. — [[study-novell-and-microsoft-good-for-business-4-59404e]]
+- This new Microsoft-Novell collaboration agreement could allow significant virtualization of servers, reducing the number of physical platforms we'd have to maintain. `[ps=3]` — [[study-novell-and-microsoft-good-for-business-4-59404e]]

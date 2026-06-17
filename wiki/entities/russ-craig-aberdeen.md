@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Russ Craig
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- The dependable supply of key component building blocks is threatened by SARS, not just the assembly plants in China — [[study-electronic-news-videoconferencing-sars-c-044642]]
-- Worst case, it could result in major supply-chain disruptions and another downdraft for an already challenged industry. — [[study-sars-puts-an-end-to-business-as-usual-in-6b0471]]
+- The dependable supply of key component building blocks is threatened by SARS, not just the assembly plants in China `[ps=4]` — [[study-electronic-news-videoconferencing-sars-c-044642]]
+- Worst case, it could result in major supply-chain disruptions and another downdraft for an already challenged industry. `[ps=2]` — [[study-sars-puts-an-end-to-business-as-usual-in-6b0471]]

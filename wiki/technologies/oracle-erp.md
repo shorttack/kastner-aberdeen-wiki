@@ -12,9 +12,9 @@ era: "1988-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.4
+prescience_obs_count: 5
 ---
 
 # Oracle ERP / Oracle Financials
@@ -24,10 +24,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Database-centric; cross-functional navigation via database events; weakest in process modeling vs. Baan/SAP — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
-- Oracle shifting to process-flow orientation where 'flows' define solutions rather than functional modules — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
+- Oracle shifting to process-flow orientation where 'flows' define solutions rather than functional modules `[ps=4]` — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
+- Keys to good business practices include processes specific to vertical markets (government, education, healthcare) `[ps=4]` — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
+- ERP must transition from module-centric to flow-centric design to meet customer needs `[ps=4]` — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
+- Database-centric; cross-functional navigation via database events; weakest in process modeling vs. Baan/SAP `[ps=3]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
+- Oracle's adoption of process-flow architecture will be critical to competitiveness against SAP `[ps=2]` — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
 - Keys to good business practices include business-generic processes — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
-- Keys to good business practices include processes specific to vertical markets (government, education, healthcare) — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
-- Oracle's adoption of process-flow architecture will be critical to competitiveness against SAP — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
 - Oracle Fusion Applications launched 2011 with process-flow architecture as core design; prediction proved correct — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
-- ERP must transition from module-centric to flow-centric design to meet customer needs — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]

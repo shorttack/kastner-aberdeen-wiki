@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "launch"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen AAS Rate Tier (retainer clients)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Retainer clients receive discount on publication projects to reflect accumulated client knowledge and as relationship incentive — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]
+- Retainer clients receive discount on publication projects to reflect accumulated client knowledge and as relationship incentive `[ps=4]` — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]

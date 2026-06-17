@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1993-1996"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Red Pepper Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Surpassed industry expectations in manufacturing; acquired Red Pepper — [[study-erppsp~1-31f088]]
+- Surpassed industry expectations in manufacturing; acquired Red Pepper `[ps=0]` — [[study-erppsp~1-31f088]]

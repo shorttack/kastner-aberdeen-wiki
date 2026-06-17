@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM 2001"
 years_active: "1980-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Informix Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Stock plunged 28% in one day following Q1 1996 revenue warning — [[study-upgrades-boost-database-market-iweek-fol-f19804]]
-- Partially right on category, wrong on Informix specifically — Informix continued to lose ground post-1996, declared accounting issues 1997, acquired by IBM 2001 for $1B in database assets only (as IBM Informix). — [[study-upgrades-boost-database-market-iweek-fol-f19804]]
+- Partially right on category, wrong on Informix specifically — Informix continued to lose ground post-1996, declared accounting issues 1997, acquired by IBM 2001 for $1B in database assets only (as IBM Informix). `[ps=5]` — [[study-upgrades-boost-database-market-iweek-fol-f19804]]
+- Stock plunged 28% in one day following Q1 1996 revenue warning `[ps=0]` — [[study-upgrades-boost-database-market-iweek-fol-f19804]]

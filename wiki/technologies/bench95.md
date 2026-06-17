@@ -12,9 +12,9 @@ era: "1995-1997"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # TI Bench'95 Assembly Benchmarks
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SGI Indigo2 (256MB RAM) scored 133 Price*Bench95; HP Vectra XW (192MB RAM) scored 39 Price*Bench95 — XW at ~1/3 relative cost — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]
-- HP Vectra XW slightly faster than NeTpower Calisto but ~30% less expensive — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]
+- SGI Indigo2 (256MB RAM) scored 133 Price*Bench95; HP Vectra XW (192MB RAM) scored 39 Price*Bench95 — XW at ~1/3 relative cost `[ps=4]` — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]
+- HP Vectra XW slightly faster than NeTpower Calisto but ~30% less expensive `[ps=0]` — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]

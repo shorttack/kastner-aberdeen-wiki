@@ -3,7 +3,7 @@ title: "SARS wirft Schatten über elektronische Beschaffungskette"
 slug: "study-sars-wirft-schatten-uber-elektronische-b-bf33b6"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "sars-wirft-schatten-uber-elektronische-b-bf33b6"
 author: "Robert Ristelhueber, EBN (EE Times Europe / Germany)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 4
 ---
 
 # SARS wirft Schatten über elektronische Beschaffungskette
@@ -32,9 +32,9 @@ _Published 2003, author **Robert Ristelhueber, EBN (EE Times Europe / Germany)**
 
 ## Top observations
 
-- Kurzfristig haben wir es mit einer Unterbrechung des Reiseverkehrs von Führungskräften und Verkaufsmitarbeitern nach und aus Asien zu tun. (Short term we are dealing with disruption of executive and sales travel to and from Asia.)
+- Jeder Unternehmensleiter sollte seine Mitarbeiter dazu auffordern, auch an das Unvorstellbare zu denken. Stellen Sie zum Beispiel Laptops her, sollten Sie sich fragen: Von wo beziehen wir unsere Stromversorgungen? Alle kaufen die in China ein. (Every company leader should ask employees to think the unimaginable. For example if you make laptops, ask: where do our power supplies come from? Everyone  `[ps=5]`
+- Kurzfristig haben wir es mit einer Unterbrechung des Reiseverkehrs von Führungskräften und Verkaufsmitarbeitern nach und aus Asien zu tun. (Short term we are dealing with disruption of executive and sales travel to and from Asia.) `[ps=3]`
+- Motorola temporarily closed the night shift at a Singapore factory (communication equipment manufacturing), with 532 workers affected, after an employee was hospitalized with SARS. `[ps=0]`
+- Intel manufactures flash chipsets at its Shanghai assembly/test facility and plans to add Pentium processors; no disruption reported but capacity could be redistributed if needed. `[ps=0]`
 - Sollten die Quarantänemaßnahmen jedoch zunehmen, wird das einen erheblichen Einfluss auf die Weltwirtschaft haben. Dann wird nichts mehr hergestellt — weder Kondensatoren noch Weihnachtsgeschenke. (If quarantine measures escalate it will have a significant impact on the world economy. Then nothing will be manufactured — neither capacitors nor Christmas gifts.)
-- Jeder Unternehmensleiter sollte seine Mitarbeiter dazu auffordern, auch an das Unvorstellbare zu denken. Stellen Sie zum Beispiel Laptops her, sollten Sie sich fragen: Von wo beziehen wir unsere Stromversorgungen? Alle kaufen die in China ein. (Every company leader should ask employees to think the unimaginable. For example if you make laptops, ask: where do our power supplies come from? Everyone 
-- Motorola temporarily closed the night shift at a Singapore factory (communication equipment manufacturing), with 532 workers affected, after an employee was hospitalized with SARS.
-- Intel manufactures flash chipsets at its Shanghai assembly/test facility and plans to add Pentium processors; no disruption reported but capacity could be redistributed if needed.
 - In 2020-2021 COVID shutdowns repeatedly triggered exactly Kastner's 'nothing more manufactured — neither capacitors nor Christmas gifts' scenario: multi-quarter capacitor, MLCC, and power-semi shortages plus US Christmas 2021 shipping crisis.

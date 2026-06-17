@@ -12,9 +12,9 @@ era: "1979-present"
 lifecycle_at_study: "active"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Peter S. Kastner (Analyst)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kastner had direct executive access to IBM at VP and SVP level; IBM trained on analyst relations best practices via Kastner — [[study-2026-kastner-ibm-longitudinal]]
-- 34 matching observations — [[study-2026-kastner-ibm-longitudinal]]
-- IBM held periodic retainer relationship with Kastner through Aberdeen and beyond; analyst relations investment — [[study-2026-kastner-ibm-longitudinal]]
+- Kastner had direct executive access to IBM at VP and SVP level; IBM trained on analyst relations best practices via Kastner `[ps=0]` — [[study-2026-kastner-ibm-longitudinal]]
+- 34 matching observations `[ps=0]` — [[study-2026-kastner-ibm-longitudinal]]
+- IBM held periodic retainer relationship with Kastner through Aberdeen and beyond; analyst relations investment `[ps=0]` — [[study-2026-kastner-ibm-longitudinal]]

@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1950s-2003"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Edgar Codd
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Edgar Codd and Christopher Date are credited as the IBM researchers who invented the relational database model; designed for elegant retrieval, not transactional throughput. — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- Edgar Codd and Christopher Date are credited as the IBM researchers who invented the relational database model; designed for elegant retrieval, not transactional throughput. `[ps=2]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

@@ -12,9 +12,9 @@ era: "1980-1990s"
 lifecycle_at_study: "introduced"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Prime OA System (OAS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'The OA product has been plagued with several problems: stability, low word processing functionality, lack of networking and ease of use.' — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
+- 'The OA product has been plagued with several problems: stability, low word processing functionality, lack of networking and ease of use.' `[ps=3]` — [[study-prime-industry-product-5-year-plan-1981-0a3546]]

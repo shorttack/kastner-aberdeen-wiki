@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Relational DBMS (RDBMS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- challenging Oracle and Sybase — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- challenging Oracle and Sybase `[ps=3]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]

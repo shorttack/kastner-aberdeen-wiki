@@ -3,7 +3,7 @@ title: "Newcomers Invade Fault-Tolerant Field, But Tandem Has Big Lead — Elect
 slug: "study-stratus-newcomers-tandem-eet-1982-24ae59"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "stratus-newcomers-tandem-eet-1982-24ae59"
 author: "Electronic Engineering Times staff"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.5
+prescience_obs_count: 4
 ---
 
 # Newcomers Invade Fault-Tolerant Field, But Tandem Has Big Lead — Electronic Engineering Times, 24 May 1982 (PSK quoted)
@@ -32,13 +32,13 @@ _Published 1982, author **Electronic Engineering Times staff**, type **press-art
 
 ## Top observations
 
+- $208M; ~total domination of fault-tolerant market `[ps=4]`
+- $5B annual volume by 1985 (including software) per Dataquest `[ps=2]`
+- Every component is self-checking during each operating cycle; absolutely no user-software is involved in making existing applications fault-tolerant `[ps=2]`
+- Stratus has faster computational ability and bigger memory system thanks to 32-bit capability vs Tandem's 16-bit internal data paths `[ps=2]`
 - ~$100M industry sales (CPU hardware + peripherals specifically packaged with FT systems) per Strategic Business Services Nov 1981 survey 'Survivable Systems: Pitfalls and Opportunities'
-- $208M; ~total domination of fault-tolerant market
 - ~106% revenue growth annually for past three years; targets $1B by 1985 (~20% market share)
 - $2.6B annual sales by 1988 per Strategic Business Services
-- $5B annual volume by 1985 (including software) per Dataquest
 - Stratus has already taken away some orders from Tandem — sold to a dairy company and a shoe-store chain
 - Four systems per month — below Tandem's pace, but Kastner argues design features and price will make Stratus a heavyweight
 - Minimum-configuration Stratus is ~$110,000 below the $260,000 equivalent Tandem package
-- Every component is self-checking during each operating cycle; absolutely no user-software is involved in making existing applications fault-tolerant
-- Stratus has faster computational ability and bigger memory system thanks to 32-bit capability vs Tandem's 16-bit internal data paths

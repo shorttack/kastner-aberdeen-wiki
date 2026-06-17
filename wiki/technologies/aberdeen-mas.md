@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "launched"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.0
+prescience_obs_count: 4
 ---
 
 # Aberdeen Market Analysis Service (MAS)
@@ -24,10 +24,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $22,500 (5 seats; all 14 topics; both qualitative + quantitative data) — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
-- $1,495 single-topic qualitative-only or quantitative-only; $2,495 single-topic both — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
-- Application Service Providers; Collaborative Product Commerce; CRM; Data Knowledge Solutions; Enterprise Application Integration (EAI); Enterprise Applications; e-Sourcing; Internet Infrastructure; Managed Services Providers; Professional Services; Security Solutions; Storage Management Systems; Supply Chain Management; Wireless Infrastructure Technologies — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
-- $2,000 cash up-front per analyst; 15 percent of revenues as GM transfer; 25-75 percent of Profile sales revenues; $250 cash for participating in successful sales call; $150 cash payment for 1 hour of telephone inquiry — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
+- Application Service Providers; Collaborative Product Commerce; CRM; Data Knowledge Solutions; Enterprise Application Integration (EAI); Enterprise Applications; e-Sourcing; Internet Infrastructure; Managed Services Providers; Professional Services; Security Solutions; Storage Management Systems; Supply Chain Management; Wireless Infrastructure Technologies `[ps=4]` — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
+- $22,500 (5 seats; all 14 topics; both qualitative + quantitative data) `[ps=0]` — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
+- $1,495 single-topic qualitative-only or quantitative-only; $2,495 single-topic both `[ps=0]` — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
+- $2,000 cash up-front per analyst; 15 percent of revenues as GM transfer; 25-75 percent of Profile sales revenues; $250 cash for participating in successful sales call; $150 cash payment for 1 hour of telephone inquiry `[ps=0]` — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
 - 2 to 2.5 days of structured engagement time per analyst; 12 hours report review + 2 hours survey review + advance questions to analyst — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
 - Methodology + Quantitative Model + Macroeconomic Data + Qualitative Data Model + Structured Interview development + Outbound Marketing + Telesales team + Field sales training + On-site sales calls — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
 - MAS A=$22,500 + Traditional Reports B=$10,000 + Pubs (WP/Profiles) C=$7,500; A+B=$30,000; A+C=$27,500; B+C=$15,000; A+B+C=$35,000 — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]

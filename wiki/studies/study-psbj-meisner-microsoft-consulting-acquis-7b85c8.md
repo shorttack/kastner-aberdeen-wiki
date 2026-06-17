@@ -3,7 +3,7 @@ title: "Bacon's Shopping List: Is Buying a Consulting Firm the Next Step for Mic
 slug: "study-psbj-meisner-microsoft-consulting-acquis-7b85c8"
 page_type: "study"
 tags: ["type/study", "collection/trade-press-feature"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "psbj-meisner-microsoft-consulting-acquis-7b85c8"
 author: "Jeff Meisner (Puget Sound Business Journal)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.75
+prescience_obs_count: 8
 ---
 
 # Bacon's Shopping List: Is Buying a Consulting Firm the Next Step for Microsoft?
@@ -32,14 +32,14 @@ _Published 2002, author **Jeff Meisner (Puget Sound Business Journal)**, type **
 
 ## Top observations
 
-- investors would run for the exits
-- huge change in direction
-- Microsoft acquires major firm by end-2005
+- want a throat to choke if something goes wrong `[ps=4]`
+- investors would run for the exits `[ps=1]`
+- Microsoft acquires major firm by end-2005 `[ps=1]`
+- huge change in direction `[ps=0]`
+- up to $15 billion over 3 years `[ps=0]`
+- $1.1B Dec 2000 `[ps=0]`
+- $1.3B Sept 1999 `[ps=0]`
+- current partners would feel very threatened `[ps=0]`
 - $38 billion in the bank
-- up to $15 billion over 3 years
 - $1.3B cash and stock
-- $1.1B Dec 2000
-- $1.3B Sept 1999
-- current partners would feel very threatened
-- want a throat to choke if something goes wrong
 - Accenture 70%, Microsoft <20%

@@ -12,9 +12,9 @@ era: "1984-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Mitel SX-2000 LIGHT PBX
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Up to 192 voice ports per peripheral node — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
+- Up to 192 voice ports per peripheral node `[ps=0]` — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
 - Evolution: proprietary PBX → modular distributed nodes → open-standards call server on broadband backbone — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]

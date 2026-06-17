@@ -3,7 +3,7 @@ title: "Windows 2000: High-End Ambitions"
 slug: "study-informationweek-windows-2000-high-end-am-4ccdae"
 page_type: "study"
 tags: ["type/study", "collection/news-feature"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "informationweek-windows-2000-high-end-am-4ccdae"
 author: "Stuart J. Johnston, Mary Hayes"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # Windows 2000: High-End Ambitions
@@ -32,8 +32,8 @@ _Published 1999, author **Stuart J. Johnston, Mary Hayes**, type **news-feature*
 
 ## Top observations
 
-- Datacenter Server will pique IT's interest; their response will be — Call me when it's ready
-- For all the tuning grief I go through, what gain am I going to see unless I get a huge performance boost? In the IBM mainframe environment, you're looking at a 95% boost per processor. NT has some ways to go to get into that range.
+- Datacenter Server will pique IT's interest; their response will be — Call me when it's ready `[ps=4]`
+- For all the tuning grief I go through, what gain am I going to see unless I get a huge performance boost? In the IBM mainframe environment, you're looking at a 95% boost per processor. NT has some ways to go to get into that range. `[ps=4]`
+- Sun expects to ship eight-way clustering in the spring of 2000 `[ps=0]`
 - Aberdeen Research survey of IT decision-makers in January 1999, of 240 evaluating Windows 2000: 89% plan to use Windows 2000 Server for email; 84% for Internet/intranet site hosting; 84% for generic servers
 - Datacenter Server has not begun beta testing and isn't due until three months after Microsoft ships the initial Windows 2000 releases, which have been delayed
-- Sun expects to ship eight-way clustering in the spring of 2000

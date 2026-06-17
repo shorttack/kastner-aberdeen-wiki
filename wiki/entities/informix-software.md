@@ -12,9 +12,9 @@ status: "[DEFERRED]"
 successor: "Siemens-Nixdorf"
 years_active: "1984-present"
 occurrence_count: 7
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 5
 ---
 
 # Digital Equipment Corporation
@@ -29,12 +29,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- i2 merged with JDA Software 2010; JDA rebranded Blue Yonder 2020; Panasonic acquired 2021 — [[study-1997-industry-matematik-international-co-c398bc]]
-- recently-acquired — [[study-1998-hp-high-availability-and-metadata-7d1276]]
-- RS6000-Encina-DCE-Informix-Warehouse-Distribution — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]
+- i2 merged with JDA Software 2010; JDA rebranded Blue Yonder 2020; Panasonic acquired 2021 `[ps=5]` — [[study-1997-industry-matematik-international-co-c398bc]]
+- challenging Oracle and Sybase `[ps=3]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- RS6000-Encina-DCE-Informix-Warehouse-Distribution `[ps=2]` — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]
+- recently-acquired `[ps=0]` — [[study-1998-hp-high-availability-and-metadata-7d1276]]
+- 1-800-688-IFMX ext 18 `[ps=0]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
 - Informix acquired by IBM 2001 — [[study-aberdeen-dors-buying-guide-1996-web-5ee808]]
-- 1-800-688-IFMX ext 18 — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
-- challenging Oracle and Sybase — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
 - Informix #4 in revenue among the big four RDBMS vendors — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
 - Informix 15.3% — best of the four — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
 - Informix +25% — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]

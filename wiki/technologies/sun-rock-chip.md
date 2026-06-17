@@ -12,9 +12,9 @@ era: "2003-2009"
 lifecycle_at_study: "cancelled"
 lifecycle_current: "cancelled"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Sun Rock UltraSPARC processor
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Sun Rock chip was officially cancelled shortly after Oracle-Sun merger closed in 2010; the high-end SPARC roadmap was reset around T-series. `[ps=4]` — [[study-on-computers-tips-is-sun-s-sparc-archite-65b3b9]]
 - Sun's long-hyped Rock chip is apparently dead. Well, that's one less project for Oracle to cancel when the merger goes through. — [[study-on-computers-tips-is-sun-s-sparc-archite-65b3b9]]
-- Sun Rock chip was officially cancelled shortly after Oracle-Sun merger closed in 2010; the high-end SPARC roadmap was reset around T-series. — [[study-on-computers-tips-is-sun-s-sparc-archite-65b3b9]]

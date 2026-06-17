@@ -12,9 +12,9 @@ era: "2005-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active-as-lenovo"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 3
 ---
 
 # Lenovo/IBM PC Division
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM sold x86/Netfinity server business to Lenovo for $2.1B in 2014; exited commodity x86 — [[study-2026-kastner-ibm-longitudinal]]
-- IBM sold ThinkPad and PC division to Lenovo for $1.75B in 2005 — [[study-2026-kastner-ibm-longitudinal]]
-- IBM sold Netfinity/x86 server business to Lenovo for $2.1B in 2014; second Lenovo divestiture — [[study-2026-kastner-ibm-longitudinal]]
+- IBM sold x86/Netfinity server business to Lenovo for $2.1B in 2014; exited commodity x86 `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
+- IBM sold ThinkPad and PC division to Lenovo for $1.75B in 2005 `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
+- IBM sold Netfinity/x86 server business to Lenovo for $2.1B in 2014; second Lenovo divestiture `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]

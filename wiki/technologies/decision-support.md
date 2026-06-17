@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'evolved', 'notes': 'Decision Support Systems (DSS) evolved into Business Intelligence (BI) and advanced analytics. Absorbed into modern BI tools (Tableau, Power BI) and AI-driven analytics.', 'source': 'pre-verified'}"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Decision Support / Business Intelligence
@@ -24,7 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Correct decision on 1000 red summer dresses drops directly to bottom line — [[study-informdsa-9f8bcf]]
+- <$2 billion (pure decision support) `[ps=4]` — [[study-jungle-1-5-675c58]]
+- Correct decision on 1000 red summer dresses drops directly to bottom line `[ps=0]` — [[study-informdsa-9f8bcf]]
 -  — [[study-intel-dss99-42b2bc]]
 -  — [[study-intel-dss99-42b2bc]]
 -  — [[study-intel-dss99-42b2bc]]
@@ -34,4 +35,3 @@ prescience_obs_count: 0
 -  — [[study-intel-dss99-42b2bc]]
 -  — [[study-intel-dss99-42b2bc]]
 -  — [[study-intel-dss99-42b2bc]]
-- <$2 billion (pure decision support) — [[study-jungle-1-5-675c58]]

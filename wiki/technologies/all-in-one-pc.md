@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # All-in-One PC
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Gateway high-end all-in-one media center + eMachines low-end = full-line HP competitor — [[study-dct-gateway-acquires-emachines-2004-03]]
+- Gateway high-end all-in-one media center + eMachines low-end = full-line HP competitor `[ps=2]` — [[study-dct-gateway-acquires-emachines-2004-03]]

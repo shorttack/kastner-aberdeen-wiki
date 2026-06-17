@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Web-based Authentication and Authorization
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Web computing requires security unlike client-server — [[study-securi~1-3e7ced]]
+- Web computing requires security unlike client-server `[ps=4]` — [[study-securi~1-3e7ced]]

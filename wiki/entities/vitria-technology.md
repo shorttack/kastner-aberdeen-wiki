@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Pegasystems (acquired 2011)"
 years_active: "1994-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Vitria Technology, Inc.
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- SOA stack is the right integration strategy for the future `[ps=3]` — [[study-vitria-testimonials-kastner-bpa-soa-rese-93ccae]]
 - May gain consideration following IBM blessing of vertical SOA customization concept — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
 - Goodyear, BP, ALLTEL, KPMG/BearingPoint, MasterBrand, SureWest cited as customers/partners — [[study-vitria-testimonials-kastner-bpa-soa-rese-93ccae]]
-- SOA stack is the right integration strategy for the future — [[study-vitria-testimonials-kastner-bpa-soa-rese-93ccae]]

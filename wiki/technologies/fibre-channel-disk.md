@@ -12,9 +12,9 @@ era: "2003"
 lifecycle_at_study: "dominant"
 lifecycle_current: "unknown"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Fibre Channel (FC) Disk
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- >$100,000 off deals formerly $500,000+ — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
+- >$100,000 off deals formerly $500,000+ `[ps=0]` — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
 - Lower capacity and much higher cost vs ATA; misused for inactive fixed content — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]

@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Computer-Telephony Integration (CTI)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- too complex for most user organizations to implement alone — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- not forte of most software suppliers — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- too complex for most user organizations to implement alone `[ps=3]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- not forte of most software suppliers `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]

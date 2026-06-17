@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "IMS Health / Nielsen Media Research"
 years_active: "1996-1998"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Cognizant Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $1.5 billion — [[study-pilot-internet-publisher-51e601]]
-- Integrates information and technology to create business insight; focuses on healthcare / media / high-tech growth markets — [[study-pilot-internet-publisher-51e601]]
+- $1.5 billion `[ps=0]` — [[study-pilot-internet-publisher-51e601]]
+- Integrates information and technology to create business insight; focuses on healthcare / media / high-tech growth markets `[ps=0]` — [[study-pilot-internet-publisher-51e601]]

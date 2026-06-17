@@ -12,9 +12,9 @@ era: "1974-present"
 lifecycle_at_study: "declining"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # IBM SNA (Systems Network Architecture)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- SNA architecture criticized as hierarchical and mainframe-centric, ill-suited to distributed TP `[ps=3]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- IBM and Netlink have nationwide service agreement enabling quick response for SNA network customers; Anixter as global SI partner `[ps=0]` — [[study-aberdeen-1996-frame-relay-access-devices]]
 -  — [[study-10ibmiss-f66945]]
-- IBM and Netlink have nationwide service agreement enabling quick response for SNA network customers; Anixter as global SI partner — [[study-aberdeen-1996-frame-relay-access-devices]]
-- SNA architecture criticized as hierarchical and mainframe-centric, ill-suited to distributed TP — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]

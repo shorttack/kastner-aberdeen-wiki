@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ra Admoutsourcing Rs 3597 (Aberdeen, 1988)"
 slug: "study-ra-admoutsourcing-rs-3597-59f661"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -22,9 +22,9 @@ prescience_mean: 2.0
 prescience_obs_count: 4
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ra Admoutsourcing Rs 3597 (Aberdeen, 1988)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-admoutsourcing-rs-3597-59f661. Source: ra_admoutsourcing_rs_3597.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 1988, author **Aberdeen Group**, type **topic-analysis**._

@@ -3,7 +3,7 @@ title: "Oracle Designer/2000"
 slug: "study-1997-oracle-designer-2000-3201a7"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-oracle-designer-2000-3201a7"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.46
+prescience_obs_count: 13
 ---
 
 # Oracle Designer/2000
@@ -32,21 +32,21 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- Designer/2000 bundled with 60% of Oracle Developer/2000 sales
-- Market shifted from upper-CASE methodology tools to second-generation CADEs over prior 2 years
+- Oracle Designer/2000 and Developer/2000 failed to become dominant Internet development tools; Java/J2EE, open source frameworks (Struts, Spring), and later .NET and JavaScript frameworks displaced Oracle's proprietary toolchain by mid-2000s; Oracle Designer reached end of life 2018 `[ps=5]`
+- Market shifted from upper-CASE methodology tools to second-generation CADEs over prior 2 years `[ps=4]`
+- Design-tool scalability, flexibility, methodology support, data/code/GUI-driven design `[ps=4]`
+- Forte is a competing high-end CADE with application partitioning support `[ps=4]`
+- Oracle Network Computing Architecture uses cartridges for client/app server/database tiers to enable Internet deployment `[ps=3]`
+- VPE/GUI support, business modeling, application partitioning, integrated repository, BPR capabilities `[ps=3]`
+- Integration with data dictionaries, forward generation, reverse engineering, application-management information flow `[ps=3]`
+- Visual Basic lacks team-development, high-level design, and application-modeling features that Designer/2000 provides `[ps=3]`
+- Informix and Sybase offer no integrated design tool—Oracle differentiates via Designer/2000 + Developer/2000 integration `[ps=2]`
+- Designer/2000 + Developer/2000 + Web Cartridge will be the winning long-term Internet development toolset `[ps=1]`
+- Designer/2000 bundled with 60% of Oracle Developer/2000 sales `[ps=0]`
+- Designer/2000 supports Chinese, Korean, Thai, Japanese from single code base `[ps=0]`
+- Java thin clients can connect to Oracle NCA application server cartridge without developers learning Java directly `[ps=0]`
 - Positioned as Oracle's key product for design and modeling of complex enterprise-scale distributed production systems
-- Oracle Network Computing Architecture uses cartridges for client/app server/database tiers to enable Internet deployment
 - Designer/2000 includes WebServer generator for rapid deployment of transactional Internet/Intranet applications without rewriting code
 - Designer/2000 comprises: Process Modeller, Systems Modeller, Systems Designer, Systems Generators, Model Management
-- Design-tool scalability, flexibility, methodology support, data/code/GUI-driven design
-- VPE/GUI support, business modeling, application partitioning, integrated repository, BPR capabilities
-- Integration with data dictionaries, forward generation, reverse engineering, application-management information flow
-- Visual Basic lacks team-development, high-level design, and application-modeling features that Designer/2000 provides
-- Informix and Sybase offer no integrated design tool—Oracle differentiates via Designer/2000 + Developer/2000 integration
 - PowerBuilder with S-Designor is a competing high-end development tool with application partitioning support
-- Forte is a competing high-end CADE with application partitioning support
-- Designer/2000 + Developer/2000 + Web Cartridge will be the winning long-term Internet development toolset
-- Oracle Designer/2000 and Developer/2000 failed to become dominant Internet development tools; Java/J2EE, open source frameworks (Struts, Spring), and later .NET and JavaScript frameworks displaced Oracle's proprietary toolchain by mid-2000s; Oracle Designer reached end of life 2018
-- Designer/2000 supports Chinese, Korean, Thai, Japanese from single code base
-- Java thin clients can connect to Oracle NCA application server cartridge without developers learning Java directly
 - Aberdeen recommends IS place Designer/2000 on short lists for both traditional CASE and Internet application development

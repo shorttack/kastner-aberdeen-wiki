@@ -12,9 +12,9 @@ era: "1991-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Windows Media Player removed as a default application in Windows 11. Legacy media streaming players (RealPlayer) essentially defunct.', 'source': 'pre-verified'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Windows Media Player / RealPlayer Streaming
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- European Commission announced a $612 million fine alongside Windows Media Player unbundling and interoperability remedies. `[ps=5]` — [[study-microsoft-vows-to-appeal-eu-ruling-5-b7efc6]]
 - Microsoft positioned XP as Personal Information Technology and digital home networking platform — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
-- European Commission announced a $612 million fine alongside Windows Media Player unbundling and interoperability remedies. — [[study-microsoft-vows-to-appeal-eu-ruling-5-b7efc6]]

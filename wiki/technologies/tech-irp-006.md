@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Active/mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Java
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Reaching market; enabling on-the-fly distributed component apps — [[study-1997-infinite-resource-planning-wp-893815]]
+- Reaching market; enabling on-the-fly distributed component apps `[ps=4]` — [[study-1997-infinite-resource-planning-wp-893815]]

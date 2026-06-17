@@ -3,7 +3,7 @@ title: "Open Online Transaction Processing: An Enterprise Manager's Guide — Ko
 slug: "study-aberdeen-open-oltp-enterprise-managers-k-3fc536"
 page_type: "study"
 tags: ["type/study", "collection/translated-white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-open-oltp-enterprise-managers-k-3fc536"
 author: "Peter S. Kastner (Aberdeen Group); Korean translation by NCR Korea (publisher)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.54
+prescience_obs_count: 13
 ---
 
 # Open Online Transaction Processing: An Enterprise Manager's Guide — Korean (Hangul) Translation, c. 1991/1992
@@ -32,16 +32,16 @@ _Published 1991, author **Peter S. Kastner (Aberdeen Group); Korean translation 
 
 ## Top observations
 
-- computer mechanism that changes the state of a business in real time while using industry standards that support interoperability across diverse computing systems
-- >90% of OLTP applications need <=12 transactions per second
-- up to 5x cheaper per transaction
-- Atomicity / Consistency / Isolation / Durability
-- ISO / X-Open / POSIX / SQL Access Group / OSF DCE / Unix International
-- leadership / qualified technical staff / productive tools / external experts / realistic funded plan / goal-oriented evaluation
-- openness / reliability / compatibility / functionality / supplier-relationships
-- Open OLTP technically mature enough for serious business consideration
-- client-server / distributed databases / desktop utilization / heterogeneous interoperability
-- Hangul translation distributed by NCR Korea
-- Peter S. Kastner, Aberdeen Group, Inc.
-- Google Translate (clean) chosen as primary English text; older translation retained but unreliable
-- no business too big or too small to benefit from Open OLTP
+- Atomicity / Consistency / Isolation / Durability `[ps=5]`
+- Open OLTP technically mature enough for serious business consideration `[ps=5]`
+- computer mechanism that changes the state of a business in real time while using industry standards that support interoperability across diverse computing systems `[ps=4]`
+- up to 5x cheaper per transaction `[ps=4]`
+- openness / reliability / compatibility / functionality / supplier-relationships `[ps=4]`
+- client-server / distributed databases / desktop utilization / heterogeneous interoperability `[ps=4]`
+- no business too big or too small to benefit from Open OLTP `[ps=4]`
+- >90% of OLTP applications need <=12 transactions per second `[ps=3]`
+- ISO / X-Open / POSIX / SQL Access Group / OSF DCE / Unix International `[ps=0]`
+- leadership / qualified technical staff / productive tools / external experts / realistic funded plan / goal-oriented evaluation `[ps=0]`
+- Hangul translation distributed by NCR Korea `[ps=0]`
+- Peter S. Kastner, Aberdeen Group, Inc. `[ps=0]`
+- Google Translate (clean) chosen as primary English text; older translation retained but unreliable `[ps=0]`

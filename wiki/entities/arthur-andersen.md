@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "dissolved 2002 post-Enron"
 years_active: "1913-2002"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 2
 ---
 
 # Arthur Andersen LLC
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Arthur Andersen dissolved 2002 following Enron accounting scandal `[ps=5]` — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]
+- Dissolved 2002 following Enron accounting scandal conviction `[ps=5]` — [[study-aberdeen-1997-acceleratedsap-strategy]]
 - First venture investment by Arthur Andersen audit partnership in firm history — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]
-- Arthur Andersen dissolved 2002 following Enron accounting scandal — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]
-- Dissolved 2002 following Enron accounting scandal conviction — [[study-aberdeen-1997-acceleratedsap-strategy]]

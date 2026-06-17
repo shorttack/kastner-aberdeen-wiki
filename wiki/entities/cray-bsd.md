@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Sun Microsystems (successor product line)"
 years_active: "1994-1996"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Cray Research Business Systems Division
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- merger_of_subsidiaries — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- merger_of_subsidiaries `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]

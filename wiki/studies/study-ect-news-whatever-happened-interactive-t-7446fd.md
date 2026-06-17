@@ -3,7 +3,7 @@ title: "Whatever Happened to Interactive TV?"
 slug: "study-ect-news-whatever-happened-interactive-t-7446fd"
 page_type: "study"
 tags: ["type/study", "collection/news-feature"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ect-news-whatever-happened-interactive-t-7446fd"
 author: "Lou Hirsh"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 4
 ---
 
 # Whatever Happened to Interactive TV?
@@ -32,7 +32,7 @@ _Published 2002, author **Lou Hirsh**, type **news-feature**._
 
 ## Top observations
 
-- Consumers' time and dollars have become invested in technologies like high-speed broadband Internet
-- Companies like Microsoft and Sony are rolling out interactive gaming technologies that will not require a TV set
-- ITV capabilities will have to be included with future television sets, since many consumers will be unwilling to spend extra dollars on new hardware for existing sets
-- Right now, people are not going to alter their TVs to fit them for interactive TV functions
+- Consumers' time and dollars have become invested in technologies like high-speed broadband Internet `[ps=5]`
+- Right now, people are not going to alter their TVs to fit them for interactive TV functions `[ps=5]`
+- Companies like Microsoft and Sony are rolling out interactive gaming technologies that will not require a TV set `[ps=4]`
+- ITV capabilities will have to be included with future television sets, since many consumers will be unwilling to spend extra dollars on new hardware for existing sets `[ps=2]`

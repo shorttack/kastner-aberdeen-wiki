@@ -12,9 +12,9 @@ status: "active"
 successor: "part of SAP SE"
 years_active: "1992-present"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 4
 ---
 
 # SAP America Inc.
@@ -29,7 +29,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 100 percent YoY — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 85 percent — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 1,000 consultants (goal: 1,200 by year-end 1997) — [[study-aberdeen-1997-acceleratedsap-strategy]]
-- 350+ utility customers worldwide; SAP Utilities 1998 release features purchasing accounting asset management HR — [[study-utilit~1-0596b5]]
+- 100 percent YoY `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 85 percent `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 1,000 consultants (goal: 1,200 by year-end 1997) `[ps=0]` — [[study-aberdeen-1997-acceleratedsap-strategy]]
+- 350+ utility customers worldwide; SAP Utilities 1998 release features purchasing accounting asset management HR `[ps=0]` — [[study-utilit~1-0596b5]]

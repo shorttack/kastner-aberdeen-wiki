@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # XML-Based Content Routing
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- moving from data packets to XML-based content routing and Web Services request messaging — [[study-next-steps-soa-2006-0fdea1]]
+- moving from data packets to XML-based content routing and Web Services request messaging `[ps=3]` — [[study-next-steps-soa-2006-0fdea1]]

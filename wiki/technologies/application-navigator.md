@@ -12,9 +12,9 @@ era: "1997-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # PeopleSoft Application Navigator
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internet browser-based navigational framework requiring no training; workflow integration; exception-to-action progression — [[study-1997-peoplesoft-works-the-internet-452445]]
+- Internet browser-based navigational framework requiring no training; workflow integration; exception-to-action progression `[ps=4]` — [[study-1997-peoplesoft-works-the-internet-452445]]

@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "OpenText (via Attachmate 2011; Micro Focus 2014; OpenText 2023)"
 years_active: "1983-2023"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.29
+prescience_obs_count: 7
 ---
 
 # Novell Inc.
@@ -24,12 +24,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- De facto enterprise meta-directory candidate — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- NDS to embrace LDAP as standards-based front-end to meta-directory — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- NDS to embrace LDAP as standards-based front-end to meta-directory `[ps=5]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- De facto enterprise meta-directory candidate `[ps=2]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- 75% of Unix servers shipping NDS by end of 1997 `[ps=1]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- NDS positioned to become de facto enterprise meta-directory standard `[ps=1]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- NDS for NT shipped 1997; Microsoft Active Directory shipped with Windows 2000 in February 2000 `[ps=0]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- 60 million NDS users by end of 1999 per IDC estimate `[ps=0]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- Novell acquired by Attachmate for $2.2B in 2011 `[ps=0]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
 - NDS fully LDAP-enabled; eDirectory became leading LDAP directory server — [[study-1997-novell-directory-to-the-network-str-048b05]]
 - NDS for NT to be delivered mid-1997 — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- NDS for NT shipped 1997; Microsoft Active Directory shipped with Windows 2000 in February 2000 — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- 75% of Unix servers shipping NDS by end of 1997 — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- 60 million NDS users by end of 1999 per IDC estimate — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- NDS positioned to become de facto enterprise meta-directory standard — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- Novell acquired by Attachmate for $2.2B in 2011 — [[study-1997-novell-directory-to-the-network-str-048b05]]

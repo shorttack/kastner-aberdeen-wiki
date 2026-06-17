@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Red Brick RDBMS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Specialist in decision support RDBMSs; pre-calculated joins; small struggling company; best with IBM RS/6000 SMP for data warehouse; not for OLTP — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- Specialist in decision support RDBMSs; pre-calculated joins; small struggling company; best with IBM RS/6000 SMP for data warehouse; not for OLTP `[ps=4]` — [[study-rdbms-for-ibm-powera~1-7a44be]]

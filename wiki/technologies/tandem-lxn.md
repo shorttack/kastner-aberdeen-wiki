@@ -12,9 +12,9 @@ era: "1987-1990"
 lifecycle_at_study: "launch"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Tandem LXN
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $23,700 unit (2MB, 80MB disk, 10-port comm); $18,012 in qty 25 under Networking Discount Plan — [[study-stratus-sales-support-competitive-news-1-2aac8d]]
-- Time will tell how well Tandem can market this customized UNIX product against other less costly UNIX offerings — [[study-stratus-sales-support-competitive-news-1-2aac8d]]
+- $23,700 unit (2MB, 80MB disk, 10-port comm); $18,012 in qty 25 under Networking Discount Plan `[ps=0]` — [[study-stratus-sales-support-competitive-news-1-2aac8d]]
+- Time will tell how well Tandem can market this customized UNIX product against other less costly UNIX offerings `[ps=0]` — [[study-stratus-sales-support-competitive-news-1-2aac8d]]
 - LXN is an Altos 3068-based product resold by Tandem — 'unprecedented reselling of another company's product' — [[study-stratus-sales-support-competitive-news-1-2aac8d]]

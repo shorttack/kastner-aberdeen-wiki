@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Super DLTtape
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Quantum Super DLTtape; HP/IBM/Seagate Linear Tape-Open (LTO) — [[study-storag~1-262bc7]]
+- Quantum Super DLTtape; HP/IBM/Seagate Linear Tape-Open (LTO) `[ps=0]` — [[study-storag~1-262bc7]]

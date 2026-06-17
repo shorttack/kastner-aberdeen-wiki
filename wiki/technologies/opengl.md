@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # OpenGL graphics API
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TX 2500 based on 3Dlabs GLINT; 8MB frame buffer + 8MB texture DRAM; supports OpenGL and Heidi APIs — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]
+- TX 2500 based on 3Dlabs GLINT; 8MB frame buffer + 8MB texture DRAM; supports OpenGL and Heidi APIs `[ps=0]` — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]

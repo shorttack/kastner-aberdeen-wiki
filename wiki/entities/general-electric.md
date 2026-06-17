@@ -12,9 +12,9 @@ status: "active"
 successor: "Restructured/split 2024"
 years_active: "1892-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # General Electric Company
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $56 million in Netscape stock (1.7M shares at ~$33/share) — [[study-aberdeen-1997-actra-commercexpert-internet-commerce]]
-- Cornell's off-campus Langmuir Labs data center was described as 'a former GE research building.' — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- $56 million in Netscape stock (1.7M shares at ~$33/share) `[ps=0]` — [[study-aberdeen-1997-actra-commercexpert-internet-commerce]]
+- Cornell's off-campus Langmuir Labs data center was described as 'a former GE research building.' `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

@@ -12,9 +12,9 @@ era: "1995-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Soft Mountain Event-Driven Integration Platform
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Electronic commerce and intranet services hinge on sophisticated transaction processing and fool-proof security and reliability `[ps=4]` — [[study-soft-mountain-java-a396b5]]
+- Implied viable vendor for telecom integration use case; Aberdeen publication implies endorsement `[ps=2]` — [[study-soft-mountain-java-a396b5]]
 - Real-time event-driven software empowering network managers to incorporate variety of network elements and switching platforms — [[study-soft-mountain-java-a396b5]]
-- Implied viable vendor for telecom integration use case; Aberdeen publication implies endorsement — [[study-soft-mountain-java-a396b5]]
-- Electronic commerce and intranet services hinge on sophisticated transaction processing and fool-proof security and reliability — [[study-soft-mountain-java-a396b5]]

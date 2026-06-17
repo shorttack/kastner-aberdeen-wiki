@@ -12,9 +12,9 @@ era: "2001-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Market Positioning Pyramid (MPP)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen MPP framework applied to PDA vendor evaluation — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
+- Aberdeen MPP framework applied to PDA vendor evaluation `[ps=0]` — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]

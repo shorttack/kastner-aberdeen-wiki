@@ -12,9 +12,9 @@ era: "1970-present"
 lifecycle_at_study: "dominant"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Relational Database Management System (RDBMS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Relational databases remained dominant; object-relational extensions by Oracle and IBM addressed complex-data needs — [[study-1997-object-databases-such-as-o2-odmg--t-c98c72]]
+- Relational databases remained dominant; object-relational extensions by Oracle and IBM addressed complex-data needs `[ps=5]` — [[study-1997-object-databases-such-as-o2-odmg--t-c98c72]]

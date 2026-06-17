@@ -3,7 +3,7 @@ title: "Computerworld 'Fault-Tolerant Market to Hit $2 Billion in '87' — Pre-A
 slug: "study-computerworld-fault-tolerant-market-1987-fc3dca"
 page_type: "study"
 tags: ["type/study", "collection/trade-press-news-feature"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "computerworld-fault-tolerant-market-1987-fc3dca"
 author: "Computerworld (staff reporter)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.12
+prescience_obs_count: 8
 ---
 
 # Computerworld 'Fault-Tolerant Market to Hit $2 Billion in '87' — Pre-Aberdeen Pete Kastner Stratus Quote
@@ -32,13 +32,13 @@ _Published 1987, author **Computerworld (staff reporter)**, type **trade-press-n
 
 ## Top observations
 
-- Pete Kastner, manager of marketing development at Stratus
+- Two big developments: target-market expansion and price/performance pressure on TPS `[ps=4]`
+- Targeting Unix-based systems at telecom and niche apps like law enforcement `[ps=4]`
+- Two-man fight: Stratus vs Tandem; IBM on edge unable to land solid punch `[ps=3]`
+- Recently introduced series of low-cost systems with expandable processor counts `[ps=3]`
+- $25,000-$45,000 low-cost fault-tolerant POS systems `[ps=3]`
+- Pete Kastner, manager of marketing development at Stratus `[ps=0]`
+- banking, telecommunications, manufacturing, federal government `[ps=0]`
+- Telephone-network trouble monitoring; battery backup; FT system core `[ps=0]`
 - U.S. fault-tolerant market $2B in 1987, growing 40-50% per year through 1990
 - $1B in 1987, $1.2B by 1990 (more conservative)
-- Two big developments: target-market expansion and price/performance pressure on TPS
-- Two-man fight: Stratus vs Tandem; IBM on edge unable to land solid punch
-- Recently introduced series of low-cost systems with expandable processor counts
-- $25,000-$45,000 low-cost fault-tolerant POS systems
-- Targeting Unix-based systems at telecom and niche apps like law enforcement
-- banking, telecommunications, manufacturing, federal government
-- Telephone-network trouble monitoring; battery backup; FT system core

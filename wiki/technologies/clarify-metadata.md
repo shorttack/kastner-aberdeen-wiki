@@ -12,9 +12,9 @@ era: "1993-2001"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Clarify Metadata Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Metadata layer sits atop application logic; ClearCustomize toolset; new version deployments don't corrupt customizations; contrast with source-code modification vendors — [[study-aberdeen-1996-clarify-inc]]
+- Metadata layer sits atop application logic; ClearCustomize toolset; new version deployments don't corrupt customizations; contrast with source-code modification vendors `[ps=5]` — [[study-aberdeen-1996-clarify-inc]]

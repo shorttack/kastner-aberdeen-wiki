@@ -3,7 +3,7 @@ title: "IBM Corporation Across Six Decades of the Kastner Archive: Mainframe Sur
 slug: "study-2026-kastner-ibm-longitudinal"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2026-kastner-ibm-longitudinal"
 author: "Peter S. Kastner (assembled with Perplexity Computer using archival-ingest v16)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.69
+prescience_obs_count: 87
 ---
 
 # IBM Corporation Across Six Decades of the Kastner Archive: Mainframe Survival, Platform Pivots, and the Services Transformation
@@ -32,28 +32,28 @@ _Published 2026, author **Peter S. Kastner (assembled with Perplexity Computer u
 
 ## Top observations
 
-- 1054
-- 174
-- 1967-2026 (6 decades)
-- 98
-- 115
-- 0
-- 724
-- 1990s — 659 observations
-- System/360 architecture establishes IBM as the defining platform of enterprise computing; mainframe displacement predicted but does not materialize
-- Gerstner cancels breakup; services pivot; AS/400 survival; OS/2 abandoned; Linux bet; IBM buys PwC Consulting
-- Watson AI over-promised; Watson Health sold; Red Hat acquisition; Kyndryl spinout; hybrid cloud / quantum bets active
-- IBM mainframes would be displaced by x86/RISC Unix platforms within 5-10 years of the late 1980s prediction horizon
-- 126 matching observations
-- Mainframe displacement: 'not a matter of whether but when'; estimated 10-15 year horizon
-- IBM mainframes will be gradually phased out over next decade as x86 + Unix economics prevail
-- IBM mainframe evolved to zSeries (2000) then IBM Z; never discontinued; 2022 z16 still actively sold
-- IBM z16 (2022) active; z17 roadmap confirmed; mainframe revenue still $2B+ annually
-- Parallel Sysplex (1990) still the highest-availability commercial computing standard; deployed at major banks worldwide 2024
-- CICS TS 6.3 released September 2025; among oldest continuously-shipped enterprise software
-- z/OS 3.1 released 2024; actively maintained; new features including AI inferencing on mainframe
-- IBM's AS/400 was a platform at risk from Windows NT and Unix; its long-term viability was contested across the entire 1989-2002 archive window
-- 348 matching observations
-- AS/400 lacks a growth path; multiple-AS/400 cluster architecture an awkward workaround
-- AS/400 with SAP R/3 credibility requires IBM to demonstrate sub-5-minute response on 1000-user loads
-- Expect RS/6000 growth to continue in 1997 as datacenter Unix consolidation proceeds
+- Gerstner cancels breakup; services pivot; AS/400 survival; OS/2 abandoned; Linux bet; IBM buys PwC Consulting `[ps=5]`
+- IBM z16 (2022) active; z17 roadmap confirmed; mainframe revenue still $2B+ annually `[ps=5]`
+- iSeries merged into Power Systems as IBM i in 2008; architecture continues on POWER hardware `[ps=5]`
+- IBM sold x86/Netfinity server business to Lenovo for $2.1B in 2014; exited commodity x86 `[ps=5]`
+- IBM ended all OS/2 support in December 2006; confirmed OS/2 exit `[ps=5]`
+- IBM sold ThinkPad and PC division to Lenovo for $1.75B in 2005 `[ps=5]`
+- IBM sold Netfinity/x86 server business to Lenovo for $2.1B in 2014; second Lenovo divestiture `[ps=5]`
+- OS/2 will continue in loyal IBM accounts for client-server through mid-decade `[ps=5]`
+- By early 2000s IBM became the world's largest IT services firm; services exceeded 50% of revenue `[ps=5]`
+- IBM acquired Red Hat for $34B in 2019; largest IBM acquisition; Red Hat operating independently `[ps=5]`
+- Red Hat OpenShift is IBM's primary hybrid-cloud delivery vehicle 2026; 4,000+ customers `[ps=5]`
+- IBM Deep Blue defeated world chess champion Garry Kasparov in May 1997 match `[ps=5]`
+- IBM Watson Health data and analytics products sold to Francisco Partners in 2022 `[ps=5]`
+- IBM rebranded Watson as watsonx AI platform in 2023; includes watsonx.ai, watsonx.data, watsonx.governance `[ps=5]`
+- IBM closed $34B Red Hat acquisition in July 2019; largest acquisition in IBM history `[ps=5]`
+- IBM launched publicly accessible quantum computing via cloud in May 2016; first public quantum computer `[ps=5]`
+- IBM Eagle 127-qubit processor released November 2021; first processor beyond 100 qubits `[ps=5]`
+- IBM Condor 1121-qubit processor released December 2023; largest superconducting quantum processor `[ps=5]`
+- IBM ended all OS/2 support December 2006 `[ps=5]`
+- IBM sold Notes/Domino to HCL 2019 after 24-year ownership `[ps=5]`
+- IBM SNA largely displaced by TCP/IP across enterprise by 2000; legacy maintained in finance `[ps=5]`
+- IBM decommissioned Deep Blue after 1997 match; technology evolved into HPC research lineage `[ps=5]`
+- IBM under Gerstner will pivot successfully to services as hardware revenues decline `[ps=5]`
+- OS/2 Warp missed the window; can never recover `[ps=5]`
+- Watson AI represents IBM's most visible prediction miss — both from IBM's own marketing claims and from analyst expectations; Watson Health failure and WatsonX reboot are the clearest IBM outcome reversals in the post-2010 archive `[ps=5]`

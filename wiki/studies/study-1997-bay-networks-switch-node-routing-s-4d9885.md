@@ -3,7 +3,7 @@ title: "Bay Networks' Switch Node Routing Switch Tackles Routing Performance Bot
 slug: "study-1997-bay-networks-switch-node-routing-s-4d9885"
 page_type: "study"
 tags: ["type/study", "collection/impact-brief"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-bay-networks--switch-node-routing-s-4d9885"
 author: "Virginia Brooks"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.19
+prescience_obs_count: 16
 ---
 
 # Bay Networks' Switch Node Routing Switch Tackles Routing Performance Bottlenecks Head-On
@@ -32,23 +32,23 @@ _Published 1997, author **Virginia Brooks**, type **impact-brief**._
 
 ## Top observations
 
+- Ability to accommodate emerging real-time applications such as video `[ps=5]`
+- Bay Networks acquired by Nortel for $9.1B in June 1998; Switch Node product line discontinued post-acquisition; Cisco's Catalyst series dominated campus Layer 3 switching market through 2000s `[ps=5]`
+- ATM migration generally too complex for campus network environments and not always relevant `[ps=5]`
+- ATM failed to achieve campus dominance; IP-based switching (Gigabit Ethernet) became campus backbone standard by 2000 `[ps=5]`
+- Combining IP/IPX routing control with full wire speed performance; data plane forwarding separated from control plane topology `[ps=4]`
+- Routers have become major performance bottleneck in enterprise networks with 80% cross-subnet traffic `[ps=3]`
+- Bay's approach 'right on target'; non-disruptive here-and-now alternative fitting existing network architecture `[ps=3]`
+- Switch Node based on same BayRS distributed multitasking routing software used in Bay Network routers; ensures routing consistency `[ps=3]`
+- Bay Networks has seized window of opportunity to bring cost-effective Layer 3 switching solution to campus networks `[ps=2]`
+- March 3, 1997 `[ps=0]`
+- Data plane (forwarding) and control plane (topology) run on separate 1.2 Gbps buses `[ps=0]`
+- Transparently integrates with existing network routers with no reconfiguration; automatically learns Layer 2 and Layer 3 addresses `[ps=0]`
+- Micro-second latency with wire speed switching performance `[ps=0]`
+- Easy integration into existing networks with minimal configuration requirements `[ps=0]`
+- 5-slot chassis; 16-port 10Base-T; 8-port 10Base-FL; 2-port 100Base-TX switching modules; RISC processors for wire-speed forwarding `[ps=0]`
+- Non-disruptive integration strategy: fits existing network architecture, no reconfiguration of routers or clients required `[ps=0]`
 - Traffic reversed from 80% local/20% cross-subnet to 20% local/80% cross-subnet
-- Routers have become major performance bottleneck in enterprise networks with 80% cross-subnet traffic
-- March 3, 1997
-- Data plane (forwarding) and control plane (topology) run on separate 1.2 Gbps buses
-- Transparently integrates with existing network routers with no reconfiguration; automatically learns Layer 2 and Layer 3 addresses
-- Micro-second latency with wire speed switching performance
-- Easy integration into existing networks with minimal configuration requirements
 - Capability to deliver scalable performance from subnet to subnet
-- Ability to accommodate emerging real-time applications such as video
 - Cost-effectiveness vs. router upgrades or ATM migration
-- 5-slot chassis; 16-port 10Base-T; 8-port 10Base-FL; 2-port 100Base-TX switching modules; RISC processors for wire-speed forwarding
 - IP Switching, Tag Switching, Flow Switching - migration strategies for high-speed network media
-- Bay's approach 'right on target'; non-disruptive here-and-now alternative fitting existing network architecture
-- Bay Networks has seized window of opportunity to bring cost-effective Layer 3 switching solution to campus networks
-- Bay Networks acquired by Nortel for $9.1B in June 1998; Switch Node product line discontinued post-acquisition; Cisco's Catalyst series dominated campus Layer 3 switching market through 2000s
-- ATM migration generally too complex for campus network environments and not always relevant
-- ATM failed to achieve campus dominance; IP-based switching (Gigabit Ethernet) became campus backbone standard by 2000
-- Switch Node based on same BayRS distributed multitasking routing software used in Bay Network routers; ensures routing consistency
-- Combining IP/IPX routing control with full wire speed performance; data plane forwarding separated from control plane topology
-- Non-disruptive integration strategy: fits existing network architecture, no reconfiguration of routers or clients required

@@ -12,9 +12,9 @@ era: "1993-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "evolved-into-modern-windows"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Windows NT
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- By 1994: MS-NT, IBM Big Pink, Solaris replace 1991's MS-DOS/OS/2/Unix triad on desktop — [[study-aberdeen-trends-90s-logan-1991-648c68]]
+- By 1994: MS-NT, IBM Big Pink, Solaris replace 1991's MS-DOS/OS/2/Unix triad on desktop `[ps=2]` — [[study-aberdeen-trends-90s-logan-1991-648c68]]

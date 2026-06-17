@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Integrated Contact Center Platform
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Integrated solutions centers increasingly viewed as critical piece in achieving highest customer service levels — [[study-hp-smart-contact-b3c359]]
-- Organizations forging closer customer relationships must consistently provide highest levels of service and support — [[study-hp-smart-contact-b3c359]]
+- Integrated solutions centers increasingly viewed as critical piece in achieving highest customer service levels `[ps=4]` — [[study-hp-smart-contact-b3c359]]
+- Organizations forging closer customer relationships must consistently provide highest levels of service and support `[ps=0]` — [[study-hp-smart-contact-b3c359]]

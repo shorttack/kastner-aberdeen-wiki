@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.12
+prescience_obs_count: 24
 ---
 
 # Can Unisys-Wipro Alliance Cover All Outsourcing Bases?
@@ -32,28 +32,28 @@ _Published 2006, author **Aberdeen Group**, type **article**._
 
 ## Top observations
 
-- cost-savings
-- local-customer-care
-- communication-cultural-gaps
+- cost-savings `[ps=3]`
+- local-customer-care `[ps=0]`
+- communication-cultural-gaps `[ps=0]`
+- integration-testing-qa-effort `[ps=0]`
+- integration-testing-qa-effort `[ps=0]`
+- communication-cultural-gaps `[ps=0]`
+- securing-right-skill-set `[ps=0]`
+- 59% `[ps=0]`
+- 43% `[ps=0]`
+- 30% `[ps=0]`
+- 50% `[ps=0]`
+- higher-than-expected `[ps=0]`
+- remote-services-prime-contractor `[ps=0]`
+- 20000 `[ps=0]`
+- cheaper-labor-and-high-quality `[ps=0]`
+- top-three-indian-providers `[ps=0]`
+- high-potential `[ps=0]`
+- cost-savings-and-strategic-focus `[ps=0]`
+- cost-plus-customer-care `[ps=0]`
+- dissolved-or-inactive `[ps=0]`
+- industry-standard `[ps=0]`
+- active-pivoted-to-digital `[ps=0]`
+- active-major-growth `[ps=0]`
+- growth-phase `[ps=0]`
 - securing-right-skill-set
-- integration-testing-qa-effort
-- integration-testing-qa-effort
-- communication-cultural-gaps
-- securing-right-skill-set
-- 59%
-- 43%
-- 30%
-- 50%
-- new-revised-vendor-mgmt-processes
-- higher-than-expected
-- local-support-subcontractor
-- remote-services-prime-contractor
-- 20000
-- combines-cost-savings-with-customer-focus
-- cheaper-labor-and-high-quality
-- top-three-indian-providers
-- high-potential
-- cost-savings-and-strategic-focus
-- cost-plus-customer-care
-- dissolved-or-inactive
-- industry-standard

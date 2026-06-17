@@ -12,9 +12,9 @@ era: "1959-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # COBOL Legacy Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2-digit year fields create rollover errors — [[study-1998-y2k-report-f512fb]]
+- 2-digit year fields create rollover errors `[ps=5]` — [[study-1998-y2k-report-f512fb]]

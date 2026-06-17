@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Arch Currid
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'We've already assured all of our customers, on every product front, that they can count on our ongoing long-term support.' — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
+- 'We've already assured all of our customers, on every product front, that they can count on our ongoing long-term support.' `[ps=2]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]

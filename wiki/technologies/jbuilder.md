@@ -12,9 +12,9 @@ era: "1997-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # JBuilder Java IDE
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Excellent technology; struggles with consistent message and marketing strategy; many strategic relationships via Visigenic; unable to leverage into lasting market position — [[study-intern~1-45df51]]
+- Excellent technology; struggles with consistent message and marketing strategy; many strategic relationships via Visigenic; unable to leverage into lasting market position `[ps=4]` — [[study-intern~1-45df51]]

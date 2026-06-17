@@ -12,9 +12,9 @@ era: "1987-1990s"
 lifecycle_at_study: "newly-launched-1987"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Stratus XA2000 Series (Models 100-140)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 15 / 27-29 / 37-40 / 47-53 tps for Models 110 / 120 / 130 / 140 — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
-- Up to 64 MB memory, 64 KB cache, 128 MB virtual address space, 46 GB disk — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
-- $260K-$500K Model 110; $770K-$1.1M Model 140; transaction-per-second cost half of earlier products — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
+- 15 / 27-29 / 37-40 / 47-53 tps for Models 110 / 120 / 130 / 140 `[ps=0]` — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
+- Up to 64 MB memory, 64 KB cache, 128 MB virtual address space, 46 GB disk `[ps=0]` — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
+- $260K-$500K Model 110; $770K-$1.1M Model 140; transaction-per-second cost half of earlier products `[ps=0]` — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]

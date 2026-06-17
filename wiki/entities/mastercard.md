@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1966-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # MasterCard International / Mondex International
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $5 to $16 depending on microchip memory size — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
-- MasterCard (NYSE: MA) remains dominant global payments network; market cap ~$400B in 2024 — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- MasterCard (NYSE: MA) remains dominant global payments network; market cap ~$400B in 2024 `[ps=4]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- $5 to $16 depending on microchip memory size `[ps=0]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]

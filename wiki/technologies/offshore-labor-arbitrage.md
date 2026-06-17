@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Offshore labor arbitrage
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Offshore labor arbitrage is a key PSO issue. — [[study-dell-services-kastner-051904-4-87b363]]
+- Offshore labor arbitrage is a key PSO issue. `[ps=5]` — [[study-dell-services-kastner-051904-4-87b363]]

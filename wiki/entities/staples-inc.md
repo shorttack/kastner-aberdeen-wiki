@@ -12,9 +12,9 @@ status: "active"
 successor: "taken private by Sycamore Partners 2017"
 years_active: "1986-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Staples, Inc.
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Staples' Easy Rebates — most rebates can be activated by just entering two numbers from your store receipt on an online form — [[study-great-rebate-debate-smartmoney-grant-80650c]]
+- Staples' Easy Rebates — most rebates can be activated by just entering two numbers from your store receipt on an online form `[ps=0]` — [[study-great-rebate-debate-smartmoney-grant-80650c]]
+- Staples (Framingham MA) switched to online EasyRebates system 1 year before article, cutting wait 10wks to 4wks and dropping rebate complaints 25% `[ps=0]` — [[study-great-rebate-runaround-businessweek-grow-00f459]]
 - Staples Easy Rebates became fully online submission by 2008, eliminating mail-in requirement entirely — [[study-great-rebate-debate-smartmoney-grant-80650c]]
-- Staples (Framingham MA) switched to online EasyRebates system 1 year before article, cutting wait 10wks to 4wks and dropping rebate complaints 25% — [[study-great-rebate-runaround-businessweek-grow-00f459]]

@@ -1,5 +1,5 @@
 ---
-title: "==> picture [240 x 792] intentionally omitted <=="
+title: "Ra Web Site Search 3910 (Aberdeen, 2007)"
 slug: "study-ra-web-site-search-3910-5f9297"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.32
-prescience_obs_count: 71
+prescience_mean: 1.8
+prescience_obs_count: 59
 ---
 
-# ==> picture [240 x 792] intentionally omitted <==
+# Ra Web Site Search 3910 (Aberdeen, 2007)
 
-> This study analyzes ==> picture [240 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-web-site-search-3910-5f9297. Source: ra_web_site_search_3910.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **topic-analysis**._

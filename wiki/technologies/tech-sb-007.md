@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Computer Telephony Integration (CTI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Siebel 3.0 integrates with CTI middleware from Prospect and Genesys; supports automatic call distributors from Aspect, AT&T and Nortel — [[study-1997-crm-siebel-systems-pr-569e52]]
+- Siebel 3.0 integrates with CTI middleware from Prospect and Genesys; supports automatic call distributors from Aspect, AT&T and Nortel `[ps=0]` — [[study-1997-crm-siebel-systems-pr-569e52]]

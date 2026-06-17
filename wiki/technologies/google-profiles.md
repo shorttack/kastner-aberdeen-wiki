@@ -12,9 +12,9 @@ era: "2007-2011"
 lifecycle_at_study: "active"
 lifecycle_current: "obsolete-replaced-by-Google-Plus"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Google Profiles
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Email pskastner@gmail.com; profile URL http://www.google.com/profiles/pskastner; numeric URL http://www.google.com/profiles/110552360138965462985 — [[study-google-profiles-pskastner-personal-2009-61fc2d]]
+- Email pskastner@gmail.com; profile URL http://www.google.com/profiles/pskastner; numeric URL http://www.google.com/profiles/110552360138965462985 `[ps=0]` — [[study-google-profiles-pskastner-personal-2009-61fc2d]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "HP (2010)"
 years_active: "1979-2010"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # 3Com Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3Com holds 40% NIC market share; leads Ethernet managed hubs and Fast Ethernet workgroup hubs — [[study-networ~1-96462b]]
+- 3Com holds 40% NIC market share; leads Ethernet managed hubs and Fast Ethernet workgroup hubs `[ps=0]` — [[study-networ~1-96462b]]

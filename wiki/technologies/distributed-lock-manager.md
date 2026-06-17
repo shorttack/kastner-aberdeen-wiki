@@ -12,9 +12,9 @@ era: "1984-1998"
 lifecycle_at_study: "production-shipping"
 lifecycle_current: "legacy-OpenVMS-Cluster"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # VMS Distributed Lock Manager (DLM)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- major-obstacle-for-VAXcluster-Debit-Credit — [[study-dec-zahavi-debit-credit-vaxclusters-1988-1a9e2e]]
+- major-obstacle-for-VAXcluster-Debit-Credit `[ps=0]` — [[study-dec-zahavi-debit-credit-vaxclusters-1988-1a9e2e]]

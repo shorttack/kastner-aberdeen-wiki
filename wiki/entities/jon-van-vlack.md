@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Jon Van Vlack
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Rebates are a marketing game... the game is rigged — [[study-rebate-check-recordonline-van-vlack-d7d600]]
+- Rebates are a marketing game... the game is rigged `[ps=4]` — [[study-rebate-check-recordonline-van-vlack-d7d600]]

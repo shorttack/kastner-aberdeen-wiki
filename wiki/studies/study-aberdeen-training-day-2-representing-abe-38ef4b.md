@@ -3,7 +3,7 @@ title: "How To Represent Aberdeen and Yourself (Twelve Vital Hours, Session 2)"
 slug: "study-aberdeen-training-day-2-representing-abe-38ef4b"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-training-day-2-representing-abe-38ef4b"
 author: "Peter S. Kastner / John Logan / Thomas Willmott / Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.52
+prescience_obs_count: 29
 ---
 
 # How To Represent Aberdeen and Yourself (Twelve Vital Hours, Session 2)
@@ -32,28 +32,28 @@ _Published 2000, author **Peter S. Kastner / John Logan / Thomas Willmott / Aber
 
 ## Top observations
 
-- Covers introducing Aberdeen, conducting supplier briefings, following up prospects, and giving press interviews
-- Describe Aberdeen in less than 5 minutes, without slides, to a relatively unknowledgeable audience
-- Primarily held by three partners (Logan, Willmott, Kastner) and other members; private capital obtained in 1998
-- Over 50 analysts on staff; growing approximately 50% per year
-- Founders wanted a name implying IT as tool for business advantage, not domain of high priests of mainframe computing
-- Founded over 12 years ago (implies founding ~1988)
-- Unique by strength of 1-on-1 consulting and analytical capabilities; rarely compete directly against them for a client contract
-- Has never used brochures; business comes from word-of-mouth; web site is living brochure
-- Multiple structured practice areas; analysts share findings at Friday staff meetings to build Aberdeen research consensus
-- Analysts share findings from practice areas at Friday staff meetings to build Aberdeen research consensus
-- Profile: objective review of supplier go-to-market strategy; Viewpoint: analyst opinion; Impact: market-effect synopsis
-- Target audience: supplier executives who do not yet know Aberdeen or whose knowledge comes from intermediaries (PR firms, press quotes)
-- This is the start of a nuclear war between IBM and DEC
-- Trade weeklies have a noon Thursday deadline; expect calls on Wednesday; product announcements are typically on Tuesdays
-- Aberdeen honors all NDAs — written or verbal; do not break the trust of others even in your enthusiasm
-- The reporters are frequently looking for Aberdeen bias — especially if your analysis differs from theirs
-- Never say or imply that Aberdeen will write positive comments if a supplier becomes a client — that's extortion
-- Investors Business Daily does not like to quote individual analysts; Business Week quotes analysts on a relatively rare basis
-- Report the announcement; quote analyst opinion; quote customer impact; summarize editor opinion
-- Experienced Aberdeen analysts have been burned: positive and negative analysis, only negative printed; quotes taken out of context; confidential info printed
-- The analyst is in charge of the meeting; the supplier gave them 1-2 hours of valuable analyst time
-- Keep the session interactive; base comments on 'Aberdeen research shows...' where possible
-- Ask at any time: What are the three major points you want me to take away from this meeting?
-- Do not assume the presenter prepared the presentation; politely but pointedly state the Aberdeen view; use company not 'you' for negative comments
-- Go to Aberdeen intranet; modify proposal; review with manager; send with copy to Aberdeen sales; follow up by phone for verbal acceptance/rejection
+- Founders wanted a name implying IT as tool for business advantage, not domain of high priests of mainframe computing `[ps=4]`
+- Experienced Aberdeen analysts have been burned: positive and negative analysis, only negative printed; quotes taken out of context; confidential info printed `[ps=4]`
+- There is a thin line between when suppliers are getting to know Aberdeen/analyst before acquiring services and when they are looking for free advice continuously `[ps=4]`
+- PR representative: gets paid to schedule meetings; gets to keep client if analyst says nice things; may act as court reporter or take active role `[ps=4]`
+- Has never used brochures; business comes from word-of-mouth; web site is living brochure `[ps=3]`
+- Trade weeklies have a noon Thursday deadline; expect calls on Wednesday; product announcements are typically on Tuesdays `[ps=3]`
+- The reporters are frequently looking for Aberdeen bias — especially if your analysis differs from theirs `[ps=3]`
+- Report the announcement; quote analyst opinion; quote customer impact; summarize editor opinion `[ps=3]`
+- The analyst is in charge of the meeting; the supplier gave them 1-2 hours of valuable analyst time `[ps=3]`
+- Ask at any time: What are the three major points you want me to take away from this meeting? `[ps=3]`
+- Price at $2,000-$3,000 per person-day; never actually know how many person-days as client will change tasks and scope `[ps=3]`
+- Unique by strength of 1-on-1 consulting and analytical capabilities; rarely compete directly against them for a client contract `[ps=2]`
+- Aberdeen described to investment community as fast growing and profitable; privately held; moving towards IPO as soon as possible `[ps=2]`
+- Aberdeen analysts dress formally because they are also business people and consultants; overdressed better than underdressed `[ps=2]`
+- This is the start of a nuclear war between IBM and DEC `[ps=1]`
+- Covers introducing Aberdeen, conducting supplier briefings, following up prospects, and giving press interviews `[ps=0]`
+- Describe Aberdeen in less than 5 minutes, without slides, to a relatively unknowledgeable audience `[ps=0]`
+- Primarily held by three partners (Logan, Willmott, Kastner) and other members; private capital obtained in 1998 `[ps=0]`
+- Over 50 analysts on staff; growing approximately 50% per year `[ps=0]`
+- Founded over 12 years ago (implies founding ~1988) `[ps=0]`
+- Multiple structured practice areas; analysts share findings at Friday staff meetings to build Aberdeen research consensus `[ps=0]`
+- Analysts share findings from practice areas at Friday staff meetings to build Aberdeen research consensus `[ps=0]`
+- Never say or imply that Aberdeen will write positive comments if a supplier becomes a client — that's extortion `[ps=0]`
+- Investors Business Daily does not like to quote individual analysts; Business Week quotes analysts on a relatively rare basis `[ps=0]`
+- Keep the session interactive; base comments on 'Aberdeen research shows...' where possible `[ps=0]`

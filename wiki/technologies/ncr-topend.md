@@ -12,9 +12,9 @@ era: "1991-mid-2000s"
 lifecycle_at_study: "current-1992"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # NCR TopEND TP Monitor
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- supports Informix/Oracle/Sybase incl. parallel versions — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]
-- Full ACID transaction properties supported — [[study-ncr-topend-tp-monitor-brochure-1992-eeea31]]
+- supports Informix/Oracle/Sybase incl. parallel versions `[ps=0]` — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]
+- Full ACID transaction properties supported `[ps=0]` — [[study-ncr-topend-tp-monitor-brochure-1992-eeea31]]

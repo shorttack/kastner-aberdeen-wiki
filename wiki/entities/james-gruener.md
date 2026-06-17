@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1999-2000+"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # James Gruener
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Co-coordinator with Joyce Becknell — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- Co-coordinator with Joyce Becknell `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]

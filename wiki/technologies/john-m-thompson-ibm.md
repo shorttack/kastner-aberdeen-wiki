@@ -12,9 +12,9 @@ era: "1971-2002"
 lifecycle_at_study: "mature"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # John M. Thompson (IBM EVP)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kastner in one-on-one briefing with IBM SVP John M. Thompson; found needle in IBM performance data IBM itself had missed — [[study-2026-kastner-ibm-longitudinal]]
+- Kastner in one-on-one briefing with IBM SVP John M. Thompson; found needle in IBM performance data IBM itself had missed `[ps=0]` — [[study-2026-kastner-ibm-longitudinal]]

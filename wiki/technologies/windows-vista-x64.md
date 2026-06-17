@@ -12,9 +12,9 @@ era: "2007-2017"
 lifecycle_at_study: "not-yet-released"
 lifecycle_current: "end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Windows Vista x64
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Windows Vista x64 released January 2007; Windows 7 x64 (broad adoption) Oct 2009 — 40-72 months after Athlon 64 launch — [[study-dct-memoir-athlon-64-prescience-2003]]
+- Windows Vista x64 released January 2007; Windows 7 x64 (broad adoption) Oct 2009 — 40-72 months after Athlon 64 launch `[ps=5]` — [[study-dct-memoir-athlon-64-prescience-2003]]

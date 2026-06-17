@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Richard Buchanan
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DEC's financial accounting system 'is so arcane and quite specific to the history that Digital has passed through. To bring in an outsider to decipher that would be tough to do.' Also: 'is broken in many ways and needs to be fixed.' — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]
+- DEC's financial accounting system 'is so arcane and quite specific to the history that Digital has passed through. To bring in an outsider to decipher that would be tough to do.' Also: 'is broken in many ways and needs to be fixed.' `[ps=4]` — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]

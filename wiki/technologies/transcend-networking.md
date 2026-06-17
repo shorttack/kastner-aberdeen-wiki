@@ -12,9 +12,9 @@ era: "1994-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # 3Com Transcend Networking Framework
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Coherent framework for scaling performance, growth management, and network reach from core to remote; 3Com's consistent management philosophy — [[study-aberdeen-1997-3com-accelerates-remote-access-market]]
+- Coherent framework for scaling performance, growth management, and network reach from core to remote; 3Com's consistent management philosophy `[ps=2]` — [[study-aberdeen-1997-3com-accelerates-remote-access-market]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Microsoft (2003) -> Live Meeting -> Lync/Skype-for-Business -> Teams"
 years_active: "1996-2003"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.67
+prescience_obs_count: 3
 ---
 
 # PlaceWare, Inc.
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- PlaceWare acquired by Microsoft in 2003 and became Office Live Meeting — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- The week of the attack, we saw a 49 percent increase in usage over the prior week — [[study-meetings-conventions-virtual-meetings-ps-c1b097]]
-- Folsom expects to see 30 to 35 percent more business as a result of the Sept. 11 attacks — [[study-meetings-conventions-virtual-meetings-ps-c1b097]]
+- PlaceWare acquired by Microsoft in 2003 and became Office Live Meeting `[ps=5]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- The week of the attack, we saw a 49 percent increase in usage over the prior week `[ps=0]` — [[study-meetings-conventions-virtual-meetings-ps-c1b097]]
+- Folsom expects to see 30 to 35 percent more business as a result of the Sept. 11 attacks `[ps=0]` — [[study-meetings-conventions-virtual-meetings-ps-c1b097]]

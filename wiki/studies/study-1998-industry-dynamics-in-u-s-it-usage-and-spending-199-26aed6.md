@@ -3,7 +3,7 @@ title: "Industry Dynamics in U.S. IT Usage and Spending, 1998"
 slug: "study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.71
+prescience_obs_count: 21
 ---
 
 # Industry Dynamics in U.S. IT Usage and Spending, 1998
@@ -32,28 +32,28 @@ _Published 1998, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- $995
-- 106 pages
+- Moderate; Y2K remediation driving above-average 1998-1999 spending `[ps=5]`
+- Above average; professional services firms are intensive IT users `[ps=5]`
+- High relative to revenue; travel industry was early internet adopter `[ps=5]`
+- Software and services growing as share; hardware share declining `[ps=5]`
+- Internet will prove most valuable in B2B supply chain rather than consumer retail `[ps=5]`
+- High; sector is itself an IT producer driving above-average internal IT investment `[ps=4]`
+- IT spending heavily skewed toward larger enterprises in all verticals `[ps=4]`
+- Three barometers: Internet adoption; mainframe usage; outsourcing adoption — novel proprietary metrics `[ps=3]`
+- $995 `[ps=0]`
+- 106 pages `[ps=0]`
+- Combined phone, fax, and Internet survey administered autumn 1998 `[ps=0]`
+- Emerging — Aberdeen Internet Barometer introduced to track adoption `[ps=0]`
+- Growing; tracked via Aberdeen Outsourcing Barometer `[ps=0]`
+- Highest of all verticals `[ps=0]`
+- Moderate; significant growth potential identified `[ps=0]`
+- Below average relative to other verticals `[ps=0]`
+- Analyzed by internal vs. external and hardware vs. software/services `[ps=0]`
+- Analyzed by internal vs. external and hardware vs. software/services `[ps=0]`
+- Analyzed; lower than financial services but growing with e-commerce adoption `[ps=0]`
+- Internal vs. external x hardware vs. software/services 2x2 matrix applied per vertical `[ps=0]`
+- Identified verticals with highest near-term (1999-2000) IT spending growth potential `[ps=0]`
 - December 1998
-- Combined phone, fax, and Internet survey administered autumn 1998
-- Emerging — Aberdeen Internet Barometer introduced to track adoption
 - Declining but persistent; tracked via Aberdeen Mainframe Barometer
-- Growing; tracked via Aberdeen Outsourcing Barometer
-- Highest of all verticals
-- Moderate; significant growth potential identified
-- Below average relative to other verticals
-- Analyzed by internal vs. external and hardware vs. software/services
-- Analyzed by internal vs. external and hardware vs. software/services
-- High; sector is itself an IT producer driving above-average internal IT investment
-- Moderate; Y2K remediation driving above-average 1998-1999 spending
-- Above average; professional services firms are intensive IT users
-- Analyzed; lower than financial services but growing with e-commerce adoption
-- High relative to revenue; travel industry was early internet adopter
-- Software and services growing as share; hardware share declining
-- Internet will prove most valuable in B2B supply chain rather than consumer retail
 - Universal commercial Internet adoption achieved by 2005; B2B e-commerce exceeded $1T by 2002
 - IT outsourcing will continue to grow across all verticals
-- Global IT outsourcing market exceeded $300B annually by 2019; grew in every major vertical
-- Internal vs. external x hardware vs. software/services 2x2 matrix applied per vertical
-- IT spending heavily skewed toward larger enterprises in all verticals
-- Three barometers: Internet adoption; mainframe usage; outsourcing adoption — novel proprietary metrics

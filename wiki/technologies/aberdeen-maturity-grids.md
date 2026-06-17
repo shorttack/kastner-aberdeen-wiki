@@ -12,9 +12,9 @@ era: "2003-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Maturity Grid Framework
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Funded development of 50 maturity grids and training/process for doing same — received applause — [[study-06-aberdeen-after-action-showandtell-95c6d9]]
+- Funded development of 50 maturity grids and training/process for doing same — received applause `[ps=0]` — [[study-06-aberdeen-after-action-showandtell-95c6d9]]
 - 18 maturity grids required for tool; developed by David Hill Beth Conant and contractor; due December 31 2003 — [[study-07-pools-of-storage-functional-spec-597fa5]]

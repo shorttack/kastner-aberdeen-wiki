@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Computervision spinoff (1988-1992); Computervision acquired by Parametric Technology Corp 1998; Prime brand discontinued"
 years_active: "[DEFERRED]"
 occurrence_count: 13
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.52
+prescience_obs_count: 64
 ---
 
 # Prime Computer, Inc.
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Founded 1972 by group from MIT; specialized in 32-bit minicomputers for scientific users — [[study-charles-t-casale-influence-cdfb3f]]
-- April 1980: Prime unveiled new line with integrated word processing, data processing, and electronic mail targeting managers and professionals — [[study-charles-t-casale-influence-cdfb3f]]
-- Launched May 1984; designed for office environments without climate control; competitive price-performance ratio — [[study-charles-t-casale-influence-cdfb3f]]
-- First quarterly income slump in ten years occurred spring 1983; prompted concerns over long-term viability; led to resignation of several key executives — [[study-charles-t-casale-influence-cdfb3f]]
-- AI report implies restructuring after 1983 slump; Casale's leadership described as providing 'strong leadership and strategic foresight' during this period — [[study-charles-t-casale-influence-cdfb3f]]
-- Prime acquired Computervision 1989; bankruptcy 1992 — [[study-charles-t-casale-influence-cdfb3f]]
-- Rung 4: Marketing & product strategy — [[study-kastner-technology-breadth-memoir-2026]]
-- 'The set of product requirements common to all markets is where most of Prime's product development attention and investment should be placed.' — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
-- 117.7 — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
-- 217.0 — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
-- 1193.1 — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
-- 81% of $1,458M corporate goal (forecast) — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
-- (1) Programmable parallel-channel interface (HPC-4 / MPC-4 Special); (2) Floating-point precision and consistency; (3) COBOL at full ANSI intermediate level; (4) FORTRAN 77 compile/runtime performance; (5) Hyperchannel interface — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
-- $1.5M lost YTD 1981 due to floating-point precision deficiencies — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
-- $5M loss potential in Government if Prime COBOL does not pass FIPS standards — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
-- At Prime Computer, technical mastery translated into Market Planning and strategic 'Go/No-Go' Logic; shift from fixing one engine to planning entire factory — [[study-translating-early-skills-and-experiences-15bb2d]]
-- Intuition of Moore's Law enabled move toward distributed departmental minicomputers like Prime 750 just as mainframe's price/performance monopoly was collapsing — [[study-translating-early-skills-and-experiences-15bb2d]]
-- Joined Prime Computer in 1979 during its years as the NYSE's top-performing stock — [[study-volume-1-about-the-author]]
-- Prime Computer was the NYSE's top-performing stock in 1979 — [[study-volume-1-about-the-author]]
-- Joined Prime Computer, Natick MA, as Market Planning executive, 1979-1981. — [[study-volume-1-appendix-career-timeline]]
+- In 1980, Prime was the number-one moving stock on the New York Stock Exchange, up approximately 272 percent for the year. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Pick OS developed in the 1960s for inventory and distribution systems; used multi-value fields in dynamic arrays vs. relational column-row structure. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Tightly integrated hw/OS/application delivering faster results than IBM-compatible systems: true and compelling in 1980, wrong in the long run as x86/Unix economics took over. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Minicomputer era ended not because hardware got worse, but because economics of standardized x86 and open OSes overwhelmed performance/integration advantages of proprietary platforms. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Prime in 1980 could not imagine the world where an Intel-based server running Unix would render their minicomputer architecture economically irrelevant. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Two years at Prime completed education ADL began: technology industry is ecosystem of economics, vertical markets, positioning, sales culture, and narrative. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Prime in 1980 could not imagine an Intel-based server running Unix making their minicomputer architecture economically irrelevant; Kastner saw it coming. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- You didn’t sell a 750 or a 50-series; you sold 'an on-line banking platform' or 'an interactive engineering environment.' `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Economics of standardized x86 architecture plus open operating systems would overwhelm the performance and integration advantages of all proprietary minicomputer platforms. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Prime was turning from scrappy minicomputer vendor into a fully-fledged Wall Street rocket ship by the time Kastner arrived Thanksgiving 1979. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Kastner was at Prime Computer at the peak of minicomputer market and observed 4GL emergence, 1979-1981. `[ps=4]` — [[study-volume-1-appendix-career-timeline]]
+- Sold as 'online banking platform' or 'interactive engineering environment'; customer discovered later they bought a Prime 750 running PRIMOS and INFORMATION. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Every application built on Pick/INFORMATION was captive to Prime hardware; as open systems and relational DBs grew, lock-in became liability not feature. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Faster application development, tighter integration, no army of COBOL programmers required. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- VARs, OEMs, and ISVs building vertical packages on INFORMATION served as force multipliers; 'PR1ME shops' were an exclusive club with own language and lore. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- High confidence, high energy, absolute certainty good times would keep rolling; machine printing money, stock up 272%; no appetite for downside scenarios. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- In France, government was roughly half the entire economy; every regional Prime opportunity traced back to Paris. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Enormous initiative, occasionally creative interpretations of process, and just enough adult supervision to keep everyone out of jail. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Prime INFORMATION was genuinely ahead of conventional COBOL-based systems for commercial applications in 1980, yet ultimately lost due to proprietary architecture. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Every INFORMATION application created customer lock-in; asset in good times, strategic prison when relational databases gathered force in mid-1980s. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]

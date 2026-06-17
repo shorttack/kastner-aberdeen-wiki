@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 53
 ---
 
 # Enterprise Integration Technology: Aberdeen Group's Market Trends & Research for 2006
@@ -32,28 +32,28 @@ _Published 2006, author **Peter S. Kastner**, type **webinar-presentation**._
 
 ## Top observations
 
-- 92%
-- >50%
-- 32%
-- 45%
-- 14%
-- 5%
-- 2%
-- 1%
-- 19%
-- 38%
-- 29%
-- 8%
-- 12%
-- 29%
-- 19%
-- 50%
-- 44%
-- 43%
-- 37%
-- 27%
-- 24%
-- 29.6%
-- 18.5%
-- 12.4%
-- 27.3%
+- 92% `[ps=0]`
+- >50% `[ps=0]`
+- 32% `[ps=0]`
+- 45% `[ps=0]`
+- 14% `[ps=0]`
+- 5% `[ps=0]`
+- 2% `[ps=0]`
+- 1% `[ps=0]`
+- 19% `[ps=0]`
+- 38% `[ps=0]`
+- 29% `[ps=0]`
+- 8% `[ps=0]`
+- 12% `[ps=0]`
+- 29% `[ps=0]`
+- 19% `[ps=0]`
+- 50% `[ps=0]`
+- 44% `[ps=0]`
+- 43% `[ps=0]`
+- 37% `[ps=0]`
+- 27% `[ps=0]`
+- 24% `[ps=0]`
+- 29.6% `[ps=0]`
+- 18.5% `[ps=0]`
+- 12.4% `[ps=0]`
+- 27.3% `[ps=0]`

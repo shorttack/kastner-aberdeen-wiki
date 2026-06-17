@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1961-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Frost & Sullivan
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $1 billion by 2002 (1996 Frost & Sullivan report) — [[study-omnibox97-53bcfe]]
+- $1 billion by 2002 (1996 Frost & Sullivan report) `[ps=0]` — [[study-omnibox97-53bcfe]]

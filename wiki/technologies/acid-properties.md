@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "current-1992"
 lifecycle_current: "ubiquitous"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # ACID Properties (Atomicity, Consistency, Isolation, Durability)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Atomicity / Consistency / Isolation / Durability — [[study-aberdeen-open-oltp-enterprise-managers-k-3fc536]]
+- Atomicity / Consistency / Isolation / Durability `[ps=5]` — [[study-aberdeen-open-oltp-enterprise-managers-k-3fc536]]

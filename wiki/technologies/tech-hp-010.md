@@ -12,9 +12,9 @@ era: "late 1990s"
 lifecycle_at_study: "not-yet-released"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Windows Management Instrumentation (WMI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft shipped Windows Management Instrumentation (WMI) with Windows 2000; became the dominant desktop management API; effectively superseding DMI in enterprise environments — [[study-1997-desktop-and-systems-management-the--169a9b]]
+- Microsoft shipped Windows Management Instrumentation (WMI) with Windows 2000; became the dominant desktop management API; effectively superseding DMI in enterprise environments `[ps=5]` — [[study-1997-desktop-and-systems-management-the--169a9b]]

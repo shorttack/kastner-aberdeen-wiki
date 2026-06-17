@@ -12,9 +12,9 @@ era: "1900s-1970s"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Adding Machine / Mechanical Calculator
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Automated a Statistics 101 lab exercise that had previously required hand-cranked mechanical calculators; handed in a one-sheet printout. `[ps=4]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Adding machines, pencils, and lined accounting workbooks — no path to making the job faster or smarter. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Automated a Statistics 101 lab exercise that had previously required hand-cranked mechanical calculators; handed in a one-sheet printout. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

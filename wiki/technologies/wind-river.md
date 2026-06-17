@@ -12,9 +12,9 @@ era: "2009-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active (spun out from Intel 2018)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Wind River (VxWorks RTOS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Intel acquired Wind River Systems 2009 — [[study-otellini-intel-techpinions-2013-917213]]
+- Intel acquired Wind River Systems 2009 `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]

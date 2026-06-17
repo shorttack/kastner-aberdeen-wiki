@@ -12,9 +12,9 @@ era: "2001-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'AMD True Performance Initiative (TPI) was a circa 2001-2002 AMD program to address perceived benchmarking bias in SYSmark 2001. It was a short-lived marketing/technical initiative tied to the Athlon XP era. AMD abandoned TPI when moving to Athlon 64 and model number ratings system.', 'source': 'https://www.realworldtech.com/sysmark-2001/'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # AMD True Performance Initiative (TPI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Announced October 2001 as strategic alternative to GHz-E — [[study-amd-profile01-64e43b]]
+- Announced October 2001 as strategic alternative to GHz-E `[ps=0]` — [[study-amd-profile01-64e43b]]

@@ -12,9 +12,9 @@ era: "1989-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "niche"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Novell GroupWise
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Novell GroupWise vs IBM Notes vs HP OpenMail vs Microsoft Exchange vs Netscape CollabraShare `[ps=0]` — [[study-aberdeen-1995-novell-predicament]]
 - GroupWise lost groupware war to Exchange/Notes; retained only legacy Novell-loyal customers — [[study-aberdeen-1995-novell-predicament]]
-- Novell GroupWise vs IBM Notes vs HP OpenMail vs Microsoft Exchange vs Netscape CollabraShare — [[study-aberdeen-1995-novell-predicament]]

@@ -12,9 +12,9 @@ era: "2001-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Interactive Gaming Consoles
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Companies like Microsoft and Sony are rolling out interactive gaming technologies that will not require a TV set — [[study-ect-news-whatever-happened-interactive-t-7446fd]]
+- Companies like Microsoft and Sony are rolling out interactive gaming technologies that will not require a TV set `[ps=4]` — [[study-ect-news-whatever-happened-interactive-t-7446fd]]

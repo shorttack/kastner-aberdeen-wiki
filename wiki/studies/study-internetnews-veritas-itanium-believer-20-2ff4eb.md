@@ -3,7 +3,7 @@ title: "VERITAS a Believer in Itanium"
 slug: "study-internetnews-veritas-itanium-believer-20-2ff4eb"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "internetnews-veritas-itanium-believer-20-2ff4eb"
 author: "Clint Boulton"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 6
 ---
 
 # VERITAS a Believer in Itanium
@@ -32,10 +32,10 @@ _Published 2004, author **Clint Boulton**, type **news-article**._
 
 ## Top observations
 
-- Some 400 applications have been certified on the architecture
-- VERITAS extended support for Intel Itanium 2 platform on Red Hat Linux 3.0
-- Itanium-based servers shipped with Linux forecasted to grow to $2 billion by 2008
-- Running Linux on Intel Itanium platform will become wildly successful
+- HP has been an eternal supporter of Itanium `[ps=4]`
+- Intel trying to get more support for Itanium to compete with AMD's Opteron architecture `[ps=2]`
+- Itanium-based servers shipped with Linux forecasted to grow to $2 billion by 2008 `[ps=1]`
+- Running Linux on Intel Itanium platform will become wildly successful `[ps=1]`
+- Some 400 applications have been certified on the architecture `[ps=0]`
+- VERITAS extended support for Intel Itanium 2 platform on Red Hat Linux 3.0 `[ps=0]`
 - Dell announced PowerEdge 7250 high-end 4-way Itanium server
-- Intel trying to get more support for Itanium to compete with AMD's Opteron architecture
-- HP has been an eternal supporter of Itanium

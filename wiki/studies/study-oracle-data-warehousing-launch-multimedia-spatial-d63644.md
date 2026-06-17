@@ -16,7 +16,7 @@ source_file: "transcript oracle data warehousing launch.md"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
+study_prescience_enum: "medium"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

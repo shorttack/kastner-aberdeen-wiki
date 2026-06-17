@@ -12,9 +12,9 @@ era: "1983-present"
 lifecycle_at_study: "Active"
 lifecycle_current: "Active (Oracle Tuxedo)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # BEA Tuxedo 6.1 CFS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Tuxedo 6.1 CFS validated as performance enhancer for large SMP benchmark — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
+- Tuxedo 6.1 CFS validated as performance enhancer for large SMP benchmark `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]

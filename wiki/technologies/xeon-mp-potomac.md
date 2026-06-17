@@ -12,9 +12,9 @@ era: "2004"
 lifecycle_at_study: "pre-market"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Intel Xeon MP Potomac was a circa-2004/2005 MP server processor. Long discontinued; succeeded by many subsequent Xeon MP/E7 generations.', 'source': 'General Intel processor history'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel Xeon MP Potomac
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- end of 2004 — [[study-intel-ia2004-pk4-kc-edits-de9c37]]
+- end of 2004 `[ps=0]` — [[study-intel-ia2004-pk4-kc-edits-de9c37]]

@@ -12,9 +12,9 @@ era: "2003-2015"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # 3G Cellular Networks
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- True 3G networks are still 3+ years from becoming a reality — [[study-dct-webinar-nov-2002]]
+- True 3G networks are still 3+ years from becoming a reality `[ps=1]` — [[study-dct-webinar-nov-2002]]

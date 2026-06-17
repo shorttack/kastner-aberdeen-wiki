@@ -3,7 +3,7 @@ title: "IBM Network Computing: Enterprise Communications Family"
 slug: "study-1997-ibm-s-enterprise-communications-fam-14559a"
 page_type: "study"
 tags: ["type/study", "collection/profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-ibm-s-enterprise-communications-fam-14559a"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.06
+prescience_obs_count: 16
 ---
 
 # IBM Network Computing: Enterprise Communications Family
@@ -32,21 +32,21 @@ _Published 1997, author **Aberdeen Group**, type **profile**._
 
 ## Top observations
 
-- Positive: smaller software footprint, better performance than encapsulation
-- Positive: automatic rerouting without network downtime; congestion control
-- Low-risk: top-layer replacement preserves existing SNA infrastructure
-- Positive outlook: expected to grow for high-bandwidth applications
-- Supported via AnyNet: SNA over TCP/IP and TCP/IP over SNA gateways
-- Aberdeen recommends placing ECF high on lists to buy
-- Predicted to remain strategically important for enterprise networking
-- ATM predicted to expand as standards evolve
-- Predicted to remain important via multiprotocol bridging strategies
+- ATM failed to gain broad enterprise LAN/WAN adoption; displaced by Gigabit Ethernet and MPLS `[ps=5]`
+- Positive: native sockets implementation improves TCP/IP performance on mainframe `[ps=4]`
+- Positive: smaller software footprint, better performance than encapsulation `[ps=3]`
+- Positive: automatic rerouting without network downtime; congestion control `[ps=3]`
+- Low-risk: top-layer replacement preserves existing SNA infrastructure `[ps=3]`
+- IBM deprecated SNA in IBM i 7.4 (2024); SNA largely replaced by TCP/IP `[ps=3]`
+- Positive: CS/AIX hot standby allows failover if server hardware fails `[ps=3]`
+- IBM's one-stop-shop service and support described as unmatched advantage `[ps=3]`
+- Aberdeen recommends placing ECF high on lists to buy `[ps=2]`
+- Predicted to remain strategically important for enterprise networking `[ps=2]`
+- ATM predicted to expand as standards evolve `[ps=2]`
+- Positive outlook: expected to grow for high-bandwidth applications `[ps=0]`
+- Supported via AnyNet: SNA over TCP/IP and TCP/IP over SNA gateways `[ps=0]`
+- Predicted to remain important via multiprotocol bridging strategies `[ps=0]`
+- Server-side (CS/2, CS/NT, CS/AIX, OS/400, NetWare, CS/MVS) + client-side (Personal Communications) `[ps=0]`
+- Performance/scalability; open flexibility; robustness; ease of migration `[ps=0]`
 - Distributed CS end-of-support announced April 2024; z/OS version continued
 - Obsolete by mid-2000s; TCP/IP won outright without bridging layer
-- ATM failed to gain broad enterprise LAN/WAN adoption; displaced by Gigabit Ethernet and MPLS
-- IBM deprecated SNA in IBM i 7.4 (2024); SNA largely replaced by TCP/IP
-- Server-side (CS/2, CS/NT, CS/AIX, OS/400, NetWare, CS/MVS) + client-side (Personal Communications)
-- Performance/scalability; open flexibility; robustness; ease of migration
-- Positive: native sockets implementation improves TCP/IP performance on mainframe
-- Positive: CS/AIX hot standby allows failover if server hardware fails
-- IBM's one-stop-shop service and support described as unmatched advantage

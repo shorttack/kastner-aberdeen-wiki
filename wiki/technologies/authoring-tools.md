@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # e-Learning Authoring Tools
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dominant e-learning authoring tool vendor (Authorware; Flash; Director) — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]
+- Dominant e-learning authoring tool vendor (Authorware; Flash; Director) `[ps=2]` — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]

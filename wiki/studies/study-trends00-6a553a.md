@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.56
+prescience_obs_count: 9
 ---
 
 # Assessing the Damage: Will Fourth Quarter Technology Spending Fall? (Post-9/11 IT Recession Letter)
@@ -32,15 +32,15 @@ _Published 2001, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 
 ## Top observations
 
-- Likely decrease by double digits
+- Level 1: speaker phone; Level 2: audio conference; Level 3: WebEx + teleconference; Level 4: Polycom videoconference; Level 5: one-to-many webcast `[ps=3]`
+- Long waits in building-lobby security checks; half hour to attend meeting across street; air travel uncertainty `[ps=3]`
+- Companies who think out of the box and quickly adapt will emerge from 2001-2002 IT recession with market-share gains `[ps=3]`
+- Too many IT companies continuing business-as-usual; could create self-fulfilling revenue shortfall `[ps=3]`
+- Aberdeen expanding use of e-learning for own use and client go-to-market sales-training projects; days of big-tent sales meeting are numbered `[ps=2]`
+- Likely decrease by double digits `[ps=0]`
+- unknown `[ps=0]`
+- unknown `[ps=0]`
+- Written to fellow IT supplier executives; sharing research/analysis and experience adapting to changed sales/marketing environment `[ps=0]`
 - Markedly lower growth compared with historic norms
-- unknown
-- Level 1: speaker phone; Level 2: audio conference; Level 3: WebEx + teleconference; Level 4: Polycom videoconference; Level 5: one-to-many webcast
 - Extensively using WebEx + teleconference for client meetings; replacing face-to-face national sales meeting with videoconference
-- Aberdeen expanding use of e-learning for own use and client go-to-market sales-training projects; days of big-tent sales meeting are numbered
-- Long waits in building-lobby security checks; half hour to attend meeting across street; air travel uncertainty
-- Companies who think out of the box and quickly adapt will emerge from 2001-2002 IT recession with market-share gains
-- unknown
 - Consulting services to assist IT suppliers in selling and marketing their products; analysts with decades of IT experience
-- Too many IT companies continuing business-as-usual; could create self-fulfilling revenue shortfall
-- Written to fellow IT supplier executives; sharing research/analysis and experience adapting to changed sales/marketing environment

@@ -3,7 +3,7 @@ title: "ERP Professional Services: 1998 Practice Summary"
 slug: "study-erppsp-1-31f088"
 page_type: "study"
 tags: ["type/study", "collection/other-research"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "erppsp~1-31f088"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.39
+prescience_obs_count: 23
 ---
 
 # ERP Professional Services: 1998 Practice Summary
@@ -32,28 +32,28 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 
 ## Top observations
 
-- >35% of total ERP market
-- $6.6 billion
-- ~$43 billion
-- >$78 billion
-- $24 billion
-- $7.5 billion
+- Y2K accelerating client/server ERP migration `[ps=5]`
+- Middle market now adopting ERP `[ps=4]`
+- Phenomenal growth to slow as Fortune 1000 saturated `[ps=4]`
+- EDS not focused on ERP; GM revenue dependency forcing diversification `[ps=4]`
+- Active M&A in ERP professional services `[ps=3]`
+- Compaq will use Digital expertise for ERP deployment not strategic planning `[ps=3]`
+- Partnering with HP for middle market ERP; needs stronger Oracle/PeopleSoft/Baan practices `[ps=3]`
+- Buyer's market with numerous providers `[ps=2]`
+- Middle market squeeze from ex-CTP employee spinoffs `[ps=2]`
+- Fastest-growing ERP vendor; Coda Group acquisition to strengthen financials `[ps=2]`
+- >35% of total ERP market `[ps=0]`
+- $6.6 billion `[ps=0]`
+- ~$43 billion `[ps=0]`
+- >$78 billion `[ps=0]`
+- $24 billion `[ps=0]`
+- $7.5 billion `[ps=0]`
+- 7% `[ps=0]`
+- $120 million `[ps=0]`
+- Coming down due to new methodologies and tools `[ps=0]`
+- Will create largest/premier IPSP globally `[ps=0]`
+- More than double over next 2-5 years `[ps=0]`
+- Surpassed industry expectations in manufacturing; acquired Red Pepper `[ps=0]`
+- Leading OEM for ERP deployment despite understating involvement `[ps=0]`
 - >$3.5 billion
-- 7%
 - ~$370 million
-- $120 million
-- 2
-- Y2K accelerating client/server ERP migration
-- Middle market now adopting ERP
-- Buyer's market with numerous providers
-- Coming down due to new methodologies and tools
-- Active M&A in ERP professional services
-- Will create largest/premier IPSP globally
-- More than double over next 2-5 years
-- Phenomenal growth to slow as Fortune 1000 saturated
-- Compaq will use Digital expertise for ERP deployment not strategic planning
-- Business growth will remain strong despite Arthur Andersen separation
-- EDS not focused on ERP; GM revenue dependency forcing diversification
-- Middle market squeeze from ex-CTP employee spinoffs
-- Partnering with HP for middle market ERP; needs stronger Oracle/PeopleSoft/Baan practices
-- Must grow US service professionals to become major SAP implementor in US

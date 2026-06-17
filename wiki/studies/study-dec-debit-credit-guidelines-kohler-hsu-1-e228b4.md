@@ -3,7 +3,7 @@ title: "DEC Proposed Debit-Credit Benchmark Guidelines (Kohler/Hsu, Dec 1987)"
 slug: "study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4"
 page_type: "study"
 tags: ["type/study", "collection/internal-engineering-memo"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "dec-debit-credit-guidelines-kohler-hsu-1-e228b4"
 author: "Walt Kohler & Yun-Ping Hsu, DEC HPS/OLTP Systems Performance Analysis Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.89
+prescience_obs_count: 9
 ---
 
 # DEC Proposed Debit-Credit Benchmark Guidelines (Kohler/Hsu, Dec 1987)
@@ -32,14 +32,14 @@ _Published 1987, author **Walt Kohler & Yun-Ping Hsu, DEC HPS/OLTP Systems Perfo
 
 ## Top observations
 
-- 11
-- 95th-percentile-1-second
+- 95th-percentile-1-second `[ps=4]`
+- distributed-lock-manager-cross-branch-traffic `[ps=4]`
+- 11 `[ps=0]`
+- COMPANY CONFIDENTIAL `[ps=0]`
+- co-author `[ps=0]`
+- co-author `[ps=0]`
+- 8 `[ps=0]`
+- branch-office-FEP `[ps=0]`
+- formal-database-debit-credit `[ps=0]`
 - HPS::KASTNER
-- COMPANY CONFIDENTIAL
-- co-author
-- co-author
 - DATAMATION-April-1985-Anon-et-al
-- 8
-- branch-office-FEP
-- distributed-lock-manager-cross-branch-traffic
-- formal-database-debit-credit

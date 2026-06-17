@@ -12,9 +12,9 @@ status: "Acquired by SAP"
 successor: "SAP (acquired 2010)"
 years_active: "1984-2010"
 occurrence_count: 6
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Sybase, Inc.
@@ -29,6 +29,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Partially right — Sybase grew into niche-enterprise-and-mobile segments through 2000s but lost RDBMS leadership; acquired by SAP 2010 for $5.8B. Solid but not 'robust double-digit rates' sustained. `[ps=5]` — [[study-upgrades-boost-database-market-iweek-fol-f19804]]
+- Sybase issued Q1 1996 revenue warning, triggering share-price decline `[ps=0]` — [[study-upgrades-boost-database-market-iweek-fol-f19804]]
 - Sybase SQL Server supported as DataJoiner target; PowerBuilder can invoke DataJoiner — [[study-1997-ibm-information-integration-family--29351c]]
 - Suffering from marketplace dynamics despite good product; mobile and tools products driving fortunes — [[study-dbmspr~1-7c854e]]
 - Sybase 10% — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
@@ -36,5 +38,3 @@ prescience_obs_count: 0
 - Sybase = race car (fast, but not yet a daily driver) — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
 - Sybase acquired MDI (Micro Decisionware) for mainframe gateway — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
 - Kastner: Sybase needs 'different databases, different capabilities, because people have different kinds of applications. Online transaction processing, data warehousing, disconnected users, and the mass distributed replicated systems that Aberdeen talks about.' — [[study-sybase-xi-launch-boats-analogy-multiple-databases-79c9ee]]
-- Sybase issued Q1 1996 revenue warning, triggering share-price decline — [[study-upgrades-boost-database-market-iweek-fol-f19804]]
-- Partially right — Sybase grew into niche-enterprise-and-mobile segments through 2000s but lost RDBMS leadership; acquired by SAP 2010 for $5.8B. Solid but not 'robust double-digit rates' sustained. — [[study-upgrades-boost-database-market-iweek-fol-f19804]]

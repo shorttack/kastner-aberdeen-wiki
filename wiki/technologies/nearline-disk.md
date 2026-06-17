@@ -12,9 +12,9 @@ era: "2002-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Nearline Disk Storage
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Nearline disk modeled alongside nearline tape as a distinct tier — [[study-18-maxtor-strategy-event-template-faeb40]]
+- Nearline disk modeled alongside nearline tape as a distinct tier `[ps=4]` — [[study-18-maxtor-strategy-event-template-faeb40]]

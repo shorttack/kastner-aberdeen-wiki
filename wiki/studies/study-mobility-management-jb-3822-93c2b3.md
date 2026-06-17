@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Mobility Management Jb 3822 (Aberdeen, 2007)"
 slug: "study-mobility-management-jb-3822-93c2b3"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.0
-prescience_obs_count: 57
+prescience_mean: 1.43
+prescience_obs_count: 47
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Mobility Management Jb 3822 (Aberdeen, 2007)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study mobility-management-jb-3822-93c2b3. Source: mobility_management_jb_3822.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: wireless. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **topic-analysis**._

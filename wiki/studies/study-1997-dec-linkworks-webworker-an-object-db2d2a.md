@@ -3,7 +3,7 @@ title: "DEC LinkWorks WebWorker — An Object Framework that Tames the Web"
 slug: "study-1997-dec-linkworks-webworker-an-object-db2d2a"
 page_type: "study"
 tags: ["type/study", "collection/Vendor Profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-dec-linkworks-webworker---an-object-db2d2a"
 author: "AberdeenGroup"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.33
+prescience_obs_count: 21
 ---
 
 # DEC LinkWorks WebWorker — An Object Framework that Tames the Web
@@ -32,28 +32,28 @@ _Published 1997, author **AberdeenGroup**, type **Vendor Profile**._
 
 ## Top observations
 
-- 3
-- Fortune_1000_widespread
-- any_web_browser
-- less_than_50pct_browsers_support_java
-- digital_unix_hp_ux_openvms_aix_nt
+- compaq_acquired_dec_june_1998 `[ps=5]`
+- enterprise_deployment_experience_barrier `[ps=4]`
+- extroverted_apps_higher_roi_than_internal `[ps=4]`
+- legacy_programmers_can_transition_to_oo `[ps=4]`
+- rapid_application_development_lower_tco `[ps=3]`
+- discontinued_2008_firefox_is_successor `[ps=2]`
+- once_integrated_linkworks_apps_leverageable `[ps=2]`
+- Fortune_1000_widespread `[ps=1]`
+- 3yr_head_start_over_sun_netscape_ibm_microsoft `[ps=1]`
+- will_dominate_internet_enterprise_integration `[ps=1]`
+- linkworks_will_leverage_dcom_as_microsoft_delivers `[ps=1]`
+- 3 `[ps=0]`
+- any_web_browser `[ps=0]`
+- less_than_50pct_browsers_support_java `[ps=0]`
+- digital_unix_hp_ux_openvms_aix_nt `[ps=0]`
+- in_progress `[ps=0]`
+- sun_netscape_ibm_microsoft_all_committed `[ps=0]`
+- 6_to_12_months `[ps=0]`
+- linkworks_can_choose_several_implementations `[ps=0]`
+- evolved_to_dotnet_then_deprecated `[ps=0]`
+- aberdeen_urges_companies_to_evaluate `[ps=0]`
 - win95_nt_motif_mac_webworker
 - oracle_mssql_ingres_informix
-- 3yr_head_start_over_sun_netscape_ibm_microsoft
 - ole_automation_integrated
-- enterprise_deployment_experience_barrier
-- in_progress
-- extroverted_apps_higher_roi_than_internal
-- sun_netscape_ibm_microsoft_all_committed
-- 6_to_12_months
-- linkworks_can_choose_several_implementations
-- will_dominate_internet_enterprise_integration
 - ibm_will_support_javabeans_and_corba
-- linkworks_will_leverage_dcom_as_microsoft_delivers
-- compaq_acquired_dec_june_1998
-- web_services_soap_rest_replaced_corba
-- evolved_to_dotnet_then_deprecated
-- java_dominant_enterprise_language
-- discontinued_2008_firefox_is_successor
-- renamed_tru64_final_support_ended_2012
-- rapid_application_development_lower_tco

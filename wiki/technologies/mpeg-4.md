@@ -12,9 +12,9 @@ era: "2001-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # MPEG-4
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DSL 4000 enables short-haul DSL MPEG-1+2 video; IP500 enables MPEG-4 over longer DSL estimated to cover 70% of rural areas — [[study-dct-dceit-practice-v6-2002]]
+- DSL 4000 enables short-haul DSL MPEG-1+2 video; IP500 enables MPEG-4 over longer DSL estimated to cover 70% of rural areas `[ps=2]` — [[study-dct-dceit-practice-v6-2002]]

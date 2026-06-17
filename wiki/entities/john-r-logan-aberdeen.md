@@ -12,9 +12,9 @@ status: "unknown"
 successor: "Automated Compliance Solutions LLC (later venture)"
 years_active: "1980s-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # John R. Logan (JRL)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Minicomputers. `[ps=0]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
 - Aberdeen Executive Vice President; personal beat = midrange/IBM, DEC, H-P, etc., software companies, distributed architectures — [[study-aberdeen-press-advisory-kastner-appointm-efd58c]]
 - Harvard MBA; previously published Kastner’s Yankee Group study on transaction processing; covered financial side of Aberdeen. — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
-- Minicomputers. — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]

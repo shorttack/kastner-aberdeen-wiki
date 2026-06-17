@@ -12,9 +12,9 @@ era: "1990-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "superseded-by-XA-and-WS-AT"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # X/Open Distributed Transaction Processing (DTP)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DECdta architecture supports X/Open TP Working Group standard APIs and IEEE POSIX; OSI-TP wire protocols for multi-vendor interoperability — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
+- DECdta architecture supports X/Open TP Working Group standard APIs and IEEE POSIX; OSI-TP wire protocols for multi-vendor interoperability `[ps=3]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]

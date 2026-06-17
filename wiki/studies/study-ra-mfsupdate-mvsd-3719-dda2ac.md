@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ra Mfsupdate Mvsd 3719 (Aberdeen, 2006)"
 slug: "study-ra-mfsupdate-mvsd-3719-dda2ac"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.93
-prescience_obs_count: 57
+prescience_mean: 1.39
+prescience_obs_count: 46
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ra Mfsupdate Mvsd 3719 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-mfsupdate-mvsd-3719-dda2ac. Source: ra_mfsupdate_mvsd_3719.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **topic-analysis**._

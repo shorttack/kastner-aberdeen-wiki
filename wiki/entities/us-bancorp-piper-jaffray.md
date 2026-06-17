@@ -12,9 +12,9 @@ status: "merged"
 successor: "2003 rebranded Piper Jaffray; later Piper Sandler"
 years_active: "1895-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # US Bancorp Piper Jaffray
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Our [telecom] world has been so depressed and beat up that the impact from these [terrorism] events is going to be negligible — [[study-telephony-post911-conferencing-psk-2001--0bf283]]
+- Our [telecom] world has been so depressed and beat up that the impact from these [terrorism] events is going to be negligible `[ps=3]` — [[study-telephony-post911-conferencing-psk-2001--0bf283]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Qualcomm Atheros (Qualcomm)"
 years_active: "1998-2011"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # Atheros Communications
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Market leader / vendor to beat — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]
-- Front-runner; implied survivor of shakeout — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]
-- Acquired by Qualcomm for $3.1B — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]
+- Acquired by Qualcomm for $3.1B `[ps=5]` — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]
+- Front-runner; implied survivor of shakeout `[ps=4]` — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]
+- Market leader / vendor to beat `[ps=0]` — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1979-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Cerner Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Proven leader in HIS; $245M revenue; strong growing services organization; identified integration as significant revenue opportunity — [[study-health~1-056358]]
+- Proven leader in HIS; $245M revenue; strong growing services organization; identified integration as significant revenue opportunity `[ps=4]` — [[study-health~1-056358]]

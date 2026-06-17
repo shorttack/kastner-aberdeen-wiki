@@ -3,7 +3,7 @@ title: "e-Learning in the Enterprise"
 slug: "study-1999-e-learning-in-the-enterprise-psk-d0fc8a"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1999-e-learning-in-the-enterprise-psk-d0fc8a"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.69
+prescience_obs_count: 26
 ---
 
 # e-Learning in the Enterprise
@@ -32,28 +32,28 @@ _Published 1999, author **Peter S. Kastner**, type **market-study**._
 
 ## Top observations
 
-- Near zero in revenues
-- Well over $10 billion worldwide (software + services + content)
-- ~90% of enterprise training opportunities used classroom method
-- ~70% classroom; ~25% TBT
-- Classroom training and TBT will reach approximately equal share of training opportunities by 2002
-- e-Learning will have approximately one-third of total training market by 2002
-- More than 70% of corporations offer employees computer- or web-based training options
-- 60% of higher education institutions offer online learning courses
-- Online learning penetration in corporate/government/higher education will reach ~90% within a few years
-- Travel costs consume up to 40% of average corporate training budget
-- Virtual learning delivery eliminates travel expenses and leaves students in place
-- e-Learning enables personalized curricula vs generalized classroom training
-- e-Learning enables rapid deployment and continuous course updates vs slow classroom refresh
-- Modular e-learning provides only necessary information in smaller blocks vs just-in-case classroom
-- Emerging; enabling technology for self-paced enterprise learning; clear advantages over classroom
-- Emerging; instructor-led collaborative virtual classroom; addresses interaction gap
-- Emerging infrastructure layer for enterprise e-learning administration and tracking
-- Mature but declining; being superseded by web-based delivery
-- Leading e-learning content and courseware provider with library-based subscription model
-- Dominant LMS and authoring platform provider (formerly Asymetrix)
-- IBM Lotus providing enterprise LMS integrated with Lotus Notes groupware platform
-- Dominant e-learning authoring tool vendor (Authorware; Flash; Director)
-- Major professional services firm deploying internal e-learning at enterprise scale
-- SmartForce merged with SkillSoft in September 2002; combined company became leading enterprise e-learning platform
-- click2learn merged with Docent to form SumTotal Systems in March 2004
+- e-Learning enables personalized curricula vs generalized classroom training `[ps=5]`
+- e-Learning enables rapid deployment and continuous course updates vs slow classroom refresh `[ps=5]`
+- Emerging; instructor-led collaborative virtual classroom; addresses interaction gap `[ps=5]`
+- Emerging infrastructure layer for enterprise e-learning administration and tracking `[ps=5]`
+- click2learn merged with Docent to form SumTotal Systems in March 2004 `[ps=5]`
+- Arthur Andersen collapsed in 2002 following Enron scandal; firm dissolved August 2002 `[ps=5]`
+- Well over $10 billion worldwide (software + services + content) `[ps=4]`
+- ~90% of enterprise training opportunities used classroom method `[ps=4]`
+- ~70% classroom; ~25% TBT `[ps=4]`
+- More than 70% of corporations offer employees computer- or web-based training options `[ps=4]`
+- Virtual learning delivery eliminates travel expenses and leaves students in place `[ps=4]`
+- Modular e-learning provides only necessary information in smaller blocks vs just-in-case classroom `[ps=4]`
+- Emerging; enabling technology for self-paced enterprise learning; clear advantages over classroom `[ps=4]`
+- Mature but declining; being superseded by web-based delivery `[ps=4]`
+- Leading e-learning content and courseware provider with library-based subscription model `[ps=4]`
+- SmartForce merged with SkillSoft in September 2002; combined company became leading enterprise e-learning platform `[ps=4]`
+- Businesses running on Internet time require training delivery that matches speed of change `[ps=4]`
+- COVID-19 pandemic (2020) caused overnight shift of all enterprise training to virtual/online; e-learning became mandatory `[ps=4]`
+- e-Learning will have approximately one-third of total training market by 2002 `[ps=3]`
+- 60% of higher education institutions offer online learning courses `[ps=3]`
+- Travel costs consume up to 40% of average corporate training budget `[ps=3]`
+- IBM Lotus providing enterprise LMS integrated with Lotus Notes groupware platform `[ps=3]`
+- Classroom training and TBT will reach approximately equal share of training opportunities by 2002 `[ps=2]`
+- Dominant e-learning authoring tool vendor (Authorware; Flash; Director) `[ps=2]`
+- e-Learning market grew far beyond $10B forecast; global corporate e-learning market exceeded $200B by 2019 `[ps=2]`

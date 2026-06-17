@@ -12,9 +12,9 @@ era: "2002-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'SOX/regulatory compliance technology (GRC software) is an active and growing market. SOX remains law for US public companies. Major spending on compliance tech continues.', 'source': 'pre-verified'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Sarbanes-Oxley / Regulatory Compliance Technology
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Several hundred thousand to several million dollars per year per affected business — [[study-technology-themes-ee5ba4]]
+- Several hundred thousand to several million dollars per year per affected business `[ps=0]` — [[study-technology-themes-ee5ba4]]
+- [UNVERIFIED] `[ps=0]` — [[study-technology-themes-ee5ba4]]
 - Some firms may revert to private status due to compliance costs — [[study-technology-themes-ee5ba4]]
-- [UNVERIFIED] — [[study-technology-themes-ee5ba4]]

@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Microsoft VBA (Visual Basic for Applications)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Business units cut off from IS support; must use LAN + Office 97 + NT/Unix; three approaches: a) VBA + Office97 + Access + Outlook; b) Lotus Notes + Office97; c) Intranet toolset — [[study-trends99-18726b]]
+- Business units cut off from IS support; must use LAN + Office 97 + NT/Unix; three approaches: a) VBA + Office97 + Access + Outlook; b) Lotus Notes + Office97; c) Intranet toolset `[ps=2]` — [[study-trends99-18726b]]

@@ -12,9 +12,9 @@ era: "2004-2007"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Balanced Technology Extended (BTX)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Balanced Technology Extended (BTX) positioned as quiet, small form factor ('Bigwater'), instant on-off, resilient power. — [[study-intel-idf-pk-notes-3-6666da]]
-- BTX form factor adoption was minimal as predicted. Intel canceled future BTX retail product development in September 2006 after switching to lower-power Core microarchitecture. Only Gateway, Dell, HP, and Fujitsu-Siemens adopted BTX for limited product lines. ATX remained dominant throughout. — [[study-intel-idf-pk-notes-3-6666da]]
+- BTX form factor adoption was minimal as predicted. Intel canceled future BTX retail product development in September 2006 after switching to lower-power Core microarchitecture. Only Gateway, Dell, HP, and Fujitsu-Siemens adopted BTX for limited product lines. ATX remained dominant throughout. `[ps=5]` — [[study-intel-idf-pk-notes-3-6666da]]
+- Balanced Technology Extended (BTX) positioned as quiet, small form factor ('Bigwater'), instant on-off, resilient power. `[ps=2]` — [[study-intel-idf-pk-notes-3-6666da]]

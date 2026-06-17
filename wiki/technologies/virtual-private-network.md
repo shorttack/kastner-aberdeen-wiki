@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Virtual Private Dial-up Network (VPDN/VPN)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Virtual Private Dial-up network capabilities cited as key IOS feature for service differentiation — [[study-aberdeen-1996-remote-access-cisco-untold-story]]
+- Virtual Private Dial-up network capabilities cited as key IOS feature for service differentiation `[ps=3]` — [[study-aberdeen-1996-remote-access-cisco-untold-story]]

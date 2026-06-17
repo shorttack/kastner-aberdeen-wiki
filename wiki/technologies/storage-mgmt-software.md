@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "growing"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Storage Management Software
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- software will be key differentiator over hardware — [[study-storag~1-262bc7]]
+- software will be key differentiator over hardware `[ps=5]` — [[study-storag~1-262bc7]]
 - must integrate with HP OpenView / Tivoli / Unicenter TNG — [[study-storag~1-262bc7]]

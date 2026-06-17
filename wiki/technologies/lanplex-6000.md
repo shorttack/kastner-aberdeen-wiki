@@ -12,9 +12,9 @@ era: "1993-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # LANplex 6000
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Backbone switching market leader — [[study-aberdeen-1995-3com-lanplex-2500]]
+- Backbone switching market leader `[ps=1]` — [[study-aberdeen-1995-3com-lanplex-2500]]

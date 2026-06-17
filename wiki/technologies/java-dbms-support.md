@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Java DBMS Support / JDBC
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Java support has become a required DBMS capability — [[study-dbmspr~1-7c854e]]
+- Java support has become a required DBMS capability `[ps=4]` — [[study-dbmspr~1-7c854e]]

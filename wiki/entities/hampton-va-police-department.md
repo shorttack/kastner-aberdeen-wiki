@@ -12,9 +12,9 @@ status: "operating"
 successor: ""
 years_active: "present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Hampton, Virginia Police Department
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Sent to Hampton, VA to verify whether police information system could be transferred to St. Petersburg, FL; given police radio with officer-needs-assistance code. `[ps=0]` — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
 - ADL recommended migration of Hampton Roads VA dispatch system to St. Petersburg under CICS, with modifications — [[study-adl-public-safety-911-cad-systems-1973-1979-b8a001]]
-- Sent to Hampton, VA to verify whether police information system could be transferred to St. Petersburg, FL; given police radio with officer-needs-assistance code. — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
 - ‘Don’t leave your room at night,’ said the Vice Chief of Police; Kastner spent more mental energy on door lock integrity than database schema. — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]

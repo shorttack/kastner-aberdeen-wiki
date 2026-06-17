@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Sprint Nextel"
 years_active: "1987-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Nextel Communications
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Nextel Boost subsidiary expected to help company be a key player in mobile youth market — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
-- Nextel merged with Sprint 2005; Boost Mobile became successful prepaid brand — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
+- Nextel merged with Sprint 2005; Boost Mobile became successful prepaid brand `[ps=5]` — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
+- Nextel Boost subsidiary expected to help company be a key player in mobile youth market `[ps=4]` — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]

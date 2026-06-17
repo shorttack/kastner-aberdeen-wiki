@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Trilogy Software -> BigMachines -> Oracle CPQ"
 years_active: "1989-2011"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Trilogy Development Group
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sales force automation integration with Open Market back-office — [[study-aberdeen-1996-open-market-web-based-commerce]]
+- Sales force automation integration with Open Market back-office `[ps=0]` — [[study-aberdeen-1996-open-market-web-based-commerce]]

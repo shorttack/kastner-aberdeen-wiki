@@ -12,9 +12,9 @@ era: "1998-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # TIB/ActiveEnterprise
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Pioneered publish-subscribe technology; Wall Street de facto standard; expanding to EAI — [[study-middle~1-a64fa0]]
+- Pioneered publish-subscribe technology; Wall Street de facto standard; expanding to EAI `[ps=5]` — [[study-middle~1-a64fa0]]

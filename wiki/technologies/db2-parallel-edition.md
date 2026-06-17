@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "active"
 lifecycle_current: "Capabilities absorbed into mainstream IBM Db2"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # DB2 Parallel Edition
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- loosely-coupled RS/6000s with HACMP or LAN, and IBM RS/6000 SP MPP systems; parallelizes joins, inserts, updates, deletes, index, backup — [[study-aberdeen-1995-ibm-db2-common-server]]
+- loosely-coupled RS/6000s with HACMP or LAN, and IBM RS/6000 SP MPP systems; parallelizes joins, inserts, updates, deletes, index, backup `[ps=0]` — [[study-aberdeen-1995-ibm-db2-common-server]]

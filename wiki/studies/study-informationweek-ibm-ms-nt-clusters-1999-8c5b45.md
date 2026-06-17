@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.6
+prescience_obs_count: 5
 ---
 
 # IBM, Microsoft Team On NT Clusters
@@ -32,9 +32,9 @@ _Published 1999, author **InformationWeek staff**, type **news-article**._
 
 ## Top observations
 
-- IBM demonstrated eight servers running in a single Windows NT cluster, the most to date
-- Compatible with Microsoft Cluster Services, scheduled to ship for Windows NT Server 4.0 Enterprise Edition this summer
+- Our research shows an increasing number of enterprise customers are not only embracing NT-based clustering but are being constrained by two-node limits. Early availability of a cluster extender will be warmly received by many critical application operators. `[ps=3]`
+- IBM demonstrated eight servers running in a single Windows NT cluster, the most to date `[ps=0]`
+- Compatible with Microsoft Cluster Services, scheduled to ship for Windows NT Server 4.0 Enterprise Edition this summer `[ps=0]`
+- Answer Financial has a contract with Hewlett-Packard to supply its servers and isn't likely to switch to Netfinity to get the added clustering capabilities `[ps=0]`
+- Peter Kastner, research director and executive VP at the Aberdeen Group `[ps=0]`
 - Certified to run only on IBM Netfinity line of NT servers; will not provide automatic load balancing but admins can designate hot-standby failover
-- Our research shows an increasing number of enterprise customers are not only embracing NT-based clustering but are being constrained by two-node limits. Early availability of a cluster extender will be warmly received by many critical application operators.
-- Answer Financial has a contract with Hewlett-Packard to supply its servers and isn't likely to switch to Netfinity to get the added clustering capabilities
-- Peter Kastner, research director and executive VP at the Aberdeen Group

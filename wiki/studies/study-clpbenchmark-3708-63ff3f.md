@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 21] intentionally omitted <=="
+title: "Clpbenchmark 3708 (Aberdeen, 2007)"
 slug: "study-clpbenchmark-3708-63ff3f"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.87
-prescience_obs_count: 60
+prescience_mean: 1.11
+prescience_obs_count: 53
 ---
 
-# ==> picture [149 x 21] intentionally omitted <==
+# Clpbenchmark 3708 (Aberdeen, 2007)
 
-> This study analyzes ==> picture [149 x 21] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study clpbenchmark-3708-63ff3f. Source: clpbenchmark_3708.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **topic-analysis**._

@@ -12,9 +12,9 @@ era: "1995-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Thin-Client Web Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- eService administered from single centralized site; latest version auto-downloaded at each session; eliminates client-side upgrade coordination — [[study-aberdeen-1997-silknet-software]]
+- eService administered from single centralized site; latest version auto-downloaded at each session; eliminates client-side upgrade coordination `[ps=5]` — [[study-aberdeen-1997-silknet-software]]

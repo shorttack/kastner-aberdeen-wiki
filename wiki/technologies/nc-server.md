@@ -12,9 +12,9 @@ era: "1996-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.14
+prescience_obs_count: 7
 ---
 
 # NC Server
@@ -24,12 +24,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Three-tier: NC OS Substrate + NC Required System Services + NC Applications — [[study-netcompute-e6c378]]
-- DEC Unix, HP/UX 10, IBM AIX, Sun SPARC Solaris, Windows NT; plus low-cost NCI-branded substrate — [[study-netcompute-e6c378]]
+- Pay-per-use or license software via NC Application Manager; integrates with Oracle Enterprise Manager and NC Authorization `[ps=4]` — [[study-netcompute-e6c378]]
+- Network computing is next step in evolution of computing; everything stored on network `[ps=4]` — [[study-netcompute-e6c378]]
+- Low-cost centrally administered alternative to traditional PC infrastructure; targets SOHO, Education, Community, Enterprise `[ps=3]` — [[study-netcompute-e6c378]]
+- Three-tier: NC OS Substrate + NC Required System Services + NC Applications `[ps=2]` — [[study-netcompute-e6c378]]
+- DEC Unix, HP/UX 10, IBM AIX, Sun SPARC Solaris, Windows NT; plus low-cost NCI-branded substrate `[ps=2]` — [[study-netcompute-e6c378]]
+- NC Server will be backward compatible with NC Clients for maximum period of four years `[ps=0]` — [[study-netcompute-e6c378]]
+- unknown `[ps=0]` — [[study-netcompute-e6c378]]
 - Key values: low cost of operation, security, scalability to accommodate several thousands of users — [[study-netcompute-e6c378]]
-- NC Server will be backward compatible with NC Clients for maximum period of four years — [[study-netcompute-e6c378]]
-- unknown — [[study-netcompute-e6c378]]
-- Low-cost centrally administered alternative to traditional PC infrastructure; targets SOHO, Education, Community, Enterprise — [[study-netcompute-e6c378]]
-- Pay-per-use or license software via NC Application Manager; integrates with Oracle Enterprise Manager and NC Authorization — [[study-netcompute-e6c378]]
-- Network computing is next step in evolution of computing; everything stored on network — [[study-netcompute-e6c378]]
 - unknown — [[study-netcompute-e6c378]]

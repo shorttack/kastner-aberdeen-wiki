@@ -12,9 +12,9 @@ era: "2007-2010"
 lifecycle_at_study: "research"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Intel Terascale was a research many-core architecture project (~2007-2012). It was a research initiative that produced prototypes (48-core and 80-core experimental chips) but never reached commercial production. The research contributed to Xeon Phi.', 'source': 'General knowledge / Intel research publications'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel Terascale (Many-Core Research)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 48-core IA chip demonstrated December 2009; each core runs own virtual OS with TCP/IP — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]
+- 48-core IA chip demonstrated December 2009; each core runs own virtual OS with TCP/IP `[ps=0]` — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]

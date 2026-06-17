@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 26
 ---
 
 # Ten Issues for IBM Mainframe MIS Executives
@@ -32,28 +32,28 @@ _Published 1991, author **Peter S. Kastner**, type **white-paper**._
 
 ## Top observations
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`

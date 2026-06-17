@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM (1994)"
 years_active: "1989-1994"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Transarc Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Transarc 1991 — [[study-aberdeen-open-online-transaction-process-ea272f]]
+- Transarc 1991 `[ps=0]` — [[study-aberdeen-open-online-transaction-process-ea272f]]

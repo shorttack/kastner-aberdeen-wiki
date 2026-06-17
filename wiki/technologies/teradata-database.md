@@ -12,9 +12,9 @@ era: "1979-present"
 lifecycle_at_study: "production-shipping"
 lifecycle_current: "still-shipping-as-Teradata-Vantage"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Teradata Database (parallel data warehouse)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NCR-acquired-1991-while-owned-by-AT-and-T — [[study-aberdeen-customer-driven-info-systems-at-2f9724]]
+- NCR-acquired-1991-while-owned-by-AT-and-T `[ps=5]` — [[study-aberdeen-customer-driven-info-systems-at-2f9724]]

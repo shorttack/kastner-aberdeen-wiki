@@ -3,7 +3,7 @@ title: "CRM Redux - We Told You So"
 slug: "study-2003-crm-redux-we-told-you-so-b4b0c1"
 page_type: "study"
 tags: ["type/study", "collection/perspective"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2003-crm-redux-we-told-you-so-b4b0c1"
 author: "Denis R. Pombriant"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.33
+prescience_obs_count: 6
 ---
 
 # CRM Redux - We Told You So
@@ -32,13 +32,13 @@ _Published 2003, author **Denis R. Pombriant**, type **perspective**._
 
 ## Top observations
 
-- $15 billion industry (CRM vendors and solution set)
+- You cannot build a $15 billion industry out of something that does not deliver value; evidence rolling in `[ps=5]`
+- BusinessWeek May 2003 special section on e-business and CRM documented wisdom that CRM delivers value `[ps=4]`
+- Evidence rolling in from multiple sources (Aberdeen, BusinessWeek, others) showing CRM does deliver ROI `[ps=4]`
+- CRM market entering validation phase after hype cycle; evidence-based era beginning `[ps=4]`
+- $15 billion industry (CRM vendors and solution set) `[ps=3]`
+- BusinessWeek, Aberdeen, and others all published CRM and e-business sections in May 2003 `[ps=0]`
 - Industry pundits failed to cover bets with primary research; recycled each other's opinions about CRM failures
 - First comprehensive study of a large CRM client base documenting evidence of value delivery
-- BusinessWeek May 2003 special section on e-business and CRM documented wisdom that CRM delivers value
-- You cannot build a $15 billion industry out of something that does not deliver value; evidence rolling in
 - Global CRM market reached ~$91B by 2025; Salesforce.com alone valued at $200B+; prediction fully vindicated
 - Aberdeen positioned primary research with large CRM client base as superior to secondary recycled opinion
-- Evidence rolling in from multiple sources (Aberdeen, BusinessWeek, others) showing CRM does deliver ROI
-- CRM market entering validation phase after hype cycle; evidence-based era beginning
-- BusinessWeek, Aberdeen, and others all published CRM and e-business sections in May 2003

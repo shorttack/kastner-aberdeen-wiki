@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'mature', 'notes': 'High Definition Television (HDTV/1080p) is the mainstream broadcast and display standard. 4K/UHD is growing above it. HDTV content and hardware remain dominant in consumer electronics but is now considered the baseline rather than cutting edge.', 'source': 'General knowledge'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # High Definition Television (HDTV)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Live Art animated still scenes; converts blank HDTV screen into art gallery; intuitive UI — [[study-dct-oct.-4-hot-topic-b61c0d]]
+- Live Art animated still scenes; converts blank HDTV screen into art gallery; intuitive UI `[ps=4]` — [[study-dct-oct.-4-hot-topic-b61c0d]]

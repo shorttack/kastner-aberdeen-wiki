@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Network-Based Application Processing
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- requires new balance between architectural readiness and business value realization — [[study-next-steps-soa-2006-0fdea1]]
-- SOA on network requires new clarity of roles between application architect and network architect — [[study-next-steps-soa-2006-0fdea1]]
+- requires new balance between architectural readiness and business value realization `[ps=4]` — [[study-next-steps-soa-2006-0fdea1]]
+- SOA on network requires new clarity of roles between application architect and network architect `[ps=3]` — [[study-next-steps-soa-2006-0fdea1]]

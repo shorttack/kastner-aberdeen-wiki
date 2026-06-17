@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Quantum Corporation (acquired 1999); spun off as Snap Appliance (2002)"
 years_active: "1993-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Meridian Data
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1998 — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
+- 1998 `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Palm (2003)"
 years_active: "1998-2003"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Handspring, Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Handspring at risk as Dell enters market; weaker position — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
-- Handspring acquired by Palm in 2003 for $169M — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
+- Handspring acquired by Palm in 2003 for $169M `[ps=5]` — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
+- Handspring at risk as Dell enters market; weaker position `[ps=4]` — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]

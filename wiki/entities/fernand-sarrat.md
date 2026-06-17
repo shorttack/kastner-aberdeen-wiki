@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Fernand Sarrat
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Fernand Sarrat — ex-Cylink CEO; 23-year IBM general manager background — [[study-linuxcare-profile-1999]]
+- Fernand Sarrat — ex-Cylink CEO; 23-year IBM general manager background `[ps=0]` — [[study-linuxcare-profile-1999]]

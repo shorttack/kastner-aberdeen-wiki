@@ -12,9 +12,9 @@ era: "2011-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Red Hat OpenShift
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Red Hat OpenShift is IBM's primary hybrid-cloud delivery vehicle 2026; 4,000+ customers — [[study-2026-kastner-ibm-longitudinal]]
-- Red Hat OpenShift serving 4,000+ enterprise customers 2026; 90%+ Fortune 500 on hybrid cloud — [[study-2026-kastner-ibm-longitudinal]]
+- Red Hat OpenShift is IBM's primary hybrid-cloud delivery vehicle 2026; 4,000+ customers `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
+- Red Hat OpenShift serving 4,000+ enterprise customers 2026; 90%+ Fortune 500 on hybrid cloud `[ps=4]` — [[study-2026-kastner-ibm-longitudinal]]

@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1968-present"
 occurrence_count: 27
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.07
+prescience_obs_count: 90
 ---
 
 # Intel Corporation
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3 — [[study-2026-kastner-enterprise-ai-arc]]
-- 3 — [[study-2026-kastner-enterprise-ai-arc]]
-- 3 — [[study-2026-kastner-enterprise-ai-arc]]
-- 1 — [[study-2026-kastner-enterprise-ai-arc]]
-- 3 — [[study-2026-kastner-enterprise-ai-arc]]
-- 6 — [[study-2026-kastner-enterprise-ai-arc]]
-- 562 — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- 102 — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- 1990-2026 (5 decades) — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- 65 — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- 72 — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- 7 — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- 472 — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- x86 + open OS + volume economics displace proprietary systems; thesis fully validated by 2005 — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- Tick-tock delivers predictable gains; mobile attempted and fails; Itanium drags; Atom doesn't scale; smartphone exit — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- Tick-tock abandoned 2016; smartphone exit 2019; Itanium discontinued 2021; foundry pivot 2021; AI compute open — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- Standardized x86 + open OS + volume economics will displace proprietary minicomputer/server architectures — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- 12 matching observations — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- Economics of standardized x86 architecture plus open OS would overcome proprietary minicomputers — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- The war that would define the 1990s was x86-vs-everything-else — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Tick-tock abandoned 2016; smartphone exit 2019; Itanium discontinued 2021; foundry pivot 2021; AI compute open `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Standardized x86 + open OS + volume economics will displace proprietary minicomputer/server architectures `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Economics of standardized x86 architecture plus open OS would overcome proprietary minicomputers `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- x86 servers displaced most proprietary Unix and mainframe systems `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- IA-64 never achieved mass market `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- 3.06 GHz HT P4 shipped 2002-11-14; 3.2 GHz June 2003 `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- P4 with HT became dominant Intel desktop CPU `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Shipped EM64T in Xeon/P4 in 2004-2005 `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Core 2 Duo Conroe July 2006, ending P4 era `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Centrino + long battery life mainstream business laptops `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Intel cancelled Sofia and Broxton Atom mobile SoCs `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Intel exited smartphone modem business; sold to Apple $1B `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Intel abandoned tick-tock model 2016; 10nm delayed multi-year — beginning of Phase 3 challenger period `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Sold XScale ARM mobile to Marvell `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Sold to Apple $1B `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Cancelled as consumer GPU December 2009; research continued `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Technology evolved into Xeon Phi `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Intel discontinued Xeon Phi 2020 — NVIDIA CUDA won AI compute `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Hardware-rooted security + remote management would become standard for enterprise PCs `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- If you look at the cost of maintaining and supporting PCs in the enterprise, one of the big components is having to get a human being to go and actually touch that computer. So there has really been a big push to provide remote management and administration across the network. `[ps=5]` — [[study-small-business-intel-targets-smbs-with-r-2cd3ec]]

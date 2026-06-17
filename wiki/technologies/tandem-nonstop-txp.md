@@ -12,9 +12,9 @@ era: "1983-1990"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Tandem NonStop TXP
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $49,300/tps (2 TXPs, 4 MIPS, 10 tps, $493,000 total) — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]
-- Tandem pricing from December 1984 Data Decisions report — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]
+- $49,300/tps (2 TXPs, 4 MIPS, 10 tps, $493,000 total) `[ps=0]` — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]
+- Tandem pricing from December 1984 Data Decisions report `[ps=0]` — [[study-stratus-et1-tp1-tandem-dossier-1986-26871a]]

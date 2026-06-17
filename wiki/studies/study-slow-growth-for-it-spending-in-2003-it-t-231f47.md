@@ -3,7 +3,7 @@ title: "Slow Growth For IT Spending In 2003"
 slug: "study-slow-growth-for-it-spending-in-2003-it-t-231f47"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "slow-growth-for-it-spending-in-2003-it-t-231f47"
 author: "Gregg Keizer, Techweb News / InformationWeek"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.11
+prescience_obs_count: 9
 ---
 
 # Slow Growth For IT Spending In 2003
@@ -32,13 +32,13 @@ _Published 2003, author **Gregg Keizer, Techweb News / InformationWeek**, type *
 
 ## Top observations
 
-- More and more IT organizations are telling us that their executives have concluded that technology operations are not their core competency.
-- That's a horse of a completely different color, and a potential economic threat to the livelihood of a lot of Americans.
-- Aberdeen predicts modest gains in IT spending: up 4% in 2003, from less than 1% in 2002. That's inflation, plus or minus, back-end-loaded toward the close of the year.
+- Aberdeen predicts modest gains in IT spending: up 4% in 2003, from less than 1% in 2002. That's inflation, plus or minus, back-end-loaded toward the close of the year. `[ps=5]`
+- More and more IT organizations are telling us that their executives have concluded that technology operations are not their core competency. `[ps=4]`
+- Growth in the Linux server sector will be 40 percent during 2003 — not as dramatic as the 50-percent-plus boost in 2002, but still substantial. `[ps=4]`
+- Don't expect 2003 to be the year of Linux on the enterprise desktop. The best that supporters can hope for is that the open-source operating system will overtake Apple Computer at roughly 3% of the market during 2003. `[ps=4]`
+- Through the 2010s and 2020s, Linux desktop market share remained ~2-3% globally (StatCounter) despite Ubuntu, ChromeOS-as-Linux-derivative, and post-Windows-8 user frustration — fully validating Kastner's 2003 skepticism. `[ps=4]`
+- US IT employment data 2003-2015 show substantial shift of application development and back-office IT work to India/Philippines; Kastner's 'economic threat' framing was broadly borne out in narrow IT-services occupations though overall US tech employment grew. `[ps=4]`
+- That's a horse of a completely different color, and a potential economic threat to the livelihood of a lot of Americans. `[ps=3]`
+- IBM announced a $2.5 billion outsourcing deal with Deutsche Bank in late 2002. `[ps=0]`
+- IBM announced a $5 billion outsourcing deal with J.P. Morgan Chase & Co. in late 2002. `[ps=0]`
 - Ultimately, psychology and not technology will determine the growth rate for IT spending this year.
-- Growth in the Linux server sector will be 40 percent during 2003 — not as dramatic as the 50-percent-plus boost in 2002, but still substantial.
-- Don't expect 2003 to be the year of Linux on the enterprise desktop. The best that supporters can hope for is that the open-source operating system will overtake Apple Computer at roughly 3% of the market during 2003.
-- IBM announced a $2.5 billion outsourcing deal with Deutsche Bank in late 2002.
-- IBM announced a $5 billion outsourcing deal with J.P. Morgan Chase & Co. in late 2002.
-- Through the 2010s and 2020s, Linux desktop market share remained ~2-3% globally (StatCounter) despite Ubuntu, ChromeOS-as-Linux-derivative, and post-Windows-8 user frustration — fully validating Kastner's 2003 skepticism.
-- US IT employment data 2003-2015 show substantial shift of application development and back-office IT work to India/Philippines; Kastner's 'economic threat' framing was broadly borne out in narrow IT-services occupations though overall US tech employment grew.

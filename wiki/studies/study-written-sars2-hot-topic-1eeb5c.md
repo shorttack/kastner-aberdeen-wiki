@@ -1,5 +1,5 @@
 ---
-title: "==> picture [450 x 121] intentionally omitted <=="
+title: "Written Sars2 Hot Topic (Aberdeen, 2003)"
 slug: "study-written-sars2-hot-topic-1eeb5c"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 0.0
-prescience_mean: -0.33
-prescience_obs_count: 3
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
-# ==> picture [450 x 121] intentionally omitted <==
+# Written Sars2 Hot Topic (Aberdeen, 2003)
 
-> This study analyzes ==> picture [450 x 121] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-sars2-hot-topic-1eeb5c. Source: Written__SARS2 hot topic.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2003, author **Russ Craig & Peter Kastner||_AberdeenGroup is a leading market analysis and positioning ser-_|**, type **market-study**._
@@ -34,4 +34,4 @@ _Published 2003, author **Russ Craig & Peter Kastner||_AberdeenGroup is a leadin
 
 - Asia Pacific consumed 37% or $52B of 2002 semiconductor production. `[ps=0]`
 - Semiconductor Industry Association forecasts for 2003 suggest those numbers will increase to 38% and $65B respectively, with the PRC alone accounting for 11%. `[ps=0]`
-- This study analyzes ==> picture [450 x 121] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [450 x 121] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

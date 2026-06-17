@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 4
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # Object-Relational DBMS (ORDBMS)
@@ -24,8 +24,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- >50% of new DBMS revenue (first year ORDBMS > pure RDBMS) — [[study-dbmspr~1-7c854e]]
-- IBM/Oracle/Informix advocate ORDBMS; Microsoft/CA/Sybase advocate separate relational+object databases — [[study-dbmspr~1-7c854e]]
+- Partially confirmed — Fujitsu shipped some ORDBMS features but Informix Universal Server (1997) and Oracle 8 (1997) delivered first; ORDBMS absorbed into mainstream RDBMS `[ps=5]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- >50% of new DBMS revenue (first year ORDBMS > pure RDBMS) `[ps=2]` — [[study-dbmspr~1-7c854e]]
+- IBM/Oracle/Informix advocate ORDBMS; Microsoft/CA/Sybase advocate separate relational+object databases `[ps=0]` — [[study-dbmspr~1-7c854e]]
 - Phil White: $8-10B relational database market; only 15-20% of organizational data is numbers/characters; 70-80% is text/video/spatial/time-series; market growing 30-50% — [[study-informix-universal-server-launch-object-relational-fb2cd4]]
 - Stonebraker: 'object-relational... will replace relational databases as the mainstream database technology over the next few years' — [[study-informix-universal-server-launch-object-relational-fb2cd4]]
 - Object-relational DBMS replaces pure relational as mainstream within 'the next few years' (Stonebraker, 1996) — [[study-informix-universal-server-launch-object-relational-fb2cd4]]
@@ -43,4 +44,3 @@ prescience_obs_count: 0
 - [DEFERRED] — [[study-informix-universal-server-launch-object-relational-fb2cd4]]
 - CA-Ingres partnership with Fujitsu for first ORDBMS in 1996 — [[study-jungle-6-7af8b7]]
 - CA Ingres partnership with Fujitsu to deliver first ORDBMS in 1996 — [[study-rdbms-for-ibm-powera~1-7a44be]]
-- Partially confirmed — Fujitsu shipped some ORDBMS features but Informix Universal Server (1997) and Oracle 8 (1997) delivered first; ORDBMS absorbed into mainstream RDBMS — [[study-rdbms-for-ibm-powera~1-7a44be]]

@@ -12,9 +12,9 @@ era: "1991-2004"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Persistence Object Builder
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Introduced 1991; reduces total build time for new C++ applications by average 30% — [[study-aberdeen-1996-live-object-caching-high-performance]]
-- Informix, Oracle, Sybase, SQL Server, ODBC; C++ compilers: CenterLine ObjectCenter, HP SoftBench, IBM C++, Sun SparcWorks, Microsoft Visual C++ — [[study-aberdeen-1996-live-object-caching-high-performance]]
-- Average 30% reduction in total time and expenses to build new C++ applications — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Introduced 1991; reduces total build time for new C++ applications by average 30% `[ps=0]` — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Informix, Oracle, Sybase, SQL Server, ODBC; C++ compilers: CenterLine ObjectCenter, HP SoftBench, IBM C++, Sun SparcWorks, Microsoft Visual C++ `[ps=0]` — [[study-aberdeen-1996-live-object-caching-high-performance]]
+- Average 30% reduction in total time and expenses to build new C++ applications `[ps=0]` — [[study-aberdeen-1996-live-object-caching-high-performance]]

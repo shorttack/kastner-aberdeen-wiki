@@ -3,7 +3,7 @@ title: "Pulse Check: How Intel is Scaling to Meet the Decade's Opportunities"
 slug: "study-intel-pulse-check-ia-continuum-2013-3a693f"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "intel-pulse-check-ia-continuum-2013-3a693f"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.26
+prescience_obs_count: 19
 ---
 
 # Pulse Check: How Intel is Scaling to Meet the Decade's Opportunities
@@ -32,27 +32,27 @@ _Published 2013, author **Peter S. Kastner**, type **topic-analysis**._
 
 ## Top observations
 
-- ~1B processors/year TAM
+- Xeon for workstations, servers, storage, communications `[ps=5]`
+- Xeon Phi = HPC add-in card with dozens of IA cores, runs Linux, competes with GPU-based AMD/nVidia `[ps=5]`
+- Intel Xeon Phi discontinued 2020 `[ps=5]`
+- Mega-datacenter customers: Amazon, Facebook, Google `[ps=5]`
+- Intel cancelled Sofia and Broxton Atom mobile SoCs 2016 `[ps=5]`
+- 'By end of decade, silicon fabrication will be under 10nm, and it is a lot less clear how Moore's Law will perform in the 2020s' `[ps=5]`
+- 'Computing made personal — a person will have multiple computing devices matching time, place, and needs' `[ps=5]`
+- 'Everybody knows the PC replacement cycle has slowed to a crawl' `[ps=4]`
+- Haswell adds hardware transactional memory — fine-grain parallelism `[ps=4]`
+- Haswell FP instructions: up to 60% faster scientific/technical computing `[ps=4]`
+- 'Company missed the coming iPhone and lost out on a lot of market potential. That can't happen again' `[ps=4]`
+- Atom = embedded SoCs, consumer mobile devices, tablets, soon smartphones `[ps=3]`
+- ~1B processors/year TAM `[ps=2]`
+- ~175M desktop microprocessors in 2013 `[ps=2]`
+- Haswell PCs to spark the replacement cycle `[ps=2]`
+- Atom 'soon smartphones' `[ps=2]`
+- ~225M notebook microprocessors in 2013 `[ps=0]`
+- PC sales down almost 10% in 2013 `[ps=0]`
+- Avoton Atom SoC for micro-servers vs emerging ARM-based designs `[ps=0]`
 - 2B+ processors/year by end of decade
-- ~175M desktop microprocessors in 2013
-- ~225M notebook microprocessors in 2013
 - 'In the 1990s, I advised early adopters NCR and Sequent in their plans for Intel 486-based servers'
 - 'Silicon gene-splicing' — application-specific IA variants
-- Atom = embedded SoCs, consumer mobile devices, tablets, soon smartphones
 - Core i3/i5/i7 for business and consumer desktops and notebooks
-- Xeon for workstations, servers, storage, communications
-- Xeon Phi = HPC add-in card with dozens of IA cores, runs Linux, competes with GPU-based AMD/nVidia
-- PC sales down almost 10% in 2013
-- 'Everybody knows the PC replacement cycle has slowed to a crawl'
-- Haswell PCs to spark the replacement cycle
-- Haswell adds hardware transactional memory — fine-grain parallelism
-- Haswell FP instructions: up to 60% faster scientific/technical computing
-- Avoton Atom SoC for micro-servers vs emerging ARM-based designs
-- Intel Xeon Phi discontinued 2020
-- Mega-datacenter customers: Amazon, Facebook, Google
-- Atom 'soon smartphones'
-- Intel cancelled Sofia and Broxton Atom mobile SoCs 2016
-- 'By end of decade, silicon fabrication will be under 10nm, and it is a lot less clear how Moore's Law will perform in the 2020s'
 - Rigid two-year tick-tock hardware model must accommodate software delivery schedules
-- 'Company missed the coming iPhone and lost out on a lot of market potential. That can't happen again'
-- 'Computing made personal — a person will have multiple computing devices matching time, place, and needs'

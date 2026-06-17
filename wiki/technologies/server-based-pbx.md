@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Server-Based PBX (software PBX)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Emerging class of CTI platform redefining on-premise telephony architecture — [[study-1998-communicating-business-intelligence-through-comput-0290b1]]
+- Emerging class of CTI platform redefining on-premise telephony architecture `[ps=4]` — [[study-1998-communicating-business-intelligence-through-comput-0290b1]]

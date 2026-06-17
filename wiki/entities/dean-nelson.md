@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Dean Nelson
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Could literally consolidate 23 racks of G4s into 4 racks of Xserves — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]
+- Could literally consolidate 23 racks of G4s into 4 racks of Xserves `[ps=0]` — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]

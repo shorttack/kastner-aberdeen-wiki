@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1970s-1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # James Osterhoff
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Steul's predecessor at DEC was James Osterhoff (Ford Motor recruit) — 'highly regarded for imposing financial discipline' — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]
+- Steul's predecessor at DEC was James Osterhoff (Ford Motor recruit) — 'highly regarded for imposing financial discipline' `[ps=0]` — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]

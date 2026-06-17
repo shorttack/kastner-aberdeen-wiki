@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Broadband consumer access
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- When and how will the last-mile broadband problem be solved in advanced countries? — [[study-dct-personal-it-practice-launch-2001]]
+- When and how will the last-mile broadband problem be solved in advanced countries? `[ps=0]` — [[study-dct-personal-it-practice-launch-2001]]

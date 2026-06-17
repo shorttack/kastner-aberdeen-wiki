@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Software AG Legacy Modernization and SOA Integration
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3000 customers / 59 countries — [[study-soa-in-it-e5b373]]
+- 3000 customers / 59 countries `[ps=0]` — [[study-soa-in-it-e5b373]]

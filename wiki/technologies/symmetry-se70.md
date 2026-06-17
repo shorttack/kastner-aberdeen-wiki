@@ -12,9 +12,9 @@ era: "1995-1999"
 lifecycle_at_study: "current"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sequent Symmetry SE70
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 20 — [[study-sequent-sap-sequen~1-7f70e4]]
+- 20 `[ps=0]` — [[study-sequent-sap-sequen~1-7f70e4]]

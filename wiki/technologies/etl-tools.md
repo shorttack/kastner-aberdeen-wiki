@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # ETL Tools (Extract, Transform, Load)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Wide array of ETL tools from Compuware, Data Junction, ETI, Sybase, TIBCO, and webMethods; applicable as base technology for wide variety of information aggregation needs — [[study-aberdeen-eii-2003-ea3f1a]]
+- Wide array of ETL tools from Compuware, Data Junction, ETI, Sybase, TIBCO, and webMethods; applicable as base technology for wide variety of information aggregation needs `[ps=4]` — [[study-aberdeen-eii-2003-ea3f1a]]

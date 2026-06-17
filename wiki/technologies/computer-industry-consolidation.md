@@ -12,9 +12,9 @@ era: "1980s-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Computer industry consolidation (1980s-1990s)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'The computer industry now is much like the railroad business was 30 years ago. You either consolidate and clearly execute your strategies, or there's a good chance that you'll disappear.' — [[study-wsj-honeywell-bull-layoffs-kastner-1989-9faf05]]
+- 'The computer industry now is much like the railroad business was 30 years ago. You either consolidate and clearly execute your strategies, or there's a good chance that you'll disappear.' `[ps=4]` — [[study-wsj-honeywell-bull-layoffs-kastner-1989-9faf05]]

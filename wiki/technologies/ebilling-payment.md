@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Electronic Billing and Payment (EBPP)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DSO, anthrax postal disruption will likely increase appeal for EBPP and e-payment technologies near term — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
-- EBPP market grew significantly through 2005-2010; now dominant billing method in US — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- DSO, anthrax postal disruption will likely increase appeal for EBPP and e-payment technologies near term `[ps=4]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- EBPP market grew significantly through 2005-2010; now dominant billing method in US `[ps=4]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

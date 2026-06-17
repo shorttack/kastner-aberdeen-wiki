@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1958-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Visa International
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Visa (NYSE: V) remains dominant; Visa Direct enables real-time payments globally; market cap ~$500B in 2024 — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- Visa (NYSE: V) remains dominant; Visa Direct enables real-time payments globally; market cap ~$500B in 2024 `[ps=4]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]

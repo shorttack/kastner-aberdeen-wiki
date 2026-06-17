@@ -3,7 +3,7 @@ title: "Sequent's NUMA-Q 2000 Solutions: Reliability Availability Scalability Pl
 slug: "study-sequent-s-numa-q-2000-solutions-77a77c"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "sequent-s-numa-q-2000-solutions-77a77c"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.33
+prescience_obs_count: 18
 ---
 
 # Sequent's NUMA-Q 2000 Solutions: Reliability Availability Scalability Plus Technology Investment Protection
@@ -32,26 +32,26 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- 252 processors (63 quads) demonstrated in-lab; 32 GB/s bus bandwidth; 16 GB/s I/O bandwidth; 64 GB RAM; 100 terabytes storage
-- Up to order-of-magnitude (10x) performance increase over previous high-end Symmetry systems
+- RS/6000 SP emphasizes MPP; recently ported major RDBMSs; then later acquired Sequent itself `[ps=5]`
+- >1 terabyte in production; approaching 10 terabytes next year `[ps=4]`
+- Hundreds of databases 100GB+ implemented; growing 6-7x every 18 months `[ps=4]`
+- 99.99% availability required for mission-critical systems (less than 1 hour downtime/year) `[ps=4]`
+- Large-scale DSS applications growing at rates exceeding 3x per year; expanding into terabyte range `[ps=4]`
+- Fusion technology: SMP + MPP + commodity servers; experience-driven solutions; best-of-breed RDBMS packaging `[ps=4]`
+- Ultra Enterprise x000: big-bus SMP scaling; scale-up via larger shared bus `[ps=4]`
+- Server architecture must offer clear least-cost migration path for scaling `[ps=4]`
+- TruClusters: new clustering + MPP technology on AlphaServer; not quad-based `[ps=3]`
+- Sequent solutions worth a close look for enterprise IS buyers; data-center-ready; technology investment protection validated `[ps=3]`
+- Sequent will continue to differentiate and deliver large-scale user value over next few years `[ps=2]`
+- All hardware suppliers will move towards fusion technology within the next 2 to 5 years `[ps=1]`
+- 252 processors (63 quads) demonstrated in-lab; 32 GB/s bus bandwidth; 16 GB/s I/O bandwidth; 64 GB RAM; 100 terabytes storage `[ps=0]`
+- Up to order-of-magnitude (10x) performance increase over previous high-end Symmetry systems `[ps=0]`
+- Up to 500 GB per hour backup performance `[ps=0]`
+- EPS31 connects up to 16 T600 servers via fiber channel switch; not quad-based `[ps=0]`
+- cc-NUMA approach with Intel quads; focus on workstation-to-midrange buyers `[ps=0]`
+- Supplier must have clear roadmap to leverage technology advantages in future `[ps=0]`
 - Simulation of up to 10
-- Up to 500 GB per hour backup performance
-- >1 terabyte in production; approaching 10 terabytes next year
-- Hundreds of databases 100GB+ implemented; growing 6-7x every 18 months
-- 99.99% availability required for mission-critical systems (less than 1 hour downtime/year)
-- Large-scale DSS applications growing at rates exceeding 3x per year; expanding into terabyte range
-- Fusion technology: SMP + MPP + commodity servers; experience-driven solutions; best-of-breed RDBMS packaging
-- TruClusters: new clustering + MPP technology on AlphaServer; not quad-based
-- EPS31 connects up to 16 T600 servers via fiber channel switch; not quad-based
-- RS/6000 SP emphasizes MPP; recently ported major RDBMSs; then later acquired Sequent itself
-- Ultra Enterprise x000: big-bus SMP scaling; scale-up via larger shared bus
-- cc-NUMA approach with Intel quads; focus on workstation-to-midrange buyers
-- All hardware suppliers will move towards fusion technology within the next 2 to 5 years
 - IBM/HP/Sun adopted NUMA-like architectures within 2-5 years as predicted; IBM x440 (2002) used ccNUMA derived from Sequent acquisition
-- Sequent will continue to differentiate and deliver large-scale user value over next few years
 - Sequent acquired by IBM for $810M in July 1999; product roadmap collapsed before acquisition; NUMA-Q discontinued
-- Sequent solutions worth a close look for enterprise IS buyers; data-center-ready; technology investment protection validated
 - Supplier must have proven record in high-performance open-systems technology
-- Supplier must have clear roadmap to leverage technology advantages in future
-- Server architecture must offer clear least-cost migration path for scaling
 - Sequent must continue delivering TPC benchmark proof points against competitors

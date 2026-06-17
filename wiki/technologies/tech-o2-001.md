@@ -12,9 +12,9 @@ era: "1992-1998"
 lifecycle_at_study: "growth"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # O2 ODMG Database System
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Achieves scalability extensibility complex-data support and programmer productivity benefits — [[study-1997-object-databases-such-as-o2-odmg--t-c98c72]]
-- Component objects proven key to order-of-magnitude productivity improvements in developer-driven competitive applications — [[study-1997-object-databases-such-as-o2-odmg--t-c98c72]]
+- Component objects proven key to order-of-magnitude productivity improvements in developer-driven competitive applications `[ps=4]` — [[study-1997-object-databases-such-as-o2-odmg--t-c98c72]]
+- Achieves scalability extensibility complex-data support and programmer productivity benefits `[ps=2]` — [[study-1997-object-databases-such-as-o2-odmg--t-c98c72]]

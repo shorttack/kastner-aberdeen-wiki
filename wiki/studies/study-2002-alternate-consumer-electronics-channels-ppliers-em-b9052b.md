@@ -3,7 +3,7 @@ title: "Alternate Consumer Electronics Channels and Suppliers Emerge, Threatenin
 slug: "study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2002-alternate-consumer-electronics-channels-ppliers-em-b9052b"
 author: "Russ Craig"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.57
+prescience_obs_count: 7
 ---
 
 # Alternate Consumer Electronics Channels and Suppliers Emerge, Threatening Incumbents
@@ -32,15 +32,15 @@ _Published 2002, author **Russ Craig**, type **market-study**._
 
 ## Top observations
 
-- Challenged by new S&C provider competition
+- Challenged by new S&C provider competition `[ps=4]`
+- Threatened; S&C providers have structural advantages over traditional CE channels `[ps=4]`
+- Emerging technologies will increase long-term impact on CE channels `[ps=4]`
+- Emerging channel through DSL modem and set-top hardware bundling `[ps=3]`
+- Roku, Amazon Fire TV, Apple TV displaced traditional CE channels for video hardware `[ps=3]`
+- Filed Chapter 11 November 2008; liquidated all US stores March 2009 `[ps=0]`
+- Active; transformed to omnichannel model; Q4 FY26 earnings reported March 2026 `[ps=0]`
 - Challenged by new S&C provider competition
 - Threatened by S&C provider hardware distribution
 - Provide complementary hardware to increase service consumption and customer lock-in
-- Threatened; S&C providers have structural advantages over traditional CE channels
-- Filed Chapter 11 November 2008; liquidated all US stores March 2009
-- Active; transformed to omnichannel model; Q4 FY26 earnings reported March 2026
 - Emerging alternative CE channel with subscriber lock-in hardware
-- Emerging channel through DSL modem and set-top hardware bundling
 - Multiple structural advantages cited
-- Emerging technologies will increase long-term impact on CE channels
-- Roku, Amazon Fire TV, Apple TV displaced traditional CE channels for video hardware

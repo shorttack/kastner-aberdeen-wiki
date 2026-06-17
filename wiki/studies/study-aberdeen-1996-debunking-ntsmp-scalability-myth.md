@@ -3,7 +3,7 @@ title: "Debunking the NT/SMP Scalability Myth"
 slug: "study-aberdeen-1996-debunking-ntsmp-scalability-myth"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1996-debunking-ntsmp-scalability-myth"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.68
+prescience_obs_count: 19
 ---
 
 # Debunking the NT/SMP Scalability Myth
@@ -32,27 +32,27 @@ _Published 1996, author **Aberdeen Group**, type **white-paper**._
 
 ## Top observations
 
-- 90% of all servers sold are 4-processor-or-less
+- 90% of all servers sold are 4-processor-or-less `[ps=5]`
+- HA clusters first (1997 Wolfpack), then performance clusters (late 1997 to 1999) `[ps=5]`
+- NT/SMP scalability should no longer prevent adoption of NT in enterprise; NT will dominate mid-range `[ps=5]`
+- Microsoft released MSCS (Wolfpack) in Windows NT 4.0 Enterprise Edition in Q4 1997 as predicted `[ps=5]`
+- ~90% utilization across 4 processors on NT 4.0 `[ps=4]`
+- 3-phase: (1) Maximize 4-way performance, (2) Continue SMP non-aggressively, (3) High-end via performance clustering `[ps=4]`
+- 4-way NT servers will reach 11,000-16,000 tpmC range by end of 1998 `[ps=4]`
+- Windows 2000/2003 Server became market leader in mid-range by 2002; Unix declined by 3 percentage points per IDC `[ps=4]`
+- Applications tuning to take advantage of NT SMP will be the next bottleneck after hardware is tuned `[ps=4]`
+- Performance is secondary to reliability in mission-critical environments `[ps=4]`
+- NT 8-way servers that scale well are imminent; probably by early 1997 `[ps=3]`
+- <2,500 tpmC; file read/write/print activities `[ps=2]`
+- More than 100,000 NT/HA servers will have been sold by end 1998 `[ps=2]`
+- 6,712 tpmC at $65/tpmC (4-way NT Server 4.0 / SQL Server 6.5) `[ps=0]`
+- >20,000 tpmC at $305/tpmC (AlphaServer 5/35) `[ps=0]`
+- >20,000 tpmC at $396/tpmC `[ps=0]`
+- Sequent: 28 processors; sold 14-processor NT systems; NCR: 16 processors `[ps=0]`
+- 2,500-15,000 tpmC; HP 9000, DEC AlphaServer, IBM RS/6000, AS/400, Sun Ultra `[ps=0]`
+- Compaq/Microsoft exceeded 16,000 tpmC on 4-way NT by 1998; prediction verified `[ps=0]`
 - 2,454 tpmC at $242/tpmC (Compaq 4-way Intel)
-- 6,712 tpmC at $65/tpmC (4-way NT Server 4.0 / SQL Server 6.5)
-- >20,000 tpmC at $305/tpmC (AlphaServer 5/35)
-- >20,000 tpmC at $396/tpmC
-- ~90% utilization across 4 processors on NT 4.0
 - 50% (PC vendors learning) to 90% (enterprise-experienced SMP vendors)
-- Sequent: 28 processors; sold 14-processor NT systems; NCR: 16 processors
-- 3-phase: (1) Maximize 4-way performance, (2) Continue SMP non-aggressively, (3) High-end via performance clustering
-- HA clusters first (1997 Wolfpack), then performance clusters (late 1997 to 1999)
-- <2,500 tpmC; file read/write/print activities
-- 2,500-15,000 tpmC; HP 9000, DEC AlphaServer, IBM RS/6000, AS/400, Sun Ultra
 - >15,000 tpmC; DEC 32-way AlphaServer, HP 48-way EPS30; up to 50,000 tpmC for heaviest OLTP
-- 4-way NT servers will reach 11,000-16,000 tpmC range by end of 1998
-- More than 100,000 NT/HA servers will have been sold by end 1998
 - NT performance clusters (two 4-way servers) will exceed 20,000 tpmC by early 1999
-- NT/SMP scalability should no longer prevent adoption of NT in enterprise; NT will dominate mid-range
-- NT 8-way servers that scale well are imminent; probably by early 1997
-- Compaq/Microsoft exceeded 16,000 tpmC on 4-way NT by 1998; prediction verified
-- Microsoft released MSCS (Wolfpack) in Windows NT 4.0 Enterprise Edition in Q4 1997 as predicted
-- Windows 2000/2003 Server became market leader in mid-range by 2002; Unix declined by 3 percentage points per IDC
-- Applications tuning to take advantage of NT SMP will be the next bottleneck after hardware is tuned
-- Performance is secondary to reliability in mission-critical environments
 - Many IS managers claim today's NT tpmC >6,750 rivals computing power of their existing mainframe systems

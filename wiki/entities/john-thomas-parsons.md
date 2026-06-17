@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # John Thomas
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- definitely interested — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- definitely interested `[ps=0]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]

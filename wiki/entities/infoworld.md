@@ -12,9 +12,9 @@ status: "renamed"
 successor: "InfoWorld.com (IDG, print ended 2007)"
 years_active: "1978-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # InfoWorld
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- InfoWorld ceased print publication in April 2007, continuing as InfoWorld.com (IDG) — part of a broader shift in IT trade publishing from print to digital. — [[study-seven-ways-to-prepare-for-the-economic-u-0a7d35]]
+- InfoWorld ceased print publication in April 2007, continuing as InfoWorld.com (IDG) — part of a broader shift in IT trade publishing from print to digital. `[ps=5]` — [[study-seven-ways-to-prepare-for-the-economic-u-0a7d35]]

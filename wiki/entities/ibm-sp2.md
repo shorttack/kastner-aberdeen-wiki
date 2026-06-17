@@ -12,9 +12,9 @@ status: "discontinued"
 successor: "IBM pSeries"
 years_active: "1993-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM SP2
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- primary_competitor_to_cs6400 — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- primary_competitor_to_cs6400 `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]

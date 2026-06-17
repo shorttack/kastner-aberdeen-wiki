@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Microsoft Windows Server actively developed. Windows Server 2025 is current release. Core enterprise server OS for Microsoft ecosystem.', 'source': 'https://learn.microsoft.com/en-us/windows-server/'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 0.25
+prescience_obs_count: 4
 ---
 
 # Microsoft Windows Server (Wintel)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- PC sales dropped 19% to $4.8B in first combined quarter (Q3 FY2002); Personal Systems cut operating loss by 50%+ sequentially in Q4 FY2002 — [[study-2001-hp-cpq-merger-collection-edbca1]]
-- Linux 20% less throughput — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
-- Wintel 50%+ better — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
-- 10-20x greater for mainframe — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
+- 10-20x greater for mainframe `[ps=1]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
+- PC sales dropped 19% to $4.8B in first combined quarter (Q3 FY2002); Personal Systems cut operating loss by 50%+ sequentially in Q4 FY2002 `[ps=0]` — [[study-2001-hp-cpq-merger-collection-edbca1]]
+- Linux 20% less throughput `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
+- Wintel 50%+ better `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]

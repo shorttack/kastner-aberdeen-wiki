@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Unisys (1986)"
 years_active: "1950s-1986"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # UNIVAC / Sperry Rand
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Equipment described as 'archeologically obsolete'; spare parts legendarily dumped at sea; impossible to source replacement hardware at any price. — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
-- Legend: spare parts for Chase Manhattan’s Univac had literally been dumped at sea; replacement hardware unavailable at any price. — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
+- Equipment described as 'archeologically obsolete'; spare parts legendarily dumped at sea; impossible to source replacement hardware at any price. `[ps=0]` — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
+- Legend: spare parts for Chase Manhattan’s Univac had literally been dumped at sea; replacement hardware unavailable at any price. `[ps=0]` — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]

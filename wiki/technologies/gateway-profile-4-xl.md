@@ -12,9 +12,9 @@ era: "2002-2004"
 lifecycle_at_study: "new"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Gateway Profile 4 XL
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- all-in-one with 17in LCD, 'tip of the hat to Apple' — [[study-dct-kastner-wish-list-2002-12]]
+- all-in-one with 17in LCD, 'tip of the hat to Apple' `[ps=3]` — [[study-dct-kastner-wish-list-2002-12]]

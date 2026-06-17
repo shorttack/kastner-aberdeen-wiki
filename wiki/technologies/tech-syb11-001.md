@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Current/Growing"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Sybase System 11
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Less than 4% of $13B RDBMS market — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
-- Migration to System 11 requires hardware expansion, stored procedure rewrites, administrator retraining — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
+- Migration to System 11 requires hardware expansion, stored procedure rewrites, administrator retraining `[ps=4]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
+- Less than 4% of $13B RDBMS market `[ps=0]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]

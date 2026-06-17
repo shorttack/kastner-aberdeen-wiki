@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1983-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Pearson Spaght
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- President FSI; MBA Stanford; Engineer NASA; VP Strategy Raymark Corporation; MS/BS Aero/Astronautical Engineering Stanford — [[study-2001-fletcher-spaght-3bb872]]
+- President FSI; MBA Stanford; Engineer NASA; VP Strategy Raymark Corporation; MS/BS Aero/Astronautical Engineering Stanford `[ps=0]` — [[study-2001-fletcher-spaght-3bb872]]

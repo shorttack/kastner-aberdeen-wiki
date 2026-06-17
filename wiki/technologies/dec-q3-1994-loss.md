@@ -12,9 +12,9 @@ era: "1994"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # DEC Q3 fiscal 1994 surprise loss
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Palmer 'conceded he had been caught by surprise by the severity of the loss' `[ps=0]` — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]
 - $183M loss announced April 15, 1994; stock plummeted; analysts criticized DEC's inability to predict its own results — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]
-- Palmer 'conceded he had been caught by surprise by the severity of the loss' — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]

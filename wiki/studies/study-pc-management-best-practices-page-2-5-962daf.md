@@ -3,7 +3,7 @@ title: "PC Management Best Practices: A Study of the Total Cost of Ownership, Ri
 slug: "study-pc-management-best-practices-page-2-5-962daf"
 page_type: "study"
 tags: ["type/study", "collection/newsletter"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "pc-management-best-practices-page-2-5-962daf"
 author: "The IIA Research Foundation (RF Report, Issue No. 6)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 4
 ---
 
 # PC Management Best Practices: A Study of the Total Cost of Ownership, Risk, Security, and Audit (IIA Research Foundation feature)
@@ -32,10 +32,10 @@ _Published 2004, author **The IIA Research Foundation (RF Report, Issue No. 6)**
 
 ## Top observations
 
+- Older PCs actually cost more to operate, which might explain the high cost of extended warranties. `[ps=5]`
+- From an IT standpoint, many companies still use older computers and older software, which might lead to a liability problem once hardware and software manufacturers stop supporting older versions. `[ps=5]`
+- Effective January 1, 2004 The IIA Research Foundation, Educational Products, and Academic Relations merged under a unified mission statement and new Board of Research and Education Advisors (BREA). `[ps=0]`
+- IIARF published 'PC Management Best Practices: A Study of the Total Cost of Ownership, Risk, Security, and Audit' by Mark Salamasick and Charles Le Grand (2003), using COSO and SAC models with case studies. `[ps=0]`
 - The optimal desktop lifecycle is three years, which corresponds with the duration of a standard warranty.
 - If your organization knows it has machines that are vulnerable, that may be called negligence.
-- Older PCs actually cost more to operate, which might explain the high cost of extended warranties.
-- Effective January 1, 2004 The IIA Research Foundation, Educational Products, and Academic Relations merged under a unified mission statement and new Board of Research and Education Advisors (BREA).
-- IIARF published 'PC Management Best Practices: A Study of the Total Cost of Ownership, Risk, Security, and Audit' by Mark Salamasick and Charles Le Grand (2003), using COSO and SAC models with case studies.
-- From an IT standpoint, many companies still use older computers and older software, which might lead to a liability problem once hardware and software manufacturers stop supporting older versions.
 - Three-year corporate PC refresh became the de facto standard through the 2010s; partial reversal after 2015 as cloud/SaaS and remote work pushed lifecycles toward 4-5 years.

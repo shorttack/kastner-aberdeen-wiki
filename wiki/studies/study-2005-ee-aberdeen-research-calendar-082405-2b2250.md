@@ -1,5 +1,5 @@
 ---
-title: "==> picture [432 x 115] intentionally omitted <=="
+title: "2005 Ee Aberdeen Research Calendar 082405 (Aberdeen, 2005)"
 slug: "study-2005-ee-aberdeen-research-calendar-082405-2b2250"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 3.17
 prescience_obs_count: 12
 ---
 
-# ==> picture [432 x 115] intentionally omitted <==
+# 2005 Ee Aberdeen Research Calendar 082405 (Aberdeen, 2005)
 
-> This study analyzes ==> picture [432 x 115] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study 2005-ee-aberdeen-research-calendar-082405-2b2250. Source: 2005_ee_aberdeen_research_calendar_082405.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **benchmark**._

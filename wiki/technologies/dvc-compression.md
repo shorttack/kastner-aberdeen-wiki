@@ -12,9 +12,9 @@ era: "1997-2000"
 lifecycle_at_study: "pre-commercial"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # DVC Digital Compression Technology
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- At least 10 digital channels per analog channel; 100-to-1 video image shrinkage; side-by-side analog and digital broadcast — [[study-omnibox97-53bcfe]]
+- At least 10 digital channels per analog channel; 100-to-1 video image shrinkage; side-by-side analog and digital broadcast `[ps=4]` — [[study-omnibox97-53bcfe]]

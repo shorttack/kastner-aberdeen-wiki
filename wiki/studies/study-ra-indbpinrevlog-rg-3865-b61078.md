@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ra Indbpinrevlog Rg 3865 (Aberdeen, 2007)"
 slug: "study-ra-indbpinrevlog-rg-3865-b61078"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.62
-prescience_obs_count: 48
+prescience_mean: 0.9
+prescience_obs_count: 41
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ra Indbpinrevlog Rg 3865 (Aberdeen, 2007)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-indbpinrevlog-rg-3865-b61078. Source: ra_indbpinrevlog_rg_3865.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **topic-analysis**._

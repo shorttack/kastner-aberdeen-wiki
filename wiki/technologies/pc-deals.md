@@ -12,9 +12,9 @@ era: "2001-2003"
 lifecycle_at_study: "current"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Aberdeen PC Deals
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Back-to-school period had best PC deals; Christmas saw price increases — [[study-dct-intel-processor-prices-2003-01]]
-- Q1 2003 spring quarter will force price cuts to move inventory — [[study-dct-intel-processor-prices-2003-01]]
+- Q1 2003 spring quarter will force price cuts to move inventory `[ps=5]` — [[study-dct-intel-processor-prices-2003-01]]
+- Back-to-school period had best PC deals; Christmas saw price increases `[ps=3]` — [[study-dct-intel-processor-prices-2003-01]]

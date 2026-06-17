@@ -12,9 +12,9 @@ status: "acquired"
 successor: "SAP SE (acquired Sybase 2010 for $5.8B)"
 years_active: "1984-2010"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Sybase/Powersoft (PowerBuilder)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sybase/Powersoft committed to using repository from recently acquired company; delivery date not yet clear; use for next-gen technology even further off — [[study-aberdeen-1996-moving-effectively-next-gen-client-server]]
+- Sybase/Powersoft committed to using repository from recently acquired company; delivery date not yet clear; use for next-gen technology even further off `[ps=4]` — [[study-aberdeen-1996-moving-effectively-next-gen-client-server]]

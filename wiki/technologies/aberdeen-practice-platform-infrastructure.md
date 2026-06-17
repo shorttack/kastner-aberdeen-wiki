@@ -12,9 +12,9 @@ era: "2000"
 lifecycle_at_study: "launched"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Aberdeen Platform Infrastructure (PI) Practice
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sole coordinator — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- scalability flexibility Web robustness ever-increasing workloads rapid online upgradeability — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- BMC Software; Compaq Computer; Computer Associates International; EMC; eXcelon; Hewlett-Packard; IBM; Informix Software; Legato Systems; Microsoft; Oracle; Pervasive; Progress; Sterling Software; Sun Microsystems; Sybase; Tivoli Storage Management; Unisys; VERITAS Software — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- Sole coordinator `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- scalability flexibility Web robustness ever-increasing workloads rapid online upgradeability `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- BMC Software; Compaq Computer; Computer Associates International; EMC; eXcelon; Hewlett-Packard; IBM; Informix Software; Legato Systems; Microsoft; Oracle; Pervasive; Progress; Sterling Software; Sun Microsystems; Sybase; Tivoli Storage Management; Unisys; VERITAS Software `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]

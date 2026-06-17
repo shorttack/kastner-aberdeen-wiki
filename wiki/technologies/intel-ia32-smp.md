@@ -12,9 +12,9 @@ era: "1993-2005"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Intel IA-32 SMP Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Industry standard server architecture enabling 32-way SMP via ES7000 CMP design — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]
+- Industry standard server architecture enabling 32-way SMP via ES7000 CMP design `[ps=2]` — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]

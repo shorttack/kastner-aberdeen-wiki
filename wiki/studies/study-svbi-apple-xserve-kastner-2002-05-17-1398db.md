@@ -3,7 +3,7 @@ title: "Apple server piques interest of Mac shops (Silicon Valley Business Ink, 
 slug: "study-svbi-apple-xserve-kastner-2002-05-17-1398db"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "svbi-apple-xserve-kastner-2002-05-17-1398db"
 author: "Steve Tanner (Silicon Valley Business Ink)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.17
+prescience_obs_count: 6
 ---
 
 # Apple server piques interest of Mac shops (Silicon Valley Business Ink, May 17, 2002)
@@ -32,14 +32,14 @@ _Published 2002, author **Steve Tanner (Silicon Valley Business Ink)**, type **n
 
 ## Top observations
 
+- Xserve product line discontinued January 2011 — validated Kastner's 2002 prediction `[ps=4]`
+- This is a historical moment for this incarnation of Apple; they're breaking away from their consumer desktop focus and encompassing products clearly targeting the enterprise `[ps=2]`
+- Server market comprises education, creative media, video and film production, and bioinformatics `[ps=1]`
+- We're approaching this very carefully, and we have a lot to learn `[ps=0]`
+- Could literally consolidate 23 racks of G4s into 4 racks of Xserves `[ps=0]`
+- Purchased 1,000 new iMacs for staff; plans to use new Xserve for large gene-sequence computing `[ps=0]`
 - Likes the price and the technology, but isn't confident that Apple can dent the enterprise server market
 - It's too late for Apple to get back into the bread-and-butter enterprise market for desktops and servers
 - Entry: single-G4 $2,999; two-processor $3,999; released May 14 2002
-- We're approaching this very carefully, and we have a lot to learn
-- This is a historical moment for this incarnation of Apple; they're breaking away from their consumer desktop focus and encompassing products clearly targeting the enterprise
 - 23 racks x 4 G4s each = 184 G4 computers in server room
-- Could literally consolidate 23 racks of G4s into 4 racks of Xserves
 - This new server makes it actually cheaper because you don't have to buy additional components; iMacs used as servers lack redundancy
-- Purchased 1,000 new iMacs for staff; plans to use new Xserve for large gene-sequence computing
-- Server market comprises education, creative media, video and film production, and bioinformatics
-- Xserve product line discontinued January 2011 — validated Kastner's 2002 prediction

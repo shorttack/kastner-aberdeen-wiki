@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Eugene Fram
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Anything you can do to get consumers to buy your product vs. your competitor is a valuable tool, because differentiation is very hard to buy. Your rebates make your products stand out against other highly commoditized products. — [[study-rebates-spur-buyers-but-many-don-t-colle-2aaa2e]]
+- Anything you can do to get consumers to buy your product vs. your competitor is a valuable tool, because differentiation is very hard to buy. Your rebates make your products stand out against other highly commoditized products. `[ps=3]` — [[study-rebates-spur-buyers-but-many-don-t-colle-2aaa2e]]

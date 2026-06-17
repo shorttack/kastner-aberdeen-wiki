@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1982-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # USA Today (Gannett)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- USA Today McLean VA, circ 2,241,677 — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]
+- USA Today McLean VA, circ 2,241,677 `[ps=0]` — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]

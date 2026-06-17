@@ -12,9 +12,9 @@ era: "2001-2010s"
 lifecycle_at_study: "novel"
 lifecycle_current: "evolved-into-Surface-Pro"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.2
+prescience_obs_count: 10
 ---
 
 # Microsoft Tablet PC
@@ -24,14 +24,14 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- huge positioning mistake if narrow appliance — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
-- second half 2002 — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
-- $2,000-$2,500 per unit — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- Tablet PC has not turned into a megahit `[ps=5]` — [[study-usatoday-maney-microsoft-patents-rd-spen-8fdf22]]
+- potential is high `[ps=4]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- huge positioning mistake if narrow appliance `[ps=2]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- $2,000-$2,500 per unit `[ps=1]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- second half 2002 `[ps=0]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- every 8-9 years for most of careers `[ps=0]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- Crusoe family `[ps=0]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- definitely interested `[ps=0]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- wait 6 months after release `[ps=0]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- Acer/Compaq/Fujitsu/NEC + Adobe/Autodesk/Corel/Groove `[ps=0]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
 - incredibly invested in success — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
-- every 8-9 years for most of careers — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
-- Crusoe family — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
-- definitely interested — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
-- wait 6 months after release — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
-- Acer/Compaq/Fujitsu/NEC + Adobe/Autodesk/Corel/Groove — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
-- potential is high — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
-- Tablet PC has not turned into a megahit — [[study-usatoday-maney-microsoft-patents-rd-spen-8fdf22]]

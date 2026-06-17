@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Inacom (1998)"
 years_active: "1988-1998"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Vanstar Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquired by Inacom October 1998 for approximately $465M in stock — [[study-1998-network-integration-services-report-f75108]]
+- Acquired by Inacom October 1998 for approximately $465M in stock `[ps=0]` — [[study-1998-network-integration-services-report-f75108]]

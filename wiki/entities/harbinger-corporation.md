@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Peregrine Systems (2000) -> Inovis -> GXS -> OpenText"
 years_active: "1983-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Harbinger Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Harbinger positioned as acquisitive EDI VAN transitioning to internet EC — [[study-dollars-and-sense-b2b-ec-eb8c9d]]
+- Harbinger positioned as acquisitive EDI VAN transitioning to internet EC `[ps=4]` — [[study-dollars-and-sense-b2b-ec-eb8c9d]]

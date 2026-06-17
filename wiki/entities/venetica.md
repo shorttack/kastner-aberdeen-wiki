@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM (August 2004)"
 years_active: "late 1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Venetica
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Venetica EII revenue estimate: $7-10 million (2003 projected) — [[study-aberdeen-eii-2003-ea3f1a]]
+- Venetica EII revenue estimate: $7-10 million (2003 projected) `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM (acquired 1984)"
 years_active: "1969-1988"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Rolm Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Rolm digital PBX switching millions of calls needed exactly the reliability Stratus provided; a PBX was an always-on application. `[ps=4]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
 - Rolm digital PBX switching millions of calls was an always-on application; telecom had highest cost of downtime of any industry. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
-- Rolm digital PBX switching millions of calls needed exactly the reliability Stratus provided; a PBX was an always-on application. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]

@@ -12,9 +12,9 @@ era: "2000"
 lifecycle_at_study: "launched"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.33
+prescience_obs_count: 9
 ---
 
 # Aberdeen Data Knowledge / Decision Support / Knowledge Management Practice
@@ -24,15 +24,15 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $1.63B — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- $1.2B — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- $728M — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- $89M — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- $1.1B — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- most suppliers have not driven current technologies deeply enough into a business context — and toward solving a specific business problem `[ps=3]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- $1.63B `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- $1.2B `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- $728M `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- $89M `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- $1.1B `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- $5.89B `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- $1.3B `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- $138M `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - $40M — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - $36M — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- $5.89B — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- $1.3B — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - $188M — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- $138M — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- most suppliers have not driven current technologies deeply enough into a business context — and toward solving a specific business problem — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]

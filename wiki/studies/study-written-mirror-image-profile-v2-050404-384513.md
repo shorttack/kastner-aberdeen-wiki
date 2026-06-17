@@ -1,5 +1,5 @@
 ---
-title: "==> picture [442 x 39] intentionally omitted <=="
+title: "Written Mirror Image Profile V2 (050404) (Aberdeen, 1988)"
 slug: "study-written-mirror-image-profile-v2-050404-384513"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [442 x 39] intentionally omitted <==
+# Written Mirror Image Profile V2 (050404) (Aberdeen, 1988)
 
-> This study analyzes ==> picture [442 x 39] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-mirror-image-profile-v2-050404-384513. Source: Written__Mirror Image Profile V2 (050404).pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 1988, author **Aberdeen Group**, type **benchmark**._
@@ -32,4 +32,4 @@ _Published 1988, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- This study analyzes ==> picture [442 x 39] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [442 x 39] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

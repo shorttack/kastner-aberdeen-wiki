@@ -12,9 +12,9 @@ era: "evolved"
 lifecycle_at_study: "System 11 superseded by later Sybase/SAP versions; SAP ASE (Adaptive Server Enterprise) is current successor"
 lifecycle_current: "1995"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 5
 ---
 
 # Sybase System 11
@@ -24,12 +24,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3 x-times — [[study-aberdeen-1995-limd-technology]]
+- 3 x-times `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
+- 85 percent `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
+- 2 gigabytes `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
+- 10000 users `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
+- 100 GB-per-hour `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
 - 5 x-times — [[study-aberdeen-1995-limd-technology]]
-- 85 percent — [[study-aberdeen-1995-limd-technology]]
-- 2 gigabytes — [[study-aberdeen-1995-limd-technology]]
-- 10000 users — [[study-aberdeen-1995-limd-technology]]
-- 100 GB-per-hour — [[study-aberdeen-1995-limd-technology]]
 - 10000 users — [[study-aberdeen-1995-limd-technology]]
 - 10 x-times — [[study-aberdeen-1995-limd-technology]]
 - Kastner: 'There are all kinds of boats. There's solings for Olympic class racing. There are tenders for moving people around. There are cruisers for people who want to sail, but then get somewhere. You know, that's a lot like Sybase's approach.' — [[study-sybase-xi-launch-boats-analogy-multiple-databases-79c9ee]]

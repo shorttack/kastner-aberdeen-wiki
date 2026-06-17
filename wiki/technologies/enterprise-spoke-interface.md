@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "current-1992"
 lifecycle_current: "evolved-into-modern-business-services"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Enterprise-Spoke Interface Set
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Product Look-up, Pricing Information, Order Entry, Master Database, Current Inventory — [[study-aberdeen-snr-architecture-three-tier-sli-abaaa5]]
+- Product Look-up, Pricing Information, Order Entry, Master Database, Current Inventory `[ps=0]` — [[study-aberdeen-snr-architecture-three-tier-sli-abaaa5]]

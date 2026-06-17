@@ -12,9 +12,9 @@ era: "1997-2000"
 lifecycle_at_study: "pre-commercial"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # OmniBox Digital Set-Top-Box
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Under $200 for base module; ~$50-$75 for accessory modules — [[study-omnibox97-53bcfe]]
+- Under $200 for base module; ~$50-$75 for accessory modules `[ps=0]` — [[study-omnibox97-53bcfe]]

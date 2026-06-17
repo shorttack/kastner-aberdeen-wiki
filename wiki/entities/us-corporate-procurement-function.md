@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1900s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # U.S. Corporate Procurement Function
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Procurement of non-production goods and services has been an overlooked opportunity for cost management at most organizations — [[study-1998-internet-procurement-cdc4a6]]
+- Procurement of non-production goods and services has been an overlooked opportunity for cost management at most organizations `[ps=4]` — [[study-1998-internet-procurement-cdc4a6]]

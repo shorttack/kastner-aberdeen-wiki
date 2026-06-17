@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "Active / Growing"
 lifecycle_current: "Evolved to BPM/RPA/low-code platforms"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Workflow Software
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Eastman Software's workflow capabilities will position it as dominant force in desktop and departmental server market — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
-- Eastman Software was sold before achieving dominant position; workflow market moved to SharePoint Lotus Notes and later BPM platforms; Eastman Software technology did not achieve predicted dominance — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
+- Eastman Software was sold before achieving dominant position; workflow market moved to SharePoint Lotus Notes and later BPM platforms; Eastman Software technology did not achieve predicted dominance `[ps=5]` — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
+- Eastman Software's workflow capabilities will position it as dominant force in desktop and departmental server market `[ps=1]` — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]

@@ -12,9 +12,9 @@ era: "mid-1990s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.44
+prescience_obs_count: 9
 ---
 
 # Advanced Planning Engine Technologies (APET)
@@ -24,14 +24,14 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- apet_first_acquisition_on_reengineering_path — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- build_to_order_not_stock `[ps=4]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- reduced_wip_inventory `[ps=4]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- apet_generates_capital_for_broader_reengineering `[ps=3]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- 70_percent_order_cost_reduction `[ps=2]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- apet_first_acquisition_on_reengineering_path `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- 5_5m_cost_savings `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- synchronized_production_flow `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- heart_bypass_procedure_model `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- seven_key_suppliers_identified `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
 - 2_5_weeks_pilot — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
 - 900k_savings_year_1 — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
-- 5_5m_cost_savings — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
-- 70_percent_order_cost_reduction — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
-- synchronized_production_flow — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
-- build_to_order_not_stock — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
-- reduced_wip_inventory — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
-- heart_bypass_procedure_model — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
-- seven_key_suppliers_identified — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
-- apet_generates_capital_for_broader_reengineering — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]

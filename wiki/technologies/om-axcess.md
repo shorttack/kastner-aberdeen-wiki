@@ -12,9 +12,9 @@ era: "1995-2003"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # OM-Axcess
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Central access management across HTTP layer and individual database layer — [[study-aberdeen-1996-open-market-web-based-commerce]]
+- Central access management across HTTP layer and individual database layer `[ps=4]` — [[study-aberdeen-1996-open-market-web-based-commerce]]

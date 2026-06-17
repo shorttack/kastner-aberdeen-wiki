@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "legacy"
 lifecycle_current: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Interface Definition Language (IDL)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Planned for ObjectBroker 2.6 `[ps=0]` — [[study-aberdeen-1995-digital-objectbroker]]
 - C binding, Visual Basic DLL binding — [[study-aberdeen-1995-digital-objectbroker]]
-- Planned for ObjectBroker 2.6 — [[study-aberdeen-1995-digital-objectbroker]]

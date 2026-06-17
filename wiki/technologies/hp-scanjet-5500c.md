@@ -12,9 +12,9 @@ era: "2002-2005"
 lifecycle_at_study: "new"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # HP ScanJet 5500c
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- bulk-scan photos/slides/negatives for digital archive — [[study-dct-kastner-wish-list-2002-12]]
+- bulk-scan photos/slides/negatives for digital archive `[ps=4]` — [[study-dct-kastner-wish-list-2002-12]]

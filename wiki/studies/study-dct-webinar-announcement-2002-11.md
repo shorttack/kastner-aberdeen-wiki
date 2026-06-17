@@ -3,7 +3,7 @@ title: "Digital Consumer Technology: The Revolution Has Started — Aberdeen Web
 slug: "study-dct-webinar-announcement-2002-11"
 page_type: "study"
 tags: ["type/study", "collection/dct"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "dct-webinar-announcement-2002-11"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.71
+prescience_obs_count: 7
 ---
 
 # Digital Consumer Technology: The Revolution Has Started — Aberdeen Webinar
@@ -32,15 +32,15 @@ _Published 2002, author **Peter S. Kastner**, type **dct**._
 
 ## Top observations
 
+- Convergent voice+data wireless = hottest segment `[ps=5]`
+- All current solutions unsatisfactory `[ps=0]`
+- EVP and Chief Research Officer `[ps=0]`
+- Research Director, Semiconductors `[ps=0]`
+- Research Associate, Emerging Technologies Intelligence Group `[ps=0]`
+- 2002-11-01 11:30 AM Eastern (GMT-04:00) `[ps=0]`
+- 1 hour including Q&A `[ps=0]`
 - Boundaries blurring; non-traditional competitors in contact
-- Convergent voice+data wireless = hottest segment
 - Slower than expected
 - Diverse; no dominant approach yet
 - Aberdeen view to be presented
 - Acronym soup inundating consumers
-- All current solutions unsatisfactory
-- EVP and Chief Research Officer
-- Research Director, Semiconductors
-- Research Associate, Emerging Technologies Intelligence Group
-- 2002-11-01 11:30 AM Eastern (GMT-04:00)
-- 1 hour including Q&A

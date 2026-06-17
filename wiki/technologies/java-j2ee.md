@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "{'lifecycle_current': 'evolved', 'notes': 'J2EE evolved into Java EE, then Jakarta EE (now at Jakarta EE 11). The J2EE brand is retired but the platform lives on as Jakarta EE under Eclipse Foundation. Active development continues.', 'source': 'https://jakarta.ee/'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Java/J2EE Platform
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Half implementing SOA using Java J2EE; about one-third implementing on both Java and .NET — [[study-esb-0617-5cc5fa]]
+- Half implementing SOA using Java J2EE; about one-third implementing on both Java and .NET `[ps=3]` — [[study-esb-0617-5cc5fa]]

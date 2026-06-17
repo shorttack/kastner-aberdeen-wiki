@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'end-of-life', 'notes': 'SQL Server 2000 (v8.x) reached end of extended support on April 9, 2013. No security updates available. Fully end-of-life.', 'source': 'General knowledge / Microsoft lifecycle'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # SQL Server 2000 (v8.00.850)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Suitable for mission-critical systems when combined with Datacenter 2000 — [[study-2001-unisys-benchmark-gorilla-sets-new-sap-and-intel-ba-19cf5a]]
+- Suitable for mission-critical systems when combined with Datacenter 2000 `[ps=3]` — [[study-2001-unisys-benchmark-gorilla-sets-new-sap-and-intel-ba-19cf5a]]

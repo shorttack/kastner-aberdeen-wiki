@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ra Advancedsourcing 3857 (Aberdeen, 2007)"
 slug: "study-ra-advancedsourcing-3857-9ede9d"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.89
-prescience_obs_count: 38
+prescience_mean: 1.06
+prescience_obs_count: 35
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ra Advancedsourcing 3857 (Aberdeen, 2007)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-advancedsourcing-3857-9ede9d. Source: ra_advancedsourcing_3857.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **topic-analysis**._

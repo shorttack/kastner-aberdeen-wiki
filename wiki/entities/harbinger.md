@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Peregrine Systems (1999)"
 years_active: "1988-2004"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Harbinger Corporation
@@ -29,5 +29,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $120M+ annualized — [[study-ecprac~1-a7d0e4]]
+- $120M+ annualized `[ps=0]` — [[study-ecprac~1-a7d0e4]]
 - Fewer than 1000 employees; baby among big three EDI/VAN integrators; lead in PC-based EDI — [[study-ecpspr~1-4968bf]]

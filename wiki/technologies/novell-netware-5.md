@@ -12,9 +12,9 @@ era: "1998-2002"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Novell NetWare 5
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NetWare 5 launch on track; beta testing on schedule; customer feedback favorable; good chance to recapture mindshare — [[study-nospra~1-bd7d6a]]
+- NetWare 5 launch on track; beta testing on schedule; customer feedback favorable; good chance to recapture mindshare `[ps=1]` — [[study-nospra~1-bd7d6a]]
 - Verify NetWare 5 reception and market impact. — [[study-nospra~1-bd7d6a]]

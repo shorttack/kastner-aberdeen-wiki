@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Daniel Lyons
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- could end up dealing with all customers — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- could end up dealing with all customers `[ps=5]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]

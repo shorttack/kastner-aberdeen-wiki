@@ -12,9 +12,9 @@ era: "1991-present"
 lifecycle_at_study: "dominant"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Sybase PowerBuilder
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Powersoft & Watcom among market leaders in development tools — [[study-jungle-6-7af8b7]]
+- Powersoft & Watcom among market leaders in development tools `[ps=3]` — [[study-jungle-6-7af8b7]]

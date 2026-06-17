@@ -12,9 +12,9 @@ era: "1980s"
 lifecycle_at_study: "current-1985"
 lifecycle_current: "obsolete-superseded-by-tpc-a-b-c"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Stratus TP-1 Internal Transaction Benchmark
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Task metering had no measurable effect; cache utilization significantly impacts performance; multiple server copies greatly improve performance `[ps=4]` — [[study-stratus-internal-benchmark-tuning-guide--c53e3f]]
+- 5 indexed reads + 2 indexed rewrites + 1 sequential log write per tx; 5000-cycle requester loop, 200-cycle server loop; 30s sleep +/- 5s; no screen I/O, no comms `[ps=0]` — [[study-stratus-internal-benchmark-tuning-guide--c53e3f]]
 - TP1 and ET1 are NOT the same benchmark or even a variation; vendor comparisons based on TP1-vs-ET1 results are invalid — [[study-stratus-et1-functional-spec-and-benchmar-0c3172]]
 - 150ms CPU loop + 5 indexed reads + 2 rewrites + 1 sequential log write; PL1 requester, COBOL server; Stratus TPF — [[study-stratus-et1-functional-spec-and-benchmar-0c3172]]
-- 5 indexed reads + 2 indexed rewrites + 1 sequential log write per tx; 5000-cycle requester loop, 200-cycle server loop; 30s sleep +/- 5s; no screen I/O, no comms — [[study-stratus-internal-benchmark-tuning-guide--c53e3f]]
-- Task metering had no measurable effect; cache utilization significantly impacts performance; multiple server copies greatly improve performance — [[study-stratus-internal-benchmark-tuning-guide--c53e3f]]

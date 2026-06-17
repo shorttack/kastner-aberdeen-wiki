@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "mature-declining"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Unix Workstation (RISC-based)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Flat-to-decreased growth over next several years as NT-on-Intel gains in processor and graphics performance — [[study-workst~1-d22401]]
-- NT benchmarked equal to midrange Unix at one-third the acquisition cost — [[study-workst~1-d22401]]
+- Flat-to-decreased growth over next several years as NT-on-Intel gains in processor and graphics performance `[ps=4]` — [[study-workst~1-d22401]]
+- NT benchmarked equal to midrange Unix at one-third the acquisition cost `[ps=4]` — [[study-workst~1-d22401]]

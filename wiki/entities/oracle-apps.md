@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1987-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Oracle Applications
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- still_developing_in_1996 — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
+- still_developing_in_1996 `[ps=0]` — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]

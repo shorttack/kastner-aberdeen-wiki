@@ -12,9 +12,9 @@ era: "1993-2012"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.57
+prescience_obs_count: 7
 ---
 
 # Unify VISION
@@ -24,15 +24,15 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Reduced deployment costs vs. traditional methods `[ps=4]` — [[study-1997-unify-vision-8fcfc3]]
+- Cross-platform: Windows; Linux; Unix — broad OS coverage `[ps=4]` — [[study-1997-unify-vision-8fcfc3]]
+- Capable of thousands-of-users deployments; 911 CAD systems cited as example `[ps=3]` — [[study-1997-unify-vision-8fcfc3]]
+- Java embedding on product roadmap; not yet fully delivered `[ps=3]` — [[study-1997-unify-vision-8fcfc3]]
+- Mature 4GL RAD capabilities; forms/report generation; workflow; proven in production `[ps=3]` — [[study-1997-unify-vision-8fcfc3]]
+- Faster competitive-advantage upgrades than alternatives `[ps=1]` — [[study-1997-unify-vision-8fcfc3]]
+- Partial — Java embedding planned but not yet fully implemented at time of study `[ps=0]` — [[study-1997-unify-vision-8fcfc3]]
 - High-end 4GL with mature client-server and emerging internet capability — [[study-1997-unify-vision-8fcfc3]]
-- Capable of thousands-of-users deployments; 911 CAD systems cited as example — [[study-1997-unify-vision-8fcfc3]]
-- Reduced deployment costs vs. traditional methods — [[study-1997-unify-vision-8fcfc3]]
-- Faster competitive-advantage upgrades than alternatives — [[study-1997-unify-vision-8fcfc3]]
-- Partial — Java embedding planned but not yet fully implemented at time of study — [[study-1997-unify-vision-8fcfc3]]
 - VISION positioned to compete as top-tier enterprise development platform if Java roadmap executed — [[study-1997-unify-vision-8fcfc3]]
 - Unify failed to achieve enterprise leadership; accounting fraud scandal 2000; CEO convicted 2003; delisted from Nasdaq; pivoted away from VISION — [[study-1997-unify-vision-8fcfc3]]
 - VISION supports thousands-of-users deployments; mission-critical 911 CAD proven — [[study-1997-unify-vision-8fcfc3]]
-- Java embedding on product roadmap; not yet fully delivered — [[study-1997-unify-vision-8fcfc3]]
 - Supports client-server and beginning to support three-tier; internet architecture transitional — [[study-1997-unify-vision-8fcfc3]]
-- Cross-platform: Windows; Linux; Unix — broad OS coverage — [[study-1997-unify-vision-8fcfc3]]
-- Mature 4GL RAD capabilities; forms/report generation; workflow; proven in production — [[study-1997-unify-vision-8fcfc3]]

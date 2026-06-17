@@ -12,9 +12,9 @@ era: "1999-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # ISP/Telco Billing for Digital Payments
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ISPs and telcos expected to be particularly proactive; will deploy digital cash into billing infrastructure within next two years — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
-- Mobile carrier billing for digital content (app stores/ring tones) succeeded; ISP billing did not materialize broadly — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
-- ISPs and telcos have billing infrastructure that eliminates credit card processor friction — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- Mobile carrier billing for digital content (app stores/ring tones) succeeded; ISP billing did not materialize broadly `[ps=5]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- ISPs and telcos expected to be particularly proactive; will deploy digital cash into billing infrastructure within next two years `[ps=2]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- ISPs and telcos have billing infrastructure that eliminates credit card processor friction `[ps=2]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]

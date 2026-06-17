@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.2
+prescience_obs_count: 5
 ---
 
 # Aberdeen Group SNR Architecture Slide Set: Critical Technology Planning Areas, Three-Tier Plus Topology, Client-Server Hype vs Implementation (1992)
@@ -32,8 +32,8 @@ _Published 1992, author **Aberdeen Group / Peter S. Kastner (presenter)**, type 
 
 ## Top observations
 
-- Systems Software; Application Development; Acquisition; Enterprise Topology
-- Enterprise server + decision support; Analytical system; Replicated/departmental systems; PCs, Workstations, Macs, Terminals
-- Much hype -- minimal application implementation; at least 6 common definitions
-- Product Look-up, Pricing Information, Order Entry, Master Database, Current Inventory
-- State-of-the-art downsizing pattern characterizes 1992 enterprise transition
+- Enterprise server + decision support; Analytical system; Replicated/departmental systems; PCs, Workstations, Macs, Terminals `[ps=3]`
+- Much hype -- minimal application implementation; at least 6 common definitions `[ps=3]`
+- Systems Software; Application Development; Acquisition; Enterprise Topology `[ps=0]`
+- Product Look-up, Pricing Information, Order Entry, Master Database, Current Inventory `[ps=0]`
+- State-of-the-art downsizing pattern characterizes 1992 enterprise transition `[ps=0]`

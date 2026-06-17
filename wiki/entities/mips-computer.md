@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Silicon Graphics (1992)"
 years_active: "1984-1992"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # MIPS Computer Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MIPS 3330: ~$110K at 39.7-46 tps-B — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
+- MIPS 3330: ~$110K at 39.7-46 tps-B `[ps=0]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]

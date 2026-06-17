@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Atari Inc. sold to Jack Tramiel (1984); Warner merged with Time Inc. to form Time Warner (1990)"
 years_active: "1976-1984"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Warner Communications — Atari Division
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Annual hockey stick: last few weeks of Q4 determine the entire year. Warner Communications Atari Division recent debacle cited as investment-magnitude example. — [[study-casale-evp-3-b2b933]]
+- Annual hockey stick: last few weeks of Q4 determine the entire year. Warner Communications Atari Division recent debacle cited as investment-magnitude example. `[ps=5]` — [[study-casale-evp-3-b2b933]]

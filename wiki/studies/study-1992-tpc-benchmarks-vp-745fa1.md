@@ -3,7 +3,7 @@ title: "Better Performance and Lower Prices Through TPC Benchmarks"
 slug: "study-1992-tpc-benchmarks-vp-745fa1"
 page_type: "study"
 tags: ["type/study", "collection/viewpoint"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1992-tpc-benchmarks-vp-745fa1"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.97
+prescience_obs_count: 30
 ---
 
 # Better Performance and Lower Prices Through TPC Benchmarks
@@ -32,28 +32,28 @@ _Published 1992, author **Aberdeen Group**, type **viewpoint**._
 
 ## Top observations
 
-- 36.5 K$/TPS-A
-- 7.7 K$/TPS-A
-- 79%
-- 6 changes in 2.5 months
-- 5x (fivefold)
-- 35%
-- ~$7.5K/TPS-A
-- ~$6.5K/TPS-A
-- 28 TPS-A at $214K total
-- Led with DPX/2
-- Led with Sparcserver
-- Failed to crack $10K barrier
-- >200 TPS-A
-- 27 TPS
-- 7x improvement
-- $7.69 K$/TPS-A
-- $10.71 K$/TPS-A
-- $7.69 to $10.71 K$/TPS-A
-- Within 20% across product line
-- 77% more expensive at high end
-- 3x improvement from $31.90 to $10.71 K$/TPS-A
-- Software efficiency gains equivalent to free hardware upgrade
-- Disk -24%; memory -25%; 32MB less memory; 25% service discount; lower terminal prices
-- VAX fire sale / Alpha transition
-- 61% improvement since Jan 1990
+- Will become very important and closely watched `[ps=5]`
+- Imprecise specs led to benchmarketing chaos `[ps=5]`
+- Software efficiency gains equivalent to free hardware upgrade `[ps=4]`
+- No significant penalty between OS choices `[ps=4]`
+- Continuing buyer benefit at least through 1993 `[ps=4]`
+- Independent auditor recommended; TPC rejected several non-compliant submittals `[ps=4]`
+- Digital not prepared to concede VAX ready for Computer Museum `[ps=3]`
+- 36.5 K$/TPS-A `[ps=0]`
+- 7.7 K$/TPS-A `[ps=0]`
+- 79% `[ps=0]`
+- 5x (fivefold) `[ps=0]`
+- 35% `[ps=0]`
+- ~$7.5K/TPS-A `[ps=0]`
+- 28 TPS-A at $214K total `[ps=0]`
+- Led with DPX/2 `[ps=0]`
+- Led with Sparcserver `[ps=0]`
+- Failed to crack $10K barrier `[ps=0]`
+- >200 TPS-A `[ps=0]`
+- 27 TPS `[ps=0]`
+- 7x improvement `[ps=0]`
+- $10.71 K$/TPS-A `[ps=0]`
+- $7.69 to $10.71 K$/TPS-A `[ps=0]`
+- Within 20% across product line `[ps=0]`
+- 3x improvement from $31.90 to $10.71 K$/TPS-A `[ps=0]`
+- Disk -24%; memory -25%; 32MB less memory; 25% service discount; lower terminal prices `[ps=0]`

@@ -3,7 +3,7 @@ title: "Retail: 1998 Industry Practice Summary"
 slug: "study-retail-1-d5de79"
 page_type: "study"
 tags: ["type/study", "collection/other-research"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "retail~1-d5de79"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.81
+prescience_obs_count: 16
 ---
 
 # Retail: 1998 Industry Practice Summary
@@ -32,28 +32,28 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 
 ## Top observations
 
+- client-server dominant `[ps=4]`
+- integration of disparate systems and business processes `[ps=4]`
+- packaged apps will dominate `[ps=4]`
+- Prediction proved accurate; e-commerce became dominant channel within 5 years. `[ps=1]`
+- >70% `[ps=0]`
+- ~14 million individuals `[ps=0]`
+- being maintained not replaced `[ps=0]`
+- shifting from optional to necessity `[ps=0]`
+- critical mandatory channel `[ps=0]`
+- growing importance `[ps=0]`
+- improve merchandising reduce inventory increase sales `[ps=0]`
+- new market entrants advantaged `[ps=0]`
+- major IT trend for retail `[ps=0]`
+- systems integrator for large retail implementations `[ps=0]`
+- ERP with retail module; vertical integration `[ps=0]`
+- Windows NT platform and application integration `[ps=0]`
 - 2.3 trillion USD
 - 11 billion USD
-- >70%
-- ~14 million individuals
 - >1 million
-- client-server dominant
 - NT gaining over Unix
-- being maintained not replaced
-- shifting from optional to necessity
-- critical mandatory channel
-- Prediction proved accurate; e-commerce became dominant channel within 5 years.
-- growing importance
 - still fairly generic; room for tailoring
-- improve merchandising reduce inventory increase sales
 - quasi-independent locally staffed corporations
-- new market entrants advantaged
 - large retailers ahead; smaller lagging
-- major IT trend for retail
-- systems integrator for large retail implementations
 - POS systems and enterprise retail solutions
-- ERP with retail module; vertical integration
-- Windows NT platform and application integration
 - scalability, functionality, extensibility, vendor viability, security, price
-- integration of disparate systems and business processes
-- packaged apps will dominate

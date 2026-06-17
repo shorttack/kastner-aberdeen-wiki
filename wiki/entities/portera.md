@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Journyx (assets, ~2004)"
 years_active: "1998-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Portera Systems
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Portera-style integrators add the risk of vendor viability — not for the companies whose software is integrated, but for the integrator itself. `[ps=4]` — [[study-oracle-middleware-fragment-5-d3d774]]
+- Portera Systems, a CRM/field service integrator, did fail as predicted. Portera's assets were acquired circa 2003-2004 (references to Journyx acquisition noted in source). The integrator-viability prediction was validated. `[ps=4]` — [[study-oracle-middleware-fragment-5-d3d774]]
 - Portera offers pre-integrated solutions that include Oracle Financials, PeopleSoft HR, and Siebel CRM — applications not originally designed to integrate — and assumes responsibility for maintaining the integration over time. — [[study-oracle-middleware-fragment-5-d3d774]]
-- Portera-style integrators add the risk of vendor viability — not for the companies whose software is integrated, but for the integrator itself. — [[study-oracle-middleware-fragment-5-d3d774]]
-- Portera Systems, a CRM/field service integrator, did fail as predicted. Portera's assets were acquired circa 2003-2004 (references to Journyx acquisition noted in source). The integrator-viability prediction was validated. — [[study-oracle-middleware-fragment-5-d3d774]]

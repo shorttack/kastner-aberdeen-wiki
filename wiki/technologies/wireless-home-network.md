@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Wireless Home Network
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Quickly becoming a reality; vendors improving installation experience — [[study-2002-wi-fi-s-new-standard-802-11a-will-offer-the-best-b-795f0c]]
+- Quickly becoming a reality; vendors improving installation experience `[ps=3]` — [[study-2002-wi-fi-s-new-standard-802-11a-will-offer-the-best-b-795f0c]]

@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: ""
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Marsha Haugen
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP computer division $4M/year analyst subscriptions; salespeople pressure vendors ('pay your basic ransom') — [[study-wsj-tech-watching-analyst-industry-1998-002531]]
+- HP computer division $4M/year analyst subscriptions; salespeople pressure vendors ('pay your basic ransom') `[ps=4]` — [[study-wsj-tech-watching-analyst-industry-1998-002531]]

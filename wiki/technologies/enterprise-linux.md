@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Enterprise Linux
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enterprise Linux, Intel server, ASP servers, WW VoIP, HIPPA, high-end printing, SANs, 3G networks, PKI adoption — [[study-aberdeen-corporate-collateral-2001-v2-b4b001]]
+- Enterprise Linux, Intel server, ASP servers, WW VoIP, HIPPA, high-end printing, SANs, 3G networks, PKI adoption `[ps=4]` — [[study-aberdeen-corporate-collateral-2001-v2-b4b001]]

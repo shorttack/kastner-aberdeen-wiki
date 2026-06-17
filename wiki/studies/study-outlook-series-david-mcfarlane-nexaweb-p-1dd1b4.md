@@ -3,7 +3,7 @@ title: "David McFarlane: Nexaweb Platform 4.5 Supports Ajax, Java"
 slug: "study-outlook-series-david-mcfarlane-nexaweb-p-1dd1b4"
 page_type: "study"
 tags: ["type/study", "collection/press-release"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "outlook-series-david-mcfarlane-nexaweb-p-1dd1b4"
 author: "Outlook Series (officeroutlook.com)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 5
 ---
 
 # David McFarlane: Nexaweb Platform 4.5 Supports Ajax, Java
@@ -32,10 +32,10 @@ _Published 2006, author **Outlook Series (officeroutlook.com)**, type **press-re
 
 ## Top observations
 
+- Nexaweb ceased operating by 2012; UCF and the Nexaweb EW2.0 platform were discontinued as HTML5 and SPA frameworks unified client development. `[ps=4]`
+- Nexaweb's Platform 4.5 will deliver a rich, cross-platform experience that improves user productivity while retaining the best of legacy IT assets. `[ps=3]`
+- Nexaweb positions Section 508 compliance as a competitive differentiator in financial services and public sector markets. `[ps=3]`
+- Two-thirds of Aberdeen survey respondents view improving services to IT users as a key business requirement. `[ps=0]`
+- Nexaweb Platform 4.5 (UCF + Internet Messaging Bus + Enterprise Data Services) generally available; adds Section 508 accessibility via Java accessibility package; enhanced SOAP/REST web-services support. `[ps=0]`
 - Aberdeen's research has found that composite applications can be built and implemented with Web services and SOA standards even if the organization has yet to fully develop an SOA.
-- Two-thirds of Aberdeen survey respondents view improving services to IT users as a key business requirement.
-- Nexaweb's Platform 4.5 will deliver a rich, cross-platform experience that improves user productivity while retaining the best of legacy IT assets.
-- Nexaweb Platform 4.5 (UCF + Internet Messaging Bus + Enterprise Data Services) generally available; adds Section 508 accessibility via Java accessibility package; enhanced SOAP/REST web-services support.
-- Nexaweb positions Section 508 compliance as a competitive differentiator in financial services and public sector markets.
 - Nexaweb has successfully identified SOA, Web services, database integration, and rich Internet application capabilities provided by Ajax, Java, and .NET as key focus areas for its new Platform 4.5 release.
-- Nexaweb ceased operating by 2012; UCF and the Nexaweb EW2.0 platform were discontinued as HTML5 and SPA frameworks unified client development.

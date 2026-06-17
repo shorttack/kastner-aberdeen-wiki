@@ -12,9 +12,9 @@ status: "acquired"
 successor: "GXS (spun off 2004); OpenText (acquired 2014)"
 years_active: "1960s-2000s"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # GE Information Services (GEIS)
@@ -29,5 +29,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Market leader in EC industry for over 3 decades; 40000 EDI trading partners; largest global trading network — [[study-ecprac~1-a7d0e4]]
-- 2000 service professionals dedicated to E-commerce; only IBM claims more — [[study-ecpspr~1-4968bf]]
+- Market leader in EC industry for over 3 decades; 40000 EDI trading partners; largest global trading network `[ps=2]` — [[study-ecprac~1-a7d0e4]]
+- 2000 service professionals dedicated to E-commerce; only IBM claims more `[ps=0]` — [[study-ecpspr~1-4968bf]]

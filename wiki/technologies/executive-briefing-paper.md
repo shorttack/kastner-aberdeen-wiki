@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "unknown"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Executive Briefing Paper (EBP)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- In-depth report on emerging technologies or common end-user problems; educates market on supplier product — [[study-aberdeen-training-book-day-3-03cfc1]]
+- In-depth report on emerging technologies or common end-user problems; educates market on supplier product `[ps=4]` — [[study-aberdeen-training-book-day-3-03cfc1]]

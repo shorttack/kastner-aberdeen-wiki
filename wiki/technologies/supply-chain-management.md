@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 63
 prescience_max: 5.0
-prescience_mean: 1.01
-prescience_obs_count: 404
+prescience_mean: 1.59
+prescience_obs_count: 317
 ---
 
 # Supply Chain Management (SCM)
@@ -32,6 +32,7 @@ prescience_obs_count: 404
 - Best-in-class enterprises are leveraging real-time process and equipment condition information and diagnostics to detect and predict failures. `[ps=5]` — [[study-1q06-asset-20management-e1ca0f]]
 - The merchandising infrastructure of the 21st century is enabled by best-in-class applications that combine predictive forecasting and advanced analytics. `[ps=5]` — [[study-abra-market-to-order-retail-090204-5ba5a7]]
 - In fact, in the typical e-sourcing program 20% to 25% of savings negotiated online remains unrealized. `[ps=5]` — [[study-bvr-spendcompmgmt-121704b-e31821]]
+- SAP integrated SCM modules; Oracle acquired Siebel and supply chain vendors; SCM became standard ERP pillar by 2005 `[ps=5]` — [[study-decision-maker-erp-services-805ce8]]
 - All told, aftermarket service and parts account for 20% to 30% of revenues and about 40% of profits for most manufacturers. `[ps=5]` — [[study-dtp-2005-research-agenda-012705a-8d9c59]]
 - These factors will make the initial uptake of GPRS extremely low, potentially less than 5% of current GSM subscribers in these territories. `[ps=5]` — [[study-eurowiress-13e05b]]
 - Currently more than 40% of DoCoMo’s subscribers use the i-mode system. `[ps=5]` — [[study-eurowiress-13e05b]]
@@ -48,4 +49,3 @@ prescience_obs_count: 404
 - ||**2Q05**|| |---|---|---| |Best Practices in Sales &||Best practices case studies will profile best-in-class companies that are| |Operations Planning||effectively leveraging S&OP for strong performance improvement and| |||competitive advantage. `[ps=4]` — [[study-2005-ee-aberdeen-research-calendar-082405-2b2250]]
 - This research will highlight how best-in-class companies are| ||reconsidering traditional product strategies, managing emerging| ||‘manufacturing networks’, and how manufacturing leaders can help| ||drive inevitable change.| |Warehousing: Optimizing|Warehouse operations are caught between two seemingly conflicting| |Productivity and Flexibility|requirements: driving greater throughput while handli `[ps=4]` — [[study-2005-ee-aberdeen-research-calendar-082405-2b2250]]
 - Having achieved cost-cutting and productivity goals, best-in-class service organizations can dramatically impact company revenues with growth-oriented strategies, processes, and personnel. `[ps=4]` — [[study-2005-ee-aberdeen-research-calendar-082405-2b2250]]
-- The merchandising infrastructure of the 21st century is enabled by best-in-class applications that combine predictive forecasting and advanced analytics. `[ps=4]` — [[study-aberdeenmto-retailresearchagenda-9b596e]]

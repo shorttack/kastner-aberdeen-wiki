@@ -12,9 +12,9 @@ era: "2001-2005"
 lifecycle_at_study: "new"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Parental/Content DVD Filtering (ClearPlay)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Family Entertainment and Copyright Act 2005 included the Family Movie Act providing legal safe harbor for third-party content-filtering technology; passed Apr 27 2005 — [[study-future-of-dvd-forum-panel-2003-taylor-61b198]]
+- Family Entertainment and Copyright Act 2005 included the Family Movie Act providing legal safe harbor for third-party content-filtering technology; passed Apr 27 2005 `[ps=5]` — [[study-future-of-dvd-forum-panel-2003-taylor-61b198]]

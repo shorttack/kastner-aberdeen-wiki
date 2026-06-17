@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "discontinued"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 5
 ---
 
 # Aberdeen Executive White Paper (EWP)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $25,000 (500 copies included); eVersion $17,500; combo $30,000 — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
-- $35,000 ($30,000 research + $5,000 web rights) — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
-- 5-16 page document on Aberdeen paper stock; HTML/PDF format; 500 reprints included in Research Fee — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
-- Validate client's positioning thesis through customer interviews and independent analysis; test and validate marketing/technical proposition believed to establish competitive advantage — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
-- Massachusetts governing law; three-arbitrator AAA panel; 2-year confidentiality; IP remains Aberdeen property except web rights — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
+- $25,000 (500 copies included); eVersion $17,500; combo $30,000 `[ps=0]` — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
+- $35,000 ($30,000 research + $5,000 web rights) `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
+- 5-16 page document on Aberdeen paper stock; HTML/PDF format; 500 reprints included in Research Fee `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
+- Validate client's positioning thesis through customer interviews and independent analysis; test and validate marketing/technical proposition believed to establish competitive advantage `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
+- Massachusetts governing law; three-arbitrator AAA panel; 2-year confidentiality; IP remains Aberdeen property except web rights `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]

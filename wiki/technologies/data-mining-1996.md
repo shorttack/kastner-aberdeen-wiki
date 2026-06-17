@@ -12,9 +12,9 @@ era: "1996-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature-subsumed-into-analytics-AI"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Data mining (1996-era)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SGI introducing integrated set of data mining products, clustering software, and third-party relationships — competing directly with IBM's recent data-mining entry — [[study-upgrades-boost-database-market-iweek-fol-f19804]]
-- 'Data mining — which lets companies extract information from data warehouses — among the fastest-growing areas in the database market' — InformationWeek/Kastner context — [[study-upgrades-boost-database-market-iweek-fol-f19804]]
+- 'Data mining — which lets companies extract information from data warehouses — among the fastest-growing areas in the database market' — InformationWeek/Kastner context `[ps=5]` — [[study-upgrades-boost-database-market-iweek-fol-f19804]]
+- SGI introducing integrated set of data mining products, clustering software, and third-party relationships — competing directly with IBM's recent data-mining entry `[ps=2]` — [[study-upgrades-boost-database-market-iweek-fol-f19804]]

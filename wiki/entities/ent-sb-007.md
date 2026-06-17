@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "Hewlett-Packard (merged 2002)"
 years_active: "1982-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Compaq Computer Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- In March 1997, Siebel and Compaq announced alliance under which they mutually recognize each other as preferred provider in CIS market — [[study-1997-crm-siebel-systems-pr-569e52]]
+- In March 1997, Siebel and Compaq announced alliance under which they mutually recognize each other as preferred provider in CIS market `[ps=0]` — [[study-1997-crm-siebel-systems-pr-569e52]]

@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Content Management Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $821 million; CAGR 35% to $2.004B by 2003 — [[study-data-know-69ab04]]
+- $821 million; CAGR 35% to $2.004B by 2003 `[ps=0]` — [[study-data-know-69ab04]]

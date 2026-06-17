@@ -12,9 +12,9 @@ era: "1980s"
 lifecycle_at_study: "novel"
 lifecycle_current: "evolved-into-lockstep-and-VM-based-FT"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Redundant-Microprocessor Architecture
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $148,000 — [[study-businessweek-stratus-launch-fail-safe-ba-82c028]]
-- up to 21% faster — [[study-businessweek-stratus-launch-fail-safe-ba-82c028]]
+- $148,000 `[ps=0]` — [[study-businessweek-stratus-launch-fail-safe-ba-82c028]]
+- up to 21% faster `[ps=0]` — [[study-businessweek-stratus-launch-fail-safe-ba-82c028]]

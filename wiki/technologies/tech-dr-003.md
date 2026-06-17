@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Data Warehousing
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Data warehouses and data marts in open systems environments are the destination for mainframe data — [[study-1997-datareach--finding-business-value-i-34f0a6]]
+- Data warehouses and data marts in open systems environments are the destination for mainframe data `[ps=5]` — [[study-1997-datareach--finding-business-value-i-34f0a6]]

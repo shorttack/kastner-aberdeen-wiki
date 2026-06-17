@@ -12,9 +12,9 @@ era: "1876-2020s"
 lifecycle_at_study: "Dominant"
 lifecycle_current: "Declining/being phased out"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # POTS (Plain Old Telephone Service)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- End-users retain phones and fax machines with no behavior change; Lucent handles IP routing transparently — [[study-1997-lucent-delivers-internet-telephony--888598]]
+- End-users retain phones and fax machines with no behavior change; Lucent handles IP routing transparently `[ps=3]` — [[study-1997-lucent-delivers-internet-telephony--888598]]

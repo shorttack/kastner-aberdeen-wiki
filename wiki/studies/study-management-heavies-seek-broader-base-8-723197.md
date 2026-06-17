@@ -3,7 +3,7 @@ title: "Management heavies seek broader base [CA Unicenter TNG / Tivoli enterpri
 slug: "study-management-heavies-seek-broader-base-8-723197"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "management-heavies-seek-broader-base-8-723197"
 author: "Jim Duffy (reporter, Network World); Peter Kastner (quoted source)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # Management heavies seek broader base [CA Unicenter TNG / Tivoli enterprise management]
@@ -32,8 +32,8 @@ _Published 1998, author **Jim Duffy (reporter, Network World); Peter Kastner (qu
 
 ## Top observations
 
+- CA Technologies acquired by Broadcom in 2018 for USD 18.9B; systems-management brands dispersed or retired `[ps=5]`
+- Parallel Tivoli move toward simpler variants `[ps=4]`
+- Cross-platform (Unix, Windows NT, Sun) version unveiled in July 1997 `[ps=0]`
 - New Enterprise Editions and Workgroup Editions aimed at addressing ease-of-use and ease-of-installation
-- Parallel Tivoli move toward simpler variants
-- Cross-platform (Unix, Windows NT, Sun) version unveiled in July 1997
-- CA Technologies acquired by Broadcom in 2018 for USD 18.9B; systems-management brands dispersed or retired
 - IBM retired Tivoli brand ~2013; products merged into IBM portfolio

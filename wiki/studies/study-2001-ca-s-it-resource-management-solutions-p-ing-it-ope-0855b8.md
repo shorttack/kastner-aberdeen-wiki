@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.0
+prescience_obs_count: 7
 ---
 
 # CA's IT Resource Management Solutions Provide a Basis for Running IT Operations as a Business Entity
@@ -32,15 +32,15 @@ _Published 2001, author **Valerie O'Connell**, type **market-study**._
 
 ## Top observations
 
-- Integrated but modular solution set providing basis for managing IT as a cohesive business entity
+- Integrated but modular solution set providing basis for managing IT as a cohesive business entity `[ps=3]`
+- CA ITRM is 'shining light at the end of the IT tunnel' for unified business-entity IT management `[ps=2]`
+- CA ITRM is positioned as the solution for IT-as-business; implies CA will be dominant ITSM vendor `[ps=2]`
+- Covers systems management, desktop management, help desk, IT resources, operations management, asset management, IT inventory control, remote control `[ps=0]`
+- IT operations judged by how smoothly things ran `[ps=0]`
+- Accounting judged by how effectively it conducted business `[ps=0]`
+- CA also had CRO product mentioned in companion Impact (CA Does the Right Thing; Customers Say CRO Rocks) `[ps=0]`
 - Running IT as unified business is difficult due to diversity of objectives and systems across IT operations, Help Desk, and Accounting
-- CA ITRM is 'shining light at the end of the IT tunnel' for unified business-entity IT management
-- Covers systems management, desktop management, help desk, IT resources, operations management, asset management, IT inventory control, remote control
-- CA ITRM is positioned as the solution for IT-as-business; implies CA will be dominant ITSM vendor
 - CA Technologies acquired by Broadcom for $18.9B in 2018; many CA products discontinued or reduced support
-- IT operations judged by how smoothly things ran
 - Help Desk judged by how quickly problems were resolved
-- Accounting judged by how effectively it conducted business
 - Aberdeen Impact format: focused vendor/product analysis typically 4-8 pages
-- CA also had CRO product mentioned in companion Impact (CA Does the Right Thing; Customers Say CRO Rocks)
 - Aberdeen research provided free to readers; Aberdeen shares registration details with sponsors

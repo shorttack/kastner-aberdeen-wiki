@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Universe (semantic layer)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- BusinessObjects schemaless approach to multidimensionality works with any relational schema; no need for star or snowflake schemas or proprietary MOLAP tools — [[study-1997-dev-expanding-universes-for-busines-c42c71]]
-- Business Objects provides Rapid Deployment Templates (RDTs) for popular business applications including Oracle Financials, PeopleSoft and SAP — [[study-1997-dev-expanding-universes-for-busines-c42c71]]
+- BusinessObjects schemaless approach to multidimensionality works with any relational schema; no need for star or snowflake schemas or proprietary MOLAP tools `[ps=2]` — [[study-1997-dev-expanding-universes-for-busines-c42c71]]
+- Business Objects provides Rapid Deployment Templates (RDTs) for popular business applications including Oracle Financials, PeopleSoft and SAP `[ps=0]` — [[study-1997-dev-expanding-universes-for-busines-c42c71]]

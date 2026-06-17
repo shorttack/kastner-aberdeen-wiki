@@ -12,9 +12,9 @@ era: "1975-present"
 lifecycle_at_study: "developing"
 lifecycle_current: "standard"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # High-Technology Equity Analysis
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Can only manipulate denominator (EPS) when numerator (price) is running away; leads to artificially inflated earnings estimates — [[study-casale-evp-7-215359]]
+- Can only manipulate denominator (EPS) when numerator (price) is running away; leads to artificially inflated earnings estimates `[ps=4]` — [[study-casale-evp-7-215359]]

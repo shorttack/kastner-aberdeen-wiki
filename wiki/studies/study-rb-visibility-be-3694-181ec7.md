@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Rb Visibility Be 3694 (Aberdeen, 2006)"
 slug: "study-rb-visibility-be-3694-181ec7"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 1.4
 prescience_obs_count: 5
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Rb Visibility Be 3694 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study rb-visibility-be-3694-181ec7. Source: rb_visibility_be_3694.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Research Brief**, type **benchmark**._

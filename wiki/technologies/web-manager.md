@@ -12,9 +12,9 @@ era: "1996-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Web Manager
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Manages HTML, graphics, CGI scripts, Java applets in single version-controlled site; time-sensitive content publishing — [[study-aberdeen-1996-blyths-ren-architecture-prescription-it-success]]
+- Manages HTML, graphics, CGI scripts, Java applets in single version-controlled site; time-sensitive content publishing `[ps=5]` — [[study-aberdeen-1996-blyths-ren-architecture-prescription-it-success]]

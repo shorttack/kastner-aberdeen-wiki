@@ -3,7 +3,7 @@ title: "RAMP Interview: Kaiser Permanente (Maxtor Midline Storage Study)"
 slug: "study-kaiser-permanente-ramp-interview-for-max-8e4033"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "kaiser-permanente-ramp-interview-for-max-8e4033"
 author: "Peter S. Kastner, David Hill"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.4
+prescience_obs_count: 20
 ---
 
 # RAMP Interview: Kaiser Permanente (Maxtor Midline Storage Study)
@@ -32,28 +32,28 @@ _Published 2003, author **Peter S. Kastner, David Hill**, type **market-study**.
 
 ## Top observations
 
-- $22B
+- Refurbishing interfaces between healthcare systems is enormous time and effort `[ps=5]`
+- Storage demands increasing significantly for healthcare organizations `[ps=5]`
+- collection of separate healthcare companies under Kaiser name `[ps=4]`
+- Migration at more than one site is not just replacement of one system; requires replicating function across regions `[ps=4]`
+- hand-entered; higher error rate `[ps=3]`
+- Applications are the tail that wags the storage dog `[ps=3]`
+- regional; each region has own IT organization `[ps=3]`
+- Kaiser will not be able to move to an information utility because IT environment will be chaotic `[ps=1]`
+- $22B `[ps=0]`
+- IBM mainframe `[ps=0]`
+- Homegrown system; HR, patient, cost data; predates claims adjustment and outpatient `[ps=0]`
+- 2200-3000 California users `[ps=0]`
+- Northern California only `[ps=0]`
+- much stricter; more comprehensive; business has more control `[ps=0]`
+- opportunistic based upon application `[ps=0]`
+- CIO reports to CIO who is also Chief Administrative Officer `[ps=0]`
+- huge costing database on mainframe hierarchical DB; some non-mainframe feeds `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- IT user of storage; not storage manager `[ps=0]`
+- long-standing agreements; runs like clockwork `[ps=0]`
 - 100000
-- IBM mainframe
-- Homegrown system; HR, patient, cost data; predates claims adjustment and outpatient
-- 2200-3000 California users
-- Northern California only
 - scanned into system
-- hand-entered; higher error rate
 - Automated Medical Record Initiative with Epoch
 - massive training for all contractors
-- much stricter; more comprehensive; business has more control
-- Applications are the tail that wags the storage dog
-- Kaiser will not be able to move to an information utility because IT environment will be chaotic
-- opportunistic based upon application
-- regional; each region has own IT organization
-- collection of separate healthcare companies under Kaiser name
-- Migration at more than one site is not just replacement of one system; requires replicating function across regions
 - Billing, patient records, clinical records — all must interface
-- Kaiser wants improved business rules in Regions Outside California
-- CIO reports to CIO who is also Chief Administrative Officer
-- huge costing database on mainframe hierarchical DB; some non-mainframe feeds
-- not viable; IT too chaotic for strategic storage planning
-- HIPAA will drive increasing storage requirements and retention complexity
-- Clinical Data Repository migration in 2-3 years
-- [UNVERIFIED]

@@ -3,7 +3,7 @@ title: "When a PC is Simply Platform Overkill: IBM's Network Station Alternative
 slug: "study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364"
 page_type: "study"
 tags: ["type/study", "collection/Profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-ibm-when-a-pc-is-simply-platform-ov-5e9364"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.6
+prescience_obs_count: 20
 ---
 
 # When a PC is Simply Platform Overkill: IBM's Network Station Alternative
@@ -32,28 +32,28 @@ _Published 1997, author **Aberdeen Group**, type **Profile**._
 
 ## Top observations
 
+- Marked increase in ISV commitments to Java-based development observed by Aberdeen `[ps=5]`
+- NC brand never achieved hoped-for popularity; PC prices fell below $1,000 within 2 years, undercutting the NC value proposition. Oracle NC discontinued circa 2000. `[ps=5]`
+- Google Chromebook (2011+) achieved NC vision: low-cost, browser-centric, centrally managed, sub-$300 `[ps=5]`
+- NC movement explicitly positioned against Wintel dominance; NC Reference Profile designed to reduce Windows dependency `[ps=5]`
+- PC prices fell below $1,000 quickly (by 1998-1999), destroying the NC cost argument. Wikipedia confirms 'prices of PCs quickly fell below $1,000, making the competition very hard.' `[ps=5]`
+- VDI (Citrix, VMware View) and Cloud PC platforms realized the enterprise NC architecture by 2010-2015. The thin-client/centralized model was validated ~15 years after the original NC. `[ps=4]`
+- Java/HTML-based tool for centralized configuration; prevents user desktop modification `[ps=4]`
+- NC will reduce help desk workload by eliminating user ability to install unauthorized software or tamper with desktop `[ps=4]`
+- Deployment of Network Stations will lead to reductions in overall desktop computing costs `[ps=3]`
+- IBM Network Station renamed NetVista 2000; withdrawn April 2002 with no replacement `[ps=3]`
+- Java will be broadly accepted as primary application development environment for future client/server and network computing `[ps=3]`
+- Steve Jobs killed Mac NC/Pippin in late 1997; iMac inherited some NC technology `[ps=3]`
+- Network Station provides upgrade path from legacy 3270/5250 terminals to network computing without disruption `[ps=2]`
+- Network Station running Microsoft Office via WinCenter Pro delivers better performance than native PC `[ps=1]`
+- $2 `[ps=0]`
+- $4 `[ps=0]`
+- Diskless; no moving parts; PowerPC 403 processor; no CD-ROM/hard disk/cooling fan `[ps=0]`
+- 5250, 3270, ASCII, X-terminal emulators `[ps=0]`
+- IBM, Oracle, Sun, Apple, Netscape co-announced NC Reference Profile 1 on May 20, 1996 `[ps=0]`
+- Netscape Navigator 3.0 expected natively implemented in Network Station Q2 1997 `[ps=0]`
 - $695 (quantity 1
-- $2
-- $4
 - Approximately 5 years (vs 3 years for PC)
-- Diskless; no moving parts; PowerPC 403 processor; no CD-ROM/hard disk/cooling fan
-- 5250, 3270, ASCII, X-terminal emulators
-- IBM, Oracle, Sun, Apple, Netscape co-announced NC Reference Profile 1 on May 20, 1996
-- Marked increase in ISV commitments to Java-based development observed by Aberdeen
-- Deployment of Network Stations will lead to reductions in overall desktop computing costs
-- IBM Network Station renamed NetVista 2000; withdrawn April 2002 with no replacement
-- NC brand never achieved hoped-for popularity; PC prices fell below $1,000 within 2 years, undercutting the NC value proposition. Oracle NC discontinued circa 2000.
-- Java will be broadly accepted as primary application development environment for future client/server and network computing
 - Desktop Java failed; server-side Java (JVM/J2EE/Spring) became dominant; JavaScript dominated browser
-- Google Chromebook (2011+) achieved NC vision: low-cost, browser-centric, centrally managed, sub-$300
-- VDI (Citrix, VMware View) and Cloud PC platforms realized the enterprise NC architecture by 2010-2015. The thin-client/centralized model was validated ~15 years after the original NC.
-- NC movement explicitly positioned against Wintel dominance; NC Reference Profile designed to reduce Windows dependency
-- Network Station running Microsoft Office via WinCenter Pro delivers better performance than native PC
-- Network Station provides upgrade path from legacy 3270/5250 terminals to network computing without disruption
 - Windows 95, Windows NT, OS/2, Mac OS to be obsoleted by supplier next-generation OS within 18 months
 - Apple co-announced NC Reference Profile; developing Mac NC (Pippin)
-- Steve Jobs killed Mac NC/Pippin in late 1997; iMac inherited some NC technology
-- Java/HTML-based tool for centralized configuration; prevents user desktop modification
-- Aberdeen encourages IS managers to evaluate IBM Network Station for suitable desktop deployments
-- NC will reduce help desk workload by eliminating user ability to install unauthorized software or tamper with desktop
-- PC prices fell below $1,000 quickly (by 1998-1999), destroying the NC cost argument. Wikipedia confirms 'prices of PCs quickly fell below $1,000, making the competition very hard.'

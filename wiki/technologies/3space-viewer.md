@@ -12,9 +12,9 @@ era: "1994-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # 3Space Viewer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3Space Viewer allows 3D technical designs to be imported into Microsoft Word/PowerPoint via OLE 2.0; images remain manipulable within Office documents — [[study-aberdeen-1996-digitals-personal-workstation-new-markets-channels]]
+- 3Space Viewer allows 3D technical designs to be imported into Microsoft Word/PowerPoint via OLE 2.0; images remain manipulable within Office documents `[ps=0]` — [[study-aberdeen-1996-digitals-personal-workstation-new-markets-channels]]

@@ -3,7 +3,7 @@ title: "Linux Multi-Client Study"
 slug: "study-2000-linux-multi-client-study-29e6cf"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2000-linux-multi-client-study-29e6cf"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.07
+prescience_obs_count: 15
 ---
 
 # Linux Multi-Client Study
@@ -32,20 +32,20 @@ _Published 2000, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- ~400 Global 2000 firms interviewed
-- ~45% US / ~55% International
-- 5,000+ employees AND $100M+ in sales/assets
-- Gaining acceptance; present in significant minority of Global 2000 IT environments
-- Deployment patterns: how Linux is being deployed now and planned for future examined
-- Linux replacing Windows NT in specific market segments and application areas
+- Linux positioned to achieve significant enterprise server presence within 5 years based on Global 2000 survey data `[ps=5]`
+- Red Hat acquired by IBM for $34 billion in 2019 — largest software acquisition in history at time `[ps=5]`
+- Caldera became SCO Group (2002), filed controversial Linux IP lawsuits, declared bankruptcy 2007 `[ps=5]`
+- Gaining acceptance; present in significant minority of Global 2000 IT environments `[ps=4]`
+- Linux replacing Windows NT in specific market segments and application areas `[ps=4]`
+- Preferred distributors identified; Red Hat and SUSE expected to lead `[ps=4]`
+- Linux holds 44.8% server OS market share (2024); powers 100% of TOP500 supercomputers; runs 49.2% of cloud workloads `[ps=4]`
+- ~400 Global 2000 firms interviewed `[ps=0]`
+- ~45% US / ~55% International `[ps=0]`
+- 5,000+ employees AND $100M+ in sales/assets `[ps=0]`
+- Deployment patterns: how Linux is being deployed now and planned for future examined `[ps=0]`
+- Identified specific factors most important for enterprise Linux deployment decisions `[ps=0]`
+- Most important difficulties in deploying Linux documented via survey `[ps=0]`
+- Question posed: Is Linux going to be a contender in the desktop market? `[ps=0]`
+- $16,000 electronic corporate license `[ps=0]`
 - Linux replacing Unix in specific market segments and application areas
 - Support gaps identified as key adoption barrier for enterprise Linux
-- Identified specific factors most important for enterprise Linux deployment decisions
-- Most important difficulties in deploying Linux documented via survey
-- Question posed: Is Linux going to be a contender in the desktop market?
-- Preferred distributors identified; Red Hat and SUSE expected to lead
-- $16,000 electronic corporate license
-- Linux positioned to achieve significant enterprise server presence within 5 years based on Global 2000 survey data
-- Linux holds 44.8% server OS market share (2024); powers 100% of TOP500 supercomputers; runs 49.2% of cloud workloads
-- Red Hat acquired by IBM for $34 billion in 2019 — largest software acquisition in history at time
-- Caldera became SCO Group (2002), filed controversial Linux IP lawsuits, declared bankruptcy 2007

@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "Alcatel-Lucent (2006); Nokia (2016)"
 years_active: "1996-2006"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Lucent Technologies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Lucent Technologies merged with Alcatel in 2006; Nokia acquired Alcatel-Lucent in 2016; Xedia's Access Point technology was absorbed and eventually superseded by Cisco/Juniper QoS implementations — [[study-1997-managing-corporate-internet-access--ae26d9]]
+- Lucent Technologies merged with Alcatel in 2006; Nokia acquired Alcatel-Lucent in 2016; Xedia's Access Point technology was absorbed and eventually superseded by Cisco/Juniper QoS implementations `[ps=5]` — [[study-1997-managing-corporate-internet-access--ae26d9]]

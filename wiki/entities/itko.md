@@ -12,9 +12,9 @@ status: "acquired"
 successor: "CA Technologies (Broadcom) (2011)"
 years_active: "1999-2010s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # iTKO Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1999 — [[study-ra-soa-2007-97c147]]
+- 1999 `[ps=0]` — [[study-ra-soa-2007-97c147]]

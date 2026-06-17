@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1960s-present"
 occurrence_count: 4
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 0.25
+prescience_obs_count: 4
 ---
 
 # John R. Logan
@@ -29,7 +29,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen helps clients understand why Microsoft's desktop orientation is not transferable to enterprise IS; intended to help executives build consensus on where/where not to use Microsoft beyond desktop — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- Online TP Into the 1990s: The Hardware Suppliers — [[study-aberdeen-open-online-transaction-process-ea272f]]
-- Vice-President, Aberdeen Group, 92 State Street, Boston MA 02109 (617) 723-7890 — [[study-aberdeen-trends-90s-logan-1991-648c68]]
-- one-of-the-cheapest-tricks-IBM-could-have-pulled — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]
+- Aberdeen helps clients understand why Microsoft's desktop orientation is not transferable to enterprise IS; intended to help executives build consensus on where/where not to use Microsoft beyond desktop `[ps=1]` — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
+- Online TP Into the 1990s: The Hardware Suppliers `[ps=0]` — [[study-aberdeen-open-online-transaction-process-ea272f]]
+- Vice-President, Aberdeen Group, 92 State Street, Boston MA 02109 (617) 723-7890 `[ps=0]` — [[study-aberdeen-trends-90s-logan-1991-648c68]]
+- one-of-the-cheapest-tricks-IBM-could-have-pulled `[ps=0]` — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]

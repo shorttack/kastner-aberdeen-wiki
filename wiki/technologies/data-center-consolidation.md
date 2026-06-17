@@ -12,9 +12,9 @@ era: "2003-2005"
 lifecycle_at_study: "growing"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Data center consolidation has evolved into cloud migration and hybrid IT strategies. Still an active practice, now often called cloud rationalization.', 'source': 'pre-verified'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Data Center Consolidation / IT Rationalization
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Large firms own dozens of redundant/overlapping software products; multi-million dollar unused purchases — [[study-technology-themes-ee5ba4]]
+- Large firms own dozens of redundant/overlapping software products; multi-million dollar unused purchases `[ps=5]` — [[study-technology-themes-ee5ba4]]

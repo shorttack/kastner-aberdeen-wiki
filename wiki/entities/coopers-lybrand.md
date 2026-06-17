@@ -12,9 +12,9 @@ status: "unknown"
 successor: "PricewaterhouseCoopers (1998)"
 years_active: "1854-1998"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # Coopers & Lybrand
@@ -29,6 +29,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Coopers & Lybrand merged with Price Waterhouse July 1998 to form PricewaterhouseCoopers — same year as this report — [[study-1998-nt-professional-services-buying-guide-1998-edition-14e452]]
-- $7.5 billion — [[study-erppsp~1-31f088]]
-- C&L merging with Price Waterhouse to form largest accounting/consulting firm; ERP engagements driving NT services demand — [[study-ntpspr~1-728dc3]]
+- C&L merging with Price Waterhouse to form largest accounting/consulting firm; ERP engagements driving NT services demand `[ps=4]` — [[study-ntpspr~1-728dc3]]
+- Coopers & Lybrand merged with Price Waterhouse July 1998 to form PricewaterhouseCoopers — same year as this report `[ps=0]` — [[study-1998-nt-professional-services-buying-guide-1998-edition-14e452]]
+- $7.5 billion `[ps=0]` — [[study-erppsp~1-31f088]]

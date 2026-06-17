@@ -3,7 +3,7 @@ title: "What's Happening in High-Tech Supply Chains"
 slug: "study-purchasing-mag-high-tech-supply-chains-2-fc2a91"
 page_type: "study"
 tags: ["type/study", "collection/trade-news"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "purchasing-mag-high-tech-supply-chains-2-fc2a91"
 author: "Purchasing Magazine staff"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # What's Happening in High-Tech Supply Chains
@@ -32,6 +32,6 @@ _Published 2003, author **Purchasing Magazine staff**, type **trade-news**._
 
 ## Top observations
 
-- That 15.4% rise is not being reflected in IT budgets or the revenues of IT companies
-- Intel introduces Centrino bundle — Pentium M (new low-power processor) plus wireless module — to support laptop growth
-- Lighter, thinner notebook PCs are pushing laptop sales ahead of desktop sales
+- Intel introduces Centrino bundle — Pentium M (new low-power processor) plus wireless module — to support laptop growth `[ps=4]`
+- Lighter, thinner notebook PCs are pushing laptop sales ahead of desktop sales `[ps=4]`
+- That 15.4% rise is not being reflected in IT budgets or the revenues of IT companies `[ps=0]`

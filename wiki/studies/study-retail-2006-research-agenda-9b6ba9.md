@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Retail 2006 Research Agenda (Aberdeen, 2006)"
 slug: "study-retail-2006-research-agenda-9b6ba9"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 1.33
 prescience_obs_count: 9
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Retail 2006 Research Agenda (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study retail-2006-research-agenda-9b6ba9. Source: retail_2006_research_agenda.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Research Agenda**, type **benchmark**._

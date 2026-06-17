@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'High Availability as a concept and product category is fully active. Modern HA solutions include clustering, load balancing, cloud-based failover. Market growing with cloud adoption.', 'source': 'General knowledge'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # High Availability Solutions
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Industry-leading partnerships in high availability with top companies: Cisco, Oracle, Microsoft, SAP — [[study-hp-compaq-kastner-insight1-a5a4e0]]
+- Industry-leading partnerships in high availability with top companies: Cisco, Oracle, Microsoft, SAP `[ps=3]` — [[study-hp-compaq-kastner-insight1-a5a4e0]]

@@ -12,9 +12,9 @@ era: "2001-2007"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # HomePNA 2.0
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $50 install + $9.95/mo (cable modem + gateway + firewall + HomePNA for 3 devices); 802.11b option $30 additional + $14.95/mo — [[study-dct-dceit-practice-v6-2002]]
+- $50 install + $9.95/mo (cable modem + gateway + firewall + HomePNA for 3 devices); 802.11b option $30 additional + $14.95/mo `[ps=0]` — [[study-dct-dceit-practice-v6-2002]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "AOL (1998) -> partial assets to various"
 years_active: "1969-1998"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # CompuServe Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CompuServe uses Infranet for customer management and billing — [[study-portal-99-fe5656]]
+- CompuServe uses Infranet for customer management and billing `[ps=0]` — [[study-portal-99-fe5656]]

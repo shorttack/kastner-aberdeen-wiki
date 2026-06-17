@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Business Process Management (BPM)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Worldwide BPM spending forecast and analysis (2001-2005) published; sector uses workflow-related solutions in grander domains — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
+- Worldwide BPM spending forecast and analysis (2001-2005) published; sector uses workflow-related solutions in grander domains `[ps=3]` — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]

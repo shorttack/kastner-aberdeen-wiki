@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 2
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
 # June 2000
@@ -32,5 +32,5 @@ _Published 1988, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- In Q1 2000 alone, venture firms raised over $15 billion — up from $2.9 billion in the first quarter of 1999. `[ps=-1]`
-- This study analyzes June 2000 using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- In Q1 2000 alone, venture firms raised over $15 billion — up from $2.9 billion in the first quarter of 1999.
+- This study analyzes June 2000 using Aberdeen Group research material and prepared extraction artifacts.

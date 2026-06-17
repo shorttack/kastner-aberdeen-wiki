@@ -12,9 +12,9 @@ era: "1982-2015"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # CD / DVD optical storage media
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- The next generation of DVD-writing technology will use much less metal while still being able to support dual layers, which bodes well for the longevity of the technology — refuting predictions that polymer memory would end mainstream CD/DVD use. — [[study-technology-news-future-tech-plastic-disc-4a4a71]]
-- CD/DVD media persisted in enterprise backup and consumer video through 2015-2020 and still exist in 2025 for archival and limited consumer use — outlasting the 2003-era plastic-memory-kills-optical narrative that Kastner refuted. — [[study-technology-news-future-tech-plastic-disc-4a4a71]]
+- The next generation of DVD-writing technology will use much less metal while still being able to support dual layers, which bodes well for the longevity of the technology — refuting predictions that polymer memory would end mainstream CD/DVD use. `[ps=3]` — [[study-technology-news-future-tech-plastic-disc-4a4a71]]
+- CD/DVD media persisted in enterprise backup and consumer video through 2015-2020 and still exist in 2025 for archival and limited consumer use — outlasting the 2003-era plastic-memory-kills-optical narrative that Kastner refuted. `[ps=3]` — [[study-technology-news-future-tech-plastic-disc-4a4a71]]

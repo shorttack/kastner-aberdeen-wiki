@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Electronic Commerce (EC) Automation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Organizations on threshold of EC revolution — [[study-1997-electronic-commerce-to-internet-com-b26a35]]
-- EC creates impacts on both internal and external business processes — [[study-1997-electronic-commerce-to-internet-com-b26a35]]
+- Organizations on threshold of EC revolution `[ps=5]` — [[study-1997-electronic-commerce-to-internet-com-b26a35]]
+- EC creates impacts on both internal and external business processes `[ps=4]` — [[study-1997-electronic-commerce-to-internet-com-b26a35]]

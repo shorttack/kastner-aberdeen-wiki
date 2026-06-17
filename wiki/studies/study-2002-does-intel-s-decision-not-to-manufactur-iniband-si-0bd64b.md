@@ -3,7 +3,7 @@ title: "Does Intel's Decision Not To Manufacture InfiniBand Silicon Damage the I
 slug: "study-2002-does-intel-s-decision-not-to-manufactur-iniband-si-0bd64b"
 page_type: "study"
 tags: ["type/study", "collection/insight"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2002-does-intel-s-decision-not-to-manufactur-iniband-si-0bd64b"
 author: "Russ Craig, Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.56
+prescience_obs_count: 9
 ---
 
 # Does Intel's Decision Not To Manufacture InfiniBand Silicon Damage the Initiative?
@@ -32,16 +32,16 @@ _Published 2002, author **Russ Craig, Peter S. Kastner**, type **insight**._
 
 ## Top observations
 
-- Intel cancelled plans to supply silicon for InfiniBand interface adapters
-- Scheduled for production launch late 2002
+- Intel shifting focus to PCI Express development as primary I/O strategy `[ps=5]`
+- Mellanox Technologies became dominant InfiniBand HCA silicon vendor `[ps=5]`
+- NVIDIA acquired Mellanox for $7 billion in 2020 making NVIDIA the InfiniBand market owner `[ps=5]`
+- PCI Express became universal server bus standard replacing PCI and AGP `[ps=5]`
+- Intel's exit is good for the InfiniBand ecosystem (contrary to other opinions) `[ps=4]`
+- InfiniBand initiative will not be damaged by Intel's exit `[ps=4]`
+- Intel's decision is good for Intel `[ps=3]`
+- Scheduled for production launch late 2002 `[ps=1]`
+- Intel cancelled plans to supply silicon for InfiniBand interface adapters `[ps=0]`
 - Many industry observers believe Intel's decision will cause InfiniBand to stall
-- Intel's decision is good for Intel
-- Intel's exit is good for the InfiniBand ecosystem (contrary to other opinions)
-- InfiniBand initiative will not be damaged by Intel's exit
-- Intel shifting focus to PCI Express development as primary I/O strategy
 - Specialist silicon vendors positioned to fill gap left by Intel
-- Mellanox Technologies became dominant InfiniBand HCA silicon vendor
-- NVIDIA acquired Mellanox for $7 billion in 2020 making NVIDIA the InfiniBand market owner
 - InfiniBand market estimated at $18.28 billion in 2024 projected to grow at 40% CAGR
-- PCI Express became universal server bus standard replacing PCI and AGP
 - Important next-generation data-center I/O initiative supported by IT industry broadly

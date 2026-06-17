@@ -3,7 +3,7 @@ title: "The 'Process of Process': EBA in the Process Manufacturing Industries"
 slug: "study-process-of-process-eba-335083"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "process-of-process-eba-335083"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.64
+prescience_obs_count: 14
 ---
 
 # The "Process of Process": EBA in the Process Manufacturing Industries
@@ -32,21 +32,21 @@ _Published 1998, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- Reducing order-through-delivery time
-- Improving ROI by reducing cycle times and improving inventory management
-- Choosing the right EBA supplier presents a formidable challenge for process manufacturers
-- Leading EBA suppliers claim process manufacturing presence but lack process-specific applications
+- Tracking products through production as core competitive requirement `[ps=5]`
+- Improving ROI by reducing cycle times and improving inventory management `[ps=4]`
+- Many leading EBA suppliers without genuine process manufacturing modules will face market pressure from specialists `[ps=4]`
+- Choosing the right EBA supplier presents a formidable challenge for process manufacturers `[ps=3]`
+- Leading EBA suppliers claim process manufacturing presence but lack process-specific applications `[ps=3]`
+- Component technology driving EBA architecture evolution `[ps=3]`
+- SAP acquired process-specific vendors (Synavant for pharma; IS-PI modules) closing capability gaps `[ps=1]`
+- Reducing order-through-delivery time `[ps=0]`
+- Temperature regulation `[ps=0]`
+- Shelf life management `[ps=0]`
+- Regulatory compliance tracking `[ps=0]`
+- 90-page primary research report with in-depth supplier analysis `[ps=0]`
+- $895 `[ps=0]`
+- Report identifies factors critical to user success and supplier success in process EBA market `[ps=0]`
 - Potency control
-- Temperature regulation
-- Shelf life management
 - Capacity planning
 - Catch-weight management
-- Regulatory compliance tracking
-- 90-page primary research report with in-depth supplier analysis
-- Component technology driving EBA architecture evolution
 - Web technologies beginning to integrate with process manufacturing EBA
-- $895
-- Many leading EBA suppliers without genuine process manufacturing modules will face market pressure from specialists
-- SAP acquired process-specific vendors (Synavant for pharma; IS-PI modules) closing capability gaps
-- Report identifies factors critical to user success and supplier success in process EBA market
-- Tracking products through production as core competitive requirement

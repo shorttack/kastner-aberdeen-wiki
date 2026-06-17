@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "unknown"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Unnamed Fortune 500 Company
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 20000 — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- 20000 `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]

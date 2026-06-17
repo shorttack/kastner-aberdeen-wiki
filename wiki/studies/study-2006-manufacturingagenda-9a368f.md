@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "2006 Manufacturingagenda (Aberdeen, 2006)"
 slug: "study-2006-manufacturingagenda-9a368f"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.33
-prescience_obs_count: 3
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# 2006 Manufacturingagenda (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study 2006-manufacturingagenda-9a368f. Source: 2006_manufacturingagenda.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **benchmark**._
@@ -34,4 +34,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 - Best-in-class enterprises are leveraging real-time process and equipment condition information and diagnostics to detect and predict failures. `[ps=5]`
 - This study provides the latest data on implementation strategies and execution plans of manufacturers, identifying how best-in-class companies are responding to the challenge of globalization, increased customer demand and open technologies. `[ps=0]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

@@ -3,7 +3,7 @@ title: "SAP: The Once and Future King"
 slug: "study-2001-sap-the-once-and-future-king-fe2827"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2001-sap-the-once-and-future-king-fe2827"
 author: "David Alschuler; Bill Brandel; Chris Fletcher; Tim Minahan"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.44
+prescience_obs_count: 9
 ---
 
 # SAP: The Once and Future King
@@ -32,18 +32,18 @@ _Published 2001, author **David Alschuler; Bill Brandel; Chris Fletcher; Tim Min
 
 ## Top observations
 
-- Immature; vision blurred; mySAP.com new and unproven; few customers
-- Defensive; management uncertain about direction
+- More than competitive as integrated suite; now the leader `[ps=4]`
+- Will compete effectively against more narrowly defined CRM leaders (e.g. Siebel) `[ps=4]`
+- SAP acquired Ariba in 2012 for $4.3B — validating SAP's B2B exchange strategy `[ps=4]`
+- Will compete effectively in B2B exchange segment against Commerce One and Ariba `[ps=3]`
+- SAP S/4HANA dominant cloud ERP; SAP remains #1 ERP vendor globally per Gartner and IDC 2024 `[ps=3]`
+- Immature; vision blurred; mySAP.com new and unproven; few customers `[ps=2]`
+- Defensive; management uncertain about direction `[ps=2]`
+- Significant development resources focused on executing key priorities `[ps=0]`
+- SAP clearly articulated product family direction; compelling story `[ps=0]`
 - Mature product family; significant customer base using new products
-- More than competitive as integrated suite; now the leader
-- Significant development resources focused on executing key priorities
-- Will compete effectively against more narrowly defined CRM leaders (e.g. Siebel)
 - Will compete effectively in enterprise portal segment
-- Will compete effectively in B2B exchange segment against Commerce One and Ariba
 - SAP will not cede ERP market leadership; lion metaphor used
 - Three years of development effort (1998-2001) yielding results
-- SAP clearly articulated product family direction; compelling story
-- SAP S/4HANA dominant cloud ERP; SAP remains #1 ERP vendor globally per Gartner and IDC 2024
 - Siebel acquired by Oracle 2006; SAP CRM became competitive; SAP Customer Experience suite active 2026
-- SAP acquired Ariba in 2012 for $4.3B — validating SAP's B2B exchange strategy
 - Filed for bankruptcy 2004; dissolved — SAP's B2B exchange approach outlasted it

@@ -12,9 +12,9 @@ era: "2012"
 lifecycle_at_study: "legacy"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # AlexNet
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- AlexNet (2012) demonstrated that deep learning could outperform human-engineered features on image classification. — [[study-volume-1-ch10-the-long-view-1966-2026]]
+- AlexNet (2012) demonstrated that deep learning could outperform human-engineered features on image classification. `[ps=5]` — [[study-volume-1-ch10-the-long-view-1966-2026]]

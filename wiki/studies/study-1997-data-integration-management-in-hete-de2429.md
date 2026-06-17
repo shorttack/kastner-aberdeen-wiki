@@ -3,7 +3,7 @@ title: "Data Integration Management in Heterogeneous Computing Environments"
 slug: "study-1997-data-integration-management-in-hete-de2429"
 page_type: "study"
 tags: ["type/study", "collection/Vendor Profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-data-integration-management-in-hete-de2429"
 author: "AberdeenGroup"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.65
+prescience_obs_count: 17
 ---
 
 # Data Integration Management in Heterogeneous Computing Environments
@@ -32,28 +32,28 @@ _Published 1997, author **AberdeenGroup**, type **Vendor Profile**._
 
 ## Top observations
 
-- 25.5
-- 50_to_100
-- 13
+- integral_part_of_it_infrastructure `[ps=5]`
+- y2k_largely_averted_significant_migration_occurred `[ps=5]`
+- enterprise_scalability_effective_integration `[ps=4]`
+- must_support_distributed_programming_environments `[ps=4]`
+- acquired_market_consolidated `[ps=4]`
+- data_warehousing_y2k_erp_implementation_acquisitions `[ps=3]`
+- large_scale_migration_legacy_access_mergers `[ps=3]`
+- 25.5 `[ps=0]`
+- 50_to_100 `[ps=0]`
+- 13 `[ps=0]`
+- c_cobol_rpg_abap4_and_proprietary `[ps=0]`
+- metastore_mdx_browsing_reporting `[ps=0]`
+- bidirectional_legacy_access_scripting_metadata `[ps=0]`
+- reseller_joint_development_advanced_CDC `[ps=0]`
+- data_integration_management_specialist `[ps=0]`
+- success_first_methodology `[ps=0]`
+- strategic_alliance_partners_program `[ps=0]`
 - 12
-- c_cobol_rpg_abap4_and_proprietary
 - virtually_any_dbms_or_file_system
-- metastore_mdx_browsing_reporting
-- bidirectional_legacy_access_scripting_metadata
-- reseller_joint_development_advanced_CDC
-- data_warehousing_y2k_erp_implementation_acquisitions
 - scripting_engine_power_drives_automation
 - graphical_point_and_click_interface
-- enterprise_scalability_effective_integration
-- data_integration_management_specialist
-- success_first_methodology
-- strategic_alliance_partners_program
-- integral_part_of_it_infrastructure
-- must_support_distributed_programming_environments
 - major_driver_for_eti_extract
-- acquired_market_consolidated
 - became_mainstream_cloud_dw_dominant
 - etl_evolved_to_elt_in_cloud_era
-- y2k_largely_averted_significant_migration_occurred
 - acquired_ardent_software_1998
-- acquired_ibm_1998

@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # SOAP (Simple Object Access Protocol)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SOAP, WSDL, UDDI standards were immature during early SOA adoption window; organizational governance discipline didn't yet exist in most enterprises. — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- SOAP, WSDL, UDDI standards were immature during early SOA adoption window; organizational governance discipline didn't yet exist in most enterprises. `[ps=5]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]

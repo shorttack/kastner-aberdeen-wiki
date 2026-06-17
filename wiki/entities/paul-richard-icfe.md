@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Paul Richard
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Do manufacturers hope consumers will forget about redeeming the rebate? Absolutely. A lot of people do forget about it. — [[study-cuna-win-rebate-runaround-2004-9da530]]
+- Do manufacturers hope consumers will forget about redeeming the rebate? Absolutely. A lot of people do forget about it. `[ps=4]` — [[study-cuna-win-rebate-runaround-2004-9da530]]

@@ -12,9 +12,9 @@ era: "1980s-1990s"
 lifecycle_at_study: "early-commercial"
 lifecycle_current: "subsumed-into-HA-clusters"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.5
+prescience_obs_count: 4
 ---
 
 # U.S. Fault-Tolerant Computing Market
@@ -24,9 +24,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Two big developments: target-market expansion and price/performance pressure on TPS `[ps=4]` — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
+- Two-man fight: Stratus vs Tandem; IBM on edge unable to land solid punch `[ps=3]` — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
+- Recently introduced series of low-cost systems with expandable processor counts `[ps=3]` — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
+- banking, telecommunications, manufacturing, federal government `[ps=0]` — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
 - U.S. fault-tolerant market $2B in 1987, growing 40-50% per year through 1990 — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
 - $1B in 1987, $1.2B by 1990 (more conservative) — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
-- Two big developments: target-market expansion and price/performance pressure on TPS — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
-- Two-man fight: Stratus vs Tandem; IBM on edge unable to land solid punch — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
-- Recently introduced series of low-cost systems with expandable processor counts — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
-- banking, telecommunications, manufacturing, federal government — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]

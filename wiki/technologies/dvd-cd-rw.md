@@ -12,9 +12,9 @@ era: "1997-2015"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # DVD/CD-RW (PC optical drives)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Apple and Gateway irked record companies in the past by appearing to promote consumers' right to download songs and burn homemade compilation discs — [[study-usatoday-reuters-pc-music-deals-gateway--b3a303]]
+- Apple and Gateway irked record companies in the past by appearing to promote consumers' right to download songs and burn homemade compilation discs `[ps=0]` — [[study-usatoday-reuters-pc-music-deals-gateway--b3a303]]

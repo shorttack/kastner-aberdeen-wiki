@@ -12,9 +12,9 @@ era: "1985-"
 lifecycle_at_study: "mature"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 4
 ---
 
 # Informix OnLine Dynamic Server
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $469 million, up 33% from 1993; last 12 months at $568 million — [[study-rdbms-for-ibm-powera~1-7a44be]]
-- $4.3 billion, up from $1.5B in 1994 — [[study-rdbms-for-ibm-powera~1-7a44be]]
-- Third-largest RDBMS supplier; fastest growing; service revenues 25% vs Oracle 52% — [[study-rdbms-for-ibm-powera~1-7a44be]]
-- Good scalability to 8 processors on SMP; many TPC-Cs; now on SP2 and loosely-coupled HW with version 8 — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- $469 million, up 33% from 1993; last 12 months at $568 million `[ps=0]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- $4.3 billion, up from $1.5B in 1994 `[ps=0]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- Third-largest RDBMS supplier; fastest growing; service revenues 25% vs Oracle 52% `[ps=0]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- Good scalability to 8 processors on SMP; many TPC-Cs; now on SP2 and loosely-coupled HW with version 8 `[ps=0]` — [[study-rdbms-for-ibm-powera~1-7a44be]]

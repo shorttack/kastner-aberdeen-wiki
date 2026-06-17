@@ -12,9 +12,9 @@ era: "2003-2017"
 lifecycle_at_study: "pre-launch"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel Itanium 2 6M (Madison)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Larger 16-processor x450 sibling using Madison Itanium 2 6M and second-gen EXA due by end of year — [[study-cnet-shankland-ibm-itanium-x450-2003-c91608]]
+- Larger 16-processor x450 sibling using Madison Itanium 2 6M and second-gen EXA due by end of year `[ps=0]` — [[study-cnet-shankland-ibm-itanium-x450-2003-c91608]]

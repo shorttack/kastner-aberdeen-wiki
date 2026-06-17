@@ -12,9 +12,9 @@ era: "1987-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # Oracle Financials / Cloud ERP Financials
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle Cloud ERP (Fusion Financials) competes with SAP S/4HANA Cloud for large enterprise ERP cloud migrations — [[study-2026-kastner-oracle-longitudinal]]
-- Oracle counters Khalix with parallelism, 64-bit enablement, and RDBMS across full platform spectrum; but Oracle Financial management uses non-RDBMS multidimensional backend — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
+- Oracle Cloud ERP (Fusion Financials) competes with SAP S/4HANA Cloud for large enterprise ERP cloud migrations `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle counters Khalix with parallelism, 64-bit enablement, and RDBMS across full platform spectrum; but Oracle Financial management uses non-RDBMS multidimensional backend `[ps=3]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
+- HP FC60 DAS; array dedicated to application; FC interface `[ps=0]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
 - 1 TB — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
-- HP FC60 DAS; array dedicated to application; FC interface — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]

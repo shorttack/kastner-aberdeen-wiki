@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Maturing"
 lifecycle_current: "Mature/Evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Data Warehouse (concept)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- More enterprises will demand systematic DW approach as warehouses scale in importance `[ps=5]` — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
 - Business-driven demand: modify business rules alter data sources add technologies — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
-- More enterprises will demand systematic DW approach as warehouses scale in importance — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
 - Confirmed: DW became universal enterprise infrastructure; cloud DW (Snowflake Redshift BigQuery) emerged 2010s — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]

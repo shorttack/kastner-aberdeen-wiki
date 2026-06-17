@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging/Rapid Growth"
 lifecycle_current: "Mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Data Mart
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Data mart proliferation could choke enterprises relying on non-scalable warehousing techniques — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
-- Developers ought to leverage content and labor used to create one data mart in others — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
+- Developers ought to leverage content and labor used to create one data mart in others `[ps=5]` — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
+- Data mart proliferation could choke enterprises relying on non-scalable warehousing techniques `[ps=4]` — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]

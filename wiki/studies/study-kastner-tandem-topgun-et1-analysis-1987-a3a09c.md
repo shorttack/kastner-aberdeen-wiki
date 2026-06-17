@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 0.29
+prescience_obs_count: 7
 ---
 
 # Tandem TopGun ET1 Benchmark Analysis — Kastner-authored Stratus + DEC memos
@@ -32,13 +32,13 @@ _Published 1987, author **Peter S. Kastner (with Raphael Frommer, Clark Hodder, 
 
 ## Top observations
 
-- 208
-- 58
-- 10-15
+- Devising our own, new OLTP benchmark standard `[ps=2]`
+- 208 `[ps=0]`
+- 58 `[ps=0]`
+- 10-15 `[ps=0]`
+- 5 `[ps=0]`
+- 6 options: do similar test; ignore; raise stakes; deemphasize ET-1; devise own standard; embrace RAMP-C `[ps=0]`
+- Stratus Aug 1987 -> DEC Corporate Systems Group Jan 1988 `[ps=0]`
 - Tandem is not as awesomely good as first appears. And Digital is not nearly as bad as corporate mythology would have us believe
 - 0.4 audit msgs/tx; 0.5 checkpoints/tx
-- 5
-- 6 options: do similar test; ignore; raise stakes; deemphasize ET-1; devise own standard; embrace RAMP-C
 - 8% (16-cpu); 10% (32-cpu)
-- Stratus Aug 1987 -> DEC Corporate Systems Group Jan 1988
-- Devising our own, new OLTP benchmark standard

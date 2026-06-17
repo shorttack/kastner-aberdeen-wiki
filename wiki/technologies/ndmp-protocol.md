@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Network Data Management Protocol (NDMP)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- New support for Network Data Management Protocol (NDMP), an open protocol for enterprise-wide backup and disaster recovery of heterogeneous networked file servers, is included in v3.1. — [[study-snap-appliance-launches-new-release-of-i-373ab7]]
+- New support for Network Data Management Protocol (NDMP), an open protocol for enterprise-wide backup and disaster recovery of heterogeneous networked file servers, is included in v3.1. `[ps=0]` — [[study-snap-appliance-launches-new-release-of-i-373ab7]]

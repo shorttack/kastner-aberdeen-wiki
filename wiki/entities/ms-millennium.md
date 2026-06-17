@@ -12,9 +12,9 @@ status: "defunct"
 successor: "Subsidiary of Matlen Silver Group"
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # MS Millennium
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Wall Street's largest firms; mainframe MVS Y2K toolset — [[study-y2k-computerworld-aberdeen-psk-irving-19-5bcd20]]
+- Wall Street's largest firms; mainframe MVS Y2K toolset `[ps=0]` — [[study-y2k-computerworld-aberdeen-psk-irving-19-5bcd20]]

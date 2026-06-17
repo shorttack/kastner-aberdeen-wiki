@@ -12,9 +12,9 @@ era: "1994–1998"
 lifecycle_at_study: "Mature"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # VORTEX (Trifox database access layer)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- AlphaServer 8400; 8 CPUs; 8 GB RAM; TLIOP with 4 PCI buses; 30 SCSI controllers; 16 tape drives — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
+- AlphaServer 8400; 8 CPUs; 8 GB RAM; TLIOP with 4 PCI buses; 30 SCSI controllers; 16 tape drives `[ps=0]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]

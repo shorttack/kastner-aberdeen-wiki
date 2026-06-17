@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1983-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # John Fletcher
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CEO FSI; formerly BCG Manager; Wharton Faculty; MA Finance Wharton; USAF Captain/Pilot; Board: AutoImmune, Nitinol, AnySoft, Bachman Information Systems, Children's Hospital — [[study-2001-fletcher-spaght-3bb872]]
+- CEO FSI; formerly BCG Manager; Wharton Faculty; MA Finance Wharton; USAF Captain/Pilot; Board: AutoImmune, Nitinol, AnySoft, Bachman Information Systems, Children's Hospital `[ps=0]` — [[study-2001-fletcher-spaght-3bb872]]

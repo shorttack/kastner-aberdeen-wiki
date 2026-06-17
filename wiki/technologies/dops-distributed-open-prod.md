@@ -12,9 +12,9 @@ era: "1992-1996"
 lifecycle_at_study: "active-Aberdeen-framework"
 lifecycle_current: "absorbed-into-cloud-native-microservices"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Distributed Open Production Systems (DOPS)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Distributed-Open-Production-Quality-systems — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]
-- 6 — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]
-- 1993-Next-Generation-Begins — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]
+- Distributed-Open-Production-Quality-systems `[ps=0]` — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]
+- 6 `[ps=0]` — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]
+- 1993-Next-Generation-Begins `[ps=0]` — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "unknown"
 years_active: "1994-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # iCat Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Agreements with Ingram Micro Tech Data and HP; 300+ VARs ISPs and systems integrators — [[study-ecprac~1-a7d0e4]]
+- Agreements with Ingram Micro Tech Data and HP; 300+ VARs ISPs and systems integrators `[ps=0]` — [[study-ecprac~1-a7d0e4]]

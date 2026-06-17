@@ -12,9 +12,9 @@ status: "merged"
 successor: "GXS (2001), then IBM Sterling (2014)"
 years_active: "1965-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # General Electric Information Services (GEIS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Web-forms via Internet extended from EDI server; Internet-enabled EDI server software at partner sites — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]
+- Web-forms via Internet extended from EDI server; Internet-enabled EDI server software at partner sites `[ps=4]` — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]

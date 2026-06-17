@@ -12,9 +12,9 @@ era: "2003-present"
 lifecycle_at_study: "new"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # NX bit / Data Execution Prevention (DEP) / Enhanced Virus Protection
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Gartner's Martin Reynolds: the enhanced security features with XP SP2 are likely to help cut down on the spread of worms such as the recent Sasser outbreak — across the board from both AMD and Intel. — [[study-technology-news-hardware-amd-makes-athlo-214a36]]
-- NX bit / DEP hardware enforcement became a Windows baseline in Windows Vista (2006) and was later required for Windows 8 (2012). Code-injection worms of the Blaster/Sasser era largely disappeared; attackers shifted to return-oriented programming, JIT spraying, and browser-plugin vulnerabilities. — [[study-technology-news-hardware-amd-makes-athlo-214a36]]
+- Gartner's Martin Reynolds: the enhanced security features with XP SP2 are likely to help cut down on the spread of worms such as the recent Sasser outbreak — across the board from both AMD and Intel. `[ps=5]` — [[study-technology-news-hardware-amd-makes-athlo-214a36]]
+- NX bit / DEP hardware enforcement became a Windows baseline in Windows Vista (2006) and was later required for Windows 8 (2012). Code-injection worms of the Blaster/Sasser era largely disappeared; attackers shifted to return-oriented programming, JIT spraying, and browser-plugin vulnerabilities. `[ps=4]` — [[study-technology-news-hardware-amd-makes-athlo-214a36]]

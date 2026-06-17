@@ -3,7 +3,7 @@ title: "Videoconferencing Booms on SARS Fears"
 slug: "study-electronic-news-videoconferencing-sars-c-044642"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "electronic-news-videoconferencing-sars-c-044642"
 author: "Ry Crozier"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.33
+prescience_obs_count: 3
 ---
 
 # Videoconferencing Booms on SARS Fears
@@ -32,8 +32,8 @@ _Published 2003, author **Ry Crozier**, type **news-article**._
 
 ## Top observations
 
+- Our assumption is that the disease can and will be halted by aggressive public health actions going forward `[ps=5]`
+- The dependable supply of key component building blocks is threatened by SARS, not just the assembly plants in China `[ps=4]`
+- Companies cancel travel plans; airlines cut routes; videoconferencing booms `[ps=4]`
 - The entire electronics assembly industry has a critical, no-second-source dependence — for the moment — on components made in China
-- The dependable supply of key component building blocks is threatened by SARS, not just the assembly plants in China
-- Our assumption is that the disease can and will be halted by aggressive public health actions going forward
 - If not, then the electronics industry will be a tiny part of humanity's problem
-- Companies cancel travel plans; airlines cut routes; videoconferencing booms

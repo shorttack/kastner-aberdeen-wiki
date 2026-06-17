@@ -12,9 +12,9 @@ era: "2002-2015"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'evolved', 'notes': 'ESB replaced by API gateways and microservices architectures. Products like MuleSoft, IBM App Connect, and cloud-native integration platforms now dominate. Known answer applied.', 'source': 'known'}"
 occurrence_count: 5
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.1
+prescience_obs_count: 31
 ---
 
 # Enterprise Service Bus (ESB)
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ESB cited as the mid-2000s enterprise integration backbone for reuse, governance, and operational management of services — [[study-aberdeen-ra-soa-middleware-2007-68f39b]]
-- $1.3 trillion in global enterprise IT spending in 2006 — [[study-esb-0617-5cc5fa]]
-- $143 billion/year business value from application maintenance gap between BIC and average organizations (11% of IT budget) — [[study-esb-0617-5cc5fa]]
-- 90% of survey respondents will exit 2006 with experience in SOA planning, design, and/or programming — [[study-esb-0617-5cc5fa]]
-- 1/5 of enterprise-size organizations (>$1B) have more than 1 year SOA programming experience vs 1/16 of mid-size — [[study-esb-0617-5cc5fa]]
-- Almost 80% of small companies have no immediate plans to start SOA programming — [[study-esb-0617-5cc5fa]]
-- 64% of survey has ESB software deployed — [[study-esb-0617-5cc5fa]]
-- 36% have SOA security and SOA management and governance deployed — [[study-esb-0617-5cc5fa]]
-- webMethods: 29% primary SOA vendor overall; EAI functional equivalency protecting incumbent position — [[study-esb-0617-5cc5fa]]
-- Creating metadata repository/registry stymied 50% overall and 73% of BIC — [[study-esb-0617-5cc5fa]]
-- Scaling to production volumes/reliability/availability: 50% overall, 36% BIC — [[study-esb-0617-5cc5fa]]
-- Establishing ESB security, governance, management: 46% BIC, 36% overall — [[study-esb-0617-5cc5fa]]
-- Testing and deployment stages problematic: 43% overall, 27% BIC — [[study-esb-0617-5cc5fa]]
-- Ease of integration flexibility with current/planned applications: 43% Very Important (top factor) — [[study-esb-0617-5cc5fa]]
-- ESB business process control, change, management, governance, lifecycle features: 29% Very Important, 35% Somewhat Important — [[study-esb-0617-5cc5fa]]
-- 3/5 (61% BIC, 36% all) creating composite applications supporting web services — [[study-esb-0617-5cc5fa]]
-- 46% will deliver more than 3 major application integration projects using SOA in 2006 (BIC) vs 33% overall — [[study-esb-0617-5cc5fa]]
-- ESB deployments to drive 3700-5500 edge application servers and 2700-4500 datacenter servers; approximately 0.15-0.25% of projected 4 million servers in 2006 — [[study-esb-0617-5cc5fa]]
-- 5/6 of large enterprises (>$1B) have already installed ESB technology; 10% will install in 2006 — [[study-esb-0617-5cc5fa]]
-- Majority of mid-size and almost 4/5 of small companies have no plans to use ESB in SOA rollout — [[study-esb-0617-5cc5fa]]
+- Concur with decision by respondents to preserve existing EAI middleware investments while moving forward with SOA, rather than rip-and-replace `[ps=5]` — [[study-esb-0617-5cc5fa]]
+- ESB cited as the mid-2000s enterprise integration backbone for reuse, governance, and operational management of services `[ps=4]` — [[study-aberdeen-ra-soa-middleware-2007-68f39b]]
+- 1/5 of enterprise-size organizations (>$1B) have more than 1 year SOA programming experience vs 1/16 of mid-size `[ps=4]` — [[study-esb-0617-5cc5fa]]
+- Almost 80% of small companies have no immediate plans to start SOA programming `[ps=4]` — [[study-esb-0617-5cc5fa]]
+- Creating metadata repository/registry stymied 50% overall and 73% of BIC `[ps=4]` — [[study-esb-0617-5cc5fa]]
+- Majority of mid-size and almost 4/5 of small companies have no plans to use ESB in SOA rollout `[ps=4]` — [[study-esb-0617-5cc5fa]]
+- 2/3 of BIC and 1/2 of overall survey chose ESB over EAI products `[ps=4]` — [[study-esb-0617-5cc5fa]]
+- Over 80% of BIC will buy ESB based on ROI across multiple projects (cross-company deployment goal) `[ps=4]` — [[study-esb-0617-5cc5fa]]
+- Adopting SOA is about choosing methodology rather than buying a product; traditional ESB was a finite-task product `[ps=4]` — [[study-esb-in-soa-e002b7]]
+- $143 billion/year business value from application maintenance gap between BIC and average organizations (11% of IT budget) `[ps=3]` — [[study-esb-0617-5cc5fa]]
+- Testing and deployment stages problematic: 43% overall, 27% BIC `[ps=3]` — [[study-esb-0617-5cc5fa]]
+- Ease of integration flexibility with current/planned applications: 43% Very Important (top factor) `[ps=3]` — [[study-esb-0617-5cc5fa]]
+- 3/5 (61% BIC, 36% all) creating composite applications supporting web services `[ps=3]` — [[study-esb-0617-5cc5fa]]
+- Application maintenance cost gap between BIC and average organizations is 11% of IT budget `[ps=3]` — [[study-esb-0617-5cc5fa]]
+- 64% BIC and 27% overall considered BPM/BPI alongside ESB in selection `[ps=3]` — [[study-esb-0617-5cc5fa]]
+- 4 segments: ESB pioneers/SOA-specific; traditional EAI/EII; application/integration platforms; process-centric `[ps=3]` — [[study-esb-in-soa-e002b7]]
+- As companies increase quantity of services, demand for more comprehensive ESBs increases commensurably `[ps=3]` — [[study-esb-in-soa-e002b7]]
+- webMethods: 29% primary SOA vendor overall; EAI functional equivalency protecting incumbent position `[ps=2]` — [[study-esb-0617-5cc5fa]]
+- Fiorano: leading choice in pure-play ESBs alongside IONA Technologies `[ps=2]` — [[study-esb-0617-5cc5fa]]
+- 64% of survey has ESB software deployed `[ps=0]` — [[study-esb-0617-5cc5fa]]

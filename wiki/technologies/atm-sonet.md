@@ -12,9 +12,9 @@ era: "1991-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # ATM / SONET (OC-3 fiber backbone)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enterprise users investigating migration to ATM and SONET for high-speed on-demand multimedia LAN/WAN — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
+- Enterprise users investigating migration to ATM and SONET for high-speed on-demand multimedia LAN/WAN `[ps=2]` — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
 - Must secure ATM technology to meet proposed ATM-enabled upgrade in timely fashion — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]

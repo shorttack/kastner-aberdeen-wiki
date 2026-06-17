@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1960s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Robert A. Freiburghouse
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Robert Freiburghouse, Stratus Computer (architect; bylined author) — [[study-mini-micro-stratus-32-arch-freiburghouse-6dc03e]]
+- Robert Freiburghouse, Stratus Computer (architect; bylined author) `[ps=0]` — [[study-mini-micro-stratus-32-arch-freiburghouse-6dc03e]]

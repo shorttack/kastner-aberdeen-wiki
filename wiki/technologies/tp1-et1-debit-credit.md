@@ -12,9 +12,9 @@ era: "1980s-1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # TP1/ET1 (Debit-Credit) Benchmark
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TP1/ET1 measurements are 'at best ambiguous and always the subject of intense controversy' — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
-- Serlin recommends users run their own benchmarks with transactions of the type they expect to use — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
+- Serlin recommends users run their own benchmarks with transactions of the type they expect to use `[ps=4]` — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
+- TP1/ET1 measurements are 'at best ambiguous and always the subject of intense controversy' `[ps=3]` — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]

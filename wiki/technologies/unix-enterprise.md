@@ -12,9 +12,9 @@ era: "1969-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Unix Server Platforms (Enterprise)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enterprise IS market in 1997: Unix servers dominant at high end; AS/400 strong in mid-market; mainframes in financial services/government; NT growing at workgroup/departmental level — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
+- Enterprise IS market in 1997: Unix servers dominant at high end; AS/400 strong in mid-market; mainframes in financial services/government; NT growing at workgroup/departmental level `[ps=5]` — [[study-1997-microsoft--the-joker-of-enterprise--158636]]

@@ -12,9 +12,9 @@ era: "2004-2015"
 lifecycle_at_study: "growth"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # SOA-based Legacy Wrapping
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Mid-2000s preferred modernization approach is wrapping legacy systems with SOA/web-service endpoints to enable reuse without replacement — [[study-aberdeen-ra-modernizing-legacy-2007-52a27a]]
+- Mid-2000s preferred modernization approach is wrapping legacy systems with SOA/web-service endpoints to enable reuse without replacement `[ps=4]` — [[study-aberdeen-ra-modernizing-legacy-2007-52a27a]]

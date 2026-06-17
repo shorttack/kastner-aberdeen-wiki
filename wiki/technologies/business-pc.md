@@ -12,9 +12,9 @@ era: "1981-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Business Personal Computer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP likely to face challenges in business PC market post-merger — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
+- HP likely to face challenges in business PC market post-merger `[ps=4]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]

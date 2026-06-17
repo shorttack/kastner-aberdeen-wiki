@@ -12,9 +12,9 @@ era: "2006-2010"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel 5000P Chipset
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Intel 5000P Chipset RAS features: DIMM sparing, Memory RAID, Memory mirroring, x4 SDDC, Memory ECC, HUB interface ECC, DMA (same as 5000X). — [[study-server-benchmarks-2007-sept-7-862cf0]]
+- Intel 5000P Chipset RAS features: DIMM sparing, Memory RAID, Memory mirroring, x4 SDDC, Memory ECC, HUB interface ECC, DMA (same as 5000X). `[ps=0]` — [[study-server-benchmarks-2007-sept-7-862cf0]]

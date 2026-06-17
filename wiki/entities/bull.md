@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Atos (acquired Bull 2014 for €620M)"
 years_active: "1930s-present"
 occurrence_count: 4
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Bull (Groupe Bull)
@@ -29,7 +29,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Led TPC-A price-performance below $10K/TPS-A in Q1 1992 — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
+- Led TPC-A price-performance below $10K/TPS-A in Q1 1992 `[ps=0]` — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
+- Bull DPX/2 leads TPC-A price-performance `[ps=0]` — [[study-tpc2-92-c2a45c]]
 - $300 million — [[study-aberdeen-1996-risc-unix-market]]
 - Bull DPX/2 at ~$450K 5-year lifecycle cost — lowest in comparison — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
-- Bull DPX/2 leads TPC-A price-performance — [[study-tpc2-92-c2a45c]]

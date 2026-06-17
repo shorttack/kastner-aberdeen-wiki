@@ -12,9 +12,9 @@ status: "acquired"
 successor: "EDS (1999)"
 years_active: "1974-1999"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # MCI Systemhouse
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquired by EDS February 11 1999 for $1.65 billion; merged into EDS — [[study-1998-network-integration-services-report-f75108]]
+- Acquired by EDS February 11 1999 for $1.65 billion; merged into EDS `[ps=0]` — [[study-1998-network-integration-services-report-f75108]]

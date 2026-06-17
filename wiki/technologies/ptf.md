@@ -12,9 +12,9 @@ era: "1960s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM PTF (Program Temporary Fix)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Biweekly PTF stream was primary pain point preventing upgrades; frozen in 1995 — [[study-aberdeen-1996-ibm-aix-4-not-your-fathers-325]]
+- Biweekly PTF stream was primary pain point preventing upgrades; frozen in 1995 `[ps=0]` — [[study-aberdeen-1996-ibm-aix-4-not-your-fathers-325]]

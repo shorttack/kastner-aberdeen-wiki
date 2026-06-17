@@ -12,9 +12,9 @@ status: "[DEFERRED]"
 successor: "Evolutionary Technologies International"
 years_active: "[DEFERRED]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Prism Solutions
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Data transformation specialists (Prism Solutions et al.) provide critical ETL capabilities; short-term consulting engagements with suppliers a viable jump-start strategy — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
+- Data transformation specialists (Prism Solutions et al.) provide critical ETL capabilities; short-term consulting engagements with suppliers a viable jump-start strategy `[ps=5]` — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]

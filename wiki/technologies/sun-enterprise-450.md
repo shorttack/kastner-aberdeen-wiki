@@ -12,9 +12,9 @@ era: "1997-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 2.0
+prescience_obs_count: 3
 ---
 
 # Sun Enterprise 450
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sun entering commercial workgroup server market with Enterprise 450 in direct competition with Compaq/Dell/HP/IBM Intel servers — [[study-1997-sun-workgroup-servers-balancing-competition-and-co-cc57b7]]
-- Performance/scalability; reliability; ease-of-use; PC interoperability; applications availability; service/support; price — seven factors assessed — [[study-1997-sun-workgroup-servers-balancing-competition-and-co-cc57b7]]
-- Sun Enterprise 450 includes necessary features to compete effectively against Wintel servers — [[study-1997-sun-workgroup-servers-balancing-competition-and-co-cc57b7]]
+- Sun entering commercial workgroup server market with Enterprise 450 in direct competition with Compaq/Dell/HP/IBM Intel servers `[ps=3]` — [[study-1997-sun-workgroup-servers-balancing-competition-and-co-cc57b7]]
+- Sun Enterprise 450 includes necessary features to compete effectively against Wintel servers `[ps=3]` — [[study-1997-sun-workgroup-servers-balancing-competition-and-co-cc57b7]]
+- Performance/scalability; reliability; ease-of-use; PC interoperability; applications availability; service/support; price — seven factors assessed `[ps=0]` — [[study-1997-sun-workgroup-servers-balancing-competition-and-co-cc57b7]]

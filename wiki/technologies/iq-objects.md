@@ -12,9 +12,9 @@ era: "1993-1999"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IQ/Objects
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SmartObjects have inheritance, polymorphism, and encapsulation; enable reusable query building blocks and parent/child reporting — [[study-aberdeen-1996-iq-software-www-reporting]]
+- SmartObjects have inheritance, polymorphism, and encapsulation; enable reusable query building blocks and parent/child reporting `[ps=0]` — [[study-aberdeen-1996-iq-software-www-reporting]]

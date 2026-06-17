@@ -12,9 +12,9 @@ era: "2004-2007"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Dell Precision 370
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Announced August 5, 2004 (CY2004 Q3). — [[study-dell-precision-workstations-3-581e89]]
+- Announced August 5, 2004 (CY2004 Q3). `[ps=0]` — [[study-dell-precision-workstations-3-581e89]]

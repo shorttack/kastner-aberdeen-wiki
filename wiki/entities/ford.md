@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1903-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Ford Motor Company
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 5 years — [[study-why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622]]
+- 5 years `[ps=0]` — [[study-why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622]]

@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "active"
 lifecycle_current: "ODBC driver product line continues under Progress DataDirect brand, supporting modern databases and cloud sources."
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # DataDirect ODBC Pack
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DataDirect ODBC Pack provides support for more than 35 databases on eight operating systems and can connect any ODBC-compliant application to any personal, relational, or legacy database. — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
+- DataDirect ODBC Pack provides support for more than 35 databases on eight operating systems and can connect any ODBC-compliant application to any personal, relational, or legacy database. `[ps=0]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]

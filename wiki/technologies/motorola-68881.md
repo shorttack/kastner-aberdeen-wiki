@@ -12,9 +12,9 @@ era: "1985-late-1980s"
 lifecycle_at_study: "current-1987"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Motorola 68881 Floating-Point Coprocessor
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 68881 designed to help OLTP users perform financial modeling; NO plans to enter scientific or engineering markets — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
+- 68881 designed to help OLTP users perform financial modeling; NO plans to enter scientific or engineering markets `[ps=1]` — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]

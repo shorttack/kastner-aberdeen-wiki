@@ -3,7 +3,7 @@ title: "RAMP Interview: Inovant / Visa (Maxtor Midline Storage Study)"
 slug: "study-inovant-ramp-interview-for-maxtor-projec-e7f75d"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "inovant-ramp-interview-for-maxtor-projec-e7f75d"
 author: "Peter S. Kastner, David Hill"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.57
+prescience_obs_count: 23
 ---
 
 # RAMP Interview: Inovant / Visa (Maxtor Midline Storage Study)
@@ -32,28 +32,28 @@ _Published 2003, author **Peter S. Kastner, David Hill**, type **market-study**.
 
 ## Top observations
 
+- Applications development organizations with cradle-to-grave responsibility may be actual storage decision makers over ops `[ps=4]`
+- 10TB dispute image app is ideal candidate for lower-cost storage tier if availability barriers overcome `[ps=4]`
+- Windows=100% DAS / Unix-Linux=100% NAS `[ps=2]`
+- very unlikely for primary and SLA-bound storage `[ps=2]`
+- Organizations running customer-facing applications with strong SLAs will not consider low-cost disk for those applications `[ps=1]`
+- 30% `[ps=0]`
+- 10% Windows / 90% Unix-Linux `[ps=0]`
+- 50% `[ps=0]`
+- 2 of 7 `[ps=0]`
+- 3 of 7 `[ps=0]`
+- 50% `[ps=0]`
+- 10 TB `[ps=0]`
+- growth as more banks sign up `[ps=0]`
+- San Mateo CA (15TB); McLean VA (5TB); Denver CO `[ps=0]`
+- 8-10 `[ps=0]`
+- less than once per year `[ps=0]`
+- EMC `[ps=0]`
+- dedicated full-time storage team `[ps=0]`
+- optical or virtual tape `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- 1 extra via RAID 0+1 `[ps=0]`
+- 4-5 major applications (Web + OLTP) `[ps=0]`
 - 20 TB
-- 30%
 - $70M
-- 10% Windows / 90% Unix-Linux
-- Windows=100% DAS / Unix-Linux=100% NAS
-- 5% SCSI / 95% FC
-- 50%
-- 75%
-- 2 of 7
-- 2 of 7
-- 3 of 7
-- supercritical
-- 50%
-- 10 TB
-- growth as more banks sign up
-- DB2 centralized; replication planned
-- San Mateo CA (15TB); McLean VA (5TB); Denver CO
-- 8-10
-- no problem with window but jobs fail at unacceptable rate
-- less than once per year
-- Organizations running customer-facing applications with strong SLAs will not consider low-cost disk for those applications
-- Applications development organizations with cradle-to-grave responsibility may be actual storage decision makers over ops
-- Challenge is to change thinking about which applications could use low-cost disk alternatives
-- EMC
-- dedicated full-time storage team

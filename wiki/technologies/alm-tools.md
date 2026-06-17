@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Application Lifecycle Management Tools
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Without design-time governance, programmers will not reuse services and lifecycle costs will balloon `[ps=3]` — [[study-soa-governance-626545]]
 - 75% of Best-in-Class unhappy with application development tools and plan to supplement/replace within 6 months — [[study-soa-governance-626545]]
-- Without design-time governance, programmers will not reuse services and lifecycle costs will balloon — [[study-soa-governance-626545]]

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1981-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Caterpillar Financial Services Corp.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Six North American cities, five European cities, and Singapore — [[study-informationweek-videoconferencing-boost--b62ff4]]
+- Six North American cities, five European cities, and Singapore `[ps=0]` — [[study-informationweek-videoconferencing-boost--b62ff4]]

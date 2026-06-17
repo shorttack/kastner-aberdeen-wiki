@@ -12,9 +12,9 @@ era: "1991-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Rapid Application Development (RAD)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- full software lifecycle support is required for long-term CADE viability — [[study-aberdeen-1995-progress-software-profile]]
+- full software lifecycle support is required for long-term CADE viability `[ps=2]` — [[study-aberdeen-1995-progress-software-profile]]
 - extends CADE to power users via Report Builder VPE — [[study-aberdeen-1995-progress-software-profile]]

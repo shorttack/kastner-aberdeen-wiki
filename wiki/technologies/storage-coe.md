@@ -12,9 +12,9 @@ era: "2003-2004"
 lifecycle_at_study: "proposed"
 lifecycle_current: "not-realized"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Storage Center of Excellence (COE)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Is Aberdeen's new IT business direction congruous with owning a storage COE? — [[study-17-maxtor-tool-decision-components-d9c2fb]]
-- HP; EMC; Intel; Sun; IBM; NetApp; Permabit will subscribe to Aberdeen Storage COE — [[study-17-maxtor-tool-decision-components-d9c2fb]]
-- [UNVERIFIED] — [[study-17-maxtor-tool-decision-components-d9c2fb]]
+- Is Aberdeen's new IT business direction congruous with owning a storage COE? `[ps=0]` — [[study-17-maxtor-tool-decision-components-d9c2fb]]
+- HP; EMC; Intel; Sun; IBM; NetApp; Permabit will subscribe to Aberdeen Storage COE `[ps=0]` — [[study-17-maxtor-tool-decision-components-d9c2fb]]
+- [UNVERIFIED] `[ps=0]` — [[study-17-maxtor-tool-decision-components-d9c2fb]]

@@ -12,9 +12,9 @@ era: "1950s-1980s"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Magnetic Tape (800 bpi)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Cards in → tape to mainframe → results back to 1401 → paper out. Kastner trained to operate all three MIT machines. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Cards in → tape to mainframe → results back to 1401 → paper out. Kastner trained to operate all three MIT machines. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "active-growth"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 0.5
+prescience_obs_count: 4
 ---
 
 # Summarization / pre-aggregation
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- dynamic aggregation — [[study-aberdeen-1995-data-warehouse-olap]]
-- summarization/pre-aggregation — [[study-aberdeen-1995-data-warehouse-olap]]
-- XPS architecture widely praised for elegance — [[study-cab199-1-2-0cb163]]
-- Now on SP2 and other loosely-coupled HW with version 8 for data warehousing — [[study-cab199-1-2-0cb163]]
+- XPS architecture widely praised for elegance `[ps=2]` — [[study-cab199-1-2-0cb163]]
+- dynamic aggregation `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]
+- summarization/pre-aggregation `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]
+- Now on SP2 and other loosely-coupled HW with version 8 for data warehousing `[ps=0]` — [[study-cab199-1-2-0cb163]]

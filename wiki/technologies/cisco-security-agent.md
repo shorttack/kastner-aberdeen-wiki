@@ -12,9 +12,9 @@ era: "2003-2011"
 lifecycle_at_study: "new"
 lifecycle_current: "end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Cisco Security Agent (CSA)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Cisco Security Agent Starter Bundle bundles CiscoWorks VPN/Security Management Solution Basic 2.2, Management Center for CSA 4.01, one CSA for servers, 10 CSAs for desktops. — [[study-processor-editorial-article-the-momentum-2b093d]]
+- Cisco Security Agent Starter Bundle bundles CiscoWorks VPN/Security Management Solution Basic 2.2, Management Center for CSA 4.01, one CSA for servers, 10 CSAs for desktops. `[ps=0]` — [[study-processor-editorial-article-the-momentum-2b093d]]

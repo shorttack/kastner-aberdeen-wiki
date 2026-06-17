@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Data Knowledge and Decision Support (DK/DS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Data knowledge and decision support systems increasingly integrated with CRM — [[study-1999-crm-professional-services-rpt-96bf13]]
+- Data knowledge and decision support systems increasingly integrated with CRM `[ps=5]` — [[study-1999-crm-professional-services-rpt-96bf13]]

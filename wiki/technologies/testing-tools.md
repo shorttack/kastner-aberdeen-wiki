@@ -12,9 +12,9 @@ era: "1995-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Y2K Testing Tools
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Last-chance validation of fixed code — [[study-1998-y2k-report-f512fb]]
-- Lack of testing tool breadth — [[study-1998-y2k-report-f512fb]]
+- Last-chance validation of fixed code `[ps=0]` — [[study-1998-y2k-report-f512fb]]
+- Lack of testing tool breadth `[ps=0]` — [[study-1998-y2k-report-f512fb]]

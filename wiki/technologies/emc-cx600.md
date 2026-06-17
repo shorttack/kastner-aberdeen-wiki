@@ -12,9 +12,9 @@ era: "2002-2007"
 lifecycle_at_study: "current"
 lifecycle_current: "legacy"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # EMC CLARiiON CX600
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $13.30/GB (EMC CX600 with 146GB disks) — [[study-13-hh-time-compression-downtime-strategy-4e50c9]]
-- $13.30/GB (EMC CX600 with 146GB disks) — [[study-14-formulas-disaster-scenario-c2f0b4]]
+- $13.30/GB (EMC CX600 with 146GB disks) `[ps=0]` — [[study-13-hh-time-compression-downtime-strategy-4e50c9]]
+- $13.30/GB (EMC CX600 with 146GB disks) `[ps=0]` — [[study-14-formulas-disaster-scenario-c2f0b4]]

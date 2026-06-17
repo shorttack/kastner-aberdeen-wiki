@@ -12,9 +12,9 @@ era: "1999-2013"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # BlackBerry
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Smartphones were still BlackBerry keyboards in 2005, not iPhone touchscreens, but the direction toward consumerization was visible. — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- Smartphones were still BlackBerry keyboards in 2005, not iPhone touchscreens, but the direction toward consumerization was visible. `[ps=5]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]

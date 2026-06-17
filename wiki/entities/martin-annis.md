@@ -12,9 +12,9 @@ status: "deceased"
 successor: ""
 years_active: "1940s-2010s"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Dr. Martin Annis
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Annis (AS&E president): time-of-day rating supports the national goal of energy conservation — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
-- TOU reduces oil needed for generation — aids national energy conservation goal — [[study-minicomputer-news-ase-asep-1979-2b5327]]
+- Annis (AS&E president): time-of-day rating supports the national goal of energy conservation `[ps=4]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
+- TOU reduces oil needed for generation — aids national energy conservation goal `[ps=4]` — [[study-minicomputer-news-ase-asep-1979-2b5327]]

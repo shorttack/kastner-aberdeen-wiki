@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "dominant-enterprise"
 lifecycle_current: "legacy-supported"
 occurrence_count: 20
-prescience_max: 4.0
-prescience_mean: 0.0
-prescience_obs_count: 5
+prescience_max: 5.0
+prescience_mean: 2.71
+prescience_obs_count: 28
 ---
 
 # Proprietary Unix (Solaris, AIX, HP-UX)
@@ -29,23 +29,23 @@ prescience_obs_count: 5
 
 ## Top observations
 
+- Unix workstation market declined sharply vs. NT by 2000; Unix server market remained stronger in high-end segments `[ps=5]` — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
+- PC BEST; Workstation POOR `[ps=5]` — [[study-nti-3-pc-and-ws-1993-17d49b]]
+- Clear leader for at least 18-24 months regardless of Windows NT outcome `[ps=5]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
+- Prime in 1980 could not imagine the world where an Intel-based server running Unix would render their minicomputer architecture economically irrelevant. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Prime in 1980 could not imagine an Intel-based server running Unix making their minicomputer architecture economically irrelevant; Kastner saw it coming. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Open standards were obvious to many analysts by 1985, yet proprietary minicomputer to Unix transition took longer due to commodity hardware margin compression. `[ps=5]` — [[study-volume-1-epilogue-argument-with-reality]]
 - HP just spent $350 million on StorageApps, and Compaq has a large emotional and dollar commitment to the undelivered VersaStor. `[ps=4]` — [[study-09010006-f43488]]
-- This study analyzes In Si ht g using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-09010006-f43488]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-patchlinksnapshot-a10275]]
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-q306-soalegacy-psk-ef497b]]
-- This study analyzes ==> picture [442 x 38] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-written-intel-ia2004-pk4-kc-edits-752232]]
-- Worldwide actual shipment data (units) collected and summarized for baseline — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
-- Worldwide actual dollar shipments (revenue) for Unix application servers — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
-- Support infrastructure quality cited as differentiating factor between Unix and NT in enterprise decisions — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
-- Unix markets projected to continue in specified segments while NT encroaches; Y2K and support factors analyzed — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
-- Unix workstation market declined sharply vs. NT by 2000; Unix server market remained stronger in high-end segments — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
--  — [[study-bbn1989-1e6838]]
--  — [[study-bbn1989-1e6838]]
-- IBM TP software only works on mainframe — not on PCs or workstations; users doing end-user computing and TP need two sets of devices and two networks — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
--  — [[study-encore-b7c40d]]
-- Unix-server DBMS revenue now greater than mainframe revenues — [[study-jungle-1-5-675c58]]
-- Unix-server DBMS revenue now greater than mainframe revenues — [[study-jungle-6-7af8b7]]
-- Dominant revenue supplier of midrange servers for new enterprise applications — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
-- Market leader for multiuser Intel/Unix midrange servers — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
-- By 1988, most midrange suppliers had to offer Unix-compliant OS to compete; now compete on middleware quality — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
-- Acquired USL from AT&T — [[study-nti-2-open-systems-1dd3af]]
+- Unix-server DBMS revenue now greater than mainframe revenues `[ps=4]` — [[study-jungle-6-7af8b7]]
+- By 1988, most midrange suppliers had to offer Unix-compliant OS to compete; now compete on middleware quality `[ps=4]` — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
+- Applications portability vision too narrow `[ps=4]` — [[study-nti-2-open-systems-1dd3af]]
+- Workstations with RISC/Unix for mid-to-high end technical users in 1993 `[ps=4]` — [[study-nti-3-pc-and-ws-1993-17d49b]]
+- Full swing for new applications; RDBMS dominant glue `[ps=4]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
+- Evolutionary not revolutionary process `[ps=4]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
+- Proprietary platforms doomed; Unix and x86 to dominate. Outcome: correct on direction but Unix fragmentation persisted; Linux won via open licensing not technical standardization. `[ps=4]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
+- Margin compression was mathematically inevitable; no vendor found a durable strategy against commodity hardware. Open standards obvious to many by 1985. `[ps=4]` — [[study-volume-1-epilogue-argument-with-reality]]
+- Predicted Unix would standardize cleanly; instead Linux won on licensing, not elegance. `[ps=4]` — [[study-volume-1-epilogue-argument-with-reality]]
+- Mature market; variants capable of single enterprise-size applications `[ps=3]` — [[study-software-market-safegu~1-ea7453]]
+- IBM TP software only works on mainframe — not on PCs or workstations; users doing end-user computing and TP need two sets of devices and two networks `[ps=1]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- Workstation BEST; PC POOR `[ps=1]` — [[study-nti-3-pc-and-ws-1993-17d49b]]
+- Expected Unix standardization to succeed more cleanly. Instead Linux won via open licensing and community development, not technical standardization. Unix remained fragmented per vendor. `[ps=1]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]

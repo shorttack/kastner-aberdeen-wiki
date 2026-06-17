@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Microsoft (acquired 2001)"
 years_active: "1981-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Great Plains Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2001 — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]
+- 2001 `[ps=0]` — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]

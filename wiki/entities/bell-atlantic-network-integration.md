@@ -12,9 +12,9 @@ status: "merged"
 successor: "Verizon (via Bell Atlantic + GTE merger 2000)"
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Bell Atlantic Network Integration
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Bell Atlantic Network Integration profiled as NIS provider for Atlantic City convention center case study — [[study-1998-network-integration-services-report-f75108]]
+- Bell Atlantic Network Integration profiled as NIS provider for Atlantic City convention center case study `[ps=0]` — [[study-1998-network-integration-services-report-f75108]]

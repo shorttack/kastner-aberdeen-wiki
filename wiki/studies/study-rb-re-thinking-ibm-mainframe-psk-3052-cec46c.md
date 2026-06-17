@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Rb Re Thinking Ibm Mainframe Psk 3052 (Aberdeen, 2006)"
 slug: "study-rb-re-thinking-ibm-mainframe-psk-3052-cec46c"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 2.5
 prescience_obs_count: 4
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Rb Re Thinking Ibm Mainframe Psk 3052 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study rb-re-thinking-ibm-mainframe-psk-3052-cec46c. Source: rb_re-thinking_ibm_mainframe_psk_3052.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Research Brief**, type **benchmark**._

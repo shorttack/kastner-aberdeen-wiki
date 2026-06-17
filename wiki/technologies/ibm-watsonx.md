@@ -12,9 +12,9 @@ era: "2023-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # IBM watsonx
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM rebranded Watson as watsonx AI platform in 2023; includes watsonx.ai, watsonx.data, watsonx.governance — [[study-2026-kastner-ibm-longitudinal]]
+- IBM rebranded Watson as watsonx AI platform in 2023; includes watsonx.ai, watsonx.data, watsonx.governance `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]

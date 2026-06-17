@@ -12,9 +12,9 @@ era: "2003-2006 (research)"
 lifecycle_at_study: "pre-market"
 lifecycle_current: "{'lifecycle_current': 'legacy-unsupported', 'notes': 'Water/Methanol fuel cells for consumer electronics (laptops) were never commercially successful. Direct methanol fuel cell (DMFC) laptops were demonstrated by NEC, Toshiba, and others but never reached commercial markets. The technology remains in niche industrial applications but failed for consumer laptops.', 'source': 'https://www.latimes.com/archives/la-xpm-2003-jul-01-fi-rup1.5-story.html'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Water/Methanol Fuel Cell
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Fuel cells poised to be alternate power sources for all kinds of portable technology; fuel-cell cell phone rumored in Asia by end of 2003 — [[study-dct-oct.-4-hot-topic-b61c0d]]
+- Fuel cells poised to be alternate power sources for all kinds of portable technology; fuel-cell cell phone rumored in Asia by end of 2003 `[ps=2]` — [[study-dct-oct.-4-hot-topic-b61c0d]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Rocket Software (2010)"
 years_active: "1965-2010"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Computer Corporation of America
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Computer Corporation of America acquired by Rocket Software in March 2010; Model 204 rebranded as Rocket M204 — [[study-sirius-web-enablement-b81ea8]]
+- Computer Corporation of America acquired by Rocket Software in March 2010; Model 204 rebranded as Rocket M204 `[ps=5]` — [[study-sirius-web-enablement-b81ea8]]

@@ -12,9 +12,9 @@ status: "mixed"
 successor: ""
 years_active: "1990-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Top 20 IT Companies
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Top 20 IT company revenues suggest spending at or near the trough of current IT recession — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]
+- Top 20 IT company revenues suggest spending at or near the trough of current IT recession `[ps=4]` — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]
 - 2002 represents trough year for IT recession that began in 2001 following dot-com bust — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]

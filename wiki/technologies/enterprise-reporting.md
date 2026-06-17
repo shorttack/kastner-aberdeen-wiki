@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Enterprise Reporting
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $193 million; CAGR 58% to $761M by 2003 — [[study-data-know-69ab04]]
+- $193 million; CAGR 58% to $761M by 2003 `[ps=0]` — [[study-data-know-69ab04]]

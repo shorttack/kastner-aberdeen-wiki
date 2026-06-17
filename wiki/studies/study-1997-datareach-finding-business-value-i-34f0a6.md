@@ -3,7 +3,7 @@ title: "DataReach: Finding Business Value in Extracting Data"
 slug: "study-1997-datareach-finding-business-value-i-34f0a6"
 page_type: "study"
 tags: ["type/study", "collection/Vendor Profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-datareach--finding-business-value-i-34f0a6"
 author: "David Hill"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 6
 ---
 
 # DataReach: Finding Business Value in Extracting Data
@@ -32,13 +32,13 @@ _Published 1997, author **David Hill**, type **Vendor Profile**._
 
 ## Top observations
 
+- Data warehouses and data marts in open systems environments are the destination for mainframe data `[ps=5]`
+- EMC Corporation acquired by Dell for $67 billion in 2016; became Dell EMC; later Dell Technologies `[ps=5]`
+- DataReach as a standalone joint product did not achieve sustained commercial success; ETL platforms and broader EAI tools supplanted purpose-built mainframe bypass products `[ps=4]`
+- DataReach will help many large enterprises capture business value that might otherwise be lost from mainframe data `[ps=1]`
+- Global 2000 enterprises are the primary target market for DataReach `[ps=0]`
+- EMC provides intelligent storage component of DataReach partnership `[ps=0]`
 - Aberdeen believes DataReach will topple mainframe-infrastructure barriers to the free flow of data
 - Mainframe scheduling and operational constraints limit time available to move data to open systems
-- Global 2000 enterprises are the primary target market for DataReach
-- EMC provides intelligent storage component of DataReach partnership
 - BMC Software provides data movement software component of DataReach partnership
-- Data warehouses and data marts in open systems environments are the destination for mainframe data
-- DataReach will help many large enterprises capture business value that might otherwise be lost from mainframe data
-- DataReach as a standalone joint product did not achieve sustained commercial success; ETL platforms and broader EAI tools supplanted purpose-built mainframe bypass products
 - Traditional data propagation methods for mainframe data may cost more than expected
-- EMC Corporation acquired by Dell for $67 billion in 2016; became Dell EMC; later Dell Technologies

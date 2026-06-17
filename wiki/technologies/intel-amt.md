@@ -12,9 +12,9 @@ era: "2006-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Intel AMT (Active Management Technology) remains active in Intel vPro platform as of 2024. Individual features have been deprecated over time (SOAP interface, EAC, etc.) but the core AMT out-of-band management technology ships in current Intel vPro business laptops and desktops.', 'source': 'https://software.intel.com/sites/manageability/AMT_Implementation_and_Reference_Guide/WordDocuments/deprecatedanddeletedfeatures.htm'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 3
 ---
 
 # Intel AMT (Active Management Technology)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Out-of-band; works even when OS is down — [[study-intel-2010-vpro-daily-globe-42697e]]
-- vPro's Remote Alert feature enables a PC experiencing symptoms outside preset parameters to call for IT assistance on its own, even when the device has been switched off. — [[study-small-business-intel-targets-smbs-with-r-2cd3ec]]
-- Remote scheduled maintenance and remote alerts reduce time to patch PCs by as much as 86 percent, per Symantec. — [[study-small-business-intel-targets-smbs-with-r-2cd3ec]]
+- Out-of-band; works even when OS is down `[ps=4]` — [[study-intel-2010-vpro-daily-globe-42697e]]
+- vPro's Remote Alert feature enables a PC experiencing symptoms outside preset parameters to call for IT assistance on its own, even when the device has been switched off. `[ps=4]` — [[study-small-business-intel-targets-smbs-with-r-2cd3ec]]
+- Remote scheduled maintenance and remote alerts reduce time to patch PCs by as much as 86 percent, per Symantec. `[ps=4]` — [[study-small-business-intel-targets-smbs-with-r-2cd3ec]]

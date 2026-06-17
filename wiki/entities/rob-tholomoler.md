@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Rob Tholomoler
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- high — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- high `[ps=0]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]

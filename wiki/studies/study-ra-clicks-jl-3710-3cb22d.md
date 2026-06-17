@@ -1,5 +1,5 @@
 ---
-title: "==> picture [240 x 792] intentionally omitted <=="
+title: "Ra Clicks Jl 3710 (Aberdeen, 2007)"
 slug: "study-ra-clicks-jl-3710-3cb22d"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.41
-prescience_obs_count: 63
+prescience_mean: 1.58
+prescience_obs_count: 59
 ---
 
-# ==> picture [240 x 792] intentionally omitted <==
+# Ra Clicks Jl 3710 (Aberdeen, 2007)
 
-> This study analyzes ==> picture [240 x 792] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-clicks-jl-3710-3cb22d. Source: ra_clicks_jl_3710.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **topic-analysis**._

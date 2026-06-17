@@ -12,9 +12,9 @@ era: "1977-1998"
 lifecycle_at_study: "production-shipping"
 lifecycle_current: "discontinued-superseded-by-Alpha-then-Itanium"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # VAX Architecture
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- VAX architecture was 'magnificent — one of the great minicomputer designs ever produced.' But the battle DEC was winning (mini vs. mainframe) was not the defining war of the 1990s. — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
-- 10x — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]
+- VAX architecture was 'magnificent — one of the great minicomputer designs ever produced.' But the battle DEC was winning (mini vs. mainframe) was not the defining war of the 1990s. `[ps=5]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- 10x `[ps=0]` — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]

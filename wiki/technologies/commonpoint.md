@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "active"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # CommonPoint
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen predicted more OO-adept SoftBench users would use CommonPoint to build collaborative desktop applications on wide hardware range — [[study-aberdeen-1995-hp-softbench]]
+- Aberdeen predicted more OO-adept SoftBench users would use CommonPoint to build collaborative desktop applications on wide hardware range `[ps=1]` — [[study-aberdeen-1995-hp-softbench]]
 - CommonPoint failed commercially due to extreme learning curve; Taligent dissolved into IBM January 1998; technology merged into Java efforts not C++ SoftBench path — [[study-aberdeen-1995-hp-softbench]]

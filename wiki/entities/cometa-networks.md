@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "ceased operations 2004"
 years_active: "2002-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Cometa Networks
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- logged into Cometa hotspot in McDonald's from 15th-floor hotel room across street ~football field away — [[study-dct-traveling-with-centrino-2003-05]]
+- logged into Cometa hotspot in McDonald's from 15th-floor hotel room across street ~football field away `[ps=0]` — [[study-dct-traveling-with-centrino-2003-05]]

@@ -12,9 +12,9 @@ era: "1985-2005"
 lifecycle_at_study: "declining"
 lifecycle_current: "niche"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Object-Oriented DBMS (OODBMS)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- market voted OODBMSs are niche; not appropriate for large-scale or mission-critical applications — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
+- market voted OODBMSs are niche; not appropriate for large-scale or mission-critical applications `[ps=5]` — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
 - OODBMSs remained niche; market adopted object-relational RDBMS; Aberdeen prediction exactly correct — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]

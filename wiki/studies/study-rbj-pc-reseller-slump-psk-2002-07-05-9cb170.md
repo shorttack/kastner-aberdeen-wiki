@@ -3,7 +3,7 @@ title: "Rochester Business Journal — 'Computer resellers suffering while many 
 slug: "study-rbj-pc-reseller-slump-psk-2002-07-05-9cb170"
 page_type: "study"
 tags: ["type/study", "collection/regional-trade-press"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "rbj-pc-reseller-slump-psk-2002-07-05-9cb170"
 author: "Kathy Quinn Thomas (Rochester Business Journal staff)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.83
+prescience_obs_count: 6
 ---
 
 # Rochester Business Journal — 'Computer resellers suffering while many delay upgrades' (Kathy Quinn Thomas; PSK Aberdeen Group quoted, 2002-07-05)
@@ -32,10 +32,10 @@ _Published 2002, author **Kathy Quinn Thomas (Rochester Business Journal staff)*
 
 ## Top observations
 
-- Peter Kastner, technology analyst with Boston's Aberdeen Group Inc.
-- The replacement PC market is driven by price, as buyers see little to differentiate individual brands. The global recession last year led to a decline in sales, even as industry overcapacity drove prices lower.
-- 31.4 million PCs Q1-2002 (vs 32.2M Q1-2001; -2.5%)
-- 175 million PCs in use in the United States in 2001
-- In the third week in June, three national computer companies—Apple Computer, Advanced Micro Devices Inc. and Intel Corp.—lowered their earnings forecasts for the quarter
-- Consider it a respite, not a turning point for the U.S. PC market
+- 31.4 million PCs Q1-2002 (vs 32.2M Q1-2001; -2.5%) `[ps=5]`
+- The replacement PC market is driven by price, as buyers see little to differentiate individual brands. The global recession last year led to a decline in sales, even as industry overcapacity drove prices lower. `[ps=4]`
+- 175 million PCs in use in the United States in 2001 `[ps=4]`
+- Consider it a respite, not a turning point for the U.S. PC market `[ps=4]`
+- Peter Kastner, technology analyst with Boston's Aberdeen Group Inc. `[ps=0]`
+- In the third week in June, three national computer companies—Apple Computer, Advanced Micro Devices Inc. and Intel Corp.—lowered their earnings forecasts for the quarter `[ps=0]`
 - $16.7 million in sales and 45 employees in 2000

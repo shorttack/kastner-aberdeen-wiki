@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "absorbed-into-Compaq-then-HP"
 years_active: "1980s-1998"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # DEC Corporate Systems Group (CSG)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Assignment from Bill Steul's Corporate Systems group: 'look around DEC for things that needed to be done to improve the enterprise position.' — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- Assignment from Bill Steul's Corporate Systems group: 'look around DEC for things that needed to be done to improve the enterprise position.' `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

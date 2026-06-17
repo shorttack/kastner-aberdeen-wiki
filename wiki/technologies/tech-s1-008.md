@@ -12,9 +12,9 @@ era: "1980s-2000s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Abandoned"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # APPN (Advanced Peer-to-Peer Networking)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- No (1998 planned) — [[study-1997-dialogic-ct-media-sets-the-pace-for-440d5e]]
-- S.100 support by 1998 — [[study-1997-dialogic-ct-media-sets-the-pace-for-440d5e]]
+- No (1998 planned) `[ps=0]` — [[study-1997-dialogic-ct-media-sets-the-pace-for-440d5e]]
+- S.100 support by 1998 `[ps=0]` — [[study-1997-dialogic-ct-media-sets-the-pace-for-440d5e]]

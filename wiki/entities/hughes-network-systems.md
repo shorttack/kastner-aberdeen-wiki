@@ -12,9 +12,9 @@ status: "acquired"
 successor: "DirecTV -> AT&T 2015; Hughes -> EchoStar"
 years_active: "1971-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Hughes Network Systems / DirecTV / DirecPC
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Direct competitor via satellite; limited to PC or TV separately — [[study-aberdeen-1996-omnibox-interactive-broadcasting-network]]
+- Direct competitor via satellite; limited to PC or TV separately `[ps=0]` — [[study-aberdeen-1996-omnibox-interactive-broadcasting-network]]

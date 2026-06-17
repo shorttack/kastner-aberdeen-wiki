@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Enterprise Resource Planning (ERP) Platforms
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- If deploying specific NT-based applications (SAP/Baan/Oracle/CA): choose ISV professional services or their IPSP subcontractors `[ps=4]` — [[study-1998-nt-professional-services-buying-guide-1998-edition-14e452]]
 - Best IS resources frequently occupied with Y2K issues; enterprise intranet/extranet; and ERP/Supply Chain initiatives — driving external NT services demand — [[study-1998-nt-professional-services-buying-guide-1998-edition-14e452]]
-- If deploying specific NT-based applications (SAP/Baan/Oracle/CA): choose ISV professional services or their IPSP subcontractors — [[study-1998-nt-professional-services-buying-guide-1998-edition-14e452]]

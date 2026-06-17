@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "SciSparc (various)"
 years_active: "1992-2009"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # TurboLinux North America
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TurboLinux tapped Linuxcare to provide services/support to North American customers — [[study-linuxcare-ab95f6]]
+- TurboLinux tapped Linuxcare to provide services/support to North American customers `[ps=0]` — [[study-linuxcare-ab95f6]]

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1952-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # European Court of Justice
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Court of First Instance ruled against Microsoft on 2007-09-17, upholding EC's antitrust decision and fine — [[study-technology-news-international-microsoft--a2f127]]
+- Court of First Instance ruled against Microsoft on 2007-09-17, upholding EC's antitrust decision and fine `[ps=5]` — [[study-technology-news-international-microsoft--a2f127]]

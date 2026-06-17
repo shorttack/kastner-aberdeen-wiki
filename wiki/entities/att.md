@@ -12,9 +12,9 @@ status: "acquired"
 successor: "SBC Communications acquired AT&T Corp in 2005; renamed itself AT&T Inc."
 years_active: "1885-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # AT&T Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- AT&T named as industry-leading CSP using Open Market products — [[study-aberdeen-1996-open-market-web-based-commerce]]
+- AT&T named as industry-leading CSP using Open Market products `[ps=2]` — [[study-aberdeen-1996-open-market-web-based-commerce]]

@@ -12,9 +12,9 @@ era: "1970s-2000s"
 lifecycle_at_study: "declining"
 lifecycle_current: "niche-mission-critical"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.67
+prescience_obs_count: 3
 ---
 
 # Legacy Applications / Monolithic Systems
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Inflexibility — monolithic design makes change difficult — [[study-soa-bpm-legacy-renewal-bce60f]]
-- High maintenance costs — consumes resources better spent on innovation — [[study-soa-bpm-legacy-renewal-bce60f]]
-- Poor user experience — outdated interfaces do not meet modern user expectations — [[study-soa-bpm-legacy-renewal-bce60f]]
+- Inflexibility — monolithic design makes change difficult `[ps=4]` — [[study-soa-bpm-legacy-renewal-bce60f]]
+- Poor user experience — outdated interfaces do not meet modern user expectations `[ps=4]` — [[study-soa-bpm-legacy-renewal-bce60f]]
+- High maintenance costs — consumes resources better spent on innovation `[ps=3]` — [[study-soa-bpm-legacy-renewal-bce60f]]

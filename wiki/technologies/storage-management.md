@@ -13,8 +13,8 @@ lifecycle_at_study: "[DEFERRED]"
 lifecycle_current: "[DEFERRED]"
 occurrence_count: 25
 prescience_max: 4.0
-prescience_mean: 0.93
-prescience_obs_count: 99
+prescience_mean: 1.3
+prescience_obs_count: 83
 ---
 
 # Storage Management

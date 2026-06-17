@@ -3,7 +3,7 @@ title: "Comparing the Mac OS and Linux markets just doesn't work"
 slug: "study-macsimum-news-comparing-the-mac-os-and-l-26c31a"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "macsimum-news-comparing-the-mac-os-and-l-26c31a"
 author: "Dennis Sellers (Macsimum News); Peter Kastner (secondary-source quote via Wired)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.25
+prescience_obs_count: 4
 ---
 
 # Comparing the Mac OS and Linux markets just doesn't work
@@ -32,7 +32,7 @@ _Published 2004, author **Dennis Sellers (Macsimum News); Peter Kastner (seconda
 
 ## Top observations
 
-- ~3 percent
-- Considerably lower than Mac ~3%
-- Many pre-installed-Linux PCs get Windows pirate-installed within days, distorting Linux installed-base figures
-- Linux desktop stayed 2-4% globally; never overtook Mac
+- Linux desktop stayed 2-4% globally; never overtook Mac `[ps=5]`
+- Considerably lower than Mac ~3% `[ps=4]`
+- Many pre-installed-Linux PCs get Windows pirate-installed within days, distorting Linux installed-base figures `[ps=4]`
+- ~3 percent `[ps=0]`

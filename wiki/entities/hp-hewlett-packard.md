@@ -12,9 +12,9 @@ status: "active"
 successor: "Split into HP Inc. and HPE in 2015"
 years_active: "1939-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Hewlett-Packard Company
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 4,939 tpmC at $232/tpmC (HP/UX, 4-way, Oracle 7) — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]
-- Stated NT leadership commitment but protecting HP/UX Unix base; no plans for NT on PA-RISC; will await HP/Intel combined chip for enterprise NT — [[study-aberdeen-1996-digital-leading-nt-across-enterprise-charge]]
+- Stated NT leadership commitment but protecting HP/UX Unix base; no plans for NT on PA-RISC; will await HP/Intel combined chip for enterprise NT `[ps=5]` — [[study-aberdeen-1996-digital-leading-nt-across-enterprise-charge]]
+- 4,939 tpmC at $232/tpmC (HP/UX, 4-way, Oracle 7) `[ps=0]` — [[study-aberdeen-1996-digital-debunks-ntsmp-scalability-myth]]

@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Workflow and Approval Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Emerging; automated approval routing was key product differentiator for Ariba and Commerce One — [[study-1998-internet-procurement-cdc4a6]]
+- Emerging; automated approval routing was key product differentiator for Ariba and Commerce One `[ps=4]` — [[study-1998-internet-procurement-cdc4a6]]

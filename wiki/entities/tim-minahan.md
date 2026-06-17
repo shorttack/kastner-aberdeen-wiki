@@ -12,9 +12,9 @@ status: "unknown"
 successor: "[DEFERRED]"
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Tim Minahan
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Tim Minahan — e-Procurement Automation End User Survey (February 2000) and e-Procurement Solution Functionality Survey (March 2000) — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
-- Supply Chain Management / e-Procurement / e-Sourcing — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
+- Tim Minahan — e-Procurement Automation End User Survey (February 2000) and e-Procurement Solution Functionality Survey (March 2000) `[ps=0]` — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
+- Supply Chain Management / e-Procurement / e-Sourcing `[ps=0]` — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]

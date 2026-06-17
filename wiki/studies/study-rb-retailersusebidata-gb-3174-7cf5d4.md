@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Rb Retailersusebidata Gb 3174 (Aberdeen, 2006)"
 slug: "study-rb-retailersusebidata-gb-3174-7cf5d4"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.69
-prescience_obs_count: 13
+prescience_mean: 1.92
+prescience_obs_count: 12
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Rb Retailersusebidata Gb 3174 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study rb-retailersusebidata-gb-3174-7cf5d4. Source: rb_retailersusebidata_gb_3174.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **benchmark**._
@@ -44,4 +44,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 - Finally, 41% of all respondents are using dashboards to manage their data. `[ps=0]`
 - to recent survey data, 19% of Business Objects users collect data on a real-time basis, versus 10% of all retailers. `[ps=0]`
 - In addition, only 5% of Business Objects indicated that they collected data on an ad-hoc basis, versus 11% of all retailers. `[ps=0]`
-- **Figure 1: Business Objects Users More Likely to Utilize Dashboard, Portal Technologies** `[ps=-1]`
+- **Figure 1: Business Objects Users More Likely to Utilize Dashboard, Portal Technologies**

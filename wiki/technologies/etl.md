@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "active"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 4
 ---
 
 # ETL (Extract Transform Load)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Managing synchronization across data marts is critical; requires disciplined ETL and common data stewardship `[ps=5]` — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
+- Data transformation specialists (Prism Solutions et al.) provide critical ETL capabilities; short-term consulting engagements with suppliers a viable jump-start strategy `[ps=5]` — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
+- 'Factory ready' data infrastructure requires: parallel-scalable hardware, RDBMS, ETL tools, and data quality/transformation capabilities before data mart build `[ps=4]` — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
+- $117 million; CAGR 18% to $192M by 2002 `[ps=0]` — [[study-data-know-69ab04]]
 - Oracle Data Mart Suite includes ETL/data transformation tools — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
-- Managing synchronization across data marts is critical; requires disciplined ETL and common data stewardship — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
-- 'Factory ready' data infrastructure requires: parallel-scalable hardware, RDBMS, ETL tools, and data quality/transformation capabilities before data mart build — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
-- Data transformation specialists (Prism Solutions et al.) provide critical ETL capabilities; short-term consulting engagements with suppliers a viable jump-start strategy — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
-- $117 million; CAGR 18% to $192M by 2002 — [[study-data-know-69ab04]]

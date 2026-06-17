@@ -12,9 +12,9 @@ era: "2002-2009"
 lifecycle_at_study: "mature"
 lifecycle_current: "absorbed-into-igs"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM Business Consulting Services
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM acquired PwC Consulting for $3.5B in 2002; became IBM Business Consulting Services — [[study-2026-kastner-ibm-longitudinal]]
+- IBM acquired PwC Consulting for $3.5B in 2002; became IBM Business Consulting Services `[ps=0]` — [[study-2026-kastner-ibm-longitudinal]]

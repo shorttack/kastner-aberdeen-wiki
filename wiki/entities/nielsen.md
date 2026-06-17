@@ -12,9 +12,9 @@ status: "reorganized"
 successor: "NIQ (NielsenIQ / NIQ Global Intelligence plc)"
 years_active: "1923-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Nielsen (Nielsen Families)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Real-time click tracking replacing survey/Nielsen panel methods — [[study-technology-themes-ee5ba4]]
+- Real-time click tracking replacing survey/Nielsen panel methods `[ps=4]` — [[study-technology-themes-ee5ba4]]

@@ -12,9 +12,9 @@ era: "2007-present"
 lifecycle_at_study: "not yet existing"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Apple iOS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Apple launched iPhone June 29 2007 creating entirely new smartphone/handheld paradigm; both Pocket PC and Palm OS made irrelevant — [[study-2001-winning-the-enterprise-pocket-pc-will-he-pervasive-7686b2]]
+- Apple launched iPhone June 29 2007 creating entirely new smartphone/handheld paradigm; both Pocket PC and Palm OS made irrelevant `[ps=5]` — [[study-2001-winning-the-enterprise-pocket-pc-will-he-pervasive-7686b2]]

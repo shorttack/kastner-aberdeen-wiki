@@ -3,7 +3,7 @@ title: "Internet Architecture: Prescription For Success"
 slug: "study-aberdeen-1996-computer-telephony-integration"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1996-computer-telephony-integration"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.55
+prescience_obs_count: 20
 ---
 
 # Internet Architecture: Prescription For Success
@@ -32,26 +32,26 @@ _Published 1996, author **Aberdeen Group**, type **white-paper**._
 
 ## Top observations
 
-- Intranet-first: real Internet value lies in internal use of Internet protocols; build architectural foundation before external deployment
+- Wide array of e-commerce solutions emerging; IS must move aggressively to integrate into architecture `[ps=5]`
+- 64-bit VLM (>4GB RAM) enables higher performance for data warehousing and mixed OLTP/DSS Internet applications `[ps=5]`
+- Informix + Illustra DataBlades object-relational solution to be merged by 1997 `[ps=5]`
+- Internet electronic commerce promises dramatic decreases in selling costs and new opportunities for customer interaction `[ps=5]`
+- Web browser/server become bottlenecks as demand grows; must use TP-monitor-like middleware to bypass `[ps=4]`
+- No vendor has shrink-wrapped solution for all enterprise Internet needs; require Internet-enabled CADEs for customization `[ps=4]`
+- Informix Universal Server (1996) integrated Illustra DataBlades; prediction accurate; Informix acquired by IBM 2001 `[ps=4]`
+- Oracle WebSystem: replacement web browser/server with load balancing and RDBMS integration; best when Oracle already in architecture `[ps=4]`
+- Java became dominant enterprise application language by 1999-2001 (J2EE); CADE+Java prediction partially correct but applets also declined as Aberdeen predicted `[ps=4]`
+- CA-Unicenter Internet Commerce Enabled (ICE) exemplifies trend toward enterprise-class systems management of internet computing `[ps=4]`
+- Intranet-first: real Internet value lies in internal use of Internet protocols; build architectural foundation before external deployment `[ps=3]`
+- Internet web servers lag enterprise systems in security, availability, and administration tools `[ps=3]`
+- NUMA extends SMP with clustering and MPP features; allows scaling beyond SMP limits without application changes `[ps=3]`
+- Java is overhyped; lacks 4GL/VPE extensions; applets too large for 28.8K baud; 'C++ for the Internet' near-term `[ps=3]`
+- Most toolset suppliers will provide Java support by end of 1996; once CADEs add Java, they offer best-of-all-worlds `[ps=3]`
+- Of all Internet architectural components, middleware is the most critical to scalability `[ps=3]`
+- CADEs (PowerBuilder, Delphi, Forte etc.) added Java support by 1997-1998; CADEs largely displaced by Java IDE tools (Eclipse, NetBeans) by 2000 `[ps=3]`
+- Aberdeen anticipates most RDBMS vendors will support heterogeneous replication by end of 1996 `[ps=2]`
+- Big telecom companies will not deliver major end-user bandwidth increases in near future; 2-way cable not ready `[ps=2]`
+- Many second-generation CADEs will allow highly scalable Internet application development by mid-1996 `[ps=2]`
 - Most enterprise data in plain-vanilla format; must define web-presentable data elements and user-friendly interface
-- Web browser/server become bottlenecks as demand grows; must use TP-monitor-like middleware to bypass
-- No vendor has shrink-wrapped solution for all enterprise Internet needs; require Internet-enabled CADEs for customization
-- Internet web servers lag enterprise systems in security, availability, and administration tools
-- Wide array of e-commerce solutions emerging; IS must move aggressively to integrate into architecture
-- 64-bit VLM (>4GB RAM) enables higher performance for data warehousing and mixed OLTP/DSS Internet applications
-- NUMA extends SMP with clustering and MPP features; allows scaling beyond SMP limits without application changes
-- Informix + Illustra DataBlades object-relational solution to be merged by 1997
-- Informix Universal Server (1996) integrated Illustra DataBlades; prediction accurate; Informix acquired by IBM 2001
-- Aberdeen anticipates most RDBMS vendors will support heterogeneous replication by end of 1996
-- Oracle WebSystem: replacement web browser/server with load balancing and RDBMS integration; best when Oracle already in architecture
-- Java is overhyped; lacks 4GL/VPE extensions; applets too large for 28.8K baud; 'C++ for the Internet' near-term
-- Most toolset suppliers will provide Java support by end of 1996; once CADEs add Java, they offer best-of-all-worlds
-- Java became dominant enterprise application language by 1999-2001 (J2EE); CADE+Java prediction partially correct but applets also declined as Aberdeen predicted
-- Internet electronic commerce promises dramatic decreases in selling costs and new opportunities for customer interaction
 - E-commerce transformed retail, financial services, and B2B transactions globally; selling cost reductions materialized as predicted
-- Big telecom companies will not deliver major end-user bandwidth increases in near future; 2-way cable not ready
 - Broadband (DSL, cable) rollout accelerated 1998-2002; Aberdeen's near-term constraint proved partially correct but underestimated speed of cable/DSL
-- CA-Unicenter Internet Commerce Enabled (ICE) exemplifies trend toward enterprise-class systems management of internet computing
-- Of all Internet architectural components, middleware is the most critical to scalability
-- Many second-generation CADEs will allow highly scalable Internet application development by mid-1996
-- CADEs (PowerBuilder, Delphi, Forte etc.) added Java support by 1997-1998; CADEs largely displaced by Java IDE tools (Eclipse, NetBeans) by 2000

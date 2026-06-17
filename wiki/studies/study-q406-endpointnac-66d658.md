@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 95] intentionally omitted <=="
+title: "Q406 Endpointnac (Aberdeen, 2006)"
 slug: "study-q406-endpointnac-66d658"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 2.5
 prescience_obs_count: 4
 ---
 
-# ==> picture [441 x 95] intentionally omitted <==
+# Q406 Endpointnac (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study q406-endpointnac-66d658. Source: q406_endpointnac.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Research Preview**, type **benchmark**._

@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "emerging-mature"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Object-Oriented Technology (OOT)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- OOT has had slow take-off but applied to enterprise apps shows significant benefits; basis for componentization of monolithic applications. — [[study-oracle-wp-prod-6-a42b4b]]
+- OOT has had slow take-off but applied to enterprise apps shows significant benefits; basis for componentization of monolithic applications. `[ps=4]` — [[study-oracle-wp-prod-6-a42b4b]]

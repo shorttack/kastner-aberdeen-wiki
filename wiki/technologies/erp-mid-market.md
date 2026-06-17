@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # ERP for Mid-Market / SME
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen surveyed SME market to validate a new methodology for delivering complex ERP technology; recommended repositioning to set market-driven customer expectations — [[study-aberdeen-corporate-collateral-2001-v2-b4b001]]
+- Aberdeen surveyed SME market to validate a new methodology for delivering complex ERP technology; recommended repositioning to set market-driven customer expectations `[ps=0]` — [[study-aberdeen-corporate-collateral-2001-v2-b4b001]]

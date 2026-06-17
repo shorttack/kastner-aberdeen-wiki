@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 95] intentionally omitted <=="
+title: "Rp Appsec Mp 060927 (Aberdeen, 2005)"
 slug: "study-rp-appsec-mp-060927-6bae07"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 1.0
 prescience_obs_count: 3
 ---
 
-# ==> picture [441 x 95] intentionally omitted <==
+# Rp Appsec Mp 060927 (Aberdeen, 2005)
 
-> This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study rp-appsec-mp-060927-6bae07. Source: rp_appsec_mp_060927.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **benchmark**._

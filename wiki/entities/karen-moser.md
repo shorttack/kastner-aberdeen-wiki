@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1999-2000+"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Karen Moser
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Karen Moser — e-Employee Self-Service Supplier Survey (June 2000) and End-User Competitive Landscape (December 2000) — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
+- Karen Moser — e-Employee Self-Service Supplier Survey (June 2000) and End-User Competitive Landscape (December 2000) `[ps=0]` — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]

@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Broadband Internet Access
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Working with available consumer bandwidth is a key challenge limiting shopping experience quality — [[study-1998-internet-sales-report-4cde3f]]
+- Consumers' time and dollars have become invested in technologies like high-speed broadband Internet `[ps=5]` — [[study-ect-news-whatever-happened-interactive-t-7446fd]]
+- Working with available consumer bandwidth is a key challenge limiting shopping experience quality `[ps=4]` — [[study-1998-internet-sales-report-4cde3f]]
 - Broadband (DSL and cable) achieved majority U.S. household penetration by 2005; resolved shopping experience constraint — [[study-1998-internet-sales-report-4cde3f]]
-- Consumers' time and dollars have become invested in technologies like high-speed broadband Internet — [[study-ect-news-whatever-happened-interactive-t-7446fd]]

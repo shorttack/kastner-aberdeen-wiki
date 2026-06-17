@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1877-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # The Washington Post
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- The Washington Post recently noted that 15 percent of all consumers entitled to a rebate never complete the process — [[study-rebate-check-recordonline-van-vlack-d7d600]]
+- The Washington Post recently noted that 15 percent of all consumers entitled to a rebate never complete the process `[ps=0]` — [[study-rebate-check-recordonline-van-vlack-d7d600]]

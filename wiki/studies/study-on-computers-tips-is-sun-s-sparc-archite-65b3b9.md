@@ -3,7 +3,7 @@ title: "Is Sun's SPARC Architecture on Life Support?"
 slug: "study-on-computers-tips-is-sun-s-sparc-archite-65b3b9"
 page_type: "study"
 tags: ["type/study", "collection/memoir"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "on-computers-tips-is-sun-s-sparc-archite-65b3b9"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.25
+prescience_obs_count: 4
 ---
 
 # Is Sun's SPARC Architecture on Life Support?
@@ -32,10 +32,10 @@ _Published 2009, author **Peter S. Kastner**, type **memoir**._
 
 ## Top observations
 
+- Oracle laid off most of the Solaris and SPARC engineering staff in September 2017; SPARC M8 was the last new CPU; T-series entered long-term sustaining mode. `[ps=5]`
+- Oracle has the opportunity to create the one-stop shop for IT — entire stack from base server hardware to Layer 7 applications — that has not existed since IBM got out of the application software business 40 years ago this month. `[ps=4]`
+- Sun Rock chip was officially cancelled shortly after Oracle-Sun merger closed in 2010; the high-end SPARC roadmap was reset around T-series. `[ps=4]`
+- Oracle did build the integrated stack: Exadata database machines, Exalogic, Oracle Cloud Infrastructure, SaaS apps — realizing Kastner's prediction. `[ps=4]`
 - Sun's long-hyped Rock chip is apparently dead. Well, that's one less project for Oracle to cancel when the merger goes through.
 - With Sun's high-end future SPARC platform DOA, the future of SPARC machines gets riskier for enterprise IT strategists. With Solaris available on X64 commodity servers, there's no longer a huge case for SPARC.
-- Oracle has the opportunity to create the one-stop shop for IT — entire stack from base server hardware to Layer 7 applications — that has not existed since IBM got out of the application software business 40 years ago this month.
 - What will Oracle do with that opportunity?
-- Sun Rock chip was officially cancelled shortly after Oracle-Sun merger closed in 2010; the high-end SPARC roadmap was reset around T-series.
-- Oracle did build the integrated stack: Exadata database machines, Exalogic, Oracle Cloud Infrastructure, SaaS apps — realizing Kastner's prediction.
-- Oracle laid off most of the Solaris and SPARC engineering staff in September 2017; SPARC M8 was the last new CPU; T-series entered long-term sustaining mode.

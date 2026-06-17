@@ -3,7 +3,7 @@ title: "Editor's Buffer (October 1997)"
 slug: "study-october-1997-editor-s-buffer-5-771798"
 page_type: "study"
 tags: ["type/study", "collection/editorial"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "october-1997-editor-s-buffer-5-771798"
 author: "Editor, Database Programming & Design (Miller Freeman)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.75
+prescience_obs_count: 4
 ---
 
 # Editor's Buffer (October 1997)
@@ -32,9 +32,9 @@ _Published 1997, author **Editor, Database Programming & Design (Miller Freeman)
 
 ## Top observations
 
+- Kastner framing implies that commercial RDBMS market will consolidate to IBM / Oracle / Microsoft dominance over the following 5-10 years. `[ps=5]`
+- By 2010 IBM (DB2), Oracle, and Microsoft SQL Server dominated commercial RDBMS; Sybase acquired by SAP (2010), Informix by IBM (2001), Ingres by CA then independent. Cloud players (AWS RDS, etc.) entered thereafter. `[ps=5]`
+- ODBMS did not displace RDBMS; Object Design was acquired by Progress (2003); remaining ODBMS tools became niche embedded/edge solutions. `[ps=5]`
+- Atwood cites economics and marketing as the major reasons ODBMS has yet to impact the mainstream. `[ps=4]`
 - Tough competition facing database vendors not named IBM, Oracle, or Microsoft.
-- Atwood cites economics and marketing as the major reasons ODBMS has yet to impact the mainstream.
 - Java was thought to offer ODBMS vendors an excellent opportunity — but this was compromised by economic necessity with JDBC-first orientation.
-- Kastner framing implies that commercial RDBMS market will consolidate to IBM / Oracle / Microsoft dominance over the following 5-10 years.
-- By 2010 IBM (DB2), Oracle, and Microsoft SQL Server dominated commercial RDBMS; Sybase acquired by SAP (2010), Informix by IBM (2001), Ingres by CA then independent. Cloud players (AWS RDS, etc.) entered thereafter.
-- ODBMS did not displace RDBMS; Object Design was acquired by Progress (2003); remaining ODBMS tools became niche embedded/edge solutions.

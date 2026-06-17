@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Corporate Intranet Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internet/Intranet demands text and graphic data types that challenge RDBMS integration — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
+- Internet/Intranet demands text and graphic data types that challenge RDBMS integration `[ps=4]` — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]

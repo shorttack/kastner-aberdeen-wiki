@@ -3,7 +3,7 @@ title: "Unisys 'Benchmark Gorilla' Sets New SAP Standard on Windows- and Intel-b
 slug: "study-2001-unisys-benchmark-gorilla-sets-new-sap-and-intel-ba-19cf5a"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2001-unisys-benchmark-gorilla-sets-new-sap-and-intel-ba-19cf5a"
 author: "Robert Dorin"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.8
+prescience_obs_count: 10
 ---
 
 # Unisys 'Benchmark Gorilla' Sets New SAP Standard on Windows- and Intel-based ES7000 Database Server
@@ -32,14 +32,14 @@ _Published 2001, author **Robert Dorin**, type **market-study**._
 
 ## Top observations
 
+- Significant price-performance advantages over Unix-based systems `[ps=5]`
+- Unisys Corporation remains active as IT services company; focuses on digital workplace and cloud solutions rather than hardware `[ps=5]`
+- Running on Datacenter 2000 and SQL Server 2000 for mission-critical configurations `[ps=4]`
+- Unisys exited hardware manufacturing circa 2015; transformed into IT services and solutions company; ES7000 line discontinued `[ps=4]`
+- Suitable for mission-critical systems when combined with Datacenter 2000 `[ps=3]`
+- Windows and SQL Server scalability addressed by Unisys benchmark series `[ps=3]`
+- Benchmark gorilla — systematic pursuit of industry performance records to establish credibility `[ps=2]`
+- ES7000 positioned as attractive option for high-end applications given performance and reliability `[ps=2]`
+- 32-processor Intel-based server `[ps=0]`
+- Multiple SAP benchmarks announced by Unisys in 2001 to address scalability question `[ps=0]`
 - 24000 SD concurrent users
-- 32-processor Intel-based server
-- Benchmark gorilla — systematic pursuit of industry performance records to establish credibility
-- Running on Datacenter 2000 and SQL Server 2000 for mission-critical configurations
-- Suitable for mission-critical systems when combined with Datacenter 2000
-- Significant price-performance advantages over Unix-based systems
-- ES7000 positioned as attractive option for high-end applications given performance and reliability
-- Windows and SQL Server scalability addressed by Unisys benchmark series
-- Multiple SAP benchmarks announced by Unisys in 2001 to address scalability question
-- Unisys exited hardware manufacturing circa 2015; transformed into IT services and solutions company; ES7000 line discontinued
-- Unisys Corporation remains active as IT services company; focuses on digital workplace and cloud solutions rather than hardware

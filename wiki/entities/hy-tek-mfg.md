@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Hy-Tek Manufacturing Co.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Hy-Tek Tek Panel 300 wide-screen flat panel monitor with built-in computer (Pentium 4 + large hard drive) priced $6,500-$9,000 — 'invisibility at a price.' — [[study-small-is-huge-in-pcs-these-days-blog-arc-655851]]
+- Hy-Tek Tek Panel 300 wide-screen flat panel monitor with built-in computer (Pentium 4 + large hard drive) priced $6,500-$9,000 — 'invisibility at a price.' `[ps=0]` — [[study-small-is-huge-in-pcs-these-days-blog-arc-655851]]

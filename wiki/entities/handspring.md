@@ -12,9 +12,9 @@ status: "mobile-hardware"
 successor: "Palm Inc. (2003)"
 years_active: "Palm Inc. (2003)"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.25
+prescience_obs_count: 4
 ---
 
 # Handspring Inc.
@@ -29,8 +29,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Evaluated under MPP; declining PDA share; pivoting to Treo smartphone — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
-- Acquired by Palm in 2003 in stock deal; Treo smartphone line absorbed — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
-- Palm competitor offering early wireless capability via Treo — [[study-2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f]]
-- acquired by Palm in 2003; Treo became Palm's smartphone line — [[study-2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f]]
+- Acquired by Palm in 2003 in stock deal; Treo smartphone line absorbed `[ps=5]` — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
+- acquired by Palm in 2003; Treo became Palm's smartphone line `[ps=5]` — [[study-2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f]]
+- Evaluated under MPP; declining PDA share; pivoting to Treo smartphone `[ps=4]` — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
+- Palm competitor offering early wireless capability via Treo `[ps=3]` — [[study-2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f]]
 - Merged into Palm 2003 — [[study-dct-supplier-list-2002]]

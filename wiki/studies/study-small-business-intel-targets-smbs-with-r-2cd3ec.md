@@ -3,7 +3,7 @@ title: "Intel Targets SMBs With Revamped vPro"
 slug: "study-small-business-intel-targets-smbs-with-r-2cd3ec"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "small-business-intel-targets-smbs-with-r-2cd3ec"
 author: "Mark Long, Data Storage Today / CIO Today Network"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.25
+prescience_obs_count: 8
 ---
 
 # Intel Targets SMBs With Revamped vPro
@@ -32,11 +32,11 @@ _Published 2008, author **Mark Long, Data Storage Today / CIO Today Network**, t
 
 ## Top observations
 
-- No matter where in the world the device is, the corporate laptops that workers take home or on business trips are all now manageable, fixable, and diagnosable. As long as you can get to a network, vPro and related technology can help to solve the problem.
-- Five years ago, major service companies told Kastner their TCO outcomes were in the range of $700 to $3,000 per PC per year.
-- On the low end, vPro has cut PC TCO to under $500 per PC per year, not much more than the device itself.
-- On the high end, vPro has pushed the cost to less than $2,000. The not-quite-so-efficient companies have whacked out $1,000 per employee per year — a huge savings that can go right to the bottom line.
-- If you look at the cost of maintaining and supporting PCs in the enterprise, one of the big components is having to get a human being to go and actually touch that computer. So there has really been a big push to provide remote management and administration across the network.
-- vPro's Remote Alert feature enables a PC experiencing symptoms outside preset parameters to call for IT assistance on its own, even when the device has been switched off.
-- Remote scheduled maintenance and remote alerts reduce time to patch PCs by as much as 86 percent, per Symantec.
-- By 2020-2022, COVID-driven WFH made cloud-native endpoint management (Microsoft Intune, Jamf, Kandji, Workspace ONE) the dominant PC management paradigm, largely overshadowing Intel vPro AMT as the primary fleet-management interface — though vPro continues to hold a role for hardware-level out-of-band repair.
+- If you look at the cost of maintaining and supporting PCs in the enterprise, one of the big components is having to get a human being to go and actually touch that computer. So there has really been a big push to provide remote management and administration across the network. `[ps=5]`
+- No matter where in the world the device is, the corporate laptops that workers take home or on business trips are all now manageable, fixable, and diagnosable. As long as you can get to a network, vPro and related technology can help to solve the problem. `[ps=4]`
+- vPro's Remote Alert feature enables a PC experiencing symptoms outside preset parameters to call for IT assistance on its own, even when the device has been switched off. `[ps=4]`
+- Remote scheduled maintenance and remote alerts reduce time to patch PCs by as much as 86 percent, per Symantec. `[ps=4]`
+- By 2020-2022, COVID-driven WFH made cloud-native endpoint management (Microsoft Intune, Jamf, Kandji, Workspace ONE) the dominant PC management paradigm, largely overshadowing Intel vPro AMT as the primary fleet-management interface — though vPro continues to hold a role for hardware-level out-of-band repair. `[ps=4]`
+- On the high end, vPro has pushed the cost to less than $2,000. The not-quite-so-efficient companies have whacked out $1,000 per employee per year — a huge savings that can go right to the bottom line. `[ps=3]`
+- On the low end, vPro has cut PC TCO to under $500 per PC per year, not much more than the device itself. `[ps=2]`
+- Five years ago, major service companies told Kastner their TCO outcomes were in the range of $700 to $3,000 per PC per year. `[ps=0]`

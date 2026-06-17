@@ -12,9 +12,9 @@ status: "absorbed"
 successor: "IBM Global Services"
 years_active: "1991-1996"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM ISSC (Integrated Systems Solutions Corporation)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Bundled RS/6000 with consulting at heavy discounts — [[study-aberdeen-1996-risc-unix-market]]
+- Bundled RS/6000 with consulting at heavy discounts `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]

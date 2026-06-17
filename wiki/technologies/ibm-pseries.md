@@ -12,9 +12,9 @@ era: "2000-2008"
 lifecycle_at_study: "mature"
 lifecycle_current: "rebranded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM pSeries
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- -27% `[ps=0]` — [[study-sun-as400-market-data-2002-5faa8f]]
 - $5.009B — [[study-sun-as400-market-data-2002-5faa8f]]
-- -27% — [[study-sun-as400-market-data-2002-5faa8f]]

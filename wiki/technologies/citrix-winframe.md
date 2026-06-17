@@ -12,9 +12,9 @@ era: "1995-2003"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Citrix WinFrame / MetaFrame
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Citrix identified as leading thin-client enabling software solutions provider for NT — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]
+- Citrix identified as leading thin-client enabling software solutions provider for NT `[ps=5]` — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]

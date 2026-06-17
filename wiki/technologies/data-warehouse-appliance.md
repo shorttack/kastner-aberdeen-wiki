@@ -12,9 +12,9 @@ era: "1994-2005"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Data Warehouse Appliance
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Safeway’s Teradata data warehouse machine was effectively destroyed when the fire extinguishing system exploded into the closed computer room. `[ps=0]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
 - Safeway's DW investment trajectory — from $10.2M initial to $16.7M total — demonstrated increasing strategic commitment to analytics-driven retail — [[study-safeway-damages-report-draft-b502f4]]
-- Safeway’s Teradata data warehouse machine was effectively destroyed when the fire extinguishing system exploded into the closed computer room. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]

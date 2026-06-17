@@ -12,9 +12,9 @@ era: "2002-2004"
 lifecycle_at_study: "new"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # 533 MHz front-side bus
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 533 MHz FSB P4 pricing falls independently of 400 MHz FSB P4 pricing — [[study-dct-intel-processor-prices-2003-01]]
+- 533 MHz FSB P4 pricing falls independently of 400 MHz FSB P4 pricing `[ps=0]` — [[study-dct-intel-processor-prices-2003-01]]

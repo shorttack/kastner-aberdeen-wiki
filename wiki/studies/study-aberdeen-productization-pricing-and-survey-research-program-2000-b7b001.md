@@ -3,7 +3,7 @@ title: "Aberdeen Group 2000 Productization, Pricing, and Survey Research Program
 slug: "study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-productization-pricing-and-survey-research-program-2000-b7b001"
 author: "Aberdeen Group (multi-author): Hugh Bishop (e-Profile January 2000); Aberdeen Group / David Wright / ETI (Market Analysis Service June 2001); Aberdeen Pricing Committee (Publication Pricing 2000 — Peter Kastner sign-off threshold); e-Business@Aberdeen.com analyst team (Tim Minahan, Donovan Gow, Kent Allen, Chris Martins, Karen Moser, Judith Rosall, Lara Abrams) for Survey Research Program 2000"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.18
+prescience_obs_count: 22
 ---
 
 # Aberdeen Group 2000 Productization, Pricing, and Survey Research Program (e-Profile, Market Analysis Service, Publication Pricing Schedule, e-Business@Aberdeen Survey Calendar)
@@ -32,28 +32,28 @@ _Published 2000, author **Aberdeen Group (multi-author): Hugh Bishop (e-Profile 
 
 ## Top observations
 
-- $40,000+ ($15,000 research + $25,000 web hosting 12 months including 3 updates)
-- Analyst fills 1.5-page worksheet + creates 8-10 slide PowerPoint + records 5-7 audio clips of 1-2 minutes each
-- SalesLogix named beta program participant
-- eCredit named beta program participant
-- Personic named beta program participant
-- Authored January 2000 'Aberdeen e-Publications' deck
-- $22,500 (5 seats; all 14 topics; both qualitative + quantitative data)
-- $15,000
-- $10,000
-- $1,495 single-topic qualitative-only or quantitative-only; $2,495 single-topic both
-- Application Service Providers; Collaborative Product Commerce; CRM; Data Knowledge Solutions; Enterprise Application Integration (EAI); Enterprise Applications; e-Sourcing; Internet Infrastructure; Managed Services Providers; Professional Services; Security Solutions; Storage Management Systems; Supply Chain Management; Wireless Infrastructure Technologies
-- $2,000 cash up-front per analyst; 15 percent of revenues as GM transfer; 25-75 percent of Profile sales revenues; $250 cash for participating in successful sales call; $150 cash payment for 1 hour of telephone inquiry
+- Application Service Providers; Collaborative Product Commerce; CRM; Data Knowledge Solutions; Enterprise Application Integration (EAI); Enterprise Applications; e-Sourcing; Internet Infrastructure; Managed Services Providers; Professional Services; Security Solutions; Storage Management Systems; Supply Chain Management; Wireless Infrastructure Technologies `[ps=4]`
+- $40,000+ ($15,000 research + $25,000 web hosting 12 months including 3 updates) `[ps=0]`
+- Analyst fills 1.5-page worksheet + creates 8-10 slide PowerPoint + records 5-7 audio clips of 1-2 minutes each `[ps=0]`
+- SalesLogix named beta program participant `[ps=0]`
+- eCredit named beta program participant `[ps=0]`
+- Personic named beta program participant `[ps=0]`
+- Authored January 2000 'Aberdeen e-Publications' deck `[ps=0]`
+- $22,500 (5 seats; all 14 topics; both qualitative + quantitative data) `[ps=0]`
+- $15,000 `[ps=0]`
+- $10,000 `[ps=0]`
+- $1,495 single-topic qualitative-only or quantitative-only; $2,495 single-topic both `[ps=0]`
+- $2,000 cash up-front per analyst; 15 percent of revenues as GM transfer; 25-75 percent of Profile sales revenues; $250 cash for participating in successful sales call; $150 cash payment for 1 hour of telephone inquiry `[ps=0]`
+- $25,000 (500 copies included); eVersion $17,500; combo $30,000 `[ps=0]`
+- $10,000 (100 copies included); eVersion $12,500; combo $17,500 `[ps=0]`
+- $17,500 (500 copies included); eVersion $15,000; combo $22,500 `[ps=0]`
+- Tim Minahan — e-Procurement Automation End User Survey (February 2000) and e-Procurement Solution Functionality Survey (March 2000) `[ps=0]`
+- Donovan Gow co-lead with Kent Allen — Internet Marketing and Sales End-User Survey (April 2000) and Supplier Study (October 2000) `[ps=0]`
+- Kent Allen co-lead with Donovan Gow on 2000 e-Marketing/e-Sales surveys `[ps=0]`
+- Karen Moser — e-Employee Self-Service Supplier Survey (June 2000) and End-User Competitive Landscape (December 2000) `[ps=0]`
+- Judith Rosall — Emerging NetMarkets Financial Services Portals Applications and Services Functionality and Market Assessment (February 2000) `[ps=0]`
+- Judith Rosall — Emerging IBPP Product Functionality and Market Assessment Study (January 2000) `[ps=0]`
+- Supply Chain Management / e-Procurement / e-Sourcing `[ps=0]`
 - 2 to 2.5 days of structured engagement time per analyst; 12 hours report review + 2 hours survey review + advance questions to analyst
 - Methodology + Quantitative Model + Macroeconomic Data + Qualitative Data Model + Structured Interview development + Outbound Marketing + Telesales team + Field sales training + On-site sales calls
-- $25,000 (500 copies included); eVersion $17,500; combo $30,000
-- $10,000 (100 copies included); eVersion $12,500; combo $17,500
-- $17,500 (500 copies included); eVersion $15,000; combo $22,500
 - Client Web License $2,500 (Impact) - $10,000 (EWP); Aberdeen Hosting of Written Version with Link to Client Site $2,500/3mo - $7,500/3mo / $3,750/6mo - $7,500/6mo / $5,000/12mo - $10,000/12mo; Aberdeen Hosting of eVersion $5,000/3mo flat
-- Peter Kastner signs off on contracts of $100,000 or more
-- Under very special circumstances and upon Managing Director approval: no discounts under $75,000; 5 percent off $75,000; 10 percent off $100,000
-- Tim Minahan — e-Procurement Automation End User Survey (February 2000) and e-Procurement Solution Functionality Survey (March 2000)
-- Donovan Gow co-lead with Kent Allen — Internet Marketing and Sales End-User Survey (April 2000) and Supplier Study (October 2000)
-- Kent Allen co-lead with Donovan Gow on 2000 e-Marketing/e-Sales surveys
-- Chris Martins — e-Customer Service three-phase research (End-User April 2000 + Corporate User July 2000 + Supplier September 2000)
-- Karen Moser — e-Employee Self-Service Supplier Survey (June 2000) and End-User Competitive Landscape (December 2000)

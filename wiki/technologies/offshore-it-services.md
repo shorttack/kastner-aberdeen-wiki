@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Offshore IT services (India)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- India IT services sector reached ~$200B revenue by 2020 (NASSCOM), dominated by TCS, Infosys, Wipro, HCL, Tech Mahindra, Cognizant — validating Saia & Kastner's framing of outsourcing as a durable structural market. — [[study-research-resources-the-william-davidson--7de658]]
+- India IT services sector reached ~$200B revenue by 2020 (NASSCOM), dominated by TCS, Infosys, Wipro, HCL, Tech Mahindra, Cognizant — validating Saia & Kastner's framing of outsourcing as a durable structural market. `[ps=5]` — [[study-research-resources-the-william-davidson--7de658]]

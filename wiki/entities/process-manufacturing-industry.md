@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1800s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.29
+prescience_obs_count: 7
 ---
 
 # Process Manufacturing Industry
@@ -24,10 +24,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Reducing order-through-delivery time — [[study-process-of-process-eba-335083]]
-- Improving ROI by reducing cycle times and improving inventory management — [[study-process-of-process-eba-335083]]
-- Choosing the right EBA supplier presents a formidable challenge for process manufacturers — [[study-process-of-process-eba-335083]]
-- $895 — [[study-process-of-process-eba-335083]]
-- Many leading EBA suppliers without genuine process manufacturing modules will face market pressure from specialists — [[study-process-of-process-eba-335083]]
-- Report identifies factors critical to user success and supplier success in process EBA market — [[study-process-of-process-eba-335083]]
-- Tracking products through production as core competitive requirement — [[study-process-of-process-eba-335083]]
+- Tracking products through production as core competitive requirement `[ps=5]` — [[study-process-of-process-eba-335083]]
+- Improving ROI by reducing cycle times and improving inventory management `[ps=4]` — [[study-process-of-process-eba-335083]]
+- Many leading EBA suppliers without genuine process manufacturing modules will face market pressure from specialists `[ps=4]` — [[study-process-of-process-eba-335083]]
+- Choosing the right EBA supplier presents a formidable challenge for process manufacturers `[ps=3]` — [[study-process-of-process-eba-335083]]
+- Reducing order-through-delivery time `[ps=0]` — [[study-process-of-process-eba-335083]]
+- $895 `[ps=0]` — [[study-process-of-process-eba-335083]]
+- Report identifies factors critical to user success and supplier success in process EBA market `[ps=0]` — [[study-process-of-process-eba-335083]]

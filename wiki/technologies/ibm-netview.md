@@ -12,9 +12,9 @@ era: "1986-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM NetView
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM's NetView positioned to become well-behaved Tivoli management application; validates existing NetView user investments — [[study-aberdeen-1996-ibm-tivoli]]
+- IBM's NetView positioned to become well-behaved Tivoli management application; validates existing NetView user investments `[ps=4]` — [[study-aberdeen-1996-ibm-tivoli]]

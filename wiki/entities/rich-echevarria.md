@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "2000s-2010s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Rich Echevarria
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Spend smart, do more, be more secure — [[study-intel-2010-vpro-daily-globe-42697e]]
+- Spend smart, do more, be more secure `[ps=0]` — [[study-intel-2010-vpro-daily-globe-42697e]]

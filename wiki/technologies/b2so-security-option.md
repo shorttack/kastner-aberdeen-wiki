@@ -12,9 +12,9 @@ era: "1990-1999"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.25
+prescience_obs_count: 4
 ---
 
 # DG B2 Security Option (B2SO)
@@ -24,10 +24,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Three-region compartmentalization: network, admin, application/data; mandatory access controls; role-based access — [[study-aberdeen-1996-data-generals-cybershield-security-solutions-advancing]]
-- Negligible performance degradation reported by IS managers; users unaware security controls operating — [[study-aberdeen-1996-data-generals-cybershield-security-solutions-advancing]]
-- Isolates network traffic; prevents unauthorized access from external networks — [[study-aberdeen-1996-data-generals-cybershield-security-solutions-advancing]]
+- Three-region compartmentalization: network, admin, application/data; mandatory access controls; role-based access `[ps=4]` — [[study-aberdeen-1996-data-generals-cybershield-security-solutions-advancing]]
+- Negligible performance degradation reported by IS managers; users unaware security controls operating `[ps=3]` — [[study-aberdeen-1996-data-generals-cybershield-security-solutions-advancing]]
+- Isolates network traffic; prevents unauthorized access from external networks `[ps=3]` — [[study-aberdeen-1996-data-generals-cybershield-security-solutions-advancing]]
+- Industry validated: unified security platforms (Checkpoint, Cisco PIX, Palo Alto NGFW) dominated; point-solution assembly declined `[ps=3]` — [[study-aberdeen-1996-data-generals-cybershield-security-solutions-advancing]]
 - Prevents administrators from acquiring access to production applications and data — [[study-aberdeen-1996-data-generals-cybershield-security-solutions-advancing]]
 - Protects applications and data; isolates viruses from production systems — [[study-aberdeen-1996-data-generals-cybershield-security-solutions-advancing]]
 - Integrated platforms will outperform component point-solutions for enterprise internet security — [[study-aberdeen-1996-data-generals-cybershield-security-solutions-advancing]]
-- Industry validated: unified security platforms (Checkpoint, Cisco PIX, Palo Alto NGFW) dominated; point-solution assembly declined — [[study-aberdeen-1996-data-generals-cybershield-security-solutions-advancing]]

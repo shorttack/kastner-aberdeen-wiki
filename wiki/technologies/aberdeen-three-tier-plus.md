@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "current-1992"
 lifecycle_current: "evolved-into-modern-data-mesh-lakehouse"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen 'Three-Tier Plus' Enterprise Topology Model
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enterprise server + decision support; Analytical system; Replicated/departmental systems; PCs, Workstations, Macs, Terminals — [[study-aberdeen-snr-architecture-three-tier-sli-abaaa5]]
+- Enterprise server + decision support; Analytical system; Replicated/departmental systems; PCs, Workstations, Macs, Terminals `[ps=3]` — [[study-aberdeen-snr-architecture-three-tier-sli-abaaa5]]

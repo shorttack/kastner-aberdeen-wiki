@@ -12,9 +12,9 @@ era: "1960s-2010s"
 lifecycle_at_study: "mature"
 lifecycle_current: "deprecated"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # CRT Monitor
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Major CRT monitor manufacturers exited by 2008; last Sony CRT TV production ended 2008; CRT PC monitors essentially unavailable in retail by 2010 — [[study-death-of-crt-monitor-pcmag-2002-977c17]]
+- Major CRT monitor manufacturers exited by 2008; last Sony CRT TV production ended 2008; CRT PC monitors essentially unavailable in retail by 2010 `[ps=5]` — [[study-death-of-crt-monitor-pcmag-2002-977c17]]

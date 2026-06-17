@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "declining"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # xDSL (Digital Subscriber Line)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- xDSL technologies emerged; 128 Kbps IDSL to 7 Mbps ADSL; not yet widely deployed or geographically available — [[study-networ~1-96462b]]
+- xDSL technologies emerged; 128 Kbps IDSL to 7 Mbps ADSL; not yet widely deployed or geographically available `[ps=0]` — [[study-networ~1-96462b]]

@@ -12,9 +12,9 @@ era: "1999-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Supply Net (dynamic supply chain)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- e-Business winners will leverage Internet to build dynamic supply nets — assembling and adjusting supply chains for rapid response to customer demand — [[study-2000-oracle-the-e-business-supply-chain-meeting-cu-r-re-1a72ef]]
+- e-Business winners will leverage Internet to build dynamic supply nets — assembling and adjusting supply chains for rapid response to customer demand `[ps=4]` — [[study-2000-oracle-the-e-business-supply-chain-meeting-cu-r-re-1a72ef]]

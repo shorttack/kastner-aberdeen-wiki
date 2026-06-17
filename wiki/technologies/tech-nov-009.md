@@ -12,9 +12,9 @@ era: "1996-2007"
 lifecycle_at_study: "growth"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Unicenter TNG
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Novell and CA announced ManageWise integration with Unicenter TNG for enterprise-wide management — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- Novell and CA announced ManageWise integration with Unicenter TNG for enterprise-wide management `[ps=2]` — [[study-1997-novell-directory-to-the-network-str-048b05]]

@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Written Outsourcing Application Development And Maintenance (Aberdeen, 2006)"
 slug: "study-written-outsourcing-application-development-and-maintenance-0877e6"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 0.95
-prescience_obs_count: 40
+prescience_mean: 1.52
+prescience_obs_count: 31
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Written Outsourcing Application Development And Maintenance (Aberdeen, 2006)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-outsourcing-application-development-and-maintenance-0877e6. Source: Written__Outsourcing Application Development and Maintenance.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **topic-analysis**._

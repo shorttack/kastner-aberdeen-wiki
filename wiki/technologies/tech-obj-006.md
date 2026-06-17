@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Computer Telephony Integration (CTI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- VidModem enables CTVI — Computer Telephony Video Integration — seamless segue from phone call to videoconference to document sharing — [[study-1997-objective-communications--vidmodem--f3351f]]
+- VidModem enables CTVI — Computer Telephony Video Integration — seamless segue from phone call to videoconference to document sharing `[ps=3]` — [[study-1997-objective-communications--vidmodem--f3351f]]

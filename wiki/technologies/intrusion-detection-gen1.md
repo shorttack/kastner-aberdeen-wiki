@@ -12,9 +12,9 @@ era: "1993-1997"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # 1st-Gen Intrusion Detection (Pattern Recognition)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1993 — [[study-vulnerability-assessment-empowering-is-754d9a]]
-- Initially Unix-only; NT Server releases now commonplace by 1997 — [[study-vulnerability-assessment-empowering-is-754d9a]]
+- Initially Unix-only; NT Server releases now commonplace by 1997 `[ps=3]` — [[study-vulnerability-assessment-empowering-is-754d9a]]
+- 1993 `[ps=0]` — [[study-vulnerability-assessment-empowering-is-754d9a]]

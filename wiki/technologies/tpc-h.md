@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # TPC-H decision-support benchmark
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- high-end server performance breakthrough — [[study-2002-performance-breakthroughs-the-benchmarking-fanatic-6d41fa]]
+- high-end server performance breakthrough `[ps=0]` — [[study-2002-performance-breakthroughs-the-benchmarking-fanatic-6d41fa]]

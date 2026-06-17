@@ -12,9 +12,9 @@ era: "1991-1999"
 lifecycle_at_study: "active-product"
 lifecycle_current: "merged-into-IBM-TXSeries-then-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Transarc Encina TP Monitor
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Stratus-IBM-S390-RS6000-HP9000-Pyramid — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]
+- Stratus-IBM-S390-RS6000-HP9000-Pyramid `[ps=0]` — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]

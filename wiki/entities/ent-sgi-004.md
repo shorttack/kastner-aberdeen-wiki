@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "Compaq (acquired DEC 1998 for $9.6B)"
 years_active: "1957-1998"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Digital Equipment Corporation (DEC)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 13646.17 tpmC at $277/tpmC — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
+- 13646.17 tpmC at $277/tpmC `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]

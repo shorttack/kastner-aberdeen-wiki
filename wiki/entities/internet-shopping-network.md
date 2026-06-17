@@ -12,9 +12,9 @@ status: "acquired"
 successor: "First Auction (ISN sold computer store to Cyberian Outpost)"
 years_active: "1994-1999"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Internet Shopping Network (First Auction)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sold computer store unit to Cyberian Outpost in 1998 to focus on First Auction; gradually subsumed by larger players — [[study-1998-internet-sales-report-4cde3f]]
+- Sold computer store unit to Cyberian Outpost in 1998 to focus on First Auction; gradually subsumed by larger players `[ps=0]` — [[study-1998-internet-sales-report-4cde3f]]

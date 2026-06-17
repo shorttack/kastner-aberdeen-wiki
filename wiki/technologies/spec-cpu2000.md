@@ -12,9 +12,9 @@ era: "2000-2006"
 lifecycle_at_study: "mature"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # SPEC CPU 2000
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- 2.0 GHz G5 loses to Xeon and P4 in integer `[ps=4]` — [[study-dct-apple-powermac-g5-2003-06]]
 - 2.0 GHz G5 beats Intel Xeon and P4 in floating point — [[study-dct-apple-powermac-g5-2003-06]]
-- 2.0 GHz G5 loses to Xeon and P4 in integer — [[study-dct-apple-powermac-g5-2003-06]]
 - dual-G5 beats Xeon and P4 in integer, handily wins floating point — [[study-dct-apple-powermac-g5-2003-06]]

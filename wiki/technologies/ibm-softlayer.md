@@ -12,9 +12,9 @@ era: "2013-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active-as-ibm-cloud"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM SoftLayer (IBM Cloud)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM acquired SoftLayer for $2B in 2013; became IBM Cloud 2017; largest cloud infrastructure investment pre-Red Hat — [[study-2026-kastner-ibm-longitudinal]]
+- IBM acquired SoftLayer for $2B in 2013; became IBM Cloud 2017; largest cloud infrastructure investment pre-Red Hat `[ps=4]` — [[study-2026-kastner-ibm-longitudinal]]

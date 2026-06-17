@@ -12,9 +12,9 @@ era: "1970s-"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # TCP/IP and PPP
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dedicated: X.25; TDM/T/E carrier; Frame Relay. Dial-up: PPP; X.PC. Mobile: RAM/ARDIS wireless messaging — multi-protocol network independence — [[study-1997-the-business-value-of-applications-hosting-e92e09]]
+- Dedicated: X.25; TDM/T/E carrier; Frame Relay. Dial-up: PPP; X.PC. Mobile: RAM/ARDIS wireless messaging — multi-protocol network independence `[ps=3]` — [[study-1997-the-business-value-of-applications-hosting-e92e09]]

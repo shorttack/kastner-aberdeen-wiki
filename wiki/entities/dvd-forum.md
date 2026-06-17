@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1995-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # DVD Forum
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Nov 21 2003, Beverly Hills CA — [[study-future-of-dvd-forum-panel-2003-taylor-61b198]]
+- Nov 21 2003, Beverly Hills CA `[ps=0]` — [[study-future-of-dvd-forum-panel-2003-taylor-61b198]]

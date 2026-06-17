@@ -3,7 +3,7 @@ title: "Computerworld Server Coverage: Intel Itanium 2 vs Sun UltraSPARC — Kas
 slug: "study-computerworld-itanium-2-vs-sun-kastner-2-1e4505"
 page_type: "study"
 tags: ["type/study", "collection/trade-press-feature"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "computerworld-itanium-2-vs-sun-kastner-2-1e4505"
 author: "Computerworld (staff)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.43
+prescience_obs_count: 7
 ---
 
 # Computerworld Server Coverage: Intel Itanium 2 vs Sun UltraSPARC — Kastner Aberdeen EVP on Sun's Pressure (June 2002)
@@ -32,10 +32,10 @@ _Published 2002, author **Computerworld (staff)**, type **trade-press-feature**.
 
 ## Top observations
 
-- Peter Kastner, executive VP of the Aberdeen Group in Boston
-- Itanium has put more pressure on Sun earlier than we had anticipated
-- If you really want to know how the Itanium 2-based boxes will perform, wait until they are announced by the OEMs
-- Clearly Intel wants to compare the Itanium with the best-in-breed of the RISC processors where Sun has the broadest market share
-- Itanium 2 has trumped even Moore's Law in some performance tests; but the benchmarks that really matter will be those tested on shipping OEM systems
-- Sun's UltraSPARC chips can really strut their stuff in systems with up to 100 processors operating simultaneously
-- Itanium 1-2 performance benchmarks probably a little too close for comfort for Sun's liking in 1-way to 4-way boxes
+- Itanium 2 has trumped even Moore's Law in some performance tests; but the benchmarks that really matter will be those tested on shipping OEM systems `[ps=4]`
+- Itanium has put more pressure on Sun earlier than we had anticipated `[ps=2]`
+- Sun's UltraSPARC chips can really strut their stuff in systems with up to 100 processors operating simultaneously `[ps=2]`
+- Itanium 1-2 performance benchmarks probably a little too close for comfort for Sun's liking in 1-way to 4-way boxes `[ps=2]`
+- Peter Kastner, executive VP of the Aberdeen Group in Boston `[ps=0]`
+- If you really want to know how the Itanium 2-based boxes will perform, wait until they are announced by the OEMs `[ps=0]`
+- Clearly Intel wants to compare the Itanium with the best-in-breed of the RISC processors where Sun has the broadest market share `[ps=0]`

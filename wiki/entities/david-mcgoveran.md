@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # David McGoveran
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ahead of Oracle and Sybase in MP support — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- ahead of Oracle and Sybase in MP support `[ps=2]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]

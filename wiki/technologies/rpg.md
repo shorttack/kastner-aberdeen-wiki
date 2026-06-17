@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # RPG Programming Language
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- RPG programming language had a mature but shrinking developer pool in 1994 — finding RPG talent was increasingly difficult — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
+- RPG programming language had a mature but shrinking developer pool in 1994 — finding RPG talent was increasingly difficult `[ps=5]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]

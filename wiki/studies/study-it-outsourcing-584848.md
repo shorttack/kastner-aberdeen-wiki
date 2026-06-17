@@ -3,7 +3,7 @@ title: "Mid-Market Must Flex More Muscle in IT Outsourcing"
 slug: "study-it-outsourcing-584848"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "it-outsourcing-584848"
 author: "Rick Saia"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.15
+prescience_obs_count: 13
 ---
 
 # Mid-Market Must Flex More Muscle in IT Outsourcing
@@ -32,18 +32,18 @@ _Published 2006, author **Rick Saia**, type **employer-record**._
 
 ## Top observations
 
-- 25% of mid-market respondents admitted their companies have not been successful with IT outsourcing
-- Best in Class: 26% error rate; Mid-Market: 33% error rate; Gap: 7 pp
-- Best in Class: 11% error rate; Mid-Market: 27% error rate; Gap: 16 pp
-- Best in Class: 11% error rate; Mid-Market: 23% error rate; Gap: 12 pp
-- Best in Class: 5% error rate; Mid-Market: 30% error rate; Gap: 25 pp
-- Best in Class: 71%; Mid-Market: 47%
-- Best in Class: 41%; Mid-Market: 6%
-- Best in Class: 18%; Mid-Market: 12%
+- Mid-size financial services respondent cited internal 'knowledge gap' contributing to failed outsourcing — buyers must have knowledge to 'exactly state the business requirements' in RFPs `[ps=4]`
+- IT outsourcing is growing and mid-size enterprises that want to remain competitive should at least entertain the idea `[ps=4]`
+- Best practice: hold one person responsible for overseeing outsourcing relationship with right knowledge of agreement and relationship management skills `[ps=4]`
+- Most Best in Class companies rely on independent consulting firms including specialized legal assistance before executing a contract `[ps=3]`
+- 25% of mid-market respondents admitted their companies have not been successful with IT outsourcing `[ps=0]`
+- Best in Class: 26% error rate; Mid-Market: 33% error rate; Gap: 7 pp `[ps=0]`
+- Best in Class: 11% error rate; Mid-Market: 27% error rate; Gap: 16 pp `[ps=0]`
+- Best in Class: 11% error rate; Mid-Market: 23% error rate; Gap: 12 pp `[ps=0]`
+- Best in Class: 5% error rate; Mid-Market: 30% error rate; Gap: 25 pp `[ps=0]`
+- Best in Class: 71%; Mid-Market: 47% `[ps=0]`
+- Best in Class: 41%; Mid-Market: 6% `[ps=0]`
+- Best in Class: 18%; Mid-Market: 12% `[ps=0]`
+- Best in Class: 24%; Mid-Market: 31% `[ps=0]`
 - Best in Class: 31%; Mid-Market: 31%
 - Best in Class: 14%; Mid-Market: 17%
-- Best in Class: 24%; Mid-Market: 31%
-- Mid-size financial services respondent cited internal 'knowledge gap' contributing to failed outsourcing — buyers must have knowledge to 'exactly state the business requirements' in RFPs
-- Most Best in Class companies rely on independent consulting firms including specialized legal assistance before executing a contract
-- IT outsourcing is growing and mid-size enterprises that want to remain competitive should at least entertain the idea
-- Best practice: hold one person responsible for overseeing outsourcing relationship with right knowledge of agreement and relationship management skills

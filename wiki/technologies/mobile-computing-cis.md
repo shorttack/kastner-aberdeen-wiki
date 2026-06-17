@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Mobile Computing for CIS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Remote access and data replication/synchronization enabling field CIS use — [[study-1998-cis-report-customer-interaction-software-631068]]
+- Remote access and data replication/synchronization enabling field CIS use `[ps=4]` — [[study-1998-cis-report-customer-interaction-software-631068]]

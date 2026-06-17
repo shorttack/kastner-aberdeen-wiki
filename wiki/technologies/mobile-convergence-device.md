@@ -12,9 +12,9 @@ era: "2002-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "superseded-by-smartphone"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Mobile Convergence Device
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Convergent voice+data wireless = hottest segment — [[study-dct-webinar-announcement-2002-11]]
-- Mobile devices are highly personal items; there is no ideal convergence device — rejecting single-device convergence model — [[study-dct-webinar-nov-2002]]
+- Convergent voice+data wireless = hottest segment `[ps=5]` — [[study-dct-webinar-announcement-2002-11]]
+- Mobile devices are highly personal items; there is no ideal convergence device — rejecting single-device convergence model `[ps=2]` — [[study-dct-webinar-nov-2002]]
 - Building handsets is no longer black magic; PC makers increasingly competing with established phone makers; rapid innovation shortening product life cycle; shrinking margins require contract manufacturers — [[study-dct-webinar-nov-2002]]

@@ -12,9 +12,9 @@ era: "1970s-1990s"
 lifecycle_at_study: "incumbent"
 lifecycle_current: "legacy-mostly-displaced"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Traditional OLTP (proprietary)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Transaction Processing into the 1990s; The Hardware Suppliers (both 1990) — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]
+- Transaction Processing into the 1990s; The Hardware Suppliers (both 1990) `[ps=0]` — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]

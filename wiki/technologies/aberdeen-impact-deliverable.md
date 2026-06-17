@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Impact (deliverable)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Analyst synopsis of how supplier announcement/product intro affects market and supplier future prospects — [[study-aberdeen-training-book-day-3-03cfc1]]
+- Analyst synopsis of how supplier announcement/product intro affects market and supplier future prospects `[ps=0]` — [[study-aberdeen-training-book-day-3-03cfc1]]

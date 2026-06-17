@@ -12,9 +12,9 @@ era: "2003-present"
 lifecycle_at_study: "implied-future"
 lifecycle_current: "ubiquitous"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # x86-64 / AMD64
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- yes per industry watchers — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]
+- yes per industry watchers `[ps=0]` — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]

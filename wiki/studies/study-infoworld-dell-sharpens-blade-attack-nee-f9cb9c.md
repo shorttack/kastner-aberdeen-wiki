@@ -3,7 +3,7 @@ title: "InfoWorld — Dell sharpens blade attack: PowerEdge 1655MC server blades
 slug: "study-infoworld-dell-sharpens-blade-attack-nee-f9cb9c"
 page_type: "study"
 tags: ["type/study", "collection/trade-press-feature"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "infoworld-dell-sharpens-blade-attack-nee-f9cb9c"
 author: "Dan Neel — InfoWorld Magazine"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.09
+prescience_obs_count: 11
 ---
 
 # InfoWorld — Dell sharpens blade attack: PowerEdge 1655MC server blades (Neel, 8-Apr-2002)
@@ -32,14 +32,14 @@ _Published 2002, author **Dan Neel — InfoWorld Magazine**, type **trade-press-
 
 ## Top observations
 
-- Dell-trying-to-maintain-flexibility-and-agility-at-core-of-business
-- chief-research-officer-Aberdeen-Group
-- 225047
-- 6
-- hundreds
-- 84
-- Intel-Pentium-III-dual
-- Dell-Microsoft-InfiniBand
-- blades-to-bricks-to-shared-power-and-cooling
-- competitors-focused-on-customers-willing-to-sacrifice-performance-for-space
-- consolidation-power-reduction-management-flexibility
+- blades-to-bricks-to-shared-power-and-cooling `[ps=5]`
+- consolidation-power-reduction-management-flexibility `[ps=5]`
+- competitors-focused-on-customers-willing-to-sacrifice-performance-for-space `[ps=2]`
+- Dell-trying-to-maintain-flexibility-and-agility-at-core-of-business `[ps=0]`
+- chief-research-officer-Aberdeen-Group `[ps=0]`
+- 225047 `[ps=0]`
+- 6 `[ps=0]`
+- hundreds `[ps=0]`
+- 84 `[ps=0]`
+- Intel-Pentium-III-dual `[ps=0]`
+- Dell-Microsoft-InfiniBand `[ps=0]`

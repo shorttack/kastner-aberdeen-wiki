@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Stratus Technologies (now Penguin Solutions)"
 years_active: "1980-present"
 occurrence_count: 32
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.78
+prescience_obs_count: 97
 ---
 
 # Stratus Computer, Inc.
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Reliability is sold to buying committees, not engineers — [[study-2026-kastner-core-arguments-framework-0b0c6b]]
-- Fault-tolerant and high-availability sales cycles are won at committee level (CIO + CFO + auditor + ops) where the loss-event narrative dominates. Engineering benchmarks influence shortlists but not selection. — [[study-2026-kastner-core-arguments-framework-0b0c6b]]
-- Stratus-Encina-DCE-Sybase-VOS-Order-Processing — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]
-- 50 — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]
-- $261,000-$1,000,000 — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]
-- 14.5% of $124M FY revenue — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]
-- Stratus relies on redundant hardware (dual CPU, dual memory, dual disks); Tandem achieves similar largely through software — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]
-- $148,000 — [[study-businessweek-stratus-launch-fail-safe-ba-82c028]]
-- $6.7 million — [[study-businessweek-stratus-launch-fail-safe-ba-82c028]]
-- up to 21% faster — [[study-businessweek-stratus-launch-fail-safe-ba-82c028]]
-- ~$10 million expected, profitable — [[study-businessweek-stratus-launch-fail-safe-ba-82c028]]
-- ~$100 million — [[study-businessweek-stratus-launch-fail-safe-ba-82c028]]
-- 7%/year maintenance fees instead of industry standard 10-12%/year — [[study-cbn-bochner-stratus-oem-strategy-1982-06-245fd5]]
-- Two-man fight: Stratus vs Tandem; IBM on edge unable to land solid punch — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
-- 15 / 27-29 / 37-40 / 47-53 tps for Models 110 / 120 / 130 / 140 — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
-- 3x XA600 ET-1; 2.5x XA600 TP-1 — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
-- Up to 64 MB memory, 64 KB cache, 128 MB virtual address space, 46 GB disk — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
-- $260K-$500K Model 110; $770K-$1.1M Model 140; transaction-per-second cost half of earlier products — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
-- Stratus cited as the other fault-tolerant TP option behind Tandem; smaller market — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
-- From zero to $200M sales level — [[study-dec-resume-performance-review-3-1f133b]]
+- Stratus relies on redundant hardware (dual CPU, dual memory, dual disks); Tandem achieves similar largely through software `[ps=5]` — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]
+- Stratus's hardware fault-tolerant architecture shipped continuously from early 1980s into modern ftServer line and ztC Edge — among the longest-lived commercial fault-tolerant designs `[ps=5]` — [[study-stratus-computer-is-down-ad-reprints-c19-903ebf]]
+- Banking/securities/finance, manufacturing, services, government, distribution — all needing OLTP `[ps=5]` — [[study-stratus-corporate-overview-1982-11-a7e367]]
+- Stratus survived as independent vendor through 2014; later as Stratus Technologies under Penguin Solutions — among very few 1980s minicomputer-era companies still extant `[ps=5]` — [[study-stratus-corporate-overview-1982-11-a7e367]]
+- MIPS and Whetstone are inadequate for OLTP; with multiprocessor, MIPS changes as I/O processors are added; transaction benchmarks needed `[ps=5]` — [[study-stratus-et1-functional-spec-and-benchmar-0c3172]]
+- Ad asserts hardware-component cost trajectory continues downward while software/people costs rise `[ps=5]` — [[study-stratus-fault-tolerant-revolution-ad-198-797e0e]]
+- Stratus's Pair-and-Spare architecture was the core technical differentiator during Kastner's 1981-1987 tenure. `[ps=5]` — [[study-volume-1-appendix-career-timeline]]
+- Kastner experienced competitive 'fault-tolerant wars' between Stratus and Tandem during 1981-1987. `[ps=5]` — [[study-volume-1-appendix-career-timeline]]
+- Stratus hardware fault tolerance hides failures from software entirely; application runs without awareness of failure event. `[ps=5]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- Survived as specialized platform for environments where hardware failure cannot wait for a technician: remote oil rigs, manufacturing floors, telecom nodes. `[ps=5]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- Vision articulated in the 1980s — computing infrastructure should be invisible, reliable, and self-healing — became baseline expectation for digital commerce. `[ps=5]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- By 1987, technology had matured from regional curiosity to recognized platform in financial services, telecommunications, and mission-critical retail. `[ps=5]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- Stratus cited as the other fault-tolerant TP option behind Tandem; smaller market `[ps=4]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- Stratus is 'distant second-place competitor' to Tandem in OLTP fault tolerance `[ps=4]` — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
+- 98.5% reliability standard means computer goes down once every two weeks on statistical average — 'unthinkable for modern manufacturing' `[ps=4]` — [[study-stratus-computer-is-down-ad-reprints-c19-903ebf]]
+- Founded May 1980 to design/manufacture/market supermini-class fault-tolerant computers for OLTP `[ps=4]` — [[study-stratus-corporate-overview-1982-11-a7e367]]
+- High-availability TP market forecast: $6.4B (1981) → $27B (1986) — 4.2x in 5 years `[ps=4]` — [[study-stratus-corporate-overview-1982-11-a7e367]]
+- 20-40 percent growth predicted for terminals, superminis, 32-bit minis in OEM and end-user CDP markets `[ps=4]` — [[study-stratus-corporate-overview-1982-11-a7e367]]
+- Founders averaged ~20 years experience; depth from HP, Honeywell, Data General gave team capacity for 'planned rapid growth' `[ps=4]` — [[study-stratus-corporate-overview-1982-11-a7e367]]
+- Task metering had no measurable effect; cache utilization significantly impacts performance; multiple server copies greatly improve performance `[ps=4]` — [[study-stratus-internal-benchmark-tuning-guide--c53e3f]]

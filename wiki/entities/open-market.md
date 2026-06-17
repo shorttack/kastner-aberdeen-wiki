@@ -12,9 +12,9 @@ status: "acquired"
 successor: "FatWire Software -> Oracle (2011)"
 years_active: "1994-1999"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Open Market Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Largest publicly traded ISV dedicated to sales/marketing EC; first company with EC intellectual property rights (US patents) — [[study-ecprac~1-a7d0e4]]
+- Largest publicly traded ISV dedicated to sales/marketing EC; first company with EC intellectual property rights (US patents) `[ps=2]` — [[study-ecprac~1-a7d0e4]]

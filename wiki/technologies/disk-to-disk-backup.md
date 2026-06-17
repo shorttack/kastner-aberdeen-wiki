@@ -12,9 +12,9 @@ era: "2002-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Disk-to-disk (D2D) backup is an active and mainstream backup approach. Modern implementations include VTL (virtual tape libraries), backup appliances (Data Domain/Dell, Veeam), and cloud backup. Widely adopted.', 'source': 'https://www.lenovo.com/us/en/glossary/what-is-disk-to-disk/'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Disk-to-Disk Backup (D2D)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Midline disk-to-disk backup compresses backup times by up to 50% vs tape — [[study-computerworld-ilm-article-15f604]]
-- Nearline buffered data: adds midline disk-to-disk backup and restore to existing tape pool; compresses backup times by up to 50% — [[study-computerworld-ilm-waiting-2004]]
+- Midline disk-to-disk backup compresses backup times by up to 50% vs tape `[ps=4]` — [[study-computerworld-ilm-article-15f604]]
+- Nearline buffered data: adds midline disk-to-disk backup and restore to existing tape pool; compresses backup times by up to 50% `[ps=4]` — [[study-computerworld-ilm-waiting-2004]]

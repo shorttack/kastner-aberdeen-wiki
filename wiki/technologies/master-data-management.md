@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Master Data Management and Semantics
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 25% investing in Master Data Management (MDM) tools — [[study-bpm-align-business-f76616]]
+- 25% investing in Master Data Management (MDM) tools `[ps=0]` — [[study-bpm-align-business-f76616]]

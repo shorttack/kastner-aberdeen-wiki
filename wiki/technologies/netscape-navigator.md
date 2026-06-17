@@ -12,9 +12,9 @@ era: "1994-2008"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Netscape Navigator
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Netscape Navigator embedded pre-configured for World Wide Web access — [[study-aberdeen-1995-digital-multia]]
+- Netscape Navigator embedded pre-configured for World Wide Web access `[ps=0]` — [[study-aberdeen-1995-digital-multia]]

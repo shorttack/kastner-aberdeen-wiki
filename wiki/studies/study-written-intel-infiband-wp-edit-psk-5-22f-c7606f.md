@@ -1,5 +1,5 @@
 ---
-title: "==> picture [442 x 38] intentionally omitted <=="
+title: "Written Intel Infiband Wp Edit Psk 5 22F (Aberdeen, 2002)"
 slug: "study-written-intel-infiband-wp-edit-psk-5-22f-c7606f"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 0.0
-prescience_mean: -0.36
-prescience_obs_count: 11
+prescience_mean: 0.0
+prescience_obs_count: 7
 ---
 
-# ==> picture [442 x 38] intentionally omitted <==
+# Written Intel Infiband Wp Edit Psk 5 22F (Aberdeen, 2002)
 
-> This study analyzes ==> picture [442 x 38] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-intel-infiband-wp-edit-psk-5-22f-c7606f. Source: Written__Intel Infiband WP--edit psk 5-22f.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2002, author **Aberdeen Group**, type **market-study**._
@@ -39,7 +39,7 @@ _Published 2002, author **Aberdeen Group**, type **market-study**._
 - ## **Figure 3: Blade Server Rack With Integral InfiniBand Switch** `[ps=0]`
 - Figure 3 highlights a time line of events occurring relative to the delivery of key components for the InfiniBand architecture. `[ps=0]`
 - Figure 5 depicts a late-2002 data center implementation of InfiniBand. `[ps=0]`
-- **Figure 1: InfiniBand Architecture** `[ps=-1]`
-- **Figure 2: Existing Server I/O Architecture** `[ps=-1]`
-- **Figure 4: Key Technology Events Related to the InfiniBand Architecture** `[ps=-1]`
-- **Figure 5: InfiniBand Server Architecture — Early Transition Phase in 2002** `[ps=-1]`
+- **Figure 1: InfiniBand Architecture**
+- **Figure 2: Existing Server I/O Architecture**
+- **Figure 4: Key Technology Events Related to the InfiniBand Architecture**
+- **Figure 5: InfiniBand Server Architecture — Early Transition Phase in 2002**

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Steinar Høistad
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Administrative Director, NCR Norge AS — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]
+- Administrative Director, NCR Norge AS `[ps=0]` — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]

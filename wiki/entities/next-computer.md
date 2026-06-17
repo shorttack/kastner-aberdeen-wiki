@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Apple Computer (acquired 1997 for $429M); NeXTSTEP became basis of Mac OS X"
 years_active: "1985-1997"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # NeXT Computer
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- [UNVERIFIED] `[ps=0]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
 - Ceasing hardware; porting NextStep to Intel and broader audience — [[study-nti-4-nextgen-os-timing-1993-a45049]]
-- [UNVERIFIED] — [[study-nti-4-nextgen-os-timing-1993-a45049]]

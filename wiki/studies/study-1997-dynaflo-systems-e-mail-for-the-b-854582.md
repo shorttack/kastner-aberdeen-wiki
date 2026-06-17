@@ -3,7 +3,7 @@ title: "DynaFlo Systems: E-Mail For The Business Masses"
 slug: "study-1997-dynaflo-systems-e-mail-for-the-b-854582"
 page_type: "study"
 tags: ["type/study", "collection/Profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-dynaflo-systems----e-mail-for-the-b-854582"
 author: "Peter Kastner and Dan Taylor"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.75
+prescience_obs_count: 12
 ---
 
 # DynaFlo Systems: E-Mail For The Business Masses
@@ -32,19 +32,19 @@ _Published 1997, author **Peter Kastner and Dan Taylor**, type **Profile**._
 
 ## Top observations
 
+- Confirmed: massive ISP consolidation occurred by 2000 `[ps=5]`
+- ISPs must address broader market beyond early adopters to survive `[ps=4]`
+- Competition from larger players will intensify `[ps=4]`
+- ISPs will continue building out dial-up networks `[ps=4]`
+- Confirmed: telcos and portals dominated by 2000 `[ps=2]`
+- Best price/performance for any Internet email solution `[ps=1]`
+- High-margin way to sell Internet to wider audience `[ps=1]`
+- Growing at rapid pace with difficulty filling orders `[ps=0]`
+- Customer value `[ps=0]`
+- Increases operational efficiency of dial-up network `[ps=0]`
+- Good investment for Service Providers `[ps=0]`
+- DynaFlo did not survive; product defunct `[ps=0]`
 - 1 in 10 businesses connected; 9 in 10 not yet connected
-- Growing at rapid pace with difficulty filling orders
 - Growing sales while losing money
 - Strong investment value and ROI
-- Customer value
-- Best price/performance for any Internet email solution
-- Increases operational efficiency of dial-up network
-- High-margin way to sell Internet to wider audience
-- ISPs must address broader market beyond early adopters to survive
-- Confirmed: massive ISP consolidation occurred by 2000
-- Competition from larger players will intensify
-- Confirmed: telcos and portals dominated by 2000
-- Good investment for Service Providers
-- DynaFlo did not survive; product defunct
-- ISPs will continue building out dial-up networks
 - Dial-up superseded by broadband from early 2000s

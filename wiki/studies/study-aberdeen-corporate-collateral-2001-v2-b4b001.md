@@ -3,7 +3,7 @@ title: "Aberdeen Group Corporate Collateral Set (2001): Background Presentation,
 slug: "study-aberdeen-corporate-collateral-2001-v2-b4b001"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-corporate-collateral-2001-v2-b4b001"
 author: "Aberdeen Group / Peter S. Kastner (approving)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.71
+prescience_obs_count: 21
 ---
 
 # Aberdeen Group Corporate Collateral Set (2001): Background Presentation, Web Presentation 7/01, 11x17 Overview, Positioning Assistance, Research Capabilities, Success Stories
@@ -32,28 +32,28 @@ _Published 2001, author **Aberdeen Group / Peter S. Kastner (approving)**, type 
 
 ## Top observations
 
-- Markets Aberdeen's positioning vs. competitors (Gartner, Forrester, Meta Group, IDC) and introduces corporate overview and service model
-- Boston, Palo Alto, Amsterdam (per Corporate Background title slide); also Ft. Collins per 11x17 and slip sheet
+- Study of the convergence of e-business applications and legacy system integration requirements at Fortune 100 companies; identified new market opportunities `[ps=5]`
+- Enterprise Linux, Intel server, ASP servers, WW VoIP, HIPPA, high-end printing, SANs, 3G networks, PKI adoption `[ps=4]`
+- Third-party strategy validation lowers risk; helps understand target market, value proposition, and competitive differentiation; ensures messages resonate with market `[ps=3]`
+- Ongoing series of consulting engagements assisted a major computer company in repositioning from proprietary hardware and services business to solutions combining open systems, leading applications, and services; repositioning communicated internally via extensive e-learning sales training project `[ps=3]`
+- Markets Aberdeen's positioning vs. competitors (Gartner, Forrester, Meta Group, IDC) and introduces corporate overview and service model `[ps=0]`
+- Boston, Palo Alto, Amsterdam (per Corporate Background title slide); also Ft. Collins per 11x17 and slip sheet `[ps=0]`
+- Define, Differentiate, or Die `[ps=0]`
+- Market vision for technology and industry trends; practical and actionable strategies; puts technology in a business context; market research and analysis; ongoing dialogue with market players `[ps=0]`
+- 14 years of client engagements; Aberdeen founded 1987; document dated 2001 `[ps=0]`
+- Collaborative Product Commerce; Enterprise Applications; Application Service Providers; Information Appliances; Storage; Enterprise Systems Management; Wireless Carrier and Enterprise Communications; Home Networking; Customer Relationship Management; Data Knowledge Platforms; Energy; e-Business; IT Services; Optical; Security; Enterprise and Internet Infrastructure; Supply Chain Management `[ps=0]`
+- Identify emerging and growing technology trends, analyze how they will impact business operations, and educate both enterprise-level IT suppliers and users with its insights `[ps=0]`
+- In-depth analysis via face-to-face interviews with key clients, prospects, and industry influencers; Aberdeen develops questionnaire and executes fieldwork to identify customer response to new program initiatives `[ps=0]`
+- Combines multi-area content experts with senior engagement management; packaged to meet specific needs; handles complex project variables with aggressive deadlines `[ps=0]`
+- Aberdeen surveyed SME market to validate a new methodology for delivering complex ERP technology; recommended repositioning to set market-driven customer expectations `[ps=0]`
+- Repositioning around key technology competencies `[ps=0]`
+- Positioning and messaging eLiza initiative to IT management, line of business, and developer communities; $1B IT management initiative per success-stories deck `[ps=0]`
+- Aberdeen acted as virtual outsourced marketing department `[ps=0]`
+- Market strategy, positioning, messaging, and alliances for offshore application software company entering the U.S. market `[ps=0]`
+- Field research-backed go-to-market plan for new security technology `[ps=0]`
+- RAMP (Rapid Accurate Market Positioning) identified as Aberdeen's signature strategy validation methodology; distinguished from subscription-model competitors by field-research execution `[ps=0]`
+- Focus on business technology suppliers; experience with start-ups to some of the largest business technology vendors in the world; veterans of business technology industry, management consulting, and market research `[ps=0]`
 - IT Supplier Executives -> aberdeen.com aggregation hub; channels include Webcasts/Conferences/Seminars, e-Learning, Field Sales, Private Equity Services, Practice Areas (Emerging Market Intelligence), Supplier Meetings
-- Define, Differentiate, or Die
 - 1) Rapidly changing technologies and markets; 2) Market confusion slows adoption; 3) Unique value proposition key to standing out in crowded market
-- Third-party strategy validation lowers risk; helps understand target market, value proposition, and competitive differentiation; ensures messages resonate with market
-- Market vision for technology and industry trends; practical and actionable strategies; puts technology in a business context; market research and analysis; ongoing dialogue with market players
-- 14 years of client engagements; Aberdeen founded 1987; document dated 2001
-- Collaborative Product Commerce; Enterprise Applications; Application Service Providers; Information Appliances; Storage; Enterprise Systems Management; Wireless Carrier and Enterprise Communications; Home Networking; Customer Relationship Management; Data Knowledge Platforms; Energy; e-Business; IT Services; Optical; Security; Enterprise and Internet Infrastructure; Supply Chain Management
-- Identify emerging and growing technology trends, analyze how they will impact business operations, and educate both enterprise-level IT suppliers and users with its insights
 - Consulting Services / Primary Market Research / Audience Education and Training
 - An interactive advisory service is at the core of Aberdeen's service offerings; gives direct access to a highly experienced analyst; becomes foundation for all other Aberdeen consulting services
-- In-depth analysis via face-to-face interviews with key clients, prospects, and industry influencers; Aberdeen develops questionnaire and executes fieldwork to identify customer response to new program initiatives
-- Combines multi-area content experts with senior engagement management; packaged to meet specific needs; handles complex project variables with aggressive deadlines
-- Annual program; qualitative analysis and quantitative data on 14 high-growth technology markets; combined with access to Aberdeen's industry experts; focuses on emerging markets and high-growth areas such as CRM and ISPs
-- Enterprise Linux, Intel server, ASP servers, WW VoIP, HIPPA, high-end printing, SANs, 3G networks, PKI adoption
-- Aberdeen surveyed SME market to validate a new methodology for delivering complex ERP technology; recommended repositioning to set market-driven customer expectations
-- Repositioning around key technology competencies
-- Positioning and messaging eLiza initiative to IT management, line of business, and developer communities; $1B IT management initiative per success-stories deck
-- Aberdeen acted as virtual outsourced marketing department
-- Ongoing series of consulting engagements assisted a major computer company in repositioning from proprietary hardware and services business to solutions combining open systems, leading applications, and services; repositioning communicated internally via extensive e-learning sales training project
-- Study of the convergence of e-business applications and legacy system integration requirements at Fortune 100 companies; identified new market opportunities
-- Market strategy, positioning, messaging, and alliances for offshore application software company entering the U.S. market
-- Field research-backed go-to-market plan for new security technology
-- RAMP (Rapid Accurate Market Positioning) identified as Aberdeen's signature strategy validation methodology; distinguished from subscription-model competitors by field-research execution

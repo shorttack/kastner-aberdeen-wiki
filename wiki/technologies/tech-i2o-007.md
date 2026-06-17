@@ -12,9 +12,9 @@ era: "1997-2002"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # I2O-Ready Server
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquiring I2O-Ready should be a requirement for IS planners upgrading OS or buying new Intel servers — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]
-- I2O-Ready never became a mainstream procurement criterion; label disappeared from server specifications by 2002 — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]
+- I2O-Ready never became a mainstream procurement criterion; label disappeared from server specifications by 2002 `[ps=5]` — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]
+- Acquiring I2O-Ready should be a requirement for IS planners upgrading OS or buying new Intel servers `[ps=1]` — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1958-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Federal Aviation Administration
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- #3 of 10 priority markets; estimated $200M high-end OLTP market — [[study-1988-encore-oltp-market-tps-needs-deee45]]
+- #3 of 10 priority markets; estimated $200M high-end OLTP market `[ps=0]` — [[study-1988-encore-oltp-market-tps-needs-deee45]]

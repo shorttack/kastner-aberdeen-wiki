@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "E Proc Tech Rb Vc Ab 3778 (Aberdeen, 2006)"
 slug: "study-e-proc-tech-rb-vc-ab-3778-7525d9"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
 prescience_max: 5.0
-prescience_mean: 2.38
-prescience_obs_count: 8
+prescience_mean: 3.5
+prescience_obs_count: 6
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# E Proc Tech Rb Vc Ab 3778 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study e-proc-tech-rb-vc-ab-3778-7525d9. Source: e-proc_tech_rb_vc_ab_3778.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **benchmark**._
@@ -38,5 +38,5 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 - The broad integration across an entire suite of applications from Oracle or SAP, including e- procurement, is a strong point in their favor (Figure 2). `[ps=4]`
 - Additionally, Ariba customers were top performers in our research, consistently achieving Best in Class status. `[ps=3]`
 - Additionally, best-of-breed customers often meet or exceed Best in Class performance benchmarks. `[ps=0]`
-- **Figure 1: One Thousand or More Suppliers Enabled** `[ps=-1]`
-- **Figure 2: Satisfaction with Integration to Other Systems** `[ps=-1]`
+- **Figure 1: One Thousand or More Suppliers Enabled**
+- **Figure 2: Satisfaction with Integration to Other Systems**

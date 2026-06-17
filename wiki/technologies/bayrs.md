@@ -12,9 +12,9 @@ era: "1994-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # BayRS Distributed Multitasking Routing Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Switch Node based on same BayRS distributed multitasking routing software used in Bay Network routers; ensures routing consistency — [[study-1997-bay-networks--switch-node-routing-s-4d9885]]
+- Switch Node based on same BayRS distributed multitasking routing software used in Bay Network routers; ensures routing consistency `[ps=3]` — [[study-1997-bay-networks--switch-node-routing-s-4d9885]]

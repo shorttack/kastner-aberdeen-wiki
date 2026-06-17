@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging (Q1 1997)"
 lifecycle_current: "Defunct"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Prism Web Access Module
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Java and HTML views of metadata for browser users; $2500 for 5 concurrent seats — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
+- Java and HTML views of metadata for browser users; $2500 for 5 concurrent seats `[ps=0]` — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]

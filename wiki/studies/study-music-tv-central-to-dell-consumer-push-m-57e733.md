@@ -3,7 +3,7 @@ title: "Music, TV Central to Dell Consumer Push"
 slug: "study-music-tv-central-to-dell-consumer-push-m-57e733"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "music-tv-central-to-dell-consumer-push-m-57e733"
 author: "Rex Crum (CBS MarketWatch)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 6
 ---
 
 # Music, TV Central to Dell Consumer Push
@@ -32,10 +32,10 @@ _Published 2003, author **Rex Crum (CBS MarketWatch)**, type **news-article**._
 
 ## Top observations
 
-- 'What is working for Gateway and H-P can certainly work for Dell too, with Dell.com becoming even more of an online electronics superstore.'
-- Kastner: state of the market and Dell's experience with low-cost business model should pay off, even though competitors have a head start.
-- Dell unveiled its Dell Digital Jukebox digital music player and 17" LCD TV as part of consumer-electronics expansion.
-- Apple referenced as first online music store to garner major label support; also upgraded iPod line and notebooks.
-- Mike Moeller for Gateway: 'There's a lot more (in the consumer space) that just selling music or TVs.'
+- Dell exited branded TV business by 2008; consumer-electronics pivot retreated to PCs + gaming peripherals (Alienware). `[ps=5]`
+- Apple referenced as first online music store to garner major label support; also upgraded iPod line and notebooks. `[ps=3]`
+- 'What is working for Gateway and H-P can certainly work for Dell too, with Dell.com becoming even more of an online electronics superstore.' `[ps=2]`
+- Kastner: state of the market and Dell's experience with low-cost business model should pay off, even though competitors have a head start. `[ps=2]`
+- Dell unveiled its Dell Digital Jukebox digital music player and 17" LCD TV as part of consumer-electronics expansion. `[ps=0]`
+- Mike Moeller for Gateway: 'There's a lot more (in the consumer space) that just selling music or TVs.' `[ps=0]`
 - Dell discontinued the Dell DJ line by 2006; iPod continued to dominate the portable digital music player category until iPhone displaced it.
-- Dell exited branded TV business by 2008; consumer-electronics pivot retreated to PCs + gaming peripherals (Alienware).

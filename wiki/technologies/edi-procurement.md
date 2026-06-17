@@ -12,9 +12,9 @@ era: "1970-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Electronic Data Interchange for Procurement
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- EDI is established but costly; Internet procurement positioned as more accessible and flexible alternative — [[study-1998-internet-procurement-cdc4a6]]
+- EDI is established but costly; Internet procurement positioned as more accessible and flexible alternative `[ps=5]` — [[study-1998-internet-procurement-cdc4a6]]

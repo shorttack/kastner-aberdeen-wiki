@@ -12,9 +12,9 @@ status: "active"
 successor: "Spun off from NCR 2007"
 years_active: "1979-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Teradata Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $1M-$1.2M initial + $0.5M upgrades over 18 months — [[study-1991-encore-and-metadata-47f414]]
-- Teradata was spun off from NCR as independent company in 2007 — consistent with continued growth trajectory Kastner identified. — [[study-on-computers-tips-good-news-for-ncr-dell-1943c5]]
+- Teradata was spun off from NCR as independent company in 2007 — consistent with continued growth trajectory Kastner identified. `[ps=3]` — [[study-on-computers-tips-good-news-for-ncr-dell-1943c5]]
+- $1M-$1.2M initial + $0.5M upgrades over 18 months `[ps=0]` — [[study-1991-encore-and-metadata-47f414]]

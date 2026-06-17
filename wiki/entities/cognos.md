@@ -12,9 +12,9 @@ status: "[DEFERRED]"
 successor: "IBM (acquired 2008 for $5B)"
 years_active: "1969-present"
 occurrence_count: 6
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.8
+prescience_obs_count: 5
 ---
 
 # Cognos Incorporated
@@ -29,10 +29,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Cognos Impromptu cited as leading query/reporting competitor — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
-- Top-notch frame-based reporter; can give multiple views of a query within single report but lacks three-tier architecture — [[study-aberdeen-1996-iq-software-www-reporting]]
-- Successfully competing with frame-based Impromptu and Powerplay against IQ Software; has not yet delivered three-tier WWW architecture — [[study-aberdeen-1996-iq-software-www-reporting]]
+- Cognos Impromptu cited as leading query/reporting competitor `[ps=4]` — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
+- Top-notch frame-based reporter; can give multiple views of a query within single report but lacks three-tier architecture `[ps=4]` — [[study-aberdeen-1996-iq-software-www-reporting]]
+- Successfully competing with frame-based Impromptu and Powerplay against IQ Software; has not yet delivered three-tier WWW architecture `[ps=4]` — [[study-aberdeen-1996-iq-software-www-reporting]]
+- Traditional strength in DEC and HP installed base `[ps=2]` — [[study-nti-5-development-toolsets-0e71c5]]
+- Cognos has installed more than 700000 seats of Impromptu and PowerPlay; tight resource-sharing linkage between client-server and web versions `[ps=0]` — [[study-dssune~1-cbf6e3]]
 - Cognos listed as Longview strategic partner; leader in query and reporting market — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
 - Revenue $301M (FY1999); Q3 revenue $83.7M; 50% of new BI licenses for e-business — [[study-data-know-69ab04]]
-- Cognos has installed more than 700000 seats of Impromptu and PowerPlay; tight resource-sharing linkage between client-server and web versions — [[study-dssune~1-cbf6e3]]
-- Traditional strength in DEC and HP installed base — [[study-nti-5-development-toolsets-0e71c5]]

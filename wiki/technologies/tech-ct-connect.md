@@ -12,9 +12,9 @@ era: "1994-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Dialogic CT Connect
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Alcatel, Ericsson, Rolm — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- Alcatel, Ericsson, Rolm `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]

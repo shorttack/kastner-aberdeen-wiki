@@ -3,7 +3,7 @@ title: "Middleware Technology: 1998 Practice Summary"
 slug: "study-middle-1-a64fa0"
 page_type: "study"
 tags: ["type/study", "collection/other-research"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "middle~1-a64fa0"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.37
+prescience_obs_count: 19
 ---
 
 # Middleware Technology: 1998 Practice Summary
@@ -32,26 +32,26 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 
 ## Top observations
 
+- Pioneered publish-subscribe technology; Wall Street de facto standard; expanding to EAI `[ps=5]`
+- Consolidation underway: BEA/Digital; Visigenic/Borland acquisitions in 1997 `[ps=4]`
+- No single supplier has developed a completely integrated middleware solution `[ps=4]`
+- Major ORBs do not communicate with each other; CORBA and DCOM cannot interoperate `[ps=4]`
+- EAI middleware will be crucial to effective use of SAP R/3 within 1-1.5 years `[ps=4]`
+- Middleware suppliers must offer complete integrated solution or alliances for long-term viability `[ps=4]`
+- CGI web middleware slowing server performance and complicating development `[ps=4]`
+- Relatively strong position via MQSeries popularity and NCF introduction `[ps=4]`
+- MQSeries implementations lack adequate administrative and development tools `[ps=3]`
+- Demand integrated architecture roadmap; prototype within 6 months; enterprise-wide rollout in year 2 `[ps=3]`
+- Application integration increasingly involves mission-critical business processes + data warehousing + Y2K conversions `[ps=3]`
+- Mid-level IS managers typically make middleware buying decision `[ps=2]`
+- Small and diminishing category; functionality built into OS `[ps=1]`
+- $1.3 billion `[ps=0]`
+- $8 billion by 2001 `[ps=0]`
+- ~$6 billion by year 2000 `[ps=0]`
+- Hundreds to thousands of concurrent users `[ps=0]`
+- Strong position for enterprise entry; needs proof of implementation for IS buyers `[ps=0]`
+- Aberdeen defines higher-level middleware as Enterprise Application Services (EAS) `[ps=0]`
 - About 50% of $1.3B application and data integration market
-- $1.3 billion
-- $8 billion by 2001
-- ~$6 billion by year 2000
-- Consolidation underway: BEA/Digital; Visigenic/Borland acquisitions in 1997
-- No single supplier has developed a completely integrated middleware solution
-- Mid-level IS managers typically make middleware buying decision
-- Hundreds to thousands of concurrent users
-- Small and diminishing category; functionality built into OS
-- Major ORBs do not communicate with each other; CORBA and DCOM cannot interoperate
-- EAI middleware will be crucial to effective use of SAP R/3 within 1-1.5 years
-- Middleware suppliers must offer complete integrated solution or alliances for long-term viability
-- CGI web middleware slowing server performance and complicating development
-- MQSeries implementations lack adequate administrative and development tools
-- Relatively strong position via MQSeries popularity and NCF introduction
-- Strong position for enterprise entry; needs proof of implementation for IS buyers
 - Market dominant position in TUXEDO TP monitor; aggressive acquisition strategy
-- Pioneered publish-subscribe technology; Wall Street de facto standard; expanding to EAI
 - Led EAI market awareness; largest war chest; SAP-to-PeopleSoft integration opportunity
-- Demand integrated architecture roadmap; prototype within 6 months; enterprise-wide rollout in year 2
-- Application integration increasingly involves mission-critical business processes + data warehousing + Y2K conversions
-- Aberdeen defines higher-level middleware as Enterprise Application Services (EAS)
 - NEON must expand beyond financial vertical where custom apps dominate

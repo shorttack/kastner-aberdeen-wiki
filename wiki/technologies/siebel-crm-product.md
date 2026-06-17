@@ -12,9 +12,9 @@ era: "1993-2006"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # Siebel CRM
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Leading SFA vendor; profiled as dominant supplier of sales force automation software — [[study-1997-cis-report-ba825e]]
-- Siebel positioned as top-tier CIS vendor; expected to remain dominant SFA supplier — [[study-1997-cis-report-ba825e]]
-- Siebel peaked at ~45% CRM market share in 2002; acquired by Oracle for $5.8B in 2005; Oracle Siebel persists as legacy on-premises CRM — [[study-1997-cis-report-ba825e]]
+- Siebel peaked at ~45% CRM market share in 2002; acquired by Oracle for $5.8B in 2005; Oracle Siebel persists as legacy on-premises CRM `[ps=5]` — [[study-1997-cis-report-ba825e]]
+- Siebel positioned as top-tier CIS vendor; expected to remain dominant SFA supplier `[ps=3]` — [[study-1997-cis-report-ba825e]]
+- Leading SFA vendor; profiled as dominant supplier of sales force automation software `[ps=0]` — [[study-1997-cis-report-ba825e]]

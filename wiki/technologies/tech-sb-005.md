@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Sales Force Automation (SFA)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Siebel's SFA competitors named as Vantive Corp., Aurum Corp. (Baan subsidiary), and Clarify Corp. — [[study-1997-crm-siebel-systems-pr-569e52]]
+- Siebel's SFA competitors named as Vantive Corp., Aurum Corp. (Baan subsidiary), and Clarify Corp. `[ps=5]` — [[study-1997-crm-siebel-systems-pr-569e52]]

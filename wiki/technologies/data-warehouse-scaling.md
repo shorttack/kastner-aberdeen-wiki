@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "current-1995"
 lifecycle_current: "ubiquitous-cloud-warehouse"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Data Warehouse SMP-to-MPP Scaling
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- WorldMark enables customers to gracefully scale data warehouses from SMP to clusters to MPP — [[study-att-worldmark-wsj-ad-aberdeen-quote-1995-ec56fb]]
+- WorldMark enables customers to gracefully scale data warehouses from SMP to clusters to MPP `[ps=4]` — [[study-att-worldmark-wsj-ad-aberdeen-quote-1995-ec56fb]]

@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # SAP SD Benchmark
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Windows and SQL Server scalability addressed by Unisys benchmark series — [[study-2001-unisys-benchmark-gorilla-sets-new-sap-and-intel-ba-19cf5a]]
+- Windows and SQL Server scalability addressed by Unisys benchmark series `[ps=3]` — [[study-2001-unisys-benchmark-gorilla-sets-new-sap-and-intel-ba-19cf5a]]

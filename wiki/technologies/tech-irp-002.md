@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "Emerging in enterprise"
 lifecycle_current: "Dominant/ubiquitous"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Internet Technology
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internet will be first business context for OO line-of-business adoption — [[study-1997-infinite-resource-planning-wp-893815]]
-- Confirmed: J2EE/web services became dominant enterprise OO platform by 2000-2005 — [[study-1997-infinite-resource-planning-wp-893815]]
+- Confirmed: J2EE/web services became dominant enterprise OO platform by 2000-2005 `[ps=4]` — [[study-1997-infinite-resource-planning-wp-893815]]
+- Internet will be first business context for OO line-of-business adoption `[ps=3]` — [[study-1997-infinite-resource-planning-wp-893815]]

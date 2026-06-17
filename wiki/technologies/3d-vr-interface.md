@@ -12,9 +12,9 @@ era: "1996-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Unicenter TNG 3D / Virtual Reality Interface
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2D geographic topology maps + 3D virtual-reality floor plan maps showing physical device locations within buildings — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]
+- 2D geographic topology maps + 3D virtual-reality floor plan maps showing physical device locations within buildings `[ps=3]` — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]

@@ -12,9 +12,9 @@ status: "retired"
 successor: ""
 years_active: "1974-2016"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # William Holt
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Day 1 1:45-2:20 PM: William Holt (Senior VP; GM of Technology and Manufacturing Group). — [[study-peter-kastner-10-bde195]]
+- Day 1 1:45-2:20 PM: William Holt (Senior VP; GM of Technology and Manufacturing Group). `[ps=0]` — [[study-peter-kastner-10-bde195]]

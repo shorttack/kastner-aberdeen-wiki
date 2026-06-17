@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Automated Orchestration and Integration Testing Tools
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 40% — [[study-ra-soa-2007-97c147]]
-- 27% — [[study-ra-soa-2007-97c147]]
-- 19% — [[study-ra-soa-2007-97c147]]
+- 40% `[ps=0]` — [[study-ra-soa-2007-97c147]]
+- 27% `[ps=0]` — [[study-ra-soa-2007-97c147]]
+- 19% `[ps=0]` — [[study-ra-soa-2007-97c147]]

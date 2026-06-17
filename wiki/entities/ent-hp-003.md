@@ -12,9 +12,9 @@ status: "Active"
 successor: "DMTF (rebranded; active)"
 years_active: "1992-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Desktop Management Task Force (DMTF)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DMTF has more than 122 PC hardware and software supplier members beyond steering committee — [[study-1997-desktop-and-systems-management-the--169a9b]]
+- DMTF has more than 122 PC hardware and software supplier members beyond steering committee `[ps=0]` — [[study-1997-desktop-and-systems-management-the--169a9b]]
 - DMTF sponsors annual DMI compliance bake-off to certify supplier compliance; certification is a competitive differentiator — [[study-1997-desktop-and-systems-management-the--169a9b]]

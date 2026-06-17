@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Active (standard QoS mechanism)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Class Based Queuing (CBQ)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Network managers need hierarchical classification of flows priority and bandwidth allocation and in-depth buffering for managed internet access — [[study-1997-managing-corporate-internet-access--ae26d9]]
+- Network managers need hierarchical classification of flows priority and bandwidth allocation and in-depth buffering for managed internet access `[ps=4]` — [[study-1997-managing-corporate-internet-access--ae26d9]]

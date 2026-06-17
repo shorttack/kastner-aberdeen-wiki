@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Cable Modem
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Recovering huge capital investments from subscribers one month at a time — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
-- Operators constrained by need to purchase millions of set-top boxes — [[study-aberdeen-1996-omnibox-interactive-broadcasting-network]]
+- Operators constrained by need to purchase millions of set-top boxes `[ps=4]` — [[study-aberdeen-1996-omnibox-interactive-broadcasting-network]]
+- Recovering huge capital investments from subscribers one month at a time `[ps=0]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]

@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Personal firewall software remains active and standard security practice. Built into Windows Defender, also available as standalone products (Sophos, Palo Alto, etc.). Evolved into next-generation firewalls (NGFW) but the category is active.', 'source': 'https://start.paloaltonetworks.com/forrester-wave-firewall-2024'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Personal Firewall
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Personal firewall is one of three essential capabilities for WLAN security — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
-- Personal firewalls, security, OS, utilities, personal messaging, AOL/MSN services — [[study-dct-segment-priorities-matrix-2003]]
+- Personal firewall is one of three essential capabilities for WLAN security `[ps=2]` — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
+- Personal firewalls, security, OS, utilities, personal messaging, AOL/MSN services `[ps=0]` — [[study-dct-segment-priorities-matrix-2003]]

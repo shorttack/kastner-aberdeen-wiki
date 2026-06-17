@@ -12,9 +12,9 @@ status: "restructured"
 successor: "HP Inc. / Hewlett Packard Enterprise"
 years_active: "1990s-late1990s"
 occurrence_count: 116
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.74
+prescience_obs_count: 266
 ---
 
 # Siemens-Nixdorf Informatik
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- in_progress — [[study-1997-dec-linkworks-webworker---an-object-db2d2a]]
-- evolved_to_dotnet_then_deprecated — [[study-1997-dec-linkworks-webworker---an-object-db2d2a]]
-- Recovery measured in minutes; requires reboot — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]
-- Expected to ship later in 1997 — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]
-- Shipped September 1997 with Windows NT Server 4.0 Enterprise Edition; had significant reliability problems in v1; only 2-node clusters; improved substantially in Windows 2000 — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]
-- Microsoft has done a superlative job of meeting users' needs and requirements for desktop computing — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- Microsoft's marketing message: NT Server and BackOffice ready to replace mainframes, Unix servers, AS/400s and every other enterprise-level production-quality platform — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- Aberdeen research has yet to discover enterprises, including Microsoft itself, with history of successfully running mission-critical applications on Microsoft's products — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- Microsoft does not demonstrate understanding of or commitment to: planning, support, product compatibility, and management requirements of senior enterprise IS executives — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- Microsoft's historical desktop orientation is not directly transferable to enterprise IS computing — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- Implicit prediction: Microsoft's desktop-oriented culture will impede enterprise IS adoption; enterprises should carefully scope where Microsoft is appropriate beyond desktop — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- Windows 2000/2003 achieved substantial enterprise adoption; IDC confirmed Windows Server outpaced Unix in license growth by 1998; Windows 2000 Active Directory became enterprise standard; but Linux/Unix retained most critical workloads; Azure not launched until 2008 — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- BackOffice bundle discontinued ca. 2002; individual products (Exchange, SQL Server, SharePoint) became enterprise standards in their own right; but Oracle/SAP remained dominant for ERP/database; 'all-Microsoft enterprise' vision partially realized but not the mainframe/Unix wholesale replacement claimed — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- Microsoft as 'Joker' in enterprise IS — wildcard that can disrupt but not reliably deliver; desktop excellence does not equal enterprise IS competence — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- Business unit executives and IS professionals should collaborate to build consensus on where AND where NOT to use Microsoft products beyond the desktop — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- Microsoft's transition under Satya Nadella (2014+) from Windows-centric to cloud-first acknowledged the DNA problem Logan identified; Azure, Office 365, Teams eventually resolved the enterprise cultural gap; Microsoft became a $3T company by 2024 with enterprise cloud as core — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
-- 'Any business of any size can now run its enterprise applications on Microsoft software and industry-standard hardware' — Bill Gates at Scalability Day, New York — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]
-- Single two-processor Pentium Pro with NT and IIS processed 100M hits in 24 hours — one-third greater than Microsoft's own site traffic — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]
-- 'Demonstrates performance of computer system large enough to manage daily banking activities of a quarter of the world's population' — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]
-- Exchange Server benchmark; all Internet POP3 and SMTP; workload spread over 24 hours; product not shipping until Q1-1998 — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]
+- Expected to ship later in 1997 `[ps=5]` — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]
+- Shipped September 1997 with Windows NT Server 4.0 Enterprise Edition; had significant reliability problems in v1; only 2-node clusters; improved substantially in Windows 2000 `[ps=5]` — [[study-1997-marathon's-endurance-4000--imp-psk-f83368]]
+- Windows 2000/2003 achieved substantial enterprise adoption; IDC confirmed Windows Server outpaced Unix in license growth by 1998; Windows 2000 Active Directory became enterprise standard; but Linux/Unix retained most critical workloads; Azure not launched until 2008 `[ps=5]` — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
+- BackOffice bundle discontinued ca. 2002; individual products (Exchange, SQL Server, SharePoint) became enterprise standards in their own right; but Oracle/SAP remained dominant for ERP/database; 'all-Microsoft enterprise' vision partially realized but not the mainframe/Unix wholesale replacement claimed `[ps=5]` — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
+- Microsoft's transition under Satya Nadella (2014+) from Windows-centric to cloud-first acknowledged the DNA problem Logan identified; Azure, Office 365, Teams eventually resolved the enterprise cultural gap; Microsoft became a $3T company by 2024 with enterprise cloud as core `[ps=5]` — [[study-1997-microsoft--the-joker-of-enterprise--158636]]
+- Microsoft Windows Server 2003 Cluster Service improved to 8 nodes; Windows Server 2008 reached 16 nodes; enterprise-grade WSFC emerged but Tandem's prediction of third-party HA need proved accurate for 1997-2003 period `[ps=5]` — [[study-1997-tandem-s-nonstop-software-enterprise-clustering-fo-815776]]
+- Windows 2000 Terminal Services and Citrix MetaFrame achieved widespread enterprise adoption 2000-2002 `[ps=5]` — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]
+- Windows 2000 released to manufacturing December 15 1999; general availability February 17 2000 — within Aberdeen's projected timeframe `[ps=5]` — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]
+- NT 5.0 will not ship until late 1999 at earliest; may be delayed by 6-12 months `[ps=5]` — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
+- Windows 2000 RTM December 15 1999; GA February 17 2000 — consistent with Aberdeen's late-1999 prediction `[ps=5]` — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
+- Smaller orgs unaffected; mid- and large-sized organizations will need major effort to deploy NT beyond workgroup and across the enterprise via Active Directory `[ps=5]` — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
+- NT Server's growing role in enterprise and relative decline of other NOS suppliers making IS decisions urgent and strategic `[ps=5]` — [[study-1999pr~2-cd0049]]
+- Partially met — Kerberos adoption positive; IIS vulnerabilities remain concern `[ps=5]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
+- Met — Active Directory provides scalable LDAP-compliant directory `[ps=5]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
+- Qualified yes — suitable for most enterprise applications with exceptions for highest-scale/availability needs `[ps=5]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
+- Will achieve broad enterprise adoption across vertical industries within 3-5 years `[ps=5]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
+- Security architecture gaps will require significant patching investment before suitable for highest-sensitivity deployments `[ps=5]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
+- Achieved dominant enterprise position; Windows Server 2003 became most deployed enterprise OS by 2004-2005 `[ps=5]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
+- Almost all previous Windows users are going to enjoy living with Windows XP `[ps=5]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- Targets both SOHO users seeking consumer media features and enterprise seeking W2K stability `[ps=5]` — [[study-2001-upgrading-to-windows-xp-a-long-and-winding-road-ps-81e090]]

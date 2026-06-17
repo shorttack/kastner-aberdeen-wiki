@@ -12,9 +12,9 @@ era: "RFC 821 (1982)"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "discontinued"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # SMTP (Simple Mail Transfer Protocol)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- unusable — [[study-1998-pc-impact-and-metadata-e2a169]]
+- unusable `[ps=0]` — [[study-1998-pc-impact-and-metadata-e2a169]]
+- $109 `[ps=0]` — [[study-1998as400-1-146289]]
 - 31147 — [[study-1998as400-1-146289]]
-- $109 — [[study-1998as400-1-146289]]

@@ -12,9 +12,9 @@ era: "Oracle 7 PL/SQL"
 lifecycle_at_study: "active"
 lifecycle_current: "obsolete (term)"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # PL/SQL (Oracle Procedural Language)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Software efficiency gains equivalent to free hardware upgrade — [[study-1992-tpc-benchmarks-vp-745fa1]]
-- 4-video-conference — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]
-- PL/SQL stored procedures remain Oracle's single most effective switching-cost mechanism — unchanged from Kastner's 1993 identification — [[study-2026-kastner-oracle-longitudinal]]
+- Software efficiency gains equivalent to free hardware upgrade `[ps=4]` — [[study-1992-tpc-benchmarks-vp-745fa1]]
+- PL/SQL stored procedures remain Oracle's single most effective switching-cost mechanism — unchanged from Kastner's 1993 identification `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
+- 4-video-conference `[ps=0]` — [[study-2002-webex--taking-conferencing-to-the-summit-05f195]]

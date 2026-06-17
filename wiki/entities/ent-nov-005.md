@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "Broadcom (2018)"
 years_active: "1976-2018"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Computer Associates (CA)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Novell and CA announced ManageWise integration with Unicenter TNG for enterprise-wide management — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- Novell and CA announced ManageWise integration with Unicenter TNG for enterprise-wide management `[ps=2]` — [[study-1997-novell-directory-to-the-network-str-048b05]]

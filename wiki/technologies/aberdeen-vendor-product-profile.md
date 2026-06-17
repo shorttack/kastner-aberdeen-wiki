@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "launch"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Vendor/Product Profile Template
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Gather information on supplier; complete vendor/product profile template; coordinate team for major accounts — [[study-aas-operational-playbooks-aug-2001-b5a001]]
+- Gather information on supplier; complete vendor/product profile template; coordinate team for major accounts `[ps=4]` — [[study-aas-operational-playbooks-aug-2001-b5a001]]

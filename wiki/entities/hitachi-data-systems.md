@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: "Hitachi Vantara (2017)"
 years_active: "2003-2012"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Hitachi Data Systems
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $31.60/GB (HDS 9980V with 146GB disks) — [[study-13-hh-time-compression-downtime-strategy-4e50c9]]
-- $31.60/GB (HDS 9980V with 146GB disks) — [[study-14-formulas-disaster-scenario-c2f0b4]]
+- $31.60/GB (HDS 9980V with 146GB disks) `[ps=0]` — [[study-13-hh-time-compression-downtime-strategy-4e50c9]]
+- $31.60/GB (HDS 9980V with 146GB disks) `[ps=0]` — [[study-14-formulas-disaster-scenario-c2f0b4]]

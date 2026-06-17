@@ -12,9 +12,9 @@ era: "1991-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # GUI Application Builders
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Major GUI alternatives: Windows, Macintosh, Motif, OpenLook; ISVs struggling with multi-GUI expense — [[study-nti-5-development-toolsets-0e71c5]]
-- Powersoft and Gupta lead for Windows/DOS; Forte and Cooperative Solutions for enterprise OLTP — [[study-nti-5-development-toolsets-0e71c5]]
+- Major GUI alternatives: Windows, Macintosh, Motif, OpenLook; ISVs struggling with multi-GUI expense `[ps=3]` — [[study-nti-5-development-toolsets-0e71c5]]
+- Powersoft and Gupta lead for Windows/DOS; Forte and Cooperative Solutions for enterprise OLTP `[ps=2]` — [[study-nti-5-development-toolsets-0e71c5]]

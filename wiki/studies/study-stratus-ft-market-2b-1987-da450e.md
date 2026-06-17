@@ -3,7 +3,7 @@ title: "Fault-Tolerant Market To Hit $2 Billion in '87 — trade press, 1987 (PS
 slug: "study-stratus-ft-market-2b-1987-da450e"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "stratus-ft-market-2b-1987-da450e"
 author: "S.K. (staff)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 4
 ---
 
 # Fault-Tolerant Market To Hit $2 Billion in '87 — trade press, 1987 (PSK at Stratus quoted)
@@ -32,8 +32,8 @@ _Published 1987, author **S.K. (staff)**, type **press-article**._
 
 ## Top observations
 
-- $2 billion in 1987 with 40-50% annual growth through 1990
-- $1 billion in 1987, climbing to $1.2 billion by 1990
-- Financial services, the brokerage business, point of sale (POS), and shop floor applications are exploding within business
+- Two big developments: (1) target-market expansion (POS, telecom) bringing in new vendors; (2) price/performance pressure pushing transaction costs per second down `[ps=5]`
+- Financial services, the brokerage business, point of sale (POS), and shop floor applications are exploding within business `[ps=4]`
+- $2 billion in 1987 with 40-50% annual growth through 1990 `[ps=3]`
+- $1 billion in 1987, climbing to $1.2 billion by 1990 `[ps=2]`
 - Total end-user revenue: $140M (1987), $180M (1989), $250M (1992), $340M (1997)
-- Two big developments: (1) target-market expansion (POS, telecom) bringing in new vendors; (2) price/performance pressure pushing transaction costs per second down

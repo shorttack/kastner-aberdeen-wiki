@@ -12,9 +12,9 @@ era: "1997-2006"
 lifecycle_at_study: "Introduction"
 lifecycle_current: "Discontinued (TXSeries replaced it; Encina removed 2006)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IBM Transaction Server (CICS/Encina bundle)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- ETS deserves IS buyers' closest attention; highly attractive network-computing family `[ps=3]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Migration path for IBM mainframe shops to network computing — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - CICS Gateway for Java; Web and Lotus Notes integration — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- ETS deserves IS buyers' closest attention; highly attractive network-computing family — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]

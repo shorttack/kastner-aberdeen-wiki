@@ -12,9 +12,9 @@ era: "1980-present"
 lifecycle_at_study: "newly-launched-1982"
 lifecycle_current: "active-in-stratus-ftServer"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Stratus Self-Checking Hardware Pair Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- We're different. We've done it all in hardware. Every one of the components we use is self-checking during each operating cycle. — [[study-ee-times-stratus-tandem-fault-tolerant-1-42f6c7]]
+- We're different. We've done it all in hardware. Every one of the components we use is self-checking during each operating cycle. `[ps=2]` — [[study-ee-times-stratus-tandem-fault-tolerant-1-42f6c7]]

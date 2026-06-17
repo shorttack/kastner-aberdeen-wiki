@@ -3,7 +3,7 @@ title: "HP: The Best Alternative to Mainframe Computing — How to Get There Fro
 slug: "study-hp-mainframe-alternative-fernandez-mfasc-a2179f"
 page_type: "study"
 tags: ["type/study", "collection/vendor-conference-deck"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "hp-mainframe-alternative-fernandez-mfasc-a2179f"
 author: "Gustavo Fernandez (Hewlett-Packard) at MFASC'92 (Mainframe Alternative Solution Conference '92, HP Brazil)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.0
+prescience_obs_count: 8
 ---
 
 # HP: The Best Alternative to Mainframe Computing — How to Get There From Here
@@ -32,11 +32,11 @@ _Published 1992, author **Gustavo Fernandez (Hewlett-Packard) at MFASC'92 (Mainf
 
 ## Top observations
 
-- 3-4x to >6x more expensive
-- >10x growth, 16-way MP
-- 5-year TCO comparison
-- Forrester Research
-- HP as best mainframe alternative
-- MFASC'92 Brazil
-- five-year scenario modeling
-- alignment/BPR/info-architecture/data-utilization
+- >10x growth, 16-way MP `[ps=4]`
+- 3-4x to >6x more expensive `[ps=2]`
+- HP as best mainframe alternative `[ps=2]`
+- 5-year TCO comparison `[ps=0]`
+- Forrester Research `[ps=0]`
+- MFASC'92 Brazil `[ps=0]`
+- five-year scenario modeling `[ps=0]`
+- alignment/BPR/info-architecture/data-utilization `[ps=0]`

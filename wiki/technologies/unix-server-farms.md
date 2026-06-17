@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # UNIX Server Farms
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Large UNIX server farms require proportionally larger system administration staffs; management complexity underestimated — [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term]]
-- Study does not predict complete displacement of UNIX/NT servers; mainframe positioned for high-volume OLTP, batch, and mission-critical scenarios — [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term]]
+- Study does not predict complete displacement of UNIX/NT servers; mainframe positioned for high-volume OLTP, batch, and mission-critical scenarios `[ps=5]` — [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term]]
+- Large UNIX server farms require proportionally larger system administration staffs; management complexity underestimated `[ps=4]` — [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term]]

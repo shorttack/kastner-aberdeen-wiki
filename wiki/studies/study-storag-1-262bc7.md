@@ -3,7 +3,7 @@ title: "Storage & Storage Management: 1998 Practice Summary"
 slug: "study-storag-1-262bc7"
 page_type: "study"
 tags: ["type/study", "collection/other-research"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "storag~1-262bc7"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.07
+prescience_obs_count: 14
 ---
 
 # Storage & Storage Management: 1998 Practice Summary
@@ -32,25 +32,25 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 
 ## Top observations
 
+- software will be key differentiator over hardware `[ps=5]`
+- software agents and predictive systems will enable preventative maintenance `[ps=5]`
+- essential despite RAID; required for archiving disaster recovery non-hardware losses `[ps=4]`
+- storage is now equal to servers and architecture — Big 2 is Big 3 `[ps=4]`
+- finding sufficient storage management staff too difficult and too expensive `[ps=4]`
+- must treat storage as part of overall system — not commodity `[ps=4]`
+- 1998 is not the year of Fibre Channel or SANs; adoption common by 1999 `[ps=3]`
+- now commonplace due to lower disk prices `[ps=0]`
+- 100 MB per second `[ps=0]`
+- Quantum Super DLTtape; HP/IBM/Seagate Linear Tape-Open (LTO) `[ps=0]`
+- mostly captive as part of server sale `[ps=0]`
+- leading storage management and backup software `[ps=0]`
+- backup and recovery software via Networker `[ps=0]`
+- tape libraries and enterprise storage specialist `[ps=0]`
 - beyond 20 servers / 100 GB / multiple databases
-- now commonplace due to lower disk prices
-- 1998 is not the year of Fibre Channel or SANs; adoption common by 1999
 - Prediction proved accurate; Fibre Channel SAN began mainstream adoption 1999-2001.
-- 100 MB per second
-- essential despite RAID; required for archiving disaster recovery non-hardware losses
 - 250 Gbits/in2
-- software will be key differentiator over hardware
 - must integrate with HP OpenView / Tivoli / Unicenter TNG
-- storage is now equal to servers and architecture — Big 2 is Big 3
-- Quantum Super DLTtape; HP/IBM/Seagate Linear Tape-Open (LTO)
-- mostly captive as part of server sale
 - both provide greater flexibility than server-dependent storage
 - leading enterprise storage hardware vendor
-- leading storage management and backup software
-- backup and recovery software via Networker
-- tape libraries and enterprise storage specialist
-- finding sufficient storage management staff too difficult and too expensive
 - per-megabyte cost decline disguises true total cost; storage that cannot perform is expensive
 - non-mainframe HSM implementation cited as strategic question
-- software agents and predictive systems will enable preventative maintenance
-- must treat storage as part of overall system — not commodity

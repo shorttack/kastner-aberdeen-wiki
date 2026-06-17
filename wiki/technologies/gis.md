@@ -12,9 +12,9 @@ era: "1980-present"
 lifecycle_at_study: "early-widespread"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Geographic Information Systems (GIS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Increasingly popular; playing important role in integration and data conversion projects involving multiple suppliers — [[study-utilit~1-0596b5]]
+- Increasingly popular; playing important role in integration and data conversion projects involving multiple suppliers `[ps=0]` — [[study-utilit~1-0596b5]]

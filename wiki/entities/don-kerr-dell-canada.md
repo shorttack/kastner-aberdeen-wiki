@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Don Kerr
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kerr: InfiniBand one of the most exciting technologies Dell has seen; absolutely critical in enabling Dell to deliver more scalable systems with standardized interfaces — [[study-infiniband-and-beyond-computerworld-supp-200261]]
+- Kerr: InfiniBand one of the most exciting technologies Dell has seen; absolutely critical in enabling Dell to deliver more scalable systems with standardized interfaces `[ps=2]` — [[study-infiniband-and-beyond-computerworld-supp-200261]]

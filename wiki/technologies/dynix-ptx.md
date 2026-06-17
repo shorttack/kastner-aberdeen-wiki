@@ -12,9 +12,9 @@ era: "1987-1999"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # DYNIX/ptx Operating System
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 30 — [[study-sequent-592620]]
-- Just moved up to UNIX V.4 — [[study-sequent-592620]]
+- 30 `[ps=0]` — [[study-sequent-592620]]
+- Just moved up to UNIX V.4 `[ps=0]` — [[study-sequent-592620]]

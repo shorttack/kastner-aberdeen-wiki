@@ -12,9 +12,9 @@ era: "2011-2017"
 lifecycle_at_study: "mature"
 lifecycle_current: "divested (majority sold to TPG 2017)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # McAfee Security Platform
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Intel acquired McAfee 2010 — [[study-otellini-intel-techpinions-2013-917213]]
+- Intel acquired McAfee 2010 `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]

@@ -12,9 +12,9 @@ status: "merged"
 successor: "Merged into X/Open (1995)"
 years_active: "1989-1995"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # SQL Access Group (SAG)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- database-interoperability-standard — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]
+- database-interoperability-standard `[ps=3]` — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]

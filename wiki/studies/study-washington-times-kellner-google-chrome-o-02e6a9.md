@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # KELLNER: Google to Launch Chrome OS in '09
@@ -32,8 +32,8 @@ _Published 2009, author **Mark A. Kellner**, type **news-column**._
 
 ## Top observations
 
+- Potential flaw in the model: always-on Internet in emerging markets — if there's no Internet connection available, there's no useful netbook functionality besides local games `[ps=3]`
+- Peter S. Kastner, chief research officer at Scott-Page, a Westport, Mass., technology research firm; 40-year veteran of the technology industry and co-founder of the noted Aberdeen Group `[ps=0]`
 - Most of the time, Web applications hosted in the cloud work OK; the limiter is network bandwidth, which affects speed and reliability (e.g., data lost in flight). Plus you have to trust your online cloud service to backup and secure your data.
 - Google has a challenging task
 - Many people are using redundant vendors, putting critical family photos on both Google Picassa and HP Snapfish on the assumption that both firms won't crash or go out of business
-- Potential flaw in the model: always-on Internet in emerging markets — if there's no Internet connection available, there's no useful netbook functionality besides local games
-- Peter S. Kastner, chief research officer at Scott-Page, a Westport, Mass., technology research firm; 40-year veteran of the technology industry and co-founder of the noted Aberdeen Group

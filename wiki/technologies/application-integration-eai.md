@@ -12,9 +12,9 @@ era: "1990s-2010s"
 lifecycle_at_study: "growth"
 lifecycle_current: "evolved-to-ipaas"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Application Integration / EAI
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Right topic, wrong answer. The data warehouse approach is only good for looking at past business — real-time warehousing is cutting edge. Key EAI points are buy vs. build. Crossworlds offers handful of application-to-application solutions; Oberon et al offer toolkits. Real alternative is rolling your own with object-broker-based toolkit, because of intricate proprietary details of every enterprise — [[study-kastner-jrl-trends-1999-pk-responses-f4c5a4]]
+- Right topic, wrong answer. The data warehouse approach is only good for looking at past business — real-time warehousing is cutting edge. Key EAI points are buy vs. build. Crossworlds offers handful of application-to-application solutions; Oberon et al offer toolkits. Real alternative is rolling your own with object-broker-based toolkit, because of intricate proprietary details of every enterprise `[ps=3]` — [[study-kastner-jrl-trends-1999-pk-responses-f4c5a4]]

@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "evolved"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # SOA Metadata Repository/Registry (UDDI)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 46% of survey has SOA metadata repository/registry deployed — [[study-esb-0617-5cc5fa]]
+- 46% of survey has SOA metadata repository/registry deployed `[ps=0]` — [[study-esb-0617-5cc5fa]]
 - 40% — [[study-ra-composite-apps-289c2f]]

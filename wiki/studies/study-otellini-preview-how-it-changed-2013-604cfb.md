@@ -3,7 +3,7 @@ title: "How the IT Industry Changed Under Intel's Paul Otellini (Kastner Blog Pr
 slug: "study-otellini-preview-how-it-changed-2013-604cfb"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "otellini-preview-how-it-changed-2013-604cfb"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.09
+prescience_obs_count: 11
 ---
 
 # How the IT Industry Changed Under Intel's Paul Otellini (Kastner Blog Preview)
@@ -32,15 +32,15 @@ _Published 2013, author **Peter S. Kastner**, type **topic-analysis**._
 
 ## Top observations
 
-- $34.2B, up 13.5% from 2003
-- #46 on Fortune 100
+- Desktop drove industry for 25 years until notebooks and [phones] `[ps=4]`
+- Multi-core PC born 2006 in Core 2 Duo `[ps=3]`
+- Power-efficiency initiative matures with 4th-gen Core (Haswell) `[ps=3]`
+- Odd years = new architecture; even years = new smaller process `[ps=2]`
+- $34.2B, up 13.5% from 2003 `[ps=0]`
+- #46 on Fortune 100 `[ps=0]`
+- 'Right-hand turn gets you out of the path that's not working without reversing course' — Intel insider jargon `[ps=0]`
+- 90nm `[ps=0]`
+- 14nm 'improvement of five processing nodes' `[ps=0]`
+- 10X more power-efficient processors `[ps=0]`
+- 40-year Intel career `[ps=0]`
 - AMD over 52% US retail share
-- 'Right-hand turn gets you out of the path that's not working without reversing course' — Intel insider jargon
-- Multi-core PC born 2006 in Core 2 Duo
-- 90nm
-- 14nm 'improvement of five processing nodes'
-- Odd years = new architecture; even years = new smaller process
-- 10X more power-efficient processors
-- Power-efficiency initiative matures with 4th-gen Core (Haswell)
-- Desktop drove industry for 25 years until notebooks and [phones]
-- 40-year Intel career

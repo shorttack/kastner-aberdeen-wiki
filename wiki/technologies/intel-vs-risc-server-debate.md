@@ -12,9 +12,9 @@ era: "1990s-2010s"
 lifecycle_at_study: "active-2002"
 lifecycle_current: "resolved-in-favor-of-x86-amd64"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel-vs-RISC Enterprise Server Architecture Debate
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Clearly Intel wants to compare the Itanium with the best-in-breed of the RISC processors where Sun has the broadest market share — [[study-computerworld-itanium-2-vs-sun-kastner-2-1e4505]]
+- Clearly Intel wants to compare the Itanium with the best-in-breed of the RISC processors where Sun has the broadest market share `[ps=0]` — [[study-computerworld-itanium-2-vs-sun-kastner-2-1e4505]]

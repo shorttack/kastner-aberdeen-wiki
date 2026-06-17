@@ -12,9 +12,9 @@ era: "1995-1998"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Microsoft SQL Server 6.0
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Production version of SQL Server released June 1995; not yet mature enough for IS executives to stake their job on its robustness — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
+- Production version of SQL Server released June 1995; not yet mature enough for IS executives to stake their job on its robustness `[ps=4]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]

@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # ERP for Utilities
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ERP adaptation for utilities in progress with supply chain management as key application — [[study-utilities-transformed-it-696ffb]]
+- ERP adaptation for utilities in progress with supply chain management as key application `[ps=3]` — [[study-utilities-transformed-it-696ffb]]

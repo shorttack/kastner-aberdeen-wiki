@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.0
+prescience_obs_count: 3
 ---
 
 # Object-Oriented Programming (OOP)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Object-oriented programming techniques are critical to 3-Tier: enable application partitioning and deployment across tiers — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]
-- Object technology and application partitioning will be the method for maintaining/modifying modular development environments with fewest resources — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]
-- OOP became dominant paradigm for enterprise application development by 2000; Java/.NET/C++ standard; prediction fully confirmed — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]
+- OOP became dominant paradigm for enterprise application development by 2000; Java/.NET/C++ standard; prediction fully confirmed `[ps=5]` — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]
+- Object technology and application partitioning will be the method for maintaining/modifying modular development environments with fewest resources `[ps=4]` — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]
+- Object-oriented programming techniques are critical to 3-Tier: enable application partitioning and deployment across tiers `[ps=3]` — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]

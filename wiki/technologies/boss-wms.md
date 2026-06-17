@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Computer Associates BOSS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Computer Associates had BOSS warehouse management system on the AS/400 in 1994 — [[study-ie-appendix-jones-wms-memo-2e5d6c]]
+- Computer Associates had BOSS warehouse management system on the AS/400 in 1994 `[ps=0]` — [[study-ie-appendix-jones-wms-memo-2e5d6c]]

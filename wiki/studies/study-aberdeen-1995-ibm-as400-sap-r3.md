@@ -3,7 +3,7 @@ title: "IBM's AS/400 and SAP's R/3: Making the Complex and Slow Both Simple and 
 slug: "study-aberdeen-1995-ibm-as400-sap-r3"
 page_type: "study"
 tags: ["type/study", "collection/product-profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1995-ibm-as400-sap-r3"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.1
+prescience_obs_count: 86
 ---
 
 # IBM's AS/400 and SAP's R/3: Making the Complex and Slow Both Simple and Fast
@@ -32,28 +32,28 @@ _Published 1995, author **Aberdeen Group**, type **product-profile**._
 
 ## Top observations
 
-- 13 billion USD
-- 35 percent of IBM total
-- 325000 units
-- 25 percent YoY
-- 1 billion USD
-- 100 percent YoY
-- 67 percent
-- 85 percent
-- 20 percent (low end)
-- 25 percent (high end)
-- 2 multiple (>2x)
-- 5 multiple (up to 5x)
-- orders_of_magnitude_greater
-- 40S
-- 1 count
-- 32 MB
-- 224 MB
-- 2 GB
-- 24 GB
-- 400 TPm
-- 50S
-- 1 count
-- 64 MB
-- 1024 MB
-- 2 GB
+- SAP America near-100% YoY growth; R/3 at 85% of North American revenues; first vendor to $1B; high R&D spend signals continued innovation `[ps=5]`
+- Study positioned AS/400 Advanced Series as a long-term enterprise platform due to simplicity, integration, and 64-bit RISC advantages `[ps=4]`
+- 13 billion USD `[ps=0]`
+- 35 percent of IBM total `[ps=0]`
+- 25 percent YoY `[ps=0]`
+- 1 billion USD `[ps=0]`
+- 100 percent YoY `[ps=0]`
+- 85 percent `[ps=0]`
+- 20 percent (low end) `[ps=0]`
+- 25 percent (high end) `[ps=0]`
+- 5 multiple (up to 5x) `[ps=0]`
+- orders_of_magnitude_greater `[ps=0]`
+- 40S `[ps=0]`
+- 1 count `[ps=0]`
+- 32 MB `[ps=0]`
+- 224 MB `[ps=0]`
+- 2 GB `[ps=0]`
+- 24 GB `[ps=0]`
+- 400 TPm `[ps=0]`
+- 50S `[ps=0]`
+- 1 count `[ps=0]`
+- 1024 MB `[ps=0]`
+- 2 GB `[ps=0]`
+- 318 GB `[ps=0]`
+- 53S `[ps=0]`

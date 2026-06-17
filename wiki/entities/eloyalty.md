@@ -12,9 +12,9 @@ status: "acquired"
 successor: "TeleCommunication Systems (2012)"
 years_active: "1999-2012"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # eLoyalty
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Pure-play CRM analytics and loyalty consulting firm — [[study-1999-crm-professional-services-rpt-96bf13]]
+- Pure-play CRM analytics and loyalty consulting firm `[ps=0]` — [[study-1999-crm-professional-services-rpt-96bf13]]

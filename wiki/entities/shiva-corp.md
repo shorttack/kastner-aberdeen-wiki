@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "1985-1999"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Shiva Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Shiva Corporation filed Chapter 11 bankruptcy in 1999; Cisco won the SOHO remote access market — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]
+- Shiva Corporation filed Chapter 11 bankruptcy in 1999; Cisco won the SOHO remote access market `[ps=2]` — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]

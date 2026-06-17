@@ -12,9 +12,9 @@ status: "active"
 successor: "WEC Energy Group (parent)"
 years_active: "1896-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Wisconsin Electric Power Company (WEPco)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 154,000 homes under ASEP water-heater load control — [[study-minicomputer-news-ase-asep-1979-2b5327]]
+- 154,000 homes under ASEP water-heater load control `[ps=0]` — [[study-minicomputer-news-ase-asep-1979-2b5327]]

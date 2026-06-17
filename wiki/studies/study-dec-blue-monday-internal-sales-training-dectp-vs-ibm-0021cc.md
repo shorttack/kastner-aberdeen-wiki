@@ -3,7 +3,7 @@ title: "DEC 'Blue Monday' Internal Sales Training: DECtp Strategy vs IBM and Tan
 slug: "study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc"
 page_type: "study"
 tags: ["type/study", "collection/transcript"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.02
+prescience_obs_count: 41
 ---
 
 # DEC 'Blue Monday' Internal Sales Training: DECtp Strategy vs IBM and Tandem
@@ -32,28 +32,28 @@ _Published 1988, author **Peter S. Kastner**, type **transcript**._
 
 ## Top observations
 
-- Ted Koppel/Nightline 19 Oct 1987 Black Monday excerpt used to set 'Blue Monday' theme for DEC TP event
-- Roper poll: <30% of Americans felt economy was sound after Oct 1987 crash
-- Kastner: TP market $21 billion/year, growing 2x rate of overall computer market
-- Kastner: DEC has <5% of TP market today, projected to triple by 1990s
-- Kastner predicts DEC TP share will triple from <5% to ~15% by early 1990s on the strength of VAX/ACMS
-- [DEFERRED]
-- Logan (Aberdeen): 'Digital may well become the vendor of choice for transaction processing in the 1990s'
-- DEC becomes the preferred TP vendor in the 1990s (Aberdeen Group / Logan, 1988)
-- [DEFERRED]
-- Rick Case (DEC): DEC TP revenue ~$1B/year, equal to Tandem's TP revenue
-- Tandem TP revenue ~$1B/year (Rick Case, DEC, comparing to DEC)
-- Smith (Payne-Webber): 'DEC TP will drive demand for bigger computers' as VAX TP workloads scale
-- Smith (Payne-Webber): 'the dinosaur mainframe approach is being challenged' by VAX-class distributed TP
-- IBM CICS/IMS mainframe TP loses share to VAX-class distributed TP through early 1990s
-- [DEFERRED]
-- Rick Case (DEC): VAX 8830 nearly matches IBM 3090 Model 200E TP throughput at ~1/5 the cost
-- VAX 8830 SMP RAMP-C TP throughput approaches IBM 3090 Model 200E
-- DEC debit-credit cost-per-transaction <1/3 IBM mainframe cost, ~2x Tandem cost
-- Rick Case (DEC): IBM SAA conversion requires ~50,000 pages of documentation; 3-7 year customer conversion timeline
-- DEC SMP architecture (VAX 8800 series) cited as the key technical enabler for VAX-class TP at IBM 3090 throughput
-- Rod Sutherland (DEC): ACMS provides modern transaction-control alternative to IBM CICS for VAX customers
-- ACMS captures meaningful TP monitor share in the 1990s as VAX TP workloads scale
-- [DEFERRED]
-- DEC Rdb positioned as relational TP database for VAX, vs IBM DB2 on mainframe
-- Kastner: IBM DB2 for TP still maturing; many customers still on IMS/CICS-VSAM
+- Tandem TP revenue ~$1B/year (Rick Case, DEC, comparing to DEC) `[ps=5]`
+- AS/400 becomes IBM's primary midrange TP platform through the 1990s `[ps=5]`
+- Kastner: TP market $21 billion/year, growing 2x rate of overall computer market `[ps=4]`
+- Smith (Payne-Webber): 'the dinosaur mainframe approach is being challenged' by VAX-class distributed TP `[ps=4]`
+- Rick Case (DEC): IBM SAA conversion requires ~50,000 pages of documentation; 3-7 year customer conversion timeline `[ps=4]`
+- Kastner: IBM DB2 for TP still maturing; many customers still on IMS/CICS-VSAM `[ps=4]`
+- DECnet's distributed peer model contrasted with SNA's hierarchical mainframe-centric model `[ps=4]`
+- Rick Case: IBM 9370 (1986) positions as IBM's distributed/departmental TP entry; underwhelming uptake `[ps=4]`
+- Kastner: Tandem retains fault-tolerant TP niche; DEC plays middle ground between IBM scale and Tandem availability `[ps=4]`
+- Stratus cited as the other fault-tolerant TP option behind Tandem; smaller market `[ps=4]`
+- Hoppe (Applied Expert Systems): AI/expert-systems are next layer above TP for automated decision support `[ps=4]`
+- Kastner presents three-axis TP buyer framework: throughput, availability, cost-per-transaction `[ps=4]`
+- Rick Case (DEC): VAX 8830 nearly matches IBM 3090 Model 200E TP throughput at ~1/5 the cost `[ps=3]`
+- DEC SMP architecture (VAX 8800 series) cited as the key technical enabler for VAX-class TP at IBM 3090 throughput `[ps=3]`
+- Rod Sutherland (DEC): ACMS provides modern transaction-control alternative to IBM CICS for VAX customers `[ps=3]`
+- SNA architecture criticized as hierarchical and mainframe-centric, ill-suited to distributed TP `[ps=3]`
+- VAXlink positioned as DEC-IBM coexistence path so customers don't need full rip-and-replace `[ps=3]`
+- American Airlines SABRE on IBM TPF cited as the high-end TP ceiling case nobody else can yet match `[ps=3]`
+- Smith (Payne-Webber): 'DEC TP will drive demand for bigger computers' as VAX TP workloads scale `[ps=2]`
+- IBM CICS/IMS mainframe TP loses share to VAX-class distributed TP through early 1990s `[ps=2]`
+- VAX 8830 SMP RAMP-C TP throughput approaches IBM 3090 Model 200E `[ps=2]`
+- Expert-systems integration becomes mainstream TP component in the 1990s `[ps=2]`
+- Logan: DEC has a 2-3 year window to convert IBM TP customers before SAA matures `[ps=2]`
+- Kastner: DEC has <5% of TP market today, projected to triple by 1990s `[ps=1]`
+- Kastner predicts DEC TP share will triple from <5% to ~15% by early 1990s on the strength of VAX/ACMS `[ps=1]`

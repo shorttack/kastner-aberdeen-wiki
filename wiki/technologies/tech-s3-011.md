@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Exchange Server
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft Exchange gradually dominated enterprise email/collaboration; Notes declined to niche — [[study-1997-ibm’s-nt-strategy-strat-pr-b93817]]
+- Microsoft Exchange gradually dominated enterprise email/collaboration; Notes declined to niche `[ps=5]` — [[study-1997-ibm’s-nt-strategy-strat-pr-b93817]]

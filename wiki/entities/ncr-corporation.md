@@ -12,9 +12,9 @@ status: "active (split)"
 successor: "Spun out of AT&T 1996; later split NCR/NCR Voyix 2023"
 years_active: "1884-present"
 occurrence_count: 20
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.36
+prescience_obs_count: 42
 ---
 
 # Andyne Computing Ltd.
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- client-side MDB handling few megabytes — [[study-aberdeen-1995-data-warehouse-olap]]
-- ~90% utilization across 4 processors on NT 4.0 — [[study-aberdeen-1996-debunking-ntsmp-scalability-myth]]
-- NCR, Tandem, and Prism Solutions positioned as providers of industry-specific data warehouse templates and short-term consulting engagements — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
-- Highest absolute TPC-D performance rating on record as of July 1996 — [[study-aberdeen-1996-hp-enterprise-parallel-server-scalable-performance]]
-- RAS-augmentation: add enterprise-grade HA/clustering/TP-monitor on top of NT — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- Automatic failover in 2 seconds to 5 minutes; up to 3-node NT cluster — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- Redirects client transactions around failed servers, apps, or network nodes — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- 20-25% reduction in OLTP application deployment time; some sites reported 50% — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NT/SQL Server to scale to 8 CPUs with NT Server 4.0 (fall 1996); 12-16 CPUs by mid-1997 — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- Windows NT Server 4.0 Enterprise Edition (Sept 1997) supported 8-way SMP clustering; SQL Server 7.0 (1998) supported 8+ CPUs — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NCR to introduce SMP Utilization Manager for NT in 1996 for 16-way WorldMark systems — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NCR delivered SMP management tools; absorbed into later Teradata and NT product lines; specific 'Utilization Manager' branding not widely documented post-1997 — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NCR to provide NT-based data mart solutions starting with NT Server 4.0; data-mart-up/down routing to Teradata — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NCR/Teradata became leading enterprise data warehouse platform in late 1990s; NT-based data marts proliferated broadly as predicted — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NCR is an 'experienced, fail-safe choice for NT-based OLTP application deployments' — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- IT decision makers primary motivation: NT enables faster competitive response than legacy mainframe — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NCR LifeKeeper/TOP END enabled IS to commit to enterprise-grade SLAs, including external customer-facing guarantees — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- IS decision makers sought single standard OS platform across hardware; reduced management complexity — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- Aberdeen predicts NCR will become one of select Microsoft Authorized Consulting Partners for NT — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NCR became major Microsoft partner for enterprise solutions; Teradata/NT integration was commercially successful through late 1990s — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- NCR Worldmark servers cover SMP, Clusters, and MPP configurations; Teradata scales from data marts to multi-terabyte detailed warehouses `[ps=5]` — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]
+- ~90% utilization across 4 processors on NT 4.0 `[ps=4]` — [[study-aberdeen-1996-debunking-ntsmp-scalability-myth]]
+- RAS-augmentation: add enterprise-grade HA/clustering/TP-monitor on top of NT `[ps=4]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- Redirects client transactions around failed servers, apps, or network nodes `[ps=4]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- NCR/Teradata became leading enterprise data warehouse platform in late 1990s; NT-based data marts proliferated broadly as predicted `[ps=4]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- IT decision makers primary motivation: NT enables faster competitive response than legacy mainframe `[ps=4]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- IS decision makers sought single standard OS platform across hardware; reduced management complexity `[ps=4]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- Several times mainframe performance for less cost `[ps=4]` — [[study-ncr-system-3000-model-3550-brochure-1992-b15aed]]
+- NCR became major Microsoft partner for enterprise solutions; Teradata/NT integration was commercially successful through late 1990s `[ps=3]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- NCR (infrastructure + consulting + industry templates) + MicroStrategy (ROLAP toolset) = 'warehouse-supplier synergy' model for enterprise Web DSS `[ps=3]` — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]
+- $25,000-$45,000 low-cost fault-tolerant POS systems `[ps=3]` — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
+- CICS interoperability for migrating mainframe TP workloads `[ps=3]` — [[study-ncr-topend-tp-monitor-brochure-1992-eeea31]]
+- NCR to provide NT-based data mart solutions starting with NT Server 4.0; data-mart-up/down routing to Teradata `[ps=2]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- NCR is an 'experienced, fail-safe choice for NT-based OLTP application deployments' `[ps=2]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- NCR LifeKeeper/TOP END enabled IS to commit to enterprise-grade SLAs, including external customer-facing guarantees `[ps=2]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- NCR-Independence Technologies TopEND port a milestone `[ps=2]` — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]
+- NCR smartly positioned for High Availability Transaction Processing NT market; largest installed NT site running Exchange `[ps=2]` — [[study-ntpspr~1-728dc3]]
+- AT&T-NCR + Oracle financial stability to partner for years to come; jointly forming SBUs `[ps=2]` — [[study-oracle-att-ncr-pittsburgh-seminar-letter-98b0a4]]
+- client-side MDB handling few megabytes `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]
+- Highest absolute TPC-D performance rating on record as of July 1996 `[ps=0]` — [[study-aberdeen-1996-hp-enterprise-parallel-server-scalable-performance]]

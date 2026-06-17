@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "2005-2014"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # One Laptop Per Child (OLPC)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Child laptops (EePC, ClassMate, OLPC) of lower demand/interest than desktops in third world — [[study-kastner-letter-to-craig-barrett-intel-2008-1ea221]]
-- OLPC Foundation wound down by 2014; XO tablet failed; project achieved <3M units vs 150M target — [[study-kastner-letter-to-craig-barrett-intel-2008-1ea221]]
+- OLPC Foundation wound down by 2014; XO tablet failed; project achieved <3M units vs 150M target `[ps=5]` — [[study-kastner-letter-to-craig-barrett-intel-2008-1ea221]]
+- Child laptops (EePC, ClassMate, OLPC) of lower demand/interest than desktops in third world `[ps=4]` — [[study-kastner-letter-to-craig-barrett-intel-2008-1ea221]]

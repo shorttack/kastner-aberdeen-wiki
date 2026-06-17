@@ -3,7 +3,7 @@ title: "Tablet Offers High-Risk, High-Reward Portable PCs"
 slug: "study-tablet-offers-high-risk-high-reward-port-7cf9f8"
 page_type: "study"
 tags: ["type/study", "collection/feature-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "tablet-offers-high-risk-high-reward-port-7cf9f8"
 author: "Aaron Ricadela, InformationWeek"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.75
+prescience_obs_count: 4
 ---
 
 # Tablet Offers High-Risk, High-Reward Portable PCs
@@ -32,8 +32,8 @@ _Published 2001, author **Aaron Ricadela, InformationWeek**, type **feature-arti
 
 ## Top observations
 
-- Microsoft will make a huge positioning mistake if this is viewed as a specialized information-gathering appliance.
-- By the end of 2003, one-third to half of all laptops sold will be Tablet PCs. It's difficult to estimate exactly how quickly the Tablet will be adopted, but the standard laptop components and ability to run Windows applications without modification make it incredibly easy and cost-effective for any business to move from laptops to Tablet PCs.
-- Microsoft Tablet PCs achieved a low-single-digit percentage of total laptop shipments by end 2003 — far below the Gates one-third to one-half forecast. The form factor remained confined to vertical niches (field services, healthcare, construction) rather than achieving general-purpose adoption.
-- Apple launched the iPad on April 3 2010 — repositioning tablet computing as a general-purpose consumer device rather than a specialized business appliance, which is exactly the strategic pivot Kastner warned Microsoft needed to make in 2001. The iPad crossed 100 million units sold within three years.
+- Microsoft Tablet PCs achieved a low-single-digit percentage of total laptop shipments by end 2003 — far below the Gates one-third to one-half forecast. The form factor remained confined to vertical niches (field services, healthcare, construction) rather than achieving general-purpose adoption. `[ps=5]`
+- Apple launched the iPad on April 3 2010 — repositioning tablet computing as a general-purpose consumer device rather than a specialized business appliance, which is exactly the strategic pivot Kastner warned Microsoft needed to make in 2001. The iPad crossed 100 million units sold within three years. `[ps=5]`
+- Microsoft will make a huge positioning mistake if this is viewed as a specialized information-gathering appliance. `[ps=4]`
+- By the end of 2003, one-third to half of all laptops sold will be Tablet PCs. It's difficult to estimate exactly how quickly the Tablet will be adopted, but the standard laptop components and ability to run Windows applications without modification make it incredibly easy and cost-effective for any business to move from laptops to Tablet PCs. `[ps=1]`
 - Microsoft launched the Surface tablet line Oct 26 2012, finally embracing the general-purpose tablet positioning Kastner had urged in 2001; Surface became Microsoft's premier PC brand across 2015-2025.

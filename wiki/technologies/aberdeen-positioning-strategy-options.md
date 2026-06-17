@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "launch"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Positioning Strategy Options Model
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Review corporate presentation on-site; allow client to elaborate in their own words; provide critique of presentation — [[study-aas-operational-playbooks-aug-2001-b5a001]]
+- Review corporate presentation on-site; allow client to elaborate in their own words; provide critique of presentation `[ps=0]` — [[study-aas-operational-playbooks-aug-2001-b5a001]]

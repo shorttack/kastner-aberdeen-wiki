@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Digital Rights Management (DRM)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Pay-per-use and rent-to-own models for digital content enabled by trusted hardware — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- Pay-per-use and rent-to-own models for digital content enabled by trusted hardware `[ps=2]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]

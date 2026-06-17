@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Electronic Medical Record (EMR)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Single electronic patient record shared across the enterprise will someday emerge as an operational and technical reality `[ps=4]` — [[study-health~1-056358]]
 - Most EMR solutions operate on departmental level vs. enterprise-wide; some enterprise-wide versions emerging; 'who owns the data' unresolved — [[study-health~1-056358]]
-- Single electronic patient record shared across the enterprise will someday emerge as an operational and technical reality — [[study-health~1-056358]]

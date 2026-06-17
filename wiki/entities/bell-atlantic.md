@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Verizon Communications"
 years_active: "1984-2000"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Bell Atlantic Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Strengthened by NYNEX integration; 14 east coast states; All@Once managed services since 1995 — [[study-teleco~1-c01702]]
+- Strengthened by NYNEX integration; 14 east coast states; All@Once managed services since 1995 `[ps=0]` — [[study-teleco~1-c01702]]

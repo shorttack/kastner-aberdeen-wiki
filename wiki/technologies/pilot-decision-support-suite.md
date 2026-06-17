@@ -12,9 +12,9 @@ era: "1993-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Pilot Decision Support Suite
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Comprehensive suite: Internet Publisher + Analysis Server + Discovery Server (data mining) + Desktop + Designer + Sales & Marketing Library + Excel Add-In — [[study-pilot-internet-publisher-51e601]]
+- Comprehensive suite: Internet Publisher + Analysis Server + Discovery Server (data mining) + Desktop + Designer + Sales & Marketing Library + Excel Add-In `[ps=4]` — [[study-pilot-internet-publisher-51e601]]

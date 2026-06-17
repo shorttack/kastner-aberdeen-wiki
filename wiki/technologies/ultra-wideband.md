@@ -12,9 +12,9 @@ era: "2002-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Ultra Wide Band (UWB)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Hard drive; two 802.11b video streams; one wireline video stream; thin-client MPEG-2 decoder at each TV — [[study-dct-dceit-practice-v6-2002]]
-- Potential inexpensive 100 Mbit short-range wireless; may be technology of choice for streaming video — [[study-dct-dceit-practice-v6-2002]]
+- Potential inexpensive 100 Mbit short-range wireless; may be technology of choice for streaming video `[ps=4]` — [[study-dct-dceit-practice-v6-2002]]
+- Hard drive; two 802.11b video streams; one wireline video stream; thin-client MPEG-2 decoder at each TV `[ps=3]` — [[study-dct-dceit-practice-v6-2002]]

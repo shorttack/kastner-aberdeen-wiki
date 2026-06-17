@@ -3,7 +3,7 @@ title: "Staying the course — Citrix CEO Mark Templeton expects to survive slum
 slug: "study-sun-sentinel-citrix-templeton-staying-20-b645c7"
 page_type: "study"
 tags: ["type/study", "collection/trade-press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "sun-sentinel-citrix-templeton-staying-20-b645c7"
 author: "Christine Winter (South Florida Sun-Sentinel, business writer)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.73
+prescience_obs_count: 11
 ---
 
 # Staying the course — Citrix CEO Mark Templeton expects to survive slump
@@ -32,18 +32,18 @@ _Published 2002, author **Christine Winter (South Florida Sun-Sentinel, business
 
 ## Top observations
 
-- Sales $142.3M; adjusted net earnings 16¢/share
-- $591.6M (FY ended Dec 31 2001)
-- Down nearly 50% since January 2002 prior to article
-- Stock plunged 85% in 3 months in spring 2000 after missing earnings
-- Three-year agreement giving Citrix continued Microsoft code access at no cost (new structure vs. 1997 royalty deal)
+- $591.6M (FY ended Dec 31 2001) `[ps=5]`
+- 'We intend to be in a better position than ever to become that billion-dollar software company that we know we are.' `[ps=5]`
+- Citrix Systems acquired by Vista Equity Partners and Evergreen Coast Capital 2022; merged with TIBCO to form Cloud Software Group; previously >$3B revenue, $23B market cap `[ps=5]`
+- Citrix revenue exceeded $1B by 2006 — vindicating both Templeton's commitment and Kastner's strategy-soundness call `[ps=4]`
+- Sales $142.3M; adjusted net earnings 16¢/share `[ps=0]`
+- Down nearly 50% since January 2002 prior to article `[ps=0]`
+- Stock plunged 85% in 3 months in spring 2000 after missing earnings `[ps=0]`
+- Three-year agreement giving Citrix continued Microsoft code access at no cost (new structure vs. 1997 royalty deal) `[ps=0]`
+- 1,900 employees; CTXS on Nasdaq; HQ Fort Lauderdale `[ps=0]`
+- Recently spent $55M on two new buildings to consolidate workers from four scattered sites `[ps=0]`
+- Templeton thinks investors and industry have taken a 'wait and see' attitude about Citrix's move into a challenging new product line `[ps=0]`
 - 1997 agreement paid Citrix $175M in royalties — expired May 2002
-- 1,900 employees; CTXS on Nasdaq; HQ Fort Lauderdale
-- Recently spent $55M on two new buildings to consolidate workers from four scattered sites
 - Templeton: blames IT spending environment, 'not poor execution, as before'
-- 'We intend to be in a better position than ever to become that billion-dollar software company that we know we are.'
 - 'Citrix has been tarred with the brush of a terrible economy, but we believe its strategy is sound. They are one of the few companies that can provide the kind of software that they do.'
 - 'MetaFrame is holding up. ... It is still doing quite well, and it shows a lot of signs of life ahead of it. That takes some of the pressure off Citrix's efforts to diversify.'
-- Templeton thinks investors and industry have taken a 'wait and see' attitude about Citrix's move into a challenging new product line
-- Citrix revenue exceeded $1B by 2006 — vindicating both Templeton's commitment and Kastner's strategy-soundness call
-- Citrix Systems acquired by Vista Equity Partners and Evergreen Coast Capital 2022; merged with TIBCO to form Cloud Software Group; previously >$3B revenue, $23B market cap

@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1975-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Candle Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- OMEGAMON application performance management; Best-of-Breed — [[study-system~1-36ba8c]]
+- OMEGAMON application performance management; Best-of-Breed `[ps=3]` — [[study-system~1-36ba8c]]

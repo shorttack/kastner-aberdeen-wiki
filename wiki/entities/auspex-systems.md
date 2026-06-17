@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Network Appliance (NetApp) acquired 2003"
 years_active: "1987-1997"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Auspex Systems
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Single-function NAS competitor lacking CIFS/HTTP multiprotocol support — [[study-aberdeen-1996-network-appliance-data-appliances]]
-- Auspex Systems ceased operations ~2000-2001; failed to compete with NetApp's multiprotocol approach — [[study-aberdeen-1996-network-appliance-data-appliances]]
+- Auspex Systems ceased operations ~2000-2001; failed to compete with NetApp's multiprotocol approach `[ps=4]` — [[study-aberdeen-1996-network-appliance-data-appliances]]
+- Single-function NAS competitor lacking CIFS/HTTP multiprotocol support `[ps=3]` — [[study-aberdeen-1996-network-appliance-data-appliances]]

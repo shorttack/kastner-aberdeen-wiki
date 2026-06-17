@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Seagate Software (1996) then Crystal Decisions then Business Objects (2004)"
 years_active: "1989-1996"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Stanford Technology Group
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- server-based MDB — [[study-aberdeen-1995-data-warehouse-olap]]
+- server-based MDB `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]

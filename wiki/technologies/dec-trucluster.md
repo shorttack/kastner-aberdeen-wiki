@@ -12,9 +12,9 @@ era: "1997-1998"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Digital TrueCluster
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TruClusters: new clustering + MPP technology on AlphaServer; not quad-based — [[study-sequent-s-numa-q-2000-solutions-77a77c]]
+- TruClusters: new clustering + MPP technology on AlphaServer; not quad-based `[ps=3]` — [[study-sequent-s-numa-q-2000-solutions-77a77c]]

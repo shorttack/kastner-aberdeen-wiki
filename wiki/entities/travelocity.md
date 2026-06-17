@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Expedia (2015)"
 years_active: "1996-2015"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Travelocity
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Travelocity runs on a Unix-based Silicon Graphics server and an Oracle database; 1 million users signed up. — [[study-sabre-s-challenge-fb76f5]]
+- Travelocity runs on a Unix-based Silicon Graphics server and an Oracle database; 1 million users signed up. `[ps=0]` — [[study-sabre-s-challenge-fb76f5]]
 - Sabre sold Travelocity to Expedia in January 2015 for $280M; Travelocity rebranded as a meta-search frontend for Expedia inventory. — [[study-sabre-s-challenge-fb76f5]]

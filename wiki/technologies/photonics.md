@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Photonics
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- No production-ready means exists — [[study-topic-semiconductor-practice-definition-2002]]
+- No production-ready means exists `[ps=0]` — [[study-topic-semiconductor-practice-definition-2002]]

@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 64
 ---
 
 # Achieving More Value from Enterprise Applications
@@ -32,28 +32,28 @@ _Published 2006, author **Peter S. Kastner, Aberdeen Group**, type **employer-re
 
 ## Top observations
 
-- $143 billion
-- More than 50%
-- At least two-thirds
-- confirmed
-- 35%
-- 30%
-- 14%
-- 12%
-- 9%
-- 55%
-- 23%
-- 8%
-- 7%
-- 6%
-- 31%
-- 20%
-- 17%
-- 10%
-- 17%
-- 4%
-- 25%
-- 19%
-- 15%
-- 11%
-- 11%
+- $143 billion `[ps=0]`
+- More than 50% `[ps=0]`
+- confirmed `[ps=0]`
+- 14% `[ps=0]`
+- 9% `[ps=0]`
+- 55% `[ps=0]`
+- 23% `[ps=0]`
+- 8% `[ps=0]`
+- 6% `[ps=0]`
+- 31% `[ps=0]`
+- 20% `[ps=0]`
+- 17% `[ps=0]`
+- 10% `[ps=0]`
+- 17% `[ps=0]`
+- 4% `[ps=0]`
+- 19% `[ps=0]`
+- 15% `[ps=0]`
+- 11% `[ps=0]`
+- 11% `[ps=0]`
+- 49% `[ps=0]`
+- 40% `[ps=0]`
+- 34% `[ps=0]`
+- 33% `[ps=0]`
+- 42% `[ps=0]`
+- 41% `[ps=0]`

@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ra Cmo Smemme La 3607 (Aberdeen, 2006)"
 slug: "study-ra-cmo-smemme-la-3607-20a587"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 0.76
-prescience_obs_count: 78
+prescience_mean: 1.4
+prescience_obs_count: 57
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ra Cmo Smemme La 3607 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-cmo-smemme-la-3607-20a587. Source: ra_cmo_smemme_la_3607.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **topic-analysis**._

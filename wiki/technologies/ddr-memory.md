@@ -12,9 +12,9 @@ era: "2000-2007"
 lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'DDR SDRAM (DDR1) was succeeded by DDR2, DDR3, DDR4, and DDR5. DDR1 has been out of mainstream production for over a decade. Fully discontinued by major manufacturers.', 'source': 'https://en.wikipedia.org/wiki/DDR_SDRAM'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # DDR SDRAM Memory
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 6.4 GB/second peak — [[study-intel-ia2004-pk4-kc-edits-de9c37]]
+- 6.4 GB/second peak `[ps=0]` — [[study-intel-ia2004-pk4-kc-edits-de9c37]]

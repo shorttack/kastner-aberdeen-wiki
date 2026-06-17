@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 3
 ---
 
 # IT Spending Model (Ops vs New-App)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- ~85% of IS spending goes to ongoing operations; ~15% to new application acquisitions. `[ps=4]` — [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1]]
+- The ~85/15 ongoing-ops-vs-new-apps ratio is stable over time and will continue to characterize enterprise IT spending. `[ps=4]` — [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1]]
+- The 85/15 (or nearby 80/20) ongoing-ops-vs-new-apps ratio has held up remarkably well across decades (confirmed by subsequent Gartner, IDC, and Aberdeen data through the 2000s-2010s). Kastner prediction verified. `[ps=4]` — [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1]]
 - US enterprises spend ~3% of revenue or value-added on IS (information systems). — [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1]]
-- ~85% of IS spending goes to ongoing operations; ~15% to new application acquisitions. — [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1]]
-- The ~85/15 ongoing-ops-vs-new-apps ratio is stable over time and will continue to characterize enterprise IT spending. — [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1]]
-- The 85/15 (or nearby 80/20) ongoing-ops-vs-new-apps ratio has held up remarkably well across decades (confirmed by subsequent Gartner, IDC, and Aberdeen data through the 2000s-2010s). Kastner prediction verified. — [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1]]

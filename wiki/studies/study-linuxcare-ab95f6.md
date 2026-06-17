@@ -3,7 +3,7 @@ title: "Linuxcare, Inc. -- Enterprise Service and Support for All Things Linux"
 slug: "study-linuxcare-ab95f6"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "linuxcare-ab95f6"
 author: "Peter S. Kastner / Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.43
+prescience_obs_count: 14
 ---
 
 # Linuxcare, Inc. -- Enterprise Service and Support for All Things Linux
@@ -32,23 +32,23 @@ _Published 1999, author **Peter S. Kastner / Aberdeen Group**, type **white-pape
 
 ## Top observations
 
-- Founded 1998 as Linux consulting firm; evolved to full enterprise Linux specialist
-- Kleiner Perkins Caulfield and Byers chose Linuxcare as first Linux-related investment
+- Bronze, Silver, Gold, Platinum tiers varying in price, response time, contacts `[ps=5]`
+- Free online interactive support database; searchable answers, FAQs, patches, migration tips `[ps=4]`
+- Within next year IT managers will have Linux alternative in every major application area `[ps=4]`
+- Third-party hardware/software certification; Dell and Compaq DeskPro already certified `[ps=3]`
+- Founded 1998 as Linux consulting firm; evolved to full enterprise Linux specialist `[ps=2]`
+- Credible source of Linux expertise; should be considered by IT executives deploying Linux as alternative enterprise OS `[ps=2]`
+- Kleiner Perkins Caulfield and Byers chose Linuxcare as first Linux-related investment `[ps=0]`
+- unknown `[ps=0]`
+- IBM contracted Linuxcare to support Linux on RS/6000 line `[ps=0]`
+- Sun signed Linuxcare to support Star Office suite (acquired from Star Division) `[ps=0]`
+- Courses: Linux System Administration, Network Administration, Security, Overview for NT Professionals, Samba, Linux for Executives `[ps=0]`
+- Sarrat (CEO, ex-Cylink/IBM), Pollace (CFO, 30+ yr experience), Nassaur (CIO, ex-E*Trade), Lambs (VP Services, ex-DEC 18yr), Phillips (VP Sales, 25yr) `[ps=0]`
+- unknown `[ps=0]`
+- TurboLinux tapped Linuxcare to provide services/support to North American customers `[ps=0]`
 - Aberdeen views Linuxcare as having proven viability as source of Linux expertise
-- unknown
 - IT departments increasingly using Linux for email, file/print, web servers; emerging for decision support, caching, storage, DNS, web commerce
 - Dell contracted Linuxcare for back-end Linux support on OptiPlex, Dimension desktop lines, Precision workstations, PowerEdge Servers
-- IBM contracted Linuxcare to support Linux on RS/6000 line
-- Sun signed Linuxcare to support Star Office suite (acquired from Star Division)
 - Supports all Linux hardware platforms: Alpha, Intel, MIPS, PowerPC, Sparc, StrongArm
-- Bronze, Silver, Gold, Platinum tiers varying in price, response time, contacts
-- Courses: Linux System Administration, Network Administration, Security, Overview for NT Professionals, Samba, Linux for Executives
-- Third-party hardware/software certification; Dell and Compaq DeskPro already certified
-- Free online interactive support database; searchable answers, FAQs, patches, migration tips
-- Sarrat (CEO, ex-Cylink/IBM), Pollace (CFO, 30+ yr experience), Nassaur (CIO, ex-E*Trade), Lambs (VP Services, ex-DEC 18yr), Phillips (VP Sales, 25yr)
-- Within next year IT managers will have Linux alternative in every major application area
-- unknown
-- Credible source of Linux expertise; should be considered by IT executives deploying Linux as alternative enterprise OS
-- TurboLinux tapped Linuxcare to provide services/support to North American customers
 - All services in English at time of profile; Asian support facilities targeted for completion (date TBD)
 - Andrew Tridgell (original Samba author) is a Linuxcare guru

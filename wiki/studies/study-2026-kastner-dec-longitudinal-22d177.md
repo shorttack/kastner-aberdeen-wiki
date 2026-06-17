@@ -3,7 +3,7 @@ title: "Digital Equipment Corporation Longitudinal Study, 1985-Present"
 slug: "study-2026-kastner-dec-longitudinal-22d177"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2026-kastner-dec-longitudinal-22d177"
 author: "Peter S. Kastner / Perplexity Computer (synthetic archival assembly)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.96
+prescience_obs_count: 56
 ---
 
 # Digital Equipment Corporation Longitudinal Study, 1985-Present
@@ -32,28 +32,28 @@ _Published 2026, author **Peter S. Kastner / Perplexity Computer (synthetic arch
 
 ## Top observations
 
-- 1025
-- 184
-- Do not attribute all DEC-related Aberdeen observations to Peter S. Kastner; distinguish Kastner-authored/coauthored, Kastner personal memoir, Aberdeen institutional/unspecified analyst, DEC corporate/employer record, other named source, and other author/third party.
-- 434
-- 211
-- 144
-- 123
-- 84
-- 29
-- 2
-- 10
-- 212
-- 561
-- 181
-- 12
-- 28
-- 19
-- proprietary_systems_incumbent
-- enterprise_transaction_processing_challenger
-- alpha_open_systems_transition
-- acquired_platform_afterlife
-- 443
-- The largest thread shows DEC repeatedly trying to translate proprietary strength into open systems, middleware, management, UNIX, NT, and web-era narratives.
-- 435
-- The archive preserves DEC as a living successor-chain object after 1998, especially through OpenVMS, Alpha/Itanium migration, HP/HPE inheritance, and VSI support.
+- Wintel/x86 acts as a structural pressure throughout the 1990s, weakening proprietary and RISC economics even when DEC retained technical strengths. `[ps=5]`
+- VAX/VMS provides the installed-base and technical foundation against which later strategic shifts are measured. `[ps=5]`
+- The chain from DEC to Compaq to HP/HPE is the archive's central corporate continuity axis after 1998. `[ps=5]`
+- Partially verified: DEC was a serious OLTP benchmark and architecture participant, but enterprise database/application economics consolidated around other vendors. `[ps=5]`
+- Refuted: Windows NT became an enterprise force, but not through Alpha as a durable volume platform. `[ps=5]`
+- Compaq agreed to buy Digital Equipment Corporation for about $9.6 billion in 1998. `[ps=5]`
+- Digital Equipment Corporation was purchased by Compaq in 1998 for $9.6 billion. `[ps=5]`
+- HP completed the acquisition of Compaq in 2002 for about $25 billion. `[ps=5]`
+- DEC's OLTP/TPC material shows a serious enterprise transaction-processing challenge rather than a purely engineering-centered minicomputer story. `[ps=4]`
+- Database, transaction monitor, and enterprise application references show DEC competing for application-platform legitimacy as much as hardware share. `[ps=4]`
+- 64-bit field previously dominated by DEC with Sun as newer entrant `[ps=3]`
+- Unlike proprietary NDS and StreetTalk, DCE enables cross-platform interoperability including IBM mainframes, AS/400, HP, DEC, Sun `[ps=2]`
+- VSI acquired all OpenVMS support business from HPE in 2019, with HPE exiting the OpenVMS market. `[ps=1]`
+- 1025 `[ps=0]`
+- 184 `[ps=0]`
+- 434 `[ps=0]`
+- 144 `[ps=0]`
+- 29 `[ps=0]`
+- 10 `[ps=0]`
+- 212 `[ps=0]`
+- 561 `[ps=0]`
+- 181 `[ps=0]`
+- 12 `[ps=0]`
+- 28 `[ps=0]`
+- proprietary_systems_incumbent `[ps=0]`

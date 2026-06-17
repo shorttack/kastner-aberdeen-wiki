@@ -12,9 +12,9 @@ era: "1980-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "declining"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Telecom Legacy OSS/BSS Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- New services must integrate with existing billing and management infrastructure — [[study-soft-mountain-java-a396b5]]
+- New services must integrate with existing billing and management infrastructure `[ps=4]` — [[study-soft-mountain-java-a396b5]]

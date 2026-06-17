@@ -12,9 +12,9 @@ era: "2006-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel Larrabee
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Day 2 Breakout #2: Larrabee Programmability — overview of Larrabee architecture and the new LRBni (Larrabee New Instructions) vector instruction-set. — [[study-peter-kastner-10-bde195]]
+- Day 2 Breakout #2: Larrabee Programmability — overview of Larrabee architecture and the new LRBni (Larrabee New Instructions) vector instruction-set. `[ps=0]` — [[study-peter-kastner-10-bde195]]

@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: "Seagate (2006)"
 years_active: "1982-2006"
 occurrence_count: 9
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.77
+prescience_obs_count: 40
 ---
 
 # Maxtor Corporation
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- With Aberdeen research + vocal customer advocates + leading research firm + system vendor support Maxtor can lead the midline category and position MaXLine as the brand of choice — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- [UNVERIFIED] — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- DiFranco explicitly states he has no interest in shrinking the SCSI TAM; midline should create new opportunities not replace on-line storage — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- MaXLine and Atlas positioned as 'co-operative enterprise brands' — on-line and mid-line enterprise storage complement each other — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- Plan to include publicity + speaking opportunities + customer leverage + analyst promotion to position MaXLine as principal midline brand — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- Maxtor needs support of system vendors to lead midline category creation — vendor ecosystem essential — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- DiFranco will invite Aberdeen to present commissioned research to the team in Shrewsbury MA with Robert Wise attending — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- MaXLine products quietly announced September 9 2002; market development campaign initiated thereafter — [[study-02-sow-final-62f56d]]
-- Fundamental program element is to define a new market segment in the storage hierarchy between disk and tape — 'active archiving' or 'rapid/instant archiving' — [[study-02-sow-final-62f56d]]
-- Maxtor wants to avoid cannibalizing its existing higher-margin SCSI disk drive product families when offering lower-priced ATA drives — [[study-02-sow-final-62f56d]]
-- Maxtor wants to blunt efforts of competitors with different technology portfolios and competing market development agendas — [[study-02-sow-final-62f56d]]
-- Maxtor has 60-day period after delivery to review white paper and consider waiving exclusivity — allowing Aberdeen to publish more broadly — [[study-02-sow-final-62f56d]]
-- On-line (Transactional Processing) / Mid-line (Fixed Content) / Near-Line (Disk Backup & Staging & Spooling) / Off-line (Tape Archive) — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- If ILM is 'getting control over storage' then Pools of Storage is the economic and flexibility 'best approach' — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- All players in the Serial Storage ecosystem will adopt Maxtor's 'Pools' lexicon as imperative to successfully launching midline storage within a year — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- [UNVERIFIED] — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- Maxtor and Aberdeen have mutually identified launching new midline storage category within a year (by end 2004) as imperative — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- [UNVERIFIED] — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- Maxtor must prevent misperception that Pools of Storage means hierarchical storage management (HSM) — it is a set of systems adapting to business objectives — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- Enterprise customers must feel the TCO pain of storing fixed content on highly priced drives designed for speed instead of capacity — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- Tape; low-speed storage; direct/SAN attached; sequential data access; removable media; low I/O performance `[ps=5]` — [[study-19-maxline-data-timeline-slide-6e6572]]
+- MaXLine and Atlas positioned as 'co-operative enterprise brands' — on-line and mid-line enterprise storage complement each other `[ps=4]` — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
+- Maxtor needs support of system vendors to lead midline category creation — vendor ecosystem essential `[ps=4]` — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
+- On-line (Transactional Processing) / Mid-line (Fixed Content) / Near-Line (Disk Backup & Staging & Spooling) / Off-line (Tape Archive) `[ps=4]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- Maxtor must prevent misperception that Pools of Storage means hierarchical storage management (HSM) — it is a set of systems adapting to business objectives `[ps=4]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- Enterprise customers must feel the TCO pain of storing fixed content on highly priced drives designed for speed instead of capacity `[ps=4]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- Maxtor makes disk drives — a commodity; needs to move up the storage value chain; influence end-user buyers instead of purchasing agents at computer companies `[ps=4]` — [[study-06-aberdeen-after-action-showandtell-95c6d9]]
+- Enterprise customers must not perceive Pools of Storage as hierarchical storage management `[ps=4]` — [[study-08-phase2-project-kickoff-2ea711]]
+- Midline storage includes enterprise-class high-capacity ATA disks that bridge the gap between high-use high-performance FC/SCSI disk arrays and magnetic tape storage `[ps=4]` — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
+- Atlas: high I/Os/high cost/mission-critical; MaXLine: moderate I/Os/high capacity/moderate cost/not mission-critical `[ps=4]` — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
+- Two axes: Data Value (Y-axis: high to low) and Data Duration (X-axis: minutes to years) `[ps=4]` — [[study-19-maxline-data-timeline-slide-6e6572]]
+- Near-Line Storage / Content Storage; network attached; sequential and random access `[ps=4]` — [[study-19-maxline-data-timeline-slide-6e6572]]
+- ATA positioned in spectrum below MaXLine toward consumer/low-reliability zone `[ps=4]` — [[study-19-maxline-data-timeline-slide-6e6572]]
+- DiFranco explicitly states he has no interest in shrinking the SCSI TAM; midline should create new opportunities not replace on-line storage `[ps=3]` — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
+- Launch new storage category of midline storage within a year (by end 2004) `[ps=3]` — [[study-08-phase2-project-kickoff-2ea711]]
+- Take market share from competitors by being externally focused; establish basis for sustainable competitive advantage beyond price `[ps=3]` — [[study-09-maxtor-workshop-prep-guide-a218dc]]
+- Literal messaging: functions and features; Experiential messaging: emotional responses and problem solutions `[ps=3]` — [[study-09-maxtor-workshop-prep-guide-a218dc]]
+- ILM will come to be the big storage-related mindshare and market battle of the decade `[ps=2]` — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
+- Maxtor: FC/midline/nearline; Hitachi: FC/not interested in midline/nearline; Seagate: FC/not needed/nearline; WD: enterprise SATA/could migrate/nearline `[ps=2]` — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
+- In synchronization with external program Maxtor aligns specific HDD brands with Pools of Storage — empowering Maxtor to have significant voice in next-generation enterprise storage `[ps=1]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]

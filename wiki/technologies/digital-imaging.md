@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Digital Imaging / Digital Photography
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP is a leader in digital imaging and photography. — [[study-hp-analyst-phone-call-6-204870]]
+- HP is a leader in digital imaging and photography. `[ps=3]` — [[study-hp-analyst-phone-call-6-204870]]

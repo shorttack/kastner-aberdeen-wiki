@@ -3,7 +3,7 @@ title: "802.11a,b Wireless Comes of Age"
 slug: "study-2002-802-11a-b-wireless-comes-of-age-6a071d"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2002-802-11a-b-wireless-comes-of-age-6a071d"
 author: "Russ Craig"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.25
+prescience_obs_count: 8
 ---
 
 # 802.11a,b Wireless Comes of Age
@@ -32,15 +32,15 @@ _Published 2002, author **Russ Craig**, type **market-study**._
 
 ## Top observations
 
-- Market leader / vendor to beat
-- Coming of age / mainstream adoption
+- Acquired by Qualcomm for $3.1B `[ps=5]`
+- Launched Centrino platform integrating 802.11b/g; major market success `[ps=5]`
+- Coming of age / mainstream adoption `[ps=4]`
+- Front-runner; implied survivor of shakeout `[ps=4]`
+- Dominant standard at publication date; mature `[ps=4]`
+- Myriad competitors lining up to challenge Atheros `[ps=4]`
+- Market leader / vendor to beat `[ps=0]`
+- Major competitor lining up to challenge Atheros `[ps=0]`
 - High-performance at attractive prices
 - Many vendors will not remain in market within 1 year
 - Sold WLAN unit to GlobespanVirata for $365M
-- Front-runner; implied survivor of shakeout
-- Acquired by Qualcomm for $3.1B
-- Major competitor lining up to challenge Atheros
-- Launched Centrino platform integrating 802.11b/g; major market success
 - Emerging; dual-band chipsets enabling broader uptake
-- Dominant standard at publication date; mature
-- Myriad competitors lining up to challenge Atheros

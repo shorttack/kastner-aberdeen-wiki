@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # ActiveX / COM / DCOM
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft DCOM will by default become primary means of communications between objects; CORBA will bridge to DCOM on client-side — [[study-develo~1-d25652]]
-- Microsoft succeeded on client but .NET replaced COM/DCOM; CORBA declined on both tiers — [[study-develo~1-d25652]]
+- Microsoft succeeded on client but .NET replaced COM/DCOM; CORBA declined on both tiers `[ps=4]` — [[study-develo~1-d25652]]
+- Microsoft DCOM will by default become primary means of communications between objects; CORBA will bridge to DCOM on client-side `[ps=2]` — [[study-develo~1-d25652]]

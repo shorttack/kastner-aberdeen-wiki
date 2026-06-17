@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Rb Enablingb2Bcollaboration 3890 (Aberdeen, 2007)"
 slug: "study-rb-enablingb2bcollaboration-3890-56c184"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 1.0
 prescience_obs_count: 3
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Rb Enablingb2Bcollaboration 3890 (Aberdeen, 2007)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study rb-enablingb2bcollaboration-3890-56c184. Source: rb_enablingb2bcollaboration_3890.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **benchmark**._

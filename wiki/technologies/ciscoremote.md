@@ -12,9 +12,9 @@ era: "1995-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # CiscoRemote
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Integrates Network TeleSystems TCP/IP, Farallon Timbuktu Pro, AirSoft Powerburst, Netscape Navigator 1.2, Qualcomm Eudora 1.5.2, Cisco IOS extensions — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]
+- Integrates Network TeleSystems TCP/IP, Farallon Timbuktu Pro, AirSoft Powerburst, Netscape Navigator 1.2, Qualcomm Eudora 1.5.2, Cisco IOS extensions `[ps=0]` — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]

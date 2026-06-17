@@ -12,9 +12,9 @@ era: "1999-2010"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-mostly-replaced-by-REST"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # SOAP / WS-* Web Services
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Web services technology promises flexible integration across internal apps and external partners; many firms stand to benefit — [[study-lansa-composer-powerpoint-9f4257]]
+- Web services technology promises flexible integration across internal apps and external partners; many firms stand to benefit `[ps=5]` — [[study-lansa-composer-powerpoint-9f4257]]
 - Jupiter Research analysts report 82% of executives say their companies use web services in some capacity — Jupiter warns the term has been bandied about so much it has reached 'hysteria levels.' — [[study-tech-forecasts-idc-keeps-score-114e08]]

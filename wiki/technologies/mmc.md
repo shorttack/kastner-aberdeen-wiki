@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Management Console (MMC)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- MMC and Snap-ins represent new administrative paradigm requiring ISV tool development; tools not available at NT 5.0 FCS — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
+- MMC and Snap-ins represent new administrative paradigm requiring ISV tool development; tools not available at NT 5.0 FCS `[ps=4]` — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]

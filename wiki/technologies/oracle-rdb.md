@@ -12,9 +12,9 @@ era: "1984-present"
 lifecycle_at_study: "Oracle Rdb continues in niche use on OpenVMS; current version Oracle Rdb 7.4"
 lifecycle_current: "legacy"
 occurrence_count: 4
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # Oracle Rdb
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- From 31.90 to 10.71 (threefold improvement) — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
+- Oracle acquires RDB and installed base; Oracle and Digital increasing strategic commitments; Oracle is LIMD database `[ps=4]` — [[study-ibm-rs6000-midran~1-88f049]]
+- From 31.90 to 10.71 (threefold improvement) `[ps=0]` — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
+-  `[ps=0]` — [[study-dectp92-0ca51c]]
 - Five-fold performance increase over previous version; up to 50GB data support — [[study-dectp-genspark-research2-4-a09a82]]
--  — [[study-dectp92-0ca51c]]
-- Oracle acquires RDB and installed base; Oracle and Digital increasing strategic commitments; Oracle is LIMD database — [[study-ibm-rs6000-midran~1-88f049]]

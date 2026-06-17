@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "Emerging (in Windows 95/NT)"
 lifecycle_current: "Superseded by VPN"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Remote Node Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Remote node does not permit end-users to remotely operate desktop applications or allow MIS diagnostic control — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]
+- Remote node does not permit end-users to remotely operate desktop applications or allow MIS diagnostic control `[ps=3]` — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]

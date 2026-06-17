@@ -3,7 +3,7 @@ title: "CA Does the Right Thing; Customers Say CRO Rocks"
 slug: "study-2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7"
 page_type: "study"
 tags: ["type/study", "collection/insight"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7"
 author: "Valerie O'Connell"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.1
+prescience_obs_count: 10
 ---
 
 # CA Does the Right Thing; Customers Say CRO Rocks
@@ -32,16 +32,16 @@ _Published 2001, author **Valerie O'Connell**, type **insight**._
 
 ## Top observations
 
-- Self-initiated comprehensive internal reform covering products/processes/policies/personnel
-- Operating below public radar while executing innovative programs
-- Non-quota-carrying group of service professionals
+- Multiple executives convicted of securities fraud related to premature revenue recognition `[ps=5]`
+- Self-initiated comprehensive internal reform covering products/processes/policies/personnel `[ps=2]`
+- Operating below public radar while executing innovative programs `[ps=2]`
+- New CA identity will be validated by customer satisfaction improvement `[ps=2]`
+- Non-quota-carrying group of service professionals `[ps=0]`
+- Broken products processes policies and personnel `[ps=0]`
+- The new CA `[ps=0]`
+- CRO embodies the values of the new CA `[ps=0]`
+- Acquired by Broadcom for $18.9 billion `[ps=0]`
+- Service professionals carry no sales quota `[ps=0]`
 - Achieving first-rate customer satisfaction and trust
-- New CA identity will be validated by customer satisfaction improvement
-- Broken products processes policies and personnel
-- The new CA
 - Highly effective in achieving first-rate customer satisfaction and trust
-- CRO embodies the values of the new CA
-- Acquired by Broadcom for $18.9 billion
-- Multiple executives convicted of securities fraud related to premature revenue recognition
-- Service professionals carry no sales quota
 - Customer testimonials provided as primary evidence of CRO success

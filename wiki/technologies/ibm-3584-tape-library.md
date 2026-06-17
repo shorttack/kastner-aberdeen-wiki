@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM 3584 Tape Library
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 8-10 — [[study-inovant-ramp-interview-for-maxtor-projec-e7f75d]]
+- 8-10 `[ps=0]` — [[study-inovant-ramp-interview-for-maxtor-projec-e7f75d]]

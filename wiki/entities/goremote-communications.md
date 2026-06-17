@@ -12,9 +12,9 @@ status: "acquired"
 successor: "iPass Inc. (2006)"
 years_active: "1994-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.67
+prescience_obs_count: 9
 ---
 
 # GoRemote Communications, Inc.
@@ -24,13 +24,13 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- More than 150 countries — [[study-goremote-profile-5-2a-8fa814]]
-- More than 35,000 — [[study-goremote-profile-5-2a-8fa814]]
-- More than 1.2 billion access minutes per year — [[study-goremote-profile-5-2a-8fa814]]
-- More than 300 — [[study-goremote-profile-5-2a-8fa814]]
-- First unified solution for cost-effective management of fixed and mobile outworkers — [[study-goremote-profile-5-2a-8fa814]]
-- Enterprise-oriented; enterprise customer list includes Avnet, Lockheed Martin, Matsushita, P&G, Saint-Gobain, Stanley Works, VeriSign — [[study-goremote-profile-5-2a-8fa814]]
-- Starting at $1 per connect hour — [[study-goremote-profile-5-2a-8fa814]]
-- Starting at $60 per month — [[study-goremote-profile-5-2a-8fa814]]
+- First unified solution for cost-effective management of fixed and mobile outworkers `[ps=3]` — [[study-goremote-profile-5-2a-8fa814]]
+- Enterprise-oriented; enterprise customer list includes Avnet, Lockheed Martin, Matsushita, P&G, Saint-Gobain, Stanley Works, VeriSign `[ps=3]` — [[study-goremote-profile-5-2a-8fa814]]
+- More than 150 countries `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
+- More than 35,000 `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
+- More than 1.2 billion access minutes per year `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
+- More than 300 `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
+- Starting at $1 per connect hour `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
+- Starting at $60 per month `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
+- [UNVERIFIED] `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
 - Will guarantee service levels and full deployment in less than 90 days — [[study-goremote-profile-5-2a-8fa814]]
-- [UNVERIFIED] — [[study-goremote-profile-5-2a-8fa814]]

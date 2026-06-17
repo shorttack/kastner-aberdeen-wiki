@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Opteron's First Year All About Linux - But What About Later?
@@ -32,7 +32,7 @@ _Published 2004, author **LinuxPlanet staff (reporter); Peter Kastner and Tom Ha
 
 ## Top observations
 
+- 'A pond made up right now of only a few thousand enthusiasts' `[ps=0]`
 - Scientific/technical computing segment leading Opteron adoption
-- 'A pond made up right now of only a few thousand enthusiasts'
 - Windows likely to dominate x86-64 once mainstream, though Linux may retain higher share than on 32-bit
 - Intel shipped EM64T (64-bit extension) in Xeon/Pentium 4 in 2004-2005; Windows x64 Edition shipped April 2005

@@ -12,9 +12,9 @@ era: "1998-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # XML Integration Standards
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 66% — [[study-ra-enterprise-apps-312ba4]]
+- 66% `[ps=0]` — [[study-ra-enterprise-apps-312ba4]]

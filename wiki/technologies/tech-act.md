@@ -12,9 +12,9 @@ era: "1993-2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 4
 ---
 
 # HP ACT (Applied Computer Telephony)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- >200 call center sites — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- AT&T and Northern Telecom PBX switches — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- Aberdeen predicts CTI (Computer Telephony Integration) middleware will be a critical competitive differentiator in enterprise CIS architectures — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- Confirmed: CTI integration remained central to call-center CRM through 2010s; evolved into cloud contact centers (Genesys, Avaya, Amazon Connect); Cisco UCCX became dominant CTI middleware by 2005 — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- Aberdeen predicts CTI (Computer Telephony Integration) middleware will be a critical competitive differentiator in enterprise CIS architectures `[ps=3]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- Confirmed: CTI integration remained central to call-center CRM through 2010s; evolved into cloud contact centers (Genesys, Avaya, Amazon Connect); Cisco UCCX became dominant CTI middleware by 2005 `[ps=3]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- >200 call center sites `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- AT&T and Northern Telecom PBX switches `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]

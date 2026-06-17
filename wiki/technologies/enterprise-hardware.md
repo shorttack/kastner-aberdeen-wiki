@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Enterprise Hardware (Servers/Storage)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internal vs. external x hardware vs. software/services 2x2 matrix applied per vertical — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]
+- Internal vs. external x hardware vs. software/services 2x2 matrix applied per vertical `[ps=0]` — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]

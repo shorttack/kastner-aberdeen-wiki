@@ -12,9 +12,9 @@ era: "2001-2005"
 lifecycle_at_study: "launch"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Base Retainer (AAS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $7,000 annual base access + per diems × days; example: 2-day VP retainer = $6,000 × 2 + $7,000 — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]
+- $7,000 annual base access + per diems × days; example: 2-day VP retainer = $6,000 × 2 + $7,000 `[ps=0]` — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]

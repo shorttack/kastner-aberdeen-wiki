@@ -12,9 +12,9 @@ era: "1997-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # QAD On/Q
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 100% JAVA and CORBA compliant; ability to manage entire extended supply chain — [[study-erpv2p~1-b15573]]
+- 100% JAVA and CORBA compliant; ability to manage entire extended supply chain `[ps=3]` — [[study-erpv2p~1-b15573]]

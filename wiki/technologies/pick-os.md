@@ -12,9 +12,9 @@ era: "1965-1995"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Pick Operating System
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Pick OS developed in the 1960s for inventory and distribution systems; used multi-value fields in dynamic arrays vs. relational column-row structure. — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Pick OS developed in the 1960s for inventory and distribution systems; used multi-value fields in dynamic arrays vs. relational column-row structure. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]

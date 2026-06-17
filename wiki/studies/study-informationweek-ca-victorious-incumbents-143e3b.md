@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Victorious Incumbents Vow Change For CA
@@ -32,8 +32,8 @@ _Published 2001, author **David Joachim**, type **news-article**._
 
 ## Top observations
 
+- Wyly proxy challenge defeated; Wang/Kumar board retained `[ps=0]`
+- Analysts agree changes would have occurred regardless of proxy fight `[ps=0]`
 - CA has been trying with a fair amount of desperation to rid itself of the long standing pejorative that CA screws its customers
 - CA continually tweaks its sales and support organization and I certainly don't consider it to be a result of the Wyly thing at all
 - I'm very pleased. The idea of splitting up the company was absurd
-- Wyly proxy challenge defeated; Wang/Kumar board retained
-- Analysts agree changes would have occurred regardless of proxy fight

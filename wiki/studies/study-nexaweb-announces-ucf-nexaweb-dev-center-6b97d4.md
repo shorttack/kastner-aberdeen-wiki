@@ -3,7 +3,7 @@ title: "Nexaweb Delivers Industry's First Universal Client Framework with New Ne
 slug: "study-nexaweb-announces-ucf-nexaweb-dev-center-6b97d4"
 page_type: "study"
 tags: ["type/study", "collection/press-release"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "nexaweb-announces-ucf-nexaweb-dev-center-6b97d4"
 author: "Nexaweb Technologies, Inc. (press release)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.75
+prescience_obs_count: 4
 ---
 
 # Nexaweb Delivers Industry's First Universal Client Framework with New Nexaweb Enterprise Web 2.0 Platform
@@ -32,9 +32,9 @@ _Published 2006, author **Nexaweb Technologies, Inc. (press release)**, type **p
 
 ## Top observations
 
+- UCF and similar multi-runtime frameworks lost relevance as HTML5/JavaScript SPAs unified the client, and Java applets/WebStart deprecated; Nexaweb ceased 2012. `[ps=5]`
+- Nexaweb launched the industry-first Universal Client Framework — zero-install, lets developers use Ajax or Java technology to deploy enterprise-class composite apps over the Web. `[ps=2]`
+- UCF allows enterprise developers to deploy using an Ajax- or Java-client based on business objectives; both clients download in seconds to a standard browser and cache on-demand. `[ps=2]`
+- Implicit in Kastner endorsement: universal-client frameworks (write-once-deploy-many-runtimes) will be a durable enterprise-RIA strategy. `[ps=2]`
 - There is a monumental application development and modernization movement happening across the global IT community; users demand richer experience and businesses face intense pressure to extend legacy apps by migrating to Web infrastructure.
-- Nexaweb launched the industry-first Universal Client Framework — zero-install, lets developers use Ajax or Java technology to deploy enterprise-class composite apps over the Web.
-- UCF allows enterprise developers to deploy using an Ajax- or Java-client based on business objectives; both clients download in seconds to a standard browser and cache on-demand.
 - Two drivers: (1) user demand for richer experience; (2) enterprise pressure to extend legacy life through Web migration.
-- Implicit in Kastner endorsement: universal-client frameworks (write-once-deploy-many-runtimes) will be a durable enterprise-RIA strategy.
-- UCF and similar multi-runtime frameworks lost relevance as HTML5/JavaScript SPAs unified the client, and Java applets/WebStart deprecated; Nexaweb ceased 2012.

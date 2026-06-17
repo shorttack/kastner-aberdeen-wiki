@@ -3,7 +3,7 @@ title: "The Science of This Year's WWDC"
 slug: "study-mac-news-science-the-science-of-this-yea-bb35b4"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "mac-news-science-the-science-of-this-yea-bb35b4"
 author: "Elizabeth Millard (reporter, MacNewsWorld); Peter Kastner (quoted source)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # The Science of This Year's WWDC
@@ -32,7 +32,7 @@ _Published 2004, author **Elizabeth Millard (reporter, MacNewsWorld); Peter Kast
 
 ## Top observations
 
-- Solid foothold at universities
-- Worth watching as companies move toward serious grid-computing adoption
-- Apple Workgroup Cluster for Bioinformatics Award Program announced at WWDC 2004
+- Solid foothold at universities `[ps=4]`
+- Worth watching as companies move toward serious grid-computing adoption `[ps=3]`
+- Apple Workgroup Cluster for Bioinformatics Award Program announced at WWDC 2004 `[ps=0]`
 - Xgrid deprecated in OS X 10.7 Lion (2011); Apple exited HPC by mid-2010s

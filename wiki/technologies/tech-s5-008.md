@@ -12,9 +12,9 @@ era: "1993–2004"
 lifecycle_at_study: "Mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Java applets / Object Request Broker (ORB)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IMI to deliver ORB/Java/OO encapsulation of ESS Core Services in V5 starting Q1 1997 — [[study-1997-industry-matematik-international-co-c398bc]]
+- IMI to deliver ORB/Java/OO encapsulation of ESS Core Services in V5 starting Q1 1997 `[ps=0]` — [[study-1997-industry-matematik-international-co-c398bc]]

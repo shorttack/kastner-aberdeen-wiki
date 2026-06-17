@@ -3,7 +3,7 @@ title: "Tech Investor: Instant Messaging goes corporate"
 slug: "study-tech-investor-instant-messaging-goes-cor-1a14c2"
 page_type: "study"
 tags: ["type/study", "collection/column-opinion"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "tech-investor-instant-messaging-goes-cor-1a14c2"
 author: "Eric Hellweg, CNN/Money"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.4
+prescience_obs_count: 5
 ---
 
 # Tech Investor: Instant Messaging goes corporate
@@ -32,9 +32,9 @@ _Published 2002, author **Eric Hellweg, CNN/Money**, type **column-opinion**._
 
 ## Top observations
 
-- Corporate IM is about integration into the existing corporate communications infrastructure, which includes calendar and e-mail and will eventually include WebEx services.
-- AOL launched Enterprise AIM Services Nov 2002 — a corporate version of AIM targeting the enterprise IM market alongside competing offerings from Yahoo! and Microsoft.
-- The major companies' push into corporate messaging offers some validation for WebEx, but it should be a cause for concern. If AOL, Yahoo, and Microsoft sense there's a market, they'll do everything they can to subsume them.
-- Microsoft Teams (launched 2017) unified IM, calendar, email, web conferencing, and presence into a single UCaaS bundle — exactly the integration Kastner sketched in 2002 — and grew to 300M+ monthly active users by 2023.
+- Corporate IM is about integration into the existing corporate communications infrastructure, which includes calendar and e-mail and will eventually include WebEx services. `[ps=5]`
+- AOL sunset the AIM consumer service on Dec 15 2017; the Enterprise AIM Services discussed in this article were wound down earlier. AOL itself was acquired by Verizon 2015, then sold to Apollo 2021. `[ps=5]`
+- Microsoft Teams (launched 2017) unified IM, calendar, email, web conferencing, and presence into a single UCaaS bundle — exactly the integration Kastner sketched in 2002 — and grew to 300M+ monthly active users by 2023. `[ps=4]`
+- The major companies' push into corporate messaging offers some validation for WebEx, but it should be a cause for concern. If AOL, Yahoo, and Microsoft sense there's a market, they'll do everything they can to subsume them. `[ps=3]`
+- AOL launched Enterprise AIM Services Nov 2002 — a corporate version of AIM targeting the enterprise IM market alongside competing offerings from Yahoo! and Microsoft. `[ps=0]`
 - Cisco Systems acquired WebEx Communications for $3.2 billion in March 2007; WebEx became central to Cisco's UC/collaboration portfolio (Cisco Jabber, Webex Teams, Webex Meetings).
-- AOL sunset the AIM consumer service on Dec 15 2017; the Enterprise AIM Services discussed in this article were wound down earlier. AOL itself was acquired by Verizon 2015, then sold to Apollo 2021.

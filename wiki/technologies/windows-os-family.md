@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Windows OS family
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'Microsoft, with nearly 97 percent of the market, is a much more appealing target' — Connell — [[study-tiger-responds-security-warnings-eweek-b-95c721]]
+- 'Microsoft, with nearly 97 percent of the market, is a much more appealing target' — Connell `[ps=4]` — [[study-tiger-responds-security-warnings-eweek-b-95c721]]

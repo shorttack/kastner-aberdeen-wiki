@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "Mature"
 lifecycle_current: "Legacy"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.33
+prescience_obs_count: 3
 ---
 
 # IBM Extended Transaction Services (CICS/Encina/MQSeries)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Very Large Memory (VLM) support beyond 2GB — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
-- Most commonly implemented TP environment worldwide (CICS); MQ 20+ industry platforms — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
-- MQSeries renamed WebSphere MQ 2002; renamed IBM MQ 2014; active enterprise messaging platform — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
+- MQSeries renamed WebSphere MQ 2002; renamed IBM MQ 2014; active enterprise messaging platform `[ps=5]` — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
+- Very Large Memory (VLM) support beyond 2GB `[ps=4]` — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
+- Most commonly implemented TP environment worldwide (CICS); MQ 20+ industry platforms `[ps=4]` — [[study-1997-ibm’s-network-computing-solution----e74e8a]]

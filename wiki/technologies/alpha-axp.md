@@ -12,9 +12,9 @@ era: "1992-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 5
 ---
 
 # Digital Alpha AXP (ALPHAserver)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3% — [[study-ibm-rs6000-midran~1-88f049]]
-- 150% — [[study-ibm-rs6000-midran~1-88f049]]
-- ~$2.5 billion (~20% of company) — [[study-ibm-rs6000-midran~1-88f049]]
-- Alpha/NT looks like a rosy future but lacks 1995 revenues to sustain the company — [[study-ibm-rs6000-midran~1-88f049]]
-- Partially confirmed — Alpha/NT had brief success but DEC acquired by Compaq 1998; Alpha discontinued by HP 2004 — [[study-ibm-rs6000-midran~1-88f049]]
+- Alpha/NT looks like a rosy future but lacks 1995 revenues to sustain the company `[ps=5]` — [[study-ibm-rs6000-midran~1-88f049]]
+- Partially confirmed — Alpha/NT had brief success but DEC acquired by Compaq 1998; Alpha discontinued by HP 2004 `[ps=5]` — [[study-ibm-rs6000-midran~1-88f049]]
+- 3% `[ps=0]` — [[study-ibm-rs6000-midran~1-88f049]]
+- 150% `[ps=0]` — [[study-ibm-rs6000-midran~1-88f049]]
+- ~$2.5 billion (~20% of company) `[ps=0]` — [[study-ibm-rs6000-midran~1-88f049]]

@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1970s-1980s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Ralph Abbott
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Abbott (AS&E VP): 'If electrical usage reaches dangerous levels, the system is capable of turning off blocks of non-essential electrical loads' to avert major problems — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
+- Abbott (AS&E VP): 'If electrical usage reaches dangerous levels, the system is capable of turning off blocks of non-essential electrical loads' to avert major problems `[ps=5]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]

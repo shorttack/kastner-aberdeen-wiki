@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "launch"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Days 3-N Rate Class
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aimed at improving billability with reasonable prices — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]
+- Aimed at improving billability with reasonable prices `[ps=0]` — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]

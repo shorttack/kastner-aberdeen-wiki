@@ -12,9 +12,9 @@ era: "2001-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "research"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Molecular Circuits
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP, IBM, universities demonstrated in labs — [[study-topic-semiconductor-practice-definition-2002]]
+- HP, IBM, universities demonstrated in labs `[ps=0]` — [[study-topic-semiconductor-practice-definition-2002]]

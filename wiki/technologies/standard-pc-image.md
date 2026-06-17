@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Standard PC Image
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Aberdeen 2003 top-3 PC mgmt ROI best practices includes standard images + software distribution (2 of top 3) `[ps=4]` — [[study-topic-iia-pc-management-best-practices-2003-10]]
+- 'objective of reducing number of standard images should be to get to a few' `[ps=4]` — [[study-topic-iia-pc-management-best-practices-2003-10]]
 - standardizing on 4-6 application configs = 15-25% IT cost reduction (~$1600/system) — [[study-topic-iia-pc-management-best-practices-2003-10]]
-- Aberdeen 2003 top-3 PC mgmt ROI best practices includes standard images + software distribution (2 of top 3) — [[study-topic-iia-pc-management-best-practices-2003-10]]
-- 'objective of reducing number of standard images should be to get to a few' — [[study-topic-iia-pc-management-best-practices-2003-10]]

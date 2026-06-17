@@ -3,7 +3,7 @@ title: "Maxtor RAMP Interview Guide: First Draft"
 slug: "study-maxtor-ramp-interview-guide-first-draft-c68ebd"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "maxtor-ramp-interview-guide-first-draft-c68ebd"
 author: "Peter S. Kastner; David Hill (Aberdeen Group)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.67
+prescience_obs_count: 21
 ---
 
 # Maxtor RAMP Interview Guide: First Draft
@@ -32,28 +32,28 @@ _Published 2003, author **Peter S. Kastner; David Hill (Aberdeen Group)**, type 
 
 ## Top observations
 
-- Face-to-face structured RAMP interview guide
+- Performance bottleneck sources: CPU / network / storage — three-way choice `[ps=4]`
+- Retention criteria: age / transaction closure / regulatory — open-ended `[ps=4]`
+- Probes whether any storage tier exists BETWEEN high-performance disk and tape `[ps=4]`
+- Mixed reads and writes — updating for transactions but also random reads (SAP R/3 cited) `[ps=4]`
+- Higher capacity disks with slightly lesser performance and availability — option for data migration `[ps=4]`
+- Running out of backup window or jobs failing to complete — explicitly surfaced as known issue `[ps=3]`
+- On-disk copies / on-site tape copies / offsite DR tape copies — three-location model `[ps=3]`
+- "Data that spins around" — closed transactions / old e-mail as migration candidates; estimated % of total `[ps=3]`
+- SCSI / Fibre Channel / ATA — three technology types; size (GB) and rotational speed `[ps=2]`
+- Must be ≥10% of total storage OR ≥0.5 TB to qualify for third application slot `[ps=2]`
+- OS breakout: IBM mainframe / Unix / Windows / Other — matched to storage architecture and capacity `[ps=2]`
+- Face-to-face structured RAMP interview guide `[ps=0]`
+- Number of tape automation products / number of drives / number of slots `[ps=0]`
+- Query-intensive (primarily sequential reads) `[ps=0]`
+- Q18 probes whether benefit is manageability-focused or cost-focused `[ps=0]`
+- Q7 probes whether arrays are shared across applications — and WHY if not `[ps=0]`
+- Term ""nearline storage"" tested for awareness `[ps=0]`
+- Term ""mezzanine storage"" tested for awareness `[ps=0]`
+- CIO reports to: CFO / President-CEO / Other `[ps=0]`
+- Interview covers primary DB app + primary file app + optional third app — three-application coverage design `[ps=0]`
+- 12-month storage growth projection requested — both total and per-application `[ps=0]`
 - Internal DAS / External DAS / SAN / NAS — four-way breakout
-- SCSI / Fibre Channel / ATA — three technology types; size (GB) and rotational speed
-- Performance bottleneck sources: CPU / network / storage — three-way choice
 - Not all enterprises have formal SLAs; probe for informal vs. formal availability/performance criteria
-- Number of tape automation products / number of drives / number of slots
-- Running out of backup window or jobs failing to complete — explicitly surfaced as known issue
-- Retention criteria: age / transaction closure / regulatory — open-ended
-- On-disk copies / on-site tape copies / offsite DR tape copies — three-location model
-- Probes whether any storage tier exists BETWEEN high-performance disk and tape
 - Eight application types across Database/File categories with I/O signatures
 - Update-intensive (both reads and writes; focus on writes)
-- Mixed reads and writes — updating for transactions but also random reads (SAP R/3 cited)
-- Query-intensive (primarily sequential reads)
-- Write-once / read-once-to-many times — personal productivity category
-- Higher capacity disks with slightly lesser performance and availability — option for data migration
-- Q18 probes whether benefit is manageability-focused or cost-focused
-- Q7 probes whether arrays are shared across applications — and WHY if not
-- "Data that spins around" — closed transactions / old e-mail as migration candidates; estimated % of total
-- Must be ≥10% of total storage OR ≥0.5 TB to qualify for third application slot
-- Term ""nearline storage"" tested for awareness
-- Term ""active archiving"" tested for awareness
-- Term ""mezzanine storage"" tested for awareness
-- Disk capacity increasing faster than rotational speed — acknowledged as a known tension
-- [UNVERIFIED]

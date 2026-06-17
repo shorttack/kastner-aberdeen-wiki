@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "completed"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Mainframe downsizing / replicated systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Consolidate data centers; Cheap MIPS - used or non-IBM; Outsource - particularly static applications; Freeze/lower MIS budgets; Downsize with replicated systems; Non-MIS divisional/departmental installations — [[study-aberdeen-megatrends-mfa-cs-mis-1993-05-98fc87]]
+- Consolidate data centers; Cheap MIPS - used or non-IBM; Outsource - particularly static applications; Freeze/lower MIS budgets; Downsize with replicated systems; Non-MIS divisional/departmental installations `[ps=3]` — [[study-aberdeen-megatrends-mfa-cs-mis-1993-05-98fc87]]

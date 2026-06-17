@@ -12,9 +12,9 @@ era: "early 1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Beyond Workflow Toolset
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- dissolved; sold assets approximately 2001 — [[study-aberdeen-1995-commercial-messaging]]
+- dissolved; sold assets approximately 2001 `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]

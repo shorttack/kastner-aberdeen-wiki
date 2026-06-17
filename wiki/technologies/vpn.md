@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'VPN technology remains active. Known answer applied.', 'source': 'known'}"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Virtual Private Networks (VPN)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- replacing expensive leased lines; ROI in 1-3 months `[ps=4]` — [[study-securi~1-3e7ced]]
 - VPN is one of three essential capabilities for WLAN security — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
 - Reduced overhead for secure VPN — [[study-intel-2010-vpro-daily-globe-42697e]]
-- replacing expensive leased lines; ROI in 1-3 months — [[study-securi~1-3e7ced]]

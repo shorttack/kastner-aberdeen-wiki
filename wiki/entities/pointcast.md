@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "PointCast -> entrypoint.com (2000) -> dissolved"
 years_active: "1992-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # PointCast, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- PointCast declined and was sold to entrypoint.com in 1999 for approximately $7M after failing to achieve $400M expected IPO; push technology category disappeared by 2000 — [[study-1997-broadvision-dynamic-web-application-5f10bb]]
+- PointCast declined and was sold to entrypoint.com in 1999 for approximately $7M after failing to achieve $400M expected IPO; push technology category disappeared by 2000 `[ps=5]` — [[study-1997-broadvision-dynamic-web-application-5f10bb]]

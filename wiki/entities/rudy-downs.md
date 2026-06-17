@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Rudy Downs
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DBS-Performance-Manager — [[study-dec-notes-tp1-debit-credit-thread-1987-1-5815dc]]
+- DBS-Performance-Manager `[ps=0]` — [[study-dec-notes-tp1-debit-credit-thread-1987-1-5815dc]]

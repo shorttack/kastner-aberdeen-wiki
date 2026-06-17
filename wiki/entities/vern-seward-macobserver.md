@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: ""
 years_active: "2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Vern Seward
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'Why put a PC where it has to compete with other things for your attention? ... adding a computer only makes the relatively simple process of watching TV far more complicated' — Seward — [[study-pc-style-living-room-macobserver-seward-97ed83]]
+- 'Why put a PC where it has to compete with other things for your attention? ... adding a computer only makes the relatively simple process of watching TV far more complicated' — Seward `[ps=3]` — [[study-pc-style-living-room-macobserver-seward-97ed83]]

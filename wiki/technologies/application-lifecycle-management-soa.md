@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.2
+prescience_obs_count: 5
 ---
 
 # Application Lifecycle Management for SOA (ALM-SOA)
@@ -24,10 +24,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- 48% of ALM-focused organizations have annual revenue >$1 billion — Global 1000 lead the pack `[ps=4]` — [[study-soa-lifecycle-perspective-1ff953]]
+- For 42% of ALM companies, SOA governance is an update to existing IT governance processes `[ps=4]` — [[study-soa-lifecycle-perspective-1ff953]]
+- Developing new business capabilities or new products and services: top driver for SOA management and governance `[ps=3]` — [[study-soa-lifecycle-perspective-1ff953]]
+- Average investment: $2.68 million; average payback: $3.45 million; ROI: +29% `[ps=0]` — [[study-soa-lifecycle-perspective-1ff953]]
+- 12% of survey respondents are actively engaged in application lifecycle management for SOA `[ps=0]` — [[study-soa-lifecycle-perspective-1ff953]]
 - 68% of ALM-focused organizations decreased SOA development costs over last 12 months — [[study-soa-lifecycle-perspective-1ff953]]
 - Revised application lifecycle processes and responsibilities: 45% chose as top response — [[study-soa-lifecycle-perspective-1ff953]]
-- Average investment: $2.68 million; average payback: $3.45 million; ROI: +29% — [[study-soa-lifecycle-perspective-1ff953]]
-- 12% of survey respondents are actively engaged in application lifecycle management for SOA — [[study-soa-lifecycle-perspective-1ff953]]
-- 48% of ALM-focused organizations have annual revenue >$1 billion — Global 1000 lead the pack — [[study-soa-lifecycle-perspective-1ff953]]
-- For 42% of ALM companies, SOA governance is an update to existing IT governance processes — [[study-soa-lifecycle-perspective-1ff953]]
-- Developing new business capabilities or new products and services: top driver for SOA management and governance — [[study-soa-lifecycle-perspective-1ff953]]

@@ -12,9 +12,9 @@ era: "2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Mixed-Source Messaging
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen coined 'mixed-source messaging' concept; client led subsequent dramatic increase in mixed-source sales and went on to lead global mixed-source market — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Aberdeen coined 'mixed-source messaging' concept; client led subsequent dramatic increase in mixed-source sales and went on to lead global mixed-source market `[ps=2]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]

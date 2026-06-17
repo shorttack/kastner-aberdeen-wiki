@@ -12,9 +12,9 @@ era: "2005-present"
 lifecycle_at_study: "active"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # YouTube
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- YouTube channel handle: catalina588 — [[study-google-profiles-pskastner-personal-2009-61fc2d]]
+- YouTube channel handle: catalina588 `[ps=0]` — [[study-google-profiles-pskastner-personal-2009-61fc2d]]

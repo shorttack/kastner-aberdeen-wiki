@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1995-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Fiorano Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Fiorano: leading choice in pure-play ESBs alongside IONA Technologies — [[study-esb-0617-5cc5fa]]
+- Fiorano: leading choice in pure-play ESBs alongside IONA Technologies `[ps=2]` — [[study-esb-0617-5cc5fa]]

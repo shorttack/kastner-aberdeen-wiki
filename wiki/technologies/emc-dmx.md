@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # EMC DMX (Symmetrix DMX)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- EMC Symmetrix → DMX — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- EMC Symmetrix → DMX `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]

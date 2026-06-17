@@ -3,7 +3,7 @@ title: "Boston Globe — 'Stratus' new computer line aimed at rival Digital' (XA
 slug: "study-boston-globe-stratus-xa2000-launch-1987-218ffd"
 page_type: "study"
 tags: ["type/study", "collection/newspaper-trade-coverage"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "boston-globe-stratus-xa2000-launch-1987--218ffd"
 author: "Ronald Rosenberg (Boston Globe Staff)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.17
+prescience_obs_count: 6
 ---
 
 # Boston Globe — 'Stratus' new computer line aimed at rival Digital' (XA2000 launch, Ronald Rosenberg, 1987-02-02)
@@ -32,11 +32,11 @@ _Published 1987, author **Ronald Rosenberg (Boston Globe Staff)**, type **newspa
 
 ## Top observations
 
-- 50
-- 40
+- Stratus relies on redundant hardware (dual CPU, dual memory, dual disks); Tandem achieves similar largely through software `[ps=5]`
+- Increasingly Digital is becoming more of a factor and over time we expect them to be our biggest competitor `[ps=2]`
+- 50 `[ps=0]`
+- 40 `[ps=0]`
+- We have tripled the high end of our computer performance and reduced the cost per transaction by half `[ps=0]`
+- 14.5% of $124M FY revenue `[ps=0]`
 - 15
 - $261,000-$1,000,000
-- We have tripled the high end of our computer performance and reduced the cost per transaction by half
-- Increasingly Digital is becoming more of a factor and over time we expect them to be our biggest competitor
-- 14.5% of $124M FY revenue
-- Stratus relies on redundant hardware (dual CPU, dual memory, dual disks); Tandem achieves similar largely through software

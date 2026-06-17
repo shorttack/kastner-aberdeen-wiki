@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Ra Final Endpointnac Bg 3723 (Aberdeen, 2006)"
 slug: "study-ra-final-endpointnac-bg-3723-84f1e0"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.41
-prescience_obs_count: 82
+prescience_mean: 1.11
+prescience_obs_count: 55
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Ra Final Endpointnac Bg 3723 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ra-final-endpointnac-bg-3723-84f1e0. Source: ra_final_endpointnac_bg_3723.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **topic-analysis**._

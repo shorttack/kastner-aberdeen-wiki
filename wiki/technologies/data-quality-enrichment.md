@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Data Quality and Enrichment Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $4.742 billion; CAGR 24% to $9.041B by 2003 — [[study-data-know-69ab04]]
+- $4.742 billion; CAGR 24% to $9.041B by 2003 `[ps=0]` — [[study-data-know-69ab04]]

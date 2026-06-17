@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1970s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # John P. Morgridge
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- John P. Morgridge (Stratus VP Marketing 1982) became CEO of Cisco Systems in 1988 — a major industry move that the 1982 document foreshadows by describing his marketing/planning capabilities — [[study-stratus-corporate-overview-1982-11-a7e367]]
+- John P. Morgridge (Stratus VP Marketing 1982) became CEO of Cisco Systems in 1988 — a major industry move that the 1982 document foreshadows by describing his marketing/planning capabilities `[ps=5]` — [[study-stratus-corporate-overview-1982-11-a7e367]]

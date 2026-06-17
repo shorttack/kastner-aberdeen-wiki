@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Marketing Automation Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- New CIS category rapidly gaining mindshare; critical for end-user adoption — [[study-1998-cis-report-customer-interaction-software-631068]]
+- New CIS category rapidly gaining mindshare; critical for end-user adoption `[ps=3]` — [[study-1998-cis-report-customer-interaction-software-631068]]

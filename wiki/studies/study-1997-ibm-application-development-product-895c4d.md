@@ -3,7 +3,7 @@ title: "IBM Application Development Product Family"
 slug: "study-1997-ibm-application-development-product-895c4d"
 page_type: "study"
 tags: ["type/study", "collection/product-profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-ibm-application-development-product-895c4d"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.77
+prescience_obs_count: 13
 ---
 
 # IBM Application Development Product Family
@@ -32,23 +32,23 @@ _Published 1997, author **Aberdeen Group**, type **product-profile**._
 
 ## Top observations
 
-- COBOL, BASIC, C++, Smalltalk, Java (upcoming), Generator
-- upcoming 1997 release
-- OS/2, AIX, Windows NT, HP-UX servers; OS/2, Win3.1, AIX, NT clients
-- platform-independent spec with multi-environment instantiation
+- IBM installed base with COBOL/3GL legacy; migrating to network computing `[ps=4]`
+- leverage IBM network-computing ecosystem; not standalone tech `[ps=4]`
+- needs cross-platform partitioning repository and auto-deployment `[ps=4]`
+- VisualAge Micro Edition evolved into Eclipse; donated to open source 2001 `[ps=4]`
+- scalability + flexibility + lifecycle + new-tech support `[ps=4]`
+- discontinued; CORBA and J2EE won enterprise middleware `[ps=3]`
+- COBOL, BASIC, C++, Smalltalk, Java (upcoming), Generator `[ps=0]`
+- upcoming 1997 release `[ps=0]`
+- OS/2, AIX, Windows NT, HP-UX servers; OS/2, Win3.1, AIX, NT clients `[ps=0]`
+- platform-independent spec with multi-environment instantiation `[ps=0]`
+- application-performance scalability achieved `[ps=0]`
+- transferred 2005 as VA Smalltalk `[ps=0]`
+- evolved to IBM WebSphere Business Process Manager `[ps=0]`
 - any-language object sharing via common pipe
 - included but declining
-- IBM installed base with COBOL/3GL legacy; migrating to network computing
-- leverage IBM network-computing ecosystem; not standalone tech
 - key to IBM network-computing success
-- needs cross-platform partitioning repository and auto-deployment
 - improved productivity and cost savings vs CSP
-- application-performance scalability achieved
 - discontinued April 30 2007
-- VisualAge Micro Edition evolved into Eclipse; donated to open source 2001
-- transferred 2005 as VA Smalltalk
-- discontinued; CORBA and J2EE won enterprise middleware
-- evolved to IBM WebSphere Business Process Manager
-- scalability + flexibility + lifecycle + new-tech support
 - comm multiplexing and load-balancing for web bottlenecks
 - Smalltalk skills transferable to Java

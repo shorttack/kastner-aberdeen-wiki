@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Cisco Netflow
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Portal-Cisco development of metered billing applications using Cisco Netflow technology; plus IP telephony gateway support (VocalTec, Skywave) — [[study-portal-99-fe5656]]
+- Portal-Cisco development of metered billing applications using Cisco Netflow technology; plus IP telephony gateway support (VocalTec, Skywave) `[ps=3]` — [[study-portal-99-fe5656]]

@@ -12,9 +12,9 @@ status: "operating"
 successor: "Dell Technologies (went private 2013; re-listed 2018 via VMware tracking stock)"
 years_active: "1984-present"
 occurrence_count: 71
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.07
+prescience_obs_count: 88
 ---
 
 # Dell Computer Corporation
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dell named as key winner — [[study-2001-hp-compaq-kastner-insight1-d6dc38]]
-- Dell positioned to gain market share from merged HP-Compaq entity — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
-- Dell unseated HP as PC market leader in Q1 2003 — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
-- Dell identified as primary PC market competitor; HP scale from Compaq merger creates competitive advantage — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]
-- $35.4 billion — [[study-2003-dell-dives-deeper-d35985]]
-- world's third largest computer company, also fastest growing — [[study-2003-dell-dives-deeper-d35985]]
-- more than 22,000 — [[study-2003-dell-dives-deeper-d35985]]
-- 2,500 with petabytes of storage — [[study-2003-dell-dives-deeper-d35985]]
-- 95% — [[study-2003-dell-dives-deeper-d35985]]
-- expected to gain share in OLTP, messaging, data warehouse, and file/print markets — [[study-2003-dell-dives-deeper-d35985]]
-- Dell's server market share grew from approximately 9.4% in 2004 to 10.3% revenue share (and 23.3% unit shipment share) in 2005, showing continued growth in the data warehouse, OLTP, and messaging segments. IDC data confirms Dell grew server revenue 13.3% year-over-year in 2005 while the market grew 4.4%. — [[study-2003-dell-dives-deeper-d35985]]
-- fourth most trusted company in the U.S. per Fortune survey — [[study-2003-dell-dives-deeper-d35985]]
-- manufactured in U.S., Ireland, and Malaysia — [[study-2003-dell-dives-deeper-d35985]]
-- reseller program extended from U.S. to Europe and Asia — [[study-2003-dell-dives-deeper-d35985]]
-- 60% of respondents cite managing storage within budget as critical success factor — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
-- Extended through December 2008 (5+2 years) — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
-- 70% faster — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
-- 100% faster — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
-- 25% faster — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
-- Up to 3 TB on SATA drives — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
+- Deserves place at business discussion table for all sizes `[ps=5]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
+- Dell already a leader in Intel servers `[ps=5]` — [[study-dct-hp-compaq-pcs-insight-2001-09]]
+- Drive a standards-based, low-risk transition to 64-bit via Intel-based ecosystem (DDR2 + PCIe + SATA RAID + EM64T). `[ps=5]` — [[study-dell-precision-workstations-3-581e89]]
+- Obtaining satisfactory performance at less cost via midline products is emerging as a major buyer trend `[ps=5]` — [[study-dell-storage-profile-2004]]
+- RFID tags, automated replenishment, enhanced parcel tracking driven by modern consumer `[ps=5]` — [[study-technology-themes-ee5ba4]]
+- OptiPlex desktop and Latitude notebook lines retain three-year warranties with NBD on-site service `[ps=5]` — [[study-warranty-week-dell-warranty-policies-kas-0c084d]]
+- Dell named as key winner `[ps=4]` — [[study-2001-hp-compaq-kastner-insight1-d6dc38]]
+- Dell positioned to gain market share from merged HP-Compaq entity `[ps=4]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
+- 60% of respondents cite managing storage within budget as critical success factor `[ps=4]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
+- Satisfactory performance at less cost (midline storage) `[ps=4]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
+- ATA for fixed content and nearline pools; lower cost `[ps=4]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
+- Deliver industry-leading value; drive standards; move high-end functionality downstream `[ps=4]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
+- Standardization → larger market → technology refinements → declining costs → next standard `[ps=4]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
+- Dell is 'gorilla' in North American PC marketplace `[ps=4]` — [[study-dct-gateway-acquires-emachines-2004-03]]
+- Dell beats even combined HP/Compaq in US `[ps=4]` — [[study-dct-hp-compaq-pcs-insight-2001-09]]
+- Dell and non-traditional CE companies intensify price competition; traditional CE categories becoming even greater bargain `[ps=4]` — [[study-dct-oct.-4-hot-topic-b61c0d]]
+- Settlement Report (per-asset resale/recycle disposition) + Certificate of Disposal (overwrite + shred verification, EPA-compliant). `[ps=4]` — [[study-dell-ars-wp-2-72fd7f]]
+- Pre-configured clustered servers, storage, backup, switches, Windows 2003 or Linux, Oracle 9i RAC or 10g, menu of planning/installation/tuning services including database & application migration; single PO to Dell. `[ps=4]` — [[study-dell-sap-v6-d08820]]
+- Two-node cluster of Dell 6650 4-way servers ~9-16% better performance than 8-way RISC, Xeon, and Itanium SMP competitors for as little as one-third the cost. `[ps=4]` — [[study-dell-sap-v6-d08820]]
+- Dell's server market share grew as predicted. Dell's worldwide server revenue share rose from 7.5% in 2002 to 9.4% in 2004 and 10.3% in 2005, with unit shipment share at 23.3% by end-2005. Dell consistently outperformed the overall market growth rate. `[ps=4]` — [[study-dell-sap-v6-d08820]]

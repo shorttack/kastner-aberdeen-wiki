@@ -12,9 +12,9 @@ era: "~1999-2001"
 lifecycle_at_study: "end-of-life"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Western Digital Caviar 8GB disk drive was an early 1990s-era HDD product. WD Caviar was a long-running HDD line, but the specific 8GB capacity model is many generations obsolete. WD now brands hard drives as WD Blue/Red/Gold. The specific product is fully discontinued.', 'source': 'General knowledge / WD product history'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Western Digital Caviar 8-GB disk drive
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2 hours 40 minutes — [[study-dell-ars-white-paper-prod-7-11m-c60434]]
+- 2 hours 40 minutes `[ps=0]` — [[study-dell-ars-white-paper-prod-7-11m-c60434]]

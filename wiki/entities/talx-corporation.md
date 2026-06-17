@@ -12,9 +12,9 @@ status: "acquired"
 successor: "TALX -> Equifax"
 years_active: "1969-2007"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # TALX Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TALX provides dynamic HR content with IVR, fax, and email features — [[study-1997-peoplesoft-works-the-internet-452445]]
+- TALX provides dynamic HR content with IVR, fax, and email features `[ps=0]` — [[study-1997-peoplesoft-works-the-internet-452445]]

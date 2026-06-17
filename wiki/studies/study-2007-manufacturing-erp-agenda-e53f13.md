@@ -1,5 +1,5 @@
 ---
-title: "==> picture [222 x 36] intentionally omitted <=="
+title: "2007 Manufacturing Erp Agenda (Aberdeen, 2007)"
 slug: "study-2007-manufacturing-erp-agenda-e53f13"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 0.0
-prescience_mean: -0.5
-prescience_obs_count: 2
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
-# ==> picture [222 x 36] intentionally omitted <==
+# 2007 Manufacturing Erp Agenda (Aberdeen, 2007)
 
-> This study analyzes ==> picture [222 x 36] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study 2007-manufacturing-erp-agenda-e53f13. Source: 2007_manufacturing_erp_agenda.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **benchmark**._
@@ -33,4 +33,4 @@ _Published 2007, author **Aberdeen Group**, type **benchmark**._
 ## Top observations
 
 - _**Outcome:**_ This study will identify how best-in-class companies are responding to the challenges of globalization, increased customer demand and open technologies, and make recommendations on how all companies can best prepare for the future. `[ps=0]`
-- This study analyzes ==> picture [222 x 36] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [222 x 36] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

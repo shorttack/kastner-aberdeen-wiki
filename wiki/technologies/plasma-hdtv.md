@@ -12,9 +12,9 @@ era: "1997-2014"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Plasma HDTV
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Gateway leader in plasma TVs could gain electronics-altar placement in big-box stores — [[study-dct-gateway-acquires-emachines-2004-03]]
-- 42in plasma HDTV >$5000 in 2002 — [[study-dct-kastner-wish-list-2002-12]]
+- 42in plasma HDTV >$5000 in 2002 `[ps=5]` — [[study-dct-kastner-wish-list-2002-12]]
+- Gateway leader in plasma TVs could gain electronics-altar placement in big-box stores `[ps=1]` — [[study-dct-gateway-acquires-emachines-2004-03]]

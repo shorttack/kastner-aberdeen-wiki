@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "Active"
 lifecycle_current: "Active (TPC-C and TPC-H widely used)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # TPC Benchmarking (TPC-C)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TPC benchmarks used to demonstrate S70 performance; estimated 18000 TPM competitive benchmark — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
+- TPC benchmarks used to demonstrate S70 performance; estimated 18000 TPM competitive benchmark `[ps=0]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]

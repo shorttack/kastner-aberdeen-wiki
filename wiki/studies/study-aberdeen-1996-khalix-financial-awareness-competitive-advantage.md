@@ -3,7 +3,7 @@ title: "Khalix: True Financial Awareness, True Competitive Advantage"
 slug: "study-aberdeen-1996-khalix-financial-awareness-competitive-advantage"
 page_type: "study"
 tags: ["type/study", "collection/product-profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1996-khalix-financial-awareness-competitive-advantage"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.57
+prescience_obs_count: 23
 ---
 
 # Khalix: True Financial Awareness, True Competitive Advantage
@@ -32,28 +32,28 @@ _Published 1996, author **Aberdeen Group**, type **product-profile**._
 
 ## Top observations
 
-- Basic LAN site license (up to 50 users): $145,000; additional $95,000 for data warehouse components on RDBMSs
-- Plans to double sales during coming year to more than $10 million U.S.
-- Received funding in October 1995 from Edison Venture Capital Fund; established first U.S. office
-- Direct sales force throughout Canada and US; independent agents worldwide; partnership programs including Cognos, Oracle, Pyramid
+- Arbor Software Essbase has significant mindshare and marketing might; adopted as popular proprietary multidimensional engine by many financial software developers via APIs `[ps=4]`
+- Object-oriented hierarchical engine with drag-and-drop hierarchy editor; inheritance for selective recalculation; reduces IS coding burden; enables what-if analysis `[ps=4]`
+- Compression technique knocks out unused cells creating tighter multidimensional matrix; reduces disk and memory requirements `[ps=4]`
+- Must handle multi-entity multi-currency rollups within 12-hour window; eliminate manual intervention for accounts synchronization `[ps=4]`
+- Must support relational-budgeting and activities-based management; drill into costs to find activities influencing bottom line `[ps=4]`
+- Must deliver both appropriate level of detail and executive digest; fully integrated world-class reporting tools `[ps=4]`
+- Must scale from desktop to SMP/MPP; non-intrusive; adjustable from root calculation logic across all modules `[ps=4]`
+- Longview survived through multiple acquisitions: Exact Software (2007, $51.5M), Marlin Equity (2014), insightsoftware (2020); product still active as Longview by insightsoftware in 2026 `[ps=4]`
+- One of largest Khalix installations uses it as cross-enterprise modeling tool in highly decentralized business; eliminated multi-business-unit download-plan-upload cycle `[ps=4]`
+- Most financial management suppliers allied with decision-support/OLAP tools developers; delivered loosely integrated systems requiring manual synchronization and multiple maintenance routines `[ps=4]`
+- Oracle Express uses proprietary multidimensional database (not RDBMS) for financial applications; requires enterprise to factor in non-standard database type `[ps=3]`
+- Oracle counters Khalix with parallelism, 64-bit enablement, and RDBMS across full platform spectrum; but Oracle Financial management uses non-RDBMS multidimensional backend `[ps=3]`
+- Khalix prepared to exploit emerging 64-bit technology; benefits from scalable-parallel databases; can scale up and speed up with demand via affordable processor increments `[ps=3]`
+- Parent/child relationships create hierarchical structure for consolidations; drag-and-drop hierarchy editor; graphical expression of chart of accounts `[ps=3]`
+- ROLAP became the dominant architecture for modern EPM tools; Oracle, SAP, IBM all moved to RDBMS-based approaches; proprietary MOLAP engines declined; Aberdeen's assessment proved correct `[ps=3]`
+- Recent arrival in financial arena; Longview's years of embedded accounting practices gives it edge over SAS `[ps=2]`
+- ROLAP approach eliminates need for non-mainstream technologies; positions enterprises to benefit from continual innovations in hardware parallelism and VLDB technology `[ps=2]`
+- Basic LAN site license (up to 50 users): $145,000; additional $95,000 for data warehouse components on RDBMSs `[ps=0]`
+- Plans to double sales during coming year to more than $10 million U.S. `[ps=0]`
+- Received funding in October 1995 from Edison Venture Capital Fund; established first U.S. office `[ps=0]`
+- Direct sales force throughout Canada and US; independent agents worldwide; partnership programs including Cognos, Oracle, Pyramid `[ps=0]`
+- Khalix Financial Warehouse runs on Informix, Microsoft SQL Server, Oracle, or Sybase RDBMSs `[ps=0]`
+- Longview plans to introduce fully Web-enabled version of Khalix by third quarter 1997 `[ps=0]`
 - ROLAP leverages mainstream scalable-parallel RDBMSs; eliminates need for enterprise to maintain non-mainstream technologies; benefits from hardware parallelism innovations
-- Arbor Software Essbase has significant mindshare and marketing might; adopted as popular proprietary multidimensional engine by many financial software developers via APIs
-- Oracle Express uses proprietary multidimensional database (not RDBMS) for financial applications; requires enterprise to factor in non-standard database type
-- Oracle counters Khalix with parallelism, 64-bit enablement, and RDBMS across full platform spectrum; but Oracle Financial management uses non-RDBMS multidimensional backend
 - Strong loyal user base; numerous years of experience; layered architecture using proprietary multidimensional DB for reporting plus RDBMS for accounting/transactional
-- Object-oriented hierarchical engine with drag-and-drop hierarchy editor; inheritance for selective recalculation; reduces IS coding burden; enables what-if analysis
-- Khalix prepared to exploit emerging 64-bit technology; benefits from scalable-parallel databases; can scale up and speed up with demand via affordable processor increments
-- Compression technique knocks out unused cells creating tighter multidimensional matrix; reduces disk and memory requirements
-- Khalix Financial Warehouse runs on Informix, Microsoft SQL Server, Oracle, or Sybase RDBMSs
-- Must handle multi-entity multi-currency rollups within 12-hour window; eliminate manual intervention for accounts synchronization
-- Must support relational-budgeting and activities-based management; drill into costs to find activities influencing bottom line
-- Must deliver both appropriate level of detail and executive digest; fully integrated world-class reporting tools
-- Must scale from desktop to SMP/MPP; non-intrusive; adjustable from root calculation logic across all modules
-- Most financial management software suppliers have delivered loosely integrated point solutions requiring multiple software versions, technologies, and maintenance routines
-- With Khalix 2.1 Longview Solutions has guaranteed itself a worthy position on technology buyers' must-RFP shortlist of financial management/analysis software
-- Longview survived through multiple acquisitions: Exact Software (2007, $51.5M), Marlin Equity (2014), insightsoftware (2020); product still active as Longview by insightsoftware in 2026
-- Longview plans to introduce fully Web-enabled version of Khalix by third quarter 1997
-- Khalix did evolve with web capabilities; company grew through reference accounts and reached enterprise customers globally; web roadmap delivery consistent with stated plans
-- One of largest Khalix installations uses it as cross-enterprise modeling tool in highly decentralized business; eliminated multi-business-unit download-plan-upload cycle
-- After two-year search for integrated consolidated financial management, household-name company chose Khalix; found competitive products missing crucial components or couldn't scale
-- Most financial management suppliers allied with decision-support/OLAP tools developers; delivered loosely integrated systems requiring manual synchronization and multiple maintenance routines

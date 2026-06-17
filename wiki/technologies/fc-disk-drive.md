@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 0.33
+prescience_obs_count: 6
 ---
 
 # Fibre Channel Disk Drive
@@ -24,12 +24,12 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1200000 hours (136.89 years) — [[study-20-maxline-mtbf-analysis-4d9111]]
+- 1200000 hours (136.89 years) `[ps=1]` — [[study-20-maxline-mtbf-analysis-4d9111]]
+- MaXLine 5.476 years vs FC 0.799 years (Failure Ratio: 0.146) `[ps=1]` — [[study-20-maxline-mtbf-analysis-4d9111]]
+- 1.599 years `[ps=0]` — [[study-20-maxline-mtbf-analysis-4d9111]]
+- 2.665 years `[ps=0]` — [[study-20-maxline-mtbf-analysis-4d9111]]
+- 7.995 years `[ps=0]` — [[study-20-maxline-mtbf-analysis-4d9111]]
+- Doubling FC capacity to 146GB improves system MTBF 2x but MaXLine 300GB still wins `[ps=0]` — [[study-20-maxline-mtbf-analysis-4d9111]]
 - 73GB raw; 58.4GB at 80% loading; 17.12 drives per TB at 80% loading — [[study-20-maxline-mtbf-analysis-4d9111]]
 - 3.997 years — [[study-20-maxline-mtbf-analysis-4d9111]]
-- 1.599 years — [[study-20-maxline-mtbf-analysis-4d9111]]
-- 2.665 years — [[study-20-maxline-mtbf-analysis-4d9111]]
-- 7.995 years — [[study-20-maxline-mtbf-analysis-4d9111]]
 - MaXLine 13.69 years vs FC 7.995 years (Failure Ratio: 0.584) — [[study-20-maxline-mtbf-analysis-4d9111]]
-- MaXLine 5.476 years vs FC 0.799 years (Failure Ratio: 0.146) — [[study-20-maxline-mtbf-analysis-4d9111]]
-- Doubling FC capacity to 146GB improves system MTBF 2x but MaXLine 300GB still wins — [[study-20-maxline-mtbf-analysis-4d9111]]

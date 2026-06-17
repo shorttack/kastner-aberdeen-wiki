@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1935-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Social Security Administration
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 100 TPS aggregate over 10,000 terminals — [[study-1988-encore-oltp-market-tps-needs-deee45]]
+- 100 TPS aggregate over 10,000 terminals `[ps=1]` — [[study-1988-encore-oltp-market-tps-needs-deee45]]

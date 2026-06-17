@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Progress Energy (2000), then Duke Energy (2012)"
 years_active: "1899-2000"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Florida Power Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Florida Power Corp piloted dynamic rate system charging customers peak rates only when peak levels actually reached, polling meters as often as every 30 minutes — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
+- Florida Power Corp piloted dynamic rate system charging customers peak rates only when peak levels actually reached, polling meters as often as every 30 minutes `[ps=4]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
 - Florida Power Corp. to test dynamic rate system charging peak only when peak reached — [[study-minicomputer-news-ase-asep-1979-2b5327]]

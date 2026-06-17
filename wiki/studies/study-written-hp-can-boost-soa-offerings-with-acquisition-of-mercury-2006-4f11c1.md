@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Written Hp Can Boost Soa Offerings With Acquisition Of Mercury (2006) (Aberdeen, 2006)"
 slug: "study-written-hp-can-boost-soa-offerings-with-acquisition-of-mercury-2006-4f11c1"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 4.0
 prescience_obs_count: 3
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Written Hp Can Boost Soa Offerings With Acquisition Of Mercury (2006) (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-hp-can-boost-soa-offerings-with-acquisition-of-mercury-2006-4f11c1. Source: Written__HP Can Boost SOA Offerings with Acquisition of Mercury (2006).pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: Linux. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Information Technology**, type **benchmark**._

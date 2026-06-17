@@ -12,9 +12,9 @@ era: "1996-1999"
 lifecycle_at_study: "experimental"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Network Computer (NC)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Network Computer (NC) sub-$500 device will capture 20%+ of new enterprise client deployments by 1999 — [[study-2026-kastner-oracle-longitudinal]]
+- Network Computer (NC) sub-$500 device will capture 20%+ of new enterprise client deployments by 1999 `[ps=1]` — [[study-2026-kastner-oracle-longitudinal]]
 - NC device market share prediction failed; enterprise PC remained dominant; NC concept dormant until Chromebook (2011) — [[study-2026-kastner-oracle-longitudinal]]

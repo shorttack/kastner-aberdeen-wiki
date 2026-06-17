@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # RFID and Point-of-Sale (POS) Edge Devices
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- RFID and POS devices driving volume and complexity at SOA edge; edge vs. core computing tradeoffs — [[study-soa-aon-webinar-31973c]]
+- RFID and POS devices driving volume and complexity at SOA edge; edge vs. core computing tradeoffs `[ps=4]` — [[study-soa-aon-webinar-31973c]]

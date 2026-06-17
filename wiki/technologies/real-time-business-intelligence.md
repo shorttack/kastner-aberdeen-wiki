@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "evolved"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Real-Time Business Intelligence (RTBI)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Mostly large companies with RTBI experience consider business value generation so critical that the 'how' becomes a company secret — a competitive weapon — [[study-enterprise-integration-perspective-2-cb6165]]
-- considered a company secret / competitive weapon by large RTBI-experienced companies — [[study-enterprise-integration-perspective-d21c1b]]
+- considered a company secret / competitive weapon by large RTBI-experienced companies `[ps=4]` — [[study-enterprise-integration-perspective-d21c1b]]
+- Mostly large companies with RTBI experience consider business value generation so critical that the 'how' becomes a company secret — a competitive weapon `[ps=2]` — [[study-enterprise-integration-perspective-2-cb6165]]

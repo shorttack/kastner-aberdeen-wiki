@@ -12,9 +12,9 @@ era: "1999-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Digital Signature Products
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Full go-to-market plan via field market research covering product concept, pricing, and channel partners — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Full go-to-market plan via field market research covering product concept, pricing, and channel partners `[ps=3]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]

@@ -12,9 +12,9 @@ era: "1993-2001"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # ADSM (Adstar Distributed Storage Manager)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Software supports multiple gateways; open APIs; TAPI — [[study-1997-digital-equipment-corporation-pr-c375a8]]
+- Software supports multiple gateways; open APIs; TAPI `[ps=3]` — [[study-1997-digital-equipment-corporation-pr-c375a8]]

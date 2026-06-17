@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "production"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Software-based fault tolerance (checkpointing)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Analyst/programmer works with two computer systems; risk of checkpointing too often destroying performance — [[study-stratus-fault-tolerant-revolution-ad-198-797e0e]]
+- Analyst/programmer works with two computer systems; risk of checkpointing too often destroying performance `[ps=4]` — [[study-stratus-fault-tolerant-revolution-ad-198-797e0e]]

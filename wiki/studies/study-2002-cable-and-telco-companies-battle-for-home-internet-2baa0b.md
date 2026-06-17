@@ -3,7 +3,7 @@ title: "Cable and Telco Companies Battle for Home Internet Gateway and Network"
 slug: "study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b"
 page_type: "study"
 tags: ["type/study", "collection/insight"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2002-cable-and-telco-companies-battle-for-home-internet-2baa0b"
 author: "Russ Craig, Peter Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.45
+prescience_obs_count: 11
 ---
 
 # Cable and Telco Companies Battle for Home Internet Gateway and Network
@@ -32,17 +32,17 @@ _Published 2002, author **Russ Craig, Peter Kastner**, type **insight**._
 
 ## Top observations
 
-- Recovering huge capital investments from subscribers one month at a time
+- Streaming services (Netflix Hulu Amazon Prime) converged video onto broadband infrastructure `[ps=5]`
+- Home WiFi router/gateway became universal household infrastructure `[ps=5]`
+- Most small home gateway/networking startups were acquired or failed; market consolidated `[ps=5]`
+- Cable facing challenge from telcos offering similar shared gateway services `[ps=4]`
+- Cable will dominate residential broadband delivery `[ps=4]`
+- Challenging environment for young suppliers trying to succeed in this market `[ps=4]`
+- Cable emerged as dominant residential broadband provider; telcos shifted to fiber and 5G `[ps=4]`
+- High-margin home networking products to boost revenues beyond broadband `[ps=3]`
+- Leading hardware vendors enabling new shared gateway services to take shape `[ps=3]`
+- VoIP (cable phone / Vonage / Skype) replaced landlines in most US households `[ps=1]`
+- Recovering huge capital investments from subscribers one month at a time `[ps=0]`
 - Rapidly rolling out high-margin home networking services to complement broadband
-- High-margin home networking products to boost revenues beyond broadband
 - Shared gateway services enabling multiple home/SOHO points to share broadband
-- Cable facing challenge from telcos offering similar shared gateway services
 - Battle over broadband + home networking + personal computing + consumer electronics + video
-- Cable will dominate residential broadband delivery
-- Leading hardware vendors enabling new shared gateway services to take shape
-- Challenging environment for young suppliers trying to succeed in this market
-- Cable emerged as dominant residential broadband provider; telcos shifted to fiber and 5G
-- Streaming services (Netflix Hulu Amazon Prime) converged video onto broadband infrastructure
-- Home WiFi router/gateway became universal household infrastructure
-- Most small home gateway/networking startups were acquired or failed; market consolidated
-- VoIP (cable phone / Vonage / Skype) replaced landlines in most US households

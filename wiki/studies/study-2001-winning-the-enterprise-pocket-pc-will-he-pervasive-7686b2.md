@@ -3,7 +3,7 @@ title: "Winning the Enterprise: Pocket PC Will Be the Pervasive Handheld Platfor
 slug: "study-2001-winning-the-enterprise-pocket-pc-will-he-pervasive-7686b2"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2001-winning-the-enterprise-pocket-pc-will-he-pervasive-7686b2"
 author: "Isaac Ro; David Wright; Christopher Fletcher"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.6
+prescience_obs_count: 10
 ---
 
 # Winning the Enterprise: Pocket PC Will Be the Pervasive Handheld Platform by 2005
@@ -32,15 +32,15 @@ _Published 2001, author **Isaac Ro; David Wright; Christopher Fletcher**, type *
 
 ## Top observations
 
+- Palm OS showing varying levels of enterprise success contrary to its market share position `[ps=5]`
+- Palm OS success in consumer does not translate directly to enterprise adoption `[ps=5]`
+- Pocket PC name dropped 2007; superseded by Windows Mobile then Windows Phone 2010; never became the dominant enterprise handheld `[ps=5]`
+- Apple launched iPhone June 29 2007 creating entirely new smartphone/handheld paradigm; both Pocket PC and Palm OS made irrelevant `[ps=5]`
+- Palm acquired by HP in 2010 for $1.2 billion; webOS failed; Palm brand retired 2011 `[ps=5]`
+- Windows Mobile market share collapsed from 23% in 2004 to 7.9% in Q3 2009; Windows Phone announced February 2010 `[ps=5]`
+- Higher enterprise adoption rate than Palm OS despite smaller total market share `[ps=4]`
+- Enterprises select PDA platforms based on operating system; Pocket PC benefits from Microsoft relationship `[ps=4]`
+- Enterprises beginning to purchase and deploy PDAs; supplier selection driven by OS `[ps=4]`
+- Consumer market share dominance does not reflect enterprise adoption; run contrary to respective market shares `[ps=4]`
 - Pocket PC will eclipse Palm OS as the leading handheld platform by 2005 — the study's title-level claim
-- Palm OS showing varying levels of enterprise success contrary to its market share position
-- Higher enterprise adoption rate than Palm OS despite smaller total market share
-- Enterprises select PDA platforms based on operating system; Pocket PC benefits from Microsoft relationship
-- Palm OS success in consumer does not translate directly to enterprise adoption
 - Compaq iPAQ identified as leading Pocket PC hardware driving enterprise Pocket PC adoption
-- Enterprises beginning to purchase and deploy PDAs; supplier selection driven by OS
-- Consumer market share dominance does not reflect enterprise adoption; run contrary to respective market shares
-- Pocket PC name dropped 2007; superseded by Windows Mobile then Windows Phone 2010; never became the dominant enterprise handheld
-- Apple launched iPhone June 29 2007 creating entirely new smartphone/handheld paradigm; both Pocket PC and Palm OS made irrelevant
-- Palm acquired by HP in 2010 for $1.2 billion; webOS failed; Palm brand retired 2011
-- Windows Mobile market share collapsed from 23% in 2004 to 7.9% in Q3 2009; Windows Phone announced February 2010

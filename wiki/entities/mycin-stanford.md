@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "1965-1990"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Stanford Heuristic Programming Project (MYCIN)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 4 — [[study-2026-kastner-enterprise-ai-arc]]
+- 4 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 50 — [[study-2026-kastner-enterprise-ai-arc]]

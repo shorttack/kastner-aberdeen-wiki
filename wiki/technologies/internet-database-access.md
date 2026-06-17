@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 3
 ---
 
 # Internet/Intranet Database Access
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internet-connected distributed data access identified as primary market trend — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
-- Internet/Intranet connectivity will become primary RDBMS requirement — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
-- All major RDBMS vendors added Internet connectivity and web-facing features by 2000; prediction fully confirmed — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
+- Internet-connected distributed data access identified as primary market trend `[ps=5]` — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
+- Internet/Intranet connectivity will become primary RDBMS requirement `[ps=5]` — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
+- All major RDBMS vendors added Internet connectivity and web-facing features by 2000; prediction fully confirmed `[ps=5]` — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]

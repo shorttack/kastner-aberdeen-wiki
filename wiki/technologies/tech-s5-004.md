@@ -12,9 +12,9 @@ era: "1996-2000s"
 lifecycle_at_study: "Mature"
 lifecycle_current: "Succeeded"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Parallelized Online Backup/Restore
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Parallelized online backup reduced but did not eliminate bottleneck — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
-- Current: read-only browser integration; roadmap: order entry/update, Java interactivity, security — [[study-1997-industry-matematik-international-co-c398bc]]
+- Parallelized online backup reduced but did not eliminate bottleneck `[ps=4]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
+- Current: read-only browser integration; roadmap: order entry/update, Java interactivity, security `[ps=4]` — [[study-1997-industry-matematik-international-co-c398bc]]

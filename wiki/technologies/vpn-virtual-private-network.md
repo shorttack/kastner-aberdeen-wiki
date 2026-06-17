@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Virtual Private Network (VPN)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Voice VPN, Data VPN, IP-based VPN (intranet/extranet) — [[study-manage~1-b299e4]]
+- Voice VPN, Data VPN, IP-based VPN (intranet/extranet) `[ps=0]` — [[study-manage~1-b299e4]]

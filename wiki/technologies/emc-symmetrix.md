@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # EMC Symmetrix
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- EMC Symmetrix (RAID-1) — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]
+- EMC Symmetrix (RAID-1) `[ps=0]` — [[study-state-street-ramp-interview-for-maxtor-p-fa94f8]]

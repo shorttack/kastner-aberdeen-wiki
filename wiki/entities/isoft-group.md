@@ -12,9 +12,9 @@ status: "acquired"
 successor: "CSC (Computer Sciences Corporation) (April 2011)"
 years_active: "1996-2011"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # iSOFT Group
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Qualitative — [[study-ra-soa-2007-97c147]]
-- iSOFT rebuilt LORENZO product from scratch on SOA when older platform reached extendibility limits — [[study-soa-web-services-2007-c3297b]]
+- Qualitative `[ps=0]` — [[study-ra-soa-2007-97c147]]
+- iSOFT rebuilt LORENZO product from scratch on SOA when older platform reached extendibility limits `[ps=0]` — [[study-soa-web-services-2007-c3297b]]

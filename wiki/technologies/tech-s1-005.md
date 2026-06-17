@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Mature"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # ATM (Asynchronous Transfer Mode)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Positive outlook: expected to grow for high-bandwidth applications — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
-- ATM predicted to expand as standards evolve — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
-- ATM failed to gain broad enterprise LAN/WAN adoption; displaced by Gigabit Ethernet and MPLS — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
+- ATM failed to gain broad enterprise LAN/WAN adoption; displaced by Gigabit Ethernet and MPLS `[ps=5]` — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
+- ATM predicted to expand as standards evolve `[ps=2]` — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]
+- Positive outlook: expected to grow for high-bandwidth applications `[ps=0]` — [[study-1997-ibm-s-enterprise-communications-fam-14559a]]

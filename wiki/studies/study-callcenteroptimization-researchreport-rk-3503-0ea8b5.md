@@ -1,5 +1,5 @@
 ---
-title: "==> picture [149 x 20] intentionally omitted <=="
+title: "Callcenteroptimization Researchreport Rk 3503 (Aberdeen, 2006)"
 slug: "study-callcenteroptimization-researchreport-rk-3503-0ea8b5"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.29
-prescience_obs_count: 52
+prescience_mean: 2.13
+prescience_obs_count: 38
 ---
 
-# ==> picture [149 x 20] intentionally omitted <==
+# Callcenteroptimization Researchreport Rk 3503 (Aberdeen, 2006)
 
-> This study analyzes ==> picture [149 x 20] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study callcenteroptimization-researchreport-rk-3503-0ea8b5. Source: callcenteroptimization_researchreport_rk_3503.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **topic-analysis**._

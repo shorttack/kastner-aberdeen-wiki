@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intercontinental Hotels
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Adopted Robert Chase's hotel-management simulation for management training. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Adopted Robert Chase's hotel-management simulation for management training. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

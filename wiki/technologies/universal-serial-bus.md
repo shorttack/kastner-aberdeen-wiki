@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Universal Serial Bus (USB)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Widespread adoption of Universal Serial Bus connection ports, which enable most peripherals like keyboards, mice, and printers to be attached to PCs, have eliminated these concerns about small PCs sacrificing expansion. — [[study-small-is-huge-in-pcs-these-days-blog-arc-655851]]
+- Widespread adoption of Universal Serial Bus connection ports, which enable most peripherals like keyboards, mice, and printers to be attached to PCs, have eliminated these concerns about small PCs sacrificing expansion. `[ps=4]` — [[study-small-is-huge-in-pcs-these-days-blog-arc-655851]]

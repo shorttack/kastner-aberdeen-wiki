@@ -12,9 +12,9 @@ era: "1989-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Microsoft SQL Server
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'Demonstrates performance of computer system large enough to manage daily banking activities of a quarter of the world's population' — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]
-- Microsoft to sell satellite images over Internet starting October using future SQL Server version — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]
+- Microsoft to sell satellite images over Internet starting October using future SQL Server version `[ps=3]` — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]
+- 'Demonstrates performance of computer system large enough to manage daily banking activities of a quarter of the world's population' `[ps=2]` — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]

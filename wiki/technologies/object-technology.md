@@ -12,9 +12,9 @@ era: "1985-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "matured-mainstream"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Object Technology / OOP
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3-5 years out — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]
-- Object technology cited as key architectural trend for utility software modernization — [[study-utilities-transformed-it-696ffb]]
+- Object technology cited as key architectural trend for utility software modernization `[ps=4]` — [[study-utilities-transformed-it-696ffb]]
+- 3-5 years out `[ps=0]` — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]

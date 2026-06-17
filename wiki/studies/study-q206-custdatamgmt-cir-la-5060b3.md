@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Q206 Custdatamgmt Cir La (Aberdeen, 2006)"
 slug: "study-q206-custdatamgmt-cir-la-5060b3"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 2.0
-prescience_mean: 0.5
-prescience_obs_count: 2
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Q206 Custdatamgmt Cir La (Aberdeen, 2006)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study q206-custdatamgmt-cir-la-5060b3. Source: q206_custdatamgmt_cir_la.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2006, author **Aberdeen Group**, type **benchmark**._
@@ -33,4 +33,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 ## Top observations
 
 - How do enterprises benchmarked as “Best-in-Class” differ in their strategy, execution and results? `[ps=2]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

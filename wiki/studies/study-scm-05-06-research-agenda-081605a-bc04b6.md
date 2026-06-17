@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Scm 05 06 Research Agenda 081605A (Aberdeen, 2005)"
 slug: "study-scm-05-06-research-agenda-081605a-bc04b6"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Scm 05 06 Research Agenda 081605A (Aberdeen, 2005)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study scm-05-06-research-agenda-081605a-bc04b6. Source: scm_05-06_research_agenda_081605a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Research Agenda**, type **benchmark**._
@@ -32,4 +32,4 @@ _Published 2005, author **Research Agenda**, type **benchmark**._
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

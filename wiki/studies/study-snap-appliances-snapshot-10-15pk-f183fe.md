@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 14
 ---
 
 # Aberdeen Vendor SnapShot: Snap Appliance Inc.
@@ -32,24 +32,24 @@ _Published 2003, author **Peter S. Kastner**, type **case-analysis**._
 
 ## Top observations
 
+- 130,000+ `[ps=0]`
+- 1998 `[ps=0]`
+- 3TB `[ps=0]`
+- 1.44TB / 2.16TB / 3.0TB `[ps=0]`
+- North America, Europe, Asia Pacific `[ps=0]`
+- SnapOS (proprietary) `[ps=0]`
+- DataKeeper included with every Snap Server `[ps=0]`
+- Server-to-Server Sync available `[ps=0]`
+- creatively covered all mid-line storage categories envisaged by Aberdeen `[ps=0]`
+- dual gigabit Ethernet `[ps=0]`
+- ADS and NIS `[ps=0]`
+- exclusively through manufacturers, distributors and resellers `[ps=0]`
+- unknown [REVIEW] `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
 - #1 volume leading provider
-- 130,000+
 - re-privatized from Quantum subsidiary
-- 1998
 - world best-selling NAS server
-- 3TB
-- 1.44TB / 2.16TB / 3.0TB
 - ATA (inexpensive)
 - SMB and enterprises with minimal IT staffing
-- North America, Europe, Asia Pacific
-- SnapOS (proprietary)
 - GuardianOS (Linux-based)
-- DataKeeper included with every Snap Server
-- Server-to-Server Sync available
-- creatively covered all mid-line storage categories envisaged by Aberdeen
 - 320 GB to 1 TB (4x ATA-100 disks)
-- dual gigabit Ethernet
-- ADS and NIS
-- exclusively through manufacturers, distributors and resellers
-- unknown [REVIEW]
-- [UNVERIFIED]

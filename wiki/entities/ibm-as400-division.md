@@ -12,9 +12,9 @@ status: "evolved"
 successor: "IBM Power Systems (IBM i)"
 years_active: "1988-2006"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.07
+prescience_obs_count: 61
 ---
 
 # IBM AS/400 Division
@@ -24,23 +24,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 13 billion USD — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 35 percent of IBM total — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 325000 units — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 25 percent YoY — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 2 multiple (>2x) — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 5 multiple (up to 5x) — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- orders_of_magnitude_greater — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 40S — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 1 count — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 32 MB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 224 MB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 2 GB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 24 GB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 400 TPm — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 50S — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 1 count — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 64 MB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 1024 MB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 2 GB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
-- 318 GB — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- Study positioned AS/400 Advanced Series as a long-term enterprise platform due to simplicity, integration, and 64-bit RISC advantages `[ps=4]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 13 billion USD `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 35 percent of IBM total `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 25 percent YoY `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 5 multiple (up to 5x) `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- orders_of_magnitude_greater `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 40S `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 1 count `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 32 MB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 224 MB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 2 GB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 24 GB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 400 TPm `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 50S `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 1 count `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 1024 MB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 2 GB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 318 GB `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 53S `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- 1,2,4 count `[ps=0]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]

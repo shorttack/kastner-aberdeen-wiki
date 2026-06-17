@@ -12,9 +12,9 @@ status: "acquired"
 successor: "AT&T (2000), then SBC, then Oracle (2011)"
 years_active: "1975-present"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 0.5
+prescience_obs_count: 2
 ---
 
 # Sterling Commerce Inc.
@@ -29,7 +29,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sterling Commerce acquired by AT&T (2000), then Oracle (2011) for $1.4B; became Oracle B2B Commerce — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]
+- Sterling Commerce acquired by AT&T (2000), then Oracle (2011) for $1.4B; became Oracle B2B Commerce `[ps=1]` — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]
+- Sterling Commerce sold to IBM in 2010 for $1.4B; now IBM Sterling B2B Integrator `[ps=0]` — [[study-dollars-and-sense-b2b-ec-eb8c9d]]
 - Sterling Commerce positioned as market leader in EDI VAN services — [[study-dollars-and-sense-b2b-ec-eb8c9d]]
-- Sterling Commerce sold to IBM in 2010 for $1.4B; now IBM Sterling B2B Integrator — [[study-dollars-and-sense-b2b-ec-eb8c9d]]
 - Number two EDI/VAN integrator; most progressive in moving to Internet/EDI; second in size only to GEIS — [[study-ecpspr~1-4968bf]]

@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "Dtp%204Q04%20 %20Services%20Procurement%20Eu%20080504A (Aberdeen, 2008)"
 slug: "study-dtp-204q04-20-20services-20procurement-20eu-20080504a-77956a"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# Dtp%204Q04%20 %20Services%20Procurement%20Eu%20080504A (Aberdeen, 2008)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study dtp-204q04-20-20services-20procurement-20eu-20080504a-77956a. Source: dtp%204q04%20-%20services%20procurement%20eu%20080504a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2008, author **Aberdeen Group**, type **market-study**._
@@ -32,4 +32,4 @@ _Published 2008, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

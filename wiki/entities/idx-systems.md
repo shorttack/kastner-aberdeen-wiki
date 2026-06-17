@@ -12,9 +12,9 @@ status: "acquired"
 successor: "GE Healthcare (2006)"
 years_active: "1969-2006"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IDX Systems Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquired Phamis July 1997; combined revenues >$251M; 1400 customers; historically strong in ambulatory care; merging inpatient/outpatient strategy — [[study-health~1-056358]]
+- Acquired Phamis July 1997; combined revenues >$251M; 1400 customers; historically strong in ambulatory care; merging inpatient/outpatient strategy `[ps=3]` — [[study-health~1-056358]]

@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Sony PlayStation manufacturing (and the PlayStation brand) is actively ongoing. PlayStation 5 is current generation; PlayStation 6 in development. Reference here is to semiconductor/electronics manufacturing context.', 'source': 'https://www.playstation.com/en-us/'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Sony PlayStation (manufacturing)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- All production moved to PRC — [[study-sars2-hot-topic-cf91d4]]
+- All production moved to PRC `[ps=3]` — [[study-sars2-hot-topic-cf91d4]]

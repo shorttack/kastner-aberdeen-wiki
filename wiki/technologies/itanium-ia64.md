@@ -12,9 +12,9 @@ era: "2001-2010s"
 lifecycle_at_study: "declining"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Intel Itanium (IA-64) architecture was officially discontinued. Last Itanium 9700 series shipped in 2021. HP-UX on Itanium reached end of support. The IA-64 architecture is fully discontinued.', 'source': 'General knowledge / Intel announcements'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Intel Itanium (IA-64)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- #2 architecture for mission-critical; behind IBM mainframe/Power — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]
+- #2 architecture for mission-critical; behind IBM mainframe/Power `[ps=2]` — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]

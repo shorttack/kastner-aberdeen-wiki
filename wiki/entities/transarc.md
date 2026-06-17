@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM (acquired 1994); became IBM Pittsburgh Lab (2001); lab closed 2002"
 years_active: "1987-1994"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Transarc Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- New generation of transaction monitors for efficiently integrating OLTP apps, heterogeneous databases, and users — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
+- New generation of transaction monitors for efficiently integrating OLTP apps, heterogeneous databases, and users `[ps=5]` — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]

@@ -1,5 +1,5 @@
 ---
-title: "==> picture [68 x 722] intentionally omitted <=="
+title: "Ebi Spendingtoc (Aberdeen, 2002)"
 slug: "study-ebi-spendingtoc-a6bf6a"
 page_type: "study"
 tags: ["type/study", "collection/topic-analysis"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [68 x 722] intentionally omitted <==
+# Ebi Spendingtoc (Aberdeen, 2002)
 
-> This study analyzes ==> picture [68 x 722] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ebi-spendingtoc-a6bf6a. Source: ebi-spendingtoc.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: telecommunications. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2002, author **Aberdeen Group**, type **topic-analysis**._
@@ -32,4 +32,4 @@ _Published 2002, author **Aberdeen Group**, type **topic-analysis**._
 
 ## Top observations
 
-- This study analyzes ==> picture [68 x 722] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [68 x 722] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

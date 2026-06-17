@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1988-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Compro Technology
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- No address or phone number for Compro on packaging — all calls presumed to go to nVidia `[ps=0]` — [[study-nvidia-personal-cinema-lab-report-2002]]
 - Easy; did not require metal bar used for ATI Radeon — [[study-nvidia-personal-cinema-lab-report-2002]]
-- No address or phone number for Compro on packaging — all calls presumed to go to nVidia — [[study-nvidia-personal-cinema-lab-report-2002]]

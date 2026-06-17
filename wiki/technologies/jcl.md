@@ -12,9 +12,9 @@ era: "1964-"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # Job Control Language (JCL)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kastner learned JCL—the 'dark arts'—to control IBM OS job execution; single misplaced comma could fail a job and waste expensive machine time. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
-- JCL was notoriously cryptic; a single misplaced comma caused a job to fail and waste an expensive machine run. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
-- Mastering JCL separated people who understood the system from those who merely used it—not glamorous but critical knowledge. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- JCL was notoriously cryptic; a single misplaced comma caused a job to fail and waste an expensive machine run. `[ps=5]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- Mastering JCL separated people who understood the system from those who merely used it—not glamorous but critical knowledge. `[ps=3]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- Kastner learned JCL—the 'dark arts'—to control IBM OS job execution; single misplaced comma could fail a job and waste expensive machine time. `[ps=0]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]

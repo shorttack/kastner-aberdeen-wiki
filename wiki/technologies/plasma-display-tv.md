@@ -12,9 +12,9 @@ era: "1997-2014"
 lifecycle_at_study: "new"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Plasma display television
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- November 2002: Gateway began carrying more than 100 new digital products in retail stores, including a 42-inch plasma TV at $2,999 — about half the price of similar models. — [[study-restructure-plans-weigh-on-gateway-marke-c5656c]]
+- November 2002: Gateway began carrying more than 100 new digital products in retail stores, including a 42-inch plasma TV at $2,999 — about half the price of similar models. `[ps=0]` — [[study-restructure-plans-weigh-on-gateway-marke-c5656c]]

@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "HP Enterprise Systems Group"
 years_active: "1988-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # HP General Systems Division
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Over $6 billion — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
+- Over $6 billion `[ps=0]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]

@@ -3,7 +3,7 @@ title: "A Fail-Safe Entry That's a Bargain (Stratus Computer launch coverage)"
 slug: "study-businessweek-stratus-launch-fail-safe-ba-82c028"
 page_type: "study"
 tags: ["type/study", "collection/trade-press-launch-feature"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "businessweek-stratus-launch-fail-safe-ba-82c028"
 author: "BusinessWeek (McGraw-Hill)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 0.56
+prescience_obs_count: 9
 ---
 
 # A Fail-Safe Entry That's a Bargain (Stratus Computer launch coverage)
@@ -32,15 +32,15 @@ _Published 1981, author **BusinessWeek (McGraw-Hill)**, type **trade-press-launc
 
 ## Top observations
 
-- $109 million
-- 142%
-- $5 billion
-- $148,000
-- ~$264,000
-- >$12,000
+- alternative to Tandem `[ps=5]`
+- $109 million `[ps=0]`
+- 142% `[ps=0]`
+- $5 billion `[ps=0]`
+- $148,000 `[ps=0]`
+- ~$264,000 `[ps=0]`
+- >$12,000 `[ps=0]`
+- up to 21% faster `[ps=0]`
+- ~$100 million `[ps=0]`
 - $6.7 million
 - $1.7 million
-- up to 21% faster
-- alternative to Tandem
 - ~$10 million expected, profitable
-- ~$100 million

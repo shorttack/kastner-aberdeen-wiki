@@ -3,7 +3,7 @@ title: "Hypergrowth Balance Sheets - Neglected Stepchildren?"
 slug: "study-casale-evp-5-aa8f2a"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "casale-evp-5-aa8f2a"
 author: "Charles T. Casale"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.0
+prescience_obs_count: 16
 ---
 
 # Hypergrowth Balance Sheets - Neglected Stepchildren?
@@ -32,24 +32,24 @@ _Published 1983, author **Charles T. Casale**, type **market-study**._
 
 ## Top observations
 
+- Heavy weighting of final two weeks of quarterly shipments artificially inflates quarter-end DSO `[ps=5]`
+- Balance sheets neglected by Wall Street and company management; P/E focus dominates `[ps=4]`
+- Numbers are useful but not to the degree of precision that some wish; comparison of original vs restated figures reveals limitations `[ps=4]`
+- Inventory = 40 cents/dollar (cost); Receivables = $1.00/dollar (revenue); three inventory categories vs one receivables category; 10-Q required for detail `[ps=3]`
+- Actual receivables $190M vs plan $146M; +30% above plan `[ps=0]`
+- 90 days `[ps=0]`
+- Q1: 102 days; Q2: 107 days; Q3: 113 days; Q4: 123 days `[ps=0]`
+- $500M `[ps=0]`
+- $320M (common stock $200M + retained earnings $120M) `[ps=0]`
+- Steady 100-102 days under balanced shipment plan `[ps=0]`
+- Considerably less than 100 days (precise figure not stated) `[ps=0]`
+- Under 90 days `[ps=0]`
+- Symptom of poor operational cost control (Cost Push mode), not credit deterioration `[ps=0]`
+- Receivables quality unchanged; stated increase is presentation artifact `[ps=0]`
+- EVP 1-5 focused on hypergrowth phenomenon; series is aperiodic, issued in response to current investor interest topics `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
 - Actual revenue $478M vs plan $460M; +4% above plan; 56% YoY growth
 - EPS $2.75 actual vs $2.75 plan; zero variance
-- Actual receivables $190M vs plan $146M; +30% above plan
-- 90 days
-- Q1: 102 days; Q2: 107 days; Q3: 113 days; Q4: 123 days
-- $500M
-- $320M (common stock $200M + retained earnings $120M)
 - $180M (notes to banks $3M, AP $47M, accrued $40M, deferred taxes $35M, LT debt $55M)
 - 60% (inventory carried at 40 cents on the sales dollar)
-- Steady 100-102 days under balanced shipment plan
-- Considerably less than 100 days (precise figure not stated)
-- Under 90 days
-- Symptom of poor operational cost control (Cost Push mode), not credit deterioration
-- Heavy weighting of final two weeks of quarterly shipments artificially inflates quarter-end DSO
-- Receivables quality unchanged; stated increase is presentation artifact
-- Balance sheets neglected by Wall Street and company management; P/E focus dominates
-- Inventory = 40 cents/dollar (cost); Receivables = $1.00/dollar (revenue); three inventory categories vs one receivables category; 10-Q required for detail
-- Numbers are useful but not to the degree of precision that some wish; comparison of original vs restated figures reveals limitations
-- EVP 1-5 focused on hypergrowth phenomenon; series is aperiodic, issued in response to current investor interest topics
 - Continued receivables/balance sheet deterioration expected if Cost Push mode persists
-- [UNVERIFIED]

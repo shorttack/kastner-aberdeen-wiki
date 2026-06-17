@@ -12,9 +12,9 @@ status: "acquired"
 successor: "OSRAM Sylvania (lighting, 1993) / Genuity (telecom, 2000)"
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # GTE Sylvania
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Brought in by Mitre as part of procurement chain for NORAD Cheyenne Mountain contract. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- Brought in by Mitre as part of procurement chain for NORAD Cheyenne Mountain contract. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]

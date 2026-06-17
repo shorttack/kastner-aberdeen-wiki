@@ -12,9 +12,9 @@ era: "1997-2001"
 lifecycle_at_study: "Introduction"
 lifecycle_current: "Discontinued (withdrawn July 17"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM RS/6000 F50
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen correctly forecast Spring 1997 PowerPC 604e SMP roll-out (RS/6000 F50 in May 1997) — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
+- Aberdeen correctly forecast Spring 1997 PowerPC 604e SMP roll-out (RS/6000 F50 in May 1997) `[ps=0]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]

@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Computer Telephony Integration (CTI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Computer Telephony Integration as Nortel competitive advantage vs. routing-only vendors — [[study-1997-nortel--transforming-business-by-po-3edae6]]
+- Computer Telephony Integration as Nortel competitive advantage vs. routing-only vendors `[ps=2]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Cisco Systems"
 years_active: "1951-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Scientific Atlanta
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- WebStar: Firewall+Router+Networking+802.11b+HPNA 2.0+USB 1.0+Ethernet. Explorer 8000: pause live TV, dual-record, picture-in-picture, PVR, 50 hours storage — [[study-dct-dceit-practice-v6-2002]]
+- WebStar: Firewall+Router+Networking+802.11b+HPNA 2.0+USB 1.0+Ethernet. Explorer 8000: pause live TV, dual-record, picture-in-picture, PVR, 50 hours storage `[ps=0]` — [[study-dct-dceit-practice-v6-2002]]

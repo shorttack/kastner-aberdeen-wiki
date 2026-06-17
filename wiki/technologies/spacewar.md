@@ -12,9 +12,9 @@ era: "1962-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Spacewar! Video Game
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Spacewar! video game appeared permanently installed on the 360/65 graphics workstation; Kastner could play it on a '$5 million mainframe' during overnight shifts. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Spacewar! video game appeared permanently installed on the 360/65 graphics workstation; Kastner could play it on a '$5 million mainframe' during overnight shifts. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

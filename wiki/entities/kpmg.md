@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1911-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # KPMG International
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Partnering with HP for middle market ERP; needs stronger Oracle/PeopleSoft/Baan practices `[ps=3]` — [[study-erppsp~1-31f088]]
 - 2 — [[study-erppsp~1-31f088]]
-- Partnering with HP for middle market ERP; needs stronger Oracle/PeopleSoft/Baan practices — [[study-erppsp~1-31f088]]

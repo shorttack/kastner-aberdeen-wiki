@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Microsoft Dynamics NAV / Business Central"
 years_active: "1984-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Navision A/S
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $1.33 billion — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]
-- became Dynamics NAV then Dynamics 365 Business Central; actively sold — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]
+- became Dynamics NAV then Dynamics 365 Business Central; actively sold `[ps=5]` — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]
+- $1.33 billion `[ps=0]` — [[study-2002-microsoft-business-solutions-the-new-wave-at-stamp-532ae4]]

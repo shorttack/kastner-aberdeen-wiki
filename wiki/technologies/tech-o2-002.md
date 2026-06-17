@@ -12,9 +12,9 @@ era: "1993-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # ODMG Standard (Object Database Management Group)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ODMG provides application portability framework; voting members include GemStone O2 ObjectDesign Objectivity POET UniSQL Versant — [[study-1997-object-databases-such-as-o2-odmg--t-c98c72]]
-- ODMG disbanded 2001 after transitioning Java binding work to Java Data Objects (JDO) specification — [[study-1997-object-databases-such-as-o2-odmg--t-c98c72]]
+- ODMG disbanded 2001 after transitioning Java binding work to Java Data Objects (JDO) specification `[ps=4]` — [[study-1997-object-databases-such-as-o2-odmg--t-c98c72]]
+- ODMG provides application portability framework; voting members include GemStone O2 ObjectDesign Objectivity POET UniSQL Versant `[ps=3]` — [[study-1997-object-databases-such-as-o2-odmg--t-c98c72]]

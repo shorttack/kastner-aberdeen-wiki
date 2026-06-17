@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Internet Information Services (IIS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Single two-processor Pentium Pro with NT and IIS processed 100M hits in 24 hours — one-third greater than Microsoft's own site traffic — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]
+- Single two-processor Pentium Pro with NT and IIS processed 100M hits in 24 hours — one-third greater than Microsoft's own site traffic `[ps=0]` — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]

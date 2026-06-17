@@ -1,5 +1,5 @@
 ---
-title: "==> picture [442 x 95] intentionally omitted <=="
+title: "Ci Factoids (Aberdeen, 2005)"
 slug: "study-ci-factoids-188ee5"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -22,9 +22,9 @@ prescience_mean: 2.78
 prescience_obs_count: 9
 ---
 
-# ==> picture [442 x 95] intentionally omitted <==
+# Ci Factoids (Aberdeen, 2005)
 
-> This study analyzes ==> picture [442 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study ci-factoids-188ee5. Source: ci_factoids.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Research Preview**, type **benchmark**._

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1881-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Los Angeles Times
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'It is hard to imagine that bioterrorism could be countered until the containment of diseases like SARS is mastered.' — LA Times editorial — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]
+- 'It is hard to imagine that bioterrorism could be countered until the containment of diseases like SARS is mastered.' — LA Times editorial `[ps=4]` — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]

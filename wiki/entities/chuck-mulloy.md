@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Chuck Mulloy
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Day 1 3:55-4:15 PM: Chuck Mulloy (Sr. Manager, Corporate & Legal Affairs). — [[study-peter-kastner-10-bde195]]
+- Day 1 3:55-4:15 PM: Chuck Mulloy (Sr. Manager, Corporate & Legal Affairs). `[ps=0]` — [[study-peter-kastner-10-bde195]]

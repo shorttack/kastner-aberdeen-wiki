@@ -12,9 +12,9 @@ era: "1996-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # ActiveX/COM
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft component model cited as important for Windows desktop integration — [[study-1997-unify-vision-8fcfc3]]
+- Microsoft component model cited as important for Windows desktop integration `[ps=4]` — [[study-1997-unify-vision-8fcfc3]]
 - Internet toolsets lead in web authoring but lack traditional database technology and legacy integration — [[study-aberdeen-1996-progress-software-webspeed-internet]]

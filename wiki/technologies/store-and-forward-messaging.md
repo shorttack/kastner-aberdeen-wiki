@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Store-and-Forward Messaging
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ~$1 billion — [[study-aberdeen-1995-commercial-messaging]]
-- e-mail is by far most frequent use; technology invisible to users — [[study-aberdeen-1995-commercial-messaging]]
+- e-mail is by far most frequent use; technology invisible to users `[ps=4]` — [[study-aberdeen-1995-commercial-messaging]]
+- ~$1 billion `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]

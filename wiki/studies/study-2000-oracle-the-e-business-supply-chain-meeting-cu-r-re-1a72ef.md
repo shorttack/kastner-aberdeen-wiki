@@ -3,7 +3,7 @@ title: "The e-Business Supply Chain: Meeting Customer Requirements in the Intern
 slug: "study-2000-oracle-the-e-business-supply-chain-meeting-cu-r-re-1a72ef"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2000-oracle-the-e-business-supply-chain-meeting-cu-r-re-1a72ef"
 author: "Tim A. Minahan"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.89
+prescience_obs_count: 9
 ---
 
 # The e-Business Supply Chain: Meeting Customer Requirements in the Internet Economy
@@ -32,16 +32,16 @@ _Published 2000, author **Tim A. Minahan**, type **white-paper**._
 
 ## Top observations
 
-- Must be built on Internet computing architecture
+- Must be built on Internet computing architecture `[ps=4]`
+- Must support demand-driven business procedures `[ps=4]`
+- Must provide a common data model for the entire supply chain `[ps=4]`
+- Must enable extensive reporting, analysis, and planning `[ps=4]`
+- Must support integration with vital business systems `[ps=4]`
+- Must provide an open platform for communication, transactions, and collaboration across the entire supply chain `[ps=4]`
+- Well positioned to deliver comprehensive, fully integrated Internet-based e-Business supply-chain solution `[ps=4]`
+- e-Business winners will leverage Internet to build dynamic supply nets — assembling and adjusting supply chains for rapid response to customer demand `[ps=4]`
+- Oracle positioned as comprehensive e-Business supply chain leader over next 5 years `[ps=3]`
 - Must enable universal self-service access
-- Must support demand-driven business procedures
-- Must provide a common data model for the entire supply chain
-- Must enable extensive reporting, analysis, and planning
-- Must support integration with vital business systems
-- Must provide an open platform for communication, transactions, and collaboration across the entire supply chain
 - Must deliver modular or component-based solutions
-- Well positioned to deliver comprehensive, fully integrated Internet-based e-Business supply-chain solution
-- e-Business winners will leverage Internet to build dynamic supply nets — assembling and adjusting supply chains for rapid response to customer demand
-- Oracle positioned as comprehensive e-Business supply chain leader over next 5 years
 - Oracle E-Business Suite 12.2.15 released 2025; support extended through 2035; still widely deployed enterprise platform
 - Ariba acquired by SAP for $4.3 billion in 2012; became SAP Ariba — major supply chain platform

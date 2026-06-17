@@ -12,9 +12,9 @@ era: "1995-1999"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Intel Pentium Pro / Klamath / Deschutes
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- We are both trying to advance the Intel architecture, and both of us are out to beat the RISC vendors in the market. — [[study-server-deal-turns-rivals-into-allies-seq-bdc3af]]
+- We are both trying to advance the Intel architecture, and both of us are out to beat the RISC vendors in the market. `[ps=4]` — [[study-server-deal-turns-rivals-into-allies-seq-bdc3af]]

@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.0
+prescience_obs_count: 4
 ---
 
 # Operational Data Store (ODS)
@@ -24,8 +24,8 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 24% — [[study-ra-bpm-2006-f5a558]]
-- 63% — [[study-ra-bpm-2006-f5a558]]
-- 14% — [[study-ra-bpm-2006-f5a558]]
+- Safeway was building an Operational Data Store (Class 3 applications) for real-time retail data — most advanced tier of DW deployment `[ps=4]` — [[study-safeway-damages-report-draft-b502f4]]
+- 24% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
+- 63% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
+- 14% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
 - qualitative — [[study-ra-bpm-2006-f5a558]]
-- Safeway was building an Operational Data Store (Class 3 applications) for real-time retail data — most advanced tier of DW deployment — [[study-safeway-damages-report-draft-b502f4]]

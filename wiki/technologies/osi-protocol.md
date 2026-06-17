@@ -12,9 +12,9 @@ era: "1980s-1990s"
 lifecycle_at_study: "current-1992"
 lifecycle_current: "displaced-by-tcp-ip"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # OSI Communications Protocols
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- OSI communications-stack compliant — [[study-ncr-topend-tp-monitor-brochure-1992-eeea31]]
+- OSI communications-stack compliant `[ps=0]` — [[study-ncr-topend-tp-monitor-brochure-1992-eeea31]]

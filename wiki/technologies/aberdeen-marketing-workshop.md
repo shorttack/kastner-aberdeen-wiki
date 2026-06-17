@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "active"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Marketing Workshop
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Combines multi-area content experts with senior engagement management; packaged to meet specific needs; handles complex project variables with aggressive deadlines — [[study-aberdeen-corporate-collateral-2001-v2-b4b001]]
+- Combines multi-area content experts with senior engagement management; packaged to meet specific needs; handles complex project variables with aggressive deadlines `[ps=0]` — [[study-aberdeen-corporate-collateral-2001-v2-b4b001]]

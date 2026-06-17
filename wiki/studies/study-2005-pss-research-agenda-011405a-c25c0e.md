@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 108] intentionally omitted <=="
+title: "2005 Pss Research Agenda 011405A (Aberdeen, 2005)"
 slug: "study-2005-pss-research-agenda-011405a-c25c0e"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
 prescience_max: 4.0
-prescience_mean: 1.5
-prescience_obs_count: 2
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
-# ==> picture [441 x 108] intentionally omitted <==
+# 2005 Pss Research Agenda 011405A (Aberdeen, 2005)
 
-> This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study 2005-pss-research-agenda-011405a-c25c0e. Source: 2005-pss-research_agenda_011405a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2005, author **Aberdeen Group**, type **market-study**._
@@ -33,4 +33,4 @@ _Published 2005, author **Aberdeen Group**, type **market-study**._
 ## Top observations
 
 - Having achieved cost-cutting and productivity goals, best-in-class service organizations can dramatically impact company revenues with growth-oriented strategies, processes, and personnel. `[ps=4]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

@@ -1,5 +1,5 @@
 ---
-title: "==> picture [441 x 95] intentionally omitted <=="
+title: "Q107 Secure Records Mgmt Aa (Aberdeen, 2007)"
 slug: "study-q107-secure-records-mgmt-aa-3425f8"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -17,14 +17,14 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: -1.0
-prescience_mean: -1.0
-prescience_obs_count: 1
+prescience_max: null
+prescience_mean: null
+prescience_obs_count: 0
 ---
 
-# ==> picture [441 x 95] intentionally omitted <==
+# Q107 Secure Records Mgmt Aa (Aberdeen, 2007)
 
-> This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study q107-secure-records-mgmt-aa-3425f8. Source: q107_secure_records_mgmt_aa.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2007, author **Aberdeen Group**, type **benchmark**._
@@ -32,4 +32,4 @@ _Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.

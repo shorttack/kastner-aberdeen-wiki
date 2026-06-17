@@ -3,7 +3,7 @@ title: "The Business Value in IT Outsourcing"
 slug: "study-business-value-outsourcing-57ce57"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "business-value-outsourcing-57ce57"
 author: "Peter S. Kastner, Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.54
+prescience_obs_count: 13
 ---
 
 # The Business Value in IT Outsourcing
@@ -32,20 +32,20 @@ _Published 2006, author **Peter S. Kastner, Aberdeen Group**, type **employer-re
 
 ## Top observations
 
+- IT resource constraints: lack of talent, costly talent, staff turnover, wrong skill-sets `[ps=4]`
+- Up to 30% of IT outsourcing engagements seriously misaligned; customers may not realize it `[ps=4]`
+- 50-67% of IT outsourcing contracts running at sub-optimal levels `[ps=4]`
+- Only 5-10% of multi-million dollar IT outsourcing agreements drive all anticipated business value `[ps=4]`
+- Poor choices in metrics and SLAs, confusing low cost with value delivered, inflexible contract language `[ps=4]`
+- SLAs, governance, preparation, transition, operations, change management, pricing, conflict resolution, metrics `[ps=4]`
+- 50% of Best-in-Class measure ROI after every application change vs. 25% for Laggards `[ps=3]`
+- Many enterprises have never done a serious make-or-buy outsourcing decision on any IT segment `[ps=3]`
+- Cannot name a single company that has outsourced IT and not learned painful lessons `[ps=3]`
+- Time-to-market concern in highly competitive industries where IT agility is critical `[ps=0]`
+- Best-in-Class: 20% of respondents; Average: 50%; Laggard: 30% `[ps=0]`
+- Over 2,000 companies surveyed on IT in past two years `[ps=0]`
+- Report will benchmark all-size companies in Global 5000 across all industries `[ps=0]`
 - Focusing on core competencies: decision that IT excellence is best achieved by an outsider
 - Saving money: most expected benefit; palming off dysfunctional IT on naïve outsourcer is a pipe dream
-- IT resource constraints: lack of talent, costly talent, staff turnover, wrong skill-sets
-- Time-to-market concern in highly competitive industries where IT agility is critical
 - Culture wars: LOB management fed up with IT intransigence; outsourcing as 'blow it up' nuclear option
-- Up to 30% of IT outsourcing engagements seriously misaligned; customers may not realize it
-- 50-67% of IT outsourcing contracts running at sub-optimal levels
-- Only 5-10% of multi-million dollar IT outsourcing agreements drive all anticipated business value
-- 50% of Best-in-Class measure ROI after every application change vs. 25% for Laggards
-- Best-in-Class: 20% of respondents; Average: 50%; Laggard: 30%
-- Poor choices in metrics and SLAs, confusing low cost with value delivered, inflexible contract language
 - Aberdeen tracking IT planning and outsourcing issues quantitatively since 2004
-- Over 2,000 companies surveyed on IT in past two years
-- Many enterprises have never done a serious make-or-buy outsourcing decision on any IT segment
-- Cannot name a single company that has outsourced IT and not learned painful lessons
-- SLAs, governance, preparation, transition, operations, change management, pricing, conflict resolution, metrics
-- Report will benchmark all-size companies in Global 5000 across all industries

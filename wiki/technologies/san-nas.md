@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # SAN/NAS Storage
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ~10 InSights on storage management and SAN/NAS — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
-- Standards are the only true path to the Holy Grail of an IT utility — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
+- Standards are the only true path to the Holy Grail of an IT utility `[ps=3]` — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
+- ~10 InSights on storage management and SAN/NAS `[ps=0]` — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]

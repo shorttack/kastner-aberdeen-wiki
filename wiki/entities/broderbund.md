@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Learning Company (then Mattel)"
 years_active: "1980-1998"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Broderbund Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Technology-savvy Broderbund uses InterWorld Digital Delivery for electronic software distribution — [[study-1997-commerce-exchange-pvp-250db8]]
+- Technology-savvy Broderbund uses InterWorld Digital Delivery for electronic software distribution `[ps=0]` — [[study-1997-commerce-exchange-pvp-250db8]]

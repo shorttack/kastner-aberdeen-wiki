@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1958-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # VISA / MasterCard
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 200 TPS — [[study-1988-encore-oltp-market-tps-needs-deee45]]
+- 200 TPS `[ps=2]` — [[study-1988-encore-oltp-market-tps-needs-deee45]]

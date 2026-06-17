@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'evolved', 'notes': 'Payment authentication and encryption has evolved substantially from early SSL/SET protocols to modern TLS 1.3, 3DS2, tokenization, and PCI-DSS frameworks. The domain is active but the 1990s-era specific implementations are superseded.', 'source': 'https://www.sectigo.com/blog/tls-client-authentication-public-ca-end-2026'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Payment Authentication & Encryption
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Authentication; encryption; firewalls; password control — [[study-1996-electronic-commerce-25d31b]]
+- Authentication; encryption; firewalls; password control `[ps=3]` — [[study-1996-electronic-commerce-25d31b]]

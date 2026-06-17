@@ -3,7 +3,7 @@ title: "Why Aberdeen Group is Focusing on Enterprise IT Integration"
 slug: "study-enterprise-integration-perspective-d21c1b"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "enterprise-integration-perspective-d21c1b"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.64
+prescience_obs_count: 11
 ---
 
 # Why Aberdeen Group is Focusing on Enterprise IT Integration
@@ -32,15 +32,15 @@ _Published 2006, author **Peter S. Kastner**, type **employer-record**._
 
 ## Top observations
 
-- majority of development by ~2010
-- ~10 years for significant dividends in lower IT lifecycle costs
-- 15% of IT budget freed with lower software maintenance costs
+- technically mature in 2006; most enterprises have tepid reactive strategy `[ps=4]`
+- considered a company secret / competitive weapon by large RTBI-experienced companies `[ps=4]`
+- Cisco angling to provide intelligent network services that to date have been run on conventional servers `[ps=4]`
+- EII promises to augment traditional data warehouse technology for RTBI `[ps=4]`
+- leading companies will translate massively parallel scientific computing lessons into commercial computing grid `[ps=4]`
+- datacenters will gradually become JBOR (just a bunch of racks) `[ps=4]`
+- ~10 years for significant dividends in lower IT lifecycle costs `[ps=3]`
+- SOA is a good vehicle for virtualizing processing, storage, and network components `[ps=2]`
+- majority of development by ~2010 `[ps=0]`
+- 15% of IT budget freed with lower software maintenance costs `[ps=0]`
+- fact-based benchmarking, best practices, technology solution selection and implementation studies `[ps=0]`
 - tens of millions of lines of code discarded in 2004
-- technically mature in 2006; most enterprises have tepid reactive strategy
-- considered a company secret / competitive weapon by large RTBI-experienced companies
-- Cisco angling to provide intelligent network services that to date have been run on conventional servers
-- SOA is a good vehicle for virtualizing processing, storage, and network components
-- EII promises to augment traditional data warehouse technology for RTBI
-- leading companies will translate massively parallel scientific computing lessons into commercial computing grid
-- datacenters will gradually become JBOR (just a bunch of racks)
-- fact-based benchmarking, best practices, technology solution selection and implementation studies

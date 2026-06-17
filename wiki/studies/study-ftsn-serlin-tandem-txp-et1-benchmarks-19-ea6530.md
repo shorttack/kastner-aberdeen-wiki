@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Omri Serlin FTSN-33: Tandem Reports TXP ET1 Benchmarks 7.2-9.6 tps/CPU; Cites Stratus 1.0-1.1 tps/CPU (May 15, 1985)
@@ -32,10 +32,10 @@ _Published 1985, author **Omri Serlin (FTSN newsletter)**, type **industry-newsl
 
 ## Top observations
 
+- $33.7K / $39.2K / $58K / $80.6K per tps for V.2 / V.5 / V.6 new / V.6 old `[ps=0]`
+- 2M account records, 2K teller records, 200 branch records (1/5 anon-et-al spec) `[ps=0]`
 - 7.2-9.6 tps/CPU on 4-processor TXP; V.2 9.56 tps; V.5 7.60 tps; V.6 new 4.70 tps; V.6 old 3.17 tps
-- $33.7K / $39.2K / $58K / $80.6K per tps for V.2 / V.5 / V.6 new / V.6 old
 - 1.0-1.1 tps/CPU (cross-reference from FTSN-32)
 - 16-CPU TXP can do 100 tps; 10-system FOX network can do 'magic 1000 tps'
 - Tandem V.2/V.5 cost/TPS substantially lower than IBM TPF2 in COBOL-vs-assembly comparison
-- 2M account records, 2K teller records, 200 branch records (1/5 anon-et-al spec)
 - Harald Sammer led 1000-tps group in Frankfurt, W. Germany

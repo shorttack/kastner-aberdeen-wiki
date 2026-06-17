@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # U.S. Health and Social Services Sector
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Moderate; significant growth potential identified — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]
+- Moderate; significant growth potential identified `[ps=0]` — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]

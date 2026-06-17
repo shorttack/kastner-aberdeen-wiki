@@ -12,9 +12,9 @@ era: "early-to-mid 1990s"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 25
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.74
+prescience_obs_count: 46
 ---
 
 # Client-Server Application Framework
@@ -29,23 +29,23 @@ prescience_obs_count: 0
 
 ## Top observations
 
--  — [[study-10ibmiss-f66945]]
-- massive_enterprise_investments — [[study-aberdeen-1996-3com-reconciling-clientserver-development-internet]]
-- complex_olap_oltp_data_management — [[study-aberdeen-1996-3com-reconciling-clientserver-development-internet]]
-- emerging_labor_saving_hybrid_apps — [[study-aberdeen-1996-3com-reconciling-clientserver-development-internet]]
-- internet_info_services_becoming_imperative — [[study-aberdeen-1996-3com-reconciling-clientserver-development-internet]]
-- Client-server: app runs on desktop; data brought from server to desktop; session-oriented (OLTP). Internet: app runs on server(s); presentation by client browser; no concept of a session. — [[study-ca-internet-app-dev-sales-training-1996-48db9c]]
-- Client-server architecture was largely displaced by Web/web-services architecture across enterprise app development by 2005. Kastner's 1996 contrast framing was prescient. — [[study-ca-internet-app-dev-sales-training-1996-48db9c]]
-- Majority still client-server but rapid shift to Web underway — [[study-cispra~1-23a333]]
-- Open-ended technology acquisition is over; service sector now demands measurable productivity paybacks due to deregulation and globalization — [[study-cnbc-technology-edge-ibm-dec-hp-transitions-d4f84c]]
-- Product introduction was measured in years; now every six months — no one is willing to wait — [[study-cnbc-technology-edge-ibm-dec-hp-transitions-d4f84c]]
-- Entry as market shifted to client-server; engineering culture misalignment; complex product suite; insufficient field expertise — [[study-dectp-genspark-research2-4-a09a82]]
-- Advances in client-server technology allowing cost-effective HIS implementation; merging with legacy data access — [[study-health~1-056358]]
-- Four tiers: PC/workstation; PC LAN server; division/department; massively parallel — [[study-informdsa-9f8bcf]]
-- Solution set (integrated vs best-of-breed); architecture (app-centric vs DB-centric); toolsets; channel; midrange OS — [[study-informix-dsa-presentation-2-8d5fa3]]
-- Aligning IT and corporate goals (#1 issue for IT executives in 1995) — [[study-informix-dsa-presentation-2-8d5fa3]]
-- VARs: smaller size; spotty geographic coverage; undercapitalized; slow to change suppliers; but very loyal — [[study-informix-dsa-presentation-2-8d5fa3]]
-- ISVs: large leverage factor; huge roll-over market as character-mode apps switch to C-S — [[study-informix-dsa-presentation-2-8d5fa3]]
-- System and network management, particularly distributed software management, deserve on-going planning attention — [[study-itthar-1-4-32f824]]
-- Overwhelming business case for ITT Hartford to have Common IT Platform across business units — [[study-itthar-1-4-32f824]]
-- Platform decision was made systematically and professionally; tough choices were made — [[study-itthar-1-4-32f824]]
+- internet_info_services_becoming_imperative `[ps=5]` — [[study-aberdeen-1996-3com-reconciling-clientserver-development-internet]]
+- Majority still client-server but rapid shift to Web underway `[ps=5]` — [[study-cispra~1-23a333]]
+- Client-server became the dominant enterprise architecture by late 1990s before evolving to web-based and then cloud architectures `[ps=5]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
+- Many new and innovative client types will emerge: miniaturized hand-held devices, scanners, pen-based, voice-actuated systems `[ps=5]` — [[study-nti-12-client-server-goals-1993-15a519]]
+- Client-server will evolve to a distributed computing model by year 2000 `[ps=5]` — [[study-software-market-safegu~1-ea7453]]
+- Confirmed — client-server evolved to n-tier, web, SOA, then cloud/microservices `[ps=5]` — [[study-software-market-safegu~1-ea7453]]
+- Aberdeen partnership years (1990-1997) coincided with client-server, RDBMS dominance, and x86 architecture rise. `[ps=5]` — [[study-volume-1-appendix-career-timeline]]
+- ISVs: large leverage factor; huge roll-over market as character-mode apps switch to C-S `[ps=4]` — [[study-informix-dsa-presentation-2-8d5fa3]]
+- System and network management, particularly distributed software management, deserve on-going planning attention `[ps=4]` — [[study-itthar-1-4-32f824]]
+- Client-server architecture was the correct strategic direction for IE — replacing terminal-based AS/400 applications with modern interfaces `[ps=4]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
+- Industry consensus that client-server is vision of next-generation computing; installed base technology does not yet support the vision `[ps=4]` — [[study-nti-12-client-server-goals-1993-15a519]]
+- Nearly 40% of typical IT budget consumed by PCs, terminals, workstations, LANs, and client-related expenses `[ps=4]` — [[study-nti-12-client-server-goals-1993-15a519]]
+- Seven key dependencies: OO software, distributed database, robust microprocessors, pre-emptive multitasking OS, network capacity, systems/network management tools, applications software availability `[ps=4]` — [[study-nti-12-client-server-goals-1993-15a519]]
+- Four major non-technical barriers: management vision/leadership, process reengineering skills, human resources/training, financial stability of leading suppliers `[ps=4]` — [[study-nti-12-client-server-goals-1993-15a519]]
+- Rudimentary tools and components now available to begin client-server for decision support applications `[ps=4]` — [[study-nti-12-client-server-goals-1993-15a519]]
+- 12-18 month semiconductor cycles require stable yet flexible platform `[ps=4]` — [[study-nti-3-pc-and-ws-1993-17d49b]]
+- Mega enterprise repository is failed concept `[ps=4]` — [[study-nti-5-development-toolsets-0e71c5]]
+- MIS buyers confused by huge variety of client-server toolsets `[ps=4]` — [[study-nti-5-development-toolsets-0e71c5]]
+- Pilot workgroup tools must scale to hundreds or thousands of clients `[ps=4]` — [[study-nti-5-development-toolsets-0e71c5]]
+- Client-server computing and internet convergence identified as major business computing trend `[ps=4]` — [[study-psk-misc-speech-agendas-5965a3]]

@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Service Oriented Architecture / Web Services
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- iSOFT rebuilt LORENZO product from scratch on SOA when older platform reached extendibility limits — [[study-soa-web-services-2007-c3297b]]
+- iSOFT rebuilt LORENZO product from scratch on SOA when older platform reached extendibility limits `[ps=0]` — [[study-soa-web-services-2007-c3297b]]

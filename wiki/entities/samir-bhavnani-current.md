@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "2000s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Samir Bhavnani
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'One of the biggest benefits to combining the CPU and GPU on a single chip is not only better overall system performance, but, importantly, more energy efficiency' — Samir Bhavnani, Current Analysis — [[study-amd-fusion-outlook-newsfactor-garrett-5859d3]]
+- 'One of the biggest benefits to combining the CPU and GPU on a single chip is not only better overall system performance, but, importantly, more energy efficiency' — Samir Bhavnani, Current Analysis `[ps=5]` — [[study-amd-fusion-outlook-newsfactor-garrett-5859d3]]

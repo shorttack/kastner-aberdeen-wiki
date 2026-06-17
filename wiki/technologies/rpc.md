@@ -12,9 +12,9 @@ era: "1980s-2000s"
 lifecycle_at_study: "declining"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Remote Procedure Calls (RPC)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Small and diminishing category; functionality built into OS — [[study-middle~1-a64fa0]]
+- Small and diminishing category; functionality built into OS `[ps=1]` — [[study-middle~1-a64fa0]]

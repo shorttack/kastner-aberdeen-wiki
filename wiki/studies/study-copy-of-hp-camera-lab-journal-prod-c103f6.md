@@ -3,7 +3,7 @@ title: "Caveat Emptor: HP's Consumer IT Leadership Needs New Focus on Consumers"
 slug: "study-copy-of-hp-camera-lab-journal-prod-c103f6"
 page_type: "study"
 tags: ["type/study", "collection/case-analysis"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "copy-of-hp-camera-lab-journal-prod-c103f6"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.42
+prescience_obs_count: 12
 ---
 
 # Caveat Emptor: HP's Consumer IT Leadership Needs New Focus on Consumers
@@ -32,19 +32,19 @@ _Published 2001, author **Peter S. Kastner**, type **case-analysis**._
 
 ## Top observations
 
+- Economic law of consumer electronics: cannot afford many support calls and still profit on mass-market products `[ps=5]`
+- Dissatisfied consumers will go elsewhere for high-tech appliances; HP will lose consumer market share `[ps=4]`
+- Keep instructions simple and predictable; consumer pain tolerance lower than IT professionals `[ps=4]`
+- Programs and devices working with prior Windows may not work under XP; always check support site for XP-specific updates `[ps=4]`
+- ACD See image display software had a missing .dll; unusable as primary image-handler `[ps=0]`
+- HP bundled photo transfer software interferes with Windows XP native camera support; causes photo transfer failure `[ps=0]`
+- HP web site claims XP native support but only works with clean install, not in-place upgrade `[ps=0]`
+- 45 minutes to resolve immediate problem; native XP support still not functioning afterward `[ps=0]`
+- Workaround (do not install bundled HP photo transfer software) not documented on HP support site `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Fix internal process that facilitated lack-of-instructions fiasco `[ps=0]`
+- Simplify the complex — easy to say, hard to do `[ps=0]`
 - HP avowed strategy: lead market in consumer IT including access PCs, imaging, and new CE products
 - Consistently high quality photographs over 6 months of use
-- ACD See image display software had a missing .dll; unusable as primary image-handler
-- HP bundled photo transfer software interferes with Windows XP native camera support; causes photo transfer failure
-- HP web site claims XP native support but only works with clean install, not in-place upgrade
 - A single tech support call costs HP more than the retail price of the camera
-- 45 minutes to resolve immediate problem; native XP support still not functioning afterward
-- Workaround (do not install bundled HP photo transfer software) not documented on HP support site
-- Dissatisfied consumers will go elsewhere for high-tech appliances; HP will lose consumer market share
-- [UNVERIFIED]
-- Fix internal process that facilitated lack-of-instructions fiasco
-- Keep instructions simple and predictable; consumer pain tolerance lower than IT professionals
-- Simplify the complex — easy to say, hard to do
-- Economic law of consumer electronics: cannot afford many support calls and still profit on mass-market products
 - HP photography web site offers free photo publishing but is hard to find
-- Programs and devices working with prior Windows may not work under XP; always check support site for XP-specific updates

@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # PC LAN (Local Area Network)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- More money spent on PCs than on mainframe computers — [[study-nti-9-mainframe-role-1993-77fc40]]
+- More money spent on PCs than on mainframe computers `[ps=4]` — [[study-nti-9-mainframe-role-1993-77fc40]]

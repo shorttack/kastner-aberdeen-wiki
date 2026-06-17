@@ -3,7 +3,7 @@ title: "Timing Your Move to Next Generation Operating Systems"
 slug: "study-nti-4-nextgen-os-timing-1993-a45049"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "nti-4-nextgen-os-timing-1993-a45049"
 author: "Peter S. Kastner, John Logan, Thomas Willmott"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 22
 ---
 
 # Timing Your Move to Next Generation Operating Systems
@@ -32,28 +32,28 @@ _Published 1993, author **Peter S. Kastner, John Logan, Thomas Willmott**, type 
 
 ## Top observations
 
-- Will remain dominant desktop OS through 1995
+- Will remain dominant desktop OS through 1995 `[ps=5]`
+- Clear leader for at least 18-24 months regardless of Windows NT outcome `[ps=5]`
+- No tidal wave transition until 1995 `[ps=5]`
+- Single-tasking OS insufficient for robust client-server applications `[ps=5]`
+- 486 Intel DOS/Windows or Macintosh through mid-1994 `[ps=5]`
+- Oracle seen as likely source of systems software for distributed processing `[ps=4]`
+- Shipped 1 million units; difficulty attracting ISV support `[ps=4]`
+- First units available in 1993 despite slippage `[ps=4]`
+- Full swing for new applications; RDBMS dominant glue `[ps=4]`
+- Evolutionary not revolutionary process `[ps=4]`
+- Confused and overpopulated; test and prototype multiple options in 1993 `[ps=4]`
+- Business as usual; lion's share IBM MVS `[ps=2]`
+- Windows/DOS will engulf character-based environment within one year `[ps=2]`
+- HP/UX 9.0 robust multi-threaded; IBM AIX uniprocessor only; Sun Solaris transitioning `[ps=2]`
+- [UNVERIFIED] `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Not until turn of the century (year 2000) `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Not key factor in decision-making in 1993 or even 1994 `[ps=0]`
+- Compaq (SystemPro/SCO), NCR 3450/3550, Sequent Symmetry/Dynix, Unisys U/6000 `[ps=0]`
+- 10 million units shipped; will continue gaining in popularity `[ps=0]`
 - [UNVERIFIED]
-- Clear leader for at least 18-24 months regardless of Windows NT outcome
-- [UNVERIFIED]
-- Not until turn of the century (year 2000)
-- [UNVERIFIED]
-- No tidal wave transition until 1995
-- [UNVERIFIED]
-- Business as usual; lion's share IBM MVS
 - Unix derivatives employed in majority of new multi-user systems
 - Future in greater jeopardy than ever
-- Oracle seen as likely source of systems software for distributed processing
-- Single-tasking OS insufficient for robust client-server applications
-- Shipped 1 million units; difficulty attracting ISV support
-- First units available in 1993 despite slippage
-- [UNVERIFIED]
-- Compete with Microsoft over next 3-5 years via integrated LAN, desktop, server OS
-- Currently unaligned; will shape base technology over next two years
-- Ceasing hardware; porting NextStep to Intel and broader audience
-- [UNVERIFIED]
-- Full swing for new applications; RDBMS dominant glue
-- Windows/DOS will engulf character-based environment within one year
-- Not key factor in decision-making in 1993 or even 1994
-- Evolutionary not revolutionary process
-- Compaq (SystemPro/SCO), NCR 3450/3550, Sequent Symmetry/Dynix, Unisys U/6000

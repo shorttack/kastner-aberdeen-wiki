@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1799-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # J.P. Morgan Chase
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- outsourcing deal cancelled — [[study-it-budget-realities-benchmark-1b1313]]
+- outsourcing deal cancelled `[ps=0]` — [[study-it-budget-realities-benchmark-1b1313]]

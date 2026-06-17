@@ -12,9 +12,9 @@ era: "1996-1998"
 lifecycle_at_study: "current"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Novell IntranetWare
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IntranetWare provides extensive improvements to platform/print/file/application/security; good Internet integration — [[study-nospra~1-bd7d6a]]
+- IntranetWare provides extensive improvements to platform/print/file/application/security; good Internet integration `[ps=3]` — [[study-nospra~1-bd7d6a]]

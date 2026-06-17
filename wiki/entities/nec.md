@@ -12,9 +12,9 @@ status: "active"
 successor: "[none]"
 years_active: "1899-present"
 occurrence_count: 4
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 0.4
+prescience_obs_count: 5
 ---
 
 # NEC Corporation
@@ -29,10 +29,10 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- high-end server performance breakthrough — [[study-2002-performance-breakthroughs-the-benchmarking-fanatic-6d41fa]]
+- Fuel cells poised to be alternate power sources for all kinds of portable technology; fuel-cell cell phone rumored in Asia by end of 2003 `[ps=2]` — [[study-dct-oct.-4-hot-topic-b61c0d]]
+- high-end server performance breakthrough `[ps=0]` — [[study-2002-performance-breakthroughs-the-benchmarking-fanatic-6d41fa]]
+- 5 hours (prototype shown at WPC Expo Tokyo, September 17, 2003) `[ps=0]` — [[study-dct-oct.-4-hot-topic-b61c0d]]
+- On sale 2004; 40-hour version in 2005 `[ps=0]` — [[study-dct-oct.-4-hot-topic-b61c0d]]
+- [UNVERIFIED] `[ps=0]` — [[study-dct-oct.-4-hot-topic-b61c0d]]
 - named as potentially affected semiconductor firm — [[study-cnbc-sars-electronics-supply-chain-impact-92deff]]
-- 5 hours (prototype shown at WPC Expo Tokyo, September 17, 2003) — [[study-dct-oct.-4-hot-topic-b61c0d]]
-- On sale 2004; 40-hour version in 2005 — [[study-dct-oct.-4-hot-topic-b61c0d]]
-- [UNVERIFIED] — [[study-dct-oct.-4-hot-topic-b61c0d]]
-- Fuel cells poised to be alternate power sources for all kinds of portable technology; fuel-cell cell phone rumored in Asia by end of 2003 — [[study-dct-oct.-4-hot-topic-b61c0d]]
 - NEC: Digital Watermark DataBlade for DVD content-protection — [[study-informix-universal-server-launch-object-relational-fb2cd4]]

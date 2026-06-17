@@ -12,9 +12,9 @@ era: "1970s-1998"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # DEC's financial accounting system
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'The only financial experience Vin has ever had was with Digital. I don't believe he brings the broad perspective that is necessary there or the cash management skills the company is going to need.' — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]
-- DEC's financial accounting system 'is so arcane and quite specific to the history that Digital has passed through. To bring in an outsider to decipher that would be tough to do.' Also: 'is broken in many ways and needs to be fixed.' — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]
+- DEC's financial accounting system 'is so arcane and quite specific to the history that Digital has passed through. To bring in an outsider to decipher that would be tough to do.' Also: 'is broken in many ways and needs to be fixed.' `[ps=4]` — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]
+- 'The only financial experience Vin has ever had was with Digital. I don't believe he brings the broad perspective that is necessary there or the cash management skills the company is going to need.' `[ps=0]` — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]

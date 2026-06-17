@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: "Oracle (acquired 2006)"
 years_active: "1993-2006"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Siebel Systems
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- $2B revenue stream attributed to Aberdeen-led CRM category creation `[ps=1]` — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
 - Aberdeen created the CRM category for Siebel generating a $2B revenue stream before any competitor could field a competing application — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- $2B revenue stream attributed to Aberdeen-led CRM category creation — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]

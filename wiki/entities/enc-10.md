@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Prodigy Services Company; service discontinued 2001"
 years_active: "1984-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sears/IBM Prodigy
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sears/IBM Prodigy expects 100 TPS within three years — [[study-1988-encore-oltp-market-tps-needs-deee45]]
+- Sears/IBM Prodigy expects 100 TPS within three years `[ps=0]` — [[study-1988-encore-oltp-market-tps-needs-deee45]]

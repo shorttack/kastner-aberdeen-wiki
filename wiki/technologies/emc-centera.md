@@ -12,9 +12,9 @@ era: "2002-2016"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # EMC Centera (CAS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Centera reported at application level to be one-third the performance of conventional RAID-based architecture by enterprise interviewees; indexing features reported missing — [[study-05-idc-sata-report-0872b8]]
+- Centera reported at application level to be one-third the performance of conventional RAID-based architecture by enterprise interviewees; indexing features reported missing `[ps=4]` — [[study-05-idc-sata-report-0872b8]]

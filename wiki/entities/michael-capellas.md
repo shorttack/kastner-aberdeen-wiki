@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1998-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Michael Capellas
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Capellas became CEO of WorldCom/MCI Nov 2002 (same week); led MCI through bankruptcy and Verizon merger (2006) `[ps=5]` — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]
+- HPQ fell 11% on day of Capellas resignation announcement `[ps=0]` — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]
 - Capellas predicted PC division would return to profitability in H1 FY2003 — [[study-2001-hp-cpq-merger-collection-edbca1]]
-- HPQ fell 11% on day of Capellas resignation announcement — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]
-- Capellas became CEO of WorldCom/MCI Nov 2002 (same week); led MCI through bankruptcy and Verizon merger (2006) — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]

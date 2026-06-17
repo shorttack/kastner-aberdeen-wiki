@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1914-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Federal Trade Commission
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- FTC increased enforcement on rebate advertising; staff guidance on 'after rebate' pricing disclosure followed CT AG-style investigations nationally 2006-2010 — [[study-great-rebate-runaround-businessweek-grow-00f459]]
+- FTC increased enforcement on rebate advertising; staff guidance on 'after rebate' pricing disclosure followed CT AG-style investigations nationally 2006-2010 `[ps=4]` — [[study-great-rebate-runaround-businessweek-grow-00f459]]

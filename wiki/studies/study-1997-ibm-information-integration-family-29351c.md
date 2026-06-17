@@ -3,7 +3,7 @@ title: "IBM Information Integration Family"
 slug: "study-1997-ibm-information-integration-family-29351c"
 page_type: "study"
 tags: ["type/study", "collection/Profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1997-ibm-information-integration-family--29351c"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.1
+prescience_obs_count: 21
 ---
 
 # IBM Information Integration Family
@@ -32,28 +32,28 @@ _Published 1997, author **Aberdeen Group**, type **Profile**._
 
 ## Top observations
 
+- Enterprises facing proliferating data archipelagoes requiring ever-faster merging of larger data streams `[ps=5]`
+- Key value: reuse information integration middleware across recurring projects vs. one-off builds `[ps=5]`
+- Log-based capture to staging area then apply to destination; minimizes production database impact `[ps=4]`
+- State management via variable substitution for OLTP transactions across web connections `[ps=4]`
+- Full enterprise data integration is 'difficult if not impossible'; focused data marts achieve competitive advantage `[ps=4]`
+- Absorbed into IBM DB2 Replication; log-based CDC pattern validated by entire industry `[ps=4]`
+- Visual Programming Environment due next year (1998) for rapid development; further Java capabilities `[ps=4]`
+- Net.data superseded by WebSphere Application Server and JSP/servlet model circa 2000-2002 `[ps=4]`
+- DataPropagator's log-based architecture will deliver performance and isolation advantages in network computing `[ps=4]`
+- Log-based CDC became dominant pattern for enterprise data replication across all major cloud and on-premises tools `[ps=4]`
+- Targets enterprises with multiple-supplier databases; positions reuse as competitive differentiator `[ps=4]`
+- Outstanding example of IBM winning by the details; majority of enterprises should evaluate `[ps=4]`
+- Enables data movement and application location independence as part of information integration `[ps=4]`
+- Dynamic HTML/SQL macros for browser-to-backend-database interaction without bypassing web server `[ps=3]`
+- Applications do not change when underlying architecture changes — open-server API features `[ps=3]`
+- DB2 serves as hub for heterogeneous replication when combined with DataJoiner and DataPropagator `[ps=3]`
+- Will add further support for traditional RDBMS scalability technologies such as cursors and governors `[ps=2]`
+- DB2-to-Sybase, DB2-to-Oracle, Oracle-to-DB2, Oracle-to-Oracle confirmed customer deployments `[ps=0]`
+- DataJoiner absorbed into IBM DB2 Information Integrator (~2002); later InfoSphere Federation Server `[ps=0]`
+- Informix named as supported DataJoiner join target via open-server operations `[ps=0]`
+- Supports push from laptop or pull from central server for mobile/laptop replication `[ps=0]`
 - DB2, Oracle, Informix, Sybase, Microsoft SQL Server, IMS, VSAM
-- Log-based capture to staging area then apply to destination; minimizes production database impact
-- DB2-to-Sybase, DB2-to-Oracle, Oracle-to-DB2, Oracle-to-Oracle confirmed customer deployments
-- Dynamic HTML/SQL macros for browser-to-backend-database interaction without bypassing web server
-- State management via variable substitution for OLTP transactions across web connections
-- Full enterprise data integration is 'difficult if not impossible'; focused data marts achieve competitive advantage
-- Enterprises facing proliferating data archipelagoes requiring ever-faster merging of larger data streams
-- Key value: reuse information integration middleware across recurring projects vs. one-off builds
 - 1997 plans to add SQL-3 standard support and mimic advanced operations on DBMSs lacking them
-- Applications do not change when underlying architecture changes — open-server API features
 - Will enable 'write-once' apps accessing multiple legacy backend databases over Intranet
-- DataJoiner absorbed into IBM DB2 Information Integrator (~2002); later InfoSphere Federation Server
-- Will add further support for traditional RDBMS scalability technologies such as cursors and governors
-- Absorbed into IBM DB2 Replication; log-based CDC pattern validated by entire industry
-- Visual Programming Environment due next year (1998) for rapid development; further Java capabilities
-- Net.data superseded by WebSphere Application Server and JSP/servlet model circa 2000-2002
-- DataPropagator's log-based architecture will deliver performance and isolation advantages in network computing
-- Log-based CDC became dominant pattern for enterprise data replication across all major cloud and on-premises tools
-- DB2 serves as hub for heterogeneous replication when combined with DataJoiner and DataPropagator
-- Informix named as supported DataJoiner join target via open-server operations
-- Supports push from laptop or pull from central server for mobile/laptop replication
-- Targets enterprises with multiple-supplier databases; positions reuse as competitive differentiator
-- Outstanding example of IBM winning by the details; majority of enterprises should evaluate
 - Sybase SQL Server supported as DataJoiner target; PowerBuilder can invoke DataJoiner
-- Enables data movement and application location independence as part of information integration

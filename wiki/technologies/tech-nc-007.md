@@ -12,9 +12,9 @@ era: "1996-2000"
 lifecycle_at_study: "Introduction"
 lifecycle_current: "Discontinued (replaced by more modern endpoint management)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM Network Station Manager
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Java/HTML-based tool for centralized configuration; prevents user desktop modification — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]
+- Java/HTML-based tool for centralized configuration; prevents user desktop modification `[ps=4]` — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]

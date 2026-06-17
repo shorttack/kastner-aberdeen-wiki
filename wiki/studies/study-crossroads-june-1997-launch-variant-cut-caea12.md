@@ -16,7 +16,7 @@ source_file: "transcript crossroads (6_1997).md"
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
-study_prescience_enum: "[DEFERRED]"
+study_prescience_enum: "low"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

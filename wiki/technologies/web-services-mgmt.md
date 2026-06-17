@@ -12,9 +12,9 @@ era: "2003-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'evolved', 'notes': 'Enterprise Web Services Management has evolved into API Management (Apigee, AWS API Gateway, MuleSoft). Concept fully absorbed into modern integration architectures.', 'source': 'pre-verified'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Enterprise Management / Web Services Management
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Extended value chains vastly complicating enterprise management; partner autonomy conflicts — [[study-technology-themes-ee5ba4]]
+- Extended value chains vastly complicating enterprise management; partner autonomy conflicts `[ps=5]` — [[study-technology-themes-ee5ba4]]

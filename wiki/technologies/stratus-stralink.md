@@ -12,9 +12,9 @@ era: "1981-1990s"
 lifecycle_at_study: "production"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # StrataLINK
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dual StrataLINKs run as parallel separate links; on failure of one, data are retransmitted over the survivor without affecting users — [[study-ieee-db-stratus-32-psk-1d4564]]
+- Dual StrataLINKs run as parallel separate links; on failure of one, data are retransmitted over the survivor without affecting users `[ps=3]` — [[study-ieee-db-stratus-32-psk-1d4564]]

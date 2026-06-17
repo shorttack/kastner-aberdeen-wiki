@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "New"
 lifecycle_current: "Evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Intelligent Copying (feature)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Developers reuse particular mappings tables and user exits within mappings — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
+- Developers reuse particular mappings tables and user exits within mappings `[ps=4]` — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]

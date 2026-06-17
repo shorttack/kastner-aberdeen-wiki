@@ -12,9 +12,9 @@ era: "1997-2000s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # IBM HealthVillage
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Wolf in sheep's clothing — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]
-- NetPC will have little change on PC direction over 18 months — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]
-- Provider directory, member services, health info, nurse line e-mail for plan members — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]
+- NetPC will have little change on PC direction over 18 months `[ps=5]` — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]
+- Provider directory, member services, health info, nurse line e-mail for plan members `[ps=4]` — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]
+- Wolf in sheep's clothing `[ps=0]` — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]

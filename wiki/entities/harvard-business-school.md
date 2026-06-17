@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1908-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Harvard Business School
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- John Logan's HBS affiliation noted; ties Aberdeen analysis to academic distributed-computing literature — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- John Logan's HBS affiliation noted; ties Aberdeen analysis to academic distributed-computing literature `[ps=0]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]

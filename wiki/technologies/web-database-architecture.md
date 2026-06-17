@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Web-Database Application Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen urges enterprises to simultaneously deploy transactive Internet apps while building long-term architectural foundation for Web OLTP — [[study-aberdeen-1996-spider-technologies-netdynamics]]
+- Aberdeen urges enterprises to simultaneously deploy transactive Internet apps while building long-term architectural foundation for Web OLTP `[ps=5]` — [[study-aberdeen-1996-spider-technologies-netdynamics]]

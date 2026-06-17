@@ -12,9 +12,9 @@ era: "1995-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.75
+prescience_obs_count: 4
 ---
 
 # UltraSPARC Processor Architecture
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Anticipated 1996 64-bit transition dampened 1995 growth — [[study-aberdeen-1996-risc-unix-market]]
-- Comprehensive data warehouse infrastructure: UltraSPARC servers + Gigaplane bus + Solaris 2.5 + SPARCstorage + Database Engineering group + RDBMS partnerships + competency centers — [[study-aberdeen-1996-sun-microsystems-decision-warehouse]]
-- 2x processing power, 5x bandwidth, 20% latency reduction vs prior SPARC architecture — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]
-- New Enterprise Server line is totally new design inside and out; not a simple update of older SPARCservers — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]
+- Comprehensive data warehouse infrastructure: UltraSPARC servers + Gigaplane bus + Solaris 2.5 + SPARCstorage + Database Engineering group + RDBMS partnerships + competency centers `[ps=3]` — [[study-aberdeen-1996-sun-microsystems-decision-warehouse]]
+- Anticipated 1996 64-bit transition dampened 1995 growth `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
+- 2x processing power, 5x bandwidth, 20% latency reduction vs prior SPARC architecture `[ps=0]` — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]
+- New Enterprise Server line is totally new design inside and out; not a simple update of older SPARCservers `[ps=0]` — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]

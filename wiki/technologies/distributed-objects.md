@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'legacy-unsupported', 'notes': 'Distributed objects technology (CORBA/ORB/DCOM) has been largely superseded by REST APIs, microservices, and gRPC. CORBA spec still exists via OMG but is not actively developed for mainstream use. Legacy installations remain.', 'source': 'https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Distributed Objects
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Fast evolving but presently imprecise — [[study-1996-electronic-commerce-25d31b]]
+- Fast evolving but presently imprecise `[ps=0]` — [[study-1996-electronic-commerce-25d31b]]

@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "2000s-2010s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Peter Cleveland
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Day 2 12:00-1:15 PM: Lunch with Peter Cleveland (VP, Legal and Corporate Affairs / Director, Global Public Policy). — [[study-peter-kastner-10-bde195]]
+- Day 2 12:00-1:15 PM: Lunch with Peter Cleveland (VP, Legal and Corporate Affairs / Director, Global Public Policy). `[ps=0]` — [[study-peter-kastner-10-bde195]]

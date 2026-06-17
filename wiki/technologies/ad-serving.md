@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Internet Ad Serving
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- More than 5 billion impressions per month — [[study-mirror-image-profile-v2-050404-97e2a6]]
+- More than 5 billion impressions per month `[ps=0]` — [[study-mirror-image-profile-v2-050404-97e2a6]]

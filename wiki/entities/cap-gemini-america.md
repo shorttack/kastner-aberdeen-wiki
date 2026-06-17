@@ -12,9 +12,9 @@ status: "merged"
 successor: "Capgemini SE"
 years_active: "1981-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Cap Gemini America
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Profiled as strong Y2K services provider — [[study-1998-y2k-report-f512fb]]
+- Profiled as strong Y2K services provider `[ps=0]` — [[study-1998-y2k-report-f512fb]]

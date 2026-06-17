@@ -3,7 +3,7 @@ title: "Summary of Peter Kastner's Research on Service-Oriented Architecture (SO
 slug: "study-soa-overview-docx-12612f"
 page_type: "study"
 tags: ["type/study", "collection/ai-response"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "soa-overview-docx-12612f"
 author: "Peter S. Kastner (AI-assisted summary)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.89
+prescience_obs_count: 9
 ---
 
 # Summary of Peter Kastner's Research on Service-Oriented Architecture (SOA)
@@ -32,13 +32,13 @@ _Published 2024, author **Peter S. Kastner (AI-assisted summary)**, type **ai-re
 
 ## Top observations
 
-- Integration and complexity management identified as primary SOA driver
-- Faster deployment, easier integration, quicker customization
-- ESB is foundational middleware for SOA; evolving to include governance and management
-- Successful SOA requires strong focus on business needs and IT-business alignment
-- Evaluate existing IT infrastructure extensibility; focus on reusing apps through web services
-- Invest in governance and management tools for sustainable long-term SOA value
-- The promise of SOA is real but benefits have not been widely distributed
-- Initial IT benefits must precede business benefits in SOA adoption
-- Industry in transitional phase; many organizations recognizing limitations of traditional integration
+- Successful SOA requires strong focus on business needs and IT-business alignment `[ps=5]`
+- Evaluate existing IT infrastructure extensibility; focus on reusing apps through web services `[ps=5]`
+- Integration and complexity management identified as primary SOA driver `[ps=4]`
+- ESB is foundational middleware for SOA; evolving to include governance and management `[ps=4]`
+- Invest in governance and management tools for sustainable long-term SOA value `[ps=4]`
+- The promise of SOA is real but benefits have not been widely distributed `[ps=4]`
+- Faster deployment, easier integration, quicker customization `[ps=3]`
+- Initial IT benefits must precede business benefits in SOA adoption `[ps=3]`
+- Industry in transitional phase; many organizations recognizing limitations of traditional integration `[ps=3]`
 - Kastner's SOA modularity/scalability concepts foundational to microservices architecture evolution

@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Microsoft Makes History: Delivers Bluetooth Keyboard and Mouse
@@ -32,8 +32,8 @@ _Published 2002, author **Microsoft Corporation (press release)**, type **press-
 
 ## Top observations
 
-- 'It is like the Bluetooth gun went off, but everyone stumbled across the start line.' Microsoft Wireless Optical Desktop for Bluetooth is the key catalyst making the Bluetooth marketplace happen.
-- Microsoft Wireless Optical Desktop for Bluetooth unveiled as first major-brand Bluetooth keyboard+mouse bundle with USB transceiver.
+- 'It is like the Bluetooth gun went off, but everyone stumbled across the start line.' Microsoft Wireless Optical Desktop for Bluetooth is the key catalyst making the Bluetooth marketplace happen. `[ps=2]`
+- Microsoft Wireless Optical Desktop for Bluetooth unveiled as first major-brand Bluetooth keyboard+mouse bundle with USB transceiver. `[ps=0]`
 - Positioned around mobile phones integrating with PC via Bluetooth; enables laptop users to leave handset in pocket/briefcase.
 - Kastner endorsement implies Bluetooth PC peripherals will go mainstream following this launch.
 - By 2010 Bluetooth peripherals were standard; by 2020 the standard was ubiquitous across phones, laptops, wearables, cars.

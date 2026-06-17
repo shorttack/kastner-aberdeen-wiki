@@ -1,5 +1,5 @@
 ---
-title: "==> picture [442 x 38] intentionally omitted <=="
+title: "Written Eclipsys Auditor Report 4 (Aberdeen, 2004)"
 slug: "study-written-eclipsys-auditor-report-4-672868"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -18,13 +18,13 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
 prescience_max: 0.0
-prescience_mean: -0.33
-prescience_obs_count: 3
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
-# ==> picture [442 x 38] intentionally omitted <==
+# Written Eclipsys Auditor Report 4 (Aberdeen, 2004)
 
-> This study analyzes ==> picture [442 x 38] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+> Aberdeen Group study written-eclipsys-auditor-report-4-672868. Source: Written__Eclipsys_auditor_report_4.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: wireless. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
 
 
 _Published 2004, author **Aberdeen Group**, type **benchmark**._
@@ -34,4 +34,4 @@ _Published 2004, author **Aberdeen Group**, type **benchmark**._
 
 - The benchmark configuration (called the System Under Test, or SUT) is described in Figure 1. `[ps=0]`
 - Only 1% of users would see a greater response time. `[ps=0]`
-- **Figure 1: Performance Test Certification Environment (or “SUT”)** `[ps=-1]`
+- **Figure 1: Performance Test Certification Environment (or “SUT”)**

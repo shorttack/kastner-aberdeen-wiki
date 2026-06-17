@@ -12,9 +12,9 @@ era: "1989-1995"
 lifecycle_at_study: "vendor-strategy"
 lifecycle_current: "abandoned"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM AD/Cycle
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Cross-Life-Cycle-Application-Development-Platform-Repository — [[study-aberdeen-multitrak-headlines-context-kas-f941d1]]
+- Cross-Life-Cycle-Application-Development-Platform-Repository `[ps=4]` — [[study-aberdeen-multitrak-headlines-context-kas-f941d1]]
 - Became a fiasco; IBM could not deliver promised services; killed mainframe ISV tools market — [[study-nti-9-mainframe-role-1993-77fc40]]

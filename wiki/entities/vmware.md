@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Broadcom (VMware division)"
 years_active: "1998-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # VMware Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- manageability-partner — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- manageability-partner `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]

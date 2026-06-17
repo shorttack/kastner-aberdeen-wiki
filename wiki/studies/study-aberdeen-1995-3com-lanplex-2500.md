@@ -3,7 +3,7 @@ title: "3Com's LANplex 2500: Profiling the Consummate Ethernet/FDDI Workgroup Sw
 slug: "study-aberdeen-1995-3com-lanplex-2500"
 page_type: "study"
 tags: ["type/study", "collection/product-profile"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1995-3com-lanplex-2500"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.06
+prescience_obs_count: 31
 ---
 
 # 3Com's LANplex 2500: Profiling the Consummate Ethernet/FDDI Workgroup Switch
@@ -32,28 +32,28 @@ _Published 1995, author **Aberdeen Group**, type **product-profile**._
 
 ## Top observations
 
-- Feature-rich and aggressively priced; most capable offering vs. Cisco and ALANTEC
-- 565,000 pps (packets per second)
-- 6 to 9 months ahead on performance and features
-- Backbone switching market leader
-- ASIC front-end 'fast path' + dual RISC processors; repetitive packet processing in ASIC, intelligent functions in RISC
-- Introduced first in LANplex 2500; next to be added to LANplex 6000
-- Collapsed backbone with server farm consolidation in data center; complex functions centralized in router
-- Distributed LAN switches in wiring closets; FDDI and Fast Ethernet high-speed links to servers and desktops
-- ATM migration beginning with campus backbone, extended to buildings where cost/performance justifies
-- Q1 1996
-- Users plan ATM backbone implementation in 1996 timeframe
-- Early 1996 (Q1)
-- Still prominent as active deliverable on planning agendas of many large enterprises
-- LANplex 2500 'came through in these environments with flying colors'
-- Device must be fully flash PROM and fully downloadable from central site; no forklift upgrades acceptable
-- Ethernet, FDDI, 565K pps (3Com) vs. IP/IPX routing with AT in Q3'95 (Cisco) vs. superior but not as complete as Cisco (Bay/ALANTEC)
-- 3Com: IP routing available; Cisco: IP/IPX routing with AT in Q3'95; Bay: will have key routing protocols like ALANTEC
-- 3Com: FDDI today + Fast Ethernet and ATM; Cisco: ambitious timeframe; Bay/ALANTEC: all players have indicated support
-- 3Com: redundant power and hot-swap modules; Cisco and 3Com appear stronger on reliability
-- Acquired 1993; formed core of 3Com Switching Division
-- Up to 16 switched 10 Mbps Ethernet ports and 2 switched FDDI ports
-- Breaks FDDI packets (max 4500 bytes) into Ethernet frames (max 1500 bytes) for FDDI-to-Ethernet translation
-- Guaranteed minimum buffers per port with dynamic expansion; reduces packet drops under port contention
-- Any port can be designated a roving RMON port; unlimited roving ports per switch; works across multiple switches
-- RFC 1271 support enabling RMON access across all ports; developing in-box RMON agent
+- ASIC front-end 'fast path' + dual RISC processors; repetitive packet processing in ASIC, intelligent functions in RISC `[ps=5]`
+- Collapsed backbone with server farm consolidation in data center; complex functions centralized in router `[ps=5]`
+- Virtual Networking cited for security, bandwidth management, and ease of moves/adds/changes `[ps=5]`
+- ATM uplinks shipped but ATM failed to achieve predicted workgroup dominance; Gigabit Ethernet emerged as alternative by 1997-1998 `[ps=5]`
+- ATM did NOT become the desktop/workgroup successor; Gigabit Ethernet (1998) and 10GbE (2002) won. ATM limited to WAN/carrier backbones. `[ps=5]`
+- Device must be fully flash PROM and fully downloadable from central site; no forklift upgrades acceptable `[ps=4]`
+- Guaranteed minimum buffers per port with dynamic expansion; reduces packet drops under port contention `[ps=4]`
+- Telnet server connectivity requirement puts Cisco on the defensive; 3Com lead expected to be short-lived `[ps=4]`
+- FDDI remained enterprise backbone technology through ~1997 then rapidly displaced by Gigabit Ethernet (802.3z ratified 1998) `[ps=4]`
+- 3Com: IP routing available; Cisco: IP/IPX routing with AT in Q3'95; Bay: will have key routing protocols like ALANTEC `[ps=3]`
+- 3Com: redundant power and hot-swap modules; Cisco and 3Com appear stronger on reliability `[ps=3]`
+- Any port can be designated a roving RMON port; unlimited roving ports per switch; works across multiple switches `[ps=3]`
+- Switched Ethernet client connections to FDDI-based servers on campus backbone; replaces expensive router-based FDDI connections `[ps=3]`
+- Technology leadership through proprietary ASIC development; fewer components, higher reliability, better price/performance `[ps=3]`
+- 3Com must deliver Fast Ethernet and ATM uplink promise to maintain leadership; density improvements also expected `[ps=3]`
+- ATM migration beginning with campus backbone, extended to buildings where cost/performance justifies `[ps=2]`
+- Isolated server traffic on separate backbone using second FDDI port; departmental backbone with local servers `[ps=2]`
+- Backbone switching market leader `[ps=1]`
+- Feature-rich and aggressively priced; most capable offering vs. Cisco and ALANTEC `[ps=0]`
+- 6 to 9 months ahead on performance and features `[ps=0]`
+- Q1 1996 `[ps=0]`
+- Early 1996 (Q1) `[ps=0]`
+- LANplex 2500 'came through in these environments with flying colors' `[ps=0]`
+- Ethernet, FDDI, 565K pps (3Com) vs. IP/IPX routing with AT in Q3'95 (Cisco) vs. superior but not as complete as Cisco (Bay/ALANTEC) `[ps=0]`
+- 3Com: FDDI today + Fast Ethernet and ATM; Cisco: ambitious timeframe; Bay/ALANTEC: all players have indicated support `[ps=0]`

@@ -12,9 +12,9 @@ era: "2010-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "ubiquitous"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Intel AES-NI / Hardware Crypto
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- hardware-instructions — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- hardware-instructions `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- universal-standard `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
 - business-norm — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- universal-standard — [[study-2010-intel-vpro-daily-globe-6f615e]]

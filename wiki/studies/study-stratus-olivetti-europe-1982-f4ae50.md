@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 4
 ---
 
 # Stratus Expands in Europe — Olivetti $40M OEM Deal, c.1982 (PSK as Stratus communications director)
@@ -32,9 +32,9 @@ _Published 1982, author **Robert Schneider (local newspaper staff)**, type **pre
 
 ## Top observations
 
-- Three-year $40M export contract; France/Italy/Spain/S.Africa/S.America + UK/W.Germany/Benelux marketing; OEM integration; $40M minimum volume requirement
+- Three-year $40M export contract; France/Italy/Spain/S.Africa/S.America + UK/W.Germany/Benelux marketing; OEM integration; $40M minimum volume requirement `[ps=0]`
+- Stratus-32 systems sold at $150,000-$300,000 each; goal 30 systems shipped 1982 `[ps=0]`
+- 'Stratus communications director' — alternate/overlapping title vs 'manager of marketing development' `[ps=0]`
+- Stratus plans to open its first international office in UK/W.Germany/Benelux by January 1983 `[ps=0]`
 - $6.7M from VC including Olivetti, GE, Bank of America, Institutional Venture Partners
-- Stratus-32 systems sold at $150,000-$300,000 each; goal 30 systems shipped 1982
-- 'Stratus communications director' — alternate/overlapping title vs 'manager of marketing development'
-- Stratus plans to open its first international office in UK/W.Germany/Benelux by January 1983
 - First of all, there is no way we could build $40 million worth of computers this year. And secondly, it will take Olivetti a while to integrate the system into their product line

@@ -3,7 +3,7 @@ title: "Chapter 3: Eight Years in the Physics of Consulting (1972–1979)"
 slug: "study-volume-1-ch03-physics-of-consulting-1972-1979"
 page_type: "study"
 tags: ["type/study", "collection/memoir"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "volume-1-ch03-physics-of-consulting-1972-1979"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.95
+prescience_obs_count: 62
 ---
 
 # Chapter 3: Eight Years in the Physics of Consulting (1972–1979)
@@ -32,28 +32,28 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 
 ## Top observations
 
-- Kastner joined ADL Systems in Cambridge after Wang Laboratories announced plans to move PHI to Tewksbury, triggering PHI diaspora.
-- PHI alumni arrived as 'small, seasoned rescue squad, hired precisely because we knew how systems actually worked rather than how they were supposed to work.'
-- At PHI, staff lived inside the machine—core dumps, disk-arm rotations, microsecond counts. Machine was the universe with rules.
-- Most systems don’t fail in the machine; they fail in the boardroom, the warehouse, or the customs shed at the airport.
-- Migrate Chase Manhattan Bank securities processing (~$20B in assets) from aging Univac hardware to IBM without losing a single share or penny.
-- Approximately $20 billion in assets in securities processing operation.
-- Equipment described as 'archeologically obsolete'; spare parts legendarily dumped at sea; impossible to source replacement hardware at any price.
-- Two Cosmos experts delivered 25 million lines of bug-free COBOL code in one year.
-- Univac 96-column cards vs. IBM 80-column: every Chase field designed for 96 columns had to be exploded into multiple 80-column IBM cards, rebuilding every field boundary.
-- Rockefeller’s holdings were so large that the standard dividend field could not contain the numbers after column-count reduction; team spent hours hunting for one more column.
-- Chase assembled a small army of temp workers to reprocess days of transactions by hand to verify both Univac and IBM systems produced identical answers.
-- Automation is usually born not from a love of elegance but from sheer exhaustion with manual labor.
-- Architecture built for Chase ran for decades, surviving corporate mergers and hardware generations; DNA traces persist in modern financial plumbing.
-- By 1975 Kastner had become a ‘vetted asset’; clients named in proposals began requesting him personally.
-- Turnkey hospital system to serve an urban poverty area in Rio de Janeiro; client insisted Kastner be on the project after reading his biography in the proposal.
-- Brazil’s currency controls made importing American computer hardware nearly impossible; online terminal design adapted to paper forms and bicycle couriers.
-- Instead of terminals: paper forms; instead of data packets: young men on bicycles pedaling batch-input forms several km from hospital to computer center.
-- Kastner debugged Burroughs code in 104-degree heat; air conditioners stripped from building; notes stained with sweat, ink ran.
-- Brazilian customs inspector unspooled magnetic tape reel on floor searching for forbidden images; tape at 800 bpi looks nothing like a photograph.
-- Rio trip changed how Kastner thought: software is a vital organ; the system is a living organism embedded in a hostile environment—power outages, currency crises, bad roads, bad policy.
-- The technology was never the limiting factor. The operating environment was.
-- ADL sent Kastner into paper mills, electric utilities, municipal police departments with expectation he’d understand operations quickly enough to design systems for proposals.
-- Mill produced 2,000-lb kraft paper rolls in continuous industrial ballet; inventory-control system had to decide quickly whether to ship roll or divert to cardboard line.
-- If the routing decision took too long, the floor ran out of space; 2,000-lb roll is a one-ton projectile. Software’s job was to be an unseen choreographer.
-- Like the Lucille Ball chocolate-factory sketch—except the chocolates weighed a ton and could kill someone; hesitation in software was fatal.
+- Most systems don’t fail in the machine; they fail in the boardroom, the warehouse, or the customs shed at the airport. `[ps=5]`
+- Rio trip changed how Kastner thought: software is a vital organ; the system is a living organism embedded in a hostile environment—power outages, currency crises, bad roads, bad policy. `[ps=5]`
+- If the routing decision took too long, the floor ran out of space; 2,000-lb roll is a one-ton projectile. Software’s job was to be an unseen choreographer. `[ps=5]`
+- 5 bits per second is roughly one billion times slower than a modern USB connection; bandwidth was not the point—meters needed to report infrequently and honestly. `[ps=5]`
+- Real danger in tech projects is rarely technical; it is political, managerial, financial misalignment wrapped around mis-scoped, mis-priced, or mis-governed projects. `[ps=5]`
+- United Shoe migration was not a software project gone wrong; it was an architectural mismatch approved by people who did not understand the physics. `[ps=5]`
+- Minicomputer revolution was gathering force; computing escaping the glass house; economic center of gravity shifting from system builders to designers and sellers. `[ps=5]`
+- In the world Kastner was trained for, computer time was scarce and human labor cheap. By end of 1970s that equation was inverting: human judgment based on experience was becoming the scarce resource. `[ps=5]`
+- Automation is usually born not from a love of elegance but from sheer exhaustion with manual labor. `[ps=4]`
+- The technology was never the limiting factor. The operating environment was. `[ps=4]`
+- Proposed using power distribution lines as communication medium; low-frequency signals superimposed on 60-Hz current; 5 baud—no new wiring required. `[ps=4]`
+- Best solution fits physical and economic constraints of actual system, not engineer’s ambitions. Embracing appropriate technology is not settling—it is respecting reality. `[ps=4]`
+- Paranoia, attention to edge cases, obsession with what logs actually say rather than what they should say translate surprisingly well into forensic consulting work. `[ps=4]`
+- Reporting the OEM accounting problem was a defining professional moment; crystallized conviction: bad accounting can kill a company faster than bad code. `[ps=4]`
+- ADL specialized in fixed-price turnkey contracts when system complexity was exploding beyond reliable scoping; capped upside (fixed fee) while leaving downside open. `[ps=4]`
+- ADL was taking equity risk for consulting fees on fixed-price custom development; Kastner could see lawsuits coming. `[ps=4]`
+- DEC, Data General, Prime, and a dozen others were selling machines real businesses could operate without a priesthood of systems programmers. `[ps=4]`
+- Felt like a man who’d spent a decade mastering the kitchen knife—skilled, proud of craft—only to realize real leverage had migrated to whoever designed the menu and owned the franchise. `[ps=4]`
+- Leaving the coding pad was not a repudiation of the work; it was recognition that the physics of the industry had changed. `[ps=4]`
+- Selling fixed-price custom development is not selling applications; it is fix-pricing custom development with open downside; equity risk for consulting fees. `[ps=4]`
+- Rural meter reading at 5 baud on power lines: matching solution to infrastructure at hand is not settling for second best—it is respecting reality. `[ps=4]`
+- ‘Turn on the new system on January 1 because that’s easy for accounting.’ IT manager already fired; company weeks from being unable to close books. `[ps=4]`
+- Over ADL years Kastner developed taxonomy of system failure loci: boardroom (political/financial), warehouse (operational), customs shed (regulatory/environmental). `[ps=4]`
+- Every IBM-era tool and habit Kastner had developed over a decade was suddenly useless on Honeywell hardware. `[ps=3]`
+- ADLS management decided to migrate IBM 4300 mainframe code to Data General Eclipse minicomputer; violated architectural physics of both platforms. `[ps=3]`

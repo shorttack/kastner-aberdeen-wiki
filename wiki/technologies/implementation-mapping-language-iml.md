@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "obsolete"
 lifecycle_current: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Implementation Mapping Language (IML)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IML: describe object implementations; MML: select among implementations — [[study-aberdeen-1995-digital-objectbroker]]
+- IML: describe object implementations; MML: select among implementations `[ps=4]` — [[study-aberdeen-1995-digital-objectbroker]]

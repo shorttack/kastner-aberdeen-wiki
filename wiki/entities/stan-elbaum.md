@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: "unknown"
 years_active: "2000s"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Stanley D. Elbaum
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- VP Strategic Solutions; executive responsible for Task 2 Tools Development `[ps=0]` — [[study-08-phase2-project-kickoff-2ea711]]
 - Stan Elbaum responsible for Solution Workflow questions (5 questions/5 pools of answers); KPI indicators and calculations; all due December 31 2003 — [[study-07-pools-of-storage-functional-spec-597fa5]]
-- VP Strategic Solutions; executive responsible for Task 2 Tools Development — [[study-08-phase2-project-kickoff-2ea711]]

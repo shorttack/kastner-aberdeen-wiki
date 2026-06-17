@@ -3,7 +3,7 @@ title: "Selecting and Using Advanced Software Toolsets"
 slug: "study-nti-5-development-toolsets-0e71c5"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "nti-5-development-toolsets-0e71c5"
 author: "Peter S. Kastner, John Logan, Thomas Willmott"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.42
+prescience_obs_count: 26
 ---
 
 # Selecting and Using Advanced Software Toolsets
@@ -32,28 +32,28 @@ _Published 1993, author **Peter S. Kastner, John Logan, Thomas Willmott**, type 
 
 ## Top observations
 
-- Development expertise constraining overall industry growth despite new tools
-- Mega enterprise repository is failed concept
-- 3-5 years out for production systems from 1993
-- [UNVERIFIED]
-- Will revolutionize industry by end of 1990s
-- [UNVERIFIED]
-- Revenue leader; Oracle7 aggressive positioning
-- Well-positioned as client-server advocate; SQLServer remarketed by Microsoft
-- Less visible in market since ASK Computer acquisition
-- Traditional strength in DEC and HP installed base
-- Dramatic revenue growth last several quarters; excellent ISV platform reputation
-- Widely used IBM mainframe; recent thrust to HP 9000 and NCR System 3000
-- Viable 3GL component; mostly-tools-some-C multi-component strategy emerging
-- Language of choice for large-scale mainframe; data centers in maintenance mode
-- Disappointing; being reworked
-- Leading Windows GUI builder for PC development
-- Full-blown integrated client-server for complex transaction processing
-- Major GUI alternatives: Windows, Macintosh, Motif, OpenLook; ISVs struggling with multi-GUI expense
-- Core enterprise data still in hierarchical IMS files; SQL bridges required
-- MIS buyers confused by huge variety of client-server toolsets
-- No universally satisfactory client; organizations dealing with Windows, OS/2, Mac, Unix
-- Enhance legacy systems + create strategic applications + continuous staff training
-- Not always necessary to select RDBMS supplier's toolkit; can supplement or replace
-- Standardizing types of service requests objects universally provide; object behavior in distributed systems
-- European BKS Poet, Object Design, Objectivity, Ontos, Servio, Versant offer OODBMS
+- Development expertise constraining overall industry growth despite new tools `[ps=5]`
+- Not always necessary to select RDBMS supplier's toolkit; can supplement or replace `[ps=5]`
+- C continued emphasis; gradual migration to object orientation in ISV community `[ps=5]`
+- Mega enterprise repository is failed concept `[ps=4]`
+- Well-positioned as client-server advocate; SQLServer remarketed by Microsoft `[ps=4]`
+- Less visible in market since ASK Computer acquisition `[ps=4]`
+- Language of choice for large-scale mainframe; data centers in maintenance mode `[ps=4]`
+- MIS buyers confused by huge variety of client-server toolsets `[ps=4]`
+- CDD+ repository large base; strategy uncertain post-reorganization `[ps=4]`
+- Pilot workgroup tools must scale to hundreds or thousands of clients `[ps=4]`
+- Will revolutionize industry by end of 1990s `[ps=3]`
+- Revenue leader; Oracle7 aggressive positioning `[ps=3]`
+- Widely used IBM mainframe; recent thrust to HP 9000 and NCR System 3000 `[ps=3]`
+- Viable 3GL component; mostly-tools-some-C multi-component strategy emerging `[ps=3]`
+- Major GUI alternatives: Windows, Macintosh, Motif, OpenLook; ISVs struggling with multi-GUI expense `[ps=3]`
+- Traditional strength in DEC and HP installed base `[ps=2]`
+- Powersoft and Gupta lead for Windows/DOS; Forte and Cooperative Solutions for enterprise OLTP `[ps=2]`
+- No universally satisfactory client; organizations dealing with Windows, OS/2, Mac, Unix `[ps=1]`
+- 3-5 years out for production systems from 1993 `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Dramatic revenue growth last several quarters; excellent ISV platform reputation `[ps=0]`
+- Disappointing; being reworked `[ps=0]`
+- Leading Windows GUI builder for PC development `[ps=0]`
+- Full-blown integrated client-server for complex transaction processing `[ps=0]`
+- European BKS Poet, Object Design, Objectivity, Ontos, Servio, Versant offer OODBMS `[ps=0]`

@@ -12,9 +12,9 @@ era: "1978-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Intel Architecture (IA)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ~1B processors/year TAM — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
+- ~1B processors/year TAM `[ps=2]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
 - 2B+ processors/year by end of decade — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
 - 'Silicon gene-splicing' — application-specific IA variants — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]

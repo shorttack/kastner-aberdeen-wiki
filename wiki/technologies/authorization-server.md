@@ -12,9 +12,9 @@ era: "1996-2003"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.33
+prescience_obs_count: 3
 ---
 
 # HP Praesidium Authorization Server
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Role-and-rules-based authorization separating identity/authorization from back-end; authorized access by app/app-server/location/time-of-day/day-of-week/roles; secured replication for HA — [[study-aberdeen-1996-hp-praesidium-family]]
-- Aberdeen predicts role-and-rules-based authorization will replace mechanical ACL-based security controls; transforming mechanical controls into business-logic — [[study-aberdeen-1996-hp-praesidium-family]]
-- RBAC became the dominant enterprise authorization model; NIST RBAC standard published 2004; RBAC is now the industry standard for enterprise IAM, supplanting traditional ACLs as Aberdeen predicted — [[study-aberdeen-1996-hp-praesidium-family]]
+- Role-and-rules-based authorization separating identity/authorization from back-end; authorized access by app/app-server/location/time-of-day/day-of-week/roles; secured replication for HA `[ps=5]` — [[study-aberdeen-1996-hp-praesidium-family]]
+- Aberdeen predicts role-and-rules-based authorization will replace mechanical ACL-based security controls; transforming mechanical controls into business-logic `[ps=4]` — [[study-aberdeen-1996-hp-praesidium-family]]
+- RBAC became the dominant enterprise authorization model; NIST RBAC standard published 2004; RBAC is now the industry standard for enterprise IAM, supplanting traditional ACLs as Aberdeen predicted `[ps=4]` — [[study-aberdeen-1996-hp-praesidium-family]]

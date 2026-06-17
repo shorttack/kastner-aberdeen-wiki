@@ -12,9 +12,9 @@ era: "2003-2010"
 lifecycle_at_study: "mature"
 lifecycle_current: "displaced-by-microservices"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Service-Oriented Architecture (SOA) Stack
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Buyers believe an SOA stack is the right integration strategy for the future — [[study-vitria-testimonials-kastner-bpa-soa-rese-93ccae]]
-- SOA stack is the right integration strategy for the future — [[study-vitria-testimonials-kastner-bpa-soa-rese-93ccae]]
+- Buyers believe an SOA stack is the right integration strategy for the future `[ps=4]` — [[study-vitria-testimonials-kastner-bpa-soa-rese-93ccae]]
+- SOA stack is the right integration strategy for the future `[ps=3]` — [[study-vitria-testimonials-kastner-bpa-soa-rese-93ccae]]

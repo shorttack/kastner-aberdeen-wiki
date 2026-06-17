@@ -12,9 +12,9 @@ era: "1992-"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Sun SPARCcenter 2000
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 10% — [[study-ibm-rs6000-midran~1-88f049]]
-- ~$1.1 billion (~20% of Sun) — [[study-ibm-rs6000-midran~1-88f049]]
+- 10% `[ps=0]` — [[study-ibm-rs6000-midran~1-88f049]]
+- ~$1.1 billion (~20% of Sun) `[ps=0]` — [[study-ibm-rs6000-midran~1-88f049]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "WorldCom / Verizon Business"
 years_active: "1988-1996"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # MFS Network Technologies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 125,000 miles of fiber optic cable installed — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
+- 125,000 miles of fiber optic cable installed `[ps=0]` — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]

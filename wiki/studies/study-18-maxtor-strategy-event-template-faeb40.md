@@ -3,7 +3,7 @@ title: "Maxtor ILM Pools of Storage Strategy Event Data Collection Template"
 slug: "study-18-maxtor-strategy-event-template-faeb40"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "18-maxtor-strategy-event-template-faeb40"
 author: "Aberdeen Group"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.4
+prescience_obs_count: 10
 ---
 
 # Maxtor ILM Pools of Storage Strategy Event Data Collection Template
@@ -32,19 +32,19 @@ _Published 2003, author **Aberdeen Group**, type **employer-record**._
 
 ## Top observations
 
+- Three data types: Structured; Semi-Structured; Unstructured — each with percentage allocation `[ps=5]`
+- Nearline disk modeled alongside nearline tape as a distinct tier `[ps=4]`
+- Midline disk appears as seventh tier alongside traditional online/nearline/offline options `[ps=3]`
+- Quantified cost-per-GB and bottom-line benefit model will be primary mechanism for customer ILM adoption `[ps=2]`
+- Cost/GB specified for each of seven storage tiers `[ps=0]`
+- Old value and New value captured for each of the four bottom-line categories `[ps=0]`
+- Free-text dialog box content per step `[ps=0]`
+- Slides cannot be copied into another deck because diagram is in slide master `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Rinse and repeat — use as many slides as it takes `[ps=0]`
 - One Strategy Event = one scenario; each with sequential Steps duplicated from slide master
-- Three data types: Structured; Semi-Structured; Unstructured — each with percentage allocation
 - Seven tiers modeled: Online disk; Nearline tape; Offline tape; Online disk; Nearline tape; Offline tape; Midline disk; Nearline disk
-- Cost/GB specified for each of seven storage tiers
 - Master Volume (GB/hr) and Size (GB) plus GB stored for each tier
 - Four categories: Downtime; Admin Management; Opportunity Cost Savings; Revenue Operations
-- Old value and New value captured for each of the four bottom-line categories
 - Data flow direction (L or R) specified for each tier transition in each step
 - Real-world minutes per step modeled
-- Free-text dialog box content per step
-- Slides cannot be copied into another deck because diagram is in slide master
-- Quantified cost-per-GB and bottom-line benefit model will be primary mechanism for customer ILM adoption
-- [UNVERIFIED]
-- Midline disk appears as seventh tier alongside traditional online/nearline/offline options
-- Nearline disk modeled alongside nearline tape as a distinct tier
-- Rinse and repeat — use as many slides as it takes

@@ -12,9 +12,9 @@ era: "2011-2013"
 lifecycle_at_study: "emerging"
 lifecycle_current: "succeeded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel Core i5-2500
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Intel Core i5-2500: 166 — [[study-bapco-sysmark-2012-benchmark-post-a40084]]
+- Intel Core i5-2500: 166 `[ps=0]` — [[study-bapco-sysmark-2012-benchmark-post-a40084]]

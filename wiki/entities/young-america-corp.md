@@ -12,9 +12,9 @@ status: "acquired"
 successor: "BrandMuscle 2014-approx; reorganized"
 years_active: "1972-2010s-approx"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Young America Corp.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Nov 7 2005: Massachusetts officials sued Young America Corp demanding audit of $43M in uncashed rebate checks (1995-mid-2002) — [[study-great-rebate-runaround-businessweek-grow-00f459]]
+- Nov 7 2005: Massachusetts officials sued Young America Corp demanding audit of $43M in uncashed rebate checks (1995-mid-2002) `[ps=0]` — [[study-great-rebate-runaround-businessweek-grow-00f459]]

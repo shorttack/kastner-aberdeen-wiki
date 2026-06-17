@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "1996"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # 1996 Atlanta Olympics (IS team)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 95%+ of Atlanta Olympics systems worked; journalist-facing apps failed — caused black-eye reputational damage — [[study-aberdeen-1996-year-2000-transition-opportunity-reconstruction]]
+- 95%+ of Atlanta Olympics systems worked; journalist-facing apps failed — caused black-eye reputational damage `[ps=5]` — [[study-aberdeen-1996-year-2000-transition-opportunity-reconstruction]]

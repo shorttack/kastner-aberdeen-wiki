@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Bill Swanton
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'The thing that we see in webMethods Fabric 7.0 is a really straightforward development environment for building composite applications in an SOA fashion.' — Bill Swanton, AMR Research — [[study-esb-soa-fabric-webmethods-techtarget-see-83b233]]
+- 'The thing that we see in webMethods Fabric 7.0 is a really straightforward development environment for building composite applications in an SOA fashion.' — Bill Swanton, AMR Research `[ps=0]` — [[study-esb-soa-fabric-webmethods-techtarget-see-83b233]]

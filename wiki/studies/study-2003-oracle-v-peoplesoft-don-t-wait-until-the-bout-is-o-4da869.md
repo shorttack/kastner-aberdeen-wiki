@@ -3,7 +3,7 @@ title: "Oracle v. PeopleSoft: Don't Wait Until the Bout is Over"
 slug: "study-2003-oracle-v-peoplesoft-don-t-wait-until-the-bout-is-o-4da869"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2003-oracle-v-peoplesoft-don-t-wait-until-the-bout-is-o-4da869"
 author: "David Alschuler and Tim Minahan"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.25
+prescience_obs_count: 8
 ---
 
 # Oracle v. PeopleSoft: Don't Wait Until the Bout is Over
@@ -32,17 +32,17 @@ _Published 2003, author **David Alschuler and Tim Minahan**, type **market-study
 
 ## Top observations
 
-- Three months active as of August 2003
-- Hostile takeover pursuit
-- Uncertain — both parties showing damage
+- Hostile takeover pursuit `[ps=5]`
+- Significant — both firms showing bruising `[ps=4]`
+- Closed July 18 2003 for $1.75B `[ps=1]`
+- Three months active as of August 2003 `[ps=0]`
+- Uncertain — both parties showing damage `[ps=0]`
+- $2.9 billion `[ps=0]`
+- 13000 employees `[ps=0]`
+- $16 per share (June 6 2003) `[ps=0]`
 - Fighting hostile takeover while integrating JDE acquisition
-- Closed July 18 2003 for $1.75B
-- $2.9 billion
 - 11900 customers
-- 13000 employees
-- $16 per share (June 6 2003)
 - Do not wait — act on ERP decisions now
-- Significant — both firms showing bruising
 - Completed December 2004 at $26.50/share totaling $10.3B
 - Lost independence — acquired by Oracle
 - Became #1 applications vendor in North America

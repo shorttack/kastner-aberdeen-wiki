@@ -12,9 +12,9 @@ era: "1998"
 lifecycle_at_study: "conceptual"
 lifecycle_current: "superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Internet Object Computing (IOC)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internet Object Computing: Java + CORBA + ISP services enabling distributed enterprise computing across corporate boundaries — [[study-intern~1-45df51]]
+- Internet Object Computing: Java + CORBA + ISP services enabling distributed enterprise computing across corporate boundaries `[ps=3]` — [[study-intern~1-45df51]]

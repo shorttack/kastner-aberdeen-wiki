@@ -12,9 +12,9 @@ era: "1995-2020"
 lifecycle_at_study: "active"
 lifecycle_current: "superseded-by-oracle-analytics-cloud"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Oracle BI / OBIEE (Oracle Business Intelligence Enterprise Edition)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3 — [[study-2026-kastner-enterprise-ai-arc]]
+- 3 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 27 — [[study-2026-kastner-enterprise-ai-arc]]

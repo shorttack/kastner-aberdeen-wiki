@@ -12,9 +12,9 @@ era: "1986-1990s"
 lifecycle_at_study: "forecast-1982"
 lifecycle_current: "directionally-correct"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.33
+prescience_obs_count: 3
 ---
 
 # Fault-Tolerant Systems by 1986 (Kastner forecast)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- By 1986, all broad-based computer companies will have to offer fault-tolerant systems; at least a half-dozen or more will be shipping by end of 1983 — [[study-cbn-bochner-stratus-oem-strategy-1982-06-245fd5]]
+- Asked customers: 'What does one hour of downtime cost you?' — shifted IT managers from thinking about performance/capacity to quantifying availability. `[ps=4]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- 'Your ATM network loses $400,000 of transaction revenue per hour... our hardware costs $180,000 more' is an argument. 'We prevent downtime' is a claim. `[ps=4]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- By 1986, all broad-based computer companies will have to offer fault-tolerant systems; at least a half-dozen or more will be shipping by end of 1983 `[ps=2]` — [[study-cbn-bochner-stratus-oem-strategy-1982-06-245fd5]]
 - Fault-tolerant market blossoming from niche market to cross market as more work goes online and the cost of downtime goes up — [[study-cbn-bochner-stratus-oem-strategy-1982-06-245fd5]]
-- Asked customers: 'What does one hour of downtime cost you?' — shifted IT managers from thinking about performance/capacity to quantifying availability. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
-- 'Your ATM network loses $400,000 of transaction revenue per hour... our hardware costs $180,000 more' is an argument. 'We prevent downtime' is a claim. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]

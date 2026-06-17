@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "growing"
 lifecycle_current: "{'lifecycle_current': 'mature', 'notes': 'DSL broadband is mature. Known answer applied.', 'source': 'known'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # DSL Broadband
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DSL or cable broadband preferred for SOHO and branch offices — [[study-goremote-profile-5-2a-8fa814]]
+- DSL or cable broadband preferred for SOHO and branch offices `[ps=4]` — [[study-goremote-profile-5-2a-8fa814]]

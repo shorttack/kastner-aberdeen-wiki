@@ -3,7 +3,7 @@ title: "Aberdeen Group — Customer-Driven Information Systems (AT&T/NCR + Oracl
 slug: "study-aberdeen-customer-driven-info-systems-at-2f9724"
 page_type: "study"
 tags: ["type/study", "collection/sponsored-seminar-deck"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-customer-driven-info-systems-at-2f9724"
 author: "Peter S. Kastner — Vice President, Aberdeen Group, Inc."
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.86
+prescience_obs_count: 7
 ---
 
 # Aberdeen Group — Customer-Driven Information Systems (AT&T/NCR + Oracle Seminar, 1993)
@@ -32,14 +32,14 @@ _Published 1993, author **Peter S. Kastner — Vice President, Aberdeen Group, I
 
 ## Top observations
 
-- AT-and-T-NCR-and-Oracle-Corp
+- Computer-as-Accounting-Machine-to-Decision-Support `[ps=5]`
+- NCR-acquired-1991-while-owned-by-AT-and-T `[ps=5]`
+- Reconstruction-and-Open-Markets `[ps=3]`
+- AT-and-T-NCR-and-Oracle-Corp `[ps=0]`
+- 30 `[ps=0]`
+- 1000-red-summer-dresses-keep-discount-or-ship-to-Boston `[ps=0]`
+- strategic-leverage-empowerment-reengineering `[ps=0]`
 - getting-moving-using-information-to-leverage-customers-goals
 - 5000000
-- 30
 - Rules-and-Regulations
-- Reconstruction-and-Open-Markets
 - Oligopoly-and-Pyramid-scheme-financing
-- 1000-red-summer-dresses-keep-discount-or-ship-to-Boston
-- strategic-leverage-empowerment-reengineering
-- Computer-as-Accounting-Machine-to-Decision-Support
-- NCR-acquired-1991-while-owned-by-AT-and-T

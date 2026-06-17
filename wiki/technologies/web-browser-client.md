@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Web browser as client platform
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Yes — SaaS/web-app dominance from ~1999 onwards (Salesforce 1999, Gmail 2004, Microsoft 365 web 2010s), capped by Electron/Chromium desktop adoption. Browsers/Chromium now dominant enterprise-app delivery medium. `[ps=4]` — [[study-tool-vendors-neglect-intranet-computing--97bde3]]
 - 'Development of intranet environments will be delayed until tools vendors treat browsers as the equal of Windows clients. IT departments dont have enough resources to develop applications that people want, because they are having to develop them twice — once for existing client-server, and once for intranet. Thats just mad. People are going to have to put pressure on tools developers to create new — [[study-tool-vendors-neglect-intranet-computing--97bde3]]
-- Yes — SaaS/web-app dominance from ~1999 onwards (Salesforce 1999, Gmail 2004, Microsoft 365 web 2010s), capped by Electron/Chromium desktop adoption. Browsers/Chromium now dominant enterprise-app delivery medium. — [[study-tool-vendors-neglect-intranet-computing--97bde3]]

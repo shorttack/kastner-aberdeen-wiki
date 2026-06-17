@@ -12,9 +12,9 @@ era: "2000-2001"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen Client Profile Template
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Last updated August 1, 2000; captures: Organizational Structure; value proposition; 'what company says vs actually does'; products/services; target markets; key competitive facts; key differentiators (positive & negative); positioning analysis; financial highlights (Public/Private, revenue, growth %, profits) — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]
+- Last updated August 1, 2000; captures: Organizational Structure; value proposition; 'what company says vs actually does'; products/services; target markets; key competitive facts; key differentiators (positive & negative); positioning analysis; financial highlights (Public/Private, revenue, growth %, profits) `[ps=3]` — [[study-aas-sales-tools-pricing-aug-2001-b5b001]]

@@ -12,9 +12,9 @@ era: "1993-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Relational OLAP (ROLAP)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Relational OLAP + HTML + Web server + cache-enhanced SQL = multidimensional analysis on the Web; MicroStrategy and Information Advantage leading implementations — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]
-- NCR (infrastructure + consulting + industry templates) + MicroStrategy (ROLAP toolset) = 'warehouse-supplier synergy' model for enterprise Web DSS — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]
+- Relational OLAP + HTML + Web server + cache-enhanced SQL = multidimensional analysis on the Web; MicroStrategy and Information Advantage leading implementations `[ps=3]` — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]
+- NCR (infrastructure + consulting + industry templates) + MicroStrategy (ROLAP toolset) = 'warehouse-supplier synergy' model for enterprise Web DSS `[ps=3]` — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]

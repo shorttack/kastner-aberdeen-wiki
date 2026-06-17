@@ -3,7 +3,7 @@ title: "Storage Trends: What Will Be Hot in 2003 — And Beyond"
 slug: "study-2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb"
 author: "David Hill"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.73
+prescience_obs_count: 11
 ---
 
 # Storage Trends: What Will Be Hot in 2003 — And Beyond
@@ -32,18 +32,18 @@ _Published 2002, author **David Hill**, type **market-study**._
 
 ## Top observations
 
-- Data center will be re-architected via storage automation for resource pooling and policy-driven management
-- Strong — buyers will focus on storage staples including SAN
-- Strong — NAS among storage staples buyers will continue buying
-- Emerging — listed as key storage technology to watch in 2003+
+- Data center will be re-architected via storage automation for resource pooling and policy-driven management `[ps=4]`
+- Strong — buyers will focus on storage staples including SAN `[ps=4]`
+- Strong — NAS among storage staples buyers will continue buying `[ps=4]`
+- AWS S3 launched March 2006 as first mass-market storage utility `[ps=4]`
+- Single-image global file system will emerge as data center infrastructure `[ps=3]`
+- Emerging — listed as key storage technology to watch in 2003+ `[ps=0]`
+- Will become key enabling technology for data center re-architecture `[ps=0]`
+- 31.2% revenue share in open SAN market `[ps=0]`
+- 15.7% year-over-year growth `[ps=0]`
+- 20.6% ($2.65B revenues) `[ps=0]`
+- $12.89 billion total `[ps=0]`
 - Continued relevance for backup/restore in near-term
 - Mature staple — primary near-term storage buyer focus
-- Will become key enabling technology for data center re-architecture
 - Storage will evolve toward utility computing model
-- Single-image global file system will emerge as data center infrastructure
-- 31.2% revenue share in open SAN market
-- 15.7% year-over-year growth
-- 20.6% ($2.65B revenues)
-- $12.89 billion total
 - Became foundational — virtualization enabled by 2010; 72% of orgs at least 25% virtual
-- AWS S3 launched March 2006 as first mass-market storage utility

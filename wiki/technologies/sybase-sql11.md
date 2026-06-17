@@ -12,9 +12,9 @@ era: "mid-1990s"
 lifecycle_at_study: "current"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sybase System 11.1
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- sybase_sql_server_only — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
+- sybase_sql_server_only `[ps=0]` — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]

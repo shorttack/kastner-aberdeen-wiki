@@ -12,9 +12,9 @@ status: "[DEFERRED]"
 successor: "Oracle Corporation (2010)"
 years_active: "[DEFERRED]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Sun Microsystems Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Nortel-Sun Microsystems partnership for next-generation multimedia client-server telephones — [[study-1997-nortel--transforming-business-by-po-3edae6]]
+- Nortel-Sun Microsystems partnership for next-generation multimedia client-server telephones `[ps=2]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]

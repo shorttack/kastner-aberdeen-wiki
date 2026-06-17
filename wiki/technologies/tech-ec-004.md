@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.67
+prescience_obs_count: 3
 ---
 
 # Virtual Channels
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Understanding impact of virtual channels on business equilibrium — [[study-1997-electronic-commerce-to-internet-com-b26a35]]
-- Virtual channels will fundamentally alter competitive dynamics — [[study-1997-electronic-commerce-to-internet-com-b26a35]]
-- Confirmed: virtual channels disrupted retail (Amazon), travel (Expedia), media, financial services — [[study-1997-electronic-commerce-to-internet-com-b26a35]]
+- Virtual channels will fundamentally alter competitive dynamics `[ps=5]` — [[study-1997-electronic-commerce-to-internet-com-b26a35]]
+- Confirmed: virtual channels disrupted retail (Amazon), travel (Expedia), media, financial services `[ps=5]` — [[study-1997-electronic-commerce-to-internet-com-b26a35]]
+- Understanding impact of virtual channels on business equilibrium `[ps=4]` — [[study-1997-electronic-commerce-to-internet-com-b26a35]]

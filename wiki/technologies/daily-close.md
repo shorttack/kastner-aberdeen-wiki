@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Daily Close (ERP feature)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle added 'daily close' capability to 11i, enabling virtual closing for any part of the organization on a daily cadence. Lawson Software users had this feature first. — [[study-oracle-appsworld-insight-edit-4-813c2e]]
+- Oracle added 'daily close' capability to 11i, enabling virtual closing for any part of the organization on a daily cadence. Lawson Software users had this feature first. `[ps=3]` — [[study-oracle-appsworld-insight-edit-4-813c2e]]

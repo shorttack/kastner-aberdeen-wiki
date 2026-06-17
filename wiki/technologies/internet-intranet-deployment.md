@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Internet/Intranet Application Deployment
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internet-based CIS self-service is only scratching the surface; virtual call centers, peer forums, universal access are the real value — [[study-aberdeen-1997-silknet-software]]
+- Internet-based CIS self-service is only scratching the surface; virtual call centers, peer forums, universal access are the real value `[ps=5]` — [[study-aberdeen-1997-silknet-software]]

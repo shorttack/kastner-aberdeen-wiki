@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Merisel (acquired), subsequently dissolved"
 years_active: "1980s-late 1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Seer Technologies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- well integrated into toolset; pub/sub present; messaging not easily portable to applications outside toolset — [[study-aberdeen-1995-commercial-messaging]]
+- well integrated into toolset; pub/sub present; messaging not easily portable to applications outside toolset `[ps=3]` — [[study-aberdeen-1995-commercial-messaging]]

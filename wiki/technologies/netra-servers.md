@@ -12,9 +12,9 @@ era: "1994-2010"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sun Netra Servers
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- New Internet-based electronic commerce programs announced March 1996; Netra servers for remote e-commerce deployment — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]
+- New Internet-based electronic commerce programs announced March 1996; Netra servers for remote e-commerce deployment `[ps=0]` — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]

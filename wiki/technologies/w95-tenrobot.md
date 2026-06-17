@@ -12,9 +12,9 @@ era: "2003"
 lifecycle_at_study: "active-threat"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # W95.Tenrobot Virus
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- W95.Tenrobot — memory-resident file appender on Win 95/98/Me — [[study-dct-pc-replacement-insight1-2003-04]]
-- active — [[study-why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622]]
+- W95.Tenrobot — memory-resident file appender on Win 95/98/Me `[ps=0]` — [[study-dct-pc-replacement-insight1-2003-04]]
+- active `[ps=0]` — [[study-why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622]]

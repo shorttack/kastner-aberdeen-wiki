@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'legacy-supported', 'notes': 'Parallel SCSI succeeded by SAS (Serial Attached SCSI) for enterprise storage. SCSI protocol concepts live on in SAS/NVMe but parallel SCSI hardware is legacy.', 'source': 'General storage technology evolution'}"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # SCSI (Small Computer System Interface)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Price of FC and SCSI drives has fallen dramatically but price elasticity curve economics still apply — mid-line is less costly and does backup/restore job as well — [[study-04-mid-line-storage-v2-whitepaper-7db9bc]]
-- primary server-storage protocol — [[study-intel-infiband-wp--edit-psk-5-22f-a2c551]]
+- Price of FC and SCSI drives has fallen dramatically but price elasticity curve economics still apply — mid-line is less costly and does backup/restore job as well `[ps=5]` — [[study-04-mid-line-storage-v2-whitepaper-7db9bc]]
+- primary server-storage protocol `[ps=2]` — [[study-intel-infiband-wp--edit-psk-5-22f-a2c551]]

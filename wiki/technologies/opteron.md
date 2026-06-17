@@ -12,9 +12,9 @@ era: "2003-2017"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # AMD Opteron
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Less real-world-tested — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
-- AMD64/x86-64 became standard — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
+- AMD64/x86-64 became standard `[ps=5]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
+- Less real-world-tested `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]

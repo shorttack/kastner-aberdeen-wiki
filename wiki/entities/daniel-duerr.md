@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "2000s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Daniel Duerr
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'The cost for disk storage is unprecedented. This is one of the big things Apple did right.' — [[study-hostingtech-apple-xserve-asia-zieger-200-052af6]]
+- 'The cost for disk storage is unprecedented. This is one of the big things Apple did right.' `[ps=2]` — [[study-hostingtech-apple-xserve-asia-zieger-200-052af6]]

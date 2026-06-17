@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Symantec (2005); spun out as Veritas Technologies 2016"
 years_active: "1989-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 0.5
+prescience_obs_count: 2
 ---
 
 # Veritas Software Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- VERITAS extended support for Intel Itanium 2 platform on Red Hat Linux 3.0 — [[study-internetnews-veritas-itanium-believer-20-2ff4eb]]
-- Running Linux on Intel Itanium platform will become wildly successful — [[study-internetnews-veritas-itanium-believer-20-2ff4eb]]
+- Running Linux on Intel Itanium platform will become wildly successful `[ps=1]` — [[study-internetnews-veritas-itanium-believer-20-2ff4eb]]
+- VERITAS extended support for Intel Itanium 2 platform on Red Hat Linux 3.0 `[ps=0]` — [[study-internetnews-veritas-itanium-believer-20-2ff4eb]]

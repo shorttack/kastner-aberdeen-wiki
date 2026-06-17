@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Christopher Date
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Co-inventor of the relational database model with Edgar Codd at IBM; the relational model was designed for elegant data retrieval, not transactional throughput. — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- Co-inventor of the relational database model with Edgar Codd at IBM; the relational model was designed for elegant data retrieval, not transactional throughput. `[ps=1]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

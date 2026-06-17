@@ -3,7 +3,7 @@ title: "Sun's AS/400 Market Opportunity — Aberdeen Presentation to Sun Microsy
 slug: "study-sun-as400-presentation-2002-9d925e"
 page_type: "study"
 tags: ["type/study", "collection/white-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "sun-as400-presentation-2002-9d925e"
 author: "Peter Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 0.73
+prescience_obs_count: 11
 ---
 
 # Sun's AS/400 Market Opportunity — Aberdeen Presentation to Sun Microsystems
@@ -32,21 +32,21 @@ _Published 2002, author **Peter Kastner**, type **white-paper**._
 
 ## Top observations
 
-- 450,000 machines
+- Europe is as important as North America `[ps=4]`
+- Europe is the key SMB battleground `[ps=2]`
+- Linux is the lever for iSeries upgrades `[ps=2]`
+- 450,000 machines `[ps=0]`
+- $13.5B `[ps=0]`
+- Sun overlaps iSeries product line (1-32 way, 400-375K TPM-C) `[ps=0]`
+- $1.87B addressable in 2002 `[ps=0]`
+- $924M `[ps=0]`
+- $400M `[ps=0]`
+- $452M `[ps=0]`
+- $92M `[ps=0]`
 - $7.7B HW + $2.6B SW = 23% of IBM HW revenues
-- $13.5B
-- Europe is as important as North America
 - 1-2-way @ $50-150K
-- Sun overlaps iSeries product line (1-32 way, 400-375K TPM-C)
 - 85% of revenues through partners; solutions focus
 - poor price-performance; pricey upgrades
 - well tuned to SMB
-- Europe is the key SMB battleground
 - Server consolidation + Notes/WebSphere upgrade + mid-market ERP Navision + target <100-employee
-- $1.87B addressable in 2002
-- $924M
-- $400M
-- $452M
-- $92M
-- Linux is the lever for iSeries upgrades
 - 'Freeze your AS/400. Go with Sun for new business apps and Edge (H1).'

@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "MCI (renamed post-bankruptcy) / Verizon Business"
 years_active: "1983-2002"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.33
+prescience_obs_count: 3
 ---
 
 # WorldCom, Inc.
@@ -29,6 +29,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- WorldCom filed for bankruptcy July 2002 — the largest US bankruptcy at the time — following $11B accounting fraud — [[study-1998-network-integration-services-report-f75108]]
-- WorldCom filed bankruptcy July 2002; Michael Cappellas joined as CEO; emerged as MCI in 2004; acquired by Verizon 2006 — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
-- WorldCom filed largest US bankruptcy ($107B assets) in July 2002; emerged as MCI; acquired by Verizon 2006 — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
+- WorldCom filed for bankruptcy July 2002 — the largest US bankruptcy at the time — following $11B accounting fraud `[ps=5]` — [[study-1998-network-integration-services-report-f75108]]
+- WorldCom filed largest US bankruptcy ($107B assets) in July 2002; emerged as MCI; acquired by Verizon 2006 `[ps=5]` — [[study-aberdeen-1996-vpns-business-mfs-success-strategy]]
+- WorldCom filed bankruptcy July 2002; Michael Cappellas joined as CEO; emerged as MCI in 2004; acquired by Verizon 2006 `[ps=0]` — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]

@@ -3,7 +3,7 @@ title: "Stratus Readies XA2000 Series to Take on Tandem High End — Computerwor
 slug: "study-stratus-xa2000-launch-cw-1987-11913f"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "stratus-xa2000-launch-cw-1987-11913f"
 author: "James Connolly (Computerworld)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.43
+prescience_obs_count: 7
 ---
 
 # Stratus Readies XA2000 Series to Take on Tandem High End — Computerworld, 2 February 1987 (PSK + Foster quoted)
@@ -32,11 +32,11 @@ _Published 1987, author **James Connolly (Computerworld)**, type **press-article
 
 ## Top observations
 
-- Most new applications for computers tend to be on-line applications. That is really what is driving the market. While people are looking at an on-line application, they have to ask themselves what happens if this thing goes down
-- Both Stratus and Tandem claim 50+ TPS; Stratus designed XA2000 for 45% annual growth in OLTP market over 5 years to >50 TPS averages
-- Model 110 = 15 TPS; Model 120 = 27-29 TPS; Model 130 = 37-40 TPS; Model 140 = 47-53 TPS (ET-1 benchmark)
+- Most new applications for computers tend to be on-line applications. That is really what is driving the market. While people are looking at an on-line application, they have to ask themselves what happens if this thing goes down `[ps=5]`
+- 68881 designed to help users in existing on-line transaction processing markets perform tasks such as financial modeling; no plans to enter scientific/engineering markets `[ps=4]`
+- Yankee Group Henkel questioned how long IBM will maintain its relationship with Stratus if Stratus' products continue to compete with 3090 mainframes `[ps=4]`
+- Henkel doubted Stratus had enough application and data base software to support high-performance transaction processing, particularly in growth areas such as manufacturing `[ps=4]`
+- Both Stratus and Tandem claim 50+ TPS; Stratus designed XA2000 for 45% annual growth in OLTP market over 5 years to >50 TPS averages `[ps=0]`
+- Model 110 = 15 TPS; Model 120 = 27-29 TPS; Model 130 = 37-40 TPS; Model 140 = 47-53 TPS (ET-1 benchmark) `[ps=0]`
+- $260,000-$500,000 Model 110; $770,000-$1.1M Model 140; transaction-per-second cost half of earlier Stratus products `[ps=0]`
 - Single 40-slot chassis Models 110-140; Motorola 68020 16-MHz + 68881 coprocessor; VOS 6.0 with 32-bit data path; 64MB memory, 64KB cache, 128MB virtual address, 46GB disk; Model 140 has four tightly-coupled duplicated CPUs
-- $260,000-$500,000 Model 110; $770,000-$1.1M Model 140; transaction-per-second cost half of earlier Stratus products
-- 68881 designed to help users in existing on-line transaction processing markets perform tasks such as financial modeling; no plans to enter scientific/engineering markets
-- Yankee Group Henkel questioned how long IBM will maintain its relationship with Stratus if Stratus' products continue to compete with 3090 mainframes
-- Henkel doubted Stratus had enough application and data base software to support high-performance transaction processing, particularly in growth areas such as manufacturing

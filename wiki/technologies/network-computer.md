@@ -12,9 +12,9 @@ era: "1996-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-failed"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Network Computer (NC)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Network Computer suited for narrow task-worker / kiosk use cases; unlikely to displace fat-client PC for knowledge workers. — [[study-ca-acapulco-cio-pcs-ncs-netpcs-1997-552b4c]]
+- Network Computer suited for narrow task-worker / kiosk use cases; unlikely to displace fat-client PC for knowledge workers. `[ps=5]` — [[study-ca-acapulco-cio-pcs-ncs-netpcs-1997-552b4c]]
+- 'Network computer vendors will bundle WordPerfect with their devices after Corel rewrites the application in Java.' — Kastner `[ps=2]` — [[study-tool-vendors-neglect-intranet-computing--97bde3]]
 - Network Computer failed as a commercial category; Oracle/Sun's NC effort wound down by 2000. Kastner prediction verified. — [[study-ca-acapulco-cio-pcs-ncs-netpcs-1997-552b4c]]
-- 'Network computer vendors will bundle WordPerfect with their devices after Corel rewrites the application in Java.' — Kastner — [[study-tool-vendors-neglect-intranet-computing--97bde3]]

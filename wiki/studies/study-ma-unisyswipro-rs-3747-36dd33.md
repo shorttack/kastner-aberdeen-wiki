@@ -3,7 +3,7 @@ title: "Can Unisys-Wipro Alliance Cover All Outsourcing Bases?"
 slug: "study-ma-unisyswipro-rs-3747-36dd33"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ma-unisyswipro-rs-3747-36dd33"
 author: "Peter S. Kastner"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 1.67
+prescience_obs_count: 12
 ---
 
 # Can Unisys-Wipro Alliance Cover All Outsourcing Bases?
@@ -32,20 +32,20 @@ _Published 2006, author **Peter S. Kastner**, type **market-study**._
 
 ## Top observations
 
+- Communication or cultural gaps with providers `[ps=4]`
+- lower emphasis on cost control vs. Wipro clients `[ps=4]`
+- implementing new or revised vendor management processes (majority) `[ps=4]`
+- assign one accountable person with relationship management skills `[ps=4]`
+- cost savings chief driver for customers outsourcing to India `[ps=4]`
+- Integration, testing, and/or QA work took more effort than expected `[ps=0]`
+- higher than expected (majority of survey respondents) `[ps=0]`
+- majority dedicated more management time `[ps=0]`
+- 43% `[ps=0]`
+- 59% `[ps=0]`
+- remote services: remote server management, service desk/help desk `[ps=0]`
+- Fortune 500 company; 20,000+ employees; U.S., Canada, U.K. `[ps=0]`
 - top 3 Indian ADM providers
-- Communication or cultural gaps with providers
-- Integration, testing, and/or QA work took more effort than expected
-- lower emphasis on cost control vs. Wipro clients
 - improved version control and lifecycle management (50% of customers)
-- implementing new or revised vendor management processes (majority)
-- higher than expected (majority of survey respondents)
-- majority dedicated more management time
 - 30%
-- 43%
-- 59%
 - on-site local support: desktop/server maintenance, desk-side support, IMACs, tape exchanges
-- remote services: remote server management, service desk/help desk
-- Fortune 500 company; 20,000+ employees; U.S., Canada, U.K.
 - cheaper labor + high quality = India as IT powerhouse over last decade
-- assign one accountable person with relationship management skills
-- cost savings chief driver for customers outsourcing to India

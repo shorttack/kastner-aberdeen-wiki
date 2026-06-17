@@ -12,9 +12,9 @@ status: "deceased"
 successor: "Died 2016"
 years_active: "1936-2016"
 occurrence_count: 3
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.67
+prescience_obs_count: 3
 ---
 
 # Andrew S. Grove
@@ -29,6 +29,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- WSJ 18-Jan-1993 — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]
-- Simply put, the flip side of the new super-low-cost computing units being delivered by the new computing industry is a huge integration task — but also a tremendous business opportunity. The smart companies are laying the foundation now for doing this kind of integration work. — [[study-aberdeen-megatrends-mfa-cs-mis-1993-05-98fc87]]
-- you can always contrive situations — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- Simply put, the flip side of the new super-low-cost computing units being delivered by the new computing industry is a huge integration task — but also a tremendous business opportunity. The smart companies are laying the foundation now for doing this kind of integration work. `[ps=5]` — [[study-aberdeen-megatrends-mfa-cs-mis-1993-05-98fc87]]
+- WSJ 18-Jan-1993 `[ps=0]` — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]
+- you can always contrive situations `[ps=0]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]

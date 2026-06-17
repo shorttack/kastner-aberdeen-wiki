@@ -3,7 +3,7 @@ title: "Apple's Enterprise IT Battle Plan, Part Two"
 slug: "study-mac-news-enterprise-systems-apple-s-ente-59fab0"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "mac-news-enterprise-systems-apple-s-ente-59fab0"
 author: "Elizabeth Millard (reporter, MacNewsWorld); Peter Kastner (quoted source)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.67
+prescience_obs_count: 3
 ---
 
 # Apple's Enterprise IT Battle Plan, Part Two
@@ -32,7 +32,7 @@ _Published 2004, author **Elizabeth Millard (reporter, MacNewsWorld); Peter Kast
 
 ## Top observations
 
-- Apple will turn up the heat via specialized markets (verticals) inside enterprises, not head-on F500 plays
+- Tiger (Apple's fifth OS X version) coming in year ahead `[ps=5]`
+- Apple enterprise adoption came via iPhone/iPad BYOD and vertical deployments (healthcare, retail, logistics); Xserve/OS X Server plays exited `[ps=5]`
+- Apple will turn up the heat via specialized markets (verticals) inside enterprises, not head-on F500 plays `[ps=4]`
 - Large-enterprise IS staff not inclined toward Apple; SMBs are the natural beachhead
-- Tiger (Apple's fifth OS X version) coming in year ahead
-- Apple enterprise adoption came via iPhone/iPad BYOD and vertical deployments (healthcare, retail, logistics); Xserve/OS X Server plays exited

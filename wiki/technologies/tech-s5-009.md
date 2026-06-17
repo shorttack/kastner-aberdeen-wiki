@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "Not yet exist"
 lifecycle_current: "Active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Promotions Management Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Feature-rich promotions management differentiating System ESS in CPG market — [[study-1997-industry-matematik-international-co-c398bc]]
+- Feature-rich promotions management differentiating System ESS in CPG market `[ps=3]` — [[study-1997-industry-matematik-international-co-c398bc]]

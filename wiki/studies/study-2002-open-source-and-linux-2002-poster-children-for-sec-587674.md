@@ -3,7 +3,7 @@ title: "Open Source and Linux: 2002 Poster Children for Security Problems"
 slug: "study-2002-open-source-and-linux-2002-poster-children-for-sec-587674"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2002-open-source-and-linux-2002-poster-children-for-sec-587674"
 author: "Jim Hurley, Eric Hemmendinger"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 1.9
+prescience_obs_count: 10
 ---
 
 # Open Source and Linux: 2002 Poster Children for Security Problems
@@ -32,14 +32,14 @@ _Published 2002, author **Jim Hurley, Eric Hemmendinger**, type **market-study**
 
 ## Top observations
 
-- January through October 2002
-- more than half (>50%)
-- major source of elevated security vulnerabilities
-- no longer the primary security poster child
+- Linux became dominant server OS with strong enterprise security reputation `[ps=5]`
+- CERT advisory count methodology widely criticized; active disclosure seen as sign of health not weakness `[ps=5]`
+- open source will remain major security concern for IT buyers `[ps=4]`
+- major source of elevated security vulnerabilities `[ps=3]`
+- CERT/CC security advisory count as vulnerability proxy `[ps=2]`
+- January through October 2002 `[ps=0]`
+- more than half (>50%) `[ps=0]`
+- no longer the primary security poster child `[ps=0]`
+- from Microsoft to open source/Linux `[ps=0]`
+- 16 of total advisories (per The Register coverage) `[ps=0]`
 - contributor to majority of CERT advisories
-- from Microsoft to open source/Linux
-- open source will remain major security concern for IT buyers
-- Linux became dominant server OS with strong enterprise security reputation
-- CERT advisory count methodology widely criticized; active disclosure seen as sign of health not weakness
-- CERT/CC security advisory count as vulnerability proxy
-- 16 of total advisories (per The Register coverage)

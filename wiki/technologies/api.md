@@ -12,9 +12,9 @@ era: "1960s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Application Programming Interface (API)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- EAI, SOA, APIs, microservices all addressed integration without eliminating it; each new architecture enabled new application proliferation creating new integration complexity. — [[study-volume-1-ch10-the-long-view-1966-2026]]
+- EAI, SOA, APIs, microservices all addressed integration without eliminating it; each new architecture enabled new application proliferation creating new integration complexity. `[ps=5]` — [[study-volume-1-ch10-the-long-view-1966-2026]]

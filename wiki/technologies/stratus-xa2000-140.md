@@ -12,9 +12,9 @@ era: "1987-1990s"
 lifecycle_at_study: "newly-launched-1987"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Stratus XA2000 Model 140
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- First time Stratus has gotten into the VLX or IBM 3090 class in OLTP performance — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
-- 3x XA600 ET-1; 2.5x XA600 TP-1 — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
+- First time Stratus has gotten into the VLX or IBM 3090 class in OLTP performance `[ps=2]` — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
+- 3x XA600 ET-1; 2.5x XA600 TP-1 `[ps=0]` — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]

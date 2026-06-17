@@ -12,9 +12,9 @@ era: "1992-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IEEE Medical Information Bus (MIB)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1997 target: incorporate IEEE MIB for medical device connectivity into ECF — [[study-aberdeen-1997-hp-andover-working-group]]
+- 1997 target: incorporate IEEE MIB for medical device connectivity into ECF `[ps=0]` — [[study-aberdeen-1997-hp-andover-working-group]]

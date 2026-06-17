@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'SnapOS was the original operating system for early Snap Server NAS devices. Replaced by GuardianOS. The original SnapOS brand is discontinued.', 'source': 'https://www.snaphq.com/Guardian-OS.asp'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # SnapOS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SnapOS (proprietary) — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
+- SnapOS (proprietary) `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]

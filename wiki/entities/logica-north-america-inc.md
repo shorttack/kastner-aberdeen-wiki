@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Logica North America Inc
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SGI IRIX via Logica — [[study-aberdeen-1995-digital-objectbroker]]
-- Logica responsible for Tandem ports — [[study-aberdeen-1995-digital-objectbroker]]
+- SGI IRIX via Logica `[ps=0]` — [[study-aberdeen-1995-digital-objectbroker]]
+- Logica responsible for Tandem ports `[ps=0]` — [[study-aberdeen-1995-digital-objectbroker]]

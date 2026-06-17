@@ -12,9 +12,9 @@ era: "1996-2000s"
 lifecycle_at_study: "Mature"
 lifecycle_current: "Obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # IBM Business Intelligence Family
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 12 CPUs — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
-- 132 and 264 MB/sec PCI I/O — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
+- 12 CPUs `[ps=0]` — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
+- 132 and 264 MB/sec PCI I/O `[ps=0]` — [[study-1997-digital-ramps-up-for-the-leadership-fb5854]]
 - BI identified as core network computing value proposition; data warehousing and analytics — [[study-1997-ibm’s-network-computing-solution----e74e8a]]

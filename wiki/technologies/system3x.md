@@ -12,9 +12,9 @@ era: "IBM"
 lifecycle_at_study: "superseded"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # IBM System/3X (System/36
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- replacing_working_systems_rare — [[study-aberdeen-1996-as400-year-2000-ibm-leading-users]]
+- replacing_working_systems_rare `[ps=5]` — [[study-aberdeen-1996-as400-year-2000-ibm-leading-users]]

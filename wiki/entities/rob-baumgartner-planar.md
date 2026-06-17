@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: ""
 years_active: "2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Rob Baumgartner
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- There are still issues with watching movies or video clips on the Internet, but response time is getting better and better — [[study-death-of-crt-monitor-pcmag-2002-977c17]]
+- There are still issues with watching movies or video clips on the Internet, but response time is getting better and better `[ps=4]` — [[study-death-of-crt-monitor-pcmag-2002-977c17]]

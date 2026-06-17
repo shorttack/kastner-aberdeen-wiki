@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # DICOM (Digital Imaging and Communications in Medicine)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1997 target: incorporate DICOM imaging standard into ECF; simultaneous HL7+DICOM adds highly desirable EPR dimension — [[study-aberdeen-1997-hp-andover-working-group]]
+- 1997 target: incorporate DICOM imaging standard into ECF; simultaneous HL7+DICOM adds highly desirable EPR dimension `[ps=4]` — [[study-aberdeen-1997-hp-andover-working-group]]

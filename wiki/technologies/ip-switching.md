@@ -12,9 +12,9 @@ era: "1994-1999"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # IP Switching (Ipsilon Technology)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 5x the performance of routers at a fraction of the price — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
-- IP Switching (GSMP, IFMP) presented as viable alternative to routing; implied IETF standardization path — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
-- IFMP and Ipsilon's IP Switching approach was not adopted by IETF as a standard; Cisco's Tag Switching (renamed and refined as MPLS) won the standards battle; MPLS RFC 3031 published January 2001 — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
+- IFMP and Ipsilon's IP Switching approach was not adopted by IETF as a standard; Cisco's Tag Switching (renamed and refined as MPLS) won the standards battle; MPLS RFC 3031 published January 2001 `[ps=5]` — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
+- 5x the performance of routers at a fraction of the price `[ps=2]` — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
+- IP Switching (GSMP, IFMP) presented as viable alternative to routing; implied IETF standardization path `[ps=2]` — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]

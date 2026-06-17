@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Enterprise Resource Planning (ERP)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- An ERP implementation starting in 1999 encountered Y2K remediation priority in late 1998; business environment changes faster than contracts can accommodate. — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
+- An ERP implementation starting in 1999 encountered Y2K remediation priority in late 1998; business environment changes faster than contracts can accommodate. `[ps=4]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]

@@ -12,9 +12,9 @@ era: "1988-1996"
 lifecycle_at_study: "declining"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Motorola 88000 Processor
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 11% — [[study-aberdeen-1996-risc-unix-market]]
+- 11% `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]

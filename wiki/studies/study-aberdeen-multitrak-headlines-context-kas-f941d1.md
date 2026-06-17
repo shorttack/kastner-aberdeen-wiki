@@ -3,7 +3,7 @@ title: "Aberdeen Group — Putting Headlines In Context (Multitrak User's Group,
 slug: "study-aberdeen-multitrak-headlines-context-kas-f941d1"
 page_type: "study"
 tags: ["type/study", "collection/conference-presentation"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-multitrak-headlines-context-kas-f941d1"
 author: "Peter S. Kastner — Vice-President, Aberdeen Group, Inc."
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.0
+prescience_obs_count: 9
 ---
 
 # Aberdeen Group — Putting Headlines In Context (Multitrak User's Group, Sep 1991)
@@ -32,13 +32,13 @@ _Published 1991, author **Peter S. Kastner — Vice-President, Aberdeen Group, I
 
 ## Top observations
 
-- deck-page-Spoke-Node-Ring-Planning-Model
-- migrating-computer-functions-from-central-mainframe-to-dispersed-systems
-- 100-MIPS-vs-10-LOC-per-day
-- more-apps-released-more-demanded-no-backlog-reduction
+- migrating-computer-functions-from-central-mainframe-to-dispersed-systems `[ps=5]`
+- more-apps-released-more-demanded-no-backlog-reduction `[ps=5]`
+- Cross-Life-Cycle-Application-Development-Platform-Repository `[ps=4]`
+- CASE-workstation-on-LAN `[ps=4]`
+- deck-page-Spoke-Node-Ring-Planning-Model `[ps=0]`
+- 100-MIPS-vs-10-LOC-per-day `[ps=0]`
+- low-cost-spoiler-for-mainframe-competitors `[ps=0]`
+- Vice-President-Aberdeen-Group `[ps=0]`
+- DEC-Prime-Computer-Stratus-Computer-Arthur-D-Little `[ps=0]`
 - three-year-migration-with-SI-taking-dev-risk
-- low-cost-spoiler-for-mainframe-competitors
-- Vice-President-Aberdeen-Group
-- Cross-Life-Cycle-Application-Development-Platform-Repository
-- DEC-Prime-Computer-Stratus-Computer-Arthur-D-Little
-- CASE-workstation-on-LAN

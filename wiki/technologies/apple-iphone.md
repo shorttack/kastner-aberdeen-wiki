@@ -12,9 +12,9 @@ era: "2007-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Apple iPhone
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kastner (61, Westport MA consumer-electronics consultant) whips out iPhone and taps icon to connect to Bank of America; checks balances and pays bills while travelling or boating on Westport River. — [[study-mobile-banking-may-render-cash-obsolete--e4b699]]
+- Kastner (61, Westport MA consumer-electronics consultant) whips out iPhone and taps icon to connect to Bank of America; checks balances and pays bills while travelling or boating on Westport River. `[ps=0]` — [[study-mobile-banking-may-render-cash-obsolete--e4b699]]

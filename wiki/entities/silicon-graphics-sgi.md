@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Acquired by Rackable Systems 2009; SGI brand retired 2016"
 years_active: "1982-2009"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Silicon Graphics, Inc. (SGI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Unix workstation market share collapsed through late 1990s-2000s as Windows NT workstations captured low-end and mid-range; SGI revenue declined from $2.5B in 1997 to bankruptcy filings in 2006 and 2009 — [[study-aberdeen-1996-digitals-personal-workstation-new-markets-channels]]
+- Unix workstation market share collapsed through late 1990s-2000s as Windows NT workstations captured low-end and mid-range; SGI revenue declined from $2.5B in 1997 to bankruptcy filings in 2006 and 2009 `[ps=5]` — [[study-aberdeen-1996-digitals-personal-workstation-new-markets-channels]]

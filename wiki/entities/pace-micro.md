@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Pace Micro Technology
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Hard drive; two 802.11b video streams; one wireline video stream; thin-client MPEG-2 decoder at each TV — [[study-dct-dceit-practice-v6-2002]]
-- DSL 4000 enables short-haul DSL MPEG-1+2 video; IP500 enables MPEG-4 over longer DSL estimated to cover 70% of rural areas — [[study-dct-dceit-practice-v6-2002]]
+- Hard drive; two 802.11b video streams; one wireline video stream; thin-client MPEG-2 decoder at each TV `[ps=3]` — [[study-dct-dceit-practice-v6-2002]]
+- DSL 4000 enables short-haul DSL MPEG-1+2 video; IP500 enables MPEG-4 over longer DSL estimated to cover 70% of rural areas `[ps=2]` — [[study-dct-dceit-practice-v6-2002]]

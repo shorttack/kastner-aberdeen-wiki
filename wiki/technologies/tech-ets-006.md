@@ -12,9 +12,9 @@ era: "1966-present"
 lifecycle_at_study: "Mature"
 lifecycle_current: "Active (IMS 15.4 on z/OS; actively maintained)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IMS (Information Management System)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- IMS accessible via Web browser through Internet Connection Server / MQSeries gateway `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Most-used mainframe DBMS — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- IMS accessible via Web browser through Internet Connection Server / MQSeries gateway — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]

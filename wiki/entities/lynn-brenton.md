@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Lynn Brenton
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- wait 6 months after release — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
+- wait 6 months after release `[ps=0]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]

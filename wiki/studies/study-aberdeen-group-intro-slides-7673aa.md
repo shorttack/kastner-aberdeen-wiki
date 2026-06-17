@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.75
+prescience_obs_count: 4
 ---
 
 # Aberdeen Group Intro Slides
@@ -32,10 +32,10 @@ _Published 2000, author **Peter S. Kastner / Aberdeen Group**, type **employer-r
 
 ## Top observations
 
+- 1:1 relationship between clients and experienced consultant-level analysts; focus on business-user opportunities from technology-market change `[ps=3]`
+- Services to technology suppliers establishing leadership in emerging technology markets `[ps=0]`
+- Boston, Palo Alto, Ft. Collins, Amsterdam `[ps=0]`
+- Technology supplier product and market expertise; versed in product lifecycle, distribution channels, competitive landscapes `[ps=0]`
 - 1988
-- Services to technology suppliers establishing leadership in emerging technology markets
-- Boston, Palo Alto, Ft. Collins, Amsterdam
-- 1:1 relationship between clients and experienced consultant-level analysts; focus on business-user opportunities from technology-market change
 - RAMP and Advisory Access Service mentioned as core engagement types
-- Technology supplier product and market expertise; versed in product lifecycle, distribution channels, competitive landscapes
 - Business technology suppliers seeking leadership in emerging markets

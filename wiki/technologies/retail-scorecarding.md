@@ -12,9 +12,9 @@ era: "2000s-2010s"
 lifecycle_at_study: "growth"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Retail Enterprise Scorecarding
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Hypothesis qualifies the value of scorecarding the retail organism as a whole, rather than just measuring individual parts — [[study-aberdeen-retail-bi-benchmark-survey-2006-aa440e]]
+- Hypothesis qualifies the value of scorecarding the retail organism as a whole, rather than just measuring individual parts `[ps=4]` — [[study-aberdeen-retail-bi-benchmark-survey-2006-aa440e]]

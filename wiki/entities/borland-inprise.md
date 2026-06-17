@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "unknown"
 years_active: "1983-2009"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Borland International Inc. (Inprise Inc.)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Delivers excellent technology but struggles with enterprise credibility; JBuilder licensed by Oracle; renaming to Inprise June 1998; will never again compete with Microsoft head-to-head — [[study-develo~1-d25652]]
-- Excellent technology; struggles with consistent message and marketing strategy; many strategic relationships via Visigenic; unable to leverage into lasting market position — [[study-intern~1-45df51]]
+- Delivers excellent technology but struggles with enterprise credibility; JBuilder licensed by Oracle; renaming to Inprise June 1998; will never again compete with Microsoft head-to-head `[ps=4]` — [[study-develo~1-d25652]]
+- Excellent technology; struggles with consistent message and marketing strategy; many strategic relationships via Visigenic; unable to leverage into lasting market position `[ps=4]` — [[study-intern~1-45df51]]

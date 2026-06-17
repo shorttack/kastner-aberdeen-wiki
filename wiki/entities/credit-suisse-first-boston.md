@@ -12,9 +12,9 @@ status: "rebranded"
 successor: "Credit Suisse (2006) -> UBS (2023)"
 years_active: "1978-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Credit Suisse First Boston
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Credit Suisse First Boston uses the PeopleSoft suite with legacy homegrown solutions in place for years. — [[study-oracle-wp-prod-6-a42b4b]]
+- Credit Suisse First Boston uses the PeopleSoft suite with legacy homegrown solutions in place for years. `[ps=0]` — [[study-oracle-wp-prod-6-a42b4b]]

@@ -3,7 +3,7 @@ title: "Apple's Enterprise IT Battle Plan, Part One"
 slug: "study-linux-news-enterprise-systems-apple-s-en-a8fdd0"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "linux-news-enterprise-systems-apple-s-en-a8fdd0"
 author: "Keith Regan (reporter, MacNewsWorld/LinuxInsider); Peter Kastner (quoted source)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.25
+prescience_obs_count: 4
 ---
 
 # Apple's Enterprise IT Battle Plan, Part One
@@ -32,8 +32,8 @@ _Published 2004, author **Keith Regan (reporter, MacNewsWorld/LinuxInsider); Pet
 
 ## Top observations
 
+- Indirect channel partners not strong enough to win large enterprise deals `[ps=4]`
+- No client access licenses and lower list prices vs. Windows/Unix server competitors `[ps=3]`
+- Mainly university use today; worth watching as grid computing matures `[ps=2]`
+- Discontinued January 2011; Xgrid deprecated in OS X 10.7 Lion (2011) `[ps=0]`
 - Needs a Cupertino 'SWAT team' to build enterprise business cases
-- Indirect channel partners not strong enough to win large enterprise deals
-- Mainly university use today; worth watching as grid computing matures
-- No client access licenses and lower list prices vs. Windows/Unix server competitors
-- Discontinued January 2011; Xgrid deprecated in OS X 10.7 Lion (2011)

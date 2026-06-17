@@ -3,7 +3,7 @@ title: "Leader of the pack? [Wolfpack clustering coverage]"
 slug: "study-leader-of-the-pack-23-nov-1996-computing-f2353f"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "leader-of-the-pack-23-nov-1996-computing-f2353f"
 author: "Ian Ashbridge / Sarah Petrie (reporter); Peter Kastner (quoted source)"
@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 6
 ---
 
 # Leader of the pack? [Wolfpack clustering coverage]
@@ -32,9 +32,9 @@ _Published 1996, author **Ian Ashbridge / Sarah Petrie (reporter); Peter Kastner
 
 ## Top observations
 
-- No single Wolfpack vendor had the whole clustering toolkit at launch; 'all at the starting gate'
-- 1 in 7 (~14%) NT investments driven by clustering intent
-- Enterprises should wait ~2 years before betting on Microsoft-only Wolfpack
-- Two factions: Servernet backers (Compaq, Dell, Tandem) vs Microsoft-centric
-- Microsoft Cluster Server two-node shipped 1997; full 4-node capability only with Windows 2000 Advanced Server (2000)
-- Compaq acquired Tandem in 1997 (closed June 1997)
+- Enterprises should wait ~2 years before betting on Microsoft-only Wolfpack `[ps=4]`
+- No single Wolfpack vendor had the whole clustering toolkit at launch; 'all at the starting gate' `[ps=3]`
+- Microsoft Cluster Server two-node shipped 1997; full 4-node capability only with Windows 2000 Advanced Server (2000) `[ps=3]`
+- Two factions: Servernet backers (Compaq, Dell, Tandem) vs Microsoft-centric `[ps=2]`
+- 1 in 7 (~14%) NT investments driven by clustering intent `[ps=0]`
+- Compaq acquired Tandem in 1997 (closed June 1997) `[ps=0]`

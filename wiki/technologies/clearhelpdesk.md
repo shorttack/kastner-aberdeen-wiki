@@ -12,9 +12,9 @@ era: "1995-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # ClearHelpdesk
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Clarify's relationship with Microsoft is a 'tremendous resource for helpdesk excellence' — large percentage of helpdesk inquiries are Microsoft application-related — [[study-aberdeen-1996-clarify-inc]]
+- Clarify's relationship with Microsoft is a 'tremendous resource for helpdesk excellence' — large percentage of helpdesk inquiries are Microsoft application-related `[ps=3]` — [[study-aberdeen-1996-clarify-inc]]

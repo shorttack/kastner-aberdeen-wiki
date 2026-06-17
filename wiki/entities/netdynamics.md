@@ -12,9 +12,9 @@ status: "acquired"
 successor: "NetDynamics -> Sun Microsystems"
 years_active: "1995-1998"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # NetDynamics Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NetDynamics WebExtend creates server-side Java code for Web applications — [[study-1997-peoplesoft-works-the-internet-452445]]
+- NetDynamics WebExtend creates server-side Java code for Web applications `[ps=0]` — [[study-1997-peoplesoft-works-the-internet-452445]]

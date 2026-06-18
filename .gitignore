@@ -1,3 +1,11 @@
 *.tmp
 .obsidian/workspace*
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Backup files (sed-patch artifacts, regen .bak_* etc.)
+*.bak_*

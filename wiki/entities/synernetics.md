@@ -12,9 +12,9 @@ status: "acquired"
 successor: "3Com Corporation (acquired 1993)"
 years_active: "1990-1993"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: -1.0
+prescience_mean: -1.0
+prescience_obs_count: 1
 ---
 
 # Synernetics, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquired 1993; formed core of 3Com Switching Division — [[study-aberdeen-1995-3com-lanplex-2500]]
+- Acquired 1993; formed core of 3Com Switching Division `[ps=-1]` — [[study-aberdeen-1995-3com-lanplex-2500]]

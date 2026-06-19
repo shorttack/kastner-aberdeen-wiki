@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.93
-prescience_obs_count: 14
+prescience_mean: 1.73
+prescience_obs_count: 15
 ---
 
 # IT Trends for 1999 -- Internal Kastner/Logan Analysis
@@ -46,9 +46,9 @@ _Published 1999, author **Peter S. Kastner; John R. Logan / Aberdeen Group**, ty
 - unknown `[ps=0]`
 - unknown `[ps=0]`
 - unknown `[ps=0]`
+- SAP, Oracle, Cisco, Compaq (NT servers), Sun, IBM, Dell will increase shares in their specific areas of dominance in 1999; not year for new entrant `[ps=-1]`
 - Office 2000 delayed beyond expected Q1 1999; represents 40% of Microsoft profits; key feature: move in/out of HTML for Intranet posting
 - Intel will have a banner year; SME replacing PCs and LAN servers in mid-1999 for Y2K + Windows 95/DOS replacement; buying frenzy in 3Q99
-- SAP, Oracle, Cisco, Compaq (NT servers), Sun, IBM, Dell will increase shares in their specific areas of dominance in 1999; not year for new entrant
 - unknown
 - JRL very pessimistic; Y2K bugs found in supposedly corrected code; testing not succeeding; interfaces with trading partners not being tested; Y2K-compliant EDI not tested at application level
 - Internal collated list for HP sales training project and Joe's speech in the Bahamas; dual-audience memo

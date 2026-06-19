@@ -13,8 +13,8 @@ lifecycle_at_study: "dominant"
 lifecycle_current: "end-of-life"
 occurrence_count: 4
 prescience_max: 5.0
-prescience_mean: 0.87
-prescience_obs_count: 15
+prescience_mean: 0.75
+prescience_obs_count: 16
 ---
 
 # Oracle 7.2 / 7.3 database
@@ -44,4 +44,4 @@ prescience_obs_count: 15
 - Good story from desktop to SP2 & ES/9000; No TPC-C until July 1995 `[ps=0]` — [[study-jungle-6-7af8b7]]
 - Good replication including peer-peer `[ps=0]` — [[study-jungle-6-7af8b7]]
 - $2.4 billion, up 40% from 1993 `[ps=0]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
-- Dated RDBMS engine; deal-driven not partnership-driven; unfocused (multimedia/Hollywood/set-tops); ISV partnering tough due to services push — [[study-jungle-6-7af8b7]]
+- Dated RDBMS engine; deal-driven not partnership-driven; unfocused (multimedia/Hollywood/set-tops); ISV partnering tough due to services push `[ps=-1]` — [[study-jungle-6-7af8b7]]

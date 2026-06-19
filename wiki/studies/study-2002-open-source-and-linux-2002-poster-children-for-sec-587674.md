@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.9
-prescience_obs_count: 10
+prescience_mean: 1.64
+prescience_obs_count: 11
 ---
 
 # Open Source and Linux: 2002 Poster Children for Security Problems
@@ -42,4 +42,4 @@ _Published 2002, author **Jim Hurley, Eric Hemmendinger**, type **market-study**
 - no longer the primary security poster child `[ps=0]`
 - from Microsoft to open source/Linux `[ps=0]`
 - 16 of total advisories (per The Register coverage) `[ps=0]`
-- contributor to majority of CERT advisories
+- contributor to majority of CERT advisories `[ps=-1]`

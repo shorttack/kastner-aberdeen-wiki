@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.81
-prescience_obs_count: 16
+prescience_mean: 0.53
+prescience_obs_count: 19
 ---
 
 # MaXLine vs. Fibre Channel Drive System-Level MTBF Analysis
@@ -48,12 +48,12 @@ _Published 2003, author **Aberdeen Group**, type **benchmark**._
 - [UNVERIFIED] `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - Doubling FC capacity to 146GB improves system MTBF 2x but MaXLine 300GB still wins `[ps=0]`
+- In all cases, MaXLine has superior system-level MTBF per TB `[ps=-1]`
+- MaXLine requires 3-7x fewer drives per TB than FC 73GB — this is the system MTBF advantage source `[ps=-1]`
+- MaXLine will be credibly positioned as equal or superior to FC drives for midline workloads on system MTBF basis `[ps=-1]`
 - 8766 hours per year
 - 250GB raw; 200GB at 80% loading; 5 drives per TB at 80% loading
 - 73GB raw; 58.4GB at 80% loading; 17.12 drives per TB at 80% loading
 - 3.997 years
 - 22.815 years (Failure Ratio vs FC: 0.3504)
 - MaXLine 13.69 years vs FC 7.995 years (Failure Ratio: 0.584)
-- In all cases, MaXLine has superior system-level MTBF per TB
-- MaXLine requires 3-7x fewer drives per TB than FC 73GB — this is the system MTBF advantage source
-- MaXLine will be credibly positioned as equal or superior to FC drives for midline workloads on system MTBF basis

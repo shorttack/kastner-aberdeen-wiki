@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Web services (SOAP/REST/WSDL) remain active and foundational, though REST/JSON have largely superseded SOAP/XML in new development. Known answer applied.', 'source': 'known'}"
 occurrence_count: 5
 prescience_max: 4.0
-prescience_mean: 1.6
-prescience_obs_count: 5
+prescience_mean: 1.17
+prescience_obs_count: 6
 ---
 
 # Web Services (XML/SOAP/WSDL/UDDI)
@@ -34,4 +34,4 @@ prescience_obs_count: 5
 - 90% `[ps=0]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
 - ~50% `[ps=0]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
 - 76% `[ps=0]` — [[study-ra-enterprise-apps-312ba4]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. — [[study-entrustsnapshot-f78f15]]
+- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-entrustsnapshot-f78f15]]

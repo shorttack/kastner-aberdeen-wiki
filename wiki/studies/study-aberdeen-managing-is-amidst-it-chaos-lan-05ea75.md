@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.5
-prescience_obs_count: 8
+prescience_mean: 0.33
+prescience_obs_count: 9
 ---
 
 # Managing IS Amidst IT Chaos: A May 1993 Seminar for Land O'Lakes
@@ -40,5 +40,5 @@ _Published 1993, author **Peter S. Kastner (Aberdeen Group)**, type **client-sem
 - high-confidence `[ps=0]`
 - Vice President, Aberdeen Group, Inc. `[ps=0]`
 - May 1993 seminar attendee `[ps=0]`
+- >=50% of capital expenditure now for IT `[ps=-1]`
 - negative
-- >=50% of capital expenditure now for IT

@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.27
-prescience_obs_count: 44
+prescience_mean: 1.22
+prescience_obs_count: 45
 ---
 
 # HP Smart ContAct/CIS: Customer Interaction Software - The New Market Weapon

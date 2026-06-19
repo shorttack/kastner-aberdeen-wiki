@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.6
-prescience_obs_count: 20
+prescience_mean: 3.38
+prescience_obs_count: 21
 ---
 
 # Utilities Transformed: The Role of IT in Reshaping the Energy Business, 1998 Edition
@@ -52,8 +52,8 @@ _Published 1998, author **Aberdeen Group (Barton Taylor)**, type **market-study*
 - OASIS electricity transmission reservation management system in active development `[ps=0]`
 - Operational challenges for OASIS systems identified `[ps=0]`
 - $895 for 102-page report with 10 explanatory illustrations `[ps=0]`
+- Energy companies with strong IT capabilities (smart grid operators; competitive retailers; data platforms) outperformed pure commodity players; Enron's collapse showed over-reliance on trading without IT infrastructure `[ps=-1]`
 - Electricity and natural gas represent the largest market yet to be deregulated
 - BBS-based trading systems used to deregulate natural gas cited as IT precedent for electricity deregulation
 - AMR evolved into Advanced Metering Infrastructure (AMI); smart meters deployed to 100M+ US homes by 2020; internet meter access standard
 - Energy information platforms (Itron Meter Intelligence; Oracle Utilities; GridPoint) emerged exactly as predicted; data monetization became standard
-- Industry participants are generation firms (GENCOs) transmission companies (TRANSCOs) distribution companies (DISCOs) power marketers and energy service companies

@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 63
 prescience_max: 5.0
-prescience_mean: 1.59
-prescience_obs_count: 317
+prescience_mean: 1.02
+prescience_obs_count: 407
 ---
 
 # Supply Chain Management (SCM)

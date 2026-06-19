@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 3.0
-prescience_obs_count: 18
+prescience_mean: 2.79
+prescience_obs_count: 19
 ---
 
 # Unify VISION: The Future Of High-End Internet Software Development
@@ -50,10 +50,10 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 - Faster competitive-advantage upgrades than alternatives `[ps=1]`
 - Mature — approaching obsolescence as internet architectures emerge `[ps=0]`
 - Partial — Java embedding planned but not yet fully implemented at time of study `[ps=0]`
+- Unify failed to achieve enterprise leadership; accounting fraud scandal 2000; CEO convicted 2003; delisted from Nasdaq; pivoted away from VISION `[ps=-1]`
 - High-end 4GL with mature client-server and emerging internet capability
 - Rapidly emerging — vendors must support n-tier for enterprise credibility
 - VISION positioned to compete as top-tier enterprise development platform if Java roadmap executed
-- Unify failed to achieve enterprise leadership; accounting fraud scandal 2000; CEO convicted 2003; delisted from Nasdaq; pivoted away from VISION
 - VISION supports thousands-of-users deployments; mission-critical 911 CAD proven
 - Supports client-server and beginning to support three-tier; internet architecture transitional
 - Leading Windows RAD tool; strong but at risk from internet transition

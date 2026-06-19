@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.8
-prescience_obs_count: 59
+prescience_mean: 1.32
+prescience_obs_count: 71
 ---
 
 # Ra Web Site Search 3910 (Aberdeen, 2007)

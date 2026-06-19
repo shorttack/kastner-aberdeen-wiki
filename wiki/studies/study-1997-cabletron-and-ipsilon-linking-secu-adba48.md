@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 3.36
-prescience_obs_count: 11
+prescience_mean: 3.0
+prescience_obs_count: 12
 ---
 
 # Cabletron and Ipsilon: Linking SecureFast Architecture and IP Switching
@@ -43,9 +43,9 @@ _Published 1997, author **Samuel M. Alunni (Aberdeen Group)**, type **impact-bri
 - IP Switching (GSMP, IFMP) presented as viable alternative to routing; implied IETF standardization path `[ps=2]`
 - Aberdeen strongly endorses the alliance; predicts customers upgrading hub/router LANs will find the combined solution extremely attractive; predicts sustained competitive advantage vs. Cisco `[ps=1]`
 - Ipsilon expected to grow global presence via Cabletron's Synergy/Plus program and Fortune 500 access `[ps=1]`
+- Nokia acquired Ipsilon for $120M cash+stock in December 1997 — 8 months after this report; Cabletron's $20M equity stake became worth only ~$6M; the alliance framework was effectively dissolved `[ps=-1]`
 - $20 million (approximately 5% stake in Ipsilon Networks)
 - Time-of-day/day-of-week access control; call-level accounting; connection-oriented security
 - IP Switching pioneer; needed cash, distribution channels, and Fortune 500 market access
-- Nokia acquired Ipsilon for $120M cash+stock in December 1997 — 8 months after this report; Cabletron's $20M equity stake became worth only ~$6M; the alliance framework was effectively dissolved
 - Aberdeen calls the alliance 'one of the most rational of the industry's recent mergers and acquisitions' compared to other networking M&A of the period
 - ~40% reduction in market capitalization of networking stocks preceded the M&A wave

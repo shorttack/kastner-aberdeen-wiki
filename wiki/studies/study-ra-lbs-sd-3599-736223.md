@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.08
-prescience_obs_count: 73
+prescience_mean: 0.88
+prescience_obs_count: 81
 ---
 
 # Ra Lbs Sd 3599 (Aberdeen, 2006)

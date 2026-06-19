@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.0
-prescience_obs_count: 16
+prescience_mean: 3.71
+prescience_obs_count: 17
 ---
 
 # Is Windows NT/Windows 2000 Enterprise-Ready?
@@ -48,6 +48,6 @@ _Published 2000, author **Joe Clabby**, type **market-study**._
 - Met — MMC and WMI provide unified management console `[ps=3]`
 - $895 per copy `[ps=0]`
 - 85 pages `[ps=0]`
+- Widely deployed in mission-critical environments including banking, finance, logistics `[ps=-1]`
 - Partially met — improved Unix/mainframe interop but proprietary protocols remain
-- Widely deployed in mission-critical environments including banking, finance, logistics
 - Banking, finance, transportation/logistics, electronics manufacturing, travel

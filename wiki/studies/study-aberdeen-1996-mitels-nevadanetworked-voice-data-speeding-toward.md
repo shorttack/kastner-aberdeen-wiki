@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.69
-prescience_obs_count: 16
+prescience_mean: 2.47
+prescience_obs_count: 17
 ---
 
 # Mitel's NeVaDa (Networked Voice and Data) – Speeding Toward Convergence
@@ -48,9 +48,9 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Up to 192 voice ports per peripheral node `[ps=0]`
 - T1/E1 DSU links and PRI gateways via SX-2000 LIGHT DSU nodes `[ps=0]`
 - Filed bankruptcy April 2003; operational business acquired by Network Technology/Ringdale 2006 `[ps=0]`
+- Survived via multiple restructurings; became significant UC vendor; acquired Aastra (2013), ShoreTel (2017); filed Ch.11 Mar 2025, exited Jun 2025 `[ps=-1]`
 - Data and telecom systems still separate in most organizations
 - Evolution: proprietary PBX → modular distributed nodes → open-standards call server on broadband backbone
 - Open standards + Token Ring + Ethernet support + strategic IT partnerships (DEC, Intel, Microsoft, Madge)
 - Must secure ATM technology to meet proposed ATM-enabled upgrade in timely fashion
 - IT view of the world is and will continue to be the de facto communications model; voice must integrate into IT
-- Survived via multiple restructurings; became significant UC vendor; acquired Aastra (2013), ShoreTel (2017); filed Ch.11 Mar 2025, exited Jun 2025

@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.42
-prescience_obs_count: 12
+prescience_mean: 2.15
+prescience_obs_count: 13
 ---
 
 # Oracle Data Mart Suite for NT: Hitting The Mass-Market Sweet Spot
@@ -44,8 +44,8 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 - Oracle Express Server included for multidimensional analysis `[ps=0]`
 - Oracle Discoverer included for ad-hoc query and reporting `[ps=0]`
 - Under $35,000 for 5 named users; scales to $50-80K for 25-50 users `[ps=0]`
+- Departmental/line-of-business managers; 5-100 users; under $100K total cost `[ps=-1]`
 - 6-12 months implementation typical for custom data mart
-- Departmental/line-of-business managers; 5-100 users; under $100K total cost
 - Single unified DBA console for entire suite
 - Oracle Data Mart Suite includes ETL/data transformation tools
 - NT chosen as target platform for mass-market appeal and cost-effectiveness vs Unix

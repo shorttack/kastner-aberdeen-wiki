@@ -13,8 +13,8 @@ successor: "Peregrine Systems (2001) -> BMC Software (2002) -> Service Managemen
 years_active: "1990-2002"
 occurrence_count: 4
 prescience_max: 5.0
-prescience_mean: 2.18
-prescience_obs_count: 11
+prescience_mean: 1.92
+prescience_obs_count: 12
 ---
 
 # Remedy Corporation
@@ -40,7 +40,7 @@ prescience_obs_count: 11
 - New screen widgets, view management, HTML User's Guide `[ps=0]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - Inventory management, purchase order management, stock reordering, password/network address tracking, asset tracking, change management `[ps=0]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - Top supplier of internal help desk applications `[ps=0]` — [[study-cispra~1-23a333]]
+- ITSM market grew substantially; Gartner ITSM predictions for $9.4B by 2000 were directionally correct; ServiceNow founded 2004 on same COM premise; market reached $14B+ by 2015 `[ps=-1]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - 53% of sales to existing customers (first 3 quarters 1996) — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - Automotive, computers, chemicals/pharma, energy/utilities, financial services, government, telecom, education — [[study-1997-automating-and-managing-internal-op-e69e64]]
-- ITSM market grew substantially; Gartner ITSM predictions for $9.4B by 2000 were directionally correct; ServiceNow founded 2004 on same COM premise; market reached $14B+ by 2015 — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - Profiled CIS supplier; strong in IT helpdesk/service management; Action Request System product — [[study-aberdeen-1996-managing-customers-next-gen-helpdesk]]

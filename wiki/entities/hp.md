@@ -13,8 +13,8 @@ successor: "HP Inc. + Hewlett Packard Enterprise"
 years_active: "1939-present (post-2015 split)"
 occurrence_count: 6
 prescience_max: 5.0
-prescience_mean: 2.62
-prescience_obs_count: 32
+prescience_mean: 2.52
+prescience_obs_count: 33
 ---
 
 # Hewlett-Packard Company

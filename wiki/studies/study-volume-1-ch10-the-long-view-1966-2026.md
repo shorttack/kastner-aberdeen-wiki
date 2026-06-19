@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.55
-prescience_obs_count: 105
+prescience_mean: 3.51
+prescience_obs_count: 106
 ---
 
 # Chapter 10: The Long View — What Fifty Years of Technology Markets Teach (1966-2026)

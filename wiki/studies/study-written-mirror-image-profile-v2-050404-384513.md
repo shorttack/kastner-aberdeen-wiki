@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: -1.0
+prescience_mean: -1.0
+prescience_obs_count: 1
 ---
 
 # Written Mirror Image Profile V2 (050404) (Aberdeen, 1988)
@@ -32,4 +32,4 @@ _Published 1988, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- This study analyzes ==> picture [442 x 39] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [442 x 39] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

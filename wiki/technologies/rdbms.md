@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Relational databases remain the dominant data storage paradigm. MySQL, PostgreSQL, Oracle DB, SQL Server all actively developed and widely deployed.', 'source': 'General knowledge / industry consensus'}"
 occurrence_count: 27
 prescience_max: 5.0
-prescience_mean: 2.32
-prescience_obs_count: 100
+prescience_mean: 2.29
+prescience_obs_count: 101
 ---
 
 # Relational Database Management System (RDBMS)

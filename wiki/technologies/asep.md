@@ -13,8 +13,8 @@ lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 2.8
-prescience_obs_count: 5
+prescience_mean: 2.17
+prescience_obs_count: 6
 ---
 
 # ASEP Automated Station Energy Program
@@ -29,6 +29,6 @@ prescience_obs_count: 5
 - Small lifestyle change enables savings; Ralph Abbott (AS&E VP) asserts users will adopt TOU `[ps=3]` — [[study-minicomputer-news-ase-asep-1979-2b5327]]
 - Individual meter usage checkable as often as every 30 minutes or as infrequently as monthly `[ps=3]` — [[study-minicomputer-news-ase-asep-1979-2b5327]]
 - 154,000 homes under ASEP water-heater load control `[ps=0]` — [[study-minicomputer-news-ase-asep-1979-2b5327]]
+- Residential AC/heating systems and electrical water heaters under ASEP control `[ps=-1]` — [[study-minicomputer-news-ase-asep-1979-2b5327]]
 - Utilities in ~12 states using ASEP on experimental basis in 1979 — [[study-minicomputer-news-ase-asep-1979-2b5327]]
 - Florida, Wisconsin, Missouri, New Jersey, Minnesota, California — [[study-minicomputer-news-ase-asep-1979-2b5327]]
-- Residential AC/heating systems and electrical water heaters under ASEP control — [[study-minicomputer-news-ase-asep-1979-2b5327]]

@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 3.0
-prescience_mean: 0.92
-prescience_obs_count: 12
+prescience_mean: 0.77
+prescience_obs_count: 13
 ---
 
 # Written Desktop Virtualization Roi   Aberdeen (Aberdeen, 2011)
@@ -44,4 +44,4 @@ _Published 2011, author **Aberdeen Group**, type **benchmark**._
 - First is the fact that 45% of companies that have deployed desktop virtualization report using thin or stateless clients (Table 13). `[ps=0]`
 - For more than two decades, Aberdeen's research has been helping corporations worldwide become Best-in-Class. `[ps=0]`
 - That's why our research is relied on by more than 2.5 million readers in over 40 countries, 90% of the Fortune 1,000, and 93% of the Technology 500. `[ps=0]`
-- **Figure 1: Benefits of Desktop Virtualization Program**
+- **Figure 1: Benefits of Desktop Virtualization Program** `[ps=-1]`

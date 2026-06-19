@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.13
-prescience_obs_count: 38
+prescience_mean: 1.29
+prescience_obs_count: 52
 ---
 
 # Callcenteroptimization Researchreport Rk 3503 (Aberdeen, 2006)

@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.23
-prescience_obs_count: 26
+prescience_mean: 1.8
+prescience_obs_count: 30
 ---
 
 # The New Retail Differentiator: Making Extended Points of Service a Reality

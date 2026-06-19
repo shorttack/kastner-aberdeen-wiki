@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.44
-prescience_obs_count: 9
+prescience_mean: 2.1
+prescience_obs_count: 10
 ---
 
 # Unisys Corporation - ClearPath SMP Servers
@@ -41,6 +41,7 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - SCM (Synchronous Coherent Memory) passive backplane: 64-bit, 533 MBps; up to 24 processors expected by year-end upgrade `[ps=0]`
 - Veritas Vx Reliant: cluster 2-4 SMP nodes; 99.9% to 99.999% uptime; optional distributed lock manager for Oracle Parallel Server `[ps=0]`
 - SMP61000: 6 hot-swappable internal disks (RAID 0/1/5); additional modular cabinets for 7+ more hot-swappable drives; enterprise-grade I/O `[ps=0]`
+- Unisys ClearPath Forward platform survived and continues with roadmap to 2050; however Unisys exited commodity Intel server market and refocused on services and ClearPath legacy platforms `[ps=-1]`
 - Unisys positions as 'one-stop-shop': hardware + OS + middleware + integration services to relieve MIS complexity burden
 - Unisys reorganized 1995 into 3 groups: Global Customer Service Group, Information Service Group, Computer Systems Group
 - Since 1994 Aberdeen profile, Unisys mission evolved from systems-centric to solution-centric enterprise computing
@@ -53,4 +54,3 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Aberdeen expects Unisys to enhance SCM bus by year-end to support 24 processors in SMP61000
 - Desktop, mid-tier servers, and back-end systems hardware requiring enterprise-wide integration
 - Aberdeen: Unisys mission to continue moving from systems-centric to solution-centric; ClearPath SMP line to mature as enterprise platform
-- Unisys ClearPath Forward platform survived and continues with roadmap to 2050; however Unisys exited commodity Intel server market and refocused on services and ClearPath legacy platforms

@@ -13,8 +13,8 @@ successor: "Allscripts Healthcare Solutions (merged 2010, $1.3B all-stock deal)"
 years_active: "unknown [REVIEW]"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 0.41
-prescience_obs_count: 17
+prescience_mean: 0.33
+prescience_obs_count: 18
 ---
 
 # Eclipsys Corp.
@@ -41,6 +41,6 @@ prescience_obs_count: 17
 - [UNVERIFIED] `[ps=0]` — [[study-auditor-report-4-43ad9b]]
 - No perceptible change in response time or throughput when SUT disconnected from wider network `[ps=0]` — [[study-auditor-report-4-43ad9b]]
 - 2.50 seconds avg; 99th percentile 6.74 seconds `[ps=0]` — [[study-auditor-report-4-43ad9b]]
+- 6,000-bed hospital at 5,000 orders/hour = 2.27x busiest known real hospital (2,200 orders/hour) `[ps=-1]` — [[study-auditor-report-4-43ad9b]]
 - 40% — [[study-auditor-report-4-43ad9b]]
 - 721,158 transactions over 715 minutes — [[study-auditor-report-4-43ad9b]]
-- 6,000-bed hospital at 5,000 orders/hour = 2.27x busiest known real hospital (2,200 orders/hour) — [[study-auditor-report-4-43ad9b]]

@@ -13,8 +13,8 @@ successor: "Harte-Hanks (2008); Spiceworks Ziff Davis (later)"
 years_active: "1911-present"
 occurrence_count: 65
 prescience_max: 5.0
-prescience_mean: 1.63
-prescience_obs_count: 154
+prescience_mean: 1.58
+prescience_obs_count: 157
 ---
 
 # Sun Microsystems Computer Corporation (SMCC)

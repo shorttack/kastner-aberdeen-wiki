@@ -13,8 +13,8 @@ successor: "Security Dynamics Inc. (July 1997, $115M)"
 years_active: "1984-1997"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 1.62
-prescience_obs_count: 8
+prescience_mean: 1.33
+prescience_obs_count: 9
 ---
 
 # DynaSoft AB
@@ -32,5 +32,5 @@ prescience_obs_count: 8
 - Full project deployments from start to finish in less than 60 days `[ps=0]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
 - BankBoston, BP Oil, Citibank, Chase Manhattan, Indian Telecom, Mannesmann Mobilfunk, Merrill Lynch, SmithKline Beecham, Telecom Italia, Telmex, Telstra `[ps=0]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
 - NT Server version in field test; planned for future release `[ps=0]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
-- Delivering SSO since 1984; focus on Unix then client-server then Internet — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
+- Delivering SSO since 1984; focus on Unix then client-server then Internet `[ps=-1]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
 - Users consistently give DynaSoft high marks for helping deploy projects ahead of schedule — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]

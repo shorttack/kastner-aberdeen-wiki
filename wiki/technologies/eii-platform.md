@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "evolved"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 2.2
-prescience_obs_count: 15
+prescience_mean: 2.0
+prescience_obs_count: 16
 ---
 
 # Enterprise Information Integration (EII)
@@ -39,8 +39,8 @@ prescience_obs_count: 15
 - Attunity, XAware, Nimble Technologies: each $4-7 million EII revenue estimate (2003 projected) `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]
 - No single supplier dominates EII market; most EII suppliers are small companies 1-4 years old; market awareness began 2001 `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]
 - Sybase open veneer provides common SQL front-end to its own and other relational databases; lets developers write to common SQL; does not allow cross-supplier transactions `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]
+- Aberdeen EII Technology Segmentation Model: EAI technology (30+ vendors), Database technology (IBM/Microsoft/Oracle/Sybase), XML messaging (20+ vendors), EII solution (Attunity/Business Objects/Ipedo/XAware/MetaMatrix/Venetica/BEA/Nimble/IBM) `[ps=-1]` — [[study-aberdeen-eii-2003-ea3f1a]]
 - EII market less than $200 million; 80% growth projected for 2003 — [[study-aberdeen-eii-2003-ea3f1a]]
 - EII to become key technology in $7.5 billion market as incorporated in portal, EAI, BI, and BPI solutions — [[study-aberdeen-eii-2003-ea3f1a]]
 - Database administration costs now dominate TCO of applications below 500-user level and continue to increase in importance for all sizes — [[study-aberdeen-eii-2003-ea3f1a]]
 - For every $1 spent on EII software licenses, $1.25 to $1.50 spent on professional services for implementation — [[study-aberdeen-eii-2003-ea3f1a]]
-- Business benefit of EII increases exponentially with successive integration of each related application and database — [[study-aberdeen-eii-2003-ea3f1a]]

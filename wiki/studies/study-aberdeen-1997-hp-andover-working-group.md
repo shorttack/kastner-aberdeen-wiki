@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.94
-prescience_obs_count: 17
+prescience_mean: 1.78
+prescience_obs_count: 18
 ---
 
 # HP's Andover Working Group Makes Significant Headway in Establishing Interoperability in Healthcare Computing
@@ -49,9 +49,9 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 - Clinical Information Management Solutions — point-of-care for critical care, cardiology, surgery, perinatal, lab `[ps=0]`
 - Each core member commits a full-time senior architect for one year and agrees to use ECF in products `[ps=0]`
 - All 1996 release dates met; alpha software August 1996, proof-of-concept October 1996, as promised `[ps=0]`
+- Total solutions provider: spearheads standards initiative + provides medical devices + offers enterprise computing + professional services `[ps=-1]`
 - ~200 supporting members
 - Alpha software distributed to core members August 1996; proof-of-concept demo October 1996
 - Medical Diagnostic Equipment — ultrasound imaging, patient monitoring, cardiology, obstetrical systems
-- Total solutions provider: spearheads standards initiative + provides medical devices + offers enterprise computing + professional services
 - Standardization at implementation level via Enterprise Communicator components, not just specification level
 - Acquired by McKesson Corporation for $14B in 1999 (McKesson HBOC); subsequent accounting scandal

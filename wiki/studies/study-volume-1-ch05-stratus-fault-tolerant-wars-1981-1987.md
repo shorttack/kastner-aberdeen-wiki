@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.14
-prescience_obs_count: 87
+prescience_mean: 2.1
+prescience_obs_count: 88
 ---
 
 # Chapter 5: Stratus Computer — Six Years in the Fault-Tolerant Wars (1981-1987)

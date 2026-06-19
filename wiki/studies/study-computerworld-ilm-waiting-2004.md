@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.5
-prescience_obs_count: 22
+prescience_mean: 3.3
+prescience_obs_count: 23
 ---
 
 # Waiting for ILM?
@@ -54,6 +54,6 @@ _Published 2004, author **Peter S. Kastner**, type **expert-report**._
 - Every application platform changes within five years; no forced migration before its time is possible `[ps=2]`
 - As ILM-based policy management software matures circa 2008-2010, storage-related hours on production systems will be reduced by 80% `[ps=2]`
 - Aberdeen Group co-developed and published the four-pool storage model and midline terminology used in this article `[ps=0]`
+- EMC NetApp and HP all shipped mature automated tiering by 2009-2011 confirming the 2008-2010 window. `[ps=-1]`
 - Cross-application management software for integrated enterprise-wide ILM is 4-5 years away (circa 2008-2009)
-- EMC NetApp and HP all shipped mature automated tiering by 2009-2011 confirming the 2008-2010 window.
 - More than half of enterprise data is semi-structured or unstructured and seldom changing — suited for midline tier

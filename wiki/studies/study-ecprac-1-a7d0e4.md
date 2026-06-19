@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.71
-prescience_obs_count: 24
+prescience_mean: 1.6
+prescience_obs_count: 25
 ---
 
 # Electronic Commerce: 1998 Practice Summary
@@ -56,4 +56,4 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 - $120M+ annualized `[ps=0]`
 - >$40M `[ps=0]`
 - Agreements with Ingram Micro Tech Data and HP; 300+ VARs ISPs and systems integrators `[ps=0]`
-- >20% of households
+- One of three largest EC software suppliers in world alongside IBM and Microsoft; annual revenues >$530M `[ps=-1]`

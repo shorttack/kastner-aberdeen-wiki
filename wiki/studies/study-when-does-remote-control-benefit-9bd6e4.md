@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 3.62
-prescience_obs_count: 13
+prescience_mean: 3.29
+prescience_obs_count: 14
 ---
 
 # When Does Remote Control Benefit Remote Node Architecture?
@@ -45,10 +45,10 @@ _Published 1997, author **Aberdeen Group (Virginia Brooks)**, type **impact-stud
 - Software/systems upgraded every 90-120 days `[ps=3]`
 - Considered secure because users subject to same LAN security; but captured data streams more harmful than screen/mouse captures `[ps=2]`
 - LapLink positions as solving core remote access cost/time/experience problems for IT `[ps=2]`
+- Traveling Software renamed Laplink Software circa 2003; active in 2026 as PC migration software vendor; partnerships with Microsoft (2014) and Intel (2022) `[ps=-1]`
 - Move to remote node sacrifices important benefits provided by remote control
 - 28.8 kbps; most remote connections run at this speed
 - Almost continuous but small traffic flow; only GUIs mouse movements and keystrokes traverse link
 - Remote control over remote node provides encryption access control and parameter-setting for heightened security
 - Traveling Software's LapLink positioned as enabling remote control over remote node hybrid architecture
 - Remote control implementation on the rise as business users frustrated with 28.8kbps data streaming
-- Traveling Software renamed Laplink Software circa 2003; active in 2026 as PC migration software vendor; partnerships with Microsoft (2014) and Intel (2022)

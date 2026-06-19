@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.14
-prescience_obs_count: 7
+prescience_mean: 2.62
+prescience_obs_count: 8
 ---
 
 # Aberdeen Group 'Trends in Computing in the 90's: Are There Any Right Answers?' (John R. Logan VP, 1991)
@@ -39,4 +39,4 @@ _Published 1991, author **John R. Logan (Vice-President, Aberdeen Group)**, type
 - RISC: 100 instructions, merchant, 75 MIPS by 1991 vs CISC 300 instructions, captive, 40 MIPS `[ps=3]`
 - By 1994: MS-NT, IBM Big Pink, Solaris replace 1991's MS-DOS/OS/2/Unix triad on desktop `[ps=2]`
 - Vice-President, Aberdeen Group, 92 State Street, Boston MA 02109 (617) 723-7890 `[ps=0]`
-- OSF v UI; ACE v Big Pink; Object Management Group; SQL Access Group; Digital/MIPS; IBM/Thinking Machines; Digital/Masspar; Sun/HP
+- OSF v UI; ACE v Big Pink; Object Management Group; SQL Access Group; Digital/MIPS; IBM/Thinking Machines; Digital/Masspar; Sun/HP `[ps=-1]`

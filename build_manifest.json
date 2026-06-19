@@ -1,14 +1,13 @@
 {
-  "build_completed_at": "2026-06-17T21:50:28.097438+00:00",
+  "build_completed_at": "2026-06-19T21:42:36.753939+00:00",
   "phase_1": {
     "archive_masters": "/Users/scott/Desktop/Archive/archive_masters",
     "derived": {
       "collections_aggregated": 6,
       "entities_with_occurrences": 1404,
-      "obs_with_prescience_score": 15924,
-      "prescience_rows_filtered_as_sentinels": 908,
-      "studies_with_prescience_obs": 1108,
-      "studies_with_pub_year": 1452,
+      "obs_with_prescience_score": 16832,
+      "studies_with_prescience_obs": 1308,
+      "studies_with_pub_year": 1453,
       "techs_with_occurrences": 3049
     },
     "masters_loaded": {
@@ -55,7 +54,7 @@
       "_master_studies.csv": {
         "cols": 16,
         "file": "_master_studies.csv",
-        "rows": 1452
+        "rows": 1453
       },
       "_master_tech_studies.csv": {
         "cols": 2,
@@ -72,7 +71,7 @@
       {
         "cols": 20,
         "name": "studies",
-        "rows": 1452
+        "rows": 1453
       },
       {
         "cols": 9,
@@ -92,7 +91,7 @@
       {
         "cols": 12,
         "name": "prescience_scores",
-        "rows": 16177
+        "rows": 17085
       },
       {
         "cols": 9,
@@ -132,7 +131,7 @@
     ],
     "phase": 1,
     "phase_name": "load_csvs",
-    "ran_at": "2026-06-17T10:30:21.299992+00:00",
+    "ran_at": "2026-06-19T21:22:07.600656+00:00",
     "version": "v2",
     "wiki": "/Users/scott/Repos/kastner-aberdeen-wiki"
   },
@@ -140,7 +139,7 @@
     "duckdb_path": "db/kastner.duckdb",
     "phase": 2,
     "phase_name": "build_data_layer",
-    "ran_at": "2026-06-17T10:30:21.748756+00:00",
+    "ran_at": "2026-06-19T21:22:07.770069+00:00",
     "version": "v2",
     "view_rowcounts": {
       "v_codes": 1293,
@@ -154,17 +153,17 @@
       "v_holistic_prescience_distribution": 6,
       "v_known_entities": 3300,
       "v_known_technologies": 4371,
-      "v_low_confidence_prescience": 802,
+      "v_low_confidence_prescience": 1710,
       "v_methodology_codes": 408,
       "v_observations": 23926,
       "v_observations_by_year": 99,
-      "v_observations_with_prescience": 15924,
+      "v_observations_with_prescience": 16832,
       "v_prescience_by_decade": 6,
-      "v_prescience_raw": 16177,
-      "v_studies": 1452,
+      "v_prescience_raw": 17085,
+      "v_studies": 1453,
       "v_studies_by_decade": 6,
       "v_studies_with_high_prescience": 865,
-      "v_studies_with_prescience": 1108,
+      "v_studies_with_prescience": 1308,
       "v_tech_studies": 5375,
       "v_technologies": 4361,
       "v_technologies_by_lifecycle": 4361,
@@ -176,14 +175,14 @@
     "by_type": {
       "code": 1293,
       "entity": 3276,
-      "study": 1452,
+      "study": 1453,
       "technology": 4361
     },
     "limit_llm": 0,
-    "pages_emitted": 10382,
+    "pages_emitted": 10383,
     "phase": 3,
     "phase_name": "generate_vault",
-    "ran_at": "2026-06-17T20:16:58.942282+00:00",
+    "ran_at": "2026-06-18T18:13:31.010015+00:00",
     "skip_llm": false,
     "tier1_counts_planned": {
       "entity": 200,
@@ -203,19 +202,19 @@
     },
     "phase": 4,
     "phase_name": "generate_indices",
-    "ran_at": "2026-06-17T21:29:02.983590+00:00",
+    "ran_at": "2026-06-19T21:22:08.167267+00:00",
     "version": "v2"
   },
   "phase_5": {
-    "elapsed_sec": 1118.9,
+    "elapsed_sec": 1226.4,
     "model": "bge-m3",
-    "pages_embedded": 10438,
-    "pages_with_page_type": 10438,
-    "pages_with_title": 10438,
-    "pages_with_vector": 10438,
+    "pages_embedded": 10774,
+    "pages_with_page_type": 10439,
+    "pages_with_title": 10774,
+    "pages_with_vector": 10774,
     "phase": 5,
     "phase_name": "embeddings",
-    "ran_at": "2026-06-17T22:22:16.238749+00:00",
+    "ran_at": "2026-06-19T21:42:36.597820+00:00",
     "schema_columns": [
       "page_path",
       "page_type",
@@ -238,6 +237,6 @@
     ],
     "phase": 6,
     "phase_name": "emit_scaffolding",
-    "ran_at": "2026-06-17T21:50:28.097319+00:00"
+    "ran_at": "2026-06-19T21:42:36.753811+00:00"
   }
 }

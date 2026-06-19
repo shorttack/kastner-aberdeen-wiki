@@ -13,8 +13,8 @@ lifecycle_at_study: "obsolete"
 lifecycle_current: ""
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 0.41
-prescience_obs_count: 32
+prescience_mean: 0.36
+prescience_obs_count: 33
 ---
 
 # Digital ObjectBroker

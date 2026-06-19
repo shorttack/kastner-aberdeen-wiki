@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.89
-prescience_obs_count: 37
+prescience_mean: 1.68
+prescience_obs_count: 40
 ---
 
 # Ra Governance Jh (Aberdeen, 2005)

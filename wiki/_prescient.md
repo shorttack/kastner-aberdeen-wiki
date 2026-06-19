@@ -14,14 +14,10 @@ Top 50 studies by `prescience_max` (≥4) then `prescience_mean`.
 | Study | P_max | P_mean | Year |
 |---|---:|---:|---:|
 | [[study-stratus-foster-acm-speech-pr-1982-16a134|Stratus Press Release — William Foster ACM Annual Conference Speech, 27 October 1982 (Kastner as media contact)]] | 5 | 5.0 | 1982 |
-| [[study-linux-news-software-microsoft-asked-to-c-1a8dc3|Microsoft Asked To Change Misleading Linux Ad]] | 5 | 5.0 | 2004 |
-| [[study-1q06-asset-20management-e1ca0f|1Q06 Asset%20Management (Aberdeen, 2006)]] | 5 | 5.0 | 2006 |
 | [[study-october-1997-editor-s-buffer-5-771798|Editor's Buffer (October 1997)]] | 5 | 4.75 | 1997 |
 | [[study-mac-news-enterprise-systems-apple-s-ente-59fab0|Apple's Enterprise IT Battle Plan, Part Two]] | 5 | 4.67 | 2004 |
 | [[study-2001-winning-the-enterprise-pocket-pc-will-he-pervasive-7686b2|Winning the Enterprise: Pocket PC Will Be the Pervasive Handheld Platform by 2005]] | 5 | 4.6 | 2001 |
 | [[study-sirius-web-enablement-b81ea8|Sirius – The Case For Web Enablement By Mainframe Upgrade]] | 5 | 4.5 | 1997 |
-| [[study-q206-bisurvey-pr-9ea4ac|Q206 Bisurvey Pr (Aberdeen, 2004)]] | 5 | 4.5 | 2004 |
-| [[study-q206-retailwfm-gb-e031a9|Q206 Retailwfm Gb (Aberdeen, 2006)]] | 5 | 4.5 | 2006 |
 | [[study-aberdeen-1996-taming-sap-r3-consultant-led-introspection|Taming SAP R/3 With Consultant-Led Enterprise Introspection]] | 5 | 4.47 | 1996 |
 | [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts|True Enterprise Data Knowledge Through Integrated Data Marts]] | 5 | 4.42 | 1996 |
 | [[study-electronic-news-videoconferencing-sars-c-044642|Videoconferencing Booms on SARS Fears]] | 5 | 4.33 | 2003 |
@@ -40,7 +36,6 @@ Top 50 studies by `prescience_max` (≥4) then `prescience_mean`.
 | [[study-soa-with-bpm-docx-1211c7|Summary of Peter Kastner's Research on BPM and SOA]] | 5 | 4.0 | 2024 |
 | [[study-1997-object-technology-meets-demand-mana-551c84|Object Technology Meets Demand Management: IMI Pushes Towards Real Value-Chain Solutions]] | 5 | 4.0 | 1997 |
 | [[study-1998-internet-procurement-cdc4a6|Internet Procurement]] | 5 | 4.0 | 1998 |
-| [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb|Is Windows NT/Windows 2000 Enterprise-Ready?]] | 5 | 4.0 | 2000 |
 | [[study-aberdeen-1996-year-2000-transition-opportunity-reconstruction|Year 2000 Transition: An Opportunity for the Creative Destruction of Today's Information Systems]] | 5 | 4.0 | 1996 |
 | [[study-aberdeen-1997-picks-right-tools-year-2000|Aberdeen Picks The Right Tools for Year 2000]] | 5 | 4.0 | 1997 |
 | [[study-ect-news-whatever-happened-interactive-t-7446fd|Whatever Happened to Interactive TV?]] | 5 | 4.0 | 2002 |
@@ -52,7 +47,6 @@ Top 50 studies by `prescience_max` (≥4) then `prescience_mean`.
 | [[study-tech-s-best-hope-pockets-of-prosperity-2-17d6cf|Tech's Best Hope: Pockets of Prosperity]] | 5 | 4.0 | 2002 |
 | [[study-technology-news-future-tech-microsoft-la-625f49|Microsoft Launches 64-Bit Windows XP Beta]] | 5 | 4.0 | 2004 |
 | [[study-wired-idc-tech-bucks-hack-threats-2002-e6375d|Tech Bucks Trend, Hack Threats Up]] | 5 | 4.0 | 2002 |
-| [[study-abra-market-to-order-retail-090204-5ba5a7|Abra Market To Order Retail 090204 (Aberdeen, 1988)]] | 5 | 4.0 | 1988 |
 | [[study-aberdeen-1996-mainframe-revival-short-lived-or-long-term|The Mainframe Revival: Short Lived or Long Term?]] | 5 | 3.93 | 1996 |
 | [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1|IT Infrastructure: Are We Building Chaos or Cosmos? (CA-sponsored infrastructure keynote, 1998)]] | 5 | 3.89 | 1998 |
 | [[study-soa-overview-docx-12612f|Summary of Peter Kastner's Research on Service-Oriented Architecture (SOA)]] | 5 | 3.89 | 2024 |
@@ -63,6 +57,12 @@ Top 50 studies by `prescience_max` (≥4) then `prescience_mean`.
 | [[study-technology-news-trends-desktop-pcs-decli-7993aa|Desktop PCs in Decline as Notebooks Surge]] | 5 | 3.86 | 2004 |
 | [[study-aberdeen-1996-enterprise-executives-year-2000-solution|How Enterprise Executives Play a Pivotal Role in the Year 2000 Solution]] | 5 | 3.85 | 1996 |
 | [[study-aberdeen-1996-sqa-suite-50-automated-testing|SQA Suite 5.0: Innovative, Integrated, Automated Testing Tools]] | 5 | 3.83 | 1996 |
+| [[study-dct-memoir-athlon-64-prescience-2003|Memoir: Prescience Call on the AMD Athlon 64 — Reassessing the Aug 2003 PC Deals Commentary]] | 5 | 3.82 | 2026 |
+| [[study-ca-y2k-cfo-executive-exchange-1997-c59ca4|What Every CFO Should Know About the Year 2000 IT Tsunami (CA CFO Executive Exchange December 1997)]] | 5 | 3.8 | 1997 |
+| [[study-aberdeen-1996-web-warehouses-dss-for-masses|Web Warehouses: DSS For The Masses]] | 5 | 3.78 | 1996 |
+| [[study-technology-themes-2003-04|IT Technology Themes and Trends]] | 5 | 3.77 | 2003 |
+| [[study-11-storage-hierarchy-presentation-e84d53|How Aberdeen Sees the Storage Pyramid Evolving]] | 5 | 3.75 | 2002 |
+| [[study-2001-linux-is-on-the-move-up-6bf089|Linux Is on the Move - Up!]] | 5 | 3.75 | 2001 |
 
 ## Study-level (holistic enum = `high`)
 

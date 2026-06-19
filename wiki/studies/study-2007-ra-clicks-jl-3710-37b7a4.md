@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.76
-prescience_obs_count: 59
+prescience_mean: 1.59
+prescience_obs_count: 63
 ---
 
 # 2007 Ra Clicks Jl 3710 (Aberdeen, 2007)

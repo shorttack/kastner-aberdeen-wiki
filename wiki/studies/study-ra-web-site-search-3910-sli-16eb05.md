@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "[DEFERRED]"
 prescience_max: 5.0
-prescience_mean: 1.32
-prescience_obs_count: 47
+prescience_mean: 0.98
+prescience_obs_count: 55
 ---
 
 # Ra Web Site Search 3910 Sli (Aberdeen, 2007)

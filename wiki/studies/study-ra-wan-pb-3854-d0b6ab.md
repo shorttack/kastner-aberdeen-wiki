@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.44
-prescience_obs_count: 68
+prescience_mean: 1.18
+prescience_obs_count: 76
 ---
 
 # Ra Wan Pb 3854 (Aberdeen, 2007)

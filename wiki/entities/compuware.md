@@ -13,8 +13,8 @@ successor: "Thoma Bravo (2014); Dynatrace spun off as separate public company"
 years_active: "1973-present"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 1.67
-prescience_obs_count: 6
+prescience_mean: 1.29
+prescience_obs_count: 7
 ---
 
 # Compuware Corporation
@@ -30,8 +30,8 @@ prescience_obs_count: 6
 - $184.3 million; +31.7% vs Q2 FY1996 `[ps=0]` — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - PRODUCTION 2000 consulting approach combining tools/processes/staff `[ps=0]` — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - Founded 1973 `[ps=0]` — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
+- Compuware taken private by Thoma Bravo 2014 for $2.4B; QACenter did not achieve unified scripting; Mercury Interactive (HP) dominated market `[ps=-1]` — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - >$600 million for fiscal year 1996 — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - Fully capable enterprise-level testing environment with integrated test asset management — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - Tight integration with Oracle Developer/2000 expected to be maintained and extended — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - Common scripting language encompassing all QACenter tools needed for product coherence — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
-- Compuware taken private by Thoma Bravo 2014 for $2.4B; QACenter did not achieve unified scripting; Mercury Interactive (HP) dominated market — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]

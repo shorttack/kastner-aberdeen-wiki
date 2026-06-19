@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.5
-prescience_obs_count: 8
+prescience_mean: 1.22
+prescience_obs_count: 9
 ---
 
 # Sabre's Challenge
@@ -40,5 +40,5 @@ _Published 1997, author **John Foley (InformationWeek)**, type **news-article**.
 - Travelocity runs on a Unix-based Silicon Graphics server and an Oracle database; 1 million users signed up. `[ps=0]`
 - June 1997: Sabre and IBM announced a 10-year agreement to develop systems for Hong Kong airlines. `[ps=0]`
 - Sabre Corporation IPO April 2014 (NASDAQ: SABR) after private-equity ownership 2007-2014. `[ps=0]`
-- Sabre continues to run core reservations on TPF (now z/TPF) into the 2020s, surrounded by distributed Java/cloud services — exactly the surround strategy described in 1997. Core TPF never fully retired.
+- Sabre continues to run core reservations on TPF (now z/TPF) into the 2020s, surrounded by distributed Java/cloud services — exactly the surround strategy described in 1997. Core TPF never fully retired. `[ps=-1]`
 - Sabre sold Travelocity to Expedia in January 2015 for $280M; Travelocity rebranded as a meta-search frontend for Expedia inventory.

@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.07
-prescience_obs_count: 54
+prescience_mean: 1.72
+prescience_obs_count: 61
 ---
 
 # Bm Manufacturing Intelligence 3594 (Aberdeen, 1988)

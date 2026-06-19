@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.12
-prescience_obs_count: 8
+prescience_mean: 1.5
+prescience_obs_count: 10
 ---
 
 # Computerworld 'Fault-Tolerant Market to Hit $2 Billion in '87' — Pre-Aberdeen Pete Kastner Stratus Quote
@@ -40,5 +40,5 @@ _Published 1987, author **Computerworld (staff reporter)**, type **trade-press-n
 - Pete Kastner, manager of marketing development at Stratus `[ps=0]`
 - banking, telecommunications, manufacturing, federal government `[ps=0]`
 - Telephone-network trouble monitoring; battery backup; FT system core `[ps=0]`
-- U.S. fault-tolerant market $2B in 1987, growing 40-50% per year through 1990
-- $1B in 1987, $1.2B by 1990 (more conservative)
+- U.S. fault-tolerant market $2B in 1987, growing 40-50% per year through 1990 `[ps=-1]`
+- $1B in 1987, $1.2B by 1990 (more conservative) `[ps=-1]`

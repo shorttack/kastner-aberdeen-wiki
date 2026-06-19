@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.39
-prescience_obs_count: 46
+prescience_mean: 0.93
+prescience_obs_count: 57
 ---
 
 # Ra Mfsupdate Mvsd 3719 (Aberdeen, 2006)

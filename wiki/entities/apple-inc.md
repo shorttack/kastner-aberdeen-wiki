@@ -13,8 +13,8 @@ successor: "renamed Apple Inc. 2007"
 years_active: "1976-present"
 occurrence_count: 7
 prescience_max: 5.0
-prescience_mean: 2.44
-prescience_obs_count: 16
+prescience_mean: 2.24
+prescience_obs_count: 17
 ---
 
 # Apple Computer, Inc.
@@ -45,7 +45,7 @@ prescience_obs_count: 16
 - 1.5 GHz `[ps=0]` — [[study-year-in-macs-part-one-macworld-dalrymple-dd247c]]
 - 1.33 GHz `[ps=0]` — [[study-year-in-macs-part-one-macworld-dalrymple-dd247c]]
 - 1,665,000 laptops `[ps=0]` — [[study-year-in-macs-part-one-macworld-dalrymple-dd247c]]
+- Last PowerPC Mac (Power Mac G5) discontinued August 2006 `[ps=-1]` — [[study-mac-news-business-apple-intel-marriage-m-d0a5d8]]
 - Easier virtualization/dual-boot between OS X and Windows XP driving Mac purchases — [[study-mac-news-business-apple-intel-marriage-m-d0a5d8]]
 - Intel-Mac era (2006-2020) generally considered strategic success; Mac share grew from 2.5% (2006) to 7-10% (2019) — [[study-mac-news-business-apple-intel-marriage-m-d0a5d8]]
-- Last PowerPC Mac (Power Mac G5) discontinued August 2006 — [[study-mac-news-business-apple-intel-marriage-m-d0a5d8]]
 - Apple posted 65% YoY earnings decline for quarter reported that week; denied rumors of Universal Music bid — [[study-marketwatch-weeks-top-apr17-2003-intel-k-429978]]

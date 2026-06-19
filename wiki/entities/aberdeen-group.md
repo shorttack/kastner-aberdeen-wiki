@@ -13,8 +13,8 @@ successor: "Harte-Hanks (Sep 2006) -> Halyard Capital (Apr 2015) -> Spiceworks Z
 years_active: "1988-2001 (original); rebranded multiple times"
 occurrence_count: 273
 prescience_max: 5.0
-prescience_mean: 1.25
-prescience_obs_count: 1567
+prescience_mean: 1.24
+prescience_obs_count: 1575
 ---
 
 # Aberdeen Group / Aberdeen Laboratories

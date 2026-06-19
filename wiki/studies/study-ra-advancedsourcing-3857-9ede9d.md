@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.06
-prescience_obs_count: 35
+prescience_mean: 0.89
+prescience_obs_count: 38
 ---
 
 # Ra Advancedsourcing 3857 (Aberdeen, 2007)

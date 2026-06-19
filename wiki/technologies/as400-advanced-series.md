@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 0.34
-prescience_obs_count: 56
+prescience_mean: 0.32
+prescience_obs_count: 57
 ---
 
 # IBM AS/400 Advanced Series

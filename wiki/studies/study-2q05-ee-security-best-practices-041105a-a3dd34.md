@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 1
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # 2Q05 Ee Security Best Practices 041105A (Aberdeen, 2005)
@@ -33,4 +33,4 @@ _Published 2005, author **Aberdeen Group**, type **market-study**._
 ## Top observations
 
 - inancial losses from electronic security problems range from 1.4% of annual revenues among best-in-class firms, to as much as 8.4% of annual revenues among organizations performing Fas industry laggards. `[ps=3]`
-- This study analyzes ==> picture [441 x 109] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 109] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

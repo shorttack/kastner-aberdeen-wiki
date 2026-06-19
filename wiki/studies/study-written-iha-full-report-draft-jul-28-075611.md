@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.37
-prescience_obs_count: 19
+prescience_mean: 2.05
+prescience_obs_count: 21
 ---
 
 # Written Iha Full Report   Draft Jul 28 (Aberdeen, 2003)
@@ -51,5 +51,5 @@ _Published 2003, author **Aberdeen Group**, type **topic-analysis**._
 - "Well, considering usually when I buy stuff it's under $100, I would say like $5 or something like that, so like five to ten percent maybe. `[ps=0]`
 - The discussion will take approximately two hours of your time and you will be paid $65 for your time and consideration. (FOR 6 PM RESPONDENTS ONLY) A light dinner will be served before the session. (FOR ALL RESPONDENTS) Please be assured that this is not a sales presentation of any kind and you do not need to prepare anything for the discussion. `[ps=0]`
 - We would like to talk to you and your (AGE(S) FROM Q. 11) child/children. (IF SPOUSE ALSO QUALIFIES BASED ON Q. 13, SAY) We would also like to include your spouse in the discussion, if that is possible. (FOR ALL RESONDENTS) The discussion will take approximately one hour of your time and you will be paid $100 for your time and consideration. `[ps=0]`
-- We would like to talk to you and your (AGE(S) FROM Q. 11) child/children. (IF SPOUSE ALSO QUALIFIES BASED ON Q. 13, SAY) We would also like to include your spouse in the discussion, if that is possible. (FOR ALL RESONDENTS) The discussion will take approximately one hour of your time and you will be paid $125 for your time and consideration.
-- The discussion will take approximately two hours of your time and you will be paid $60 for your time and consideration. (FOR 6 PM RESPONDENTS ONLY) A light dinner will be served before the session. (FOR ALL RESPONDENTS) Please be assured that this is not a sales presentation of any kind and you do not need to prepare anything for the discussion.
+- We would like to talk to you and your (AGE(S) FROM Q. 11) child/children. (IF SPOUSE ALSO QUALIFIES BASED ON Q. 13, SAY) We would also like to include your spouse in the discussion, if that is possible. (FOR ALL RESONDENTS) The discussion will take approximately one hour of your time and you will be paid $125 for your time and consideration. `[ps=-1]`
+- The discussion will take approximately two hours of your time and you will be paid $60 for your time and consideration. (FOR 6 PM RESPONDENTS ONLY) A light dinner will be served before the session. (FOR ALL RESPONDENTS) Please be assured that this is not a sales presentation of any kind and you do not need to prepare anything for the discussion. `[ps=-1]`

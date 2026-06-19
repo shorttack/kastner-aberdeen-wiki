@@ -12,9 +12,9 @@ era: "1996-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: -1.0
+prescience_mean: -1.0
+prescience_obs_count: 1
 ---
 
 # Windows NT 4.0
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Widely deployed in mission-critical environments including banking, finance, logistics — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
+- Widely deployed in mission-critical environments including banking, finance, logistics `[ps=-1]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]

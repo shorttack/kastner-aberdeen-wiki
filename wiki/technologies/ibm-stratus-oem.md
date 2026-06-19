@@ -13,8 +13,8 @@ lifecycle_at_study: "growing"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 2.14
-prescience_obs_count: 7
+prescience_mean: 1.75
+prescience_obs_count: 8
 ---
 
 # IBM-Stratus OEM relationship (System/88)
@@ -31,5 +31,5 @@ prescience_obs_count: 7
 - 14.5% of $124M FY revenue `[ps=0]` — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]
 - IBM salesforce carried System/88 competing with conventional IBM mainframes in some use cases; Kastner developed 'battlecard' materials explaining swim lanes. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
 - Kastner contributed to IBM OEM negotiations but was not party at the executive level. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- Battlecards for IBM System/88 vs IBM 3090 were essentially conflict-resolution documents for a company simultaneously distributor and competitor. `[ps=-1]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
 - IBM came to Stratus after being nudged; IBM sales force watching enterprise customers evaluate fault-tolerant systems with nothing to offer them. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
-- Battlecards for IBM System/88 vs IBM 3090 were essentially conflict-resolution documents for a company simultaneously distributor and competitor. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]

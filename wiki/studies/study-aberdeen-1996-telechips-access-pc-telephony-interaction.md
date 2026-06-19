@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 2.5
-prescience_obs_count: 8
+prescience_mean: 2.11
+prescience_obs_count: 9
 ---
 
 # Telechips' Access — the New Benchmark for Personal Computer Telephony Interaction
@@ -40,10 +40,10 @@ _Published 1996, author **Patricia Borns and Traver Kennedy, Aberdeen Group**, t
 - Telechips' underlying technology is inherently leverageable into a range of enterprise-scale office products and specialized application-oriented tools `[ps=2]`
 - Aberdeen predicts broad and deep market for Telechips 'new CTI' technology across Global 1000 enterprises `[ps=1]`
 - Successful field trials in entertainment, hospitality, and insurance industries; users at theme park unaware device was a computer `[ps=0]`
+- Telechips Corporation did not achieve mass market scale; company dissolved; CTI appliance category displaced by smartphones and UCaaS platforms `[ps=-1]`
 - Access raises the bar for network client CTI; new benchmark for ease of use, network admin simplicity, and application openness
 - Built-in hardware support for Microsoft TAPI; co-development with Microsoft for compatibility
 - Tandem Computer anticipates using Access as ruggedized lottery terminal in convenience stores
-- Telechips Corporation did not achieve mass market scale; company dissolved; CTI appliance category displaced by smartphones and UCaaS platforms
 - First-mover in convergent voice-data appliance space; master of both computer and telephony domains
 - Apple iPhone (2007) obsoleted dedicated CTI appliances; smartphone convergence achieved voice-data integration at mass market scale that dedicated appliances like Access never reached
 - Aberdeen defines 'new CTI' as hardware-bus-level integration of computer, telephone and human interfaces — distinguishing from software-layer integrations

@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.61
-prescience_obs_count: 31
+prescience_mean: 0.47
+prescience_obs_count: 34
 ---
 
 # Ra Bptransmgmt Be (Aberdeen, 2005)

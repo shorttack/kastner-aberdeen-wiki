@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: -1.0
+prescience_mean: -1.0
+prescience_obs_count: 1
 ---
 
 # Ma Smartops Be 2180 (Aberdeen, 2005)
@@ -32,4 +32,4 @@ _Published 2005, author **Market Alert**, type **benchmark**._
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

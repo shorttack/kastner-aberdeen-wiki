@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.06
-prescience_obs_count: 17
+prescience_mean: 2.83
+prescience_obs_count: 18
 ---
 
 # Windows NT Server: 1998 Practice Summary
@@ -49,8 +49,8 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 - NT essentially supports one application per OS copy; keeps NT servers on periphery of larger database environments `[ps=2]`
 - Compaq largest NT/Intel server supplier; ProLiant from entry-level to 4-way and 8-way; direct and indirect model transition `[ps=0]`
 - Digital has largest NT installed base of clustered systems; >1600 certified NT professionals; being acquired by Compaq `[ps=0]`
+- Global Unix application server market $19.6 billion in 1996; projected $40 billion in 2000; 4.5x larger than NT market `[ps=-1]`
 - ~$6 billion in hardware revenue; NT application revenues ~$2 billion
-- Global Unix application server market $19.6 billion in 1996; projected $40 billion in 2000; 4.5x larger than NT market
 - Intel IA-64 (Merced) arriving late 1999; IA-32 to IA-64 conversion likely takes 5+ years
 - Itanium shipped June 2001; verify market adoption pace.
 - Suppliers divided: proprietary >4-way now vs. waiting for Intel standard 8-way chipset; few NT apps exploit multi-threading

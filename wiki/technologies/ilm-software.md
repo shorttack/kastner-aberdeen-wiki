@@ -13,8 +13,8 @@ lifecycle_at_study: "nascent"
 lifecycle_current: "mature"
 occurrence_count: 1
 prescience_max: 2.0
-prescience_mean: 2.0
-prescience_obs_count: 1
+prescience_mean: 0.5
+prescience_obs_count: 2
 ---
 
 # ILM Policy Management Software
@@ -25,7 +25,7 @@ prescience_obs_count: 1
 ## Top observations
 
 - As ILM-based policy management software matures circa 2008-2010, storage-related hours on production systems will be reduced by 80% `[ps=2]` — [[study-computerworld-ilm-waiting-2004]]
+- EMC NetApp and HP all shipped mature automated tiering by 2009-2011 confirming the 2008-2010 window. `[ps=-1]` — [[study-computerworld-ilm-waiting-2004]]
 - Cross-application management software for integrated enterprise-wide ILM is 4-5 years away (circa 2008-2009) — [[study-computerworld-ilm-waiting-2004]]
-- EMC NetApp and HP all shipped mature automated tiering by 2009-2011 confirming the 2008-2010 window. — [[study-computerworld-ilm-waiting-2004]]
 - Automated tiering reduced manual storage intervention significantly; 80% reduction in storage-related production hours broadly achieved per prescience context. — [[study-computerworld-ilm-waiting-2004]]
 - Full legal and audit compliance sign-off on automated ILM policy management will not occur before 2008-2010 — [[study-computerworld-ilm-waiting-2004]]

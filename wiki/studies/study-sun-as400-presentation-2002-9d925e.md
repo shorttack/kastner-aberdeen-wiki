@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.73
-prescience_obs_count: 11
+prescience_mean: 0.58
+prescience_obs_count: 12
 ---
 
 # Sun's AS/400 Market Opportunity — Aberdeen Presentation to Sun Microsystems
@@ -43,10 +43,10 @@ _Published 2002, author **Peter Kastner**, type **white-paper**._
 - $400M `[ps=0]`
 - $452M `[ps=0]`
 - $92M `[ps=0]`
+- 'Freeze your AS/400. Go with Sun for new business apps and Edge (H1).' `[ps=-1]`
 - $7.7B HW + $2.6B SW = 23% of IBM HW revenues
 - 1-2-way @ $50-150K
 - 85% of revenues through partners; solutions focus
 - poor price-performance; pricey upgrades
 - well tuned to SMB
 - Server consolidation + Notes/WebSphere upgrade + mid-market ERP Navision + target <100-employee
-- 'Freeze your AS/400. Go with Sun for new business apps and Edge (H1).'

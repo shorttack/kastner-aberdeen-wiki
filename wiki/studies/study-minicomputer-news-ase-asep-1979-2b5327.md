@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.5
-prescience_obs_count: 8
+prescience_mean: 2.11
+prescience_obs_count: 9
 ---
 
 # System saves $ for thrifty night owls (AS&E ASEP time-of-day metering)
@@ -40,7 +40,7 @@ _Published 1979, author **Minicomputer News staff**, type **news-article**._
 - Most U.S. states forecast to adopt TOU by 1984-1985 `[ps=2]`
 - 154,000 homes under ASEP water-heater load control `[ps=0]`
 - Article dates to Kastner's Arthur D. Little tenure (1972-1979); likely an ADL reference piece on utility-automation minicomputer applications relevant to ADL clients `[ps=0]`
+- Residential AC/heating systems and electrical water heaters under ASEP control `[ps=-1]`
 - Utilities in ~12 states using ASEP on experimental basis in 1979
 - Florida Power Corp. to test dynamic rate system charging peak only when peak reached
 - Florida, Wisconsin, Missouri, New Jersey, Minnesota, California
-- Residential AC/heating systems and electrical water heaters under ASEP control

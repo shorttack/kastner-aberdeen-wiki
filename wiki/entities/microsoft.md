@@ -13,8 +13,8 @@ successor: "HP Inc. / Hewlett Packard Enterprise"
 years_active: "1990s-late1990s"
 occurrence_count: 116
 prescience_max: 5.0
-prescience_mean: 2.74
-prescience_obs_count: 266
+prescience_mean: 2.68
+prescience_obs_count: 271
 ---
 
 # Siemens-Nixdorf Informatik

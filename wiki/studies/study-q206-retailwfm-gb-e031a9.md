@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 2
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # Q206 Retailwfm Gb (Aberdeen, 2006)
@@ -34,4 +34,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 - According to Aberdeen _Group_ research, 42% of these retailers use manual systems to M schedule their workforces. `[ps=5]`
 - In recognition of this problem, 58% of these retailers plan on updating employee and store management technology. `[ps=4]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

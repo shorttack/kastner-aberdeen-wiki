@@ -13,8 +13,8 @@ successor: "Sterling Software (1999) then CA Technologies (2000)"
 years_active: "1981-2005 (PC business)"
 occurrence_count: 134
 prescience_max: 5.0
-prescience_mean: 1.96
-prescience_obs_count: 494
+prescience_mean: 1.93
+prescience_obs_count: 499
 ---
 
 # Pennsylvania Department of Labor and Industry

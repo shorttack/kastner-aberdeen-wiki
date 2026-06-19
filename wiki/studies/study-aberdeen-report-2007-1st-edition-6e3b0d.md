@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.24
-prescience_obs_count: 88
+prescience_mean: 0.73
+prescience_obs_count: 114
 ---
 
 # The Aberdeen Report — 2007

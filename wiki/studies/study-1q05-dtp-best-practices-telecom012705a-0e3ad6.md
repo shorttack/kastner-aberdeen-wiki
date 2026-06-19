@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 1
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # 1Q05 Dtp Best Practices Telecom012705A (Aberdeen, 2005)
@@ -33,4 +33,4 @@ _Published 2005, author **Aberdeen Group**, type **benchmark**._
 ## Top observations
 
 - However, a number of best-in-class firms are making telecommunications category management a strategic initiative and being rewarded with impressive results. `[ps=3]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

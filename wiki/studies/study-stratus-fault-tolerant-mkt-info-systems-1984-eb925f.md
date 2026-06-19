@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 6
+prescience_mean: 1.57
+prescience_obs_count: 7
 ---
 
 # Fault-Tolerant Systems Special Report — Information Systems News, 6 August 1984 (PSK at Stratus)
@@ -38,5 +38,5 @@ _Published 1984, author **Omri Serlin; Paul E. Schindler Jr.; Jean S. Bozman (In
 - $22.5B total: IBM $17.5B (77.8%); BUNCH/Amdahl/NAS $3B (13.3%); DEC/DG/HP/Prime/superminis $1B (4.4%); Fault-Tolerant suppliers $712M (3.2%) `[ps=0]`
 - Tandem $585M/82%; Computer Consoles $67M/9.4%; Stratus $40M/5.6%; Synapse/Auragen/Tolerant/Sequoia et al $20M/2.8% — total $712M `[ps=0]`
 - New York investment firm tested by pulling printed-circuit boards at random; only way to stop the system was to pull enough CPU boards to make it non-functional, and once replaced it was off and running again `[ps=0]`
+- Of ~24 FT/OLTP entrants 1980-1983, only Tandem and Stratus had completed transition from development to full production by 1984; many had product delays and capital-raising difficulties `[ps=-1]`
 - Chips amount to only 2 percent of the selling price of a typical system; cost disadvantage of redundant hardware is overstated
-- Of ~24 FT/OLTP entrants 1980-1983, only Tandem and Stratus had completed transition from development to full production by 1984; many had product delays and capital-raising difficulties

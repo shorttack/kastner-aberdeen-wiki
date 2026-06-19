@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.1
-prescience_obs_count: 21
+prescience_mean: 1.95
+prescience_obs_count: 22
 ---
 
 # DynaSoft's BoKS Family: A Pragmatic Choice for Single Sign-On
@@ -53,7 +53,7 @@ _Published 1997, author **Aberdeen Group**, type **Profile**._
 - X.509 certificates supported as credential type in BoKS PSDs `[ps=0]`
 - BankBoston, BP Oil, Citibank, Chase Manhattan, Indian Telecom, Mannesmann Mobilfunk, Merrill Lynch, SmithKline Beecham, Telecom Italia, Telmex, Telstra `[ps=0]`
 - NT Server version in field test; planned for future release `[ps=0]`
-- Delivering SSO since 1984; focus on Unix then client-server then Internet
+- Delivering SSO since 1984; focus on Unix then client-server then Internet `[ps=-1]`
 - Entrust Technologies CA services integrate with BoKS for multi-level authorizations
 - SSO will become essential enterprise infrastructure
 - Users consistently give DynaSoft high marks for helping deploy projects ahead of schedule

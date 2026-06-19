@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.13
-prescience_obs_count: 38
+prescience_mean: 0.69
+prescience_obs_count: 48
 ---
 
 # Cm Q2C Vp 3715 (Aberdeen, 2006)

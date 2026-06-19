@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.56
-prescience_obs_count: 9
+prescience_mean: 3.1
+prescience_obs_count: 10
 ---
 
 # Does Intel's Decision Not To Manufacture InfiniBand Silicon Damage the Initiative?
@@ -41,7 +41,7 @@ _Published 2002, author **Russ Craig, Peter S. Kastner**, type **insight**._
 - Intel's decision is good for Intel `[ps=3]`
 - Scheduled for production launch late 2002 `[ps=1]`
 - Intel cancelled plans to supply silicon for InfiniBand interface adapters `[ps=0]`
+- InfiniBand market estimated at $18.28 billion in 2024 projected to grow at 40% CAGR `[ps=-1]`
 - Many industry observers believe Intel's decision will cause InfiniBand to stall
 - Specialist silicon vendors positioned to fill gap left by Intel
-- InfiniBand market estimated at $18.28 billion in 2024 projected to grow at 40% CAGR
 - Important next-generation data-center I/O initiative supported by IT industry broadly

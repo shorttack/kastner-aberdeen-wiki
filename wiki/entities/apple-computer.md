@@ -13,8 +13,8 @@ successor: "Apple Inc. (renamed January 2007, dropped 'Computer')"
 years_active: "1976-present"
 occurrence_count: 25
 prescience_max: 5.0
-prescience_mean: 2.39
-prescience_obs_count: 49
+prescience_mean: 2.32
+prescience_obs_count: 50
 ---
 
 # Apple Computer, Inc. / Apple Inc.

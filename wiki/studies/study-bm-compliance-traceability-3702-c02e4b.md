@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.52
-prescience_obs_count: 25
+prescience_mean: 1.38
+prescience_obs_count: 37
 ---
 
 # Bm Compliance Traceability 3702 (Aberdeen, 2006)

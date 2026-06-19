@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.22
-prescience_obs_count: 9
+prescience_mean: 0.67
+prescience_obs_count: 12
 ---
 
 # Poolsofstoragewp (Aberdeen, 1988)
@@ -41,6 +41,6 @@ _Published 1988, author **Aberdeen Group**, type **benchmark**._
 - Thus, most enterprise storage, as every IT executive knows, is FC/SCSI disk arrays at roughly $30 a gigabyte. `[ps=0]`
 - Today, the focus should be on targeted solutions (Figure 4). `[ps=0]`
 - ## **Figure 4: Evolution of ILM Solutions over Time** `[ps=0]`
-- **Figure 1: Application-Based Pools of Storage**
-- **Figure 2: Importance of Factors in Acquiring Storage in 2004**
-- **Figure 3: Features Important for Selecting Midline and Nearline Disk**
+- **Figure 1: Application-Based Pools of Storage** `[ps=-1]`
+- **Figure 2: Importance of Factors in Acquiring Storage in 2004** `[ps=-1]`
+- **Figure 3: Features Important for Selecting Midline and Nearline Disk** `[ps=-1]`

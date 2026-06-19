@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.71
-prescience_obs_count: 21
+prescience_mean: 2.39
+prescience_obs_count: 23
 ---
 
 # A Guide to Customer Relationship Management Professional Services: 1999 Edition
@@ -53,7 +53,7 @@ _Published 1999, author **Aberdeen Group**, type **market-study**._
 - CRM-specific outsourcing and contact center services subsidiary of EDS `[ps=0]`
 - Pure-play CRM services firm with rapid deployment focus `[ps=0]`
 - Pure-play CRM analytics and loyalty consulting firm `[ps=0]`
-- CRM software and services market grew to ~$20B by 2005; Salesforce.com emerged as dominant SaaS player
+- CRM software and services market grew to ~$20B by 2005; Salesforce.com emerged as dominant SaaS player `[ps=-1]`
+- Vast majority of CRM practice areas less than two years old `[ps=-1]`
 - CRM made top business and IT planning priority; organizational stovepipes and incompatible IT systems exposed
-- Vast majority of CRM practice areas less than two years old
 - Renamed Accenture on January 1 2001; separated from Arthur Andersen parent; now NYSE: ACN

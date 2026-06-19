@@ -13,8 +13,8 @@ lifecycle_at_study: "production-shipping"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Dominant interconnect in HPC and AI data centers. InfiniBand switch sales surged Q2 2025 driven by NVIDIA Blackwell Ultra. NVIDIA continues manufacturing HDR/NDR InfiniBand products.', 'source': 'https://www.delloro.com/news/infiniband-switch-sales-surged-in-2q-2025-while-ethernet-maintains-market-lead-for-ai-back-end-networks/'}"
 occurrence_count: 6
 prescience_max: 5.0
-prescience_mean: 2.06
-prescience_obs_count: 35
+prescience_mean: 1.97
+prescience_obs_count: 36
 ---
 
 # InfiniBand Architecture (IBA)

@@ -13,8 +13,8 @@ successor: "IBM (acquired 1999 for $810M)"
 years_active: "1983-1999"
 occurrence_count: 7
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 21
+prescience_mean: 1.86
+prescience_obs_count: 22
 ---
 
 # Sequent Computer Systems, Inc.

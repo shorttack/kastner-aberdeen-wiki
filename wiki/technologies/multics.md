@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Multics Operating System
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Developing foundations of timesharing and multiuser computing that would eventually produce the Multics operating system. `[ps=4]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Multics operating system techniques, developed at MIT on the 7094, resurfaced in Kastner's career a decade later at Stratus Computer. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Multics operating system techniques, developed at MIT on the 7094, resurfaced in Kastner's career a decade later at Stratus Computer. `[ps=-1]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

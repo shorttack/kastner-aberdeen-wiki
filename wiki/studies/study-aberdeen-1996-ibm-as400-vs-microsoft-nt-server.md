@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.82
-prescience_obs_count: 22
+prescience_mean: 2.65
+prescience_obs_count: 23
 ---
 
 # IBM's AS/400 Versus Microsoft's NT Server: The Challenge That Is Not
@@ -54,6 +54,6 @@ _Published 1996, author **Aberdeen Group**, type **product-viewpoint**._
 - Compaq ProLiant 4500 NT Server TPC-C showed good midrange OLTP performance but TPC-C V3 excluded end-user device costs `[ps=0]`
 - Two DEC AlphaServer NT Server TPC-C tests showed excellent price/performance vs Unix; but required Unix front-end processors to multiplex data entry `[ps=0]`
 - BackOffice product deliverables estimated to account for approximately $500 million of Microsoft's 1995 revenues `[ps=0]`
-- 350,000+ installations; leading midrange commercial computing choice worldwide
+- 350,000+ installations; leading midrange commercial computing choice worldwide `[ps=-1]`
 - NT Server-based OLTP infrastructure costs $1,700-$2,700 more per deployed end-user device in hardware alone
 - If BackOffice requires 2 more full-time IS staff than comparable AS/400 system, hundreds of thousands in additional cost over 5-year lifecycle

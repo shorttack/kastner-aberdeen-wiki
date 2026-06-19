@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 10
+prescience_mean: 1.73
+prescience_obs_count: 11
 ---
 
 # Eurowiress (Aberdeen, 2000)
@@ -42,4 +42,4 @@ _Published 2000, author **Aberdeen Group**, type **market-study**._
 - The U.K. accounts for 2%, and Germany 3% — with less than 30% of subscribers using the service on a regular basis. `[ps=0]`
 - WAP phones originally cost approximately $200 more than voice-only competitors. `[ps=0]`
 - This delta is likely to reach $350 in GPRS; $450 in EDGE; and, potentially, $800 in 3G telephony. `[ps=0]`
-- First packet-switched wireless network • $2 billion revenues in 2000 • $76-per-month average revenue • 9% transaction fee to DoCoMo • 12 million subscribers in 1.5 years • 50% of usage is entertainment • 30% more revenue per data subscriber • 200+ Web sites
+- First packet-switched wireless network • $2 billion revenues in 2000 • $76-per-month average revenue • 9% transaction fee to DoCoMo • 12 million subscribers in 1.5 years • 50% of usage is entertainment • 30% more revenue per data subscriber • 200+ Web sites `[ps=-1]`

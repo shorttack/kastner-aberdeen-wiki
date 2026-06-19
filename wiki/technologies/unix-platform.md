@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: -1.0
+prescience_mean: -1.0
+prescience_obs_count: 1
 ---
 
 # Unix Server Platform
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Global Unix application server market $19.6 billion in 1996; projected $40 billion in 2000; 4.5x larger than NT market — [[study-ntserv~1-56bd94]]
+- Global Unix application server market $19.6 billion in 1996; projected $40 billion in 2000; 4.5x larger than NT market `[ps=-1]` — [[study-ntserv~1-56bd94]]

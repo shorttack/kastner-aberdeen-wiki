@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.33
-prescience_obs_count: 3
+prescience_mean: 0.17
+prescience_obs_count: 6
 ---
 
 # E X E C U T I V E V I E W P O I N T
@@ -35,6 +35,6 @@ _Published 1999, author **Aberdeen Group**, type **market-study**._
 - Aberdeen believes that user organizations will increasingly adopt solutions that subscribe to the IAA model (Figure 2). `[ps=4]`
 - Aberdeen’s forecast for the customer relationship management (CRM) applications market (Figure 1) illustrates this dramatic market transition. `[ps=0]`
 - Figure 3 illustrates this fundamental industry transition. `[ps=0]`
-- **Figure 1: CRM Market Transition to IAA i $ Billions**
-- **Figure 2: Internet Applications Architecture (IAA) i**
-- **Figure 3: IAA Strategic Challenges I**
+- **Figure 1: CRM Market Transition to IAA i $ Billions** `[ps=-1]`
+- **Figure 2: Internet Applications Architecture (IAA) i** `[ps=-1]`
+- **Figure 3: IAA Strategic Challenges I** `[ps=-1]`

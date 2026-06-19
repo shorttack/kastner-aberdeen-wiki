@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 6
 prescience_max: 4.0
-prescience_mean: 1.91
-prescience_obs_count: 22
+prescience_mean: 1.67
+prescience_obs_count: 24
 ---
 
 # Maxtor MaXLine Disk Drive

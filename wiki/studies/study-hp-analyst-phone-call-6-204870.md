@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.73
-prescience_obs_count: 30
+prescience_mean: 2.61
+prescience_obs_count: 31
 ---
 
 # HP Pre-Summit Analyst Phone Call — Kastner Feedback

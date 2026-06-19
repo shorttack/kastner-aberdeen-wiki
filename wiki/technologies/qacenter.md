@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 1.8
-prescience_obs_count: 10
+prescience_mean: 1.55
+prescience_obs_count: 11
 ---
 
 # Compuware QACenter
@@ -34,10 +34,10 @@ prescience_obs_count: 10
 - Supports HTTP/HTML/Java; works within Netscape and IE browsers `[ps=0]` — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - QAHiperstation (VTAM/CICS); QAPlayback (CICS); SAP R/2 VTAM-level testing `[ps=0]` — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - QATrack for bug identification/assignment/resolution tracking `[ps=0]` — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
+- Compuware taken private by Thoma Bravo 2014 for $2.4B; QACenter did not achieve unified scripting; Mercury Interactive (HP) dominated market `[ps=-1]` — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - Fully capable enterprise-level testing environment with integrated test asset management — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - QADirector provides repository-based test orchestration — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - QARun auto-translates user actions into test scripts — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - QADirector repository stores/manages test scripts as reusable enterprise assets — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - Tight integration with Oracle Developer/2000 expected to be maintained and extended — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
 - Common scripting language encompassing all QACenter tools needed for product coherence — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
-- Compuware taken private by Thoma Bravo 2014 for $2.4B; QACenter did not achieve unified scripting; Mercury Interactive (HP) dominated market — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]

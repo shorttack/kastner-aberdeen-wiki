@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 12
+prescience_mean: 1.77
+prescience_obs_count: 13
 ---
 
 # Industri-Matematik International Corp.: Strategic Solution for Fast-Moving, High-Volume Goods Industries
@@ -44,11 +44,11 @@ _Published 1997, author **Aberdeen Group**, type **profile**._
 - Priveq became majority owner of IMI January 2021; enabled acquisition-driven growth `[ps=0]`
 - IMI celebrates 60 years in 2026; six acquisitions since 2021; offices in four countries; doubled revenue and headcount `[ps=0]`
 - Significant Fortune 500 customer wins; consistent high scores in CPG demand-chain evaluations `[ps=0]`
+- Positive: manages information flow from customer back through manufacturing enterprise `[ps=-1]`
 - $40 million
 - $18 million
 - $33 million working capital
 - 25+ years in order fulfillment; 150+ systems implemented worldwide
-- Positive: manages information flow from customer back through manufacturing enterprise
 - SAP became dominant ERP suite vendor; market cap ~$250B in 2024
 - Oracle completed hostile acquisition of PeopleSoft for $10.3B in January 2005
 - SAP acquired Business Objects for $6.78B in 2007

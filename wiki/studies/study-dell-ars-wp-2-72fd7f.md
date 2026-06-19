@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.83
-prescience_obs_count: 23
+prescience_mean: 1.6
+prescience_obs_count: 25
 ---
 
 # Dell Asset Recovery Services: Remove, Recycle, or Resell — An Executive White Paper
@@ -55,5 +55,5 @@ _Published 2003, author **Peter S. Kastner**, type **white-paper**._
 - $59 per system unit. `[ps=0]`
 - Dell's ARS pricing is attractive even if Aberdeen's lowest cost-model scenario were halved. `[ps=0]`
 - Covers desktops, notebooks, servers, storage, networking, monitors, printers, projectors, keyboards, mice from any manufacturer. `[ps=0]`
-- $2.3M awarded to three women whose confidential mental-health records were not kept private (HIPAA Advisory Feb 2003).
-- BSA (Sept 2003): improperly discarded software can expose both original owner and recipient to legal action with penalties in the thousands.
+- 315 million old PCs ready to be junked by 2004 in the US. `[ps=-1]`
+- ~1 billion pounds of lead plus mercury, cadmium, PVC. `[ps=-1]`

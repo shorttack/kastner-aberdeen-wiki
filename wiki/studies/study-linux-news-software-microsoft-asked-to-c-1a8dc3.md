@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Microsoft Asked To Change Misleading Linux Ad
@@ -33,6 +33,6 @@ _Published 2004, author **Elizabeth Millard (reporter, LinuxInsider); Peter Kast
 ## Top observations
 
 - Microsoft is under growing scrutiny in Europe, evident in Linux-ad compliance action `[ps=5]`
+- Munich LiMux (2004-2017), French Gendarmerie GendBuntu (~70k seats), various EU OSS procurement mandates validated growth; Munich later reversed to Windows (2017-2020) validating Kastner's hedge `[ps=-1]`
 - Microsoft has 'a lot of friends' in Europe; dominant in many regions
 - Growing use of Linux by European government bodies as a 2004 trend
-- Munich LiMux (2004-2017), French Gendarmerie GendBuntu (~70k seats), various EU OSS procurement mandates validated growth; Munich later reversed to Windows (2017-2020) validating Kastner's hedge

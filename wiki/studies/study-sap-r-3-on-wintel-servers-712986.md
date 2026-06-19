@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.81
-prescience_obs_count: 16
+prescience_mean: 2.59
+prescience_obs_count: 17
 ---
 
 # SAP R/3 on Wintel Servers: To NT or Not to NT...That is the Question
@@ -48,10 +48,10 @@ _Published 1997, author **Aberdeen Group**, type **benchmark**._
 - 1,800 users; 20-way UltraSPARC 167MHz SMP; 5,632 MB RAM; Oracle7; 9x8-way application servers `[ps=0]`
 - >2,000 SAP systems installed in NT environments as of Q1 1997 `[ps=0]`
 - 40% of all new R/3 licenses shipped in Q4 1996 were NT `[ps=0]`
+- Slow to make no-holds-barred commitment to NT; AS/400 roots create competitive risk `[ps=-1]`
 - 900 users; 4,544 SAPS; 272,667 dialogue steps/hour; WinNT 3.51; 2,048 MB RAM
 - Wintel with SQL Server: 35-50% of Unix absolute throughput at 1/4 to 1/10 the cost
 - NT suitable for organizations with up to 250-500 concurrent users per data server as of Q1 1997
 - 27+ Standard Application Benchmarks certified; 6 Wintel; 30+ total by publication
 - SAP SD benchmarks reflect only OLTP; real world mixes OLTP/reporting/DSS
-- Slow to make no-holds-barred commitment to NT; AS/400 roots create competitive risk
 - Microsoft SQL Server has gained sufficient scalability into mid-range; viable alternative for many medium-sized R/3 NT implementations

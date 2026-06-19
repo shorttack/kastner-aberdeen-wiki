@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 3.5
-prescience_obs_count: 2
+prescience_mean: 2.0
+prescience_obs_count: 3
 ---
 
 # Written Ibm + Webify = Industry Soa Application Jumpstart (2006) (Aberdeen, 2006)
@@ -34,4 +34,4 @@ _Published 2006, author **Information Technology**, type **benchmark**._
 
 - Our recent study, _ESB and SOA Middleware_ , found that 90% of Global 5000 businesses will exit 2006 with SOA planning, design, or programming activities underway. `[ps=4]`
 - IBM, showing considerable market agility, can take Webify’s technology and amplify it around the globe in products and services as only an $80 billion technology giant can. `[ps=3]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

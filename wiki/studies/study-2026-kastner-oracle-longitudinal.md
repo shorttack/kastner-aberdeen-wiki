@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.7
-prescience_obs_count: 67
+prescience_mean: 2.65
+prescience_obs_count: 68
 ---
 
 # Oracle Corporation Across Four Decades of the Kastner Archive: RDBMS Dominance, Office Futures, Applications Conquest, and the Cloud Pivot

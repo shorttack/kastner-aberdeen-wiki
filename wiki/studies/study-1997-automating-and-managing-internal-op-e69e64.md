@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.87
-prescience_obs_count: 15
+prescience_mean: 2.62
+prescience_obs_count: 16
 ---
 
 # Automating and Managing Internal Operations
@@ -47,9 +47,9 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 - New screen widgets, view management, HTML User's Guide `[ps=0]`
 - Inventory management, purchase order management, stock reordering, password/network address tracking, asset tracking, change management `[ps=0]`
 - AR System v3.0 added pre-defined keywords to simplify embedding workflow processes and business rules `[ps=0]`
+- ITSM market grew substantially; Gartner ITSM predictions for $9.4B by 2000 were directionally correct; ServiceNow founded 2004 on same COM premise; market reached $14B+ by 2015 `[ps=-1]`
 - 53% of sales to existing customers (first 3 quarters 1996)
 - Highly and easily adaptable application
 - Help desk identified as natural starting point for internal operations automation
 - 9 categories: IT support, facilities, SLA tracking, asset management, inventory, procurement, defect tracking, personnel resource management, policy notification
 - Automotive, computers, chemicals/pharma, energy/utilities, financial services, government, telecom, education
-- ITSM market grew substantially; Gartner ITSM predictions for $9.4B by 2000 were directionally correct; ServiceNow founded 2004 on same COM premise; market reached $14B+ by 2015

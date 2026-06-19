@@ -13,8 +13,8 @@ lifecycle_at_study: "Introduction"
 lifecycle_current: "Discontinued (withdrawn December 13"
 occurrence_count: 1
 prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 4
+prescience_mean: -0.2
+prescience_obs_count: 5
 ---
 
 # RS/6000 S70 (Model 7017)
@@ -28,5 +28,5 @@ prescience_obs_count: 4
 - Estimated 18 `[ps=0]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
 - 4-to-12-way SMP server with PCI bus `[ps=0]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
 - RS/6000 S70 (Model 7017) was discontinued December 13, 1999 as specified. RS64-II (262 MHz) and RS64-III (450 MHz) followed as next-generation processors. `[ps=0]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
+- Positioned as most comprehensive 64-bit UNIX computing solution available for commercial workloads `[ps=-1]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
 - Phase 1: PowerPC 604e SMP (May 1997); Phase 2: 64-bit RS64 high-end SMP (October 1997) — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
-- Positioned as most comprehensive 64-bit UNIX computing solution available for commercial workloads — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]

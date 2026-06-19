@@ -13,8 +13,8 @@ successor: "Merged with Daegis (2010); acquired Gupta Technologies; then OpenTex
 years_active: "1980-present"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 2.57
-prescience_obs_count: 7
+prescience_mean: 2.12
+prescience_obs_count: 8
 ---
 
 # Unify Corporation
@@ -31,8 +31,8 @@ prescience_obs_count: 7
 - Mature 4GL RAD capabilities; forms/report generation; workflow; proven in production `[ps=3]` — [[study-1997-unify-vision-8fcfc3]]
 - Faster competitive-advantage upgrades than alternatives `[ps=1]` — [[study-1997-unify-vision-8fcfc3]]
 - Partial — Java embedding planned but not yet fully implemented at time of study `[ps=0]` — [[study-1997-unify-vision-8fcfc3]]
+- Unify failed to achieve enterprise leadership; accounting fraud scandal 2000; CEO convicted 2003; delisted from Nasdaq; pivoted away from VISION `[ps=-1]` — [[study-1997-unify-vision-8fcfc3]]
 - High-end 4GL with mature client-server and emerging internet capability — [[study-1997-unify-vision-8fcfc3]]
 - VISION positioned to compete as top-tier enterprise development platform if Java roadmap executed — [[study-1997-unify-vision-8fcfc3]]
-- Unify failed to achieve enterprise leadership; accounting fraud scandal 2000; CEO convicted 2003; delisted from Nasdaq; pivoted away from VISION — [[study-1997-unify-vision-8fcfc3]]
 - VISION supports thousands-of-users deployments; mission-critical 911 CAD proven — [[study-1997-unify-vision-8fcfc3]]
 - Supports client-server and beginning to support three-tier; internet architecture transitional — [[study-1997-unify-vision-8fcfc3]]

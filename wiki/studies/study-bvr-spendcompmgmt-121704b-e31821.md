@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.2
-prescience_obs_count: 15
+prescience_mean: 1.53
+prescience_obs_count: 19
 ---
 
 # Bvr Spendcompmgmt 121704B (Aberdeen, 1988)
@@ -47,7 +47,7 @@ _Published 1988, author **Aberdeen Group**, type **topic-analysis**._
 - And only 16% of supply management executives reported that their CFOs provided sufficient backing and policy support to drive spend compliance (Figure 3). `[ps=0]`
 - Second-time violators get $10,000 charged to their cost center. `[ps=0]`
 - Supply management executives identified the following solution investment priorities to support their intelligent sourcing initiatives (figure 5). `[ps=0]`
-- **Figure 2: Begin E-Sourcing with Tactical Game Plan**
-- **Figure 3: Functions Involved with Spend Compliance**
-- **Figure 4: Prioritized Savings Strategies**
-- **Figure 5: Strategies Driving New Functional Requirements**
+- **Figure 2: Begin E-Sourcing with Tactical Game Plan** `[ps=-1]`
+- **Figure 3: Functions Involved with Spend Compliance** `[ps=-1]`
+- **Figure 4: Prioritized Savings Strategies** `[ps=-1]`
+- **Figure 5: Strategies Driving New Functional Requirements** `[ps=-1]`

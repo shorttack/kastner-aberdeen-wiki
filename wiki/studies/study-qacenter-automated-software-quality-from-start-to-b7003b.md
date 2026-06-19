@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.4
-prescience_obs_count: 15
+prescience_mean: 1.25
+prescience_obs_count: 16
 ---
 
 # QACenter: Automated Software Quality From Start to Finish
@@ -47,6 +47,7 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 - Primary competitor for cross-platform automated testing `[ps=0]`
 - PRODUCTION 2000 consulting approach combining tools/processes/staff `[ps=0]`
 - Founded 1973 `[ps=0]`
+- Compuware taken private by Thoma Bravo 2014 for $2.4B; QACenter did not achieve unified scripting; Mercury Interactive (HP) dominated market `[ps=-1]`
 - >$600 million for fiscal year 1996
 - Fully capable enterprise-level testing environment with integrated test asset management
 - QADirector provides repository-based test orchestration
@@ -56,4 +57,3 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 - Windows-specific testing — indirect competitor
 - Tight integration with Oracle Developer/2000 expected to be maintained and extended
 - Common scripting language encompassing all QACenter tools needed for product coherence
-- Compuware taken private by Thoma Bravo 2014 for $2.4B; QACenter did not achieve unified scripting; Mercury Interactive (HP) dominated market

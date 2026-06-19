@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.06
-prescience_obs_count: 16
+prescience_mean: 0.94
+prescience_obs_count: 17
 ---
 
 # Telecommunications: 1998 Practice Summary
@@ -48,11 +48,11 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 - Not yet viable; hardware prototypes only; field trials within one year `[ps=0]`
 - Solidly positioned for regional enterprise needs; leverages IBM for data; focuses on voice core `[ps=0]`
 - Strengthened by NYNEX integration; 14 east coast states; All@Once managed services since 1995 `[ps=0]`
+- PSTN: 99.9999% (53 min/year); public IP: ~95% (36.5 hr/month) `[ps=-1]`
 - $10 billion+
 - $300 million
 - $1.4 trillion (ITU)
 - $36 billion (2.6% of projected $1.4T telecom services)
-- PSTN: 99.9999% (53 min/year); public IP: ~95% (36.5 hr/month)
 - Signed November 1997; eliminated bilateral accounting rates; opened foreign competition in basic services
 - Trade barriers removed January 1 1998; ISPs and CLECs posing serious threat to incumbent PTTs
 - Largely oligopolistic; financial crisis halted new investment

@@ -1,0 +1,383 @@
+---
+title: Quotations Corpus v1 — Index
+type: methodology
+slug: quotations-corpus-v1
+author: Peter S. Kastner
+scorer_version: quotations_corpus_v1
+source_pass: quotations_corpus
+generated_at: 2026-06-19T21:22:06Z
+n_quotes: 334
+n_high: 184
+n_medium: 84
+n_low: 66
+n_blog_scrape_contamination: 11
+tags: [methodology, quotations, prescience, corpus, index]
+---
+
+# Quotations Corpus v1 — Index
+
+Index of **334 published predictions** by Peter S. Kastner, scored by the v1.8.0 quotations corpus pipeline. Each quote is its own page under `wiki/quotations/` for retrieval — see links below grouped by verdict + date.
+
+## Shape
+
+- Total quotes: **334** (wiki pages: 334)
+- High: **184** (55.1%)
+- Medium: **84** (25.1%)
+- Low: **66** (19.8%)
+- Blog-scrape contamination flagged: **11**
+
+## High prescience (184)
+
+- [[quote-1088| — AP]] — The problem, Kastner explains, is that "it takes a lot of software to move icons, and that, in turn, requires a
+- [[quote-1089| — AP]] — "Coding to a graphical interface borders on rocket science. It is very difficult and time-consuming," Kastner
+- [[quote-1091| — ]] — For instance, Access already provides referential integrity for its native data at the engine level and allows
+- [[quote-1092| — Inc.]] — "This indicates that Compaq is serious about developing a distributed architecture that is very scalable," said
+- [[quote-1095| — AP]] — "The APIs will allow application programmers to write software that can notify managers about applications-
+- [[quote-1096| — Inc.]] — Organizing shifting from mainframe environments to client/server networks do so for various reasons. One is to better
+- [[quote-1097| — AP]] — NEW YORK--Two technologies continue to vie for the attention of network managers who need to provide decision-
+- [[quote-1098| — AP]] — "We haven't discovered anything we don't really like. It's a definite improvement over System 10."
+- [[quote-1099| — AP]] — "We haven't discovered anything we don't really like. It's a definite improvement over System 10."
+- [[quote-1102| — ]] — "Certainly no single operating system can be completely secure from
+- [[quote-1103| — PC Advisor]] — PC Advisor: 3GHz P4 launch date set for 14 November
+- [[quote-1104| — Inc.]] — He carefully filled out a card with all the details needed for the rebate, sent in the packaging code and the original
+- [[quote-1105| — Inc.]] — He carefully filled out a card with all the details needed for the rebate, sent in the packaging code and the original
+- [[quote-1108| — AP]] — "I don't see any loss of momentum for Apple," Kastner said. "Our research shows that people are coming into
+- [[quote-1110| — AP]] — "It is a little higher than expected," said Roger Kay, computer analyst with IDC. "There's not that much of a gap in price
+- [[quote-1111| — AP]] — Aberdeen's Kastner, who said the G5 will benefit from the faster processors, new cache and massive memory
+- [[quote-1116| — AP]] — Koo says AOL expects to deploy a considerable number of blade servers during the next few years and will likely test
+- [[quote-1124| — ]] — Manufacturers count on a low redemption rate, as do retailers, because they can advertise a discounted price but sell
+- [[quote-1127| — ]] — Dell executives said shipments of its OptiPlex and Dimension desktop computers rose 25 percent in the three
+- [[quote-1128| — ]] — Dell executives said shipments of its OptiPlex and Dimension desktop computers rose 25 percent in the three
+- [[quote-1129| — Inc.]] — Dell is clearly serious about its expansion efforts. “Do not overlook the fact that Dell Computer Inc. changed its
+- [[quote-1130| — Inc.]] — Although the asset recovery business is profitable, its success rests with helping customers purchase additional Dell
+- [[quote-1131| — ]] — Peter Kastner, a personal computer analyst with the Aberdeen Group, said Dell's performance supports the
+- [[quote-1135| — AP]] — "As a nation, we have to innovate faster than the rest of the world," he said. "Clearly, this technology will have an
+- [[quote-1140| — AP]] — Kastner pointed out that the elected position of state attorney general is often a stepping-stone to higher
+- [[quote-1145| — ]] — Gartner's Smith concurred that the platform's basic security features are paramount. He rated the partitioning feature
+- [[quote-1147| — AP]] — This build-to-order model has worked not only with PCs, but in other segments where Dell has been capturing market
+- [[quote-1148| — ]] — Now more than ever, said Kastner, basic business principles are coming into play for e-commerce, and
+- [[quote-1149| — ]] — Now more than ever, said Kastner, basic business principles are coming into play for e-commerce, and
+- [[quote-1150| — ]] — Aberdeen Group chief research officer Peter Kastner noted that other improvements, which are likely to play
+- [[quote-1152| — AP]] — Betting on the Lazy
+- [[quote-1153| — E-Commerce Times]] — The much-talked-about 64-bit microprocessors coming down the pike from Intel (Nasdaq: INTC) and Advanced
+- [[quote-1154| — AP]] — But although AMD and Intel seem to be preparing for battle, Kastner noted that very few applications currently
+- [[quote-1156| — AP]] — "There are applications in the military, in medical research, in all fields of science," Kastner said. "This is an
+- [[quote-1159| — AP]] — Sixty-four-bit architectures can theoretically address millions of terabytes worth of memory, which translates directly
+- [[quote-1162| — ]] — "They've been boxed in by Dell in online sales and by H-P in the big-box retail market," Kastner said. "This
+- [[quote-1170| — Inc.]] — Peter Kastner, chief research officer of Boston-based Aberdeen Group Inc., said the company faces formidable
+- [[quote-1171| — Inc.]] — Peter Kastner, chief research officer of Boston-based Aberdeen Group Inc., said the company faces formidable
+- [[quote-1172| — AP]] — ISV application support across its Linux-based eServer platforms, the Aberdeen Group says. But there is little, if any,
+- [[quote-1175| — AP]] — "You won't see a heck of a lot of difference in Word, but software like [Adobe Systems'] Photoshop or video-
+- [[quote-1183| — ]] ⚠️ — You must be careful when making any changes or modifications to the firmware of your GPS because there is a risk
+- [[quote-1186| — AP]] ⚠️ — -- Peter S. Kastner
+- [[quote-1187| — ]] ⚠️ — What is controversial about this site is shooting live game over the Internet. You will be hearing more about this web
+- [[quote-1188| — AP]] ⚠️ — These tests also show that "normal users" will see a considerably better user experience with a dual core
+- [[quote-1190| — ]] ⚠️ — Expect to see these drives in servers for midline storage and in high-end consumer desktops. Is the end of the SCSI
+- [[quote-1193| — ]] ⚠️ — That makes the introduction of dual core processors for personal computing this spring not just another product
+- [[quote-1199| — AP]] ⚠️ — In this case, the electronic bank robber was caught. However, this writer can assure our dear readers that electronic
+- [[quote-1208| — AP]] ⚠️ — All the major microprocessor manufacturers are drooling over the next generation of digital lifestyle electronics,
+- [[quote-861|1989-02-20 — Computerworld]] — Users finding ESA alternatives
+- [[quote-862|1989-02-20 — Computerworld]] — Users finding ESA alternatives
+- [[quote-860|1989-02-20 — Computerworld]] — IBM seen rushing out high-end AS/400 CPU
+- [[quote-863|1989-02-27 — Computerworld]] — RDBMS show they can pull OLTP weight
+- [[quote-867|1989-03-13 — Computerworld]] — Mini vendors adapt in order to survive
+- [[quote-868|1989-03-13 — Computerworld]] — Mini vendors adapt in order to survive
+- [[quote-14|1989-03-13 — Computerworld]] — Mini vendors adapt in order to survive
+- [[quote-15|1989-04-03 — Computerworld]] — Tandem goes to Relational DBMS tools
+- [[quote-869|1989-04-03 — Computerworld]] — Tandem goes to Relational DBMS tools
+- [[quote-870|1989-06-19 — Computerworld]] — MSA announces EIS starter kit at a 'smart' price
+- [[quote-17|1989-07-24 — Computerworld]] — Tesseract, Walker to be financial software allies
+- [[quote-18|1989-07-24 — Computerworld]] — Tesseract, Walker to be financial software allies
+- [[quote-871|1989-07-24 — Computerworld]] — Tesseract, Walker to be financial software allies
+- [[quote-872|1989-07-24 — Computerworld]] — Tesseract, Walker to be financial software allies
+- [[quote-873|1989-07-24 — Computerworld]] — Tesseract, Walker to be financial software allies
+- [[quote-19|1989-07-24 — Computerworld]] — Tesseract, Walker to be financial software allies
+- [[quote-874|1989-08-28 — Computerworld]] — PRODUCT SPOTLIGHT; The DEC market
+- [[quote-875|1989-08-28 — Computerworld]] — PRODUCT SPOTLIGHT; The DEC market
+- [[quote-876|1989-08-28 — Computerworld]] — PRODUCT SPOTLIGHT; The DEC market
+- [[quote-878|1989-10-09 — Computerworld]] — IBM eyes service bounty with new AS/400 support options
+- [[quote-881|1989-12-11 — Computerworld]] — Workstations drawn more toward
+- [[quote-27|1989-12-25 — Computerworld]] — Support for open systems builds piece by piece
+- [[quote-28|1989-12-25 — Computerworld]] — Support for open systems builds piece by piece
+- [[quote-882|1989-12-25 — Computerworld]] — Support for open systems builds piece by piece
+- [[quote-888|1990-05-07 — Computerworld]] — Integration vs. specialization
+- [[quote-889|1990-05-07 — Computerworld]] — Integration vs. specialization
+- [[quote-890|1990-05-07 — Computerworld]] — Integration vs. specialization
+- [[quote-886|1990-05-07 — Computerworld]] — HP plans line of mainframe-type tools
+- [[quote-887|1990-05-07 — Computerworld]] — HP plans line of mainframe-type tools
+- [[quote-892|1990-07-23 — Computerworld]] — Vaxstation, Decstation prices to slip
+- [[quote-895|1991-07-22 — Computerworld]] — IBM, Intel, Dell announce benchmark group formation
+- [[quote-896|1991-07-22 — Computerworld]] — Sybase Serves up a new SQL
+- [[quote-41|1991-08-05 — Computerworld]] — How low can mail-order firms go? Watch'em
+- [[quote-42|1991-08-05 — Computerworld]] — How low can mail-order firms go? Watch'em
+- [[quote-713|1991-08-05 — Computerworld]] — How low can mail-order firms go? Watch'em
+- [[quote-897|1991-08-05 — Computerworld]] — How low can mail-order firms go? Watch'em
+- [[quote-45|1991-09-02 — Computerworld]] — Bull forms systems integration unit
+- [[quote-52|1992-02-17 — Computerworld]] — Compaq cleans up its act in battery disposal
+- [[quote-53|1992-02-17 — Computerworld]] — Compaq cleans up its act in battery disposal
+- [[quote-57|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-65|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-81|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-86|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-907|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-909|1992-06-01 — Computerworld]] — Users leery of multiprocessing
+- [[quote-88|1992-06-01 — Computerworld]] — Users leery of multiprocessing
+- [[quote-89|1992-06-01 — Computerworld]] — DEC energizes Unix OLTP line
+- [[quote-908|1992-06-01 — Computerworld]] — DEC energizes Unix OLTP line
+- [[quote-910|1992-06-08 — Computerworld]] — 3,700 depart in DEC retirement plan
+- [[quote-911|1992-06-08 — Computerworld]] — 3,700 depart in DEC retirement plan
+- [[quote-912|1992-06-08 — Computerworld]] — 3,700 depart in DEC retirement plan
+- [[quote-91|1992-06-08 — Computerworld]] — 3,700 depart in DEC retirement plan
+- [[quote-720|1992-06-08 — Computerworld]] — Oracle hires consultant to steer sales
+- [[quote-721|1992-06-08 — Computerworld]] — Oracle hires consultant to steer sales
+- [[quote-913|1992-06-08 — Computerworld]] — Oracle hires consultant to steer sales
+- [[quote-92|1992-06-08 — Computerworld]] — Oracle hires consultant to steer sales
+- [[quote-93|1992-06-15 — Computerworld]] — Alpha-ready VAX line expected in July
+- [[quote-914|1992-06-15 — Computerworld]] — Alpha-ready VAX line expected in July
+- [[quote-918|1992-07-13 — Computerworld]] — Price war to hurt PC industry
+- [[quote-96|1992-07-13 — Computerworld]] — Intel to unleash DX2, claims strongest chip yet
+- [[quote-916|1992-07-13 — Computerworld]] — Intel to unleash DX2, claims strongest chip yet
+- [[quote-922|1992-08-03 — Computerworld]] — Streamlining restores Informix to health
+- [[quote-102|1992-08-24 — Computerworld]] — DEC to give PC modular upgrades
+- [[quote-104|1992-11-02 — Computerworld]] — Stratus still rock solid as it moves CISC users to RISC
+- [[quote-926|1992-11-02 — Computerworld]] — Stratus still rock solid as it moves CISC users to RISC
+- [[quote-927|1992-11-02 — Computerworld]] — Stratus still rock solid as it moves CISC users to RISC
+- [[quote-928|1992-11-02 — Computerworld]] — Stratus still rock solid as it moves CISC users to RISC
+- [[quote-725|1992-11-23 — Computerworld]] — Microsoft lays out tiered DBMS plan Comdex
+- [[quote-930|1992-11-23 — Computerworld]] — Microsoft lays out tiered DBMS plan Comdex
+- [[quote-931|1992-11-23 — Computerworld]] — Microsoft lays out tiered DBMS plan Comdex
+- [[quote-934|1992-12-21 — Computerworld]] — Middleware speeds client connection
+- [[quote-935|1992-12-21 — Computerworld]] — Middleware speeds client connection
+- [[quote-936|1992-12-21 — Computerworld]] — Middleware speeds client connection
+- [[quote-937|1992-12-21 — Computerworld]] — Middleware speeds client connection
+- [[quote-939|1993-02-22 — Computerworld]] — CA's Unicenter outlines plans to go distributed
+- [[quote-729|1993-02-22 — Computerworld]] — CA's Unicenter outlines plans to go distributed
+- [[quote-940|1993-03-15 — Computerworld]] — Software AG extends Unix tools strategy
+- [[quote-731|1993-03-22 — Computerworld]] — DEC moves to VAX, Alpha mixed clusters
+- [[quote-1002|1993-03-22 — Computerworld]] — DEC moves to VAX, Alpha mixed clusters
+- [[quote-115|1993-04-12 — Computerworld]] — PowerBuilder may add Intersolv tools
+- [[quote-732|1993-04-12 — Computerworld]] — PowerBuilder may add Intersolv tools
+- [[quote-942|1993-04-12 — Computerworld]] — PowerBuilder may add Intersolv tools
+- [[quote-116|1993-04-19 — Computerworld]] — IMRS TO PUSH CLIENT/SERVER
+- [[quote-735|1993-04-19 — Computerworld]] — IMRS TO PUSH CLIENT/SERVER
+- [[quote-946|1993-04-19 — Computerworld]] — IMRS TO PUSH CLIENT/SERVER
+- [[quote-944|1993-04-19 — Computerworld]] — CA gets on Microsoft bandwagon
+- [[quote-954|1993-06-14 — Computerworld]] — NCR taps Pentium for mainframe-class servers
+- [[quote-955|1993-06-14 — Computerworld]] — NCR taps Pentium for mainframe-class servers
+- [[quote-956|1993-06-14 — Computerworld]] — NCR taps Pentium for mainframe-class servers
+- [[quote-957|1993-06-14 — Computerworld]] — USL makes microkernel move
+- [[quote-960|1993-08-02 — Computerworld]] — NetFrame gives servers flexibility
+- [[quote-128|1993-08-02 — Computerworld]] — NetFrame gives servers flexibility
+- [[quote-131|1993-09-20 — Computerworld]] — Windows-to-DOS tools get boost
+- [[quote-739|1993-09-20 — Computerworld]] — Windows-to-DOS tools get boost
+- [[quote-963|1993-09-20 — Computerworld]] — Windows-to-DOS tools get boost
+- [[quote-965|1993-10-18 — Computerworld]] — NCR announces OS2-to-NT migration service
+- [[quote-966|1993-10-25 — Computerworld]] — Software AG forms client/server team with NCR, Apple
+- [[quote-967|1993-11-01 — Computerworld]] — Start-ups bring heavyweight tools
+- [[quote-969|1993-11-29 — Computerworld]] — Software vendors converge on database market
+- [[quote-140|1993-11-29 — Computerworld]] — Software vendors converge on database market
+- [[quote-971|1993-11-29 — Computerworld]] — TECHNOLOGY ON TRIAL
+- [[quote-972|1993-11-29 — Computerworld]] — TECHNOLOGY ON TRIAL
+- [[quote-973|1993-11-29 — Computerworld]] — TECHNOLOGY ON TRIAL
+- [[quote-144|1993-11-29 — Computerworld]] — TECHNOLOGY ON TRIAL
+- [[quote-145|1993-11-29 — Computerworld]] — TECHNOLOGY ON TRIAL
+- [[quote-146|1993-11-29 — Computerworld]] — TECHNOLOGY ON TRIAL
+- [[quote-743|1993-11-29 — Computerworld]] — TECHNOLOGY ON TRIAL
+- [[quote-977|1994-01-03 — Computerworld]] — Price wars pressure low end Forecast
+- [[quote-978|1994-01-03 — Computerworld]] — Price wars pressure low end Forecast
+- [[quote-976|1994-01-03 — Computerworld]] — NEW! GREAT! LATE!
+- [[quote-979|1994-06-20 — Computerworld]] — IBM adds EISA server to PS/2 family
+- [[quote-151|1994-06-20 — Computerworld]] — IBM adds EISA server to PS/2 family
+- [[quote-747|1994-07-18 — Computerworld]] — IBM and CA enhance database features
+- [[quote-982|1994-07-18 — Computerworld]] — IBM and CA enhance database features
+- [[quote-153|1994-07-18 — Computerworld]] — IBM and CA enhance database features
+- [[quote-983|1994-07-25 — Computerworld]] — Unix, NT links to ship in 1995
+- [[quote-155|1994-08-15 — Computerworld]] — Compaq, TI to team on fast Ethernet
+- [[quote-750|1994-09-12 — Computerworld]] — Popular Himalaya gives Tandem new options, markets
+- [[quote-987|1994-09-12 — Computerworld]] — Popular Himalaya gives Tandem new options, markets
+- [[quote-988|1994-09-12 — Computerworld]] — Popular Himalaya gives Tandem new options, markets
+- [[quote-986|1994-09-12 — Computerworld]] — High-end tools gain steam
+- [[quote-159|1994-09-12 — Computerworld]] — High-end tools gain steam
+- [[quote-990|1994-10-31 — Computerworld]] — AT&T GIS dives into vertical markets
+- [[quote-752|1994-10-31 — Computerworld]] — AT&T GIS dives into vertical markets
+- [[quote-991|1994-12-12 — Computerworld]] — Developers extend user support with PowerBuilder
+- [[quote-992|1994-12-12 — Computerworld]] — Developers extend user support with PowerBuilder
+- [[quote-163|1994-12-12 — Computerworld]] — Developers extend user support with PowerBuilder
+- [[quote-753|1994-12-12 — Computerworld]] — Developers extend user support with PowerBuilder
+- [[quote-994|1995-06-19 — Computerworld]] — IBM, Lotus iron out agreement
+- [[quote-995|1995-11-27 — Computerworld]] — Oracle calls database detente on OLAP
+- [[quote-173|1996-01-02 — Computerworld]] — Technology Forecast Forecast '96
+- [[quote-422|2002-11-18 — Computerworld]] — Blade Servers: Wait 'Til Next Year
+- [[quote-421|2002-11-18 — Computerworld]] — Blade Servers: Wait 'Til Next Year
+- [[quote-402|2003-04-26 — MarketWatch]] — Apple to answer rumors with facts
+- [[quote-680|2003-04-29 — CNET News.com]] — IBM's Itanium Server Goes on Sale
+- [[quote-412|2004-01-12 — Forbes]] — Apple's Supercomputing Scientists
+
+## Medium prescience (84)
+
+- [[quote-1093| — AP]] — Even partners that don't have to rely on Informix for matchmaking--namely client/server powerhouses such as SAP
+- [[quote-1101| — AP]] — Peter S Kastner Media Quotations
+- [[quote-1106| — AP]] — AMD has no plans for selling off business units, Denton said. The company really only has three main businesses, its
+- [[quote-1113| — ]] — Far from the exponential growth curves and hype, analyst firm The Aberdeen Group's digital consumer technology
+- [[quote-1114| — ]] — Far from the exponential growth curves and hype, analyst firm The Aberdeen Group's digital consumer technology
+- [[quote-1117| — AP]] — Peter Kastner, Vice President at Aberdeen Group, stated, "The partnership between Informix and Blyth is a win-
+- [[quote-1120| — AP]] — "Our research shows that CA customers are a lot happier than they were a year ago, when CA started its new
+- [[quote-1133| — ]] — Pescatore added that Cisco should work to reduce the impact of future code exposures by joining the File Signature
+- [[quote-1134| — ]] — Pescatore added that Cisco should work to reduce the impact of future code exposures by joining the File Signature
+- [[quote-1136| — AP]] — As the Microsoft appeal goes forward, it will be interesting to note which companies emerge as allies to the
+- [[quote-1137| — AP]] — As the Microsoft appeal goes forward, it will be interesting to note which companies emerge as allies to the
+- [[quote-1138| — AP]] — As the Microsoft appeal goes forward, it will be interesting to note which companies emerge as allies to the
+- [[quote-1146| — E-Commerce Times]] — Microsoft has said it is investigating the file-name spoofing vulnerability, but the company has not disclosed whether
+- [[quote-1158| — E-Commerce Times]] — Kollar-Kotelly has played her own cards close to the vest, only hinting here and there about how the case might play
+- [[quote-1160| — ]] — The technology can also save money on software licenses, thanks to server consolidation. In some cases, "a two-
+- [[quote-1164| — ]] — Gateway's chances that last week he started his coverage of Gateway with an "outperform" rating, and a 12-month
+- [[quote-1165| — ]] — Gateway's chances that last week he started his coverage of Gateway with an "outperform" rating, and a 12-month
+- [[quote-1173| — ]] — IBM (IBM 107.35, +0.03, +0.03%) shares fell more than 2 percent to $84.55 in after-hours trading. The stock had
+- [[quote-1174| — AP]] — Unix) applications, the rest of us waited until Windows XP was launched in October 2000 to end the legacy ties to 16-
+- [[quote-1176| — ]] — Five years ago, major service companies told Kastner that the TCO outcomes they saw were in the range of
+- [[quote-1178| — ]] — Five years ago, major service companies told Kastner that the TCO outcomes they saw were in the range of
+- [[quote-1194| — AP]] ⚠️ — The price as low as $722 (qty 1,000) makes the Cranford value chips attractive for a new generation of low-cost 4-
+- [[quote-866|1989-02-27 — Computerworld]] — Unisys U series casts shadow in Unix arena
+- [[quote-710|1989-07-24 — Computerworld]] — Tesseract, Walker to be financial software allies
+- [[quote-23|1989-10-09 — Computerworld]] — DEC challenges IBM CASE strategy
+- [[quote-877|1989-10-09 — Computerworld]] — DEC challenges IBM CASE strategy
+- [[quote-885|1990-04-30 — Computerworld]] — Ingres unveils graphical 4GL
+- [[quote-31|1990-04-30 — Computerworld]] — Ingres unveils graphical 4GL
+- [[quote-44|1991-09-02 — Computerworld]] — Bull forms systems integration unit
+- [[quote-714|1991-09-02 — Computerworld]] — Bull forms systems integration unit
+- [[quote-715|1991-09-02 — Computerworld]] — Bull forms systems integration unit
+- [[quote-46|1991-09-30 — Computerworld]] — Sun seeks Intel Unix
+- [[quote-898|1991-09-30 — Computerworld]] — Sun seeks Intel Unix
+- [[quote-900|1991-10-14 — Computerworld]] — Unix System Labs signs on with ACE
+- [[quote-717|1992-02-17 — Computerworld]] — Compaq cleans up its act in battery disposal
+- [[quote-904|1992-02-17 — Computerworld]] — Compaq cleans up its act in battery disposal
+- [[quote-905|1992-02-17 — Computerworld]] — Compaq cleans up its act in battery disposal
+- [[quote-1001|1992-02-17 — Computerworld]] — Compaq cleans up its act in battery disposal
+- [[quote-78|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-58|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-82|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-84|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-94|1992-07-13 — Computerworld]] — Price war to hurt PC industry
+- [[quote-95|1992-07-13 — Computerworld]] — Price war to hurt PC industry
+- [[quote-917|1992-07-13 — Computerworld]] — Price war to hurt PC industry
+- [[quote-722|1992-07-13 — Computerworld]] — Intel to unleash DX2, claims strongest chip yet
+- [[quote-915|1992-07-13 — Computerworld]] — Intel to unleash DX2, claims strongest chip yet
+- [[quote-923|1992-08-24 — Computerworld]] — DEC to give PC modular upgrades
+- [[quote-924|1992-11-02 — Computerworld]] — Legent increases options, flexibility in desktop line
+- [[quote-929|1992-11-09 — Computerworld]] — DEC restructuring plan includes separate PC unit
+- [[quote-938|1993-01-11 — Computerworld]] — Apple exec jumps to Microsoft
+- [[quote-118|1993-04-19 — Computerworld]] — CA gets on Microsoft bandwagon
+- [[quote-950|1993-05-03 — Computerworld]] — Sybase sets its own direction
+- [[quote-951|1993-05-03 — Computerworld]] — Sybase sets its own direction
+- [[quote-736|1993-05-03 — Computerworld]] — Sybase sets its own direction
+- [[quote-948|1993-05-03 — Computerworld]] — Microsoft, D&B sign on NT applications
+- [[quote-953|1993-06-14 — Computerworld]] — NCR taps Pentium for mainframe-class servers
+- [[quote-125|1993-06-14 — Computerworld]] — USL makes microkernel move
+- [[quote-738|1993-06-14 — Computerworld]] — USL makes microkernel move
+- [[quote-958|1993-06-14 — Computerworld]] — USL makes microkernel move
+- [[quote-962|1993-08-16 — Computerworld]] — Stratus' Unix systems to act as SNA hosts
+- [[quote-741|1993-09-27 — Computerworld]] — NCR eyes software growth with new unit
+- [[quote-968|1993-11-01 — Computerworld]] — Start-ups bring heavyweight tools
+- [[quote-970|1993-11-29 — Computerworld]] — Software vendors converge on database market
+- [[quote-147|1994-01-03 — Computerworld]] — Price wars pressure low end Forecast
+- [[quote-148|1994-01-03 — Computerworld]] — Price wars pressure low end Forecast
+- [[quote-980|1994-06-20 — Computerworld]] — IBM adds EISA server to PS/2 family
+- [[quote-981|1994-06-20 — Computerworld]] — PC servers join pricing free fall
+- [[quote-984|1994-08-15 — Computerworld]] — Reaction split on CA's plan for ASK products
+- [[quote-748|1994-08-15 — Computerworld]] — Reaction split on CA's plan for ASK products
+- [[quote-989|1994-10-31 — Computerworld]] — AT&T GIS dives into vertical markets
+- [[quote-168|1995-06-19 — Computerworld]] — IBM, Lotus iron out agreement
+- [[quote-993|1995-06-19 — Computerworld]] — IBM, Lotus iron out agreement
+- [[quote-762|1995-09-25 — Computerworld]] — AT&T splinters
+- [[quote-171|1995-12-11 — Computerworld]] — DBMS tool meets demand
+- [[quote-766|1995-12-11 — Computerworld]] — DBMS tool meets demand
+- [[quote-996|1995-12-11 — Computerworld]] — DBMS tool meets demand
+- [[quote-998|1995-12-18 — Computerworld]] — DEC brings database tool to midsize boxes
+- [[quote-1000|1996-01-02 — Computerworld]] — Technology Forecast Forecast '96
+- [[quote-239|2002-05-13 — InformationWeek]] — HP Reinvented
+- [[quote-790|2002-10-21 — The Christian Science Monitor]] — A move to build PCs without Windows
+- [[quote-404|2003-04-26 — MarketWatch]] — Apple to answer rumors with facts
+- [[quote-810|2003-04-26 — MarketWatch]] — Apple to answer rumors with facts
+- [[quote-679|2003-04-29 — CNET News.com]] — IBM's Itanium Server Goes on Sale
+
+## Low prescience (66)
+
+- [[quote-1100| — Inc.]] — "VARs are a very key part of the pie ultimately," says Mark Marron, senior vice president of sales and the person VARs
+- [[quote-1109| — AP]] — With PC sales making up the overwhelming majority of Apple revenue, the company's worldwide PC shipments also
+- [[quote-1119| — eWEEK]] — The underlying technologies of InterBiz solutions, including Unicenter TNG, Jasmine, 3-D visualizations and Neugents
+- [[quote-1132| — ]] — Peter Kastner, a personal computer analyst with the Aberdeen Group, said Dell's performance supports the
+- [[quote-1141| — AP]] — Kastner pointed out that the elected position of state attorney general is often a stepping-stone to higher
+- [[quote-1151| — ]] — And Aberdeen Group chief research officer Peter Kastner has said users are "waiting with bated breath for
+- [[quote-1155| — E-Commerce Times]] — "They never had a really strong case to begin with, particularly from the consumer's standpoint," Peter Kastner, chief
+- [[quote-1157| — AP]] — Becky Replogle-Wilkes, director of collaborative applications marketing for Sprint, agrees. "You decide that you no
+- [[quote-1161| — ]] — In addition to supporting current versions of Microsoft Windows(1), the
+- [[quote-1163| — ]] — So far, Gateway has put out 45 new digital devices this year and plans on releases a total of 50 products by the end of
+- [[quote-1166| — AP]] — SanDisk (SNDK 14.89, +0.08, +0.54%) shares climbed 19 cents to $52,80, after the company introduced new
+- [[quote-1167| — AP]] — SanDisk (SNDK 14.89, +0.08, +0.54%) shares climbed 19 cents to $52,80, after the company introduced new
+- [[quote-1179| — AP]] — The chip giant has funded a new report from Aberdeen, AMD's Gigahertz Equivalency: Inexperienced Buyers Accept
+- [[quote-1180| — AP]] ⚠️ — Peter S Kastner Blogging at oncomputerstips.blogspot.com
+- [[quote-582| — Kastner Blog]] — Microsoft Grants Indonesian Pirates Amnsety
+- [[quote-598| — Kastner Blog]] — Monday, May 30, 2005
+- [[quote-535| — Kastner Blog]] — Couch surfers: too lazy to even type a URL
+- [[quote-1200| — ]] ⚠️ — Caveat: Be sure to have your user manual so that you can get back to factory settings if you really mess up. You also
+- [[quote-579| — Kastner Blog]] — Look for Mac OS X 10.4 "Tiger"
+- [[quote-616| — Kastner Blog]] — Software Patents Create Havoc in Eurpoe
+- [[quote-859|1989-02-20 — Computerworld]] — IBM seen rushing out high-end AS/400 CPU
+- [[quote-865|1989-02-27 — Computerworld]] — Unisys U series casts shadow in Unix arena
+- [[quote-864|1989-02-27 — Computerworld]] — RDBMS show they can pull OLTP weight
+- [[quote-879|1989-10-09 — Computerworld]] — SQL Server update boasts openness
+- [[quote-880|1989-10-09 — Computerworld]] — SQL Server update boasts openness
+- [[quote-26|1989-10-09 — Computerworld]] — SQL Server update boasts openness
+- [[quote-883|1990-03-19 — Computerworld]] — Unix draws a crowd
+- [[quote-884|1990-03-19 — Computerworld]] — Unix draws a crowd
+- [[quote-891|1990-05-07 — Computerworld]] — Integration vs. specialization
+- [[quote-712|1990-10-08 — Computerworld]] — Sequoia rebounds with a vengeance;
+- [[quote-893|1990-10-08 — Computerworld]] — Sequoia rebounds with a vengeance
+- [[quote-894|1990-10-08 — Computerworld]] — Sequoia rebounds with a vengeance
+- [[quote-47|1991-10-14 — Computerworld]] — Unix System Labs signs on with ACE
+- [[quote-899|1991-10-14 — Computerworld]] — Unix System Labs signs on with ACE
+- [[quote-901|1991-12-02 — Computerworld]] — Sybase comes through with customer support
+- [[quote-50|1992-01-06 — Computerworld]] — Sun will soon detail multimedia strategy
+- [[quote-902|1992-01-06 — Computerworld]] — Sun will soon detail multimedia strategy
+- [[quote-903|1992-01-27 — Computerworld]] — For start-up, $2 million is Serius money
+- [[quote-75|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-56|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-67|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-906|1992-03-30 — Computerworld]] — AIX database stuck in lab; users express little concern
+- [[quote-921|1992-08-03 — Computerworld]] — Streamlining restores Informix to health
+- [[quote-919|1992-08-03 — Computerworld]] — DEC starts revamp, delays cuts
+- [[quote-920|1992-08-03 — Computerworld]] — DEC starts revamp, delays cuts
+- [[quote-925|1992-11-02 — Computerworld]] — Legent increases options, flexibility in desktop line
+- [[quote-932|1992-11-30 — Computerworld]] — Page exits Software AG News
+- [[quote-933|1992-11-30 — Computerworld]] — Page exits Software AG News
+- [[quote-941|1993-03-15 — Computerworld]] — Software AG extends Unix tools strategy
+- [[quote-945|1993-04-19 — Computerworld]] — DEC closes in on profitability
+- [[quote-733|1993-04-19 — Computerworld]] — CA gets on Microsoft bandwagon
+- [[quote-943|1993-04-19 — Computerworld]] — CA gets on Microsoft bandwagon
+- [[quote-947|1993-05-03 — Computerworld]] — Microsoft, D&B sign on NT applications
+- [[quote-949|1993-05-03 — Computerworld]] — Microsoft, D&B sign on NT applications
+- [[quote-952|1993-05-17 — Computerworld]] — NCR adds 3270 features to OLTP monitor
+- [[quote-959|1993-08-02 — Computerworld]] — NetFrame gives servers flexibility
+- [[quote-961|1993-08-16 — Computerworld]] — Stratus' Unix systems to act as SNA hosts
+- [[quote-964|1993-09-27 — Computerworld]] — NCR eyes software growth with new unit
+- [[quote-975|1994-01-03 — Computerworld]] — NEW! GREAT! LATE!
+- [[quote-985|1994-09-12 — Computerworld]] — CA slashes Ingres prices
+- [[quote-759|1995-06-19 — Computerworld]] — IBM, Lotus iron out agreement
+- [[quote-997|1995-12-11 — Computerworld]] — DBMS tool meets demand
+- [[quote-999|1995-12-18 — Computerworld]] — DEC brings database tool to midsize boxes
+- [[quote-789|2002-10-21 — The Christian Science Monitor]] — A move to build PCs without Windows
+- [[quote-290|2003-04-29 — CNET News.com]] — IBM's Itanium Server Goes on Sale
+- [[quote-812|2004-01-12 — Forbes]] — Apple's Supercomputing Scientists
+
+## Provenance
+
+- **Source master**: `_master_quotations_prescience.csv` (334 rows × 31 cols)
+- **Per-quote pages**: `wiki/quotations/quote-<row_id>.md` (334 pages)
+- **Scorer version**: quotations_corpus_v1
+- **Source pass**: quotations_corpus
+- **Generated**: 2026-06-19T21:22:06Z
+- **Generator**: `scripts/build_quotations_per_quote_v1.py`
+
+## Why per-quote pages
+
+The original v1 page was a single 377 KB markdown listing all 334 quotes. bge-m3 has an effective ~8192-token context window — a 377 KB embedding centroid resolved to "methodology / buckets" rather than any specific prediction. Per-quote chunking gives each prediction its own retrievable embedding, so `kw ask "what did Pete predict about Oracle"` surfaces the actual quote pages, not just the longitudinal study summaries.

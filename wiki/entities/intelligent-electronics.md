@@ -13,8 +13,8 @@ successor: "General Electric -> acquired by Ingram Micro"
 years_active: "[DEFERRED]"
 occurrence_count: 3
 prescience_max: 5.0
-prescience_mean: 1.6
-prescience_obs_count: 15
+prescience_mean: 1.44
+prescience_obs_count: 16
 ---
 
 # Intelligent Electronics, Inc. (IE)
@@ -44,6 +44,6 @@ prescience_obs_count: 15
 - IE experienced significant management turnover during the IE/2000 project — destabilizing project governance and decision-making `[ps=0]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
 - IE's IT spending was below industry averages for companies of its size — underinvestment contributed to competitive disadvantage `[ps=0]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
 - Kastner involved in the IE v. Andersen Consulting litigation as part of his expert witness practice (referenced in chapter task brief; not detailed in chapter text). `[ps=0]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
-- IE's fundamental strategic error was pursuing a reseller/value-added model rather than low-cost distributor model as industry consolidated — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
+- IE's fundamental strategic error was pursuing a reseller/value-added model rather than low-cost distributor model as industry consolidated `[ps=-1]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
 - Kastner retained by Montgomery McCracken for Andersen Consulting as defendant's fact expert witness; IE accused Andersen of failing $17M ERP project (order management, inventory, warehouse, financial accounting); Kastner produced 129-page expert witness report; case settled day before trial — [[study-psk-litigation-b452e6]]
 - Key issue: whether Andersen should have recommended replacing IE's existing HP 3000 computer system; technology maturity and fitness for purpose in mid-1990s context — [[study-psk-litigation-b452e6]]

@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'mature', 'notes': 'Midline (NL-SAS/SATA) disk drives for capacity storage tiers remain in active production and use. Still widely deployed in high-capacity storage arrays and cloud storage infrastructure. Competing with higher-capacity HDDs and object storage.', 'source': 'General knowledge'}"
 occurrence_count: 5
 prescience_max: 5.0
-prescience_mean: 3.42
-prescience_obs_count: 12
+prescience_mean: 3.08
+prescience_obs_count: 13
 ---
 
 # Midline Disk Storage (generic tier)
@@ -41,8 +41,8 @@ prescience_obs_count: 12
 - Online / Midline / Nearline / Offline — four standard pools increasingly adopted by IT professionals `[ps=2]` — [[study-computerworld-ilm-waiting-2004]]
 - 'Mid-line' is the term that best fits the technology `[ps=2]` — [[study-maxtor-survey-report-5-20c-0f458e]]
 - Dell|EMC arrays with ATA drives require several FC drives for FLARE OS; rest of drives can be ATA/FC mix `[ps=0]` — [[study-dell-storage-profile-2004]]
+- SATA/midline became 85% of enterprise data at 40% of spend (Wikibon 2011). Dell's midline strategy — and Aberdeen's prediction — fully validated. `[ps=-1]` — [[study-dell-storage-profile-2004]]
 - More than 50% of enterprise data is semi-structured or unstructured and seldom changing — [[study-computerworld-ilm-article-15f604]]
 - More than half of enterprise data is semi-structured or unstructured and seldom changing — suited for midline tier — [[study-computerworld-ilm-waiting-2004]]
-- SATA/midline became 85% of enterprise data at 40% of spend (Wikibon 2011). Dell's midline strategy — and Aberdeen's prediction — fully validated. — [[study-dell-storage-profile-2004]]
 - Snap creatively covered all mid-line storage categories envisaged by Aberdeen — [[study-snap-appliance-snapshot-2003]]
 - Aberdeen framework positions midline ATA/NAS as significant cost-saving opportunity vs FC/SCSI for non-OLTP workloads — [[study-snap-appliance-snapshot-2003]]

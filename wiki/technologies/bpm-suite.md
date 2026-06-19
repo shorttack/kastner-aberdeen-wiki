@@ -13,8 +13,8 @@ lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 3
 prescience_max: 4.0
-prescience_mean: 0.17
-prescience_obs_count: 94
+prescience_mean: 0.16
+prescience_obs_count: 95
 ---
 
 # Business Process Management Suite (BPM)

@@ -13,8 +13,8 @@ successor: "AOL (acquired 1999); Netscape browser discontinued 2008"
 years_active: "1837-present"
 occurrence_count: 12
 prescience_max: 4.0
-prescience_mean: 0.68
-prescience_obs_count: 19
+prescience_mean: 0.6
+prescience_obs_count: 20
 ---
 
 # Netscape Communications Corporation
@@ -48,4 +48,4 @@ prescience_obs_count: 19
 - 300 `[ps=0]` — [[study-1998-pc-impact-and-metadata-e2a169]]
 - 32 `[ps=0]` — [[study-1998-pc-impact-and-metadata-e2a169]]
 - confirmed `[ps=0]` — [[study-2003-dell-ars-white-paper-53d13d]]
-- Netscape acquired by AOL for $4.2B in 1998; Navigator lost browser war to Internet Explorer — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]
+- One of three largest EC software suppliers in world alongside IBM and Microsoft; annual revenues >$530M `[ps=-1]` — [[study-ecprac~1-a7d0e4]]

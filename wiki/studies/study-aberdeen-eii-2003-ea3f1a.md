@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.37
-prescience_obs_count: 30
+prescience_mean: 2.26
+prescience_obs_count: 31
 ---
 
 # Enterprise Information Integration: The New Way to Leverage E-information (Second Edition)

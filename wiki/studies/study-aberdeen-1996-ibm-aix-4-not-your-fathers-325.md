@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.71
-prescience_obs_count: 17
+prescience_mean: 2.5
+prescience_obs_count: 18
 ---
 
 # The New IBM AIX 4: Not Your Father's 3.2.5
@@ -49,8 +49,8 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Majority of users feared AIX 4 would repeat AIX 3 patch frustration `[ps=0]`
 - Large portions planning simultaneous Power2→PowerPC hardware + OS upgrade `[ps=0]`
 - Some niche suppliers abandoned AIX and left customers locked into version 3 `[ps=0]`
+- Many AIX 3 managers froze production environment under 'if it ain't broke' philosophy `[ps=-1]`
 - AIX 4 is future-driven by SMP; RS/6000 user base did not initially have SMP hardware
-- Many AIX 3 managers froze production environment under 'if it ain't broke' philosophy
 - Aberdeen predicts SMP will become the primary driver of AIX 4 adoption as RS/6000 SMP hardware ships
 - IBM cannot force VARs who suffered version-3 frustration to upgrade until they are very confident in AIX 4 stability
 - Aberdeen SMP Efficiency Rating introduced in Figure 1; specific numeric values not visible in text extraction

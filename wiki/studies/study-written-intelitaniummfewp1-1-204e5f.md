@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.44
-prescience_obs_count: 9
+prescience_mean: 0.57
+prescience_obs_count: 14
 ---
 
 # Intel’s Itanium: Ready and Desirable for MainframeClass Workloads
@@ -41,8 +41,8 @@ _Published 2004, author **Aberdeen Group**, type **benchmark**._
 - Primary mainframe applications were ERP and data warehousing, with CRM, sales force automation, and vertical/in-house-developed applications also running at 18-25% of organizations. 88% of mainframes were running z/OS, OS/390, or OS/370, with 25% also running Linux. `[ps=0]`
 - 60% of respondents were satisfied with their mainframes, but 40% were neutral or dissatisfied. `[ps=0]`
 - When asked what would induce them to use Itanium for a mainframe-class workload, respondents overwhelmingly cited cost of ownership (43%, all other alternatives 12% or less). 32 % of respondents indicated both that cost of ownership was their greatest mainframe concern and also that this was their main reason for considering Itanium. `[ps=0]`
-- A new IA-32 Execution Layer for 32-bit Windows application emulation delivers 50-70% of the performance of a native Itanium application.
-- Moreover, 90 % of those who are consolidating platforms will include Windows as one of them — and therefore Intel.
-- **Figure 1: Importance of Various User Criteria to Mainframe Users**
-- **Figure 2: Likelihood of Various Strategies for Itanium Use by Mainframe Users**
-- **Figure 3: Perceived Ability of Itanium to Handle Mainframe Workloads**
+- A new IA-32 Execution Layer for 32-bit Windows application emulation delivers 50-70% of the performance of a native Itanium application. `[ps=-1]`
+- Moreover, 90 % of those who are consolidating platforms will include Windows as one of them — and therefore Intel. `[ps=-1]`
+- **Figure 1: Importance of Various User Criteria to Mainframe Users** `[ps=-1]`
+- **Figure 2: Likelihood of Various Strategies for Itanium Use by Mainframe Users** `[ps=-1]`
+- **Figure 3: Perceived Ability of Itanium to Handle Mainframe Workloads** `[ps=-1]`

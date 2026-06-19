@@ -13,8 +13,8 @@ successor: "IBM Systems Group; IBM Power Systems"
 years_active: "1990-2000s"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 1.9
-prescience_obs_count: 10
+prescience_mean: 1.64
+prescience_obs_count: 11
 ---
 
 # IBM Corporation — Enterprise Server Group
@@ -34,6 +34,6 @@ prescience_obs_count: 10
 - Aberdeen correctly forecast Spring 1997 PowerPC 604e SMP roll-out (RS/6000 F50 in May 1997) `[ps=0]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
 - RS/6000 S70 (Model 7017) was discontinued December 13, 1999 as specified. RS64-II (262 MHz) and RS64-III (450 MHz) followed as next-generation processors. `[ps=0]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
 - TPC benchmarks used to demonstrate S70 performance; estimated 18000 TPM competitive benchmark `[ps=0]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
+- Positioned as most comprehensive 64-bit UNIX computing solution available for commercial workloads `[ps=-1]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
 - Phase 1: PowerPC 604e SMP (May 1997); Phase 2: 64-bit RS64 high-end SMP (October 1997) — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
 - Study positioned to review IBM Unix market position and S70 strategy fit — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
-- Positioned as most comprehensive 64-bit UNIX computing solution available for commercial workloads — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]

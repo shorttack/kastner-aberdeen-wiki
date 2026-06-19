@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.5
-prescience_obs_count: 2
+prescience_mean: 2.0
+prescience_obs_count: 3
 ---
 
 # The On-Demand Tipping Point in Supply Chain
@@ -34,4 +34,4 @@ _Published 1988, author **Aberdeen Group**, type **topic-analysis**._
 
 - Current on-demand SCM users report overwhelming benefits from the on-demand model, especially in implementation speed, maintenance ease, and return on investment (Figure 1). `[ps=5]`
 - Traditional SCM vendors are preferred by just 5% of respondents. `[ps=2]`
-- **Figure 1: On-Demand SCM Outperforms Traditional “License and Install” Applications in Key Areas**
+- **Figure 1: On-Demand SCM Outperforms Traditional “License and Install” Applications in Key Areas** `[ps=-1]`

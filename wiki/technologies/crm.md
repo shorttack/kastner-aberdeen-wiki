@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'CRM is a core enterprise software category. Salesforce, Microsoft Dynamics, HubSpot dominate. Market growing with AI integration.', 'source': 'pre-verified'}"
 occurrence_count: 53
 prescience_max: 5.0
-prescience_mean: 1.55
-prescience_obs_count: 346
+prescience_mean: 0.92
+prescience_obs_count: 461
 ---
 
 # Customer Relationship Management (CRM)

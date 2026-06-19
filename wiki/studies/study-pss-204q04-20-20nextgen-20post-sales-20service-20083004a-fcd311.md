@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: -1.0
+prescience_mean: -1.0
+prescience_obs_count: 1
 ---
 
 # Pss%204Q04%20 %20Nextgen%20Post Sales%20Service%20083004A (Aberdeen, 2008)
@@ -32,4 +32,4 @@ _Published 2008, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

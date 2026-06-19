@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.11
-prescience_obs_count: 19
+prescience_mean: 1.68
+prescience_obs_count: 22
 ---
 
 # Aberdeen Group Recommendation: HP 9000 Series 800 for SAP R3 Implementation at Hercules, Inc.
@@ -51,9 +51,9 @@ _Published 1993, author **Peter S. Kastner / Aberdeen Group (signed by John R. L
 - 15% market share in commercial RISC/Unix systems `[ps=0]`
 - Hercules goal to remove mainframe by Q1 1996; achievable with HP 9000 Series 800 and SAP R3 `[ps=0]`
 - Acquired by Ashland Inc. for $2.6B (total transaction $3.3B including debt) in 2008; creating major global specialty chemicals company `[ps=0]`
+- Production yields mostly 133-200 MHz; unable to produce 200 MHz in quantities; first-generation chip with no proven next-gen `[ps=-1]`
+- Strongly recommends Hercules NOT select DEC as supplier of choice for SAP R3 `[ps=-1]`
+- Not highly stable according to user reports; major reason few large enterprises deployed large RS/6000 counts; new Toronto AIX development center expected to produce more stable AIX/6000 before end 1993 `[ps=-1]`
 - HP 9000 Series 800 was original targeted hardware platform for SAP R3 redevelopment
 - Applications grow at 30-40% per year for first three years after initial SAP R3 installation
-- Production yields mostly 133-200 MHz; unable to produce 200 MHz in quantities; first-generation chip with no proven next-gen
 - 550 applications stated by ISVs as planned ports as of March 1993; multiuser support not a priority without demand
-- Strongly recommends Hercules NOT select DEC as supplier of choice for SAP R3
-- Not highly stable according to user reports; major reason few large enterprises deployed large RS/6000 counts; new Toronto AIX development center expected to produce more stable AIX/6000 before end 1993

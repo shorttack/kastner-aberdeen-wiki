@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 1.29
-prescience_obs_count: 7
+prescience_mean: 1.0
+prescience_obs_count: 8
 ---
 
 # Customer Interaction Software (CIS)
@@ -31,7 +31,7 @@ prescience_obs_count: 7
 - Fortune 1000 companies `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
 - new ISV applications and information technologies `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
 - several new ISVs entered market in last few years `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- Confirmed: CRM/CIS market grew explosively through late 1990s; Siebel Systems revenue grew from $119M (1996) to $1.4B (2000); Salesforce launched 1999; Gartner CRM market $23B by 2012 `[ps=-1]` — [[study-aberdeen-1995-hp-customer-interaction-software]]
 - increasing customer expectation for service and support — [[study-aberdeen-1995-hp-customer-interaction-software]]
 - profitable practices helping clients design develop and deploy CIS — [[study-aberdeen-1995-hp-customer-interaction-software]]
 - full-service systems supplier with right products services and partnerships — [[study-aberdeen-1995-hp-customer-interaction-software]]
-- Confirmed: CRM/CIS market grew explosively through late 1990s; Siebel Systems revenue grew from $119M (1996) to $1.4B (2000); Salesforce launched 1999; Gartner CRM market $23B by 2012 — [[study-aberdeen-1995-hp-customer-interaction-software]]

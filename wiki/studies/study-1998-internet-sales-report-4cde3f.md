@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 3.12
-prescience_obs_count: 17
+prescience_mean: 2.89
+prescience_obs_count: 18
 ---
 
 # Internet Sales: Virtual Corporations, Real Profit
@@ -49,8 +49,8 @@ _Published 1998, author **Chris Stevens (Aberdeen Group)**, type **market-study*
 - 170 pages; 39 explanatory illustrations `[ps=0]`
 - Sold computer store unit to Cyberian Outpost in 1998 to focus on First Auction; gradually subsumed by larger players `[ps=0]`
 - Emerging online marketing strategies including portals `[ps=0]`
+- Total 1998 online retail revenues expected to surpass $13 billion `[ps=-1]`
 - $1495
 - Staggering success stories driving double-digit growth rates; company executives delegating commerce site development to marketing and IS managers
 - Broadband (DSL and cable) achieved majority U.S. household penetration by 2005; resolved shopping experience constraint
 - eBay still active with $75B GMV in 2024; profitable but significantly outpaced by Amazon and mass-market retailers
-- Total 1998 online retail revenues expected to surpass $13 billion

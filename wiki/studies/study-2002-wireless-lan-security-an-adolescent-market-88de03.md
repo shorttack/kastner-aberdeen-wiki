@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.91
-prescience_obs_count: 11
+prescience_mean: 2.58
+prescience_obs_count: 12
 ---
 
 # Wireless LAN Security: An Adolescent Market
@@ -43,10 +43,10 @@ _Published 2002, author **Eric Hemmendinger**, type **market-study**._
 - Wireless gateway and WLAN security vendor `[ps=0]`
 - ReefEdge dissolved circa 2005; Blue Socket offered rebates to stranded customers `[ps=0]`
 - Acquired by Airbus Defence and Space in 2016; survived due to military-grade niche `[ps=0]`
+- Wi-Fi Alliance deprecated WEP in 2004; replaced by WPA/WPA2 `[ps=-1]`
 - Market described as adolescent — growing but lacking mature security solutions
 - VPN is one of three essential capabilities for WLAN security
 - Seamless hand-off between WAPs is one of three essential capabilities for WLAN security
-- Wi-Fi Alliance deprecated WEP in 2004; replaced by WPA/WPA2
 - Small WLAN security startup competing in adolescent market
 - Adolescent market expected to mature through vendor consolidation
 - Major WLAN infrastructure vendor; potential to add security capabilities

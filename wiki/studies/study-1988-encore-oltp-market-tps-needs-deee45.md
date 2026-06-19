@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.53
-prescience_obs_count: 15
+prescience_mean: 1.24
+prescience_obs_count: 17
 ---
 
 # OLTP Market Transaction Processing Needs: A Vertical Market Analysis for Encore Computer
@@ -47,8 +47,8 @@ _Published 1988, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 - $50M estimated `[ps=0]`
 - $65M estimated; 125 TPS mainframe norm in Europe `[ps=0]`
 - Sears/IBM Prodigy expects 100 TPS within three years `[ps=0]`
-- Price/performance advantage over IBM 3090 mainframes; targets high-end commercial OLTP
-- 2,000 TPS peak; 200 TPS per IBM 3090-200; growing at 15% per annum
+- Price/performance advantage over IBM 3090 mainframes; targets high-end commercial OLTP `[ps=-1]`
+- 2,000 TPS peak; 200 TPS per IBM 3090-200; growing at 15% per annum `[ps=-1]`
 - Aberdeen believes commercial Series 90 can address wider database/data-communications commercial markets with outstanding price/performance in multiples of IBM mainframes
 - $40M estimated; call switching 400 TPS growing to 600 TPS in 5 years
 - Six factors: demonstrable high-end processing requirements; market barriers to entry; entrenched competition; financial attractiveness; time to market for new applications; market innovation or risk aversion tendencies

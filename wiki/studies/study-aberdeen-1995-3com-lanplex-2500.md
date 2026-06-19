@@ -18,8 +18,8 @@ importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.06
-prescience_obs_count: 31
+prescience_mean: 1.97
+prescience_obs_count: 32
 ---
 
 # 3Com's LANplex 2500: Profiling the Consummate Ethernet/FDDI Workgroup Switch

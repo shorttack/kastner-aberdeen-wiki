@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 2
+prescience_mean: 1.0
+prescience_obs_count: 3
 ---
 
 # 2Q05 Ee Workforceoptimization 030105B (Aberdeen, 2005)
@@ -34,4 +34,4 @@ _Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 - While workforce management policies, procedures and technologies in retail can be poorly articulated and haphazard, best in class retailers today are combining strategy and technology to better optimize their investment in their labor force. `[ps=4]`
 - _**Hypothesis for the research:**_ For US retailers, hourly in-store payroll exceeds $250 billion. `[ps=0]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

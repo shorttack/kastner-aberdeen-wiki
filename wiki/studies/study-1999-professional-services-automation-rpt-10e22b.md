@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.38
-prescience_obs_count: 16
+prescience_mean: 3.12
+prescience_obs_count: 17
 ---
 
 # Professional Services Automation: Increasing Efficiencies and Profitability in Professional Services Organizations
@@ -48,9 +48,9 @@ _Published 1999, author **David Hofferberth**, type **market-study**._
 - Leading PSA platform for IT project portfolio management `[ps=0]`
 - Report contains competitive landscape and buyer selection guide for PSA purchasing decisions `[ps=0]`
 - 14 comprehensive profiles plus 10 additional PSA solution providers identified `[ps=0]`
+- PSA/PPM market matured into standard enterprise software category; Gartner covers as distinct Magic Quadrant `[ps=-1]`
 - Core PSA function automating professional time recording and expense reporting
 - Connecting project delivery to billing and revenue recognition
 - IT consulting and systems integration firms as primary PSA target
 - Enterprise portfolio and resource planning for IT and professional services
 - ERP giant extending project/services capabilities to compete in PSA
-- PSA/PPM market matured into standard enterprise software category; Gartner covers as distinct Magic Quadrant

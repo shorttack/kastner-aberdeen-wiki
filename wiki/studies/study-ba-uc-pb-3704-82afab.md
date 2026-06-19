@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.83
-prescience_obs_count: 65
+prescience_mean: 1.3
+prescience_obs_count: 80
 ---
 
 # Ba Uc Pb 3704 (Aberdeen, 2006)

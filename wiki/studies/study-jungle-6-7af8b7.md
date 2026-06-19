@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.07
-prescience_obs_count: 30
+prescience_mean: 0.88
+prescience_obs_count: 33
 ---
 
 # Welcome to the RDBMS Jungle — Chapter 6

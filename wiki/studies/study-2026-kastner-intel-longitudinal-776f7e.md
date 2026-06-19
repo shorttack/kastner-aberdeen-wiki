@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.97
-prescience_obs_count: 74
+prescience_mean: 1.93
+prescience_obs_count: 75
 ---
 
 # Intel Corporation Across Five Decades of the Kastner Archive: Technology Emergence, Decline, and the x86 Market Calls

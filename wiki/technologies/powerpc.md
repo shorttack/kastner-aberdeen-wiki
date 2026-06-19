@@ -13,8 +13,8 @@ lifecycle_at_study: "pre-release"
 lifecycle_current: "discontinued-in-Mac-2006"
 occurrence_count: 7
 prescience_max: 4.0
-prescience_mean: 1.71
-prescience_obs_count: 7
+prescience_mean: 1.38
+prescience_obs_count: 8
 ---
 
 # PowerPC / Power Macintosh architecture
@@ -36,5 +36,5 @@ prescience_obs_count: 7
 - Large portions planning simultaneous Power2→PowerPC hardware + OS upgrade `[ps=0]` — [[study-aberdeen-1996-ibm-aix-4-not-your-fathers-325]]
 - [UNVERIFIED] `[ps=0]` — [[study-nti-12-client-server-goals-1993-15a519]]
 - [UNVERIFIED] `[ps=0]` — [[study-nti-2-open-systems-1dd3af]]
-- Last PowerPC Mac (Power Mac G5) discontinued August 2006 — [[study-mac-news-business-apple-intel-marriage-m-d0a5d8]]
+- Last PowerPC Mac (Power Mac G5) discontinued August 2006 `[ps=-1]` — [[study-mac-news-business-apple-intel-marriage-m-d0a5d8]]
 - [UNVERIFIED] — [[study-nti-4-nextgen-os-timing-1993-a45049]]

@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.92
-prescience_obs_count: 71
+prescience_mean: 1.76
+prescience_obs_count: 75
 ---
 
 # Ra 21Stcen 3863 (Aberdeen, 2007)

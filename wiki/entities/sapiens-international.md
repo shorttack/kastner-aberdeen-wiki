@@ -13,8 +13,8 @@ successor: "Went private via Advent acquisition at $2.5B (Dec 2025)"
 years_active: "1982-2025"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.13
-prescience_obs_count: 15
+prescience_mean: 1.94
+prescience_obs_count: 16
 ---
 
 # Sapiens International Corporation
@@ -39,8 +39,8 @@ prescience_obs_count: 15
 - Anticipated Q2 1992 availability of Microsoft Windows-based Sapiens client; pre-release demo observed `[ps=0]` — [[study-1992-sapiens-and-metadata-0608b6]]
 - No active program to reach industry influencers such as Aberdeen Group; no advertising visible `[ps=0]` — [[study-1992-sapiens-and-metadata-0608b6]]
 - Company clearly benefits from joint IBM marketing relationship — external sales contacts + internal IBM interest + halo effect `[ps=0]` — [[study-1992-sapiens-and-metadata-0608b6]]
+- Architecture could have a decade-long useful life; no inherent obstacles to migrating to other hardware platforms `[ps=-1]` — [[study-1992-sapiens-and-metadata-0608b6]]
 - Isolates programmers from IBM systems software enabling easier migration across MVS/VM/VSE — [[study-1992-sapiens-and-metadata-0608b6]]
 - Modern — perhaps state-of-the-art — architecture with encapsulated data and message-passing — [[study-1992-sapiens-and-metadata-0608b6]]
 - Typically only 20% of application coding is 'positive'; rest is negative/reversal logic handled automatically — [[study-1992-sapiens-and-metadata-0608b6]]
 - R&D project underway to port Sapiens to Unix; requires rewriting runtime kernel from IBM assembler to C/C++ — [[study-1992-sapiens-and-metadata-0608b6]]
-- Architecture could have a decade-long useful life; no inherent obstacles to migrating to other hardware platforms — [[study-1992-sapiens-and-metadata-0608b6]]

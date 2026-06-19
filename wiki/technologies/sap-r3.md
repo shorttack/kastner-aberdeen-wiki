@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream"
 lifecycle_current: "evolved-to-SAP-S4HANA"
 occurrence_count: 25
 prescience_max: 5.0
-prescience_mean: 2.24
-prescience_obs_count: 87
+prescience_mean: 2.2
+prescience_obs_count: 88
 ---
 
 # SAP R/3 (mixed applications)

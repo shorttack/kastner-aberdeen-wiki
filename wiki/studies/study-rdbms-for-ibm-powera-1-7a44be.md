@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.38
-prescience_obs_count: 39
+prescience_mean: 2.3
+prescience_obs_count: 40
 ---
 
 # Power Academy RDBMS Sales Training

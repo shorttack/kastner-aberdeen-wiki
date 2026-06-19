@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.62
-prescience_obs_count: 50
+prescience_mean: 1.34
+prescience_obs_count: 56
 ---
 
 # Ra Compositeapps Rs Pk 3716 (Aberdeen, 2006)

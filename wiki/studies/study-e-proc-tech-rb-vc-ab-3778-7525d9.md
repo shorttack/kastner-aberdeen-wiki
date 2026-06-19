@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
 prescience_max: 5.0
-prescience_mean: 3.5
-prescience_obs_count: 6
+prescience_mean: 2.38
+prescience_obs_count: 8
 ---
 
 # E Proc Tech Rb Vc Ab 3778 (Aberdeen, 2006)
@@ -38,5 +38,5 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 - The broad integration across an entire suite of applications from Oracle or SAP, including e- procurement, is a strong point in their favor (Figure 2). `[ps=4]`
 - Additionally, Ariba customers were top performers in our research, consistently achieving Best in Class status. `[ps=3]`
 - Additionally, best-of-breed customers often meet or exceed Best in Class performance benchmarks. `[ps=0]`
-- **Figure 1: One Thousand or More Suppliers Enabled**
-- **Figure 2: Satisfaction with Integration to Other Systems**
+- **Figure 1: One Thousand or More Suppliers Enabled** `[ps=-1]`
+- **Figure 2: Satisfaction with Integration to Other Systems** `[ps=-1]`

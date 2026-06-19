@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.1
-prescience_obs_count: 10
+prescience_mean: 1.58
+prescience_obs_count: 12
 ---
 
 # e-Learning in the Enterprise
@@ -42,5 +42,5 @@ _Published 1999, author **Aberdeen Group**, type **benchmark**._
 - Corporate and Government Training in the 1990s|||42| |Figure 8:|The Fragmented e-Learning Market|||44| |Figure 9:|Arthur Andersen’s Integrated Learning Approach|||56| |Figure 10:|The TBT and Online Learning Market|||62| |Figure 11:|The click2learn.com Learning Solution|||64| |Figure 12:|Eloquent’s Online Turnkey Communication Solution|||80| |Figure 13:|Presenter! `[ps=0]`
 - Layout|||82| |Figure 14:|HyCurve Internet Professional Tracks|||89| |Figure 15:|LearnLinc’s Architecture|||94| |Figure 16:|SmartForce’s e-Learning Solution|||125| ||**T**<br>**A**<br>**B**<br>**L**|**E**|**S**|| |Table 1: e-Learning Compared to Classroom Training||||6| |Table 2: Training Methods||||15| |Table 3: WBT Advantages, Disadvantages, and Concerns||||18| |Table 4: Potential e-Learning Bene `[ps=0]`
 - Figure 2 shows the decline in classroom training and the growth of technology-based training methods from 1995 to 1998, offering projections from 1999 to 2002. `[ps=0]`
-- **Figure 1: e-Learning Defined**
-- **Figure 2: Training Delivery Methods**
+- **Figure 1: e-Learning Defined** `[ps=-1]`
+- **Figure 2: Training Delivery Methods** `[ps=-1]`

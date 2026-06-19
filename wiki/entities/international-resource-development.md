@@ -12,9 +12,9 @@ status: "defunct"
 successor: "Norwalk CT; defunct"
 years_active: "1970s-1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: -1.0
+prescience_mean: -1.0
+prescience_obs_count: 1
 ---
 
 # International Resource Development, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $1B in 1987, $1.2B by 1990 (more conservative) — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
+- $1B in 1987, $1.2B by 1990 (more conservative) `[ps=-1]` — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]

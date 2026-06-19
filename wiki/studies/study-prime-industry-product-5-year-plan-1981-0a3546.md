@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.26
-prescience_obs_count: 34
+prescience_mean: 2.17
+prescience_obs_count: 35
 ---
 
 # Prime Computer — Industry Product Requirements Plan (Five-Year Plan, July 1981, COMPANY CONFIDENTIAL)

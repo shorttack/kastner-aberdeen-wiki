@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.12
-prescience_obs_count: 8
+prescience_mean: 2.67
+prescience_obs_count: 9
 ---
 
 # Compaq Vows Support for Himalaya Post-HP (Securities Industry News)
@@ -40,6 +40,6 @@ _Published 2002, author **Maria Trombly (Securities Industry News)**, type **tra
 - 'We've already assured all of our customers, on every product front, that they can count on our ongoing long-term support.' `[ps=2]`
 - 'HP doesn't have anything directly to replace the Himalaya, [but] there is a risk that it will get shoved aside and starved to death. I think it behooves people to start looking for alternatives.' `[ps=2]`
 - Includes J.D. Edwards, Prudential Securities, T.D. Waterhouse, Nasdaq Stock Market `[ps=0]`
-- 95% of world's securities transactions go through Compaq Himalaya mainframes
+- 95% of world's securities transactions go through Compaq Himalaya mainframes `[ps=-1]`
 - Kastner recommends IT organizations at major financial firms plan on holding information-exchange meetings so newly-assigned people can come up to speed on present and future needs
 - HPE NonStop platform continues to operate the world's exchanges and securities processing in 2025 — Kastner's middle-path forecast (preserve top, friction below) more accurate than Travis's 'starve to death' prediction

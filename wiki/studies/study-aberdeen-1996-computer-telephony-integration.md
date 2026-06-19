@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.55
-prescience_obs_count: 20
+prescience_mean: 3.33
+prescience_obs_count: 21
 ---
 
 # Internet Architecture: Prescription For Success
@@ -52,6 +52,6 @@ _Published 1996, author **Aberdeen Group**, type **white-paper**._
 - Aberdeen anticipates most RDBMS vendors will support heterogeneous replication by end of 1996 `[ps=2]`
 - Big telecom companies will not deliver major end-user bandwidth increases in near future; 2-way cable not ready `[ps=2]`
 - Many second-generation CADEs will allow highly scalable Internet application development by mid-1996 `[ps=2]`
+- Broadband (DSL, cable) rollout accelerated 1998-2002; Aberdeen's near-term constraint proved partially correct but underestimated speed of cable/DSL `[ps=-1]`
 - Most enterprise data in plain-vanilla format; must define web-presentable data elements and user-friendly interface
 - E-commerce transformed retail, financial services, and B2B transactions globally; selling cost reductions materialized as predicted
-- Broadband (DSL, cable) rollout accelerated 1998-2002; Aberdeen's near-term constraint proved partially correct but underestimated speed of cable/DSL

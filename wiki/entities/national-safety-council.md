@@ -13,8 +13,8 @@ successor: ""
 years_active: "1913-present"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # National Safety Council
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Only 11% of the 315M PCs rendered obsolete by 2004 will be recycled in the US. `[ps=5]` — [[study-dell-ars-wp-2-72fd7f]]
-- 315 million old PCs ready to be junked by 2004 in the US. — [[study-dell-ars-wp-2-72fd7f]]
+- 315 million old PCs ready to be junked by 2004 in the US. `[ps=-1]` — [[study-dell-ars-wp-2-72fd7f]]

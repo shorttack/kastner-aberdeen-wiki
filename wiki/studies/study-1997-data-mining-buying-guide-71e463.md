@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.55
-prescience_obs_count: 22
+prescience_mean: 1.43
+prescience_obs_count: 23
 ---
 
 # Enterprise Data Mining Buying Guide: 1997 Edition
@@ -54,6 +54,6 @@ _Published 1997, author **David Hill & Robert Moran / AberdeenGroup**, type **Ma
 - acquired_by_yahoo_1996 `[ps=0]`
 - acquired_accrue_1999_then_jda_2001 `[ps=0]`
 - peterson_2013_then_datawatch_2018_then_altair `[ps=0]`
+- acquired_spss_2000_spss_acquired_ibm_2009 `[ps=-1]`
 - server_platforms
 - financial_services_retail_telecom_other
-- affinity_grouping

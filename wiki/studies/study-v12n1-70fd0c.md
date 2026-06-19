@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.37
-prescience_obs_count: 19
+prescience_mean: 1.67
+prescience_obs_count: 24
 ---
 
 # R K E T V I E W P O I N T
@@ -51,8 +51,8 @@ _Published 1999, author **Aberdeen Group**, type **market-study**._
 - If 40% of MRO spending is off-contract, total maverick spending = $100 million/yr. `[ps=0]`
 - The average selling price for Internet Procurement applications installed at the user sites surveyed was $1.4 million, including license fees, implementation services fees, and initial maintenance fees. `[ps=0]`
 - All but one of the corporate sites surveyed by Aberdeen reported annual revenues above $1 billion. `[ps=0]`
-- **----- Start of picture text -----**<br> Manufacturing Co.<br>(Revenues = $1.1 billion; Total<br>Expenditures = $1 billion)<br>MRO expenditures<br>25% = $250 million/yr.<br>**----- End of picture text -----**<br>
-- **Figure 2: Organizations Install Procurement Automation at Cautious Pace**
-- **Figure 3: Business Processes Supported by Current Implementations**
-- **Figure 4: OBI, Content Providers Lighten Load for Catalog Management**
-- **Figure 5: Level of Effort Required to Support Internet Procurement Installation**
+- **----- Start of picture text -----**<br> Manufacturing Co.<br>(Revenues = $1.1 billion; Total<br>Expenditures = $1 billion)<br>MRO expenditures<br>25% = $250 million/yr.<br>**----- End of picture text -----**<br> `[ps=-1]`
+- **Figure 2: Organizations Install Procurement Automation at Cautious Pace** `[ps=-1]`
+- **Figure 3: Business Processes Supported by Current Implementations** `[ps=-1]`
+- **Figure 4: OBI, Content Providers Lighten Load for Catalog Management** `[ps=-1]`
+- **Figure 5: Level of Effort Required to Support Internet Procurement Installation** `[ps=-1]`

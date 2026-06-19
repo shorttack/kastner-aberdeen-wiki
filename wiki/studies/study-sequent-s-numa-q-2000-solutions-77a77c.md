@@ -18,8 +18,8 @@ importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.33
-prescience_obs_count: 18
+prescience_mean: 2.16
+prescience_obs_count: 19
 ---
 
 # Sequent's NUMA-Q 2000 Solutions: Reliability Availability Scalability Plus Technology Investment Protection
@@ -50,8 +50,8 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 - EPS31 connects up to 16 T600 servers via fiber channel switch; not quad-based `[ps=0]`
 - cc-NUMA approach with Intel quads; focus on workstation-to-midrange buyers `[ps=0]`
 - Supplier must have clear roadmap to leverage technology advantages in future `[ps=0]`
+- IBM/HP/Sun adopted NUMA-like architectures within 2-5 years as predicted; IBM x440 (2002) used ccNUMA derived from Sequent acquisition `[ps=-1]`
 - Simulation of up to 10
-- IBM/HP/Sun adopted NUMA-like architectures within 2-5 years as predicted; IBM x440 (2002) used ccNUMA derived from Sequent acquisition
 - Sequent acquired by IBM for $810M in July 1999; product roadmap collapsed before acquisition; NUMA-Q discontinued
 - Supplier must have proven record in high-performance open-systems technology
 - Sequent must continue delivering TPC benchmark proof points against competitors

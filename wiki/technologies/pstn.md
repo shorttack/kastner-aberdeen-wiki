@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "legacy-transitioning"
 occurrence_count: 1
 prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_mean: -0.5
+prescience_obs_count: 2
 ---
 
 # Public Switched Telephone Network (PSTN)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - $670 billion worldwide (75% services / 25% hardware+software) `[ps=0]` — [[study-teleco~1-c01702]]
-- PSTN: 99.9999% (53 min/year); public IP: ~95% (36.5 hr/month) — [[study-teleco~1-c01702]]
+- PSTN: 99.9999% (53 min/year); public IP: ~95% (36.5 hr/month) `[ps=-1]` — [[study-teleco~1-c01702]]

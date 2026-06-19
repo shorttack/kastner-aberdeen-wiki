@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.41
-prescience_obs_count: 17
+prescience_mean: 3.17
+prescience_obs_count: 18
 ---
 
 # Tivoli Systems: Unifying the Management of Network Computing Environments
@@ -49,6 +49,7 @@ _Published 1996, author **Aberdeen Group**, type **product-profile**._
 - IBM's SystemView positioned to become well-behaved Tivoli management application; validates existing SystemView user investments `[ps=2]`
 - IBM Tivoli grew extensive ISV/partner ecosystem; partners like BMC, CA, and Remedy continued integrating with Tivoli for years; 10/Plus ecosystem expanded significantly `[ps=2]`
 - TMF framework allows plug-in of best-in-class ISV management applications; 45+ ISV partners in 10/Plus association `[ps=0]`
+- CA users possess ability to visually integrate networked resources using pre-packaged solution vs Tivoli's ability to functionally integrate with best-in-class solutions `[ps=-1]`
 - Karat would have been delivered years after Tivoli; would manage only IBM platforms; production-critical app suppliers were already on Tivoli, not Karat
 - TMF manages 18+ platform operating environments including Unix variants, Windows NT, NetWare, MVS, OS/400, OS/2, DOS
 - HP OpenView provides bottoms-up view of enterprise; Tivoli provides top-down view based on IT management policies/procedures
@@ -56,4 +57,3 @@ _Published 1996, author **Aberdeen Group**, type **product-profile**._
 - IBM built extensive Tivoli professional services organization; Tivoli products became core to IBM Global Services; ISV ecosystem grew substantially
 - TME 10 EC removes administrators from details of underlying technology; manages according to enterprise policy; provides integrated unified view of IT resources
 - Manages evolving IT environment using policies and procedures instead of administrative skill or whim
-- Controls distribution of software patches, updates, upgrades from central location to any managed Tivoli system (from OS/390 to desktops)

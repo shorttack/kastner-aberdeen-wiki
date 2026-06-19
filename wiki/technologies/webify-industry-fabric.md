@@ -13,8 +13,8 @@ lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Webify Solutions and its Industry Application Fabric was acquired by IBM (2006). The standalone Webify brand and product line was absorbed into IBM WebSphere industry solutions. No longer exists as a distinct product.', 'source': 'known - IBM acquired Webify 2006'}"
 occurrence_count: 2
 prescience_max: 3.0
-prescience_mean: 2.33
-prescience_obs_count: 6
+prescience_mean: 1.86
+prescience_obs_count: 7
 ---
 
 # Webify Industry Application Fabric
@@ -30,4 +30,4 @@ prescience_obs_count: 6
 - IBM with Webify is in a class of its own — vertical-market application components represent a viable adjunct to ERP systems from SAP/Oracle/Infor/Lawson `[ps=3]` — [[study-ma-ibm-webify-5e0d4b]]
 - Evaluate IBM-Webify vs. Eclipse and Visual Studio on lifecycle lines of code metric `[ps=2]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
 - 120 employees `[ps=0]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
-- Insurance, healthcare, banking, telecom, public sector (in development) — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
+- Insurance, healthcare, banking, telecom, public sector (in development) `[ps=-1]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]

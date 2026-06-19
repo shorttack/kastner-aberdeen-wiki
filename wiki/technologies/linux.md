@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging-enterprise"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Linux kernel and operating system actively developed. Linux 6.x kernel series current. Dominant OS for servers, cloud, embedded, and supercomputing.', 'source': 'https://www.kernel.org/'}"
 occurrence_count: 41
 prescience_max: 5.0
-prescience_mean: 2.36
-prescience_obs_count: 90
+prescience_mean: 2.02
+prescience_obs_count: 100
 ---
 
 # Linux (Red Hat Advanced Server)

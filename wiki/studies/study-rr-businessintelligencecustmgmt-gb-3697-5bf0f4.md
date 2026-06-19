@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.64
-prescience_obs_count: 42
+prescience_mean: 1.09
+prescience_obs_count: 53
 ---
 
 # Rr Businessintelligencecustmgmt Gb 3697 (Aberdeen, 2006)

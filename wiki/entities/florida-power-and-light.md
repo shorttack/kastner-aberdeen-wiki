@@ -13,8 +13,8 @@ successor: "NextEra Energy (parent)"
 years_active: "1925-present"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Florida Power and Light Company
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Florida Power & Light planned ASEP for residential AC/heating system and electrical-water-heater control `[ps=4]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
-- Residential AC/heating systems and electrical water heaters under ASEP control — [[study-minicomputer-news-ase-asep-1979-2b5327]]
+- Residential AC/heating systems and electrical water heaters under ASEP control `[ps=-1]` — [[study-minicomputer-news-ase-asep-1979-2b5327]]

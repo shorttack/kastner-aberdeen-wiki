@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.25
-prescience_obs_count: 8
+prescience_mean: 1.17
+prescience_obs_count: 12
 ---
 
 # Ra Custanalyticsssg Gb Jl 3709 (Aberdeen, 2007)
@@ -40,7 +40,7 @@ _Published 2007, author **Aberdeen Group**, type **topic-analysis**._
 - **Case in Point:** For Blair Corporation, a $500M multi-channel retailer selling primarily through online and catalogue, the highest priorities in selecting a customer analytics solution included: `[ps=0]`
 - 4 Aberdeen defines company size: SME <$50M, MME $51M - $999M, and Large Enterprise >$1B `[ps=0]`
 - With approximately 50% of sales generated from catalogues, 9% from a retail store, and 41% from a website presence, this retailer wanted better visibility and accountability for its online marketing investment. `[ps=0]`
-- **Figure 1: Investments Driven by Need to Grow Revenues and Customers**
-- **Figure 2: Performance: Metrics and KPI’s**
-- **Figure 3: Ability to Create & Execute Programs: Advanced**
-- **Figure 4: Customer Analytics Processes: Integration & Interoperability**
+- **Figure 1: Investments Driven by Need to Grow Revenues and Customers** `[ps=-1]`
+- **Figure 2: Performance: Metrics and KPI’s** `[ps=-1]`
+- **Figure 3: Ability to Create & Execute Programs: Advanced** `[ps=-1]`
+- **Figure 4: Customer Analytics Processes: Integration & Interoperability** `[ps=-1]`

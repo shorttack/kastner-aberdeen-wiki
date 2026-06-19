@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.89
-prescience_obs_count: 9
+prescience_mean: 2.5
+prescience_obs_count: 10
 ---
 
 # Bay Networks: Concentrating on Remote Access
@@ -41,7 +41,7 @@ _Published 1997, author **Virginia Brooks**, type **announcement-profile**._
 - Bay Networks positioned to address high-density remote access market with 5399 against Ascend and others `[ps=2]`
 - Acquired via Penril Datability Networks acquisition (November 1996) `[ps=0]`
 - 5399 won first large order from Prodigy (online service) over Ascend in October 1997; Bay Networks acquired by Nortel for $9.1B in June 1998 `[ps=0]`
-- Two-tier product strategy: high-density modular (5399) for carriers/large enterprise + stand-alone (8000) for SMB/smaller ISPs
+- Two-tier product strategy: high-density modular (5399) for carriers/large enterprise + stand-alone (8000) for SMB/smaller ISPs `[ps=-1]`
 - Acquired by Nortel Networks for $9.1 billion in June 1998; enterprise business eventually sold to Avaya in 2009 following Nortel bankruptcy
 - Primary competitor to Bay Networks in high-density remote access concentrator market
 - Acquired by Lucent Technologies in 1999 for approximately $20 billion

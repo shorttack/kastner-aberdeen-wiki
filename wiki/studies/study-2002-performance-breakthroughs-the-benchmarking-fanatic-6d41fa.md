@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.0
-prescience_obs_count: 10
+prescience_mean: 0.82
+prescience_obs_count: 11
 ---
 
 # Performance Breakthroughs: The Benchmarking Fanatics Are Still at It
@@ -42,6 +42,6 @@ _Published 2002, author **Robert Dorin**, type **market-study**._
 - July 2002 `[ps=0]`
 - current sales slump `[ps=0]`
 - market share battle will begin when IT buyers show signs of life `[ps=0]`
+- transitioned from Itanium to x86 Xeon; still sold by HPE `[ps=-1]`
 - positioned for market share battle
-- transitioned from Itanium to x86 Xeon; still sold by HPE
 - vendors maintaining R&D and benchmark activity despite revenue slump signals confidence in recovery

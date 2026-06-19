@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.19
-prescience_obs_count: 16
+prescience_mean: 2.0
+prescience_obs_count: 17
 ---
 
 # Sapiens International Corporation Technology Review
@@ -48,11 +48,11 @@ _Published 1992, author **Peter S. Kastner / Aberdeen Group**, type **technology
 - Anticipated Q2 1992 availability of Microsoft Windows-based Sapiens client; pre-release demo observed `[ps=0]`
 - No active program to reach industry influencers such as Aberdeen Group; no advertising visible `[ps=0]`
 - Company clearly benefits from joint IBM marketing relationship — external sales contacts + internal IBM interest + halo effect `[ps=0]`
+- Architecture could have a decade-long useful life; no inherent obstacles to migrating to other hardware platforms `[ps=-1]`
 - Isolates programmers from IBM systems software enabling easier migration across MVS/VM/VSE
 - Modern — perhaps state-of-the-art — architecture with encapsulated data and message-passing
 - Typically only 20% of application coding is 'positive'; rest is negative/reversal logic handled automatically
 - R&D project underway to port Sapiens to Unix; requires rewriting runtime kernel from IBM assembler to C/C++
-- Architecture could have a decade-long useful life; no inherent obstacles to migrating to other hardware platforms
 - Architecture could have decade-long useful life barring unlikely total collapse of mainframe market
 - Grew from $45M to $542M revenue between undisclosed start date and 2024; 2024 revenue $542.38M (+5.4% YoY)
 - Acquired by Advent International (PE) for $2.5B ($43.50/share) in December 2025; stock ceased trading Dec 17 2025

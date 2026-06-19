@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.42
-prescience_obs_count: 78
+prescience_mean: 1.03
+prescience_obs_count: 93
 ---
 
 # Ra Warehouseautomation 3867 (Aberdeen, 2005)

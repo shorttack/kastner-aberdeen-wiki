@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.25
-prescience_obs_count: 12
+prescience_mean: 2.92
+prescience_obs_count: 13
 ---
 
 # Dell Asset Recovery Services: a Trustworthy Partner for Eliminating Aging IT Assets
@@ -44,8 +44,8 @@ _Published 2003, author **Peter S. Kastner / Aberdeen Group**, type **white-pape
 - Each PC contains lead (CRTs), cadmium, mercury and other hazardous materials requiring special disposal handling `[ps=3]`
 - 9.6% per month based on resale/recycling value `[ps=0]`
 - $49 per unit plus $30 for packing and moving `[ps=0]`
+- Can exceed 25% of initial PC acquisition cost; up to 32% for $1,200 PC and monitor `[ps=-1]`
 - $368 per PC per year
-- Can exceed 25% of initial PC acquisition cost; up to 32% for $1,200 PC and monitor
 - Environmental regulations governing e-waste are proliferating; enterprises face penalties for improper disposal of hazardous materials (lead, cadmium, mercury) in PCs
 - Dell Asset Recovery Services remains active in 2024 with updated lifecycle assessment reports and expanded environmental compliance services
 - EU WEEE Directive, US state e-waste laws (30+ states), GDPR/CCPA data destruction requirements all enacted post-2003; regulations tightened as predicted

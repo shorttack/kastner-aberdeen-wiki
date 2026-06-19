@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.62
-prescience_obs_count: 13
+prescience_mean: 0.31
+prescience_obs_count: 16
 ---
 
 # Written Oracleroiwhitepaperprod (Aberdeen, 2001)
@@ -45,6 +45,6 @@ _Published 2001, author **Aberdeen Group**, type **market-study**._
 - It is a continual effort over time that exceeds that of the addition of a new module into the infrastructure (Figure 5). `[ps=0]`
 - The bottom line, as it were, is in the perceived competitive advantage derived from the functions of the single point applications — again, possibly available on the market earlier — when compared to the integrated suite of applications over time (Figure 6). `[ps=0]`
 - **Figure 5: Integrating to the Infrastructure — Effort of Point Solutions vs. `[ps=0]`
-- **Figure 1: Hidden Cost Effects of Integration on Cumulative Benefit Stream**
-- **Figure 3: Time to Benefit for a Point Solution**
-- **Figure 6: Advantage Dissipation over Time**
+- **Figure 1: Hidden Cost Effects of Integration on Cumulative Benefit Stream** `[ps=-1]`
+- **Figure 3: Time to Benefit for a Point Solution** `[ps=-1]`
+- **Figure 6: Advantage Dissipation over Time** `[ps=-1]`

@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 46
+prescience_mean: 1.76
+prescience_obs_count: 50
 ---
 
 # Ra Bpsecinfoaccess Jh (Aberdeen, 2005)

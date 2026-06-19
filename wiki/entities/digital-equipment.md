@@ -13,8 +13,8 @@ successor: "Acquired by Compaq 1998; then HP 2002"
 years_active: "1957-1998"
 occurrence_count: 23
 prescience_max: 5.0
-prescience_mean: 1.09
-prescience_obs_count: 58
+prescience_mean: 1.05
+prescience_obs_count: 59
 ---
 
 # Digital Equipment Corporation (DEC)

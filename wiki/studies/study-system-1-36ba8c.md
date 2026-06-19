@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.53
-prescience_obs_count: 19
+prescience_mean: 2.35
+prescience_obs_count: 20
 ---
 
 # Systems and Network Management: 1998 Practice Summary
@@ -51,8 +51,8 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 - suitability to task `[ps=0]`
 - effective integration, time to value, professional services, product vision `[ps=0]`
 - PATROL; Best-of-Breed camp `[ps=0]`
+- AI pattern recognition first in network management then systems and application management `[ps=-1]`
 - ~20%
 - co-leader of Framework camp
-- AI pattern recognition first in network management then systems and application management
 - senior IS managers and CIOs for enterprise-wide; LOB managers for narrow products
 - SPECTRUM network management; Best-of-Breed

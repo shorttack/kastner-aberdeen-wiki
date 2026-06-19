@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_mean: -0.5
+prescience_obs_count: 2
 ---
 
 # Solution Provider Introduction Wb061005A (Aberdeen, 2005)
@@ -33,4 +33,4 @@ _Published 2005, author **Aberdeen Group**, type **market-study**._
 ## Top observations
 
 - “Of the one Aberdeen report we sponsored this year, 25% of the leads made it into our pipeline and we have closed at least three deals directly attributed to our sponsorship.” `[ps=0]`
-- This study analyzes ==> picture [432 x 130] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [432 x 130] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

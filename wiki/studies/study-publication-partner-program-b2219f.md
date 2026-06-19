@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
 prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_mean: -0.5
+prescience_obs_count: 2
 ---
 
 # Publication Partner Program (Aberdeen, 2006)
@@ -33,4 +33,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 ## Top observations
 
 - Complimentary research offer for all subscribers (a $399 value) with advanced request option `[ps=0]`
-- This study analyzes ==> picture [506 x 55] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [506 x 55] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

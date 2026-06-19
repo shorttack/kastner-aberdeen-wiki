@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.0
-prescience_obs_count: 2
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # Abra Market To Order Retail 090204 (Aberdeen, 1988)
@@ -34,4 +34,4 @@ _Published 1988, author **Retail Research**, type **benchmark**._
 
 - The merchandising infrastructure of the 21st century is enabled by best-in-class applications that combine predictive forecasting and advanced analytics. `[ps=5]`
 - **Practical Collaboration —** Retailers and their suppliers digging out from the effects of purchase order errors waste a well-documented $40 billion. `[ps=3]`
-- This study analyzes ==> picture [441 x 117] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 117] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

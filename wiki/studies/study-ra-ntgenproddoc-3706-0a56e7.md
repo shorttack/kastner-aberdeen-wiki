@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.17
-prescience_obs_count: 64
+prescience_mean: 0.65
+prescience_obs_count: 84
 ---
 
 # Ra Ntgenproddoc 3706 (Aberdeen, 2006)

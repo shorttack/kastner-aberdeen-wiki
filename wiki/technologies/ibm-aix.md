@@ -12,9 +12,9 @@ era: "1986-present"
 lifecycle_at_study: "established"
 lifecycle_current: "IBM AIX remains actively supported as of 2026 for IBM Power Systems."
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: -1.0
+prescience_mean: -1.0
+prescience_obs_count: 1
 ---
 
 # IBM AIX 3.2
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Not highly stable according to user reports; major reason few large enterprises deployed large RS/6000 counts; new Toronto AIX development center expected to produce more stable AIX/6000 before end 1993 — [[study-1993-hercules-sap-28344a]]
+- Not highly stable according to user reports; major reason few large enterprises deployed large RS/6000 counts; new Toronto AIX development center expected to produce more stable AIX/6000 before end 1993 `[ps=-1]` — [[study-1993-hercules-sap-28344a]]
 - AIX 7.3 released 2022; actively maintained; AIX on POWER10 current 2026 — [[study-2026-kastner-ibm-longitudinal]]

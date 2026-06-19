@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.61
-prescience_obs_count: 59
+prescience_mean: 0.93
+prescience_obs_count: 80
 ---
 
 # 2007 Ra Cmo Smemme La 3607 (Aberdeen, 2007)

@@ -13,8 +13,8 @@ lifecycle_at_study: "industry-standard"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'IBM Db2 (rebranded from DB2) is an actively supported, commercial database product. Db2 for z/OS and Db2 for Linux/Unix/Windows both actively supported through 2027+ with extended support options.', 'source': 'https://www.ibm.com/support/pages/db2-distributed-end-support-eos-dates'}"
 occurrence_count: 11
 prescience_max: 4.0
-prescience_mean: 1.27
-prescience_obs_count: 22
+prescience_mean: 1.17
+prescience_obs_count: 23
 ---
 
 # IBM DB2 / Db2

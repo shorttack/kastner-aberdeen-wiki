@@ -13,8 +13,8 @@ lifecycle_at_study: "growth-1999"
 lifecycle_current: "ubiquitous"
 occurrence_count: 27
 prescience_max: 5.0
-prescience_mean: 1.26
-prescience_obs_count: 207
+prescience_mean: 0.93
+prescience_obs_count: 243
 ---
 
 # E-Commerce Infrastructure

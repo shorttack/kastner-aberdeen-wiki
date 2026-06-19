@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 1
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Q106 Svcnetopt Overview (Aberdeen, 2006)
@@ -33,4 +33,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 ## Top observations
 
 - The most important evaluation criteria best-in-class companies are using to select service outsourcing partners. `[ps=3]`
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

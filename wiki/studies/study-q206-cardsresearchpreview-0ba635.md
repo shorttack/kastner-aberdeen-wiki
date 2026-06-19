@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_mean: -0.5
+prescience_obs_count: 2
 ---
 
 # Q206 Cardsresearchpreview (Aberdeen, 2006)
@@ -33,4 +33,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 ## Top observations
 
 - What card types are used by the Best-in-Class companies and how are they using those cards? `[ps=0]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

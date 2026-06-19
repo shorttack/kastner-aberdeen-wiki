@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.22
-prescience_obs_count: 36
+prescience_mean: 2.05
+prescience_obs_count: 38
 ---
 
 # Report of Peter S. Kastner: Intelligent Electronics Inc. v. Andersen Consulting LLP

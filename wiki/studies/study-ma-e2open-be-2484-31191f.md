@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 1
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Ma E2Open Be 2484 (Aberdeen, 2005)
@@ -33,4 +33,4 @@ _Published 2005, author **Market Alert**, type **benchmark**._
 ## Top observations
 
 - Discrete manufacturers under $750 million in revenue should also consider alternative vendors, as E2open is currently targeting large hub companies for its solutions. `[ps=3]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

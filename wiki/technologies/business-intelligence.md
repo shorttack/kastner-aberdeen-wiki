@@ -13,8 +13,8 @@ lifecycle_at_study: "active-strategy-trend"
 lifecycle_current: "evolving-into-augmented-analytics-and-LLM-BI"
 occurrence_count: 14
 prescience_max: 5.0
-prescience_mean: 1.46
-prescience_obs_count: 39
+prescience_mean: 1.23
+prescience_obs_count: 43
 ---
 
 # Business Intelligence / Data Warehousing

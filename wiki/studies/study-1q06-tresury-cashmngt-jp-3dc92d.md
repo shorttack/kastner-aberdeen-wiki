@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 1
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # 1Q06 Tresury Cashmngt Jp (Aberdeen, 2006)
@@ -33,4 +33,4 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 ## Top observations
 
 - First in the series is a primary benchmark study to determine the current and recommended steps to improve future performance of firms at three levels of maturity: best-in-class, average and lagging. `[ps=3]`
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

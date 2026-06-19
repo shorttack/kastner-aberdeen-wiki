@@ -13,8 +13,8 @@ successor: "Nortel Networks (1998) -> Avaya (2009, enterprise business)"
 years_active: "1994-1998"
 occurrence_count: 4
 prescience_max: 5.0
-prescience_mean: 1.44
-prescience_obs_count: 18
+prescience_mean: 1.32
+prescience_obs_count: 19
 ---
 
 # Bay Networks, Inc.
@@ -47,5 +47,5 @@ prescience_obs_count: 18
 - 5-slot chassis; 16-port 10Base-T; 8-port 10Base-FL; 2-port 100Base-TX switching modules; RISC processors for wire-speed forwarding `[ps=0]` — [[study-1997-bay-networks--switch-node-routing-s-4d9885]]
 - Non-disruptive integration strategy: fits existing network architecture, no reconfiguration of routers or clients required `[ps=0]` — [[study-1997-bay-networks--switch-node-routing-s-4d9885]]
 - Bay Networks profiled as major internetworking supplier; acquired by Nortel Networks `[ps=0]` — [[study-networ~1-96462b]]
-- Two-tier product strategy: high-density modular (5399) for carriers/large enterprise + stand-alone (8000) for SMB/smaller ISPs — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
+- Two-tier product strategy: high-density modular (5399) for carriers/large enterprise + stand-alone (8000) for SMB/smaller ISPs `[ps=-1]` — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]
 - Acquired by Nortel Networks for $9.1 billion in June 1998; enterprise business eventually sold to Avaya in 2009 following Nortel bankruptcy — [[study-1997-bay-networks--concentrating-on-remo-06bdd8]]

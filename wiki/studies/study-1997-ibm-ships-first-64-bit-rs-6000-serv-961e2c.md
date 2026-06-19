@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.42
-prescience_obs_count: 12
+prescience_mean: 2.15
+prescience_obs_count: 13
 ---
 
 # IBM Ships First 64-bit RS/6000 Server
@@ -44,6 +44,6 @@ _Published 1997, author **Tom Willmott / Aberdeen Group**, type **Announcement P
 - Aberdeen correctly forecast Spring 1997 PowerPC 604e SMP roll-out (RS/6000 F50 in May 1997) `[ps=0]`
 - RS/6000 S70 (Model 7017) was discontinued December 13, 1999 as specified. RS64-II (262 MHz) and RS64-III (450 MHz) followed as next-generation processors. `[ps=0]`
 - TPC benchmarks used to demonstrate S70 performance; estimated 18000 TPM competitive benchmark `[ps=0]`
+- Positioned as most comprehensive 64-bit UNIX computing solution available for commercial workloads `[ps=-1]`
 - Phase 1: PowerPC 604e SMP (May 1997); Phase 2: 64-bit RS64 high-end SMP (October 1997)
 - Study positioned to review IBM Unix market position and S70 strategy fit
-- Positioned as most comprehensive 64-bit UNIX computing solution available for commercial workloads

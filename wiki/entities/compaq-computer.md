@@ -13,8 +13,8 @@ successor: "Hewlett-Packard (2002, $25B)"
 years_active: "1911-present"
 occurrence_count: 11
 prescience_max: 4.0
-prescience_mean: 1.73
-prescience_obs_count: 15
+prescience_mean: 1.56
+prescience_obs_count: 16
 ---
 
 # Compaq Computer Corporation
@@ -44,8 +44,8 @@ prescience_obs_count: 15
 - 6,712 tpmC at $65/tpmC (4-way NT Server 4.0 / SQL Server 6.5) `[ps=0]` — [[study-aberdeen-1996-debunking-ntsmp-scalability-myth]]
 - Compaq largest NT/Intel server supplier; ProLiant from entry-level to 4-way and 8-way; direct and indirect model transition `[ps=0]` — [[study-ntserv~1-56bd94]]
 - Includes J.D. Edwards, Prudential Securities, T.D. Waterhouse, Nasdaq Stock Market `[ps=0]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
+- 95% of world's securities transactions go through Compaq Himalaya mainframes `[ps=-1]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
 - 77% more expensive at high end — [[study-1992-tpc-benchmarks-vp-745fa1]]
 - Alliance will reduce implementation risk, cost, and time for CIS deployments — [[study-1997-the-compaq-siebel-global-alliance-an-e-roach-to-cu-458c35]]
 - HP acquired Compaq for approximately $19-25 billion in May 2002 — [[study-1997-the-compaq-siebel-global-alliance-an-e-roach-to-cu-458c35]]
 - 31147 — [[study-1998as400-1-146289]]
-- 2,454 tpmC at $242/tpmC (Compaq 4-way Intel) — [[study-aberdeen-1996-debunking-ntsmp-scalability-myth]]

@@ -13,8 +13,8 @@ successor: "Mitel Networks -> acquired by Searchlight Capital"
 years_active: "1972-present"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.92
-prescience_obs_count: 13
+prescience_mean: 2.64
+prescience_obs_count: 14
 ---
 
 # Mitel Corporation
@@ -37,7 +37,7 @@ prescience_obs_count: 13
 - Mitel can achieve CTI market leadership if it implements vision quickly and secures ATM technology `[ps=1]` — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
 - Up to 192 voice ports per peripheral node `[ps=0]` — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
 - T1/E1 DSU links and PRI gateways via SX-2000 LIGHT DSU nodes `[ps=0]` — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
+- Survived via multiple restructurings; became significant UC vendor; acquired Aastra (2013), ShoreTel (2017); filed Ch.11 Mar 2025, exited Jun 2025 `[ps=-1]` — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
 - Evolution: proprietary PBX → modular distributed nodes → open-standards call server on broadband backbone — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
 - Open standards + Token Ring + Ethernet support + strategic IT partnerships (DEC, Intel, Microsoft, Madge) — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
 - Must secure ATM technology to meet proposed ATM-enabled upgrade in timely fashion — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]
-- Survived via multiple restructurings; became significant UC vendor; acquired Aastra (2013), ShoreTel (2017); filed Ch.11 Mar 2025, exited Jun 2025 — [[study-aberdeen-1996-mitels-nevadanetworked-voice-data-speeding-toward]]

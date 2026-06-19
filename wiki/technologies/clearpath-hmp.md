@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.12
-prescience_obs_count: 8
+prescience_mean: 2.67
+prescience_obs_count: 9
 ---
 
 # Unisys ClearPath HMP (Heterogeneous Multi-Processing)
@@ -32,5 +32,5 @@ prescience_obs_count: 8
 - ClearPath HMP announcement is important for Unisys and its customers; provides effective architecture for modernization and re-engineering `[ps=4]` — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
 - More than 8,500 mid- to large-range A Series and 1100/2200 customers worldwide `[ps=0]` — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
 - Unisys promises to integrate OPUS MPP system into ClearPath HMP in future releases `[ps=0]` — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
-- Unisys becomes first supplier of large-scale enterprise servers to replace entire line -- including high-end -- with CMOS alternatives — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
+- Unisys becomes first supplier of large-scale enterprise servers to replace entire line -- including high-end -- with CMOS alternatives `[ps=-1]` — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
 - Transitioning from large-scale computer hardware company to services-based information management company; hardware still 40% of revenue — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]

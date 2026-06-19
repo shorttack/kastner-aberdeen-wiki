@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.54
-prescience_obs_count: 13
+prescience_mean: 1.36
+prescience_obs_count: 14
 ---
 
 # Asian Virus Casts Shadow Over Supply Chain: SARS Impact on Asia/Pacific Semiconductor and Electronics Manufacturing
@@ -45,10 +45,10 @@ _Published 2003, author **Russ Craig; Peter S. Kastner**, type **white-paper**._
 - 792 reported cases, 34 deaths `[ps=0]`
 - Postponed due to SARS (K.Y. Ho) `[ps=0]`
 - 1,000+ people; schools closed `[ps=0]`
+- Japanese/Korean firms will slow their rush to PRC; Western firms face disrupted chains now `[ps=-1]`
 - All moving to PRC
 - Temporary closure; 305 workers quarantined
 - Barred employee travel to PRC and HK until epidemic controlled
 - ~100 new cases per day
-- Japanese/Korean firms will slow their rush to PRC; Western firms face disrupted chains now
 - Dependable supply is an 'oft-overlooked rule' of the electronics industry; SARS may break it
 - PPE, semi, consumer electronics shortages 2020-2022 confirmed Kastner-Craig no-second-source thesis

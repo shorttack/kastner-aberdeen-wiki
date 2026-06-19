@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 3.08
-prescience_obs_count: 12
+prescience_mean: 2.77
+prescience_obs_count: 13
 ---
 
 # Steps to Category Creation
@@ -44,6 +44,6 @@ _Published 2003, author **Aberdeen Group**, type **market-study**._
 - Aberdeen helped create CRM category which took off once Gartner bought in and made it their own; apply same model to midline `[ps=2]`
 - Midrange computers; storage area networks; Customer Relationship Management; relational databases; application servers `[ps=0]`
 - Multiple slides contain placeholder text (Midline Definition: [Define here]; [Midline differentiation here]; [David: why won't SCSI fill the middle?]) `[ps=0]`
+- Disguise the source and let analysts buy in; Wall Street: Maxtor starts reporting midline units separately `[ps=-1]`
 - Why won't existing categories evolve to fill the supposed role of the new category? (SCSI capacity increases and good enough ATA filling middle must be addressed)
-- Disguise the source and let analysts buy in; Wall Street: Maxtor starts reporting midline units separately
 - We cannot control a category; we will fail if we try to 'own' the IP as no one else will want to play; encourage influencers to create modify rename our ideas

@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Q206 Esb Psk (Aberdeen, 2005)
@@ -33,4 +33,4 @@ _Published 2005, author **Aberdeen Group**, type **market-study**._
 ## Top observations
 
 - Our research shows that SOA projects are underE way at more than 60% of all companies and 80% of large companies with more than $1 billion revenue (Sept 2005). `[ps=4]`
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

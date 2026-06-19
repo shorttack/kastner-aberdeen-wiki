@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 4
+prescience_mean: 2.2
+prescience_obs_count: 5
 ---
 
 # US Army Drafts Apple Xserve for Supercomputer
@@ -36,4 +36,4 @@ _Published 2004, author **Blane Warrene (reporter, MacNewsWorld); Peter Kastner 
 - Apple discontinued Xserve in January 2011 without further major HPC wins; Apple effectively exited supercomputing by late 2000s `[ps=5]`
 - 'Apple not a one-shot wonder, but a force to be reckoned with' post-Virginia-Tech System X `[ps=2]`
 - Government IT provider, ~800 employees `[ps=0]`
-- ~25 teraflops, projected #2 behind DOE systems at time of article
+- ~25 teraflops, projected #2 behind DOE systems at time of article `[ps=-1]`

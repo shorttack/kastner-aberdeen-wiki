@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.75
-prescience_obs_count: 16
+prescience_mean: 2.53
+prescience_obs_count: 17
 ---
 
 # Digital Consumer Technology: The Revolution Has Started — Aberdeen DCT Webinar Deck
@@ -48,6 +48,7 @@ _Published 2002, author **Russ Craig, Peter S. Kastner, Isaac Ro**, type **dct**
 - Custom consulting + retainer package including: presentation of summary trends and strategy review, continuous information bulletins/InSights, quarterly update via webcast, add-on competitive analysis, bundled consulting days, analyst access `[ps=0]`
 - Integrated viewpoint (silicon to out-of-box experience); strategic and business-process perspective; deep technology understanding married to pragmatic consumer buying/usability understanding; DCT research and consultative analysis `[ps=0]`
 - Peter Kastner, (617) 854-5221, kastner@aberdeen.com; download URL www.aberdeen.com/ab_company/researchareas/dctwebinar.htm `[ps=0]`
+- Voice (toll/VoIP), data, content (MPEG-3 audio, MPEG-2/4 video, HDTV, HDCP, DTCP), gaming — mapped against 802.11a with DTCP, Home RF + 802.11a, HomePNA, HomePlug, Philips 1394-over-wireless, Proprietary, Bluetooth, 802.11a/b, Ethernet, HDMI, UWB `[ps=-1]`
 - Broadband companies, point-product CE, game, PC/peripheral, display, software + new entrants + semiconductor IP/device arms merchants — identical to DCEIT v6 framework
 - Building handsets is no longer black magic; PC makers increasingly competing with established phone makers; rapid innovation shortening product life cycle; shrinking margins require contract manufacturers
 - Flat-rate data plans are here; focus on MMS and gaming applications; consolidation in North America imminent
@@ -55,5 +56,4 @@ _Published 2002, author **Russ Craig, Peter S. Kastner, Isaac Ro**, type **dct**
 - Many usage models: general-purpose PC + media; media-centric PC; closet rack-mount; next to TV/stereo; combinations — placement drives network topology
 - Fair-use DRM; consumer user interface and applications; large mass store; CD/DVD red+blue read/write drive; encoding for audio/video legacy content; search engine for indexing and retrieval; multiple interlaced output streams; QoS management; wireless connectivity
 - Multiple computing devices; LAN and WAN access; security, data management, maintenance, virus protection, firewall, caching/proxy server — all requirements of any business — with no professional IT department
-- Voice (toll/VoIP), data, content (MPEG-3 audio, MPEG-2/4 video, HDTV, HDCP, DTCP), gaming — mapped against 802.11a with DTCP, Home RF + 802.11a, HomePNA, HomePlug, Philips 1394-over-wireless, Proprietary, Bluetooth, 802.11a/b, Ethernet, HDMI, UWB
 - Cross-links: dct-dceit-practice-v6-2002 (companion full practice deck); dct-webinar-announcement-2002-11 (pre-event promotional announcement from DCT-Event-9.doc)

@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 2.02
-prescience_obs_count: 41
+prescience_mean: 1.95
+prescience_obs_count: 42
 ---
 
 # DEC 'Blue Monday' Internal Sales Training: DECtp Strategy vs IBM and Tandem

@@ -13,8 +13,8 @@ lifecycle_at_study: "dominant-enterprise"
 lifecycle_current: "legacy-supported"
 occurrence_count: 20
 prescience_max: 5.0
-prescience_mean: 2.71
-prescience_obs_count: 28
+prescience_mean: 2.25
+prescience_obs_count: 32
 ---
 
 # Proprietary Unix (Solaris, AIX, HP-UX)

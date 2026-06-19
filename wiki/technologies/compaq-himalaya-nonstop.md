@@ -13,8 +13,8 @@ lifecycle_at_study: "production"
 lifecycle_current: "mature"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.4
-prescience_obs_count: 5
+prescience_mean: 1.83
+prescience_obs_count: 6
 ---
 
 # Compaq Himalaya / NonStop
@@ -29,5 +29,5 @@ prescience_obs_count: 5
 - 'We've already assured all of our customers, on every product front, that they can count on our ongoing long-term support.' `[ps=2]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
 - 'HP doesn't have anything directly to replace the Himalaya, [but] there is a risk that it will get shoved aside and starved to death. I think it behooves people to start looking for alternatives.' `[ps=2]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
 - Includes J.D. Edwards, Prudential Securities, T.D. Waterhouse, Nasdaq Stock Market `[ps=0]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
-- 95% of world's securities transactions go through Compaq Himalaya mainframes — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
+- 95% of world's securities transactions go through Compaq Himalaya mainframes `[ps=-1]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
 - HPE NonStop platform continues to operate the world's exchanges and securities processing in 2025 — Kastner's middle-path forecast (preserve top, friction below) more accurate than Travis's 'starve to death' prediction — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]

@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.19
-prescience_obs_count: 68
+prescience_mean: 1.16
+prescience_obs_count: 69
 ---
 
 # Chapter 1: Waiting for Automation (1960-1969)

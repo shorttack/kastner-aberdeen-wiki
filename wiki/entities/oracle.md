@@ -13,8 +13,8 @@ successor: "N/A (active)"
 years_active: "1977-present"
 occurrence_count: 28
 prescience_max: 5.0
-prescience_mean: 2.22
-prescience_obs_count: 73
+prescience_mean: 2.18
+prescience_obs_count: 74
 ---
 
 # Oracle Corporation

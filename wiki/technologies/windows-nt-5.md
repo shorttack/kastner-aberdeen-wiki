@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 3.69
-prescience_obs_count: 13
+prescience_mean: 3.07
+prescience_obs_count: 15
 ---
 
 # Microsoft Windows NT 5.0 / Windows 2000
@@ -37,7 +37,7 @@ prescience_obs_count: 13
 - NT 5.0 Workstation requires 64 MB RAM; users upgrading desktops will need to rebuild file systems — major inconvenience multiplied across enterprise's thousands of desktops `[ps=3]` — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
 - NT 5.0 storage management capabilities likely to be a pleasant surprise; one-stop storage shopping and reduced labor burden `[ps=3]` — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
 - Early implementers who have not preplanned and pretested will face major enterprise-implementation problems similar to NT 3.5.1 and NT 4.0 `[ps=3]` — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
-- NT 5.0 improvements will make it comparable to some midrange environments; but will not fully arrive until 1 year (best case) or 2 years (Aberdeen worst-case) post-FCS — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
+- NT 5.0 improvements will make it comparable to some midrange environments; but will not fully arrive until 1 year (best case) or 2 years (Aberdeen worst-case) post-FCS `[ps=-1]` — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
+- Windows 2000 achieved significant enterprise adoption but was largely superseded by Windows XP (Oct 2001) and Server 2003 within 3 years; confirming Aberdeen's prediction of uneven and slow benefits `[ps=-1]` — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
 - Microsoft best game in town for Internet/Intranet scaling applications; NT 5.0 will strengthen but not fully deliver on Internet infrastructure promise — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
-- Windows 2000 achieved significant enterprise adoption but was largely superseded by Windows XP (Oct 2001) and Server 2003 within 3 years; confirming Aberdeen's prediction of uneven and slow benefits — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]
 - NT 5.0 release will occur in frantic atmosphere of Year 2000 concerns and Internet hype; IS should not allow these issues to distract from NT 5.0 migration planning — [[study-1998-microsoft-windows-nt-5-0-a-planning-guide-cd9d08]]

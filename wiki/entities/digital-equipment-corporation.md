@@ -13,8 +13,8 @@ successor: "Compaq Computer Corporation -> Hewlett-Packard -> Hewlett Packard En
 years_active: "1968-present"
 occurrence_count: 33
 prescience_max: 5.0
-prescience_mean: 1.07
-prescience_obs_count: 327
+prescience_mean: 1.06
+prescience_obs_count: 328
 ---
 
 # Evolutionary Technologies International (ETI)

@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_mean: -0.33
+prescience_obs_count: 3
 ---
 
 # Written Sars2 Hot Topic (Aberdeen, 2003)
@@ -34,4 +34,4 @@ _Published 2003, author **Russ Craig & Peter Kastner||_AberdeenGroup is a leadin
 
 - Asia Pacific consumed 37% or $52B of 2002 semiconductor production. `[ps=0]`
 - Semiconductor Industry Association forecasts for 2003 suggest those numbers will increase to 38% and $65B respectively, with the PRC alone accounting for 11%. `[ps=0]`
-- This study analyzes ==> picture [450 x 121] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [450 x 121] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

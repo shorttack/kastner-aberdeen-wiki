@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.91
-prescience_obs_count: 23
+prescience_mean: 1.79
+prescience_obs_count: 24
 ---
 
 # Aligning IT to Business Processes: How BPM is Complementing ERP and Custom Applications
@@ -55,5 +55,5 @@ _Published 2007, author **Aberdeen Group**, type **employer-record**._
 - BPM tool satisfaction: 17% Best-in-Class vs 6% Industry Average vs 3% Laggard `[ps=0]`
 - 43% cite lower cost integration and application upgrades as SOA driver `[ps=0]`
 - Mid-size organizations more likely than small or large to cite organizational and technical impediments to progress `[ps=0]`
-- 51% of respondents say ERP systems or best-of-breed supply chain solutions don't provide adequate functionality
+- 51% of respondents say ERP systems or best-of-breed supply chain solutions don't provide adequate functionality `[ps=-1]`
 - Over 51% employ manual processes to meet customer requirements; 63% use spreadsheets for critical business process functions

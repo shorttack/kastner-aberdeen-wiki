@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 2
+prescience_mean: 1.0
+prescience_obs_count: 3
 ---
 
 # Aberdeenmto Retailresearchagenda (Aberdeen, 1988)
@@ -34,4 +34,4 @@ _Published 1988, author **Retail Research**, type **benchmark**._
 
 - The merchandising infrastructure of the 21st century is enabled by best-in-class applications that combine predictive forecasting and advanced analytics. `[ps=4]`
 - **Practical Collaboration —** Retailers and their suppliers digging out from the effects of purchase order errors waste a well-documented $40 billion. `[ps=0]`
-- This study analyzes ==> picture [441 x 117] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts.
+- This study analyzes ==> picture [441 x 117] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

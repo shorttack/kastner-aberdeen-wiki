@@ -12,9 +12,9 @@ status: "active"
 successor: "SABRE spun off as independent company 1996"
 years_active: "1960-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: -1.0
+prescience_mean: -1.0
+prescience_obs_count: 1
 ---
 
 # American Airlines (SABRE)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2,000 TPS peak; 200 TPS per IBM 3090-200; growing at 15% per annum — [[study-1988-encore-oltp-market-tps-needs-deee45]]
+- 2,000 TPS peak; 200 TPS per IBM 3090-200; growing at 15% per annum `[ps=-1]` — [[study-1988-encore-oltp-market-tps-needs-deee45]]

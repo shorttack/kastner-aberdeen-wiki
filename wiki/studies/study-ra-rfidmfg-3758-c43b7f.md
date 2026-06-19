@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.87
-prescience_obs_count: 39
+prescience_mean: 1.33
+prescience_obs_count: 48
 ---
 
 # Ra Rfidmfg 3758 (Aberdeen, 2007)

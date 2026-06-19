@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.97
-prescience_obs_count: 86
+prescience_mean: 1.93
+prescience_obs_count: 87
 ---
 
 # Chapter 8: The Go-Go Years — Aberdeen at Scale (1998–2006)

@@ -17,9 +17,9 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "not-applicable"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: -1.0
+prescience_mean: -1.0
+prescience_obs_count: 1
 ---
 
 # Dell Services Kastner 051904 (Aberdeen, 2004)
@@ -32,4 +32,4 @@ _Published 2004, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- ~~ Aberdeen ~~ ~~ Group ~~ ==> picture [604 x 115] intentionally omitted <== ==> picture [213 x 125] intentionally omitted <== Dell Services Discussion Materials 5/19/2004 Peter Kastner Executive VP - Research ==> picture [169 x 103] intentionally omitted <== ==> picture [120 x 90] intentionally omitted <== Aberdeen Group Boston • Palo Alto • Ft. Collins ==> picture [720 x 50] intentionally omitte
+- ~~ Aberdeen ~~ ~~ Group ~~ ==> picture [604 x 115] intentionally omitted <== ==> picture [213 x 125] intentionally omitted <== Dell Services Discussion Materials 5/19/2004 Peter Kastner Executive VP - Research ==> picture [169 x 103] intentionally omitted <== ==> picture [120 x 90] intentionally omitted <== Aberdeen Group Boston • Palo Alto • Ft. Collins ==> picture [720 x 50] intentionally omitte `[ps=-1]`

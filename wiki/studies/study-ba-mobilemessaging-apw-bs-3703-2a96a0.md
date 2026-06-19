@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.7
-prescience_obs_count: 53
+prescience_mean: 1.27
+prescience_obs_count: 63
 ---
 
 # Ba Mobilemessaging Apw Bs 3703 (Aberdeen, 2006)

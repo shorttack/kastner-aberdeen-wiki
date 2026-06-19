@@ -13,8 +13,8 @@ successor: "Accrue Software then JDA Software"
 years_active: "1911-present"
 occurrence_count: 38
 prescience_max: 5.0
-prescience_mean: 2.16
-prescience_obs_count: 191
+prescience_mean: 2.11
+prescience_obs_count: 194
 ---
 
 # NeoVista Software Inc.

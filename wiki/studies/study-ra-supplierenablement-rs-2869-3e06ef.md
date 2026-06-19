@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.03
-prescience_obs_count: 35
+prescience_mean: 1.41
+prescience_obs_count: 44
 ---
 
 # The Supplier Enablement Benchmark Report Enterprises Shift Their Procurement Activities to the Web

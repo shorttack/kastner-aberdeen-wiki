@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 29
 prescience_max: 5.0
-prescience_mean: 3.39
-prescience_obs_count: 44
+prescience_mean: 3.11
+prescience_obs_count: 47
 ---
 
 # Java Programming Language

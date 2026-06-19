@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 4
+prescience_mean: 1.4
+prescience_obs_count: 5
 ---
 
 # Computer Business News: Stratus Banks on Fault-Tolerant Systems' Success — Pete Kastner on OEM Strategy and Second-Generation Roadmap (June 7, 1982)
@@ -36,8 +36,8 @@ _Published 1982, author **Peter Bochner (CBN Staff)**, type **trade-press-featur
 - By 1986, all broad-based computer companies will have to offer fault-tolerant systems; at least a half-dozen or more will be shipping by end of 1983 `[ps=2]`
 - Companies such as DG have not yet come out with FT computers because of difficulty of compatibility; startups often have problems getting out second-generation products `[ps=2]`
 - 7%/year maintenance fees instead of industry standard 10-12%/year `[ps=0]`
+- Stratus/32 pits against Prime 750, DEC VAX 11/750 and IBM 4341 Model 1; not directly going after Tandem with price/performance `[ps=-1]`
 - Peter Kastner, Stratus' manager of marketing development
 - Kastner, a former analyst at Arthur D. Little
 - Stratus' second generation is at least a year away; will do best to maintain compatibility; would not rule out different CPU base via code-generator change
-- Stratus/32 pits against Prime 750, DEC VAX 11/750 and IBM 4341 Model 1; not directly going after Tandem with price/performance
 - Fault-tolerant market blossoming from niche market to cross market as more work goes online and the cost of downtime goes up

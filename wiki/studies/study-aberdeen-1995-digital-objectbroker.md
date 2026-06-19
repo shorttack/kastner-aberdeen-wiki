@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.79
-prescience_obs_count: 43
+prescience_mean: 0.75
+prescience_obs_count: 44
 ---
 
 # Digital's ObjectBroker -- Advanced Integration of Distributed Resources

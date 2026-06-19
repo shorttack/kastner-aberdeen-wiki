@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.3
-prescience_obs_count: 10
+prescience_mean: 1.09
+prescience_obs_count: 11
 ---
 
 # IBM + Webify = Industry SOA Application Jumpstart
@@ -42,9 +42,9 @@ _Published 2006, author **Peter S. Kastner**, type **market-study**._
 - 33% `[ps=0]`
 - 120 employees `[ps=0]`
 - 3 years of unutilized vertical process models `[ps=0]`
+- Insurance, healthcare, banking, telecom, public sector (in development) `[ps=-1]`
 - Meets Enterprise SOA definition
 - $80 billion
-- Insurance, healthcare, banking, telecom, public sector (in development)
 - 2007
 - [UNVERIFIED]
 - May gain consideration following IBM blessing of vertical SOA customization concept

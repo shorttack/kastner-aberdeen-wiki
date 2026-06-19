@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.69
-prescience_obs_count: 87
+prescience_mean: 2.65
+prescience_obs_count: 88
 ---
 
 # IBM Corporation Across Six Decades of the Kastner Archive: Mainframe Survival, Platform Pivots, and the Services Transformation

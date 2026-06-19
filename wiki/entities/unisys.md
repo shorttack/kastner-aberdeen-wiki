@@ -13,8 +13,8 @@ successor: "[none]"
 years_active: "1986-present"
 occurrence_count: 13
 prescience_max: 5.0
-prescience_mean: 1.19
-prescience_obs_count: 36
+prescience_mean: 1.14
+prescience_obs_count: 37
 ---
 
 # Unisys Corporation

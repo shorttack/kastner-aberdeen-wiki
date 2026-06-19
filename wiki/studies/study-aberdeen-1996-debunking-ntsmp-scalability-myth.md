@@ -18,8 +18,8 @@ importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.68
-prescience_obs_count: 19
+prescience_mean: 2.33
+prescience_obs_count: 21
 ---
 
 # Debunking the NT/SMP Scalability Myth
@@ -51,8 +51,8 @@ _Published 1996, author **Aberdeen Group**, type **white-paper**._
 - Sequent: 28 processors; sold 14-processor NT systems; NCR: 16 processors `[ps=0]`
 - 2,500-15,000 tpmC; HP 9000, DEC AlphaServer, IBM RS/6000, AS/400, Sun Ultra `[ps=0]`
 - Compaq/Microsoft exceeded 16,000 tpmC on 4-way NT by 1998; prediction verified `[ps=0]`
+- >15,000 tpmC; DEC 32-way AlphaServer, HP 48-way EPS30; up to 50,000 tpmC for heaviest OLTP `[ps=-1]`
+- NT performance clusters (two 4-way servers) will exceed 20,000 tpmC by early 1999 `[ps=-1]`
 - 2,454 tpmC at $242/tpmC (Compaq 4-way Intel)
 - 50% (PC vendors learning) to 90% (enterprise-experienced SMP vendors)
-- >15,000 tpmC; DEC 32-way AlphaServer, HP 48-way EPS30; up to 50,000 tpmC for heaviest OLTP
-- NT performance clusters (two 4-way servers) will exceed 20,000 tpmC by early 1999
 - Many IS managers claim today's NT tpmC >6,750 rivals computing power of their existing mainframe systems

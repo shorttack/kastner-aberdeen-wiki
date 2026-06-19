@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.43
-prescience_obs_count: 47
+prescience_mean: 1.0
+prescience_obs_count: 57
 ---
 
 # Mobility Management Jb 3822 (Aberdeen, 2007)

@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.27
-prescience_obs_count: 45
+prescience_mean: 1.0
+prescience_obs_count: 51
 ---
 
 # The Wireless Costs and Performance Benchmark Report

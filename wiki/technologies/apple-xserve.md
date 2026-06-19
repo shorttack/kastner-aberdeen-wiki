@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 4
 prescience_max: 5.0
-prescience_mean: 2.19
-prescience_obs_count: 16
+prescience_mean: 2.0
+prescience_obs_count: 17
 ---
 
 # Apple Xserve
@@ -40,7 +40,7 @@ prescience_obs_count: 16
 - Government IT provider, ~800 employees `[ps=0]` — [[study-mac-news-computers-us-army-drafts-apple-c2f6f9]]
 - We're approaching this very carefully, and we have a lot to learn `[ps=0]` — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]
 - Could literally consolidate 23 racks of G4s into 4 racks of Xserves `[ps=0]` — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]
-- ~25 teraflops, projected #2 behind DOE systems at time of article — [[study-mac-news-computers-us-army-drafts-apple-c2f6f9]]
+- ~25 teraflops, projected #2 behind DOE systems at time of article `[ps=-1]` — [[study-mac-news-computers-us-army-drafts-apple-c2f6f9]]
 - Likes the price and the technology, but isn't confident that Apple can dent the enterprise server market — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]
 - It's too late for Apple to get back into the bread-and-butter enterprise market for desktops and servers — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]
 - Entry: single-G4 $2,999; two-processor $3,999; released May 14 2002 — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]

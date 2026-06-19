@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.41
-prescience_obs_count: 17
+prescience_mean: 0.33
+prescience_obs_count: 18
 ---
 
 # Eclipsys SunriseXA 3.3 Meets Subsecond Response Time Objective
@@ -49,7 +49,7 @@ _Published 2004, author **Peter S. Kastner**, type **benchmark**._
 - [UNVERIFIED] `[ps=0]`
 - No perceptible change in response time or throughput when SUT disconnected from wider network `[ps=0]`
 - 2.50 seconds avg; 99th percentile 6.74 seconds `[ps=0]`
+- 6,000-bed hospital at 5,000 orders/hour = 2.27x busiest known real hospital (2,200 orders/hour) `[ps=-1]`
 - 40%
 - 721,158 transactions over 715 minutes
-- 6,000-bed hospital at 5,000 orders/hour = 2.27x busiest known real hospital (2,200 orders/hour)
 - Acceptable; response times similar to LoadRunner results on Pentium III 750-MHz 256MB via 11-Mbps wireless

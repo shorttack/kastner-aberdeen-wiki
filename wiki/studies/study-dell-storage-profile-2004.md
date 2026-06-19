@@ -18,8 +18,8 @@ importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.86
-prescience_obs_count: 28
+prescience_mean: 2.72
+prescience_obs_count: 29
 ---
 
 # Dell: Applying Its Business Value Model to Storage

@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 1.56
-prescience_obs_count: 39
+prescience_mean: 1.08
+prescience_obs_count: 48
 ---
 
 # The Service Network Optimization Benchmark Report

@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 4.0
-prescience_mean: 0.92
-prescience_obs_count: 26
+prescience_mean: 0.72
+prescience_obs_count: 29
 ---
 
 # Customer Intelligence Benchmark Series: Success Strategies in Leveraging Customer Intelligence

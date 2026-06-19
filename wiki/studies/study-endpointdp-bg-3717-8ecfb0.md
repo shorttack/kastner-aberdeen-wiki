@@ -18,8 +18,8 @@ importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
 prescience_max: 5.0
-prescience_mean: 1.64
-prescience_obs_count: 70
+prescience_mean: 0.73
+prescience_obs_count: 107
 ---
 
 # The Endpoint Data Protection Benchmark Report

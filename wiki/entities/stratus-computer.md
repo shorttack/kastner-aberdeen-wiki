@@ -13,8 +13,8 @@ successor: "Stratus Technologies (now Penguin Solutions)"
 years_active: "1980-present"
 occurrence_count: 32
 prescience_max: 5.0
-prescience_mean: 1.78
-prescience_obs_count: 97
+prescience_mean: 1.76
+prescience_obs_count: 98
 ---
 
 # Stratus Computer, Inc.

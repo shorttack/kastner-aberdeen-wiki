@@ -3,7 +3,7 @@ title: "WebEx Communications, Inc."
 slug: "webex-inc"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "webex-inc"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 0
 # WebEx Communications, Inc.
 
 > entionally omitted <==**  ## Aberdeen _Group_ Profile   ## _WebEx Communications, Inc._   **307 West Tasman Drive San Jose, CA 95134 (408) 435-700
-
-
-## Summary
-
-
 
 
 ## Top observations

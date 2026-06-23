@@ -11,7 +11,7 @@ sector: "technology consulting / industry analysis"
 status: "historical"
 successor: "[none]"
 years_active: "1981-1987 (at Stratus)"
-occurrence_count: 254
+occurrence_count: 255
 prescience_max: 5.0
 prescience_mean: 2.17
 prescience_obs_count: 527

@@ -11,7 +11,7 @@ sector: "computer-hardware-software-services"
 status: "dissolved"
 successor: "Compaq Computer Corporation -> Hewlett-Packard -> Hewlett Packard Enterprise / HP Inc."
 years_active: "1968-present"
-occurrence_count: 33
+occurrence_count: 34
 prescience_max: 5.0
 prescience_mean: 1.06
 prescience_obs_count: 328

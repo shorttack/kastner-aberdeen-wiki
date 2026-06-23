@@ -9,10 +9,10 @@ tier: 1
 # Codes
 
 
-1293 codes across 34 types.
+1297 codes across 34 types.
 
 
-## observation_type (598)
+## observation_type (602)
 
 - [[code-aberdeen_first_wsj|Aberdeen_First_Wsj]] — Study-specific code: aberdeen_first_wsj
 - [[code-acquisition|Acquisition]] — Study-specific code: acquisition

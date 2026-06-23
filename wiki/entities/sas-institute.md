@@ -3,7 +3,7 @@ title: "SAS Institute Inc."
 slug: "sas-institute"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "sas-institute"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 1
 # SAS Institute Inc.
 
 > Analytics software cited as example of large-database application where Itanium shows largest immediate payback over mainframe due to CPU-intensive processing.
-
-
-## Summary
-
-
 
 
 ## Top observations

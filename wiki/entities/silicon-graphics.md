@@ -11,7 +11,7 @@ sector: "workstation-computing"
 status: "dissolved"
 successor: "Bankruptcy 2006; assets acquired by Rackable Systems (2009 for $25M); renamed SGI; then acquired by HPE (2016)"
 years_active: "1981-2009"
-occurrence_count: 8
+occurrence_count: 9
 prescience_max: 5.0
 prescience_mean: 2.57
 prescience_obs_count: 14

@@ -3,7 +3,7 @@ title: "Portal Software, Inc."
 slug: "portal-software"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "portal-software"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 10
 # Portal Software, Inc.
 
 > 20863 Stevens Creek Blvd, Cupertino CA 95014; (408) 343-4400; www.portal.com; IPO May 6 1999 NASDAQ: PRSF
+
+
+## Summary
+
+
 
 
 ## Top observations

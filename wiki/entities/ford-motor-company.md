@@ -3,7 +3,7 @@ title: "Ford Motor Company"
 slug: "ford-motor-company"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "ford-motor-company"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 2
 # Ford Motor Company
 
 > Mentioned as a Prime customer doing CAD/CAM work; classified as a technical/scientific customer, which removed it from Kastner’s commercial territory.
-
-
-## Summary
-
-
 
 
 ## Top observations

@@ -3,7 +3,7 @@ title: "EQUANT (now Orange Business Services)"
 slug: "equant"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "equant"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 1
 # EQUANT (now Orange Business Services)
 
 > Global network provider used by Interliant; acquired by France Telecom/Orange 2001
+
+
+## Summary
+
+
 
 
 ## Top observations

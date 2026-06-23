@@ -11,7 +11,7 @@ sector: "Enterprise IT Hardware/Software/Services"
 status: "operating"
 successor: "Sterling Software (1999) then CA Technologies (2000)"
 years_active: "1981-2005 (PC business)"
-occurrence_count: 134
+occurrence_count: 135
 prescience_max: 5.0
 prescience_mean: 1.93
 prescience_obs_count: 499

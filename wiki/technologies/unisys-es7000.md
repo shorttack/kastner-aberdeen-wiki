@@ -3,7 +3,7 @@ title: "Unisys ES7000 Database Server"
 slug: "unisys-es7000"
 page_type: "technology"
 tags: ["type/technology", "category/hardware", "era/early 2000s"]
-tier: 2
+tier: 1
 source_csv: "_master_technologies.csv"
 tech_id: "unisys-es7000"
 category: "hardware"
@@ -20,6 +20,11 @@ prescience_obs_count: 8
 # Unisys ES7000 Database Server
 
 > 32-processor Intel/Windows enterprise server; first to support 32-way Windows 2000 Datacenter; line discontinued as Unisys exited hardware
+
+
+## Summary
+
+
 
 
 ## Top observations

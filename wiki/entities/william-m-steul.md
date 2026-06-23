@@ -3,7 +3,7 @@ title: "William M. Steul"
 slug: "william-m-steul"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "william-m-steul"
 entity_type: "person"
@@ -20,6 +20,11 @@ prescience_obs_count: 4
 # William M. Steul
 
 > DEC CFO June 1992-May 1994; 22-year DEC veteran; resigned post-loss
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -3,7 +3,7 @@ title: "Composite Applications"
 slug: "composite-applications"
 page_type: "technology"
 tags: ["type/technology", "category/application-architecture", "era/2004-2012"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "composite-applications"
 category: "application-architecture"
@@ -20,11 +20,6 @@ prescience_obs_count: 6
 # Composite Applications
 
 > Most common SOA activity: building new composite applications across custom-built and/or third-party applications using general-purpose SOA development tools. Already in cache.
-
-
-## Summary
-
-
 
 
 ## Top observations

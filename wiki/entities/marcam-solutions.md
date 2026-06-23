@@ -3,7 +3,7 @@ title: "Marcam Solutions Inc."
 slug: "marcam-solutions"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "marcam-solutions"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 1
 # Marcam Solutions Inc.
 
 > $100M revenue; Newton MA; 1,200+ customers; 700+ employees; process manufacturing focus; chemical and food/beverage industries; Protean (NT) and Prism (AS/400)
+
+
+## Summary
+
+
 
 
 ## Top observations

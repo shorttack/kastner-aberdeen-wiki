@@ -3,7 +3,7 @@ title: "Sanjay Kumar"
 slug: "sanjay-kumar"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "sanjay-kumar"
 entity_type: "person"
@@ -20,11 +20,6 @@ prescience_obs_count: 2
 # Sanjay Kumar
 
 > used on meeting customer requirements.   ## **Who’s Who**   Sanjay Kumar, Chairman and CEO; Russell Artzt, EVP Alliances and eTrust
-
-
-## Summary
-
-
 
 
 ## Top observations

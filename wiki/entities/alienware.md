@@ -3,7 +3,7 @@ title: "Alienware"
 slug: "alienware"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "alienware"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 0
 # Alienware
 
 > U.S. PC maker tracked in 2002-2003 pricing data; sku count in this study: 34
-
-
-## Summary
-
-
 
 
 ## Top observations

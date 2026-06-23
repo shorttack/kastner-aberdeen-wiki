@@ -3,7 +3,7 @@ title: "Personal Video Recorder (PVR)"
 slug: "pvr"
 page_type: "technology"
 tags: ["type/technology", "category/platform", "era/2000-present"]
-tier: 2
+tier: 1
 source_csv: "_master_technologies.csv"
 tech_id: "pvr"
 category: "platform"
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # Personal Video Recorder (PVR)
 
 > Core media-server function; DVR category
+
+
+## Summary
+
+
 
 
 ## Top observations

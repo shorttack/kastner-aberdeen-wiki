@@ -11,7 +11,7 @@ sector: "technology research / industry analysis"
 status: "acquired-by-harte-hanks"
 successor: "Harte-Hanks (Sep 2006) -> Halyard Capital (Apr 2015) -> Spiceworks Ziff Davis (Dec 2020)"
 years_active: "1988-2001 (original); rebranded multiple times"
-occurrence_count: 273
+occurrence_count: 274
 prescience_max: 5.0
 prescience_mean: 1.24
 prescience_obs_count: 1575

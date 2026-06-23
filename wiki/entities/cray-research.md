@@ -11,7 +11,7 @@ sector: "high-performance computing"
 status: "dissolved"
 successor: "Silicon Graphics (1996), then HPE (2019)"
 years_active: "1972-1996"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: 5.0
 prescience_mean: 0.4
 prescience_obs_count: 15

@@ -3,7 +3,7 @@ title: "USM Corporation"
 slug: "usm-corporation"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "usm-corporation"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 0
 # USM Corporation
 
 > Subject of $12 million litigation predicted 9 months before it hit courts; IBM 4300 to DG Eclipse migration failure
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -3,7 +3,7 @@ title: "UUNET Technologies, Inc."
 slug: "uunet-technologies"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "uunet-technologies"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # UUNET Technologies, Inc.
 
 > Internet backbone provider; acquired by MFS for $2B shortly before MFS-WorldCom deal; key to WorldCom's internet strategy
+
+
+## Summary
+
+
 
 
 ## Top observations

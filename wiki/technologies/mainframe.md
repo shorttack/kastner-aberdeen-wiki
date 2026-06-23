@@ -11,7 +11,7 @@ vendor: "multiple"
 era: "1960s-present"
 lifecycle_at_study: "declining"
 lifecycle_current: "legacy-supported"
-occurrence_count: 5
+occurrence_count: 6
 prescience_max: 5.0
 prescience_mean: 1.29
 prescience_obs_count: 7
@@ -38,6 +38,7 @@ prescience_obs_count: 7
 - System was built at $200M cost; failed acceptance tests with 20–30 second response times — exactly as Kastner had predicted. `[ps=0]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
 - Mainframes will be around for a long, long time because of installed software — [[study-cnbc-technology-edge-ibm-dec-hp-transitions-d4f84c]]
 - [DEFERRED] — [[study-cnbc-technology-edge-ibm-dec-hp-transitions-d4f84c]]
+- 4.0 percent of $210M — [[study-conflicting-trends-computational-chemistry-fe5c31]]
 - Mainframes aren't going away — role shifts to managing large-scale data networks — [[study-software-2000-it-paradigm-shift-client-server-9e9445]]
 - Mainframes will remain in production indefinitely managing large-scale data networks — [[study-software-2000-it-paradigm-shift-client-server-9e9445]]
 - [DEFERRED] — [[study-software-2000-it-paradigm-shift-client-server-9e9445]]

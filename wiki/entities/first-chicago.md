@@ -3,7 +3,7 @@ title: "First National Bank of Chicago"
 slug: "first-chicago"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "first-chicago"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 1
 # First National Bank of Chicago
 
 > Mid-Western bank; correspondent-bank DDA system client (PHI engagement, referenced in ADL bio).
-
-
-## Summary
-
-
 
 
 ## Top observations

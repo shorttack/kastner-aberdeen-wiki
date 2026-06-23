@@ -3,7 +3,7 @@ title: "Fujitsu Limited"
 slug: "fujitsu"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "fujitsu"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 1
 # Fujitsu Limited
 
 > aq Computer Corporation|44| |Dell Computer Corporation|46| |Fujitsu Limited|48| |Groupe Bull|50| |Hewlett-Packard Company|52| |Hitachi,
-
-
-## Summary
-
-
 
 
 ## Top observations

@@ -3,7 +3,7 @@ title: "Jackson Shaw"
 slug: "jackson-shaw"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "jackson-shaw"
 entity_type: "person"
@@ -20,11 +20,6 @@ prescience_obs_count: 1
 # Jackson Shaw
 
 > Microsoft Lead Product Manager Windows .NET Server Solutions Group; co-presenter 2002 WatchIT
-
-
-## Summary
-
-
 
 
 ## Top observations

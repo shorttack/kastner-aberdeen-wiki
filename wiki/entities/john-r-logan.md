@@ -11,7 +11,7 @@ sector: "IT-research-and-advisory"
 status: "unknown"
 successor: ""
 years_active: "1960s-present"
-occurrence_count: 4
+occurrence_count: 5
 prescience_max: 1.0
 prescience_mean: 0.25
 prescience_obs_count: 4

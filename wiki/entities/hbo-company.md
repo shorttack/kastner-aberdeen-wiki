@@ -3,7 +3,7 @@ title: "HBO & Company (HBOC)"
 slug: "hbo-company"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "hbo-company"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 1
 # HBO & Company (HBOC)
 
 > Atlanta GA; 5500 employees; 1997 revenues >$1.2B; integrated HIS suites for hospitals, managed care, physician enterprises.
+
+
+## Summary
+
+
 
 
 ## Top observations

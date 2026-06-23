@@ -3,7 +3,7 @@ title: "MPP (Massively Parallel Processing)"
 slug: "mpp"
 page_type: "technology"
 tags: ["type/technology", "category/hardware", "era/1985-present"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "mpp"
 category: "hardware"
@@ -20,11 +20,6 @@ prescience_obs_count: 4
 # MPP (Massively Parallel Processing)
 
 > Key growth technology for high-end RISC/Unix; IBM SP was major 1995 growth driver; one of four 1996 product agenda items for all suppliers
-
-
-## Summary
-
-
 
 
 ## Top observations

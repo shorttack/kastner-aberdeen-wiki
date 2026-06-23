@@ -3,7 +3,7 @@ title: "Harbinger Corporation"
 slug: "harbinger"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "harbinger"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 1
 # Harbinger Corporation
 
 > Baby among big three EDI/VAN integrators; fewer than 1000 employees; lead in PC-based EDI; acquisition of Premenos makes it largest provider of Internet-based EDI for AS/400; positioned to undercut larger competition
-
-
-## Summary
-
-
 
 
 ## Top observations

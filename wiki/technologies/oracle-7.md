@@ -3,7 +3,7 @@ title: "Oracle 7.2 / 7.3 database"
 slug: "oracle-7"
 page_type: "technology"
 tags: ["type/technology", "category/application", "era/1992-present"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "oracle-7"
 category: "application"
@@ -20,11 +20,6 @@ prescience_obs_count: 16
 # Oracle 7.2 / 7.3 database
 
 > Oracle 7.3 is performance champion; TPC-C benchmarks from July 1995; version 7.3 may be TPC-C stop-gap
-
-
-## Summary
-
-
 
 
 ## Top observations

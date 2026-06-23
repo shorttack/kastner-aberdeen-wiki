@@ -3,7 +3,7 @@ title: "PlaceWare, Inc."
 slug: "placeware-inc"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "placeware-inc"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 3
 # PlaceWare, Inc.
 
 > Web conferencing competitor; acquired by Microsoft in 2003; became Microsoft Office Live Meeting
+
+
+## Summary
+
+
 
 
 ## Top observations

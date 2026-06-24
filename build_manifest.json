@@ -1,7 +1,7 @@
 {
   "build_completed_at": "2026-06-22T20:26:56.808058+00:00",
   "phase_1": {
-    "archive_masters": "/Users/scott/Desktop/Archive/archive_masters",
+    "archive_masters": "/Users/scott/Desktop/Archive/aberdeen-group-archive",
     "derived": {
       "collections_aggregated": 6,
       "entities_with_occurrences": 1419,
@@ -131,7 +131,7 @@
     ],
     "phase": 1,
     "phase_name": "load_csvs",
-    "ran_at": "2026-06-22T14:26:41.048356+00:00",
+    "ran_at": "2026-06-24T18:43:15.036562+00:00",
     "version": "v2",
     "wiki": "/Users/scott/Repos/kastner-aberdeen-wiki"
   },
@@ -139,7 +139,7 @@
     "duckdb_path": "db/kastner.duckdb",
     "phase": 2,
     "phase_name": "build_data_layer",
-    "ran_at": "2026-06-22T14:26:41.511233+00:00",
+    "ran_at": "2026-06-24T18:43:15.206284+00:00",
     "version": "v2",
     "view_rowcounts": {
       "v_codes": 1297,

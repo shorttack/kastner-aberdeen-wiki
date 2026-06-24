@@ -30,6 +30,13 @@ prescience_obs_count: 26
 _Published 1988, author **Digital Equipment Corporation (Kirk, Dallas; Olsen, Kenneth H.; Glorioso, Robert; Hughes, Bob)**, type **primary-source**._
 
 
+## Player rebuttals
+
+_Author rebuttals of the scorer's prescience verdict (Path B). The scorer's verdict remains canonical in `_master_studies.csv`._
+
+- **Peter S. Kastner** (2026-06-13) disputes scorer verdict **low** (mean 0.46, n=26, sonar-reasoning-pro) — [[rebuttal-dectp-press-conference-transcript-and-benchmark-charts-plaza-5e5836-2026-06-13]] · source: `kastner-author/notes/dectp_prescience_rationale_2026_06_13.md`
+
+
 ## Top observations
 
 - "95% of these transactions must be completed in one second or less. Cost per transaction is calculated by a formula which divides the five-year cost of hardware, software, and maintenance exclusive of staff by the number of transactions per second." `[ps=5]`

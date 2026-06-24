@@ -12,7 +12,7 @@ final_bucket: high
 final_score: 4
 final_confidence: 2
 final_pipeline: P2
-blog_scrape_contamination: true
+blog_scrape_contamination: false
 scorer_version: quotations_corpus_v1
 source_pass: quotations_corpus
 tags: [quotation, prescience, kastner]
@@ -24,11 +24,9 @@ tags: [quotation, prescience, kastner]
 
 **Verdict**: HIGH prescience — score=4, confidence=2, horizon=SH-3y, pipeline=P2
 
-⚠️ **Note**: This quote was flagged for blog-scrape contamination (footer text / share-buttons mixed with the prediction). The verdict applies to the predictive content; the surrounding text is artifact.
-
 ## Quote
 
-> Expect to see these drives in servers for midline storage and in high-end consumer desktops. Is the end of the SCSI disk drive ara in sight? Peter S. Kastner Posted by Anonymous at 7:32?PM No comments: Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest An Introduction to RAID6 IT professionals will want to read this article to understand the problem that RAID6 solves compared to RAID5
+> Expect to see these drives in servers for midline storage and in high-end consumer desktops. Is the end of the SCSI disk drive ara in sight?
 
 ## Rationale
 

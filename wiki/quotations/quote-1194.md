@@ -12,7 +12,7 @@ final_bucket: medium
 final_score: 3
 final_confidence: 2
 final_pipeline: P2
-blog_scrape_contamination: true
+blog_scrape_contamination: false
 scorer_version: quotations_corpus_v1
 source_pass: quotations_corpus
 tags: [quotation, prescience, kastner]
@@ -24,11 +24,9 @@ tags: [quotation, prescience, kastner]
 
 **Verdict**: MEDIUM prescience — score=3, confidence=2, horizon=SH-3y, pipeline=P2
 
-⚠️ **Note**: This quote was flagged for blog-scrape contamination (footer text / share-buttons mixed with the prediction). The verdict applies to the predictive content; the surrounding text is artifact.
-
 ## Quote
 
-> The price as low as $722 (qty 1,000) makes the Cranford value chips attractive for a new generation of low-cost 4- way servers. Dell immediately jumped in with its offering. These will sell by the boxcar for web processing and Tier 1 apps. Peter S. Kastner Posted by Anonymous at 1:33?AM No comments: Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest Open-Source Fans Often Miss Business Basics I love this op ed piece. Could not have said it better myself: If open source really want
+> The price as low as $722 (qty 1,000) makes the Cranford value chips attractive for a new generation of low-cost 4- way servers. Dell immediately jumped in with its offering. These will sell by the boxcar for web processing and Tier 1 apps.
 
 ## Rationale
 

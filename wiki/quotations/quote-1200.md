@@ -12,7 +12,7 @@ final_bucket: low
 final_score: 0
 final_confidence: 3
 final_pipeline: P2
-blog_scrape_contamination: true
+blog_scrape_contamination: false
 scorer_version: quotations_corpus_v1
 source_pass: quotations_corpus
 tags: [quotation, prescience, kastner]
@@ -24,11 +24,9 @@ tags: [quotation, prescience, kastner]
 
 **Verdict**: LOW prescience — score=0, confidence=3, horizon=SH-3y, pipeline=P2
 
-⚠️ **Note**: This quote was flagged for blog-scrape contamination (footer text / share-buttons mixed with the prediction). The verdict applies to the predictive content; the surrounding text is artifact.
-
 ## Quote
 
-> Caveat: Be sure to have your user manual so that you can get back to factory settings if you really mess up. You also ought to have a copy of the latest Linksys firmware available. Peter S. Kastner Posted by Anonymous at 12:12?AM No comments: Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest Sunday, March 20, 2005 SIA, Barrett Renew Call For funds To Preserve U.S. Leadership U.S. leadership in technology is under assault,"
+> Caveat: Be sure to have your user manual so that you can get back to factory settings if you really mess up. You also ought to have a copy of the latest Linksys firmware available.
 
 ## Rationale
 

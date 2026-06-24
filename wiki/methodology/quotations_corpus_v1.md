@@ -5,12 +5,12 @@ slug: quotations-corpus-v1
 author: Peter S. Kastner
 scorer_version: quotations_corpus_v1
 source_pass: quotations_corpus
-generated_at: 2026-06-19T21:22:06Z
+generated_at: 2026-06-24T19:59:45Z
 n_quotes: 334
 n_high: 184
 n_medium: 84
 n_low: 66
-n_blog_scrape_contamination: 11
+n_blog_scrape_contamination: 6
 tags: [methodology, quotations, prescience, corpus, index]
 ---
 
@@ -24,7 +24,7 @@ Index of **334 published predictions** by Peter S. Kastner, scored by the v1.8.0
 - High: **184** (55.1%)
 - Medium: **84** (25.1%)
 - Low: **66** (19.8%)
-- Blog-scrape contamination flagged: **11**
+- Blog-scrape contamination flagged: **6**
 
 ## High prescience (184)
 
@@ -68,11 +68,11 @@ Index of **334 published predictions** by Peter S. Kastner, scored by the v1.8.0
 - [[quote-1171| — Inc.]] — Peter Kastner, chief research officer of Boston-based Aberdeen Group Inc., said the company faces formidable
 - [[quote-1172| — AP]] — ISV application support across its Linux-based eServer platforms, the Aberdeen Group says. But there is little, if any,
 - [[quote-1175| — AP]] — "You won't see a heck of a lot of difference in Word, but software like [Adobe Systems'] Photoshop or video-
-- [[quote-1183| — ]] ⚠️ — You must be careful when making any changes or modifications to the firmware of your GPS because there is a risk
+- [[quote-1183| — ]] — You must be careful when making any changes or modifications to the firmware of your GPS because there is a risk
 - [[quote-1186| — AP]] ⚠️ — -- Peter S. Kastner
 - [[quote-1187| — ]] ⚠️ — What is controversial about this site is shooting live game over the Internet. You will be hearing more about this web
-- [[quote-1188| — AP]] ⚠️ — These tests also show that "normal users" will see a considerably better user experience with a dual core
-- [[quote-1190| — ]] ⚠️ — Expect to see these drives in servers for midline storage and in high-end consumer desktops. Is the end of the SCSI
+- [[quote-1188| — AP]] — These tests also show that "normal users" will see a considerably better user experience with a dual core
+- [[quote-1190| — ]] — Expect to see these drives in servers for midline storage and in high-end consumer desktops. Is the end of the SCSI
 - [[quote-1193| — ]] ⚠️ — That makes the introduction of dual core processors for personal computing this spring not just another product
 - [[quote-1199| — AP]] ⚠️ — In this case, the electronic bank robber was caught. However, this writer can assure our dear readers that electronic
 - [[quote-1208| — AP]] ⚠️ — All the major microprocessor manufacturers are drooling over the next generation of digital lifestyle electronics,
@@ -236,7 +236,7 @@ Index of **334 published predictions** by Peter S. Kastner, scored by the v1.8.0
 - [[quote-1174| — AP]] — Unix) applications, the rest of us waited until Windows XP was launched in October 2000 to end the legacy ties to 16-
 - [[quote-1176| — ]] — Five years ago, major service companies told Kastner that the TCO outcomes they saw were in the range of
 - [[quote-1178| — ]] — Five years ago, major service companies told Kastner that the TCO outcomes they saw were in the range of
-- [[quote-1194| — AP]] ⚠️ — The price as low as $722 (qty 1,000) makes the Cranford value chips attractive for a new generation of low-cost 4-
+- [[quote-1194| — AP]] — The price as low as $722 (qty 1,000) makes the Cranford value chips attractive for a new generation of low-cost 4-
 - [[quote-866|1989-02-27 — Computerworld]] — Unisys U series casts shadow in Unix arena
 - [[quote-710|1989-07-24 — Computerworld]] — Tesseract, Walker to be financial software allies
 - [[quote-23|1989-10-09 — Computerworld]] — DEC challenges IBM CASE strategy
@@ -319,7 +319,7 @@ Index of **334 published predictions** by Peter S. Kastner, scored by the v1.8.0
 - [[quote-582| — Kastner Blog]] — Microsoft Grants Indonesian Pirates Amnsety
 - [[quote-598| — Kastner Blog]] — Monday, May 30, 2005
 - [[quote-535| — Kastner Blog]] — Couch surfers: too lazy to even type a URL
-- [[quote-1200| — ]] ⚠️ — Caveat: Be sure to have your user manual so that you can get back to factory settings if you really mess up. You also
+- [[quote-1200| — ]] — Caveat: Be sure to have your user manual so that you can get back to factory settings if you really mess up. You also
 - [[quote-579| — Kastner Blog]] — Look for Mac OS X 10.4 "Tiger"
 - [[quote-616| — Kastner Blog]] — Software Patents Create Havoc in Eurpoe
 - [[quote-859|1989-02-20 — Computerworld]] — IBM seen rushing out high-end AS/400 CPU
@@ -375,7 +375,7 @@ Index of **334 published predictions** by Peter S. Kastner, scored by the v1.8.0
 - **Per-quote pages**: `wiki/quotations/quote-<row_id>.md` (334 pages)
 - **Scorer version**: quotations_corpus_v1
 - **Source pass**: quotations_corpus
-- **Generated**: 2026-06-19T21:22:06Z
+- **Generated**: 2026-06-24T19:59:45Z
 - **Generator**: `scripts/build_quotations_per_quote_v1.py`
 
 ## Why per-quote pages

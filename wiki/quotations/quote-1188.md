@@ -12,7 +12,7 @@ final_bucket: high
 final_score: 4
 final_confidence: 3
 final_pipeline: P2
-blog_scrape_contamination: true
+blog_scrape_contamination: false
 scorer_version: quotations_corpus_v1
 source_pass: quotations_corpus
 tags: [quotation, prescience, kastner]
@@ -24,11 +24,9 @@ tags: [quotation, prescience, kastner]
 
 **Verdict**: HIGH prescience — score=4, confidence=3, horizon=SH-3y, pipeline=P2
 
-⚠️ **Note**: This quote was flagged for blog-scrape contamination (footer text / share-buttons mixed with the prediction). The verdict applies to the predictive content; the surrounding text is artifact.
-
 ## Quote
 
-> These tests also show that "normal users" will see a considerably better user experience with a dual core microprocessor. The hour glass may not be a thing of the past, but it will take over your cursor much less often. -- Peter S. Kastner Posted by Anonymous at 11:58?PM No comments: Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest Game Consoles: Place Your Bets First Microsoft then Sony have announced specs for the next generation of game stations, which will be
+> These tests also show that "normal users" will see a considerably better user experience with a dual core microprocessor. The hour glass may not be a thing of the past, but it will take over your cursor much less often.
 
 ## Rationale
 

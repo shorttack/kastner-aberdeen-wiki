@@ -12,7 +12,7 @@ final_bucket: high
 final_score: 4
 final_confidence: 3
 final_pipeline: P2
-blog_scrape_contamination: true
+blog_scrape_contamination: false
 scorer_version: quotations_corpus_v1
 source_pass: quotations_corpus
 tags: [quotation, prescience, kastner]
@@ -24,11 +24,9 @@ tags: [quotation, prescience, kastner]
 
 **Verdict**: HIGH prescience — score=4, confidence=3, horizon=SH-3y, pipeline=P2
 
-⚠️ **Note**: This quote was flagged for blog-scrape contamination (footer text / share-buttons mixed with the prediction). The verdict applies to the predictive content; the surrounding text is artifact.
-
 ## Quote
 
-> You must be careful when making any changes or modifications to the firmware of your GPS because there is a risk that things can go wrong and render the GPS inoperable. And sorry, I won't go sailing with you and your hacked GPS. Peter S. Kastner Posted by Anonymous at 2:23?AM Monday, June 06, 2005 The Implications of Doubling the Number of the World's Computer Users Intel research suggests that the next wave of computing users will look very different than the first. They will be less affl
+> You must be careful when making any changes or modifications to the firmware of your GPS because there is a risk that things can go wrong and render the GPS inoperable. And sorry, I won't go sailing with you and your hacked GPS.
 
 ## Rationale
 

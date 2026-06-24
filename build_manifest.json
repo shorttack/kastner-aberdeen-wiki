@@ -206,15 +206,15 @@
     "version": "v2"
   },
   "phase_5": {
-    "elapsed_sec": 1761.1,
+    "elapsed_sec": 1108.7,
     "model": "bge-m3",
-    "pages_embedded": 10790,
-    "pages_with_page_type": 10455,
-    "pages_with_title": 10790,
-    "pages_with_vector": 10790,
+    "pages_embedded": 10803,
+    "pages_with_page_type": 10468,
+    "pages_with_title": 10803,
+    "pages_with_vector": 10803,
     "phase": 5,
     "phase_name": "embeddings",
-    "ran_at": "2026-06-22T20:26:56.468145+00:00",
+    "ran_at": "2026-06-24T20:20:44.516609+00:00",
     "schema_columns": [
       "page_path",
       "page_type",

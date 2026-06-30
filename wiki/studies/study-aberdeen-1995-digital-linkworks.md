@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.78
 prescience_obs_count: 27
 ---
 
 # Digital LinkWorks: Delivering Solutions to MIS and End-Users
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.22 over 36 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.33 over 36 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profile evaluating Digital Equipment Corporation's LinkWorks, a document management and workflow platform for enterprise groupware. Introduces the concept of 'Enterprise Groupware' built on distributed object technology and contrasts it with first-generation products such as Lotus Notes and Microsoft Exchange. Argues that LinkWorks uniquely satisfies both MIS and end-user requirements through open databases, OLE integration, and a component-based development model.
 

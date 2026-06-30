@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.19
 prescience_obs_count: 16
 ---
 
 # Bay Networks' Switch Node Routing Switch Tackles Routing Performance Bottlenecks Head-On
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.95 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen analyst Virginia Brooks examines Bay Networks' Switch Node Routing Switch, announced March 3, 1997, as a Layer 3 switching solution for congested campus networks. The study analyzes how enterprise network traffic patterns had reversed from the traditional 80/20 local/cross-subnet model to 20/80, making router bottlenecks critical. Aberdeen assesses the Switch Node's architecture—separating data plane and control plane on dual 1.2 Gbps buses with IP AutoLearn—as a cost-effective alternative to router upgrades or full ATM migration.
 

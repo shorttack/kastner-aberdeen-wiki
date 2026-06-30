@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.9
 prescience_obs_count: 10
 ---
 
 # A Kinder, Gentler Larry Ellison? Oracle Presents New Face to Its User Community
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.70 over 10 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This Aberdeen InSight, published May 2002, reviews the Oracle Apps World conference held in San Diego. The study observes a notable shift in Oracle's posture toward its installed base: fewer new product announcements, heightened emphasis on customer satisfaction, and a strategic focus on migrating customers to the web-based e-Business Suite (Oracle 11i). The piece contextualizes this shift within the stark realities of the post-dot-com enterprise software market.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.5
 prescience_obs_count: 8
 ---
 
 # The Outlook on Intel's Quad-Core Chips
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.67 over 9 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 9 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > NewsFactor article (Nov 15 2006, David Garrett) on Intel's quad-core processor release: the Xeon 5300 server series (up to 50% faster than dual-core Xeon 5100) and the Core 2 Extreme desktop series (up to 80% faster for threaded apps). Peter Kastner, VP and research director for enterprise technology at Aberdeen Group, predicts 'rapid adoption reaching mainstream in Q2 of next year [2007],' driven by aggressive Intel pricing. He flags server virtualization-driven consolidation as the killer app: 'Quad-core becomes really exciting for the many IT organizations that are looking at server consolidation through virtualization.' For consumers, Kastner calls quad-core gaming/multimedia performance 'awesome' and 'your Christmas dream.' The article captures Intel's attempt to regain enterprise momentum lost to AMD Opteron (esp. Dell's 2006 Opteron server capitulation).
 

@@ -3,7 +3,7 @@ title: "Business Activity Monitoring / Business Intelligence Tools"
 slug: "bam-monitoring"
 page_type: "technology"
 tags: ["type/technology", "category/analytics", "era/2000s"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "bam-monitoring"
 category: "analytics"
@@ -20,11 +20,6 @@ prescience_obs_count: 8
 # Business Activity Monitoring / Business Intelligence Tools
 
 > BAM is branch of BPM tech tree; monitors instrumented processes and triggers notifications; components: dashboards, rules, alerts, historical tracking. 35% very good results for BAM implementations
-
-
-## Summary
-
-
 
 
 ## Top observations

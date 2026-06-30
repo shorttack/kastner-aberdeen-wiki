@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.12
 prescience_obs_count: 17
 ---
 
 # Aberdeen Group Semiconductor Research Practice Definition (2002)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.87 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.04 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Formal definition of Aberdeen Group's Semiconductor Research Practice: focus on enabling semiconductor technologies for emerging digital markets (MEMS, photonics, software-defined radios, NPUs, UWB), a taxonomy of semiconductor ecosystem trends (design, fabrication, test), and detailed target account lists spanning 36+ firms (Agere, AMD, ARM, ATI, Broadcom, IBM, Intel, Nvidia, Samsung, Sony, TSMC, etc.). Captures the 2001 semiconductor downturn context (-32% to $132B WW revenue) and a forward-looking view of fabless trends, design/NRE cost inflation ($10M+ per device), 300mm facility cost ($2.7B), verification engineering dominance (70% of cycle), DFT, SoC test, and molecular/Plastic-Logic disruption candidates.
 

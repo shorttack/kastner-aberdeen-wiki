@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 9
 ---
 
 # The Death of the CRT Monitor
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.33 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.42 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > PC Magazine / PCMag.com article (Nov 1 2002, Cade Metz) on the LCD-vs-CRT monitor transition. Peter Kastner, Aberdeen Group vice president and senior researcher, provides key market data: LCDs at 40% of desktop-display market with ~2M units/month at $800M revenue/month (average $400/unit). iSuppli/Stanford Resources' Rhonda Alexander offers more conservative 29% LCD share, with tracking from 3% (Q1 2000) → 5% (early 2001) → 21% (Jan 2002). Both analysts predict LCDs will outnumber CRTs as the standard PC monitor in 2003. Planar Systems' Rob Baumgartner addresses video-latency concerns. U Minn Carlson School professors Murtha and Lenway predict LCDs will outnumber CRTs 5:1 by 2006. Kastner's pre-CRO Aberdeen era (VP/senior researcher).
 

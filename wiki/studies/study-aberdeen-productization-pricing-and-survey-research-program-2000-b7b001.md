@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.18
 prescience_obs_count: 22
 ---
 
 # Aberdeen Group 2000 Productization, Pricing, and Survey Research Program (e-Profile, Market Analysis Service, Publication Pricing Schedule, e-Business@Aberdeen Survey Calendar)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.77 over 31 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.87 over 31 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Four internal Aberdeen Group artifacts spanning January 2000 through June 2001 that together document Aberdeen's evolution from print-product publication house to subscription-research and survey-research firm. (1) Hugh Bishop's January 2000 'Aberdeen e-Publications' deck launches the e-Profile program — converting the legacy $25K Profile into a $40K+ subscription product with $25K web hosting (12 months including 3 updates), $5K analyst-audio access, $10K written profile add-on; beta clients SalesLogix, eCredit, Personic. (2) The June 2001 Market Analysis Service (MAS) Internal Presentation defines a 14-segment quantitative+qualitative subscription priced at $22,500 (5 seats, all 14 topics, both data types) with discrete component pricing ($1,495 single-topic qualitative or quantitative; $2,495 single-topic both; $10,000 all-14 qualitative; $15,000 all-14 quantitative) — co-produced with David Wright/ETI on macro-economic-grounded methodology with explicit analyst compensation ($2,000 cash up-front, 15 percent revenue GM transfer, $250/hr telephone-inquiry cash, $250 closed-deal bonus). (3) Pricing-2000.xls is the canonical 2000 Publication Pricing & Transfer Schedule covering EWP/Impact/Profile with published-vs-internal-transfer prices, web-hosting fee schedule, hosting/length matrix, page-count and minute-count specifications, time-per-project budgets, and Kastner $100K sign-off threshold; defines the 5 percent / 10 percent maximum-discount ladder. (4) Survey-Descriptions-2000.doc is the e-Business@Aberdeen.com 2000 survey calendar covering nine practice surveys across e-Procurement (Tim Minahan), e-Marketing/e-Sales (Donovan Gow + Kent Allen), e-Customer Services (Chris Martins), e-Employee Self-Service (Karen Moser), e-Portals (Judith Rosall, Lara Abrams), and e-Payments (Judith Rosall) — providing analyst-survey attribution for the e-Business@Aberdeen practice for the year 2000.
 

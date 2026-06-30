@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.33
 prescience_obs_count: 3
 ---
 
 # Stratus 'TP-1 Performance Model' internal benchmark guide (1983, Stratus internal)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.20 over 5 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.20 over 5 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Earliest Stratus internal performance document recovered in the corpus. Defines the TP-1 model and walks through small relative file (2.9 tps; 69% CPU; 18.0 disk I/O/sec), large relative file (2.3 tps; 94.7% CPU), and large indexed file configurations (1.5-1.8 tps depending on memory and server-queue topology). Key observations: cache utilization significantly impacts performance; performance is most affected by disk type/number/file size; multiple server copies greatly improve performance; server priority should exceed requester priority. The Stratus-vs-Tandem comparison section sits behind the TP-1 model definition. Predates the FTSN-32/FTSN-33 1985 Stratus 1.0-1.1 tps/CPU figures cited in Batch 25 — TP-1 is essentially Stratus's pre-ET1 internal predecessor benchmark.
 

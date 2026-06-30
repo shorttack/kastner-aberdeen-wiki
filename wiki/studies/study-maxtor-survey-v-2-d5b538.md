@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.05
 prescience_obs_count: 22
 ---
 
 # Maxtor RAMP Disk Storage Usage Questionnaire v2
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.73 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.13 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Refined second version of the Aberdeen Group telephone survey questionnaire for the Maxtor RAMP project. Streamlines the v1 instrument to 17 survey questions and a demographic section, with key enhancements: per-OS storage breakdowns (Q4.1-Q4.3) for mainframe / Windows / Unix separately, introduction of a 1-7 Likert willingness-to-tradeoff scale (Q9) testing three distinct cost-performance scenarios (50% cost reduction with lower availability; 30% with less availability; 30% with same availability), vendor engagement probing (Q10-Q11), restore frequency measurement (Q12), static data application identification (Q14), and a refined terminology awareness battery testing five terms. The instrument was used to collect data from approximately 70 enterprise IT decision-makers.
 

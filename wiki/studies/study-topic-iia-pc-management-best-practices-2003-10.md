@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.32
 prescience_obs_count: 25
 ---
 
 # PC Management Best Practices: A Study of the Total Cost of Operation, Risk, Security, and Audit
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.30 over 40 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 40 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > IIA Research Foundation rough-draft report (Oct 7, 2003) authored by Mark Salamasick (University of Texas at Dallas) and Charles Le Grand (IIA AVP Technology Practices). Based on 221 GAIN flash-survey responses plus the July 2003 IIA Technology Audit Forum where Peter Kastner of Aberdeen Group was keynote speaker. Organized around the COSO Internal Control Integrated Framework and SAC model; covers business risk and insurance, Sarbanes-Oxley/HIPAA/GLBA compliance, information security and appropriate use, business continuity, software management, and PC TCO. Cites Kastner's research extensively on PC fleet TCO ($8k-$9k per seat), 20-25% cost reduction through best practices, 70-80% of TCO in operations, 40 million desktops running outdated OSes, and standardized images.
 

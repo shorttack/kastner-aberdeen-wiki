@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.94
 prescience_obs_count: 16
 ---
 
 # The March Quarter Blues - Or, Were We Expecting Too Much, Too Soon?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.76 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.71 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > EVP #7 analyzes the structural and cyclical reasons why March quarters systematically disappoint investors in high-tech stocks, identifying four business-cycle factors (customer budget timing, new-year caution, informal industry institutionalization, and psychological reset) compounded by the worst recession in fifty years and the resulting Wall Street euphoria that inflated P/E multiples beyond what earnings could justify. Casale argues that instant margin expansion post-recession is structurally impossible and that some companies have already snapped from the strain of maintaining earnings to justify lofty multiples.
 

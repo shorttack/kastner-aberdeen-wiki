@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.93
 prescience_obs_count: 14
 ---
 
 # The Mainframe Revival: Short Lived or Long Term?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.33 over 15 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 15 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1996 study examines the recovery of the mainframe market after a period of decline, analyzing how new-generation mainframes—dramatically lower-priced, physically smaller, less power-hungry, and capable of running UNIX and Windows NT alongside legacy applications—are winning new deployments. The study evaluates IBM's S/390 Parallel Enterprise Server G3/G4 and Amdahl's Millennium as the leading contenders, and addresses whether clustering technology gives mainframes a competitive edge over UNIX server farms for large-scale enterprise workloads.
 

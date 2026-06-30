@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.15
 prescience_obs_count: 20
 ---
 
 # Managed Carrier Services: 1998 Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.78 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.91 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary covering the managed carrier services market, analyzing how enterprises use telecom outsourcing and virtual private networks to reduce costs and improve network operations. The report profiles nine service providers including Ameritech, Bell Atlantic, IBM Global Services, and Infonet, and provides market sizing estimates projecting the managed services market will reach $36 billion by 2002. It documents enterprise attitudes toward outsourcing, service differentiator trends, and the emerging role of IP-based VPNs and TCP/IP in replacing traditional dedicated-circuit architectures.
 

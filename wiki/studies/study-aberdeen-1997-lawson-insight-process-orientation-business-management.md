@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.82
 prescience_obs_count: 17
 ---
 
 # Lawson Insight: Where Process-Orientation Makes A Difference For Business Management
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.56 over 27 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.93 over 27 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This May 1997 Aberdeen Group profile assesses Lawson Software and its Lawson Insight Business Management System, positioning the company as a leader among enterprise business application (EBA) vendors in the transition to process-centric, web-deployable software. Aberdeen documents Lawson's four-cornerstone architecture (Process Orientation, Event-based Management, Continual Improvement, Ubiquitous Information Access) and its Web Service Centers, characterizing Lawson as ahead of SAP, Oracle, and PeopleSoft on process orientation and internet-readiness. The study further profiles Lawson's healthcare vertical strategy, $101.8M FY1996 revenues, and competitive positioning against midrange rivals J.D. Edwards, Ross, and System Software Associates.
 

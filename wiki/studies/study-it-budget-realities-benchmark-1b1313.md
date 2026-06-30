@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.33
 prescience_obs_count: 33
 ---
 
 # The Strategic Enterprise IT Budget Realities Benchmark Report
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.36 over 45 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.62 over 45 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group benchmark report analyzes IT budget and spending trends across 170+ enterprises surveyed in partnership with InformationWeek in September-October 2004. Using Aberdeen's PACE (Pressures, Actions, Capabilities, Enablers) framework and Competitive Framework (Laggard 30%, Industry Norm 50%, Best in Class 20%), the study finds that 15-25% of IT investment is wasted industry-wide. While customer demand for new capabilities is the top pressure, cost-focused actions dominate organizational responses. Best-in-class firms spend 10-25% less than average as a percent of revenue and prioritize IT alignment with business strategy over cost reduction. The report examines outsourcing/off-shoring dynamics, four levels of consolidation (footprint, image, workload, data/applications), and the role of continuous monitoring as a hallmark of best-in-class organizations. Sponsored by Cognos, FRx Software, HP, and MAPICS.
 

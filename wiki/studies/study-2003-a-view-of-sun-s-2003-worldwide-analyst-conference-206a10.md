@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.14
 prescience_obs_count: 7
 ---
 
 # A View of Sun's 2003 Worldwide Analyst Conference
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.90 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.60 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group Perspective summarizes Sun Microsystems' 2003 Worldwide Analyst Conference (WWAC) in San Francisco. Sun communicated that customer demand centers on reducing data center costs and complexity, driving investment in Project Orion, N1 grid architecture, and new storage products. Notably, Sun affirmed that Solaris on SPARC would remain its flagship operating system for the foreseeable future despite an evolving Linux strategy.
 

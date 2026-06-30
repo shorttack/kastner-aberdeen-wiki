@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.45
 prescience_obs_count: 22
 ---
 
 # Digital's Personal Workstation: New Markets, New Products, New Channels, New Company, New Challenges
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.73 over 26 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.38 over 26 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group profile (April 1996) evaluates Digital Equipment Corporation's Personal Workstation line — Intel Celebris XL and Alpha XL — positioned as a low-cost alternative to Unix workstations for technical and commercial applications. Using Pro/Engineer, CADalyst, and Ansys benchmarks, Aberdeen demonstrates that the Alpha XL 366 MHz outperforms SGI and HP Unix workstations at approximately half the cost. The study examines Digital's indirect channel strategy through VARs and identifies five target markets: MDA, GIS, Digital Content and Creation, Financial, and Software Development.
 

@@ -11,10 +11,10 @@ vendor: "Intel Corporation"
 era: "1998-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "legacy-supported"
-occurrence_count: 14
+occurrence_count: 15
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 2
+prescience_mean: 0.86
+prescience_obs_count: 7
 ---
 
 # Intel Celeron processor
@@ -30,22 +30,22 @@ prescience_obs_count: 2
 ## Top observations
 
 - Avoid Celeron-class or 233 MHz Pentium II inventory close-outs `[ps=4]` — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
+- Kastner identifies Intel Celeron attack as AMD's worst nightmare: $600 class previously an AMD toehold is now back in the hands of Celerons; $900 price category loaded with P4s after post-Thanksgiving AMD wins `[ps=2]` — [[study-dct-weekly-2003-01-05-mx]]
 - 1.3 GHz Celeron -> 1.7 GHz Celeron at same price `[ps=0]` — [[study-dct-dceit-observations-2002-06]]
-- Typically, this means you can go online and configure a desktop machine with a 1.8, 2.0, 2.2, or 2.4 GHz Intel Pentium 4 microprocessor - and pay the exact same price at checkout. — [[study-dct-business-2002-12-19-pc-deals]]
-- Over the next quarter, we expect prices to decline due to the flow-through of lower Intel microprocessor prices. — [[study-dct-business-2003-03-17-pc-deals]]
-- $399 — [[study-dct-emachines-q1-2003-lineup]]
-- $499 — [[study-dct-emachines-q1-2003-lineup]]
-- Celeron CPUs consistently hold lowest price point under $600 — [[study-dct-intel-processor-prices-2003-01]]
-- are disappearing, supplanted by 2 GHz and up as the baseline for machines over $900. Even Intel Celeron chips at 1.2-1.4 MHz, common until now in machines up to $ — [[study-dct-weekly-2002-08-24-pc-deals-analysis]]
-- 0. Even Intel Celeron chips at 1.2-1.4 MHz, common until now in machines up to $1,000, are being pushed down to the lowest of our nine price bands. And it's not just — [[study-dct-weekly-2002-08-24-pc-deals-analysis]]
-- Even Intel Celeron chips at 1.2-1.4 MHz, common until now in machines up to $1,000, are being pushed down to the lowest of our nine price bands. — [[study-dct-weekly-2002-08-24-pc-deals-analysis]]
-- are disappearing, supplanted by 2 GHz and up as the baseline for machines over $900. Even Intel Celeron chips at 1.2-1.4 MHz, common until now in machines up to $ — [[study-dct-weekly-2002-08-24-pc-deals-script]]
-- 0. Even Intel Celeron chips at 1.2-1.4 MHz, common until now in machines up to $1,000, are being pushed down to the lowest of our nine price bands. And configuration — [[study-dct-weekly-2002-08-24-pc-deals-script]]
-- Even Intel Celeron chips at 1.2-1.4 MHz, common until now in machines up to $1,000, are being pushed down to the lowest of our nine price bands. — [[study-dct-weekly-2002-08-24-pc-deals-script]]
-- These machines include the price cuts and processors from Intel's August announcements, albeit nine weeks after the announcement leaked. — [[study-dct-weekly-2002-10-06]]
-- competitive machines that cost less than their Intel counterparts. Winning the $600, $750, and $900 category with processors that far exceed their Intel Celeron com — [[study-dct-weekly-2002-11-03]]
-- itive machines that cost less than their Intel counterparts. Winning the $600, $750, and $900 category with processors that far exceed their Intel Celeron competito — [[study-dct-weekly-2002-11-03]]
-- ines that cost less than their Intel counterparts. Winning the $600, $750, and $900 category with processors that far exceed their Intel Celeron competitors, consi — [[study-dct-weekly-2002-11-03]]
-- AMD Athlon PCs offer competitive machines that cost less than their Intel counterparts. — [[study-dct-weekly-2002-11-03]]
-- This Week's Analysis of PC Deals Pentium 4 with Hyper-Threading Arrives Intel's Pentium 4 at 3.06 GHz with Hyper-Threading (HT) technology arrived November 14th. — [[study-dct-weekly-2002-11-17]]
-- is occurring: the attack of the Intel Celerons. Our lowest price category, at $600, has been a toehold for AMD recently in the low-end of the value segment. Now i — [[study-dct-weekly-2003-01-05]]
+- Intel Celeron PCs consistently priced under $600; Celeron 1.7 GHz under $450 after P4 1.8 GHz dropped to under $900 in August 2002 `[ps=0]` — [[study-dct-intel-processor-prices-2003-01-mx]]
+- Intel Celeron 1.8 GHz launched June 12 2002; Celeron 2.0 GHz launched August 26 2002; Celeron 2.0 GHz entered PC Deals $600 category in November 2002 `[ps=0]` — [[study-dct-intel-processor-prices-2003-01-mx]]
+- Gateway 300S offered with $100 off; competitive at $600 price point; 17-inch monitor add-on for $120; upgrades available to P4 1.8 GHz `[ps=0]` — [[study-dct-weekly-2002-11-03-mx]]
+- Gateway 300S upgraded to 2.0 GHz Celeron processor; Gateway continues specials on individual machines `[ps=0]` — [[study-dct-weekly-2002-11-17-mx]]
+- Compaq 6300US: $600 (2002-11-10) -> $450 (2003-01-25); delta $-150 (-25%); min $450 / max $650 over 9 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- Compaq Presario 4403US: $600 (2002-07-29) -> $650 (2002-10-06); delta $+50 (+8%); min $500 / max $700 over 7 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- Compaq Presario 4409CL: $750 (2002-09-15) -> $750 (2002-09-15); delta $+0 (+0%); min $750 / max $750 over 1 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- Compaq Presario 4410US: $625 (2002-07-29) -> $600 (2002-08-31); delta $-25 (-4%); min $600 / max $625 over 5 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- Compaq S3000V series: $350 (2003-04-13) -> $350 (2003-06-01); delta $+0 (+0%); min $334 / max $380 over 7 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- Compaq S4000NX: $420 (2003-07-06) -> $430 (2003-08-24); delta $+10 (+2%); min $400 / max $730 over 7 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- Compaq S4100NX: $500 (2003-06-22) -> $500 (2003-08-24); delta $+0 (+0%); min $500 / max $530 over 9 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- Dell Dimension 2200: $858 (2002-07-29) -> $848 (2002-08-11); delta $-10 (-1%); min $848 / max $858 over 2 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- Dell Dimension 2300: $809 (2002-08-18) -> $957 (2002-11-24); delta $+148 (+18%); min $639 / max $1099 over 29 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- Dell Dimension 2300LE: $589 (2002-08-18) -> $688 (2002-08-24); delta $+99 (+17%); min $589 / max $688 over 2 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- Dell Smartstep 150D: $688 (2002-07-29) -> $688 (2002-08-11); delta $+0 (+0%); min $688 / max $688 over 2 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines T1220: $400 (2002-07-29) -> $400 (2002-09-15); delta $+0 (+0%); min $400 / max $500 over 7 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines T1221: $400 (2002-08-31) -> $400 (2002-09-29); delta $+0 (+0%); min $400 / max $475 over 4 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]

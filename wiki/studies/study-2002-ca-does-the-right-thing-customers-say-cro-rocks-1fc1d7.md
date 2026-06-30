@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.1
 prescience_obs_count: 10
 ---
 
 # CA Does the Right Thing; Customers Say CRO Rocks
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.38 over 13 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.23 over 13 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Computer Associates (CA) undertook a major internal reform program beginning in 1999 to address systemic weaknesses in its products, processes, and customer relations. The centerpiece of this transformation was the Client Relations Organization (CRO), a non-quota-carrying service unit focused on achieving customer satisfaction and trust. This Aberdeen InSight documents the CRO initiative with customer testimonials and positions CA as a substantially reformed enterprise software vendor.
 

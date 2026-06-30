@@ -3,7 +3,7 @@ title: "Gupta Technologies"
 slug: "gupta-technologies"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "gupta-technologies"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 10
 # Gupta Technologies
 
 > Founded 1984 by Umang Gupta; NASDAQ: GPTA; creator of SQLWindows and Centura. Fully acquired chain confirmed by Wikipedia/Gupta Technologies.
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.79
 prescience_obs_count: 14
 ---
 
 # Utilities: 1998 Industry Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.60 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.90 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary covering information technology for electric and natural gas utilities facing deregulation. The document defines three practice pillars — Distribution (billing/CIS/call centers/meter networks), Asset Management (SCADA/EMS/ERP/GIS), and Transactions (energy trading/risk management/ISO systems) — and profiles 12 vendors. Key findings include that U.S. gas and electric utilities represent $300B in revenues; the last major U.S. monopoly being deregulated; and that conservative IT buying behavior will coexist with urgent spending on billing, CIS, and customer-facing systems.
 

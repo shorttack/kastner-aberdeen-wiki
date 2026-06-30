@@ -3,7 +3,7 @@ title: "Electronic Data Interchange (EDI)"
 slug: "edi"
 page_type: "technology"
 tags: ["type/technology", "category/integration protocol", "era/1960s-present"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "edi"
 category: "integration protocol"
@@ -20,11 +20,6 @@ prescience_obs_count: 5
 # Electronic Data Interchange (EDI)
 
 > Secure messaging for B2B transactions; Aberdeen predicts continued relevance alongside internet commerce through 2000 and beyond; Achilles heel: difficulty establishing common business transaction definitions
-
-
-## Summary
-
-
 
 
 ## Top observations

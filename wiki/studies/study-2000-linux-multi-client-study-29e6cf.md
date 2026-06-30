@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.07
 prescience_obs_count: 15
 ---
 
 # Linux Multi-Client Study
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.56 over 16 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.88 over 16 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group surveyed nearly 400 Global 2000 firms (each with 5,000+ employees and $100M+ in revenues, approximately 45% US / 55% international) to assess the level of interest and acceptance of Linux in enterprise IT organizations. The study examines Linux deployment patterns, market share against Windows NT and Unix, service/support provisioning, desktop viability, and preferred Linux distributors. Available in three tiers: Complete Summary ($1,000), Major Findings ($4,000), and Full Report ($8,000).
 

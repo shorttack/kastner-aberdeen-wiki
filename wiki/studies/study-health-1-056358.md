@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.4
 prescience_obs_count: 20
 ---
 
 # Healthcare: 1998 Industry Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.72 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 survey of the Healthcare Information Systems (HIS) market, covering integrated HIS vendors, independent software vendors, professional services firms, and systems suppliers. The report maps the three application tiers—business, clinical, and management information—and assesses the impact of managed care consolidation, client-server adoption, Internet/intranet deployment, and Year 2000 compliance on healthcare IT buyers. Brief vendor profiles are provided for fifteen named companies.
 

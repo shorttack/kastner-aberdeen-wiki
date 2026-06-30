@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.0
 prescience_obs_count: 2
 ---
 
 # Make claiming rebates easier for consumers (CA SB 1154 support letter)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.50 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Consumers Union letter to California Governor Arnold Schwarzenegger urging signature of SB 1154 (Figueroa), a bill making it easier for consumers to claim mail-in rebates. The letter cites Peter Kastner of Aberdeen Group (via a NY Times article of April 17, 2003) as an authoritative source on why consumers fail to collect rebates. Represents Kastner's analyst commentary feeding into legislative policy advocacy.
 

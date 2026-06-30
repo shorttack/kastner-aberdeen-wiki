@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.3
 prescience_obs_count: 40
 ---
 
 # Power Academy RDBMS Sales Training
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.89 over 45 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.89 over 45 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > A comprehensive RDBMS competitive intelligence training deck prepared by Aberdeen Group for IBM's Power Academy in January 1996. The document provides detailed competitive analysis of six major RDBMS vendors (Computer Associates/Ingres, IBM DB2, Informix, Oracle, Sybase, Microsoft, Progress, Red Brick, and Software AG) across dimensions including scalability, distributed technology, open technology, development tools, other technologies, and supplier value-add. Financial data, market share, strengths, weaknesses, and IBM-specific selling tips are included.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # Sybase XI Launch: Kastner Boats-Analogy Endorsement of Multi-DB Strategy
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.33 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.67 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > One-minute Kastner clip from Sybase XI (System 11) launch event. Kastner uses a boats analogy (solings for Olympic racing, tenders for moving people, cruisers for sailing/travel) to praise Sybase's multi-product strategy of offering distinct databases tuned to different workloads: OLTP, data warehousing, disconnected users, and mass-distributed replicated systems. Endorses Sybase's portfolio approach as 'very intelligent.'
 

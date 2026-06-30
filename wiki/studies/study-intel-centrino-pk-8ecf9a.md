@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.36
 prescience_obs_count: 14
 ---
 
 # Intel's Centrino: Don't Man the Barricades
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen/Kastner expert editorial on Intel's Centrino platform launch (March 12, 2003). Analyzes Centrino as integrated mobile Pentium 4 + chipset + 802.11 wireless adapter. Warns IT executives against banning wireless notebooks (the 'barricade' metaphor) in response to rogue access point threats. Cites Aberdeen research showing 30 min/day productivity gains for campus workers; PricewaterhouseCoopers ROI data (6-month payback). Recommends embracing wireless via Cisco LEAP and Windows Server 2003 hardening rather than disabling Centrino's wireless capability.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 3.0
 prescience_mean: 0.75
 prescience_obs_count: 4
 ---
 
 # Marathon Technologies Demonstrates 99.999% Uptime with Assured Availability Systems for Windows NT at SuperComm in Atlanta
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.20 over 5 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.80 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Business Wire press release from Marathon Technologies announcing Endurance Assured Availability nonstop systems demonstrated at SuperComm 1999 in Atlanta. Release quotes Peter Kastner and Wayne Kernochan of Aberdeen Group on the emerging fault-tolerant NT market — 'those applications' requiring standards-based Assured Availability technology. Also quotes GartnerGroup's Joe Barkan (VP NT Strategies) positively. Positions Marathon as carrier-grade Intel-based NT five-nines (99.999%) provider with HP partnership.
 

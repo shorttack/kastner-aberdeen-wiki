@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.67
 prescience_obs_count: 9
 ---
 
 # Compaq Vows Support for Himalaya Post-HP (Securities Industry News)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.30 over 10 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.70 over 10 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Securities Industry News (April 2002) by Maria Trombly. Final results of the HP-Compaq merger vote not yet in but early indications show approval. Compaq working overtime to ease customer concerns about Himalaya integration: 95% of the world's securities transactions go through Compaq Himalaya mainframes (formerly Tandem); 106 of the 120 world stock exchanges. Customers include J.D. Edwards, Prudential Securities, T.D. Waterhouse, and Nasdaq Stock Market. Compaq spokesman Arch Currid: 'We've already assured all of our customers, on every product front, that they can count on our ongoing long-term support.' Counter-warnings from analysts. Lance Travis (AMR Research): 'HP can certainly stand there and say yes... but who knows what will happen?... HP doesn't have anything directly to replace the Himalaya, [but] there is a risk that it will get shoved aside and starved to death. I think it behooves people to start looking for alternatives.' Quote from Peter Kastner of Aberdeen Group on customer impact: top-500 combined customers should continue to see very high levels of sales/support; but customers below that 500 line who were previously highly placed in the smaller company's pecking order may see less support — fewer direct sales force visits, possible loss of onsite sales/support office, account-team reshuffling. Kastner recommends IT organizations at major financial firms hold information-exchange meetings so newly assigned account staff can come up to speed on present and future needs.
 

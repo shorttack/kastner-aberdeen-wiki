@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 10
 ---
 
 # CA's eTrust Directory: A Cornerstone of e-Business Infrastructure
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.45 over 11 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.73 over 11 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This Aberdeen Profile examines Computer Associates' eTrust security solution suite, arguing that CA is one of the only suppliers that can realistically be considered a trusted, one-stop enterprise-class supplier of security solutions. Author Jim Hurley argues that CA's eTrust enables IS executives to transform security from disconnected piece-parts into a production-grade security and risk management whole for Internet-centric enterprises. The study positions eTrust as 'well ahead of what most other suppliers can offer' in integrated enterprise security.
 

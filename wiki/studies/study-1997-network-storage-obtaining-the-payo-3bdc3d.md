@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.27
 prescience_obs_count: 11
 ---
 
 # Network Storage: Obtaining the Payoff for Your Enterprise
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.50 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.92 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group Technology Viewpoint by David Hill arguing that traditional server-centric Global 2000 enterprise storage architectures will become inadequate as high-data-volume applications emerge. Advocates for treating enterprise storage as a network — independent from servers — to achieve throughput, flexibility, and manageability. Provides a framework for adopting new network storage facilities. NOTE: Only the abstract (1,254 characters) is available; full report was behind Aberdeen paywall.
 

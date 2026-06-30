@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.33
 prescience_obs_count: 9
 ---
 
 # Beyond Windows 8-Way Servers: Why Businesses Are Deploying the Unisys ES7000
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.57 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.57 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Executive White Paper by Peter Kastner, published July 2002, examines the business case for server re-centralization onto large, reliable systems, with specific focus on the Unisys ES7000 32-way CMP server running Windows 2000 Datacenter Server. The paper argues that proliferating underutilized small servers create management complexity that drives enterprises to consolidate onto fewer, larger machines, and positions the ES7000 as the leading platform for Windows-based consolidation.
 

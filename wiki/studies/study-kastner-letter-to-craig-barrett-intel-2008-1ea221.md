@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.29
 prescience_obs_count: 14
 ---
 
 # Letter to Craig Barrett on Intel's 'Next Billion' Initiative: Field Observations from Haiti and Brazil
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.44 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.25 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Personal letter from Peter S. Kastner (Managing Director, Scott-Page Associates) to Dr. Craig Barrett (Chairman, Intel) sharing firsthand field observations from third-world personal computing deployments in Haiti and rural Brazil. Kastner reports that endemic AC power failures are the single worst threat to PC adoption, calling out a 20-PC classroom in Jacmel, Haiti that required a $25K infrastructure stack (diesel genset, AC, UPS). Additional observations: ClassMate/EePC/OLPC child laptops are of lower demand than desktops; Microsoft software is in high third-world demand for job-skill building; classroom PCs need a model that requires zero IT administration. Proposes an Intel-integrated PC-plus-UPS power supply for emerging markets.
 

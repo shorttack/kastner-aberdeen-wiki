@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.58
 prescience_obs_count: 12
 ---
 
 # Sun's AS/400 Market Opportunity — Aberdeen Presentation to Sun Microsystems
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.36 over 11 usable obs (7 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.18 over 11 usable obs (7 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Companion executive presentation deck to the April 2002 Aberdeen-to-Sun iSeries market report. Summarizes AS/400 demographics (450,000 installed base, $10.27B revenue, 23% of IBM HW), competitive assessment of iSeries strengths and weaknesses, IBM's 2002 game plan, Sun's $1.87B addressable market across four segments (new customers $924M, consolidation $400M, applications $452M, upgrades $92M), and the recommended partner-led Linux-lever strategy. Two file variants (ppt and pdf) contain the same content; merged here.
 

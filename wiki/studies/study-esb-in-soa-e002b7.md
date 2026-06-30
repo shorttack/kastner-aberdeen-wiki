@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.45
 prescience_obs_count: 11
 ---
 
 # The ESB in the Land of SOA
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.38 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.62 over 16 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen research note (5 pages) on the emergence of ESB as de-facto technology standard for integrating SOA infrastructure. Based on survey of 286 companies ('How SOA is Changing IT'): 60% of large company respondents are using or planning shared messaging services within 12 months; 76% implementing Web Services calls to existing applications; 73% implementing applications-related services. Kastner's three-phase ESB evolution framework: Message Bus (messaging) → Service Bus (orchestration) → Process Bus (mediation). Four-segment vendor landscape: ESB pioneers/SOA-specific, traditional EAI/EII players, platform vendors, process-centric integrators. Aberdeen conclusions: evaluate ESB extensibility; existing ESBs need to go beyond messaging to orchestration and mediation; don't neglect services registry and governance.
 

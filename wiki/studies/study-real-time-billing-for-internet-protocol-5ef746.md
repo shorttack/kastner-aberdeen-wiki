@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 4.0
 prescience_obs_count: 2
 ---
 
 # Real-Time Billing for Internet Protocol (IP) Services
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.71 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > International Engineering Consortium online tutorial (authored ~1998 based on IDC/Forrester projections cited for 2002-2003) on the shift from back-office batch Customer Management and Billing (CM&B) systems to real-time front-office systems for Internet service providers. Peter Kastner, chief research officer of Aberdeen Group, is quoted arguing that traditional 30-45 day billing cycles don't work in the Internet's 'dog-eat-dog competitive world' — ISPs need infrastructure allowing customers to 'turn on a dime, try new services right away.' Supporting data: IDC's 1997 estimate of 68 million web users worldwide; Forrester projection of a $58B US business Internet services market by 2003.
 

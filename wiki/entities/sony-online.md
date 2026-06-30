@@ -24,3 +24,9 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Free shipping and free Epson C42UX printer after mail-in rebate at Sony Online — [[study-dct-weekly-2003-06-15-mx]]
+- Free shipping and free Epson C42UX printer after mail-in rebate at Sony Online — [[study-dct-weekly-2003-06-22-mx]]
+- Free shipping at Sony Online this week; customization allows eliminating Giga Pocket Personal Video Recorder not available in retail models — [[study-dct-weekly-2003-07-06-mx]]
+- Free shipping at Sony Online this week; customization allows eliminating Giga Pocket PVR standard in retail models — [[study-dct-weekly-2003-07-13-mx]]
+- Free shipping at Sony Online; customization allows eliminating Giga Pocket PVR — [[study-dct-weekly-2003-07-26-mx]]
+- Free shipping at Sony Online; customization allows eliminating Giga Pocket PVR — [[study-dct-weekly-2003-08-03-mx]]

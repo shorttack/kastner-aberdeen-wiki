@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.75
 prescience_obs_count: 4
 ---
 
 # Good News for NCR: Dell Loses CIO to HP
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.62 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Kastner blog post on OnComputersTips commenting on Randy Mott leaving Dell for HP. Traces Mott's career: Walmart CIO (built NCR Teradata-driven supply chain), then Dell, then HP under CEO Mark Hurd (ex-NCR CEO). Kastner predicts HP will quietly become a major Teradata customer and argues there is no better technology for creating near-real-time transaction systems that drive operational excellence.
 

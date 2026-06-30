@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.7
 prescience_obs_count: 10
 ---
 
 # Tablet Offers High Risk, High Reward (InformationWeek on Microsoft Tablet PC launch)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.45 over 11 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.00 over 11 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > InformationWeek's December 17 2001 cover story on Microsoft's Tablet PC launch led by distinguished engineer Chuck Thacker (Xerox PARC Alto co-creator). Anchors the story on the question of whether the Tablet PC will overcome the long pen-computing scrap heap (Apple Newton, AT&T EO, DEC Lectrice, Microsoft Pen Windows). Quotes Aberdeen Group analyst Peter Kastner: 'Microsoft will make a huge positioning mistake if this is viewed as a specialized information-gathering appliance.' Other voices: Bill Gates (Comdex 2001 keynote), Transmeta CTO David Ditzel, Parsons Corp CIO John Thomas, Lithonia Lighting director Lynn Brenton. Sets price at $2000-$2500/unit, names Adobe, Autodesk, Compaq, Intel, Transmeta among partners; ship target second half 2002.
 

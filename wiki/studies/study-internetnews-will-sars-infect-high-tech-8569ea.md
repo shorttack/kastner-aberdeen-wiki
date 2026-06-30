@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.43
 prescience_obs_count: 7
 ---
 
 # Will SARS Infect High-Tech?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.89 over 9 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.78 over 9 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > InternetNews.com correspondent Dan Orzech profiles Aberdeen Group VP Peter Kastner's assessment of SARS impact on high-tech supply chains and Asia-Pacific markets. Kastner predicts the global electronics industry will not derail despite point events: project delays from cancelled Asia trips, marketing disruption (Sun cancelled an April 7 Shanghai launch; Intel cancelled IDF Taiwan/Beijing), and an almost-certain China PC-market recession (China is second-largest PC consumer worldwide). Kastner notes Aberdeen warned a month earlier about passenger-jet air-cargo disruption (Singapore Air, JAL, Cathay, Korean cut flights). Long-term, SARS may force PRC government transparency given $50B/year foreign investment at stake.
 

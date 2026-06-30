@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.91
 prescience_obs_count: 32
 ---
 
 # Welcome to the RDBMS Jungle — Chapters 1-5
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.54 over 39 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.13 over 39 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Core market-dynamics training deck for Informix sales reps, chapters 1-5. Covers: overall database market size ($20B WW, $5.5B RDBMS); market characteristics (9 RDBMS licenses per 10 multiuser servers); supplier profiles for Sybase, Computer Associates/Ingres, Informix, Oracle, IBM, and Microsoft; hardware partnership dynamics; RDBMS technology rating framework (scalability, distributed data, open access, development tools, other technologies, supplier solutions); and competitive weaknesses for each major RDBMS vendor. 64-slide deck — richest single document in the set.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 3.0
 prescience_mean: 1.0
 prescience_obs_count: 7
 ---
 
 # CA's IT Resource Management Solutions Provide a Basis for Running IT Operations as a Business Entity
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.17 over 12 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.17 over 12 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen Impact examines Computer Associates' IT Resource Management (ITRM) solution set, which provides an integrated but modular platform for managing IT as a cohesive business entity. The study argues that running IT as a unified business — sharing information and automating processes across functions — requires bridging diversity of objectives across IT operations, Help Desk, and Accounting. Author Valerie O'Connell positions CA ITRM as the solution to this organizational challenge.
 

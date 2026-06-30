@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream"
 lifecycle_current: "{'lifecycle_current': 'end-of-life', 'notes': 'Microsoft Windows XP reached end of extended support on April 8, 2014. No security updates since then. Fully end-of-life.', 'source': 'General knowledge / Microsoft lifecycle policy'}"
 occurrence_count: 23
 prescience_max: 5.0
-prescience_mean: 2.87
-prescience_obs_count: 30
+prescience_mean: 2.78
+prescience_obs_count: 32
 ---
 
 # Microsoft Windows XP Professional
@@ -46,6 +46,6 @@ prescience_obs_count: 30
 - Windows XP became most widely deployed OS in history; Microsoft supported until April 2014 `[ps=3]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
 - Upgrade advisable only if performed by a good technician `[ps=3]` — [[study-2001-upgrading-to-windows-xp-a-long-and-winding-road-ps-81e090]]
 - Raft of new features supporting audio and visual digital media and networking `[ps=3]` — [[study-2001-upgrading-to-windows-xp-a-long-and-winding-road-ps-81e090]]
+- Alienware Navigator Media Center PC: compact Shuttle-based form-factor; 7.4x7.88x11.82 inch footprint; stereo-component black; fits with media components rack; filled with top-end components; Kastner asks 'Who says the PC can't fit in the living room?' `[ps=3]` — [[study-dct-weekly-2003-01-19-mx]]
 - It's time to crank up the planning for the recession-disrupted PC replacement cycle and with the 21st century. `[ps=3]` — [[study-pc-refresh-or-refurb-smb-computing-6-37f090]]
 - Mid-year is an auspicious time for starting or accelerating a PC replacement cycle with Windows XP. `[ps=3]` — [[study-pc-refresh-or-refurb-smb-computing-6-37f090]]
-- They did get that one right. Because it is a stable operating system, the Windows XP launch came and went without much brouhaha. `[ps=3]` — [[study-tech-forecasts-idc-keeps-score-114e08]]

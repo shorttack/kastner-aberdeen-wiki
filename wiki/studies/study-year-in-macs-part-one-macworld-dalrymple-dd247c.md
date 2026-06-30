@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.88
 prescience_obs_count: 8
 ---
 
 # 2004 In Review: Apple — Part One (Year of the iPod, No 3-Peat on G5)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.50 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.40 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Macworld year-in-review recapping Apple's 2004: iPod division split from Mac, 2 million iPods sold in Q4 FY04 contributing to $276M annual profit, Power Mac G5 maxed at 2.5GHz (no 3GHz despite Jobs' mid-2003 promise), PowerBook lines upgraded to 1.5GHz with standard AirPort Extreme and Bluetooth. Peter Kastner (Aberdeen) explains the G5 90nm-transition wall as industry-wide, commending IBM's execution.
 

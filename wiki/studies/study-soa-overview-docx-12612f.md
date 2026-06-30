@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.89
 prescience_obs_count: 9
 ---
 
 # Summary of Peter Kastner's Research on Service-Oriented Architecture (SOA)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.11 over 9 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.22 over 9 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > AI-generated summary of Kastner's SOA research covering key findings on integration/complexity management, business agility, ESB as foundational middleware, vendor landscape, and challenges in governance, security, and ROI realization. Asserts SOA's promise is real but benefits not widely distributed. Traces SOA lineage forward to microservices.
 

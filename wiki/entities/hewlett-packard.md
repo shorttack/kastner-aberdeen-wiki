@@ -13,8 +13,8 @@ successor: "HP Inc. (consumer/PC) and Hewlett Packard Enterprise (enterprise), s
 years_active: "1939-present"
 occurrence_count: 116
 prescience_max: 5.0
-prescience_mean: 1.76
-prescience_obs_count: 278
+prescience_mean: 1.73
+prescience_obs_count: 285
 ---
 
 # Hewlett-Packard Company (Post-Merger)

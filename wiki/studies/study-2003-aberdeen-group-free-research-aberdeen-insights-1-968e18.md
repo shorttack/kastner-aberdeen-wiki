@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.07
 prescience_obs_count: 30
 ---
 
 # Aberdeen Group Free Research: Aberdeen InSights Catalog (2001-2003)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.65 over 37 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.92 over 37 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This publication catalog from Aberdeen Group's free research portal lists approximately 100 Aberdeen InSight briefs published between February 2001 and February 2003, spanning domains including CRM, storage management, wireless technologies, Linux/open source, enterprise applications, supply chain, semiconductors, and IT spending forecasting. Each entry provides the InSight title, publication date, subject domain, author(s), and a brief abstract, collectively representing Aberdeen's research output across that two-year period.
 

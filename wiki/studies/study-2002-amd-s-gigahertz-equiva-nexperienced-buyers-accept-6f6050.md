@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.58
 prescience_obs_count: 12
 ---
 
 # AMD's Gigahertz Equivalency: Inexperienced Buyers Accept Bad Science
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.54 over 13 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.46 over 13 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen White Paper by Peter S. Kastner, published March 2002, critiques AMD's methodology for naming its Athlon XP processors using Gigahertz Equivalency ratings pegged to Intel Pentium 4 clock speeds. Kastner argues the approach is fundamentally flawed: it assumes an unrealistic application usage model, is platform-specific while ignoring memory type differences, is inconsistent between mobile and desktop processors, and improperly uses system-level I/O benchmarks to measure processor-only performance.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
 prescience_obs_count: 4
 ---
 
 # Tech Forecasts: IDC Keeps Score
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.67 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Wired article (Dec 23 2002) by Elisa Batista scoring IDC's 2002 tech-predictions report card and previewing IDC's 2003 forecast. IDC admitted it was off by a year in predicting a 2002 IT-spending recovery; now forecasts companies will replace outdated hardware in 2003 and projects 6% IT-spending growth. Competing analysts project closer to 3%. Craig Lawton (Boston Consulting Group) and Peter Kastner (Aberdeen Group) weigh in — Kastner credits IDC with correctly calling the Windows XP launch as a non-event: 'They did get that one right. Because it is a stable operating system, the Windows XP launch came and went without much brouhaha.' Article also covers Jupiter Research's warning that web-services hype had reached 'hysteria levels' with 82% of executives claiming their companies use web services in some capacity.
 

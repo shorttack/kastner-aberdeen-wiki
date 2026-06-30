@@ -3,7 +3,7 @@ title: "LDAP (Lightweight Directory Access Protocol)"
 slug: "ldap"
 page_type: "technology"
 tags: ["type/technology", "category/protocol", "era/1993-present"]
-tier: 2
+tier: 1
 source_csv: "_master_technologies.csv"
 tech_id: "ldap"
 category: "protocol"
@@ -20,6 +20,11 @@ prescience_obs_count: 3
 # LDAP (Lightweight Directory Access Protocol)
 
 > Aberdeen predicts all proprietary directories headed for extinction as LDAP becomes entrenched; Internet directory standard; core of public infrastructure; security and management backbone.
+
+
+## Summary
+
+
 
 
 ## Top observations

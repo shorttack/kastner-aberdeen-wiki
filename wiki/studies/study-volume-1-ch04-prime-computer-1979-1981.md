@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.04
 prescience_obs_count: 96
 ---
 
 # Chapter 4: Prime Computer (1979-1981)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.41 over 124 usable obs (0 prefiltered, 3 pending) -> medium; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.63 over 124 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Peter S. Kastner recounts his two years at Prime Computer (1979–1981), covering the company's explosive growth as a minicomputer market leader, its hybrid go-to-market strategy built around the proprietary PRIMOS/INFORMATION platform, and his work in market planning across government and commercial verticals. The chapter traces the arc from Prime's peak stock performance to CEO Ken Fisher’s departure, which Kastner reads as an exit signal, and concludes with the strategic lesson that short-term platform advantages built on proprietary lock-in are ultimately undone when industry economics shift toward open, standardized architectures.
 

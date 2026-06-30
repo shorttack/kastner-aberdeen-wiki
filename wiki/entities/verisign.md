@@ -3,7 +3,7 @@ title: "VeriSign"
 slug: "verisign"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "verisign"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 1
 # VeriSign
 
 > , -Privacy Manager, and managed security services hosted by VeriSign.   ## **Partnerships, Acquisitions, Divestitures**   Access
-
-
-## Summary
-
-
 
 
 ## Top observations

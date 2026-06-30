@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.1
 prescience_obs_count: 21
 ---
 
 # DataFocus' NuTCRACKER: Enterprise-Class Unix Applications for NT
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.63 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.63 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group white paper on DataFocus NuTCRACKER for moving enterprise-class Unix applications to Windows NT. Documents IS decision-maker experiences showing Unix apps can be ported to NT in one to two days using NuTCRACKER; cost recovery after 1st-3rd server replacement; one user achieved 100-fold price-performance improvement replacing Sequent SMP cluster with Pentium servers. NuTCRACKER supports Oracle, Informix, Sybase, Tuxedo integration. Strategic Microsoft partnership via Industry Solutions Group. DataFocus revenues ~$7M in 1997 expected to double. NuTCRACKER Version 3.1 released May 1997.
 

@@ -3,7 +3,7 @@ title: "Internet Security Systems Inc. (ISS)"
 slug: "internet-security-systems"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "internet-security-systems"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 12
 # Internet Security Systems Inc. (ISS)
 
 > Founded 1994 by Christopher Klaus at Georgia Tech; IPO 1998; acquired by IBM for $1.36B in October 2006; product lines (SAFESuite, RealSecure, Internet Scanner) integrated into IBM Security Systems Division then Q1 Labs/IBM QRadar
+
+
+## Summary
+
+
 
 
 ## Top observations

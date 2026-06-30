@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.45
 prescience_obs_count: 11
 ---
 
 # Cable and Telco Companies Battle for Home Internet Gateway and Network
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.86 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.07 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Cable and telco providers are competing to capture high-margin home networking and gateway services atop their broadband infrastructure investments in 2002. Aberdeen analyzes how leading hardware vendors are enabling shared gateway services and predicts a long-term convergence battle between cable and telco over broadband delivery, home networking, personal computing, consumer electronics, and video services. The study examines differentiation strategies and implications for emerging suppliers.
 

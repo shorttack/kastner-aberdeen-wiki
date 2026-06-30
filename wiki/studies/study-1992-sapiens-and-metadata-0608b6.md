@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 17
 ---
 
 # Sapiens International Corporation Technology Review
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.32 over 22 usable obs (0 prefiltered, 3 pending) -> medium; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.55 over 22 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group Vice President Peter S. Kastner reviews the technology of Sapiens International Corporation's Sapiens product following a February 1992 site visit, concluding there are no significant technical concerns and that the object-oriented, modular 4GL architecture has a decade-long useful life potential. Written for Alex. Brown & Sons investment bank to support due diligence on Sapiens International (NASDAQ: SPNS), the letter endorses the robustness, modularity, object orientation, productivity benefits, extensibility, and unique 'Positive Thinking' feature of the product while noting performance overhead and training challenges. Kastner predicts Sapiens could become an early market supporter of distributed cooperative-processing, a market Aberdeen believed would grow exponentially in the 1990s.
 

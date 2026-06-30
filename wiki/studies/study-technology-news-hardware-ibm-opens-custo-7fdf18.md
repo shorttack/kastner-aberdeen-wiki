@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.75
 prescience_obs_count: 4
 ---
 
 # IBM Opens, Customizes Power Chips
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.86 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.86 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > TechNewsWorld article (Apr 1 2004, Jay Lyman) on IBM's Power Everywhere event in New York announcing opening of the Power microprocessor architecture to external customization, with China's Culturecom cited as first-mover (Chinese-language-character customization). IBM spokesperson Jim Larkin: 'We want to see the customers themselves do the customization on the microprocessor architecture, and that's never happened before.' Aberdeen chief research analyst Peter Kastner provides the strategic read: 'No one today considers designing a new product by designing the processor to run it, so IBM wants to sell more Power processor cores while not shoving a full-blown microprocessor design down designers' throats.' Kastner frames the play as IBM fighting Intel's two powerhouse architectures (x86 and XScale) for silicon in the next generation of consumer devices — cell phones, set-top boxes, cameras: 'Customization could be done economically and with low technology risk.' Gartner's Martin Reynolds adds the chip-redesign-cost context: 'It's going to be incredibly expensive to redesign chips.'
 

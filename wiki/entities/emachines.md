@@ -13,8 +13,8 @@ successor: "Gateway (2004); then Acer (2007); brand discontinued 2013"
 years_active: "1998-2004"
 occurrence_count: 27
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 6
+prescience_mean: 1.33
+prescience_obs_count: 9
 ---
 
 # eMachines, Inc.
@@ -35,17 +35,17 @@ prescience_obs_count: 6
 - privately-held `[ps=0]` — [[study-dct-gateway-acquires-emachines-2004-03]]
 - #2 brand in retail stores in United States `[ps=0]` — [[study-dct-gateway-acquires-emachines-2004-03]]
 - major shelf space at Best Buy, Circuit City, CompUSA `[ps=0]` — [[study-dct-gateway-acquires-emachines-2004-03]]
-- $686 avg (range $400-$910); 5 SKUs; 2 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $614 avg (range $400-$910); 7 SKUs; 4 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $526 avg (range $400-$840); 5 SKUs; 3 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $566 avg (range $400-$800); 4 SKUs; 4 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $566 avg (range $400-$780); 4 SKUs; 4 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $622 avg (range $400-$900); 5 SKUs; 6 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $552 avg (range $410-$780); 5 SKUs; 3 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $578 avg (range $390-$750); 5 SKUs; 3 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $669 avg (range $390-$1000); 6 SKUs; 4 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $642 avg (range $400-$850); 6 SKUs; 4 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $608 avg (range $370-$850); 6 SKUs; 4 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $599 avg (range $350-$850); 6 SKUs; 4 channels; top CPU: Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- $595 avg (range $370-$850); 11 SKUs; 6 channels; top CPU: Athlon 2600+ — [[study-dct-access-pc-deals-2002-2003]]
-- $585 avg (range $370-$880); 7 SKUs; 5 channels; top CPU: Athlon 2600+ — [[study-dct-access-pc-deals-2002-2003]]
+- No eMachines retail deals this week; neither Best Buy nor Circuit City advertised any eMachines models `[ps=0]` — [[study-dct-weekly-2002-10-27-mx]]
+- eMachines unveiled new models T2042 and T1842; BestBuy already advertising deals on both; T1842 (lower-end) has CD-ROM only vs. T1840's CD-RW+DVD-ROM; T2042 has slightly faster processor and CD-RW+DVD-ROM `[ps=0]` — [[study-dct-weekly-2003-01-05-mx]]
+- All four eMachines models now in stores; T2460 for approximately $650 with monitor and printer at BestBuy stores `[ps=0]` — [[study-dct-weekly-2003-01-19-mx]]
+- eMachines A26EV17F: $680 (2003-01-18) -> $680 (2003-01-18); delta $+0 (+0%); min $680 / max $680 over 1 obs; CPU Athlon 2000+ — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines D2586: $698 (2003-08-24) -> $698 (2003-08-24); delta $+0 (+0%); min $698 / max $698 over 1 obs; CPU Athlon 2500+ — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines T1220: $400 (2002-07-29) -> $400 (2002-09-15); delta $+0 (+0%); min $400 / max $500 over 7 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines T1221: $400 (2002-08-31) -> $400 (2002-09-29); delta $+0 (+0%); min $400 / max $475 over 4 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines T1440: $500 (2002-07-29) -> $500 (2002-09-29); delta $+0 (+0%); min $400 / max $500 over 9 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines T1742: $400 (2002-10-06) -> $400 (2002-12-23); delta $+0 (+0%); min $400 / max $400 over 12 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines T1840: $550 (2002-10-06) -> $500 (2002-12-23); delta $-50 (-9%); min $500 / max $600 over 12 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines T1842: $440 (2003-01-04) -> $400 (2003-03-30); delta $-40 (-9%); min $390 / max $520 over 12 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines T1860: $760 (2002-07-29) -> $600 (2002-08-18); delta $-160 (-21%); min $600 / max $760 over 3 obs; CPU Athlon 1800+ — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines T1862: $600 (2002-08-24) -> $600 (2002-09-07); delta $-0 (-0%); min $600 / max $760 over 3 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
+- eMachines T2042: $540 (2003-01-04) -> $500 (2003-03-30); delta $-40 (-7%); min $490 / max $680 over 12 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]

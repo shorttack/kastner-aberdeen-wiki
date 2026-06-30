@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 3.11
 prescience_obs_count: 19
 ---
 
 # Project eLiza Positioning and Messaging Workshop Report
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.23 over 35 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.57 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group consulting deliverable to IBM following the May 16, 2001 Somers positioning workshop for Project eLiza — IBM's self-managing, self-healing server architecture initiative. Provides a high-level computing vision and three key messages (Best Practices Automation, Simplification, Lower Cost) mapped to three stakeholder classes (LOB Executive, IT Management & Staff, Internal/External Users). Predicts 'computers managing computers' in five to ten years. Flag: IBM-internal confidentiality.
 

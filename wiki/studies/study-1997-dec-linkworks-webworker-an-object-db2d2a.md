@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.33
 prescience_obs_count: 21
 ---
 
 # DEC LinkWorks WebWorker — An Object Framework that Tames the Web
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.50 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.21 over 28 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profile of Digital Equipment Corporation's LinkWorks WebWorker — a distributed object framework enabling enterprise document management and workflow to extend to the Web via any browser. The study highlights DEC's three-year head start in distributed object deployment over Sun, Netscape, IBM and Microsoft who had only white papers. Evaluates architecture, security, ROI, and recommends enterprise IS organizations evaluate LinkWorks for extending business processes to customers and partners.
 

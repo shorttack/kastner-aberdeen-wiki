@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 12
 ---
 
 # What Have We Learned From the Tandem and Datapoint Billings and Bookings Blunders? Or, Did Wall Street Make Them Do It?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.60 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.87 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Executive Viewpoint #2 examines the structural pressures that led to the billing and booking accounting irregularities at Tandem Computers and Datapoint Corporation. Casale argues that Wall Street's quarterly earnings treadmill—where pension sponsors rank managers quarterly, managers demand near-term corporate earnings, and corporations inflate results to protect their stock—creates systemic pressure on hypergrowth companies to smooth or accelerate reported earnings. The newsletter introduces the fictional composite firm Fast Track Incorporated (FTI) to personify the dynamics of hypergrowth under investor scrutiny.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 14
 ---
 
 # The New HP Stands Up to be Counted
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.62 over 16 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.40 over 15 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This Aberdeen InSight by Peter S. Kastner, published November 15, 2002 — the same day Michael Capellas resigned as HP president — argues that the market's 11% HPQ selloff on Capellas' departure was an overreaction. Kastner asserts that despite upcoming disappointing quarterly results, the merged HP/Compaq entity has a stronger long-term trajectory than at merger announcement 14 months prior, and outlines the strategic pillars supporting a bullish HP outlook: StorageWorks, Zero Latency Enterprise (ZLE), Itanium, Bluestone middleware, OpenView management, iPaq, and printer dominance.
 

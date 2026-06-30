@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.6
 prescience_obs_count: 15
 ---
 
 # Tech Watching Is Fast Becoming an Industry to Watch (Wall Street Journal, March 19, 1998)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.79 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.74 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > William M. Bulkeley writes in the Wall Street Journal (March 19, 1998, page B7) that U.S. computer-industry research firms' revenue will rise ~28% in 1998 to $3 billion (Gartner Group forecast). Profiles the major firms in a 'Who's Who' table: Aberdeen (35 analysts, marketing consulting/training, buyer=computer makers), Forrester (75, trend-spotting), Gartner Group (550, the giant), Giga Group (75), International Data (135), Intelliquest Info (market research), Meta Group (111), Yankee Group (100, telecom). Quotes Marsha Haugen (HP market research manager, $4M/year spend), Rick O'Coin (Aetna team leader), Robert Paquin (L.L. Bean VP information services, Meta client), John W. Harmon (GAO CIO, $100K/year Gartner), Deon Babiuk (IPL Energy Calgary, cut $60K Gartner spend), Leonard Tenner (Hewitt Associates CIO), Sherri Wolf (Adams Harkness Hill analyst: '80% recurring revenue, 15-20% pretax operating margins'), and George Colony (Forrester president: 'McKinsey-like consultants are selling time — they're like dentists'). 1997 revenue figures: Gartner $511.2M (+30%), Meta $51.2M (+38%), Forrester $40.4M (+62%).
 

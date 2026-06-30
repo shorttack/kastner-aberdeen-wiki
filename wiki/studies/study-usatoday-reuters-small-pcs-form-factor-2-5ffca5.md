@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.5
 prescience_obs_count: 4
 ---
 
 # Small Is Huge in PCs These Days
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.83 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.83 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Reuters reports the rise of small-form-factor PCs designed for the living room. Gartner forecasts shipment volume rising from 1.2M units (2003) to 32.1M (2008). Peter Kastner of Aberdeen Group describes 'the next form factor battles being fought in the living room' as size and decor begin to matter. Gateway's 901 Family Room Media Center exemplified the trend at $1,000-2,000.
 

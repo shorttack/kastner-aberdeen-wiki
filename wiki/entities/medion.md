@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $837 avg (range $750-$900); 1 SKUs; 1 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
-- $750 avg (range $750-$750); 0 SKUs; 1 channels; top CPU: Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
+- Medion : $750 (2003-08-10) -> $750 (2003-08-10); delta $+0 (+0%); min $750 / max $750 over 1 obs; CPU Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]
+- Medion 8314b: $900 (2003-05-04) -> $750 (2003-05-25); delta $-150 (-17%); min $750 / max $900 over 4 obs; CPU Pentium 4 — [[study-dct-access-pc-deals-2002-2003]]

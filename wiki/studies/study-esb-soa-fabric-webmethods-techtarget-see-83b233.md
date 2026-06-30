@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 3.0
 prescience_mean: 1.8
 prescience_obs_count: 5
 ---
 
 # The traditional ESB gets weaved into an SOA fabric
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.30 over 10 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > SearchWebServices / TechTarget article (Dec 21 2006, Rich Seeley) on the evolution of the enterprise service bus (ESB) category, triggered by the launch of webMethods Fabric 7.0. Peter S. Kastner, VP Enterprise Integration at Aberdeen Group, is a central voice. His key findings: (1) EAI is not dead — 'We found almost nobody who is willing to abandon their investments in EAI just to buy an ESB'; (2) 'My hypothesis going into the year was that the EAI companies would take it on the chin. The reality is the vast majority of their customers are fairly easily connecting SOA via adapters to their EAI fabric or infrastructure' — Kastner publicly updates his prior prediction; (3) BPM-ESB convergence is widespread: 'We're seeing at this point that roughly 50 percent of the Global 5000 are actively engaged in business process management development.' AMR Research's Bill Swanton and webMethods CTO Marc Breissinger round out the SOA-BPM-ESB convergence narrative. Burton Group's 'middleware fabric' terminology is cited.
 

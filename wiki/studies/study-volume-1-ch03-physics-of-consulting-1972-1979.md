@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.95
 prescience_obs_count: 62
 ---
 
 # Chapter 3: Eight Years in the Physics of Consulting (1972–1979)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.24 over 75 usable obs (0 prefiltered, 3 pending) -> medium; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.37 over 75 usable obs (0 prefiltered, 3 pending) -> medium; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Peter Kastner recounts his eight years (1972–1979) at Arthur D. Little (ADL) in Cambridge, where he shifted from machine-level programming at Philip Hankins Inc. to broad-based consulting across banking, healthcare, manufacturing, utilities, and public safety. Through engagements at Chase Manhattan Bank, a Rio de Janeiro hospital, Continental Forest Industries, Wisconsin Electric, Hampton VA Police, Houghton Mifflin, and United Shoe Machinery, he developed a systems-failure taxonomy centered on organizational, political, and financial misalignment rather than purely technical failure. The chapter closes with Kastner’s capitalist awakening: watching the minicomputer revolution invert the economics of computing, he left ADL for Prime Computer, trading a coding pad for a market-shaping role.
 

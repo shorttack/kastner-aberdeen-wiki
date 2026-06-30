@@ -3,7 +3,7 @@ title: "Oracle InterOffice (Pegasus)"
 slug: "oracle-interoffice"
 page_type: "technology"
 tags: ["type/technology", "category/enterprise-groupware", "era/1.0 (initial release, code-named Pegasus)"]
-tier: 2
+tier: 1
 source_csv: "_master_technologies.csv"
 tech_id: "oracle-interoffice"
 category: "enterprise-groupware"
@@ -20,6 +20,11 @@ prescience_obs_count: 41
 # Oracle InterOffice (Pegasus)
 
 > Oracle InterOffice was discontinued in the late 1990s as Oracle shifted strategy toward Oracle Collaboration Suite and later Oracle WebCenter. Never achieved significant market penetration against Exchange and Notes. | Successor: Oracle Collaboration Suite / Oracle WebCenter
+
+
+## Summary
+
+
 
 
 ## Top observations

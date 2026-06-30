@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.44
 prescience_obs_count: 18
 ---
 
 # Network Operating Systems: 1998 Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.58 over 19 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.21 over 19 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary on Network Operating Systems (NOS) covering Microsoft Windows NT Server, Novell NetWare/IntranetWare, and IBM OS/2 Warp Server. The report addresses key strategic questions about NOS viability in an Internet era and assesses the competitive landscape among the three major NOS vendors. Aberdeen finds that NOSs remain essential even as Internet infrastructure grows and that Novell's market leadership will be tested by the NetWare 5 launch.
 

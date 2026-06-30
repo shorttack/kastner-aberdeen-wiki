@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.08
 prescience_obs_count: 12
 ---
 
 # Communicating Business Intelligence Through Computer-Telephony Integration
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.39 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.94 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 study on Computer-Telephony Integration (CTI) documented the shift of CTI from dedicated call centers to enterprise-wide deployment, predicting CTI would redefine on-premise telephony network architecture and significantly impact the PBX market. Authored by Bill Hills, the 79-page report profiled 16 CTI suppliers across traditional PBX-based and emerging server-based architectures, identifying packet-switched telephony, unified messaging, and internet telephony as emerging disruptors. It assessed three CTI architectures — mainframe/PBX, client-server with PBX, and client-server without PBX — and identified strategic management of customers as the primary business driver.
 

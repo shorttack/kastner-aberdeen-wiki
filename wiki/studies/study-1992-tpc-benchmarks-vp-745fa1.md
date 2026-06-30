@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.97
 prescience_obs_count: 30
 ---
 
 # Better Performance and Lower Prices Through TPC Benchmarks
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.77 over 40 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 40 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > First comprehensive independent analysis of TPC benchmarks' impact on buyer value. Aberdeen Group examines how Transaction Processing Council benchmarks TPC-A, TPC-B, and TPC-C transformed commercial performance measurement from unreliable vendor claims ('benchmarketing') into a rigorous standard. The study documents dramatic price-performance improvements (79% drop in K$/TPS-A since 1990), analyzes Digital Equipment's VAX benchmark realignment, and profiles Hewlett-Packard's gains. Includes predictions on TPC-C adoption and continued buyer benefits through 1993.
 

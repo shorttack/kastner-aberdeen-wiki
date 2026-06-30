@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.68
 prescience_obs_count: 19
 ---
 
 # Remote Access: Cisco's Untold Story
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.93 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.73 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group examines Cisco Systems' remote access strategy as of November 1996, revealing Cisco's 'untold story' of quietly dominating the enterprise branch-to-branch segment (60%+ market share) while making aggressive inroads into the high-end ISP and carrier markets with the AS5200 access server. The study evaluates Cisco's multi-product portfolio (AS5200, 3600, 1600 series), IOS software competitive advantages, and the Telebit MICA technology acquisition, predicting Cisco is better positioned than competitors to serve the rapidly evolving ISP/carrier market.
 

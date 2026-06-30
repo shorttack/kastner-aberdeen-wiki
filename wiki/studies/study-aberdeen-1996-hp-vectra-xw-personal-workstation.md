@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 18
 ---
 
 # The Vectra XW Personal Workstation: Hewlett-Packard's NT-based Alternative for Technical Computing
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.08 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.71 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Hewlett-Packard's Vectra XW personal workstation, the company's first major Windows NT/Intel platform aimed at technical computing markets traditionally served by Unix/RISC workstations. The study analyzes HP's mixed NT-Unix strategy, benchmarks the Vectra XW against Silicon Graphics Indigo 2 and NeTpower Calisto, evaluates software solution supplier relationships in MDA/EDA/GIS markets, and concludes HP has built a compelling price/performance alternative that threatens low-end Unix workstations.
 

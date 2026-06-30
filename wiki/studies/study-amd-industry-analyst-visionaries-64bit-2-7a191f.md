@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.86
 prescience_obs_count: 7
 ---
 
 # Industry Analyst Visionaries on 64-bit Computing
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.62 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.25 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > AMD curates 64-bit-computing perspectives from major IT analysts ahead of the AMD64 (Opteron/Athlon 64) launch wave. Peter Kastner of Aberdeen Group provides one of the most explicit predictions: the majority of consumer 64-bit demand arrives by end of decade, and mainstream desktops will need full 64-bit RAM addressability by 2010 due to declining memory prices, additional OS features, and web services.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.13
 prescience_obs_count: 23
 ---
 
 # Realistic Goals for Client-Server Computing
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.50 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.70 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group defines and evaluates the client-server computing paradigm across five critical planning areas: client hardware options, scalable server architectures, legacy system roles, systems software transitions, and network infrastructure. The study covers current client-server implementations and traces the evolution to advanced designs including distributed relational and object-oriented databases, cascading server-to-server transactions, and intelligent high-speed networks. Aberdeen concludes that client-server drives the next-generation computing vision but warns that the installed base technology does not yet fully support the vision and that significant non-technical barriers—management vision, process reengineering, and training—must be overcome.
 

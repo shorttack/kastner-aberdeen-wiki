@@ -3,7 +3,7 @@ title: "webMethods, Inc."
 slug: "webmethods"
 page_type: "entity"
 tags: ["type/entity", "entity-type/organization"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "webmethods"
 entity_type: "organization"
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # webMethods, Inc.
 
 > Third primary ESB vendor (29% overall); incumbent EAI vendor; no ESB per se but products perform ESB functions; EAI functional equivalency protecting investments | Source: Software AG acquired webMethods for $546 million in April 2007. https://www.cnbc.com/2007/04/05/software-ag-snaps-up-webmethods-for-546-million.html
+
+
+## Summary
+
+
 
 
 ## Top observations

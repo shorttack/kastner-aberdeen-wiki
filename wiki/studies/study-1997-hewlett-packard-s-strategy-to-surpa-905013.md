@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.74
 prescience_obs_count: 19
 ---
 
 # Hewlett-Packard's Strategy to Surpass Compaq in the Enterprise-NT Marketplace
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.57 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.43 over 23 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group examines HP's Simplified Enterprise Computing (SEC) strategy and predicts HP has a legitimate shot at becoming the NT market leader over Compaq by late 1998. The paper analyzes HP's SEC framework (TCO reduction, HP/Microsoft joint solutions, heterogeneous interoperability), Compaq's weaknesses at the enterprise level, and Compaq's Tandem acquisition. Aberdeen concludes HP's enterprise experience, service infrastructure, and Microsoft partnership give it decisive advantages over Compaq in the high-end NT market.
 

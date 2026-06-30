@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.2
 prescience_obs_count: 20
 ---
 
 # AS/400 and the Year 2000: IBM Leading Users Across an Unknown Chasm
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.17 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.07 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group market viewpoint examining the Year 2000 (Y2K) problem specifically in the context of IBM AS/400 and System/3X installed base. Published September 27, 1996 as Volume 9, Number 17. Praises IBM's AS/400 division for proactive Y2K leadership — releasing OS/400 Version 3 as Year 2000 safe, publishing lists of compliant software, recruiting professional service organizations, and developing date-assessment tools. Contrasts IBM's approach favorably against other hardware suppliers.
 

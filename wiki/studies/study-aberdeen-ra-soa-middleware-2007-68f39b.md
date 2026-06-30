@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 4.0
 prescience_obs_count: 2
 ---
 
 # SOA Middleware Takes the Lead: Picking Up Where Web Services Leaves Off
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 3 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 3 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group benchmark report by Perry Donham (Director, Enterprise Integration Research) on the evolution from web services to SOA middleware (ESB and related). Identifies how leading enterprises move beyond point-to-point web-services integration to mature SOA middleware platforms enabling reuse, governance, and operational management.
 

@@ -3,7 +3,7 @@ title: "CompuServe Corporation"
 slug: "compuserve"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "compuserve"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 1
 # CompuServe Corporation
 
 > Cited as large information services market prospect; acquired by H&R Block then spun off; acquired by AOL 1998
+
+
+## Summary
+
+
 
 
 ## Top observations

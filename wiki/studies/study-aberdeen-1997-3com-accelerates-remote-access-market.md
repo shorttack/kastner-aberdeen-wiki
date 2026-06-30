@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.58
 prescience_obs_count: 12
 ---
 
 # 3Com Accelerates into Remote Access Market
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.60 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.90 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group assesses 3Com Corporation's strategic expansion into the remote access market as of early 1997, following a year of acquisitions (Centrum, AccessWorks, Primary Access, Sonix) and product launches. The study describes the four market segments of remote access (enterprise, SOHO, individual user, ISP/carrier), evaluates 3Com's three solution families (AccessBuilder, NetBuilder, Impact), and concludes that while 3Com is not yet the market leader it has a logical and executable strategy, with its greatest strength in the SOHO segment and its channels as its most valuable competitive asset.
 

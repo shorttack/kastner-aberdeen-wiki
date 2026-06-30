@@ -13,8 +13,8 @@ successor: "Compaq (1998) then HP (2002)"
 years_active: "1968-present"
 occurrence_count: 50
 prescience_max: 5.0
-prescience_mean: 1.55
-prescience_obs_count: 168
+prescience_mean: 1.59
+prescience_obs_count: 172
 ---
 
 # Digital Equipment Corporation (DEC)
@@ -37,6 +37,7 @@ prescience_obs_count: 168
 - x86-64 won server market `[ps=5]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
 - More than 2 billion/year by end of 2010s `[ps=5]` — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]
 - Millions of SSDs; rapid adoption by mid-decade `[ps=5]` — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]
+- Centrino = Intel Pentium M mobile processor + chipset + 802.11 wireless Ethernet adapter and radio; built from ground up for 5+ hour battery life and better performance than P3/P4 mobile `[ps=5]` — [[study-dct-business-2003-03-17-pc-deals-mx]]
 - Semiconductor-sector sell-off; semis viewed as leading tech out of two-year recession `[ps=5]` — [[study-dct-dceit-observations-2002-06]]
 - 300mm wafers at 0.13 micron yield more chips at much lower cost per chip `[ps=5]` — [[study-dct-dceit-observations-2002-06]]
 - Intel did not ship x86-64 (EM64T/Intel 64) in volume until mid-2004 (Nocona Xeon) and 2005 desktop (Pentium 4 6xx) — corroborates AMD-early thesis since even the dominant x86 vendor held back 12-24 months `[ps=5]` — [[study-dct-memoir-athlon-64-prescience-2003]]
@@ -48,4 +49,3 @@ prescience_obs_count: 168
 - Intel P4 Extreme Edition specification: 3.2 GHz, 2 MB L3 cache, 'gamer processor' positioning, 30-60 day availability. `[ps=5]` — [[study-intel-idf-pk-notes-3-6666da]]
 - BTX form factor adoption was minimal as predicted. Intel canceled future BTX retail product development in September 2006 after switching to lower-power Core microarchitecture. Only Gateway, Dell, HP, and Fujitsu-Siemens adopted BTX for limited product lines. ATX remained dominant throughout. `[ps=5]` — [[study-intel-idf-pk-notes-3-6666da]]
 - Paul Otellini at Fall 2004 IDF officially lowered the curtain on two decades of ever-increasing clock frequencies as the principal tactic for increasing PC/server performance — shifting to parallelism (multi-core). `[ps=5]` — [[study-intel-longlivedualcore-revised-5-fa8298]]
-- Pentium M Dothan: 2GHz, 21W, 140M transistors — matches 3.2GHz Prescott (82W, 125M transistors) performance at ~1/4 the power. Dothan uses slightly slower transistors, a dramatic power-consumption win. `[ps=5]` — [[study-intel-longlivedualcore-revised-5-fa8298]]

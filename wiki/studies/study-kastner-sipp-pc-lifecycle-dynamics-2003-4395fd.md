@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.4
 prescience_obs_count: 5
 ---
 
 # PC Lifecycle Dynamics (SIPP Florida speech)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.70 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.90 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Speech delivered by Peter S. Kastner (Executive Vice President and Chief Research Officer, Aberdeen Group) at the SIPP conference in Florida on June 30, 2003. The 25-slide deck on PC Lifecycle Dynamics covers client-side goals vs realities, Aberdeen's Best Practices framework prioritized by ROI, image stability, total cost of ownership analytics, and case studies in Communications, Financial Services, and Beverages industries. Audience polls open the deck on TCO analytics maturity. Aberdeen Best Practices ranking: standard images on common platforms, automated backup/restore/healing, software distribution, device synchronization, remote control, and thin clients.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.3
 prescience_obs_count: 10
 ---
 
 # Peter Kastner's Wish List
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.44 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.33 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Kastner's personal 2002 holiday wish list of six digital consumer technology products: HP Scanjet 5500c, Dell Axim X5 Pocket PC, Viewsonic NextVision N6 PC-HDTV bridge, Gateway Profile 4 XL all-in-one, nVidia GeForce FX graphics card, and Davis Instruments Vantage Pro Plus weather station. Each item is framed as both a consumer product and an industry signal.
 

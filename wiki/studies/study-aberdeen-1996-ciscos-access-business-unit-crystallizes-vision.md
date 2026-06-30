@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.56
 prescience_obs_count: 18
 ---
 
 # Cisco's Access Business Unit Crystallizes Its Vision
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.04 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.22 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Cisco Systems' Access Business Unit (ABU) January 1996 product rollout, assessing the company's strategy to dominate all segments of the remote access market: ROBO, dial-up/access server, SOHO, and embedded/server-based systems. The study traces Cisco's 15-month journey through acquisitions (Combinet, Internet Junction, Network Translation) and product launches (AS5200, 750 series, CiscoRemote, CiscoPro), arguing that Cisco's IOS software is becoming the de facto standard for remote access. Aberdeen concludes that Cisco's end-to-end access strategy across carrier, enterprise, SOHO, and home segments has all the ingredients of a successful win strategy.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.67
 prescience_obs_count: 12
 ---
 
 # Microsoft Business Solutions - The New Wave at Stampede
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.79 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.86 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > At the Stampede partner conference Microsoft Business Solutions (MBS) unveiled a roadmap for business solutions infrastructure targeting small to midsize enterprises (SMEs). The study examines MBS's 'surround' strategy placing business-specific applications atop the business platform, and covers CRM, professional services automation (PSA), and manufacturing applications under Great Plains, Navision, and Salomon product lines. Aberdeen identifies the challenge of owning the full business 'stack' against established ISVs and competing ERP vendors.
 

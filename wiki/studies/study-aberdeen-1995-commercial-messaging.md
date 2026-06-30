@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.03
 prescience_obs_count: 30
 ---
 
 # Commercial Messaging: The Keystone Of Strategic Long-Term Distributed Computing
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.14 over 42 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.10 over 42 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This 1995 Aberdeen Group white paper examines Commercial Messaging—store-and-forward messaging middleware—as a foundational component of enterprise distributed computing architecture, arguing that IS organizations are underutilizing the technology despite its growing presence in products like IBM MQSeries, Lotus Notes, and second-generation client-server application development environments (CADEs). Using industry analysis and market assessment, Aberdeen surveys the emerging Commercial Messaging market (estimated below $100 million standalone, embedded in billion-dollar e-mail and groupware markets), evaluates leading products including IBM MQSeries, HP OpenMail, and CADE tools from Forte and Seer Technologies, and finds that IBM MQSeries leads on flexibility, scalability, and programmability. Key findings include that data-warehouse databases are growing 6-7x in 18 months, that CORBA and Microsoft distributed-object platforms will not deliver Commercial Messaging capabilities in the near term, and that failure to adopt Commercial Messaging will create a growing mass of legacy networking-limited applications requiring costly retrofits; Aberdeen recommends that IS buyers immediately incorporate Commercial Messaging—particularly IBM MQSeries—into enterprise infrastructure strategy.
 

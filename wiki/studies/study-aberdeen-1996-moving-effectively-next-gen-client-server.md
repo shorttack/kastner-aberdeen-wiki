@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.09
 prescience_obs_count: 23
 ---
 
 # Moving Effectively To Next-Generation Client-Server Development
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.67 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.40 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group white paper, sponsored by Gupta Technologies, argues that first-generation client-server application development environments (CADEs) such as Visual Basic and PowerBuilder are 'topping out' and recommends immediate adoption of next-generation CADEs. The study provides an evaluation framework for next-generation CADE selection and positions Gupta's Centura product as the leading choice for organizations migrating from first-generation toolsets.
 

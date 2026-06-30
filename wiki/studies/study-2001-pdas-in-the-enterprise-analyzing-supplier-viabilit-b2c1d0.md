@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 12
 ---
 
 # PDAs in the Enterprise: Analyzing Supplier Viability
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.24 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.06 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > In September 2001, Aberdeen Group evaluated leading PDA vendors using its Market Positioning Pyramid (MPP) framework to assess both product quality and supplier viability. The study argues that brand awareness and market share alone do not determine PDA market leadership. The analysis covers Palm, Microsoft/Pocket PC, Compaq, Handspring, HP, Symbol Technologies, Sony, Toshiba, Casio, Sharp, NEC, Psion, and emerging players.
 

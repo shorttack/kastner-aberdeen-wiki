@@ -3,7 +3,7 @@ title: "Customer Behavior Analysis"
 slug: "groupware"
 page_type: "technology"
 tags: ["type/technology", "category/Enterprise Collaboration", "era/1990s-present"]
-tier: 2
+tier: 1
 source_csv: "_master_technologies.csv"
 tech_id: "groupware"
 category: "Enterprise Collaboration"
@@ -20,6 +20,11 @@ prescience_obs_count: 3
 # Customer Behavior Analysis
 
 > MAPICS solutions for manufacturing including extended ERP, CRM, and supply chain management; implemented on Microsoft and IBM platforms; 10000+ customer sites
+
+
+## Summary
+
+
 
 
 ## Top observations

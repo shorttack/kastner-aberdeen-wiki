@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.81
 prescience_obs_count: 21
 ---
 
 # Vertical Industry Solutions: Baan Leads In Innovation
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.59 over 27 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.26 over 27 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's July 1997 Market Viewpoint evaluates the vertical industry strategies of the three leading ERP vendors — Baan, Oracle, and SAP — using a three-dimension framework (Interface, Integration, Innovation). Aberdeen finds Baan's Orgware business process modeling tool gives it a 12–18 month lead over SAP and 18–24 months over Oracle in the Innovation dimension critical to vertical market differentiation. The study predicts that if Baan continues its technology-led strategy, it will remain among market leaders a decade hence — a prediction that proved incorrect when Baan collapsed financially and was sold to Invensys in 2000.
 

@@ -3,7 +3,7 @@ title: "American Institute of Certified Public Accountants"
 slug: "aicpa"
 page_type: "entity"
 tags: ["type/entity", "entity-type/institution"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "aicpa"
 entity_type: "institution"
@@ -20,11 +20,6 @@ prescience_obs_count: 1
 # American Institute of Certified Public Accountants
 
 > Its manual contained a brief chapter on performance auditing that Kastner used as a procedural basis for TPC benchmark auditing.
-
-
-## Summary
-
-
 
 
 ## Top observations

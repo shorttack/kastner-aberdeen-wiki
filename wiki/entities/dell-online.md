@@ -24,3 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Last week was great time to customize at dell.com; this week prices surged over $200; represents Dell's back-to-school seasonal pricing pattern — [[study-dct-weekly-2003-08-17-mx]]

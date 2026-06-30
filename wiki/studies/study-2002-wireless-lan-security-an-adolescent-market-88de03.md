@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.58
 prescience_obs_count: 12
 ---
 
 # Wireless LAN Security: An Adolescent Market
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.89 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This InSight addresses the challenge IT decision-makers face in securing wireless LAN environments and identifies three critical capabilities: VPNs, personal firewalls, and seamless WAP hand-off solutions. The study profiles the emerging WLAN security vendor landscape including AirDefense, Blue Socket, Cranite, Ecutel, Fortress Technologies, ReefEdge, and others, framing WLAN security as an adolescent market in need of maturation.
 

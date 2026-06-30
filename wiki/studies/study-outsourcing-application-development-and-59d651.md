@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.35
 prescience_obs_count: 23
 ---
 
 # Outsourcing Application Development and Maintenance: Joining Cost Savings with IT Human Asset Management
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.34 over 35 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.57 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen benchmark report examines the drivers, practices, and outcomes of outsourcing application development and maintenance (ADM) among ~125 global enterprises. Using Aberdeen's Competitive Framework (Best in Class / Industry Average / Laggard), the study finds that Best in Class organizations save 56% versus in-house development — more than twice Industry Average savings of 26%. Key findings include: application development/maintenance is the #1 IT outsourcing target (80% of respondents); India dominates as the outsourcing destination (46-55% of work); North American firms are more cost-sensitive than global peers; mid-size firms prioritize skill acquisition over savings; and near-shore arrangements are gaining popularity. The report was underwritten by IBM Global Services, Softtek, and Unisys.
 

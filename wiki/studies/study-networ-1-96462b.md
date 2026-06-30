@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.87
 prescience_obs_count: 15
 ---
 
 # Networking: 1998 Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.09 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary covering the enterprise networking market — including LAN/WAN technologies, hubs, routers, switches, and high-speed networking. The report profiles major networking suppliers including Cisco, 3Com, Bay Networks, and Cabletron, and identifies key market trends such as the transition from hubs to switches, the rise of Gigabit Ethernet, and the impact of Internet traffic on network design. It also addresses Year 2000 compliance concerns for network infrastructure.
 

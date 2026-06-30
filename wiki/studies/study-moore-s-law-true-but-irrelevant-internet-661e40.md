@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.67
 prescience_obs_count: 6
 ---
 
 # Moore's Law: True But Irrelevant
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.57 over 7 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.57 over 7 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > InternetNews.com piece pitting Gartner's Mark Margevicius ('no software coming anytime soon that needs more desktop performance') against Aberdeen Group's Peter Kastner, who disagrees. Kastner argues Windows 98/NT machines are obsolescent, corporate buyers should move to Office 2003 for collaboration productivity, and that the multi-process, multi-threaded workload of a modern PC ('40 processes going on when I'm checking email') will make CPU performance matter again on the desktop. He cautions IT managers that lengthening the desktop upgrade cycle is 'penny wise, pound foolish.'
 

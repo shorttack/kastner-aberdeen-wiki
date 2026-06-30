@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 15
 ---
 
 # PC Replacements: Lawyers, Auditors, and Common Sense Rules
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.81 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.67 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen InSight arguing that the roughly 50 million Windows 98 / NT 4 corporate PCs still in service by mid-2003 should be accelerated off the desktop. Windows NT 4.x end-of-support (June 30, 2003) and Windows 98/SE (January 16, 2004) expose enterprises to unpatched security risk, auditor scrutiny, and potential negligence claims. Mid-2003 is framed as an auspicious PC replacement window anchored by Windows XP Pro SP1, Server 2003, Office 2003, Intel Springdale, Pentium 4 Hyper-Threading, and Centrino notebooks.
 

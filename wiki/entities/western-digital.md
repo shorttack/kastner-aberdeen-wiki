@@ -3,7 +3,7 @@ title: "Western Digital"
 slug: "western-digital"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "western-digital"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # Western Digital
 
 > Named as competitor with 'substitute' disk positioning (same capacity, 30% discount); survey data shows this is a weaker proposition than Maxtor's complementary positioning.
+
+
+## Summary
+
+
 
 
 ## Top observations

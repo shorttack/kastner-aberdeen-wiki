@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 1
 ---
 
 # Opteron's First Year All About Linux - But What About Later?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.50 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.25 over 4 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > LinuxPlanet feature assessing AMD Opteron's first year in market. Peter Kastner of Aberdeen Group characterizes Opteron as strong in scientific/technical Linux workloads but as 'a pond of only a few thousand enthusiasts'; Tom Halfhill counters that once 64-bit x86 is entrenched, Linux may retain a larger mindshare than Windows on the platform. Article maps near-term Opteron/Linux coupling and longer-term Windows x86-64 threat.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.75
 prescience_obs_count: 4
 ---
 
 # Tablet Offers High-Risk, High-Reward Portable PCs
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.60 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.80 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > InformationWeek feature (Dec 17 2001) by Aaron Ricadela on Microsoft's Tablet PC initiative, championed by Bill Gates as a natural evolution from laptops. The article walks through the Tablet PC architecture (standard laptop components + Windows XP Tablet PC Edition + digital-ink stylus), vendor launches planned for late 2002 from Acer, Compaq, Fujitsu, Toshiba and others, and key use cases (field sales, healthcare, construction, meeting notes). Peter Kastner, analyst at Aberdeen Group, provides a key cautionary quote: 'Microsoft will make a huge positioning mistake if this is viewed as a specialized information-gathering appliance.' Gates predicts one-third to half of laptops by end of 2003 will be Tablets. The article captures the high-expectation pre-launch moment almost a year before the Tablet PC's formal November 2002 ship.
 

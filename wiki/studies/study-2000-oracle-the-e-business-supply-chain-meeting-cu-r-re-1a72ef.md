@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 3.89
 prescience_obs_count: 9
 ---
 
 # The e-Business Supply Chain: Meeting Customer Requirements in the Internet Economy
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.17 over 12 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.83 over 12 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This Aberdeen White Paper, sponsored by Oracle Corporation, defines the requirements for a comprehensive e-Business supply chain solution in the emerging Internet economy. Aberdeen Group analysis identifies eight criteria for an effective e-Business supply-chain solution — from Internet computing architecture to modular design — and concludes that Oracle is well-positioned to deliver a comprehensive, integrated Internet-based supply-chain suite.
 

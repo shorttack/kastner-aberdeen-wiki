@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.67
 prescience_obs_count: 6
 ---
 
 # LANSA Composer: Practical Business Process Integration on System i (BPI/SOA)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.29 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.83 over 6 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > LANSA marketing presentation promoting LANSA Composer as a practical Business Process Integration (BPI) and SOA solution for the IBM System i (iSeries/AS/400) midmarket. Deck opens with two quoted analyst endorsements: Mike Gilpin (Forrester) on web services and Peter Kastner (Aberdeen) on API/screen/message replacement as an on-ramp to SOA. Slides cover transport protocols, data transformation, process orchestration, and ESB/J2EE integration layers.
 

@@ -3,7 +3,7 @@ title: "iSOFT Group"
 slug: "isoft-group"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "isoft-group"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 2
 # iSOFT Group
 
 > Case study company; redesigned QA to end-to-end view for LORENZO product built on SOA; Phil Davies is Director of LORENZO product unit | Source: CSC acquired iSOFT Group for approximately $215 million in April 2011. https://www.digitalhealth.net/2011/04/csc-buys-isoft/
-
-
-## Summary
-
-
 
 
 ## Top observations

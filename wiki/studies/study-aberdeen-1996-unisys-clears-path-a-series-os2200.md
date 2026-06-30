@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.12
 prescience_obs_count: 16
 ---
 
 # Unisys Clears the Path Ahead for A & OS 2200 Series Customers
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.78 over 18 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 18 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Unisys ClearPath HMP (Heterogeneous Multi-Processing) servers, which combine CMOS versions of MCP/AS and OS 2200 enterprise systems with Intel-based Unix/NT SMP servers in a single cabinet. Aberdeen examines how ClearPath gives Unisys's 8,500+ mainframe customers a migration path to open client-server architectures while preserving existing investments. The study notes that Unisys is transitioning from hardware to services, while hardware remains 40% of $6.2B in 1995 revenue.
 

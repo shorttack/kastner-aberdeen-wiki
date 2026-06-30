@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.63
 prescience_obs_count: 30
 ---
 
 # Tired Storage and Capacity-Oriented Disk Drives (SATA) — Another Small Step Toward Data and Information Consolidation
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.63 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.97 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > IDC report based on 50 in-depth executive interviews across 10 North American vertical markets examining enterprise acceptability of SATA/capacity-oriented disk drives in storage arrays. The study provides quantitative forecasts for SATA storage system revenues and HDD shipments 2003-2007 forecasting SATA will reach a quarter or more of storage array terabytes over time. Key findings include that compliance requirements are the primary driver for fixed-content adoption and that software management tools are the primary inhibitor for tiered-storage deployment.
 

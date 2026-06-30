@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.31
 prescience_obs_count: 13
 ---
 
 # Second-Generation PDAs: It's High Time for Wireless
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.07 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.07 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group assessed the PDA market in early 2002 and argued that first-generation devices (focused on personal information management) were insufficient amid the IT spending downturn. The study predicts that 2002 will be the year vendors deliver integrated wireless PIM and e-mail functionality in a secure enterprise manner. Aberdeen reviews wireless PDA devices from Palm, Handspring, and Microsoft and highlights the impending arrival of packaged enterprise mobility solutions.
 

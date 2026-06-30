@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.86
 prescience_obs_count: 22
 ---
 
 # Electronic Commerce Professional Services: 1998 Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.67 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.43 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > A 1998 practice summary analyzing the market for professional services supporting electronic commerce deployment. The report defines four categories of EC professional services providers (OEMs, SSPs, IPSPs, EDI/VAN integrators), identifies key implementation challenges (skills shortages, integration complexity, standards immaturity), and profiles 11 major service providers including IBM, HP, Digital, Microsoft, Oracle, SAP, Cambridge Technology Partners, EDS, GEIS, Sterling Commerce, and Harbinger. Key Aberdeen finding: enterprises are turning to outside service providers because internal IS resources lack EC skills.
 

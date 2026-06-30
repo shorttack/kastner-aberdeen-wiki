@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.26
 prescience_obs_count: 19
 ---
 
 # Pulse Check: How Intel is Scaling to Meet the Decade's Opportunities
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.95 over 22 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.86 over 22 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Kastner blog analysis of Intel's IA (Intel Architecture) scaling strategy — the 'silicon gene-splicing' approach of creating IA variants for every computing tier from embedded SoCs, Atom smartphones, Core desktops/notebooks, to Xeon datacenter and PHI HPC. Projects the 2010s TAM at nearly 1B processors per year, rising to 2B+ by decade end. Reviews Haswell/Baytrail SoCs, Avoton Atom for micro-servers, and challenges around software delivery, sub-10nm scaling, missed-iPhone, and mobile-vs-PC substitution dynamics. Includes a personal recollection of advising NCR and Sequent on 486-based servers in the 1990s.
 

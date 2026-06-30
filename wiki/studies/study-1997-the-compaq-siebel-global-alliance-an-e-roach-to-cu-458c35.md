@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.4
 prescience_obs_count: 5
 ---
 
 # The Compaq Siebel Global Alliance: An Enterprise Approach to Customer Interaction Software
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.44 over 9 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.22 over 9 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates the Compaq Siebel Global Alliance, a partnership program targeting the large-scale enterprise Customer Interaction Software (CIS) market. The program bundles pre-sales, post-sales, and implementation support for Siebel Enterprise Applications on Compaq hardware. Aberdeen concludes the alliance provides significant advantages to organizations seeking to reduce the risk, cost, and implementation time of CIS deployments.
 

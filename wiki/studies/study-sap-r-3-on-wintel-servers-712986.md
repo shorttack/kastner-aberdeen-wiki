@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.59
 prescience_obs_count: 17
 ---
 
 # SAP R/3 on Wintel Servers: To NT or Not to NT...That is the Question
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.74 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.78 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analyzes SAP R/3 Standard Application Benchmark results on Windows NT / Intel (Wintel) servers, comparing performance and price-performance against Unix alternatives. The study reviews three SAP-certified SD benchmarks from Data General and Hewlett Packard (900+ concurrent users; 4,717 SAPS peak), assesses NT's readiness for mid-range enterprise deployments of 250-500 concurrent users, and predicts that NT will challenge Unix at all performance levels within 12-18 months. Aberdeen recommends organizations with up to 500 concurrent users consider Wintel deployments while cautioning that SQL Server lags Oracle by less than 20% for mid-range use cases.
 

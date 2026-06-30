@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 12
 ---
 
 # The Business Value of Applications Hosting
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.85 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.60 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Interliant, a Lotus Notes Net Service Provider Alliance Partner (NSPAP), articulating the economic and operational case for outsourcing groupware hosting to specialist providers. The study documents how enterprises can eliminate the complexity of wide-area network build-out by delegating Lotus Notes and Domino hosting to Interliant, which manages over 20,000 Notes databases for 2,000+ customers globally. Aberdeen concludes Interliant is best-positioned to manage hosted application infrastructure and recommends enterprise CIOs evaluate outsourcing options before building internal network empires for groupware deployments.
 

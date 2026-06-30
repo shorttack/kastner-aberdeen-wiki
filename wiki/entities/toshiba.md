@@ -27,3 +27,4 @@ prescience_obs_count: 1
 - Below Toshiba expectations [PSK disagrees] `[ps=0]` — [[study-dct-personal-it-forecast-research-2001]]
 - 0.20um DRAM and 0.40um SRAM phaseout Q4 2001 — [[study-dct-personal-it-forecast-research-2001]]
 - 15.6% — [[study-dct-q1-2003-pc-shipments]]
+- Toshiba Q1 2003 YoY growth: +15.6% — [[study-dct-q1-2003-pc-shipments-mx]]

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 3.0
 prescience_mean: 1.18
 prescience_obs_count: 17
 ---
 
 # ManageWORKS 2.2 Market Profile
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.45 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.30 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group product profile evaluates Digital Equipment Corporation's ManageWORKS 2.2, a multi-NOS LAN management platform designed for site and workgroup environments of 10 to 800 nodes. The study assesses ManageWORKS' architecture, partner ecosystem, and competitive positioning against McAfee and Symantec's Norton Administrator for Networks, concluding that its open, partner-extensible approach is unique in the market. Aberdeen highlights the product's advantage in enabling best-of-breed integrations across disparate network operating systems.
 

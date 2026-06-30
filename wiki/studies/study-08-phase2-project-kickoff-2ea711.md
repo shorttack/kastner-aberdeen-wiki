@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.69
 prescience_obs_count: 16
 ---
 
 # Aberdeen-Maxtor Phase 2: Pools of Storage Market Development
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.54 over 24 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.71 over 24 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Project kickoff document for Aberdeen Group's Phase 2 engagement with Maxtor Corporation to develop the 'Pools of Storage' concept and launch the midline storage category. Defines scope covering messaging workshop, message testing, and evangelization roadmap. Outlines Aberdeen's interdisciplinary team and a 10-week project timeline beginning November 24, 2003.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.23
 prescience_obs_count: 13
 ---
 
 # WebEx: Taking Conferencing to the Business Communications Summit
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.24 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.35 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Profile examines WebEx Communications, Inc.'s conferencing platform and its private-network infrastructure approach to delivering data-rich online business meetings. The study covers WebEx Meeting Center, WebEx OnCall, WebEx OnStage, and the forthcoming WebEx Training Center, arguing that WebEx's utility-grade infrastructure positions it as the leader in business communications.
 

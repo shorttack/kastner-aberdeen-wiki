@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.67
 prescience_obs_count: 12
 ---
 
 # Can Unisys-Wipro Alliance Cover All Outsourcing Bases?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.82 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen market alert analyzing the Unisys-Wipro IT outsourcing alliance announced December 2006. Drawing on Aberdeen's benchmark survey on Outsourcing Application Development and Maintenance (November 2006), the report contrasts the client experiences of Unisys (U.S.-based, lower cost focus, minimal cultural gaps) versus Wipro (Indian offshore, cost savings dominant, communication/cultural gap challenges). Concludes the alliance is positioned to deliver both offshore cost savings and onshore customer care, having already secured a Fortune 500 managed services deal covering 20,000+ employees in the U.S., Canada, and U.K.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 2.0
 prescience_mean: 0.5
 prescience_obs_count: 6
 ---
 
 # Letter to Sanjay Kumar on CA World 2001
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.60 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.20 over 10 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Post-CA-World-2001 thank-you letter from Peter S. Kastner (Founder and Chief Research Officer, Aberdeen Group) to Sanjay Kumar (CEO, Computer Associates), dated July 19, 2001. Observations include: CA's analyst-relations team (Debra Cattani, Janice Thomas) as industry-leading; CA customer-satisfaction at a nine-year high; the 'CA animosity factor' reduced; press perception lagging reality; dismissive assessment of the 'Ranger situation' (Sam Wyly/Ranger Governance proxy contest); positive review of the 3x6 CA World branding framework.
 

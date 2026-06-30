@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.8
 prescience_obs_count: 10
 ---
 
 # Unisys 'Benchmark Gorilla' Sets New SAP Standard on Windows- and Intel-based ES7000 Database Server
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.80 over 10 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.40 over 10 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > In November 2001, Aberdeen Group profiled Unisys Corporation's achievement of 24,000 SD concurrent users on a 32-processor ES7000 Windows/Intel server running SAP. The study positions Unisys as the 'benchmark gorilla' for Windows-based enterprise scalability and argues that Unisys's combination of extreme performance, high availability (Datacenter 2000 and SQL Server 2000), and price-performance advantages over Unix makes the ES7000 an attractive platform for high-end applications.
 

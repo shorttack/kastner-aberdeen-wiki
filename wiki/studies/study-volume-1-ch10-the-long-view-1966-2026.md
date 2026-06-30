@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.51
 prescience_obs_count: 106
 ---
 
 # Chapter 10: The Long View — What Fifty Years of Technology Markets Teach (1966-2026)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.78 over 36 usable obs (0 prefiltered, 101 pending) -> high; 101 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.06 over 36 usable obs (0 prefiltered, 101 pending) -> high; 101 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > In this synthesis chapter spanning 1966 to 2026, Peter Kastner distills fifty years of technology-market observation into seven recurring structural patterns, an honest accounting of his analytical hits and misses, and a forward-looking assessment of generative AI as the latest iteration of the fundamental compute-cost inversion. The chapter traces the arc from a $5-million MIT mainframe to wrist-worn compute, arguing that the machine has never been the hard part—human governance, incentive alignment, and organizational adoption always were. Kastner closes with reflections on building Aberdeen Group and a meditation on what automation liberates humans to do next.
 

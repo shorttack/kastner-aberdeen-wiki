@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.65
 prescience_obs_count: 88
 ---
 
 # IBM Corporation Across Six Decades of the Kastner Archive: Mainframe Survival, Platform Pivots, and the Services Transformation
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.03 over 62 usable obs (0 prefiltered, 55 pending) -> high; 55 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.02 over 57 usable obs (0 prefiltered, 60 pending) -> high; 60 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > A longitudinal archive study of IBM Corporation across six decades of the Kastner IT Research Archive. IBM is the single most-referenced company in the archive — 1,054 observations across 174 distinct studies spanning 1967 to 2026, with 724 IBM-vendor technology rows. The study decomposes IBM coverage into eleven thematic threads (mainframe survival, AS/400 & midrange, OS/2 & PC exit, DB2 & software pivot, services transformation, Linux & open source bet, Watson & AI, hybrid cloud & Red Hat, quantum computing, TPC benchmarks, and Kastner direct engagements), computes per-thread confidence histograms with named exemplars and refutations, and audits how IBM's actual transformation mapped to Kastner's documented predictions. Headline finding: IBM's mainframe was documented as 'doomed' in 1987 yet remains the archive's most durable technology-survival story through 2026; the services pivot from 'Big Blue hardware' to the world's largest IT services firm was predicted correctly; Watson AI significantly underdelivered its 2013-era promises. The archive contains zero formally-tagged IBM refutations in the viability-prediction rows — a contrast with Intel's 9.7% refutation rate that reflects IBM's unique institutional durability as an analyst subject. This is the second longitudinal single-entity study in the archive, following the Intel builder template.
 

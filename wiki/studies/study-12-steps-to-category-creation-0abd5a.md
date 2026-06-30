@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.77
 prescience_obs_count: 13
 ---
 
 # Steps to Category Creation
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.40 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.80 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Working draft of Aberdeen Group's 10-step category creation methodology presentation, developed for the Maxtor midline storage engagement circa 2003. Enumerates and briefly describes each step: Define, Differentiate, Debunk, Define argument/position/messages, Deliver to influencers, Create awareness, Evangelize, Measure and report, Let influencers take over, and Nurture. Includes several placeholder slides indicating this was a working/incomplete version.
 

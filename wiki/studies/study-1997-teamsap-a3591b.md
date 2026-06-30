@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.44
 prescience_obs_count: 18
 ---
 
 # TeamSAP: SAP's Mantra For Assuring Customer Success
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.78 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.04 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates SAP's TeamSAP initiative, a coordinated framework of products, processes, and people designed to improve R/3 implementation success rates and reduce the risk of large-scale ERP deployments. The white paper analyzes the three pillars of TeamSAP — the Business Framework (product), AcceleratedSAP Programs (process), and Solutions Expertise (people) — and identifies two key challenges: defining SAP's professional services role relative to Global Logo Partners, and potential partner resistance to SAP's increased coordination controls.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 24
 ---
 
 # Personal IT Forecast Research Compendium (2000-2001)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.53 over 36 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.56 over 36 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > A curated research compendium assembled by Peter S. Kastner capturing key PC and semiconductor market forecasts from Dataquest, IDC, Merrill Lynch, TechWeb, and Japanese industry sources during the 2000-2001 PC downturn. Covers worldwide PC shipment declines, U.S. market contraction, DRAM price collapse, Japan/Asia growth, and Kastner's own dissent [PSK disagrees] on Rambus DRAM demand expectations. Source material for Aberdeen's Personal IT practice forecasting work.
 

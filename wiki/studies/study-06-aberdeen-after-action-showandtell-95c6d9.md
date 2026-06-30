@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.58
 prescience_obs_count: 24
 ---
 
 # Maxtor Pools of Storage — After-Action Review (Show and Tell)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.60 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.67 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Internal Aberdeen Group presentation reviewing the completed Maxtor Pools of Storage engagement. The 11-slide deck covers project background ($128K fixed price / 60-day schedule that took 150 days starting December 2003) client issues Aberdeen selection rationale client satisfaction challenges and lessons learned. Key findings: the project funded $75K in Aberdeen tool R&D; produced the first Flash-based research-delivery simulation tool; developed 50 maturity grids; and attracted Macromedia EVP Al Ramadan's interest.
 

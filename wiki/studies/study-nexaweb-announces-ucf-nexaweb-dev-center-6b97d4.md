@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.75
 prescience_obs_count: 4
 ---
 
 # Nexaweb Delivers Industry's First Universal Client Framework with New Nexaweb Enterprise Web 2.0 Platform
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.17 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.00 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Nexaweb press release at AJAX World Santa Clara (October 2006) announcing the Universal Client Framework (UCF) — a zero-install framework letting developers target Ajax or Java clients interchangeably on the same codebase. Peter S. Kastner (VP research director, IT, Aberdeen Group) characterizes this as a monumental application-development and modernization movement driven by users demanding richer experiences and enterprises under pressure to extend legacy app life via Web migration.
 

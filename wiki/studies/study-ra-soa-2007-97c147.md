@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 76
 ---
 
 # SOA and Web Services Testing: How Different Can It Be? (Full Unabridged Version)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.99 over 100 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.11 over 100 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Full 180pp unabridged version of the SOA/Web Services testing benchmark report. Study of 240 end-users involved in software quality. Best-in-Class (BIC) companies show 94% increase in deployed software quality, 61% reduction in defects, 57% faster repair times, 71% increase in code test coverage. Key finding: automation alone is insufficient — BIC companies test horizontally across entire business processes, not just vertically via unit testing. BIC companies 3x more likely to have redesigned their testing process. 45% of BIC use business requirements tracking tools vs 35% for others. File also contains appended Aberdeen reports: Enterprise Information Integration (July 2003), BPM Matching IT to Business Processes (Dec 2006), SOA Middleware Takes the Lead (July 2007), and Modernizing Legacy Applications (June 2007).
 

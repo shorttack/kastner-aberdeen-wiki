@@ -13,8 +13,8 @@ successor: "Dell Technologies (went private 2013; re-listed 2018 via VMware trac
 years_active: "1984-present"
 occurrence_count: 71
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 90
+prescience_mean: 1.74
+prescience_obs_count: 106
 ---
 
 # Dell Computer Corporation

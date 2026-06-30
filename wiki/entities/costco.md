@@ -12,9 +12,9 @@ status: "unknown"
 successor: "[DEFERRED]"
 years_active: "1983-present"
 occurrence_count: 0
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Costco
@@ -24,3 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Buying Dell Dimension 2300 from Dell Online saves $70 off Costco's price this week; Costco price consistent but Dell Online price is extremely volatile week to week `[ps=0]` — [[study-dct-weekly-2002-11-17-mx]]

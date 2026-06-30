@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.8
 prescience_obs_count: 5
 ---
 
 # Microsoft Vows To Appeal EU Ruling
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.67 over 6 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.17 over 6 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > TechNewsWorld / E-Commerce Times article on Microsoft's vow to appeal the European Commission's March 2004 antitrust ruling and $612M fine. Peter Kastner of Aberdeen Group argues Microsoft has 'silent friends' who may become vocal, and that the EU setting a standard different from US law threatens not only Microsoft but every global player.
 

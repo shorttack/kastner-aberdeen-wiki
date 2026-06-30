@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.73
 prescience_obs_count: 26
 ---
 
 # Safeway Damages Report: Expert Opinion on Consonus Data Center Incident
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.44 over 39 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.44 over 39 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Expert damages opinion by Aberdeen Group (Hugh Bishop with Peter Kastner) analyzing the impact of a February 2002 fire suppression system discharge at the Consonus data center on Safeway Inc.'s 40-node Teradata data warehouse system. Assesses hardware damage valuation, business interruption costs, data recovery efforts, and the strategic importance of Teradata to Safeway's retail operations.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 9
 ---
 
 # Stratus ET1-vs-TP1 competitive-intel dossier: Tandem-authored Tandem-vs-Stratus price/performance circular and Stratus internal correspondence
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.91 over 11 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.55 over 11 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > A four-page Stratus competitive-intelligence dossier compiled by Peter Kastner (then Stratus Sales Support) documenting how Tandem was attacking Stratus on transaction price/performance using the ET-1/TP-1 benchmarks (the DebitCredit benchmark by a different name). Includes (a) a handwritten January 2, 1985 cover letter from Bill Ojile of Stratus Minneapolis transmitting the Tandem piece to 'Bill' (internal); (b) a January 14, 1986 electronic memo from Bill Ojile to Peter Kastner asserting that the ET-1 benchmark is 'about 2 times as easy as TP-1'; and (c) the Tandem-authored 'Tandem versus Stratus price/performance' competitive circular claiming Tandem TXP price/performance 50% better than Stratus XA600. Artifact of Kastner's Stratus competitive-analysis work; directly precedes the May 1987 Kastner-edited Sales Support newsletter.
 

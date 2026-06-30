@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.72
 prescience_obs_count: 18
 ---
 
 # Tandem's NonStop Software: Enterprise Clustering For NT, Too
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.70 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.70 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Tandem's announcement of NonStop Software for Clustered Computing, which brings Tandem's 22-year fault-tolerant computing expertise to Windows NT server clusters. The study compares Tandem's NonStop SQL/MX, NonStop Tuxedo, and NonStop Services layer against Microsoft's Wolfpack clustering, concluding that Wolfpack alone is insufficient for mission-critical applications and that Tandem's approach enables 16-node NT clusters with dramatically reduced downtime versus standard NT. Aberdeen predicts Tandem will become the clustering leader for business-critical NT computing.
 

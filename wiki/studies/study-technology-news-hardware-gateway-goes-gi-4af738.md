@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 3.0
 prescience_mean: 1.75
 prescience_obs_count: 4
 ---
 
 # Gateway Goes Gigabit, Wireless
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.50 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.33 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > TechNewsWorld article (Apr 6 2004, Kirk L. Kroeker) on Gateway's entry into enterprise networking with the 7200/7400/7600 Series Layer 2 managed and unmanaged network switches (based on Broadcom switch silicon) and the Gateway 7000 Series Wi-Fi access points (802.11g / 802.11a+g, Intel IPX422 processor, PoE, RADIUS, VLAN). Launched 'in the aftermath of a major announcement about shutting all its retail stores' — Gateway exiting brick-and-mortar after eMachines acquisition. Aberdeen EVP and chief research officer Peter Kastner provides the strategic framing: 'In both their price and functionality, Gateway is taking a disruptive approach with these two new wireless [access points]. Many wireless vendors are ignoring the pleas of small- and medium-sized businesses, who desire enterprise security and much more simplicity in setup. SMBs clearly stand to benefit from these new Gateway [access points].' IDC's Maximilian Flisi: managed switches priced competitively and may be a lead purchase driver.
 

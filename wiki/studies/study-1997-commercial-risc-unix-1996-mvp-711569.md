@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.72
 prescience_obs_count: 25
 ---
 
 # Commercial RISC/Unix 1996: HP Achieves Over 50% Share In 28% Growth Market
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.65 over 34 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.47 over 34 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen's seventh annual survey of the commercial multiuser RISC/Unix marketplace documents 28% revenue growth to $18.2 billion in 1996. Hewlett-Packard achieved 52% market share through strong PA-8000 processor performance and customer loyalty. IBM held 18% with RS/6000 SP LAN-consolidation wins. Sun Microsystems grew 73% on Internet/web server demand and Java. The report forecasts continued RISC/Unix dominance for enterprise-level production applications through 1998-1999 while projecting Intel IA-64 as a shared future processor platform for both Unix and NT.
 

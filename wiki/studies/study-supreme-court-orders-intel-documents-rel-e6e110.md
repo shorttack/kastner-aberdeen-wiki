@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.8
 prescience_obs_count: 5
 ---
 
 # Supreme Court Orders Intel Documents Released
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.12 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.33 over 6 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > InternetNews.com news story (Jun 21 2004) by Michael Singer on the U.S. Supreme Court ruling in Intel v. Advanced Micro Devices, 02-572. In a 7-1 vote (Breyer dissenting; O'Connor not participating), the Court upheld the Ninth Circuit's order forcing Intel to turn over some 600,000 pages of documents to the European Commission for use in the EC's antitrust investigation of Intel abuse of dominance in x86 microprocessors — a case brought by AMD. The ruling expanded the scope of 28 U.S.C. §1782 for discovery in support of foreign proceedings. Peter Kastner, executive vice president with Aberdeen Group, is quoted on the multinational-compliance implications: 'This is an oddball legal situation where the EU has not requested documents from a sealed Alabama litigation, but AMD wants a California court to force their disclosure anyway. The Supreme Court now says California gets to decide what is disclosed to Europe. There are broad and troubling ramifications to this decision for multinational companies who have competitors — which includes all the large tech companies.' The article also quotes Intel spokesperson Chuck Mulloy and AMD spokesperson Michael Simonoff.
 

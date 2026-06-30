@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.45
 prescience_obs_count: 20
 ---
 
 # AberdeenGroup SnapShot: Snap Appliance Inc.
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.52 over 27 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.22 over 27 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group SnapShot profiles Snap Appliance Inc., the self-described number-one volume NAS provider, which was reborn as a private company in 2002 after being spun out of Quantum. The profile details Snap's product line spanning workgroup to enterprise NAS using inexpensive ATA disks, and explicitly maps Snap's coverage of Aberdeen's midline storage categories including staging, fixed content, consolidation, replication, and PC backup. The document positions Snap as a key validation of Aberdeen's midline disk storage thesis.
 

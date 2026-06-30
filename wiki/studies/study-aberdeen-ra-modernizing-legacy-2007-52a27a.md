@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.67
 prescience_obs_count: 3
 ---
 
 # Modernizing Legacy Applications: Maximizing the Investment
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.75 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.25 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group benchmark report by Perry Donham on enterprise approaches to legacy application modernization. Identifies best-practice patterns for maximizing the investment in legacy systems through modernization rather than replacement, framing the approach within Aberdeen's PACE methodology.
 

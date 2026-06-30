@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.86
 prescience_obs_count: 7
 ---
 
 # Stratus 'The computer is down' ad reprints (Continuous Processing campaign, c.1984-1985)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 9 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.78 over 9 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Compilation of Stratus 'The computer is down' magazine advertisements from the Continuous Processing campaign, circa 1984-1985 (cites Computerworld August 20, 1984 as source for relative price/performance index). The ads compare Stratus XA400 (relative performance 125, price $446,350, $/TPS $3,571) against IBM 4381 (perf 100, $707,897, $7,079), HP 3000 68 (perf 64, $437,754, $6,840), and DEC VAX-11/782 (perf 109, $656,889, $5,999). Targets brokers, bankers, manufacturers, and businessmen with the message that Stratus is designed not to fail vs. industry 98.5% reliability standard (which means failure once every two weeks). Lists Peter Kastner in Massachusetts at (617) 460-2192 (toll-free 1-800-752-4826) as the marketing contact — confirming Kastner's authorial role in the campaign during his Stratus employer era. Themes: 'Now that the world relies on computers it needs a computer it can rely on'; 'Continuous Processing'; positioning vs Tandem with hardware redundancy in chip technology.
 

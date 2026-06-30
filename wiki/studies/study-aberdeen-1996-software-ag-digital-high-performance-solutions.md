@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.47
 prescience_obs_count: 15
 ---
 
 # Software AG and Digital: Spreading High-Performance Solutions Throughout The Enterprise
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.11 over 19 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.26 over 19 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates the Software AG ADABAS D RDBMS combined with Digital Equipment Corporation's 64-bit Alpha servers with Very Large Memory (VLM) technology. The study finds that VLM technology delivers 10-100x performance improvement for in-memory database operations, positioning the Software AG/Digital combination as an enterprise solution for OLTP, data marts, and application servers. Aberdeen concludes the combination meets a broad range of user needs for high-performance data management.
 

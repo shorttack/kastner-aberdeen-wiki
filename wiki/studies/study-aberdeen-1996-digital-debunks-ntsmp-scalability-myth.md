@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.76
 prescience_obs_count: 21
 ---
 
 # Digital Debunks the NT/SMP Scalability Myth
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.50 over 26 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.23 over 26 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group Market Viewpoint (Volume 9, Number 22, November 22, 1996) argues that IT decision-makers should reconsider the widespread belief that Windows NT Server lacks SMP scalability beyond four processors. Using Transaction Processing Council TPC-C benchmark data, Aberdeen demonstrates that Digital Equipment Corporation's 4-way Pentium Pro server achieves 6,712 tpmC at $65/tpmC, outperforming established midrange Unix and proprietary servers at a fraction of the cost. Aberdeen concludes that Microsoft's real strategy is performance clustering, not 8-way SMP scaling, and that Digital is optimally positioned to lead the NT midrange server market.
 

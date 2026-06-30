@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.43
 prescience_obs_count: 23
 ---
 
 # Enterprise Data Mining Buying Guide: 1997 Edition
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.97 over 29 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.07 over 29 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's Enterprise Data Mining Buying Guide (1997) profiles eight commercial-grade data mining vendors using five evaluation dimensions: vertical focus, platforms, algorithms, qualifiers (lifecycle support, architecture, ease of use, professional services, company strength), and pricing. Vendors evaluated: ANGOSS International, Data Distilleries, HyperParallel, IBM, Magnify, NeoVista Software, Syllogic, and Thinking Machines. Key finding: approximately 75% of data mining work involves data preparation; scalable commercial-grade tools require expert skills and careful vendor evaluation due to significant differences in tool types, expertise levels, and financial health.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.33
 prescience_obs_count: 6
 ---
 
 # Refresh or Refurb?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.86 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > SmallBusinessComputing.com feature (mid-2003) on the case for small-business PC refresh vs. refurbishment, framed around Windows XP Service Pack 1's stability. Aberdeen analyst Peter S. Kastner endorses mid-2003 as an auspicious time to start or accelerate a PC replacement cycle with Windows XP, notes Aberdeen itself refreshed on the same rationale, and advises that small businesses lacking full-time IT staff should crank up the planning for the recession-disrupted PC replacement cycle. Microsoft product manager Greg Sullivan contributes the vendor view on XP for small business.
 

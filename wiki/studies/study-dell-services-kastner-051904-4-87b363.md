@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.81
 prescience_obs_count: 26
 ---
 
 # Dell Services — Discussion Materials
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.42 over 33 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.09 over 33 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen discussion deck prepared for Dell executives analyzing the restructuring of IT professional services. Argues services are beginning a major cost restructuring mirroring US manufacturing 30 years prior, driven by offshore labor arbitrage, BPO/On Demand account control, and ERP-vendor hosted solutions. Proposes a four-stage partner-ecosystem maturity model and asks where Dell sits on that continuum.
 

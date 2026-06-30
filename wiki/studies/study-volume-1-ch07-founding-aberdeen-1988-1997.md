@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.25
 prescience_obs_count: 76
 ---
 
 # Chapter 7: Founding Aberdeen Group (1988-1997)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.56 over 98 usable obs (4 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.82 over 98 usable obs (4 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Peter S. Kastner recounts the founding of Aberdeen Group in 1988 alongside co-founders Chuck Casale, John Logan, and Tom Willmott, describing the firm's deliberate differentiation from the dominant FIGY firms through free-research publishing, deep domain specialization, and a cooperative revenue-sharing model. The chapter traces Aberdeen's analytical frameworks across six technology themes—open architecture, client-server, RDBMS dominance, data as competitive advantage, integration complexity, and the Spoke-Node-Ring model—assessing both prescient calls and missed timing. It concludes with the 1997 inflection point when the partners chose venture capital over remaining a partnership, transforming the firm's structure and culture.
 

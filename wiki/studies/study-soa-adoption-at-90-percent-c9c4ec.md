@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 3.29
 prescience_obs_count: 7
 ---
 
 # SOA Adoption at 90 Percent?!
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.86 over 7 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 7 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > SYS-CON Media editorial (mid-2006, au.sys-con.com print view) reacting with skepticism to Aberdeen Group's finding — reported in the benchmark study 'Enterprise Service Bus and SOA Middleware' — that '9 of every 10 companies are adopting or have adopted service-oriented architectures and will exit 2006 with SOA planning, design, and programming experience.' The editorial quotes Peter S. Kastner, Vice President and Research Director for Enterprise Integration at Aberdeen Group and the report's author: 'Redesigning business processes, high IT integration costs, and customization challenges are eating up 40% of the IT budget in integration expenditures. SOA is broadly seen as a real technology step forward, with the largest companies, who have the biggest integration problems, leading the way.' The editorial then lists Aberdeen's three distinct SOA adoption approaches (SOA 'light' — open source + standards for small companies; Enterprise SOA — suite software for mid-large installations; SOA ERP — entry via ERP extensions for mid-sized) and closes with a wry Aberdeen Group disclaimer about not being based in Aberdeen. The tone conveys reader skepticism toward the 90% number while legitimizing the underlying Aberdeen/Kastner analysis.
 

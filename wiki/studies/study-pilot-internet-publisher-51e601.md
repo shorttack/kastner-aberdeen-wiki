@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.9
 prescience_obs_count: 21
 ---
 
 # Pilot Internet Publisher: A Foundation for Web-Enabled OLAP
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.00 over 23 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.96 over 23 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Pilot Software's web-enabled OLAP product combining the Pilot Internet Publisher (front-end) with the Pilot Analysis Server (multidimensional back-end). The study argues that web-enabled OLAP dramatically reduces costs of deploying business intelligence to large user populations by eliminating fat-client software. Aberdeen endorses Pilot as delivering more analytical functionality than most web-based competitors while achieving Web economics.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.64
 prescience_obs_count: 22
 ---
 
 # Aberdeen AAS Sales Tools, Proposals, and Pricing Economics (August 2001): Repricing Memo, Client Profile Template, Impact Proposal, Market Knowledge Proposal Template, and Consulting Revenue Analysis
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.90 over 29 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.93 over 29 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Five internal Aberdeen Group sales-and-pricing artifacts from August 2001, anchored by Kastner's August 11, 2001 repricing memo establishing the simplified Master Price List with five retainer types and a new $6,000 six-month introductory AAS. A consulting-revenue-analysis spreadsheet provides rare primary-source unit-economics data: headcount, per-diem cost basis, add-on day rates, and contribution margins by labor class, rolling up to $1,112,500 GMR and $778,095 contribution at 5 consulting days per quarter. Supporting templates include the Client Profile (organizational structure, competitive positioning, financial highlights), the Aberdeen Impact 2-page deliverable (one-year web license, single review cycle), and the Market Knowledge Proposal Template (1-day on-site agenda, 4-6 page report, optional Strategy Validation project).
 

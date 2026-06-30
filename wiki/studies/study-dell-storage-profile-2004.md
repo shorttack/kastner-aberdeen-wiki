@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.72
 prescience_obs_count: 29
 ---
 
 # Dell: Applying Its Business Value Model to Storage
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.94 over 36 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.97 over 36 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group vendor profile examines how Dell applies its signature supply chain management and price/performance business model to enterprise storage in 2004. Co-authored by David Hill and Peter Kastner, the report covers the Dell|EMC CX product family (third-generation FC arrays), the new AX100 entry-level SATA SAN, Dell PowerVault NAS solutions, and Dell's software bundling and service integration strategies. Aberdeen concludes that Dell deserves a place at the business storage discussion table across all enterprise sizes.
 

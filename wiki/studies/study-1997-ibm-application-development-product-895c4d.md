@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.77
 prescience_obs_count: 13
 ---
 
 # IBM Application Development Product Family
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.05 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.20 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles IBM's Application Development (IBM AD) product family, anchored by the VisualAge suite (COBOL, BASIC, C++, Smalltalk, Java-upcoming), FlowMark workflow, IBM Business Process Modeler, DataAtlas, and Team Connection. The profile evaluates these tools' suitability for IBM shops migrating legacy COBOL/3GL applications to network computing architectures. Aberdeen concludes IBM AD tools provide a solid mix of emerging and tried-and-true technologies particularly valuable for IBM installed-base migrations.
 

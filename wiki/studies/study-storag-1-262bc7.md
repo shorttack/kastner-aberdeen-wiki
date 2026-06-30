@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.07
 prescience_obs_count: 14
 ---
 
 # Storage & Storage Management: 1998 Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.95 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.32 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 analysis of the enterprise storage market, arguing that storage must be treated as a system-level architectural decision — not a commodity — and introducing the concept of 'network storage' (any storage accessed over a network). The report covers SANs, NAS, Fibre Channel, RAID, tape technologies, and storage management software, forecasting that SANs would not become common until 1999 and that storage management software would be the critical differentiator. Supplier profiles cover 11 vendors including EMC, IBM, HP, VERITAS, Legato, and StorageTek.
 

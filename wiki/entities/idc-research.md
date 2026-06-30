@@ -3,7 +3,7 @@ title: "International Data Corporation (IDC)"
 slug: "idc-research"
 page_type: "entity"
 tags: ["type/entity", "entity-type/firm"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "idc-research"
 entity_type: "firm"
@@ -20,11 +20,6 @@ prescience_obs_count: 2
 # International Data Corporation (IDC)
 
 > IT market intelligence firm; cited in 1995 AT&T WorldMark ad
-
-
-## Summary
-
-
 
 
 ## Top observations

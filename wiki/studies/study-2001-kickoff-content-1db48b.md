@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 1
 ---
 
 # Aberdeen Group 2001 Kickoff — Enhanced Practice Opportunities
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.60 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Single-slide chart from the Aberdeen Group 2001 annual kickoff meeting showing the 'Enhanced Practice Opportunities' framework. Documents the progression of analyst practice contributions across four levels — from Practice Definition (bio, practice summary, core services) through enhanced opportunities (Reports, Retainers, Multi-Client Studies, Survey Services, Field Sales Training, e-Learning, e-Profiles, Cross-Group Retainers). Milestone document from just before the 2001 tech market crash.
 

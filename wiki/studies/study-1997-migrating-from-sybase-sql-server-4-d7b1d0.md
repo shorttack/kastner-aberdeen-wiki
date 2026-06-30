@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.94
 prescience_obs_count: 16
 ---
 
 # Migrating From Sybase SQL Server 4.9 To Informix: An Attractive Alternative
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.64 over 22 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 22 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group recommends that Sybase SQL Server 4.9 users consider migrating to Informix as a viable alternative to upgrading to Sybase System 11. The study examines challenges of the Sybase upgrade path — hardware requirements, stored-procedure rewrites, administrator retraining — versus Informix compatibility tooling. Informix-OnLine strengths in SMP scalability, object-relational Universal Server, DataBlades, row-level locking, and VAR relationships are highlighted. Study was sponsored by Informix Software, Inc.
 

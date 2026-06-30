@@ -3,7 +3,7 @@ title: "IDC (International Data Corporation)"
 slug: "idc-corporation"
 page_type: "entity"
 tags: ["type/entity", "entity-type/firm"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "idc-corporation"
 entity_type: "firm"
@@ -20,11 +20,6 @@ prescience_obs_count: 2
 # IDC (International Data Corporation)
 
 > Source of Asian server market data: $1.3B Q1 2002 (excl. Japan), -7% YoY
-
-
-## Summary
-
-
 
 
 ## Top observations

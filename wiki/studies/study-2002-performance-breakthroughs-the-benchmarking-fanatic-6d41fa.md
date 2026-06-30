@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.82
 prescience_obs_count: 11
 ---
 
 # Performance Breakthroughs: The Benchmarking Fanatics Are Still at It
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.85 over 13 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.75 over 12 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Several key SAP and TPC benchmarks released in summer 2002 represent high-end server performance breakthroughs for HP, IBM, and Intel (via NEC). Despite a current hardware sales slump, major server suppliers are preparing for a market share battle expected to resume when IT buyers re-engage. The study covers Itanium 2, HP Superdome, IBM, NEC, DB2, SAP, TPC-C and TPC-H results.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 3.0
 prescience_obs_count: 6
 ---
 
 # PeopleSoft Bid Mirrors Lofty Goals of Oracle Chief
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.25 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.62 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > New York Times Business section feature (June 11, 2003) by Steve Lohr analyzing Oracle's $5.1B hostile bid for PeopleSoft in the context of Larry Ellison's ambition to replicate Microsoft's desktop dominance in the corporate data center. Peter S. Kastner (director of research, Aberdeen Group) provides the key analytical frame: the enterprise software market is 'way too complex, with way too many suppliers in the corporate kitchen,' and consolidation is needed. Kastner further argues 'Microsoft is heading inexorably upstream' and that keeping Microsoft from gaining data center share is a crucial strategic objective for Oracle.
 

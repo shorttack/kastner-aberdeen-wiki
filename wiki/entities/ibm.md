@@ -14,7 +14,7 @@ years_active: "1981-2005 (PC business)"
 occurrence_count: 135
 prescience_max: 5.0
 prescience_mean: 1.93
-prescience_obs_count: 499
+prescience_obs_count: 501
 ---
 
 # Pennsylvania Department of Labor and Industry

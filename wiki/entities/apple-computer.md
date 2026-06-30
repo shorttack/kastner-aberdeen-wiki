@@ -13,8 +13,8 @@ successor: "Apple Inc. (renamed January 2007, dropped 'Computer')"
 years_active: "1976-present"
 occurrence_count: 25
 prescience_max: 5.0
-prescience_mean: 2.32
-prescience_obs_count: 50
+prescience_mean: 2.06
+prescience_obs_count: 65
 ---
 
 # Apple Computer, Inc. / Apple Inc.
@@ -43,9 +43,9 @@ prescience_obs_count: 50
 - Apple makes great easy-to-use desktops ($750+) and laptops ($1,300+); small share of consumer PC market `[ps=4]` — [[study-charlotte-observer-shain-back-to-school--4ec261]]
 - G5 is workstation, not confused with high-end home PC `[ps=4]` — [[study-dct-apple-powermac-g5-2003-06]]
 - 2.0 GHz G5 loses to Xeon and P4 in integer `[ps=4]` — [[study-dct-apple-powermac-g5-2003-06]]
+- G5 renovates Apple base rather than serving as attack product against PC world `[ps=4]` — [[study-dct-apple-powermac-g5-2003-06-mx]]
+- Enterprise Mac users should benchmark G5 with work-related files; productivity improvement expected even without 64-bit-tuned apps `[ps=4]` — [[study-dct-apple-powermac-g5-2003-06-mx]]
+- G5 will renovate existing Apple enterprise customer base; not a mass-market PC attack vehicle `[ps=4]` — [[study-dct-apple-powermac-g5-2003-06-mx]]
 - Indirect channel partners not strong enough to win large enterprise deals `[ps=4]` — [[study-linux-news-enterprise-systems-apple-s-en-a8fdd0]]
 - Apple will turn up the heat via specialized markets (verticals) inside enterprises, not head-on F500 plays `[ps=4]` — [[study-mac-news-enterprise-systems-apple-s-ente-59fab0]]
 - Solid foothold at universities `[ps=4]` — [[study-mac-news-science-the-science-of-this-yea-bb35b4]]
-- 'Apple will have problems filling G5 orders' but demand will not materially impact overall desktop share `[ps=4]` — [[study-macdailynews-analyst-apple-will-have-pro-54defe]]
-- Xserve product line discontinued January 2011 — validated Kastner's 2002 prediction `[ps=4]` — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]
-- Apple announced Intel transition WWDC Jun 2005, shipped first Intel Macs Jan 2006, completed transition by Aug 2006 — validating Kastner's implicit skepticism that PowerPC G5 would retain a unique performance position. Power Mac Pro with Intel Xeon shipped Aug 2006. `[ps=4]` — [[study-technology-news-hardware-amd-beats-apple-5399ec]]

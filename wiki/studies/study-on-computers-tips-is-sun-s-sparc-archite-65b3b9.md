@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.25
 prescience_obs_count: 4
 ---
 
 # Is Sun's SPARC Architecture on Life Support?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.86 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Kastner blog post on OnComputersTips observing Sun's long-hyped Rock chip is apparently dead and that — with the pending Oracle-Sun merger and Solaris already on X64 commodity servers — the case for SPARC is gone. Kastner muses that Oracle has the opportunity to create a one-stop IT shop with the full hardware-to-application stack, unmatched since IBM exited the application software business 40 years earlier.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 12
 ---
 
 # interBiz Solutions BizWorks Profile — Management Command and Control for the E-World
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.08 over 12 usable obs (0 prefiltered, 3 pending) -> medium; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.00 over 12 usable obs (0 prefiltered, 3 pending) -> medium; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analyst profile (c. 1999) of interBiz Solutions, the new application software and services division of Computer Associates, and its BizWorks framework for cross-enterprise application integration. The profile positions BizWorks as the infrastructure that would tie best-of-breed applications and processes together, leveraging CA's Unicenter TNG management, Jasmine object database, 3D visualization, and Neugents pattern-recognition agents. Argues that enterprises should 'buy' BizWorks rather than 'make' equivalent integration themselves.
 

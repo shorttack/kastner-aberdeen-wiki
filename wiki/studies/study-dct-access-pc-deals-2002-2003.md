@@ -11,12 +11,14 @@ date: "2003-08-24"
 pub_year: 2003
 type: "dct"
 subject_domain: "dct"
-methodology: "market-tracking"
+methodology: "market-tracking, price-tracking"
 source_file: "access PC Deals 2002-2003.xls"
 license: "CC-BY-4.0"
 importance: "high"
-relevance: "medium"
+relevance: "high"
 study_prescience_enum: "not-applicable"
+prescience_3y_enum: ""
+prescience_5y_enum: ""
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -24,7 +26,7 @@ prescience_obs_count: 0
 
 # DCT Access PC Deals Database, 2002-2003
 
-> Aggregate Microsoft Access-derived database of weekly U.S. consumer desktop PC pricing from July 2002 through August 2003, covering 2,159 SKU-week listings across 10 canonical PC makers (Dell, HP, Compaq, Sony, eMachines, Gateway, Alienware, VPR Matrix, Medion, Best Buy house brand) and 23 canonical retail channels (Dell.com, BestBuy.com/stores, HP Shopping, Circuit City, CompUSA, Sony Style, Staples, MicroCenter, and others). Kastner built this as the canonical reference dataset for his Digital Consumer Technology weekly pricing commentary, capturing list price, CPU class/speed, memory, HDD, optical, monitor, printer, and merchant for each tracked configuration across 51 distinct pricing dates.
+> Kastner's master Access/Excel database of U.S. consumer-PC retail pricing, 2002-07 through 2003-08: 2,154 dated SKU price observations across 9 PC makers, 17 CPU classes, and 65 retail channels (12 columns: PricingDate, PCmaker, SKU, ListPrice, CPUclass, CPUspeed, Memory, HDD, Opticals, Monitor, Printer, Merchant). This re-ingest reconstructs 249 per-SKU price journeys (first/last/min/max price, delta, channels, CPU class) preserving the price-war arc the prior monthly-average aggregation destroyed.
 
 
 _Published 2003, author **Peter S. Kastner**, type **dct**._
@@ -32,28 +34,28 @@ _Published 2003, author **Peter S. Kastner**, type **dct**._
 
 ## Top observations
 
-- $1780 avg (range $1780-$1780); 1 SKUs; 1 channels; top CPU: Athlon 2400+
-- $2480 avg (range $2439-$2500); 1 SKUs; 2 channels; top CPU: Pentium 4 HT
-- $3040 avg (range $2899-$3111); 3 SKUs; 1 channels; top CPU: Pentium 4 HT
-- $2996 avg (range $2880-$3111); 2 SKUs; 1 channels; top CPU: Pentium 4 HT
-- $2822 avg (range $2176-$3201); 2 SKUs; 1 channels; top CPU: Pentium 4 HT
-- $2593 avg (range $2500-$2780); 1 SKUs; 2 channels; top CPU: Pentium 4 HT
-- $2500 avg (range $2500-$2500); 1 SKUs; 1 channels; top CPU: Pentium 4 HT
-- $2500 avg (range $2500-$2500); 1 SKUs; 1 channels; top CPU: Pentium 4 HT
-- $2183 avg (range $2025-$2500); 1 SKUs; 1 channels; top CPU: Pentium 4 HT
-- $2025 avg (range $2025-$2025); 1 SKUs; 1 channels; top CPU: Pentium 4 HT
-- $1550 avg (range $1500-$1600); 1 SKUs; 1 channels; top CPU: Pentium 4
-- $1098 avg (range $600-$1554); 8 SKUs; 4 channels; top CPU: Pentium 4
-- $1047 avg (range $500-$1684); 13 SKUs; 8 channels; top CPU: Pentium 4
-- $1144 avg (range $570-$1683); 9 SKUs; 8 channels; top CPU: Pentium 4
-- $1108 avg (range $600-$1692); 11 SKUs; 5 channels; top CPU: Pentium 4
-- $873 avg (range $450-$1449); 10 SKUs; 7 channels; top CPU: Pentium 4
-- $783 avg (range $500-$1050); 8 SKUs; 6 channels; top CPU: Pentium 4
-- $769 avg (range $449-$1300); 9 SKUs; 5 channels; top CPU: Pentium 4
-- $747 avg (range $471-$1071); 9 SKUs; 4 channels; top CPU: Pentium 4
-- $833 avg (range $480-$1400); 13 SKUs; 8 channels; top CPU: Pentium 4
-- $737 avg (range $350-$1300); 10 SKUs; 6 channels; top CPU: Pentium 4
-- $734 avg (range $334-$1798); 15 SKUs; 5 channels; top CPU: Pentium 4
-- $870 avg (range $350-$1863); 20 SKUs; 5 channels; top CPU: Pentium 4 HT
-- $831 avg (range $400-$1717); 18 SKUs; 6 channels; top CPU: Pentium 4 HT
-- $870 avg (range $420-$1657); 13 SKUs; 7 channels; top CPU: Pentium 4 HT
+- Alienware Area 51 hybrid: $2176 (2003-03-23) -> $2025 (2003-08-24); delta $-151 (-7%); min $2025 / max $2818 over 20 obs; CPU Pentium 4 HT
+- Alienware Area 51 series: $2500 (2002-12-08) -> $2648 (2003-03-16); delta $+148 (+6%); min $2439 / max $3201 over 8 obs; CPU Pentium 4 HT
+- Alienware Aurora: $1780 (2002-10-06) -> $1780 (2002-10-13); delta $+0 (+0%); min $1780 / max $1780 over 2 obs; CPU Athlon 2400+
+- Alienware customized: $3111 (2003-01-18) -> $3111 (2003-02-01); delta $+0 (+0%); min $3111 / max $3111 over 2 obs; CPU Pentium 4 HT
+- Alienware customized Area 51: $3111 (2003-01-25) -> $3111 (2003-01-25); delta $+0 (+0%); min $3111 / max $3111 over 1 obs; CPU Pentium 4 HT
+- Alienware Navigator Extreme - Media Center Edition: $2899 (2003-01-11) -> $2899 (2003-01-11); delta $+0 (+0%); min $2899 / max $2899 over 1 obs; CPU Pentium 4 HT
+- Compaq 6000T: $769 (2002-08-24) -> $1449 (2002-11-10); delta $+680 (+88%); min $719 / max $1449 over 3 obs; CPU Pentium 4
+- Compaq 6000T series: $1370 (2003-03-10) -> $1370 (2003-03-10); delta $+0 (+0%); min $1370 / max $1370 over 1 obs; CPU Pentium 4 HT
+- Compaq 6000Z: $699 (2002-08-11) -> $699 (2002-08-11); delta $+0 (+0%); min $699 / max $699 over 1 obs; CPU Athlon 2000+
+- Compaq 6029US: $1400 (2002-07-29) -> $1200 (2002-08-11); delta $-200 (-14%); min $1200 / max $1400 over 2 obs; CPU Athlon 2100+
+- Compaq 6300US: $600 (2002-11-10) -> $450 (2003-01-25); delta $-150 (-25%); min $450 / max $650 over 9 obs; CPU Celeron
+- Compaq 6300z: $899 (2002-12-08) -> $759 (2002-12-15); delta $-140 (-16%); min $759 / max $899 over 2 obs; CPU Athlon 2000+
+- Compaq 6310US: $550 (2002-11-03) -> $449 (2003-01-25); delta $-101 (-18%); min $449 / max $700 over 12 obs; CPU Athlon 1800+
+- Compaq 6320US: $680 (2002-11-03) -> $751 (2003-02-01); delta $+71 (+10%); min $561 / max $880 over 13 obs; CPU Athlon 2000+
+- Compaq 6330US: $850 (2002-11-10) -> $771 (2003-02-01); delta $-79 (-9%); min $771 / max $1000 over 8 obs; CPU Pentium 4
+- Compaq 6331RSH: $750 (2002-12-02) -> $750 (2002-12-08); delta $+0 (+0%); min $750 / max $750 over 2 obs; CPU Athlon 2200+
+- Compaq 63330M: $900 (2003-02-01) -> $900 (2003-02-01); delta $+0 (+0%); min $900 / max $900 over 1 obs; CPU Pentium 4
+- Compaq 6350US: $1000 (2002-12-02) -> $921 (2003-02-01); delta $-79 (-8%); min $850 / max $1050 over 9 obs; CPU Pentium 4
+- Compaq 6370US: $1250 (2002-11-24) -> $1071 (2003-02-01); delta $-179 (-14%); min $1021 / max $1300 over 10 obs; CPU Pentium 4
+- Compaq 6400NX: $500 (2003-01-18) -> $530 (2003-03-23); delta $+30 (+6%); min $471 / max $630 over 9 obs; CPU Athlon 1800+
+- Compaq 6410NX: $590 (2003-01-18) -> $540 (2003-04-20); delta $-50 (-8%); min $540 / max $720 over 13 obs; CPU Althon 2000+
+- Compaq 6420NX: $641 (2003-02-01) -> $650 (2003-07-06); delta $+9 (+1%); min $445 / max $800 over 20 obs; CPU Athlon 2200+
+- Compaq 6430NX: $850 (2003-03-23) -> $580 (2003-05-25); delta $-270 (-32%); min $580 / max $850 over 9 obs; CPU Athlon 2600+
+- Compaq 6430US: $930 (2003-01-25) -> $850 (2003-03-16); delta $-80 (-9%); min $821 / max $1150 over 7 obs; CPU Athlon 2600+
+- Compaq 6433us-b: $1000 (2003-03-02) -> $1000 (2003-03-02); delta $+0 (+0%); min $1000 / max $1000 over 1 obs; CPU Athlon 2600+

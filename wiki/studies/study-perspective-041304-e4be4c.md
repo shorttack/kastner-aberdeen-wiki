@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.47
 prescience_obs_count: 15
 ---
 
 # Intel's Itanium: Ready and Desirable for Mainframe-Class Workloads
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.95 over 19 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.74 over 19 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen Perspective piece evaluates whether Intel Itanium 2-based platforms can handle mainframe-class workloads and compares them to IBM zSeries mainframes. Drawing on Q1-2004 interviews and a survey of 98 mainframe users, the paper concludes that Itanium platforms are not only capable but in many cases desirable: users report superior performance/scalability, lower TCO, greater flexibility, and comparable robustness. Key findings include that ~40% of mainframe users are open to shifting to Itanium-based platforms; Xeon handles migrated mainframe workloads already in production; COBOL/FORTRAN/DB2 migration is surprisingly straightforward; and CICS/DL1/assembler migration requires significant effort. Aberdeen recommends 'surround, offload, or migrate' strategies over full 'replace' initiatives.
 

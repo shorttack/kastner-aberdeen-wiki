@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.77
 prescience_obs_count: 13
 ---
 
 # Personal Electronic Technology Vision — Sony Client Presentation
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.56 over 18 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 18 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Strategy/vision deck prepared for Sony (V4.30 V2) covering personal electronic technology used at home, in transit, and at work over a 3+ year horizon. Articulates a Plug-and-Play imperative, upgradability, and customer-support model; enumerates home electronics (gateway, entertainment server, displays, game box, MP3 player, camera, laptop, PDA, Mira), work mobility, and play/telematics (Bluetooth/WiFi/cellular/GPS/rear-seat entertainment). Implications for Sony: competitive threats, what Sony must get right, and business process/channel issues.
 

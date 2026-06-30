@@ -13,8 +13,8 @@ successor: "Liquidated January 2009; brand revived as online-only retailer by Sy
 years_active: "1949-2009"
 occurrence_count: 23
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 3
+prescience_mean: 0.86
+prescience_obs_count: 7
 ---
 
 # Circuit City Stores, Inc.
@@ -32,20 +32,20 @@ prescience_obs_count: 3
 - Threatened; S&C providers have structural advantages over traditional CE channels `[ps=4]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
 - Industry observers say Circuit City also considering private-label addition `[ps=2]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
 - Filed Chapter 11 November 2008; liquidated all US stores March 2009 `[ps=0]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
+- Circuit City has bundled deal on eMachines T2200 including flat screen monitor `[ps=0]` — [[study-dct-weekly-2002-11-03-mx]]
+- Circuit City: $100 gift card on AMD desktop and notebook purchases `[ps=0]` — [[study-dct-weekly-2002-12-22-mx]]
+- Circuit City ended great deal on Sony RXA-842 (Athlon 2400+, 512 MB DDR, 80 GB HDD, DVD/CD-RW) at $750 on Saturday; Kastner notes this is the kind of deal expected right after Christmas `[ps=0]` — [[study-dct-weekly-2002-12-22-mx]]
+- Circuit City no longer sells any Sony PCs on its website; all Circuit City AMD Athlon bundled deals include $100 gift cards `[ps=0]` — [[study-dct-weekly-2003-01-19-mx]]
 - Challenged by new S&C provider competition — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
+- Circuit City: $100 gift card after mail-in rebates; 0% interest financing for a year; Kastner expects more incentives as holiday nears — [[study-dct-weekly-2002-12-15-mx]]
+- Circuit City Online features customer reviews on all products; Kastner recommends checking reviews at Circuit City Online, CNet, or Dealtime.com for unbiased critiques before purchase — [[study-dct-weekly-2002-12-30-mx]]
 - All Circuit City AMD Athlon bundled deals include $100 gift cards. Circuit City no longer sells any Sony PCs on its website. — [[study-dct-weekly-2003-01-19]]
 - Circuit City's flyer only featured four PCs this week. All Circuit City AMD Athlon bundled deals include $100 gift cards. — [[study-dct-weekly-2003-01-26]]
+- All Circuit City AMD Athlon bundled deals include $100 gift cards; Circuit City flyer featured only four PCs this week — [[study-dct-weekly-2003-01-26-mx]]
 - This week, get $100-$200 off all Pentium 4 processor systems and no interest for 12 months at Circuit City. Circuitcity.com has reintroduced free shipping for a limited time on all its online items. — [[study-dct-weekly-2003-03-02]]
+- Circuit City: $100-$200 off all Pentium 4 processor systems; 12 months no interest — [[study-dct-weekly-2003-03-02-mx]]
 - This week, get $100-$200 off all Pentium 4 processor systems and no interest for 12 months at Circuit City. Circuitcity.com has reintroduced free shipping for a limited time on all its online items. — [[study-dct-weekly-2003-03-09]]
+- Circuit City: $100-$200 off all P4 systems; 12 months no interest; CircuitCity.com reintroduced free shipping — [[study-dct-weekly-2003-03-09-mx]]
 - This week, get $100 gift card on all desktop and notebook systems, and no interest for 12 months at Circuit City. Circuitcity.com has reintroduced free shipping for a limited time on all its online items. — [[study-dct-weekly-2003-03-16]]
+- Circuit City: $100 gift card on all desktop and notebook systems; 12 months no interest; CircuitCity.com reintroduced free shipping — [[study-dct-weekly-2003-03-16-mx]]
 - This week, save $100 to $300 on all PC packages and pay no interest for 12 months when buying with your Circuitcity charge card. Circuitcity.com has reintroduced free shipping for a limited time on all its online items. — [[study-dct-weekly-2003-03-23]]
-- This week, save $100-$210 on all desktops and laptops, and pay no interest for 12 months when buying with your Circuit City charge card. Circuitcity.com has reintroduced free shipping for a limited time on all its online items. — [[study-dct-weekly-2003-04-06]]
-- Receive a $100 gift card with any PC purchase at Circuit City stores. Circuitcity.com has reintroduced free shipping on all its online items. — [[study-dct-weekly-2003-04-13]]
-- Receive a $100 gift card with any desktop or notebook purchase at Circuit City stores. Circuit City also offers no interest for 12 months. — [[study-dct-weekly-2003-04-20]]
-- Save up to $310 on all Desktop Computer Packages and enjoy no interest for 12 months. Circuitcity.com has free shipping on all its online items. — [[study-dct-weekly-2003-05-11]]
-- Save up to $350 on all Desktop Computer Packages and enjoy no interest for 12 months. Circuitcity.com has free shipping on all its online items. — [[study-dct-weekly-2003-05-18]]
-- Save up to $380 on select Desktop Computer Packages and enjoy no interest for 12 months. Circuitcity.com has free shipping on all its online items. — [[study-dct-weekly-2003-06-08]]
-- Save up to $350 on select clearance Desktop Computer Packages and enjoy no interest for 12 months. Circuitcity.com has free shipping on all its online items. — [[study-dct-weekly-2003-06-15]]
-- Save up to $450 on select Desktop and Laptop Computer Packages and enjoy no interest for 12 months. Circuitcity.com has free shipping on all its online items. — [[study-dct-weekly-2003-06-22]]
-- Save up to $250 on select Desktop and Laptop Computer Packages and enjoy no interest for 12 months. Circuit City's weekly ad had only two PCs, but these were two more new models from eMachines. — [[study-dct-weekly-2003-07-06]]
-- Save up to $200 on select Desktop and Laptop Computer Packages and enjoy no interest for 12 months. Circuitcity.com continues its free shipping offer on all its online items. — [[study-dct-weekly-2003-07-13]]

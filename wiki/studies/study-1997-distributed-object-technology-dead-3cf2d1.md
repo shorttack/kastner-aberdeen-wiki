@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.73
 prescience_obs_count: 11
 ---
 
 # Distributed Object Technology: Dead Skunk Or Live Wire
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.73 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.87 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group Technology Viewpoint (Volume 10/Number 16) examining distributed object technology (DOT) middleware. Argues that DOT is simultaneously over-hyped and strategically essential. Identifies barriers including product immaturity, integration gaps, low performance, standards conflicts (CORBA vs DCOM), and lack of a clear business case. Recommends that IS organizations adopt DOT pragmatically for competitive-advantage Internet applications while standards mature.
 

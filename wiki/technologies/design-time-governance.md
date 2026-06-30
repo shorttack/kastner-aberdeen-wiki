@@ -3,7 +3,7 @@ title: "Design-Time Governance"
 slug: "design-time-governance"
 page_type: "technology"
 tags: ["type/technology", "category/discipline", "era/2005-present"]
-tier: 2
+tier: 1
 source_csv: "_master_technologies.csv"
 tech_id: "design-time-governance"
 category: "discipline"
@@ -20,6 +20,11 @@ prescience_obs_count: 11
 # Design-Time Governance
 
 > Identified as key ALM component. Design-time governance 'encourages' programmers to reuse existing services; saves initial coding time and long-term maintenance costs. Laggards lack this. Already in cache.
+
+
+## Summary
+
+
 
 
 ## Top observations

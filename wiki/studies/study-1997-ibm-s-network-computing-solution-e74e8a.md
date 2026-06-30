@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.43
 prescience_obs_count: 14
 ---
 
 # IBM's Network Computing Solution: Energize Your Enterprise
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.11 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.28 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles IBM's comprehensive Network Computing Solution branded 'Energize Your Enterprise', comprising six product families: Personal Communications, Business Intelligence, Information Integration, Application Development, Systems Management, and Extended Transaction Services. The study assesses IBM's approach to helping enterprises migrate from legacy architectures to Intranets, Web-enabled applications, and n-tier client-server. Aberdeen evaluates key technologies including DB2, MQSeries, Tivoli, VisualAge, CICS/Encina, and IBM's AnyNet multiprotocol middleware. The study provides Aberdeen's framework for network computing evaluation and concludes IBM's integrated approach provides a superior migration path versus point-solution competitors.
 

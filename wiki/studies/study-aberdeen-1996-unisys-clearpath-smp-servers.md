@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.1
 prescience_obs_count: 10
 ---
 
 # Unisys Corporation - ClearPath SMP Servers
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.50 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.55 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Unisys Corporation's ClearPath SMP Server product line following Unisys's 1995 reorganization into three business groups. The study examines Unisys's strategy of providing 'full-service' computing to enterprises overwhelmed by open systems complexity, covering entry-level (SMP5200/5400), mid-range (SMP61000), and high-end server offerings, clustering via Veritas Vx Reliant, and the balance between Unix openness and proprietary ClearPath reliability/availability/security (RAS) requirements.
 

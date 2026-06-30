@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.86
 prescience_obs_count: 7
 ---
 
 # Desktop PCs in Decline as Notebooks Surge
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.82 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.09 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > TechNewsWorld article (Jan 15 2004, Jay Lyman) covering a new Meta Group research report predicting that by 2006 only 45% of corporate users will primarily use a desktop PC, 40% will primarily use a notebook or tablet, and 15% will rely on thin clients or other information appliances. Aberdeen Group chief research officer Peter Kastner summarizes the retail evidence: consumer and corporate notebook computers are 'flying off the shelves,' making mobile PCs the fastest growing segment. IDC analyst Alan Promisel forecasts U.S. notebooks at 47% of PC shipments by 2007, stabilizing near 50%. Meta Group VP Steve Kleynhans predicts by 2007 users will interact with at least four distinct devices daily — home PC, smart TV, work PC, mobile — forcing software vendors toward information-synchronization and roaming apps.
 

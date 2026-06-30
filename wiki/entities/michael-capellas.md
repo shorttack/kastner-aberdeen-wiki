@@ -3,7 +3,7 @@ title: "Michael Capellas"
 slug: "michael-capellas"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "michael-capellas"
 entity_type: "person"
@@ -20,11 +20,6 @@ prescience_obs_count: 2
 # Michael Capellas
 
 > Stands Up to be Counted**   ## **November 15, 2002**   With Michael Capellas' resignation as president of Hewlett-Packard, the stock mar
-
-
-## Summary
-
-
 
 
 ## Top observations

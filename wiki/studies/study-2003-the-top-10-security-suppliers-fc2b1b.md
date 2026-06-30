@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.67
 prescience_obs_count: 12
 ---
 
 # The Top 10 Security Suppliers
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.73 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analyst Jim Hurley quantifies the IT security market landscape in 2002, finding that the top 10 security suppliers earned 54% of total spending ($16.3 billion) while 60 additional suppliers captured 36% and over 350 privately held suppliers shared the remaining 10%. The study notes the era of 16% uniform growth across all solution sectors has ended, and projects that future supplier growth will come from combinations of solutions, geographies, channels, industries, and channels-to-market rather than broad market tailwinds.
 

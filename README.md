@@ -1,4 +1,4 @@
-# Kastner Aberdeen Wiki — v1.5
+# Kastner Aberdeen Wiki — v1.6
 
 Local-first research environment derived from the [aberdeen-group-archive](https://github.com/shorttack/aberdeen-group-archive)
 master CSVs. Built by `kastner-wiki-builder` skill v2.
@@ -12,6 +12,21 @@ master CSVs. Built by `kastner-wiki-builder` skill v2.
 - New page subdir: `wiki/_prescient.md` (top 50 most prescient studies)
 - Frontmatter on every page: `prescience_max`, `prescience_mean`,
   `prescience_obs_count`
+
+## What's new in v1.6
+
+- **Short-horizon (3-year / 5-year) prescience** — full-corpus rescore of every
+  gradeable observation against what was actually true 3 and 5 years after each
+  claim's anchor year (sonar-pro, 2026-06-29). Replaces the one-shot ~30-year
+  verdict with researchable near-term verdicts.
+- New master: `_master_prescience_short_horizon.csv` (17,030 obs; per-obs
+  `prescience_3y` / `prescience_5y` + rationales, -1=prefiltered, -2=window not
+  yet elapsed).
+- Study-level SH verdicts in `_master_studies.csv`: `prescience_3y_enum` /
+  `prescience_5y_enum` (+ rationales) for 792 gradeable studies.
+- New DuckDB views: `v_prescience_sh`, `v_observations_with_sh`,
+  `v_studies_with_sh_verdicts`, `v_sh_3y_distribution`, `v_sh_5y_distribution`.
+- Study pages now carry a **Short-horizon prescience** section (3y/5y verdicts).
 
 ## Quick start
 

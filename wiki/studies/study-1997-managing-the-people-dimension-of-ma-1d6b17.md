@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.43
 prescience_obs_count: 14
 ---
 
 # Managing the People Dimension of Major Technology Transitions
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.62 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.24 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > In September 1996, Hewlett-Packard engaged Aberdeen Group to conduct one-on-one interviews with senior IT executives and project leaders undergoing major technology transitions. The study identifies education and training as the critical enabler of successful technology adoption, documents barriers including time pressure and ROI measurement challenges, and finds that on-demand, customized training is preferred over classroom instruction. Author Susan Irving concludes that people and process challenges consistently exceed technical challenges in large-scale technology transitions.
 

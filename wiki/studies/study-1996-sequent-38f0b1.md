@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.04
 prescience_obs_count: 27
 ---
 
 # Emerging Technologies: Assessing Strategic Benefits
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.80 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.89 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group presentation for the Vision 2000 conference (May 1996) analyzing enterprise superserver architectures. The study compares symmetric multiprocessing (SMP), clustering, and Sequent's emerging NUMA-Q technology, arguing that NUMA will extend Intel-standard computing beyond traditional mainframe capabilities while preserving software investments. Covers the business case for enterprise IT investment, multi-tier application architectures, and technology planning through 2001.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.29
 prescience_obs_count: 14
 ---
 
 # Aberdeen Group Market Analysis and Positioning Services for Business Technology — Corporate Presentation
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.78 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.89 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Full Aberdeen Group corporate presentation (22 slides) covering the firm's mission, competitive context, service portfolio, and engagement model. Documents Aberdeen's core competencies (market research, industry dialogue, technology-in-business-context, vision, actionable strategies), service offerings (AAS, RAMP, Profiles, webcasts, marketing workshops), and technology coverage taxonomy. Primary sales/marketing tool for technology supplier prospects.
 

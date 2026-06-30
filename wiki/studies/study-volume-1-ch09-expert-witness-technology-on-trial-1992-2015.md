@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.77
 prescience_obs_count: 60
 ---
 
 # Chapter 9: Expert Witness — Technology on Trial (1992–2015)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.56 over 66 usable obs (0 prefiltered, 4 pending) -> high; 4 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.77 over 66 usable obs (0 prefiltered, 4 pending) -> high; 4 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Peter Kastner recounts a parallel career as a technology expert witness spanning 1992–2015, alongside his Aberdeen Group research practice. Key engagements include a major data-warehousing antitrust dispute involving Safeway and a Teradata machine, software project failure forensics, and a Florida statewide welfare-system bid protest in which Kastner’s IBM performance analysis was later validated by the project’s real-world failure. The chapter distills methodological lessons: governance failure almost always precedes technical failure, market-research frameworks map directly onto litigation analysis, and adversarial expert scrutiny instills a permanent standard of rigor.
 

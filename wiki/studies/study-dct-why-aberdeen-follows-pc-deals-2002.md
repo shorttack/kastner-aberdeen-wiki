@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.12
 prescience_obs_count: 17
 ---
 
 # Why Aberdeen Is Following Consumer PC Deals — DCT Practice Methodology
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.76 over 17 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 17 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Methodology paper explaining Aberdeen's Digital Consumer Technology practice approach to weekly consumer PC price tracking. Defines the research questions, six tracked brands (Compaq, Dell, eMachines, Gateway, HP, Sony), an 8-factor price-value hierarchy (CPU, memory, modem/NIC, HDD, monitor, OS, printer, software), and weekly commentary format. Acknowledges 90 days of prior tracking; explicitly excludes Apple (no head-to-head competition).
 

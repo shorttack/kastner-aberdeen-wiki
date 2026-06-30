@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 3.0
 prescience_mean: 0.6
 prescience_obs_count: 5
 ---
 
 # IBM, Microsoft Team On NT Clusters
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.67 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.17 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > InformationWeek reports IBM's TechEd '99 demonstration of an eight-server Windows NT cluster code-named 'Cornhusker'. The IBM clustering technology is compatible with Microsoft Cluster Services and certified initially only on IBM Netfinity NT servers. Peter Kastner, research director and EVP at Aberdeen Group, observes that an increasing number of enterprise customers are embracing NT-based clustering and being constrained by two-node limits, predicting warm reception for Cornhusker among critical-application operators.
 

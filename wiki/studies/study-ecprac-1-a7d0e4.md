@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.6
 prescience_obs_count: 25
 ---
 
 # Electronic Commerce: 1998 Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.63 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.53 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > A comprehensive 1998 survey of the electronic commerce market covering internet sales, procurement, advertising, and payment systems. The report profiles more than 40 EC software vendors and CSPs, segments the EC market into six process categories, and provides strategic guidance on build-buy-outsource decisions. Aberdeen projects internet consumer sales growing to $10-15 billion by 2003 and internet advertising reaching $4.1 billion by 2000.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 3.0
 prescience_obs_count: 2
 ---
 
 # Less Is More: Stylin' PCs
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.75 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Wired article on the emerging shift of desktop PCs from utilitarian beige boxes into smaller, design-forward living-room form factors. Quotes Peter Kastner of Aberdeen Group on how 'the next form factor battles are beginning to be fought in the living room' and documents Gateway, Sony, and HP's early thin/quiet SFF PCs. Frames the consumer-PC aesthetic/size convergence with consumer electronics as a central competitive axis.
 

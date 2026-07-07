@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.3
 prescience_obs_count: 23
 ---
 
 # Waiting for ILM?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.75 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.16 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Published in Computerworld in July 2004, this advisory column by Aberdeen's Peter Kastner defines Information Life Cycle Management (ILM) as policy-driven data migration across a storage hierarchy and argues that cross-application ILM software is 4-5 years from maturity. Kastner provides a practical six-step recipe for enterprises to begin ILM adoption immediately using a four-pool storage model (Online/Midline/Nearline/Offline). The article predicts that mature ILM software arriving circa 2008-2010 will reduce storage-related production hours by 80%.
 

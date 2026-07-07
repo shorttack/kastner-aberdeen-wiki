@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.39
 prescience_obs_count: 23
 ---
 
 # A Guide to Customer Relationship Management Professional Services: 1999 Edition
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.14 over 29 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.34 over 29 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group market study examines the rapidly expanding CRM professional services market of 1999, analyzing how major consulting firms, systems integrators, and pure-play CRM vendors are responding to enterprise demand for integrated customer interaction strategies. The report profiles 14 services suppliers — including Andersen Consulting, Cambridge Technology Partners, Cap Gemini, and EDS — against a multi-dimensional framework covering business consulting, systems integration, outsourcing, and emerging ASP delivery models. Aberdeen projects the CRM services market growing at approximately 40% annually, driven by front-office/back-office integration and CRM/e-commerce convergence.
 

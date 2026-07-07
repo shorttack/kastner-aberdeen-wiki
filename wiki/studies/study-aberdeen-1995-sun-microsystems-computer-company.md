@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.62
 prescience_obs_count: 21
 ---
 
 # Sun Microsystems Computer Company: Sun Emerges as a Top-Tier Commercial Systems Supplier
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.20 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.32 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen profiles Sun Microsystems Computer Company (SMCC) as it transitions from technical workstation leadership to commercial server market contender. The study examines Sun's SPARC-based server product line from workgroup to enterprise tiers, evaluates its response to commercial buyer requirements (performance, scalability, availability, cost of ownership), and assesses Sun's competitive position against IBM and HP in commercial Unix server sales.
 

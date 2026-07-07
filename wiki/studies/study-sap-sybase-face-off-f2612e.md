@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
 prescience_obs_count: 5
 ---
 
 # SAP, Sybase Face Off
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.17 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > InformationWeek news story (Jan 29 1996, Issue #564) on a feud between SAP AG and Sybase Inc. over database support for SAP's R/3 ERP system. Sybase had promised in October 1995 that SAP R/3 would support its SQL Server System 11 database, but the support does not appear imminent: Mike Regan (GM applications support, Sybase Emeryville) says SAP decides the timing; Paul Wahl (EVP international marketing, SAP Walldorf) says the ball is in Sybase's court. The dispute centers on row-level locking, which Sybase System 10/11 does not support; SAP R/3 requires it for satisfactory multi-user performance. An anonymous former Sybase source describes row-level locking as 'a deal-breaker' for SAP. Peter Kastner, VP and analyst at Aberdeen Group Inc. in Boston, comments: 'There is no doubt Sybase is missing a huge amount of business with SAP. Just look at what a great business SAP has been for Informix.'
 

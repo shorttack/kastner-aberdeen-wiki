@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.25
 prescience_obs_count: 4
 ---
 
 # Apple's Enterprise IT Battle Plan, Part One
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.40 over 5 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.40 over 5 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > LinuxInsider/MacNewsWorld feature on Apple's enterprise IT ambitions post-Xserve, framed through Peter Kastner of Aberdeen Group. Kastner argues Apple needs 'a specialized SWAT team out of Cupertino' to make business cases to skeptical enterprises, and flags Apple's weak indirect channel as the key obstacle. Article covers Xserve, Xgrid grid-computing, education/scientific footholds, and Apple's pricing strategy.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.1
 prescience_obs_count: 10
 ---
 
 # Does Intel's Decision Not To Manufacture InfiniBand Silicon Damage the Initiative?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.83 over 12 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.17 over 12 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > InfiniBand, a next-generation data-center I/O initiative, faced a major challenge in August 2002 when strong backer Intel canceled plans to supply silicon for InfiniBand interface adapters ahead of the initiative's production launch. While most industry observers predicted InfiniBand would stall, Aberdeen argued the opposite: Intel's withdrawal was rational for Intel and ultimately beneficial for the InfiniBand ecosystem, enabling specialized silicon vendors to fill the gap.
 

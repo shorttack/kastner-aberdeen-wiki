@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.17
 prescience_obs_count: 12
 ---
 
 # Managing Customers with Next-Generation Software Applications: 1998 Edition (CIS Report)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.61 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.06 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's fourth annual Customer Interaction Software (CIS) report surveyed the rapidly consolidating market for front-line business applications including sales force automation, customer service, telemarketing/telesales, and emerging marketing automation. The 1998 edition introduced web-based CIS as the future architecture and documented convergence with enterprise business applications (EBAs), profiling over fifty CIS suppliers across eight application modules. It identified the network-centric CIS architecture and CIS-to-EBA integration as the two defining trends of the next phase of market development.
 

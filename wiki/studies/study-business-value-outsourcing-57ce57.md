@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.54
 prescience_obs_count: 13
 ---
 
 # The Business Value in IT Outsourcing
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.41 over 17 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.76 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Hypothesis paper (6pp) previewing planned benchmark on IT outsourcing business value. Identifies five drivers for IT outsourcing: core competency focus, cost savings, IT resource constraints, time-to-market pressure, and culture wars. Hypothesizes up to 30% of IT outsourcing engagements are seriously misaligned. Finds 50-67% of contracts running at sub-optimal levels. Estimates only 5-10% of multi-million dollar IT outsourcing agreements drive all anticipated business value. Uses IT maturity model: Best-in-Class (20%), Average (50%), Laggard (30%). Best-in-Class measure ROI after every application change (50%) vs. Laggard (25%).
 

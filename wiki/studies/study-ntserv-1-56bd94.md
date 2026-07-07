@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.83
 prescience_obs_count: 18
 ---
 
 # Windows NT Server: 1998 Practice Summary
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.52 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.30 over 23 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary on the Windows NT Server market covering Intel-based server hardware and the NT operating environment. The report sizes the NT server hardware market at $6 billion in 1997 and projects 50% annual growth; it also covers SMP architectures, clustering (Microsoft Cluster Server/Wolfpack), systems management deficiencies, and supplier profiles for Intel, Microsoft, Compaq, HP, IBM, Dell, and Digital Equipment. Aberdeen identifies NT's ongoing limitations relative to Unix and frames 1998 as a strategic inflection point for NT enterprise adoption.
 

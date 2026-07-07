@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.17
 prescience_obs_count: 18
 ---
 
 # Tivoli Systems: Unifying the Management of Network Computing Environments
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.57 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.75 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Tivoli Systems (an IBM company) and its Tivoli Management Framework (TMF), arguing it provides IT executives the most comprehensive enterprise-grade management solution for unifying diverse client-server, mainframe, and midrange environments under a single policy-based management framework. The study explains IBM's strategic decision to acquire Tivoli instead of completing its own Karat project, and positions TMF as superior to HP OpenView's bottoms-up approach and CA Unicenter's all-or-nothing purchasing model.
 

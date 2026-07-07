@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 12
 ---
 
 # Digital's VAX: Alive and Kicking With TPC Benchmarks
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.30 over 10 usable obs (5 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.80 over 10 usable obs (5 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Viewpoint section analyzes Digital Equipment Corporation's March 1992 VAX product-line price-performance realignment, using TPC-A benchmark data to show that Digital simultaneously rationalized pricing across its entire VAX range—from MicroVAX 3100 to VAX 6000—while achieving the industry's best price-performance at the entry level. Aberdeen concludes that Digital has deliberately repositioned the VAX as a commercial price-performance leader, tripling cost-efficiency since 1990 and becoming competitive not only with HP and IBM but also with emerging RISC vendors such as Sequent.
 

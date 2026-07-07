@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.26
 prescience_obs_count: 31
 ---
 
 # Enterprise Information Integration: The New Way to Leverage E-information (Second Edition)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.07 over 45 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.20 over 45 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > 74-page Aberdeen Group second edition market report on Enterprise Information Integration (EII), the predecessor to SOA/ESB thinking. Author: Wayne Kernochan, Managing VP Platform Infrastructure. EII market sized at under $200 million, projected 80% growth in 2003. IBM leads with $60M EII revenue estimate; BEA $25M; Business Objects $15M. Report introduces Aberdeen EII Technology Segmentation Model covering EAI, database, XML messaging, and EII solution categories. Taxonomy of information aggregation tools: data migration, replication/ETL, data warehouses, operational data stores, EII, federated databases. MetaMatrix featured as case study supplier. SAP OEM deal with MetaMatrix for NetWeaver noted. Related markets: EAI $2.2B→$3.0B, content management $1.2B→$2.0B, portal $1.5B→$2.8B (2002-2004).
 

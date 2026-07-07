@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.77
 prescience_obs_count: 26
 ---
 
 # RS/6000 RDBMS Sales Training
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.14 over 29 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.31 over 29 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > An IBM sales training deck prepared by Aberdeen Group in 1995 providing competitive intelligence on the midrange RISC/UNIX market and the major RDBMS vendors. The document profiles IBM RS/6000, HP, Digital, Sun, and AT&T GIS as hardware platforms, then positions IBM's RS/6000 and DB2/6000 against Oracle, Informix, Sybase, and other database competitors. It gives IBM sales representatives detailed strengths, weaknesses, and tactical selling tips for each competitor.
 

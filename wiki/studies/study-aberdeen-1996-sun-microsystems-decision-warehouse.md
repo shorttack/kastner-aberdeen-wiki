@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.86
 prescience_obs_count: 14
 ---
 
 # Sun Microsystems Decision Warehouse
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.81 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.67 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group profile evaluates Sun Microsystems Computer Corporation's (SMCC) Decision Warehouse program, examining its UltraSPARC server architecture, SPARCstorage arrays, Solaris 2.5 SMP optimization, Database Engineering group, and partnerships with Oracle, Sybase, Informix, and other RDBMS vendors. Aberdeen concludes that SMCC has the requisite components to differentiate itself in the data warehousing market, projecting strong scalability for terabyte-class warehouses through the Enterprise Server Test Center and Competency Centers.
 

@@ -1,5 +1,5 @@
 ---
-title: "ICL (International Computers Limited)"
+title: "Sequent Computer Systems Inc."
 slug: "sequent-computer-systems"
 page_type: "entity"
 tags: ["type/entity", "entity-type/information-technology"]
@@ -17,7 +17,7 @@ prescience_mean: 0.85
 prescience_obs_count: 20
 ---
 
-# ICL (International Computers Limited)
+# Sequent Computer Systems Inc.
 
 > Referenced as the provider of the NT base platform. HP's NT HA story depended on improving upon Microsoft's base platform.
 

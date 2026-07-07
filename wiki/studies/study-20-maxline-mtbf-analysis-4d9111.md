@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.53
 prescience_obs_count: 19
 ---
 
 # MaXLine vs. Fibre Channel Drive System-Level MTBF Analysis
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.26 over 23 usable obs (0 prefiltered, 2 pending) -> medium; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.39 over 23 usable obs (0 prefiltered, 2 pending) -> medium; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > A quantitative benchmark analysis comparing the system-level Mean Time Between Failures (MTBF) per terabyte of MaXLine ATA disk drives versus Fibre Channel (FC) disk drives across seven RAID configurations. Using a base of 8,766 hours per year, MaXLine drives (1 million hours MTBF, 250–300GB capacity) and FC drives (1.2 million hours MTBF, 73–146GB capacity) are modeled at 80% loading. The analysis demonstrates that despite FC drives having higher individual MTBF ratings, MaXLine achieves superior system-level MTBF per TB in all seven tested configurations due to requiring fewer physical drives per terabyte. The conclusion is explicit: in all cases MaXLine has superior system-level MTBF per TB.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.21
 prescience_obs_count: 19
 ---
 
 # The Artful Web They Weave: Spider Technologies' NetDynamics
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.64 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.91 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1996 profile of Spider Technologies analyzes NetDynamics, an early web-database application builder combining TP-monitor-like middleware with a visual RAD development environment. The study positions NetDynamics as a critical infrastructure component for scalable Internet transaction processing, identifying load balancing, CGI bypass, and Java integration as key differentiators. Aberdeen recommends IS buyers evaluate NetDynamics as a leading-edge solution for commercial-strength web-database applications, and predicts strong competitive positioning against middleware, RDBMS, and client/server toolset providers.
 

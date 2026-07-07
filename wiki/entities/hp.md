@@ -1,5 +1,5 @@
 ---
-title: "Hewlett-Packard Company"
+title: "HP (Hewlett-Packard)"
 slug: "hp"
 page_type: "entity"
 tags: ["type/entity", "entity-type/information-technology"]
@@ -17,7 +17,7 @@ prescience_mean: 2.52
 prescience_obs_count: 33
 ---
 
-# Hewlett-Packard Company
+# HP (Hewlett-Packard)
 
 > Subject of the analyst call; divisions: PSG (Personal Computing Group), IPG (Imaging and Printing Group), ESG (Enterprise Systems Group), Services. [REVIEW]
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 2
 ---
 
 # Microsoft Asked To Change Misleading Linux Ad
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.25 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.50 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > LinuxInsider coverage of a UK Advertising Standards Authority action requiring Microsoft to change a misleading Linux comparison ad. Peter Kastner of Aberdeen Group frames the European regulatory context, noting growing government adoption of Linux and that while Microsoft has 'a lot of friends' in Europe it is increasingly under scrutiny. Article ties ad-compliance ruling to broader open-source political momentum in the EU.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 12
 ---
 
 # Don't Fall for the Siren-Song Price of Under-powered Desktop PCs (Aberdeen Impact)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.06 over 16 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 16 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group 'Impact' publication (Sept 10, 1998) in which Kastner warns IS executives against the 'siren song' of sub-$1,000 and Celeron-class corporate desktops. Argues that memory pressure from Windows 95/98/NT + Office 97 + Outlook 98 + IE4 + SNMP + anti-virus consumes 60MB virtual memory, making 32MB PCs obsolete. Recommends a 400 MHz Pentium II with 128 MB and a 17-inch monitor at $1,800-2,000 for a 3-year useful life, sized for Office 2000, IE 5, and Windows NT 5.0 (later Windows 2000). Introduces Aberdeen's 'Welded Case' model — buy extra PC power now to avoid labor-intensive upgrades.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 3.0
 prescience_mean: 1.67
 prescience_obs_count: 3
 ---
 
 # Salesforce.com's Apex Code: Good Idea or Superfluous Code?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.25 over 4 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.50 over 4 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Datamation / internet.com IT management feature (April 26, 2007) on Salesforce.com's Apex Code — a new proprietary server-side programming language introduced via developer preview at Dreamforce 2006 and generally available in January 2007. CEO Marc Benioff positions Apex as enabling 'unlimited innovation on demand' for the 'Business Web.' Peter Kastner, vice president of enterprise integration at Aberdeen Group, reports client skepticism: 'They like the idea of opening up the application to custom integration, but are perplexed over why salesforce is inventing a new scripting language when Perl, Ruby, and Javascript are already well understood by enterprise developers.' Article notes Apex differentiates via multi-tenant fault isolation and data-management / business-logic focus (vs general-purpose scripting).
 

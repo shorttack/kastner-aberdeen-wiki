@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.56
 prescience_obs_count: 9
 ---
 
 # HP's Consumer IT Leadership Needs More Focus On Consumers (Sep 5 2001 draft)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.56 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.61 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > September 5, 2001 Aberdeen Lab InSight draft on HP's consumer IT execution, based on hands-on experience with HP's C315 digital camera. Earlier version of the 'Caveat Emptor' InSight later published December 5, 2001. Documents the Windows XP upgrade-in-place compatibility failure caused by HP's bundled photo-transfer software interfering with Windows XP native camera support — and the 45-minute support call that cost HP more than the camera's retail price per Aberdeen help-desk research.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.56
 prescience_obs_count: 27
 ---
 
 # Aberdeen Group Practice Definitions Compendium — Web/Internal Templates (January 2000)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.26 over 35 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.31 over 35 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Compendium of seven Aberdeen Group practice-definition templates produced for the firm's January 2000 planning cycle and intended for web publication and internal reference. Each template names the practice group coordinator and contributing analysts, articulates the practice's coverage scope and objectives, lists supplier coverage universe, surfaces strategic market questions, and (in several cases) supplies 1999-2000 market-size estimates by segment. Practice areas covered: (1) Enterprise Applications and Services (EAS) — ERP, professional services, eLearning — coordinated by Maynard with Hofferberth as Professional Services lead; (2) Enterprise Management — systems/network/applications/web operations management — Valerie O'Connell as Research Director; (3) Platform Infrastructure (PI) — Kernochan, Hill, Tanner — covering storage, mainframes, databases, application servers; (4) Platforms Group — Becknell, Gruener — covering server/client architectures, OS, RISC/EPIC/MAJC, information appliances; (5) Data Knowledge / Decision Support / Knowledge Management — query/reporting, OLAP, analytical applications, data mining, content management, data warehouse/mart, ETL with detailed market-size estimates; (6) B-to-B e-Business & Supply Chain Management — David Alschuler memo to Peter Kastner (Jan 17 2000) defining e-Procurement/e-Sales/e-Distribution/e-Messaging segments. Two near-duplicate Platform Infrastructure templates document active editing iterations of practice scope. The compendium establishes the canonical 'practice area definition' attribution baseline for each named analyst and is the primary documented evidence supporting Aberdeen Group practice-area Category Creator credits beyond Hofferberth (PSA) and Fletcher (CRM).
 

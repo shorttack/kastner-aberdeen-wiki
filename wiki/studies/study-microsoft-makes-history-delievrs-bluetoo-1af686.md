@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 2.0
 prescience_mean: 1.0
 prescience_obs_count: 2
 ---
 
 # Microsoft Makes History: Delivers Bluetooth Keyboard and Mouse
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.60 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Microsoft press release announcing its Wireless Optical Desktop for Bluetooth, among the first Bluetooth-branded mainstream PC peripherals from a major vendor. Peter Kastner of Aberdeen Group characterizes the launch as the catalyst that finally moves Bluetooth from pre-launch hype into mainstream consumer peripherals.
 

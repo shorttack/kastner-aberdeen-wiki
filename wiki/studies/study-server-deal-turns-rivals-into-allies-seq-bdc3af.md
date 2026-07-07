@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.38
 prescience_obs_count: 8
 ---
 
 # Server Deal Turns Rivals Into Allies: Sequent to Resell NCR WorldMark
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.80 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.70 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > InformationWeek news (Jan 27 1997, Issue #615) on a three-year reseller agreement under which Sequent Computer Systems (Beaverton OR) will resell NCR WorldMark 4300 midrange Pentium Pro servers. Analysts estimate the deal at $50M over 12-18 months. Andre Dahan (SVP Sales/Marketing, Sequent) explains: as customers move to Baan, Oracle, and SAP applications there is a clear separation of database vs application tiers, driving demand for NT servers around Sequent's high-end boxes. Sequent had bundled Dell and Compaq PC servers previously. Mark Hurd (VP Marketing, NCR Dayton OH) — the future HP/Oracle CEO — says the 'unusual deal between traditional rivals' benefits large accounts strengthening NT infrastructure, with continued competition at high end; NCR (recently spun off by AT&T) focuses on data warehousing and high-end banking/telecom/retail transaction processing. Both vendors explicitly aim to 'beat the RISC vendors in the market' via Intel Pentium Pro and Windows NT. Peter Kastner, group VP with The Aberdeen Group (Boston), comments: 'The deal makes sense for both vendors and customers. It lets Sequent leverage R&D, while NCR gains channel opportunities for its products. There is no downside for Sequent customers because the NCR boxes do tough work in tough places. It is also an indication that Sequent is serious about a broad line of products and is not cutting corners for an increasingly commodity marketplace.' WorldMark 4300 scaled to 4 Pentium Pro CPUs with 8-CPU support targeted Q2 1997.
 

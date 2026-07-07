@@ -1,5 +1,5 @@
 ---
-title: "NeoVista Software Inc."
+title: "Oracle Corporation"
 slug: "oracle-corporation"
 page_type: "entity"
 tags: ["type/entity", "entity-type/Enterprise Customer"]
@@ -17,7 +17,7 @@ prescience_mean: 2.11
 prescience_obs_count: 194
 ---
 
-# NeoVista Software Inc.
+# Oracle Corporation
 
 > Oracle Corporation; canonical Oracle entity. Entity-ID variants in archive: oracle, oracle-corp, oracle-corporation, ORACLE, ENT-006, ENT-010, ENT-011, ENT-ORACLE, ENT-ORACLE-DB, ENT-ORACLE-APP, ENT-ORA-001, ent-05, ent-06, e90-05, and 15+ additional ENT-prefixed IDs
 

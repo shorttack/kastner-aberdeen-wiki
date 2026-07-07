@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.5
 prescience_obs_count: 26
 ---
 
 # Planning for Emerging Industry-Standard Platforms (Executive White Paper)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.25 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.22 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Executive White Paper sponsored by Intel surveying the 2004 generational transition in industry-standard (Intel Architecture) computing. Covers processors and enterprise chipsets (Xeon/Nocona, Itanium 2/Madison, E7501/E7205/E8870/Lindenhurst/Twin Castle, 875P Canterwood), memory evolution from DDR to DDR2 with mainframe-class memory mirroring/sparing/scrubbing, Intelligent Platform Management Initiative (IPMI 1.5) for heterogeneous datacenter management, and the major I/O transition from parallel PCI-X to serial PCI Express. Aberdeen predicts server consolidation, data-center utility computing, and continued IA market-share gain.
 

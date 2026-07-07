@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.38
 prescience_obs_count: 24
 ---
 
 # Aberdeen Proposal Templates (Profile, AAS-Starter, Executive White Paper) and Retainer Business Strategy Deck (PSK Draft, 2001)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.13 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.13 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Four Aberdeen Group internal artifacts comprising the contractual and strategic backbone of the 2001 Advisory Access Service rollout. Includes three boilerplate sales proposal templates — the Aberdeen Profile ($25,000 research report), the AAS Starter (six-month $6,000 introductory retainer with designated analyst, briefings, half-day consulting, and portal access), and the Executive White Paper ($35,000 in-depth positioning study) — plus Peter Kastner's confidential 'Retainer Business' draft slide deck proposing the Aberdeen Advisory Access Service (AAAS) as a $500/month entry retainer, explicitly diagnosing retainer sales objections and positioning AAAS as an added-revenue kicker following an initial Profile or workshop engagement rather than a standalone cold-call product.
 

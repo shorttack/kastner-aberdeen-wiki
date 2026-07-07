@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.36
 prescience_obs_count: 22
 ---
 
 # Dialogic® CT Media™ Sets The Pace For Open-Standards Computer Telephony Development
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.44 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.32 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluated the computer telephony (CT) development platform landscape in 1997, concluding that Dialogic's CT Media was the sole open-standards S.100-compliant resource management framework for CT application development and deployment. The study compares CT Media against proprietary platforms from Natural MicroSystems, Rhetorex, Brooktrout BOSTON, and Mitel MediaPath, and argues that open-standards CT would catalyze a broader, more efficient market by separating hardware and software roles.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.54
 prescience_obs_count: 13
 ---
 
 # Aberdeen Group Assessment of Unicenter and Jasmine for Computer Associates
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.94 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.22 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Letter-form report from Peter S. Kastner (Group Vice President, Aberdeen Group) to David M. Hood (Director of Analyst Relations, Computer Associates) following a two-day analyst roundtable evaluation of CA's Unicenter and Jasmine products. Kastner delivers pointed positioning recommendations to maximize 1997 revenue, including brand-led advertising, ISV instrumentation, a VAR program, non-traditional environments, a national fault-response center, and competitive collateral against Tivoli. The letter also proposes a broad Aberdeen-CA consulting engagement.
 

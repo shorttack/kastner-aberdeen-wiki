@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.88
 prescience_obs_count: 26
 ---
 
 # Open Systems: A Technology Status Report
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.56 over 27 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.41 over 27 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group workbook provides a comprehensive status report on Open Systems as of January 1993, covering the transition from proprietary to open, distributed computing architectures. It assesses five key technology components — hardware microprocessors, systems software, application development toolsets, networking, and emerging architectures — and profiles major vendor positions and standards organizations. The study culminates in an ACTION framework for IS executives managing the organizational and economic challenges of open systems adoption.
 

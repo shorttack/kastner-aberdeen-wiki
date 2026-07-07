@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 8
 ---
 
 # The New PeopleSoft: Long-Term Strategy, Near-Term Benefits
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.20 over 10 usable obs (0 prefiltered, 2 pending) -> medium; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.50 over 10 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analysts Degnan and Minahan assess the strategic and operational implications of the newly combined PeopleSoft-JDE entity, advising enterprises using PeopleSoft or JDE products—or those considering the new firm—that the merger delivers meaningful cross-industry capabilities. The study highlights real estate management brought to professional services and strategic sourcing brought to manufacturing as exemplary incremental value from combined product suites. Aberdeen frames the merger as a near-term practical opportunity even while Oracle's hostile bid remains unresolved.
 

@@ -1,5 +1,5 @@
 ---
-title: "Digital Equipment Corporation (DEC)"
+title: "Intel Corporation"
 slug: "intel"
 page_type: "entity"
 tags: ["type/entity", "entity-type/semiconductor"]
@@ -17,7 +17,7 @@ prescience_mean: 1.59
 prescience_obs_count: 172
 ---
 
-# Digital Equipment Corporation (DEC)
+# Intel Corporation
 
 > Kastner retained Intel as a retainer client during the 2003-2006 period when he stepped aside from Aberdeen leadership; returned to Aberdeen in 2006 to drive SOA research.
 

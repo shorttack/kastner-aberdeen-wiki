@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 0.61
 prescience_obs_count: 18
 ---
 
 # Forte Enterprise Development Environment
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.65 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.15 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group examines Forte Software's Forte Release 3.0, Forte Express, and Forte Conductor — a second-generation High-end Application Development Environment (HADE) suite. The profile evaluates Forte's capabilities in application partitioning, multitier client-server development, Internet/Intranet support, and workflow automation. Aberdeen concludes that Forte delivers significant long-term value for enterprise-critical applications and rates it a leader in second-generation HADE capabilities.
 

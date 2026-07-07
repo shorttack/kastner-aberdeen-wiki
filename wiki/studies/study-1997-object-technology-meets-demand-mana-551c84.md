@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
 prescience_obs_count: 9
 ---
 
 # Object Technology Meets Demand Management: IMI Pushes Towards Real Value-Chain Solutions
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.83 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.25 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Examines how object-oriented technology (OOT) enables enterprises to address simultaneous revolutions in business and technology. Uses IMI's System ESS synchronized demand management solution as a primary case study demonstrating object architecture for Enterprise Business Application (EBA) systems. Aberdeen argues that OOT and Internet technologies together enable inter-operation of businesses and creation of electronically-enabled virtual enterprises, particularly for Demand Chain Management. The study is an abstract; full text was available separately.
 

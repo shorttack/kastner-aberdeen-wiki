@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 2.0
 prescience_mean: 0.12
 prescience_obs_count: 8
 ---
 
 # Tandem TopGun ET1 Benchmark Analysis — Kastner-authored Stratus + DEC memos
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.40 over 10 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.30 over 10 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Two PSK-authored memos covering the same Tandem TopGun ET1 benchmark across employer transitions: the August 1987 Stratus 'Working Document on the NonStop SQL Benchmark' (co-authored with Raphael Frommer and Clark Hodder, addressed to Bill Foster, Bob Freiburghouse and the Stratus engineering leadership) dissecting Tandem's 32-VLX 208-tps TopGun result; and the January 1988 DEC Corporate Systems Group memo applying the same analysis to plot Digital's response. PSK enumerates Tandem's 'go-fast tricks' (Pathway hacks, TMF buffering, file partitioning so all branch records sit on one ATB disk, mirrored disks worth ~5%, intelligent X.25 cluster controllers, relaxed 90%/2-sec response criterion vs the original 95%/1-sec, randomized arrival times) and concludes Tandem's 8-VLX baseline would deliver ~10-15 tps under conservative ET1 conditions — meaning Stratus and Digital are 'not nearly as bad as corporate mythology would have us believe.' The memo is a rare document of PSK actively analyzing competitive benchmarks across two employers in five months.
 

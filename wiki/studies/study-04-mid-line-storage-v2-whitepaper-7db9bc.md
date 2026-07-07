@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.07
 prescience_obs_count: 30
 ---
 
 # Mid-Line Disk Storage Emerging As Significant Cost-Saving Opportunity
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.76 over 34 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.24 over 34 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's Executive White Paper presenting the case for a new 'mid-line' disk storage tier using ATA technology positioned between high-performance FC/SCSI disk arrays and tape. Based on 75 face-to-face and telephone interviews with Fortune-class storage managers. The paper defines four tiers of the storage pyramid (high-performance disk / mid-line / near-line / tape) and argues that mid-line ATA disk can serve at least 20% of enterprise data — and potentially over half — at 50% lower cost per gigabyte. It also introduces information lifecycle management (ILM) as the strategic framework for multi-tier storage.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.25
 prescience_obs_count: 16
 ---
 
 # QACenter: Automated Software Quality From Start to Finish
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.58 over 24 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.58 over 24 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Compuware's QACenter, a comprehensive automated software testing suite spanning client-server and mainframe platforms. The study documents QACenter's component tools (QARun, QAStress, QALoad, QADirector, QATrack, QAHiperstation, QAPlayback), evaluates its competitive position against Mercury Interactive and SQA/Segue, and presents Aberdeen's research showing that automated testing can reduce application testing cycles and costs by 50-75%. Aberdeen concludes that QACenter is a fully capable enterprise-level testing environment and that automated testing tools have become a necessity in the complex application development lifecycle.
 

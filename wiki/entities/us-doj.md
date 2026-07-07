@@ -1,5 +1,5 @@
 ---
-title: "U.S. Department of Justice"
+title: "US Department of Justice"
 slug: "us-doj"
 page_type: "entity"
 tags: ["type/entity", "entity-type/government"]
@@ -17,7 +17,7 @@ prescience_mean: 0.0
 prescience_obs_count: 3
 ---
 
-# U.S. Department of Justice
+# US Department of Justice
 
 > n testifying for Microsoft in its anti-trust trial with the U.S. Department of Justice;   - Compaq has a great worldwide Wintel channel already in
 

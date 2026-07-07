@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.12
 prescience_obs_count: 17
 ---
 
 # Professional Services Automation: Increasing Efficiencies and Profitability in Professional Services Organizations
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.77 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.18 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group report defines and maps the emerging Professional Services Automation (PSA) software market in 1999, providing 14 in-depth vendor profiles, market dynamics analysis, and growth projections through 2003. The study positions PSA as the services-sector equivalent of ERP for manufacturing, projecting significant efficiency improvements for IT, engineering, legal, advertising, and other fee-based services organizations. Key vendors profiled include PeopleSoft, SAP AG, Niku, Changepoint, Evolve Software, and a dozen others.
 

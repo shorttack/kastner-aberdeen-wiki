@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.42
 prescience_obs_count: 12
 ---
 
 # Caveat Emptor: HP's Consumer IT Leadership Needs New Focus on Consumers
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.31 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.69 over 16 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Lab Journal dated December 5, 2001. Kastner recounts a first-person experience evaluating HP's C315 digital camera through installation under Windows ME and then Windows XP. The report identifies a critical undocumented incompatibility: the HP photo transfer software shipped with the camera interferes with Windows XP's native camera support, causing photo transfer failures. HP's support web site does not document the workaround (not installing the bundled software), and the support technician was unaware of the issue. Aberdeen concludes HP's consumer IT leadership strategy requires improved process, simpler documentation, and better support to prevent costly support calls and consumer defection.
 

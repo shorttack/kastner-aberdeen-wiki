@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.48
 prescience_obs_count: 21
 ---
 
 # Front-Ends and Apple Computer in the 1990s
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.25 over 24 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.17 over 24 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This January 1991 Aberdeen Group report for Apple Computer USA examines the market for frontware (non-invasive front-ends to mainframe applications) and client-server computing based on in-person interviews at eleven major mainframe sites across banking, brokerage, government, insurance, retail, transportation, and university sectors. Aberdeen finds that over 80% of corporate MIS is deeply committed to IBM PC architecture and largely unaware of Apple's connectivity capabilities, while the frontware market is under $50M (1990) and client-server maturity is projected for the mid-1990s. The report recommends Apple pursue aggressive direct marketing to enterprise MIS, combine frontware and client-server messaging, and increase the pilot program well beyond 25 sites.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.68
 prescience_obs_count: 22
 ---
 
 # Intel's IA Continuum Strategy Anticipates a Much Broader Computing Market
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.20 over 25 usable obs (3 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.44 over 25 usable obs (3 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen white paper by Kastner analyzing Intel's IA Continuum strategy for the 2010s. Argues that Intel's x86 architecture (Atom, Core, Xeon) scales across a computing continuum from smartphones to datacenters. Covers consumer electronics, systems on a chip, datacenter (including cloud, Itanium, SSD), HPC, traditional PCs/notebooks, and the channel. Concludes Intel is singularly capable of delivering a unified computing continuum and will benefit from emerging middle-class growth worldwide.
 

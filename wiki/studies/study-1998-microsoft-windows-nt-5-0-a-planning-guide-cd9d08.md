@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.36
 prescience_obs_count: 22
 ---
 
 # Microsoft Windows NT 5.0: A Planning Guide
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.88 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.96 over 24 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This comprehensive multi-disciplinary Aberdeen Group report — compiled by 12 analysts — analyzes Microsoft Windows NT 5.0 (renamed Windows 2000) across ten dimensions including scalability, reliability, development, administration, security, directory services, the Internet, desktop, and storage management. Published October 1998, it predicts NT 5.0 will ship late 1999, warns of uneven benefits and slow arrival, and counsels careful enterprise planning before deployment. The report identifies NT 5.0 as potentially the greatest OS-upgrade impact since the mainframe era.
 

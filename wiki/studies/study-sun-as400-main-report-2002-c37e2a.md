@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.56
 prescience_obs_count: 25
 ---
 
 # Competing for the IBM AS/400 Market: A Report to the Management of Sun Microsystems
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.29 over 35 usable obs (6 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.17 over 35 usable obs (6 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's formal deliverable to Sun Microsystems assessing Sun's opportunity to compete for the $10.27B IBM AS/400/iSeries market in 2002. The report sizes the addressable displacement opportunity at $1.87B across new customers, consolidation, enterprise applications, and Linux-lever upgrades. Recommendations focus on a partner-led strategy mirroring IBM's, Linux as the upgrade lever, and Europe as the key battleground SMB market. The analysis assumes flat 2002 iSeries revenues and identifies both positive factors (Regatta transition, Linux, consolidation trends) and negative factors (installed base inertia, IBM Global Services, lease renewal cycle closing).
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.4
 prescience_obs_count: 5
 ---
 
 # Videoconferencing Boost — Intel TeamStation
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.43 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.71 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > InformationWeek reports Intel's TeamStation room videoconferencing system — based on standard PC technology and priced at $9,999 ($11,999 with monitor) versus the $20,000 typical for proprietary room systems. Caterpillar Financial deployed in 12+ cities. Aberdeen Group analyst Peter Kastner explains how PC-based filtering produces 'less jerky video' over low-speed lines and predicts the technology will be 'fundamental to communications in the 21st century.'
 

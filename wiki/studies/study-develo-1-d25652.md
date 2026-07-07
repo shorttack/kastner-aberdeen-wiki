@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.35
 prescience_obs_count: 20
 ---
 
 # Development Tools: 1998 Practice Summary
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.97 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.90 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary covering the application development tools market, assessing IDEs, 4GLs, RAD tools, Java tools, component-based development frameworks, and Internet deployment environments. The report surveys 16 named vendors including Borland/Inprise, IBM, Microsoft, Oracle, Rational, Sybase/Powersoft, and Symantec, evaluating their competitive position and strategic outlook. Four primary market drivers are identified: Internet/Intranet/Extranet development, component production and assembly, distributed-application deployment, and application development modeling and repositories.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.1
 prescience_obs_count: 20
 ---
 
 # Who Cares If The Computer Breaks?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.04 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.29 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > A presentation delivered at the MIT Forum in October 1995 examining why computer failures are increasingly catastrophic as society's dependence on computing grows. Kastner surveys the causes of hardware, software, and network failure, then presents a spectrum of high-availability and fault-tolerance strategies ranging from RAID to fully redundant failover architectures. The talk concludes that future availability gains will depend on system software enabling application failover without prohibitive development costs.
 

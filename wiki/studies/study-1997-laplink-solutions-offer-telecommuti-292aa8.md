@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.22
 prescience_obs_count: 9
 ---
 
 # LapLink Solutions Offer Telecommuting Value-Add
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.67 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.80 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen evaluates Traveling Software's LapLink remote control solutions for telecommuting. Study covers remote control vs remote node architecture security features SpeedSync technology and the growing telecommuting market with 9.5M off-site workers in 1997 projected to exceed 15M by 2000.
 

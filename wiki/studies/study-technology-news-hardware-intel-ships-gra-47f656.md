@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.2
 prescience_obs_count: 5
 ---
 
 # Intel Ships Grantsdale and Alderwood Chipsets
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.14 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.14 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > TechNewsWorld article (Jun 22 2004, Jay Lyman) on Intel's release of the 915 G/P (Grantsdale) and 925 X (Alderwood) desktop chipsets — bundled with new Pentium 4 LGA775 processors, supporting high-definition video, 7.1 surround audio, DDR2 memory, PCI Express, RAID 0/1, Wi-Fi, and hardware security for the forthcoming Windows XP SP2. Intel's Louis Burns calls this 'a significant evolution.' Aberdeen chief research officer Peter Kastner delivers the canonical analyst frame: 'The new 915 G/P and 925 X chipsets represent the biggest change in input-output capability in a decade.' Kastner says the primary benefit will be support for media-center-type computers, positively benefiting consumers and corporate users. Gartner's Martin Reynolds: 'A major cycle rather than a minor cycle… this is a big cycle and provides the platform headroom for new processors.' Reynolds forecasts the new chipsets will be the basis of most PCs for the next two years.
 

@@ -17,20 +17,12 @@ license: "CC-BY-NC-SA-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # NBC Nightly News (Tom Brokaw): SARS Economic Impact, Electronics Supply Chain, Asia Travel Bans
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.50 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.31 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > 3-minute NBC Nightly News special edition (Tom Brokaw) on SARS economic fallout running concurrent with the Iraq war. Ann Thompson reports: spike in first-time jobless claims, sharp drop in US service-sector activity, 27% of companies banning Asia travel (Business Travel Coalition), $22M/month US airline ticket revenue at risk to Asia. Kastner ('high-tech consultant') warns of factory-closure risk and consumer-electronics availability impact. Pre-SARS Asian economies (ex-Japan) growing at 5%; SARS threatens US exports and overall recovery. Source video archived in companion private repo shorttack/kastner-restricted-sources. AI-generated summary transcript ingested 2026-06-12.
 

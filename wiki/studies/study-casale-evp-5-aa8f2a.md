@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.0
 prescience_obs_count: 16
 ---
 
 # Hypergrowth Balance Sheets - Neglected Stepchildren?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.43 over 21 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.38 over 21 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > EVP #5 in the Executive Viewpoint series analyzes balance sheet dynamics of a composite hypergrowth tech company (FTI), focusing on accounts receivable DSO expansion, inventory valuation asymmetry, and the distorting effect of end-of-quarter shipment concentration. Casale argues that apparent receivables deterioration is a symptom of loose operational cost control rather than credit quality issues, and that balance sheets are systematically underanalyzed by institutional investors focused on P/E ratios.
 

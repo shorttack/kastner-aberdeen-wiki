@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.76
 prescience_obs_count: 25
 ---
 
 # Fletcher Spaght Inc. — Growth Strategies for New/Evolving Businesses (Aberdeen Engagement)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.06 over 33 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.18 over 33 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Fletcher Spaght Inc. (FSI) strategy consulting presentation (40 slides) prepared for Aberdeen Group. The primary case study covers Ascendant (Omnigy commerce platform) — a B2C/B2B e-commerce ASP — with FSI conducting 45 customer interviews across e-tailers, 3rd-party fulfillers, and component providers. FSI analyzed Omnigy's market positioning, segment priorities (computer H/W & S/W, apparel/sporting, food/beverage as top segments), and recommended focus on 'Supplier Enablement' over 'B2C' given >$10M/sale economics. Also documents the FSI-Aberdeen collaboration model and FSI's firm profile (est. 1983, Boston). Reveals Aberdeen's business model, partnership strategies, and growth plans circa 2001.
 

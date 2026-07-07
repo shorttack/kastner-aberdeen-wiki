@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.75
 prescience_obs_count: 8
 ---
 
 # Bacon's Shopping List: Is Buying a Consulting Firm the Next Step for Microsoft?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.09 over 11 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.36 over 11 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Puget Sound Business Journal feature (May 2002) on speculation that Microsoft might spend up to $15 billion of its $38 billion war chest to acquire a major consulting firm like Accenture Ltd. or PricewaterhouseCoopers LLP. Anchors on a Gartner report by Thomas Bittman predicting an acquisition by end-2005. Quotes Aberdeen Group's Peter Kastner: 'It'd be a huge change in direction for Microsoft. I think Wall Street would interpret a move like that as an indication that Microsoft's core business of selling software is failing. I think investors would run for the exits.' Documents Microsoft's recent acquisition spree (Navision $1.3B 2002, Great Plains $1.1B Dec 2000, Visio $1.3B Sept 1999, Hotmail $400M Dec 1997, WebTV $425M April 1997) and the Microsoft-Accenture joint venture Avanade (created March 2000, Accenture took 70% ownership Feb 2002, Microsoft <20%).
 

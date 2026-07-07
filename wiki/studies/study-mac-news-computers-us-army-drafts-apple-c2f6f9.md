@@ -17,8 +17,6 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: ""
-prescience_5y_enum: ""
 prescience_max: 5.0
 prescience_mean: 2.2
 prescience_obs_count: 5

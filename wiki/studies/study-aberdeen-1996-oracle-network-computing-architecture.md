@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.83
 prescience_obs_count: 23
 ---
 
 # Oracle's Network Computing Architecture
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.34 over 29 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.38 over 29 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Oracle's Network Computing Architecture (NCA), a comprehensive framework integrating multi-tier client-server, Internet, and distributed-object technologies through a 'cartridge' component model and Inter-Cartridge Exchange (ICX) middleware based on CORBA. The study concludes that NCA is not a 'marketecture' but a substantive extension of proven Oracle products providing a least-cost migration path to mission-critical 21st-century transaction processing, and recommends ISVs and enterprise IS factor it into their 1-2 year technology strategies.
 

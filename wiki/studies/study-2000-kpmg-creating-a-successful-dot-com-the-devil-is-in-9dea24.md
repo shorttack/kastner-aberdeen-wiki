@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 7
 ---
 
 # Creating a Successful dot.com: The Devil Is in the Details
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.80 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.40 over 10 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen White Paper, sponsored by KPMG Consulting LLC, examines the critical success factors for e-business adoption in February 2000 — the peak of dot-com euphoria. It addresses challenges facing brick-and-mortar firms transitioning online, Internet startups, and first-mover dot-coms, and contextualizes how professional services firms — specifically KPMG's new Microsoft Dot.com Practice — were realigning to serve the emerging Internet economy.
 

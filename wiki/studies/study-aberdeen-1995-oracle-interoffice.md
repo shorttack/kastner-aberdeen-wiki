@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 40
 ---
 
 # Oracle InterOffice: Helping IS Deploy Solutions to Business Partners and Customers Over the Internet
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.40 over 52 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.46 over 52 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Profile evaluating Oracle InterOffice (code-named Pegasus), a modular cross-platform messaging, document management, and workflow product announced December 13, 1995. Aberdeen is struck by Oracle's sharp Internet focus and concludes InterOffice is the first groupware product architecturally designed for Internet-enabled business collaboration. The study introduces the concept of an Electronic Economic Community—a borderless network of businesses, partners, and customers enabled by Internet connectivity—and positions Oracle InterOffice as its principal enabling platform. Key findings include a 6–12 month competitive lead claim over nearest rivals, support for 25+ server platforms, a modular Common Access Layer exposing OLE/OCX, MAPI, ODMA, and planned Java interfaces, and Oracle's $3 billion revenue position as evidence of the organizational capability to execute. Aberdeen recommends IS managers study Oracle InterOffice as a reference architecture for dissolving the electronic walls separating enterprises from partners and customers.
 

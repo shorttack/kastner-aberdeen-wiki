@@ -1,5 +1,5 @@
 ---
-title: "International Business Machines Corporation"
+title: "IBM Corporation"
 slug: "ibm-corporation"
 page_type: "entity"
 tags: ["type/entity", "entity-type/Corporation"]
@@ -17,7 +17,7 @@ prescience_mean: 1.76
 prescience_obs_count: 76
 ---
 
-# International Business Machines Corporation
+# IBM Corporation
 
 > Cited in multiple practice definitions: EAS (OEM with Big-5-rivaling business strategic planning services), Platform Infrastructure (AS/400 and mainframe coverage), Platforms Group supplier
 

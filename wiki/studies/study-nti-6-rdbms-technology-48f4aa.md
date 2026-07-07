@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 21
 ---
 
 # RDBMS Report Card
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.60 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.47 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates the role of relational database management systems (RDBMS) in enterprise computing, covering their use in OLTP and decision support. The study profiles six leading independent RDBMS vendors—Oracle, Ingres, Sybase, Informix, Software AG, and Progress—against seven functional criteria and produces a best-in-class report card. Aberdeen concludes that RDBMS has become the central application platform for enterprises and that Oracle leads the market while IBM's DB2 trails all competitors.
 

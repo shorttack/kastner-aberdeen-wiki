@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.47
 prescience_obs_count: 15
 ---
 
 # Enterprise Application Integration: Advanced Technologies and a Sense of Process
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.72 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.89 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's December 1998 study defined Enterprise Application Integration (EAI) as a new and distinct market in its early formation stage, predicting the EAI market would reach $1 billion by the year 2000. Authored by Ed Black, Jeanine Fournier, and Peter Kastner, the report profiled 20 EAI suppliers, segmented the technology landscape, assessed market size and growth projections, and identified key user and supplier success factors. It argued that EAI solutions went beyond traditional middleware to provide reusable architecture-based integration, and documented the convergence pressures on enterprise application portfolios from heterogeneous platforms and supply chain integration requirements.
 

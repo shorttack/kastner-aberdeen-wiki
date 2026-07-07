@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.04
 prescience_obs_count: 23
 ---
 
 # Dun & Bradstreet Software SmartStream Distributed Enterprise: Putting It All Together To Better Spread It All Apart
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.67 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.37 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group product profile of Dun & Bradstreet Software's SmartStream Distributed Enterprise (SmartStream DE) ERP suite. Examines the product's distributed client/server architecture, workflow capabilities, SQL Server/Sybase dependency, market positioning against Oracle Applications, PeopleSoft, SAP, and SSA, and D&B Software's strategic position as its parent Dun & Bradstreet Corporation prepares for divestiture. SmartStream DE revenues exceeded $100M in fiscal year 1995.
 

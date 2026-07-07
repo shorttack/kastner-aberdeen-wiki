@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.64
 prescience_obs_count: 11
 ---
 
 # JRL 1999 Trends List with Peter Kastner Responses
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.67 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.93 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Internal Aberdeen-era memo: a list of 9 trends for 1999 compiled by 'JRL' (John R. Logan, Aberdeen Group co-founder, partner, and board chairman) followed by detailed 'PK Response' annotations from Peter Kastner. Trends covered: application integration, Y2K remediation, Y2K contingency planning at the business-unit level, Intel banner year, #1-vendor market-share gains, telecom switching, Sun's enterprise data center ascendancy, Windows 2000 slow adoption, post-Y2K e-commerce. Kastner adds three extension trends: who owns security, the year of the object, and computing as a utility / ISP business. Primary-source artifact of Kastner thinking in 1999.
 

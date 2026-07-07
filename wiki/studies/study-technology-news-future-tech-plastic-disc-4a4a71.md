@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.4
 prescience_obs_count: 5
 ---
 
 # Plastic Discovery Means Advanced Memory
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.14 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.57 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > TechNewsWorld news article (Nov 13 2003, 10:12 AM PT) by Jay Lyman on a joint HP/Princeton University research discovery in polymer/plastic non-volatile memory. Peter Kastner, chief research officer at Aberdeen Group, contextualizes the discovery within the broader thin-film-polymer-memory research landscape including parallel Intel and AMD efforts. Kastner's key analytical move is to deflect attention to the more fundamental constraints on near-term memory: 'The biggest problem with today's high-density transistor memory is heat dissipation. If a polymer or plastic can't solve the electronic demands, it won't matter.' Kastner points to the emerging DDR2 memory (due in 2004) as the near-term solution. He also notes that next-generation DVD-writing technology will use much less metal while supporting dual layers — which bodes well for CD/DVD longevity (refuting early predictions that plastic memory would kill optical media).
 

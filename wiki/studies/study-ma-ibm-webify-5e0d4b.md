@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.47
 prescience_obs_count: 17
 ---
 
 # IBM + Webify = Industry SOA Application Jumpstart
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.33 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.22 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Market Alert analyzing IBM Software Group's August 2006 acquisition of Webify Solutions, a provider of pre-built vertical-market SOA application components. Kastner argues the acquisition catalyzes the nascent market for industry-specific SOA development. Key analysis: 90% of Global 5000 businesses will exit 2006 with SOA activities underway; half are building SOA using 'SOA Lite' (web services + lightweight tools). Kastner distinguishes 'SOA Lite' from 'Enterprise SOA' (with ESB, repository, management, governance). Webify provides pre-built customizable SOA service components for insurance, healthcare, banking, and telecom. IBM with Webify is described as 'in a category of one.' Kastner recommends enterprise application programmers in healthcare and insurance evaluate IBM-Webify vs. Eclipse or Microsoft Visual Studio on lifecycle lines-of-code metric.
 

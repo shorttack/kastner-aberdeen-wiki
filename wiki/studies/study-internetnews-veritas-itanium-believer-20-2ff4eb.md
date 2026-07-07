@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.33
 prescience_obs_count: 6
 ---
 
 # VERITAS a Believer in Itanium
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.43 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.29 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > VERITAS extends Foundation Suite 2.2 and Cluster Server 2.2 to Intel Itanium 2 on Red Hat Linux 3.0. IDC forecasts the Itanium-Linux server market reaching $2B by 2008. Aberdeen Group analyst Peter Kastner notes 400 applications have been certified on Itanium architecture — addressing the historical Itanium application-ecosystem complaint.
 

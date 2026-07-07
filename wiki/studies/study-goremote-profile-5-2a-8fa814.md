@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.44
 prescience_obs_count: 18
 ---
 
 # GoRemote Is Unifying Secure Remote Access Services
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.25 over 24 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.88 over 24 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen profile of GoRemote Communications, Inc. (NASDAQ: GRIC), a managed remote access service provider. Analyzes the outworker cost problem, GoRemote's TierOne global network, MobileOffice client, Total Security Protection, and Universal Remote Control management portal. Aberdeen concludes that GoRemote offers the first unified solution for cost-effective management of fixed and mobile outworkers, projecting multimillion-dollar savings for enterprises adopting managed remote access in lieu of do-it-yourself approaches.
 

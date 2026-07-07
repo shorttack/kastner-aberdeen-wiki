@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.22
 prescience_obs_count: 9
 ---
 
 # Sabre's Challenge
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.44 over 9 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.44 over 9 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > InformationWeek cover feature (August 18, 1997) on Sabre Group Holdings Inc. — spun off from AMR Corporation in late 1996 — and its challenge of expanding software offerings to attract new customers while modernizing a 25-year-old IBM TPF-based mainframe reservations system. System holds 4 TB of data on 400 airlines, 50 car-rental companies, and 35,000 hotels; at peak handles 5,200 messages/second; processed 350M reservations in 1996 at <2 second transaction time. Peter Kastner, Aberdeen Group analyst, explains the limitation: TPF is adept at handling reservations but 'adding new applications is problematic.' Sabre's answer is next-generation Sabre — a client-server surround strategy using Unix/Silicon Graphics servers and Oracle databases to extend the mainframe core. Travelocity (Sabre Interactive) is the flagship case. Thomas Cook (president, Sabre Technology Solutions) notes Sabre's goal of 15-25%/year non-airline revenue growth. Includes IBM 10-year Hong Kong airline deal (June 1997) among recent wins.
 

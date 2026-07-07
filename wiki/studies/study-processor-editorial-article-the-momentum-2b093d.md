@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.83
 prescience_obs_count: 6
 ---
 
 # The Momentum Is Gathering At Cisco: Developing SME Products Is A Growing Priority
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.88 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.88 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Processor Magazine editorial (2004-07-16) by Elizabeth Millard covering Cisco's April 2004 SMB Class Solutions Initiative, IPCC Express contact-center bundles, and Cisco Security Agent Starter Bundle. Peter Kastner (Aberdeen analyst) notes Cisco has the clout to become a major SME player but is still smarting from the May 2004 leak of proprietary Cisco IOS router source code, which he predicts will force Cisco to redouble router-security investment — ultimately a positive for SMEs getting more secure products.
 

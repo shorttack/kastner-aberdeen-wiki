@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 97
 ---
 
 # The Business Process Management Benchmark Report: Achieving Real Results through Monitoring and Performance Measurement
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.12 over 118 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.24 over 118 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Full 38pp Aberdeen BPM benchmark report by Peter Kastner. Survey of 160+ Global 5000 enterprises. Finds 94% of respondents moderately or very satisfied with BPM IT system results; average ROI 18%, ROA 10%, 9% revenue increase, 12% expense decrease, 2x IT value/budget ratio. BAM vs BPM-centric approaches equally valid; 57% chose all equally. Key challenge: management buy-in. BPM monitoring 'wags the tail' of BPM suite — monitoring component sufficient to pull through BPM suite sales. 42% still in planning stages. Sponsored by Tier1 Innovation and Value Chain International Limited.
 

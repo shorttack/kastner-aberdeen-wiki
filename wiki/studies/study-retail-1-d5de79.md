@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.81
 prescience_obs_count: 16
 ---
 
 # Retail: 1998 Industry Practice Summary
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.88 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.20 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 survey of IT investments and trends in the U.S. retail sector, covering point-of-sale systems, supply chain management, data warehousing, e-commerce, and Y2K readiness. The report identifies integration of disparate systems as the defining IT challenge for retailers, and forecasts that data warehousing and Internet commerce will become competitive necessities. Supplier profiles cover 19 vendors including IBM, NCR, SAP, and Andersen Consulting.
 

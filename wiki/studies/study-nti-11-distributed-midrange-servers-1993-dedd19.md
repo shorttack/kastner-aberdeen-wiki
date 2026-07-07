@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.77
 prescience_obs_count: 22
 ---
 
 # Building Distributed Systems with Midrange Servers
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.52 over 29 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.86 over 29 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group presents a comprehensive guide for IS executives on building enterprise distributed systems using midrange servers, covering enterprise requirements, server characteristics, operating systems, and distributed architectures. The study advocates the three-tier-plus topology and demonstrates how midrange servers surpass mainframes in I/O bandwidth, processor performance, and cost, delivering 50% IS cost reductions on average. Aberdeen profiles leading hardware suppliers (HP, NCR, Unisys, Compaq, DEC) and RDBMS vendors (Oracle, Sybase, Informix, Ingres, Software AG) as the foundation for distributed production systems.
 

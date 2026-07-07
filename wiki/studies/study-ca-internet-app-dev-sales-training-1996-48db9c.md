@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.38
 prescience_obs_count: 8
 ---
 
 # An Overview of Internet Application Development (CA Sales Training June 1996)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 7 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.86 over 7 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > 'An Overview of Internet Application Development' — Peter S. Kastner presentation to Computer Associates Sales Training, June 1996. Introduces the Internet/intranet stack (thin-client browser, TCP/IP, HTTP, CGI, firewall, RDBMS) and contrasts Internet applications with traditional client-server. Early canonical analyst framing of the Web as an application-delivery platform delivered to a CA sales audience in the Netscape-dominant pre-IE3 era.
 

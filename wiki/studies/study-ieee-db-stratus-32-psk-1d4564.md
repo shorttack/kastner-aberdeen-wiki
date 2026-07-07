@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.62
 prescience_obs_count: 24
 ---
 
 # A Fault-Tolerant Transaction Processing Environment (Stratus/32, IEEE Database Engineering, June 1983)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.68 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Peer-reviewed article by Peter S. Kastner of Stratus Computer, Inc., published in IEEE Computer Society Technical Committee on Database Engineering Bulletin (June 1983, Vol.6 No.2, pp.20-28). Describes the Stratus/32 multiprocessor fault-tolerant system architecture for commercial on-line transaction processing (OLTP). Each processing module contains paired self-checking logic (Motorola 68000 CPUs, memory, disk controllers), with up to 32 modules connected via the StrataLINK high-speed coaxial link. Stratus's Virtual Operating System (VOS) presents the federation as a single virtual computer, with transparent file/process distribution. Key software components covered: VOS file system, StrataNET networking, Transaction Processing Facility (TPF) with multi-tasking servers and START/COMMIT/ABORT primitives, two-phase commit protocol with 'Phase I Commit' flag, mirrored disks for write durability, and the Forms Management Facility. The article documents Stratus's continuous-processing thesis: hardware-detected failures with redundant pair-and-spare partners eliminate the need for checkpoint/restart programming at user or system level. This is Kastner's primary published technical exposition of Stratus architecture during his Stratus marketing tenure.
 

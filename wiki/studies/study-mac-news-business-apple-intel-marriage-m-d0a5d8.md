@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.0
 prescience_obs_count: 3
 ---
 
 # Apple-Intel: Marriage Made in Heaven?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.60 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.60 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > MacNewsWorld retrospective on Apple's PowerPC-to-Intel transition (announced 2005, effectively complete 2006). Peter Kastner, then vice president of enterprise technology at Aberdeen, sees no problems and calls the move a boon to Apple's fan base — citing Mac sales up four times industry average in Q2-2006 on the strength of easier OS X/Windows XP dual-boot and virtualization. Kastner endorses the PowerPC retirement and positions Intel-Mac as an uncontested win.
 

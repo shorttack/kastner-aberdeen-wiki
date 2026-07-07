@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.29
 prescience_obs_count: 24
 ---
 
 # Data Management: 1998 Practice Summary
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.90 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.83 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary on the Database Management Systems (DBMS) market, covering relational, object-relational, object, embedded, and mobile DBMS categories. The report surveys major vendors including Oracle, IBM, Informix, Sybase, Microsoft, and Computer Associates, assesses turbulent 1997 market dynamics including revenue stagnation among major vendors, and forecasts the impact of Windows NT, packaged applications, commoditization, and Internet technologies on DBMS market segmentation. Aberdeen predicts continued Oracle dominance on Unix, Microsoft SQL Server growth on NT, and emerging opportunities in business intelligence, mobile user, and Web content management segments.
 

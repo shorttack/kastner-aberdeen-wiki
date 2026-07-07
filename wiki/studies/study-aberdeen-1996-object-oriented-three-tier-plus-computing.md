@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.59
 prescience_obs_count: 17
 ---
 
 # Object-Oriented Three-Tier-Plus Computing: Client-Server for Adults
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.92 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.50 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's whitepaper examines the maturation of three-tier client-server computing in 1996, presenting the 'Three-Tier Plus' model that adds MPP/clustered SMP as a fourth tier for data warehousing. The study synthesizes field research from Aberdeen consulting assignments showing that organizations implementing 3-Tier architectures achieve four key business outcomes: improved enterprise efficiency, multi-source information access, scalability for emerging technologies, and superior ROI. Aberdeen argues object-oriented programming is critical for partitioning applications across tiers and predicts NT Server will close the gap with Unix on mid-tier within 24 months.
 

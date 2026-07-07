@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 1.0
 prescience_mean: 0.06
 prescience_obs_count: 17
 ---
 
 # nVidia Personal Cinema 1.0 — Aberdeen Lab Report
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.17 over 23 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.65 over 23 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group laboratory feedback report to nVidia management on 16 hours of hands-on testing of the Personal Cinema 1.0 kit (Compro GeForce2 MX 400 graphics card with VIVO breakout box) on a Dell 8100 running Windows XP. Evaluates graphics, TV tuner via WinDVR, DVD playback via WinDVD, Ulead Video Wave 4, and Microsoft Movie Maker workflows, and recommends packaging, cabling, and software-install improvements.
 

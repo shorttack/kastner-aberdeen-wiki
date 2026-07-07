@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.87
 prescience_obs_count: 15
 ---
 
 # Oracle Developer/2000 Client-Server Development Environment
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.83 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.39 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This 1997 Aberdeen Group profile evaluates Oracle Developer/2000, Oracle's second-generation Client-server Application Development Environment (CADE). Aberdeen positions Developer/2000 as having the widest range of scalable application development capabilities among CADEs, targeting medium-to-large data-intensive mission-critical client/server applications while also supporting workgroup-level and World Wide Web deployment via Java interfaces. The study details Developer/2000's 4GL toolset including Forms, Reports, and Graphics modules and its strategic role in Oracle's Network Computing Architecture.
 

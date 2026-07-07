@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.67
 prescience_obs_count: 12
 ---
 
 # Undercutting and Upselling: Dell's Foray into the Handheld Market
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.82 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.41 over 17 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This InSight profiles Dell Computer Corp.'s anticipated entry into the PDA market with a competitively priced Pocket PC device and analyzes the likely winners and losers in the enterprise handheld segment. The study examines Dell's probable pricing strategy, business model, and competitive implications for incumbent vendors including Palm, Handspring, and Sony.
 

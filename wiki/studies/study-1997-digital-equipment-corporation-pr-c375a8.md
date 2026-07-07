@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.95
 prescience_obs_count: 21
 ---
 
 # Digital Equipment Corporation — Telecommunications Market Profile
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.39 over 28 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.14 over 28 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiled Digital Equipment Corporation's telecom industry strategy in May 1997, examining DIGITAL's four solution areas (Intelligent Network, TMN, Customer Care & Billing, Broadband Services) and five key ISV partners: CGI, CMG, Dialogic, Kenan Systems, and Vienna Systems. Aberdeen concluded DIGITAL was well-positioned for telecom market expansion via Alpha platform strengths and partner ecosystem.
 

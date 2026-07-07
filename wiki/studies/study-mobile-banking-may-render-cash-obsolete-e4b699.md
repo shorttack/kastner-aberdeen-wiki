@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.4
 prescience_obs_count: 5
 ---
 
 # The Digital Wallet: Mobile Banking May Render Credit Cards and Cash Obsolete
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.67 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.83 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Boston Globe feature on consumer mobile banking, using Peter Kastner (identified as a 61-year-old consumer-electronics consultant in Westport MA, using his iPhone and Bank of America app) as the lead-paragraph representative user. Kastner articulates the untethered-from-desktop mobile-banking value proposition and, looking ahead, the role NFC-based contactless payment could play once added to phones.
 

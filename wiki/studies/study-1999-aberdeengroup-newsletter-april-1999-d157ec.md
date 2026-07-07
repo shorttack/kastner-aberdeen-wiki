@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.09
 prescience_obs_count: 22
 ---
 
 # AberdeenGroup Newsletter Volume 1 Number 2 — April 1999
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.10 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.30 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > The April 1999 Aberdeen Group newsletter (Volume 1, Number 2) surveys the firm's research agenda across six network-technology practice areas: Network Operating Systems, Linux enterprise adoption, Middleware and Messaging, Enterprise Management, Directory Services, and Internet Infrastructure. The issue also introduces Aberdeen's Rapid Accurate Market Positioning (RAMP) methodology for uncovering implicit buyer requirements, announces the opening of the firm's West Coast office in Palo Alto, and previews two forthcoming research reports on Windows NT multi-user computing and network convergence.
 

@@ -1,5 +1,5 @@
 ---
-title: "Stanford Technology Group"
+title: "Informix Corporation"
 slug: "informix-corporation"
 page_type: "entity"
 tags: ["type/entity", "entity-type/software-vendor"]
@@ -17,7 +17,7 @@ prescience_mean: 0.93
 prescience_obs_count: 15
 ---
 
-# Stanford Technology Group
+# Informix Corporation
 
 > role=technology-partner; status_note=Acquired by IBM in 2001 for approximately $1 billion; Informix database product line continues under IBM.; hq_location=Menlo Park, CA, USA
 

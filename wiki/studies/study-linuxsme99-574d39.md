@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.69
 prescience_obs_count: 16
 ---
 
 # Multiclient Study: Is Linux Already a Viable Alternative OS for Small Business?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.70 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group proposes a multiclient research study to evaluate Linux adoption and viability as an alternative operating system for small businesses globally. The study outlines qualitative (25 on-site interviews) and quantitative (400 telephone interviews) research methodologies to assess Linux acceptance depth, breadth, and timing in the $20M–$100M small business segment. Subscription tiers range from $10,000 (Reader) to $28,000 (Sponsor) with a target delivery of January 31, 2000.
 

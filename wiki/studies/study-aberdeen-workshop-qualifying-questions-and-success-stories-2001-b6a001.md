@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.08
 prescience_obs_count: 25
 ---
 
 # Aberdeen Workshop Qualifying Questions, Training Plan, and 2001 Customer Success Stories
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.07 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.17 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Seven Aberdeen Group internal artifacts from 2001 supporting the rebranded Advisory Access Service workshop family. Includes the Go-To-Market Workshop product sheet ($50,000 2-day engagement), qualifying-question frameworks for Market Knowledge, Messaging Strategy, and Positioning Strategy workshops, a skeleton Alliances Workshop draft, a three-tier Training Plan for communicating Aberdeen's new business model (company-wide overview, technology-group role-play sessions, streaming-media vignettes), and the Customer Success Stories 2001 — a curated roster of named client engagements attributed to Aberdeen analysts Dana Gardner, Peter Fessenden, Tom Dwyer, Jim Hurley, and Gerry Hemmendinger across Network Infrastructure and Security practice areas.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 3.75
 prescience_obs_count: 4
 ---
 
 # Vitria Testimonials — Aberdeen on BPA / SOA Stack
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.40 over 5 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.80 over 5 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Vitria Technology testimonials page (archived 2009) features Peter S. Kastner, Vice President of Enterprise Integration Research at AberdeenGroup, endorsing Vitria's Business Process Automation (BPA) vision. Kastner cites Aberdeen primary research showing buyers prefer SOA stacks for integration. Date estimated as 2007 from Kastner's Aberdeen title and Vitria's BPA product framing [REVIEW].
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.6
 prescience_obs_count: 20
 ---
 
 # Twelve Vital Hours For Your Career Success
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.56 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 'Twelve Vital Hours For Your Career Success' is a new-hire analyst orientation program consisting of four sessions covering Aberdeen's uniqueness and market position, client representation skills, the Profile and RAMP methodology, analyst support services, and business development practices. The document establishes Aberdeen's competitive differentiation versus Gartner, IDC, Forrester, Meta Group, and Giga Group, and introduces the firm's philosophy of positive, actionable IT advice delivered through one-on-one client engagements.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.95
 prescience_obs_count: 20
 ---
 
 # Commerce eXchange Answers The 'Show Me The Internet Money!' Challenge
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.61 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.43 over 23 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group Product Viewpoint (Volume 10, Number 2, March 14, 1997) evaluating InterWorld Technology Ventures' Commerce eXchange 2.0 — an enterprise Internet commerce platform. Aberdeen argues that the primary obstacle for high-volume Internet sites is lack of solution breadth, and positions Commerce eXchange as the answer for companies needing a single-vendor solution covering transaction engine, application portfolio, distributed object architecture (Oasis), and management tools. The study documents Commerce eXchange's support for both B2C and B2B electronic commerce (including EDI integration), its CORBA/DCOM-neutral abstraction layer, and its customers including Broderbund, MicroWarehouse, Multiple Zones International, and Scholastic. Aberdeen forecasts 1997 will see explosive Internet sales across financial services, retail, and travel sectors. InterWorld ultimately failed, filing for Chapter 11 in 2004 under its successor entity eB2B Commerce, Inc.
 

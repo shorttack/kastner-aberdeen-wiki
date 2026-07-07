@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 0.71
 prescience_obs_count: 21
 ---
 
 # ClassMate PC Evaluation Notes
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.46 over 26 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.35 over 26 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Kastner's detailed hands-on evaluation notes for the Intel Classmate PC (CMPC) — an ultra-mobile education PC — tested both in the United States and at a teacher's college in Jacmel, Haiti where teachers and K-12 students handled the device. Covers install quirks (50Hz/220v international power cable, WLAN activation gating), tutorial guide errata, operational issues (keyboard defaults, 7-inch screen real estate, standby battery), and extensive buggy behavior in the Mythware e-Learning Class v6.0 software. Concludes the hardware is a 'fine, workable device' for small hands, but Windows XP 'in silicon' carries high IT maintenance cost and the software is buggy but promising.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 0.75
 prescience_obs_count: 16
 ---
 
 # Expanding the Data Knowledge Practice
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.95 over 21 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.14 over 21 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Internal Aberdeen Group presentation by Research VP Bob Moran proposing expansion of the Data Knowledge practice covering decision support and knowledge management technologies (data warehouses, OLAP, query/reporting, data mining, CRM analytics, content management, personalization, and ETL). Includes market sizing data for 1999-2003 showing the total core tools market growing from $8.3B (1999) to $18.2B (2003) at 45% CAGR, and BI infrastructure from $1.2B to $2.6B at 29% CAGR. Also features vendor presentations from Oracle, Cognos, and Acxiom with financial data and strategic positioning.
 

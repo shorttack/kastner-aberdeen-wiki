@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.4
 prescience_obs_count: 5
 ---
 
 # Former Sun Exec Edward Zander To Head Motorola
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.17 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.67 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > TechNewsWorld news article (Dec 17 2003, 9:37 AM PT) by Jay Lyman reporting Motorola's selection of former Sun Microsystems president Edward Zander as CEO, replacing Chris Galvin after reported board run-ins. Peter Kastner, chief research officer at Aberdeen Group, endorses the choice: 'Edward Zander brings a wealth of high-tech experience to a high-tech company. Motorola has laid out plans to reinvent itself, and it will be Zander's job to drive those changes.' Kastner frames Zander's computer-industry background as important 'at a time when digital technology is creating new opportunities for consumer electronics' and calls Zander 'a take-charge guy in a company that's been searching for new levels of zeal and enthusiasm.' IDC analyst Alex Slawsby notes Motorola's recognition it had been spreading itself too thin. Article frames Zander selection as 'Back to the Core' for Motorola.
 

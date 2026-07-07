@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 4.33
 prescience_obs_count: 3
 ---
 
 # Urban Wi-Fi Gridlock Predicted To Arrive in 2004 (Kastner/Aberdeen report)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.17 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.33 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > eWEEK coverage of Peter Kastner (Aberdeen) report 'The Urban Wi-Fi Crash of 2004' predicting urban Wi-Fi interference gridlock. Kastner (senior analyst at Boston-based Aberdeen) argues that more powerful/advanced 802.11 flavors won't help users because they are automatically 'dumbed down' by other access points. Notes purchases shifting to 802.11g for throughput but without solving the interference problem. Framed as threatening hot-spot users in urban shadows of overlapping access points.
 

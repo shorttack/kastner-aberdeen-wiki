@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.33
 prescience_obs_count: 9
 ---
 
 # WSJ Gary McWilliams 'Retailers Create Own-Label PCs as Brand Names Dwindle' Featuring Peter S. Kastner CRO Aberdeen (May 2002, with St. Petersburg Times Reprint)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.69 over 13 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.92 over 13 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > May 3, 2002 Wall Street Journal feature by Gary McWilliams documenting how big electronics retailers — Best Buy, Future Shop, RadioShack Canada — are launching private-label PCs as IBM, Acer, Packard Bell, and Zenith have exited US retail PC and as the H-P / Compaq merger threatens to compress retail PC selection further. Quotes Steven Lee (Best Buy VP), Brian Levy (InterTAN/RadioShack Canada CEO), Robert O'Malley (Immersion Technology CEO), Ted Waitt (Gateway CEO), and Wayne Inouye (eMachines CEO). Closes with Peter S. Kastner, chief research officer at Aberdeen Group, on the structural pressure: 'Retailers won't let H-P keep all that valuable shelf space,' adding that second- and third-time PC buyers know enough to accept house brands, especially when built from components by well-known makers such as Intel. The article also reports CompUSA's pivot from its own house brand to eMachines, Best Buy's $2,300 fluorescent gaming PC line for teenagers (April 2002), and Intel's behind-the-scenes role connecting retailers to Asian PC assemblers. The St. Petersburg Times printed a syndicated reprint on June 3, 2002 (folded into raw_files for evidentiary completeness).
 

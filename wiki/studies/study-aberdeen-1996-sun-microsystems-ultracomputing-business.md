@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.29
 prescience_obs_count: 17
 ---
 
 # Sun Microsystems Computer Company: UltraComputing for Business
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.05 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.15 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Sun Microsystems Computer Company's (SMCC) commercial market strategy and new UltraSPARC server line launched April 1996. The study analyzes Sun's Network Business Advantage program (BusinessWare, Customer Management Solutions, Decision Warehouse), the UltraSPARC architecture delivering twice the power and five times the bandwidth of prior SPARC, and Sun's Java-driven Internet strategy. Aberdeen projects continued growth in Sun's commercial market revenues and endorses the UltraSPARC platform as meeting enterprise IS buying criteria.
 

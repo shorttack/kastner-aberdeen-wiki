@@ -1,5 +1,5 @@
 ---
-title: "U.S. Environmental Protection Agency"
+title: "Corel Corporation"
 slug: "corel-corporation"
 page_type: "entity"
 tags: ["type/entity", "entity-type/information-technology"]
@@ -17,7 +17,7 @@ prescience_mean: 0.0
 prescience_obs_count: 4
 ---
 
-# U.S. Environmental Protection Agency
+# Corel Corporation
 
 > Filed Chapter 11 August 1994; CM-5 massively parallel computing technology assets sold; Oracle acquired some IP
 

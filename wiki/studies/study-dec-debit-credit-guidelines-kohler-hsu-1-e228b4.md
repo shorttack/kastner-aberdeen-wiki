@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.89
 prescience_obs_count: 9
 ---
 
 # DEC Proposed Debit-Credit Benchmark Guidelines (Kohler/Hsu, Dec 1987)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.82 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.82 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Internal Digital Equipment Corporation HPS/OLTP Systems Performance Analysis Group memorandum dated 21-Dec-1987 by Walt Kohler and Yun-Ping Hsu, addressed to a distribution list including Dileep Bhandarkar, Bhagyam Moses, Rudy Downs, Joe Marconis, Christopher Marshall, Jim Sasena, Fred Howell, Mike Dempsey, Peter Kastner (HPS::KASTNER), Bill Zahavi, and Linda Wright. Document marked COMPANY CONFIDENTIAL. Provides DEC-internal proposed guidelines for implementing and reporting the Debit-Credit benchmark. Summarizes the 1985 DATAMATION Anon Et Al specification, divides Debit-Credit into eleven components, and for each component lists Specification, Interpretations, Implementation Guidelines, and Compliance requirements. Components include: Application Implementation Language, Terminal Communications (X.25 block-mode vs. character-mode terminals with FEPs), database operations, response-time measurement (95th percentile/1 second), database size, transaction-mix and verification reporting. Includes ASCII diagrams of three implementation configurations: character-mode terminals without FEPs, character-mode with FEPs in machine room, and remote FEPs (e.g. MicroVAX per branch). Cites Trehan (1986), Serlin (1986), and Tandem (1987) prior memos. Establishes baseline DEC reporting standard before the public Transaction Processing Performance Council (TPC) was founded in August 1988.
 

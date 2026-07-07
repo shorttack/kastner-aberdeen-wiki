@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.55
 prescience_obs_count: 20
 ---
 
 # Competitive Advantage Through Prism Metadata Scalability
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.33 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.70 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profile of Prism Solutions Inc. (Sunnyvale CA) evaluating its metadata-driven data warehouse software suite. Prism Scaleable Data Warehousing Solutions packages include the Prism Warehouse Executive (new), Prism Warehouse Directory, Prism Iterations methodology, and Web Access/Personal Mart modules. Aberdeen endorses Prism's metadata-first architecture as key to managing dynamic data warehouse evolution and recommends Prism's approach for enterprises scaling from data marts to enterprise warehouses. Prism was acquired by Ardent Software for $42M in January 1999.
 

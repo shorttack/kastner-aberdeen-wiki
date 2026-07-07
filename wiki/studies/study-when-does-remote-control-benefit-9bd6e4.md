@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.29
 prescience_obs_count: 14
 ---
 
 # When Does Remote Control Benefit Remote Node Architecture?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.79 over 19 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.89 over 19 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This 1997 Aberdeen Group impact study examines the trade-offs between remote node and remote control architectures for corporate remote access, finding that hybrid deployments combining remote node with remote control software (specifically Traveling Software's LapLink) deliver superior performance. Aberdeen's end-user research identifies five specific deployment conditions where remote control over remote node is advantageous, including mobile user concentrations above 10%, large database access, and frequent software upgrade cycles.
 

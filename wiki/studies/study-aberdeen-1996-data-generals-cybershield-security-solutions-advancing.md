@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 14
 ---
 
 # Data General's Cybershield: Security Solutions for Advancing Business on the Net
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.82 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.23 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Data General's Cybershield security platform, an integrated suite built on the B2-level secure DG/UX operating system (B2SO), designed to protect enterprise Intranets and electronic commerce applications. The study documents IS executives' concerns about network security and the inadequacy of standalone firewalls, then validates Cybershield's ability to segregate users, applications, and data with minimal performance impact. Aberdeen recommends Cybershield as a superior alternative to component-based point solutions for IS executives deploying Internet-facing business applications.
 

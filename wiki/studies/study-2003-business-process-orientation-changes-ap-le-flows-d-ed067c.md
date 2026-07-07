@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 3.67
 prescience_obs_count: 6
 ---
 
 # Business Process Orientation Changes Application View for Oracle: 'Flows' Define More than Solutions
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.09 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.73 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group Perspective examines Oracle's evolving application strategy centered on business process orientation, where 'flows' define the solution framework rather than discrete functional modules. The study argues that customers think in process terms — how workflows operate across the business and beyond organizational boundaries — and that Oracle must embrace both generic business processes and vertical-specific processes (government, education, healthcare) to remain competitive with SAP.
 

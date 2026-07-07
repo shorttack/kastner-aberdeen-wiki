@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.43
 prescience_obs_count: 7
 ---
 
 # Next Steps in SOA: Applications on the Network
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.70 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen 'Business Value Point of View' paper and study prospectus for the third in an ongoing SOA research series. Argues that SOA distributes and decouples processing from the data center to the network edge. As traffic shifts from data packets to XML-based content routing and Web Services messaging, network and software architecture lines blur. SOA middleware is now delivered inside XML-aware appliances; network infrastructure is taking on new roles; a new generation of SOA-aware software is emerging. Research will benchmark application processing on the network and survey IT organizations with one-on-one interviews; reach: 1M+ value chain executives via Aberdeen's Global 5000 network and affiliate channels. Timeframe: Q1 2006.
 

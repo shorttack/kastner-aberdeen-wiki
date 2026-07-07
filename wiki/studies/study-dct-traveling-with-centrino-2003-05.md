@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.54
 prescience_obs_count: 13
 ---
 
 # Traveling With Centrino
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.06 over 18 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.94 over 18 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Hands-on review after two months of travel with a Gateway 450 Intel Centrino notebook. Covers the Pentium M + chipset + WiFi Centrino platform architecture, 15in 1400x1050 screen trade-offs, 6.2lb weight versus preferred thin-and-light 4lb class, 1.5 GHz performance versus Pentium III/P4 desktops, battery life including DVD playback plus work day, WiFi range improvements including a Cometa McDonald's hotspot picked up from a 15th-floor hotel room across the street, and corporate 3-notebooks-per-7-desktops adoption forecast.
 

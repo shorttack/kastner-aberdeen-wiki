@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.33
 prescience_obs_count: 6
 ---
 
 # Tiger Responds to Security Warnings
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.62 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.12 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > eWEEK article reporting Mac OS X 10.4 'Tiger' launch features (Kerberos VPN, stealth-mode firewall, Safe Downloads, secure virtual memory) in the context of analyst warnings that Apple's rising market share will attract more attackers. Kastner (Vericours Inc. director) cites the Symantec Internet Security Threat Report figure of 37/1,403 new vulnerabilities involving Apple in H2 2004 and argues severity and organizational impact remain much lower than Microsoft's.
 

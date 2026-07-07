@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.11
 prescience_obs_count: 9
 ---
 
 # Slow Growth For IT Spending In 2003
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.90 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.90 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > InformationWeek article (Jan 3 2003) by Gregg Keizer summarizing Aberdeen Group's 2003 top tech trends forecast. Peter Kastner, Aberdeen's chief research officer, is the primary source: global IT spending up 4% in 2003 (up from <1% in 2002), back-end-loaded; outsourcing on-demand is the bright spot, driving deals like IBM-Deutsche Bank ($2.5B) and IBM-J.P. Morgan Chase ($5B); Kastner troubled by offshore outsourcing, calling it 'a horse of a completely different color and a potential economic threat to the livelihood of a lot of Americans.' Linux server growth 40% in 2003 (down from 50%+ in 2002); Linux desktop will still not break out and at best will overtake Apple at ~3% of enterprise market. Key Kastner aphorism: 'Ultimately, psychology and not technology will determine the growth rate for IT spending this year.'
 

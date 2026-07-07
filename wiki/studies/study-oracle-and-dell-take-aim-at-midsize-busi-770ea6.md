@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.12
 prescience_obs_count: 8
 ---
 
 # Oracle And Dell Take Aim At Midsize Businesses
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.80 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.60 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > InformationWeek/Network Computing article on the Oracle-Dell SMB pre-installation deal: Oracle granted Dell the exclusive right (through 2004 year-end) to deliver preinstalled Oracle Standard Edition One on Dell PowerEdge 2600/2650 servers running Red Hat Linux or Windows, starting at $4,108 for 5/10/25/unlimited user licenses. Aberdeen Group analyst Peter Kastner argues the pre-install model is particularly useful to SMBs, and the nine-month head start could translate into 1 million shipments for Dell — 'Dell will be able to take the exclusivity period to the bank.'
 

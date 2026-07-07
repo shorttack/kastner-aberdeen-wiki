@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.22
 prescience_obs_count: 27
 ---
 
 # Aberdeen Group Flash Report: High Availability Marketing Messages
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.71 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.63 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group advisory report from an October 1998 meeting with Hewlett-Packard personnel on high availability (HA) marketing strategy. Field research confirmed 40%+ of commercial server buyers considered availability an important buying attribute across NT and Unix markets. The report recommended HP differentiate via end-to-end HA (versus box-level), uptime contractual guarantees, and HAO remote monitoring. It advised transitioning away from the 'five nines' techie term, broadening HA application scope beyond Unix OLTP, and acquiring Marathon Technologies for NT fault tolerance. Competitive analysis covered IBM, Sun, and Compaq.
 

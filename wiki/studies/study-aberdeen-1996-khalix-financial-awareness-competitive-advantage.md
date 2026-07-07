@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.57
 prescience_obs_count: 23
 ---
 
 # Khalix: True Financial Awareness, True Competitive Advantage
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.30 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.53 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Longview Solutions' Khalix 2.1 financial management software, arguing it represents a superior approach to integrated enterprise financial management by combining consolidation, budgeting, forecasting, and analysis in a single truly integrated system built on Relational OLAP technology. The study contends Khalix's object-oriented hierarchical engine eliminates the cracks between loosely integrated point solutions and guarantees Longview a position on enterprise technology buyers' must-RFP shortlist.
 

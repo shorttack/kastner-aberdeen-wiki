@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.88
 prescience_obs_count: 8
 ---
 
 # Unix and NT Application Servers and Workstations: 1997-2000 Projections
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.25 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.08 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Market Viewpoint abstract projects worldwide shipment trends for Unix and NT workstations (units) and application servers (dollars) from 1997 through 2000. Aberdeen summarizes actual 1996–1997 baseline shipments and identifies market dynamics — Year 2000 (Y2K) impact, lower prices, new technology introductions, and technical support capabilities — as key drivers shaping each market segment through 2000. The full study provides size and change projections for each year.
 

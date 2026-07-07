@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.21
 prescience_obs_count: 39
 ---
 
 # New LIMD Technology: Speed Plus Real-World Experience
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.38 over 52 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.38 over 52 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Technology Viewpoint analyzing Large-Scale In-Memory Database (LIMD) technology, examining how 64-bit architectures and large main memories deliver 10-100x performance improvements for data warehousing, OLTP, and decision support.
 

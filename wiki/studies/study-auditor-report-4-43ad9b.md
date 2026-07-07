@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.33
 prescience_obs_count: 18
 ---
 
 # Eclipsys SunriseXA 3.3 Meets Subsecond Response Time Objective
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.43 over 21 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.33 over 21 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group audit report commissioned by Eclipsys Corp. to independently verify performance benchmarks for SunriseXA Release 3.3, a healthcare clinical information system. Benchmark simulated a 6,000-bed hospital at peak load (5,000 orders/hour, 2.27x the busiest known real hospital rate), executing 65,637 transactions in one steady-state hour via Mercury LoadRunner. Results confirmed subsecond response times for 4 of 5 transaction categories; only administrative log-on (multi-patient download) and batch group-order transactions exceeded 1 second. Database server CPU utilization was only 40% at peak. Aberdeen concludes Eclipsys successfully resolved response time issues identified in October 2003.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.27
 prescience_obs_count: 15
 ---
 
 # IBM's NT Strategy: Moving NT Upscale with Enterprise-grade Solutions, Middleware, and Services
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.19 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.24 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles IBM Software Solutions Division's Windows NT strategy, analyzing IBM's major strategic pivot from OS/2 competition to NT enablement. The study covers IBM's stated goal of NT market leadership by year-end 1998, its competitive positioning versus Compaq (~35% share) and HP (~16% share), and its portfolio of NT-optimized products: Lotus Notes/Domino, DB2 Universal Database, Tivoli TME, ADSM storage management, Communications Server, Transaction Server (CICS for NT + Transarc Encina), VisualAge tools, and MQSeries middleware. Aberdeen concludes IBM is well-positioned for enterprise NT due to its service infrastructure and mature application portfolio.
 

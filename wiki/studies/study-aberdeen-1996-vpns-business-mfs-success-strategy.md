@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.95
 prescience_obs_count: 22
 ---
 
 # VPNs for Business: The MFS Success Strategy
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.33 over 24 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.04 over 24 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles MFS Communications Company's strategy for leadership in the emerging Virtual Private Network (VPN) and digital telecommunications market. The study documents MFS's five-operating-unit structure, its SONET/ATM fiber network spanning 45+ US metro centers and international markets, and its first-mover advantages in national ATM (1993) and international ATM (1994) services. Aberdeen examines MFS's WAVE integrated voice-data service, its accelerated deployment plan (65 US metro centers by end 1998 vs. original 2000 target), and its co-carrier strategy under the US Telecom Act of 1996, concluding MFS is well-positioned for world leadership in VPN and integrated network services.
 

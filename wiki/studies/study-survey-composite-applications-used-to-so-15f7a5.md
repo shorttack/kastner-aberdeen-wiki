@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
 prescience_obs_count: 4
 ---
 
 # Survey: Composite Applications Used to Solve Integration Problems
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.67 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Enterprise Systems Journal (esj.com) news article (Jan 16 2007) by James Powell summarizing an Aberdeen Group research report on composite applications as a pragmatic stepping-stone to full SOA. Aberdeen reports application integration consumes up to 40 percent of the typical IT budget; most organizations have not dived deep enough into SOA to have one fully implemented, so they are using composite applications — logic and data collected from multiple IT sources, coupled with web services standards — to keep up with rapidly-changing business needs. Peter S. Kastner, vice president of Aberdeen's Enterprise Technology research practice and primary author of the report, is quoted: 'Our research found that companies are targeting Web-based applications first — specifically portals and browser-based applications — when they're looking to build composite applications.' Kastner also stresses focusing on processes that differentiate the company: customer satisfaction, service delivery, low-cost supply, fast delivery.
 

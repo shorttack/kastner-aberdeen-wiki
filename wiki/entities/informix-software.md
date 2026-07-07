@@ -1,5 +1,5 @@
 ---
-title: "Digital Equipment Corporation"
+title: "Informix Software Inc."
 slug: "informix-software"
 page_type: "entity"
 tags: ["type/entity", "entity-type/information-technology"]
@@ -17,7 +17,7 @@ prescience_mean: 2.0
 prescience_obs_count: 5
 ---
 
-# Digital Equipment Corporation
+# Informix Software Inc.
 
 > rformance|Gruener, James|Executive White<br>Paper|| |Oct-97|Informix Software -- MetaCube 4.0: Relational OLAP and RDBMS Create an Integr
 

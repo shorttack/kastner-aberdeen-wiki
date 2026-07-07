@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.1
 prescience_obs_count: 20
 ---
 
 # Pools of Storage Executive Evangelism Program — Phase 2 Contract
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.83 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.00 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Revised proposal and contract for Aberdeen Group's Phase 2 engagement with Maxtor Corporation covering the 'Pools of Storage Executive Evangelism Program' — a four-phase program at $114000 total. The program defines a four-tier storage lexicon (Online/Midline/Near-line/Offline) and proposes a strategy workshop in Shrewsbury MA (December 9 2003) followed by decision-tool development message testing with 100-250 internet surveys and a press tour in the US and Europe. The document introduces Serial Storage in a Box as a packaging concept and positions Maxtor as the ecosystem orchestrator for a new storage lexicon.
 

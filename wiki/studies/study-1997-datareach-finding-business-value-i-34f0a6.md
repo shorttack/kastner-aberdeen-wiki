@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 6
 ---
 
 # DataReach: Finding Business Value in Extracting Data
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.60 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.60 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group vendor profile of DataReach, a joint product by EMC Corporation and BMC Software that bypasses mainframe scheduling constraints to accelerate delivery of critical data to open systems environments. Aberdeen predicts the product will help Global 2000 enterprises unlock mainframe data for data warehouses and data marts.
 

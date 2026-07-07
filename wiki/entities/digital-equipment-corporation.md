@@ -1,5 +1,5 @@
 ---
-title: "Evolutionary Technologies International (ETI)"
+title: "Digital Equipment Corporation (DEC)"
 slug: "digital-equipment-corporation"
 page_type: "entity"
 tags: ["type/entity", "entity-type/hardware-vendor"]
@@ -17,7 +17,7 @@ prescience_mean: 1.06
 prescience_obs_count: 328
 ---
 
-# Evolutionary Technologies International (ETI)
+# Digital Equipment Corporation (DEC)
 
 > role_in_study=primary-subject; status_notes=Acquired by Compaq in 1998; Compaq subsequently acquired by HP in 2002. DEC brand retired.; hq_location=Nashua, NH; source_url=https://en.wikipedia.org/wiki/Digital_Equipment_Corporation; status_at_pub=active; status_current=acquired
 

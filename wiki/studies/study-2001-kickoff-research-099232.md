@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 10
 ---
 
 # Aberdeen Group January 2001 Research Meeting
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.93 over 14 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.93 over 14 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Nine-slide presentation from Aberdeen Group's January 2001 Research Meeting documenting the research organization structure, Research Council and Product Council roles, VP Advanced R&D responsibilities, 2000 revenue performance and 2001 targets, and European operation status. Core Research hit $18.7M in 2000 with a $26.0M target for 2001. European Research generated over $0.5M in 2000 with $0.7M in operating losses; 2001 revenue target of $1.27M. Historical snapshot of Aberdeen at scale with many new analysts, just before the tech crash.
 

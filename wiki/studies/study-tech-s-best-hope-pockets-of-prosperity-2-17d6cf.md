@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
 prescience_obs_count: 11
 ---
 
 # Tech's Best Hope: Pockets of Prosperity
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.33 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.33 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > BusinessWeek Online feature (March 15 2002) by Alex Salkever analyzing which tech segments will lead the post-dot-com recovery despite continuing telecom weakness. Peter Kastner, chief research officer at Aberdeen Group, provides the core Aberdeen 2002 forecast: total tech-sector revenues (hardware, software, IT services, excluding heavy telecom) will grow from $446.1 billion (2001) to $465.3 billion (2002), a 4.3% increase. Aberdeen projects IT services growing 5.6% ($173.9B -> $183.7B), software 6.7% ($93.7B -> $100B), and hardware only 1.7% ($178.4B -> $181.4B). Kastner calls the telecom-equipment segment 'an industry in nuclear winter.' He highlights Dell's two-hour inventory posture (supply-chain visibility) and IBM/EDS backlogs for ERP/CRM integration work at customers rolling out PeopleSoft, SAP, and Siebel. Merrill Lynch survey of 100 CIOs: most shifted spending-recovery expectations from 2002 into early 2003.
 

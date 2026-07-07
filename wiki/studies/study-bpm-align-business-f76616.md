@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.79
 prescience_obs_count: 24
 ---
 
 # Aligning IT to Business Processes: How BPM is Complementing ERP and Custom Applications
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.41 over 27 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.56 over 27 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > 29-page Aberdeen Group benchmark report on BPM adoption, ROI, and ERP integration. Based on survey of 125+ enterprises. 51% of respondents say ERP systems don't provide adequate functionality. Only 15% believe applications afford desired flexibility. Over 50% turning to BPM in 2007. BPM investment leads middleware: 57% investing in BPM tools vs 45% ESB/SOA vs 25% MDM. SOA technology and web services cited by 67% as integration glue between BPM and ERP. Large companies 50% more likely to invest in BPM vs SMEs. Underwriters: Appian, CTSpace, Ramco.
 

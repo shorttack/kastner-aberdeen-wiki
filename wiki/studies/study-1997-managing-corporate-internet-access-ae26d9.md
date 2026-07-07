@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 16
 ---
 
 # Managing Corporate Internet Access: A Business Priority
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.45 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.45 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen examines enterprise bandwidth management challenge and evaluates Xedia Corporation's Access Point broadband access management solution. Paper covers TCP/IP QoS limitations bandwidth allocation requirements and Xedia's Class Based Queuing and Intelligent Queuing approach at 50% below cost of competing solutions.
 

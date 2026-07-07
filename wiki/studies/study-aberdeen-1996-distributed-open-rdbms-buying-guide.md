@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.12
 prescience_obs_count: 17
 ---
 
 # The Distributed, Open Relational Database Management Systems Buying Guide: 1996 Edition
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.32 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.37 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1996 Distributed, Open Relational Database Management Systems (DORS) Buying Guide evaluates eight leading RDBMS suppliers—including IBM, Oracle, Microsoft, Sybase, Informix, Computer Associates, Progress Software, and Software AG—against five core technology categories: scalability, distributed technology, open technology, toolkits, and next-generation capabilities including Internet/Intranet, OLAP, and universal servers. The guide identifies the shift toward distributed data access and Internet-driven data management as the defining trend, and provides IS buyers with a framework for evaluating vendor offerings against enterprise requirements.
 

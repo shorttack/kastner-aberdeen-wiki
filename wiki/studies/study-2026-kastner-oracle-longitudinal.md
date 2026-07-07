@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.65
 prescience_obs_count: 68
 ---
 
 # Oracle Corporation Across Four Decades of the Kastner Archive: RDBMS Dominance, Office Futures, Applications Conquest, and the Cloud Pivot
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.41 over 68 usable obs (0 prefiltered, 23 pending) -> medium; 23 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.62 over 68 usable obs (0 prefiltered, 23 pending) -> high; 23 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > A longitudinal archive study of Oracle Corporation across four decades of the Kastner IT Research Archive. Oracle is the second most-referenced company in the archive — 327 observations across 73 distinct studies spanning 1988 to 2026, with 215 Oracle-vendor technology rows. The study decomposes Oracle coverage into eleven thematic threads: RDBMS market leadership, TPC benchmark contests, Oracle Office/InterOffice (the first document-summarization product — a harbinger of AI two decades ahead of its time), Developer/2000 and development tools, Oracle Applications/E-Business Suite, the PeopleSoft hostile acquisition, Network Computing Architecture, Oracle8/8i/9i/10g database evolution, Larry Ellison leadership and competitive style, the Sun Microsystems acquisition, and the cloud pivot and OCI buildout. Headline findings: Oracle InterOffice (1995) offered automated document summarization — the earliest AI-adjacent feature documented in the archive; the PeopleSoft acquisition (2003–2004) was the defining hostile-takeover of the enterprise software era; Oracle's core RDBMS franchise survived every predicted displacement (object-relational, NoSQL, cloud-native) and remains dominant in 2026. This is the third longitudinal single-entity study in the archive, following the Intel and IBM builder templates.
 

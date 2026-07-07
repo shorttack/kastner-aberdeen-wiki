@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 22
 ---
 
 # Timing Your Move to Next Generation Operating Systems
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.86 over 29 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.72 over 29 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group workbook presents a structured timing framework for IS executives evaluating the transition to next-generation operating systems in 1993. It identifies five key OS trends — single-to-multi-tasking, single-to-multi-threaded, LAN/desktop integration, GUI adoption, and distributed client-server progress — and analyzes hot spots across the Three-Tier Plus topology. The study evaluates Unix derivatives, desktop OS alternatives from Windows 3.1 to OS/2, Power PC, Windows NT, and Solaris, and concludes that Unix is the clear mid-range choice while 486/Windows or Macintosh remain the standard desktop buy through mid-1994.
 

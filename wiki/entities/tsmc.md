@@ -1,5 +1,5 @@
 ---
-title: "Taiwan Semiconductor Manufacturing Company"
+title: "TSMC"
 slug: "tsmc"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
@@ -17,7 +17,7 @@ prescience_mean: null
 prescience_obs_count: 0
 ---
 
-# Taiwan Semiconductor Manufacturing Company
+# TSMC
 
 > Process-node leadership overtook Intel after 2016 tick-tock break; rival in THREAD-11 foundry pivot
 

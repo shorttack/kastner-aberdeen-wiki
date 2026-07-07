@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.14
 prescience_obs_count: 7
 ---
 
 # To InfiniBand and beyond, cry firms
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.38 over 8 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.50 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Computerworld Australia feature on InfiniBand, a next-generation data-center interconnect operating at 2.5-10 Gbps (scaling to 30 Gbps) backed by 150+ firms in the InfiniBand Trade Association including IBM, Intel, Microsoft, Sun, and Dell. Draws on Aberdeen Group's 'InfiniBand Architecture: Planning the Next Generation Data Centre' white paper. Kastner (Aberdeen EVP/CRO) predicts InfiniBand 'will replace TCP/IP as the high-speed, server-to-server interconnect technology' with ISPs, ASPs and large web sites as initial targets.
 

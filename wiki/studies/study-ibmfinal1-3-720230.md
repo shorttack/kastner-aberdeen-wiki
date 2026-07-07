@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.08
 prescience_obs_count: 12
 ---
 
 # Value Chain Research: Driving Intelligence, Demand, & Value for Value Chain Leaders (IBM Proposal)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.75 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.94 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group formal research-sponsorship proposal to IBM covering Supply Management and Supply Chain/Fulfillment research agendas for 2004. Packages 10 research program sponsorships ($250K) + 10 customer case studies ($250K) + joint On Demand Supply Management workshop ($25K) with discount pricing to $125K total. Introduces Enterprise Research Alliances (ERA) with Penton Media, iSource, IndustryWeek and cites ~2,000-3,200 downloads per report. Flag: Aberdeen-Confidential / IBM-commercial-proposal.
 

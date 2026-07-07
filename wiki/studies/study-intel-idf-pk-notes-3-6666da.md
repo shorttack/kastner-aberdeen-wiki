@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.14
 prescience_obs_count: 7
 ---
 
 # Kastner Personal IDF Notes — Consumer Spending, Extreme Edition, Prescott, BTX, DTCP
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.88 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.75 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Short handwritten-style notes by Peter Kastner captured at an Intel IDF (content indicates Fall 2003 — Pentium 4 Extreme Edition launch, 90nm Prescott demo with PCI Express graphics, BTX (Balanced Technology Extended) 'Bigwater' form factor, iCube Korea MPEG2-to-MPEG4 on-the-fly compression, DTCP-over-IP content protection). Preserved as memoir — fragment of Kastner's in-session notetaking practice.
 

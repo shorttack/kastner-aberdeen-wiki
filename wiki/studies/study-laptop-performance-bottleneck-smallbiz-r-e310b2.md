@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.67
 prescience_obs_count: 3
 ---
 
 # News Factor: The Laptop Performance Bottleneck (Smallbiztechnology.com excerpt)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.83 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.33 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Smallbiztechnology.com (Ramon Ray) blog post (Nov 18, 2002) reblogging a NewsFactor article on laptop performance bottlenecks. The excerpt preserves a Peter Kastner quote — 'Hard drive speed counts for an awful lot of overall computing responsiveness' — attributed to Peter Kastner, executive vice president and chief research officer at Aberdeen Group. Ray's editorial note ('My spin: Get a good laptop, docking station, external monitor and a few more things... and then ditch your desktop') anticipates the laptop-as-primary-device trend by roughly 5-6 years. The Kastner quote is the surviving record of the underlying NewsFactor piece in this archive.
 

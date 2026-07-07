@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.83
 prescience_obs_count: 6
 ---
 
 # The (rebate) check is in the mail – or is it?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.71 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.71 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Times Herald-Record (Middletown NY) consumer-affairs column (Apr 27 2003, Jon Van Vlack) on the rebate industry's breakage economics. Consumer-advocate Van Vlack estimates annual rebate offers at $10B+ and frames rebates as a 'marketing game' designed to extract full-price sales. Peter Kastner of the Boston-based Aberdeen Group provides the headline statistic: '60 percent of all consumers entitled to a rebate never get the refund.' Wharton marketing professor John Zhang calls the system a 'two-worlds' win for manufacturers: consumers pay full price AND fail to redeem. Van Vlack prescribes record-keeping and persistent follow-up. Earliest known Kastner citation on rebate breakage — predates BusinessWeek 2005 'Great Rebate Runaround' by 2.5 years.
 

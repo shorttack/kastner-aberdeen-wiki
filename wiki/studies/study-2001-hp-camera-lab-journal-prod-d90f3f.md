@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.68
 prescience_obs_count: 19
 ---
 
 # Caveat Emptor: HP's Consumer IT Leadership Needs New Focus on Consumers
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.80 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.75 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > First-person account by Aberdeen analyst Peter Kastner of his experience with HP's C315 digital camera, focusing on problems encountered when upgrading from Windows ME to Windows XP. The study documents HP software incompatibility with XP, inadequate documentation, high support costs, and argues HP must improve consumer product support to achieve its stated consumer IT leadership goal.
 

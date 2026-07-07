@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.84
 prescience_obs_count: 19
 ---
 
 # Progress Version 8.0 Development Environment: The Importance Of Experience-Driven Scalability and Flexibility
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.83 over 24 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.96 over 24 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen evaluates Progress Software's Version 8.0 client-server application development environment (CADE), finding it a scalable, flexible, database-independent toolset. The study examines Progress's SMARTOBJECT components, VPE tools, 4GL language, DataServer architecture, and object-oriented capabilities, concluding Progress 8.0 addresses key IS requirements for complex data-intensive applications through experience-driven engineering.
 

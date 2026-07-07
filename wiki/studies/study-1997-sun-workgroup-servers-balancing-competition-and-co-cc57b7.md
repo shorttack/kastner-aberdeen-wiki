@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.12
 prescience_obs_count: 8
 ---
 
 # Sun Workgroup Servers: Balancing Competition and Coexistence With Wintel Rivals
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.64 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.18 over 11 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Sun's Enterprise 450 workgroup server against Wintel competitors from Compaq, Dell, HP, and IBM across seven dimensions including performance, reliability, and price. The study concludes Sun's latest offerings are competitive and that Sun's ability to coexist with Windows clients gives it an advantage over other Unix suppliers. Aberdeen predicts Sun can become the leading Unix standard for 64-bit computing by embracing Intel interoperability rather than fighting it.
 

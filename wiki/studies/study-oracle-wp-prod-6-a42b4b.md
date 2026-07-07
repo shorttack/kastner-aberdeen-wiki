@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 15
 ---
 
 # Leaving Well Enough Alone: Enterprise Application Integration's Impact on ROI
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.68 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.86 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Executive White Paper arguing that integrated enterprise application suites deliver superior ROI vs. best-of-breed point solutions. Built on interviews with a dozen IT professionals (Credit Suisse First Boston, Beneficial Life, Carreckers, Indian Motorcycle, State of Michigan, etc.). Documents 40-70% of IT budget on integration, Nike's $400M SAP+Siebel+i2 failed integration, 18-24 mo integrated-suite vs 3-6 mo single point vs 16-20 mo four-point integration timelines, and 3-10x license fees for full integration. This is the VENDOR-NEUTRAL version; study 7 is the Oracle-sponsored rewrite of the same research.
 

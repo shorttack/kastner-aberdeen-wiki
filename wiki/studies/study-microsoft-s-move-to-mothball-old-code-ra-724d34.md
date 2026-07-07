@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.67
 prescience_obs_count: 6
 ---
 
 # Microsoft's Move To Mothball Old Code Raises Concerns
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.86 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.86 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Datamation/EarthWeb article on Microsoft's announcement that it will retire pre-Windows NT 32-bit legacy code (Windows 9x / Windows 95) rather than continue patching vulnerabilities. Peter Kastner (Aberdeen Group CRO) endorses the decision — Microsoft has to make this call to stay true to its 'fix security-prone code' mantra — while noting the collateral pain for the tens of millions still on Windows 9x/95. IDC's Dan Kusnetzky offers contrasting nuance.
 

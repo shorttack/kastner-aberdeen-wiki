@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.33
 prescience_obs_count: 9
 ---
 
 # SARS Puts an End to Business as Usual in Asia
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.70 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.56 over 9 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Computerworld Australia / IDG News Service feature (Apr 3 2003) documenting early SARS impact on the Asian IT industry. Disruption of operations in Hong Kong, Singapore, and China; worries about electronic component supply and pricing. First appearance in Guangdong province (home to much of China's low-cost electronics/IT hardware manufacturing); spread to Hong Kong, Singapore, Vietnam, and lesser numbers to Taiwan, Thailand, Malaysia, Indonesia. Article cites Aberdeen Group analysts 'Russ Craig and Peter Kastner' (jointly) from a report: 'At a minimum, the SARS epidemic will cause schedule slippages and disrupt the aggressive growth plans that global electronics companies have for the affected geographies. Worst case, it could result in major supply-chain disruptions and another downdraft for an already challenged industry.' WHO data: 1,804 worldwide cases / 62 deaths (Apr 1); 182 new cases / 4 deaths in the prior day. Hong Kong had 155 new cases in 24 hours. China: 806 cases / 34 deaths. Intel, Sun Microsystems (SunNetwork 2003 cancelled), AMD, Acer, Gartner's Dion Wiggins all weighed in. Kastner & Craig also quoted on PRC government deception: 'The deceit of the PRC government in hiding what has become a serious global health threat will not be quickly forgotten.'
 

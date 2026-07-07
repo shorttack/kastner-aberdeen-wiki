@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.19
 prescience_obs_count: 16
 ---
 
 # AS/400 And NT Server — IBM and Microsoft Working Together To Comprehensively Meet Real User Requirements
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.68 over 19 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.47 over 19 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group documents the IBM-Microsoft agreement of late 1996 to integrate NT Server 4.0 into the IBM AS/400 Integrated PC Server, scheduled for general availability in Q1 1998. The study explains the technical architecture (Intel Pentium Pro 200MHz board in AS/400 slot, sharing disk/tape with OS/400), identifies the integration points (ODBC, common user profiles, file system integration), and concludes that both IBM and its AS/400 customers benefit substantially from the arrangement, enabling enterprise users to run AS/400 production applications alongside NT-based desktop applications in a unified, cost-efficient infrastructure.
 

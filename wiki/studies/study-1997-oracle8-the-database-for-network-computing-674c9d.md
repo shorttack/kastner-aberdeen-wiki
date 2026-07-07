@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.29
 prescience_obs_count: 17
 ---
 
 # Oracle8: The Database For Network Computing
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.91 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This 1997 Aberdeen Group profile authored by Peter S. Kastner evaluates Oracle8, the then-upcoming next generation of the Oracle database. Kastner argues that Oracle8 defines a new standard for network computing databases with its three-dimensional design framework: scalability (10,000+ users, hundreds of terabytes), flexibility (object-relational technology and extensible data cartridges), and manageability (partition-based backup/recovery, automated failover). The study positions Oracle8 as a foundational component of Oracle's Network Computing Architecture and predicts continued evolution of object-relational capabilities over 1-2 years.
 

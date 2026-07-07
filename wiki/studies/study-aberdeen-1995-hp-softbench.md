@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.41
 prescience_obs_count: 41
 ---
 
 # Hewlett-Packard's C++ SoftBench 5.0 -- A Powerful Platform for Professional Developers
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.49 over 53 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.51 over 53 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group executive white paper evaluating HP's C++ SoftBench 5.0 IDE for object-oriented software development. Examines OO development advantages, SoftBench features including CodeAdvisor and graphical class editor, and HP's consulting services.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.35
 prescience_obs_count: 26
 ---
 
 # Timex RAMP Interview for Maxtor Project
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.63 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.60 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Face-to-face RAMP interview with Robert (Bob) Lutz, Manager IT Operations at Timex (Middlebury CT), covering enterprise storage architecture, unwillingness to adopt additional storage tiers, and the critical insight that administrative costs dwarf hardware costs in storage decision-making. Timex had 6TB local / 10TB worldwide with 80% utilization and 80% inactive data, yet rated only 2/7 willingness to adopt low-cost disk. Lutz articulated that tight budgets and reduced headcount make adding a storage management tier more costly than the hardware savings — a foundational insight for the storage automation and hyperconverged infrastructure markets.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.61
 prescience_obs_count: 18
 ---
 
 # SOA and Web Services Testing: How Different Can It Be?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.12 over 26 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.50 over 26 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > 26-page Aberdeen Group benchmark report examining testing and quality assurance challenges for SOA and web services deployments. Unit and functional testing insufficient; integration, regression, business process, performance, and security testing all required. Survey of 240 end-users categorizes companies into Best-in-Class (top 20%), Industry Average (middle 50%), and Laggard (bottom 30%) using Aberdeen Competitive Framework and PACE model. Best-in-Class companies redesigned QA processes, use automated testing, involve business users throughout lifecycle, and track quality across entire project—not just at end.
 

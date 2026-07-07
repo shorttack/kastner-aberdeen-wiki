@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.4
 prescience_obs_count: 5
 ---
 
 # Intel Unveils Low-Cost Celeron M While AMD Releases Mobile Athlon 64
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.25 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.12 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > TechNewsWorld article (Jan 6 2004, Jay Lyman) on parallel announcements: Intel's Celeron M value mobile processor (1.3/1.2/0.8 GHz ULV; $134/$107/$161 in 1,000-unit quantities) to compete with AMD at the low end while differentiating from Pentium M; and AMD's Mobile Athlon 64 — the industry's only Windows-compatible 64-bit mobile processor for mainstream notebooks, supported by 60+ manufacturers including HP, eMachines, Fujitsu. Aberdeen chief research officer Peter Kastner delivers the canonical mobile-segment read: 'Both companies are rightly attacking the mobile PC space, which is the fastest-growing portion of the industry.' And: '2003 proved that laptop sales are price elastic in that $800 to $1,000 laptops are flying off the shelves.' Kastner rejects the 'dumbing down' framing of Celeron M: it's 'simply a low-cost, high-performance microprocessor designed for the wireless world' that 'will be quickly incorporated into value-oriented, under-$1,000 machines.' He calls Mobile Athlon 64 'another respin of AMD's long-term effort to increase laptop market share.' Mercury Research's Dean McCarron frames 2004 as likely 'one of the more exciting years in microprocessors because of all the new products and the positioning.'
 

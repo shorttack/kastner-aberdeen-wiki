@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.22
 prescience_obs_count: 9
 ---
 
 # Silicon Graphics Origin Servers: A Highly Scalable Product With Potential For The Enterprise
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.73 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.64 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group assesses Silicon Graphics' Origin server line as a highly scalable platform with significant potential for commercial enterprise use cases including data warehouses, web servers, and object-relational database applications. Aberdeen cites SGI's TPC-C benchmark results and VLM/complex-data capabilities as technical strengths, but notes SGI must overcome its technical-workstation culture and improve IS support/service to compete in commercial enterprise markets. Aberdeen recommends IS buyers monitor SGI servers for performance-critical applications while SGI transitions from its workstation heritage to an enterprise-focused organization.
 

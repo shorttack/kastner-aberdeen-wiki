@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.74
 prescience_obs_count: 19
 ---
 
 # Progress Software's WebSpeed: Business Transaction Processing On The Internet
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.88 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.96 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Progress Software's WebSpeed, an Internet development platform aimed at building data-intensive, scalable web applications that integrate with legacy transaction-processing systems. WebSpeed combines the Progress 4GL development environment with a multi-tier Transaction Server providing TP-monitor-like middleware, state management, and load balancing. Aberdeen recommends WebSpeed to enterprises seeking to merge proven client-server data-management with Internet architecture, and positions Progress as superior to both traditional CADE suppliers and new web-only toolset vendors for data-intensive Internet applications.
 

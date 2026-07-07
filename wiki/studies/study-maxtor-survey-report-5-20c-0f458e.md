@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.26
 prescience_obs_count: 42
 ---
 
 # Maxtor Survey Report (RAMP Results Presentation)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 52 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.83 over 52 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Final 38-slide RAMP results presentation by Peter Kastner and David Hill for Maxtor Corporation, May 2003. Synthesizes findings from 70 telephone survey respondents and 5 face-to-face interviews (Timex, Applied Materials, State Street, Inovant/Visa, Kaiser Permanente) on enterprise willingness to adopt ATA (low-cost/midline) disk as a complementary storage tier. Key findings: 65% of enterprises use 60%+ of available storage; storage growth below vendor projections; 70% have read-only data but cannot easily identify it; 75% likely to purchase low-cost disk; backup/restore remains a major pain point. Key conclusions: MaXLine should be positioned as 'complementary' not 'substitute' storage; 'mid-line' is the correct market term; positioning should emphasize 'better than ATA' rather than 'less than SCSI'; disk-based backup/copy presents a major opportunity.
 

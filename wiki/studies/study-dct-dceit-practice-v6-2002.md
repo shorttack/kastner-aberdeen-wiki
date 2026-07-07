@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.75
 prescience_obs_count: 24
 ---
 
 # Digital Consumer Electronic and Information Technology (DCEIT) Practice — v6 Overview Deck
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.90 over 29 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.24 over 29 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Sixth-revision Aberdeen DCEIT practice overview deck covering PC-CE convergence, six competitor categories (broadband, CE point-product, game, PC/peripheral, display, software, new entrants), Aberdeen's research approach, fundamental principles governing the convergence, named vendor products (Motorola DCP501/BMC 8000/BMC 9000, Scientific Atlanta Explorer 8000, Pace Micro Home Media Center, Thomson ADSL Gateway, Netopia, 2Wire, Intel reference designs, Broadcom, ESS, Wind River Tornado), and implications for CE companies across channels, supply chain, and customer support. Final v6 iteration of a deck evolved through DCT-Board-Presentation (Jul 2002), DCT-practice-jul-26 (Jul 26 2002), and DCEIT-Practice (Aug-Sep 2002). Craig is Research Director for Semiconductors and DCEIT; Kastner is EVP/CRO overseeing the DCT practice.
 

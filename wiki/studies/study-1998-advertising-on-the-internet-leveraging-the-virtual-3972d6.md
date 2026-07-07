@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.0
 prescience_obs_count: 10
 ---
 
 # Advertising on the Internet: Leveraging the Virtual Channel for Promotion and Brand Building
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.13 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.93 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 study examined the nascent internet advertising market, predicting spending would reach $5.1 billion by 2000 and represent 4.5% of all advertising dollars. The report surveyed 17 technology vendors and provided a comprehensive guide covering advertising formats, measurement approaches, and ad server technology choices for organizations seeking to monetize and leverage web-based promotional channels. It addressed the tension between emerging rich media capabilities and the bandwidth constraints limiting widespread advertiser adoption.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.74
 prescience_obs_count: 19
 ---
 
 # Managing Customers with Next-Generation Software Applications: 1999 Edition
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.20 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This fifth-annual Aberdeen Group study surveys the CRM software market in 1999, providing market size and growth forecasts through 2002, detailed segment analysis (sales force automation, marketing automation, customer service, field service, help desk), and profiles of over 60 vendors. The report identifies the convergence of CRM with e-business as the dominant industry force, forecasts continued consolidation at the enterprise tier, and highlights the ASP delivery model and mid-market growth as key opportunities. Aberdeen positioned Siebel Systems as the dominant enterprise CRM vendor while warning that web-architected startups would challenge client-server incumbents.
 

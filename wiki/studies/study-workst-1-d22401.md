@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 16
 ---
 
 # Technical Workstations: 1998 Practice Summary
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.90 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.60 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary covering standalone Unix and Windows NT technical workstations used for CAD/MCAD/CAE/DCC/animation/scientific visualization and decision-support. The document profiles market leaders (HP Sun IBM SGI for Unix; HP Compaq Dell Digital IBM Intergraph for NT) and provides key findings including NT growing at 30%+ annually, Unix maintaining high-end dominance for 4-5 more years, and the emerging use of workstations as data visualization decision-support tools. HP is identified as the overall combined-platform market leader for 1997.
 

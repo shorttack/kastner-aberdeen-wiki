@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 3.8
 prescience_obs_count: 5
 ---
 
 # Q&A: Achieving More Value from Enterprise Applications
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.12 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.38 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Kastner-authored Q&A for Enterprise Systems Journal (2006-05-23) accompanying the AberdeenGroup Benchmark Report 'Achieving More Value from Enterprise Applications.' Kastner, then Research Vice President and co-founder of enterprise integration research at AberdeenGroup, diagnoses 'siloed applications connected with the software equivalent of chewing gum and baling wire,' reports that more than half of surveyed enterprises are unhappy with enterprise-application ROI and that over two-thirds view SOA technologies as the improvement path, warns against relying on SOA-enabled ERP as a general SOA toolset (the 'accidental architecture' trap), and recommends cross-platform, cross-process, cross-application capabilities when evaluating SOA infrastructure.
 

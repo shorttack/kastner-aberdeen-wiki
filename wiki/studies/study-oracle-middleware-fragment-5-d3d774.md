@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 4.0
 prescience_obs_count: 7
 ---
 
 # Middleware/EAI Alternatives and Portera Pre-Integration (Draft Fragment)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.27 over 11 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.64 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Draft fragment from Katherine Jones to Tom Dwyer revising a section on middleware/EAI alternatives for the Aberdeen Oracle ROI white paper. Defines middleware, documents a Senior VP of Infrastructure's negative experience with EAI tooling, and analyzes Portera's pre-integrated bundle (Oracle Financials + PeopleSoft HR + Siebel CRM) as a 'buy pre-integrated' alternative.
 

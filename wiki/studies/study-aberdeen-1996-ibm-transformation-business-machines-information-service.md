@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.39
 prescience_obs_count: 18
 ---
 
 # IBM: The Transformation From Business Machines To Information-Service Solutions
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.11 over 27 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.04 over 26 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles IBM's strategic transformation under Lou Gerstner from a hardware-centric company to a service-focused information solutions provider, centered on IBM Global Services' $20.1 billion (1995) and 100,000 employees. The study documents IBM's Network Computing vision, 12 industry solution groups, Year 2000 opportunity, strategic acquisitions (Lotus/Notes, Tivoli), and identifies structural vulnerabilities including OS/2 weakness and partner ecosystem tensions.
 

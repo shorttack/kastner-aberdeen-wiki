@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.26
 prescience_obs_count: 27
 ---
 
 # Enterprise Service Bus: an SOA Middleware Foundation
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.28 over 36 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.17 over 36 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > 38-page Aberdeen Group benchmark report sponsored by Fiorano and IBM. Part of 'Next Steps in SOA Series'. ESB as messaging middleware for SOA. Survey findings on ESB adoption patterns across company sizes. Three SOA camps identified: SOA Lite, Enterprise SOA, SOA ERP. 90% of respondents will exit 2006 with SOA experience. ESB adoption concentrated in enterprises >$500M revenue. BEA Systems top primary ESB vendor (57% BIC), IBM WebSphere second (37%), webMethods third. Creates context for EAI-to-ESB transition. Covers hardware server forecasts driven by ESB deployment. Aberdeen PACE framework applied.
 

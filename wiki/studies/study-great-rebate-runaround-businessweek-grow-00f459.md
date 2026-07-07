@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 10
 ---
 
 # The Great Rebate Runaround
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.57 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.50 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > BusinessWeek cover story (Dec 5 2005, Brian Grow with Rishi Chhatwal) that became the canonical exposé of the U.S. mail-in rebate industry. Peter S. Kastner, then director of consulting firm Vericours Inc., provides the pivotal 40% statistic: 'fully 40% of all rebates never get redeemed because consumers fail to apply for them or their applications are rejected,' translating into more than $2B of extra revenue per year for retailers and suppliers. Aberdeen's Paula Rosenblum adds: 'anything less than 100% redemption is free money.' The article details industry lingo (breakage, slippage), TCA's 10-35% expected redemption rates, TiVo's $5M rebate-expense reduction from 50,000 of 104,000 subscribers failing to redeem, Massachusetts suing Young America for $43M in uncashed checks, NY AG Spitzer settling with Samsung for $200K over apartment-address rules, California SB (Figueroa) vetoed by Gov. Schwarzenegger, consumer complaints to BBB tripled 2001-2004 (964 to 3,641), and Best Buy / Staples transitions away from mail-in rebates. Kastner's Vericours affiliation here (not Aberdeen) is notable — this is his post-Aberdeen consulting/advisory period.
 

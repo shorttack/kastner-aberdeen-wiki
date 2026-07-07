@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.31
 prescience_obs_count: 13
 ---
 
 # What's So Important About Infrastructure? (Session UIT15P, CA Unicenter Conference 1999)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.38 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Peter Kastner, Chief Research Officer of Aberdeen Group, presents at the 1999 CA Unicenter Conference arguing that global economic forces are generating enormous IT complexity and that forward-looking organizations must adopt a well-considered, architected IT infrastructure. The session evaluates four infrastructure management options—do nothing, outsource, standards-based, and vendor-backed architecture—and concludes that an architected, vendor-backed common infrastructure yields the greatest long-term benefits. Aberdeen rates full outsourcing as partial at best and warns against pure standards-based approaches citing the failure of DCE, DME, and OSI.
 

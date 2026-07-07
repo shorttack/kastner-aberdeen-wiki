@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.0
 prescience_obs_count: 6
 ---
 
 # HP's Consumer PC Business Will Shrink
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.31 over 13 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.15 over 13 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Following the HP-Compaq merger rationale that combined volume would yield better PC margins, Aberdeen research challenges this assumption directly: post-merger HP's PC unit volumes will actually be less than the sum of separate Compaq and HP levels. This InSight examines how HP is likely to fare in business and retail/consumer PC markets following the merger, predicting consumer PC business contraction rather than the expansion promised by HP management.
 

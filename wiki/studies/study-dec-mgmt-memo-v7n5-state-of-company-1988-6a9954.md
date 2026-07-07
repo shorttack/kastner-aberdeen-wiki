@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.55
 prescience_obs_count: 40
 ---
 
 # MGMT MEMO Volume 7, Number 5 — Digital's State of the Company Meeting
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.42 over 48 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.12 over 48 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > mgmtmemo7_5.html, Summaries of nine executive speeches delivered at Digital Equipment Corporation's May 5, 1988 State of the Company Meeting in Merrimack, NH, attended by over 600 senior managers. The theme was 'One Company, One Strategy, One Message — Leading the Way to Enterprise-Wide Computing,' with major sections on desktop/workstation strategy, transaction processing, DECwindows, database systems, and VAXcluster high availability. This document captures DEC at its revenue peak (~$11B, 120K+ employees) articulating a bold enterprise strategy that proved partially prescient and partially fatal.
 

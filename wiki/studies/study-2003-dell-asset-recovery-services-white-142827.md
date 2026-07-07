@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.92
 prescience_obs_count: 13
 ---
 
 # Dell Asset Recovery Services: a Trustworthy Partner for Eliminating Aging IT Assets
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 16 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.88 over 16 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This July 2003 executive white paper by Aberdeen Group quantifies the financial, legal, and environmental costs of improper IT asset disposal and advocates for Dell's Asset Recovery Services (ARS) as a best-practice solution for enterprises managing aging IT equipment. The paper estimates that storage and depreciation of a 36-month-old Pentium III PC costs about $368 per year, that proper do-it-yourself disposal runs at least $387 per PC versus Dell ARS's $49/unit, and that organizations disposing of 3,000 PCs annually can save over $1 million per year with an asset recovery program. The study recommends integrating disposal costs into total cost of ownership models and acting swiftly to maximize residual value before the 9.6% per month depreciation curve erodes all value.
 

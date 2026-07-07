@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.92
 prescience_obs_count: 24
 ---
 
 # Digital's Terabyte/Hour NonStop VLDB: Consider The Possibilities
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.47 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.67 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group assessed Digital Equipment Corporation's NonStop VLDB backup/restore solution in May 1997, which delivered 400-750+ GB/hour rates — an order-of-magnitude improvement. Aberdeen predicted this technology would 'go strategic,' removing backup/restore as a database scaling barrier and enabling new architectures for data migration, disaster tolerance, and rolling VLDB operations.
 

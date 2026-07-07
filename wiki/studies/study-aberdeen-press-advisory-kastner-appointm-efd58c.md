@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.67
 prescience_obs_count: 6
 ---
 
 # Aberdeen Group Press Advisory and News Release: Aberdeen Group Picks Industry Veteran Peter S. Kastner to Head New Transaction Services Business Unit
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.91 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.09 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group Press Advisory and News Release dated December 5, 1988 announcing the formation of Aberdeen Transaction Services, a new business unit headed by 'nineteen-year industry veteran' Peter S. Kastner. Kastner is named Vice President, member of Aberdeen's Board of Directors, and general manager of the Transaction Services unit. The advisory documents Aberdeen's founding-era analyst roster: Charles T. Casale (President, financial/industry-trends/IBM/supercomputers/technical computing), John R. Logan (Executive VP, midrange/IBM/DEC/HP/software companies/distributed architectures), John O. Dunkle (VP, WorkGroups/PCs/LANs/Apple/Microsoft/Borland/Compaq/Lotus/UNIX), and Kastner (VP, OLTP/DBMS/Networks/Tandem/Stratus/DEC/benchmarks and performance/vertical market applications). Casale's press quote: '[Kastner] was the first analyst to predict the emergence of transaction processing at the workgroup level.' Kastner prior employment: Digital Equipment, Prime Computer, Stratus Computer, Arthur D. Little (consultant).
 

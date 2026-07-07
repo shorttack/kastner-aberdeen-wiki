@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.89
 prescience_obs_count: 9
 ---
 
 # PC Replacement Survey: One Size Fits None
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.27 over 11 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.55 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > First-person Kastner column published December 23, 2003 in InformationWeek (originally authored for InternetWeek) reporting results of a joint Aberdeen Group / InternetWeek reader survey on business-PC replacement practices. 250+ respondents manage ~750,000 business PCs, with the top-10 alone covering 550,000 users. Kastner reports six deals of 10,000+ PCs totaling 70,000 in the last twelve months and three companies now buying 30,000 PCs each; 43% of desktops and 54% of laptops are replaced ad hoc; the 36-month replacement schedule is converging with 42-month laptops. Byline credits Kastner as 'the Aberdeen Group' and his full title is EVP and Chief Research Officer for the Consumer Digital Technology Practice at Aberdeen.
 

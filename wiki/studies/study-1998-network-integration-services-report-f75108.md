@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.44
 prescience_obs_count: 16
 ---
 
 # Transitions in Network Integration Services
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.95 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.09 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analyst Amy Sachrison's report examines the evolving market for Network Integration Services as enterprises transition from private leased-line networks to public packet services (X.25, Frame Relay, ATM) and face growing complexity in LAN-WAN integration, private IP networks, and TCP/IP-SNA integration. The report provides a framework for understanding the network integration industry, defines service categories (PDIM, network transformation, connectivity and transport, applications, training), presents four end-user case studies, and profiles 21 network integrator vendors.
 

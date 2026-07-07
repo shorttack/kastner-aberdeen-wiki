@@ -1,5 +1,5 @@
 ---
-title: "J.P. Morgan & Co."
+title: "JP Morgan Chase"
 slug: "jp-morgan"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
@@ -17,7 +17,7 @@ prescience_mean: null
 prescience_obs_count: 0
 ---
 
-# J.P. Morgan & Co.
+# JP Morgan Chase
 
 > sset; GE Medical Systems; HP; IBM; Independence Blue Cross; JP Morgan Chase & Co.; Motorola; Oxford Health Plans; PeopleSoft; State Str
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.64
 prescience_obs_count: 14
 ---
 
 # nVidia GeForce FX Product-Line Briefing Notes
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 18 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.22 over 18 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Briefing notes from an nVidia product-line meeting with Brian Burke and Todd Reddick covering the GeForce FX NV30/NV31/NV34 lineup — targets, process (TSMC 0.13 micron / 0.15 micron), memory (DDR1/DDR2), AGP 8x, DirectX 9 support, NV35 high-end future, and SKU positioning versus ATI Radeon 9500 and prior GeForce Ti 4200/MX 440 parts. Includes pricing of $99 (NV34) to $399 (NV30/5800) and April ship timing.
 

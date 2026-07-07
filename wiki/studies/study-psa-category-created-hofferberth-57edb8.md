@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.2
 prescience_obs_count: 20
 ---
 
 # How PSA Was Codified: The Evolution of Professional Services Automation
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.30 over 23 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.24 over 17 usable obs (0 prefiltered, 8 pending) -> high; 8 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Ryan Kelly of SPI Research recounts how Dave Hofferberth, then a senior analyst at Aberdeen Group, published the seminal March 1999 whitepaper that named, structured, and codified Professional Services Automation (PSA) as a software category for the first time. The article documents the category's evolution through the early 2000s naming battles—with Gartner promoting SPO and PeopleSoft launching ESA—and its ultimate survival as the global standard adopted by Gartner by 2025. SPI Research's 2022 benchmark data across 88 firms demonstrates PSA's quantified financial impact, including an 8.2% utilization increase and $8.96M average revenue lift.
 

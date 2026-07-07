@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.41
 prescience_obs_count: 17
 ---
 
 # Consumer Adoption of Memory Cards: A Qualitative Study
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.83 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.83 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group qualitative study commissioned by the Internet Home Alliance (IHA) to understand consumer adoption barriers and purchase intent for SD Memory Cards in 2003. Research found digital electronics market maturing rapidly with digital cameras as primary entry point. Key findings: consumers broadly aware of memory cards but unable to identify specific formats/brands; primary adoption barrier is lack of compatible equipment; SD card seen as versatile with high 'cool factor' after demonstration; market transition to SD expected to take a decade; preferred capacity 256MB-1GB; willingness to pay premium of 10-15% for SD capability. Covers retail channel expectations, communication strategies, and data transfer behaviors.
 

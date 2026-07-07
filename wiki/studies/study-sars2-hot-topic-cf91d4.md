@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 0.95
 prescience_obs_count: 19
 ---
 
 # SARS May Impact Global Electronics Industry
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.08 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.12 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen hot topic analyzing the potential impact of the 2003 SARS epidemic on the global electronics industry, focusing on semiconductor manufacturing in Asia-Pacific (PRC, Taiwan, Hong Kong, Singapore), supply chain disruption risks, just-in-time logistics vulnerabilities, and investment implications for the trillion-dollar electronics sector.
 

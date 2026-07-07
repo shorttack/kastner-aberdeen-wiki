@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 88
 ---
 
 # The SOA in IT Benchmark Report: What CIOs Should Know about How SOA Is Changing IT
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.27 over 121 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.50 over 121 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Foundational SOA benchmark establishing early adoption landscape. CIO dilemma: SOA offers compelling case but business benefits largely untapped. SOA here but not widely distributed: only 16% have >24 months experience. Aberdeen bullish: predicts Global 2000 companies can save $53 billion from IT budgets as SOA reduces software implementation costs over 5 years. BIC companies spend 29.6% of IT budgets on innovation vs 18.5% average; BIC spend only 12.4% on software maintenance vs 27.3% average. Survey of 284 companies; three categories: Laggards (<12 months SOA experience), Cautious Adopters (12-24 months), Experienced Adopters (>24 months).
 

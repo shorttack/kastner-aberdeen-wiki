@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.39
 prescience_obs_count: 18
 ---
 
 # HP 9000 Enterprise Server Performance Leadership Again: The 64-bit PA-8000 Has Arrived
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.48 over 27 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.33 over 27 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates HP's September 1996 announcement of PA-8000-based HP 9000 enterprise servers, documenting benchmark performance results (K460 at 12,321 tpmC — a 2.5x improvement over its PA-7200 predecessor) and positioning HP's PRISM framework as the standard for Unix enterprise server selection. The study asserts HP's competitive superiority over IBM, Sun, and Digital in the Unix server market, and outlines HP's roadmap through PA-8200, PA-8500, and eventual Merced processor transitions.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # Crossroads Software (June 1997, alternate cut): Front-Back Office Integration Industry of Collaborations
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.60 over 5 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.20 over 5 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > 4-minute alternate cut of the June 1997 Crossroads Software launch material. Restates the integration thesis with alternate phrasings: no US company had fully integrated front-and-back-office apps; $1-5M per-integration cost; and Crossroads' 'industry of collaborations' framing. Companion to the primary June 1997 launch study; preserved as a separate study with cross-reference.
 

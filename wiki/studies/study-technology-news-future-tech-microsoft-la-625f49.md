@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
 prescience_obs_count: 6
 ---
 
 # Microsoft Launches 64-Bit Windows XP Beta
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.20 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 9 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > TechNewsWorld news article (Feb 5 2004, 10:24 AM PT) by Jay Lyman on Microsoft's release of the 64-bit Windows XP beta — supporting AMD Opteron and Athlon 64 processors, not Intel Itanium. Peter Kastner, chief research officer at Aberdeen Group, provides the central analyst skepticism: 'Let's say I have a 64-bit operating system; I have to run all of the applications like Photoshop and even Word in 32-bit... Windows XP 64-bit will not be helpful for customers unless the most popular applications are available.' Kastner also frames Microsoft motivation as competitive-pressure-from-64-bit-Linux and code-base preparation for Longhorn (later Windows Vista): 'Microsoft is doing this because they think they'll need the code base' for Longhorn. Key Kastner prediction: 'Intel has to drop the other shoe and deem that the broad, mass market for consumers is ready for 64-bit. I predict that will not be this year.' Gartner's Martin Reynolds adds: 'It's not so much 64-bit as it is AMD's next-generation chip — which is better, faster and more efficient.' Kastner cites ~100,000 Itanium 64-bit machines total.
 

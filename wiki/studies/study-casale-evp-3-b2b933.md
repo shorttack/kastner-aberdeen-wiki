@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 10
 ---
 
 # Uses and Abuses of the Corporate Hockey Stick — Or Is This Any Way to Run an Industry?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.83 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Executive Viewpoint #3 introduces the 'hockey stick' concept — the skewed end-of-period concentration of bookings, billings, and shipments common to fast-growing technology companies. Casale argues that the quarterly hockey stick is structurally superior to the annual cycle for managing high-tech operations and examines two management approaches (sales force management via 'stick' and factory management via 'carrot') for moderating the pattern. The newsletter analyzes how Datapoint's booking-oriented compensation plan and Tandem's booking-to-revenue disconnect exemplify the pathological form of the hockey stick.
 

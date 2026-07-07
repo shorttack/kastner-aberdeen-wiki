@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.62
 prescience_obs_count: 13
 ---
 
 # Managing Customers with Next-Generation Software Applications: 1996 Edition
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.32 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.58 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's second report on the Customer Interaction Software (CIS) market defines the category encompassing sales force automation, helpdesk, field service, telemarketing, and related technologies. The study profiles over 40 CIS suppliers, identifies market dynamics, and advises IS executives that CIS is the key to building long-term profitable customer relationships while warning that most of the hundreds of suppliers will not survive long-term.
 

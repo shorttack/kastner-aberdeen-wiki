@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # Informix Universal Server Launch: The First Object-Relational DBMS
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.30 over 53 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.26 over 53 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Verbatim transcript of Informix's Universal Server launch event (Dec 1996, New York). Phil White (CEO) and Mike Stonebraker (CTO, ex-Ingres/Illustra founder) introduce the first commercial object-relational DBMS, integrating DataBlade extensions for text, 2D-spatial, image, video, time-series, and Java types. Stonebraker predicts ORDBMS will replace relational as the mainstream database within a few years. Ed Zander (Sun president) keynotes on the network-computer thesis. Panels of DataBlade partners (FAME, Open Market, MapInfo, Kodak, Excalibur, NEC) and beta customers (GE Information Services, GDE Systems, CS First Boston, CitySearch, Creative Artists Agency) anchor the launch. $8-10B database market, growing 30-50%; 1500+ apps already in production; 29 DataBlades available, 51 more announced; stock up from $17 to $27.50 in two weeks.
 

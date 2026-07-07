@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.4
 prescience_obs_count: 20
 ---
 
 # RAMP Interview: Kaiser Permanente (Maxtor Midline Storage Study)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.61 over 33 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.79 over 33 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Face-to-face RAMP interview with Harvey Sietsema Jr., Applications Programming Manager at Kaiser Foundation Health Plan (Walnut Creek CA), capturing the healthcare IT perspective on storage purchasing for a primarily mainframe-centric organization. Kaiser's Management Data Repository (DB2/mainframe) served 2,200-3,000 users; the organization was mid-migration to the Epoch clinical system; HIPAA compliance was driving massive training; and regional fragmentation (northern vs. southern California operating separately) made enterprise storage planning infeasible. Sietsema's insight — 'applications are the tail that wags the storage dog' — captured how healthcare IT complexity would prevent systematic storage rationalization, making disk storage adoption opportunistic.
 

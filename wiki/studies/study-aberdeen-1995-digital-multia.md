@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.32
 prescience_obs_count: 28
 ---
 
 # Digital's Multia Enterprise Client: Finally Someone Listened
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.39 over 36 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.42 over 36 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group product profile evaluates Digital Equipment Corporation's Multia 'enterprise client' desktop, introduced in late 1995 with both Alpha 64-bit RISC and Intel Pentium 100 models. The study employs product profiling, technology assessment, and competitive analysis to position Multia as a turn-key universal client that addresses the longstanding IS requirement for a single desktop capable of simultaneously accessing mainframes, Unix servers, PC servers, and the World Wide Web via pre-configured emulators and multiple communications protocols. Key findings include that Multia is priced $500–$800 above a comparable PC but justifies the premium through integrated interoperability, centralized IS desktop management, pre-configured terminal emulators (3270, VT 340/420, Netscape Navigator, Rumba, Kea!), a photo-album-size footprint, and chip-upgradeable dual Alpha/Intel architecture. Aberdeen concludes that Digital is the only major computer vendor that listened to enterprise IS requirements and predicts that Multia's centralized management capabilities will meaningfully reduce IS staffing and support costs at remote sites, and that the new 'market-oriented Digital' has finally arrived as a credible enterprise client vendor.
 

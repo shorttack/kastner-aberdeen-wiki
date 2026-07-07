@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 12
 ---
 
 # Cabletron and Ipsilon: Linking SecureFast Architecture and IP Switching
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.47 over 17 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.24 over 17 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group Impact Brief (April 17, 1997) analyzing the strategic alliance between Cabletron Systems and Ipsilon Networks, in which Cabletron made a $20 million equity investment in Ipsilon. Aberdeen endorses the deal as one of the most rational of the industry's M&A wave: Cabletron contributes its SecureFast SmartSwitch technology with VLAN and policy-based management; Ipsilon contributes IP Switching technology that achieves 5x router performance at a fraction of the cost. The combined solution extends switched networking from desktop-to-campus-to-WAN, competing directly with Cisco's Tag Switching. Aberdeen predicts customers upgrading from hub/router LANs will find the combined product set extremely attractive, and forecasts that the alliance creates meaningful competitive differentiation against Cisco.
 

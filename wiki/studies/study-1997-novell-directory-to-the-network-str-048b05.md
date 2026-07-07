@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.25
 prescience_obs_count: 16
 ---
 
 # Directory to the Network
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.25 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.15 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Examines Novell's strategy for Novell Directory Services (NDS) as the company seeks to position NDS as the de facto enterprise meta-directory standard. Reviews NDS's extensibility, scalability, portability, and availability attributes; its cross-platform porting to NT and Unix; Java strategy; and related products IntranetWare, ManageWise, and GroupWise. Aberdeen concludes NDS best meets enterprise directory criteria and is ahead of Microsoft's forthcoming Active Directory.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 3.0
 prescience_mean: 0.38
 prescience_obs_count: 8
 ---
 
 # Progress Version 8.2 Development Environment
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.73 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.93 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Progress Software's Version 8.2 application development environment (ADE) and relational database engine against key IS buyer criteria including scalability, flexibility, legacy integration, and multi-tier architecture. The study concludes that Progress 8.2 delivers meaningful performance and scalability improvements enabling enterprise-scale deployment while simultaneously supporting emerging Java and Web platforms. Aberdeen positions Progress 8.2 as meeting the core requirements of serious ADE buyers in 1997.
 

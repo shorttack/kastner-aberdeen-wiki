@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.78
 prescience_obs_count: 32
 ---
 
 # Epilogue: The Argument with Reality
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 8 usable obs (0 prefiltered, 33 pending) -> high; 33 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.75 over 8 usable obs (0 prefiltered, 33 pending) -> high; 33 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Kastner reflects on fifty years in computing, observing that every technical breakthrough—from timesharing to the web to AI—has been slowed by organizational inertia, misaligned incentives, and the stubbornly human character of institutions. He offers an honest accounting of what Aberdeen got right (open systems, client-server, relational databases) and what it missed (the speed of the web, the depth of organizational resistance to data integration, and the culture-destroying effects of growth capital). The epilogue concludes that the fundamental constraint in computing has always been not the machine but the human organization around it.
 

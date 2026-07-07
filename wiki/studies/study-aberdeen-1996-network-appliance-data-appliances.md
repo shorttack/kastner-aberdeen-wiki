@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.38
 prescience_obs_count: 16
 ---
 
 # Network Appliance: Data Appliances for Commercial Network Computing
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.48 over 21 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.62 over 21 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Network Appliance (NetApp) as a pioneer in network-attached storage (NAS) for commercial computing environments. The study examines NetApp's filer hardware (F220, F330, F540), Data ONTAP software with WAFL file system, and multiprotocol support (NFS, CIFS, HTTP). Aberdeen concludes NetApp is well-positioned to capitalize on the shift from application-server-based storage to dedicated network-attached data servers, citing revenue growth from $2M (1994) to $47M (FY1996) approaching $100M.
 

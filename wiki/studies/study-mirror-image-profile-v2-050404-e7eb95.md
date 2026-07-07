@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.62
 prescience_obs_count: 13
 ---
 
 # Mirror Image Internet Advances Delivery Services for Current and New Customers
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.42 over 19 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.53 over 19 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen vendor profile of Mirror Image Internet, a CDN (content delivery network) service provider, produced in May 2004 and underwritten by Mirror Image. Profiles the company's Content Access Point (CAP) architecture, two customer case studies (Fastclick online advertising; anonymous international toy retailer), and the new Smart Content services platform combining XML-based rules engine with CDN delivery. Aberdeen concludes Mirror Image meets CDN availability/cost-cutting requirements and recommends evaluation of next-generation application delivery capabilities.
 

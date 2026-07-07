@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.11
 prescience_obs_count: 9
 ---
 
 # System saves $ for thrifty night owls (AS&E ASEP time-of-day metering)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.83 over 12 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.08 over 12 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Minicomputer News (June 21, 1979) profiles the ASEP two-way power-line communications system developed by American Science & Engineering (AS&E) of Cambridge, Mass. to enable utility time-of-day metering. The system is controlled by a Data General Eclipse S-230 minicomputer with 256K core memory and is deployed by Florida Power, Florida Power and Light, Wisconsin Electric Power (154,000 homes), and utilities in Missouri, New Jersey, Minnesota and California. Article from Kastner's Arthur D. Little era (1972-1979); WEPco (Wisconsin Electric Power) appears in the filename suggesting this was an ADL client deliverable reference.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.1
 prescience_obs_count: 10
 ---
 
 # IBM's Itanium server goes on sale
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.64 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.55 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > CNET's Stephen Shankland reports IBM's launch of the four-processor x450 Itanium 2 server with EXA chipset, with a 16-processor Madison-based sibling planned by year end. Aberdeen Group analyst Peter Kastner argues Itanium will take material market share in 2003 even though Xeon will out-revenue it for five years, that IBM had to ship the x450 quickly after announcing AMD Opteron servers, and that IBM trails HP which is 'betting the company on Itanium'.
 

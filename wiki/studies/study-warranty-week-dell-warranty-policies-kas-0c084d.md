@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 9
 ---
 
 # Dell's Warranty Policies
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.27 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Warranty Week analyzes Dell's warranty policies. Peter S. Kastner, executive vice president and chief research officer for the Consumer Digital Technology Practice at Aberdeen Group, recommends enterprise PC buyers seek minimum three-year basic warranties with next-business-day on-site repair. Aberdeen's PC reference model specifies a 2.4 GHz Pentium 4, 256 MB RAM, 40 GB drive. Dell's Dimension/Inspiron consumer lines were cut to one-year coverage; OptiPlex/Latitude business lines retain three-year terms — a $129-$199 differential.
 

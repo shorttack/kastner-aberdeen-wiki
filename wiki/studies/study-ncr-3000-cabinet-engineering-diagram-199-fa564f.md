@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 4
 ---
 
 # NCR 3000 Server Cabinet Engineering Diagram (1992): Intel486 50MHz Multiprocessor Boards, Micro Channel, Hot-Pluggable Storage
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.50 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.83 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > NCR Corporation engineering diagram from 1992 documenting the NCR 3000 server cabinet design: processor boards each carrying two 50MHz Intel486 microprocessors, memory boards, eight Primary Micro Channel slots (with eight Optional slots on the Optional Side), 6.75-inch hot-pluggable fans, hot-pluggable internal SCSI fixed disks (up to 14 full-height or 28 half-height), 4 full-height or 8 half-height removable devices on each side, standard 525MB QIC tape and 1.44MB flex disk, optional 600MB CD-ROM and 1.3GB Digital Audio Tape, power back-up system batteries, security lock, and a local peripheral board for VGA monitor / mouse / keyboard / diagnostic monitor / parallel printer. The artifact provides concrete platform context for the Aberdeen Open OLTP white-paper claims about low-cost commercial multiprocessor platforms, X/Open compliance, and downsizing-from-mainframe value propositions of 1991-1992. Companion to the Norway 1992 OLTP seminar deck which references the NCR Model 3550 (UNIX V.4 multiprocessor up to eight i486-50MHz, ~320 MIPS, supporting 1,000+ workstations).
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.67
 prescience_obs_count: 24
 ---
 
 # The Dash to Digital Cash: Enabling Internet Commerce Microtransactions
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.97 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group market review and competitive analysis examines the emerging digital cash and micropayment market of October 1999, identifying 21 vendors offering diverse payment approaches — including credit-card aggregation, ISP/telco billing, smart cards, hardware-embedded chips, and electronic wallets. The report provides a SWOT analysis and competitive positioning map, profiles vendors such as CyberGold, eCash Technologies, Qpass, MasterCard/Mondex, Microsoft, and Visa, and predicts that well-funded players with large global installed bases (particularly credit card companies and ISPs/telcos) will most likely succeed while underfunded pure-play digital cash vendors will struggle.
 

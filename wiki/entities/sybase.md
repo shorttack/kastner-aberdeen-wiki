@@ -1,5 +1,5 @@
 ---
-title: "Oracle Corporation"
+title: "Sybase Inc"
 slug: "sybase"
 page_type: "entity"
 tags: ["type/entity", "entity-type/marketing-services"]
@@ -17,7 +17,7 @@ prescience_mean: 0.85
 prescience_obs_count: 33
 ---
 
-# Oracle Corporation
+# Sybase Inc
 
 > Open veneer product for common SQL front-end to multiple databases; Enterprise Server for file/multimedia storage; ETL tools; EAI category | Source: SAP acquired Sybase for $5.8 billion in July 2010. https://techcrunch.com/2010/05/12/confirmed-sap-to-acquire-sybase-for-5-8-billion-to-compete-with-oracle/; https://www.sap.com/investors/en/financial-news/ad-hoc-news/2010/05/934992.html
 

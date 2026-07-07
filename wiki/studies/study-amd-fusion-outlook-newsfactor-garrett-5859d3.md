@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 6
 ---
 
 # The Outlook on AMD's Fusion Plans
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.29 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > NewsFactor article (Oct 27 2006, David Garrett) on AMD's Fusion program announced the week AMD closed its $5.4B ATI acquisition. Fusion would combine AMD CPUs with ATI GPUs in a single unified processor, targeted for late 2007 / early 2008. Peter Kastner, VP and research director for information technology at Aberdeen Group, frames Fusion as enabling 'a one-chip computer that contains the functions that in the past have been in the chipset and the processor,' allowing 'a much less expensive PC to be made, because you'd have fewer chips to put on the motherboard.' Kastner caveats: 'I don't see this as moving to $200 PCs.' Samir Bhavnani of Current Analysis emphasizes the power-efficiency angle and Windows Vista Aero implications. Ad-sidebar date stamps indicate this 2006 article was captured in June 2009 during the CloudAve/Palm Pre era.
 

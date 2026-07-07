@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.67
 prescience_obs_count: 18
 ---
 
 # NT Professional Services: 1998 Practice Summary
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.05 over 22 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary on NT Professional Services analyzing the market for consulting and systems integration services surrounding Windows NT deployments. The report quantifies the NT professional services market at $3 billion in 1996 growing to $20 billion in 1997 and projects growth to $110 billion by 2001. It profiles fourteen service providers across four categories — OEMs (Amdahl, Compaq, Digital, Data General, HP, IBM, NCR, Tandem, Unisys), ISVs (Microsoft, SAP), IPSPs (Coopers & Lybrand, CSC, Deloitte, EDS), and Resellers (Entex, MicroAge).
 

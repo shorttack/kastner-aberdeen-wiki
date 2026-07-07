@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 0.32
 prescience_obs_count: 37
 ---
 
 # Sun AS/400 RAMP Supporting Data: IBM Revenue, iSeries Pricing Benchmarks, Installed Base, and US Business Size Statistics
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.85 over 26 usable obs (19 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.62 over 26 usable obs (19 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Consolidated analytical dataset backing the Sun AS/400 RAMP engagement. Includes: (a) IBM 2002 hardware financials — $33.4B revenue, $24.1B cost, $9.3B gross profit, 27.7% GM; platform revenue breakdown (zSeries $8.35B, iSeries $7.68B, pSeries $5.01B, xSeries $5.01B); iSeries model-to-Sun-equivalent mapping (250→Ultra 10, 270→220R, 820→V880, 830→4800, 840→6800); regional iSeries revenue breakdowns; enterprise app category CAGRs 2001-2005 (CRM 22%, EAS 12%, SCM 23%, B2B 26%); and Aberdeen's addressable-market decomposition ($1.87B total). (b) Detailed iSeries pricing benchmarks (181-row Appendix C) with TPM-C, SAP SD, and Notes benchmark estimates for each SKU. (c) World IT spending forecast 1999-2005 by region. (d) U.S. Business Statistics 1999 by firm size for IBM customer-size modeling.
 

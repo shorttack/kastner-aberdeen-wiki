@@ -1,5 +1,5 @@
 ---
-title: "Bull (Groupe Bull)"
+title: "Yahoo"
 slug: "yahoo"
 page_type: "entity"
 tags: ["type/entity", "entity-type/corporation"]
@@ -17,7 +17,7 @@ prescience_mean: 0.75
 prescience_obs_count: 4
 ---
 
-# Bull (Groupe Bull)
+# Yahoo
 
 > **   Partners include Alcatel, AT&T Broadband, Check Point, Cisco Systems, Enterasys Networks, Everdream, Hewlett Packard, In
 

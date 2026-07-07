@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 28
 ---
 
 # For Mid-Size Enterprises SOA's Benefits Begin with IT
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.26 over 35 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.23 over 35 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Market Segment report analyzing mid-size enterprise (vs large enterprise) differences in SOA adoption. 70 mid-size organizations responded to December 2005 survey. Mid-size enterprises more IT-focused in SOA drivers (managing integration costs, app re-use via web services) while large enterprises more focused on business-IT alignment. Mid-size firms less IT-skilled (vs large) but have advantages: less complexity, easier access to best practices, less change management resistance. Only 16% of companies overall have >24 months SOA experience (17% mid-size). 15% have managed/completed at least 3 SOA projects (13% mid-size).
 

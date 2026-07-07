@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.71
 prescience_obs_count: 21
 ---
 
 # Industry Dynamics in U.S. IT Usage and Spending, 1998
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.04 over 26 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.04 over 26 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 106-page study analyzes information technology spending and usage patterns across eleven U.S. vertical industries in 1998, combining primary survey data with secondary sources. The report introduces proprietary Aberdeen barometers tracking Internet adoption, mainframe usage, and outsourcing trends across financial services, manufacturing, retail, healthcare, and other commercial sectors. It presents IT spending as a proportion of revenue by industry and benchmarks enterprise size effects on IT investment patterns.
 

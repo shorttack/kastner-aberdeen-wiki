@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.83
 prescience_obs_count: 12
 ---
 
 # SQA Suite 5.0: Innovative, Integrated, Automated Testing Tools
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.55 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.85 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates SQA Suite 5.0, a four-product integrated automated testing toolset for Windows client-server applications developed by SQA, Inc. The study assesses SQA's market position, product capabilities including OLE/OCX/ActiveX testing, load/stress testing, and repository-based integration, and recommends IS managers seriously evaluate automated testing tools within two years. Aberdeen predicts SQA's integrated approach and Windows-focused strategy position it as a serious contender in the testing tools arena.
 

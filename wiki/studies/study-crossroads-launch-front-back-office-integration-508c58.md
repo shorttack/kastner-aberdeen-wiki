@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # Crossroads Software launch event (June 1997): Industry of Collaborations for Plug-and-Play Integration
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.67 over 9 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.78 over 9 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > 4-minute Crossroads Software launch event clip with Peter Kastner (June 1997). Documents the $1-5M-per-integration cost burden, $50-100B annual US in-house programmer spend on integration, and Crossroads' 'industry of collaborations' thesis for plug-and-play front-and-back-office integration. Kastner: 'great idea after market validation'; the integration Promised Land is closer; no other company doing exactly what Crossroads is doing.
 

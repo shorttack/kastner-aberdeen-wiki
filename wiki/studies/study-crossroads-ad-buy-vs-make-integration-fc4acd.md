@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # Crossroads Ad 1 (1997): Buy vs Make EAI Integration
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.88 over 8 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.12 over 8 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Two-minute Crossroads Software commercial featuring Peter Kastner as the buy-vs-make spokesman for enterprise application integration (EAI). Kastner argues that custom-built integration between major apps (Oracle, SAP, Vantive) is fragile and costs $1.5-4M per pair, while Crossroads cuts lifetime (5-7 yr) maintenance costs by 40-60% (sometimes 90%). The ad positions Crossroads as enabling best-in-class mix-and-match application portfolios.
 

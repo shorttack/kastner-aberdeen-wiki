@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.0
 prescience_obs_count: 21
 ---
 
 # Enterprise Integration Technology: Aberdeen Group's Market Trends & Research for 2006
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.43 over 28 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.54 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > 24-slide Aberdeen Group webinar presentation deck (SOA_AON_webinar_022206a). Covers enterprise integration market challenges/opportunities, 2005 SOA benchmark findings, and Aberdeen's full 2006 Enterprise Integration Research Agenda (Q1-Q4). Key 2005 findings: 92% of companies at or below 25% SOA adoption; over half predict 50%+ SOA-based software in 5 years. Best-in-Class SOA adopters spend 29.6% of IT budget on innovation vs. 18.5% average; software maintenance costs 12.4% vs. 27.3% average. Research agenda spans NAP, SOA app development, edge computing, data center integration, real-time BI, and knowledge worker productivity.
 

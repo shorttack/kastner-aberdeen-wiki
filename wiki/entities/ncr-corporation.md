@@ -1,5 +1,5 @@
 ---
-title: "Andyne Computing Ltd."
+title: "NCR Corporation"
 slug: "ncr-corporation"
 page_type: "entity"
 tags: ["type/entity", "entity-type/software-vendor"]
@@ -17,7 +17,7 @@ prescience_mean: 1.36
 prescience_obs_count: 42
 ---
 
-# Andyne Computing Ltd.
+# NCR Corporation
 
 > Subject company; acquired by AT&T 1991; spun off 1996 as independent NCR; at time of study selling NT-based HATP servers; exited commodity server market post-2000; split into NCR Voyix (digital commerce) and NCR Atleos (ATM/banking) in 2023
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.8
 prescience_obs_count: 5
 ---
 
 # The Retail Business Intelligence Benchmark Studies: Hypothesis and Survey
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.00 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.33 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group internal research-design deck by Paula Rosenblum (Retail practice) introducing the hypothesis and survey design for an upcoming Retail Business Intelligence Benchmark Study. Hypothesis: advanced BI including predictive analytics improves retailer top and bottom-line performance across assortment, price, promotion planning, and enterprise-wide scorecarding. Targets GMMs, VPs of Store Operations, VPs of Supply Chain, and CIOs in retail. Planned publication May 30, 2006.
 

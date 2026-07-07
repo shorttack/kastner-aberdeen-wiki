@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.43
 prescience_obs_count: 14
 ---
 
 # IBM-Aberdeen Meeting: Building Value Chain Leaders
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.28 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.78 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group consulting pitch deck to IBM proposing a research, benchmark, and workshop alignment program focused on Supply Chain Management (SCM), Procurement, and Strategic Consulting. Identifies IBM's On Demand validation, market visibility, and intellectual capital needs; proposes a three-phase approach combining Aberdeen Online Conference Series (AOCS), benchmark studies, installed base assessments, and joint workshops to grow IBM's top-line revenue and document business-value impact. Flag: Aberdeen-internal / client-confidential.
 

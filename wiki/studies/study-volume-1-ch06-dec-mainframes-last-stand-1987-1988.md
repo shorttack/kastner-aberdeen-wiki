@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.88
 prescience_obs_count: 67
 ---
 
 # Chapter 6: Digital Equipment Corporation — The Mainframe's Last Stand (1987–1988)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.61 over 92 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.67 over 92 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Kastner recounts his 1987–1988 tenure at Digital Equipment Corporation as a Marketing Executive, where he orchestrated the DECtp (DEC Transaction Processing) launch and a covert benchmark of IBM's 3090 mainframe that exposed the 'SNA Tax' — massive hidden overhead in IBM's communications stack. He also describes his pivotal role in founding the Transaction Processing Performance Council (TPC), which established independent, audited, industry-standard OLTP benchmarks. The chapter closes with Kastner's observation that DEC, having beaten the mainframe on price-performance, was itself soon to be surpassed by x86 servers using the very same TPC benchmarks.
 

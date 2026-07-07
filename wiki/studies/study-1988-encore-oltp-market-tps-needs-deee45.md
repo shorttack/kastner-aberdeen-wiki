@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.24
 prescience_obs_count: 17
 ---
 
 # OLTP Market Transaction Processing Needs: A Vertical Market Analysis for Encore Computer
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.05 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.95 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This 1988 Aberdeen Group report prepared for Encore Computer Corporation analyzes online transaction processing (OLTP) market requirements across ten industry verticals—including banking, brokerage, retail, transportation, communications, and government. The study characterizes TPS throughput demands per application segment, sizes the high-end OLTP market at $1.4 billion (1989, >25 TPS) and $630M (>100 TPS), and identifies the top ten priority market/application areas for Encore's forthcoming commercial Series 90 system. Aberdeen concludes that multi-user people-to-computer OLTP and outstanding price/performance versus IBM 3090 mainframes are the most viable commercial strategies for the Series 90.
 

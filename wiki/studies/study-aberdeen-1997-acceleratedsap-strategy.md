@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.76
 prescience_obs_count: 17
 ---
 
 # AcceleratedSAP: Fast Implementation, Rapid Realization of SAP Benefits
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.96 over 26 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.04 over 26 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This 1997 Aberdeen Group white paper profiles SAP's AcceleratedSAP (ASAP) rapid-implementation methodology, designed to deploy R/3 in four to ten months for mid-market enterprises. It describes the six-step ASAP process (Project Preparation, Business Blueprint, Simulation, Validation, Final Preparation, Go Live), the TeamSAP partner ecosystem, and positions ASAP as the preferred path for Year 2000 legacy replacement. Aberdeen assesses ASAP as a credible differentiator that reduces implementation redundancy and creates a reusable knowledge foundation.
 

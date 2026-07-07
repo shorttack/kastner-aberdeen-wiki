@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.38
 prescience_obs_count: 8
 ---
 
 # AMD Beats Apple's G5 and Intel's P4
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.89 over 9 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.11 over 9 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > TechNewsWorld article (Oct 15 2003, Jay Lyman) on PC World benchmarks showing AMD's Athlon 64 and dual Opteron processors beating Apple's Power Mac G5 and Intel's Pentium 4 on Word, Premiere 6, Quake III, and Photoshop 7.0.1. Aberdeen chief research officer Peter Kastner provides the central skeptical voice: 'Tune in a year from now, and then we'll have a better idea of how these chips run on real-world, 64-bit applications' — noting the PC World tests did not use 64-bit software, so 'users really aren't getting any benefit out of 64-bit instructions on Athlon or Apple.' Kastner calls Athlon 'a very competitive chip priced at a heady level for AMD' and predicts Apple developers will quickly optimize for 64-bit while Athlon64's market remains unclear pending 64-bit Windows XP. IDC's Shane Rau and Gartner's Martin Reynolds add benchmark-timing and memory-bandwidth context.
 

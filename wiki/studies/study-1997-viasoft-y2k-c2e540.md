@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.73
 prescience_obs_count: 11
 ---
 
 # Viasoft y2K: c.era — Reinventing the Year 2000 Solution
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.81 over 16 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.88 over 16 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's May 1997 Announcement Profile examines Viasoft's c.era cooperative strategic initiative, which aggregates Y2K remediation tools and services from multiple vendors through a single-point-of-contact model anchored by Viasoft's Rochade repository. Aberdeen endorses c.era as a comprehensive flexible approach to Y2K compliance especially for large-scale heterogeneous environments, and urges IS buyers to evaluate Viasoft immediately. The study also identifies that Y2K investment can generate reusable IT assets including data warehousing and modernization benefits beyond 2000.
 

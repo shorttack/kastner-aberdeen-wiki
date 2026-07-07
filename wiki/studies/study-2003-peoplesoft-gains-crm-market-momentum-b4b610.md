@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.0
 prescience_obs_count: 12
 ---
 
 # PeopleSoft Gains CRM Market Momentum
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.40 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.20 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles PeopleSoft's CRM market ambitions following the completion of its $1.75B acquisition of J.D. Edwards, which made PeopleSoft the second-largest enterprise software company with $2.9B in annual revenue and 11,900 customers across 25 industries. The study examines whether the newly enlarged PeopleSoft arrived too late — or just in time — to capture a leadership position in an increasingly competitive CRM market dominated by Siebel, SAP, and Oracle. Aberdeen assesses PeopleSoft's carefully orchestrated strategy to secure global enterprise software leadership.
 

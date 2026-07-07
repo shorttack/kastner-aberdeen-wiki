@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.88
 prescience_obs_count: 8
 ---
 
 # Year 2000 Solutions Series Part 1 — Aberdeen Group lead article + 12-point Best Practices (PSK + Susan Irving + John R. Logan, Computerworld Custom Publication, 1997)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.42 over 12 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.50 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Kastner is identified as Group Vice President of Aberdeen Group and 'general manager of its commercial systems practice' covering databases, OLTP, decision support, client/server architectures and distributed commercial systems development. PSK and Susan Irving co-author the lead, framing Y2K as 'as much about competitive advantage as it is about technology' and warning that 'tightly integrated, Web-enabled technology infrastructures are becoming the circulatory system of companies.' The 12-point Best Practice Recommendations attributed to Aberdeen include: 'Start immediately!'; 'Stop wounding Year 2000 messengers'; 'Send lawyers, guns and money'; 'Treat this as a war-time effort'; 'Secure trusted outside resources quickly. By mid-1997, there will be little capacity left in the industry'; 'Insist on seeing external partner compliance plans'; 'Beware the Law of Unintended Consequences'; and 'Save the blame for January 1, 2000'. PSK's rolodex of CXO targets (CFO, COO, CIO/CTO, Controller, Board of Directors, CEO) anticipates the modern multi-stakeholder cybersecurity-incident playbook.
 

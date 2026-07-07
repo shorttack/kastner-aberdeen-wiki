@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.62
 prescience_obs_count: 13
 ---
 
 # Point Solutions Versus Integrated Oracle Applications: The Road to IT Investment ROI
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.59 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.82 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Oracle-sponsored Aberdeen Executive White Paper (June 2001) — SAME core research as study 6 ('Leaving Well Enough Alone', July 2001) but Oracle-branded. Conclusion substitutes 'Oracle provides such an application suite' for the vendor-neutral closing. Chronologically predates study 6 — this is likely the commissioned original; study 6 is the vendor-neutral generalization Aberdeen then released on its own behalf. Cites Beneficial Life and Indian Motorcycle (Oracle customers) only — drops Credit Suisse First Boston/Carreckers (PeopleSoft) and State of Michigan (Lawson) references that appear in study 6.
 

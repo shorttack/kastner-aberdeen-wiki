@@ -1,5 +1,5 @@
 ---
-title: "Digital Equipment Corporation (DEC)"
+title: "Stratus Technologies"
 slug: "stratus-technologies"
 page_type: "entity"
 tags: ["type/entity", "entity-type/corporation"]
@@ -17,7 +17,7 @@ prescience_mean: 0.92
 prescience_obs_count: 12
 ---
 
-# Digital Equipment Corporation (DEC)
+# Stratus Technologies
 
 > Named competitor; positioned as 'Stratus Radio' in deck — likely a jab at its high price-point / niche status. Known for ftServer and continuous availability systems.
 

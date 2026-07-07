@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 64
 ---
 
 # Achieving More Value from Enterprise Applications
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.27 over 82 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.54 over 82 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Enterprise application silos connected by inadequate integration software ('duct tape, chewing gum, and string'). If Industry Average IT ran at Best in Class cost-efficiency, $143 billion in 2006 savings would be generated; $20 billion readily achievable. SOA technologies (web services, XML, open middleware) seen by at least two-thirds of respondents as means to improve enterprise application integration. Survey covers discrete/process manufacturing, consumer, services, and government sectors. Aberdeen Competitive Framework used.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.61
 prescience_obs_count: 18
 ---
 
 # FlexiInternational Software: Where Financial Acumen and Advanced Technology Converge
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.09 over 23 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.04 over 23 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group profile evaluates FlexiInternational Software (Flexi), a 1991-founded provider of object-oriented financial client-server solutions (CSS) competing in the enterprise financial systems market. Aberdeen assesses Flexi's technology architecture, IBM integration strategy, Web-enablement roadmap, and market positioning against major ERP competitors including Dun & Bradstreet, PeopleSoft, Oracle, and SAP. The study concludes that FlexiInternational is well positioned technologically and through business alliances to challenge for CSS market leadership.
 

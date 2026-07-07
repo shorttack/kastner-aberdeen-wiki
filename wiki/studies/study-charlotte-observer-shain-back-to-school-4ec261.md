@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.29
 prescience_obs_count: 7
 ---
 
 # Charlotte Observer Andrew Shain Back-to-School PC Buying Guide Citing Aberdeen's Kastner (August 2002)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.62 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.62 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > August 1, 2002 Charlotte Observer consumer feature by Andrew Shain timed to the first North/South Carolina tax-free back-to-school weekends. Shain quotes 'Paul Kastner, chief research officer with Aberdeen Group, a Boston technology marketing analysis firm' (a probable misprint of Peter S. Kastner) alongside Harry McCracken, editor of PC World magazine. The piece advises starting simple with elementary-school students (a 4-year-old computer suffices), upgrading for high-schoolers ($900 desktop with 128 MB RAM and Celeron is 'good enough for word processing and Web surfing'), considering low-end $500 systems with later add-ons, comparing CD-RW upgrades vs. new purchases, weighing laptop trade-offs ($1,300 laptop ≈ $900 desktop in performance), Apple's small but premium share of consumer PCs ('makes some great easy-to-use desktops $750 and up'), software (Microsoft Office vs. Works), antivirus and firewall, and adding wireless networking for multi-PC homes. Pointer to www.aberdeen.com for buying tips. The Kastner-attributed quote concerns parents potentially buying a low-end computer with few gadgets and adding capabilities later, plus the value of a computer desk ($50-$1,000+).
 

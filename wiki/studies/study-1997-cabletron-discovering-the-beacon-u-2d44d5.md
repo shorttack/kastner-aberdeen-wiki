@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 16
 ---
 
 # Cabletron: Discovering the Beacon Under the Basket
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.45 over 22 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.27 over 22 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group Company Profile (Spring 1997) of Cabletron Systems, Inc., a leading LAN switch, VLAN, and network management technology company headquartered in Rochester, NH. The report argues that Cabletron's technical excellence is systematically underrecognized ('beacon under the basket') due to limited marketing investments and narrow Fortune 500 channel focus. Aberdeen documents Cabletron's SecureFast VLAN architecture, Spectrum network management platform, SmartSwitch product family, CyberSWITCH remote access line, and Synergy Plus VAR program. The report presents Aberdeen's concept of the Public-Private Switched Network (PPSN) as an emerging market for which Cabletron is positioned as a top-tier competitor. Key predictions include Cabletron's successful geographic expansion via World/One and Synergy Plus, and its ability to compete as an end-to-end LAN/WAN equipment provider against Cisco. Cabletron's subsequent corporate collapse and breakup in 2000 contradicted most of these predictions.
 

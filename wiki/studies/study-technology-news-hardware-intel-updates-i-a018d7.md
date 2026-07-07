@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 4
 ---
 
 # Intel Updates Itanium 2 Processors
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.67 over 6 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > TechNewsWorld article (Apr 13 2004, Gene J. Koprowski) on Intel's Taipei developer-forum disclosure of two new lower-priced Itanium 2 processors (1.4 GHz and 1.6 GHz, both with 3 MB L3 cache; servers ~28% lower in price and up to 25% faster than prior Itanium 2). Intel's Richard Dracott positions this as merging Itanium and Xeon into common infrastructure. Audi AG cited as early Itanium 2 / HP Integrity adopter for automotive design simulation. Aberdeen chief research analyst Peter Kastner delivers the decisive skeptical read on 64-bit consumer demand: 'There are only about 100,000 Intel Itanium 64-bit machines on the market today, indicating that 64-bit computing will not be truly significant for users nor for software developers like Microsoft until Intel commits more wholeheartedly to the technology.' And the now-famous prediction: 'Very few consumer desktops can take advantage of 64-bit. Intel has to drop the other shoe and deem that the broad, mass market for consumers is ready for 64-bit. I predict that will not be this year.'
 

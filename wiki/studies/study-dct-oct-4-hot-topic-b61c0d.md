@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.31
 prescience_obs_count: 13
 ---
 
 # New Consumer Electronics Categories Appear in Time for Christmas
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.82 over 17 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.71 over 17 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen hot topic report authored by Russ Craig covering new consumer electronics product categories emerging in October 2003. Three products are highlighted: (1) Hand Held Entertainment's ZVUE pocket video/music player ($99, SD card-based, MPEG-4), a low-cost challenger to Sony's Clie; (2) Roku HD1000 HDTV digital media player ($499.99, Linux-based, WiFi/Ethernet, multi-card slots) by ReplayTV founder Anthony Wood; (3) NEC's water/methanol fuel-cell laptop prototype shown at WPC Expo Tokyo (5-hour battery, planned sale 2004; 40-hour version planned 2005). Aberdeen concludes that non-traditional CE companies are driving innovation while traditional global CE brands fall by the wayside.
 

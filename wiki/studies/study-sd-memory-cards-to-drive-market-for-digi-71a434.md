@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 6
 ---
 
 # SD Memory Cards to Drive Market for Digital Content
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.12 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > PDAStreet (internet.com) news article (Oct 28 2003) reporting on Aberdeen Group research for the Internet Home Alliance (IHA), titled 'Consumer Adoption of Memory Cards: A Qualitative Study.' The study argues consumer adoption of memory cards will continue to grow and SD (Secure Digital) is the leading format for storing and transporting digital content. IHA members include Cisco, Microsoft, Sears, and Whirlpool. Peter Kastner, Aberdeen Group executive vice president and chief research officer, is quoted: 'SD memory cards are likely to continue becoming a widespread means of storing and transporting digital content. This is particularly true given the combination of technology and widespread industry support that the SD Memory Card enjoys.' The study reports SD leads all other formats in number of products and categories (over 1,300 SD-enabled products worldwide) and held 25% US market share in H1 2003. A 512MB SD card stores ~7,000 JPEG images, ~3 hours MPEG-4 video, or ~11 hours digital music per Panasonic. Cards at launch hold 8MB-4GB (expected end 2004).
 

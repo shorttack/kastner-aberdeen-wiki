@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.33
 prescience_obs_count: 3
 ---
 
 # Mac Keeps Lead on Linux
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.75 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.50 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Wired article examining claims about Mac vs Linux desktop market share. Peter Kastner of Aberdeen Group pegs Mac desktop share at roughly 3%, with Linux desktop share 'considerably lower.' Kastner's estimate is corroborated by Google browser statistics and debates an IDC claim of higher Linux desktop share. Tim Deal of Technology Business Research also dismisses higher figures.
 

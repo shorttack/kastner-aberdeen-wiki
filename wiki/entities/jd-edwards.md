@@ -1,5 +1,5 @@
 ---
-title: "J.D. Edwards World Solutions Company"
+title: "JD Edwards"
 slug: "jd-edwards"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
@@ -17,7 +17,7 @@ prescience_mean: 3.4
 prescience_obs_count: 5
 ---
 
-# J.D. Edwards World Solutions Company
+# JD Edwards
 
 > rian|||||94| |Incentive Systems|||||97| |Infinium|||||100| |J.D. Edwards|||||103| |Kadiri Inc. (formerly Decisis)|||||106| |Lawson S
 

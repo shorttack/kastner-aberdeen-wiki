@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.67
 prescience_obs_count: 6
 ---
 
 # Much In Store Beyond 2004: Microsoft Has Experts Questioning Some Initiatives
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 8 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.12 over 8 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Processor Magazine editorial (2004-03-05) by Warren S. Hersch surveying Microsoft's 2004 product roadmap — Longhorn, Yukon, MOM, Virtual Server, Live Communications Server, Tablet PC — and SMB business-applications strategy. Peter Kastner (chief research officer, Aberdeen Group) argues Microsoft's SMB focus will target high-volume products like QuickBooks competitors rather than SAP/PeopleSoft/Oracle enterprise territory, and that Microsoft rationally will not open-source Windows or port Office to Linux because that would help a competitor OS lacking a proven mass market.
 

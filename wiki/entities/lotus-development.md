@@ -1,5 +1,5 @@
 ---
-title: "Lotus Development (IBM/Lotus)"
+title: "Lotus Development Corporation"
 slug: "lotus-development"
 page_type: "entity"
 tags: ["type/entity", "entity-type/software-vendor"]
@@ -17,7 +17,7 @@ prescience_mean: 3.0
 prescience_obs_count: 1
 ---
 
-# Lotus Development (IBM/Lotus)
+# Lotus Development Corporation
 
 > Role: competitor-referenced; At-study status: active; HQ: Cambridge, MA, USA; URL: http://www.lotus.com. Acquired by IBM in 1995 for $3.5 billion; Lotus Notes evolved into IBM Lotus Notes and subsequently HCL Notes after HCL Technologies acquired the product line from IBM in 2019.
 

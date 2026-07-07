@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.71
 prescience_obs_count: 17
 ---
 
 # Is Windows NT/Windows 2000 Enterprise-Ready?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.11 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.26 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This 85-page Aberdeen Group study by Joe Clabby evaluates Windows NT and the newly released Windows 2000 against seven enterprise-readiness criteria: scalability, reliability/availability, manageability, security, directory services, interoperability, and qualified resource availability. Based on interviews with IS executives, system planners, and line-of-business managers across banking, finance, transportation, and manufacturing, the report concludes that Windows 2000 represents a significant maturation of Microsoft's enterprise platform but identifies ongoing gaps vs. Unix/mainframe benchmarks at the time.
 

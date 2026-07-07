@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.81
 prescience_obs_count: 21
 ---
 
 # HP 3000: Continuously Increasing Customers' Successes
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.44 over 27 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.26 over 27 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analyzes Hewlett-Packard's 'Customer First' strategy for the HP 3000 midrange platform, arguing that HP's decision to focus on retaining its large and loyal installed base rather than pursuing new customers is pragmatic and financially sound. The study documents deep customer loyalty, a $1.2 billion annual revenue base, and a strategic commitment to continued platform enhancement into the HP 3000's third decade.
 

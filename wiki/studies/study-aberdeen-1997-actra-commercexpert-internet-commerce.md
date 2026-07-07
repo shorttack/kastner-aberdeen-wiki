@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.11
 prescience_obs_count: 9
 ---
 
 # No Longer an Internet Commerce Paper Tiger, Actra's CommerceXpert is Now in the Hunt
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.13 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.53 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This one-page Aberdeen Group abstract profile assesses Actra Corp., a joint venture of Netscape Communications and GE Information Services, concluding that the company delivered on its ambitious 1997 product roadmap. Aberdeen notes that Actra shipped its Internet EDI product (ECXpert), sales-to-order product (SellerXpert), procurement product (BuyerXpert), and updated PublishingXpert on or near promised release dates. The combined CommerceXpert product family, backed by the distribution power of Netscape and GEIS, positions Actra as a formidable competitor in the emerging business-to-business Internet commerce market.
 

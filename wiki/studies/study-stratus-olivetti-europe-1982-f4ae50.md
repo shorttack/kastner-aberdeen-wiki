@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: -0.2
 prescience_obs_count: 5
 ---
 
 # Stratus Expands in Europe — Olivetti $40M OEM Deal, c.1982 (PSK as Stratus communications director)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.33 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.17 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Local-paper article reporting Stratus Computer's three-year, $40 million export contract with Ing. C. Olivetti & Co. of Italy. The contract gives Olivetti the right to market the Stratus-32 Continuous Processing System in France, Italy, Spain, South Africa, and South America, plus integrate the Stratus-32 as the core of Olivetti's own systems (OEM). Olivetti must meet $40M minimum volume to retain marketing rights. Olivetti will also market in UK, West Germany, and Benelux but Stratus retains the right to open its own offices there with 90 days notice. **Peter Kastner, Stratus communications director**, is the named source. Kastner says Stratus plans to open its first international office by January 1983; that despite the size of the Olivetti contract Stratus will stick to its current business plan and may revise goals upward in Q3/Q4; and that early customer shipments include West Lynn Creamery and Thom McAn Shoe Co. Olivetti shipments scheduled to begin April. Stratus founded ~2 years ago with $6.7M from VC including Olivetti, GE, Bank of America, Institutional Venture Partners. Stratus' target this year: ship 30 systems at $150,000-$300,000 each. Article notes John Morgridge as Stratus VP Marketing.
 

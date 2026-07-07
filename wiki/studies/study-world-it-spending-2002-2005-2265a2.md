@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 17
 ---
 
 # World IT Spending 2002-2005: Timing the Recovery
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.17 over 6 usable obs (21 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.83 over 6 usable obs (21 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's April 2002 forecast of worldwide IT spending through 2005, modeling the post-dot-com recovery path across regions (North America, Europe, Latin America, Asia-Pacific, Middle East/Africa) and categories (hardware, software, services). The report projects a return to growth from the 2001 trough and serves as the demand-side companion to Aberdeen's Sun AS/400 RAMP engagement. Includes CAGR projections by customer size (Small 1-99, Medium 100-999, Large 1000+, Government).
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.38
 prescience_obs_count: 21
 ---
 
 # Utilities Transformed: The Role of IT in Reshaping the Energy Business, 1998 Edition
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.53 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.90 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This 102-page Aberdeen Group report by analyst Barton Taylor examines the role of information technology in the deregulating U.S. utility industry, covering electricity and natural gas markets. The study analyzes IT applications across generation, transmission, distribution, and power marketing segments, with particular focus on OASIS electricity transmission reservation systems, SCADA/energy management systems, AMR (Automatic Meter Reading) networks, and the internet as a platform for competitive energy markets. The report profiles 19 vendor organizations and predicts that ultimate winners in energy will be companies that leverage IT as a competitive weapon rather than merely low-cost producers.
 

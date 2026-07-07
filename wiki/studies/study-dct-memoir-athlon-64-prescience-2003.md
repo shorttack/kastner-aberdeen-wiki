@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.82
 prescience_obs_count: 11
 ---
 
 # Memoir: Prescience Call on the AMD Athlon 64 — Reassessing the Aug 2003 PC Deals Commentary
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.50 over 12 usable obs (0 prefiltered, 4 pending) -> high; 4 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 12 usable obs (0 prefiltered, 4 pending) -> high; 4 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Retrospective memoir by Peter S. Kastner (April 2026) assessing the prescience of Aberdeen PC Deals weekly commentary published Aug 3, 10, 17, and 24 2003 — the four weeks immediately preceding the AMD Athlon 64 launch on Sept 23, 2003. Those weeklies continued to recommend Athlon XP (the A220n/A230n HP desktops and eMachines T2605) as the value play without anticipating the 64-bit architectural transition. Kastner's retrospective view: AMD was 'way early' on 64-bit — Windows XP x64 Edition did not ship until April 2005, and mainstream 64-bit consumer applications trailed by several more years. For an August 2003 consumer buyer on a typical 3-4 year PC lifecycle (through 2006-2007), 64-bit was not a compelling purchase factor at time of purchase and arguably was still not compelling at end-of-life. Net judgment: the commentary's silence on Athlon 64 was a forecasting gap, but the Athlon XP recommendation was defensible ex post for the consumer-value use case it addressed. Prescience scored 'medium' — missed signal, non-material to the consumer who acted on the recommendation.
 

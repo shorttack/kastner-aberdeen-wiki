@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.05
 prescience_obs_count: 38
 ---
 
 # Report of Peter S. Kastner: Intelligent Electronics Inc. v. Andersen Consulting LLP
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.70 over 43 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.85 over 41 usable obs (0 prefiltered, 4 pending) -> high; 4 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Expert witness report by Peter S. Kastner of Aberdeen Group in the litigation between Intelligent Electronics Inc. and Andersen Consulting LLP. Analyzes IE's IT strategy, Andersen's systems integration performance, AS/400 platform decisions, and the PC distribution industry dynamics of the mid-1990s. Concludes that Andersen performed its engagement responsibilities competently and that IE's business failures stemmed from strategic market positioning errors.
 

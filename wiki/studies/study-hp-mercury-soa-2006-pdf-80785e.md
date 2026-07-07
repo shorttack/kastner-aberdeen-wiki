@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.0
 prescience_obs_count: 9
 ---
 
 # HP Can Boost SOA Offerings with Acquisition of Mercury
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.75 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.67 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Market Alert analyzing HP's acquisition of Mercury Interactive, a leader in IT optimization software. HP OpenView combined with Mercury's capabilities creates a stronger SOA management, governance, performance, and development lifecycle offering. Mercury gained SOA management capabilities via acquisition of Systinet (registry) in January 2006. Aberdeen research shows 90% of companies will exit 2006 with SOA activities at least underway. Aberdeen recommends the acquisition; keys to success are integration speed, culture assimilation, and extended mainframe support. HP best suited for large enterprises; small companies (<$50M revenue) unlikely customers.
 

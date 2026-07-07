@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.31
 prescience_obs_count: 16
 ---
 
 # InfiniBand Architecture: Planning the Next-Generation Data Center
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.80 over 20 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.95 over 20 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Executive White Paper providing a comprehensive overview of the emerging InfiniBand Architecture (IBA) for data center IT planners. Covers IBA components (HCA, TCA, switches/routers), comparison to PCI/PCI-X, IP over InfiniBand, storage over InfiniBand (SCSI, SAN, NAS), server scaling via clustering and blade servers, deployment transition planning, and early-adopter field research indicating 50% TCO reduction for database clusters. Recommends beginning evaluation in 2002 and phased deployment in 2003.
 

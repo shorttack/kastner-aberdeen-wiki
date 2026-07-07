@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.53
 prescience_obs_count: 17
 ---
 
 # Digital Consumer Technology: The Revolution Has Started — Aberdeen DCT Webinar Deck
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.68 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.08 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Presentation slides from Aberdeen Group's November 1, 2002 DCT webinar. Three deep-dive sections: Mobile Convergence Devices (handset economics, network operator gatekeepers, 3G timing), Media Servers (desired functionality, emerging product classes from HP Media Center/Intel Media PC/Sony Cocoon/STB accessories, Media Center requirements), and Home Networking (eleven contending technologies, longer-term architecture with consumer-configurable gateway/firewall/VoIP/DRM, 5 GHz spectrum of choice). Closes with DCT Practice Services retainer package and contact for Peter Kastner. Complements the companion DCEIT v6 practice deck (dct-dceit-practice-v6-2002) and the pre-webinar promotional announcement (dct-webinar-announcement-2002-11).
 

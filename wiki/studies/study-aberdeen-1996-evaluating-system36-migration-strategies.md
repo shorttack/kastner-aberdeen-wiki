@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.95
 prescience_obs_count: 22
 ---
 
 # Evaluating System/36 Migration Strategies
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.76 over 29 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.55 over 29 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group White Paper (September 1996) evaluates four migration strategies for IBM System/36 owners: stay put, migrate to Advanced 36, migrate to AS/400, or migrate to Windows NT PC-LAN. Based on interviews with System/36 owners and a five-criteria decision framework (capital cost, operating cost, MIS transition cost, business disruption, supplier support), Aberdeen recommends migrating to the Advanced 36 as clearly the best choice for the vast majority of owners. The study documents the Year 2000 compliance imperative and provides detailed cost tables for 10-user and 20-user configurations across all options.
 

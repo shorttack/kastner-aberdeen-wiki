@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 0.52
 prescience_obs_count: 23
 ---
 
 # Major Account Plan: IBM (excluding Global Services) — Aberdeen Internal Q3 2001
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.36 over 28 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.54 over 28 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen internal IBM major-account plan covering Q3 2001 status, 18-month goals, and recommended approach. Documents $31K YTD revenue vs $491K prior year; IBM locked-down PO status for two quarters; sales exec Cindy Murray returning from maternity leave. Targets include eLiza, pervasive computing, WebSphere, and leveraging relationship with IBM senior VP Linda Sanford. Flag: Aberdeen-internal confidentiality.
 

@@ -1,5 +1,5 @@
 ---
-title: "Digital Equipment Corporation"
+title: "Lotus Development Corporation"
 slug: "lotus-development-corporation"
 page_type: "entity"
 tags: ["type/entity", "entity-type/information-technology"]
@@ -17,7 +17,7 @@ prescience_mean: 1.57
 prescience_obs_count: 7
 ---
 
-# Digital Equipment Corporation
+# Lotus Development Corporation
 
 > role=competitor-referenced; status_note=Acquired by IBM in 1995 for $3.5 billion; Lotus Notes evolved into HCL Notes after HCL Technologies acquired the product from IBM in 2019.; hq_location=Cambridge, MA, USA
 

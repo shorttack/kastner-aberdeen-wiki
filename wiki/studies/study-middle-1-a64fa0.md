@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.37
 prescience_obs_count: 19
 ---
 
 # Middleware Technology: 1998 Practice Summary
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.65 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.83 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary covering the middleware technology market, analyzing gateways, TP monitors, RPCs, messaging, ORBs, data access tools, EAI solutions, and application servers as distinct middleware categories. The report sizes the middleware market at approximately $6 billion by 2000, identifies the CORBA vs. DCOM standards battle as a critical industry question, and provides supplier abstracts for thirteen vendors including BEA Systems, IBM, Microsoft, TIBCO, and CrossWorlds. Key findings include that no vendor had yet delivered a fully integrated middleware solution and that market consolidation was underway.
 

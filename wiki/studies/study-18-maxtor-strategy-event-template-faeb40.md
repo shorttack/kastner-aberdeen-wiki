@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.4
 prescience_obs_count: 10
 ---
 
 # Maxtor ILM Pools of Storage Strategy Event Data Collection Template
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.60 over 15 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.93 over 15 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > A template specification extracted from the Hardware Hawker (HH) ILM/Pools of Storage interactive sales tool, defining the data input fields and scenario structure for Strategy Events. Each Strategy Event models a customer's data environment across structured, semi-structured, and unstructured data; storage tiers (online disk, nearline tape, offline tape, midline disk, nearline disk); cost-per-GB parameters; and workflow flow directions. The template supports iterative scenario modeling with duplicate slides for sequential steps, quantifying bottom-line benefits from storage tier migration including downtime savings, admin management savings, opportunity cost savings, and revenue operations improvements.
 

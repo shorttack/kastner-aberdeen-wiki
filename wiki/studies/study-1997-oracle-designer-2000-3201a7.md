@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.46
 prescience_obs_count: 13
 ---
 
 # Oracle Designer/2000
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.44 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.06 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This 1997 Aberdeen Group profile evaluates Oracle Designer/2000, Oracle's flagship CASE and application modeling tool. Aberdeen finds that the market has shifted from upper-CASE methodology tools toward second-generation Client-server Application Development Environments (CADEs), and positions Designer/2000 as the leading data-focused design toolset due to its deep integration with Developer/2000, support for Internet application generation, and code generation capabilities for multiple target environments. Aberdeen recommends IS organizations place Designer/2000 on their shortlists for both traditional CASE and emerging Internet development.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.94
 prescience_obs_count: 17
 ---
 
 # Information Technology in the Retail Sector: The Integration Imperative
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.74 over 23 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 120-page report examines how U.S. retail organizations can transform IT investment from a cost center into a strategic competitive asset, estimating the retail sector spent $11.1 billion on IT in 1997. The study maps IT spending across the five divisions of retail operations — supply chain management, merchandise management, in-store systems, decision support, and corporate administration — and benchmarks application adoption by retailer category. It introduces the 'integration imperative' thesis that siloed retail IT systems must be unified to enable data-driven merchandising and efficient supply chains.
 

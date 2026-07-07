@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.25
 prescience_obs_count: 8
 ---
 
 # Blades: An Evolution in Server Density
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.40 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen InSight examines blade servers as an emerging form factor offering 30-50% cost savings over conventional rack designs when deployed as edge solutions. The study evaluates the blade server paradigm and asserts that long-term success will depend on how effectively suppliers and IS buyers design blade-server and back-end storage architectures. Published November 2001, it is among the earliest analyst assessments of the blade server category.
 

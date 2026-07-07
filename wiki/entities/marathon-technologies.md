@@ -1,5 +1,5 @@
 ---
-title: "Transaction Processing Council (TPC)"
+title: "Marathon Technologies Corporation"
 slug: "marathon-technologies"
 page_type: "entity"
 tags: ["type/entity", "entity-type/industry-body"]
@@ -17,7 +17,7 @@ prescience_mean: 1.24
 prescience_obs_count: 50
 ---
 
-# Transaction Processing Council (TPC)
+# Marathon Technologies Corporation
 
 > Founded by former DEC VAXft engineers in Boxborough MA; pivoted from hardware to software (everRun) in 2004; acquired by Stratus Technologies Sept 24, 2012.
 

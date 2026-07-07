@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.9
 prescience_obs_count: 10
 ---
 
 # Insession — Accessing and Leveraging Enterprise Transaction Systems
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.58 over 12 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.92 over 12 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Insession Inc., a middleware vendor providing software to integrate heterogeneous distributed environments with existing host-based enterprise transaction systems. The profile argues competitive pressures drive IS to build new applications rapidly on top of enterprise-scale distributed accessware. Insession enables preservation of ETS investments while integrating with Internet and client-server applications.
 

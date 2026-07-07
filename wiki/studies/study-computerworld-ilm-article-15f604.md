@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.73
 prescience_obs_count: 15
 ---
 
 # Waiting for ILM?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.88 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.31 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Published in Computerworld on 29 July 2004, this advisory article argues that integrated cross-application ILM software is 4-5 years away from maturity but that enterprises should begin evolving toward ILM now using a six-step recipe: (1) centralize storage into SANs/NAS, (2) classify data across three axes (type/access/pool), (3) create lifecycle policies, (4) populate new applications on appropriate pools, (5) drive economies of scale via virtualization, (6) implement intelligent ILM circa 2008-2010. The article introduces the four-pool storage model (online FC/SCSI, midline, nearline, offline tape) and projects 45% annual storage growth driving a swing toward midline disk for reference data.
 

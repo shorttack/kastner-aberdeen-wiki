@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 25
 ---
 
 # Why You Need To Replace Those Windows 98 And NT Machines
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.88 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.66 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analyst argues that 50M+ aging PCs running Windows 98 and NT in corporate environments pose escalating security and compliance risks as Microsoft ends support. Recommends immediate PC replacement cycle citing Windows XP Pro SP1 stability; Windows Server 2003 platform; Intel Springdale chipset and Centrino mobile platform; auditor scrutiny of unsupported systems; and potential legal liability for negligence. Published at critical juncture of Windows lifecycle transition.
 

@@ -1,5 +1,5 @@
 ---
-title: "Adoptex LLC"
+title: "Adoptex AI"
 slug: "adoptex-ai"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
@@ -17,7 +17,7 @@ prescience_mean: null
 prescience_obs_count: 0
 ---
 
-# Adoptex LLC
+# Adoptex AI
 
 > AI adoption startup referenced in Kastner's post-Aberdeen period activities.
 

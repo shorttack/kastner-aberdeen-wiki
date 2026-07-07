@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.05
 prescience_obs_count: 19
 ---
 
 # Upgrading To ISV Methodology For Enterprise Application Development
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.20 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.60 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen examines ADM's SCRUM methodology — a codification of ISV best practices for enterprise application development — and argues that in-house IS organizations should adopt ISV-style rapid iterative development over traditional waterfall planning-heavy methods. The study details SCRUM's three phases (Planning, Sprints, Closure) and ADM's Product Management Facility implementation, concluding that IS teams must adopt sprint-based methods with small teams, short cycles, and flexible toolsets to compete with the speed of the best ISVs.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 4.0
 prescience_obs_count: 2
 ---
 
 # Using TeamQuest Performance Software to Align IT with Business Priorities
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > TeamQuest Corporation whitepaper (2004, 7 pages) positioning TeamQuest performance-management software (TeamQuest Analyzer, TeamQuest Reporter, TeamQuest Model, TeamQuest View) as a vehicle for aligning IT operations with business priorities. The paper walks through capacity planning methods (benchmarking, trending, modeling — both simulation and analytic), workload characterization, service-level management, and server-consolidation use cases. Peter Kastner, chief research officer at Aberdeen Group Inc., is quoted in support of the server-consolidation thesis: 'For a large corporation, it's fairly easy to get to millions of dollars in savings through recentralization of servers and expensive IT support.' Document targets enterprise IT operations managers pursuing consolidation and capacity planning; published date 2004, copyright © 2004 TeamQuest Corporation; pre-dates the 2018 TeamQuest acquisition by Helpsystems (now Fortra).
 

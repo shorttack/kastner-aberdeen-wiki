@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.33
 prescience_obs_count: 6
 ---
 
 # Seven Ways to Prepare for the Economic Upturn
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.75 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > InfoWorld feature (Feb 13 2004) by Dan Tynan surveying seven strategic moves that IT organizations should make as the post-dot-com-crash economy begins to recover. Gartner, IDC, and Aberdeen Group forecast 2004 US tech budgets up 4-8%. The seven strategies include: don't get locked out of talent, manage capacity, prepare for Sarbanes-Oxley compliance, close the security gap, consolidate, retool for the knowledge economy, and watch outsourcing/offshoring carefully. Peter Kastner, executive vice president of research at Aberdeen Group, is quoted prominently on two of the strategies: (1) the growing number of retirements of old COBOL programmers in mainframe shops, with solutions including paying to retain, hiring back as consultants, or outsourcing; and (2) the impending erosion of Indian offshoring cost advantages as wage inflation accelerates. Kastner: 'Two or three years down the road, rapid wage inflation in India is likely to erode the economic benefits that are so enticing today.' The article is preserved across three web-archive pages (?page=0,1 / ?page=0,2) and merged into a single study per the multi-page article rule.
 

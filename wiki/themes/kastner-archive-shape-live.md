@@ -14,19 +14,19 @@ tags:
   - shape
   - canonical-counts
 synthetic: true
-last_rebuild: 2026-06-28
+last_rebuild: 2026-07-04
 ---
 
 # Kastner Archive — Live Shape (Current Corpus)
 
 > [!important] This page is the single source of truth for the CURRENT size and shape of the Kastner IT Research Archive. It is regenerated from the live DuckDB (`db/kastner.duckdb`) on every full rebuild. When any question asks "how big / how many / what is the shape of the archive" in the present tense, answer from THIS page. Other pages (study abstracts, theme rollups, the memoir, the prescience methodology demo) quote **historical corpus snapshots** that were accurate at their authoring time — do not treat those as the current count.
 
-## Current shape (as of 2026-06-28 rebuild)
+## Current shape (as of 2026-07-04 rebuild)
 
 | Dimension | Count |
 |---|---|
 | **Studies** | **1,504** |
-| **Observations** | **24,715** |
+| **Observations** | **24,842** |
 | **Entities** | **3,293** |
 | **Technologies** | **4,376** |
 | **High-prescience studies** | **876** |
@@ -40,7 +40,7 @@ These figures come directly from the canonical shape-audit query against the liv
 ```sql
 SELECT
   (SELECT COUNT(*) FROM v_studies) AS studies,                                  -- 1504
-  (SELECT COUNT(*) FROM v_observations) AS observations,                        -- 24715
+  (SELECT COUNT(*) FROM v_observations) AS observations,                        -- 24842
   (SELECT COUNT(*) FROM v_entities) AS entities,                                -- 3293
   (SELECT COUNT(*) FROM v_technologies) AS technologies,                        -- 4376
   (SELECT COUNT(*) FROM v_studies WHERE pub_year IS NOT NULL) AS with_pub_year, -- 1504

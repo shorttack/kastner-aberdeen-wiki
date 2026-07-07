@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # Tandem Himalayan 'Airport Commercial': Open Client-Server Platform with TPC-C Benchmarks
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.20 over 10 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > 7-minute Tandem advertisement framed as a customer's dream sequence at an airport, building a case for the Himalayan K-10000 as the best open client-server platform. Customer testimonials: R.J. Montoro (UPS, K-10000 tripling mission-critical volume) and Linda Fuhrer (Diagnostic, VP MIS, K10000 Himalaya parallelism). TPC-C results at 1.3TB DB scale. Chris Christiansen (IDC) and Peter Kastner (Aberdeen) on-camera experts. Kastner: 'scalability, high availability, absolute levels of performance without paying a price premium... dollars per transaction per second basis... right up there with the leaders.'
 

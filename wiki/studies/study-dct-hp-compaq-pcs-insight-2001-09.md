@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.25
 prescience_obs_count: 12
 ---
 
 # Integrating HP and Compaq: Success Must Stem from the PC Business
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.74 over 19 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.68 over 19 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen InSight arguing that the newly announced HP/Compaq merger's success will be determined by the PC business — not by divesting it. Frames the combined $29B 'access devices' segment (desktops, notebooks, iPaq/Jornada PDAs) as strategic for server-component sharing and printer/consumer bundling. Forecasts the merged entity will hold 19% global PC share (#1 position, 5-6 points ahead of Dell) and flags consumer IT as the key battleground for Carly Fiorina's stated #1-consumer-IT strategy.
 

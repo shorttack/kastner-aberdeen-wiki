@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # Oracle Data Warehousing launch: Comprehensive Approach Including Multimedia and Spatial Data
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.43 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.29 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > 3-minute Oracle data warehousing launch segment from 1996. Oracle announces a comprehensive view of data warehousing — client-side tools, development, analysis, data population from production systems — and expands the warehouse to include multimedia, spatial, and text data. Peter Kastner (Aberdeen Group) frames warehousing as systems integration and notes that data cleansing forces clean operational systems, with Oracle's one-stop-shop story as a key advantage.
 

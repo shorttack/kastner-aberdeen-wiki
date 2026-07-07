@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.6
 prescience_obs_count: 5
 ---
 
 # Enterprise Application Integration: Evolving to Meet e-Business Demands
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.70 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.80 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group report (Third Edition) examines the Enterprise Application Integration (EAI) market as it evolves to meet e-Business demands in early 2000. The report argues that EAI and e-Commerce are the two most important CIO initiatives in the Global 2000 for 2000, analyzes the convergence of e-Business Integration (eBI) with traditional EAI, and profiles 50 EAI suppliers (up from 19 in the prior edition). The report reviews 1998 predictions for 1999 outcomes and makes new predictions for 2000.
 

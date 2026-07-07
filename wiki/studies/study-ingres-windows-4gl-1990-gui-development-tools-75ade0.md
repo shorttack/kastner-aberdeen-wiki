@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # Ingres Windows 4GL Launch — May 1990 GUI Development Tools
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.92 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Peter S. Kastner (VP, Aberdeen Group) addresses the Ingres Windows 4GL launch in May 1990. End users are demanding the 'intuitive learning and ease of use of intelligent workstations'; programming GUIs is 'exceedingly complex, beyond the knowledge base of most programmers'; productivity tools for GUI development have 'not been provided by any software supplier to date'. Ingres Windows 4GL expands the population of who can develop applications and brings technical workstations into commercial use — addressing the Mac-style GUI gap on Vax and other commercial platforms.
 

@@ -1,5 +1,5 @@
 ---
-title: "SGI (Silicon Graphics Inc.)"
+title: "Hewlett-Packard (HP)"
 slug: "hewlett-packard-hp"
 page_type: "entity"
 tags: ["type/entity", "entity-type/hardware-vendor"]
@@ -17,7 +17,7 @@ prescience_mean: 0.5
 prescience_obs_count: 8
 ---
 
-# SGI (Silicon Graphics Inc.)
+# Hewlett-Packard (HP)
 
 > First to submit TPC-A result (HP 960 in January 1990); HP 3000 and HP-UX product lines; split into HP Inc. and Hewlett Packard Enterprise in 2015
 

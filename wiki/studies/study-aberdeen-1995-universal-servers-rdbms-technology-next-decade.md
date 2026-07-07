@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.91
 prescience_obs_count: 22
 ---
 
 # Universal Servers: RDBMS Technology for the Next Decade
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.74 over 27 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.89 over 27 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen examines the emergence of Universal Servers — RDBMS extensions supporting complex data types (text, video, spatial, ROLAP, user-defined) — as the next major RDBMS evolution beyond simple numeric data. The study positions Informix (via Illustra DataBlade acquisition) as the leader, assesses Oracle 7.3, IBM DB2, Sybase, Computer Associates, and Microsoft, and predicts Universal Server technology will become widespread within 2-3 years and be the most significant RDBMS advance for the next decade.
 

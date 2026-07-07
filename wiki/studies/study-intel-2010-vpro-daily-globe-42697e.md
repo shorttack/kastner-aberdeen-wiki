@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.63
 prescience_obs_count: 19
 ---
 
 # 2010 Business Computers Leave the Starting Gate
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.87 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.78 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen/Kastner creative editorial piece dated February 4, 2010, written in a press-release narrative style for Intel. Describes the launch of 2010 business PCs and notebooks based on Core i5/i7 Westmere (32nm) processors with vPro technology. Covers processor performance, power management, hardware encryption, remote manageability features, OEM models (Lenovo, Dell, HP), and the vPro ecosystem partners (VMware, Symantec, Citrix, Microsoft). Targets both enterprise IT and SMB audiences. Quotes Rich Echevarria, Intel general manager of business client.
 

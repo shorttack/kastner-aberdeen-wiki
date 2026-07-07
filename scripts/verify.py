@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""scripts/verify.py — Self-test for v1.6 wiki build."""
+"""scripts/verify.py — Self-test for v1.5 wiki build."""
 from __future__ import annotations
 import argparse
 import json
@@ -48,9 +48,7 @@ def main() -> int:
         try:
             con = duckdb.connect(str(db))
             for v in ["v_studies_with_prescience", "v_top_prescient_studies",
-                      "v_prescience_by_decade", "v_observations_with_prescience",
-                      "v_prescience_sh", "v_studies_with_sh_verdicts",
-                      "v_sh_3y_distribution", "v_sh_5y_distribution"]:
+                      "v_prescience_by_decade", "v_observations_with_prescience"]:
                 n = con.execute(f"SELECT COUNT(*) FROM {v}").fetchone()[0]
                 if n == 0:
                     warns.append(f"view {v} returned 0 rows")

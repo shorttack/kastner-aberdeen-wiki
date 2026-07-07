@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 2.0
 prescience_mean: 0.09
 prescience_obs_count: 23
 ---
 
 # Advisory Access Service (AAS) Launch Package: Kastner-to-Willmott Status Memo + Marketing Collateral (August 2001)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.94 over 33 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.12 over 33 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's August 2001 product launch package for the rebranded Advisory Access Service (AAS), driven by Peter Kastner and reported to founding partner Tom Willmott in a status memo dated August 7, 2001. The package combines four artifacts: (1) the Kastner to Willmott internal memo defining five workshops (Go-to-Market, Market Knowledge, Market Positioning, Messaging Strategy, Go-to-Market Readiness) and the rationalized AAS pricing model; (2) the AAS sales product overview detailing Six-Month Introductory ($6,000) and Twelve-Month Multi-Day retainer packages with explicit pricing tiers from Associate ($10,200) to Executive ($21,000+); (3) the Aberdeen Advisory Service SLIC narrative; and (4) the Advisory Services slip-sheet marketing brochure. New price list effective September 1, 2001. Cc'd on the memo: Chet Verceglio, Margie Koenig (workshop methodologies with Kathleen Roche).
 

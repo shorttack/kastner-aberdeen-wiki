@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
 prescience_obs_count: 11
 ---
 
 # Internet Procurement
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.73 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.73 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's summary overview presents findings from two companion publications — a Viewpoint and a White Paper — on Internet-based procurement automation for non-production goods and services. Based on a November 1998 survey of early adopters, Aberdeen concludes that Internet procurement has the potential to dramatically redesign corporate purchasing processes and deliver measurable cost and process improvements. The study identifies leading vendors Ariba, Commerce One, and SAP as primary players and argues supply chain management — not retail e-commerce — will be the highest-value application of Internet technology for corporations.
 

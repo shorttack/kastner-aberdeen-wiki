@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.8
 prescience_obs_count: 5
 ---
 
 # SD Memory Cards to Drive Market for Digital Content
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.50 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.50 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Palm Boulevard news feature (2003-10-28) reporting on Aberdeen Group's 'Consumer Adoption of Memory Cards: A Qualitative Study.' The study credits SD memory cards with leading all other formats in both number of products and categories (1,300+ SD-enabled products) and holding approximately 25% US market share. Peter Kastner (EVP and chief research officer, Aberdeen Group) argues SD cards will continue becoming a widespread means of storing and transporting digital content, given the combination of technology and widespread industry support.
 

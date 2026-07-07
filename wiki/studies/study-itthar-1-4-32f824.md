@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.67
 prescience_obs_count: 9
 ---
 
 # Making the Corporate Platform Decision (ITT Hartford)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.08 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.17 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group consulting presentation for ITT Hartford on corporate platform decision-making. Background is 1994 Commercial Lines Coop review. Covers desktop OS selection (Windows 95 vs OS/2 Warp vs NT Workstation), workgroup OS strategy (Windows NT/AS and Novell NetWare), platform management, network management, groupware, electronic mail, and distributed software management. 9-slide deck.
 

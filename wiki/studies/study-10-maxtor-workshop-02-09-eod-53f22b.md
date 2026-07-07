@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.69
 prescience_obs_count: 29
 ---
 
 # Maxtor Messaging Workshop: Creating the Midline Market Category
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.82 over 33 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.91 over 33 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Full slide deck from the February 13 2004 Maxtor midline category creation workshop at Shrewsbury MA. Covers Aberdeen's ILM and Pools of Storage framework, competitive analysis of Seagate/WD/Hitachi, the 10-step category creation methodology, a detailed market awareness-building roadmap with quarterly milestones, and competitive positioning analysis of MaXLine vs Atlas disk drives.
 

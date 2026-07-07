@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 6
 ---
 
 # SpaceWorks OrderManager: An Electronic Sales Channel for Wholesale Distributors
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.60 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.70 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles SpaceWorks OrderManager, an Internet-enabled B2B electronic commerce platform targeting wholesale distributors in computer products, food and beverage, pharmaceutical, and industrial supplies sectors. The product provided real-time transaction processing between a web-based sales channel and legacy systems, with positioning for hosted Commerce Service Provider (CSP) environments. Aberdeen analyst David Alschuler highlights the product's completeness, rapid implementation, and enterprise integration as differentiators for mid-to-large organizations.
 

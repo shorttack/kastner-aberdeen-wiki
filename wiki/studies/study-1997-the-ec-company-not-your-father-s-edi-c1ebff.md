@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.58
 prescience_obs_count: 19
 ---
 
 # The EC Company: Not Your Father's EDI
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.45 over 22 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.45 over 22 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles The EC Company, a 1994-founded Palo Alto start-up offering a dramatically lower-cost EDI enablement solution for mid-market supply chain organizations. The study details the company's unique hub-centric network architecture, aggressive low-price strategy (EC Exchange for $130, transactions approaching postage-stamp cost), and indirect channel distribution through Arthur Andersen, Huntington Bank, and Thompson Financial. Aberdeen concludes the company may break the mold of traditional VAN-based EDI if it can sustain transaction volume growth to achieve profitability within 18–24 months.
 

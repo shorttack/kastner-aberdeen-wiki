@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 5
 ---
 
 # Rebates: Savings or scam?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.67 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Chatham Journal Weekly consumer column (2005-06-26) by Gary Gray of CouponChief.com surveying mail-in rebate pitfalls. Gray cites Peter Kastner, executive vice president of Aberdeen Group, on the 40/40/20 consumer-rebate split: 40% never submit, 40% submit and get paid, 20% have problems. The column also reports that US rebate spending grew from $1B to $4B between 1999 and 2003, and frames the practical tradeoff between full-price at checkout and actual realized discount.
 

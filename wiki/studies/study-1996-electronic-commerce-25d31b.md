@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.77
 prescience_obs_count: 13
 ---
 
 # Electronic Commerce: Virtual Corporations Selling to a Virtual Marketplace
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.88 over 17 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.35 over 17 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group white paper summarizing field research on electronic commerce. Identifies three types of EC (B2B, B2C, C2C), outlines key Internet EC technologies, and recommends that IT organizations architect their EC endeavors carefully, considering make-vs-buy decisions. Projects over $7.2 billion in EC IT investment over three years.
 

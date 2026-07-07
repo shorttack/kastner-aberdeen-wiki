@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 46
 ---
 
 # The Business Activity Monitoring Benchmark Report: The Eyes and Ears of BPM
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.00 over 62 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.15 over 62 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Benchmark report surveying 160+ Global 5000 enterprises on Business Process Monitoring (BPM and BAM). Finds 94% of respondents moderately or very satisfied with IT results of BPM implementations; average ROI 18%, ROA 10%, revenue increase 9%, expense decrease 12%. Best in Class companies are 50% more likely than Industry Average to focus on competition as driver. 42% of companies are in planning stages. Median investment $101K-$500K. Real-time defined variably: 25% of BIC capture process state in under 10 seconds. Key challenge: management buy-in. Sponsored report (sponsors section left blank in draft). Peter Kastner is Research VP and Co-Founder. DRAFT dated 08-15-06.
 

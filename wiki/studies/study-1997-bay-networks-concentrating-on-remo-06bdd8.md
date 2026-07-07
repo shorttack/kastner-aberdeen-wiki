@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 10
 ---
 
 # Bay Networks: Concentrating on Remote Access
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.07 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.60 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Announcement Profile examines Bay Networks' two new remote access concentrator products: the 5399 (high-density, modular, for service providers and large enterprises) and the Model 8000 (stand-alone, for smaller ISPs and enterprises). Both feature BayDSP modem technology from Bay's acquisition of Penril Datability Networks. Aberdeen evaluates the emerging 56K modem market and how Bay's solutions address high-density remote access requirements.
 

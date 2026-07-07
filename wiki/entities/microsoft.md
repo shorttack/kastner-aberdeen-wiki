@@ -1,5 +1,5 @@
 ---
-title: "Siemens-Nixdorf Informatik"
+title: "Microsoft Corporation"
 slug: "microsoft"
 page_type: "entity"
 tags: ["type/entity", "entity-type/information-technology"]
@@ -17,7 +17,7 @@ prescience_mean: 2.68
 prescience_obs_count: 271
 ---
 
-# Siemens-Nixdorf Informatik
+# Microsoft Corporation
 
 > Cited: Windows Vista OS halted in 2004; tens of millions of lines of code discarded to institute programming process change. Cited as 'bastion of technology brainpower.' Also cited: Microsoft Office as knowledge worker productivity tool. Use existing entity ID. | Source: Microsoft Corporation remains one of the largest technology companies globally. https://www.microsoft.com
 

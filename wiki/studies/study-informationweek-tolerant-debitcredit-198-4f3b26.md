@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.38
 prescience_obs_count: 8
 ---
 
 # Competitors Find Fault With Tolerant's Performance Claim — Tandem, Stratus argue Eternity performance figures
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.45 over 11 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.55 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > InformationWEEK page 22 (January 20, 1986) reports on a controversy over Tolerant Systems' Eternity transaction-processing performance claims. Tolerant claims its Eternity system at $23,800 per TPS beats Tandem ($42,200) and Stratus ($68,700) using TP1/ET1 (debit-credit) benchmark figures from Datapro and Omri Serlin's ITOM International newsletter. Tandem responds with internal numbers showing $20,800/TPS using configurations more comparable to Tolerant's. Serlin himself published Stratus internal figures showing $23,100/TPS. Serlin says 'these measurements are at best ambiguous and always the subject of intense controversy' and recommends users run their own benchmarks. Background: Tolerant Transaction Systems Inc. founder Eli Alon promised Unix-based fault-tolerant processing in 1985; firm dropped Alon and the word 'transaction' from its name. With release 5.0 of its Unix-like OS, Tolerant introduced multi-System-Building-Block (SBB) fault tolerance using National Semiconductor 32016 chips. Marketing director Shirley Henry says major vendors will resell Eternity. Confirms Tandem as market leader and Stratus as 'distant second-place competitor' in OLTP fault-tolerant computing.
 

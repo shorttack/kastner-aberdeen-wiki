@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.1
 prescience_obs_count: 21
 ---
 
 # PLATINUM RiskAdvisor: Insurance Data Warehousing For Intelligent Risk Management
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.25 over 24 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.42 over 24 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles PLATINUM technology inc.'s RiskAdvisor — a packaged data warehouse application for the insurance industry built on an RDBMS star schema (RDM) with 20+ client-side modules covering premium and loss functions. The study argues that custom-built insurance data warehouses take too long and cost too much, and that RiskAdvisor's pre-built industry-specific data model dramatically accelerates deployment. Early user testimony confirms 90-120 day implementation timelines at large insurers.
 

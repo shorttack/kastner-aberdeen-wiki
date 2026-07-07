@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.62
 prescience_obs_count: 24
 ---
 
 # State Street RAMP Interview for Maxtor Project
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.54 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.63 over 35 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Face-to-face RAMP (Rapid Analysis Market Profiling) interview with Prithwi R. Thakuria, VP Information Technology Data Management Services at State Street (Westwood MA), covering Unix SAN storage architecture, willingness to adopt low-cost ATA disk, EMC Symmetrix/DMX infrastructure, and backup/restore practices. State Street had ~1TB Unix storage, all on SAN, 70-80% FC, with EMC Symmetrix RAID-1 and planned DMX upgrade. Thakuria rated 7/7 likelihood to purchase low-cost disk despite SLA obligations to investment management clients, citing TCO savings. The interview captures the financial sector's early-mover posture toward midline storage and the multi-silo purchasing decision structure of large banks.
 

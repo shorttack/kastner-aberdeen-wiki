@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 3.0
 prescience_mean: 0.12
 prescience_obs_count: 24
 ---
 
 # Can Unisys-Wipro Alliance Cover All Outsourcing Bases?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.69 over 26 usable obs (0 prefiltered, 4 pending) -> high; 4 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.77 over 26 usable obs (0 prefiltered, 4 pending) -> high; 4 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Market Event report analyzing the Unisys-Wipro outsourcing alliance that combines Wipro's offshore cost savings with Unisys's local on-site support. Draws on survey data from Aberdeen's Outsourcing Application Development and Maintenance benchmark to compare outsourcing challenges faced by Unisys and Wipro customers. Finds that Wipro clients prioritize cost savings but face communication and cultural gaps, while Unisys clients experience fewer cultural issues but less cost focus. The alliance positions Unisys as local support subcontractor (desktop/server maintenance, IMACs, desk-side support) while Wipro handles remote services (server management, help desk). Already secured a Fortune 500 deal covering 20,000 employees across the US, Canada, and UK.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.22
 prescience_obs_count: 18
 ---
 
 # Planning for Emerging Industry-Standard Platforms Computing Opportunities
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.92 over 24 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.12 over 24 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen white paper produced in collaboration with Intel Corporation analyzing the three critical technology building blocks arriving in 2003-2004: DDR2 memory, IPMI systems management, and serial I/O (PCI Express). Covers Xeon, Itanium 2, new chipsets (Lindenhurst, Nocona, Potomac/Twin Castle), and the transition from parallel PCI-X to PCI Express. Aimed at IT planners for 2004 server acquisitions.
 

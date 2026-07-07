@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.96
 prescience_obs_count: 56
 ---
 
 # Digital Equipment Corporation Longitudinal Study, 1985-Present
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.05 over 19 usable obs (2 prefiltered, 58 pending) -> high; 58 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.79 over 19 usable obs (2 prefiltered, 58 pending) -> high; 58 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This longitudinal archival synthesis follows Digital Equipment Corporation from its mid-1980s VAX/VMS enterprise position through DECtp, Alpha, open-systems fragmentation, the 1998 Compaq acquisition, HP/HPE inheritance, and the current OpenVMS/VSI afterlife. It uses the DEC evidence inventory from the Aberdeen archive and explicitly separates Kastner-authored observations from Aberdeen institutional, DEC corporate, and third-party observations.
 

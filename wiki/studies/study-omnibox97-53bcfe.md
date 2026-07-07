@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "low"
-prescience_5y_enum: "low"
 prescience_max: 5.0
 prescience_mean: 0.4
 prescience_obs_count: 25
 ---
 
 # OmniBox International Confidential Business Plan
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** low — 3y Rule A: mean=1.57 over 30 usable obs (0 prefiltered, 0 pending) -> low [high>=3.5, medium>=2.0].
-- **5-year verdict:** low — 5y Rule A: mean=1.53 over 30 usable obs (0 prefiltered, 0 pending) -> low [high>=3.5, medium>=2.0].
 
 > OmniBox International's confidential August 1997 business plan details a Delaware holding company seeking $10 million to deploy a global interactive broadcasting network offering e-commerce, digital set-top boxes, satellite content delivery, and transaction processing across 53+ countries. The plan projects revenues of $201.5M in Year 1 growing to $1.17B by Year 4, based on subscription fees, pay-per-view, digital music (Satellite JukeBox), and home shopping (MailBox). Aberdeen Group's Peter Kastner is referenced as a contributor via an attached Aberdeen Group Profile.
 

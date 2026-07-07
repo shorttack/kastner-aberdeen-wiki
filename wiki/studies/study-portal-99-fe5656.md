@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.53
 prescience_obs_count: 15
 ---
 
 # Portal's Infranet -- Real-Time Customer Management and Billing Pays Dividends to ISPs, Internet-Based Businesses
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.20 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.10 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Portal Software's Infranet 6.0, a real-time customer management and billing platform designed for ISPs and internet-based businesses. The report evaluates Infranet's N-tier object-oriented architecture, real-time billing capabilities, and partnerships with HP, Sun, Compaq, Cisco, Microsoft, and Oracle. Aberdeen concludes Infranet is the stand-out product for real-time customer billing and service, with market-leading capabilities versus competitors Solect and Kenan/Arbor.
 

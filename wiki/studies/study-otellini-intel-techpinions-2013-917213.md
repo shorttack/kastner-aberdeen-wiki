@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.33
 prescience_obs_count: 15
 ---
 
 # On the Impact of Paul Otellini's CEO Years at Intel (Tech.pinions, Published Version)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.90 over 20 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.90 over 20 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Published Tech.pinions column by Peter Kastner assessing the 40-year Intel career and 8-year CEO tenure (2005-2013) of Paul Otellini, organized across four dimensions: technology (tick-tock model, multi-core, High-K metal gate, 3D tri-gate, performance-per-watt), growth (BRIC geographies, mobile, software via McAfee and Wind River, intelligent systems), competition (AMD retake, ARM mobile threat), and finance (revenue up 60% to ~$53B; dividend initiation). Notes the missed-iPhone cost to Intel and the new emerging devices division.
 

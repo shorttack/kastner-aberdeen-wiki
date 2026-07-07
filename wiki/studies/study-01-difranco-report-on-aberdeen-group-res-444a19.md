@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.08
 prescience_obs_count: 24
 ---
 
 # Report on Aberdeen Group Research into New Category for MaXLine
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.87 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.83 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > DiFranco's board-level memo to Maxtor executives summarizing Aberdeen Group's commissioned research into defining 'fixed content' storage as a new category. The report argues that Aberdeen surveyed 70 Fortune 1000 companies and found sufficient market readiness to position MaXLine drives as the leading brand in an emerging midline storage category. DiFranco explicitly frames the strategy as replicating Aberdeen's CRM category creation for Siebel — with Maxtor as the anticipated category leader.
 

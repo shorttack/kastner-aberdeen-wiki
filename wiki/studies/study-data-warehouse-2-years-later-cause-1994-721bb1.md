@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.17
 prescience_obs_count: 6
 ---
 
 # The Data Warehouse: 2 Years Later... Lessons Learned
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.38 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > CAUSE 1994 Annual Conference paper (Orlando FL, Nov 29 - Dec 2 1994) by John D. Porter and John J. Rome of Arizona State University, retrospectively analyzing ASU's two-year-old integrated data warehouse project. The warehouse combined student, financial, and HR data — one of the first major client-server data warehouses in US higher education. Lessons-learned sections cover learning new technologies, understanding warehousing concepts, integrating data, designing the warehouse, marketing the idea, finding resources, 'officialness' of data, data administration impact, and data definition. Notable Kastner citation (Aberdeen Group): 'All companies will build [a data warehouse] in the next five years.' — an aggressive 1994 prediction about universal enterprise data-warehouse adoption.
 

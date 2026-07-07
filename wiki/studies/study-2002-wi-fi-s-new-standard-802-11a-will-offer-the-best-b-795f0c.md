@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.33
 prescience_obs_count: 12
 ---
 
 # Wi-Fi's New Standard: 802.11a Will Offer the Best Bandwidth for the Buck
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.54 over 13 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.23 over 13 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This InSight advises consumers on the emerging 802.11a Wi-Fi standard as a compelling alternative to 802.11b for wireless home networking, outlining 802.11a's higher bandwidth and cost-performance advantages. The study helps consumers plan for 802.11a adoption and identifies an opportunity for hardware vendors to deliver tomorrow's standard today.
 

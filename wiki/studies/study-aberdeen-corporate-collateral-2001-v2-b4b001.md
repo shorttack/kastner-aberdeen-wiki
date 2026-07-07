@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.71
 prescience_obs_count: 21
 ---
 
 # Aberdeen Group Corporate Collateral Set (2001): Background Presentation, Web Presentation 7/01, 11x17 Overview, Positioning Assistance, Research Capabilities, Success Stories
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.96 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Six-document Aberdeen Group corporate collateral set from 2001, all approved for distribution by Peter Kastner. Includes (1) the Corporate Background presentation (v9-19-3) showing Aberdeen's market positioning and competitive landscape; (2) the web Presentation 7/01 framing positioning consulting around "Define, Differentiate, or Die"; (3) the 11x17 corporate overview (v7-25b-4) listing Aberdeen's coverage areas -- Application Service Providers, Collaborative Product Commerce, Enterprise Applications, Information Appliances, Storage, Enterprise Systems Management, and others; (4) the detailed Positioning Assistance brochure describing Marketing Workshops, RAMP strategy validation, MAS research, and Strategy Acceleration; (5) the research-capabilities deck enumerating recent engagements (Enterprise Linux, Intel servers, ASP servers, WW VoIP, HIPPA, SANs, 3G networks, PKI, high-end printing, ERP Mid-Market repositioning); and (6) the success-stories companion deck reinforcing the same engagement portfolio plus named work for IBM (eLiza initiative messaging), a Top Five Software Company repositioning, and an emerging-software outsourced-marketing engagement. Captures Aberdeen's mid-2001 corporate identity at the height of post-bubble repositioning.
 

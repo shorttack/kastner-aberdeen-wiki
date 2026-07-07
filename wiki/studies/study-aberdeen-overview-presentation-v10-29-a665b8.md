@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.36
 prescience_obs_count: 11
 ---
 
 # Market Analysis and Positioning Services for Business Technology — Aberdeen Group Overview Presentation
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.61 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.94 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's corporate overview presentation (version October 29, 2000) covering the firm's mission, service portfolio, client engagement model, and coverage areas. Documents Aberdeen's 'Define, Differentiate, or Disappear' positioning tagline and describes the RAMP methodology, Advisory Access Service (AAS), Profile, Impact, Viewpoint, and Executive Briefing Paper deliverables. Includes technology coverage wheel and competitive context.
 

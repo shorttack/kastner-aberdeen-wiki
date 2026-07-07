@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 1
 ---
 
 # Industry Analyst Discusses Impact of Intel vPro Technology
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.50 over 2 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.50 over 2 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Intel-published YouTube video (URL http://www.youtube.com/watch?v=Qtr3rqJAzUI, uploaded 2008-09-23, ~1:38 duration) featuring industry analyst Peter Kastner discussing the impact of Intel vPro technology — specifically the total cost of ownership benefits — for Core 2 vPro and Centrino 2 vPro platforms. Webarchive captures the YouTube watch-page chrome and tag metadata (total_cost_of_ownership, Peter_Kastner, core_2_vpro, Centrino_2_vpro). Skill §13.1 type: transcript.
 

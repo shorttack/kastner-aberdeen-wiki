@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.39
 prescience_obs_count: 18
 ---
 
 # Measuring the Returns from a Desktop Virtualization Program
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.36 over 28 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.68 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen survey of 76 organizations on desktop virtualization deployment outcomes (May 2011). Reports seven operational performance metrics comparing virtualized vs. non-virtualized desktops. Key findings: 20.4% reduction in routine maintenance time, 11.7% cost reduction, 2.9 vs. 6.8 downtime incidents per year, 1.0 vs. 4.3 hour recovery time, 0.9 vs. 2.3 hours data lost per incident. Argues ROI is primarily operational rather than financial. Covers deployment adoption rates by company size, best practices (user role standardization, IT training, executive visibility), and technology enablers (thin/zero clients, BYOD).
 

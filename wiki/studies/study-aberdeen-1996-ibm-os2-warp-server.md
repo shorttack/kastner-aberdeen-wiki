@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.25
 prescience_obs_count: 20
 ---
 
 # IBM's OS/2 Warp Server: The Whole is Greater Than the Sum of the Parts
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.12 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.68 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates IBM's newly released OS/2 Warp Server, arguing it combines the networking strengths of Novell NetWare with the application strengths of Microsoft NT Server plus integrated directory and security services via a DCE-based Directory and Security Server (DSS) add-on. The study contends that OS/2 Warp Server is at least a year ahead of competitors in delivering an integrated, enterprise-wide NOS with objects, distributed directory services, and network security.
 

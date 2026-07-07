@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.6
 prescience_obs_count: 10
 ---
 
 # Winning the Enterprise: Pocket PC Will Be the Pervasive Handheld Platform by 2005
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.83 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.67 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > In September 2001, Aberdeen Group analyzed enterprise PDA adoption trends and made the definitive prediction that Pocket PC would eclipse Palm OS as the leading handheld platform by 2005. The study argues that enterprise adoption rates — not consumer market share — would drive the outcome, and that Pocket PC's Microsoft heritage gave it a structural enterprise advantage. This prediction proved incorrect: the iPhone launched in 2007 made both platforms irrelevant.
 

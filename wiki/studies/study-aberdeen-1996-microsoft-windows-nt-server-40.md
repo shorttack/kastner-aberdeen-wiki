@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.83
 prescience_obs_count: 12
 ---
 
 # Windows NT Server 4.0 — A Giant Step Forward
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.29 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.19 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Microsoft Windows NT Server 4.0, concluding that it is 'a giant step forward' for the network operating system market. The study analyzes NT 4.0's improvements in convenience, Internet/intranet integration, network connectivity, and performance, positioning it as the dominant application server for workgroups and departments while predicting it will displace Novell NetWare and other competitors to become the dominant NOS platform.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.53
 prescience_obs_count: 17
 ---
 
 # The HP-Compaq Merger: If There's the Will, There's a Way
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.63 over 19 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.68 over 19 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen InSight by Peter Kastner analyzing the proposed HP-Compaq merger announced September 2001. Identifies significant product overlap across servers (Intel/Windows, Unix, Itanium, Linux) and services, and warns that customers are confused and concerned about a merger focused on 'more' rather than 'better.' Argues that sustained outward customer focus — via strong marketing and sales retraining — is the key to merger success, and that without it Dell, IBM, and Sun would be the beneficiaries. This is an independent source file (Archive-2) for the same insight as 2001-hp-compaq-kastner-insight1-d6dc38 from Archive-1; processed separately as instructed.
 

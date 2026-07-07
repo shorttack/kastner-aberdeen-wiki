@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.62
 prescience_obs_count: 21
 ---
 
 # Lawson Software Delivers the Desktop and Workflow Combination One-Two-Punch
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.52 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.72 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Lawson Software's Open Enterprise Desktop (OED) and forthcoming integrated Lawson Workflow as a compelling 'one-two-punch' in the client-server solutions (CSS) marketplace, asserting that Lawson's multi-tier workflow architecture and process-oriented GUI give it a significant competitive advantage over Oracle, PeopleSoft, and SAP. The study analyzes workflow forms, integration levels, and scalability criteria while concluding that Lawson is uniquely positioned across multiple market segments.
 

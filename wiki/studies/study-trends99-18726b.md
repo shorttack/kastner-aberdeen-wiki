@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.73
 prescience_obs_count: 15
 ---
 
 # IT Trends for 1999 -- Internal Kastner/Logan Analysis
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.15 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.15 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This internal Aberdeen Group memo captures a dialogue between John R. Logan (JRL) and Peter S. Kastner (PK) on IT trends for 1999. Logan proposes 8 trends and Kastner responds with critiques, refinements, and additional topics. Key themes include Y2K preparedness, Windows 2000 adoption risk, Intel PC refresh cycle, EAI approaches, ISP market evolution, application integration, e-commerce development methodologies, and security. Kastner also adds three original trend topics: security ownership, objects in 1999, and ISP utility computing.
 

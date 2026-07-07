@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.92
 prescience_obs_count: 25
 ---
 
 # How To Write A Profile and How To Conduct A RAMP
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.58 over 33 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.61 over 33 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's Day 3 training manual for new analyst hires. Covers how to write Aberdeen Profiles (objective third-party supplier assessments), how to conduct a RAMP (Rapid Accurate Market Positioning) engagement, and how to communicate research results to clients and media. Documents the anatomy of Aberdeen's core deliverables: Profile, RAMP, Impact, Viewpoint, Executive Briefing Paper, and White Paper. Provides interview techniques, writing standards, and client management guidelines. Represents Aberdeen's core methodology documentation circa 2000.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.71
 prescience_obs_count: 14
 ---
 
 # Intel's Fall Developer Forum (IDF): Megahertz is Dead, Long Live Dual-Core (Revised)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Insight 64 analyst report by Nathan Brookwood on Intel Fall 2004 IDF. Paul Otellini officially closed two decades of MHz-driven CPU scaling and announced the shift to multi-core parallelism. Analyzes the NetBurst power/performance trend, Pentium M Dothan (2GHz/21W, 140M transistors) versus Prescott (3.2GHz/82W, 125M) as exemplars of architecture over brute-force frequency, and the competitive bus-bandwidth disadvantage (3.2GB/s versus AMD's 13.2GB/s) if Intel used an inelegant dual-core design. Preserved in the Kastner archive as external reference material.
 

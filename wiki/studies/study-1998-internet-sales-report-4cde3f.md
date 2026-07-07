@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.89
 prescience_obs_count: 18
 ---
 
 # Internet Sales: Virtual Corporations, Real Profit
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.10 over 20 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.89 over 19 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 170-page report by Chris Stevens advises managers and executives on opening an Internet sales channel, covering market potential assessment, commerce application platform selection, and emerging online marketing strategies. The study reviews the state of Internet business in 1997, covers mainstream consumer adoption patterns, digital payment systems, and Commerce Application Platforms (CAPs), and identifies key technology trends including bandwidth constraints and security imperatives. It specifically excludes EDI and private financial networks, positioning itself as a companion to Aberdeen's supply-side electronic commerce report.
 

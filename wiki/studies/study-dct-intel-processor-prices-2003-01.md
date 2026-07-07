@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.86
 prescience_obs_count: 14
 ---
 
 # Analysis of Intel Processor Prices in PC Deals (January 2003)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.53 over 17 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.53 over 17 usable obs (2 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Analysis of Intel Celeron and Pentium 4 processor price tiers observed in Aberdeen's PC Deals tracking from August 2002 through January 2003. Documents the bifurcation of P4 into 400 MHz and 533 MHz front-side-bus families, the introduction of hyperthreading 3.06 GHz P4, and the mechanics of older CPUs being pushed down price bands by new releases. Predicts near-term obsolescence of the P4 2.0 GHz.
 

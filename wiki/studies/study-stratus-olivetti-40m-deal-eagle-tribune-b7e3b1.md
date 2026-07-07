@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 3.0
 prescience_mean: 0.5
 prescience_obs_count: 6
 ---
 
 # Lawrence Eagle-Tribune: Stratus Expands in Europe with $40 Million Olivetti OEM Deal — Earliest Public Pete Kastner Stratus Quote (March 1982)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.00 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.12 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > March 1982 Lawrence Eagle-Tribune business feature by staff writer Robert Schneider on Stratus Computer Inc.'s newly announced three-year, $40 million export OEM contract with Ing. C. Olivetti & Co. of Italy, granting Olivetti rights to market the Stratus/32 Continuous Processing System in France, Italy, Spain, South Africa, South America, the United Kingdom, West Germany and Benelux. Pete Kastner — designated 'Stratus communications director' (one of his very earliest public titles, predating his 'manager of marketing development' role) — is the lead spokesman, quoted on the contract structure (Olivetti must meet $46M minimum to retain rights; Stratus retains 90-days notice option to open international offices), shipment timing (begins April 1982), 1982 sales target (30 systems at $150K-$300K each), and early customers (West Lynn Creamery and Thom McAn). The article also documents Stratus's $6.7M VC founding round (Bank of America, Institutional Venture Partners, General Electric, Olivetti, and others) and characterizes the Stratus/32 as a 32-bit super mini with $172,000 starting price including COBOL and VOS licenses. John Morgridge (later Cisco Systems CEO) is named as Stratus VP of marketing. This is one of the EARLIEST public Pete Kastner quotes in the entire Aberdeen archive, predating his Aberdeen Group co-founding by ~6 years and documenting a job-title rung ('communications director') before his more familiar 'manager of marketing development' / 'manager of marketing support' Stratus titles.
 

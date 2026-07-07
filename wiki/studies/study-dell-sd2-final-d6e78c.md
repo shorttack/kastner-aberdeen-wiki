@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 2.0
 prescience_mean: 0.2
 prescience_obs_count: 10
 ---
 
 # Asset Recovery Services Field Guide: A New Way to Strengthen Relationships and Increase Sales
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=2.93 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.67 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Dell internal confidential field guide for sales representatives selling Asset Recovery Services (ARS). Covers mission overview (80% of customers store unwanted hardware), two disposition services (Value Recovery at $59-$69/unit and Recycling at $49-$59/unit), flexible logistics options, detailed reporting requirements, FAQ with researched objection responses, and SKU/legend code chart for order entry. Positions ARS as a customer relationship tool that also generates revenue and margin credit for sales.
 

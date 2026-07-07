@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.16
 prescience_obs_count: 25
 ---
 
 # Managing Customers with Next-Generation Software Applications: 1997 Edition
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.97 over 33 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.91 over 33 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's third annual market research report on Customer Interaction Software (CIS) — a class of front-line applications covering customer service, customer support, sales force automation, telemarketing/telesales, sales configuration, internal help desk, and quality assurance. Published in late 1997 at $895 per copy and 246 pages, the report profiles over 60 CIS software suppliers, seven systems integrators, and three systems suppliers. Key themes include: the transition to Web-based CIS architectures, diverging paths of customer support vs. customer service vs. help desk, CIS-to-ERP integration trends, and computer-telephony integration (CTI). The report names Siebel Systems, Clarify, Vantive, Remedy, Scopus, and over 50 other vendors as major market participants, and forecasts substantial market growth through the late 1990s.
 

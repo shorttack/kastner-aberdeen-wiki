@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.25
 prescience_obs_count: 16
 ---
 
 # NCR: Finally a Fail-Safe Choice For Enterprise NT
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.35 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.20 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates NCR's Windows NT Server products for mission-critical OLTP applications based on user interviews with early adopters. The study finds that NCR's LifeKeeper, TOP END, and WorldMark servers address NT's enterprise weaknesses in reliability, scalability, and manageability. Aberdeen concludes that NCR has delivered on its 1994 promise and is a 'fail-safe choice' for NT-based OLTP deployment in retail, finance, telecom, and transportation industries.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.6
 prescience_obs_count: 5
 ---
 
 # Mac or PC? Windows Security Issues Help Some Users Choose
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > USA Today columnist Kevin Maney examines whether Windows security woes will drive a switch to Mac. Symantec found 5,000 new Windows viruses in H1 2004; Apple's Mac OS X has had no major virus. Industry analysts including Peter Kastner of Vericours doubt this shifts business buying because switching costs are 'huge and potentially career-threatening for most CIOs.' Individuals, however, may consider Macs.
 

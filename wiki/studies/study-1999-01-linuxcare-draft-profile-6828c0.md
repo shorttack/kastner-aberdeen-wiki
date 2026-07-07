@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.33
 prescience_obs_count: 12
 ---
 
 # Linuxcare, Inc.: Enterprise Service and Support for All Things Linux (Draft Profile)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.45 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.30 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Linuxcare, Inc., a San Francisco-based firm providing enterprise Linux services, support, training, and certification. Founded in 1998, Linuxcare attracted KPCB as its first Linux-related investor and signed OEM contracts with Dell, IBM, and Sun for back-end Linux support across server and desktop product lines. Aberdeen concludes that Linux adoption is accelerating and that Linuxcare has proven its viability as the emerging Linux specialist services firm; several sections are marked as incomplete pending customer interviews. This is a DRAFT profile circulated before finalization.
 

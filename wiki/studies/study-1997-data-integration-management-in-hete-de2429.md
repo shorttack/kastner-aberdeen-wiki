@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.65
 prescience_obs_count: 17
 ---
 
 # Data Integration Management in Heterogeneous Computing Environments
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.68 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.82 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profile of Evolutionary Technologies International (ETI) and its ETI•EXTRACT Tool Suite — a comprehensive data integration management toolset for data warehousing, client/server migration, Year 2000 conversion, heterogeneous-platform integration, SAP/ERP implementation, and data migration. ETI had $25.5M FY1997 revenue with 50-100% annual growth; Fortune 1000 clients including Procter & Gamble, Hallmark, PHH, Neodata Services. IBM reseller/joint development agreement in place. Aberdeen recommends the tool for large-scale data transformation and migration projects.
 

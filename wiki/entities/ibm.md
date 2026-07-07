@@ -1,5 +1,5 @@
 ---
-title: "Pennsylvania Department of Labor and Industry"
+title: "IBM (International Business Machines)"
 slug: "ibm"
 page_type: "entity"
 tags: ["type/entity", "entity-type/information-technology"]
@@ -17,7 +17,7 @@ prescience_mean: 1.93
 prescience_obs_count: 501
 ---
 
-# Pennsylvania Department of Labor and Industry
+# IBM (International Business Machines)
 
 > Primary competitive target; Mercury acquisition takes HP 'a giant step closer to competing on a level playing field with IBM'; IBM's positive growth/financial performance in SOA area cited; IBM Tivoli is ESM competitor; IBM Rational in governance; IBM System z mainframe relevant to large enterprises. | Source: IBM (International Business Machines) remains a major publicly traded technology company (NYSE: IBM).
 

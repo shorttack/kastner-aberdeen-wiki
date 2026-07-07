@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.4
 prescience_obs_count: 10
 ---
 
 # Object Databases Such As O2 ODMG: Time To Take A Second Look
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.08 over 12 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.92 over 12 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Argues that IS buyers should reconsider object databases and OODBMSs given advancing scalability and Internet-driven demand for complex data. Uses O2 Technology's O2 ODMG Database System as a leading example. Identifies advantages for complex-data support in data marts, multimedia Internet applications, and rapidly-changing application environments. Recommends factoring object databases into a wider range of buying decisions beyond traditional CAD/CAM niches.
 

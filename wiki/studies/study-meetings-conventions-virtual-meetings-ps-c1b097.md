@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 5
 ---
 
 # Meetings & Conventions Magazine — 'Planners Turn to Tech: Virtual meetings post-Sept 11' (PSK Aberdeen CRO quoted, November 2001)
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.00 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.83 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > M&C reports a 49% week-of-attack increase in PlaceWare usage (Barry James Folsom, president); Folsom forecasts 30-35% more business attributable to 9/11 effects. WebEx (Praful Shah, VP strategic marketing) reports a similar jump; safety as the driver. PSK: implementation of virtual meetings and conferences AT ABERDEEN itself increased 25% in the week after Sept 11. Bari Pollack (Expocentric VP client services) says virtual events serve as interim measure when shows are postponed. Billy Pidgeon (Jupiter Media Metrix) hedges that the increase 'probably will continue' but other analysts caution against overestimating sustainability.
 

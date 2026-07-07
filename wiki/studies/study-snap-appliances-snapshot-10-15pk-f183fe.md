@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 14
 ---
 
 # Aberdeen Vendor SnapShot: Snap Appliance Inc.
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.65 over 20 usable obs (1 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.15 over 20 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen vendor snapshot profile of Snap Appliance Inc. (formerly Meridian Data, then Quantum subsidiary), the number-one volume NAS provider with 130,000+ unit installed base. Covers product line from workgroup (Snap Server 1100/2200) through departmental (4100/4200/4500) and enterprise (SnapServer 14000) tiers, software partnerships, and ATA-based midline storage positioning.
 

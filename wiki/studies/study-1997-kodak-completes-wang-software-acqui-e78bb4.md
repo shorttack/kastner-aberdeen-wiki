@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.6
 prescience_obs_count: 15
 ---
 
 # Kodak Completes Wang Software Acquisition
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.23 over 22 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.86 over 22 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analyzes Kodak's $260M acquisition of Wang Software to form Eastman Software Inc. The study examines synergies in workflow imaging COLD document management and HSM technology and forecasts dominant market position for the combined entity in document-intensive business solutions.
 

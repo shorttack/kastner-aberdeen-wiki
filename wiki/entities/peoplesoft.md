@@ -1,5 +1,5 @@
 ---
-title: "MKS Inc. (Mortice Kern Systems)"
+title: "PeopleSoft Incorporated"
 slug: "peoplesoft"
 page_type: "entity"
 tags: ["type/entity", "entity-type/corporation"]
@@ -17,7 +17,7 @@ prescience_mean: 1.79
 prescience_obs_count: 28
 ---
 
-# MKS Inc. (Mortice Kern Systems)
+# PeopleSoft Incorporated
 
 > Mentioned as ETL adapter target for EAI tools | Source: Oracle completed hostile acquisition of PeopleSoft for $10.3 billion in December 2004. https://www.oracle.com/corporate/pressrelease/oracle-buys-peoplesoft-121304.html
 

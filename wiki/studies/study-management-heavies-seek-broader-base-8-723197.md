@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 3
 ---
 
 # Management heavies seek broader base [CA Unicenter TNG / Tivoli enterprise management]
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.40 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.40 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Network World coverage of Computer Associates' and Tivoli's move to offer simpler Enterprise Edition and Workgroup Edition variants of their heavyweight systems-management platforms (CA Unicenter TNG and Tivoli Management Environment). Peter Kastner, chief research officer at Aberdeen Group, frames the CA/Tivoli initiative as an attempt to address long-standing criticisms of ease-of-use and ease-of-installation. Article positions the new variants as less costly, more approachable entrees to enterprise management.
 

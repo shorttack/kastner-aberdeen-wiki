@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.5
 prescience_obs_count: 8
 ---
 
 # Sirius – The Case For Web Enablement By Mainframe Upgrade
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.73 over 11 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.82 over 11 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group argues that the advent of the Internet paradoxically strengthened the mainframe case: rather than forcing migration or rewrite of business-critical applications, enterprises could web-enable in place using tools like Sirius Software's Janus Web Server. Migration and rewriting were found to be riskier and less scalable than expected, while in-place web enablement offered a cost-effective path. The report recommends senior IS managers reconsider mainframe migration in favor of targeted upgrade strategies.
 

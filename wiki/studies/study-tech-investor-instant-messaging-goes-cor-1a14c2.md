@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.4
 prescience_obs_count: 5
 ---
 
 # Tech Investor: Instant Messaging goes corporate
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.17 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.50 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > CNN/Money Tech Investor column (Nov 8 2002) by Eric Hellweg on the corporate instant-messaging market opportunity. AOL launched Enterprise AIM Services this week; Yahoo! and Microsoft pushing competing corporate IM offerings. Peter Kastner, chief research officer for Aberdeen Research, frames the strategic prize as integration rather than IM itself: 'into the existing corporate communications infrastructure, which includes calendar and e-mail and will eventually include WebEx services.' Michael Gartenberg (Jupiter Research) warns that while AOL/Yahoo/Microsoft consumer-IM dominance is 'some validation for WebEx,' it should also be 'a cause for concern' if the big three decide to subsume the web-conferencing market.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.65
 prescience_obs_count: 23
 ---
 
 # Customer Interaction Software: 1998 Practice Summary
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.66 over 29 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.86 over 29 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary covering the Customer Interaction Software (CIS) market, encompassing sales force automation, customer support, help desk, field service management, and marketing automation. The report surveys over fifty CIS vendors, analyzes market growth from $1.7B in 1997 to a projected $6.7B by 2001, and assesses the architectural transition from client-server to Web-based CIS deployments. Key themes include market consolidation around $100M+ suppliers, the threat of pure Internet-based entrants, and integration of CIS with ERP and e-commerce platforms.
 

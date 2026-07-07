@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
 prescience_obs_count: 3
 ---
 
 # Just A Thought: A Matter of Style
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.33 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.00 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Mac Observer 'Just A Thought' column by Vern Seward (Apr 16 2004) arguing that Apple's decades-long emphasis on design and style has finally prompted PC makers to rethink bulky tower form factors for the living room. The column embeds a Reuters 'Small Is Huge in PCs These Days' article with Peter Kastner's prescient observation: 'The next form factor battles are beginning to be fought in the living room.' Seward is skeptical — he believes people won't want a PC in the living room competing with the TV, though he grants that content-creation-capable home PCs do have a role. The column is a snapshot of the 2004 moment when PC OEMs (HP, Sony, Dell) began investing in living-room-friendly designs (Media Center PCs, iPod-mini style envy).
 

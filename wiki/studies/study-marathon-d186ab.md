@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.86
 prescience_obs_count: 22
 ---
 
 # How I'd Succeed as a Marathon Sales Exec
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.76 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.96 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > A 14-slide sales strategy presentation delivered by Aberdeen Group Chief Research Officer Peter S. Kastner to Marathon Technologies in April 1998. The deck argues that the NT high-availability market is ripe for Marathon's Endurance product, that named competitors (Stratus, Tandem/Compaq, Microsoft Cluster Server) are weak or misaligned, and that the real obstacle is customer inertia. It prescribes a go-to-market plan based on FUD around downtime costs, alliance-building with Microsoft field sales and Big Six systems integrators, and vertical market focus across retail, healthcare, public safety, utilities, financial services, and ISPs.
 

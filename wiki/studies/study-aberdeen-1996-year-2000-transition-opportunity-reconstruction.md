@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
 prescience_obs_count: 13
 ---
 
 # Year 2000 Transition: An Opportunity for the Creative Destruction of Today's Information Systems
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.86 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.91 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group argues that the Year 2000 computing problem presents enterprises with a strategic opportunity to replace outdated legacy applications rather than merely patching them—a process it terms 'creative destruction.' The study provides a six-category framework for classifying applications by Y2K risk and business criticality, recommends application replacement over conversion where possible, and sets out a critical timeline requiring acquisition decisions by September 1997 and production cutover by December 1998.
 

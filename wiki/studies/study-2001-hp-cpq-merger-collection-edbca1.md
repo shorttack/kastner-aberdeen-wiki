@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.76
 prescience_obs_count: 25
 ---
 
 # HP's Acquisition of Compaq: Beyond the Naysayers, the Promise and the Opportunity
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.60 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.76 over 29 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group collection of seven InSight pieces examines the HP-Compaq acquisition from multiple perspectives: corporate strategy, PC business integration, Windows/Wintel strategy, Unix platform consolidation, Linux opportunities, storage strategy, and IT services mix. Peter Kastner, Aberdeen's Chief Research Officer, identifies significant upside potential for synergy while warning that execution excellence and message clarity must surpass pre-merger levels. The collection argues the combination could create an industry powerhouse if HP prioritizes customer outreach and sales force retraining.
 

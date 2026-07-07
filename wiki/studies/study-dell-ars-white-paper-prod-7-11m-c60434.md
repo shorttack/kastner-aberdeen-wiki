@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.56
 prescience_obs_count: 16
 ---
 
 # Dell Asset Recovery Services: a Trustworthy Partner for Eliminating Aging IT Assets
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.38 over 21 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.43 over 21 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group white paper commissioned by Dell examining the financial and legal risks of decommissioned IT equipment. Analyzes the seven steps of an IT asset end-of-life process with itemized cost breakdowns, argues that PC residual value declines 9.6% per month, estimates DIY disposal at $387+ per unit vs. Dell ARS at $49-$79 per unit, and recommends that enterprises disposing of 3,000+ PCs annually adopt a trusted asset recovery partner. Concludes that disposal costs exceed 25% of initial PC acquisition cost and are rising.
 

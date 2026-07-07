@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.06
 prescience_obs_count: 16
 ---
 
 # IBM Network Computing: Enterprise Communications Family
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.50 over 16 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.19 over 16 usable obs (0 prefiltered, 2 pending) -> medium; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates IBM's Enterprise Communications Family, a suite of communications software for enterprise network computing. The study assesses IBM's advanced multiprotocol support (AnyNet/MPTN) and High Performance Routing (HPR) technologies, covering products including Communications Server (CS/2, CS/NT, CS/AIX, OS/400, CS/MVS) and Personal Communications. Aberdeen concludes that IBM's approach delivers scalability, flexibility, and ease of SNA-to-TCP/IP migration for enterprises transitioning to network computing architectures.
 

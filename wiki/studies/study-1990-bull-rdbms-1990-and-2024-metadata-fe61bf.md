@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.65
 prescience_obs_count: 17
 ---
 
 # Ingres/Sybase Customer Satisfaction Survey for Bull Corporate Strategy & Marketing
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.26 over 19 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=2.84 over 19 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This March 1990 Aberdeen Group report surveys ten leading-edge users of Ingres and Sybase relational database management systems on behalf of Bull Corporate Strategy & Marketing. The survey reveals that Ingres users are substantially more satisfied than Sybase users, with no Ingres users reporting reliability problems versus universal Sybase reliability issues. Aberdeen recommends Bull select Ingres version 6.3 as its RDBMS partner due to reliability and stability advantages, and advises establishing an Application Implementation Business Center to differentiate Bull from competitors in the emerging client-server era.
 

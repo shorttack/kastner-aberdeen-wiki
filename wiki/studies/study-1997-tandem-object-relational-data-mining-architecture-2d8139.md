@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.59
 prescience_obs_count: 17
 ---
 
 # Tandem Object Relational Data Mining Architecture: Making The Data Mining Promise A Reality
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.67 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.81 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Tandem Computers' Object Relational Data Mining architecture, which integrates data mining algorithms directly into the RDBMS to eliminate the need for separate flat-file extracts. The study evaluates Tandem's partnerships with five data mining vendors (Angoss, Data Distilleries, Magnify, NeoVista, Syllogic) and its Directional Consulting services, concluding that the architecture offers an enterprise-grade end-to-end solution particularly suited to large datasets in finance, retail, insurance, and telecommunications. Aberdeen assesses the initiative as potentially establishing a de facto standard SQL interface between data mining tools and relational databases.
 

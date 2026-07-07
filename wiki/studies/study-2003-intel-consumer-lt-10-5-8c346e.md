@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 21
 ---
 
 # LaGrande Technology: A Proposal for Consumer Market Research
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.57 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.92 over 25 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > A proposal from Aberdeen Group EVP Peter S. Kastner to Intel Corporation arguing that the consumer market for Intel's LaGrande Technology (LT) represents a significant untapped opportunity exceeding $150M in annual revenue. The proposal outlines a three-phase multinational research methodology spanning qualitative focus groups, tracking surveys, and localized quantitative surveys across 5-10 countries. Aberdeen contends that Intel's plan to focus LT exclusively on business markets overlooks consumer demand driven by identity theft fears, virus scares, online trust concerns, and intra-family privacy needs. The proposal estimates 10M+ consumer units by 2006 at $100 retail uplift per unit.
 

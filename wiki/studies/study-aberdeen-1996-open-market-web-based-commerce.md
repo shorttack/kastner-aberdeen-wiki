@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.29
 prescience_obs_count: 21
 ---
 
 # Open Market: Delivering the Infrastructure For Truly Open Web-based Commerce
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.41 over 27 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.22 over 27 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Open Market, Inc. (Cambridge, MA), a pioneer in enterprise-grade web commerce infrastructure. The study examines Open Market's product suite—OM-Transact, OM-Axcess, and OM-SecureLink—designed to support many-to-many web-based transactions across multiple content servers and back-office systems. Aberdeen strongly recommends Open Market's platform as the most comprehensive and production-ready solution for enterprises building next-generation electronic commerce infrastructure, and contrasts it favorably against IBM and point-to-point proprietary competitors.
 

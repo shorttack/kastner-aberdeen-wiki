@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.88
 prescience_obs_count: 16
 ---
 
 # Siebel Systems: Customer Interaction Software Vendor Profile
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.16 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.28 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group strategy profile evaluating Siebel Systems as a major and rapidly growing force in the Customer Interaction Software (CIS) market. Covers the N-tiered architecture of Siebel Enterprise Applications, the company's partner-driven deployment model (Andersen Consulting, KPMG, Cambridge Technology Partners, Price Waterhouse), and Microsoft alliance. Aberdeen predicts 1997 will be another successful year for Siebel as CRM market grows.
 

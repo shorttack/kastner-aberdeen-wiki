@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.27
 prescience_obs_count: 11
 ---
 
 # Compaq Tru64 Unix and Oracle9i Clusters Combine to Reduce Costs: Can SAP Resist This Fit?
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.25 over 12 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.00 over 12 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen InSight examines the technology combination of Compaq's TruCluster Server technology with Oracle9i Real Application Clusters, arguing it delivers scalability, availability, manageability, and cost-of-ownership advantages. Oracle and Compaq had announced a joint marketing agreement and Tru64 Unix was selected as the development platform for Oracle9i. The study argues SAP should enthusiastically support Oracle9i and the Compaq/Oracle technology partnership against SAP's competing 'One Database' mySAP.com initiative.
 

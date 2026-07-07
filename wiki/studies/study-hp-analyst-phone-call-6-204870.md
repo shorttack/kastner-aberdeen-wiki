@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.61
 prescience_obs_count: 31
 ---
 
 # HP Pre-Summit Analyst Phone Call — Kastner Feedback
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.53 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.62 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Transcript of a pre-summit analyst phone call in which HP sought Kastner feedback on corporate messaging, Adaptive Enterprise positioning, divisional execution (PSG, IPG, ESG, Services), and consumer/SMB/enterprise capabilities. Kastner delivers harsh ratings: 'low TCO' message not believable; Adaptive Enterprise too IT-facing; HP-Compaq brand confusion in retail; mobility late to market; strong in digital imaging and printing.
 

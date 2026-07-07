@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.17
 prescience_obs_count: 6
 ---
 
 # One Powerhouse Marriage: HP/Compaq Merger Carried Out With Near-Textbook Precision
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.89 over 9 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=3.89 over 9 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Processor Magazine editorial (2003-12-12) by Warren S. Hersch assessing the HP/Compaq merger 18 months after close. Merger critics (Walter Hewlett, Martin Wolf) are contrasted with more favorable post-hoc assessments from Peter Kastner (chief research officer, Aberdeen Group), Paul McGuckin (Gartner VP), and HP CEO Carly Fiorina. Kastner praises HP's execution speed and strategic discretion, notes rampant server-market deflation as an industry-wide challenge, and argues that IBM — with its larger channel — is HP's most serious SMB-market threat rather than Dell.
 

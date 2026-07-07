@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 15
 ---
 
 # HP's Networking Vision: Designed with Workgroups in Mind
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.36 over 22 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.18 over 22 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group examines HP's Workgroup Networks Division strategy for small and mid-sized businesses (SMBs), finding that HP's premise — workgroups grow up into enterprise networks — accurately maps to the bottom-up, haphazard LAN growth patterns observed in target verticals (education, healthcare, government, manufacturing). The study validates HP's workgroup-centric networking vision and endorses its standards-based approach.
 

@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
-prescience_3y_enum: "medium"
-prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.36
 prescience_obs_count: 22
 ---
 
 # Application Lifecycle Management: Used by the Best of the Best in Class
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** medium — 3y Rule A: mean=3.16 over 31 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.29 over 31 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Perspective finding that IT organizations actively engaged in application lifecycle management (ALM) for SOA outperform even Best in Class organizations on cost reduction. Key quantitative findings: ALM-focused organizations (12% of survey) decreased SOA development costs over last 12 months at 68% rate vs. 46% for Best in Class and 25% for all respondents. Investment in ALM: $2.68M average with $3.45M payback (+29% ROI) vs. all respondents: $1.37M investment with $1.18M payback (-14% ROI). 48% of ALM companies have annual revenue >$1B. 57% have had SOA services deployed >1 year. 29% have >100 SOA services deployed vs. 11% overall. Top challenge: establishment of operational security, governance, and management (45%). Top response: revised application lifecycle processes and responsibilities (45%).
 

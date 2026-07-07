@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
-prescience_3y_enum: "high"
-prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.18
 prescience_obs_count: 17
 ---
 
 # Cisco's Core Products Business Integrates Routing and Switching
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=4.36 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** high — 5y Rule A: mean=4.32 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group Company Profile (January 1997) of Cisco Systems, Inc., examining how the undisputed leader in enterprise internetworking has evolved from a router-only vendor to a comprehensive end-to-end networking solutions provider. The report documents Cisco's acquisition strategy including the 1996 StrataCom acquisition, its IOS software as the de facto internetworking standard, and two key new technologies: NetFlow Switching (enhancing router performance with per-flow statistics and QoS) and Tag Switching (combining Layer 2/3 switching submitted to IETF). Aberdeen analyzes Cisco's positioning for ISPs and the emerging Gigabit Switch Router (GSR/12000 Series). The report correctly identifies Cisco's strengths (IOS investment protection, comprehensive product line, channel execution) and key challenge (can Cisco maintain leadership if switching replaces routing?). Aberdeen's answer: yes, through technology assimilation and Tag Switching.
 

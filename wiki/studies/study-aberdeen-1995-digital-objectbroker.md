@@ -17,20 +17,12 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
-prescience_3y_enum: "high"
-prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.75
 prescience_obs_count: 44
 ---
 
 # Digital's ObjectBroker -- Advanced Integration of Distributed Resources
-
-
-## Short-horizon prescience (3-year / 5-year)
-
-- **3-year verdict:** high — 3y Rule A: mean=3.53 over 55 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
-- **5-year verdict:** medium — 5y Rule A: mean=3.25 over 55 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Profile evaluating Digital Equipment Corporation's ObjectBroker, a CORBA-compliant object request broker for integrating distributed heterogeneous resources. Examines ORB technology, legacy system encapsulation, OLE-COM integration, and 19-platform support.
 

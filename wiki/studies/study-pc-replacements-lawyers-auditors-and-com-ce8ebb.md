@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.6
 prescience_obs_count: 5
 ---
 
 # PC replacements: Lawyers, auditors and common sense
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.57 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.14 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > First-person Kastner column published May 13, 2003 on SearchCIO.com. Kastner argues too many businesses have been hanging on to Windows 98 and NT Workstation 4 generation desktops, despite IT manager knowledge that these are past their prime, because CFOs and CEOs hoard cash by endlessly postponing capital asset replacement. Over 50 million aging pre-millennium PCs still in operation worldwide, many Y2k-generation Windows 98 / Windows 3.1 upgrades. Kastner invokes 'fiduciary responsibility' and 'common sense' to frame the CIO's case.
 

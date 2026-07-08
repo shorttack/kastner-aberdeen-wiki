@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.69
 prescience_obs_count: 26
 ---
 
 # e-Learning in the Enterprise
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.77 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.10 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group study by Peter S. Kastner examines the emerging e-Learning market in November 1999, defining e-Learning as a knowledge and information infrastructure leveraging Internet power to provide timely training. The report forecasts that the worldwide e-Learning market will grow from near zero in 1996 to over $10 billion by 2002, that classroom training will reach parity with technology-based training (TBT) by 2002, and that e-Learning will capture approximately one-third of the total training market. Eleven vendor profiles are provided including SmartForce, click2learn.com, Lotus Development, Macromedia, Arthur Andersen Virtual Learning Network, and others.
 

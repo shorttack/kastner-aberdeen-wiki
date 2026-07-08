@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.24
 prescience_obs_count: 21
 ---
 
 # Encore Computer Series 91 & 93: Proposed 1991-1993 Market Strategy for Financial and Information Services Industries
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.29 over 35 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.94 over 35 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group advises Encore Computer Corporation on how to market its Series 91 and 93 parallel computing systems to financial services and information services organizations by positioning the architecture as 'Adaptive Computing.' The report sizes the worldwide financial and information services midrange/mainframe market at $11.3 billion (1990) with 19% projected annual growth, recommends a direct-sales rifle-shot strategy targeting niche segments, and provides a detailed competitive analysis against IBM S/390, Tandem, DEC VAXcluster, Teradata, and Sequent. The study makes bold predictions about Encore's potential to displace mainframe incumbents with superior price/performance clustering technology.
 

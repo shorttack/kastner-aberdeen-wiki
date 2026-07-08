@@ -11,7 +11,7 @@ vendor: "multiple"
 era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
-occurrence_count: 1
+occurrence_count: 3
 prescience_max: 3.0
 prescience_mean: 2.5
 prescience_obs_count: 2
@@ -20,6 +20,8 @@ prescience_obs_count: 2
 # Relational OLAP (ROLAP)
 
 > Combines SQL query flexibility with scalable parallel RDBMS; $60K-$300K; requires dimensional modeling expertise; star schema design
+---
+[merged from tech-01] Central focus of study; combines RDBMS with multidimensional query capability; multi-tier architecture
 
 
 ## Top observations

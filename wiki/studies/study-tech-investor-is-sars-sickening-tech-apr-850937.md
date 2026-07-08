@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 6
 ---
 
 # Tech Investor: Is SARS sickening tech?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.88 over 8 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.43 over 7 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > CNN/Money Tech Investor column (Apr 10 2003) by Eric Hellweg on SARS impact on the tech industry. Early-outbreak fears: Intel canceled developer conferences in Beijing and Taipei; Sun postponed Shanghai conference; Motorola briefly closed a Singapore factory; Microchip Technology blamed SARS for a Q1 earnings warning; First Albany analyst Auguste Richard cut 2003 semiconductor revenue growth forecast from 8% to zero. Peter Kastner — coauthor of an Aberdeen Group SARS report and Aberdeen's chief research officer — had already tempered his own initial dire predictions by the column date. Kastner: 'Goods are moving freely, and we haven't seen changes in commodity spot prices, which might indicate a decrease in supply.' Key prescient Kastner China-supply-chain warning: 'Tech companies, which heretofore had rushed to outsource to China because of the quality and low cost, are now rethinking whether they can put all their high-tech eggs in the China basket... This isn't the first time China has stiff-armed the world on a major global health issue.'
 

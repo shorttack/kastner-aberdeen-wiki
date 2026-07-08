@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.95
 prescience_obs_count: 22
 ---
 
 # DynaSoft's BoKS Family: A Pragmatic Choice for Single Sign-On
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.52 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.64 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profile of DynaSoft AB (Stockholm, Sweden) and its BoKS product family, evaluating it as a pragmatic Single Sign-On (SSO) solution for enterprises. The report covers DynaSoft's SSO/SSSO product architecture (BoKS Desktop, BoKS Connect, BoKS Manager, ToolBoKS), its authentication framework using RSA cryptography and X.509 certificates, strategic partnerships with Hewlett-Packard and Sun Microsystems, and user testimonials from major enterprises including BankBoston, BP Oil, Citibank, Chase Manhattan Bank, Merrill Lynch, and Telstra. Aberdeen concludes BoKS delivers reliable, pragmatic SSO that users consistently recommend.
 

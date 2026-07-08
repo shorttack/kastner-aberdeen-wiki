@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.89
 prescience_obs_count: 19
 ---
 
 # Aberdeen Group Disk Storage Usage Questionnaire (v1)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.89 over 27 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.33 over 27 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > First version of the Aberdeen Group telephone survey questionnaire developed for the Maxtor RAMP project measuring enterprise disk storage usage patterns and receptivity to a midline ATA storage tier. The 28-question instrument covers total disk capacity, utilization, architecture breakdown (internal DAS / external DAS / SAN / NAS), OS platform distribution, redundancy schemes (RAID / mirroring / snapshot / remote copy / tape), cold data identification, technology willingness assessment, backup window issues, and terminology awareness. A demographic section captures company scope, job titles, revenues, IT budget, CIO reporting structure, and industry vertical. This v1 instrument was subsequently refined into Maxtor Survey v2.
 

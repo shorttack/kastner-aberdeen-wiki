@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 1.15
 prescience_obs_count: 13
 ---
 
 # Aberdeen Group Market Analysis and Positioning Services — Corporate Collateral Combined (December 2000)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.25 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.60 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > A multi-section corporate collateral document (December 2000, 8 pages) providing detailed written descriptions of all Aberdeen Group services including the Advisory Access Service (AAS), RAMP (Rapid Accurate Market Positioning), Marketing Workshops, and the full suite of publication types. The most detailed text-based description of Aberdeen's service model; covers client value propositions, delivery formats, and technology coverage areas organized by emerging market segments.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 8
 ---
 
 # Aberdeen Group Litigation Support Experience Summary (c.1998)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.47 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.47 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > A circa-1998 summary of Aberdeen Group's litigation support experience, focusing on Peter S. Kastner's expert involvement in four legal cases: Computer Consoles vs. GTE Government Systems (RISC-Unix performance), GTE Products v. American Software (AS/400/SNA breach of contract), Unisys vs. Florida HRS (distributed IBM mainframe design), and Crossroads Software vs. Open Systems Advisors (trademark infringement). Includes case outcomes where known.
 

@@ -3,7 +3,7 @@ title: "Sun Microsystems"
 slug: "cognos-corp"
 page_type: "entity"
 tags: ["type/entity", "entity-type/software-vendor"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "cognos-corp"
 entity_type: "software-vendor"
@@ -20,11 +20,6 @@ prescience_obs_count: 2
 # Sun Microsystems
 
 > status_detail=Acquired by IBM in January 2008 for approximately $5 billion; now operates as IBM Cognos.; hq_location=Ottawa, Ontario, Canada; description=Business intelligence vendor offering Impromptu query and reporting tool and Powerplay multidimensional database.; status_source_url=https://www.ibm.com/investor/att/pdf/ircorner/08-04-03-1.pdf
-
-
-## Summary
-
-
 
 
 ## Top observations

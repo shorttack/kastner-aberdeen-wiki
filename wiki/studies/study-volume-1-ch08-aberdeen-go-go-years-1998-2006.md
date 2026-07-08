@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.93
 prescience_obs_count: 87
 ---
 
 # Chapter 8: The Go-Go Years — Aberdeen at Scale (1998–2006)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.72 over 122 usable obs (0 prefiltered, 4 pending) -> high; 4 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.88 over 122 usable obs (0 prefiltered, 4 pending) -> high; 4 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Peter S. Kastner chronicles Aberdeen Group's transformation from a boutique partnership into a venture-backed research firm employing up to 150 analysts during the internet boom, and its subsequent collapse and recovery following the dot-com crash. The chapter details audited revenue and profit figures from 1997 to 2006, the firm's methodological evolution (benchmark research, TCO models, best-practices frameworks), key analytical predictions (SOA, open-source enterprise adoption, consumerization of IT), the CEO transition to Jamie Bedard, and the October 2006 acquisition by Harte-Hanks for $42 million just before the financial crisis.
 

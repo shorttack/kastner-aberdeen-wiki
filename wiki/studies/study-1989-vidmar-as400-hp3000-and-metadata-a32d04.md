@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 9
 ---
 
 # IBM AS/400 vs. HP 3000 Marketplace Analysis for Stanley-Vidmar
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.61 over 18 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.72 over 18 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This 1989 Aberdeen Group consulting report advises Stanley-Vidmar on the choice between upgrading to an HP Precision Architecture (HPPA) system versus converting to an IBM AS/400. Drawing on normalized DebitCredit benchmark data and analysis of Stanley-Vidmar's current HP 3000 Models 48 and 70, Aberdeen demonstrates that the AS/400 cannot provide adequate throughput growth while HPPA offers 2.5x capacity improvement with lower risk and conversion cost. The report recommends the HP 3000 Model 950 as the minimum entry point, upgradable to the 955 and 960.
 

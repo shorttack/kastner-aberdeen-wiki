@@ -3,7 +3,7 @@ title: "Object-Relational DBMS (ORDBMS)"
 slug: "ordbms"
 page_type: "technology"
 tags: ["type/technology", "category/application", "era/1994-present"]
-tier: 2
+tier: 1
 source_csv: "_master_technologies.csv"
 tech_id: "ordbms"
 category: "application"
@@ -20,6 +20,11 @@ prescience_obs_count: 3
 # Object-Relational DBMS (ORDBMS)
 
 > Also called Universal Servers; adds object/complex data type support to relational engine; Oracle8 launch 1997 drove ORDBMS to >50% of new DBMS revenue; 1998 is first year ORDBMS revenues outpace pure RDBMS
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 4
 ---
 
 # Speaking Event Overview: Who Cares If the Computer Breaks? - Testa Hurwitz & Thibeault (September 1995)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.11 over 9 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.56 over 9 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > A September 12, 1995 letter from Peter Kastner to Donald Anglehart of Testa, Hurwitz & Thibeault law firm, enclosing a draft overview for a speaking event titled 'Who Cares If the Computer Breaks?' scheduled for October 18, 1995. The overview describes growing computer dependency, the high-availability and fault-tolerant systems industry, and the market opportunity created by distributed computing's reliability challenges across markets from home/SMB to large enterprises.
 

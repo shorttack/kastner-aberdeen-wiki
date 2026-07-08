@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.0
 prescience_obs_count: 23
 ---
 
 # Informix Software Overview
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.50 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.17 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group overview of Informix Software for sales training. Covers company profile (Top-10 ISV, fastest-growing RDBMS company), full product portfolio (SE, OnLine, Dynamic Server, XPS, specialized variants), parallel DSA technology architecture, database middleware (replication, connectivity), tools revenue ($150M of $470M in 1994, 500K+ licenses), application development tools (NewEra, 4GL, SQL Suite, CLI/ESQL), end-user access, and services. 38-slide deck used in Informix sales training.
 

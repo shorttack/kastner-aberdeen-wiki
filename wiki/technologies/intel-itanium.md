@@ -3,7 +3,7 @@ title: "Intel Itanium 2 Processor / Itanium Architecture"
 slug: "intel-itanium"
 page_type: "technology"
 tags: ["type/technology", "category/platform", "era/2001-2020"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "intel-itanium"
 category: "platform"
@@ -20,11 +20,6 @@ prescience_obs_count: 7
 # Intel Itanium 2 Processor / Itanium Architecture
 
 > HP/Intel joint 64-bit VLIW architecture; limited adoption confined to HP-UX/NonStop; killed by AMD64; last shipment 2021
-
-
-## Summary
-
-
 
 
 ## Top observations

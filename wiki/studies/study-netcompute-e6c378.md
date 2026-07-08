@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.07
 prescience_obs_count: 14
 ---
 
 # NC Server White Paper -- DRAFT
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.00 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.15 over 20 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This draft white paper describes the NC Server from Network Computer, Inc. (NCI), a platform enabling network computing via a three-tier architecture of OS substrate, required system services, and NC applications. The document details NC components including initialization (BOOTP/DHCP), authentication (smart card), file system (NFS), print services, and applications (Oracle-based productivity tools, web server, mail, billing). The NC Server is positioned as a low-cost, centrally managed alternative to desktop PCs.
 

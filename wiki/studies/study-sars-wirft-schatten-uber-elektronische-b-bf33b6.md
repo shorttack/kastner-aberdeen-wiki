@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 4
 ---
 
 # SARS wirft Schatten über elektronische Beschaffungskette
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.67 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.83 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > German-language EE Times Europe article (Apr 8 2003) by Robert Ristelhueber (EBN) on SARS's shadow over the electronic supply chain. Datelined Manhasset. Business travel to Asia has ground to a halt; manufacturing and distribution in China and Southeast Asia face problems. Cites Motorola's temporary Singapore night-shift closure (532 workers affected), HP and Intel employees with SARS/SARS-like symptoms in Hong Kong, Chartered Semiconductor Manufacturing's contingency plans, Flextronics International preventive measures, and quotes from Chuck Magee (EVP Sales/Marketing at America II Electronics, St. Petersburg FL), Steven Fox (Merrill Lynch NY analyst), Raymond Tsang (President Avnet Electronics Marketing Asia HK), Schuyler Glidden (President SG Industries Beverly MA), and Tony Tseng (Merrill Lynch Taipei). Most critically, Peter Kastner, analyst at the Boston-based Aberdeen Group, estimates the SARS impact will be far more far-reaching than companies currently imagine: 'Kurzfristig haben wir es mit einer Unterbrechung des Reiseverkehrs von Führungskräften und Verkaufsmitarbeitern nach und aus Asien zu tun. Sollten die Quarantänemaßnahmen jedoch zunehmen, wird das einen erheblichen Einfluss auf die Weltwirtschaft haben. Dann wird nichts mehr hergestellt — weder Kondensatoren noch Weihnachtsgeschenke.' Kastner further advises every executive to think through the 'unimaginable,' giving the example of laptop manufacturers asking: where do our power supplies come from? Everyone buys them from China. What happens if I cannot move goods by ship or air out of the country?
 

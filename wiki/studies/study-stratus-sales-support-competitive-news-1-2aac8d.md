@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.92
 prescience_obs_count: 12
 ---
 
 # Stratus Sales Support Competitive News, Vol 6 No 3, May 1987 — Tandem Competitive Update (CLX/LXN, VLX, EXT/TXP price cuts)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.62 over 16 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 16 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Stratus Sales Support Competitive News, Volume 6 Number 3, May 1987. Editor Peter Kastner (Manager, Sales Support Programs, Marlboro x2192) publishes a detailed competitive analysis of Tandem's April 20 and May 4, 1987 announcements: the new low-end CLX and LXN 'network extender' products, smaller VLX configurations (2- and 3-CPU models at $585K entry), and price cuts across the EXT/TXP line. Kastner also notes Tandem's quiet restatement of ET-1 performance numbers under NonStop SQL (2, 4.5, 6.5 tps/CPU for NS-II/EXT10, TXP/EXT25, VLX) with relaxed 2-second 90th-percentile response time. Contributor Raphael Frommer authored the detailed CLX/LXN technical analysis. The newsletter quotes Omri Serlin (Fault Tolerant Systems Newsletter No. 55, March 16 1987). Signature Kastner quote: 'Business has only two basic functions — marketing and innovation.'
 

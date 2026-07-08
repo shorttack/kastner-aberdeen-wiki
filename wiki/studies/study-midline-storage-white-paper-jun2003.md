@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.97
 prescience_obs_count: 29
 ---
 
 # Mid-Line Disk Storage Emerging as Significant Cost-Saving Opportunity
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.73 over 40 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.17 over 40 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > The seminal Aberdeen Group white paper that defined and named the 'midline' storage tier — ATA-based online storage positioned between high-performance FC/SCSI disk arrays and magnetic tape. Based on 75 face-to-face and telephone interviews with storage managers at billion-dollar enterprises, it presented a four-level storage pyramid, documented that 75% of enterprise buyers were moderately or highly likely to purchase midline storage, and predicted that over 50% of enterprise data would eventually migrate to the midline tier. The paper established ILM principles (Ageing, Freezing, Accumulation, Redundancy) as the rationale for a new storage tier.
 

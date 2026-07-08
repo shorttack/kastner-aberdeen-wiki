@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
 prescience_obs_count: 8
 ---
 
 # Aberdeen Picks The Right Tools for Year 2000
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.70 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Technology Viewpoint (Vol. 10/No. 14) provides a brief but pointed overview of the Y2K problem's scale and complexity — 100 billion lines of code to check, 1,000+ person-years to manually inspect a large enterprise — and establishes Aberdeen's criteria for evaluating Y2K remediation tool vendors. Aberdeen emphasizes buyer skepticism toward Y2K solution hype while identifying the core technical and commercial attributes that distinguish credible Y2K tool suppliers.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.09
 prescience_obs_count: 11
 ---
 
 # How the IT Industry Changed Under Intel's Paul Otellini (Kastner Blog Preview)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.30 over 10 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.40 over 10 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Early draft/preview of Kastner's Intel-Otellini analysis, posted on his own blog 'Peter S. Kastner on Technology' on April 17, 2013 (11 days before the Tech.pinions publication). Organizes the 2004-2013 Otellini tenure around three challenges (technology, growth, competition) and 'right-hand turns' — Intel jargon for pivoting without reversing course. Key content overlaps with the published Tech.pinions version (related_study_ids=otellini-intel-techpinions-2013-917213).
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.67
 prescience_obs_count: 12
 ---
 
 # Microsoft HomeStation — Analyst Briefing Notes
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.13 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.27 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Briefing notes on Microsoft's HomeStation concept — a home-server platform bridging traditional PC with home stereo and TV, built on Xbox hardware with Windows XP 2.0 (codename Longwood) replacing Windows 2000, Terminal Server support to drive Mira tablets and remote controls, and nVidia TV-tuner integration. Freestyle is the HomeStation UI (demoed at CES 2002). Frames Microsoft as a $1.5B hardware player via mice, WebTV, and Xbox — and HomeStation as a stealth path to become a major PC vendor.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.25
 prescience_obs_count: 24
 ---
 
 # Software Market Dynamics
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.23 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.47 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This presentation by Peter S. Kastner, Vice President at Aberdeen Group, surveys mid-1990s software market dynamics across five domains: operating systems, database management, client-server application development, client-server application solutions, and enterprise information systems management. Kastner argues that software is evolving faster than typical enterprises can absorb change, and identifies key market transitions and investment opportunities in areas such as RDBMS growth, Windows NT ascendancy, and EISM consolidation.
 

@@ -49,6 +49,39 @@ SELECT decade, high_prescience_studies, studies_scored
 FROM v_prescience_by_decade;
 ```
 
+## Short-horizon prescience (3-year / 5-year) — v1.6
+
+A full-corpus rescore (sonar-pro, 2026-06-29) grades each gradeable observation
+against what was actually true 3 and 5 years after the claim's anchor year.
+This replaces the one-shot ~30-year verdict (largely a gimmick) with
+researchable near-term verdicts. Per-obs scores live in
+`_master_prescience_short_horizon.csv`; study-level enums live in
+`_master_studies.csv` as `prescience_3y_enum` / `prescience_5y_enum`.
+
+Score sentinels: **-1** = prefiltered (too thin to grade), **-2** = window has
+not yet elapsed (claim too recent to verify at that horizon).
+
+### Studies prescient at 3 / 5 years
+```sql
+SELECT study_id, title, prescience_3y_enum, prescience_5y_enum
+FROM v_studies_with_sh_verdicts
+WHERE prescience_3y_enum = 'high' OR prescience_5y_enum = 'high'
+ORDER BY study_id;
+```
+
+### 3-year score distribution (per observation)
+```sql
+SELECT prescience_3y, n FROM v_sh_3y_distribution ORDER BY prescience_3y;
+```
+
+### Observation-level 3y/5y scores joined to the obs
+```sql
+SELECT obs_id, study_id, prescience_3y, prescience_5y
+FROM v_observations_with_sh
+WHERE prescience_3y >= 4 OR prescience_5y >= 4
+ORDER BY prescience_3y DESC, prescience_5y DESC;
+```
+
 ## Naming conventions
 
 - Slugs are lowercase-hyphenated and match CSV `*_id` columns.

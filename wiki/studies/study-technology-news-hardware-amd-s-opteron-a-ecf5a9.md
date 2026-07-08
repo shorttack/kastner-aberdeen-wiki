@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.75
 prescience_obs_count: 4
 ---
 
 # AMD's Opteron at the One-Year Mark
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.12 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.62 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > TechNewsWorld article (Apr 22 2004, Jay Lyman) marking the first anniversary of AMD's Opteron server processor and its 64-bit/32-bit x86 capability. HP, IBM, Sun, and Fujitsu Siemens all shipped Opteron-based servers in the first year. AMD VP Dirk Meyer claims Opteron transformed 64-bit from elite to pervasive; IDC's Vernon Turner credits OEMs with expanded x86 addressable market; AMD's Marty Seyer declares 32-bit-only servers 'obsolete.' Aberdeen chief research officer Peter Kastner offers the decisive Main Street take: 'Customers are saying that Opteron is a damn good chip at a great price, which has allowed HP and IBM to deliver value servers. Coming out of a recession, IT organizations are more value-conscious, and AMD has hit a sweet spot.' Kastner downplays 64-bit as the real driver — high-end 64-bit workloads have more processors than Opteron covers — and predicts Intel will match with its own 64-bit later this year.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.7
 prescience_obs_count: 10
 ---
 
 # Dell and Oracle Boldly Predict the Demise of Big Iron
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.30 over 10 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.60 over 10 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group Perspective covers Dell and Oracle's jointly announced shared vision for tomorrow's enterprise data center, built on standardized technologies and dominated by clusters of small Linux servers rather than large proprietary systems ('big iron'). The study evaluates their prediction that commoditized x86 Linux clusters would displace mainframes and large Unix servers as the enterprise computing standard.
 

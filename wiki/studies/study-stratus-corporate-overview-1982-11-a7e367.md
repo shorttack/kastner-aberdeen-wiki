@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.1
 prescience_obs_count: 10
 ---
 
 # Stratus Computer Corporate Overview, November 1982
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.17 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.25 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Stratus Computer Corporate Overview dated November 1982, prepared at the company's 17-19 Strathmore Road, Natick MA headquarters. Document covers business goals, market targets, marketing strategy, human resources, financial resources, customers, and product overview (Continuous Processing architecture, modular expansion, serviceability, multiprocessor technology, software). States Stratus founded May 1980 to design/manufacture/market supermini-class computers for OLTP applications where high availability is paramount. Names founders William E. Foster (Pres., ex-Data General), Robert A. Freiburghouse (VP Software, ex-Honeywell Multics), Gardner C. Hendrie (VP Hardware, ex-Data General); also John P. Morgridge (VP Marketing), James E.D. Austin (VP Manufacturing), John H. Curtis (VP Finance). Notes March 1982 multi-year agreement with Olivetti for European/South American/African marketing. Sales offices established in Boston, Chicago, Dallas, Houston, Los Angeles, New York/New Jersey, San Francisco, Tampa, Washington DC. Target market: Fortune 1000 OLTP applications. Cites Cowen/Datamation 1982 minicomputer survey ranking hardware reliability as #1 selection factor. Includes forecast of high-availability transaction-processing market growth from $6.4B (1981) to $27B (1986) per Information Corp 9/82. Kastner joined Stratus in 1981 as part of marketing/sales support team — this document is from his employer-era period and reflects the company's self-positioning during that chapter.
 

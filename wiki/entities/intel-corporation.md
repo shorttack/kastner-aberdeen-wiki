@@ -9,7 +9,7 @@ entity_id: "intel-corporation"
 entity_type: "company"
 sector: "computing-industry"
 status: "active"
-successor: "[DEFERRED]"
+successor: ""
 years_active: "1968-present"
 occurrence_count: 27
 prescience_max: 5.0

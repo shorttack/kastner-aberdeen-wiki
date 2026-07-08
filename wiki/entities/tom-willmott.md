@@ -3,7 +3,7 @@ title: "Tom Willmott"
 slug: "tom-willmott"
 page_type: "entity"
 tags: ["type/entity", "entity-type/Analyst"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "tom-willmott"
 entity_type: "Analyst"
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # Tom Willmott
 
 > Aberdeen Group's operational leader through the partnership era and early growth phase; remained in strategic advisory capacity after Bedard transition.
+
+
+## Summary
+
+
 
 
 ## Top observations

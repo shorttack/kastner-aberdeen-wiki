@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.74
 prescience_obs_count: 19
 ---
 
 # The Decision-Maker's Guide to Professional Services Support for ERP Implementations
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.30 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.25 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group report addresses the critical decision of selecting professional services providers for ERP implementations from SAP, Oracle, J.D. Edwards, PeopleSoft, and Baan. The publication profiles 20 ERP services firms and answers key questions about service types, costs, differentiators, and methodologies, while also examining ERP's evolution into supply chain management, its intersection with electronic commerce, and the impact of Microsoft Windows NT. The guide serves as a buyer's reference for IT decision-makers planning mid-to-large enterprise ERP deployments.
 

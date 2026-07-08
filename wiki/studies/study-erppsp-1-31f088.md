@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.39
 prescience_obs_count: 23
 ---
 
 # ERP Professional Services: 1998 Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.40 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.43 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary covering the ERP professional services market, classifying providers into OEMs (Compaq, HP), ISVs (SAP, Oracle, J.D. Edwards, PeopleSoft, Baan), and Independent Professional Services Providers (IPSPs) including Big Six consultancies and specialist firms. The report categorizes ERP services into Planning, Implementation, Project Management, and Lifecycle Support, and profiles 14 suppliers with competitive assessments. Key findings highlight declining implementation costs due to new methodologies, Y2K-driven ERP adoption, and growing merger/acquisition activity among IPSPs.
 

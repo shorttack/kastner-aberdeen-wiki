@@ -9,7 +9,7 @@ entity_id: "yahoo"
 entity_type: "corporation"
 sector: "information-technology"
 status: "acquired"
-successor: "HP Inc. / HPE (2015 split)"
+successor: "Verizon Media (2017) then Apollo Global Management (2021)"
 years_active: "1939-present"
 occurrence_count: 3
 prescience_max: 3.0

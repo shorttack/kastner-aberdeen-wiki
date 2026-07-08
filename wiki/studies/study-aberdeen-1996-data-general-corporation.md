@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.44
 prescience_obs_count: 16
 ---
 
 # Data General Corporation — Aberdeen Group Company Profile
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.35 over 23 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.22 over 23 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Data General Corporation's strategy of delivering integrated open-systems solutions through deep ISV partnerships with SAP, Oracle, and PeopleSoft, anchored by its AViiON UNIX/NT servers and CLARiiON storage subsystems. The study documents DG's revenue mix transformation from proprietary minicomputers to over 90% open-systems revenues, and validates partner and customer satisfaction through primary interviews. Aberdeen concludes DG has found a sustainable balance between responsiveness and global scale.
 

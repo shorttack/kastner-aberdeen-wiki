@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.14
 prescience_obs_count: 28
 ---
 
 # 2010 Business Computers Leave the Starting Gate
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.84 over 37 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 37 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Article from the Daily Globe (Hillsboro, OR) reviewing Intel's 2010 vPro technology launch for business PCs. Covers Core i5/i7 processors built on 32nm process technology, featuring hardware encryption (AES-NI), advanced power management saving 1-2 kWh per shift, and vPro remote management capabilities. Discusses ecosystem partners VMware, Symantec, Citrix, and Microsoft, plus new models from Lenovo, Dell, HP, and Acer. Examines PC ownership costs ($500-$2,500/user/year) and Intel's push to extend enterprise management tools to SMBs.
 

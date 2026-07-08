@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.43
 prescience_obs_count: 7
 ---
 
 # Stratus Readies XA2000 Series to Take on Tandem High End — Computerworld, 2 February 1987 (PSK + Foster quoted)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.12 over 8 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.25 over 8 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Computerworld feature on the Stratus XA2000 launch (the same family advertised in the ABA Banking Journal ad above). Article reports Stratus is launching a 'full-scale attack' on Tandem with the XA2000 family, pitting the high end against Tandem's 10-month-old NonStop VLX flagship; both vendors claim 50+ transactions/second peak. **William E. Foster, Stratus CEO**, quoted: 'We are selling into a market that has an insatiable appetite for transactions per second' and 'Most new applications for computers tend to be on-line applications. That is really what is driving the market. While people are looking at an on-line application, they have to ask themselves what happens if this thing goes down.' **Peter S. Kastner, manager of marketing support programs for Stratus**, explains the floating-point coprocessor (Motorola 68881) is designed for financial-modeling applications, not scientific/engineering markets. Article reports Stratus officials anticipate near-simultaneous IBM announcement adding XA2000 to **System/88 product line** (under Stratus-IBM OEM). Models 110/120/130/140 use single 40-slot chassis, Motorola 16-MHz 68020 + 68881 coprocessor, VOS Release 6.0 with 32-bit data path, 64MB memory, 64KB cache, 128MB virtual address, 46GB disk. Pricing: $260K-$500K Model 110; $770K-$1.1M Model 140. Yankee Group's Thomas Henkel comments this is Stratus' first move into VLX/IBM 3090 class but questions long-term IBM-Stratus compatibility and Stratus' application/database depth for high-performance TP particularly in manufacturing.
 

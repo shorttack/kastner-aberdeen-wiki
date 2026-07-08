@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 3.75
 prescience_obs_count: 8
 ---
 
 # Informix MetaCube 4.0: Relational OLAP and RDBMS Create an Integrated DSS Environment
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.80 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.07 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group examines Informix MetaCube 4.0, a Relational OLAP environment that leverages Informix Dynamic Scalable Architecture (DSA). The profile argues emerging customer-centric applications demand RDBMS-native ROLAP with speed, scalability, and adaptability to changing data models and intranet strategies. MetaCube 4.0 shares critical tasks between RDBMS and OLAP layers for manageability.
 

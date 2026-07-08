@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 0.88
 prescience_obs_count: 33
 ---
 
 # Welcome to the RDBMS Jungle — Chapter 6
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.67 over 42 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.38 over 42 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Chapter 6 continuation of the RDBMS Jungle training deck. Reprises market size and supplier data from Chapters 1-5, then provides expanded competitive detail: vendor-by-vendor weakness analyses, RDBMS technology rating breakdowns (scalability, distributed data, open technology, development tools, other technologies, supplier solutions), ISV platform support data (IBM gaining Unix share at HP's expense in 1994), IBM RS/6000 + DB2 best-fit scenarios, and wrap-up on RDBMS market dynamics. 58-slide deck.
 

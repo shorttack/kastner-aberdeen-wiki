@@ -11,7 +11,7 @@ vendor: "Intel / HP"
 era: "2000s-2020s"
 lifecycle_at_study: "post-Alpha migration target"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Intel Itanium processor line was discontinued. Last Itanium system shipped in 2021. HP-UX and Itanium-based systems reached end of support.', 'source': 'General knowledge / Intel product announcements'}"
-occurrence_count: 5
+occurrence_count: 6
 prescience_max: 5.0
 prescience_mean: 1.7
 prescience_obs_count: 20
@@ -20,6 +20,8 @@ prescience_obs_count: 20
 # Intel Itanium 64-bit processor
 
 > HP co-developed with Intel; commercial failure vs x86-64; last shipment 2021; key part of HP server strategy in 2002
+---
+[merged from titanium] Common 64-bit architecture for future Windows and Unix operating environments; both HP and Compaq working with Itanium.
 
 
 ## Summary

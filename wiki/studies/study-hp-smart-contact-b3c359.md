@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.56
 prescience_obs_count: 9
 ---
 
 # Solving the Needs of Integrated Contact Centers with Hewlett-Packard Smart Contact
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.10 over 10 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.70 over 10 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles HP's Smart Contact solution for integrated contact centers, assessing its position in a nascent but strategically important market. HP Smart Contact combined advanced Customer Contact Middleware (CCM) with professional services, hardware, networking, and a partner ecosystem to deliver a complete contact center solution. Aberdeen's Hugh Bishop argues HP's collaborative best-of-breed approach and ability to provide a single point of contact for deploying Customer Interaction Solutions (CIS) differentiated it from point-product competitors.
 

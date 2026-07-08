@@ -17,6 +17,8 @@ license: "CC-BY-NC-SA-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: ""
+prescience_5y_enum: ""
 prescience_max: 5.0
 prescience_mean: 0.46
 prescience_obs_count: 26
@@ -28,13 +30,6 @@ prescience_obs_count: 26
 
 
 _Published 1988, author **Digital Equipment Corporation (Kirk, Dallas; Olsen, Kenneth H.; Glorioso, Robert; Hughes, Bob)**, type **primary-source**._
-
-
-## Player rebuttals
-
-_Author rebuttals of the scorer's prescience verdict (Path B). The scorer's verdict remains canonical in `_master_studies.csv`._
-
-- **Peter S. Kastner** (2026-06-13) disputes scorer verdict **low** (mean 0.46, n=26, sonar-reasoning-pro) — [[rebuttal-dectp-press-conference-transcript-and-benchmark-charts-plaza-5e5836-2026-06-13]] · source: `kastner-author/notes/dectp_prescience_rationale_2026_06_13.md`
 
 
 ## Top observations

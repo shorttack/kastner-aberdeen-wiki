@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.16
 prescience_obs_count: 69
 ---
 
 # Chapter 1: Waiting for Automation (1960-1969)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.69 over 96 usable obs (1 prefiltered, 4 pending) -> high; 4 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.70 over 96 usable obs (1 prefiltered, 4 pending) -> high; 4 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Peter S. Kastner recounts his formative years growing up on Cape Cod running the bookkeeping department of his family's large restaurant, where the labor-intensive paper reconciliation problem planted the seed for a lifelong drive to automate commerce. He traces his path from Cornell University's Hotel School — where a failed punch-card tabulation experiment and an IBM 360/65 operations job deepened his technical grounding — through a year at MIT's computing center, where he encountered timesharing, early AI, and the first DEC minicomputers. The chapter closes with his contributions to Robert Chase's hotel-management simulation software at Cornell and his departure for Philip Hankins Inc. in Boston, still in pursuit of the paper problem that had never been solved.
 

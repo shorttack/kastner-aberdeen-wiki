@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.33
 prescience_obs_count: 12
 ---
 
 # An Overview of Internet Application Development
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.20 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.67 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > A presentation delivered by Peter S. Kastner of Aberdeen Group at the Blyth Software User Group in Dallas, June 1996, providing an overview of Internet application development for business practitioners. The document covers what the Internet is, current Internet development tools, Internet growth and opportunity, and the future of business on the Internet. This file also contains title slides and agendas from several other Kastner speeches circa 1994-1996.
 

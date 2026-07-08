@@ -8,8 +8,8 @@ source_csv: "_master_entities.csv"
 entity_id: "intel"
 entity_type: "semiconductor"
 sector: "semiconductor / microprocessor"
-status: "operating"
-successor: "Compaq (1998) then HP (2002)"
+status: "active"
+successor: ""
 years_active: "1968-present"
 occurrence_count: 50
 prescience_max: 5.0

@@ -3,7 +3,7 @@ title: "Unisys Corporation"
 slug: "unisys-corporation"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "unisys-corporation"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 16
 # Unisys Corporation
 
 > era Networks, Inc.|||||155| |UltraDNS Corporation|||||158| |Unisys Corporation|||||160| |VastVideo, Inc.|||||163| |Virage|||||165| |Visual
-
-
-## Summary
-
-
 
 
 ## Top observations

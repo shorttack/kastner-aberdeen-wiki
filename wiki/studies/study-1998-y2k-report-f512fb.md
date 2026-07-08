@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.6
 prescience_obs_count: 20
 ---
 
 # Y2K Software Tools Providers 1998
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.89 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.71 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This 57-page Aberdeen Group market report evaluates Year 2000 remediation tools and providers as enterprises face the looming Y2K deadline. Drawing on hundreds of supplier interviews and BA&A service experience, the report profiles 13 tools vendors with proven track records across preparation, impact analysis, conversion, and testing phases. Aberdeen warns that enterprises delaying remediation — particularly those in Europe and Asia planning to begin in 1999 — risk certain IT failures as early as late 1998.
 

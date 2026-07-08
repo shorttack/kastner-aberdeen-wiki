@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.43
 prescience_obs_count: 21
 ---
 
 # Are Hypergrowth P&Ls Real? — Or Are You Seeing More Than You Paid For
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.72 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.80 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Executive Viewpoint #4 analyzes the P&L implications of hypergrowth by introducing the Revenue Pull versus Cost Push framework and demonstrating with detailed quarterly financial tables for the fictional composite firm FTI. Casale shows how cost-push operations — where expenses run ahead of sales — can mask earnings quality deterioration even when EPS targets are met, because front-loaded costs require incremental revenue just to maintain margin, and the resulting pressure incentivizes GAAP-violating practices. The analysis previews balance sheet effects as the next analytical layer.
 

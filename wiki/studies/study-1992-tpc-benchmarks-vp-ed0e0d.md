@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 0.5
 prescience_obs_count: 24
 ---
 
 # Better Performance and Lower Prices Through TPC Benchmarks
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.72 over 32 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.34 over 32 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Technology Viewpoint examining TPC benchmarks (TPC-A, TPC-B, TPC-C) as the de facto standard for measuring commercial performance and price-performance. Covers the history of Debit/Credit benchmarking, TPC formation in 1988, and detailed vendor comparisons across DEC VAX, HP, IBM AS/400, Sequent, Bull, Sun, and others. Concludes that TPC-A competition has driven a five-fold improvement in price-performance over two years and advocates that buyers mandate TPC-A results in RFPs.
 

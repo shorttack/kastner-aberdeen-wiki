@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 3.0
 prescience_mean: 0.75
 prescience_obs_count: 4
 ---
 
 # Aberdeen Group Intro Slides
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.33 over 6 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.50 over 6 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > A brief 3-slide introduction to Aberdeen Group covering the firm's founding, mission, value proposition, and client engagement model. Summarizes Aberdeen's 1:1 analyst-client relationship, focus on business-user opportunities from technology-market change, and technology expertise. Abbreviated version of the full corporate overview presentation.
 

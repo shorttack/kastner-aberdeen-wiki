@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.59
 prescience_obs_count: 17
 ---
 
 # Blyth's REN Architecture: A Prescription for IT Success
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.23 over 22 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.73 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Blyth Software's REN architecture (Real solutions, Endless possibilities, No boundaries), a dual-track application development framework targeting both traditional client-server and emerging Internet/Intranet commerce applications. The study argues that Blyth's OMNIS-based toolset, extended with five Net-enabled products (Web Enabler, OMNIS Data Server, Web Vault, Web Manager, Weblets), gives the company at least a 12-month competitive lead in mission-critical web development infrastructure. Aberdeen predicts that successful REN execution could elevate Blyth from a niche vendor to an IT household name.
 

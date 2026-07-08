@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.25
 prescience_obs_count: 28
 ---
 
 # Aberdeen Group Engagement Letter — Maxtor Pools of Storage Executive Evangelism Program
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.11 over 35 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.26 over 35 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > A formal engagement letter from Aberdeen Group to Maxtor Corporation's VP of Worldwide Corporate Marketing, Stephen DiFranco, outlining a $114K four-phase program to create and evangelize the 'Pools of Storage' / midline storage market category. The program encompassed a strategy workshop, interactive toolkit development, 100–250-respondent message-testing surveys, and a US/Europe press evangelization tour. Crucially, it articulated the SAS/SATA backplane as the enabling hardware architecture for a new enterprise storage tier.
 

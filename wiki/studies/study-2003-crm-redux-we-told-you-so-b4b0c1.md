@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.33
 prescience_obs_count: 6
 ---
 
 # CRM Redux - We Told You So
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 9 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.33 over 9 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group Perspective challenges the prevailing narrative that CRM implementations fail to deliver ROI, arguing that hand-wringing industry pundits recycled each other's opinions without primary research. By May 2003, Aberdeen had published the first comprehensive study of a large CRM client base, documenting clear evidence of value delivery and aligning with BusinessWeek's contemporaneous e-business special section. The study asserts that no $15 billion industry could exist without delivering genuine business value.
 

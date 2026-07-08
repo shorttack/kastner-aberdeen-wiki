@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.44
 prescience_obs_count: 16
 ---
 
 # TPC Benchmarks: Users Benefit From Competition (1992 Presentation Notes)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.76 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.71 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Outline and notes for a 1992 Aberdeen Group presentation on TPC benchmarks covering TPC-A and TPC-B standards and their role as the primary vehicle for commercial system price/performance competition. Per-supplier analysis covers Digital (VAX), HP, IBM (RS/6000, AS/400, mainframes), Bull, Data General, and Sun, with specific data points including HP's Jan-1990 cost of $36.50/TPS-A falling to DEC's $7.69/TPS-A by March 1992, and Digital VAX 4000-300 improving price-performance by 50% over 18 months.
 

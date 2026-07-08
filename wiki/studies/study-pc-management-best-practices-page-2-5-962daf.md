@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 4
 ---
 
 # PC Management Best Practices: A Study of the Total Cost of Ownership, Risk, Security, and Audit (IIA Research Foundation feature)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.14 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.57 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > The Institute of Internal Auditors Research Foundation biannual RF Report (February 2004, Issue No. 6) featuring the Foundation's new research report 'PC Management Best Practices: A Study of the Total Cost of Ownership, Risk, Security, and Audit' by Mark Salamasick and Charles Le Grand (2003). Peter Kastner (EVP and chief research officer, Aberdeen Group) is quoted from a technology forum: vulnerable machines may be called negligence; older PCs actually cost more to operate; and the optimal desktop lifecycle is three years, matching the duration of a standard warranty.
 

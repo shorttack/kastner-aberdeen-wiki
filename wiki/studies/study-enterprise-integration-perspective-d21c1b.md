@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.64
 prescience_obs_count: 11
 ---
 
 # Why Aberdeen Group is Focusing on Enterprise IT Integration
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.08 over 12 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.67 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen's Enterprise IT Integration practice perspective explaining the firm's focus area. Kastner outlines six megatrends shaping IT in 2006: programmer productivity stagnation and SOA as the remedy; SOA/Web Services adoption trajectory; deconstruction of processing at core/edge/network; mobility becoming the norm; real-time business intelligence (RTBI); and knowledge worker productivity. Argues for a strategic IT architecture that accumulates synergy across projects, with the practice providing fact-based benchmarking and best-practice research.
 

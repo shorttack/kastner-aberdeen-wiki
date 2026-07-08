@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 14
 ---
 
 # Apple Ships Hot PowerMac G5
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.21 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Hot Topic piece on Apple's Power Mac G5 launch. Analyzes SPEC CPU 2000 benchmark claims (G5 2.0 GHz beats Xeon and P4 in floating point, loses integer; dual-G5 beats both in integer and floating point), the 64-bit marketing claim relative to Alpha/HP-PA/PowerPC/Sun/Itanium 2 predecessors, the $3998 configuration with ATI 9800 Pro and Apple 17in Studio Display, PCI-X and 8x AGP I/O, USB/FireWire 800/gigabit Ethernet. Concludes G5 is legitimate workstation competitor but an Apple-base renovation rather than a PC-attack product.
 

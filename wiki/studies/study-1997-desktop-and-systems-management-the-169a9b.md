@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 17
 ---
 
 # Desktop and Systems Management The HP Way: Using Open Standards To Lower Costs and Complexity
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.68 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.84 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluation of HP's DMI-based desktop management strategy. Argues HP's open-standards Vectra Corporate PC and TopTOOLS suite will help enterprises reduce PC total cost of ownership by 50% or more and give HP a competitive edge over Compaq's proprietary Intelligent Manageability approach. DMI certification predicted to become a de facto enterprise standard in 1997.
 

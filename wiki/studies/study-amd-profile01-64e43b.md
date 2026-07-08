@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.77
 prescience_obs_count: 13
 ---
 
 # AMD's Gigahertz Equivalency: Confused Customers Accept Bad Science
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.12 over 16 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.06 over 16 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group critiques AMD's Athlon XP Gigahertz Equivalency (GHz-E) marketing strategy, arguing the model-numbering methodology is fundamentally flawed. GHz-E ratings are a snapshot-in-time metric that becomes misleading as benchmarks, operating systems, and Intel processors evolve. The paper documents benchmark disclosure failures (SYSmark 2001 not filed with Bapco), a Media Player bug fix incorporated post-audit, and I/O-inclusive benchmarks misapplied to processor-only comparison. Aberdeen concludes AMD will be forced to abandon GHz-E in 2002 and recommends investigation of SPECcpu 2000 as an alternative framework via the True Performance Initiative.
 

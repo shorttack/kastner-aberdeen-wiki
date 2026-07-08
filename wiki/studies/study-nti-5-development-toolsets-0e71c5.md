@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.42
 prescience_obs_count: 26
 ---
 
 # Selecting and Using Advanced Software Toolsets
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.77 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.73 over 30 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group workbook surveys the rapidly changing software development toolset landscape in 1993, presenting key field research findings from CIO interviews and ISV briefings. It identifies best-in-class tools across 3GLs, 4GLs, RDBMS-integrated tools, GUI builders, and CASE, and defines the three-layer architecture — presentation, business logic, data access — of strategic applications. The study evaluates client-server development readiness, positions emerging GUI tools from Powersoft, Gupta, and others, and previews object-oriented technology as a late-1990s mainstream prospect.
 

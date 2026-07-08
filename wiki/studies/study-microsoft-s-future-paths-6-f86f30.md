@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.18
 prescience_obs_count: 11
 ---
 
 # Microsoft's Future Paths
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.67 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.83 over 12 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > 41-minute Aberdeen IT Advisor Radio broadcast program (April 2002, Program Code 20020401) on Microsoft's future enterprise-product strategy. Features Microsoft .NET Server product manager Jackson Shaw with Aberdeen's Peter Kastner (CRO) and Isaac Ro (research associate). Covers the Longhorn/Blackcomb next-generation Windows codenames, the Tablet PC, Pocket PC, speech recognition (MiPad, Dr. Who), knowledge management, unified storage, and .NET's effect on Microsoft's business model. Provided as program agenda + biographies (transcript material).
 

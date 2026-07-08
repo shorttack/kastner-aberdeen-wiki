@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.72
 prescience_obs_count: 18
 ---
 
 # LaGrande Technology — A Proposal: Consumer Market Research for Intel LT
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.05 over 21 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.05 over 21 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Letter and attached proposal from Peter S. Kastner (Aberdeen Group EVP Research) to Michael Ferron-Jones (Intel Desktop Platform Analyst Relations) dated October 5, 2003. Proposes a multi-phase market research program to evaluate consumer LaGrande Technology (LT) — Intel's hardware-based trusted computing platform. Aberdeen argues Intel is under-valuing the consumer LT opportunity, estimating >$150M annual revenue opportunity and 10M+ consumer units in 2006 at $100 retail uplift. Proposes 3-phase research (consumer qualitative, quantitative tracking, localized surveys) in US, Canada, Japan, Germany, UK, France, Italy, Brazil, Mexico. Research focuses on identity theft fear, privacy, trusted computing adoption drivers and barriers.
 

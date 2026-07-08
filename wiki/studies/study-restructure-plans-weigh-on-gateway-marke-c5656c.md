@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.86
 prescience_obs_count: 7
 ---
 
 # Restructure plans weigh on Gateway
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.40 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.10 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > CBS.MarketWatch.com news (2003-01-06) on Gateway's share-price reaction after CEO Ted Waitt said the financially troubled PC maker would reshuffle management and unveil a new business strategy following weak holiday sales. Stock closed at $3.30, down 4.6% on 2.3M volume, after Waitt's WSJ interview. Peter Kastner, chief research officer with the Aberdeen Group, assesses the situation: 'It looks to us as if Gateway's whole business model is on the boardroom table.' The article documents Gateway's Q3 2002 loss ($50M, 15c/share), 21% revenue decline (from $1.41B to $1.12B), lowered full-year guidance ($4.3-4.5B vs $4.5-5B), IDC's #3 US PC shipments ranking, 272 retail stores under expiring leases, and the November 2002 pivot into consumer electronics (100+ new digital products including a $2,999 42-inch plasma TV).
 

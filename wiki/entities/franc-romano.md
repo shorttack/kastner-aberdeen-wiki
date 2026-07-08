@@ -3,7 +3,7 @@ title: "Franc Romano"
 slug: "franc-romano"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "franc-romano"
 entity_type: "person"
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # Franc Romano
 
 > Aberdeen Group consultant 1994; former DEC finance manager and market research director
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.8
 prescience_obs_count: 5
 ---
 
 # Transmeta unveils smaller microprocessors (Crusoe TM5700/TM5900 launch)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.62 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.50 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > IDG News Service report (via Computerworld) on Transmeta's launch of the Crusoe TM5700 and TM5900 x86-compatible processors at 1 GHz in a 21mm-by-21mm package — half the size of the TM5800 — targeting set-top boxes, thin clients, blade servers, portable consumer products. 512KB (TM5900) or 256KB (TM5700) L2 cache, 64-bit DDR SDRAM controller, 32-bit PCI controller, integrated Northbridge. Kastner (Aberdeen EVP/CRO) flags ongoing TM5800 performance complaints (HP TC100 tablet example): 'not been good enough for many of today's applications.'
 

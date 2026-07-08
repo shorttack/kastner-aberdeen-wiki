@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.0
 prescience_obs_count: 4
 ---
 
 # More PC Music Deals Seen Breaking New Legal Ground
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.17 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.33 over 6 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Reuters/USA Today reports a tentative copyright deal between music publishers and Pressplay (Roxio/Napster) clearing Gateway's PC-with-music plan to ship. Peter Kastner of Aberdeen Group predicts every major PC vendor will offer a music service by Q4 2003 holiday season — a 'catch-up scramble' triggered by Apple's iTunes Music Store launch the prior month.
 

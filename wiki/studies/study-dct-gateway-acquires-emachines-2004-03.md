@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.41
 prescience_obs_count: 17
 ---
 
 # Gateway's Acquisition of eMachines Bodes Well
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.29 over 17 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.76 over 17 usable obs (2 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen analysis of Gateway's $235 million acquisition of privately-held eMachines. Argues the deal is a shrewd distribution-channel play: eMachines's shelf space at Best Buy, Circuit City, and CompUSA lets Gateway deemphasize its costly 170-store chain, combine Gateway's high-end all-in-ones and plasma TVs with eMachines's budget retail strength to out-compete HP, and expand digital consumer electronics distribution.
 

@@ -11,7 +11,7 @@ vendor: "industry-standard"
 era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supplanted"
-occurrence_count: 14
+occurrence_count: 29
 prescience_max: 5.0
 prescience_mean: 2.66
 prescience_obs_count: 59
@@ -20,6 +20,8 @@ prescience_obs_count: 59
 # Service-Oriented Architecture (SOA)
 
 > Kastner argued by 2000 that SOA was the decade's defining architectural shift, comparable to client-server in the 1990s. Standards (SOAP, WSDL, UDDI) were immature. REST APIs eventually displaced heavyweight SOAP-based SOA. Kastner completed nine SOA studies in nine months before departing Aberdeen in mid-2007.
+---
+[merged from data-mining] Tools supporting IT budgeting process measurement, governance, and cost tracking; report finds most organizations lack effective tools; best-in-class use continuous monitoring
 
 
 ## Summary

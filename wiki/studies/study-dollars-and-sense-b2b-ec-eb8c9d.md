@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.6
 prescience_obs_count: 20
 ---
 
 # The Dollars and Sense of the New Electronic Commerce: Business-to-Business Electronic Commerce in Transition
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.40 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.28 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This 115-page Aberdeen Group report by analyst David Alschuler examines the transition in B2B electronic commerce from traditional EDI/EFT systems to internet-based commerce platforms. The study profiles 17 supplier organizations within an analytical framework of EC capabilities, covering the full technology spectrum from EDI VANs through emerging internet commerce platforms, and addresses the strategic implications for corporate management responsible for e-commerce, supply chain, and technology planning. It introduced the concept of Infinite Resource Planning as the promise of the new EC.
 

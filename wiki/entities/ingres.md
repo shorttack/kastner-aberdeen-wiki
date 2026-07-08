@@ -3,7 +3,7 @@ title: "Ingres (ASK Group)"
 slug: "ingres"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "ingres"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 4
 # Ingres (ASK Group)
 
 > picture text -----**<br> Oracle, Informix, DB2/MVS, IMS,<br>Ingres,<br>Jasmine Sybase VSAM, IDMS<br><br>TCP/IP LU 6.2<br><br
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # CNBC Technology Edge: IBM, DEC, and HP Transitions to Open Systems
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.48 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.84 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > CNBC Technology Edge (hosted by Bruce Francis, Aug 6 1994) examines IBM, DEC, and HP transitioning from proprietary systems to open systems and client-server. Peter S. Kastner (Aberdeen Group VP), Stephen Roach (Morgan Stanley), Pat Sochi (TCG), and George Tabak (Ingersoll Rand) score HP highest (visionary, ~10 years ahead on open systems), IBM as recovering, and DEC as severely troubled — VAX/VMS declining 20-40% annually, Alpha introduced too soon without applications, confused Ultrix→OSF migration messaging. Kastner predicts DEC may be acquired below book value (e.g., by an RBOC), notes mainframes will be around 'a long, long time' due to installed software, and warns the Intel/HP alliance reshapes post-2000 chip economics.
 

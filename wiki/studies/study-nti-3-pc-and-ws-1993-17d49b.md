@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.89
 prescience_obs_count: 19
 ---
 
 # PCs and Workstations: Vying for the 1990's Desktop
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.25 over 28 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.14 over 28 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group workbook analyzes the competitive landscape between Intel-powered PCs and RISC/Unix workstations for enterprise desktop dominance in the 1993-1996 timeframe. It defines workgroup computing requirements, compares platforms across client-server capability, networking, cost, application software, and multiuser compatibility, and evaluates supplier strategies from IBM, Apple, Compaq, Dell, Sun, HP, and operating system vendors. Aberdeen recommends workstations for technical/power users, low-end Unix workstations as NT contingency, Macs for functionality, and PCs for all other users through 1993.
 

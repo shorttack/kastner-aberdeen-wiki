@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.25
 prescience_obs_count: 8
 ---
 
 # Open: TPC Database Benchmarks — Truth and Benchmarks
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.10 over 10 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Open Magazine feature (2005-03-14) on the Transaction Processing Performance Council (TPC) and why commercial buyers trust its database benchmarks. Peter Kastner is identified unusually as 'analyst for Vericours' rather than Aberdeen. Kastner credits TPC as an independence lever that has kept vendors on their toes, describes the 'lies, damned lies, and benchmarks' legacy before TPC's 1988 founding, and attributes 100-fold application-performance improvements to TPC-induced competition. He calls TPC benchmarks 'the gold standard of commercial benchmarks.'
 

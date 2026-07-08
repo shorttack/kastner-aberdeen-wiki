@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.0
 prescience_obs_count: 5
 ---
 
 # David McFarlane: Nexaweb Platform 4.5 Supports Ajax, Java
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.00 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.86 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Outlook Series interview-style press coverage (2006-12-18) announcing Nexaweb Platform 4.5, which pairs the Universal Client Framework (UCF) for Ajax/Java with Section 508 accessibility compliance. Peter S. Kastner (Research VP, technology integration at Aberdeen Group) cites Aberdeen research that two-thirds of survey respondents view improving services to IT users as a key business requirement and endorses Nexaweb's composite-application approach for rich cross-platform experiences that preserve legacy IT assets.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.5
 prescience_obs_count: 12
 ---
 
 # The Strategic R/3 Solution for the Enterprise
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.13 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.87 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This vendor presentation by Sequent Computer Systems presents the SAP R/3 SD benchmark results achieved on the Sequent Symmetry SE70 SMP server running R/3 version 2.2d on both Windows NT and UNIX. The document positions the Sequent platform favorably versus HP, Sun/Cray, and IBM on user count, independent certification, and RDBMS CPU utilization.
 

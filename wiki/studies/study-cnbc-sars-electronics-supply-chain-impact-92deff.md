@@ -17,12 +17,20 @@ license: "CC-BY-NC-SA-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # CNBC: SARS Impact on Global Electronics Supply Chain (Kastner as Chief Research Officer, Aberdeen Group)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.97 over 32 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.91 over 32 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > 5-minute CNBC segment on SARS's potential impact on the global electronics industry. Kastner (Chief Research Officer, Aberdeen Group) frames the analysis: electronics industry worth ~$1 trillion globally; 115 million PCs assembled in Asia (many in China); RBC has cut PC/notebook demand projections. Discusses semiconductor, PC, and communications firm exposure (incl. Motorola closing a Singapore cell phone plant). CEO travel cancellations; Intel postponing developer forum. Kastner criticizes Chinese government's initial information withholding, citing executive concerns and Taiwan's president. Source video archived in companion private repo shorttack/kastner-restricted-sources. AI-generated summary transcript ingested 2026-06-12.
 

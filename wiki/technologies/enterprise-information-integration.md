@@ -3,7 +3,7 @@ title: "Enterprise Information Integration (EII)"
 slug: "enterprise-information-integration"
 page_type: "technology"
 tags: ["type/technology", "category/data-integration", "era/2000s"]
-tier: 2
+tier: 1
 source_csv: "_master_technologies.csv"
 tech_id: "enterprise-information-integration"
 category: "data-integration"
@@ -11,7 +11,7 @@ vendor: "multi-vendor"
 era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
-occurrence_count: 2
+occurrence_count: 9
 prescience_max: 4.0
 prescience_mean: 3.5
 prescience_obs_count: 2
@@ -20,6 +20,13 @@ prescience_obs_count: 2
 # Enterprise Information Integration (EII)
 
 > Named as technology promising to augment traditional data warehouse technology; part of RTBI megatrend. Aberdeen's Enterprise IT Integration practice covers EII.
+---
+[merged from sun-ultrasparc] Referenced as data center consolidation technology option alongside utility computing; emerging in 2004; largely superseded by cloud computing and containerization
+
+
+## Summary
+
+
 
 
 ## Top observations

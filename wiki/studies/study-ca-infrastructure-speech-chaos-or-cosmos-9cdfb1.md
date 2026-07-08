@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.89
 prescience_obs_count: 9
 ---
 
 # IT Infrastructure: Are We Building Chaos or Cosmos? (CA-sponsored infrastructure keynote, 1998)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.11 over 9 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.22 over 9 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > 'IT Infrastructure: Are We Building Chaos or Cosmos?' — Peter S. Kastner keynote on enterprise IT infrastructure strategy delivered under Computer Associates' sponsorship circa 1998. Frames IT spending as ~3% of revenue with 85% going to ongoing operations and 15% to new applications; distinguishes CEO/CFO/CIO perspectives; argues for consolidating fragmented infrastructure through an 'IT cosmos' architectural program rather than piecemeal ('chaos') procurement.
 

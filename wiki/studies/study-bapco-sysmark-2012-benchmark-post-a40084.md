@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.2
 prescience_obs_count: 10
 ---
 
 # BAPco SYSmark 2012: Why AMD Dropped Out and What the Benchmark Actually Measures
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.14 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.07 over 14 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Kastner blog post defending BAPco's SYSmark 2012 benchmark against AMD's June 2011 withdrawal from the consortium. Reports Kastner's own test results on the AMD Fusion A8-3850 APU ('Llano', scored 91) versus Intel Sandy Bridge Pentium 840 (98), Core i3-2120 (127), and Core i5-2500 (166). Argues the benchmark reflects 20 years of real-workload modeling across six scenarios (Office, Media, Web, Data/Financial, 3D, System Management) and rejects AMD's framing. The post is a commercial-benchmarks topic deep-dive from Kastner's post-Aberdeen independent-analyst era.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 3.0
 prescience_mean: 0.8
 prescience_obs_count: 5
 ---
 
 # Sun Micro slammed as quarterly report disappoints
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.29 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.29 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > MarketWatch news story (Jul 23 2003, 5:51 p.m. EST) by Rex Crum reporting on Sun Microsystems' fiscal Q4 2003 results. Sun earnings dropped 80%, profit of $12M (breakeven EPS) vs $61M (2c EPS) year ago; revenue $2.98B down 13% from $3.42B; Thomson First Call consensus was 2c/$3.07B. Shares fell 92c to close at $3.85 on 239M shares (most active US stock that day). Analysts Kevin McCarthy (CSFB) and Toni Sacconaghi (Bernstein) were harshly critical. Peter Kastner, computer-hardware analyst with Aberdeen Group in Boston, provided the contrarian counter-balance: 'investors are likely to interpret Sun's results as being on the edge of respectability as the company has been hovering near breakeven for three quarters' and 'anyone who gives up on Sun would be making a big mistake, as they have a huge, loyal base of customers.' This is the end-of-day wrap-up; a companion pre-market MarketWatch story by Mike Tarsala that morning used the identical Kastner quote.
 

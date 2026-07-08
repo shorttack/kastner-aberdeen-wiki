@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 2.0
 prescience_mean: 0.67
 prescience_obs_count: 3
 ---
 
 # Oracle U.S.A. / NCR U.S. Group Sales Letter Promoting Pittsburgh October 12 'Customer-Driven Information Solutions' Seminar with Peter Kastner Keynote (1993)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.00 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.86 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Joint Oracle U.S.A. + NCR U.S. Group / AT&T-NCR direct-mail sales letter (Priority Reservation Number WAA1CC) inviting recipients to attend the free half-day 'Transitioning to Customer-Driven Information Solutions' seminar at Pittsburgh, Pennsylvania on Tuesday, October 12, 1993 (registration 8:30 a.m., program 9:00 a.m. - Noon). Peter Kastner, Vice President, Aberdeen Group is named as the keynote speaker, introduced by Oracle as 'one of the world's most popular speakers on information technology' (postscript). The letter is signed by Oracle U.S.A. (Oracle Corporation, 500 Oracle Parkway, Redwood Shores, California 94065) and NCR U.S. Group (AT&T/NCR), and articulates the business thesis (decreased customer loyalty, global competition, customer-driven IS as the emerging '90s trend) and Kastner's promised content: take advantage of emerging technologies to build customer-focused IS, leverage current systems while transitioning to distributed environments, and use customer applications to develop new revenue and operational efficiency. Reservation phone 1-800-442-8649, ext. 24. This is the Pittsburgh-stop direct-mail companion to the Batch 23 study b9f539 (Oracle/AT&T-NCR Customer-Driven seminar 8-city tour brochure), confirming Pittsburgh as the October 12 stop and adding language showing Oracle's marketing of Kastner as a top-billed industry speaker.
 

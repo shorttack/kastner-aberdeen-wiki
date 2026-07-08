@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 0.43
 prescience_obs_count: 14
 ---
 
 # Hewlett-Packard V-Class: Providing Enterprise Customers With the Power Path They Need
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.48 over 21 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.29 over 21 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates HP's newly announced V-Class HP 9000 enterprise SMP servers (announced May 22, 1997). Based on supercomputing crossbar technology acquired from Convex, the V2200 Enterprise Server promises a 50% improvement in OLTP performance over existing top SMP systems. Aberdeen examines HP's roadmap through 1999 including NUMA extensions, competitive positioning against Sun, IBM, and Digital, and recommends enterprise IS executives evaluate V-Class for mainframe replacement and high-end production workloads.
 

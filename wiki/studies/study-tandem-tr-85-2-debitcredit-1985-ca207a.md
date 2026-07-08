@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.57
 prescience_obs_count: 7
 ---
 
 # A Measure of Transaction Processing Power (Tandem Technical Report 85.2)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.27 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Tandem Technical Report 85.2 (February 1985) by 'Anon et al' — the foundational transaction-processing benchmark paper that defined Sort, Scan, and DebitCredit (ET-1/TP-1) and introduced the Transactions Per Second (TPS) and 5-year capital-cost price/performance metrics. A condensed version appeared in Datamation April 1, 1985. The 'Anon et al' byline concealed a collaboration led by Jim Gray (then at Tandem) with ~24 academics, vendors, and users. This paper is the direct ancestor of the Transaction Processing Performance Council (TPC) benchmarks (TPC-A, TPC-B, TPC-C) and is foundational to Kastner's subsequent career as an OLTP/benchmarks analyst at Stratus and Aberdeen Group.
 

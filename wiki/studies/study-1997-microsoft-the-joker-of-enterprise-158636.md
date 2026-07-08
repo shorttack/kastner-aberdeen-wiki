@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.92
 prescience_obs_count: 13
 ---
 
 # Microsoft: The Joker of Enterprise IS Computing
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.60 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.33 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group Vice President John R. Logan argues that Microsoft's historical desktop orientation is fundamentally incompatible with enterprise IS computing requirements. While acknowledging Microsoft's desktop excellence, Logan contends that NT Server and BackOffice have yet to demonstrate mission-critical production capability, and that Microsoft lacks the planning, support, product compatibility, and management culture required by senior enterprise IS executives. The brief is intended to help business executives and IS professionals build consensus on where—and where not—to deploy Microsoft products beyond the desktop.
 

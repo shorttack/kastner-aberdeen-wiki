@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 31
 ---
 
 # Don't Fall for the Siren-Song Price of Under-powered Desktop PCs
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.24 over 34 usable obs (0 prefiltered, 7 pending) -> high; 7 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.03 over 34 usable obs (0 prefiltered, 7 pending) -> high; 7 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group Impact Brief arguing that corporate IS buyers should resist sub-$1,000 PCs and instead invest in higher-spec desktops (400 MHz Pentium II, 128 MB RAM, 17-inch monitor) to maximize 3-5 year useful life. Based on Aberdeen's internal desktop workload research showing that software bloat, background services, and growing Internet/Intranet demands were rapidly consuming PC resources, making budget configurations inadequate within months.
 

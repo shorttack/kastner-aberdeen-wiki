@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.17
 prescience_obs_count: 6
 ---
 
 # Telephony Magazine — 'Early hopes quickly dashed: Post-attack demand for conferencing and hosting services may be fleeting' (Vincent Ryan; PSK Aberdeen CRO quoted, 2001-09-24)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.62 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.38 over 8 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Telephony's Sept 24 2001 cover story examines whether 9/11 demand would actually rescue battered telecom, conferencing, hosting and wireless markets. PSK quoted: 'It costs about $30 an hour for full-motion video. That's dirt cheap compared with a coast-to-coast flight.' Christine Hartman (Probe Research voice-over-packet markets) cautions that changing business communication habits won't be easy. Equinix's Jay Adelson cited on geographic redundancy ('You have to be geographically diverse and go to two IBXs'). Edward Jackson (US Bancorp Piper Jaffray) says telecom impact will be 'negligible' because companies are already trading at 1-1.5x tangible book. Becky Replogle-Wilkes (Sprint collaborative apps marketing) endorses the conferencing case. Polycom/PictureTel merger DOJ-approved cited as videoconferencing-sector indicator. NEON Communications OC-12 fiber set up at 60 Hudson St. for NYC City Hall as backup-carrier example.
 

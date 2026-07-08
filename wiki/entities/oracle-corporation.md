@@ -2,14 +2,14 @@
 title: "Oracle Corporation"
 slug: "oracle-corporation"
 page_type: "entity"
-tags: ["type/entity", "entity-type/Enterprise Customer"]
+tags: ["type/entity", "entity-type/software-vendor"]
 tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "oracle-corporation"
-entity_type: "Enterprise Customer"
+entity_type: "software-vendor"
 sector: "database & enterprise software"
-status: "acquired"
-successor: "Accrue Software then JDA Software"
+status: "active"
+successor: ""
 years_active: "1911-present"
 occurrence_count: 38
 prescience_max: 5.0

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 7
 ---
 
 # DEC Zahavi Memo: Debit-Credit Benchmark on VAXclusters (March 1988)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.88 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.75 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Internal Digital Equipment Corporation interoffice memorandum dated 4-March-1988 by Bill Zahavi (TP Systems Performance Analysis, MR01-1/A65, DTN 297-7795, HYPER::BZAHAVI) addressed to @DC_VAXCLUSTER and @GROUP, on implementing the Debit-Credit benchmark on VAXclusters. Identifies the Distributed Lock Manager (DLM) as the major obstacle: only one cluster member owns locks for a given file, and the Debit-Credit specification's requirement that 15% of teller activity address other-branch accounts forces inter-node CI bus traffic. Distinguishes flat-file (RMS, Hash) from formal-database (DBMS, Rdb) implementations. Discusses partitioning strategies (cluster-member-A owns files-A, etc.) and the asymmetric statistics: 7.5% of cross-branch traffic lands on a different cluster member's locks for a 2-member cluster. Acknowledges that DECintact works only with flat files (RMS, Hash) while ACMS works best with DBMS and Rdb. Proposes that without 2-Phase Commit (2PC), only certain types of applications can be distributed using formal databases — explicitly referencing Phil Bernstein's prior memo. Closes by calling for cross-functional cooperation between TP, Databases, and VMS groups for both short and long-term solutions, and asks the document be treated as a 'living document.' Direct technical companion to the Kohler/Hsu guidelines (Study 1) and the broader DEC OLTP performance-engineering corpus.
 

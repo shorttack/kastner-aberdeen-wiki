@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.47
 prescience_obs_count: 17
 ---
 
 # WebEx: Taking Conferencing to the Business Communications Summit
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.86 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.82 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group vendor profile of WebEx Communications, analyzing its emergence as leader in high-end Web conferencing. Documents WebEx's third-generation Mediatone infrastructure and private WAN architecture as key differentiators versus competitors. Covers the five-level Aberdeen model for real-time business communications, new Training Center service, multimedia capabilities (UCF, Access Anywhere, multipoint video), and the market shift away from face-to-face meetings accelerated by the 2001 recession and post-9/11 travel concerns. At April 2002, WebEx had 5,000+ customers growing at 800+ per quarter.
 

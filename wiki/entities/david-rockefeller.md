@@ -3,7 +3,7 @@ title: "David Rockefeller"
 slug: "david-rockefeller"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "david-rockefeller"
 entity_type: "person"
@@ -20,6 +20,11 @@ prescience_obs_count: 1
 # David Rockefeller
 
 > tle was a consultant to chase Manhattan bank at the highest David Rockefeller levels. It came to our attention that chase had a significa
+
+
+## Summary
+
+
 
 
 ## Top observations

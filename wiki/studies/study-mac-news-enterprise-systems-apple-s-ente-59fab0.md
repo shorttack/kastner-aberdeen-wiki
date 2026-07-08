@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.67
 prescience_obs_count: 3
 ---
 
 # Apple's Enterprise IT Battle Plan, Part Two
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.25 over 4 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > MacNewsWorld second installment on Apple's enterprise strategy. Peter Kastner of Aberdeen Group sees Apple 'turning up the heat' by targeting specialized verticals (wireless, online business) rather than head-on assaults on Fortune 500 IT shops. Kastner argues that large-enterprise IS staffs gravitate away from Apple because they are trained to wrangle complex multi-vendor stacks, making small and medium-sized businesses the more natural beachhead for Apple enterprise penetration.
 

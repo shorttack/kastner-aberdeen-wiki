@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.06
 prescience_obs_count: 18
 ---
 
 # Tandem's Vision, Architecture, and First Products For 21st Century Electronic Business
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.29 over 24 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.21 over 24 usable obs (0 prefiltered, 1 pending) -> medium; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1996 profile of Tandem Computers analyzes the company's ServerNet system area network architecture and ServerWare middleware strategy as the foundation for Internet Transaction Processing (ITP) in the 21st century. The report evaluates Tandem's S-Series Himalaya servers, their multi-platform NT/Himalaya strategy, and predicts that Tandem's high-availability, high-throughput architecture will become the de facto platform for mission-critical electronic commerce and multi-tier enterprise computing.
 

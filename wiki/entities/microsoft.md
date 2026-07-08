@@ -8,8 +8,8 @@ source_csv: "_master_entities.csv"
 entity_id: "microsoft"
 entity_type: "information-technology"
 sector: "Software / Operating Systems"
-status: "restructured"
-successor: "HP Inc. / Hewlett Packard Enterprise"
+status: "active"
+successor: ""
 years_active: "1990s-late1990s"
 occurrence_count: 116
 prescience_max: 5.0

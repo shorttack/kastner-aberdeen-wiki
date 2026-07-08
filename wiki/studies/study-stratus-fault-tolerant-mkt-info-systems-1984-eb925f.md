@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.57
 prescience_obs_count: 7
 ---
 
 # Fault-Tolerant Systems Special Report — Information Systems News, 6 August 1984 (PSK at Stratus)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.62 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.62 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Multi-article fault-tolerant systems special report from Information Systems News, 6 August 1984, comprising three companion pieces by Omri Serlin ("Nonstop Challenges in Fault-Tolerant Market"), Paul E. Schindler Jr. ("Fault-Tolerant Solutions Vary With Vendor") and Jean S. Bozman ("Users Find 'Fault Tolerance' a Relative Term"). The report frames Tandem Computers and Stratus Computer as the only FT/OLTP suppliers to have successfully transitioned from development to full production by 1984, while ~24 startups stalled. Includes 1984 transaction-processing market projection charts ($22.5B total; IBM $17.5B / 77.8%; FT suppliers $712M / 3.2%; Tandem $585M / 82% of FT segment, Stratus $40M / 5.6%, Computer Consoles $67M / 9.4%, Synapse/Auragen/Tolerant/Sequoia $20M / 2.8%). Schindler's piece positions "the philosophical leader of the hardware fault-tolerant camp" as Stratus and quotes **Peter Kastner, manager of Stratus' corporate business development**, summing up the Stratus philosophy as "hardware redundancy which is controlled by hardware, rather than by software" — and arguing that the four-CPU checking design has "definite advantages" over software-based systems, with chips only 2 percent of system selling price. Bozman's user-experience piece reports a New York investment firm pulled boards at random from a Stratus system to test resilience: "the only way we got it to stop was to pull out enough CPU boards to make it non-functional. However, the moment we replaced the CPU boards, it was off and running again."
 

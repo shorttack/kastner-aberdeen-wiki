@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.09
 prescience_obs_count: 11
 ---
 
 # IBM + Webify = Industry SOA Application Jumpstart
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.19 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.44 over 16 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Analysis of IBM's acquisition of Webify Solutions and its strategic implications for the nascent SOA application development market. Argues that 'SOA Lite' general-purpose approaches are insufficient for enterprise needs and that IBM with Webify's industry-specific component library is positioned uniquely to provide Enterprise SOA with vertical market focus in insurance, healthcare, banking, and telecoms.
 

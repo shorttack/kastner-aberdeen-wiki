@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.15
 prescience_obs_count: 13
 ---
 
 # Mid-Market Must Flex More Muscle in IT Outsourcing
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.20 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.07 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Market Segment report analyzing IT outsourcing practices at mid-size enterprises versus Best in Class organizations. Key finding: 25% of mid-market respondents admitted their companies have not been successful with IT outsourcing; none of the Best in Class cited lack of success. Report analyzes four stages prone to planning errors: creation of quantitative business case, contract pricing negotiations, governance, and ongoing operational management. Best in Class outperform mid-market across all four stages. Three recommendations: (1) Get the RFP right — know requirements, costs, and desired advantages; (2) Don't be afraid to look outside for help — use independent consultants and legal assistance; (3) Improve relationship management — dedicate management time and hold one person accountable for the outsourcing relationship.
 

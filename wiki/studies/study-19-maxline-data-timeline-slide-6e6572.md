@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 7
 ---
 
 # MaXLine in the Data Center Spectrum: Data Value vs. Duration Positioning Slide
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.69 over 13 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.69 over 13 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > A single product positioning slide depicting MaXLine's placement in the enterprise data center storage spectrum along two axes: Data Value (high to low) and Data Duration (minutes to years). The slide defines three storage zones — Active Data (served by Atlas high-end SCSI), Recallable Data (served by MaXLine nearline/midline), and Archive Data (served by Tape) — and characterizes MaXLine's tier as medium-speed bulk storage with low cost per GB, network-attached sequential and random access, and moderate I/O performance. This is the core visual artifact of Maxtor's midline storage positioning strategy.
 

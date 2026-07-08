@@ -11,7 +11,7 @@ sector: "enterprise-resource-planning"
 status: "active (renamed SAP SE)"
 successor: "SAP SE (2014 rebranding)"
 years_active: "1972-present"
-occurrence_count: 27
+occurrence_count: 46
 prescience_max: 5.0
 prescience_mean: 2.39
 prescience_obs_count: 96
@@ -20,6 +20,16 @@ prescience_obs_count: 96
 # SAP AG (later SAP SE)
 
 > Founded 1972 by five former IBM employees; SAP AG became SAP SE in 2014 | status_note=Converted to SAP SE on 7 July 2014; hq_location=Walldorf, Germany; as_of_study_date=1995
+---
+[merged from ENT-BO-002] Strategic partner; designated BusinessObjects 4.0 as sole decision-support tool in Complementary Software Partner Program; acquired Business Objects in 2008
+---
+[merged from ENT-IRP-003] Implicitly referenced as incumbent ERP vendor category leader
+---
+[merged from ENT-SAP] Referenced as major commercial application targeting Sun platforms.
+---
+[merged from ENT-SAP-001] Referenced as major application requiring row-level locking support. SAP later acquired Sybase in 2010.
+---
+[merged from sap] Named as ERP vendor: IBM-Webify described as 'viable adjunct to enterprises that now define their processes using ERP systems such as those from SAP, Oracle, Infor, and Lawson.' Use existing entity ID. | Source: SAP SE remains a major publicly traded enterprise software company (NYSE: SAP).
 
 
 ## Summary

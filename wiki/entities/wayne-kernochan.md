@@ -3,7 +3,7 @@ title: "Wayne Kernochan"
 slug: "wayne-kernochan"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "wayne-kernochan"
 entity_type: "person"
@@ -20,11 +20,6 @@ prescience_obs_count: 2
 # Wayne Kernochan
 
 > Aberdeen Group Category Creator: Platform Infrastructure (PI) — credited by Peter S. Kastner. Coordinator, Platform Infrastructure practice, Aberdeen Group January 2000. Authored the two surviving versions of the Platform Infrastructure practice definition. PI thesis articulates that infrastructure must deliver scalability, flexibility, Web robustness, ever-increasing workloads, and rapid online upgradeability for 'Internet time' — a 2000-vintage statement of cloud-native principles
-
-
-## Summary
-
-
 
 
 ## Top observations

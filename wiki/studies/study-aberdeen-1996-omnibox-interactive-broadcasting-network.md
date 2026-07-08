@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 1.29
 prescience_obs_count: 21
 ---
 
 # OmniBox Interactive Broadcasting Network: Bringing Electronic Commerce and Entertainment to the Masses
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.12 over 26 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.23 over 26 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles OmniBox, Inc., a Stamford CT startup with patented technology for delivering interactive television, electronic commerce, and digital content to homes via cable, satellite, and the Internet. The study evaluates OmniBox's architecture—comprising compression technology, transaction processing, and set-top hardware—and positions it as the most comprehensive model for home electronic commerce delivery seen to date. Aberdeen predicts OmniBox stands out as an early leader among vendors competing for the nascent 100-million-household US interactive TV market.
 

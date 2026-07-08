@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.88
 prescience_obs_count: 8
 ---
 
 # Living with Windows XP Media Player and Wireless Support
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.36 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.36 over 11 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This Aberdeen InSight by Peter S. Kastner provides a hands-on evaluation of Microsoft's Windows XP operating system, focusing on its digital media capabilities (audio, video, moviemaking, photography) and wireless LAN support. Kastner concludes that 'Microsoft delivers' on its launch marketing promises, specifically for media handling and wireless networking, and predicts that almost all previous Windows users will enjoy living with Windows XP. The study includes a practical note about WEP password hex conversion.
 

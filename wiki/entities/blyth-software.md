@@ -3,7 +3,7 @@ title: "Blyth Software"
 slug: "blyth-software"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "blyth-software"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 18
 # Blyth Software
 
 > Founded as Blyth Holdings Inc in Delaware 1987; known for OMNIS 7 CADE; never achieved mainstream status
+
+
+## Summary
+
+
 
 
 ## Top observations

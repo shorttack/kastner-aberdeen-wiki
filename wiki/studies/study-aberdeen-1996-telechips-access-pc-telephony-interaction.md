@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "low"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 2.11
 prescience_obs_count: 9
 ---
 
 # Telechips' Access — the New Benchmark for Personal Computer Telephony Interaction
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** low — 3y Rule A: mean=1.93 over 15 usable obs (0 prefiltered, 0 pending) -> low [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.07 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's October 1996 product impact report evaluates Telechips Corporation's 'Access' device, a touchscreen Windows-based PC integrated with a telephone in a rugged sealed enclosure. The study argues that Access sets a new benchmark for Computer Telephony Integration (CTI) through its hardware bus design and software integration, creating a new category of 'new CTI' suitable for kiosk, hospitality, and enterprise point-of-sale applications. Aberdeen predicts significant market opportunities for Telechips as the master of both computer and telephony domains.
 

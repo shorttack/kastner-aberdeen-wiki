@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.6
 prescience_obs_count: 20
 ---
 
 # When a PC is Simply Platform Overkill: IBM's Network Station Alternative
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.33 over 27 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.19 over 27 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates IBM's Network Station network computer (NC), assessing its core technology, market positioning, and cost/value proposition versus full-featured PCs. The IBM Network Station is a PowerPC 403-based diskless thin client supporting 5250/3270/ASCII/X terminal emulators, Java applets, and Windows NT-server-hosted applications via WinCenter Pro. At a $695 base price (vs. $2,000+ PC), Aberdeen endorses the Network Station for information workers needing multi-server access, recommending IS managers evaluate it to reduce PC support costs estimated at $4,000-$15,000 per user per year.
 

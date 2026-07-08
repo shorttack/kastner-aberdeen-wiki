@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.52
 prescience_obs_count: 23
 ---
 
 # Mirror Image Internet: A Pioneer in Content Distribution Network Services
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.97 over 29 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.17 over 29 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Mirror Image Internet, a CDN provider in Woburn MA, highlighting its Content Access Point architecture for centralized-yet-distributed content delivery. Two customer case studies (Fastclick and an international toy retailer) validate cost savings, performance gains, and responsive service. The profile examines Mirror Image's Smart Content platform for XML-based rules-driven adaptive content delivery.
 

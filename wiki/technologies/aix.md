@@ -3,7 +3,7 @@ title: "AIX (Advanced Interactive eXecutive)"
 slug: "aix"
 page_type: "technology"
 tags: ["type/technology", "category/operating-system", "era/1986-present"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "aix"
 category: "operating-system"
@@ -20,11 +20,6 @@ prescience_obs_count: 3
 # AIX (Advanced Interactive eXecutive)
 
 > lifecycle_note=AIX remains IBM's enterprise Unix OS for Power Systems; standard_body=IBM; introduced_approx=1986; role=enabling
-
-
-## Summary
-
-
 
 
 ## Top observations

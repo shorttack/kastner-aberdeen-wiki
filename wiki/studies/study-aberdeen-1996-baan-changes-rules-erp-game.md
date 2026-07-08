@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.69
 prescience_obs_count: 16
 ---
 
 # BAAN Changes the Rules of the ERP Game with Dynamic Enterprise Modeling
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.80 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.75 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Baan Company's April 1996 release of BAAN IV, an enterprise resource planning suite featuring Dynamic Enterprise Modeling (DEM) and Orgware technology. The report argues that BAAN IV's process-oriented, dynamically configurable architecture fundamentally advances ERP software beyond the static, parameter-heavy systems of competitors, giving Baan at least a 12-month competitive lead. Aberdeen concludes that Baan should be on every serious ERP evaluation shortlist.
 

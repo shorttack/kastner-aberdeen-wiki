@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.65
 prescience_obs_count: 23
 ---
 
 # IBM's AS/400 Versus Microsoft's NT Server: The Challenge That Is Not
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.68 over 31 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.39 over 31 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analyzes Microsoft's challenge to IBM's AS/400 installed base, arguing that the AS/400 with over 350,000 installations will retain its dominance in midrange commercial computing against Microsoft's NT Server (BackOffice). Aberdeen presents four economic and technical reasons why the challenge will fail: higher total cost for NT due to fat-client PCs, lack of match with AS/400 customer culture, absence of proven migration economics, and AS/400 Advanced Series' superior 64-bit RISC capabilities — predicting the debate will be viewed as 'the challenge that was not' by 1997.
 

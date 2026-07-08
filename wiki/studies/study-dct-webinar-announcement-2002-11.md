@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 0.71
 prescience_obs_count: 7
 ---
 
 # Digital Consumer Technology: The Revolution Has Started — Aberdeen Webinar
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.27 over 11 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.18 over 11 usable obs (1 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Promotional announcement for a 1-hour Aberdeen webinar on Nov 1, 2002 featuring Peter Kastner (EVP/CRO), Russ Craig (Research Director, Semiconductors), and Isaac Ro (Research Associate, Emerging Technologies). Three topics: mobile convergence devices, home media servers, and home networking challenges. Frames DCT as an arena of blurring product boundaries and emergent firms.
 

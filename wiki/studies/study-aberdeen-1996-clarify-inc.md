@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.86
 prescience_obs_count: 21
 ---
 
 # Clarify Inc.
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.33 over 24 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.38 over 24 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Clarify Inc., a San Jose-based leader in customer interaction software (CIS) covering customer service, field service, quality assurance, helpdesk, and sales force automation. The study documents Clarify's integrated best-of-breed strategy, 99% uptime reliability, 100%+ annual revenue growth, linchpin accounts at Microsoft, Cisco, HP, MCI, and Sprint, and the Metropolis Software acquisition providing SFA and mobile computing capabilities. Aberdeen concludes Clarify is 'a CIS winner' positioned to dominate the rapidly consolidating CIS market.
 

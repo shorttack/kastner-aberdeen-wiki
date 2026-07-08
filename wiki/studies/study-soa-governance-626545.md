@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.7
 prescience_obs_count: 20
 ---
 
 # Management and Governance: Planning for an Optimized SOA Application Lifecycle
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.27 over 26 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.46 over 26 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > 24-page Aberdeen Group benchmark report examining effectiveness of IT investments in three SOA lifecycle areas: operations management, design/operations governance, and project/development/ALM tools. Survey of 200+ companies across geographies and industries. Between one-third and half of 950 companies surveyed in 2006 had serious deployment difficulties. Best-in-Class (top 20%) distinguish themselves through experience (33% with >2 years SOA), positive ROI (68%), design-time governance implementation, and automated management/governance solutions (>80%). Three SOA strategies identified: SOA Lite (50%), Enterprise SOA (30%), ERP SOA (20%).
 

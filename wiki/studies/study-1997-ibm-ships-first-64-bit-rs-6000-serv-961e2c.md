@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.15
 prescience_obs_count: 13
 ---
 
 # IBM Ships First 64-bit RS/6000 Server
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.29 over 14 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.36 over 14 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Brief Aberdeen Group Announcement Profile by analyst Tom Willmott reviewing IBM's October 6, 1997 availability of the RS/6000 S70 (code-named Raven), the first 64-bit RS/6000 server. The S70 is a 4-to-12-way SMP server using IBM's RS64 (Apache) 64-bit processor with PCI bus, delivering an estimated 18,000 TPC Transactions Per Minute. The piece contextualizes IBM's Unix market position and the two-phase 1997 RS/6000 product strategy (PowerPC 604e SMP in May, 64-bit RS64 in October).
 

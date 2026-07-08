@@ -3,7 +3,7 @@ title: "Hampton, Virginia Police Department"
 slug: "hampton-va-police-department"
 page_type: "entity"
 tags: ["type/entity", "entity-type/agency"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "hampton-va-police-department"
 entity_type: "agency"
@@ -20,11 +20,6 @@ prescience_obs_count: 1
 # Hampton, Virginia Police Department
 
 > Source of the dispatch software transferred to St. Petersburg FL by ADL recommendation; original system migrated by Andersen Consulting.
-
-
-## Summary
-
-
 
 
 ## Top observations

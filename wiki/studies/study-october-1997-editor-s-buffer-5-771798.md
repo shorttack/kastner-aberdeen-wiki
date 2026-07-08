@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.75
 prescience_obs_count: 4
 ---
 
 # Editor's Buffer (October 1997)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.33 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.50 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > October 1997 editor's column in Database Programming & Design previewing the 1998 Object/Relational Summit. Notes 'The Aberdeen Group's Peter Kastner described well the tough competition facing database vendors not named IBM, Oracle, or Microsoft,' and discusses ODBMS adoption (Thomas Atwood) and Java's JDBC-first orientation.
 

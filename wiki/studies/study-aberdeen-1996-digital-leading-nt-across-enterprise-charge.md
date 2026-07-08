@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.29
 prescience_obs_count: 21
 ---
 
 # Digital: Leading the NT-Across-the-Enterprise Charge
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.69 over 29 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.31 over 29 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > This Aberdeen Group profile (July 1996) evaluates Digital Equipment Corporation's comprehensive NT-across-the-enterprise strategy, encompassing three operating environments (OpenVMS, Digital Unix, Windows NT), a full product suite from commercial desktops to enterprise servers, and a deep strategic partnership with Microsoft. Aberdeen concludes that Digital is uniquely positioned to become the leading enterprise NT supplier because none of its major competitors — IBM, HP, or Sun — are strategically committed to NT, leaving Digital unchallenged at the high end. The study examines channels strategy, ISV application portfolio, systems management capabilities, and the critical Digital-Microsoft relationship.
 

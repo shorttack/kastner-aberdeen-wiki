@@ -3,7 +3,7 @@ title: "SONICblue"
 slug: "sonicblue"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "sonicblue"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # SONICblue
 
 > Competing DVR/entertainment platform
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.67
 prescience_obs_count: 15
 ---
 
 # Can Parallel-Scalable RDBMSs Break the Downsizing Logjam?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.75 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.15 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analysis arguing that parallel-scalable RDBMS technology can resolve the 'downsizing logjam' caused by exploding information demand. Covers SMP, cluster and MPP architectures; fine-grain multiprocessor support; parallel administration; dynamic resource scalability; and selection criteria for parallel-scalable RDBMSs. 23-slide deck used in Informix sales training.
 

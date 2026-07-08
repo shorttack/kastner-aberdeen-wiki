@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.93
 prescience_obs_count: 14
 ---
 
 # PeopleSoft Works The Internet: Information Access By Anybody, Anytime, Any Place
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.90 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.15 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This 1997 Aberdeen Group strategy profile evaluates PeopleSoft's Internet strategy, branded as 'Interprise' (Internet+Enterprise). Aberdeen finds PeopleSoft differentiated by a people-centric, roles-based approach to Internet enablement focused on bringing occasional users—employees, suppliers, customers—into enterprise applications via simple Java-based Universal Applications and an Application Navigator framework. The study covers 15 pilot self-service modules, Supply Chain Collaborator, and partnerships with Internet-enabling technology vendors, predicting PeopleSoft will become a leading EBA vendor for Internet-enabled enterprise.
 

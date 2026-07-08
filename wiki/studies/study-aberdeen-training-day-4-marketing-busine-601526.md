@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.12
 prescience_obs_count: 26
 ---
 
 # Marketing and Business Development Basics (Twelve Vital Hours, Session 4)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.59 over 37 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.86 over 37 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's Day 4 / Session 4 training for new analyst hires, delivered August 2000 by partners Logan, Willmott, and Kastner. Covers the professional-services trust-building framework, supplier product life-cycle stage analysis, how to close supplier-initiated meetings with Profile / RAMP / Personal Retainer Service proposals, and the anatomy of Aberdeen's written proposals. Includes pricing guidelines ($15,000 Profile fee; $60,000-$100,000 RAMP; $15,000/year retainer), the 'numbers game' philosophy for building a client base, and Aberdeen's go-to-market history from 1988 to 1994. Together with Sessions 1, 2, and 3, completes the Twelve Vital Hours orientation curriculum.
 

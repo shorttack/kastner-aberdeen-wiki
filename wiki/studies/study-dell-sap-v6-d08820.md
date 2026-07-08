@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.0
 prescience_obs_count: 22
 ---
 
 # Dell, Oracle & Linux: Your Next SAP Platform? A Major EBA Replacement Cycle is Underway
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.96 over 27 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.19 over 27 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Perspective on the April 28, 2004 Dell-SAP announcement. Argues that over 10,000 Y2K-generation RISC-Unix EBA systems are obsolete and ready for replacement, and positions the Dell/SAP/Oracle/Linux clustered-Intel stack (NetWeaver + mySAP/R3 + Oracle 9i RAC/10g + Dell|EMC SAN) as a lower-cost, standards-based successor. Notes a two-node Dell 6650 cluster delivered 9-16% better SD performance than 8-way RISC/Xeon/Itanium SMP at one-third the cost.
 

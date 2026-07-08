@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.16
 prescience_obs_count: 19
 ---
 
 # Sequent's NUMA-Q 2000 Solutions: Reliability Availability Scalability Plus Technology Investment Protection
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.70 over 23 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.35 over 23 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Sequent Computer Systems' NUMA-Q 2000 server architecture, a fusion of SMP/MPP technologies using Intel Pentium Pro quads and the IQ-Link interconnect scalable to 252 processors. The study positions NUMA-Q 2000 as the technology leader for mission-critical OLTP and data warehousing requiring data-center-class scalability, reporting order-of-magnitude performance improvements over prior Symmetry systems and capacity for 10,000 concurrent user sessions. Aberdeen recommends Sequent for enterprise IS buyers seeking technology investment protection through proven scalability, predicts all hardware suppliers will adopt fusion technology within 2-5 years, and notes Sequent must continue delivering TPC benchmark proof points against competitors including Digital, HP, IBM, NCR, Tandem, Sun, and Data General.
 

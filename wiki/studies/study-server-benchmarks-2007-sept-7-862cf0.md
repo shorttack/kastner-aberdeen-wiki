@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.31
 prescience_obs_count: 16
 ---
 
 # Intel and AMD Server Benchmarks (September 2007)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.84 over 19 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Kastner-authored Excel spreadsheet comparing Intel Xeon 7140M dual-core, Xeon 7350 quad-core, and AMD Opteron 8220se dual-core and Barcelona 8222 across SQL Server database, ERP SAP-SD, Java SPECjbb, Integer SPECint_rate_2006, and SPEC webserver 2005 benchmarks. Includes DP chipset RAS feature comparison for Intel 5000X, 5000P, and 5000V. Primary document of Intel's quad-core lead over AMD's first-generation Barcelona in 2007.
 

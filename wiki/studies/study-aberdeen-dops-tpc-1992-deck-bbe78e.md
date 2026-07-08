@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 0.73
 prescience_obs_count: 11
 ---
 
 # Aberdeen Group — DOPS and TPC-A/TPC-B benchmark results (1992 deck)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.71 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.65 over 17 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group slide deck from February 1992 (dated '2/92' in footer) presenting TPC-A and TPC-B benchmark results and introducing Aberdeen's DOPS (Distributed Online Processing Systems) framework. Highlights an 85% price decline for equivalent transaction-processing capacity from the DEC VAX 8830 (1988 best-performance, $1,800K 5-year cost for 27 tps) to the VAX 3100-80 (1992 entry-level, $280K). Compares TPC-A at 40 tps-A across Bull DPX/2, DEC VAX 4000-300, HP 9000 957LX, IBM AS/400 D70, and IBM RS/6000 530H (costs $450K-$920K). TPC-B results at 39.7-46 tps-B across Compaq 486/50L, DECsystem 5500, HP 9000 807S, Data General AViiON 4600, MIPS 3330, RS/6000 320H, and Sun SPARC Server 2 (cluster ~$100K). Introduces the DOPS environment (multiple databases, networks, hetero-geneous hardware, mixed OLTP/OLDS) with performance issues including 'Production/Snapshot/Test/Runamuck' database categories.
 

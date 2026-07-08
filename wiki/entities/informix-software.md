@@ -2,14 +2,14 @@
 title: "Informix Software Inc."
 slug: "informix-software"
 page_type: "entity"
-tags: ["type/entity", "entity-type/information-technology"]
+tags: ["type/entity", "entity-type/software-vendor"]
 tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "informix-software"
-entity_type: "information-technology"
-sector: "Enterprise Computing"
-status: "[DEFERRED]"
-successor: "Siemens-Nixdorf"
+entity_type: "software-vendor"
+sector: "Database software"
+status: "acquired"
+successor: "IBM (2001, $1B)"
 years_active: "1984-present"
 occurrence_count: 7
 prescience_max: 5.0

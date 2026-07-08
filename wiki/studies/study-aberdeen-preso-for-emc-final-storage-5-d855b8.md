@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.65
 prescience_obs_count: 26
 ---
 
 # Accelerating the Process At Every Step — EMC-Aberdeen Workshop
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.33 over 36 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.53 over 36 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen sales-acceleration deck prepared for EMC outlining a research-driven program to pull through storage solutions. Positions Pools of Storage and Information Lifecycle Management (ILM) as the CIO strategic agenda, argues the 'opening gun just went off' on ILM and predicts ILM will be the big storage-related market battle of the decade. Maps Q1 Storage Research findings on cost, consolidation, retention policies, regulation, and ILM.
 

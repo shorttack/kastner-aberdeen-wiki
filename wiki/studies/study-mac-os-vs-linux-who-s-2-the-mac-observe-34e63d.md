@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 4
 ---
 
 # Mac OS vs. Linux: Who's #2?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.67 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 6 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > The Mac Observer analytical piece reconciling competing claims about #2 desktop OS share between Mac OS X and Linux. Authors aggregate data from HP, IDC, Wired, Gartner, Google browser logs, and analyst commentary — including Peter Kastner's ~3% Mac share estimate (originally to Wired) as a secondary-source quote. Concludes that definitions matter: Linux installed seats (including piracy, embedded, preloaded non-Windows PCs) and active Mac desktop users are measured inconsistently.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.6
 prescience_obs_count: 5
 ---
 
 # Vista: How Soon Until Deployment?
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.75 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > NewsFactor reports analyst views on enterprise Vista adoption pace. Peter Kastner, Aberdeen vice-president and research director for enterprise technology, frames a three-year hardware-lifecycle 'cadence' that places full Vista deployment in 2010 as new Vista-laden machines replace XP. Kastner predicts Microsoft will stop shipping XP in small business retail systems in 2007, forcing Vista uptake. He disagrees with Gartner's recommendation that businesses wait until 2008.
 

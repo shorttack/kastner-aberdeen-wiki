@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.2
 prescience_obs_count: 5
 ---
 
 # Rebates spur buyers but many don't collect
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.43 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.43 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Honolulu Advertiser consumer-business feature (2004-03-07) syndicated from USA Today by Lorrie Grant on the economic mechanics of mail-in rebates. Peter Kastner, analyst at Aberdeen Group, supplies the key consumer-behavior statistic: 'Two people out of five never bother to apply for the rebate.' Supporting material from consumer psychologist Renee Fraser (Fraser Communications), marketing professor Dhruv Grewal (Babson), and Eugene Fram (Rochester Institute of Technology) on FTC redemption-deadline rules and the 5% / 10% manufacturer math behind rebate spend.
 

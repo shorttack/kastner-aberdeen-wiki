@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.94
 prescience_obs_count: 69
 ---
 
 # Appendix: Career Timeline
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.43 over 87 usable obs (0 prefiltered, 3 pending) -> medium; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.53 over 87 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > A structured career timeline spanning Kastner's six-decade arc in computing, from 1960 bookkeeping frustrations through mainframe operation, consulting, vendor marketing, and co-founding Aberdeen Group. The appendix also documents key technology platform transitions witnessed first-hand, Aberdeen Group's complete financial history (1990–2006), and a detailed founding chronology of the Transaction Processing Performance Council (TPC).
 

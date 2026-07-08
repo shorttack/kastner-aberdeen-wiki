@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.22
 prescience_obs_count: 18
 ---
 
 # Internet Infrastructures: 1998 Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.76 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.88 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 analysis of the Internet Infrastructure market, defining the four-component architecture (Application Development Environment, Application Runtime Environment, Service Middleware, and ISP Services) and introducing the 'Internet Object Computing' (IOC) framework. The report assesses the Java vs. Microsoft COM+/DNA battle, the role of CORBA and LDAP, the maturity of EJB and distributed computing standards, and provides competitive profiles of eight major vendors: Borland/Inprise, HP, IBM, Microsoft, Netscape, Novell, Oracle, and Sybase.
 

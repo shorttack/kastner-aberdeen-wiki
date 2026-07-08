@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
 prescience_obs_count: 18
 ---
 
 # The New IBM AIX 4: Not Your Father's 3.2.5
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.82 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.73 over 22 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analyzes the extremely low adoption rate of IBM AIX 4 among RS/6000 users—estimated at less than 10% of the installed base 18 months after launch—and argues that best-practice IS management requires an immediate upgrade from AIX 3.2.5. The study examines user resistance rooted in version-3 PTF fatigue, evaluates AIX 4's modular VRMF architecture and SMP readiness, and concludes that the reward-to-risk ratio overwhelmingly favors migration in 1996.
 

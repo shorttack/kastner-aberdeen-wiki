@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.94
 prescience_obs_count: 17
 ---
 
 # Telecommunications: 1998 Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.28 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.04 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary covering the full telecommunications landscape: deregulation, CLEC/ILEC dynamics, the shift from TDM to packet (IP/ATM) networks, managed services, telecom hardware/software vendors, and OSS/billing. The document profiles managed-services providers and analyzes the competitive forces reshaping carriers, equipment vendors, and ISPs as voice and data networks begin to converge. Key findings include the $670 billion global telecom market size, the growth of IP services alongside dominance of private-line revenues, and the challenge of providing PSTN-grade reliability on packet networks.
 

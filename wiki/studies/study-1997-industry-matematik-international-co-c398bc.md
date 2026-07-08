@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.77
 prescience_obs_count: 13
 ---
 
 # Industri-Matematik International Corp.: Strategic Solution for Fast-Moving, High-Volume Goods Industries
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.83 over 18 usable obs (0 prefiltered, 2 pending) -> high; 2 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.71 over 17 usable obs (0 prefiltered, 3 pending) -> high; 3 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Industri-Matematik International Corp. (IMI / NASDAQ: IMIC), a Swedish supply chain software vendor targeting fast-moving, high-volume consumer and industrial goods. The study evaluates IMI's System ESS — a UNIX/NT-based three-tier client-server order fulfillment platform using Oracle as RDBMS and Trifox TRIMtools/VORTEX for database abstraction. Aberdeen analyzes IMI's pull-driven demand-chain management model, promotion management capabilities, and Internet Commerce Workbench (ICW). The study covers IMI's FY96 revenue of $40M (with $18M from North America, a 9x increase in two years), its 1996 IPO raising $33M, and its phased OO/Internet migration roadmap. Aberdeen concludes IMI's System ESS is best-in-class for CPG and wholesale distribution demand-chain.
 

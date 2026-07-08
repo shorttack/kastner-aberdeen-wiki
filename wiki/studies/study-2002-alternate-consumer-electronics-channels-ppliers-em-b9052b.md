@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.57
 prescience_obs_count: 7
 ---
 
 # Alternate Consumer Electronics Channels and Suppliers Emerge, Threatening Incumbents
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.09 over 11 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.73 over 11 usable obs (0 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > This Aberdeen InSight, published July 2002, examines how cable operators, telecom companies, and direct-broadcast satellite providers were emerging as alternative consumer electronics channels, threatening incumbents like Best Buy, Circuit City, Sony, and Panasonic. The study argues that service and content providers were leveraging hardware bundles to deepen customer lock-in, and projects that emerging technologies would amplify long-term disruption of traditional CE retail channels.
 

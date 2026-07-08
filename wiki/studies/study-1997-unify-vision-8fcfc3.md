@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.79
 prescience_obs_count: 19
 ---
 
 # Unify VISION: The Future Of High-End Internet Software Development
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.72 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.04 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's April 1997 Product Viewpoint evaluates Unify VISION as a high-end software development toolset capable of bridging mature client-server functionality with emerging Internet and Java architectures. The report benchmarks VISION against five key criteria — scalability, Java integration, multi-tier architecture support, portability, and rapid application development — and concludes that VISION's planned Java embedding and multi-tier capabilities position it as a credible enterprise platform. Aberdeen predicts that vendors failing to commit to Java will lose enterprise relevance within two to three years.
 

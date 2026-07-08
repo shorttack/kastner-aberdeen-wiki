@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
 prescience_obs_count: 4
 ---
 
 # Tech Investor: Deflation, the dropping dollar, and tech
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.20 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.40 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > CNN/Money Tech Investor column (May 21 2003) by Eric Hellweg analyzing the 'toxic twins' of a weakening dollar (Treasury Secretary John Snow signaling departure from the strong-dollar policy) and deflation fears (April CPI down 0.3%, biggest drop in 19 months). Peter Kastner, chief research officer at Aberdeen Group, provides the central analyst voice on why deflation is the '800-pound gorilla in the room': 'Hardware manufacturers have to produce and sell a lot more units at a lower price to keep up on the revenue treadmill. Units are up almost 30 percent at Dell, but revenues were only up 18 percent.' Kastner argues the tech industry is 'inherently deflationary' and therefore more resilient than other sectors — but warns the unit-revenue gap will squeeze PC-maker margins.
 

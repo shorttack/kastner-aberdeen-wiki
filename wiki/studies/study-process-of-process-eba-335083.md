@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.64
 prescience_obs_count: 14
 ---
 
 # The "Process of Process": EBA in the Process Manufacturing Industries
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.50 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.83 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This 90-page Aberdeen Group report examines Enterprise Business Applications (EBA) for the process manufacturing sector, including food, chemical, pharmaceutical, and other continuous-process industries. It evaluates major EBA suppliers, their core products, key alliances, and vertical industry targeting, while identifying the unique IT requirements of process manufacturers including potency control, temperature regulation, shelf life, catch-weight management, and regulatory compliance tracking. The report benchmarks market dynamics and critical success factors for both users and suppliers of process-specific enterprise software.
 

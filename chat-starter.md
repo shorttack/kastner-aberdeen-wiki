@@ -38,6 +38,34 @@ FROM v_prescience_by_decade
 ORDER BY high_prescience_studies DESC;
 ```
 
-## 4-20
+## 4. Which studies were prescient at 3 years? (v1.6)
+
+**SQL**
+```sql
+SELECT study_id, title, prescience_3y_enum
+FROM v_studies_with_sh_verdicts
+WHERE prescience_3y_enum = 'high'
+ORDER BY title;
+```
+
+## 5. Which studies were prescient at 5 years? (v1.6)
+
+```sql
+SELECT study_id, title, prescience_5y_enum
+FROM v_studies_with_sh_verdicts
+WHERE prescience_5y_enum = 'high'
+ORDER BY title;
+```
+
+## 6. Show the 3-year vs 5-year score distribution (v1.6)
+
+```sql
+SELECT '3y' AS horizon, prescience_3y AS score, n FROM v_sh_3y_distribution
+UNION ALL
+SELECT '5y', prescience_5y, n FROM v_sh_5y_distribution
+ORDER BY horizon, score;
+```
+
+## 7-20
 
 (See `AGENTS.md` for query recipes; remaining prompts grow with usage.)

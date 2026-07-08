@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 2.0
 prescience_mean: 1.0
 prescience_obs_count: 5
 ---
 
 # Microsoft Scalability Day: The Emperor Has No Clothes
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.43 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.71 over 7 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > A short Aberdeen Group commentary assessing Microsoft's claims at its Scalability Day event circa 1997. Kastner argues NT remains unsuitable for Fortune 500 enterprise environments and that partner solutions are required to achieve high transaction rates, availability, and fault tolerance. He concludes that Unix, AS/400, and mainframes remain the legitimate province of the enterprise high-end.
 

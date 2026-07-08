@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 0.1
 prescience_obs_count: 86
 ---
 
 # IBM's AS/400 and SAP's R/3: Making the Complex and Slow Both Simple and Fast
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.53 over 38 usable obs (73 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 38 usable obs (73 prefiltered, 1 pending) -> high; 1 obs still pending (verdict may shift) [high>=3.5, medium>=2.0].
 
 > Profile examining the IBM AS/400 and SAP R/3 partnership, evaluating AS/400 Advanced Series with PowerPC AS processors and SAP R/3 v3.0 as a platform for enterprise reengineering.
 

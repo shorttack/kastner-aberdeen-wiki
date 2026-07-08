@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
 ---
 
 # Informix Competitive Update — Kastner Address to Informix Sales (RDBMS Jungle)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.10 over 20 usable obs (7 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.90 over 20 usable obs (7 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Peter S. Kastner addresses the Informix sales force in February 1994 on the competitive RDBMS landscape — characterized as a 'jungle' with Oracle, Sybase, Ingres, and Informix on a common playing field across extensibility, scalability, development tools, performance, distributed data, and large-database capability. Kastner ranks Informix #4 in revenue but best in margin (15.3%) vs Oracle (11%), Sybase (10%), and Ingres (-4%), and predicts Informix stock to $44/share, parallel DB via DSA, late-1994 replication parity, and massively parallel systems eclipsing mainframes.
 

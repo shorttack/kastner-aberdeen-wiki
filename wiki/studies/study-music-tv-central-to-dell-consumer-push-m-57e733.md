@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.0
 prescience_obs_count: 6
 ---
 
 # Music, TV Central to Dell Consumer Push
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 7 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > CBS MarketWatch coverage of Dell's September 2003 consumer-electronics expansion — launching a 17-inch LCD TV and Dell Jukebox digital music player — explicitly framed as a challenge to Apple and Gateway in the music/TV consumer space. Peter Kastner of Aberdeen Group predicts Dell's low-cost direct business model will pay off: 'Dell.com becoming even more of an online electronics superstore.' Competitor Gateway's Mike Moeller disputes that selling music and TVs is enough.
 

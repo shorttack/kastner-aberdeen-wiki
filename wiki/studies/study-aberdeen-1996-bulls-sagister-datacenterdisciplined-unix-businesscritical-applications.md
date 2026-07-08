@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.05
 prescience_obs_count: 21
 ---
 
 # Bull's Sagister: Datacenter-Disciplined UNIX for Business-Critical Applications
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.76 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.60 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group evaluates Groupe Bull's Sagister product, a hardware/software/services package combining PowerPC-based RISC/UNIX systems with mainframe-discipline operational tooling for enterprise datacenters. The study argues Sagister uniquely bridges the gap between UNIX flexibility and mainframe reliability through four architecture tiers (Escala, AIX 4.1, HACMP, ISM/OpenMaster) and optional Function Sets for production, security, and mainframe interoperability. Aberdeen provides comparative analysis against IBM RS/6000 SP, HP MC/ServiceGuard/OpenView, DEC TruCluster, and CA-Unicenter.
 

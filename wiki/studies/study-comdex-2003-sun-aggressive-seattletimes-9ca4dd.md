@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.8
 prescience_obs_count: 5
 ---
 
 # Comdex 2003: Sun Microsystems sets new, aggressive strategy
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.88 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.00 over 8 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Seattle Times article (Nov 18 2003, Kim Peterson) reporting Scott McNealy's Comdex 2003 keynote where Sun unveiled two aggressive pivots: (1) Sun Fire servers using AMD Opteron processors, and (2) a strategic partnership with China Standard Software for Java Desktop System rollout to 200 million Chinese desktops at $100/user. Sun was then in deep trouble — $286M Q4 FY03 loss, 2+ years of revenue declines, stock at $4.08. Peter Kastner of The Aberdeen Group frames the Opteron move as a direct IBM challenge: 'Sun can use AMD's Opteron to compete directly against IBM in the head-to-head Opteron battle for price-conscious buyers of high-performance computers.' He also notes the customer-retention angle. Yankee Group's Dana Gardner highlights the novel nation-level sales strategy: 'It's a lot easier to sell to a whole country vis-a-vis a government than it is to go company by company.'
 

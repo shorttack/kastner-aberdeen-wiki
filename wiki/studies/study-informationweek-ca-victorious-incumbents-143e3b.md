@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 2
 ---
 
 # Victorious Incumbents Vow Change For CA
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.60 over 5 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.40 over 5 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > InformationWeek reports the aftermath of the Sam Wyly proxy fight against Computer Associates' incumbent board (Charles Wang/Sanjay Kumar). Aberdeen Group analyst Peter Kastner argues CA's customer-facing changes were driven by a 'standing pejorative that CA screws its customers' rather than by Wyly pressure — CA was already 'tweaking sales and support organization' continuously. Customer Andrew Winer of Myers Industries voiced relief that splitting the company was averted. Date inferred from Wyly post-fight context [REVIEW].
 

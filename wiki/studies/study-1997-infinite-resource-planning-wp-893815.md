@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.35
 prescience_obs_count: 17
 ---
 
 # Infinite Resource Planning: A Manifesto For 21st Century Enterprise Applications
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.32 over 25 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.96 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group introduces Infinite Resource Planning (IRP) as the inevitable next paradigm in enterprise computing driven by convergence of Object-Oriented Technology, Internet technology, and Network-Centric Computing Architectures. IRP is presented as enabling true cross-organizational supply chain integration and best-of-breed horizontal business process applications delivered via Internet-enabled component architectures.
 

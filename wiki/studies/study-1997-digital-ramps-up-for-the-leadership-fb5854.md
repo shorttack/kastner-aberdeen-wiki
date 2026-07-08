@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.08
 prescience_obs_count: 24
 ---
 
 # Digital Ramps Up For The Leadership Role in High Performance Technical Computing
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.50 over 28 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.32 over 28 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group analyzed Digital Equipment Corporation's HPTC initiative in June 1997, assessing the AlphaServer platform, TruCluster clustering technology, and workstation lineup against competitors SGI, IBM, HP/Convex, and Sun. Aberdeen concluded Digital was well-positioned for market share gains in 64-bit Unix SMP/clustering, with specific application opportunities in EDA, geoscience, financial services, biosciences, and entertainment.
 

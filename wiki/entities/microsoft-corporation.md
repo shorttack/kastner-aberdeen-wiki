@@ -8,8 +8,8 @@ source_csv: "_master_entities.csv"
 entity_id: "microsoft-corporation"
 entity_type: "software-vendor"
 sector: "Information Technology"
-status: "acquired"
-successor: "Oracle Corporation (1995)"
+status: "active"
+successor: ""
 years_active: "1975-present"
 occurrence_count: 17
 prescience_max: 5.0

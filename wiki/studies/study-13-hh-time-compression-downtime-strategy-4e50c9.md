@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 4.0
 prescience_mean: 0.5
 prescience_obs_count: 14
 ---
 
 # Time Compression - Downtime Strategy: Formulas and Business Case
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.50 over 18 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.39 over 18 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Working document containing financial formulas and a detailed business case for demonstrating TCO savings from migrating from traditional tape-based nearline storage to a midline disk plus tape combination. Models downtime reduction for a large financial services company with 1 million customers by quantifying backup time savings and customer revenue impact. Provides specific dollar-per-GB pricing for online (HDS 9980V at $31.60/GB) midline ($9.30/GB) and nearline disk/tape systems.
 

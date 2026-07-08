@@ -2,14 +2,14 @@
 title: "Sybase Inc"
 slug: "sybase"
 page_type: "entity"
-tags: ["type/entity", "entity-type/marketing-services"]
+tags: ["type/entity", "entity-type/software-vendor"]
 tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "sybase"
-entity_type: "marketing-services"
+entity_type: "software-vendor"
 sector: "Database / Development Tools"
-status: "dissolved"
-successor: "Compaq (1997); then HP (2002); technology lives on as HPE NonStop"
+status: "acquired"
+successor: "SAP AG (2010, $5.8B)"
 years_active: "1910-present"
 occurrence_count: 15
 prescience_max: 5.0

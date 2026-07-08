@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 4.0
 prescience_mean: 2.4
 prescience_obs_count: 15
 ---
 
 # TME 10 Security Management: Mainframe-class Security for Enterprise Network Computing
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.70 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.65 over 20 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group profiles Tivoli's TME 10 Security Management product, positioning it as the first solution to bring mainframe-class security (RACF/ACF2-style) to distributed enterprise networks spanning Unix, Windows NT, Novell NetWare, and OS/390. The study documents IS executive frustrations with fragmented, platform-specific security tools and concludes that TME 10 SM fills a critical gap in Tivoli's product portfolio. Aberdeen recommends IS executives evaluate the product immediately as it resolves the longstanding challenge of consistent enterprise security policy enforcement across heterogeneous platforms.
 

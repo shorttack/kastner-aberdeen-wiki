@@ -8,8 +8,8 @@ source_csv: "_master_entities.csv"
 entity_id: "stratus-technologies"
 entity_type: "corporation"
 sector: "fault-tolerant computing"
-status: "active (as of 2024)"
-successor: "Compaq (1998) then HP (2002)"
+status: "active"
+successor: ""
 years_active: "1975-present"
 occurrence_count: 3
 prescience_max: 4.0

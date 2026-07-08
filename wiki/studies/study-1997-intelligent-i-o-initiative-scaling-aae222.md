@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "high"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.46
 prescience_obs_count: 13
 ---
 
 # Intelligent I/O Initiative: Scaling Bandwidth for System Performance
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.67 over 15 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.13 over 15 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group examines the I2O (Intelligent I/O) specification being developed by the I2O Special Interest Group. The paper argues I2O will be an important server capability for addressing I/O bottlenecks and recommends IS planners require I2O-Ready servers. Aberdeen examines performance and scalability benefits and the participation of Intel architecture server vendors including Compaq HP and IBM.
 

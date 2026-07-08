@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
 study_prescience_enum: "medium"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.75
 prescience_obs_count: 12
 ---
 
 # DynaFlo Systems: E-Mail For The Business Masses
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.69 over 16 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.50 over 16 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group vendor profile of DynaFlo Systems and its PushMail product, a cost-effective Internet email solution targeting Service Providers (ISPs) seeking to expand beyond early adopters. Aberdeen field research found many ISPs were growing sales while losing money; DynaFlo's PushMail offered ISPs a high-margin add-on service to reach the larger non-connected business market (9 of 10 businesses had not yet connected to the Internet in 1997).
 

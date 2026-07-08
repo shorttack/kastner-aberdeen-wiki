@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.9
 prescience_obs_count: 20
 ---
 
 # Reconciling Client/Server Development and the Internet
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.04 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group impact report examining how corporations should reconcile existing client/server development investments with emerging Internet-based application deployment. Authored by analyst Tim Sloane, it argues against dual-tool strategies and advocates for Web-enabled client/server tools rather than pure Internet or Java-based approaches. Sponsored by 3Com.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.26
 prescience_obs_count: 23
 ---
 
 # Data Knowledge: 1998 Practice Summary
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.43 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.27 over 30 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's 1998 practice summary for the Data Knowledge and Complex Decision Support practice, covering data warehousing, data marts, OLAP, query/reporting/analysis tools, data mining, and Customer Relationship Management (CRM). The report frames these technologies as components of an enterprise Data Knowledge strategy and assesses their integration with CIS, ERP, and Electronic Commerce applications. Thirteen primary vendors receive detailed abstracts including NCR/Teradata, IBM, Oracle, Cognos, Business Objects, SAS, Arbor/Essbase, and MicroStrategy, plus a second tier of over a dozen additional suppliers.
 

@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "low"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 3.27
 prescience_obs_count: 15
 ---
 
 # Breakthrough: Objective Communications' VidModem Technology Transforms The Phone Line Into A Two-Way, Broadcast-Quality Multi-Medium
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=2.71 over 17 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.00 over 17 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Evaluates Objective Communications' VidModem signal processing technology which enables two-way broadcast-quality video (NTSC/PAL/S-VHS) and stereo audio over existing twisted-pair phone lines using single-sideband FM. The technology eliminates need for rewiring and provides video at below $3000/user. Aberdeen identifies VidModem as a potential breakthrough for enterprise multimedia applications in call centers, banking, medical, and manufacturing. Notes partnership risks given dependency on telco ATM buildout (comparing to ISDN delays) and recommends IS shops with WAN infrastructure trial the technology.
 

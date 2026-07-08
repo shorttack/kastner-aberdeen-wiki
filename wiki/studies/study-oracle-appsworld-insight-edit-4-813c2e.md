@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.69
 prescience_obs_count: 16
 ---
 
 # A Kinder, Gentler Larry Ellison? Oracle Turns New Face to Its User Community
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.41 over 17 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=3.41 over 17 usable obs (0 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Insight by Katherine Jones covering Oracle Apps World San Diego (Apr 2002). Notes a shift in Oracle tone — from new-product strutting to installed-base upgrade focus on the e-Business 11i Suite, rapprochement with OAUG, rebirth of outsourcing (Oracle hosting with claimed 31-84% IT infrastructure savings), and a new customer-care role for Mark Barranchea. Written during the post-dot-com downturn that constrained new-license revenue.
 

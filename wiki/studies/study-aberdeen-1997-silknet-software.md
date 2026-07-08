@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.05
 prescience_obs_count: 20
 ---
 
 # Silknet Software: Changing the Rules for Next-Generation Customer Support Applications
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.54 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.79 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > This July 1997 Aberdeen Group Product Viewpoint profiles Silknet Software's eService, characterizing it as the first viable internet-native customer support application built from the ground up for web deployment. Aberdeen identifies four trends driving next-generation customer support — problem resolution, customer self-service, enterprise integration, and multimedia — and asserts that Silknet's thin-client architecture uniquely satisfies all four. The study predicts Silknet will radically redefine the $1B+ customer interaction software (CIS) market, forcing client-server incumbent vendors (call-tracking specialists) to fundamentally rethink their product strategies.
 

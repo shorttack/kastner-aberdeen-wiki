@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 3.78
 prescience_obs_count: 18
 ---
 
 # Web Warehouses: DSS For The Masses
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.00 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.44 over 25 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group argues that the combination of the World Wide Web, Relational OLAP, and parallel-scalable hardware will 'democratize' enterprise data warehousing by dramatically reducing per-seat decision support costs (Web browser at ~$50/seat vs. $1,000/seat for traditional DSS software). The study analyzes Web-based decision support architecture, identifies hurdles to enterprise adoption (security, CGI bottlenecks, browser immaturity), and concludes that Web-enabled warehouses will transform enterprise competitive behavior.
 

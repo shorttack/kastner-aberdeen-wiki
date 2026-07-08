@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.05
 prescience_obs_count: 20
 ---
 
 # Dell Precision: Performance and Reliability for Workstation Class Applications (Q2 FY04)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.96 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.92 over 24 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Dell confidential (NDA) Q2 FY04 launch briefing for the new Dell Precision 370/470/670 workstation line. Documents adoption of DDR2 memory, PCI Express graphics/IO, integrated SATA RAID, and Intel EM64T 64-bit extensions on Xeon and Pentium 4 CPUs. Positioned as a low-risk, standards-based evolutionary path to 64-bit workstation computing.
 

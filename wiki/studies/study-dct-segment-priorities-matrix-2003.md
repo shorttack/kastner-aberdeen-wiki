@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 1.85
 prescience_obs_count: 13
 ---
 
 # DCT Segment Priorities Matrix (Home / Work / Mobile)
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=3.56 over 16 usable obs (5 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=3.56 over 16 usable obs (5 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Personal IT / DCT segment-priorities matrix cross-tabulating four technology categories (Computers & Peripherals, Networking, Productivity Apps & Services, Leisure & Entertainment) against three contexts (Home, Work, Mobile). Captures priority rankings with analyst notes — including desktop-CPU 2.2->3.6 GHz 18-month roadmap, Pentium 4 laptop impact, 2002 as a 'banner year for home networks' caveated on wireless usability, and 2003 PC/TV/stereo integration outlook.
 

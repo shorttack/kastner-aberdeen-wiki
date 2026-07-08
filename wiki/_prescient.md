@@ -9,7 +9,7 @@ tier: 1
 
 ## Obs-level (Pass C, model=qwen3.5:27b-mlx)
 
-Top 50 studies by `prescience_max` (≥4) then `prescience_mean`.
+**Total: 876 studies with prescience_max ≥ 4** (top 50 shown below; sorted by `prescience_max` then `prescience_mean`).
 
 | Study | P_max | P_mean | Year |
 |---|---:|---:|---:|
@@ -66,7 +66,7 @@ Top 50 studies by `prescience_max` (≥4) then `prescience_mean`.
 
 ## Study-level (holistic enum = `high`)
 
-Original-ingest holistic rating; complementary to the obs-level scores above.
+**Total: 503 studies with holistic rating `high`** (top 50 shown below; sorted by `pub_year`). Original-ingest holistic rating; complementary to the obs-level scores above.
 
 | Study | Year | Type |
 |---|---:|---|

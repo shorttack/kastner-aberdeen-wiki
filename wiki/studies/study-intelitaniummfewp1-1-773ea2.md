@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "medium"
+prescience_3y_enum: "medium"
+prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 1.0
 prescience_obs_count: 26
 ---
 
 # Intel's Itanium: Ready and Desirable for Mainframe-Class Workloads
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** medium — 3y Rule A: mean=3.00 over 33 usable obs (3 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
+- **5-year verdict:** medium — 5y Rule A: mean=2.67 over 33 usable obs (3 prefiltered, 0 pending) -> medium [high>=3.5, medium>=2.0].
 
 > Aberdeen Executive White Paper examining readiness of Intel Itanium-based platforms to handle mainframe-class workloads vs. IBM zSeries mainframes. Based on user interviews with Xeon/Itanium adopters and a survey of ~100 mainframe users. Finds Itanium ready and often desirable for mainframe-class workloads including batch, OLTP, data warehousing, and ERP; 40% of mainframe users open to migration. Key advantages: price/performance, flexibility, programmer productivity, lower TCO. Key barriers: migration risk and technology roadmap risk.
 

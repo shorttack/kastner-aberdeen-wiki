@@ -17,12 +17,20 @@ license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
 study_prescience_enum: "high"
+prescience_3y_enum: "high"
+prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.47
 prescience_obs_count: 15
 ---
 
 # Taming SAP R/3 With Consultant-Led Enterprise Introspection
+
+
+## Short-horizon prescience (3-year / 5-year)
+
+- **3-year verdict:** high — 3y Rule A: mean=4.14 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
+- **5-year verdict:** high — 5y Rule A: mean=4.52 over 21 usable obs (0 prefiltered, 0 pending) -> high [high>=3.5, medium>=2.0].
 
 > Aberdeen Group's Viewpoint argues that successful SAP R/3 implementations require enterprise introspection before deployment: organizations must honestly evaluate their need for change, ability to adopt R/3 best practices, and internal resource availability. The study introduces a three-question framework for determining implementation path, critiques both 'Big Bang' and 'blue-sky' reengineering approaches, and recommends consultant-led strategic analysis to determine the correct path and budget before R/3 deployment.
 

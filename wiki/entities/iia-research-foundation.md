@@ -3,7 +3,7 @@ title: "The Institute of Internal Auditors Research Foundation"
 slug: "iia-research-foundation"
 page_type: "entity"
 tags: ["type/entity", "entity-type/institution"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "iia-research-foundation"
 entity_type: "institution"
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # The Institute of Internal Auditors Research Foundation
 
 > Research arm of The IIA; publishes internal-audit research
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -11,7 +11,7 @@ vendor: "industry-wide"
 era: "1970s-present"
 lifecycle_at_study: "dominant"
 lifecycle_current: "current"
-occurrence_count: 21
+occurrence_count: 24
 prescience_max: 5.0
 prescience_mean: 2.56
 prescience_obs_count: 16
@@ -20,6 +20,8 @@ prescience_obs_count: 16
 # Online Transaction Processing (OLTP)
 
 > Core market concept; $26B market at time, expected to reach $60B by 1991; metrics: transactions-per-second, dollars-per-TPS, response time; 90-95% of transactions must complete in 1-2 seconds
+---
+[merged from audio-conferencing] Oracle PowerObjects RAD environment was discontinued circa 1998; replaced by Oracle Developer/Forms and JDeveloper. | Successor: Oracle JDeveloper / Oracle APEX
 
 
 ## Summary

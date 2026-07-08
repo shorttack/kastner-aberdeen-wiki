@@ -3,7 +3,7 @@ title: "BroadVision, Inc."
 slug: "broadvision"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "broadvision"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 8
 # BroadVision, Inc.
 
 > Founded 1993 by Pehong Chen; IPO 1996; stock peaked at $26B market cap in 2000; struggled post dot-com crash; acquired by ESW Capital (private equity) in May 2020; still operating as of 2024 (NASDAQ: BVSN).
+
+
+## Summary
+
+
 
 
 ## Top observations

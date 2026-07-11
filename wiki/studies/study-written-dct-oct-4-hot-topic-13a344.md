@@ -1,12 +1,12 @@
 ---
-title: "Written Dct Oct. 4 Hot Topic (Aberdeen, 2003)"
+title: "New Consumer Electronics Categories Appear in Time for Christmas"
 slug: "study-written-dct-oct-4-hot-topic-13a344"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-dct-oct-4-hot-topic-13a344"
-author: "Russ Craig & Peter Kastner _AberdeenGroup is a leading market analysis and positioning ser-_"
+author: "Russ Craig / Aberdeen Group"
 date: "2003-01-01"
 pub_year: 2003
 type: "market-study"
@@ -24,12 +24,12 @@ prescience_mean: 0.67
 prescience_obs_count: 6
 ---
 
-# Written Dct Oct. 4 Hot Topic (Aberdeen, 2003)
+# New Consumer Electronics Categories Appear in Time for Christmas
 
-> Aberdeen Group study written-dct-oct-4-hot-topic-13a344. Source: Written__DCT Oct. 4 hot topic.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: Linux. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> An October 2003 Aberdeen Group 'Hot Topic' covering new consumer-electronics products launching for the holiday season, including Hand Held Entertainment's pocket video/music player, Roku's HD1000 digital media player, and an NEC fuel-cell-powered laptop prototype. The piece concludes that non-traditional CE entrants and strong price competition (including from Dell) will pressure established global CE brands during the 2003 holiday season.
 
 
-_Published 2003, author **Russ Craig & Peter Kastner _AberdeenGroup is a leading market analysis and positioning ser-_**, type **market-study**._
+_Published 2003, author **Russ Craig / Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

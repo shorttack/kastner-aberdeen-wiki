@@ -1,15 +1,15 @@
 ---
-title: "Ba Mobilemessaging Apw Bs 3703 (Aberdeen, 2006)"
+title: "The Enterprise Mobile Messaging Benchmark Report"
 slug: "study-ba-mobilemessaging-apw-bs-3703-2a96a0"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ba-mobilemessaging-apw-bs-3703-2a96a0"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ba_mobilemessaging_apw_bs_3703.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.27
 prescience_obs_count: 63
 ---
 
-# Ba Mobilemessaging Apw Bs 3703 (Aberdeen, 2006)
+# The Enterprise Mobile Messaging Benchmark Report
 
-> Aberdeen Group study ba-mobilemessaging-apw-bs-3703-2a96a0. Source: ba_mobilemessaging_apw_bs_3703.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This December 2006 benchmark report examines enterprise adoption of mobile messaging applications, finding that 68% of surveyed organizations use two or more mobile messaging tools and that security is the leading adoption challenge. It uses Aberdeen's Best-in-Class/PACE framework to show that 67% of Best-in-Class organizations have unified mobile messaging infrastructure, and offers recommendations for defining metrics and integrating mobile messaging with back-end systems.
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

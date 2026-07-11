@@ -1,15 +1,15 @@
 ---
-title: "Patchlinksnapshot (Aberdeen, 2002)"
+title: "PatchLink Corporation: Company Snapshot"
 slug: "study-patchlinksnapshot-a10275"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "patchlinksnapshot-a10275"
 author: "Aberdeen Group"
 date: "2002-01-01"
 pub_year: 2002
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "telecommunications"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "patchlinksnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Patchlinksnapshot (Aberdeen, 2002)
+# PatchLink Corporation: Company Snapshot
 
-> Aberdeen Group study patchlinksnapshot-a10275. Source: patchlinksnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: telecommunications. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling PatchLink Corporation, a privately held supplier of automated security patch management solutions, including PatchLink Update, WebConsole Universal, and eManagement Services. It covers company facts, markets served, products, and related Aberdeen research on automated security patching.
 
 
-_Published 2002, author **Aberdeen Group**, type **market-study**._
+_Published 2002, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes PatchLink Corporation: Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

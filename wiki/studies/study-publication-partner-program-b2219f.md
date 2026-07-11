@@ -1,15 +1,15 @@
 ---
-title: "Publication Partner Program (Aberdeen, 2006)"
+title: "Aberdeen Publication Partner Program: Program Overview"
 slug: "study-publication-partner-program-b2219f"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/corporate-policy"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "publication-partner-program-b2219f"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "corporate-policy"
 subject_domain: "technology-market-analysis"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "publication_partner_program.pdf"
@@ -24,15 +24,15 @@ prescience_mean: -0.5
 prescience_obs_count: 2
 ---
 
-# Publication Partner Program (Aberdeen, 2006)
+# Aberdeen Publication Partner Program: Program Overview
 
-> Aberdeen Group study publication-partner-program-b2219f. Source: publication_partner_program.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A 2006 promotional/program overview describing Aberdeen Group's Publication Partner Program, which aligns Aberdeen's research with media partners' subscribers through co-branded promotion, complimentary research offers, and press coverage. It details the value proposition, partner commitments (survey promotion and research download offers), and publication partner packet contents.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Aberdeen Group**, type **corporate-policy**._
 
 
 ## Top observations
 
 - Complimentary research offer for all subscribers (a $399 value) with advanced request option `[ps=0]`
-- This study analyzes ==> picture [506 x 55] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Aberdeen Publication Partner Program: Program Overview using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

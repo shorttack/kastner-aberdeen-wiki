@@ -1,15 +1,15 @@
 ---
-title: "Ra Final Endpointnac Bg 3723 (Aberdeen, 2006)"
+title: "Endpoint Security Strategies Part I: The Network Access Control Benchmark"
 slug: "study-ra-final-endpointnac-bg-3723-84f1e0"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-final-endpointnac-bg-3723-84f1e0"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_final_endpointnac_bg_3723.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.41
 prescience_obs_count: 82
 ---
 
-# Ra Final Endpointnac Bg 3723 (Aberdeen, 2006)
+# Endpoint Security Strategies Part I: The Network Access Control Benchmark
 
-> Aberdeen Group study ra-final-endpointnac-bg-3723-84f1e0. Source: ra_final_endpointnac_bg_3723.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This November 2006 benchmark report finds most IT organizations have limited or no visibility into the compliance or malware infection state of non-managed PCs connecting to their networks, while Best-in-Class companies maintain high or complete visibility both pre- and post-admission. It outlines a three-stage maturity model for managing endpoint access (visibility, policy definition, and guest access) illustrated by a case example (Canaras Capital Management).
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

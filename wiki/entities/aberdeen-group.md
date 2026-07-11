@@ -14,7 +14,7 @@ years_active: "1988-2001 (original); rebranded multiple times"
 occurrence_count: 274
 prescience_max: 5.0
 prescience_mean: 1.24
-prescience_obs_count: 1575
+prescience_obs_count: 1587
 ---
 
 # Aberdeen Group / Aberdeen Laboratories

@@ -1,15 +1,15 @@
 ---
-title: "2005 Dtp Research Listing 020105A (Aberdeen, 2005)"
+title: "2005 Design-to-Procure Research Agenda"
 slug: "study-2005-dtp-research-listing-020105a-b6b16d"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "2005-dtp-research-listing-020105a-b6b16d"
 author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2005_dtp_research_listing_020105a.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# 2005 Dtp Research Listing 020105A (Aberdeen, 2005)
+# 2005 Design-to-Procure Research Agenda
 
-> Aberdeen Group study 2005-dtp-research-listing-020105a-b6b16d. Source: 2005_dtp_research_listing_020105a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This document is a listing of Aberdeen's planned Design-to-Procure (procurement and sourcing) benchmark studies scheduled across the 2005 calendar quarters. It previews upcoming research topics rather than presenting findings from a completed study.
 
 
-_Published 2005, author **Aberdeen Group**, type **benchmark**._
+_Published 2005, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 109] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes 2005 Design-to-Procure Research Agenda using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

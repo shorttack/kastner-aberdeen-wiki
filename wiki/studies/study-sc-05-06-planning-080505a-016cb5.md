@@ -1,15 +1,15 @@
 ---
-title: "Sc 05 06 Planning 080505A (Aberdeen, 2005)"
+title: "Planning and Advanced Analytics Research Agenda"
 slug: "study-sc-05-06-planning-080505a-016cb5"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "sc-05-06-planning-080505a-016cb5"
 author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "market-study"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "sc_05-06_planning_080505a.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Sc 05 06 Planning 080505A (Aberdeen, 2005)
+# Planning and Advanced Analytics Research Agenda
 
-> Aberdeen Group study sc-05-06-planning-080505a-016cb5. Source: sc_05-06_planning_080505a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This 2005 Aberdeen Group document is a research agenda/calendar listing planned Planning and Advanced Analytics studies from 3Q05 through 4Q06, organized by document type (Major Studies, Business Value Reports, Technology Strategy Briefs, Mid Market Briefs, Enterprise Strategy Briefs, Thought Leadership Briefs, CPG Sector Briefs). It is a listing of upcoming topics rather than a completed study with findings.
 
 
-_Published 2005, author **Aberdeen Group**, type **market-study**._
+_Published 2005, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 109] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Planning and Advanced Analytics Research Agenda using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

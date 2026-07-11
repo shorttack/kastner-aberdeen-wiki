@@ -1,15 +1,15 @@
 ---
-title: "Microsoftsnapshot (Aberdeen, 2001)"
+title: "Microsoft Corporation — Company Snapshot"
 slug: "study-microsoftsnapshot-eec9a2"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "microsoftsnapshot-eec9a2"
 author: "Aberdeen Group"
 date: "2001-01-01"
 pub_year: 2001
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "retail"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "microsoftsnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Microsoftsnapshot (Aberdeen, 2001)
+# Microsoft Corporation — Company Snapshot
 
-> Aberdeen Group study microsoftsnapshot-eec9a2. Source: microsoftsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: retail. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling Microsoft's identity management and security products, including .Net Passport, Windows-integrated security controls, and Internet Security and Acceleration Server. It covers company facts, markets, partnerships, management (Bill Gates, Steve Ballmer), and related Aberdeen research on identity and access management.
 
 
-_Published 2001, author **Aberdeen Group**, type **market-study**._
+_Published 2001, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Microsoft Corporation — Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

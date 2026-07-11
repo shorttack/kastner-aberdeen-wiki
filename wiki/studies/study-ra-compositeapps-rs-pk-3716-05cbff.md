@@ -1,15 +1,15 @@
 ---
-title: "Ra Compositeapps Rs Pk 3716 (Aberdeen, 2006)"
+title: "The Composite Applications Benchmark Report: How SOA Standards Are Accelerating Business Change"
 slug: "study-ra-compositeapps-rs-pk-3716-05cbff"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-compositeapps-rs-pk-3716-05cbff"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_compositeapps_rs-pk_3716.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.34
 prescience_obs_count: 56
 ---
 
-# Ra Compositeapps Rs Pk 3716 (Aberdeen, 2006)
+# The Composite Applications Benchmark Report: How SOA Standards Are Accelerating Business Change
 
-> Aberdeen Group study ra-compositeapps-rs-pk-3716-05cbff. Source: ra_compositeapps_rs-pk_3716.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This December 2006 benchmark report finds application integration consumes about 40% of the typical IT budget, driving organizations to build composite applications using Web services and SOA standards even before fully implementing SOA. It identifies that Best-in-Class firms invest more in composite development tools and targeted training, and that browser-based/portal applications are the most common first deliverables.
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

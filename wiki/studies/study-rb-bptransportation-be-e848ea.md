@@ -1,12 +1,12 @@
 ---
-title: "Rb Bptransportation Be (Aberdeen, 2005)"
+title: "New Best Practices Help Firms Master Transportation Challenges"
 slug: "study-rb-bptransportation-be-e848ea"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "rb-bptransportation-be-e848ea"
-author: "Research Brief"
+author: "Beth Enslow / Aberdeen Group"
 date: "2005-07-15"
 pub_year: 2005
 type: "benchmark"
@@ -24,12 +24,12 @@ prescience_mean: 1.33
 prescience_obs_count: 3
 ---
 
-# Rb Bptransportation Be (Aberdeen, 2005)
+# New Best Practices Help Firms Master Transportation Challenges
 
-> Aberdeen Group study rb-bptransportation-be-e848ea. Source: rb_bptransportation_be.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This July 2005 Research Brief summarizes findings from Aberdeen's Best Practices in Transportation Management report, highlighting three emerging best practices — carrier collaboration, universal information access, and 360-degree scorecarding — alongside established practices like centralized transportation management and self-invoicing. It profiles seven best-practice winners (including Ford, Goodyear, and Unilever) who achieved multi-million-dollar freight savings and improved on-time delivery performance.
 
 
-_Published 2005, author **Research Brief**, type **benchmark**._
+_Published 2005, author **Beth Enslow / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

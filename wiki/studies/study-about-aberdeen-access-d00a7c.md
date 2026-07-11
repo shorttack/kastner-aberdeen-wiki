@@ -1,15 +1,15 @@
 ---
-title: "About Aberdeen Access (Aberdeen, 2005)"
+title: "Aberdeen Access: What You Get, How to Join"
 slug: "study-about-aberdeen-access-d00a7c"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "about-aberdeen-access-d00a7c"
 author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "benchmark"
+type: "vendor-snapshot"
 subject_domain: "technology-market-analysis"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "about_aberdeen_access.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.0
 prescience_obs_count: 3
 ---
 
-# About Aberdeen Access (Aberdeen, 2005)
+# Aberdeen Access: What You Get, How to Join
 
-> Aberdeen Group study about-aberdeen-access-d00a7c. Source: about_aberdeen_access.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This is promotional collateral for the 'Aberdeen Access' membership program, describing member benefits such as KPIs and metrics, business value frameworks, centers of excellence, and direct analyst access, along with $399 membership dues. It is marketing material describing a subscription offering, not a research study.
 
 
-_Published 2005, author **Aberdeen Group**, type **benchmark**._
+_Published 2005, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations

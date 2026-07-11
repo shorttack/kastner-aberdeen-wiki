@@ -1,15 +1,15 @@
 ---
-title: "Rp Appsec Mp 060927 (Aberdeen, 2005)"
+title: "Customer and Private Data Protection Strategies: The Application Security Benchmark"
 slug: "study-rp-appsec-mp-060927-6bae07"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "rp-appsec-mp-060927-6bae07"
-author: "Aberdeen Group"
+author: "Mounil Patel / Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "rp_appsec_mp_060927.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.0
 prescience_obs_count: 3
 ---
 
-# Rp Appsec Mp 060927 (Aberdeen, 2005)
+# Customer and Private Data Protection Strategies: The Application Security Benchmark
 
-> Aberdeen Group study rp-appsec-mp-060927-6bae07. Source: rp_appsec_mp_060927.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This research preview/sponsor prospectus (dated September 2006) previews an Aberdeen benchmark study on application security, examining how organizations protect business systems as they become more exposed via SOA and AJAX-based architectures. It outlines the business/security drivers behind application security adoption and describes sponsor benefits (demand creation, market validation, sales acceleration) rather than presenting completed survey results.
 
 
-_Published 2005, author **Aberdeen Group**, type **benchmark**._
+_Published 2005, author **Mounil Patel / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

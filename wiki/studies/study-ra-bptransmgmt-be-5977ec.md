@@ -1,15 +1,15 @@
 ---
-title: "Ra Bptransmgmt Be (Aberdeen, 2005)"
+title: "Best Practices in Transportation Management: How Companies Are Driving Cost and Service Improvements"
 slug: "study-ra-bptransmgmt-be-5977ec"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-bptransmgmt-be-5977ec"
 author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_bptransmgmt_be.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.47
 prescience_obs_count: 34
 ---
 
-# Ra Bptransmgmt Be (Aberdeen, 2005)
+# Best Practices in Transportation Management: How Companies Are Driving Cost and Service Improvements
 
-> Aberdeen Group study ra-bptransmgmt-be-5977ec. Source: ra_bptransmgmt_be.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This June 2005 benchmark report profiles seven best-practice leaders (including Ford, Goodyear, LifeWay, Orange Glo, PPG Industries, and Unilever) on their transportation management strategies, technology deployments, and results. It highlights emerging best practices such as carrier collaboration, universal information access, and 360-degree scorecarding alongside established practices like centralized transportation management and self-invoicing.
 
 
-_Published 2005, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

@@ -1,15 +1,15 @@
 ---
-title: "Q206 Custdatamgmt Cir La (Aberdeen, 2006)"
+title: "Customer Data Management: Gaining a 360-Degree View of Your Customers"
 slug: "study-q206-custdatamgmt-cir-la-5060b3"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "q206-custdatamgmt-cir-la-5060b3"
-author: "Aberdeen Group"
+author: "Leslie Ament / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "storage"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "q206_custdatamgmt_cir_la.pdf"
@@ -24,15 +24,15 @@ prescience_mean: 0.5
 prescience_obs_count: 2
 ---
 
-# Q206 Custdatamgmt Cir La (Aberdeen, 2006)
+# Customer Data Management: Gaining a 360-Degree View of Your Customers
 
-> Aberdeen Group study q206-custdatamgmt-cir-la-5060b3. Source: q206_custdatamgmt_cir_la.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A research preview (May 2006) for an Aberdeen survey-based benchmark study, led by analyst Leslie Ament, examining how organizations manage customer data integration, quality, and analysis to build a unified customer view and how Best-in-Class enterprises differ in strategy, execution, and results.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Leslie Ament / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
 - How do enterprises benchmarked as “Best-in-Class” differ in their strategy, execution and results? `[ps=2]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Customer Data Management: Gaining a 360-Degree View of Your Customers using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

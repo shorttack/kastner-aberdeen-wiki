@@ -13,8 +13,8 @@ lifecycle_at_study: "growth"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # iPod (click wheel era)
@@ -25,3 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - 2,000,000 units in Apple fiscal Q4 2004 `[ps=5]` — [[study-year-in-macs-part-one-macworld-dalrymple-dd247c]]
+- In the original-iPod analyst briefing with Greg Joswiak, Kastner read the iPod not as a technology category but as a music experience — a restoration of serious listening lost in the CD era — a framing Joswiak affirmed ("Finally, someone who gets it"). `[ps=4]` — [[study-volume-2-ch01-managed-conversation-analyst-relations]]

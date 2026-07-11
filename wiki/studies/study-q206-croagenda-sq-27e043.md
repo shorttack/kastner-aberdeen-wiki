@@ -1,15 +1,15 @@
 ---
-title: "Q206 Croagenda Sq (Aberdeen, 2006)"
+title: "The Chief Risk Officer's Strategic Agenda"
 slug: "study-q206-croagenda-sq-27e043"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "q206-croagenda-sq-27e043"
-author: "Aberdeen Group"
+author: "Stacey Quandt / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "market-study"
+type: "research-agenda"
 subject_domain: "telecommunications"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "q206_croagenda_sq.pdf"
@@ -24,15 +24,15 @@ prescience_mean: -0.5
 prescience_obs_count: 2
 ---
 
-# Q206 Croagenda Sq (Aberdeen, 2006)
+# The Chief Risk Officer's Strategic Agenda
 
-> Aberdeen Group study q206-croagenda-sq-27e043. Source: q206_croagenda_sq.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: telecommunications. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A research preview for a planned 2Q06 Aberdeen benchmark study, led by analyst Stacey Quandt, identifying the priorities, actions, and technology enablers used by Chief Risk Officers (CROs) as the role expands beyond financial services into healthcare, transportation, and telecommunications.
 
 
-_Published 2006, author **Aberdeen Group**, type **market-study**._
+_Published 2006, author **Stacey Quandt / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
 - Key findings of this report will provide insights into: `[ps=0]`
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes The Chief Risk Officer's Strategic Agenda using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

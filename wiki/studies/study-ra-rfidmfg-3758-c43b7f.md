@@ -1,15 +1,15 @@
 ---
-title: "Ra Rfidmfg 3758 (Aberdeen, 2007)"
+title: "Can RFID Deliver the Goods? The Manufacturer's Visibility into Supply and Demand"
 slug: "study-ra-rfidmfg-3758-c43b7f"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-rfidmfg-3758-c43b7f"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_rfidmfg_3758.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.33
 prescience_obs_count: 48
 ---
 
-# Ra Rfidmfg 3758 (Aberdeen, 2007)
+# Can RFID Deliver the Goods? The Manufacturer's Visibility into Supply and Demand
 
-> Aberdeen Group study ra-rfidmfg-3758-c43b7f. Source: ra_rfidmfg_3758.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This January 2007 benchmark report (also referenced internally as 'Benchmark Report: RFID in Manufacturing') surveys more than 150 manufacturers using or planning to adopt RFID technology, finding penetration is only 3-4% today but growing over 112% in 2007, with average budgets rising from $50-75K to $100-200K per year. It identifies data integration as the top cost concern (62% of respondents) and shows Best-in-Class manufacturers favor vendors based on customer service and infrastructure maintenance record.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

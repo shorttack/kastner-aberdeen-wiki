@@ -1,5 +1,5 @@
 ---
-title: "Fdic, Washington Cs 1995 (Aberdeen, 1995)"
+title: "Operating Systems Market Overview: Mainframe, Midrange, Unix, and Desktop/Workgroup Computing (1995 Conference Presentation)"
 slug: "study-fdic-washington-cs-1995-e3de67"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -24,9 +24,9 @@ prescience_mean: 3.0
 prescience_obs_count: 3
 ---
 
-# Fdic, Washington Cs 1995 (Aberdeen, 1995)
+# Operating Systems Market Overview: Mainframe, Midrange, Unix, and Desktop/Workgroup Computing (1995 Conference Presentation)
 
-> Aberdeen Group study fdic-washington-cs-1995-e3de67. Source: FDIC, Washington CS 1995.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A 1995 Aberdeen Group conference-style slide presentation reviewing the state of the operating systems market, covering mainframe OSs (IBM MVS), midrange/proprietary systems (AS/400), Unix fragmentation, and desktop/workgroup platforms (Windows 95, Windows NT, OS/2, NetWare). The source consists almost entirely of speaker notes/bullet points behind omitted slide images, with commentary on IBM, Microsoft, Novell, and market dynamics of the era.
 
 
 _Published 1995, author **Aberdeen Group**, type **market-study**._

@@ -1,12 +1,12 @@
 ---
-title: "1Q06 On Demandsupplychain (Aberdeen, 2006)"
+title: "The On-Demand Tipping Point in Supply Chain"
 slug: "study-1q06-on-demandsupplychain-148b1d"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "1q06-on-demandsupplychain-148b1d"
-author: "Aberdeen Group"
+author: "Beth Enslow / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
 type: "benchmark"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# 1Q06 On Demandsupplychain (Aberdeen, 2006)
+# The On-Demand Tipping Point in Supply Chain
 
-> Aberdeen Group study 1q06-on-demandsupplychain-148b1d. Source: 1q06-on-demandsupplychain.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This benchmark report, led by analyst Beth Enslow in 1Q06, examines the growing adoption of on-demand (SaaS-style) supply chain solutions, referencing vendors such as Salesforce.com as examples of the on-demand model reaching a tipping point in supply chain technology.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Beth Enslow / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes The On-Demand Tipping Point in Supply Chain using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

@@ -1,15 +1,15 @@
 ---
-title: "Abra Design To Procure 090204 (Aberdeen, 2004)"
+title: "Design-to-Procure: Looking at the Whole Value Chain"
 slug: "study-abra-design-to-procure-090204-fc3e6d"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "abra-design-to-procure-090204-fc3e6d"
-author: "Research Agenda"
+author: "Aberdeen Group"
 date: "2004-01-01"
 pub_year: 2004
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "abra-design-to-procure-090204.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 2.0
 prescience_obs_count: 4
 ---
 
-# Abra Design To Procure 090204 (Aberdeen, 2004)
+# Design-to-Procure: Looking at the Whole Value Chain
 
-> Aberdeen Group study abra-design-to-procure-090204-fc3e6d. Source: abra-design-to-procure-090204.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This 2004 research agenda outlines Aberdeen's planned Design-to-Procure studies on total cost management across sourcing, procurement, design, and supply chain operations. Planned Q3 and Q4 2004 topics include contract labor management, e-sourcing best practices, spend analytics, category spend management (advertising, MRO, packaging), design for compliance, and outsourced manufacturing.
 
 
-_Published 2004, author **Research Agenda**, type **benchmark**._
+_Published 2004, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

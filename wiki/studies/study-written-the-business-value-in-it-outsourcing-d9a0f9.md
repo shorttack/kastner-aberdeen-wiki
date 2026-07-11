@@ -1,15 +1,15 @@
 ---
-title: "Written The Business Value In It Outsourcing (Aberdeen, 2006)"
+title: "Getting and Keeping IT Outsourcing Projects on Track to Business Value"
 slug: "study-written-the-business-value-in-it-outsourcing-d9a0f9"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "written-the-business-value-in-it-outsourcing-d9a0f9"
-author: "Research Brief"
+author: "Peter S. Kastner / Aberdeen Group"
 date: "2006-05-25"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "Written__The Business Value in IT Outsourcing.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.5
 prescience_obs_count: 6
 ---
 
-# Written The Business Value In It Outsourcing (Aberdeen, 2006)
+# Getting and Keeping IT Outsourcing Projects on Track to Business Value
 
-> Aberdeen Group study written-the-business-value-in-it-outsourcing-d9a0f9. Source: Written__The Business Value in IT Outsourcing.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A May 25, 2006 Aberdeen Group research brief previewing an upcoming IT outsourcing benchmark (to be published June 2006), exploring why many enterprises avoid formal make-or-buy outsourcing decisions and why others experience 'buyer's remorse.' It outlines a planned maturity-model approach to studying outsourcing misalignment, sub-optimal contracts, and the small subset (5–10%) of large IT outsourcing agreements believed to deliver full anticipated business value.
 
 
-_Published 2006, author **Research Brief**, type **benchmark**._
+_Published 2006, author **Peter S. Kastner / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

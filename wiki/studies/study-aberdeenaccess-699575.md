@@ -1,15 +1,15 @@
 ---
-title: "Aberdeenaccess (Aberdeen, 2005)"
+title: "Aberdeen Access: Actionable, End-User Focused Research"
 slug: "study-aberdeenaccess-699575"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "aberdeenaccess-699575"
 author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "benchmark"
+type: "vendor-snapshot"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "aberdeenaccess.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Aberdeenaccess (Aberdeen, 2005)
+# Aberdeen Access: Actionable, End-User Focused Research
 
-> Aberdeen Group study aberdeenaccess-699575. Source: aberdeenaccess.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This is promotional collateral describing the 'Aberdeen Access' membership program, which offers subscribers actionable research, KPI/benchmark data, business value frameworks, and direct analyst access for a membership fee. It is marketing material for a subscription offering, not a research study.
 
 
-_Published 2005, author **Aberdeen Group**, type **benchmark**._
+_Published 2005, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [716 x 112] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Aberdeen Access: Actionable, End-User Focused Research using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

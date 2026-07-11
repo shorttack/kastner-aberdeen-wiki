@@ -1,15 +1,15 @@
 ---
-title: "Ra Bpsecinfoaccess Jh (Aberdeen, 2005)"
+title: "Best Practices in Security: Information and Access"
 slug: "study-ra-bpsecinfoaccess-jh-8c3eaa"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-bpsecinfoaccess-jh-8c3eaa"
 author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_bpsecinfoaccess_jh.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.76
 prescience_obs_count: 50
 ---
 
-# Ra Bpsecinfoaccess Jh (Aberdeen, 2005)
+# Best Practices in Security: Information and Access
 
-> Aberdeen Group study ra-bpsecinfoaccess-jh-8c3eaa. Source: ra_bpsecinfoaccess_jh.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This June 2005 best-practices report identifies six primary business pressures driving electronic security investment, including agile information access, data leakage risk, financial losses from disrupted operations, and regulatory/audit demands. It finds about 40% of firms perform at sub-par levels on information access automation and discusses the challenges of maintaining auditable control over outsourced and partner-connected network and data resources.
 
 
-_Published 2005, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

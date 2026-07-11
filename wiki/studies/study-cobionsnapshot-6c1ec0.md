@@ -1,15 +1,15 @@
 ---
-title: "Cobionsnapshot (Aberdeen, 2002)"
+title: "Cobion Corp."
 slug: "study-cobionsnapshot-6c1ec0"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "cobionsnapshot-6c1ec0"
 author: "Aberdeen Group"
 date: "2002-01-01"
 pub_year: 2002
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "cobionsnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Cobionsnapshot (Aberdeen, 2002)
+# Cobion Corp.
 
-> Aberdeen Group study cobionsnapshot-6c1ec0. Source: cobionsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> Vendor snapshot profiling Cobion, a content security software provider, covering company facts, markets, products, partnerships, and executives.
 
 
-_Published 2002, author **Aberdeen Group**, type **market-study**._
+_Published 2002, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Cobion Corp. using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

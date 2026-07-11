@@ -1,5 +1,5 @@
 ---
-title: "Oracle Wp Prod (Aberdeen, 2001)"
+title: "Leaving Well Enough Alone: Enterprise Application Integration's Impact on ROI"
 slug: "study-oracle-wp-prod-15ac4a"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -24,9 +24,9 @@ prescience_mean: 0.56
 prescience_obs_count: 16
 ---
 
-# Oracle Wp Prod (Aberdeen, 2001)
+# Leaving Well Enough Alone: Enterprise Application Integration's Impact on ROI
 
-> Aberdeen Group study oracle-wp-prod-15ac4a. Source: Oracle wp prod.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> An executive white paper from July 2001 examining whether adopting 'best of breed' point solutions or an integrated enterprise application suite delivers better ROI, drawing on interviews with a dozen IT professionals at large and midsize North American companies. It analyzes the hidden costs of integration, using the Nike-SAP-Siebel-i2 integration failure as a cautionary example, and presents figures on the cost and time impact of integrating multiple point solutions versus a single-vendor suite.
 
 
 _Published 2001, author **Aberdeen Group**, type **market-study**._

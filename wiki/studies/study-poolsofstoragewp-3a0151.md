@@ -1,15 +1,15 @@
 ---
-title: "Poolsofstoragewp (Aberdeen, 1988)"
+title: "The Best Path to ILM Is Through Pools of Storage"
 slug: "study-poolsofstoragewp-3a0151"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/white-paper"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "poolsofstoragewp-3a0151"
 author: "Aberdeen Group"
-date: "1988-01-01"
-pub_year: 1988
-type: "benchmark"
+date: "2004-05-01"
+pub_year: 2004
+type: "white-paper"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "poolsofstoragewp.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.67
 prescience_obs_count: 12
 ---
 
-# Poolsofstoragewp (Aberdeen, 1988)
+# The Best Path to ILM Is Through Pools of Storage
 
-> Aberdeen Group study poolsofstoragewp-3a0151. Source: poolsofstoragewp.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> Aberdeen Group executive white paper (May 2004), underwritten by Maxtor Corporation, arguing that the best near-term path to information life cycle management (ILM) is a logical four-pool storage model: online (OLTP/high-activity DSS on FC/SCSI), midline (capacity-oriented enterprise-class ATA disk for active fixed/reference and compliance data at ~25% of FC/SCSI cost), nearline (disk-to-disk-to-tape backup), and offline (offsite tape for disaster recovery). Aberdeen projects ~45% annual compounded storage growth, notes midline storage at roughly $9/GB versus ~$30/GB for FC/SCSI arrays, and prescribes a six-step, five-year migration toward ILM, concluding that cross-application enterprise-wide ILM software is three to five years away (major deployments expected by ~2008).
 
 
-_Published 1988, author **Aberdeen Group**, type **benchmark**._
+_Published 2004, author **Aberdeen Group**, type **white-paper**._
 
 
 ## Top observations

@@ -1,15 +1,15 @@
 ---
-title: "Azeritysnapshot (Aberdeen, 1998)"
+title: "Azerity: Company Snapshot"
 slug: "study-azeritysnapshot-511e79"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "azeritysnapshot-511e79"
 author: "Aberdeen Group"
 date: "1998-01-01"
 pub_year: 1998
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "azeritysnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Azeritysnapshot (Aberdeen, 1998)
+# Azerity: Company Snapshot
 
-> Aberdeen Group study azeritysnapshot-511e79. Source: azeritysnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This vendor snapshot profiles Azerity, a provider of Web-based enterprise sales, CRM, and channel automation software for high-tech manufacturers, marketed under the ProChannel brand. It describes the company's products, customer base (including Texas Instruments and Analog Devices), and strategic partnerships as of 2003.
 
 
-_Published 1998, author **Aberdeen Group**, type **market-study**._
+_Published 1998, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Azerity: Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

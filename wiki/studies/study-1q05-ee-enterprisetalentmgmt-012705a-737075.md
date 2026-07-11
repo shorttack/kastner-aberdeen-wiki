@@ -1,12 +1,12 @@
 ---
-title: "1Q05 Ee Enterprisetalentmgmt 012705A (Aberdeen, 2005)"
+title: "Enterprise Talent Management: Hiring Right, Hiring Smart"
 slug: "study-1q05-ee-enterprisetalentmgmt-012705a-737075"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1q05-ee-enterprisetalentmgmt-012705a-737075"
-author: "Research Preview"
+author: "Katherine Jones / Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
 type: "benchmark"
@@ -24,15 +24,15 @@ prescience_mean: 1.5
 prescience_obs_count: 2
 ---
 
-# 1Q05 Ee Enterprisetalentmgmt 012705A (Aberdeen, 2005)
+# Enterprise Talent Management: Hiring Right, Hiring Smart
 
-> Aberdeen Group study 1q05-ee-enterprisetalentmgmt-012705a-737075. Source: 1q05-ee-enterprisetalentmgmt_012705a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This benchmark study, conducted with the Human Capital Institute and led by analyst Katherine Jones in 1Q05, examines the maturity of enterprise hiring automation and talent management practices. It benchmarks how organizations use technology to improve hiring effectiveness and outcomes.
 
 
-_Published 2005, author **Research Preview**, type **benchmark**._
+_Published 2005, author **Katherine Jones / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations
 
 - _**Hypothesis for the research:**_ Automation will prevail in applicant sourcing (through both job boards and corporate web career centers); it will be the norm in internal applicant tracking, but only the best in class corporations will have deployed a seamless end-to-end system or separate solutions integrated into a seamless whole. `[ps=4]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Enterprise Talent Management: Hiring Right, Hiring Smart using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

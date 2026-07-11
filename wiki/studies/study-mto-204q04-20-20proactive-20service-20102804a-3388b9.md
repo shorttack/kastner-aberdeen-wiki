@@ -1,15 +1,15 @@
 ---
-title: "Mto%204Q04%20 %20Proactive%20Service%20102804A (Aberdeen, 2010)"
+title: "Proactive Service: The Next-Generation Contact Center"
 slug: "study-mto-204q04-20-20proactive-20service-20102804a-3388b9"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "mto-204q04-20-20proactive-20service-20102804a-3388b9"
-author: "Aberdeen Group"
+author: "Chris Selland / Aberdeen Group"
 date: "2010-01-01"
 pub_year: 2010
-type: "market-study"
+type: "research-agenda"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "mto%204q04%20-%20proactive%20service%20102804a.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Mto%204Q04%20 %20Proactive%20Service%20102804A (Aberdeen, 2010)
+# Proactive Service: The Next-Generation Contact Center
 
-> Aberdeen Group study mto-204q04-20-20proactive-20service-20102804a-3388b9. Source: mto%204q04%20-%20proactive%20service%20102804a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A research preview for a planned Aberdeen study examining how companies can transform Contact Centers from reactive, cost-focused operations into proactive, revenue-generating capabilities. It describes the hypothesis, research approach (a survey with CRM Magazine plus interviews), target audience, and time frame (4Q04), led by analyst Chris Selland.
 
 
-_Published 2010, author **Aberdeen Group**, type **market-study**._
+_Published 2010, author **Chris Selland / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Proactive Service: The Next-Generation Contact Center using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

@@ -1,5 +1,5 @@
 ---
-title: "Written Webex  Taking Conferencing To The Business Communications Summit (Aberdeen, 2002)"
+title: "WebEx: Taking Conferencing to the Business Communications Summit"
 slug: "study-written-webex-taking-conferencing-to-the-business-communications-summit-2b6842"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -24,9 +24,9 @@ prescience_mean: -0.5
 prescience_obs_count: 2
 ---
 
-# Written Webex  Taking Conferencing To The Business Communications Summit (Aberdeen, 2002)
+# WebEx: Taking Conferencing to the Business Communications Summit
 
-> Aberdeen Group study written-webex-taking-conferencing-to-the-business-communications-summit-2b6842. Source: Written__WebEx- Taking Conferencing to the Business Communications Summit.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: wireless. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A 2002 Aberdeen Group vendor profile of WebEx Communications, positioning it as the leader in high-end Web conferencing following the post-2001 shift away from face-to-face business meetings. It presents Aberdeen's five-level model of real-time business communications (face-to-face, telephone, audio, video, and Web conferencing) and highlights WebEx's private switched network and new Training Center service as key differentiators.
 
 
 _Published 2002, author **Aberdeen Group**, type **market-study**._
@@ -35,4 +35,4 @@ _Published 2002, author **Aberdeen Group**, type **market-study**._
 ## Top observations
 
 - Market recognition of WebEx’s unique network-driven conferencing services is spreading by wordof-mouth: 40% of new customers are referred by the existing 5,000-customer installed base. `[ps=0]`
-- This study analyzes ==> picture [442 x 39] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes WebEx: Taking Conferencing to the Business Communications Summit using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

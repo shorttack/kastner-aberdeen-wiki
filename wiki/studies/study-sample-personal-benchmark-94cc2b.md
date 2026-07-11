@@ -1,5 +1,5 @@
 ---
-title: "Sample Personal Benchmark (Aberdeen, 2004)"
+title: "Personal Benchmark - Contract Management: International Goods & Services Corporation (IGS)"
 slug: "study-sample-personal-benchmark-94cc2b"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -24,9 +24,9 @@ prescience_mean: 0.41
 prescience_obs_count: 22
 ---
 
-# Sample Personal Benchmark (Aberdeen, 2004)
+# Personal Benchmark - Contract Management: International Goods & Services Corporation (IGS)
 
-> Aberdeen Group study sample-personal-benchmark-94cc2b. Source: sample_personal_benchmark.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This September 2004 confidential 'Personal Benchmark' report presents Aberdeen Group's private gap analysis of International Goods & Services Corporation's (IGS) contract management practices, priorities, capabilities, and performance, compared against a broader Aberdeen benchmarking study of more than 100 procurement and supply chain executives and 35+ enterprise contract lifecycle management deployments. It outlines the survey methodology used to collect IGS data and presents recommendations, including defining common contracting procedures, adopting contract templates, and establishing a central repository of key contract terms.
 
 
 _Published 2004, author **Aberdeen Group**, type **benchmark**._

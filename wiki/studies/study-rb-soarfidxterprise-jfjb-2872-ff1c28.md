@@ -1,12 +1,12 @@
 ---
-title: "Rb Soarfidxterprise Jfjb 2872 (Aberdeen, 2006)"
+title: "SOA Is Key to Scaling RFID Deployments"
 slug: "study-rb-soarfidxterprise-jfjb-2872-ff1c28"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "rb-soarfidxterprise-jfjb-2872-ff1c28"
-author: "Manufacturing Technology"
+author: "Jane Biddle / Aberdeen Group"
 date: "2006-03-02"
 pub_year: 2006
 type: "benchmark"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Rb Soarfidxterprise Jfjb 2872 (Aberdeen, 2006)
+# SOA Is Key to Scaling RFID Deployments
 
-> Aberdeen Group study rb-soarfidxterprise-jfjb-2872-ff1c28. Source: rb_soarfidxterprise_jfjb_2872.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This March 2006 Research Brief discusses how companies are scaling RFID pilots from single-site 'slap and ship' deployments to broad enterprise-wide programs, drawing on discussions from the RFID World 2006 conference. It argues that Service-Oriented Architecture (SOA) based infrastructure and platforms are necessary for RFID source tagging and enhanced supply chain applications to move beyond manually intensive compliance-only approaches.
 
 
-_Published 2006, author **Manufacturing Technology**, type **benchmark**._
+_Published 2006, author **Jane Biddle / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes SOA Is Key to Scaling RFID Deployments using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

@@ -1,15 +1,15 @@
 ---
-title: "Abra Market To Order Sellside 090204 (Aberdeen, 2004)"
+title: "The Sell Side — Driving Revenue Growth"
 slug: "study-abra-market-to-order-sellside-090204-acd407"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "abra-market-to-order-sellside-090204-acd407"
-author: "Research Agenda"
+author: "Aberdeen Group"
 date: "2004-01-01"
 pub_year: 2004
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "abra-market-to-order-sellside-090204.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Abra Market To Order Sellside 090204 (Aberdeen, 2004)
+# The Sell Side — Driving Revenue Growth
 
-> Aberdeen Group study abra-market-to-order-sellside-090204-acd407. Source: abra-market-to-order-sellside-090204.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This 2004 research agenda outlines Aberdeen's planned sell-side studies on driving revenue growth through technology-enabled customer relationship strategies. Planned topics include sales effectiveness, proactive contact-center service, marketing analytics, sell-side channel management, outsourcing the customer relationship, and integrated multichannel selling.
 
 
-_Published 2004, author **Research Agenda**, type **benchmark**._
+_Published 2004, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 117] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes The Sell Side — Driving Revenue Growth using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

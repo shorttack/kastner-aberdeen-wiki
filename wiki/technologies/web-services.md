@@ -34,4 +34,4 @@ prescience_obs_count: 6
 - 90% `[ps=0]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
 - ~50% `[ps=0]` — [[study-ibm-+-webify-=-industry-soa-application--97733a]]
 - 76% `[ps=0]` — [[study-ra-enterprise-apps-312ba4]]
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-entrustsnapshot-f78f15]]
+- This study analyzes Entrust, Incorporated using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]` — [[study-entrustsnapshot-f78f15]]

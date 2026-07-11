@@ -1,15 +1,15 @@
 ---
-title: "2006 Gsm Agenda (Aberdeen, 2006)"
+title: "2006 Global Supply Management Research Agenda"
 slug: "study-2006-gsm-agenda-d56dc5"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2006-gsm-agenda-d56dc5"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2006_gsm-agenda.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.35
 prescience_obs_count: 17
 ---
 
-# 2006 Gsm Agenda (Aberdeen, 2006)
+# 2006 Global Supply Management Research Agenda
 
-> Aberdeen Group study 2006-gsm-agenda-d56dc5. Source: 2006_gsm-agenda.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This document is Aberdeen's 2006 research calendar for Global Supply Management, previewing planned studies on strategic sourcing, procurement operations and outsourcing, and category management. It describes the scope and goals of each forthcoming study rather than reporting results.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

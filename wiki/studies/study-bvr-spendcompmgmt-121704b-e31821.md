@@ -1,15 +1,15 @@
 ---
-title: "Bvr Spendcompmgmt 121704B (Aberdeen, 1988)"
+title: "Spend Compliance Management: Implementing and Sustaining Supply Savings"
 slug: "study-bvr-spendcompmgmt-121704b-e31821"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "bvr-spendcompmgmt-121704b-e31821"
 author: "Aberdeen Group"
 date: "1988-01-01"
 pub_year: 1988
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "bvr_spendcompmgmt_121704b.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.53
 prescience_obs_count: 19
 ---
 
-# Bvr Spendcompmgmt 121704B (Aberdeen, 1988)
+# Spend Compliance Management: Implementing and Sustaining Supply Savings
 
-> Aberdeen Group study bvr-spendcompmgmt-121704b-e31821. Source: bvr_spendcompmgmt_121704b.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> Business Value Research Series report (Dec 2004) examining how enterprises implement and sustain negotiated procurement savings through spend compliance management. Reports that roughly 60% of enterprises struggle to implement negotiated savings and outlines strategies and technologies to close that gap.
 
 
-_Published 1988, author **Aberdeen Group**, type **topic-analysis**._
+_Published 1988, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

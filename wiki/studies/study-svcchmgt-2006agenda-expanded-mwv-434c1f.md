@@ -1,15 +1,15 @@
 ---
-title: "Svcchmgt 2006Agenda Expanded Mwv (Aberdeen, 2006)"
+title: "2006 Service Chain Management Research Overview"
 slug: "study-svcchmgt-2006agenda-expanded-mwv-434c1f"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "svcchmgt-2006agenda-expanded-mwv-434c1f"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "svcchmgt_2006agenda_expanded_mwv.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.33
 prescience_obs_count: 6
 ---
 
-# Svcchmgt 2006Agenda Expanded Mwv (Aberdeen, 2006)
+# 2006 Service Chain Management Research Overview
 
-> Aberdeen Group study svcchmgt-2006agenda-expanded-mwv-434c1f. Source: svcchmgt_2006agenda_expanded_mwv.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This Aberdeen Group document is a 2006 research agenda outlining planned service chain management studies across six focus areas: Integrated Service Strategy, Mobile and Wireless Field Service, Field Service Schedule/Route Optimization, Service Parts Management, Service Contract/Warranty Management, and Intelligent Asset Diagnostics/Repair. It previews specific benchmark and sector-insight reports (e.g., Service Network Optimization, Design for Serviceability) with brief descriptions, rather than presenting completed research findings.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

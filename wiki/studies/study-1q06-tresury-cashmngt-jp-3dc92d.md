@@ -1,12 +1,12 @@
 ---
-title: "1Q06 Tresury Cashmngt Jp (Aberdeen, 2006)"
+title: "Setting PACE in Treasury and Cash Management: Benchmark Study"
 slug: "study-1q06-tresury-cashmngt-jp-3dc92d"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "1q06-tresury-cashmngt-jp-3dc92d"
-author: "Aberdeen Group"
+author: "Jeff Pikulik / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
 type: "benchmark"
@@ -24,15 +24,15 @@ prescience_mean: 1.0
 prescience_obs_count: 2
 ---
 
-# 1Q06 Tresury Cashmngt Jp (Aberdeen, 2006)
+# Setting PACE in Treasury and Cash Management: Benchmark Study
 
-> Aberdeen Group study 1q06-tresury-cashmngt-jp-3dc92d. Source: 1q06_tresury_cashmngt_jp.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This benchmark study, led by analyst Jeff Pikulik in 1Q06, is the first of a three-part 2006 series examining treasury and cash management practices. It benchmarks organizational performance and technology adoption in treasury operations.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Jeff Pikulik / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations
 
 - First in the series is a primary benchmark study to determine the current and recommended steps to improve future performance of firms at three levels of maturity: best-in-class, average and lagging. `[ps=3]`
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Setting PACE in Treasury and Cash Management: Benchmark Study using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

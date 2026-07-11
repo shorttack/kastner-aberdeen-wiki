@@ -1,15 +1,15 @@
 ---
-title: "Ee 2005 Cio Research Agenda 091505A (Aberdeen, 2005)"
+title: "The 2005–2006 CIO Strategic Agenda Research"
 slug: "study-ee-2005-cio-research-agenda-091505a-4c85cf"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "ee-2005-cio-research-agenda-091505a-4c85cf"
-author: "Research Agenda"
+author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "market-study"
+type: "research-agenda"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ee_2005_cio_research_agenda_091505a.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Ee 2005 Cio Research Agenda 091505A (Aberdeen, 2005)
+# The 2005–2006 CIO Strategic Agenda Research
 
-> Aberdeen Group study ee-2005-cio-research-agenda-091505a-4c85cf. Source: ee_2005_cio_research_agenda_091505a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> Quarterly research calendar for 4Q05 and 2006 outlining planned Aberdeen CIO-focused studies covering topics including Great IT, data warehousing, IT cost structures, IT talent, real-time decision-making, and device relationship management.
 
 
-_Published 2005, author **Research Agenda**, type **market-study**._
+_Published 2005, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes The 2005–2006 CIO Strategic Agenda Research using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

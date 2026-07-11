@@ -1,15 +1,15 @@
 ---
-title: "2006 Aberdeen Research Calendar (Aberdeen, 2006)"
+title: "2006 Aberdeen Research Calendar"
 slug: "study-2006-aberdeen-research-calendar-123ac2"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2006-aberdeen-research-calendar-123ac2"
-author: "Aberdeen Group"
+author: "Katherine Jones / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2006_aberdeen_research_calendar.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 2.04
 prescience_obs_count: 25
 ---
 
-# 2006 Aberdeen Research Calendar (Aberdeen, 2006)
+# 2006 Aberdeen Research Calendar
 
-> Aberdeen Group study 2006-aberdeen-research-calendar-123ac2. Source: 2006_aberdeen_research_calendar.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This document is Aberdeen's 2006 research calendar for Human Resources and Information Technology topics, listing planned studies such as Retention and Succession, Compensation, Hiring Management Best Practices, Human Resource Outsourcing, IT Outsourcing benchmarking, SOA implementations, data warehousing, IT cost structures, and security topics including identity management and insider threats, each with a target publication quarter.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Katherine Jones / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

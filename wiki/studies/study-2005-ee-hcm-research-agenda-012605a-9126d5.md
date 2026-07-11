@@ -1,15 +1,15 @@
 ---
-title: "2005 Ee Hcm Research Agenda 012605A (Aberdeen, 2005)"
+title: "Human Capital Management Research Themes: 2005"
 slug: "study-2005-ee-hcm-research-agenda-012605a-9126d5"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2005-ee-hcm-research-agenda-012605a-9126d5"
-author: "Research Agenda"
+author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2005-ee_hcm_research_agenda_012605a.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 2.67
 prescience_obs_count: 3
 ---
 
-# 2005 Ee Hcm Research Agenda 012605A (Aberdeen, 2005)
+# Human Capital Management Research Themes: 2005
 
-> Aberdeen Group study 2005-ee-hcm-research-agenda-012605a-9126d5. Source: 2005-ee_hcm_research_agenda_012605a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This document is a quarterly listing of Aberdeen's planned Human Capital Management research topics from Q1 2005 through Q1 2006, covering Enterprise Talent Management, Workforce Optimization in Retail, the HR Executive's Agenda, Retention, and Enterprise Information Management.
 
 
-_Published 2005, author **Research Agenda**, type **benchmark**._
+_Published 2005, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

@@ -1,15 +1,15 @@
 ---
-title: "Spotlightprofitline (Aberdeen, 1992)"
+title: "ProfitLine"
 slug: "study-spotlightprofitline-f0b7b5"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "spotlightprofitline-f0b7b5"
 author: "Aberdeen Group"
 date: "1992-01-01"
 pub_year: 1992
-type: "benchmark"
+type: "vendor-snapshot"
 subject_domain: "telecommunications"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "spotlightprofitline.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Spotlightprofitline (Aberdeen, 1992)
+# ProfitLine
 
-> Aberdeen Group study spotlightprofitline-f0b7b5. Source: spotlightprofitline.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: telecommunications. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This is an Aberdeen Group vendor spotlight profiling ProfitLine, a privately held telecom administrative outsourcing (TAO) company founded in 1992 with more than 100 employees. It covers the company's customer base of blue-chip and Fortune 1000 enterprises, a $12 million funding round from Menlo Ventures in June 2002, and leadership team.
 
 
-_Published 1992, author **Aberdeen Group**, type **benchmark**._
+_Published 1992, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ProfitLine using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

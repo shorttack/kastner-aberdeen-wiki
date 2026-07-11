@@ -1,15 +1,15 @@
 ---
-title: "Clpbenchmark 3708 (Aberdeen, 2007)"
+title: "Retail Contactless Payment Systems Benchmark Report: Improving Customer Retention & Loyalty"
 slug: "study-clpbenchmark-3708-63ff3f"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "clpbenchmark-3708-63ff3f"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "clpbenchmark_3708.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.87
 prescience_obs_count: 60
 ---
 
-# Clpbenchmark 3708 (Aberdeen, 2007)
+# Retail Contactless Payment Systems Benchmark Report: Improving Customer Retention & Loyalty
 
-> Aberdeen Group study clpbenchmark-3708-63ff3f. Source: clpbenchmark_3708.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> January 2007 benchmark report on retail contactless payment systems, using Aberdeen's PACE framework and survey data to assess how contactless payment adoption affects customer retention and loyalty.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

@@ -1,15 +1,15 @@
 ---
-title: "Zonelabssnapshot (Aberdeen, 2001)"
+title: "Zone Labs Incorporated"
 slug: "study-zonelabssnapshot-111c0a"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "zonelabssnapshot-111c0a"
 author: "Aberdeen Group"
 date: "2001-01-01"
 pub_year: 2001
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "wireless"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "zonelabssnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Zonelabssnapshot (Aberdeen, 2001)
+# Zone Labs Incorporated
 
-> Aberdeen Group study zonelabssnapshot-111c0a. Source: zonelabssnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: wireless. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A 2003 Aberdeen Group vendor snapshot on Zone Labs Incorporated, maker of the ZoneAlarm Pro and Zone Labs Integrity Internet security products combining distributed firewall, intrusion blocking, and malware protection. It covers the company's markets, extensive list of technology and carrier partnerships (AT&T, Cisco, IBM, Verizon, and others), and executive team.
 
 
-_Published 2001, author **Aberdeen Group**, type **market-study**._
+_Published 2001, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Zone Labs Incorporated using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

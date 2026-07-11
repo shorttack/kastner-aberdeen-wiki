@@ -1,15 +1,15 @@
 ---
-title: "2004 Aimsnapshot (Aberdeen, 2004)"
+title: "Applied Innovation Management"
 slug: "study-2004-aimsnapshot-6c49f0"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "2004-aimsnapshot-6c49f0"
 author: "Aberdeen Group"
 date: "2004-01-01"
 pub_year: 2004
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2004_aimsnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# 2004 Aimsnapshot (Aberdeen, 2004)
+# Applied Innovation Management
 
-> Aberdeen Group study 2004-aimsnapshot-6c49f0. Source: 2004_aimsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This vendor snapshot profiles Applied Innovation Management (AIM), describing its web-based CRM and helpdesk software serving approximately 900 customers.
 
 
-_Published 2004, author **Aberdeen Group**, type **market-study**._
+_Published 2004, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Applied Innovation Management using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

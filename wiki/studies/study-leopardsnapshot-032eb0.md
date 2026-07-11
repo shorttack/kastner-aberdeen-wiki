@@ -1,15 +1,15 @@
 ---
-title: "Leopardsnapshot (Aberdeen, 1984)"
+title: "Leopard — Company Snapshot"
 slug: "study-leopardsnapshot-032eb0"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "leopardsnapshot-032eb0"
 author: "Aberdeen Group"
 date: "1984-01-01"
 pub_year: 1984
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "storage"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "leopardsnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Leopardsnapshot (Aberdeen, 1984)
+# Leopard — Company Snapshot
 
-> Aberdeen Group study leopardsnapshot-032eb0. Source: leopardsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling Leopard, a marketing communications agency offering the Leopard em product suite for creating, managing, and distributing marketing content across an organization. It describes a case study of IBM Global Services' use of Leopard em to reduce repository sprawl and printing costs, along with company facts and management.
 
 
-_Published 1984, author **Aberdeen Group**, type **market-study**._
+_Published 1984, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [506 x 76] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Leopard — Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

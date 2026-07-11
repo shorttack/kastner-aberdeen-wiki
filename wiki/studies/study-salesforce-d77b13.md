@@ -1,15 +1,15 @@
 ---
-title: "Salesforce (Aberdeen, 1999)"
+title: "salesforce.com"
 slug: "study-salesforce-d77b13"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "salesforce-d77b13"
 author: "Aberdeen Group"
 date: "1999-01-01"
 pub_year: 1999
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "salesforce.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Salesforce (Aberdeen, 1999)
+# salesforce.com
 
-> Aberdeen Group study salesforce-d77b13. Source: salesforce.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This is an Aberdeen Group vendor snapshot profiling salesforce.com, founded by Marc Benioff in 1999 to deliver hosted enterprise CRM applications. It covers the company's product suite (Sales Force Automation, Marketing Automation, Customer Service, Reporting & Analysis), financial highlights (roughly $24.5 million in 2001 revenue, projected $55 million in 2002), leadership team, and partnerships, along with a list of related Aberdeen research reports.
 
 
-_Published 1999, author **Aberdeen Group**, type **market-study**._
+_Published 1999, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes salesforce.com using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

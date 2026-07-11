@@ -1,15 +1,15 @@
 ---
-title: "Gtnexussnapshot (Aberdeen, 1998)"
+title: "GT Nexus — Company Snapshot"
 slug: "study-gtnexussnapshot-16ab54"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "gtnexussnapshot-16ab54"
 author: "Aberdeen Group"
 date: "1998-01-01"
 pub_year: 1998
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "gtnexussnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Gtnexussnapshot (Aberdeen, 1998)
+# GT Nexus — Company Snapshot
 
-> Aberdeen Group study gtnexussnapshot-16ab54. Source: gtnexussnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling GT Nexus, a provider of global logistics and supply chain management solutions with emphasis on ocean transportation. It describes the GT Nexus Network and Private Logistics Network models, financial highlights, management, key partnerships, and core functionality across planning, orders, and execution.
 
 
-_Published 1998, author **Aberdeen Group**, type **market-study**._
+_Published 1998, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes GT Nexus — Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

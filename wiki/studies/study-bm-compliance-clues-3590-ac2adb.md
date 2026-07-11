@@ -1,15 +1,15 @@
 ---
-title: "Bm Compliance Clues 3590 (Aberdeen, 1988)"
+title: "Source-to-Settle: Compliance Clues for the CFO"
 slug: "study-bm-compliance-clues-3590-ac2adb"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "bm-compliance-clues-3590-ac2adb"
 author: "Aberdeen Group"
 date: "1988-01-01"
 pub_year: 1988
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "bm_compliance_clues_3590.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.26
 prescience_obs_count: 38
 ---
 
-# Bm Compliance Clues 3590 (Aberdeen, 1988)
+# Source-to-Settle: Compliance Clues for the CFO
 
-> Aberdeen Group study bm-compliance-clues-3590-ac2adb. Source: bm_compliance_clues_3590.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This October 2006 benchmark report surveys over 200 finance and procurement executives on compliance visibility within the source-to-settle process. It finds that nearly half of enterprises lack clear insight into their own non-compliant events, and recommends that CFOs and CPOs adopt contract lifecycle management and supplier performance systems to improve compliance visibility.
 
 
-_Published 1988, author **Aberdeen Group**, type **topic-analysis**._
+_Published 1988, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

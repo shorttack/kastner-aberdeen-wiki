@@ -1,15 +1,15 @@
 ---
-title: "Pragmatechv2Snapshot (Aberdeen, 1994)"
+title: "Pragmatech Software, Inc.: Company Snapshot"
 slug: "study-pragmatechv2snapshot-b0953e"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "pragmatechv2snapshot-b0953e"
 author: "Aberdeen Group"
 date: "1994-01-01"
 pub_year: 1994
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "pragmatechv2snapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Pragmatechv2Snapshot (Aberdeen, 1994)
+# Pragmatech Software, Inc.: Company Snapshot
 
-> Aberdeen Group study pragmatechv2snapshot-b0953e. Source: pragmatechv2snapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling Pragmatech Software, Inc., a proposal automation and RFP-response software provider founded in 1994 and based in Amherst, NH, with more than 1,800 active customers. It covers company facts, markets served, products (including The RFP Machine and Proposal Express), key partnerships, and executive team.
 
 
-_Published 1994, author **Aberdeen Group**, type **market-study**._
+_Published 1994, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Pragmatech Software, Inc.: Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

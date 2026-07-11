@@ -1,15 +1,15 @@
 ---
-title: "Ra Web Site Search 3910 (Aberdeen, 2007)"
+title: "The Web Site Search Benchmark Report: Revenue in the Results"
 slug: "study-ra-web-site-search-3910-5f9297"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-web-site-search-3910-5f9297"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_web_site_search_3910.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.32
 prescience_obs_count: 71
 ---
 
-# Ra Web Site Search 3910 (Aberdeen, 2007)
+# The Web Site Search Benchmark Report: Revenue in the Results
 
-> Aberdeen Group study ra-web-site-search-3910-5f9297. Source: ra_web_site_search_3910.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This February 2007 benchmark report finds eCommerce-focused search vendors are helping 91% of leading online retailers improve conversion rates and 60% increase average order value, with 100% reporting year-over-year gains in customer satisfaction from web site search applications. It shows 86% of top performers make moderate to extensive customizations to their search tools and recommends leveraging natural language processing, analytics, and continuous tuning.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

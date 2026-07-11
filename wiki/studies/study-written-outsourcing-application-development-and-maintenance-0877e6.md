@@ -1,15 +1,15 @@
 ---
-title: "Written Outsourcing Application Development And Maintenance (Aberdeen, 2006)"
+title: "Outsourcing Application Development and Maintenance: Joining Cost Savings with IT Human Asset Management"
 slug: "study-written-outsourcing-application-development-and-maintenance-0877e6"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-outsourcing-application-development-and-maintenance-0877e6"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "Written__Outsourcing Application Development and Maintenance.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.95
 prescience_obs_count: 40
 ---
 
-# Written Outsourcing Application Development And Maintenance (Aberdeen, 2006)
+# Outsourcing Application Development and Maintenance: Joining Cost Savings with IT Human Asset Management
 
-> Aberdeen Group study written-outsourcing-application-development-and-maintenance-0877e6. Source: Written__Outsourcing Application Development and Maintenance.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A November 2006 Aberdeen Group benchmark report on IT application development and maintenance (ADM) outsourcing, underwritten in part by industry sponsors. Key findings show Best-in-Class organizations save an average of 56% over in-house development (more than twice the savings of Industry Average firms), while top outsourcing targets include Java/web development, .NET/Windows development, portals, and database management.
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

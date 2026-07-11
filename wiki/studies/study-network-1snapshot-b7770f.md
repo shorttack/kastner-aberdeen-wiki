@@ -1,15 +1,15 @@
 ---
-title: "Network 1Snapshot (Aberdeen, 1999)"
+title: "Network-1 Security Solutions, Inc. — Company Snapshot"
 slug: "study-network-1snapshot-b7770f"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "network-1snapshot-b7770f"
 author: "Aberdeen Group"
 date: "1999-01-01"
 pub_year: 1999
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "network-1snapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Network 1Snapshot (Aberdeen, 1999)
+# Network-1 Security Solutions, Inc. — Company Snapshot
 
-> Aberdeen Group study network-1snapshot-b7770f. Source: network-1snapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling Network-1 Security Solutions, a publicly traded supplier of Cyberwall software solutions for intrusion prevention on Windows-based desktops, application servers, and firewalls. It covers company facts, markets served, partnerships, management, and related Aberdeen white papers on network security.
 
 
-_Published 1999, author **Aberdeen Group**, type **market-study**._
+_Published 1999, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Network-1 Security Solutions, Inc. — Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

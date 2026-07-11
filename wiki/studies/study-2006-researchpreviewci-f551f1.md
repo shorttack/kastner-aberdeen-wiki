@@ -1,15 +1,15 @@
 ---
-title: "2006 Researchpreviewci (Aberdeen, 2006)"
+title: "Customer Intelligence Research: Managing, Analyzing and Applying Customer Intelligence for Profitable Growth"
 slug: "study-2006-researchpreviewci-f551f1"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2006-researchpreviewci-f551f1"
-author: "Aberdeen Group"
+author: "Leslie Ament / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2006_researchpreviewci.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.0
 prescience_obs_count: 4
 ---
 
-# 2006 Researchpreviewci (Aberdeen, 2006)
+# Customer Intelligence Research: Managing, Analyzing and Applying Customer Intelligence for Profitable Growth
 
-> Aberdeen Group study 2006-researchpreviewci-f551f1. Source: 2006_researchpreviewci.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This 2006 research preview outlines Aberdeen's Customer Intelligence research agenda, focused on how companies manage, analyze, and apply customer intelligence to drive profitable growth. Leslie Ament is named as lead analyst for the research area, but the document is a program preview rather than a completed benchmark report.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Leslie Ament / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

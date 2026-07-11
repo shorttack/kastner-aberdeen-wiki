@@ -1,5 +1,5 @@
 ---
-title: "Eurowiress (Aberdeen, 2000)"
+title: "Cutting EDGE: The 3G Alternative"
 slug: "study-eurowiress-13e05b"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -24,9 +24,9 @@ prescience_mean: 1.73
 prescience_obs_count: 11
 ---
 
-# Eurowiress (Aberdeen, 2000)
+# Cutting EDGE: The 3G Alternative
 
-> Aberdeen Group study eurowiress-13e05b. Source: eurowiress.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> November 2000 Executive White Paper analyzing the effect of emerging wireless data technologies (WAP, GPRS, i-mode, EDGE) on European cellular service providers in countries with awarded UMTS/3G licenses (Finland, Germany, the Netherlands, Spain, UK). Argues that GPRS will be a short-lived bridge technology, contrasts Europe's WAP/GPRS struggles with the commercial success of Japan's i-mode, and projects EDGE as a more durable step toward 3G.
 
 
 _Published 2000, author **Aberdeen Group**, type **market-study**._

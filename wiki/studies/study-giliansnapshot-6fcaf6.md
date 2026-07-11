@@ -1,15 +1,15 @@
 ---
-title: "Giliansnapshot (Aberdeen, 2001)"
+title: "Gilian Technologies, Incorporated — Company Snapshot"
 slug: "study-giliansnapshot-6fcaf6"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "giliansnapshot-6fcaf6"
 author: "Aberdeen Group"
 date: "2001-01-01"
 pub_year: 2001
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "giliansnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Giliansnapshot (Aberdeen, 2001)
+# Gilian Technologies, Incorporated — Company Snapshot
 
-> Aberdeen Group study giliansnapshot-6fcaf6. Source: giliansnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling Gilian Technologies, a privately held supplier of website content and transaction security solutions. It describes the company's G-Server product using an 'exit-control' approach to prevent website defacement, along with markets served, partnerships, and management team.
 
 
-_Published 2001, author **Aberdeen Group**, type **market-study**._
+_Published 2001, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Gilian Technologies, Incorporated — Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

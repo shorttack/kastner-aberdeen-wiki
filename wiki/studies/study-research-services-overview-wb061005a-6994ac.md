@@ -1,15 +1,15 @@
 ---
-title: "Research Services Overview Wb061005A (Aberdeen, 2005)"
+title: "Technology Answers for the Global Value Chain: Aberdeen Research Services Overview"
 slug: "study-research-services-overview-wb061005a-6994ac"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "research-services-overview-wb061005a-6994ac"
 author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "benchmark"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "research_services_overview_wb061005a.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Research Services Overview Wb061005A (Aberdeen, 2005)
+# Technology Answers for the Global Value Chain: Aberdeen Research Services Overview
 
-> Aberdeen Group study research-services-overview-wb061005a-6994ac. Source: research_services_overview_wb061005a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This is a corporate overview describing Aberdeen Group's fact-based, end-user-validated research services for both technology solution providers and enterprises. It lists Aberdeen's service offerings — driving market awareness, creating demand, accelerating sales, growing customers, educating teams, aligning for action, and benchmarking performance — without presenting original survey data or findings.
 
 
-_Published 2005, author **Aberdeen Group**, type **benchmark**._
+_Published 2005, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [432 x 117] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Technology Answers for the Global Value Chain: Aberdeen Research Services Overview using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

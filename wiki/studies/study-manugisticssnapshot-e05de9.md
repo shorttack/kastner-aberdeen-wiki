@@ -1,5 +1,5 @@
 ---
-title: "Manugisticssnapshot (Aberdeen, 2001)"
+title: "Manugistics Inc — Company Snapshot"
 slug: "study-manugisticssnapshot-e05de9"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -24,9 +24,9 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Manugisticssnapshot (Aberdeen, 2001)
+# Manugistics Inc — Company Snapshot
 
-> Aberdeen Group study manugisticssnapshot-e05de9. Source: manugisticssnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling Manugistics, a provider of enterprise optimization solutions spanning supply chain management, logistics resource management, and pricing/revenue optimization. It covers company overview, financial highlights (fiscal 2001 results), management, key partnerships (Vastera, Manhattan Associates), and NetWORKS suite functionality.
 
 
 _Published 2001, author **Aberdeen Group**, type **market-study**._
@@ -34,4 +34,4 @@ _Published 2001, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Manugistics Inc — Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

@@ -1,15 +1,15 @@
 ---
-title: "Ra Web Site Search 3910 Sli (Aberdeen, 2007)"
+title: "Web Site Search: Revenue in the Results — The Web Site Search Benchmark Report"
 slug: "study-ra-web-site-search-3910-sli-16eb05"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-web-site-search-3910-sli-16eb05"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_web_site_search_3910_sli.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.98
 prescience_obs_count: 55
 ---
 
-# Ra Web Site Search 3910 Sli (Aberdeen, 2007)
+# Web Site Search: Revenue in the Results — The Web Site Search Benchmark Report
 
-> Aberdeen Group study ra-web-site-search-3910-sli-16eb05. Source: ra_web_site_search_3910_sli.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> Aberdeen Group benchmark report (February 2007) on eCommerce web site search. Finds a thriving subset of specialist search vendors beyond Google and Yahoo helping 91% of leading online retailers improve conversion rates, 60% raise average order value, and 100% report year-over-year gains in customer satisfaction; 83% of leading online companies report positive ROI from their web site search applications, and 96% of eCommerce sites have or will deploy a search tool within 24 months. Recommends NLP/misspelling handling, search analytics, and treating search as an evolutionary, continually tuned process.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

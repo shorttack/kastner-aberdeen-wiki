@@ -1,15 +1,15 @@
 ---
-title: "Webwashersnapshot (Aberdeen, 2001)"
+title: "webwasher.com AG"
 slug: "study-webwashersnapshot-a1cfa0"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "webwashersnapshot-a1cfa0"
 author: "Aberdeen Group"
 date: "2001-01-01"
 pub_year: 2001
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "webwashersnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Webwashersnapshot (Aberdeen, 2001)
+# webwasher.com AG
 
-> Aberdeen Group study webwashersnapshot-a1cfa0. Source: webwashersnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A one-page Aberdeen Group vendor snapshot on WebWasher, a German content-security vendor whose enterprise products combine antivirus, e-mail management, Web access control, and content filtering. It covers company facts, partnerships (including its acquisition of Network Appliance's Content Reporter business), and leadership as of 2002.
 
 
-_Published 2001, author **Aberdeen Group**, type **market-study**._
+_Published 2001, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes webwasher.com AG using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

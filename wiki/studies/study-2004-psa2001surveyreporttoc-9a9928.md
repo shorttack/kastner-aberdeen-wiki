@@ -1,15 +1,15 @@
 ---
-title: "2004 Psa2001Surveyreporttoc (Aberdeen, 2004)"
+title: "Professional Services Automation: End-User Research Study"
 slug: "study-2004-psa2001surveyreporttoc-9a9928"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "2004-psa2001surveyreporttoc-9a9928"
 author: "Aberdeen Group"
 date: "2004-01-01"
 pub_year: 2004
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2004_psa2001surveyreporttoc.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# 2004 Psa2001Surveyreporttoc (Aberdeen, 2004)
+# Professional Services Automation: End-User Research Study
 
-> Aberdeen Group study 2004-psa2001surveyreporttoc-9a9928. Source: 2004_psa2001surveyreporttoc.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This record preserves the table of contents of a November 2001 Aberdeen end-user survey report on professional services automation (PSA) software adoption. The structure shows chapters on ROI, vendor comparisons (including QuickArrow, SharpOWL, and Tivity), and survey statistics broken out by organization size and industry vertical.
 
 
-_Published 2004, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2004, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [68 x 722] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Professional Services Automation: End-User Research Study using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

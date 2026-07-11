@@ -1,15 +1,15 @@
 ---
-title: "Ra Lean Jb 2845 (Aberdeen, 2006)"
+title: "The Lean Benchmark Report: Closing the Reality Gap"
 slug: "study-ra-lean-jb-2845-f319f8"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-lean-jb-2845-f319f8"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_lean_jb_2845.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.08
 prescience_obs_count: 76
 ---
 
-# Ra Lean Jb 2845 (Aberdeen, 2006)
+# The Lean Benchmark Report: Closing the Reality Gap
 
-> Aberdeen Group study ra-lean-jb-2845-f319f8. Source: ra_lean_jb_2845.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This March 2006 benchmark report surveys nearly 300 manufacturers on Lean manufacturing adoption, finding 90% report commitment to Lean but fewer than 20% qualify as best-in-class. It identifies three shared characteristics of companies achieving operational excellence through Lean: dedication to basics and continuous improvement, streamlined/standardized processes, and Lean principles embedded in corporate strategy and leadership.
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

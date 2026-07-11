@@ -1,12 +1,12 @@
 ---
-title: "Rb Retailersusebidata Gb 3174 (Aberdeen, 2006)"
+title: "Retailers Strive to Use Business Intelligence Data in a Real-Time, Portal- and Dashboard-Based Environment"
 slug: "study-rb-retailersusebidata-gb-3174-7cf5d4"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "rb-retailersusebidata-gb-3174-7cf5d4"
-author: "Aberdeen Group"
+author: "Gregory Belkin / Aberdeen Group"
 date: "2006-06-28"
 pub_year: 2006
 type: "benchmark"
@@ -24,12 +24,12 @@ prescience_mean: 1.69
 prescience_obs_count: 13
 ---
 
-# Rb Retailersusebidata Gb 3174 (Aberdeen, 2006)
+# Retailers Strive to Use Business Intelligence Data in a Real-Time, Portal- and Dashboard-Based Environment
 
-> Aberdeen Group study rb-retailersusebidata-gb-3174-7cf5d4. Source: rb_retailersusebidata_gb_3174.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This June 2006 Research Brief finds 76% of surveyed retailers use or plan to use business intelligence (BI) within their organizations, yielding benefits like organized enterprise data management and easier access to decision-making criteria. It notes retailers still have work to do adopting real-time, portal- and dashboard-based BI (rather than spreadsheets), with predictive analytics identified as a key emerging component.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Gregory Belkin / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

@@ -1,15 +1,15 @@
 ---
-title: "Written Iha Full Report   Draft Jul 28 (Aberdeen, 2003)"
+title: "Consumer Adoption of Memory Cards: A Qualitative Study"
 slug: "study-written-iha-full-report-draft-jul-28-075611"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/market-study"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-iha-full-report-draft-jul-28-075611"
 author: "Aberdeen Group"
 date: "2003-07-28"
 pub_year: 2003
-type: "topic-analysis"
+type: "market-study"
 subject_domain: "storage"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "Written__IHA full report - draft Jul 28.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 2.05
 prescience_obs_count: 21
 ---
 
-# Written Iha Full Report   Draft Jul 28 (Aberdeen, 2003)
+# Consumer Adoption of Memory Cards: A Qualitative Study
 
-> Aberdeen Group study written-iha-full-report-draft-jul-28-075611. Source: Written__IHA full report - draft Jul 28.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A July 2003 draft Aberdeen Group executive report prepared for the Internet Home Alliance board, presenting qualitative research (focus groups and in-depth interviews) on consumer adoption and usage of digital technology and Secure Digital memory cards. It covers consumer ownership patterns for digital cameras, camcorders, PDAs, and MP3 players, and how consumers transfer and store digital data.
 
 
-_Published 2003, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2003, author **Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

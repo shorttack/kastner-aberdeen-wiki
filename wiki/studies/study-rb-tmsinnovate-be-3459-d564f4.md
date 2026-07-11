@@ -1,12 +1,12 @@
 ---
-title: "Rb Tmsinnovate Be 3459 (Aberdeen, 2006)"
+title: "Transportation Management: TMS Innovations to Meet Today's Fresh Priorities"
 slug: "study-rb-tmsinnovate-be-3459-d564f4"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "rb-tmsinnovate-be-3459-d564f4"
-author: "Aberdeen Group"
+author: "Beth Enslow / Aberdeen Group"
 date: "2006-09-21"
 pub_year: 2006
 type: "benchmark"
@@ -24,12 +24,12 @@ prescience_mean: 1.9
 prescience_obs_count: 10
 ---
 
-# Rb Tmsinnovate Be 3459 (Aberdeen, 2006)
+# Transportation Management: TMS Innovations to Meet Today's Fresh Priorities
 
-> Aberdeen Group study rb-tmsinnovate-be-3459-d564f4. Source: rb_tmsinnovate_be_3459.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This September 2006 Research Brief assesses five transportation management technology trends — advanced shipment visibility, carrier collaboration support, on-demand software, international freight management, and private fleet/common carrier coordination — drawing on Aberdeen's Supply Chain Innovator's Technology Footprint study. It discusses vendor advances for each trend as companies seek to control freight budgets and improve customer satisfaction.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Beth Enslow / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

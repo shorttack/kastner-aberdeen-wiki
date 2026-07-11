@@ -1,15 +1,15 @@
 ---
-title: "Dtp 2005 Research Agenda 012705A (Aberdeen, 2005)"
+title: "Design-to-Procure: Creating Value in the Global Economy"
 slug: "study-dtp-2005-research-agenda-012705a-8d9c59"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "dtp-2005-research-agenda-012705a-8d9c59"
-author: "Research Agenda"
+author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "dtp-2005_research_agenda_012705a.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 2.6
 prescience_obs_count: 5
 ---
 
-# Dtp 2005 Research Agenda 012705A (Aberdeen, 2005)
+# Design-to-Procure: Creating Value in the Global Economy
 
-> Aberdeen Group study dtp-2005-research-agenda-012705a-8d9c59. Source: dtp-2005_research_agenda_012705a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> Research agenda outlining Aberdeen's Design-to-Procure research calendar for 1Q05–3Q05, previewing planned quarterly studies on creating value in the global supply economy.
 
 
-_Published 2005, author **Research Agenda**, type **benchmark**._
+_Published 2005, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

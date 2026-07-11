@@ -1,15 +1,15 @@
 ---
-title: "2007 Aberdeen Research Calendar 082906A (Aberdeen, 2007)"
+title: "2007 Human Capital Management and Information Technology Research Calendar"
 slug: "study-2007-aberdeen-research-calendar-082906a-145713"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2007-aberdeen-research-calendar-082906a-145713"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2007_aberdeen-research_calendar_082906a.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.83
 prescience_obs_count: 53
 ---
 
-# 2007 Aberdeen Research Calendar 082906A (Aberdeen, 2007)
+# 2007 Human Capital Management and Information Technology Research Calendar
 
-> Aberdeen Group study 2007-aberdeen-research-calendar-082906a-145713. Source: 2007_aberdeen-research_calendar_082906a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This combined 2007 research calendar previews Aberdeen's planned Human Capital Management and Information Technology studies for the year. It lists topics and themes to be researched rather than presenting completed findings.
 
 
-_Published 2007, author **Aberdeen Group**, type **benchmark**._
+_Published 2007, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

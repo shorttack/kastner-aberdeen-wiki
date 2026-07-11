@@ -1,15 +1,15 @@
 ---
-title: "Lumetasnapshot (Aberdeen, 2001)"
+title: "Lumeta Corporation — Company Snapshot"
 slug: "study-lumetasnapshot-6233db"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "lumetasnapshot-6233db"
 author: "Aberdeen Group"
 date: "2001-01-01"
 pub_year: 2001
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "telecommunications"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "lumetasnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Lumetasnapshot (Aberdeen, 2001)
+# Lumeta Corporation — Company Snapshot
 
-> Aberdeen Group study lumetasnapshot-6233db. Source: lumetasnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: telecommunications. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling Lumeta, a privately held supplier of network security analysis solutions, including the Lumeta Discovery Suite for network mapping and the Lumeta Firewall Analyzer for firewall rule assessment. It covers company facts, markets served, partnerships, and management team.
 
 
-_Published 2001, author **Aberdeen Group**, type **market-study**._
+_Published 2001, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Lumeta Corporation — Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

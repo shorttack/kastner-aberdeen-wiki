@@ -1,15 +1,15 @@
 ---
-title: "2004 Verticalsolutionssnapshot (Aberdeen, 2004)"
+title: "Vertical Solutions, Inc."
 slug: "study-2004-verticalsolutionssnapshot-fd28fe"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "2004-verticalsolutionssnapshot-fd28fe"
 author: "Aberdeen Group"
 date: "2004-01-01"
 pub_year: 2004
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2004_verticalsolutionssnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# 2004 Verticalsolutionssnapshot (Aberdeen, 2004)
+# Vertical Solutions, Inc.
 
-> Aberdeen Group study 2004-verticalsolutionssnapshot-fd28fe. Source: 2004_verticalsolutionssnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This vendor snapshot profiles Vertical Solutions, Inc. (VSI), describing its PowerHelp Millennium CRM and field-service platform targeted at industrial and telecom customers.
 
 
-_Published 2004, author **Aberdeen Group**, type **market-study**._
+_Published 2004, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Vertical Solutions, Inc. using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

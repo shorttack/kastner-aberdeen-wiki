@@ -1,15 +1,15 @@
 ---
-title: "Rb Procindus 4020 (Aberdeen, 2007)"
+title: "New Supply Chain Strategies for Process Industries"
 slug: "study-rb-procindus-4020-1a618f"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "rb-procindus-4020-1a618f"
 author: "Aberdeen Group"
 date: "2007-03-05"
 pub_year: 2007
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "rb_procindus_4020.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.15
 prescience_obs_count: 13
 ---
 
-# Rb Procindus 4020 (Aberdeen, 2007)
+# New Supply Chain Strategies for Process Industries
 
-> Aberdeen Group study rb-procindus-4020-1a618f. Source: rb_procindus_4020.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This March 2007 Research Brief outlines Aberdeen's planned research into how process industry companies (chemicals, food & beverage, pharmaceuticals, paper & pulp, health & beauty aids, oil & gas) are redesigning supply chains amid rising energy costs and regulatory demands. It provides a guide to 33 technology vendors serving the sector and invites manufacturers, distributors, and vendors to participate in the forthcoming study on sales and operations planning, traceability, and multi-echelon inventory optimization.
 
 
-_Published 2007, author **Aberdeen Group**, type **benchmark**._
+_Published 2007, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

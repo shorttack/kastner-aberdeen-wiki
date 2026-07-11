@@ -1,5 +1,5 @@
 ---
-title: "Dell Sap V6 (Aberdeen, 2004)"
+title: "Dell, Oracle & Linux: Your Next SAP Platform?"
 slug: "study-dell-sap-v6-79226d"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -24,9 +24,9 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Dell Sap V6 (Aberdeen, 2004)
+# Dell, Oracle & Linux: Your Next SAP Platform?
 
-> Aberdeen Group study dell-sap-v6-79226d. Source: Dell-SAP v6.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> April 2004 Aberdeen Perspective analysis, underwritten by Dell, examining Dell/Oracle/Linux as an enterprise platform alternative for running SAP, weighing cost and architecture tradeoffs against incumbent Unix/Windows platforms.
 
 
 _Published 2004, author **Aberdeen Group**, type **market-study**._
@@ -34,4 +34,4 @@ _Published 2004, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
-- This study analyzes ==> picture [442 x 77] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Dell, Oracle & Linux: Your Next SAP Platform? using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

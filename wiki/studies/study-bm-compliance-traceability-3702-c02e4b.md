@@ -1,15 +1,15 @@
 ---
-title: "Bm Compliance Traceability 3702 (Aberdeen, 2006)"
+title: "Compliance and Traceability in Regulated Industries Benchmark Report"
 slug: "study-bm-compliance-traceability-3702-c02e4b"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "bm-compliance-traceability-3702-c02e4b"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "bm_compliance_traceability_3702.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.38
 prescience_obs_count: 37
 ---
 
-# Bm Compliance Traceability 3702 (Aberdeen, 2006)
+# Compliance and Traceability in Regulated Industries Benchmark Report
 
-> Aberdeen Group study bm-compliance-traceability-3702-c02e4b. Source: bm_compliance_traceability_3702.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This December 2006 benchmark report examines how manufacturers in regulated industries use compliance and traceability programs as a competitive advantage rather than merely a cost of doing business. Key findings show 93% of manufacturers relying on manual processes failed to achieve Best-in-Class status, while 73% of Best-in-Class manufacturers integrated compliance and traceability solutions with other enterprise applications.
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

@@ -1,15 +1,15 @@
 ---
-title: "2006 Hr Aberdeen Research Calendar Hcm (Aberdeen, 2006)"
+title: "2006 Human Capital Management Research Calendar"
 slug: "study-2006-hr-aberdeen-research-calendar-hcm-aa035b"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2006-hr-aberdeen-research-calendar-hcm-aa035b"
-author: "Aberdeen Report"
+author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2006_hr_aberdeen_research_calendar_hcm.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 2.67
 prescience_obs_count: 3
 ---
 
-# 2006 Hr Aberdeen Research Calendar Hcm (Aberdeen, 2006)
+# 2006 Human Capital Management Research Calendar
 
-> Aberdeen Group study 2006-hr-aberdeen-research-calendar-hcm-aa035b. Source: 2006_hr_aberdeen_research_calendar_hcm.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This is Aberdeen's 2006 Human Capital Management research overview, previewing studies on retention and succession planning, performance and reward management, employee life cycle management, and HR outsourcing. It describes planned research themes rather than presenting benchmark findings.
 
 
-_Published 2006, author **Aberdeen Report**, type **benchmark**._
+_Published 2006, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

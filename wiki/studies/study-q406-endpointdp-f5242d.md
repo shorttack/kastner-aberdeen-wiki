@@ -1,12 +1,12 @@
 ---
-title: "Q406 Endpointdp (Aberdeen, 2006)"
+title: "Endpoint Security Strategies Part II: The Data Protection Benchmark"
 slug: "study-q406-endpointdp-f5242d"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "q406-endpointdp-f5242d"
-author: "Research Preview"
+author: "Mounil Patel / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
 type: "benchmark"
@@ -24,12 +24,12 @@ prescience_mean: 0.0
 prescience_obs_count: 4
 ---
 
-# Q406 Endpointdp (Aberdeen, 2006)
+# Endpoint Security Strategies Part II: The Data Protection Benchmark
 
-> Aberdeen Group study q406-endpointdp-f5242d. Source: q406_endpointdp.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A research preview for the second in a series of Aberdeen endpoint security studies (4Q06), led by Research Director Mounil Patel and analyst Heather DalleTezze, examining how organizations protect data on desktops and laptops against risks from portable media, lost devices, and unauthorized copying, and the technologies (encryption, digital rights management, removable media control) used by best-in-class organizations.
 
 
-_Published 2006, author **Research Preview**, type **benchmark**._
+_Published 2006, author **Mounil Patel / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

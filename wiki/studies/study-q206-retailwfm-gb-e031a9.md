@@ -1,15 +1,15 @@
 ---
-title: "Q206 Retailwfm Gb (Aberdeen, 2006)"
+title: "Workforce Management Strategies for Retailers: Leveraging Advanced Workforce Automation to Gain the Competitive Edge"
 slug: "study-q206-retailwfm-gb-e031a9"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "q206-retailwfm-gb-e031a9"
-author: "Aberdeen Group"
+author: "Gregory Belkin / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "retail"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "q206_retailwfm_gb.pdf"
@@ -24,16 +24,16 @@ prescience_mean: 2.67
 prescience_obs_count: 3
 ---
 
-# Q206 Retailwfm Gb (Aberdeen, 2006)
+# Workforce Management Strategies for Retailers: Leveraging Advanced Workforce Automation to Gain the Competitive Edge
 
-> Aberdeen Group study q206-retailwfm-gb-e031a9. Source: q206_retailwfm_gb.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: retail. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A research preview (May 2006) for an Aberdeen study, led by analyst Gregory Belkin, building on a 2005 benchmark report to examine how mid-size retailers can move from manual workforce scheduling (used by 42% of retailers) to automated workforce management to improve efficiency and ROI.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Gregory Belkin / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
 - According to Aberdeen _Group_ research, 42% of these retailers use manual systems to M schedule their workforces. `[ps=5]`
 - In recognition of this problem, 58% of these retailers plan on updating employee and store management technology. `[ps=4]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Workforce Management Strategies for Retailers: Leveraging Advanced Workforce Automation to Gain the Competitive Edge using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

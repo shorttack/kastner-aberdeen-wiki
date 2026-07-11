@@ -1,15 +1,15 @@
 ---
-title: "Ra Lbs Sd 3599 (Aberdeen, 2006)"
+title: "The Location-Based Mobile Field Service Benchmark Report"
 slug: "study-ra-lbs-sd-3599-736223"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-lbs-sd-3599-736223"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_lbs_sd_3599.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.88
 prescience_obs_count: 81
 ---
 
-# Ra Lbs Sd 3599 (Aberdeen, 2006)
+# The Location-Based Mobile Field Service Benchmark Report
 
-> Aberdeen Group study ra-lbs-sd-3599-736223. Source: ra_lbs_sd_3599.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This October 2006 benchmark report examines the use of location-based solutions (LBS) such as GPS, GIS, and AVL in field service operations, finding 63% of respondents use LBS and that these firms complete nearly one more work order per technician per day, yielding a 110-basis-point service margin advantage. It shows 83% of Best-in-Class firms use LBS tools versus 51% of laggards, and offers recommendations for identifying needs, training staff, and increasing executive visibility.
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

@@ -1,15 +1,15 @@
 ---
-title: "Ba Uc Pb 3704 (Aberdeen, 2006)"
+title: "Beyond Dial-Tone: Unified Communications Benchmark Report"
 slug: "study-ba-uc-pb-3704-82afab"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ba-uc-pb-3704-82afab"
-author: "Debbie Caporusso"
+author: "Debbie Caporusso / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "wireless"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ba_uc_pb_3704.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.3
 prescience_obs_count: 80
 ---
 
-# Ba Uc Pb 3704 (Aberdeen, 2006)
+# Beyond Dial-Tone: Unified Communications Benchmark Report
 
-> Aberdeen Group study ba-uc-pb-3704-82afab. Source: ba_uc_pb_3704.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: wireless. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This December 2006 benchmark report examines enterprise adoption of Unified Communications, finding that 66% of organizations have at least five UC applications and that increased employee productivity is the top adoption driver. Best-in-Class organizations show superior ROI, audio quality, availability, and user satisfaction outcomes, and the report recommends accelerating adoption of collaboration applications and mobile UC solutions.
 
 
-_Published 2006, author **Debbie Caporusso**, type **topic-analysis**._
+_Published 2006, author **Debbie Caporusso / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

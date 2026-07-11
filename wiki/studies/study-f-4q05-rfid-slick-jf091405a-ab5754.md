@@ -1,15 +1,15 @@
 ---
-title: "F 4Q05 Rfid Slick Jf091405A (Aberdeen, 2005)"
+title: "Finding the RFID Tipping Point"
 slug: "study-f-4q05-rfid-slick-jf091405a-ab5754"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "f-4q05-rfid-slick-jf091405a-ab5754"
-author: "Aberdeen Group"
+author: "John Fontanella / Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "market-study"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "f-4q05-rfid_slick-jf091405a.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# F 4Q05 Rfid Slick Jf091405A (Aberdeen, 2005)
+# Finding the RFID Tipping Point
 
-> Aberdeen Group study f-4q05-rfid-slick-jf091405a-ab5754. Source: f-4q05-rfid_slick-jf091405a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A research preview for a planned Aberdeen report identifying which market forces — tag/reader pricing, global standards, regulatory mandates, and emerging value sources — will accelerate RFID adoption beyond the Walmart EPC pilot. It describes the planned interview-based research approach with enterprises, academia, and regulators, led by John Fontanella, Sr. VP Supply Chain Research, for 4Q05.
 
 
-_Published 2005, author **Aberdeen Group**, type **market-study**._
+_Published 2005, author **John Fontanella / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Finding the RFID Tipping Point using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

@@ -1,15 +1,15 @@
 ---
-title: "Ra 21Stcen 3863 (Aberdeen, 2007)"
+title: "The 21st Century Retailer Benchmark Report: Managing Customers, Merchandise & Data"
 slug: "study-ra-21stcen-3863-65fedd"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-21stcen-3863-65fedd"
-author: "International Retailer"
+author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_21stcen_3863.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.76
 prescience_obs_count: 75
 ---
 
-# Ra 21Stcen 3863 (Aberdeen, 2007)
+# The 21st Century Retailer Benchmark Report: Managing Customers, Merchandise & Data
 
-> Aberdeen Group study ra-21stcen-3863-65fedd. Source: ra_21stcen_3863.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This benchmark report examines how retailers are adapting to multi-channel commerce, finding that 84% of surveyed retailers sell across more than one channel and 66% are building processes for a unified 360-degree customer view. It covers customer management, merchandising/inventory management, and data management as the top areas for multi-channel technology investment, and provides recommendations for Average and Laggard retailers to close the gap with Best-in-Class performers.
 
 
-_Published 2007, author **International Retailer**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

@@ -1,15 +1,15 @@
 ---
-title: "Ra Admoutsourcing Rs 3597 (Aberdeen, 1988)"
+title: "Outsourcing Application Development and Maintenance: Joining Cost Savings with IT Human Asset Management"
 slug: "study-ra-admoutsourcing-rs-3597-59f661"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-admoutsourcing-rs-3597-59f661"
 author: "Aberdeen Group"
 date: "1988-01-01"
 pub_year: 1988
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_admoutsourcing_rs_3597.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 2.0
 prescience_obs_count: 4
 ---
 
-# Ra Admoutsourcing Rs 3597 (Aberdeen, 1988)
+# Outsourcing Application Development and Maintenance: Joining Cost Savings with IT Human Asset Management
 
-> Aberdeen Group study ra-admoutsourcing-rs-3597-59f661. Source: ra_admoutsourcing_rs_3597.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This benchmark report (abridged version, November 2006) examines why companies outsource application development and maintenance work, finding that Best-in-Class organizations save an average of 56% over in-house development while achieving higher user satisfaction and better project performance. It identifies top outsourcing targets (Java/web development, .Net/Windows development, portals, and database management) and discusses the shift of vendors beyond India as buyers seek quality work at lower cost.
 
 
-_Published 1988, author **Aberdeen Group**, type **topic-analysis**._
+_Published 1988, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

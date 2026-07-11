@@ -1,15 +1,15 @@
 ---
-title: "Q107 Secure Records Mgmt Aa (Aberdeen, 2007)"
+title: "Secure Records Management: Enterprise Records and Data Solutions Take Precedent"
 slug: "study-q107-secure-records-mgmt-aa-3425f8"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "q107-secure-records-mgmt-aa-3425f8"
-author: "Aberdeen Group"
+author: "Alex Adamopoulos / Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "q107_secure_records_mgmt_aa.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Q107 Secure Records Mgmt Aa (Aberdeen, 2007)
+# Secure Records Management: Enterprise Records and Data Solutions Take Precedent
 
-> Aberdeen Group study q107-secure-records-mgmt-aa-3425f8. Source: q107_secure_records_mgmt_aa.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A research preview for a planned 1Q07 Aberdeen benchmark study, led by analyst Alex Adamopoulos, investigating enterprise content management maturity and how organizations select secure records and data management solutions amid growing compliance, data security, and privacy requirements.
 
 
-_Published 2007, author **Aberdeen Group**, type **benchmark**._
+_Published 2007, author **Alex Adamopoulos / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Secure Records Management: Enterprise Records and Data Solutions Take Precedent using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

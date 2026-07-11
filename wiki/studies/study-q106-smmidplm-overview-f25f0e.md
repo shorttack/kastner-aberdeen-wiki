@@ -1,15 +1,15 @@
 ---
-title: "Q106 Smmidplm Overview (Aberdeen, 2006)"
+title: "PLM for Small to Mid-Sized Manufacturers: Increasing Product Innovation Value in Smaller Businesses"
 slug: "study-q106-smmidplm-overview-f25f0e"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "q106-smmidplm-overview-f25f0e"
-author: "Aberdeen Group"
+author: "Jim Brown / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "technology-market-analysis"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "q106_smmidplm_overview.pdf"
@@ -24,15 +24,15 @@ prescience_mean: 1.5
 prescience_obs_count: 2
 ---
 
-# Q106 Smmidplm Overview (Aberdeen, 2006)
+# PLM for Small to Mid-Sized Manufacturers: Increasing Product Innovation Value in Smaller Businesses
 
-> Aberdeen Group study q106-smmidplm-overview-f25f0e. Source: q106_smmidplm_overview.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A research preview for a planned 1Q06 Aberdeen survey-based benchmark study, led by analyst Jim Brown, examining how small to mid-sized manufacturers use product lifecycle management (PLM) technology to improve product innovation despite limited resources, citing that best-in-class companies are four times more likely to use PLM technology.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Jim Brown / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
 - Aberdeen _Group_ research indicates that companies that are best in class at meeting product development targets are four times more likely to use PLM technology and adopt organizational approaches designed to foster effective innovation. `[ps=4]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes PLM for Small to Mid-Sized Manufacturers: Increasing Product Innovation Value in Smaller Businesses using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

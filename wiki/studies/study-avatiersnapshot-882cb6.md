@@ -1,15 +1,15 @@
 ---
-title: "Avatiersnapshot (Aberdeen, 2003)"
+title: "Avatier Corporation: Company Snapshot"
 slug: "study-avatiersnapshot-882cb6"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "avatiersnapshot-882cb6"
 author: "Aberdeen Group"
 date: "2003-01-01"
 pub_year: 2003
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "avatiersnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Avatiersnapshot (Aberdeen, 2003)
+# Avatier Corporation: Company Snapshot
 
-> Aberdeen Group study avatiersnapshot-882cb6. Source: avatiersnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This vendor snapshot profiles Avatier Corporation, a privately held identity management software provider whose products include Trusted Enterprise Manager and Password Station.Net. It describes the company's markets served, technology partnerships with firms such as HP, IBM, and Microsoft, and leadership as of 2003.
 
 
-_Published 2003, author **Aberdeen Group**, type **market-study**._
+_Published 2003, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Avatier Corporation: Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

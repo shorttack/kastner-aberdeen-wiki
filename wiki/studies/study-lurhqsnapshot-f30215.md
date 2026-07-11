@@ -1,15 +1,15 @@
 ---
-title: "Lurhqsnapshot (Aberdeen, 2003)"
+title: "LURHQ Corporation — Company Snapshot"
 slug: "study-lurhqsnapshot-f30215"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "lurhqsnapshot-f30215"
 author: "Aberdeen Group"
 date: "2003-01-01"
 pub_year: 2003
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "lurhqsnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Lurhqsnapshot (Aberdeen, 2003)
+# LURHQ Corporation — Company Snapshot
 
-> Aberdeen Group study lurhqsnapshot-f30215. Source: lurhqsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling LURHQ, a privately held provider of 24x7 managed enterprise security monitoring, intrusion detection, and firewall services delivered via its Sherlock Enterprise Security Portal. It covers company facts, markets served, acquisitions (MSSP Knowledge Sentry), and management team.
 
 
-_Published 2003, author **Aberdeen Group**, type **market-study**._
+_Published 2003, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes LURHQ Corporation — Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

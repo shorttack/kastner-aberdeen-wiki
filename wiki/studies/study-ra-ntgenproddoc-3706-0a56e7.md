@@ -1,15 +1,15 @@
 ---
-title: "Ra Ntgenproddoc 3706 (Aberdeen, 2006)"
+title: "The Next-Generation Product Documentation Report: Getting Past the 'Throw It over the Wall' Approach"
 slug: "study-ra-ntgenproddoc-3706-0a56e7"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-ntgenproddoc-3706-0a56e7"
-author: "Bonni Graham"
+author: "Bonni Graham / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_ntgenproddoc_3706.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.65
 prescience_obs_count: 84
 ---
 
-# Ra Ntgenproddoc 3706 (Aberdeen, 2006)
+# The Next-Generation Product Documentation Report: Getting Past the "Throw It over the Wall" Approach
 
-> Aberdeen Group study ra-ntgenproddoc-3706-0a56e7. Source: ra_ntgenproddoc_3706.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This December 2006 benchmark report finds Best-in-Class product documentation performers hit documentation targets 92% of the time and experience half the translation gap of laggards, while executing two-thirds fewer post-launch changes. It attributes this performance to integrating documentation into the engineering process, using structured authoring, content management systems, translation memory technology, and 3D visualization tools.
 
 
-_Published 2006, author **Bonni Graham**, type **topic-analysis**._
+_Published 2006, author **Bonni Graham / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

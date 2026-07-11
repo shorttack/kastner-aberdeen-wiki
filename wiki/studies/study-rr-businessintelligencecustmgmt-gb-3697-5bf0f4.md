@@ -1,15 +1,15 @@
 ---
-title: "Rr Businessintelligencecustmgmt Gb 3697 (Aberdeen, 2006)"
+title: "Business Intelligence in Retail Customer Management: Bringing Information Together to Build the Accurate Customer Profile"
 slug: "study-rr-businessintelligencecustmgmt-gb-3697-5bf0f4"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "rr-businessintelligencecustmgmt-gb-3697-5bf0f4"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "rr_businessintelligencecustmgmt_gb_3697.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.09
 prescience_obs_count: 53
 ---
 
-# Rr Businessintelligencecustmgmt Gb 3697 (Aberdeen, 2006)
+# Business Intelligence in Retail Customer Management: Bringing Information Together to Build the Accurate Customer Profile
 
-> Aberdeen Group study rr-businessintelligencecustmgmt-gb-3697-5bf0f4. Source: rr_businessintelligencecustmgmt_gb_3697.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This November 2006 Aberdeen Group benchmark report examines how retailers use business intelligence (BI) to understand and manage customer behavior. Based on a survey of more than 175 respondents, it finds that Best-in-Class retailers are far more likely to track product adoption, promotion participation, and product preference/affinity, and that 82% of respondents use BI enterprise-wide though only 16% use real-time BI data. The report applies Aberdeen's PACE (Pressures, Actions, Capabilities, Enablers) framework and offers recommendations such as moving to real-time BI measurement and prioritizing formal customer behavior analytics.
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

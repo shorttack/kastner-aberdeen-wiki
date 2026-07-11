@@ -1,15 +1,15 @@
 ---
-title: "Arzoonsnapshot (Aberdeen, 1999)"
+title: "Arzoon: Company Snapshot"
 slug: "study-arzoonsnapshot-149da0"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "arzoonsnapshot-149da0"
 author: "Aberdeen Group"
 date: "1999-01-01"
 pub_year: 1999
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "arzoonsnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Arzoonsnapshot (Aberdeen, 1999)
+# Arzoon: Company Snapshot
 
-> Aberdeen Group study arzoonsnapshot-149da0. Source: arzoonsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This vendor snapshot profiles Arzoon, a Logistics Resource Management (LRM) solutions provider offering a Web-based platform for global inventory, fulfillment, and transportation management. It describes the company's Arzoon LIFE product, target markets, and key partnerships and acquisitions, including its 2001 acquisition of From2.
 
 
-_Published 1999, author **Aberdeen Group**, type **market-study**._
+_Published 1999, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Arzoon: Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

@@ -1,5 +1,5 @@
 ---
-title: "Written Intel Infiband Wp Edit Psk 5 22F (Aberdeen, 2002)"
+title: "InfiniBand: Planning the Next-Generation Data Center"
 slug: "study-written-intel-infiband-wp-edit-psk-5-22f-c7606f"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -24,9 +24,9 @@ prescience_mean: -0.36
 prescience_obs_count: 11
 ---
 
-# Written Intel Infiband Wp Edit Psk 5 22F (Aberdeen, 2002)
+# InfiniBand: Planning the Next-Generation Data Center
 
-> Aberdeen Group study written-intel-infiband-wp-edit-psk-5-22f-c7606f. Source: Written__Intel Infiband WP--edit psk 5-22f.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A May 2002 Aberdeen Group executive white paper introducing the emerging InfiniBand Architecture (IBA) as a serial, switched-fabric I/O standard designed to relieve I/O bus bottlenecks in the data center. It explains IBA's technical components and bandwidth capabilities (up to 30 Gb/s), lists major backers (Compaq, Dell, HP, Intel, IBM, Microsoft, Sun) via the InfiniBand Trade Association, and advises IT executives on planning for its enterprise deployment.
 
 
 _Published 2002, author **Aberdeen Group**, type **market-study**._

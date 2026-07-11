@@ -1,15 +1,15 @@
 ---
-title: "Ra Bpsop Se (Aberdeen, 2005)"
+title: "Best Practices in Sales and Operations Planning"
 slug: "study-ra-bpsop-se-134043"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-bpsop-se-134043"
-author: "Gehr Industries"
+author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_bpsop_se.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.24
 prescience_obs_count: 25
 ---
 
-# Ra Bpsop Se (Aberdeen, 2005)
+# Best Practices in Sales and Operations Planning
 
-> Aberdeen Group study ra-bpsop-se-134043. Source: ra_bpsop_se.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This June 2005 benchmark report examines sales and operations planning (S&OP) practices, presenting six best-practice-leader case studies (including Bedoukian Research, Campbell Soup, and Centillium Communications) that illustrate successful S&OP strategies, technology deployments, and lessons learned. It positions dynamic S&OP as the key process for managing risk and profitability amid market uncertainty.
 
 
-_Published 2005, author **Gehr Industries**, type **topic-analysis**._
+_Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

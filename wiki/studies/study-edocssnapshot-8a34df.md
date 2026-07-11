@@ -1,15 +1,15 @@
 ---
-title: "Edocssnapshot (Aberdeen, 1996)"
+title: "edocs, Inc."
 slug: "study-edocssnapshot-8a34df"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "edocssnapshot-8a34df"
 author: "Aberdeen Group"
 date: "1996-01-01"
 pub_year: 1996
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "wireless"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "edocssnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Edocssnapshot (Aberdeen, 1996)
+# edocs, Inc.
 
-> Aberdeen Group study edocssnapshot-8a34df. Source: edocssnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: wireless. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> Vendor snapshot profiling edocs, Inc., a billing and account management software provider, covering company facts, markets, products, partnerships, and executives.
 
 
-_Published 1996, author **Aberdeen Group**, type **market-study**._
+_Published 1996, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes edocs, Inc. using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

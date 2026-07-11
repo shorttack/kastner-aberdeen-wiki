@@ -1,15 +1,15 @@
 ---
-title: "2007 Information Management Agenda (Aberdeen, 2007)"
+title: "2007 Information Management Research Agenda"
 slug: "study-2007-information-management-agenda-40e141"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2007-information-management-agenda-40e141"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2007_information_management_agenda.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.8
 prescience_obs_count: 10
 ---
 
-# 2007 Information Management Agenda (Aberdeen, 2007)
+# 2007 Information Management Research Agenda
 
-> Aberdeen Group study 2007-information-management-agenda-40e141. Source: 2007_information_management_agenda.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This is Aberdeen's 2007 Information Management research calendar, focused on security, compliance, and risk topics including secure content management, virtualization, identity and access management (IAM), security information management (SIM), and endpoint security. It previews planned benchmark studies rather than reporting findings.
 
 
-_Published 2007, author **Aberdeen Group**, type **benchmark**._
+_Published 2007, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

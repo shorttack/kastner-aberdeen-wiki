@@ -1,15 +1,15 @@
 ---
-title: "Ra Wan Pb 3854 (Aberdeen, 2007)"
+title: "Latency Matters: The Wide Area Network (WAN) Benchmark Report"
 slug: "study-ra-wan-pb-3854-d0b6ab"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-wan-pb-3854-d0b6ab"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_wan_pb_3854.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.18
 prescience_obs_count: 76
 ---
 
-# Ra Wan Pb 3854 (Aberdeen, 2007)
+# Latency Matters: The Wide Area Network (WAN) Benchmark Report
 
-> Aberdeen Group study ra-wan-pb-3854-d0b6ab. Source: ra_wan_pb_3854.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This January 2007 benchmark report finds the average Fortune 500 company spends 3.6% of revenue on network services and equipment, with 94% of respondents expecting WAN bandwidth requirements to grow within 12 months. It shows Best-in-Class organizations achieve 63% less bandwidth growth with zero cost increase by measuring more service attributes in real time, and recommends migrating to MPLS/Ethernet WAN services and deploying WAN optimization and total telecom cost management tools.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

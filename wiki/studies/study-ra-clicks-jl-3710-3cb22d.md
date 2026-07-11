@@ -1,15 +1,15 @@
 ---
-title: "Ra Clicks Jl 3710 (Aberdeen, 2007)"
+title: "The Clicks to Customers Benchmark Report: The Real ROI in B2C eCommerce"
 slug: "study-ra-clicks-jl-3710-3cb22d"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-clicks-jl-3710-3cb22d"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_clicks_jl_3710.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.41
 prescience_obs_count: 63
 ---
 
-# Ra Clicks Jl 3710 (Aberdeen, 2007)
+# The Clicks to Customers Benchmark Report: The Real ROI in B2C eCommerce
 
-> Aberdeen Group study ra-clicks-jl-3710-3cb22d. Source: ra_clicks_jl_3710.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This January 2007 benchmark report examines ROI expectations and measurement practices among B2C online retailers, finding nearly 50% describe online sales as essential to company success and 21% expect ROI from online tools within weeks. It highlights that 29% of companies admit they don't measure ROI as much as they should, and identifies predetermined ROI measurement as a key differentiator for the most profitable online merchants.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

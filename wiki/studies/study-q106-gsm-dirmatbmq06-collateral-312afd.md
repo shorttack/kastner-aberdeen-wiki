@@ -1,15 +1,15 @@
 ---
-title: "Q106 Gsm Dirmatbmq06 Collateral (Aberdeen, 2006)"
+title: "Direct Materials Sourcing Benchmark"
 slug: "study-q106-gsm-dirmatbmq06-collateral-312afd"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "q106-gsm-dirmatbmq06-collateral-312afd"
-author: "Aberdeen Group"
+author: "Sudy Bharadwaj / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "q106_gsm_dirmatbmq06_collateral.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Q106 Gsm Dirmatbmq06 Collateral (Aberdeen, 2006)
+# Direct Materials Sourcing Benchmark
 
-> Aberdeen Group study q106-gsm-dirmatbmq06-collateral-312afd. Source: q106_gsm_dirmatbmq06_collateral.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A research preview for a planned 1Q06 Aberdeen benchmark study on direct materials strategic sourcing, led by analyst Sudy Bharadwaj. The study will examine sourcing and commodity expertise, costing analytics, specification management, and supplier assessment practices across discrete, industrial, consumer products, high-tech, and pharmaceutical manufacturers.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Sudy Bharadwaj / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Direct Materials Sourcing Benchmark using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

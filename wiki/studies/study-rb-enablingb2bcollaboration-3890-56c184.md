@@ -1,12 +1,12 @@
 ---
-title: "Rb Enablingb2Bcollaboration 3890 (Aberdeen, 2007)"
+title: "Enabling B2B Collaboration with Customers and Suppliers: The Growing Role of On-Demand Platforms"
 slug: "study-rb-enablingb2bcollaboration-3890-56c184"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "rb-enablingb2bcollaboration-3890-56c184"
-author: "Aberdeen Group"
+author: "Beth Enslow / Aberdeen Group"
 date: "2007-02-14"
 pub_year: 2007
 type: "benchmark"
@@ -24,12 +24,12 @@ prescience_mean: 1.0
 prescience_obs_count: 3
 ---
 
-# Rb Enablingb2Bcollaboration 3890 (Aberdeen, 2007)
+# Enabling B2B Collaboration with Customers and Suppliers: The Growing Role of On-Demand Platforms
 
-> Aberdeen Group study rb-enablingb2bcollaboration-3890-56c184. Source: rb_enablingb2bcollaboration_3890.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This February 2007 Research Brief examines B2B collaboration trends, finding two-thirds of companies do some level of inventory collaboration with customers and almost half do forecast collaboration. It describes B2B collaboration maturity stages and the benefits achieved by companies combining data and process collaboration, including shorter planning/execution cycles, faster demand response, and shorter cash-to-cash cycles, plus on-demand B2B vendors to consider.
 
 
-_Published 2007, author **Aberdeen Group**, type **benchmark**._
+_Published 2007, author **Beth Enslow / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

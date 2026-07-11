@@ -1,15 +1,15 @@
 ---
-title: "Ra Custanalyticsssg Gb Jl 3709 (Aberdeen, 2007)"
+title: "Business Intelligence: A Customer Analysis Solution Selection Guide"
 slug: "study-ra-custanalyticsssg-gb-jl-3709-b60131"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-custanalyticsssg-gb-jl-3709-b60131"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_custanalyticsssg_gb_jl_3709.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.17
 prescience_obs_count: 12
 ---
 
-# Ra Custanalyticsssg Gb Jl 3709 (Aberdeen, 2007)
+# Business Intelligence: A Customer Analysis Solution Selection Guide
 
-> Aberdeen Group study ra-custanalyticsssg-gb-jl-3709-b60131. Source: ra_custanalyticsssg_gb_jl_3709.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This January 2007 solution selection guide addresses how marketers use business intelligence and customer analytics to identify and invest in their most valuable customers while optimizing budgets. Based on a survey/interview program of more than 400 companies, it examines selection criteria for customer analytics deployments and their impact on customer retention, up-sell/cross-sell revenue, and churn reduction.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

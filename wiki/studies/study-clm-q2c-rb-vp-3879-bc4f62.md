@@ -1,12 +1,12 @@
 ---
-title: "Clm Q2C Rb Vp 3879 (Aberdeen, 2007)"
+title: "Sales Contract Management = Revenue Retention"
 slug: "study-clm-q2c-rb-vp-3879-bc4f62"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "clm-q2c-rb-vp-3879-bc4f62"
-author: "Aberdeen Group"
+author: "Vishal Patel / Aberdeen Group"
 date: "2007-02-05"
 pub_year: 2007
 type: "benchmark"
@@ -24,12 +24,12 @@ prescience_mean: 1.29
 prescience_obs_count: 7
 ---
 
-# Clm Q2C Rb Vp 3879 (Aberdeen, 2007)
+# Sales Contract Management = Revenue Retention
 
-> Aberdeen Group study clm-q2c-rb-vp-3879-bc4f62. Source: clm_q2c_rb_vp_3879.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> February 2007 research brief on sales contract management as a lever for revenue retention, comparing capabilities of vendors including Oracle, SAP, and Upside Software with supporting KPI tables. Authored by Vishal Patel, Research Analyst, Global Supply Management.
 
 
-_Published 2007, author **Aberdeen Group**, type **benchmark**._
+_Published 2007, author **Vishal Patel / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

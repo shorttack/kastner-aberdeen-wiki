@@ -1,15 +1,15 @@
 ---
-title: "Ee 2005 Cio Research Agenda 112904A (Aberdeen, 2005)"
+title: "The 2005 CIO Research Agenda"
 slug: "study-ee-2005-cio-research-agenda-112904a-b214ce"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "ee-2005-cio-research-agenda-112904a-b214ce"
-author: "Research Agenda"
+author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "market-study"
+type: "research-agenda"
 subject_domain: "storage"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ee_2005_cio_research_agenda_112904a.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Ee 2005 Cio Research Agenda 112904A (Aberdeen, 2005)
+# The 2005 CIO Research Agenda
 
-> Aberdeen Group study ee-2005-cio-research-agenda-112904a-b214ce. Source: ee_2005_cio_research_agenda_112904a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> Quarterly research calendar for 1Q05–4Q05 outlining planned Aberdeen CIO-focused studies covering topics including RFID integration, storage trends, IT budget trends, and the CIO agenda for 2006.
 
 
-_Published 2005, author **Research Agenda**, type **market-study**._
+_Published 2005, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes The 2005 CIO Research Agenda using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

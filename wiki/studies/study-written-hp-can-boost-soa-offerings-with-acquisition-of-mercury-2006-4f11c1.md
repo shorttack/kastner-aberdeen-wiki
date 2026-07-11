@@ -1,15 +1,15 @@
 ---
-title: "Written Hp Can Boost Soa Offerings With Acquisition Of Mercury (2006) (Aberdeen, 2006)"
+title: "HP Can Boost SOA Offerings with Acquisition of Mercury"
 slug: "study-written-hp-can-boost-soa-offerings-with-acquisition-of-mercury-2006-4f11c1"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/market-study"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-hp-can-boost-soa-offerings-with-acquisition-of-mercury-2006-4f11c1"
-author: "Information Technology"
+author: "Peter S. Kastner / Aberdeen Group"
 date: "2006-07-31"
 pub_year: 2006
-type: "benchmark"
+type: "market-study"
 subject_domain: "Linux"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "Written__HP Can Boost SOA Offerings with Acquisition of Mercury (2006).pdf"
@@ -24,12 +24,12 @@ prescience_mean: 4.0
 prescience_obs_count: 3
 ---
 
-# Written Hp Can Boost Soa Offerings With Acquisition Of Mercury (2006) (Aberdeen, 2006)
+# HP Can Boost SOA Offerings with Acquisition of Mercury
 
-> Aberdeen Group study written-hp-can-boost-soa-offerings-with-acquisition-of-mercury-2006-4f11c1. Source: Written__HP Can Boost SOA Offerings with Acquisition of Mercury (2006).pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: Linux. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A July 31, 2006 Aberdeen Group market-event analysis of Hewlett-Packard's acquisition of Mercury Interactive, assessing how Mercury's SOA management, governance, and development-lifecycle capabilities (gained partly via its Systinet acquisition) complement HP's OpenView suite. It maps HP OpenView and Mercury IT-optimization product lines against each other and concludes the deal helps HP compete more directly with IBM, CA, and BMC.
 
 
-_Published 2006, author **Information Technology**, type **benchmark**._
+_Published 2006, author **Peter S. Kastner / Aberdeen Group**, type **market-study**._
 
 
 ## Top observations

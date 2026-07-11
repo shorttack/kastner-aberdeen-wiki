@@ -1,5 +1,5 @@
 ---
-title: "Written Goremote Profile 5 2A (Aberdeen, 2003)"
+title: "GoRemote Is Unifying Secure Remote Access Services"
 slug: "study-written-goremote-profile-5-2a-78ab20"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -24,9 +24,9 @@ prescience_mean: 2.86
 prescience_obs_count: 7
 ---
 
-# Written Goremote Profile 5 2A (Aberdeen, 2003)
+# GoRemote Is Unifying Secure Remote Access Services
 
-> Aberdeen Group study written-goremote-profile-5-2a-78ab20. Source: Written__Goremote Profile 5-2a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A 2003 Aberdeen Group vendor profile on GoRemote Communications, Inc., positioning it as offering the first unified solution for managing costs and security for fixed and mobile 'outworkers.' It quantifies hidden telecommunications and IT help-desk costs of remote/mobile workers (laptop TCO of $5,000–$8,000/year) and argues GoRemote's approach can deliver multimillion-dollar enterprise savings.
 
 
 _Published 2003, author **Aberdeen Group**, type **market-study**._

@@ -1,15 +1,15 @@
 ---
-title: "Q206 Profservicesilm Aa (Aberdeen, 2006)"
+title: "Professional Services, Consulting & Data Management: IT Needs a Helping Hand"
 slug: "study-q206-profservicesilm-aa-4bd87d"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "q206-profservicesilm-aa-4bd87d"
-author: "Aberdeen Group"
+author: "Alex Adamopoulos / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "market-study"
+type: "research-agenda"
 subject_domain: "storage"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "q206_profservicesilm_aa.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Q206 Profservicesilm Aa (Aberdeen, 2006)
+# Professional Services, Consulting & Data Management: IT Needs a Helping Hand
 
-> Aberdeen Group study q206-profservicesilm-aa-4bd87d. Source: q206_profservicesilm_aa.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A research preview for a planned 2Q06 Aberdeen survey, led by analyst Alex Adamopoulos, examining IT organizations' use of professional services and consulting firms to fill gaps in data management, compliance, governance, and storage management expertise.
 
 
-_Published 2006, author **Aberdeen Group**, type **market-study**._
+_Published 2006, author **Alex Adamopoulos / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Professional Services, Consulting & Data Management: IT Needs a Helping Hand using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

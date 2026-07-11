@@ -1,15 +1,15 @@
 ---
-title: "2004 Bluestreaksnapshot (Aberdeen, 2004)"
+title: "Bluestreak, Inc."
 slug: "study-2004-bluestreaksnapshot-7a4713"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "2004-bluestreaksnapshot-7a4713"
 author: "Aberdeen Group"
 date: "2004-01-01"
 pub_year: 2004
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "technology-market-analysis"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2004_bluestreaksnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# 2004 Bluestreaksnapshot (Aberdeen, 2004)
+# Bluestreak, Inc.
 
-> Aberdeen Group study 2004-bluestreaksnapshot-7a4713. Source: 2004_bluestreaksnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This vendor snapshot profiles Bluestreak, Inc., an online direct-marketing and e-mail platform vendor, noting its acquisitions of AdKnowledge, E2 Communications, and Takira.
 
 
-_Published 2004, author **Aberdeen Group**, type **market-study**._
+_Published 2004, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Bluestreak, Inc. using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

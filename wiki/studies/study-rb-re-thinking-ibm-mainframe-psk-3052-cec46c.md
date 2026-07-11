@@ -1,12 +1,12 @@
 ---
-title: "Rb Re Thinking Ibm Mainframe Psk 3052 (Aberdeen, 2006)"
+title: "Re-THINKing the IBM Mainframe"
 slug: "study-rb-re-thinking-ibm-mainframe-psk-3052-cec46c"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "rb-re-thinking-ibm-mainframe-psk-3052-cec46c"
-author: "Research Brief"
+author: "Peter S. Kastner / Aberdeen Group"
 date: "2006-05-18"
 pub_year: 2006
 type: "benchmark"
@@ -24,12 +24,12 @@ prescience_mean: 2.5
 prescience_obs_count: 4
 ---
 
-# Rb Re Thinking Ibm Mainframe Psk 3052 (Aberdeen, 2006)
+# Re-THINKing the IBM Mainframe
 
-> Aberdeen Group study rb-re-thinking-ibm-mainframe-psk-3052-cec46c. Source: rb_re-thinking_ibm_mainframe_psk_3052.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This May 2006 Research Brief reassesses the role of the IBM mainframe, revisiting Aberdeen's 1992 prediction that the mainframe would become obsolete. It examines IBM's System z9 value proposition — including innovative technology, creative offload-engine pricing, investment protection, ISV support, and lower labor costs — and concludes the mainframe retains an important role in enterprise SOA infrastructure, especially for consolidating Java, DB2, Linux, and SOA workloads.
 
 
-_Published 2006, author **Research Brief**, type **benchmark**._
+_Published 2006, author **Peter S. Kastner / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

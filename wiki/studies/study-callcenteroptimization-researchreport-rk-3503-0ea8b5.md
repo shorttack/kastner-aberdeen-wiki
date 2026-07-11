@@ -1,15 +1,15 @@
 ---
-title: "Callcenteroptimization Researchreport Rk 3503 (Aberdeen, 2006)"
+title: "The Contact Center as a Profit Center: Optimizing a Self-Service Contact Center With Speech, VoIP, Data Integration and Performance Analytics"
 slug: "study-callcenteroptimization-researchreport-rk-3503-0ea8b5"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "callcenteroptimization-researchreport-rk-3503-0ea8b5"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "callcenteroptimization_researchreport_rk_3503.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.29
 prescience_obs_count: 52
 ---
 
-# Callcenteroptimization Researchreport Rk 3503 (Aberdeen, 2006)
+# The Contact Center as a Profit Center: Optimizing a Self-Service Contact Center With Speech, VoIP, Data Integration and Performance Analytics
 
-> Aberdeen Group study callcenteroptimization-researchreport-rk-3503-0ea8b5. Source: callcenteroptimization_researchreport_rk_3503.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> September 2006 benchmark report examining how contact centers use speech technology, VoIP, data integration, and performance analytics to shift from a cost center to a profit center. Uses Aberdeen's PACE framework with survey-based findings on best-in-class self-service practices.
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

@@ -1,5 +1,5 @@
 ---
-title: "Midlinestoragewp (Aberdeen, 2003)"
+title: "Midline Disk Storage Emerging As a Significant Cost-Saving Opportunity"
 slug: "study-midlinestoragewp-7f30e3"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -24,9 +24,9 @@ prescience_mean: 1.62
 prescience_obs_count: 13
 ---
 
-# Midlinestoragewp (Aberdeen, 2003)
+# Midline Disk Storage Emerging As a Significant Cost-Saving Opportunity
 
-> Aberdeen Group study midlinestoragewp-7f30e3. Source: midlinestoragewp.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: storage. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> An executive white paper presenting Aberdeen Group's field research on enterprise storage usage, introducing 'midline storage' — high-capacity ATA disks positioned between fast FC/SCSI disk arrays and tape libraries. It reports survey findings on data restoration frequency, backup window constraints, and buyer purchase intent, concluding with recommendations for storage planners to adopt a midline tier for inactive or moderate-access data.
 
 
 _Published 2003, author **Aberdeen Group**, type **market-study**._

@@ -1,12 +1,12 @@
 ---
-title: "1Q06 Industrialcontrolplatform (Aberdeen, 2006)"
+title: "Industrial Control Platforms: Real-Time Foundation for Manufacturing and the Enterprise"
 slug: "study-1q06-industrialcontrolplatform-f59746"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "1q06-industrialcontrolplatform-f59746"
-author: "Aberdeen Group"
+author: "Jane Biddle / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
 type: "benchmark"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# 1Q06 Industrialcontrolplatform (Aberdeen, 2006)
+# Industrial Control Platforms: Real-Time Foundation for Manufacturing and the Enterprise
 
-> Aberdeen Group study 1q06-industrialcontrolplatform-f59746. Source: 1q06_industrialcontrolplatform.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This survey-based benchmark study, led by analysts Mark O'Hearne and Jane Biddle in 1Q06, examines industrial control platforms as real-time infrastructure connecting manufacturing operations with enterprise systems. It benchmarks adoption and integration practices across surveyed organizations.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Jane Biddle / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Industrial Control Platforms: Real-Time Foundation for Manufacturing and the Enterprise using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

@@ -1,15 +1,15 @@
 ---
-title: "Q406 Endpointnac (Aberdeen, 2006)"
+title: "Endpoint Security Strategies Part I: The Network Access Control Benchmark"
 slug: "study-q406-endpointnac-66d658"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "q406-endpointnac-66d658"
-author: "Research Preview"
+author: "Mounil Patel / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "q406_endpointnac.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 2.5
 prescience_obs_count: 4
 ---
 
-# Q406 Endpointnac (Aberdeen, 2006)
+# Endpoint Security Strategies Part I: The Network Access Control Benchmark
 
-> Aberdeen Group study q406-endpointnac-66d658. Source: q406_endpointnac.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This research preview outlines Aberdeen's planned benchmark study on Network Access Control (NAC), part one of a two-part series on endpoint security. It describes the business and security drivers pushing NAC adoption, the types of pre- and post-admission NAC and SSL VPN solutions being deployed, and the survey-based research approach (led by Mounil Patel) used to measure risk, cost impact, and best-in-class practices for endpoint security.
 
 
-_Published 2006, author **Research Preview**, type **benchmark**._
+_Published 2006, author **Mounil Patel / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

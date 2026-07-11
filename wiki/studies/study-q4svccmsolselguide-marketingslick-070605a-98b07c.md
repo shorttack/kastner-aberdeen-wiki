@@ -1,15 +1,15 @@
 ---
-title: "Q4Svccmsolselguide Marketingslick 070605A (Aberdeen, 2005)"
+title: "The Service Chain Management Solution Selection Series: Evaluating and Selecting Technology to Drive Business Value"
 slug: "study-q4svccmsolselguide-marketingslick-070605a-98b07c"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "q4svccmsolselguide-marketingslick-070605a-98b07c"
-author: "Aberdeen Group"
+author: "Mark Vigoroso / Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "asset-management"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "q4svccmsolselguide_marketingslick_070605a.pdf"
@@ -24,15 +24,15 @@ prescience_mean: -0.5
 prescience_obs_count: 2
 ---
 
-# Q4Svccmsolselguide Marketingslick 070605A (Aberdeen, 2005)
+# The Service Chain Management Solution Selection Series: Evaluating and Selecting Technology to Drive Business Value
 
-> Aberdeen Group study q4svccmsolselguide-marketingslick-070605a-98b07c. Source: q4svccmsolselguide_marketingslick_070605a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: asset-management. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This marketing/research preview describes Aberdeen's Service Chain Management Solution Selection Series, a planned set of reports covering service parts planning, mobile field service, field service optimization, and intelligent asset diagnostics/repair (M2M) through 2005-2006. It outlines the tactical framework for evaluating and selecting service technology, led by analyst Mark Vigoroso, aimed at VPs of customer/field service, operations, and finance executives.
 
 
-_Published 2005, author **Aberdeen Group**, type **benchmark**._
+_Published 2005, author **Mark Vigoroso / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
 - Benchmark solution selection criteria against those of best-in-class companies; `[ps=0]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes The Service Chain Management Solution Selection Series: Evaluating and Selecting Technology to Drive Business Value using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

@@ -1,15 +1,15 @@
 ---
-title: "2005 Ee Aberdeen Research Calendar 082405 (Aberdeen, 2005)"
+title: "2005 Aberdeen Research Calendar"
 slug: "study-2005-ee-aberdeen-research-calendar-082405-2b2250"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2005-ee-aberdeen-research-calendar-082405-2b2250"
 author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2005_ee_aberdeen_research_calendar_082405.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 3.17
 prescience_obs_count: 12
 ---
 
-# 2005 Ee Aberdeen Research Calendar 082405 (Aberdeen, 2005)
+# 2005 Aberdeen Research Calendar
 
-> Aberdeen Group study 2005-ee-aberdeen-research-calendar-082405-2b2250. Source: 2005_ee_aberdeen_research_calendar_082405.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This document is a full-year calendar listing Aberdeen's planned Enterprise Strategy research topics across 1Q05 through 4Q05, including Enterprise Talent Management, SOX Compliance, Internet Security, RFID, Agile IT, the CIO Agenda, and Enterprise Information Management, along with some Design-to-Procure topics reprised at the end.
 
 
-_Published 2005, author **Aberdeen Group**, type **benchmark**._
+_Published 2005, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

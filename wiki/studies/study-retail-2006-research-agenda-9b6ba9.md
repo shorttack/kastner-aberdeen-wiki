@@ -1,15 +1,15 @@
 ---
-title: "Retail 2006 Research Agenda (Aberdeen, 2006)"
+title: "Retail 2006: Managing Creativity, Customers and Costs"
 slug: "study-retail-2006-research-agenda-9b6ba9"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "retail-2006-research-agenda-9b6ba9"
-author: "Research Agenda"
+author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "retail_2006_research_agenda.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.33
 prescience_obs_count: 9
 ---
 
-# Retail 2006 Research Agenda (Aberdeen, 2006)
+# Retail 2006: Managing Creativity, Customers and Costs
 
-> Aberdeen Group study retail-2006-research-agenda-9b6ba9. Source: retail_2006_research_agenda.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This is Aberdeen's 2006 retail research agenda, outlining planned research themes including an Extended Point of Service Solution Selection Guide (Q1) and Workforce Management Strategies for Retailers (Q2). It frames the year's research around helping retailers manage global supply/demand chains, multichannel competition, and workforce scheduling, noting that 42% of retailers still use manual systems to schedule their workforces.
 
 
-_Published 2006, author **Research Agenda**, type **benchmark**._
+_Published 2006, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

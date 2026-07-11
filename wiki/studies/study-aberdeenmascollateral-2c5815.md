@@ -1,15 +1,15 @@
 ---
-title: "Aberdeenmascollateral (Aberdeen, 2005)"
+title: "Aberdeen Market Analysis Service (MAS)"
 slug: "study-aberdeenmascollateral-2c5815"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "aberdeenmascollateral-2c5815"
 author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "aberdeenmascollateral.pdf"
@@ -24,15 +24,15 @@ prescience_mean: -0.5
 prescience_obs_count: 2
 ---
 
-# Aberdeenmascollateral (Aberdeen, 2005)
+# Aberdeen Market Analysis Service (MAS)
 
-> Aberdeen Group study aberdeenmascollateral-2c5815. Source: aberdeenmascollateral.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This document describes Aberdeen's Market Analysis Service (MAS), a subscription-based research offering, in a 2002 timeframe. It is promotional collateral describing Aberdeen's own service rather than a market analysis of an external market.
 
 
-_Published 2005, author **Aberdeen Group**, type **market-study**._
+_Published 2005, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
 - _**Key Findings:**_ Covering the major dynamics in the industry today and the unseen, future trends that are likely to develop over the next 12–48 months. `[ps=0]`
-- This study analyzes ==> picture [34 x 716] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Aberdeen Market Analysis Service (MAS) using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

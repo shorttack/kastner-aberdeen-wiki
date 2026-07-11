@@ -1,15 +1,15 @@
 ---
-title: "2007 Ra Cmo Smemme La 3607 (Aberdeen, 2007)"
+title: "The CMO's Strategic Agenda: Creating a Customer-Centric Marketing Organization (SME & MME Benchmark Report)"
 slug: "study-2007-ra-cmo-smemme-la-3607-eff289"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2007-ra-cmo-smemme-la-3607-eff289"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2007_ra_cmo_smemme_la_3607.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.93
 prescience_obs_count: 80
 ---
 
-# 2007 Ra Cmo Smemme La 3607 (Aberdeen, 2007)
+# The CMO's Strategic Agenda: Creating a Customer-Centric Marketing Organization (SME & MME Benchmark Report)
 
-> Aberdeen Group study 2007-ra-cmo-smemme-la-3607-eff289. Source: 2007_ra_cmo_smemme_la_3607.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This November 2006 benchmark report, part of Aberdeen's CMO Strategic Agenda series, benchmarks roughly 500 small/medium and midmarket enterprises (SME & MME) on building customer-centric marketing organizations. It presents findings on customer retention, return on marketing investment (ROMI), and revenue growth performance.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

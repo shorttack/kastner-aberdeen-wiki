@@ -1,15 +1,15 @@
 ---
-title: "Top10Cpc (Aberdeen, 2001)"
+title: "Making the Case for Collaborative Product Commerce: Ten Significant CPC Implementations — What Works"
 slug: "study-top10cpc-8ae27e"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "top10cpc-8ae27e"
 author: "Aberdeen Group"
 date: "2001-01-01"
 pub_year: 2001
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "top10cpc.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Top10Cpc (Aberdeen, 2001)
+# Making the Case for Collaborative Product Commerce: Ten Significant CPC Implementations — What Works
 
-> Aberdeen Group study top10cpc-8ae27e. Source: top10cpc.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> An August 2001 Aberdeen Group benchmark report examining Collaborative Product Commerce (CPC) as an emerging enterprise application category for manufacturers, arguing that CPC delivers core product-related business value despite market volatility following the dot-com downturn. The report presents Aberdeen's 2001 CPC Top Ten and Honorable Mention vendor lists and includes detailed customer case studies (e.g., Agile Software, BetaSphere, CoCreate, Framework Technologies, IBM, MatrixOne, NexPrise) documenting implementation lessons learned and measured business results.
 
 
-_Published 2001, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2001, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [407 x 242] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Making the Case for Collaborative Product Commerce: Ten Significant CPC Implementations — What Works using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

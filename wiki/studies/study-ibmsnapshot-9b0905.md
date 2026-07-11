@@ -1,15 +1,15 @@
 ---
-title: "Ibmsnapshot (Aberdeen, 2002)"
+title: "IBM Corporation — Company Snapshot"
 slug: "study-ibmsnapshot-9b0905"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "ibmsnapshot-9b0905"
 author: "Aberdeen Group"
 date: "2002-01-01"
 pub_year: 2002
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "asset-management"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ibmsnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Ibmsnapshot (Aberdeen, 2002)
+# IBM Corporation — Company Snapshot
 
-> Aberdeen Group study ibmsnapshot-9b0905. Source: ibmsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: asset-management. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling IBM's security product and services portfolio, including Tivoli-branded security solutions, RACF, and resold Norton Antivirus. It covers company facts, recent acquisitions (Sequent, Dascom, Mylex), and management, noting that no dedicated Aberdeen research on IBM's security offerings was available at the time.
 
 
-_Published 2002, author **Aberdeen Group**, type **market-study**._
+_Published 2002, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes IBM Corporation — Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

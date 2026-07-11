@@ -1,15 +1,15 @@
 ---
-title: "Ra Advancedsourcing 3857 (Aberdeen, 2007)"
+title: "The Advanced Sourcing & Negotiation Benchmark Report: The Art & Science of the Deal"
 slug: "study-ra-advancedsourcing-3857-9ede9d"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-advancedsourcing-3857-9ede9d"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_advancedsourcing_3857.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.89
 prescience_obs_count: 38
 ---
 
-# Ra Advancedsourcing 3857 (Aberdeen, 2007)
+# The Advanced Sourcing & Negotiation Benchmark Report: The Art & Science of the Deal
 
-> Aberdeen Group study ra-advancedsourcing-3857-9ede9d. Source: ra_advancedsourcing_3857.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This benchmark report (January 2007) finds that enterprises using advanced sourcing strategies identify average savings of 11.9% and realize 9.4% per sourcing event, while utilizing formal strategic sourcing on 43% of total spend and e-sourcing on 20%. It shows Best-in-Class companies are 32% more likely to employ advanced sourcing strategies and achieve 39% better realized savings than competitors, despite 36% of respondents still not using any e-sourcing.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

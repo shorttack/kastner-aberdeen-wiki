@@ -1,15 +1,15 @@
 ---
-title: "Netscreensnapshot (Aberdeen, 2003)"
+title: "NetScreen Technologies, Inc. — Company Snapshot"
 slug: "study-netscreensnapshot-e08ade"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "netscreensnapshot-e08ade"
 author: "Aberdeen Group"
 date: "2003-03-31"
 pub_year: 2003
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "netscreensnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Netscreensnapshot (Aberdeen, 2003)
+# NetScreen Technologies, Inc. — Company Snapshot
 
-> Aberdeen Group study netscreensnapshot-e08ade. Source: netscreensnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling NetScreen Technologies, a publicly traded (Nasdaq: NSCN) network security appliance vendor offering VPN, firewall, denial-of-service protection, and intrusion blocking. It covers quarterly revenue, markets, partnerships, the 2002 OneSecure acquisition, and management team.
 
 
-_Published 2003, author **Aberdeen Group**, type **market-study**._
+_Published 2003, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes NetScreen Technologies, Inc. — Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

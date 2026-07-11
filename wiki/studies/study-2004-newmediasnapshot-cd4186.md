@@ -1,15 +1,15 @@
 ---
-title: "2004 Newmediasnapshot (Aberdeen, 2004)"
+title: "New Media Solutions, Inc."
 slug: "study-2004-newmediasnapshot-cd4186"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "2004-newmediasnapshot-cd4186"
 author: "Aberdeen Group"
 date: "2004-01-01"
 pub_year: 2004
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2004_newmediasnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# 2004 Newmediasnapshot (Aberdeen, 2004)
+# New Media Solutions, Inc.
 
-> Aberdeen Group study 2004-newmediasnapshot-cd4186. Source: 2004_newmediasnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This vendor snapshot profiles New Media Solutions, Inc., describing its Avitage! sales content management and web-conferencing platform.
 
 
-_Published 2004, author **Aberdeen Group**, type **market-study**._
+_Published 2004, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes New Media Solutions, Inc. using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

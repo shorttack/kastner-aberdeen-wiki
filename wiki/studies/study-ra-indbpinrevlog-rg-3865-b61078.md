@@ -1,15 +1,15 @@
 ---
-title: "Ra Indbpinrevlog Rg 3865 (Aberdeen, 2007)"
+title: "Industry Best Practices in Reverse Logistics: Benchmarking the Success Strategies of Top Industry Performers"
 slug: "study-ra-indbpinrevlog-rg-3865-b61078"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-indbpinrevlog-rg-3865-b61078"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_indbpinrevlog_rg_3865.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.62
 prescience_obs_count: 48
 ---
 
-# Ra Indbpinrevlog Rg 3865 (Aberdeen, 2007)
+# Industry Best Practices in Reverse Logistics: Benchmarking the Success Strategies of Top Industry Performers
 
-> Aberdeen Group study ra-indbpinrevlog-rg-3865-b61078. Source: ra_indbpinrevlog_rg_3865.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This January 2007 benchmark report examines reverse logistics practices (returns, exchange, repair, refurbishment, remarketing, and disposition) across aerospace & defense, consumer goods, high tech, industrial equipment, telecom/utilities, and medical device manufacturing sectors. It finds consumer goods companies lead in value recapture (31% vs. a best-in-class mark of 64%) and details industry-specific best practices for cost containment and quality improvement.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

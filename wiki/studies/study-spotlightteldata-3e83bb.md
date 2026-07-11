@@ -1,15 +1,15 @@
 ---
-title: "Spotlightteldata (Aberdeen, 1988)"
+title: "Teldata Control"
 slug: "study-spotlightteldata-3e83bb"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "spotlightteldata-3e83bb"
 author: "Aberdeen Group"
 date: "1988-01-01"
 pub_year: 1988
-type: "benchmark"
+type: "vendor-snapshot"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "spotlightteldata.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Spotlightteldata (Aberdeen, 1988)
+# Teldata Control
 
-> Aberdeen Group study spotlightteldata-3e83bb. Source: spotlightteldata.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This is an Aberdeen Group vendor spotlight profiling Teldata Control, a privately held telecom cost-control solutions company founded in 1988 with more than 240 employees. It covers the company's customer base of more than 100 corporate clients with over $12 million in annual telecom spend, vertical market focus (financial services, insurance, pharmaceutical, government), growth figures, and leadership team.
 
 
-_Published 1988, author **Aberdeen Group**, type **benchmark**._
+_Published 1988, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Teldata Control using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

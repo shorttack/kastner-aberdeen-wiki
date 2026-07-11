@@ -1,15 +1,15 @@
 ---
-title: "Grandopening092004F (Aberdeen, 2004)"
+title: "Grand Opening: Introducing Aberdeen Access"
 slug: "study-grandopening092004f-a944eb"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "grandopening092004f-a944eb"
 author: "Aberdeen Group"
 date: "2004-01-01"
 pub_year: 2004
-type: "benchmark"
+type: "vendor-snapshot"
 subject_domain: "technology-market-analysis"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "grandopening092004f.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.67
 prescience_obs_count: 3
 ---
 
-# Grandopening092004F (Aberdeen, 2004)
+# Grand Opening: Introducing Aberdeen Access
 
-> Aberdeen Group study grandopening092004f-a944eb. Source: grandopening092004f.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A promotional letter from Aberdeen Group's President and CEO Jamie Bedard announcing the launch of 'Aberdeen Access,' a subscription research service offering the company's benchmark reports, KPIs, frameworks, and analyst access for a discounted grand-opening price. It outlines subscription benefits, sign-up incentives, and referral prizes rather than presenting research findings.
 
 
-_Published 2004, author **Aberdeen Group**, type **benchmark**._
+_Published 2004, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations

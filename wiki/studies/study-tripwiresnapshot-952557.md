@@ -1,15 +1,15 @@
 ---
-title: "Tripwiresnapshot (Aberdeen, 2000)"
+title: "Tripwire, Inc."
 slug: "study-tripwiresnapshot-952557"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "tripwiresnapshot-952557"
 author: "Aberdeen Group"
 date: "2000-01-01"
 pub_year: 2000
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "tripwiresnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Tripwiresnapshot (Aberdeen, 2000)
+# Tripwire, Inc.
 
-> Aberdeen Group study tripwiresnapshot-952557. Source: tripwiresnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A one-page Aberdeen Group vendor snapshot on Tripwire, Inc., a privately held provider of data and configuration integrity software (Tripwire for Servers, Tripwire Manager, Tripwire for Routers and Switches) with customers in 92 countries. It summarizes company financing, partnerships, and leadership as of 2002.
 
 
-_Published 2000, author **Aberdeen Group**, type **market-study**._
+_Published 2000, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Tripwire, Inc. using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

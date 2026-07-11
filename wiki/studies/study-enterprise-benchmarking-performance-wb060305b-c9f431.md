@@ -1,15 +1,15 @@
 ---
-title: "Enterprise Benchmarking Performance Wb060305B (Aberdeen, 2004)"
+title: "Benchmarking Performance: Enterprise Solutions & Licensing Options"
 slug: "study-enterprise-benchmarking-performance-wb060305b-c9f431"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "enterprise-benchmarking-performance-wb060305b-c9f431"
 author: "Aberdeen Group"
 date: "2004-01-01"
 pub_year: 2004
-type: "benchmark"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "enterprise-benchmarking_performance_wb060305b.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Enterprise Benchmarking Performance Wb060305B (Aberdeen, 2004)
+# Benchmarking Performance: Enterprise Solutions & Licensing Options
 
-> Aberdeen Group study enterprise-benchmarking-performance-wb060305b-c9f431. Source: enterprise-benchmarking_performance_wb060305b.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> Brief promotional description of Aberdeen's fee-based Personalized Benchmark and Annual Benchmarking Program services, letting clients compare their performance against Aberdeen's benchmark study results. Not a research study; it is services/licensing collateral.
 
 
-_Published 2004, author **Aberdeen Group**, type **benchmark**._
+_Published 2004, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [432 x 130] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Benchmarking Performance: Enterprise Solutions & Licensing Options using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

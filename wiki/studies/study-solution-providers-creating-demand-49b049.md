@@ -1,15 +1,15 @@
 ---
-title: "Solution Providers Creating Demand (Aberdeen, 2005)"
+title: "Creating Demand: Aberdeen Solutions & Licensing Options"
 slug: "study-solution-providers-creating-demand-49b049"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "solution-providers-creating-demand-49b049"
 author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "benchmark"
+type: "vendor-snapshot"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "solution_providers-creating_demand.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Solution Providers Creating Demand (Aberdeen, 2005)
+# Creating Demand: Aberdeen Solutions & Licensing Options
 
-> Aberdeen Group study solution-providers-creating-demand-49b049. Source: solution_providers-creating_demand.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This is an Aberdeen Group sales collateral document (dated 2006 in the source) describing licensing/service options for solution providers seeking to create demand, including Research Study Sponsorship, Business Value Research (BVR) Series, Private Access Content Syndication, and Aberdeen Research Syndication Licensing, each with service descriptions and deliverables.
 
 
-_Published 2005, author **Aberdeen Group**, type **benchmark**._
+_Published 2005, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [433 x 130] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Creating Demand: Aberdeen Solutions & Licensing Options using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

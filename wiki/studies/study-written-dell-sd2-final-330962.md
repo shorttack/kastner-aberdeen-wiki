@@ -1,15 +1,15 @@
 ---
-title: "Written Dell Sd2 Final (Aberdeen, 2001)"
+title: "Asset Recovery Services Field Guide: A New Way to Strengthen Relationships and Increase Sales"
 slug: "study-written-dell-sd2-final-330962"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-dell-sd2-final-330962"
 author: "Aberdeen Group"
 date: "2001-01-01"
 pub_year: 2001
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "Written__Dell_SD2_FINAL.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 2.67
 prescience_obs_count: 3
 ---
 
-# Written Dell Sd2 Final (Aberdeen, 2001)
+# Asset Recovery Services Field Guide: A New Way to Strengthen Relationships and Increase Sales
 
-> Aberdeen Group study written-dell-sd2-final-330962. Source: Written__Dell_SD2_FINAL.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> An internal Dell sales field guide (marked 'Dell Confidential — For Internal Use Only') explaining the business case for Dell's Asset Recovery Services (ARS), which help customers resell or recycle unwanted hardware. It provides sales talking points, customer statistics (e.g., nearly 80% of customers store unwanted hardware), and guidance on introducing Value Recovery and Recycling services to customers.
 
 
-_Published 2001, author **Aberdeen Group**, type **market-study**._
+_Published 2001, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations

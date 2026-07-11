@@ -1,15 +1,15 @@
 ---
-title: "Servgatesnapshot (Aberdeen, 2003)"
+title: "ServGate Technologies, Inc."
 slug: "study-servgatesnapshot-a891dd"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "servgatesnapshot-a891dd"
 author: "Aberdeen Group"
 date: "2003-01-01"
 pub_year: 2003
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "wireless"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "servgatesnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Servgatesnapshot (Aberdeen, 2003)
+# ServGate Technologies, Inc.
 
-> Aberdeen Group study servgatesnapshot-a891dd. Source: servgatesnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: wireless. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This is an Aberdeen Group vendor snapshot profiling ServGate Technologies, Inc., a privately held network security appliance supplier with more than 95 employees. It covers products such as the SG2000L/H multigigabit security appliances, EdgeForce integrated security appliances, and the SG100 telecommuter appliance, technology partnerships (Allied Telesyn, Extreme Networks, McAfee, SafeNet, Websense, Intel), and leadership team.
 
 
-_Published 2003, author **Aberdeen Group**, type **market-study**._
+_Published 2003, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ServGate Technologies, Inc. using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

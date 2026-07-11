@@ -1,12 +1,12 @@
 ---
-title: "Written Desktop Virtualization Roi   Aberdeen (Aberdeen, 2011)"
+title: "Measuring the Returns from a Desktop Virtualization Program"
 slug: "study-written-desktop-virtualization-roi-aberdeen-f059d8"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "written-desktop-virtualization-roi-aberdeen-f059d8"
-author: "Aberdeen Group"
+author: "Dick Csaplar / Aberdeen Group"
 date: "2011-01-01"
 pub_year: 2011
 type: "benchmark"
@@ -24,12 +24,12 @@ prescience_mean: 0.77
 prescience_obs_count: 13
 ---
 
-# Written Desktop Virtualization Roi   Aberdeen (Aberdeen, 2011)
+# Measuring the Returns from a Desktop Virtualization Program
 
-> Aberdeen Group study written-desktop-virtualization-roi-aberdeen-f059d8. Source: Written__desktop virtualization ROI - Aberdeen.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A September 2011 Aberdeen Group Analyst Insight based on a May 2011 survey of 76 organizations, comparing desktop performance between companies with and without desktop virtualization deployments. It defines seven desktop-performance metrics (maintenance time, support spending, downtime incidents and duration, data loss, and employee satisfaction) and identifies business practices and technology enablers associated with more successful desktop virtualization programs.
 
 
-_Published 2011, author **Aberdeen Group**, type **benchmark**._
+_Published 2011, author **Dick Csaplar / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

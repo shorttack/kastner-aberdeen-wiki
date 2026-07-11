@@ -1,15 +1,15 @@
 ---
-title: "Aberdeenfulfillmentresearchagenda (Aberdeen, 1988)"
+title: "Coping with the New Supply Chain Reality: Achieving Productivity, Flexibility, and Control"
 slug: "study-aberdeenfulfillmentresearchagenda-788e79"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "aberdeenfulfillmentresearchagenda-788e79"
-author: "Research Agenda"
+author: "Aberdeen Group"
 date: "1988-01-01"
 pub_year: 1988
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "aberdeenfulfillmentresearchagenda.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Aberdeenfulfillmentresearchagenda (Aberdeen, 1988)
+# Coping with the New Supply Chain Reality: Achieving Productivity, Flexibility, and Control
 
-> Aberdeen Group study aberdeenfulfillmentresearchagenda-788e79. Source: aberdeenfulfillmentresearchagenda.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This 2004 supply chain research agenda describes Aberdeen's planned studies addressing the growing complexity of global supply chains, including supplier and inventory management, outsourcing, logistics, compliance, manufacturing intelligence, and corporate performance management. It outlines the scope of upcoming research rather than presenting findings.
 
 
-_Published 1988, author **Research Agenda**, type **benchmark**._
+_Published 1988, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 117] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Coping with the New Supply Chain Reality: Achieving Productivity, Flexibility, and Control using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

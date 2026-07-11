@@ -1,15 +1,15 @@
 ---
-title: "Cm Q2C Vp 3715 (Aberdeen, 2006)"
+title: "Contract Management: The Quote-to-Cash Cycle: More Revenue, Less Leakage"
 slug: "study-cm-q2c-vp-3715-aa1364"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "cm-q2c-vp-3715-aa1364"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "cm_q2c_vp_3715.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.69
 prescience_obs_count: 48
 ---
 
-# Cm Q2C Vp 3715 (Aberdeen, 2006)
+# Contract Management: The Quote-to-Cash Cycle: More Revenue, Less Leakage
 
-> Aberdeen Group study cm-q2c-vp-3715-aa1364. Source: cm_q2c_vp_3715.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> December 2006 benchmark report based on a survey of 189 enterprises examining contract management across the quote-to-cash cycle, identifying practices that increase revenue capture and reduce revenue leakage.
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

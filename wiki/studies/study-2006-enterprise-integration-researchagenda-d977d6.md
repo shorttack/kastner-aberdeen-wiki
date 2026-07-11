@@ -1,15 +1,15 @@
 ---
-title: "2006 Enterprise Integration Researchagenda (Aberdeen, 2006)"
+title: "Enterprise Integration Research Agenda"
 slug: "study-2006-enterprise-integration-researchagenda-d977d6"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "2006-enterprise-integration-researchagenda-d977d6"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2006_enterprise_integration_researchagenda.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# 2006 Enterprise Integration Researchagenda (Aberdeen, 2006)
+# Enterprise Integration Research Agenda
 
-> Aberdeen Group study 2006-enterprise-integration-researchagenda-d977d6. Source: 2006_enterprise_integration_researchagenda.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This document outlines Aberdeen's 2006 Enterprise Integration research agenda, previewing planned studies on maximizing value from enterprise applications, Enterprise Service Bus (ESB) and SOA middleware, real-time business process performance management, extending legacy applications with SOA, and a benchmark report on developing service-oriented applications, each scheduled to a 2006 month.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 95] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Enterprise Integration Research Agenda using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

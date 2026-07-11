@@ -1,15 +1,15 @@
 ---
-title: "Phoenixsnapshot (Aberdeen, 2001)"
+title: "Phoenix Technologies, Limited: Company Snapshot"
 slug: "study-phoenixsnapshot-e90044"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "phoenixsnapshot-e90044"
 author: "Aberdeen Group"
 date: "2001-01-01"
 pub_year: 2001
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "technology-market-analysis"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "phoenixsnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Phoenixsnapshot (Aberdeen, 2001)
+# Phoenix Technologies, Limited: Company Snapshot
 
-> Aberdeen Group study phoenixsnapshot-e90044. Source: phoenixsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling Phoenix Technologies, Limited, a publicly traded leader in device-enabled management and BIOS software, including products such as FirstBIOS, FirstAuthority, and Server BIOS GRID Edition. It covers company facts, markets, products, executives, and related Aberdeen research on identity and access management.
 
 
-_Published 2001, author **Aberdeen Group**, type **market-study**._
+_Published 2001, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Phoenix Technologies, Limited: Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

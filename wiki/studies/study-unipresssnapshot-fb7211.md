@@ -1,15 +1,15 @@
 ---
-title: "Unipresssnapshot (Aberdeen, 1983)"
+title: "UniPress Software"
 slug: "study-unipresssnapshot-fb7211"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "unipresssnapshot-fb7211"
 author: "Aberdeen Group"
 date: "1983-01-01"
 pub_year: 1983
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "unipresssnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Unipresssnapshot (Aberdeen, 1983)
+# UniPress Software
 
-> Aberdeen Group study unipresssnapshot-fb7211. Source: unipresssnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A one-page Aberdeen Group vendor snapshot on UniPress Software, maker of the FootPrints Web-based service desk and customer problem management application. It covers the company's products, target markets, customer base (including BHP Petroleum, Charles Schwab, IBM), and leadership as of 2003.
 
 
-_Published 1983, author **Aberdeen Group**, type **market-study**._
+_Published 1983, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes UniPress Software using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

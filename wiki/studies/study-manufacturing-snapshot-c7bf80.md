@@ -1,15 +1,15 @@
 ---
-title: "Manufacturing Snapshot (Aberdeen, 2007)"
+title: "Manufacturing Research Channel 2007 Calendar"
 slug: "study-manufacturing-snapshot-c7bf80"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "manufacturing-snapshot-c7bf80"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "manufacturing_snapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Manufacturing Snapshot (Aberdeen, 2007)
+# Manufacturing Research Channel 2007 Calendar
 
-> Aberdeen Group study manufacturing-snapshot-c7bf80. Source: manufacturing_snapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A research-agenda document previewing Aberdeen's Manufacturing Research Practice publication calendar for 2007, describing upcoming benchmark reports such as Benchmarking Manufacturing Flexibility, Shop Floor Data Integration, Benchmarking Manufacturing Execution Systems, and The Lean Benchmark Report, each with challenge, focus, and expected outcome summaries.
 
 
-_Published 2007, author **Aberdeen Group**, type **benchmark**._
+_Published 2007, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [222 x 37] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Manufacturing Research Channel 2007 Calendar using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

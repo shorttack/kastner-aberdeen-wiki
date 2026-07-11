@@ -14,7 +14,7 @@ lifecycle_current: "[DEFERRED]"
 occurrence_count: 54
 prescience_max: 5.0
 prescience_mean: 0.95
-prescience_obs_count: 496
+prescience_obs_count: 484
 ---
 
 # Microsoft Windows

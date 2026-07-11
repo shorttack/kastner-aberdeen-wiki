@@ -1,15 +1,15 @@
 ---
-title: "Written 2004 05Dell Storage Profile Editpk 051704F (Aberdeen, 2004)"
+title: "Dell: Applying Its Business Value Model to Storage"
 slug: "study-written-2004-05dell-storage-profile-editpk-051704f-8b106e"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "written-2004-05dell-storage-profile-editpk-051704f-8b106e"
 author: "Aberdeen Group"
 date: "2004-01-01"
 pub_year: 2004
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "Written__2004-05Dell storage Profile EDITpk 051704f.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 2.0
 prescience_obs_count: 3
 ---
 
-# Written 2004 05Dell Storage Profile Editpk 051704F (Aberdeen, 2004)
+# Dell: Applying Its Business Value Model to Storage
 
-> Aberdeen Group study written-2004-05dell-storage-profile-editpk-051704f-8b106e. Source: Written__2004-05Dell storage Profile EDITpk 051704f.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A 2004 Aberdeen Group vendor profile examining how Dell applies its supply-chain-driven business value model to the storage market through its Dell|EMC partnership, PowerVault NAS and tape products, and midline (ATA) storage offerings. It describes new CX-series and AX100 array products, Dell's software ecosystem (Navisphere, SnapView, MirrorView, VisualSAN), and how Dell drives down storage total cost of ownership for customers.
 
 
-_Published 2004, author **Aberdeen Group**, type **market-study**._
+_Published 2004, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations

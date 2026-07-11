@@ -13,8 +13,8 @@ lifecycle_at_study: "mature-EOL-approaching"
 lifecycle_current: "Windows NT 3.5 end of life 2001; NT kernel architecture evolved through Windows 2000, XP, and into all modern Windows versions."
 occurrence_count: 41
 prescience_max: 5.0
-prescience_mean: 2.37
-prescience_obs_count: 104
+prescience_mean: 2.39
+prescience_obs_count: 106
 ---
 
 # Windows NT Server/Workstation

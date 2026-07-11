@@ -1,15 +1,15 @@
 ---
-title: "2007 Ra Clicks Jl 3710 (Aberdeen, 2007)"
+title: "Clicks to Customers Benchmark Report: The Real ROI in B2C eCommerce"
 slug: "study-2007-ra-clicks-jl-3710-37b7a4"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2007-ra-clicks-jl-3710-37b7a4"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "2007_ra_clicks_jl_3710.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.59
 prescience_obs_count: 63
 ---
 
-# 2007 Ra Clicks Jl 3710 (Aberdeen, 2007)
+# Clicks to Customers Benchmark Report: The Real ROI in B2C eCommerce
 
-> Aberdeen Group study 2007-ra-clicks-jl-3710-37b7a4. Source: 2007_ra_clicks_jl_3710.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This January 2007 benchmark report examines the return on investment retailers achieve from B2C eCommerce initiatives. Key findings show 21% of retailers expect ROI within weeks while 22% wait more than six months, and 29% do not measure ROI at all; the report uses Aberdeen's PACE and Competitive Framework (Laggards, Industry Norm, Best-in-Class) to benchmark performance.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

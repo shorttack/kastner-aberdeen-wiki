@@ -1,15 +1,15 @@
 ---
-title: "Ra Governance Jh (Aberdeen, 2005)"
+title: "Best Practices in Security: Governance"
 slug: "study-ra-governance-jh-1e6241"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-governance-jh-1e6241"
-author: "Open Service"
+author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_governance_jh.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.68
 prescience_obs_count: 40
 ---
 
-# Ra Governance Jh (Aberdeen, 2005)
+# Best Practices in Security: Governance
 
-> Aberdeen Group study ra-governance-jh-1e6241. Source: ra_governance_jh.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This June 2005 best-practices report examines security governance, finding that while 26% of firms operate at best-in-class levels for overall security management, less than 10% have best-in-class governance programs specifically. It identifies six business pressures driving electronic security (including regulatory oversight and data leakage risk) and links strong governance to increased sales, brand reputation, and lowered risk.
 
 
-_Published 2005, author **Open Service**, type **topic-analysis**._
+_Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

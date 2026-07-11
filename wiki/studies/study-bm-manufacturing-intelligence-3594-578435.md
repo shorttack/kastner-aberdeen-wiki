@@ -1,15 +1,15 @@
 ---
-title: "Bm Manufacturing Intelligence 3594 (Aberdeen, 1988)"
+title: "The Manufacturing Intelligence Benchmark Report: Bridging the ERP and Shop Floor Divide"
 slug: "study-bm-manufacturing-intelligence-3594-578435"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "bm-manufacturing-intelligence-3594-578435"
 author: "Aberdeen Group"
 date: "1988-01-01"
 pub_year: 1988
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "bm_manufacturing_intelligence_3594.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.72
 prescience_obs_count: 61
 ---
 
-# Bm Manufacturing Intelligence 3594 (Aberdeen, 1988)
+# The Manufacturing Intelligence Benchmark Report: Bridging the ERP and Shop Floor Divide
 
-> Aberdeen Group study bm-manufacturing-intelligence-3594-578435. Source: bm_manufacturing_intelligence_3594.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This October 2006 benchmark report, based on research across 440 companies, examines how manufacturers use Manufacturing Intelligence (MI) solutions to bridge the gap between ERP systems and shop-floor execution. Best-in-Class manufacturers achieved a 27% improvement in yield and other performance gains by aggregating plant and enterprise data for real-time visibility and decision-making.
 
 
-_Published 1988, author **Aberdeen Group**, type **topic-analysis**._
+_Published 1988, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

@@ -1,15 +1,15 @@
 ---
-title: "Nextancesnapshot (Aberdeen, 2000)"
+title: "Nextance Inc. — Company Snapshot"
 slug: "study-nextancesnapshot-504aed"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "nextancesnapshot-504aed"
 author: "Aberdeen Group"
 date: "2000-01-01"
 pub_year: 2000
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "nextancesnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Nextancesnapshot (Aberdeen, 2000)
+# Nextance Inc. — Company Snapshot
 
-> Aberdeen Group study nextancesnapshot-504aed. Source: nextancesnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A vendor snapshot profiling Nextance, a developer of contract life cycle management solutions for Global 2000 companies, covering its NexContract, NexIP, and NexProcure application suites built on the NeXML platform. It includes company facts, financial highlights, management team, key customers (Boeing, Hewlett-Packard, Sun Microsystems), and Aberdeen's concluding assessment of the company's differentiation.
 
 
-_Published 2000, author **Aberdeen Group**, type **market-study**._
+_Published 2000, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Nextance Inc. — Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

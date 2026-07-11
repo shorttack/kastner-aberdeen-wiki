@@ -1,12 +1,12 @@
 ---
-title: "E Proc Tech Rb Vc Ab 3778 (Aberdeen, 2006)"
+title: "E-Procurement Head-to-Head: Oracle & SAP vs. Ariba vs. BIC"
 slug: "study-e-proc-tech-rb-vc-ab-3778-7525d9"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "e-proc-tech-rb-vc-ab-3778-7525d9"
-author: "Aberdeen Group"
+author: "Vance Checketts / Aberdeen Group"
 date: "2006-12-22"
 pub_year: 2006
 type: "benchmark"
@@ -24,12 +24,12 @@ prescience_mean: 2.38
 prescience_obs_count: 8
 ---
 
-# E Proc Tech Rb Vc Ab 3778 (Aberdeen, 2006)
+# E-Procurement Head-to-Head: Oracle & SAP vs. Ariba vs. BIC
 
-> Aberdeen Group study e-proc-tech-rb-vc-ab-3778-7525d9. Source: e-proc_tech_rb_vc_ab_3778.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> December 22, 2006 research brief comparing e-procurement offerings from Oracle and SAP versus Ariba and BIC, with supporting data and comparison tables. Authored by Vance Checketts, Channel Director, Global Supply Management.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Vance Checketts / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

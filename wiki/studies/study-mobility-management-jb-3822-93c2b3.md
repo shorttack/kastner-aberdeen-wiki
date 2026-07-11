@@ -1,15 +1,15 @@
 ---
-title: "Mobility Management Jb 3822 (Aberdeen, 2007)"
+title: "The Real Cost of Enterprise Wireless Mobility"
 slug: "study-mobility-management-jb-3822-93c2b3"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "mobility-management-jb-3822-93c2b3"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "wireless"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "mobility_management_jb_3822.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.0
 prescience_obs_count: 57
 ---
 
-# Mobility Management Jb 3822 (Aberdeen, 2007)
+# The Real Cost of Enterprise Wireless Mobility
 
-> Aberdeen Group study mobility-management-jb-3822-93c2b3. Source: mobility_management_jb_3822.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: wireless. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A benchmark report finding that managing wireless services and devices costs enterprises nearly ten times more than managing wireline, based on an Aberdeen survey. It covers key findings on wireless program maturity, proactive expense management, and device growth, and provides recommendations such as migrating to corporate-liable contracts, gaining specialized expertise, and implementing lifecycle management technology.
 
 
-_Published 2007, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2007, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

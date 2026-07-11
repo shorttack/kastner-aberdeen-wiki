@@ -1,5 +1,5 @@
 ---
-title: "Written Oracleroiwhitepaperprod (Aberdeen, 2001)"
+title: "Point Solutions Versus Integrated Oracle Applications: The Road to IT Investment ROI"
 slug: "study-written-oracleroiwhitepaperprod-235e19"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
@@ -24,9 +24,9 @@ prescience_mean: 0.31
 prescience_obs_count: 16
 ---
 
-# Written Oracleroiwhitepaperprod (Aberdeen, 2001)
+# Point Solutions Versus Integrated Oracle Applications: The Road to IT Investment ROI
 
-> Aberdeen Group study written-oracleroiwhitepaperprod-235e19. Source: Written__OracleROIWhitePaperPROD.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A June 2001 Aberdeen Group executive white paper examining the tradeoffs between best-of-breed 'point' software solutions and integrated enterprise application suites (using Oracle as the integrated example), citing Nike's high-profile integration failure with SAP, Siebel, and i2 as a cautionary case. It estimates enterprises spend 40–70% of their IT integration budget on application integration and evaluates the technical, competitive, and economic implications of each strategy.
 
 
 _Published 2001, author **Aberdeen Group**, type **market-study**._

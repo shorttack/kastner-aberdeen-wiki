@@ -1,12 +1,12 @@
 ---
-title: "1Q06 Asset%20Management (Aberdeen, 2006)"
+title: "Asset Management: Moving Toward Zero Downtime"
 slug: "study-1q06-asset-20management-e1ca0f"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "1q06-asset-20management-e1ca0f"
-author: "Aberdeen Group"
+author: "Jane Biddle / Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
 type: "benchmark"
@@ -24,15 +24,15 @@ prescience_mean: 2.0
 prescience_obs_count: 2
 ---
 
-# 1Q06 Asset%20Management (Aberdeen, 2006)
+# Asset Management: Moving Toward Zero Downtime
 
-> Aberdeen Group study 1q06-asset-20management-e1ca0f. Source: 1q06_asset%20management.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This benchmark study, led by analysts Mark O'Hearne and Jane Biddle in 1Q06, examines manufacturing asset management and predictive maintenance practices. It benchmarks how organizations reduce unplanned downtime through improved asset management strategies and technology.
 
 
-_Published 2006, author **Aberdeen Group**, type **benchmark**._
+_Published 2006, author **Jane Biddle / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations
 
 - Best-in-class enterprises are leveraging real-time process and equipment condition information and diagnostics to detect and predict failures. `[ps=5]`
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Asset Management: Moving Toward Zero Downtime using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

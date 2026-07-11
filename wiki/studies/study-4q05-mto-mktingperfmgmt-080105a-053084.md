@@ -1,12 +1,12 @@
 ---
-title: "4Q05 Mto Mktingperfmgmt 080105A (Aberdeen, 2005)"
+title: "Marketing Performance Management: Metrics that Matter — Evaluating and Selecting Processes and Technology to Drive Business Value"
 slug: "study-4q05-mto-mktingperfmgmt-080105a-053084"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "4q05-mto-mktingperfmgmt-080105a-053084"
-author: "Research Preview"
+author: "Leslie Ament / Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
 type: "benchmark"
@@ -24,12 +24,12 @@ prescience_mean: 2.67
 prescience_obs_count: 3
 ---
 
-# 4Q05 Mto Mktingperfmgmt 080105A (Aberdeen, 2005)
+# Marketing Performance Management: Metrics that Matter — Evaluating and Selecting Processes and Technology to Drive Business Value
 
-> Aberdeen Group study 4q05-mto-mktingperfmgmt-080105a-053084. Source: 4q05-mto-mktingperfmgmt_080105a.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This research preview introduces an upcoming Aberdeen benchmark study on marketing performance management, focused on identifying the metrics, processes, and technologies that drive measurable business value. Leslie Ament is named as lead analyst for the study.
 
 
-_Published 2005, author **Research Preview**, type **benchmark**._
+_Published 2005, author **Leslie Ament / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

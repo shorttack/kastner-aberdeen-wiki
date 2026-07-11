@@ -1,15 +1,15 @@
 ---
-title: "Symantecsnapshot (Aberdeen, 2000)"
+title: "Symantec, Incorporated"
 slug: "study-symantecsnapshot-da9c4c"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "symantecsnapshot-da9c4c"
 author: "Aberdeen Group"
 date: "2000-01-01"
 pub_year: 2000
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "symantecsnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Symantecsnapshot (Aberdeen, 2000)
+# Symantec, Incorporated
 
-> Aberdeen Group study symantecsnapshot-da9c4c. Source: symantecsnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A one-page Aberdeen Group vendor snapshot on Symantec, describing it as the largest security-solutions supplier at the time, with roughly $944 million in FY2000 revenue and 4,000+ employees. It summarizes Symantec's antivirus, firewall, VPN, and enterprise security management product lines, recent acquisitions (Axent Technologies, L-3 Network Security, URLabs), and leadership team.
 
 
-_Published 2000, author **Aberdeen Group**, type **market-study**._
+_Published 2000, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Symantec, Incorporated using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

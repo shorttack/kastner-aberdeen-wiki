@@ -1,15 +1,15 @@
 ---
-title: "Erp Snapshot (Aberdeen, 2007)"
+title: "ERP Research Channel 2007 Calendar"
 slug: "study-erp-snapshot-7d2836"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "erp-snapshot-7d2836"
 author: "Aberdeen Group"
 date: "2007-01-01"
 pub_year: 2007
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "erp_snapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Erp Snapshot (Aberdeen, 2007)
+# ERP Research Channel 2007 Calendar
 
-> Aberdeen Group study erp-snapshot-7d2836. Source: erp_snapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> Research agenda outlining Aberdeen's 2007 ERP research calendar, previewing planned studies including benchmarking the financial value of ERP, ERP's role in globalization, the order-to-cash cycle, intelligent CPM, ERP in manufacturing, ERP in the mid-market, and integration of back-office applications with desktop productivity tools.
 
 
-_Published 2007, author **Aberdeen Group**, type **benchmark**._
+_Published 2007, author **Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [222 x 36] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes ERP Research Channel 2007 Calendar using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

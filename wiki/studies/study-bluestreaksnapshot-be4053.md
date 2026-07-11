@@ -1,15 +1,15 @@
 ---
-title: "Bluestreaksnapshot (Aberdeen, 1999)"
+title: "Bluestreak, Inc.: Company Snapshot"
 slug: "study-bluestreaksnapshot-be4053"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "bluestreaksnapshot-be4053"
 author: "Aberdeen Group"
 date: "1999-01-01"
 pub_year: 1999
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "technology-market-analysis"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "bluestreaksnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Bluestreaksnapshot (Aberdeen, 1999)
+# Bluestreak, Inc.: Company Snapshot
 
-> Aberdeen Group study bluestreaksnapshot-be4053. Source: bluestreaksnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This vendor snapshot profiles Bluestreak, Inc., a provider of online direct marketing and e-mail marketing solutions including the IonMail Center and Ion Ad Management platforms. It describes the company's leadership, key acquisitions (AdKnowledge, E2 Comm, Takira), and customer base including AAA, Allstate, and Microsoft.
 
 
-_Published 1999, author **Aberdeen Group**, type **market-study**._
+_Published 1999, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Bluestreak, Inc.: Company Snapshot using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

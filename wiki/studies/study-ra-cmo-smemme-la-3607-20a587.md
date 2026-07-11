@@ -1,15 +1,15 @@
 ---
-title: "Ra Cmo Smemme La 3607 (Aberdeen, 2006)"
+title: "The CMO's Strategic Agenda: SME & MME Benchmark Report — Creating a Customer-Centric Marketing Organization"
 slug: "study-ra-cmo-smemme-la-3607-20a587"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-cmo-smemme-la-3607-20a587"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_cmo_smemme_la_3607.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.76
 prescience_obs_count: 78
 ---
 
-# Ra Cmo Smemme La 3607 (Aberdeen, 2006)
+# The CMO's Strategic Agenda: SME & MME Benchmark Report — Creating a Customer-Centric Marketing Organization
 
-> Aberdeen Group study ra-cmo-smemme-la-3607-20a587. Source: ra_cmo_smemme_la_3607.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This November 2006 benchmark report examines how small and midmarket enterprises (SME/MME) build customer-centric marketing organizations amid rising customer expectations and converging sales/marketing/distribution channels. It finds Best-in-Class companies enjoy a performance advantage in customer retention, revenue growth, and marketing ROI, and offers a blueprint plus recommendations for organizations to benchmark and improve performance.
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

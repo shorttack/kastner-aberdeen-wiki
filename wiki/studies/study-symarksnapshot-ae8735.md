@@ -1,15 +1,15 @@
 ---
-title: "Symarksnapshot (Aberdeen, 2002)"
+title: "Symark, Incorporated"
 slug: "study-symarksnapshot-ae8735"
 page_type: "study"
-tags: ["type/study", "collection/market-study"]
+tags: ["type/study", "collection/vendor-snapshot"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "symarksnapshot-ae8735"
 author: "Aberdeen Group"
 date: "2002-01-01"
 pub_year: 2002
-type: "market-study"
+type: "vendor-snapshot"
 subject_domain: "Linux"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "symarksnapshot.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Symarksnapshot (Aberdeen, 2002)
+# Symark, Incorporated
 
-> Aberdeen Group study symarksnapshot-ae8735. Source: symarksnapshot.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: Linux. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A one-page Aberdeen Group vendor snapshot on Symark Software, a privately held maker of Unix/Linux security software, highlighting its PowerBroker privilege-delegation product and PowerPassword password-management system. It covers company facts, global markets, partnerships, and leadership as of 2002.
 
 
-_Published 2002, author **Aberdeen Group**, type **market-study**._
+_Published 2002, author **Aberdeen Group**, type **vendor-snapshot**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [82 x 80] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Symark, Incorporated using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

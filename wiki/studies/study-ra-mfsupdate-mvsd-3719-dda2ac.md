@@ -1,15 +1,15 @@
 ---
-title: "Ra Mfsupdate Mvsd 3719 (Aberdeen, 2006)"
+title: "The Mobile Field Service Update: 2007 and Beyond"
 slug: "study-ra-mfsupdate-mvsd-3719-dda2ac"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-mfsupdate-mvsd-3719-dda2ac"
 author: "Aberdeen Group"
 date: "2006-01-01"
 pub_year: 2006
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_mfsupdate_mvsd_3719.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 0.93
 prescience_obs_count: 57
 ---
 
-# Ra Mfsupdate Mvsd 3719 (Aberdeen, 2006)
+# The Mobile Field Service Update: 2007 and Beyond
 
-> Aberdeen Group study ra-mfsupdate-mvsd-3719-dda2ac. Source: ra_mfsupdate_mvsd_3719.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This December 2006 benchmark report finds Best-in-Class field service organizations achieve 17.2% service-driven profit margins, 91.2% SLA compliance, and faster mean time to repair (6.3 hours) compared to industry average and laggard firms. It shows field service automation drove a 9% reduction in mean time to repair and an 18% increase in service revenues, with location-based services topping Best-in-Class technology purchasing intentions.
 
 
-_Published 2006, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

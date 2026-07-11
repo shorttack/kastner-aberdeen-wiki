@@ -1,15 +1,15 @@
 ---
-title: "Ra Warehouseautomation 3867 (Aberdeen, 2005)"
+title: "Warehouse Automation: What's Really Working for Pallet, Case, and Piece-Pick Operations"
 slug: "study-ra-warehouseautomation-3867-89c99f"
 page_type: "study"
-tags: ["type/study", "collection/topic-analysis"]
+tags: ["type/study", "collection/benchmark"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ra-warehouseautomation-3867-89c99f"
 author: "Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "topic-analysis"
+type: "benchmark"
 subject_domain: "supply-chain"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ra_warehouseautomation_3867.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 1.03
 prescience_obs_count: 93
 ---
 
-# Ra Warehouseautomation 3867 (Aberdeen, 2005)
+# Warehouse Automation: What's Really Working for Pallet, Case, and Piece-Pick Operations
 
-> Aberdeen Group study ra-warehouseautomation-3867-89c99f. Source: ra_warehouseautomation_3867.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: supply-chain. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This January 2007 benchmark report examines warehouse automation technologies including bar coding, pick-to-light, voice, conveyors, carousels, and AS/RS, finding Best-in-Class companies have moved beyond basic bar-code scanning to supplement it with pick-to-light and voice systems for lower labor costs and improved accuracy. It shows top performers are now focused on innovations in put-away, replenishment, and returns processing after building out core inventory and order-picking capabilities.
 
 
-_Published 2005, author **Aberdeen Group**, type **topic-analysis**._
+_Published 2005, author **Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations

@@ -1,12 +1,12 @@
 ---
-title: "4Q05%20Role%20Of%20Quality%20In%20Manufacturing%20Jb Jb%2004Oct05 (Aberdeen, 2004)"
+title: "The Role of Quality in Global Manufacturing"
 slug: "study-4q05-20role-20of-20quality-20in-20manufacturing-20jb-jb-2004oct05-2120d2"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "4q05-20role-20of-20quality-20in-20manufacturing-20jb-jb-2004oct05-2120d2"
-author: "Aberdeen Group"
+author: "Jim Brown / Aberdeen Group"
 date: "2004-01-01"
 pub_year: 2004
 type: "benchmark"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# 4Q05%20Role%20Of%20Quality%20In%20Manufacturing%20Jb Jb%2004Oct05 (Aberdeen, 2004)
+# The Role of Quality in Global Manufacturing
 
-> Aberdeen Group study 4q05-20role-20of-20quality-20in-20manufacturing-20jb-jb-2004oct05-2120d2. Source: 4q05%20role%20of%20quality%20in%20manufacturing%20jb-jb%2004oct05.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This research preview introduces an upcoming Aberdeen benchmark study examining the role of quality practices in global manufacturing operations. Jane Biddle and Jim Brown are named as lead analysts for the study.
 
 
-_Published 2004, author **Aberdeen Group**, type **benchmark**._
+_Published 2004, author **Jim Brown / Aberdeen Group**, type **benchmark**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes The Role of Quality in Global Manufacturing using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

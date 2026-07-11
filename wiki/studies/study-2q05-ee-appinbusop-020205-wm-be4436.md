@@ -1,5 +1,5 @@
 ---
-title: "2Q05 Ee Appinbusop 020205 Wm (Aberdeen, 2020)"
+title: "Application Integration and Infrastructure Transformation: Building the Business Operating System"
 slug: "study-2q05-ee-appinbusop-020205-wm-be4436"
 page_type: "study"
 tags: ["type/study", "collection/benchmark"]
@@ -24,9 +24,9 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# 2Q05 Ee Appinbusop 020205 Wm (Aberdeen, 2020)
+# Application Integration and Infrastructure Transformation: Building the Business Operating System
 
-> Aberdeen Group study 2q05-ee-appinbusop-020205-wm-be4436. Source: 2q05_ee_appinbusop_020205_wm.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: technology-market-analysis. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> This short research preview introduces Aberdeen's planned study on application integration and infrastructure transformation, framed around the concept of a 'business operating system.' It previews the upcoming benchmark research rather than presenting completed findings.
 
 
 _Published 2020, author **Aberdeen Group**, type **benchmark**._
@@ -34,4 +34,4 @@ _Published 2020, author **Aberdeen Group**, type **benchmark**._
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes Application Integration and Infrastructure Transformation: Building the Business Operating System using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

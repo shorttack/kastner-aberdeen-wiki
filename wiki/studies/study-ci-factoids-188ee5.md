@@ -1,15 +1,15 @@
 ---
-title: "Ci Factoids (Aberdeen, 2005)"
+title: "Customer Intelligence 2005–2006: Managing, Analyzing and Applying Customer Intelligence for Profitable Growth"
 slug: "study-ci-factoids-188ee5"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/research-agenda"]
 tier: 1
 source_csv: "_master_studies.csv"
 study_id: "ci-factoids-188ee5"
-author: "Research Preview"
+author: "Leslie Ament / Aberdeen Group"
 date: "2005-01-01"
 pub_year: 2005
-type: "benchmark"
+type: "research-agenda"
 subject_domain: "CRM"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ci_factoids.pdf"
@@ -24,12 +24,12 @@ prescience_mean: 2.78
 prescience_obs_count: 9
 ---
 
-# Ci Factoids (Aberdeen, 2005)
+# Customer Intelligence 2005–2006: Managing, Analyzing and Applying Customer Intelligence for Profitable Growth
 
-> Aberdeen Group study ci-factoids-188ee5. Source: ci_factoids.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: CRM. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> Research preview describing a planned series of four quarterly Aberdeen studies (2005–2006) on customer intelligence practices, covering how enterprises manage, analyze, and apply customer data for profitable growth. Outlines topics, audience, and lead analyst Leslie Ament rather than presenting completed benchmark findings.
 
 
-_Published 2005, author **Research Preview**, type **benchmark**._
+_Published 2005, author **Leslie Ament / Aberdeen Group**, type **research-agenda**._
 
 
 ## Top observations

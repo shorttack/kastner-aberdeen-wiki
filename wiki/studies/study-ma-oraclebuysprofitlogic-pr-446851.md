@@ -1,15 +1,15 @@
 ---
-title: "Ma Oraclebuysprofitlogic Pr (Aberdeen, 2005)"
+title: "A Profitable and Logical Move: Oracle Acquires ProfitLogic"
 slug: "study-ma-oraclebuysprofitlogic-pr-446851"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/market-alert"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "ma-oraclebuysprofitlogic-pr-446851"
-author: "Market Alert"
+author: "Paula Rosenblum / Aberdeen Group"
 date: "2005-07-06"
 pub_year: 2005
-type: "benchmark"
+type: "market-alert"
 subject_domain: "ERP"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ma_oraclebuysprofitlogic_pr.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Ma Oraclebuysprofitlogic Pr (Aberdeen, 2005)
+# A Profitable and Logical Move: Oracle Acquires ProfitLogic
 
-> Aberdeen Group study ma-oraclebuysprofitlogic-pr-446851. Source: ma_oraclebuysprofitlogic_pr.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: ERP. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A Market Alert analyzing Oracle's acquisition of merchandise price-optimization vendor ProfitLogic, following Oracle's earlier acquisition of Retek. It assesses implications for ProfitLogic and Retek customers and prospects, other retail suite vendors (SAP, JDA), and competing optimization vendors (SAS/Marketmax, Khimetrics, Demandtec, i2), with recommendations for action.
 
 
-_Published 2005, author **Market Alert**, type **benchmark**._
+_Published 2005, author **Paula Rosenblum / Aberdeen Group**, type **market-alert**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes A Profitable and Logical Move: Oracle Acquires ProfitLogic using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

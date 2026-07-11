@@ -1,15 +1,15 @@
 ---
-title: "Ma Smartops Be 2180 (Aberdeen, 2005)"
+title: "IBM and SmartOps Launch Super-Scale Inventory Optimization"
 slug: "study-ma-smartops-be-2180-c1877c"
 page_type: "study"
-tags: ["type/study", "collection/benchmark"]
+tags: ["type/study", "collection/market-alert"]
 tier: 2
 source_csv: "_master_studies.csv"
 study_id: "ma-smartops-be-2180-c1877c"
-author: "Market Alert"
+author: "Beth Enslow / Aberdeen Group"
 date: "2005-11-07"
 pub_year: 2005
-type: "benchmark"
+type: "market-alert"
 subject_domain: "hosting-services"
 methodology: "industry-analysis, prepared-candidate-finalization"
 source_file: "ma_smartops_be_2180.pdf"
@@ -24,14 +24,14 @@ prescience_mean: -1.0
 prescience_obs_count: 1
 ---
 
-# Ma Smartops Be 2180 (Aberdeen, 2005)
+# IBM and SmartOps Launch Super-Scale Inventory Optimization
 
-> Aberdeen Group study ma-smartops-be-2180-c1877c. Source: ma_smartops_be_2180.pdf. Methodology: industry-analysis, prepared-candidate-finalization. Subject domain: hosting-services. Abstract reconstructed from metadata; original text lost to PDF image-stripper sentinel during ingest.
+> A Market Alert analyzing IBM and SmartOps' announcement of a Deep Computing Capacity on Demand (Blue Gene supercomputer) offering for large-scale multi-echelon inventory optimization. It discusses performance gains (an optimization run dropping from six hours to about a minute), market readiness, and recommendations for which enterprises should consider the offering.
 
 
-_Published 2005, author **Market Alert**, type **benchmark**._
+_Published 2005, author **Beth Enslow / Aberdeen Group**, type **market-alert**._
 
 
 ## Top observations
 
-- This study analyzes ==> picture [441 x 108] intentionally omitted <== using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`
+- This study analyzes IBM and SmartOps Launch Super-Scale Inventory Optimization using Aberdeen Group research material and prepared extraction artifacts. `[ps=-1]`

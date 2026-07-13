@@ -11,10 +11,10 @@ sector: "Enterprise Software"
 status: "acquired"
 successor: "Silver Lake-owned (2023); now Software AG GmbH"
 years_active: "1969-present"
-occurrence_count: 5
-prescience_max: 3.0
-prescience_mean: 1.4
-prescience_obs_count: 10
+occurrence_count: 6
+prescience_max: 4.0
+prescience_mean: 2.48
+prescience_obs_count: 25
 ---
 
 # Software AG
@@ -29,16 +29,23 @@ prescience_obs_count: 10
 
 ## Top observations
 
+- An electronic insurance supply chain is inevitable but gradual, and software linking insurers, agencies, and reinsurers should be high value `[ps=4]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- Insurers understand RAS, scalability, interoperability, and security, and they face difficult data-management and process-complexity problems `[ps=4]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- SAG lacks new mainframe database managers, weakening its fit against incumbent data-management choices `[ps=4]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- Insurers will reject the idea that SOM can be plug-and-play with legacy applications `[ps=4]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- Insurers often restrict themselves to a small set of strategic suppliers and may exclude SAGA `[ps=4]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- Insurers will question whether SAGA can out-middleware IBM and Microsoft `[ps=4]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- Insurance is a major software market with strong vendor attention from IBM, HP, Sun, SAP, and Microsoft plus a large identifiable U.S. prospect base `[ps=3]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- SOM would have to fight SQL Server and DCOM head-on `[ps=3]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- New insurance application projects usually cost $10M-$200M, run for years, and depend on outside integrators `[ps=3]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- Standards-based middleware remains immature and requires ISV support to succeed in insurance `[ps=3]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- Insurers will ask where SOM has already run for a year inside an insurance company `[ps=3]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- Potential P&C partners include Agena, AMS, Applied, PRC, Allenbrook, and PMSC `[ps=3]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
 - Available on HP-UX, IBM AIX, Sun Solaris, SCO Unix, Digital Unix, Windows NT, OS/2; broad cross-platform strategy `[ps=3]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
 - Widely used IBM mainframe; recent thrust to HP 9000 and NCR System 3000 `[ps=3]` — [[study-nti-5-development-toolsets-0e71c5]]
+- Insurers still tend to build rather than buy `[ps=2]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- Insurers will worry that SOM imposes network-bandwidth, security, and response-time penalties they cannot afford `[ps=2]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- Potential life-insurance partners include Continuum, Cybertek, FDP, EZ Data, Sterling Wentworth, and ECTA, while integrator candidates include Andersen, Deloitte & Touche, EDS, and MCI SHL `[ps=2]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
 - Aberdeen recommends IS buyers consider Software AG/Digital for RDBMS and VLM deployments; implies long-term viability `[ps=2]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
 - Near-lights-out automated distributed-database administration; lower cost of ownership than Oracle/DB2 `[ps=2]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
 - 25% of revenues invested in R&D `[ps=2]` — [[study-nti-6-rdbms-technology-48f4aa]]
-- Tied with Informix for #2 RDBMS on SAP applications (behind Oracle) `[ps=2]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
-- ADABAS D V6 supports 10-gigabytes-and-over data caches `[ps=0]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
-- Upwards of $500 million in revenues in fiscal 1995 `[ps=0]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
-- Available on HP-UX, AIX, Sun Solaris, SCO Unix, Digital Unix, Windows NT, OS/2 `[ps=0]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
-- Top-selling platform is RS/6000; Windows NT pricing model; tied with Informix for #2 RDBMS on SAP; NIST 127-2 secure; location transparency; distributed referential integrity `[ps=0]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
-- store-and-forward architecture present; full developer APIs not yet provided — [[study-aberdeen-1995-commercial-messaging]]
-- Software AG survived and grew; acquired by Silver Lake in 2023 for €2.2B; ADABAS & Natural being spun off as independent business in 2025 — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
-- ADABAS D integrates with mainframe Oracle, ADABAS C, and DB2 via ENTIRE networking — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]

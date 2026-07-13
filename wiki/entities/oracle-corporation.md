@@ -11,10 +11,10 @@ sector: "database & enterprise software"
 status: "active"
 successor: ""
 years_active: "1911-present"
-occurrence_count: 38
+occurrence_count: 41
 prescience_max: 5.0
-prescience_mean: 2.11
-prescience_obs_count: 194
+prescience_mean: 2.12
+prescience_obs_count: 205
 ---
 
 # Oracle Corporation

@@ -11,10 +11,10 @@ vendor: "multiple (AT&T, Sun, HP, DEC, IBM, SCO)"
 era: "1980s-present"
 lifecycle_at_study: "dominant-enterprise"
 lifecycle_current: "legacy-supported"
-occurrence_count: 20
+occurrence_count: 21
 prescience_max: 5.0
-prescience_mean: 2.25
-prescience_obs_count: 32
+prescience_mean: 2.18
+prescience_obs_count: 33
 ---
 
 # Proprietary Unix (Solaris, AIX, HP-UX)

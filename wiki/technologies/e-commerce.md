@@ -11,7 +11,7 @@ vendor: "industry"
 era: "1995-present"
 lifecycle_at_study: "growth-1999"
 lifecycle_current: "ubiquitous"
-occurrence_count: 27
+occurrence_count: 28
 prescience_max: 5.0
 prescience_mean: 0.93
 prescience_obs_count: 243

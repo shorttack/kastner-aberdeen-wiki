@@ -11,10 +11,10 @@ vendor: "Oracle"
 era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-superseded"
-occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+occurrence_count: 2
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Oracle Parallel Server
@@ -24,4 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Oracle Parallel Server inherits VAXcluster-style limits, lacks data partitioning, and performs poorly for OLTP; a 160-processor nCube was cited as slower than a 20-processor Sequent SMP. `[ps=4]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - 2-4 system clustering supported `[ps=0]` — [[study-sequent-592620]]

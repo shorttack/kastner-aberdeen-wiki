@@ -3,7 +3,7 @@ title: "David Moros"
 slug: "dave-moros"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "dave-moros"
 entity_type: "person"
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # David Moros
 
 > Joined PHI 1964 working on Apollo and Gemini; later moved to Wang via PHI acquisition; partnered with Koplow on word processing. | Source: Referenced in Aberdeen archive context; current status not publicly verifiable
+
+
+## Summary
+
+
 
 
 ## Top observations

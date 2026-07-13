@@ -3,7 +3,7 @@ title: "Dr. An Wang"
 slug: "an-wang"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "an-wang"
 entity_type: "person"
@@ -20,11 +20,6 @@ prescience_obs_count: 1
 # Dr. An Wang
 
 > Founder of Wang Laboratories; David Moros provided key technical leadership for his computing initiatives post-acquisition.
-
-
-## Summary
-
-
 
 
 ## Top observations

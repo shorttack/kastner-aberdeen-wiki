@@ -11,7 +11,7 @@ vendor: "industry-wide"
 era: "early-to-mid 1990s"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "legacy-end-of-life"
-occurrence_count: 25
+occurrence_count: 26
 prescience_max: 5.0
 prescience_mean: 2.74
 prescience_obs_count: 46

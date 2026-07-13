@@ -11,10 +11,10 @@ sector: "networking-hardware-software"
 status: "active"
 successor: "[none]"
 years_active: "1984-present"
-occurrence_count: 11
+occurrence_count: 12
 prescience_max: 5.0
-prescience_mean: 2.72
-prescience_obs_count: 54
+prescience_mean: 2.67
+prescience_obs_count: 55
 ---
 
 # Cisco Systems, Inc.

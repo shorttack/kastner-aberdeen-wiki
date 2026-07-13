@@ -3,7 +3,7 @@ title: "Fast Track Incorporated (FTI)"
 slug: "fti-fast-track-incorporated"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "fti-fast-track-incorporated"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 20
 # Fast Track Incorporated (FTI)
 
 > Primary case study vehicle for EVP-4. FY82 plan: $460M revenue, 20% pretax margin, $2.75 EPS. Characters: MBA (Mighty Big Achiever), CFO (Cut Frilly Overhead), GOH! (Get Out and Hustle, Marketing VP), CFA (Confident Fortyish Analyst), BEAN (Beady Eyed Avid Numberpusher), CPA (Coppers Petersen and Airwick, auditors).
-
-
-## Summary
-
-
 
 
 ## Top observations

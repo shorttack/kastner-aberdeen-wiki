@@ -11,10 +11,10 @@ sector: "Information Technology"
 status: "active"
 successor: ""
 years_active: "1975-present"
-occurrence_count: 17
+occurrence_count: 22
 prescience_max: 5.0
 prescience_mean: 2.0
-prescience_obs_count: 30
+prescience_obs_count: 31
 ---
 
 # Microsoft Corporation
@@ -42,10 +42,10 @@ prescience_obs_count: 30
 - Microsoft Consulting Services not entering market to be leader but to encourage enterprise NT usage; knowledge shared back to channel `[ps=4]` — [[study-ntpspr~1-728dc3]]
 - Modest scalability; no MPP; good on DEC Alpha `[ps=3]` — [[study-cab199-1-2-0cb163]]
 - Great for PC apps; OLE; ODBC `[ps=3]` — [[study-cab199-1-2-0cb163]]
+- Kastner argues that Oracle runs on its own products, including InterOffice, whereas 'that's not true with a Microsoft'; buyers should seek references from fast-growing sites and test whether products were over-promised and have a future. `[ps=2]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - WEP passwords must be converted into hexadecimal — practical user friction point noted `[ps=2]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
 - 75% of corporate PCs still running Windows 95, 98, or NT Workstation by end of 2002 (Gartner) `[ps=2]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
 - $2,000-$2,500 per unit `[ps=1]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
 - 5 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 25 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - Oracle acquiring IRI Software for MDB and query tools `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]
-- Strategic partnership for OLE/CORBA standards `[ps=0]` — [[study-aberdeen-1995-digital-objectbroker]]

@@ -3,7 +3,7 @@ title: "Edward Zander"
 slug: "edward-zander"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "edward-zander"
 entity_type: "person"
@@ -20,6 +20,11 @@ prescience_obs_count: 1
 # Edward Zander
 
 > Motorola CEO 2004-2008; Sun Microsystems president 1987-2002; general partner Silver Lake Partners
+
+
+## Summary
+
+
 
 
 ## Top observations

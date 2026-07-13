@@ -11,7 +11,7 @@ sector: "management-technology-consulting"
 status: "dissolved"
 successor: "Accenture (renamed January 1, 2001)"
 years_active: "1989-present"
-occurrence_count: 10
+occurrence_count: 12
 prescience_max: 5.0
 prescience_mean: 1.57
 prescience_obs_count: 14

@@ -11,10 +11,10 @@ sector: "computer-hardware-software-services"
 status: "dissolved"
 successor: "Compaq Computer Corporation -> Hewlett-Packard -> Hewlett Packard Enterprise / HP Inc."
 years_active: "1968-present"
-occurrence_count: 34
+occurrence_count: 36
 prescience_max: 5.0
-prescience_mean: 1.06
-prescience_obs_count: 328
+prescience_mean: 1.08
+prescience_obs_count: 339
 ---
 
 # Digital Equipment Corporation (DEC)
@@ -29,6 +29,7 @@ prescience_obs_count: 328
 
 ## Top observations
 
+- Restructuring leaves customers uncertain about sales coverage, support continuity, and product commitments, while limited Alpha UNIX critical mass and weak near-term revenues raise viability concerns. `[ps=5]` — [[study-1995-midrange-oltp-platform-overview-pyr-44c8e4]]
 - integral_part_of_it_infrastructure `[ps=5]` — [[study-1997-data-integration-management-in-hete-de2429]]
 - compaq_acquired_dec_june_1998 `[ps=5]` — [[study-1997-dec-linkworks-webworker---an-object-db2d2a]]
 - consumers need simpler instructions than IT professionals and have higher support expectations and lower pain tolerance `[ps=5]` — [[study-2001-hp-camera-lab-journal-prod-d90f3f]]
@@ -48,4 +49,3 @@ prescience_obs_count: 328
 - 10-100x performance improvement for in-memory database operations over non-VLM systems `[ps=5]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
 - Acquired by Compaq for $9.6B in June 1998; largest computer industry merger at the time `[ps=5]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
 - DEC had the VAX architecture, a genuine relational database in Rdb, and a transaction monitor — but lacked a verifiable competitive story. `[ps=5]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
-- VAX architecture was 'magnificent — one of the great minicomputer designs ever produced.' But the battle DEC was winning (mini vs. mainframe) was not the defining war of the 1990s. `[ps=5]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

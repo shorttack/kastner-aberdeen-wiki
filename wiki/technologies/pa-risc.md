@@ -11,7 +11,7 @@ vendor: "Hewlett-Packard"
 era: "1986-2008"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: 3.0
 prescience_mean: 3.0
 prescience_obs_count: 2

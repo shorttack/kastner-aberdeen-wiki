@@ -11,10 +11,10 @@ sector: "Database / Development Tools"
 status: "acquired"
 successor: "SAP AG (2010, $5.8B)"
 years_active: "1910-present"
-occurrence_count: 15
+occurrence_count: 16
 prescience_max: 5.0
-prescience_mean: 0.85
-prescience_obs_count: 33
+prescience_mean: 0.86
+prescience_obs_count: 35
 ---
 
 # Sybase Inc
@@ -36,7 +36,9 @@ prescience_obs_count: 33
 - Financial difficulties obscure broad product suite with loyal customers; PowerBuilder being revamped for component support; must reassure customers of long-term viability `[ps=3]` — [[study-develo~1-d25652]]
 - Poor scalability beyond 4 processors; 1980s architecture running out of steam `[ps=3]` — [[study-jungle-1-5-675c58]]
 - Momentum is downwards but could recover in 1996; 1980s architecture running out of steam; very high sales force turnover in 1995 `[ps=3]` — [[study-rdbms-for-ibm-powera~1-7a44be]]
+- Sybase talks enterprise but actually sells departmental systems, and Navigation Server is an embarrassment. `[ps=2]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - $826 million total 1994 corporate revenue; up 71% from 1993 `[ps=1]` — [[study-inforx95-3-9a45fe]]
+- Sybase Navigation Server's first release targets DSS on NCR/AT&T 3600, not OLTP, and is not integrated with core System 10 services. `[ps=0]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - installed-base-only `[ps=0]` — [[study-1998-hp-high-availability-and-metadata-7d1276]]
 - 3 x-times `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
 - 85 percent `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
@@ -47,5 +49,3 @@ prescience_obs_count: 33
 - Viable independent enterprise RDBMS competitor `[ps=0]` — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
 - Acquired by SAP AG for $5.8 billion in 2010; ceased to operate as independent company `[ps=0]` — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
 - Sybase has ported SQL Server to OS/2 Warp Server platform `[ps=0]` — [[study-aberdeen-1996-ibm-os2-warp-server]]
-- Sybase open veneer provides common SQL front-end to its own and other relational databases; lets developers write to common SQL; does not allow cross-supplier transactions `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]
-- $2.4 billion (July 28, 1995) `[ps=0]` — [[study-inforx95-3-9a45fe]]

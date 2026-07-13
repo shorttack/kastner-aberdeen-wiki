@@ -11,7 +11,7 @@ vendor: "Tandem Computers"
 era: "1987-present"
 lifecycle_at_study: "active-product"
 lifecycle_current: "renamed-HP-NonStop-SQL"
-occurrence_count: 0
+occurrence_count: 1
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

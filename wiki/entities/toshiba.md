@@ -3,7 +3,7 @@ title: "Toshiba Corporation"
 slug: "toshiba"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "toshiba"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 1
 # Toshiba Corporation
 
 > Made Pocket PC devices (e-570/e-740 series); exited PDA market by mid-2000s
-
-
-## Summary
-
-
 
 
 ## Top observations

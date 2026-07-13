@@ -3,7 +3,7 @@ title: "Aberdeen Personal Information Technology Practice"
 slug: "aberdeen-pit-practice"
 page_type: "entity"
 tags: ["type/entity", "entity-type/institution"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "aberdeen-pit-practice"
 entity_type: "institution"
@@ -18,6 +18,11 @@ prescience_obs_count: 0
 ---
 
 # Aberdeen Personal Information Technology Practice
+
+
+## Summary
+
+
 
 
 ## Top observations

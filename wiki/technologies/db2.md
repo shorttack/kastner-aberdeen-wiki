@@ -11,7 +11,7 @@ vendor: "Marathon Technologies"
 era: "1990s-present"
 lifecycle_at_study: "current-generation"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'IBM Db2 (DB2) is actively supported. Db2 for z/OS receives continuous updates; Db2 for distributed platforms supported through 2027+. Same as ibm-db2.', 'source': 'https://www.ibm.com/support/pages/db2-distributed-end-support-eos-dates'}"
-occurrence_count: 9
+occurrence_count: 10
 prescience_max: 4.0
 prescience_mean: 0.85
 prescience_obs_count: 13

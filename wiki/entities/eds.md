@@ -11,7 +11,7 @@ sector: "IT Services / Outsourcing"
 status: "acquired"
 successor: "HP Enterprise Services (2008) -> DXC Technology (2017)"
 years_active: "[DEFERRED]"
-occurrence_count: 6
+occurrence_count: 7
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 3

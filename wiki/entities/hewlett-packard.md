@@ -11,10 +11,10 @@ sector: "Consumer Electronics / IT Hardware"
 status: "active (split: HP Inc. / HPE 2015)"
 successor: "HP Inc. (consumer/PC) and Hewlett Packard Enterprise (enterprise), split November 2015"
 years_active: "1939-present"
-occurrence_count: 116
+occurrence_count: 121
 prescience_max: 5.0
-prescience_mean: 1.73
-prescience_obs_count: 285
+prescience_mean: 1.72
+prescience_obs_count: 295
 ---
 
 # Hewlett-Packard Company (Post-Merger)

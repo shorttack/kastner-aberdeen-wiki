@@ -11,7 +11,7 @@ sector: "Server / Storage Hardware"
 status: "dissolved"
 successor: "EMC Corporation (1999), then Dell EMC (2016)"
 years_active: "1975-present"
-occurrence_count: 12
+occurrence_count: 13
 prescience_max: 5.0
 prescience_mean: 1.94
 prescience_obs_count: 18

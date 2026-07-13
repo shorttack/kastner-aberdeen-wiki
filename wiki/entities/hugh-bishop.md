@@ -3,7 +3,7 @@ title: "Hugh Bishop"
 slug: "hugh-bishop"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "hugh-bishop"
 entity_type: "person"
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # Hugh Bishop
 
 > Aberdeen Group analyst; presenter of January 2000 'Aberdeen e-Publications' deck launching the e-Profile product line; named in MAS deck alongside David Wright as on-site sales-call participant
+
+
+## Summary
+
+
 
 
 ## Top observations

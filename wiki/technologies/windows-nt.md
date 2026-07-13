@@ -11,10 +11,10 @@ vendor: "Digital Equipment Corporation"
 era: "Windows NT 3.51"
 lifecycle_at_study: "mature-EOL-approaching"
 lifecycle_current: "Windows NT 3.5 end of life 2001; NT kernel architecture evolved through Windows 2000, XP, and into all modern Windows versions."
-occurrence_count: 41
+occurrence_count: 44
 prescience_max: 5.0
-prescience_mean: 2.39
-prescience_obs_count: 106
+prescience_mean: 2.4
+prescience_obs_count: 107
 ---
 
 # Windows NT Server/Workstation

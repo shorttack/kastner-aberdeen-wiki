@@ -11,7 +11,7 @@ sector: "Enterprise Computing"
 status: "acquired"
 successor: "Aberdeen Group (Harte-Hanks)"
 years_active: "1947-present"
-occurrence_count: 5
+occurrence_count: 6
 prescience_max: 4.0
 prescience_mean: 0.85
 prescience_obs_count: 20

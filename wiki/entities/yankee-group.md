@@ -11,10 +11,10 @@ sector: "technology research and advisory"
 status: "dissolved"
 successor: "451 Research (2013) -> S&P Global (2019); brand retired"
 years_active: "1970-2010s"
-occurrence_count: 8
+occurrence_count: 9
 prescience_max: 5.0
-prescience_mean: 2.9
-prescience_obs_count: 10
+prescience_mean: 2.42
+prescience_obs_count: 12
 ---
 
 # The Yankee Group
@@ -36,6 +36,8 @@ prescience_obs_count: 10
 - Kastner's Yankee Group report stated multiprocessor Intel 386 systems were 'appearing on the horizon'; by 1988 DECtp launch those systems were already arriving. `[ps=4]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
 - Founded 1970; focused on telecommunications and networking; required reading in late 1980s as networking became enterprise-critical. `[ps=4]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
 - First time Stratus has gotten into the VLX or IBM 3090 class in OLTP performance `[ps=2]` — [[study-computerworld-stratus-xa2000-launch-1987-d9d143]]
+- $1.7 billion `[ps=0]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
+- $5.5 billion `[ps=0]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - 'The Future of Transaction Processing' published January 1987 by Yankee Group (ghostwritten by Kastner). `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
 - 100-page market research study. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
 - 'The Future of Transaction Processing' published by Yankee Group in January 1987. `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

@@ -11,7 +11,7 @@ sector: "minisupercomputer"
 status: "dissolved"
 successor: "Acquired by Hewlett-Packard 1995"
 years_active: "1982-1995"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

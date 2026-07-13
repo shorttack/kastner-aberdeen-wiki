@@ -11,7 +11,7 @@ sector: "enterprise-servers"
 status: "acquired"
 successor: "Acquired by SNI 1995; subsequently dissolved"
 years_active: "1981-present"
-occurrence_count: 0
+occurrence_count: 1
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

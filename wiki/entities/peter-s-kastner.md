@@ -11,10 +11,10 @@ sector: "technology consulting / industry analysis"
 status: "historical"
 successor: "[none]"
 years_active: "1981-1987 (at Stratus)"
-occurrence_count: 255
+occurrence_count: 259
 prescience_max: 5.0
-prescience_mean: 2.17
-prescience_obs_count: 527
+prescience_mean: 2.19
+prescience_obs_count: 529
 ---
 
 # Peter S. Kastner
@@ -29,6 +29,8 @@ prescience_obs_count: 527
 
 ## Top observations
 
+- Extends face-to-face communication across organizational and geographic boundaries while eliminating the requirement for face-to-face interaction. `[ps=5]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
+- A simple ROI spreadsheet is the wrong tool for collaboration because benefits are broad, diffuse, and often appear negative in narrow models. `[ps=5]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - Economics of standardized x86 architecture plus open OS would overcome proprietary minicomputers `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - Itanium will not displace x86 in server market; tracked across 17 archive observations of slippage `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - Manageability of loosely-coupled services, re-use policies, and security are all most economically designed in rather than bolted on after the fact. Technology for automating management and governance is proving its worth at Best in Class companies. `[ps=5]` — [[study-aberdeen-ra-soa-management-governance-20-ff6a2c]]
@@ -47,5 +49,3 @@ prescience_obs_count: 527
 - 'On a server, which can use multiple cores, almost by nature this should be very attractive for a huge percentage of volume server shipments' — Kastner on quad-core server TAM `[ps=5]` — [[study-intel-quad-core-outlook-newsfactor-garre-c32252]]
 - SARS is a very real problem, but at the moment it seems unlikely to untrack either the global electronics industry, or the U.S. economy `[ps=5]` — [[study-internetnews-will-sars-infect-high-tech--8569ea]]
 - Security used to be one program on the mainframe. Now, security issues are rampant as distributed systems create enormous complexity. Further, TCP/IP, for all its benefits, opens enormous holes in any LAN or WAN environment. Is this a problem solved by Line of Business Managers or by the CIO? Can it be solved? `[ps=5]` — [[study-kastner-jrl-trends-1999-pk-responses-f4c5a4]]
-- 'I turn my PC on in the morning and there's 40 processes going on, even if I'm only checking my e-mail. That's eventually going to be important for desktop PCs.' `[ps=5]` — [[study-moore-s-law-true-but-irrelevant-internet-661e40]]
-- There's no light-switch conversion where everyone turns on Vista one morning `[ps=5]` — [[study-newsfactor-vista-deployment-cadence-kast-d1f518]]

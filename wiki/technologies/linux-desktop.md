@@ -3,7 +3,7 @@ title: "Linux desktop operating system"
 slug: "linux-desktop"
 page_type: "technology"
 tags: ["type/technology", "category/operating-system", "era/1993-present"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "linux-desktop"
 category: "operating-system"
@@ -20,11 +20,6 @@ prescience_obs_count: 7
 # Linux desktop operating system
 
 > Linux as end-user desktop OS; never achieved enterprise desktop dominance; strong on server/cloud/Android/ChromeOS
-
-
-## Summary
-
-
 
 
 ## Top observations

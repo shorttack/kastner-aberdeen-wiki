@@ -3,7 +3,7 @@ title: "Teradata Corporation"
 slug: "teradata"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "teradata"
 entity_type: "company"
@@ -11,7 +11,7 @@ sector: "enterprise data warehousing"
 status: "active"
 successor: "Spun off from NCR 2007"
 years_active: "1979-present"
-occurrence_count: 2
+occurrence_count: 4
 prescience_max: 3.0
 prescience_mean: 1.5
 prescience_obs_count: 2
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # Teradata Corporation
 
 > Vendor whose data warehouse machine was central to the Safeway litigation; machine was destroyed when fire extinguishing system exploded.
+
+
+## Summary
+
+
 
 
 ## Top observations

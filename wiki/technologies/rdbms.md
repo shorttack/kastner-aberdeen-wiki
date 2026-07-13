@@ -11,10 +11,10 @@ vendor: "Multiple (Oracle, Sybase, Informix, SQL Server)"
 era: "1970s-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Relational databases remain the dominant data storage paradigm. MySQL, PostgreSQL, Oracle DB, SQL Server all actively developed and widely deployed.', 'source': 'General knowledge / industry consensus'}"
-occurrence_count: 27
+occurrence_count: 30
 prescience_max: 5.0
-prescience_mean: 2.29
-prescience_obs_count: 101
+prescience_mean: 2.26
+prescience_obs_count: 102
 ---
 
 # Relational Database Management System (RDBMS)

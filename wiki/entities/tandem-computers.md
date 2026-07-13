@@ -11,10 +11,10 @@ sector: "fault-tolerant computing / hardware"
 status: "dissolved"
 successor: "Compaq (1997) -> HP (2002) -> HPE NonStop (2015-present)"
 years_active: "1974-1997"
-occurrence_count: 31
+occurrence_count: 32
 prescience_max: 5.0
-prescience_mean: 1.47
-prescience_obs_count: 83
+prescience_mean: 1.48
+prescience_obs_count: 87
 ---
 
 # Tandem Computers Incorporated
@@ -48,4 +48,4 @@ prescience_obs_count: 83
 - Analyst/programmer works with two computer systems; risk of checkpointing too often destroying performance `[ps=4]` — [[study-stratus-fault-tolerant-revolution-ad-198-797e0e]]
 - Technically sound but expensive in the currency that mattered most: programmer time. `[ps=4]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
 - By mid-1980s principal battlefield was banking/financial services; ATM networks and POS authorization systems expanding rapidly; Tandem and Stratus competed for every significant deal. `[ps=4]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
-- Directional Consulting designs and builds data mining environment within 90 days; charter is knowledge transfer not prolonged engagement; leaves software toolbox `[ps=3]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
+- Himalaya sits in the enterprise-server sweet spot, while Integrity NR/FT covers the commercial server mass market with a strong high-availability story. `[ps=3]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]

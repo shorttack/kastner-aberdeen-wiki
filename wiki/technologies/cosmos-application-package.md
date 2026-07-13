@@ -3,7 +3,7 @@ title: "Cosmos (Customer Accounting System / CAS)"
 slug: "cosmos-application-package"
 page_type: "technology"
 tags: ["type/technology", "category/application", "era/1965-1980s"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "cosmos-application-package"
 category: "application"
@@ -20,11 +20,6 @@ prescience_obs_count: 6
 # Cosmos (Customer Accounting System / CAS)
 
 > Code-generation system at PHI that produced millions of lines of COBOL per specification. Originally called Customer Accounting System (CAS). Named after Creedence Clearwater Revival album 'Cosmos Factory'. Enabled a team of four to build an entire bank checking account system in one year.
-
-
-## Summary
-
-
 
 
 ## Top observations

@@ -11,10 +11,10 @@ vendor: "Informix"
 era: "1994-2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "absorbed-into-IBM-Informix"
-occurrence_count: 4
-prescience_max: 2.0
-prescience_mean: 0.8
-prescience_obs_count: 5
+occurrence_count: 5
+prescience_max: 4.0
+prescience_mean: 1.43
+prescience_obs_count: 7
 ---
 
 # Informix Dynamic Scalable Architecture (DSA)
@@ -24,6 +24,8 @@ prescience_obs_count: 5
 
 ## Top observations
 
+- Informix is betting the company on parallel RDBMS; the technology is good, but the company lacks board-room visibility. `[ps=4]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
+- Informix DSA is architecturally closest to Tandem NonStop SQL and superior to competing parallel database approaches. `[ps=2]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - may vault Informix past competitors `[ps=2]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
 - ahead of Oracle and Sybase in MP support `[ps=2]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
 - high `[ps=0]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]

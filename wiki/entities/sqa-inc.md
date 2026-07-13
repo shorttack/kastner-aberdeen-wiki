@@ -3,7 +3,7 @@ title: "SQA, Inc."
 slug: "sqa-inc"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "sqa-inc"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 7
 # SQA, Inc.
 
 > Windows-specific testing tool vendor named as indirect competitor; acquired by Rational Software in 1997 shortly after this study; Rational subsequently acquired by IBM in 2003
-
-
-## Summary
-
-
 
 
 ## Top observations

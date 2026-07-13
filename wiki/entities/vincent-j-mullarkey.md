@@ -3,7 +3,7 @@ title: "Vincent J. Mullarkey"
 slug: "vincent-j-mullarkey"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "vincent-j-mullarkey"
 entity_type: "person"
@@ -20,11 +20,6 @@ prescience_obs_count: 2
 # Vincent J. Mullarkey
 
 > DEC corporate controller; promoted to VP/CFO May 1994; Bentley College 1971; 23-year DEC veteran
-
-
-## Summary
-
-
 
 
 ## Top observations

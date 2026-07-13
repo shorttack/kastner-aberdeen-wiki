@@ -11,7 +11,7 @@ sector: "minicomputer-and-word-processing"
 status: "bankrupt-1992"
 successor: "Getronics (acquired assets 1999)"
 years_active: "[DEFERRED]"
-occurrence_count: 12
+occurrence_count: 13
 prescience_max: 3.0
 prescience_mean: 0.86
 prescience_obs_count: 7
@@ -36,6 +36,7 @@ prescience_obs_count: 7
 - finalist-vs-DEC-in-finance-sale `[ps=0]` — [[study-dec-notes-tp1-debit-credit-thread-1987-1-5815dc]]
 - Wang's Tewksbury facility approximately 25 miles north of Boston; on opposite side of city from South Shore employment center. `[ps=0]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
 - Started trading Wang Laboratories stock options in his early twenties; watched technology market rhythms with increasing attention. `[ps=0]` — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
+- wounded — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]
 - Bank-group debt eliminated (down from $575M August 1989) — [[study-boston-globe-wang-q1-turnaround-psk-1990-a5aab0]]
 - Rung 2: Programming production code — [[study-kastner-technology-breadth-memoir-2026]]
 - Wang would later become a big player in the 1980s; desktop computers were still being invented by some colleagues a few offices away in 1969. — [[study-on-computers-tips-40th-anniversary-of-th-ee9cc5]]

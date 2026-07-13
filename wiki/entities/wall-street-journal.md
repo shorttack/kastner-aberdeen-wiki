@@ -11,7 +11,7 @@ sector: "financial / technology press"
 status: "active"
 successor: "Dow Jones / News Corp"
 years_active: "1889-present"
-occurrence_count: 2
+occurrence_count: 3
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 2

@@ -11,7 +11,7 @@ vendor: "Sun Microsystems -> Oracle"
 era: "1992-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
-occurrence_count: 5
+occurrence_count: 6
 prescience_max: 5.0
 prescience_mean: 1.7
 prescience_obs_count: 10
@@ -40,4 +40,5 @@ prescience_obs_count: 10
 - Other Unix SMP implementations require 15-30% CPU overhead when adding processors; Solaris 2.5 finely tuned for near-linear SMP scaling `[ps=0]` — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]
 - #1 Unix workstation seller by greater than 2:1 margin over HP (#2 Unix) `[ps=0]` — [[study-workst~1-d22401]]
 - Sun fighting Microsoft on Windows NT in workgroup market while pursuing coexistence with Intel/Windows clients — [[study-1997-sun-workgroup-servers-balancing-competition-and-co-cc57b7]]
+- living — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]
 - 9% — [[study-aberdeen-1996-risc-unix-market]]

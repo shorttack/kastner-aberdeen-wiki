@@ -11,10 +11,10 @@ vendor: "SAP AG"
 era: "1992-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "evolved-to-SAP-S4HANA"
-occurrence_count: 25
+occurrence_count: 26
 prescience_max: 5.0
-prescience_mean: 2.2
-prescience_obs_count: 88
+prescience_mean: 2.21
+prescience_obs_count: 89
 ---
 
 # SAP R/3 (mixed applications)

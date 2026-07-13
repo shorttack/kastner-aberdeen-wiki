@@ -11,10 +11,10 @@ sector: "information-technology"
 status: "[DEFERRED]"
 successor: "Hewlett-Packard (2002, $25B)"
 years_active: "1911-present"
-occurrence_count: 11
+occurrence_count: 12
 prescience_max: 4.0
-prescience_mean: 1.56
-prescience_obs_count: 16
+prescience_mean: 1.5
+prescience_obs_count: 18
 ---
 
 # Compaq Computer Corporation
@@ -36,8 +36,10 @@ prescience_obs_count: 16
 - Pre-Digital Compaq rated limited in high-end NT; only 9000 services staff; weak vs. IBM and HP for midrange enterprise `[ps=3]` — [[study-ntpspr~1-728dc3]]
 - If Digital acquisition goes through Compaq becomes major player in NT upscale universe; neutralizes HP in 11 of 15 categories `[ps=3]` — [[study-ntpspr~1-728dc3]]
 - Power 106 of the world's 120 stock exchanges `[ps=3]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
+- Intel P6-based 4/8-way Compaq SMP systems will beat IBM ES/9000 mainframes in OLTP with RDBMS workloads. `[ps=2]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - TruCluster + Oracle9i RAC delivers reduced total cost of ownership vs. alternative clustering solutions `[ps=2]` — [[study-2001-compaq-tru64-unix-and-oracle9i-clusters-reduce-cos-17b4b2]]
 - Compaq/Oracle partnership predicted as enduring competitive advantage `[ps=1]` — [[study-2001-compaq-tru64-unix-and-oracle9i-clusters-reduce-cos-17b4b2]]
+- [DEFERRED] `[ps=0]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - Pre-sales, post-sales, and implementation support for Siebel on Compaq hardware `[ps=0]` — [[study-1997-the-compaq-siebel-global-alliance-an-e-roach-to-cu-458c35]]
 - $109 `[ps=0]` — [[study-1998as400-1-146289]]
 - Oracle and Compaq announced joint marketing agreement for Oracle9i on Tru64 `[ps=0]` — [[study-2001-compaq-tru64-unix-and-oracle9i-clusters-reduce-cos-17b4b2]]
@@ -47,5 +49,3 @@ prescience_obs_count: 16
 - 95% of world's securities transactions go through Compaq Himalaya mainframes `[ps=-1]` — [[study-sia-compaq-vows-support-himalaya-post-hp-21421a]]
 - 77% more expensive at high end — [[study-1992-tpc-benchmarks-vp-745fa1]]
 - Alliance will reduce implementation risk, cost, and time for CIS deployments — [[study-1997-the-compaq-siebel-global-alliance-an-e-roach-to-cu-458c35]]
-- HP acquired Compaq for approximately $19-25 billion in May 2002 — [[study-1997-the-compaq-siebel-global-alliance-an-e-roach-to-cu-458c35]]
-- 31147 — [[study-1998as400-1-146289]]

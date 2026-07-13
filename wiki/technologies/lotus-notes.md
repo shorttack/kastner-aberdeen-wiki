@@ -11,10 +11,10 @@ vendor: "Lotus Development Corporation"
 era: "1989-present"
 lifecycle_at_study: "evolved"
 lifecycle_current: "Acquired by IBM 1995; evolved through IBM Lotus Notes to HCL Notes after HCL Technologies acquired the product line from IBM in 2019."
-occurrence_count: 6
+occurrence_count: 7
 prescience_max: 5.0
-prescience_mean: 2.5
-prescience_obs_count: 6
+prescience_mean: 2.14
+prescience_obs_count: 7
 ---
 
 # Lotus Notes / Domino
@@ -33,6 +33,7 @@ prescience_obs_count: 6
 - IBM acquired Lotus in June 1995 for $3.5B; Notes and DB2 integration deepened through late 1990s. Lotus Domino 5.0 (1999) provided tighter database integration. However Notes market share was eventually eroded by Microsoft Exchange. Product continues as HCL Notes after IBM sold to HCLSoftware in 2019. `[ps=5]` — [[study-aberdeen-1995-ibm-db2-common-server]]
 - upcoming incorporation of Lotus Notes into IBM product set will give DB2 close integration with leading groupware solution `[ps=3]` — [[study-aberdeen-1995-ibm-db2-common-server]]
 - Aberdeen concludes Interliant best-positioned to manage and develop virtual infrastructure integral to hosted application; recommends enterprise CIOs evaluate Interliant before building network empires `[ps=2]` — [[study-1997-the-business-value-of-applications-hosting-e92e09]]
+- 13.6 million users `[ps=0]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - ~$1 billion `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]
 - acquired by IBM for $3.5 billion in 1995 `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]
 - Over 2000 public and private customer organizations; over 20000 Lotus Notes databases hosted — [[study-1997-the-business-value-of-applications-hosting-e92e09]]

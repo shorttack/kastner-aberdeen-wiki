@@ -3,7 +3,7 @@ title: "Intel Core (Core Duo / Core 2 Duo)"
 slug: "intel-core"
 page_type: "technology"
 tags: ["type/technology", "category/platform", "era/2006-present"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "intel-core"
 category: "platform"
@@ -20,11 +20,6 @@ prescience_obs_count: 5
 # Intel Core (Core Duo / Core 2 Duo)
 
 > First Intel Mac silicon
-
-
-## Summary
-
-
 
 
 ## Top observations

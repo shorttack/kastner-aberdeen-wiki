@@ -11,10 +11,10 @@ sector: "Information Technology"
 status: "Active (renamed divisions)"
 successor: "IBM (ongoing)"
 years_active: "1911-present"
-occurrence_count: 9
+occurrence_count: 14
 prescience_max: 5.0
-prescience_mean: 1.76
-prescience_obs_count: 76
+prescience_mean: 1.78
+prescience_obs_count: 93
 ---
 
 # IBM Corporation
@@ -33,6 +33,13 @@ prescience_obs_count: 76
 - Enterprises facing proliferating data archipelagoes requiring ever-faster merging of larger data streams `[ps=5]` — [[study-1997-ibm-information-integration-family--29351c]]
 - Key value: reuse information integration middleware across recurring projects vs. one-off builds `[ps=5]` — [[study-1997-ibm-information-integration-family--29351c]]
 - IBM positioned both z/OS (mainframe) and Linux as strategic platforms — Linux for distributed; z/OS for mainframe `[ps=5]` — [[study-2001-linux-is-on-the-move-up-6bf089]]
+- IBM Sysplex clusters mainly appeal to IBM's largest existing mainframe customers and lack compelling overall price-performance. `[ps=4]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
+- The cluster version of DB2/6000 is realistically a mainstream 1996 product, not a 1994-ready one. `[ps=4]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
+- Global support, broad product range, customer intimacy, deep services, and broad third-party support make IBM a scale player in enterprise midrange computing. `[ps=4]` — [[study-1995-midrange-oltp-platform-overview-pyr-44c8e4]]
+- IBM must improve processor leadership, re-energize the field, win leading-edge buyers, work better with ISVs, and compete more effectively against software solution suppliers. `[ps=4]` — [[study-1995-midrange-oltp-platform-overview-pyr-44c8e4]]
+- Customers value IBM support and relationships, VARs use RS/6000 where AS/400 is too costly, and IBM's surrounding software stack matters as much as raw price/performance. `[ps=4]` — [[study-1995-midrange-oltp-platform-overview-pyr-44c8e4]]
+- Expect RS/6000 growth to continue in 1996 as datacenter managers experiment with Tier-2 surround strategies. `[ps=4]` — [[study-1995-midrange-oltp-platform-overview-pyr-44c8e4]]
+- Electronic mail is the logical first step in collaboration rollout, and top executives should use it first; IBM is cited as an example. `[ps=4]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - Most popular TP monitor worldwide `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Very-large-database data-warehousing proven `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Will add third-party and IBM tools for ORBs and commercial-messaging applications `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
@@ -42,10 +49,3 @@ prescience_obs_count: 76
 - IMS accessible via Web browser through Internet Connection Server / MQSeries gateway `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Log-based capture to staging area then apply to destination; minimizes production database impact `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
 - State management via variable substitution for OLTP transactions across web connections `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
-- Full enterprise data integration is 'difficult if not impossible'; focused data marts achieve competitive advantage `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
-- Absorbed into IBM DB2 Replication; log-based CDC pattern validated by entire industry `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
-- Visual Programming Environment due next year (1998) for rapid development; further Java capabilities `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
-- Net.data superseded by WebSphere Application Server and JSP/servlet model circa 2000-2002 `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
-- DataPropagator's log-based architecture will deliver performance and isolation advantages in network computing `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
-- Log-based CDC became dominant pattern for enterprise data replication across all major cloud and on-premises tools `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
-- Targets enterprises with multiple-supplier databases; positions reuse as competitive differentiator `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]

@@ -11,10 +11,10 @@ sector: "Enterprise IT Hardware/Software"
 status: "Acquired by Oracle"
 successor: "Harte-Hanks (2008); Spiceworks Ziff Davis (later)"
 years_active: "1911-present"
-occurrence_count: 65
+occurrence_count: 68
 prescience_max: 5.0
-prescience_mean: 1.58
-prescience_obs_count: 157
+prescience_mean: 1.59
+prescience_obs_count: 164
 ---
 
 # Sun Microsystems Computer Corporation (SMCC)
@@ -29,6 +29,7 @@ prescience_obs_count: 157
 
 ## Top observations
 
+- 1996 will be an important product year for Sun because of the UltraSPARC 64-bit rollout. `[ps=5]` — [[study-1995-midrange-oltp-platform-overview-pyr-44c8e4]]
 - Sun named as primary Unix competitor to RS/6000 in historical context `[ps=5]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
 - Sun acquired by Oracle for $7.4B in 2010; Solaris/SPARC line eventually wound down `[ps=5]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
 - NC brand never achieved hoped-for popularity; PC prices fell below $1,000 within 2 years, undercutting the NC value proposition. Oracle NC discontinued circa 2000. `[ps=5]` — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]
@@ -48,4 +49,3 @@ prescience_obs_count: 157
 - Oracle acquired Sun Microsystems for $7.4B in 2010 `[ps=5]` — [[study-sun-as400-main-report-2002-c37e2a]]
 - begin shipping in systems during the first half of 2004 `[ps=5]` — [[study-technology-news-hardware-sun-unveils-ult-4a76bb]]
 - Oracle confirmed SPARC M8 (2017) as its final SPARC CPU and canceled its M8 successor; effectively ended SPARC roadmap `[ps=5]` — [[study-technology-news-hardware-sun-unveils-ult-4a76bb]]
-- $2B Microsoft payment to Sun for technology licensing in Apr 2004 `[ps=5]` — [[study-technology-news-international-microsoft--a2f127]]

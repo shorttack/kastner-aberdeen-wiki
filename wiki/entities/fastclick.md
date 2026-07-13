@@ -3,7 +3,7 @@ title: "Fastclick, Inc."
 slug: "fastclick"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "fastclick"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 7
 # Fastclick, Inc.
 
 > ve told Aberdeen that they want to see in the future.   ## _Fastclick, Inc._   Much like the content delivery industry, online advertis
+
+
+## Summary
+
+
 
 
 ## Top observations

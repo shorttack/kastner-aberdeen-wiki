@@ -11,7 +11,7 @@ sector: "massively parallel computing"
 status: "[DEFERRED]"
 successor: "nVIDIA / MediaBin (2003 renamed)"
 years_active: "[DEFERRED]"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 1

@@ -3,7 +3,7 @@ title: "Oracle8 Database"
 slug: "oracle8"
 page_type: "technology"
 tags: ["type/technology", "category/application", "era/1997-present"]
-tier: 1
+tier: 2
 source_csv: "_master_technologies.csv"
 tech_id: "oracle8"
 category: "application"
@@ -20,11 +20,6 @@ prescience_obs_count: 15
 # Oracle8 Database
 
 > De facto standard on Unix servers; projected 1998 license revenues ~$2B; object-relational; Object-Relational DBMS flagship; Network Computing Architecture integration
-
-
-## Summary
-
-
 
 
 ## Top observations

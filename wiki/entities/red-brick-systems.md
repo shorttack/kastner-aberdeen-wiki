@@ -11,10 +11,10 @@ sector: "database-software"
 status: "acquired"
 successor: "Red Brick -> IBM Informix -> IBM"
 years_active: "1986-1999"
-occurrence_count: 1
-prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 1
+occurrence_count: 2
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Red Brick Systems
@@ -24,4 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Red Brick is adding SMP parallelism for DSS, while IRI Express and Prism-style utilities address multidimensional analysis and warehouse loading. `[ps=4]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - Red Brick cited as purpose-built data warehouse DB competitor `[ps=3]` — [[study-1997-oracle-data-mart-suite-for-nt-926845]]

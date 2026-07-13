@@ -11,7 +11,7 @@ vendor: "IBM"
 era: "1965-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
-occurrence_count: 0
+occurrence_count: 1
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0
@@ -24,3 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- wounded — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]

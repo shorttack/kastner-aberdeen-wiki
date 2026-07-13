@@ -3,7 +3,7 @@ title: "Exodus Communications"
 slug: "exodus-communications"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "exodus-communications"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 3
 # Exodus Communications
 
 > -|---| |Ensim Corporation||||||76| |Equinix, Inc.||||||79| |Exodus Communications, Inc.||||||82| |GlobalCenter Inc.||||||85| |Globix||||||88|
+
+
+## Summary
+
+
 
 
 ## Top observations

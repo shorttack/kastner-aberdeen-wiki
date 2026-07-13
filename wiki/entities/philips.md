@@ -3,7 +3,7 @@ title: "Koninklijke Philips"
 slug: "philips"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 1
+tier: 2
 source_csv: "_master_entities.csv"
 entity_id: "philips"
 entity_type: "company"
@@ -20,11 +20,6 @@ prescience_obs_count: 0
 # Koninklijke Philips
 
 > Named as external firm with production commitment to new PRC semiconductor plants
-
-
-## Summary
-
-
 
 
 ## Top observations

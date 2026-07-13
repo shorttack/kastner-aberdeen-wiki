@@ -1,0 +1,5 @@
+Propagate PPTX-6 ingest to wiki (archive 6 new studies)
+
+Full Phase 1-6 rebuild 20260713T100658Z (STATUS OK). 10,517 pages, 10,924 embedded.
+6 new study pages + entity/tech pages; y2k verdict=high consistent across master/view/page.
+Shape: studies 1511 / observations 25051 / entities 3316 / technologies 4393 / high 881.

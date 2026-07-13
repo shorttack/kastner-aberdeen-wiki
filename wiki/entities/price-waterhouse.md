@@ -11,10 +11,10 @@ sector: "Accounting / Consulting"
 status: "unknown"
 successor: "PricewaterhouseCoopers (1998)"
 years_active: "1849-1998"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Price Waterhouse
@@ -24,5 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Cited as a collaboration user that was both technologically sophisticated and organizationally sophisticated. `[ps=0]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - Will create largest/premier IPSP globally `[ps=0]` — [[study-erppsp~1-31f088]]
 - More than double over next 2-5 years `[ps=0]` — [[study-erppsp~1-31f088]]

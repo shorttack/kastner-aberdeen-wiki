@@ -11,7 +11,7 @@ sector: "Technology Media / Publishing"
 status: "renamed"
 successor: "Part of IDG/Foundry (IDG acquired by Blackstone 2017; digital brand continues under Foundry/IDG Communications)"
 years_active: "1967-present"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
 prescience_obs_count: 1

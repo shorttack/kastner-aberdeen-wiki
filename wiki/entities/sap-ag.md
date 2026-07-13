@@ -11,10 +11,10 @@ sector: "enterprise-resource-planning"
 status: "active (renamed SAP SE)"
 successor: "SAP SE (2014 rebranding)"
 years_active: "1972-present"
-occurrence_count: 46
+occurrence_count: 49
 prescience_max: 5.0
-prescience_mean: 2.39
-prescience_obs_count: 96
+prescience_mean: 2.36
+prescience_obs_count: 97
 ---
 
 # SAP AG (later SAP SE)

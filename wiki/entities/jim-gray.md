@@ -3,7 +3,7 @@ title: "Jim Gray"
 slug: "jim-gray"
 page_type: "entity"
 tags: ["type/entity", "entity-type/person"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "jim-gray"
 entity_type: "person"
@@ -20,6 +20,11 @@ prescience_obs_count: 3
 # Jim Gray
 
 > Turing Award laureate; principal organizer of the Anon et al. paper; then at Tandem, later Microsoft Research
+
+
+## Summary
+
+
 
 
 ## Top observations

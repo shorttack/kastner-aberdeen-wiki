@@ -11,10 +11,10 @@ sector: "Database software"
 status: "acquired"
 successor: "IBM (2001, $1B)"
 years_active: "1984-present"
-occurrence_count: 7
+occurrence_count: 8
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 5
+prescience_mean: 2.29
+prescience_obs_count: 7
 ---
 
 # Informix Software Inc.
@@ -30,7 +30,9 @@ prescience_obs_count: 5
 ## Top observations
 
 - i2 merged with JDA Software 2010; JDA rebranded Blue Yonder 2020; Panasonic acquired 2021 `[ps=5]` — [[study-1997-industry-matematik-international-co-c398bc]]
+- Informix is betting the company on parallel RDBMS; the technology is good, but the company lacks board-room visibility. `[ps=4]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - challenging Oracle and Sybase `[ps=3]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
+- Informix DSA is architecturally closest to Tandem NonStop SQL and superior to competing parallel database approaches. `[ps=2]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - RS6000-Encina-DCE-Informix-Warehouse-Distribution `[ps=2]` — [[study-aberdeen-dops-distributed-open-prod-syst-cbae77]]
 - recently-acquired `[ps=0]` — [[study-1998-hp-high-availability-and-metadata-7d1276]]
 - 1-800-688-IFMX ext 18 `[ps=0]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
@@ -47,5 +49,3 @@ prescience_obs_count: 5
 - [DEFERRED] — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
 - Informix 4GL++ will deliver object-oriented development tools — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
 - [DEFERRED] — [[study-informix-competitive-update-kastner-rdbms-jungle-25604a]]
-- Phil White: 1994 DSA shared-nothing/shared-everything parallelism -> 1996 Universal Server with typed extensions — [[study-informix-universal-server-launch-object-relational-fb2cd4]]
-- Shipped to 20-30 customers Sept 30 1996; general availability today (Dec 1996); 'twelve to eighteen months ahead of anybody in the industry' — [[study-informix-universal-server-launch-object-relational-fb2cd4]]

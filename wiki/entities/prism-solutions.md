@@ -11,7 +11,7 @@ sector: "data-transformation"
 status: "[DEFERRED]"
 successor: "Evolutionary Technologies International"
 years_active: "[DEFERRED]"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: 5.0
 prescience_mean: 5.0
 prescience_obs_count: 1

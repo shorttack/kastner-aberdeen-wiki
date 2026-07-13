@@ -3,7 +3,7 @@ title: "Aberdeen Transaction Services"
 slug: "aberdeen-transaction-services"
 page_type: "entity"
 tags: ["type/entity", "entity-type/institution"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "aberdeen-transaction-services"
 entity_type: "institution"
@@ -20,6 +20,11 @@ prescience_obs_count: 1
 # Aberdeen Transaction Services
 
 > Practice area founded by Kastner at Aberdeen Group to provide TPC-certified benchmark auditing; clients included Stratus and Groupe Bull.
+
+
+## Summary
+
+
 
 
 ## Top observations

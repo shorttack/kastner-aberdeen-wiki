@@ -3,7 +3,7 @@ title: "Cray Research, Inc."
 slug: "cray-research"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "cray-research"
 entity_type: "company"
@@ -11,7 +11,7 @@ sector: "high-performance computing"
 status: "dissolved"
 successor: "Silicon Graphics (1996), then HPE (2019)"
 years_active: "1972-1996"
-occurrence_count: 2
+occurrence_count: 3
 prescience_max: 5.0
 prescience_mean: 0.4
 prescience_obs_count: 15
@@ -20,6 +20,11 @@ prescience_obs_count: 15
 # Cray Research, Inc.
 
 > Acquired by SGI for $740M in February 1996; SGI sold the Superservers (CS6400) business to Sun in May 1996. Cray supercomputer division sold to Tera Computer Company in 2000, renamed Cray Inc.
+
+
+## Summary
+
+
 
 
 ## Top observations

@@ -11,7 +11,7 @@ vendor: "industry"
 era: "1985-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "matured-mainstream"
-occurrence_count: 2
+occurrence_count: 3
 prescience_max: 4.0
 prescience_mean: 2.0
 prescience_obs_count: 2

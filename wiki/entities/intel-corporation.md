@@ -11,10 +11,10 @@ sector: "computing-industry"
 status: "active"
 successor: ""
 years_active: "1968-present"
-occurrence_count: 27
+occurrence_count: 30
 prescience_max: 5.0
-prescience_mean: 2.07
-prescience_obs_count: 90
+prescience_mean: 2.08
+prescience_obs_count: 91
 ---
 
 # Intel Corporation

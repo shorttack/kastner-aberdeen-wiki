@@ -7,7 +7,7 @@ tier: 1
 
 # Kastner Aberdeen Wiki
 
-Built 2026-07-13. 1511 studies, 3316 entities, 4393 technologies, 25051 observations (17173 obs scored for prescience), 6 decades, 9 collections, 1297 codes.
+Built 2026-07-14. 1517 studies, 3324 entities, 4401 technologies, 25196 observations (17316 obs scored for prescience), 6 decades, 9 collections, 1297 codes.
 
 ## Top-level navigation
 

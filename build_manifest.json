@@ -1,14 +1,14 @@
 {
-  "build_completed_at": "2026-07-13T17:02:26.910652+00:00",
+  "build_completed_at": "2026-07-14T23:36:06.097584+00:00",
   "phase_1": {
     "archive_masters": "/Users/scott/Desktop/Archive/aberdeen-group-archive",
     "derived": {
       "collections_aggregated": 9,
-      "entities_with_occurrences": 1447,
-      "obs_with_prescience_score": 17173,
-      "studies_with_prescience_obs": 1326,
-      "studies_with_pub_year": 1511,
-      "techs_with_occurrences": 3079
+      "entities_with_occurrences": 1456,
+      "obs_with_prescience_score": 17316,
+      "studies_with_prescience_obs": 1332,
+      "studies_with_pub_year": 1517,
+      "techs_with_occurrences": 3087
     },
     "masters_loaded": {
       "_collection_stats.csv": {
@@ -34,22 +34,22 @@
       "_master_entities.csv": {
         "cols": 8,
         "file": "_master_entities.csv",
-        "rows": 3316
+        "rows": 3324
       },
       "_master_entity_studies.csv": {
         "cols": 2,
         "file": "_master_entity_studies.csv",
-        "rows": 4006
+        "rows": 4044
       },
       "_master_observations.csv": {
         "cols": 17,
         "file": "_master_observations.csv",
-        "rows": 25051
+        "rows": 25196
       },
       "_master_prescience_scores.csv": {
         "cols": 12,
         "file": "_master_prescience_scores.csv",
-        "rows": 17426
+        "rows": 17569
       },
       "_master_prescience_short_horizon.csv": {
         "cols": 16,
@@ -59,44 +59,44 @@
       "_master_studies.csv": {
         "cols": 20,
         "file": "_master_studies.csv",
-        "rows": 1511
+        "rows": 1517
       },
       "_master_tech_studies.csv": {
         "cols": 2,
         "file": "_master_tech_studies.csv",
-        "rows": 5482
+        "rows": 5507
       },
       "_master_technologies.csv": {
         "cols": 8,
         "file": "_master_technologies.csv",
-        "rows": 4393
+        "rows": 4401
       }
     },
     "parquet_written": [
       {
         "cols": 24,
         "name": "studies",
-        "rows": 1511
+        "rows": 1517
       },
       {
         "cols": 9,
         "name": "entities",
-        "rows": 3316
+        "rows": 3324
       },
       {
         "cols": 9,
         "name": "technologies",
-        "rows": 4393
+        "rows": 4401
       },
       {
         "cols": 22,
         "name": "observations",
-        "rows": 25051
+        "rows": 25196
       },
       {
         "cols": 12,
         "name": "prescience_scores",
-        "rows": 17426
+        "rows": 17569
       },
       {
         "cols": 9,
@@ -126,12 +126,12 @@
       {
         "cols": 2,
         "name": "entity_studies",
-        "rows": 4006
+        "rows": 4044
       },
       {
         "cols": 2,
         "name": "tech_studies",
-        "rows": 5482
+        "rows": 5507
       },
       {
         "cols": 16,
@@ -141,7 +141,7 @@
     ],
     "phase": 1,
     "phase_name": "load_csvs",
-    "ran_at": "2026-07-13T10:06:59.654150+00:00",
+    "ran_at": "2026-07-14T23:13:32.275324+00:00",
     "version": "v3",
     "wiki": "/Users/scott/Repos/kastner-aberdeen-wiki"
   },
@@ -149,41 +149,41 @@
     "duckdb_path": "db/kastner.duckdb",
     "phase": 2,
     "phase_name": "build_data_layer",
-    "ran_at": "2026-07-13T10:06:59.796333+00:00",
+    "ran_at": "2026-07-14T23:13:32.411115+00:00",
     "version": "v5",
     "view_rowcounts": {
       "v_codes": 1297,
       "v_codes_by_type": 34,
       "v_collection_overview": 9,
       "v_collection_stats": 953,
-      "v_entities": 3316,
-      "v_entities_with_observation_count": 3316,
-      "v_entity_studies": 4006,
-      "v_high_holistic_prescience": 505,
+      "v_entities": 3324,
+      "v_entities_with_observation_count": 3324,
+      "v_entity_studies": 4044,
+      "v_high_holistic_prescience": 507,
       "v_holistic_prescience_distribution": 5,
       "v_known_entities": 3329,
       "v_known_technologies": 4396,
-      "v_low_confidence_prescience": 1741,
+      "v_low_confidence_prescience": 1749,
       "v_methodology_codes": 408,
-      "v_observations": 25051,
+      "v_observations": 25196,
       "v_observations_by_year": 114,
-      "v_observations_with_prescience": 17173,
-      "v_observations_with_sh": 25051,
+      "v_observations_with_prescience": 17316,
+      "v_observations_with_sh": 25196,
       "v_prescience_by_decade": 6,
-      "v_prescience_raw": 17426,
+      "v_prescience_raw": 17569,
       "v_prescience_sh": 17030,
-      "v_sh_3y_distribution": 5,
-      "v_sh_5y_distribution": 5,
-      "v_studies": 1511,
+      "v_sh_3y_distribution": 6,
+      "v_sh_5y_distribution": 6,
+      "v_studies": 1517,
       "v_studies_by_decade": 6,
-      "v_studies_with_high_prescience": 881,
-      "v_studies_with_prescience": 1326,
-      "v_studies_with_sh_verdicts": 792,
-      "v_tech_studies": 5482,
-      "v_technologies": 4393,
-      "v_technologies_by_lifecycle": 4393,
+      "v_studies_with_high_prescience": 887,
+      "v_studies_with_prescience": 1332,
+      "v_studies_with_sh_verdicts": 798,
+      "v_tech_studies": 5507,
+      "v_technologies": 4401,
+      "v_technologies_by_lifecycle": 4401,
       "v_technology_category_codes": 8,
-      "v_top_prescient_studies": 623
+      "v_top_prescient_studies": 629
     }
   },
   "phase_3": {
@@ -217,19 +217,19 @@
     },
     "phase": 4,
     "phase_name": "generate_indices",
-    "ran_at": "2026-07-13T16:43:33.760612+00:00",
+    "ran_at": "2026-07-14T23:17:18.779386+00:00",
     "version": "v2"
   },
   "phase_5": {
-    "elapsed_sec": 1130.8,
+    "elapsed_sec": 1125.2,
     "model": "bge-m3",
-    "pages_embedded": 10924,
-    "pages_with_page_type": 10589,
-    "pages_with_title": 10924,
-    "pages_with_vector": 10924,
+    "pages_embedded": 10930,
+    "pages_with_page_type": 10595,
+    "pages_with_title": 10930,
+    "pages_with_vector": 10930,
     "phase": 5,
     "phase_name": "embeddings",
-    "ran_at": "2026-07-13T17:02:26.750441+00:00",
+    "ran_at": "2026-07-14T23:36:05.957306+00:00",
     "schema_columns": [
       "page_path",
       "page_type",
@@ -252,6 +252,6 @@
     ],
     "phase": 6,
     "phase_name": "emit_scaffolding",
-    "ran_at": "2026-07-13T17:02:26.910479+00:00"
+    "ran_at": "2026-07-14T23:36:06.097363+00:00"
   }
 }

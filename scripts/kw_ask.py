@@ -40,6 +40,16 @@ DEFAULT_LLM = "qwen3.5:27b-mlx"
 OLLAMA_HOST = "http://localhost:11434"
 PAGE_CHARS = 4000
 
+# --cloud path: call the Perplexity API directly (mirrors run_prescience_pass_c_v7.py).
+# The legacy implementation shelled out to a `pplx` CLI binary that does not exist
+# on this Mac; this replaces it with a direct HTTPS call using the same API key file.
+CLOUD_API_URL = "https://api.perplexity.ai/chat/completions"
+CLOUD_MODEL = "sonar-reasoning-pro"
+CLOUD_KEY_PATHS = [
+    Path.home() / ".config" / "adoptex" / "perplexity.env",
+    Path("/tmp/perplexity.env"),
+]
+
 
 def embed_query(q: str) -> np.ndarray:
     r = requests.post(
@@ -193,19 +203,59 @@ def stream_ollama(prompt: str, model: str, temperature: float, max_tokens: int,
             )
 
 
-def call_cloud(prompt: str) -> None:
-    proc = subprocess.run(
-        ["pplx", "ask", prompt],
-        capture_output=True,
-        text=True,
-        timeout=600,
+def _load_cloud_key() -> str:
+    for pth in CLOUD_KEY_PATHS:
+        if pth.exists():
+            for line in pth.read_text().splitlines():
+                if line.startswith("PERPLEXITY_API_KEY="):
+                    return line.split("=", 1)[1].strip()
+    sys.stderr.write(
+        "[kw ask --cloud] PERPLEXITY_API_KEY not found in "
+        + " or ".join(str(p) for p in CLOUD_KEY_PATHS)
+        + "\n"
     )
-    if proc.returncode != 0:
-        sys.stderr.write(f"[kw ask --cloud] pplx ask failed: {proc.stderr}\n")
+    sys.exit(2)
+
+
+def call_cloud(prompt: str) -> None:
+    """Synthesize via the Perplexity cloud API (sonar-reasoning-pro).
+
+    Direct HTTPS call — no external CLI. Strips any <think>...</think> reasoning
+    block so the user sees clean synthesis, matching the local-model behavior.
+    """
+    api_key = _load_cloud_key()
+    try:
+        r = requests.post(
+            CLOUD_API_URL,
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": CLOUD_MODEL,
+                "messages": [{"role": "user", "content": prompt}],
+            },
+            timeout=600,
+        )
+    except requests.RequestException as e:
+        sys.stderr.write(f"[kw ask --cloud] request failed: {e}\n")
         sys.exit(2)
-    sys.stdout.write(proc.stdout)
-    if not proc.stdout.endswith("\n"):
+    if r.status_code != 200:
+        sys.stderr.write(
+            f"[kw ask --cloud] API {r.status_code}: {r.text[:400]}\n"
+        )
+        sys.exit(2)
+    try:
+        content = r.json()["choices"][0]["message"]["content"]
+    except (KeyError, IndexError, ValueError) as e:
+        sys.stderr.write(f"[kw ask --cloud] unexpected response shape: {e}\n")
+        sys.exit(2)
+    # sonar-reasoning-pro emits a <think>...</think> preamble; drop it.
+    content = re.sub(r"<think>.*?</think>", "", content, flags=re.DOTALL).strip()
+    sys.stdout.write(content)
+    if not content.endswith("\n"):
         sys.stdout.write("\n")
+    sys.stderr.write(f"[kw ask --cloud] model={CLOUD_MODEL}\n")
 
 
 def main():

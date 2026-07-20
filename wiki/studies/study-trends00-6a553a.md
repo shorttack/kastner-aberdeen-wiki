@@ -3,7 +3,7 @@ title: "Assessing the Damage: Will Fourth Quarter Technology Spending Fall? (Pos
 slug: "study-trends00-6a553a"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "trends00-6a553a"
 author: "Peter S. Kastner / Aberdeen Group"
@@ -16,12 +16,12 @@ source_file: "Trends00.docx"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 3.0
-prescience_mean: 1.56
-prescience_obs_count: 9
+prescience_max: 5.0
+prescience_mean: 1.92
+prescience_obs_count: 12
 ---
 
 # Assessing the Damage: Will Fourth Quarter Technology Spending Fall? (Post-9/11 IT Recession Letter)
@@ -40,6 +40,8 @@ _Published 2001, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 
 ## Top observations
 
+- Extensively using WebEx + teleconference for client meetings; replacing face-to-face national sales meeting with videoconference `[ps=5]`
+- Markedly lower growth compared with historic norms `[ps=4]`
 - Level 1: speaker phone; Level 2: audio conference; Level 3: WebEx + teleconference; Level 4: Polycom videoconference; Level 5: one-to-many webcast `[ps=3]`
 - Long waits in building-lobby security checks; half hour to attend meeting across street; air travel uncertainty `[ps=3]`
 - Companies who think out of the box and quickly adapt will emerge from 2001-2002 IT recession with market-share gains `[ps=3]`
@@ -48,7 +50,5 @@ _Published 2001, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 - Likely decrease by double digits `[ps=0]`
 - unknown `[ps=0]`
 - unknown `[ps=0]`
+- Consulting services to assist IT suppliers in selling and marketing their products; analysts with decades of IT experience `[ps=0]`
 - Written to fellow IT supplier executives; sharing research/analysis and experience adapting to changed sales/marketing environment `[ps=0]`
-- Markedly lower growth compared with historic norms
-- Extensively using WebEx + teleconference for client meetings; replacing face-to-face national sales meeting with videoconference
-- Consulting services to assist IT suppliers in selling and marketing their products; analysts with decades of IT experience

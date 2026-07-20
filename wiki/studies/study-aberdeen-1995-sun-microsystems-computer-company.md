@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.62
-prescience_obs_count: 21
+prescience_mean: 2.64
+prescience_obs_count: 25
 ---
 
 # Sun Microsystems Computer Company: Sun Emerges as a Top-Tier Commercial Systems Supplier
@@ -46,22 +46,22 @@ _Published 1995, author **Aberdeen Group**, type **product-profile**._
 - largely migrated to Linux on x86; SPARC/Solaris confined to legacy and specialized workloads `[ps=5]`
 - Solaris SMP extensions position Sun for mission-critical 7x24 Unix deployments `[ps=5]`
 - leveraging technical installed base + new ISV/marketing programs for commercial apps and mainframe downsizing `[ps=4]`
+- contributed to 12+ worldwide standards organizations; positioned as open systems leader `[ps=4]`
 - "network is the computer" becomes de-facto enterprise standard `[ps=4]`
 - considerable resources devoted to RDBMS performance optimization on SPARC/Solaris `[ps=4]`
+- SAP and Oracle Applications referenced as key commercial application targets on Sun servers `[ps=4]`
 - performance + scalability + availability + TCO: 4-factor universal framework `[ps=4]`
 - SMP support will be key to growing mission-critical deployments `[ps=4]`
+- workgroup (SPARCserver 4/5/20), departmental (1000E), enterprise (SPARCcenter 2000E) `[ps=3]`
 - recent TPC benchmark results demonstrate competitive commercial DB performance `[ps=3]`
 - SPARC server line will remain competitive in commercial market `[ps=3]`
 - Sun most credible open systems vendor; 12+ standards org contributions vs IBM and HP proprietary histories `[ps=3]`
 - 1991 (first commercial server line) `[ps=1]`
 - 1982 `[ps=0]`
 - Unix V.4 with SMP extensions and high security levels `[ps=0]`
+- SPARCcluster 1000/2000 PDB and SPARCcluster HA `[ps=0]`
 - performance, scalability, availability, cost of ownership (3-5 year) `[ps=0]`
 - 68.5% of US UNIX/RISC units shipped (2 of every 3) `[ps=0]`
 - acquired by Oracle Corporation for $7.4B (net $5.6B); completed January 27, 2010 `[ps=0]`
 - Netra s/i for Systems Management and Internet access; SPARCcluster for HA and PDB `[ps=0]`
 - Mountain View, CA 94043; 415-960-1300 `[ps=0]`
-- workgroup (SPARCserver 4/5/20), departmental (1000E), enterprise (SPARCcenter 2000E)
-- SPARCcluster 1000/2000 PDB and SPARCcluster HA
-- contributed to 12+ worldwide standards organizations; positioned as open systems leader
-- SAP and Oracle Applications referenced as key commercial application targets on Sun servers

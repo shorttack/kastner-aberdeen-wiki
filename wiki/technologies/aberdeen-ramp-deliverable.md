@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 2
 prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 1
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Aberdeen RAMP (Rapid Accurate Market Positioning)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Price at $2,000-$3,000 per person-day; never actually know how many person-days as client will change tasks and scope `[ps=3]` — [[study-aberdeen-training-day-2-representing-abe-38ef4b]]
-- I honestly believe you are misunderstanding how real IS decision makers view this issue; RAMP: $60,000-$100,000; initial findings 30 days; complete 60 days — [[study-aberdeen-training-day-4-marketing-busine-601526]]
+- I honestly believe you are misunderstanding how real IS decision makers view this issue; RAMP: $60,000-$100,000; initial findings 30 days; complete 60 days `[ps=0]` — [[study-aberdeen-training-day-4-marketing-busine-601526]]

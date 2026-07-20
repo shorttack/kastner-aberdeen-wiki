@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream"
 lifecycle_current: "{'lifecycle_current': 'legacy-supported', 'notes': 'EDI remains in widespread use in B2B supply chain and retail, but is a mature/legacy standard. Still actively used in 95%+ of large-company supply chains, particularly in retail and healthcare, though newer standards (APIs, XML) are growing.', 'source': 'General knowledge / industry consensus'}"
 occurrence_count: 4
 prescience_max: 4.0
-prescience_mean: 1.0
-prescience_obs_count: 5
+prescience_mean: 0.83
+prescience_obs_count: 6
 ---
 
 # Electronic Data Interchange (EDI)
@@ -29,4 +29,4 @@ prescience_obs_count: 5
 - EDI for purchase orders/invoices `[ps=0]` — [[study-1996-electronic-commerce-25d31b]]
 - ~5% — concentrated in Fortune 500; widely expected to grow substantially `[ps=0]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
 - 5_years `[ps=0]` — [[study-aberdeen-1996-3com-reconciling-clientserver-development-internet]]
-- EDI links were a frequent source of Y2K remediation scope creep in 1999; Kastner's early-audit recommendation was widely adopted through 1998-1999. — [[study-ca-y2k-cfo-executive-exchange-1997-c59ca4]]
+- EDI links were a frequent source of Y2K remediation scope creep in 1999; Kastner's early-audit recommendation was widely adopted through 1998-1999. `[ps=0]` — [[study-ca-y2k-cfo-executive-exchange-1997-c59ca4]]

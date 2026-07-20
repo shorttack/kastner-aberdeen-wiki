@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1981-1987 (at Stratus)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Gardner C. Hendrie
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- VP Hardware Gardner Hendrie could not reliably pull a board without crashing the system evening before public launch. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- VP Hardware Gardner Hendrie could not reliably pull a board without crashing the system evening before public launch. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]

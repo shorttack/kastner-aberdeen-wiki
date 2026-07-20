@@ -13,8 +13,8 @@ successor: ""
 years_active: "1990s-present"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Jackson Shaw
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Microsoft product manager Shaw describes how .NET shifts Microsoft's business model toward services and platform monetization. `[ps=4]` — [[study-microsoft-s-future-paths-6-f86f30]]
-- Lead Product Manager for the Windows .NET Server Solutions Group at Microsoft — [[study-watchit-psk-aberdeen-cro-presenter-2002--5843bc]]
+- Lead Product Manager for the Windows .NET Server Solutions Group at Microsoft `[ps=0]` — [[study-watchit-psk-aberdeen-cro-presenter-2002--5843bc]]

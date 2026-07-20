@@ -12,9 +12,9 @@ era: "2000-2003"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Microsoft Windows ME (Millennium Edition) was discontinued. Support ended December 31, 2006 (end of extended support). Widely regarded as one of Microsoft's least successful OS releases.', 'source': 'General knowledge / Microsoft lifecycle'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Windows Millennium Edition
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Minor hitch: ACD See missing .dll; installed alternative; off in <30 minutes — [[study-dct-hp-camera-lab-report-2001-09]]
+- Minor hitch: ACD See missing .dll; installed alternative; off in <30 minutes `[ps=0]` — [[study-dct-hp-camera-lab-report-2001-09]]

@@ -12,9 +12,9 @@ era: "1996-2003"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Cisco 1600 Series Modular Access Router
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Web browser-based configuration and monitoring; installs in minutes with any browser — [[study-aberdeen-1996-remote-access-cisco-untold-story]]
+- Web browser-based configuration and monitoring; installs in minutes with any browser `[ps=4]` — [[study-aberdeen-1996-remote-access-cisco-untold-story]]

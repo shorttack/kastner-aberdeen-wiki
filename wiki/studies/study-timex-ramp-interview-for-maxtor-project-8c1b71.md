@@ -16,12 +16,12 @@ source_file: "Timex RAMP Interview for Maxtor Project.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.35
-prescience_obs_count: 26
+prescience_mean: 1.0
+prescience_obs_count: 35
 ---
 
 # Timex RAMP Interview for Maxtor Project
@@ -57,11 +57,11 @@ _Published 2003, author **Peter S. Kastner; David Hill**, type **market-study**.
 - 80% in use `[ps=0]`
 - 10% increase `[ps=0]`
 - 10% increase `[ps=0]`
+- 80% FC `[ps=0]`
+- 20% SCSI `[ps=0]`
 - 80% inactive `[ps=0]`
+- 2 out of 7 `[ps=0]`
 - 2 out of 7 `[ps=0]`
 - 2 out of 7 — unlikely `[ps=0]`
 - Transparency and significant cost savings `[ps=0]`
 - Low without automation; management complexity will block adoption `[ps=0]`
-- HP FC60 DAS; array dedicated to application; FC interface `[ps=0]`
-- HP robotic tapes; daily incremental + weekly full; 4 generations (1 offsite) `[ps=0]`
-- Compaq FC SAN for Windows workloads; DAS for Unix/Oracle `[ps=0]`

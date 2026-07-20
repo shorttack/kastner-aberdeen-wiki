@@ -16,12 +16,12 @@ source_file: "2001 kickoff - research.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 10
+prescience_max: 3.0
+prescience_mean: 0.21
+prescience_obs_count: 14
 ---
 
 # Aberdeen Group January 2001 Research Meeting
@@ -40,6 +40,8 @@ _Published 2001, author **Peter S. Kastner / Aberdeen Group**, type **employer-r
 
 ## Top observations
 
+- Content N to N+1; Go-To Person roles; Practice Collateral; Granese (Forecasts); Retainers (Analyst/Sales renewal); Surveys (Hurley); Video (Haughton); Launch/Webcast (Wright, Granese, Bishop); Viewpoint/Insight (MDs/Research Council) `[ps=3]`
+- Chief Research Officer > Sr. VP Operations > VP Advanced R&D; Research Council; Research Director > Senior Analyst > Research Analyst; Managing Director; VP and Practice Director; Technical Editing; Research Associates; Thought Leadership; Operational Management `[ps=0]`
 - Research Council Chairperson `[ps=0]`
 - Recommend new research initiatives; identify trends; establish practice standards and quality; review/approve new analyst practice launches; approve thought-leadership initiatives `[ps=0]`
 - Establishes product definition, content, pricing; reviews product ideas for efficacy; ensures coordination between research, marketing, ETI, sales when products launched or revised `[ps=0]`
@@ -50,7 +52,5 @@ _Published 2001, author **Peter S. Kastner / Aberdeen Group**, type **employer-r
 - Over $0.5 million plus $0.5 million transferred to Core `[ps=0]`
 - Over $0.7 million `[ps=0]`
 - $1.270 million; major objective: exceed break-even to accretive `[ps=0]`
-- Chief Research Officer > Sr. VP Operations > VP Advanced R&D; Research Council; Research Director > Senior Analyst > Research Analyst; Managing Director; VP and Practice Director; Technical Editing; Research Associates; Thought Leadership; Operational Management
-- Establish significant European presence for CEC, E-BEA, CRM, Professional Services practice areas; train new analysts quickly; publish to enhance revenue; leverage Aberdeen resources
-- Content N to N+1; Go-To Person roles; Practice Collateral; Granese (Forecasts); Retainers (Analyst/Sales renewal); Surveys (Hurley); Video (Haughton); Launch/Webcast (Wright, Granese, Bishop); Viewpoint/Insight (MDs/Research Council)
-- Organic growth; Divisional revenue transfers; New-hire revenue
+- Establish significant European presence for CEC, E-BEA, CRM, Professional Services practice areas; train new analysts quickly; publish to enhance revenue; leverage Aberdeen resources `[ps=0]`
+- Organic growth; Divisional revenue transfers; New-hire revenue `[ps=0]`

@@ -13,8 +13,8 @@ successor: "Cisco Systems"
 years_active: "1986-1996"
 occurrence_count: 1
 prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 1
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # StrataCom, Inc.
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Cisco acquired StrataCom for $4.67B (June 1996); first true integration was BPX+Stratm Technology+Tag Switching; StrataCom technology became foundation for Cisco's ISP/carrier product line `[ps=3]` — [[study-1997-cisco-s-core-products-business-inte-bd8697]]
-- High-performance ASICs for ATM switching; complete ABR support; virtual path trunking; weighted fair queuing; multicast; higher density lower cost ATM switching — [[study-1997-cisco-s-core-products-business-inte-bd8697]]
+- High-performance ASICs for ATM switching; complete ABR support; virtual path trunking; weighted fair queuing; multicast; higher density lower cost ATM switching `[ps=2]` — [[study-1997-cisco-s-core-products-business-inte-bd8697]]

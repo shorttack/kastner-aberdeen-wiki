@@ -1,6 +1,7 @@
 ---
 title: Quote 171 — Computerworld (1995-12-11)
 type: quotation
+page_type: quotation
 slug: quote-171
 row_id: 171
 author: "Peter S. Kastner"

@@ -16,12 +16,12 @@ source_file: "NCR-1993-11-psk-quote-WSJ-full-page-ad.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.33
-prescience_obs_count: 3
+prescience_mean: 0.57
+prescience_obs_count: 7
 ---
 
 # NCR/AT&T Wall Street Journal Full-Page Ad Featuring Aberdeen Group / Kastner Endorsement of Commercial Massively-Parallel Processing
@@ -42,8 +42,8 @@ _Published 1993, author **NCR Corporation / AT&T Company (advertiser)**, type **
 
 - ready for commercial applications now; attractive alternative `[ps=4]`
 - >400 System 3600 and DBC/1012 systems `[ps=0]`
+- Peter S. Kastner, Aberdeen Group `[ps=0]`
+- Aberdeen Group `[ps=0]`
+- boost performance/reliability/functionality `[ps=0]`
+- An AT&T Company tagline `[ps=0]`
 - Page B9 Monday November 8 1993 `[ps=0]`
-- Peter S. Kastner, Aberdeen Group
-- Aberdeen Group
-- boost performance/reliability/functionality
-- An AT&T Company tagline

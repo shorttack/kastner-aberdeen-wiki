@@ -12,9 +12,9 @@ era: "1996-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # TME 10 Distributed Monitoring
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Monitors conditions on managed resources; provides alerts; enables thresholds for wide variety of conditions; takes automatic corrective actions — [[study-aberdeen-1996-ibm-tivoli]]
+- Monitors conditions on managed resources; provides alerts; enables thresholds for wide variety of conditions; takes automatic corrective actions `[ps=4]` — [[study-aberdeen-1996-ibm-tivoli]]

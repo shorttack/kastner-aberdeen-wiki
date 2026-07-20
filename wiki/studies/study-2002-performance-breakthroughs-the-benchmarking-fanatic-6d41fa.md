@@ -16,12 +16,12 @@ source_file: "2002 Performance Breakthroughs_ The Benchmarking Fanatics Are Stil
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 0.82
-prescience_obs_count: 11
+prescience_mean: 1.0
+prescience_obs_count: 13
 ---
 
 # Performance Breakthroughs: The Benchmarking Fanatics Are Still at It
@@ -42,6 +42,7 @@ _Published 2002, author **Robert Dorin**, type **market-study**._
 
 - Intel ended Itanium shipments July 2021; architecture discontinued `[ps=5]`
 - IBM sold x86 server business to Lenovo in 2014 for $2.3B `[ps=5]`
+- vendors maintaining R&D and benchmark activity despite revenue slump signals confidence in recovery `[ps=4]`
 - high-end server performance breakthrough `[ps=0]`
 - high-end server performance breakthrough `[ps=0]`
 - high-end server performance breakthrough `[ps=0]`
@@ -50,6 +51,5 @@ _Published 2002, author **Robert Dorin**, type **market-study**._
 - July 2002 `[ps=0]`
 - current sales slump `[ps=0]`
 - market share battle will begin when IT buyers show signs of life `[ps=0]`
+- positioned for market share battle `[ps=0]`
 - transitioned from Itanium to x86 Xeon; still sold by HPE `[ps=-1]`
-- positioned for market share battle
-- vendors maintaining R&D and benchmark activity despite revenue slump signals confidence in recovery

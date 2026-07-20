@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 1.22
-prescience_obs_count: 9
+prescience_mean: 1.1
+prescience_obs_count: 10
 ---
 
 # Frame Relay Access Device (FRAD)
@@ -30,7 +30,7 @@ prescience_obs_count: 9
 - Enterprises with SNA traffic >40% or performance-sensitive SNA will benefit greatly from FRADs over routers; routers far less efficient at SNA traffic handling `[ps=2]` — [[study-aberdeen-1996-frame-relay-access-devices]]
 - Single consistent FRAD product line for enterprise data interconnect; TurboFRAD (branch), OmniFRAD (hub), NetFRAD (carrier); Matrix VC switching architecture `[ps=0]` — [[study-aberdeen-1996-frame-relay-access-devices]]
 - RFC 1490 FRAD: 9 bytes/frame; TCP/IP SDLC encapsulation (router): 70 bytes; DLS (router): 50 bytes. Routers consume 50%+ of SNA frame at peak loading. `[ps=0]` — [[study-aberdeen-1996-frame-relay-access-devices]]
+- One customer moved from 'maybe 5 users' with prior FRAD to 10x increase using OmniFRAD RISC architecture `[ps=0]` — [[study-aberdeen-1996-frame-relay-access-devices]]
 - Standard 4 ports; max 8 ports; routes IP/IPX; RFC 1490; flash storage; 1 Ethernet or Token Ring LAN `[ps=0]` — [[study-aberdeen-1996-frame-relay-access-devices]]
 - Standard 2 T-1 or 4 serial; max 22 T-1 or 96 serial; carrier solution; 2 hard drives; 2 Ethernet and/or Token Ring `[ps=0]` — [[study-aberdeen-1996-frame-relay-access-devices]]
 - Only FRADs using all available bandwidth of frame relay line; local SNA acknowledgment reduces WAN load; transparent backup reroutes around network failures `[ps=0]` — [[study-aberdeen-1996-frame-relay-access-devices]]
-- One customer moved from 'maybe 5 users' with prior FRAD to 10x increase using OmniFRAD RISC architecture — [[study-aberdeen-1996-frame-relay-access-devices]]

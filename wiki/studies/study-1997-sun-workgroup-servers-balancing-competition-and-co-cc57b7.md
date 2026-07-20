@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 3.12
-prescience_obs_count: 8
+prescience_mean: 3.09
+prescience_obs_count: 11
 ---
 
 # Sun Workgroup Servers: Balancing Competition and Coexistence With Wintel Rivals
@@ -43,11 +43,11 @@ _Published 1997, author **Aberdeen Group (Robert Dorin)**, type **market-study**
 - Linux (not Solaris) became dominant Unix-based 64-bit platform; Solaris market share declined steadily after 2000 `[ps=5]`
 - Oracle discontinued Solaris x86 development around 2017; strategy ultimately failed to gain meaningful market share vs Linux `[ps=5]`
 - Sun Microsystems acquired by Oracle Corporation for $7.4B in January 2010; Solaris continues as Oracle Solaris `[ps=5]`
+- Sun fighting Microsoft on Windows NT in workgroup market while pursuing coexistence with Intel/Windows clients `[ps=4]`
 - Sun entering commercial workgroup server market with Enterprise 450 in direct competition with Compaq/Dell/HP/IBM Intel servers `[ps=3]`
 - Sun Enterprise 450 includes necessary features to compete effectively against Wintel servers `[ps=3]`
+- Aberdeen encouraged by Sun marketing messages and Sun's understanding it must coexist with rivals to play in enterprise market `[ps=3]`
 - Sun can take inside track as Unix standard for 64-bit computing if it coexists with Windows clients/servers `[ps=2]`
 - NCR partnership strengthens Solaris-on-Intel story; coexistence with Wintel will enhance Sun's competitive position `[ps=2]`
+- NCR adopted Solaris on Intel as reference platform for 64-bit Unix per 1997 partnership announcement `[ps=2]`
 - Performance/scalability; reliability; ease-of-use; PC interoperability; applications availability; service/support; price — seven factors assessed `[ps=0]`
-- Sun fighting Microsoft on Windows NT in workgroup market while pursuing coexistence with Intel/Windows clients
-- NCR adopted Solaris on Intel as reference platform for 64-bit Unix per 1997 partnership announcement
-- Aberdeen encouraged by Sun marketing messages and Sun's understanding it must coexist with rivals to play in enterprise market

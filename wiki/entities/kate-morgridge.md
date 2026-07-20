@@ -14,7 +14,7 @@ years_active: "circa 1984-1987"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Kate Morgridge
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- John Morgridge arranged for daughter Kate to run trade shows for Kastner after Kastner spent 2.5 years running the program. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
 - Turned out to be excellent — organized, energetic, genuinely good at the work. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
 - At first show wore T-shirt reading 'Stratus Computers Never Go Down On You' to a union work-site; taught her about human nature in 1980s tech industry. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
-- John Morgridge arranged for daughter Kate to run trade shows for Kastner after Kastner spent 2.5 years running the program. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]

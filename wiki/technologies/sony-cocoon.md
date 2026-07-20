@@ -12,9 +12,9 @@ era: "2003-2006"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Sony CoCoon
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Network-connected PVR-style media server — [[study-dct-webinar-nov-2002]]
+- Network-connected PVR-style media server `[ps=4]` — [[study-dct-webinar-nov-2002]]

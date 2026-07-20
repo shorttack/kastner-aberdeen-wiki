@@ -12,9 +12,9 @@ status: "Public then Acquired"
 successor: "Entrust Datacard (2009), then Entrust Corp"
 years_active: "1994-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Entrust Technologies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Entrust Technologies CA services integrate with BoKS for multi-level authorizations — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]
+- Entrust Technologies CA services integrate with BoKS for multi-level authorizations `[ps=0]` — [[study-1997-dynasoft's-boks-family--a-pragmatic-e6df7d]]

@@ -16,12 +16,12 @@ source_file: "HPtpc92.docx"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "not-applicable"
 prescience_5y_enum: "not-applicable"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 4
+prescience_obs_count: 7
 ---
 
 # HP Section: TPC Benchmark Viewpoint (Aberdeen Group, 1992)
@@ -44,6 +44,6 @@ _Published 1992, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 -  `[ps=0]`
 -  `[ps=0]`
 -  `[ps=0]`
-- 
-- 
-- 
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`

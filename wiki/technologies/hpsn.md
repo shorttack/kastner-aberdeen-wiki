@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.5
-prescience_obs_count: 2
+prescience_mean: 3.33
+prescience_obs_count: 3
 ---
 
 # HPSN (High-Performance Scalable Networking)
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - Collapsed backbone with server farm consolidation in data center; complex functions centralized in router `[ps=5]` — [[study-aberdeen-1995-3com-lanplex-2500]]
+- Distributed LAN switches in wiring closets; FDDI and Fast Ethernet high-speed links to servers and desktops `[ps=3]` — [[study-aberdeen-1995-3com-lanplex-2500]]
 - ATM migration beginning with campus backbone, extended to buildings where cost/performance justifies `[ps=2]` — [[study-aberdeen-1995-3com-lanplex-2500]]
-- Distributed LAN switches in wiring closets; FDDI and Fast Ethernet high-speed links to servers and desktops — [[study-aberdeen-1995-3com-lanplex-2500]]

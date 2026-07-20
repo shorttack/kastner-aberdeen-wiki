@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.47
-prescience_obs_count: 15
+prescience_mean: 2.4
+prescience_obs_count: 20
 ---
 
 # Software AG and Digital: Spreading High-Performance Solutions Throughout The Enterprise
@@ -44,19 +44,19 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Acquired by Compaq for $9.6B in June 1998; largest computer industry merger at the time `[ps=5]`
 - VLM technology extends high-performance database to broader enterprise applications; orders-of-magnitude improvements achievable `[ps=5]`
 - VLM enables ultra-high-performance OLTP by keeping hot data in main memory `[ps=5]`
+- In-memory databases (SAP HANA 2011, Redis, Memcached, VoltDB) became mainstream; Aberdeen's directional prediction proved accurate `[ps=4]`
 - VLM enables effective end-user access to larger databases with complex queries `[ps=4]`
 - 32-bit architectures address less than 1GB main memory; 64-bit Alpha increases addressable memory by several orders of magnitude `[ps=3]`
 - Available on HP-UX, IBM AIX, Sun Solaris, SCO Unix, Digital Unix, Windows NT, OS/2; broad cross-platform strategy `[ps=3]`
+- Software AG survived and grew; acquired by Silver Lake in 2023 for €2.2B; ADABAS & Natural being spun off as independent business in 2025 `[ps=3]`
+- VLM costs less than adding another system or solid-state disk; boosts topped-out SMP systems `[ps=2]`
 - Aberdeen recommends IS buyers consider Software AG/Digital for RDBMS and VLM deployments; implies long-term viability `[ps=2]`
 - Near-lights-out automated distributed-database administration; lower cost of ownership than Oracle/DB2 `[ps=2]`
 - Digital has large installed VAX customer base currently upgrading to Alpha `[ps=2]`
+- VLM delivers competitive advantage for ERP including SAP R/3 at medium enterprise scale `[ps=2]`
 - Aberdeen implies DEC has strong market position via Alpha; large VAX install base upgrading to Alpha `[ps=1]`
 - ADABAS D V6 supports 10-gigabytes-and-over data caches `[ps=0]`
 - Upwards of $500 million in revenues in fiscal 1995 `[ps=0]`
 - More than 15,000 Alpha servers shipped in the past year `[ps=0]`
+- ADABAS D integrates with mainframe Oracle, ADABAS C, and DB2 via ENTIRE networking `[ps=0]`
 - Available on HP-UX, AIX, Sun Solaris, SCO Unix, Digital Unix, Windows NT, OS/2 `[ps=0]`
-- VLM costs less than adding another system or solid-state disk; boosts topped-out SMP systems
-- Software AG survived and grew; acquired by Silver Lake in 2023 for €2.2B; ADABAS & Natural being spun off as independent business in 2025
-- In-memory databases (SAP HANA 2011, Redis, Memcached, VoltDB) became mainstream; Aberdeen's directional prediction proved accurate
-- ADABAS D integrates with mainframe Oracle, ADABAS C, and DB2 via ENTIRE networking
-- VLM delivers competitive advantage for ERP including SAP R/3 at medium enterprise scale

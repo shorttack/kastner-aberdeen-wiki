@@ -13,8 +13,8 @@ successor: "Accenture (renamed January 1, 2001)"
 years_active: "1989-present"
 occurrence_count: 12
 prescience_max: 5.0
-prescience_mean: 1.57
-prescience_obs_count: 14
+prescience_mean: 2.0
+prescience_obs_count: 18
 ---
 
 # Andersen Consulting LLP (Accenture)
@@ -29,8 +29,11 @@ prescience_obs_count: 14
 
 ## Top observations
 
+- Renamed Accenture on January 1 2001; separated from Arthur Andersen parent; now NYSE: ACN `[ps=5]` — [[study-1999-crm-professional-services-rpt-96bf13]]
 - Aberdeen separately published 'Decision-Makers Guide to Professional Services Support for SAP America Implementations' indicating large consultant-led market `[ps=5]` — [[study-aberdeen-1996-taming-sap-r3-consultant-led-introspection]]
+- Business growth will remain strong despite Arthur Andersen separation `[ps=5]` — [[study-erppsp~1-31f088]]
 - Andersen Consulting LLP positioned as leading management and IT consulting firm for utilities `[ps=5]` — [[study-utilities-transformed-it-696ffb]]
+- Largest SAP implementation partners; 300 Andersen technicians specialized in Siebel/SAP installation by 1997; take project lead `[ps=4]` — [[study-1997-teamsap-a3591b]]
 - Andersen Consulting rebranded as Accenture in January 2001; remains world's largest management consulting firm `[ps=4]` — [[study-1997-teamsap-a3591b]]
 - Global multidisciplinary CRM services with business transformation focus `[ps=4]` — [[study-1999-crm-professional-services-rpt-96bf13]]
 - Option 2 (build new client-server system while maintaining legacy) was the best strategic choice among the three options presented `[ps=4]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
@@ -43,9 +46,6 @@ prescience_obs_count: 14
 - Andersen Consulting rebranded as Accenture in January 2001 following arbitration with Arthur Andersen; became world's largest consulting firm `[ps=0]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
 - systems integrator for large retail implementations `[ps=0]` — [[study-retail~1-d5de79]]
 - Well-positioned to sell/integrate software; strategic consultant for restructuring decisions `[ps=0]` — [[study-utilit~1-0596b5]]
-- Largest SAP implementation partners; 300 Andersen technicians specialized in Siebel/SAP installation by 1997; take project lead — [[study-1997-teamsap-a3591b]]
-- Renamed Accenture on January 1 2001; separated from Arthur Andersen parent; now NYSE: ACN — [[study-1999-crm-professional-services-rpt-96bf13]]
-- Business growth will remain strong despite Arthur Andersen separation — [[study-erppsp~1-31f088]]
+- Andersen Consulting was the opposing party in the Intelligent Electronics v. Andersen case, one of Kastner’s early expert witness engagements. `[ps=0]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
 - Andersen's internal QA standards and practices are equal to or above industry norms in centralized coordination and mandated processes — [[study-ie-appendix-lane-qa-research-e594cb]]
 - Andersen requires all projects undergo at least one independent QA review; this is above industry norms where reviews are typically risk/revenue-based — [[study-ie-appendix-lane-qa-research-e594cb]]
-- Quality Management System (QMS) covers all quality management from internal best practices to external client satisfaction; CQM component manages engagement quality — [[study-ie-appendix-lane-qa-research-e594cb]]

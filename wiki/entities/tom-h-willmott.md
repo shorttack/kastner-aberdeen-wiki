@@ -14,7 +14,7 @@ years_active: "1980s-2000s"
 occurrence_count: 3
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 5
 ---
 
 # Tom H. Willmott
@@ -31,6 +31,6 @@ prescience_obs_count: 2
 
 - Evaluating Options in Microprocessor Multiprocessing `[ps=0]` — [[study-aberdeen-open-online-transaction-process-ea272f]]
 - Aberdeen Group 1990 `[ps=0]` — [[study-aberdeen-open-online-transaction-process-ea272f]]
-- Tom Willmott and/or Practice Directors — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
-- Came from IDC; covered networking and remaining white space not covered by other three founding partners. — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
-- Networking and everything that didn’t fit the other three buckets. — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
+- Tom Willmott and/or Practice Directors `[ps=0]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Came from IDC; covered networking and remaining white space not covered by other three founding partners. `[ps=0]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
+- Networking and everything that didn’t fit the other three buckets. `[ps=0]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]

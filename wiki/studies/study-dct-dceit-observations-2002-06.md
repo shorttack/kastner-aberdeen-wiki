@@ -16,12 +16,12 @@ source_file: "DCEIT observations to staff.doc"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.35
-prescience_obs_count: 20
+prescience_mean: 1.22
+prescience_obs_count: 23
 ---
 
 # Digital Consumer Electronics and Information Technology — Staff Observations
@@ -49,17 +49,17 @@ _Published 2002, author **Peter S. Kastner**, type **dct**._
 - Faster microprocessors due to Intel price reductions `[ps=2]`
 - As CPU speeds increase, memory and HDD GB offered decreases at same price point `[ps=1]`
 - Upgraded optical drives and better monitors compensate for lower memory `[ps=1]`
+- Offers unchanged in past three weeks; many already rock bottom `[ps=1]`
 - $400M shortfall; Europe new soft spot `[ps=0]`
 - Aggressive desktop and laptop chip price cuts (two weeks prior to memo) `[ps=0]`
 - 22% of Intel-compatible microprocessor market `[ps=0]`
 - Prep for Q3 back-to-school and Q4 Christmas buying seasons `[ps=0]`
+- Aberdeen's retail PC tracking research (Caroline Kastner) documented month-over-month changes `[ps=0]`
 - Lower HDD costs due to IBM inventory dumping `[ps=0]`
 - PC sales down as much as 22% this quarter `[ps=0]`
 - $60-$110 free shipping on popular models at HP, Sony, Dell, Gateway, Compaq, eMachines `[ps=0]`
 - Gateway 80GB HDD upgrade early May -> DVD-ROM/CD-RW upgrades or $100 mail-in rebate later `[ps=0]`
 - 1.3 GHz Celeron -> 1.7 GHz Celeron at same price `[ps=0]`
 - 2.0A GHz -> 2.26 GHz for same cost `[ps=0]`
+- Faster P4; less HDD GB `[ps=0]`
 - Launch 1.7 GHz Celeron -> P4 1.8/2.0 GHz same price `[ps=0]`
-- Aberdeen's retail PC tracking research (Caroline Kastner) documented month-over-month changes
-- Offers unchanged in past three weeks; many already rock bottom
-- Faster P4; less HDD GB

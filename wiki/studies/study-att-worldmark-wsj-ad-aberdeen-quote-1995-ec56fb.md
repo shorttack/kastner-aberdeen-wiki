@@ -16,12 +16,12 @@ source_file: "NCR-servers-WSJ-ad-psk-quote-1995-11-2.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.33
-prescience_obs_count: 6
+prescience_mean: 1.25
+prescience_obs_count: 8
 ---
 
 # AT&T WorldMark Servers WSJ Ad Featuring Aberdeen Group Endorsement (November 1995)
@@ -42,9 +42,9 @@ _Published 1995, author **AT&T Global Information Solutions (advertiser)**, type
 
 - WorldMark enables customers to gracefully scale data warehouses from SMP to clusters to MPP `[ps=4]`
 - One of the most scalable, compatible server product families in the marketplace `[ps=3]`
+- AT&T WorldMark delivers attractive affordability; investment protection; mix-and-match SMP/cluster/MPP `[ps=2]`
 - Clear indication AT&T is back to what it knows best: enterprise, scalable computing, all on Intel-inside `[ps=1]`
 - Aberdeen recommends users take a close look at the renewed prowess of AT&T GIS WorldMark line `[ps=0]`
 - Kastner Aberdeen Group VP of Corporate Computing practice during AT&T-NCR ownership `[ps=0]`
 - AT&T Global Information Solutions branding (NCR under AT&T 1991-1996) `[ps=0]`
-- AT&T WorldMark delivers attractive affordability; investment protection; mix-and-match SMP/cluster/MPP
-- AT&T 5100M with Intel Pentium processors
+- AT&T 5100M with Intel Pentium processors `[ps=0]`

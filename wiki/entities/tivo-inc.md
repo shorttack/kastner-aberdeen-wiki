@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Rovi 2016 -> Xperi 2020"
 years_active: "1997-2020"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # TiVo Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 50,000 of 104,000 new subscribers (48%) failed to redeem mail-in offers, reducing expected rebate expense by $5M and cutting Q1 loss to $857K from $9.1M prior-year — [[study-great-rebate-runaround-businessweek-grow-00f459]]
+- 50,000 of 104,000 new subscribers (48%) failed to redeem mail-in offers, reducing expected rebate expense by $5M and cutting Q1 loss to $857K from $9.1M prior-year `[ps=0]` — [[study-great-rebate-runaround-businessweek-grow-00f459]]

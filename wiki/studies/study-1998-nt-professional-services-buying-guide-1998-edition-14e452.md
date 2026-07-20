@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.19
-prescience_obs_count: 16
+prescience_mean: 2.36
+prescience_obs_count: 22
 ---
 
 # NT Professional Services Buying Guide: 1998 Edition
@@ -42,7 +42,11 @@ _Published 1998, author **Joe Clabby, Aberdeen Group**, type **market-study**._
 
 - NT complexities and shortcomings in scalability; stability; systems management; storage management; security; and directory/domain services drive professional services demand `[ps=5]`
 - DEC acquired by Compaq January 26 1998 for $9.6B — the largest computer merger at the time; DEC's NT Professional Services became Compaq Professional Services `[ps=5]`
+- Data General acquired by EMC Corporation October 1999 for $1.1B `[ps=5]`
+- Windows NT growing rapidly in market share on PC desktop and entry-level server, workgroup, and midrange server markets `[ps=4]`
 - Training of IS staff and user community in NT-based systems and applications `[ps=4]`
+- Systems integrators ranging from small focused consultancies to large strategic planning and implementation firms `[ps=4]`
+- Best IS resources frequently occupied with Y2K issues; enterprise intranet/extranet; and ERP/Supply Chain initiatives — driving external NT services demand `[ps=4]`
 - If deploying specific NT-based applications (SAP/Baan/Oracle/CA): choose ISV professional services or their IPSP subcontractors `[ps=4]`
 - (1) Desktop-grown NT consultants; (2) Production-environment veterans from mainframes/AS400/Unix — the latter commands higher pay `[ps=4]`
 - NT Professional Services revenues projected to grow through 2001 `[ps=4]`
@@ -51,14 +55,10 @@ _Published 1998, author **Joe Clabby, Aberdeen Group**, type **market-study**._
 - If IS needs strategic business planning + implementation: choose IPSP; if strategic direction set and seeking design/deployment: choose OEM `[ps=3]`
 - Scheduling; tracking; troubleshooting related to NT systems/application implementation `[ps=0]`
 - Ongoing maintenance and management of installed NT environment `[ps=0]`
+- Computer makers providing NT platforms and NT-related services/support `[ps=0]`
 - VARs and PC/server distributors that have entered NT design/deployment business `[ps=0]`
+- Tandem acquired by Compaq June 1997 for ~$3B; report already notes 'Tandem's NT Professional Services (Now Known as Compaq Professional Services)' `[ps=0]`
 - Acquired by Novell July 10 2001 for ~$266M; Jack Messman (CTP CEO) became Novell CEO `[ps=0]`
 - Coopers & Lybrand merged with Price Waterhouse July 1998 to form PricewaterhouseCoopers — same year as this report `[ps=0]`
 - Acquired by Siemens AG March 2000 for approximately $105M; became Siemens IT Service `[ps=0]`
 - 116-page report priced at $1495; includes 12 explanatory illustrations `[ps=0]`
-- Windows NT growing rapidly in market share on PC desktop and entry-level server, workgroup, and midrange server markets
-- Computer makers providing NT platforms and NT-related services/support
-- Systems integrators ranging from small focused consultancies to large strategic planning and implementation firms
-- Best IS resources frequently occupied with Y2K issues; enterprise intranet/extranet; and ERP/Supply Chain initiatives — driving external NT services demand
-- Tandem acquired by Compaq June 1997 for ~$3B; report already notes 'Tandem's NT Professional Services (Now Known as Compaq Professional Services)'
-- Data General acquired by EMC Corporation October 1999 for $1.1B

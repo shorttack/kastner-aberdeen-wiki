@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # TSAPI (Telephony Services API)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Q1 1996 (planned) — [[study-aberdeen-1995-hp-customer-interaction-software]]
+- Q1 1996 (planned) `[ps=0]` — [[study-aberdeen-1995-hp-customer-interaction-software]]

@@ -13,8 +13,8 @@ lifecycle_at_study: "active"
 lifecycle_current: "Still actively developed and widely deployed as of 2026; available as Exchange Server and Exchange Online (Microsoft 365)."
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Microsoft Exchange Server
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Cannot afford staff time to clean up; new disk cheaper than cleanup labor `[ps=5]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
-- ~1 TB — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
+- ~1 TB `[ps=0]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]

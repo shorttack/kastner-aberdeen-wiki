@@ -16,12 +16,12 @@ source_file: "Archive-1/2004-05Dell storage Profile EDITpk 051704f.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.8
-prescience_obs_count: 15
+prescience_mean: 1.9
+prescience_obs_count: 20
 ---
 
 # Dell: Applying Its Business Value Model to Storage
@@ -40,23 +40,23 @@ _Published 2004, author **David Hill; Peter S. Kastner**, type **case-analysis**
 
 ## Top observations
 
+- Standardizing on LTO-2; emphasizing LTO going forward `[ps=5]`
 - Deserves place at business discussion table for all sizes `[ps=5]`
 - 60% of respondents cite managing storage within budget as critical success factor `[ps=4]`
 - Satisfactory performance at less cost (midline storage) `[ps=4]`
 - ATA for fixed content and nearline pools; lower cost `[ps=4]`
 - Deliver industry-leading value; drive standards; move high-end functionality downstream `[ps=4]`
+- CX200→CX300 upgrade: replace controller only; no data migration `[ps=4]`
 - Standardization → larger market → technology refinements → declining costs → next standard `[ps=4]`
 - Windows Storage Server 2003; standard not proprietary `[ps=2]`
+- Storage integrator not OEM; direct model enables value pass-through `[ps=2]`
 - Extended through December 2008 (5+2 years) `[ps=0]`
 - 70% faster `[ps=0]`
 - 100% faster `[ps=0]`
 - 25% faster `[ps=0]`
 - Up to 3 TB on SATA drives `[ps=0]`
 - Available from CX300 (entry) through CX700 (high-end) `[ps=0]`
+- Web-based; discovers/visualizes/monitors servers-switches-storage `[ps=0]`
+- Supports CIFS (Windows); AFP (Mac); NFS (Unix/Linux) `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - Dell showed EMC how SMB segment benefits from Dell|EMC products `[ps=0]`
-- Standardizing on LTO-2; emphasizing LTO going forward
-- Storage integrator not OEM; direct model enables value pass-through
-- Web-based; discovers/visualizes/monitors servers-switches-storage
-- Supports CIFS (Windows); AFP (Mac); NFS (Unix/Linux)
-- CX200→CX300 upgrade: replace controller only; no data migration

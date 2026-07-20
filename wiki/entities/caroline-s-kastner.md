@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Caroline S. Kastner
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- Aberdeen's retail PC tracking research (Caroline Kastner) documented month-over-month changes `[ps=0]` — [[study-dct-dceit-observations-2002-06]]
 - Caroline Kastner ran Aberdeen's retail PC tracking research — [[study-dct-about-weekly-pc-deals-2002]]
-- Aberdeen's retail PC tracking research (Caroline Kastner) documented month-over-month changes — [[study-dct-dceit-observations-2002-06]]

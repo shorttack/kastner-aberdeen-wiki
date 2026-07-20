@@ -13,8 +13,8 @@ successor: "Attachmate (2011) -> Micro Focus (2014) -> OpenText (2023)"
 years_active: "1979-2011"
 occurrence_count: 3
 prescience_max: 5.0
-prescience_mean: 2.67
-prescience_obs_count: 6
+prescience_mean: 2.29
+prescience_obs_count: 7
 ---
 
 # Novell, Inc.
@@ -34,5 +34,5 @@ prescience_obs_count: 6
 - Novell is still technology and market-share NOS leader; not a dead company; NetWare 5 expected summer 1998 `[ps=3]` — [[study-nospra~1-bd7d6a]]
 - IntranetWare provides extensive improvements to platform/print/file/application/security; good Internet integration `[ps=3]` — [[study-nospra~1-bd7d6a]]
 - NetWare 5 launch on track; beta testing on schedule; customer feedback favorable; good chance to recapture mindshare `[ps=1]` — [[study-nospra~1-bd7d6a]]
+- Verify NetWare 5 reception and market impact. `[ps=0]` — [[study-nospra~1-bd7d6a]]
 - Novell acquired by Attachmate in 2011; SUSE Linux later spun off to EQT (2018) and returned to IPO (2021); Microsoft-Novell patent pact superseded. `[ps=0]` — [[study-novell-and-microsoft-good-for-business-4-59404e]]
-- Verify NetWare 5 reception and market impact. — [[study-nospra~1-bd7d6a]]

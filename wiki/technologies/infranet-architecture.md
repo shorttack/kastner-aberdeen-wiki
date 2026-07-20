@@ -12,9 +12,9 @@ era: "1996-2006"
 lifecycle_at_study: "current"
 lifecycle_current: "legacy-acquired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Infranet N-tier Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- N-tier application servers; object-oriented; load balancing; 4-level firewall; backup servers at each tier; complete API set — [[study-portal-99-fe5656]]
+- N-tier application servers; object-oriented; load balancing; 4-level firewall; backup servers at each tier; complete API set `[ps=4]` — [[study-portal-99-fe5656]]

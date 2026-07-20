@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Anti-Virus / Applet Control
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- declining rate; moving to gateway; unit volumes shrinking — [[study-securi~1-3e7ced]]
+- declining rate; moving to gateway; unit volumes shrinking `[ps=0]` — [[study-securi~1-3e7ced]]

@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.74
-prescience_obs_count: 19
+prescience_mean: 1.57
+prescience_obs_count: 23
 ---
 
 # Hewlett-Packard's Strategy to Surpass Compaq in the Enterprise-NT Marketplace
@@ -47,9 +47,12 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 - Dell surpassed Compaq in PC market share by 2001 `[ps=5]`
 - TCO reduction / HP-MS joint solutions / heterogeneous interoperability `[ps=4]`
 - Manageability + Availability + Performance `[ps=3]`
+- competitive alternatives to MS (Notes vs Exchange; DB2 vs SQL Server; Java vs ActiveX) `[ps=3]`
 - HP will have time-to-market advantage via Merced co-development `[ps=1]`
 - $38 billion `[ps=0]`
+- $20 billion `[ps=0]`
 - more than double HP marketshare `[ps=0]`
+- 9198 tpm at $50/tpm `[ps=0]`
 - $200M/year `[ps=0]`
 - 23500+ `[ps=0]`
 - 38000+ distributors/VARs `[ps=0]`
@@ -57,9 +60,6 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 - potentially by late 1998 `[ps=0]`
 - at least 5 years `[ps=0]`
 - margins below 25% current level `[ps=0]`
+- completed 1997 `[ps=0]`
 - 2001 (not 1999/2000 as expected) `[ps=0]`
 - $1000 `[ps=0]`
-- $20 billion
-- 9198 tpm at $50/tpm
-- completed 1997
-- competitive alternatives to MS (Notes vs Exchange; DB2 vs SQL Server; Java vs ActiveX)

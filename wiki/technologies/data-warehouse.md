@@ -13,8 +13,8 @@ lifecycle_at_study: "active-strategy-trend"
 lifecycle_current: "evolved-to-data-lakehouse"
 occurrence_count: 13
 prescience_max: 5.0
-prescience_mean: 2.77
-prescience_obs_count: 35
+prescience_mean: 2.83
+prescience_obs_count: 40
 ---
 
 # Data Warehouse / Business Intelligence
@@ -46,6 +46,6 @@ prescience_obs_count: 35
 - IS executives must build data access systems that reflect business drivers embedded in end-user behavior; IT-driven warehouses miss this requirement `[ps=4]` — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
 - Hub-and-spoke data warehouse architecture (matching Aberdeen's integrated model) became the dominant enterprise BI pattern through 2000s; standalone data marts caused exactly the fragmentation Aberdeen warned about `[ps=4]` — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
 - All major enterprise database suppliers offer extensive data warehousing support: IBM, Microsoft, Oracle, Sybase, plus NCR-Teradata `[ps=4]` — [[study-aberdeen-eii-2003-ea3f1a]]
+- By 2000, enterprise data warehouses were standard across Fortune 1000; Teradata, Oracle, IBM DB2, Sybase IQ, Red Brick all had large installed bases; warehouse industry revenue exceeded $5B annually by 1999 `[ps=4]` — [[study-data-warehouse-2-years-later-cause-1994-721bb1]]
 - Snowflake IPO (2020) at $70B+; Google BigQuery, Amazon Redshift, Databricks lakehouse all multi-billion-dollar platforms by 2024; 'every company' runs data warehouses `[ps=4]` — [[study-data-warehouse-2-years-later-cause-1994-721bb1]]
 - Data warehousing is reaching mainstream `[ps=4]` — [[study-software-market-safegu~1-ea7453]]
-- Each office keeps a complete active claims copy while transactions are pulled to an enterprise superserver database of record, pushed back to offices, and transformed into a data warehouse `[ps=3]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1970s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Dennis McEvoy
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 16-CPU TXP can do 100 tps; 10-system FOX network can do 'magic 1000 tps' — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]
-- Tandem V.2/V.5 cost/TPS substantially lower than IBM TPF2 in COBOL-vs-assembly comparison — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]
+- 16-CPU TXP can do 100 tps; 10-system FOX network can do 'magic 1000 tps' `[ps=3]` — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]
+- Tandem V.2/V.5 cost/TPS substantially lower than IBM TPF2 in COBOL-vs-assembly comparison `[ps=3]` — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]

@@ -13,8 +13,8 @@ successor: "Computer Associates (division merged back)"
 years_active: "1999-2002"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.83
-prescience_obs_count: 6
+prescience_mean: 2.71
+prescience_obs_count: 7
 ---
 
 # interBiz Solutions
@@ -29,5 +29,5 @@ prescience_obs_count: 6
 - CA can spread its multi-billion-dollar technology investments across many customers, lowering unit costs. `[ps=3]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
 - BizWorks or BizWorks agents can be installed at modest cost with no intrusion at suppliers and customers; provides data translation, management, and security through the extended supply chain. `[ps=3]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
 - BizWorks positioned as creating a NEW CLASS of business applications rather than competing with existing EAI (data/process automation) products. `[ps=2]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
+- Implementing the functional equivalent of BizWorks would require years, assuming it were even possible. `[ps=2]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
 - CA better suited to keeping BizWorks technology current with expected torrent of technology changes. `[ps=1]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
-- Implementing the functional equivalent of BizWorks would require years, assuming it were even possible. — [[study-ca-interbiz-bizworks-profile-054f3c]]

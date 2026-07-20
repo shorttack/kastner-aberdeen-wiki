@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Alex Slawsby
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IDC analyst Alex Slawsby notes that despite Motorola's high profile and the diversity of products and services it brings to the market, the company realized recently that it was spreading itself too thin — framing the Zander selection as a back-to-the-core moment. — [[study-technology-news-boardroom-former-sun-exe-bc336f]]
+- IDC analyst Alex Slawsby notes that despite Motorola's high profile and the diversity of products and services it brings to the market, the company realized recently that it was spreading itself too thin — framing the Zander selection as a back-to-the-core moment. `[ps=4]` — [[study-technology-news-boardroom-former-sun-exe-bc336f]]

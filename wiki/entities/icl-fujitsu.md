@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Fujitsu Technology Solutions"
 years_active: "1968-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # ICL/Fujitsu
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $340 million — [[study-aberdeen-1996-risc-unix-market]]
+- $340 million `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]

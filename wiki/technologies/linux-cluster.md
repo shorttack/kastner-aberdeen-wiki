@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 2
+prescience_mean: 4.67
+prescience_obs_count: 3
 ---
 
 # Linux Server Clusters
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - Commodity Linux clusters became dominant substrate for cloud computing (AWS, Azure, Google Cloud); prediction correct for new workloads `[ps=5]` — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
+- Systems management identified as key challenge/requirement for large Linux cluster deployments `[ps=5]` — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
 - Jointly announced shared vision of tomorrow's enterprise data center based on standardized technologies dominated by clusters of small servers running Linux `[ps=4]` — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
-- Systems management identified as key challenge/requirement for large Linux cluster deployments — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]

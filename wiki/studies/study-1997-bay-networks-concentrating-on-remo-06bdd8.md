@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.5
-prescience_obs_count: 10
+prescience_mean: 2.27
+prescience_obs_count: 15
 ---
 
 # Bay Networks: Concentrating on Remote Access
@@ -43,15 +43,15 @@ _Published 1997, author **Virginia Brooks**, type **announcement-profile**._
 - Competing x2 (3Com) and K56flex (Rockwell) standards created compatibility challenges `[ps=5]`
 - Aberdeen implies 56K standard fragmentation would need resolution for market to mature `[ps=5]`
 - ITU ratified V.90 standard February 1998 (draft) and September 1998 (final); unified x2 and K56flex into single standard `[ps=5]`
+- Acquired by Nortel Networks for $9.1 billion in June 1998; enterprise business eventually sold to Avaya in 2009 following Nortel bankruptcy `[ps=5]`
 - High-density access for service providers, telcos, carriers, enterprise networks; modular form in Bay 5000 MSX `[ps=3]`
 - Stand-alone box for smaller ISPs and enterprise users `[ps=3]`
 - Bay Networks acquired Penril Datability Networks (November 1996) to gain DSP modem technology for remote access portfolio expansion `[ps=3]`
+- High-density access scalability, support for 56K modem technologies, carrier-class reliability `[ps=3]`
 - Bay Networks positioned to address high-density remote access market with 5399 against Ascend and others `[ps=2]`
+- Acquired by Lucent Technologies in 1999 for approximately $20 billion `[ps=1]`
 - Acquired via Penril Datability Networks acquisition (November 1996) `[ps=0]`
 - 5399 won first large order from Prodigy (online service) over Ascend in October 1997; Bay Networks acquired by Nortel for $9.1B in June 1998 `[ps=0]`
+- Primary competitor to Bay Networks in high-density remote access concentrator market `[ps=0]`
+- Up to 48 modems per card with T1/PRI integration `[ps=0]`
 - Two-tier product strategy: high-density modular (5399) for carriers/large enterprise + stand-alone (8000) for SMB/smaller ISPs `[ps=-1]`
-- Acquired by Nortel Networks for $9.1 billion in June 1998; enterprise business eventually sold to Avaya in 2009 following Nortel bankruptcy
-- Primary competitor to Bay Networks in high-density remote access concentrator market
-- Acquired by Lucent Technologies in 1999 for approximately $20 billion
-- High-density access scalability, support for 56K modem technologies, carrier-class reliability
-- Up to 48 modems per card with T1/PRI integration

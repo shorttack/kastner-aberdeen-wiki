@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Nokia (IP Division)"
 years_active: "1994-1998"
 occurrence_count: 1
-prescience_max: 1.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # Ipsilon Networks, Inc.
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- IP Switching pioneer; needed cash, distribution channels, and Fortune 500 market access `[ps=4]` — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
 - Ipsilon expected to grow global presence via Cabletron's Synergy/Plus program and Fortune 500 access `[ps=1]` — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
 - Nokia acquired Ipsilon for $120M cash+stock in December 1997 — 8 months after this report; Cabletron's $20M equity stake became worth only ~$6M; the alliance framework was effectively dissolved `[ps=-1]` — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
-- IP Switching pioneer; needed cash, distribution channels, and Fortune 500 market access — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]

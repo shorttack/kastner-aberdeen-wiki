@@ -12,9 +12,9 @@ era: "1998-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Oracle Applications Release 11
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle finally ready to reap benefits of Application Division investment — [[study-erpv2p~1-b15573]]
+- Oracle finally ready to reap benefits of Application Division investment `[ps=4]` — [[study-erpv2p~1-b15573]]

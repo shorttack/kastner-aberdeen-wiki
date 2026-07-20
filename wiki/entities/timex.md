@@ -13,8 +13,8 @@ successor: "[none]"
 years_active: "1854-present"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 1.35
-prescience_obs_count: 26
+prescience_mean: 1.0
+prescience_obs_count: 35
 ---
 
 # Timex Group USA
@@ -41,6 +41,6 @@ prescience_obs_count: 26
 - 80% in use `[ps=0]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
 - 10% increase `[ps=0]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
 - 10% increase `[ps=0]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
+- 80% FC `[ps=0]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
+- 20% SCSI `[ps=0]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
 - 80% inactive `[ps=0]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
-- 2 out of 7 `[ps=0]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
-- 2 out of 7 — unlikely `[ps=0]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]

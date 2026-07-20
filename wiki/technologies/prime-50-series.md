@@ -13,8 +13,8 @@ lifecycle_at_study: "production"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 1.67
-prescience_obs_count: 3
+prescience_mean: 2.0
+prescience_obs_count: 4
 ---
 
 # Prime 50 Series (250-II / 550-II / 750 / 850)
@@ -25,6 +25,6 @@ prescience_obs_count: 3
 ## Top observations
 
 - You didn’t sell a 750 or a 50-series; you sold 'an on-line banking platform' or 'an interactive engineering environment.' `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Hybrid of mainframe discipline and Route 128 swagger; named accounts, territorial sales, solution selling around business problems rather than raw MIPS. `[ps=3]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
 - Kastner visited GCHQ in Cheltenham; a Prime system was doing satellite photo analysis on the Iran-Iraq war. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
 - Customer discovered they had bought a Prime 750 running PRIMOS, Prime networking, and a 4GL database environment descended from Pick architecture. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
-- Hybrid of mainframe discipline and Route 128 swagger; named accounts, territorial sales, solution selling around business problems rather than raw MIPS. — [[study-volume-1-ch04-prime-computer-1979-1981]]

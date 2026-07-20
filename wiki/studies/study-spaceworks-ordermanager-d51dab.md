@@ -16,12 +16,12 @@ source_file: "1997 SpaceWorks OrderManager_ An Electronic Sales Channel for Whol
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "low"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 6
+prescience_mean: 2.7
+prescience_obs_count: 10
 ---
 
 # SpaceWorks OrderManager: An Electronic Sales Channel for Wholesale Distributors
@@ -40,13 +40,13 @@ _Published 1997, author **David Alschuler (Aberdeen Group)**, type **market-stud
 
 ## Top observations
 
+- SpaceWorks shut down operations abruptly in May 2001 after fifth round of financing failed to materialize `[ps=5]`
 - Wholesale distributors need to manage virtual sales channels and automate sales-to-order processes via Internet-enabled B2B systems `[ps=5]`
 - Positioned on completeness + rapid implementation + legacy enterprise integration; targeted mid-to-large organizations and CSPs `[ps=4]`
+- Real-time transaction processing interoperation between web-based sales channel and legacy systems `[ps=4]`
 - Product functionality and pricing positions it for mid-to-large sized organizations and Commerce Service Providers offering hosting `[ps=4]`
 - B2B e-commerce wholesale distribution market consolidated around SAP Commerce, Oracle Commerce, and specialized platforms; CSP model evolved into modern SaaS `[ps=3]`
 - Implied viable B2B e-commerce platform for wholesale distribution; Aberdeen publication as endorsement `[ps=2]`
+- Demonstrated good scalability in early implementations `[ps=0]`
 - Suitable for hosted multi-seller Commerce Server Provider (CSP) environments `[ps=0]`
-- Real-time transaction processing interoperation between web-based sales channel and legacy systems
-- Demonstrated good scalability in early implementations
-- Computer products, food and beverage, pharmaceutical and medical supplies, industrial parts and equipment, consumer electronics manufacturers
-- SpaceWorks shut down operations abruptly in May 2001 after fifth round of financing failed to materialize
+- Computer products, food and beverage, pharmaceutical and medical supplies, industrial parts and equipment, consumer electronics manufacturers `[ps=0]`

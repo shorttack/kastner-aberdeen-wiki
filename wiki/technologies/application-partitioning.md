@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Application Partitioning
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- OOP enables modular application development; partitioned components can be maintained/modified with fewest staff resources and shortest time — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]
+- OOP enables modular application development; partitioned components can be maintained/modified with fewest staff resources and shortest time `[ps=4]` — [[study-aberdeen-1996-object-oriented-three-tier-plus-computing]]

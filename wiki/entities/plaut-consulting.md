@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1968-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Plaut Consulting GmbH
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Must grow US service professionals to become major SAP implementor in US — [[study-erppsp~1-31f088]]
+- Must grow US service professionals to become major SAP implementor in US `[ps=0]` — [[study-erppsp~1-31f088]]

@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.29
-prescience_obs_count: 21
+prescience_mean: 1.46
+prescience_obs_count: 26
 ---
 
 # OmniBox Interactive Broadcasting Network: Bringing Electronic Commerce and Entertainment to the Masses
@@ -44,7 +44,10 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Operators constrained by need to purchase millions of set-top boxes `[ps=4]`
 - Minimal rewiring needed; analog/digital integration enables incremental digital channels `[ps=4]`
 - Multi-media support: cable, phone, satellite, wireless; standards-compliant `[ps=4]`
+- Rapid growth expected as analog channels converted to digital `[ps=4]`
+- Mass deployment accelerated via DOCSIS and digital cable rollouts 1998-2002 `[ps=4]`
 - ADSL and ISDN as primary home broadband approaches `[ps=3]`
+- Internet first (1997), then cable TV, then full broadcast `[ps=3]`
 - Early leader among 100M-household market competitors `[ps=2]`
 - ISP/cable operators earn transaction fees without head-end admin costs `[ps=2]`
 - Point-of-sale model with direct private phone line to financial institution; no SSL required `[ps=2]`
@@ -53,15 +56,12 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - 4x lower bandwidth at equivalent picture quality `[ps=0]`
 - Up to 100:1 `[ps=0]`
 - $300 retail PC add-in board (1998 estimate) `[ps=0]`
+- Up to 60% according to Aberdeen research `[ps=0]`
 - $100 million+ `[ps=0]`
+- Industry standard with major manufacturer support `[ps=0]`
 - Internet launch mid-1997; cable TV to follow `[ps=0]`
 - Over 1 million desktops `[ps=0]`
 - First successful demonstration on Time Warner Quantum system NYC `[ps=0]`
 - Direct competitor via satellite; limited to PC or TV separately `[ps=0]`
 - Second round of funding underway for 1997 national rollout `[ps=0]`
 - Never achieved commercial rollout; company dissolved by late 1990s `[ps=0]`
-- Did not reach 1 million desktop target; product never shipped commercially `[ps=0]`
-- Up to 60% according to Aberdeen research
-- Industry standard with major manufacturer support
-- Internet first (1997), then cable TV, then full broadcast
-- Rapid growth expected as analog channels converted to digital

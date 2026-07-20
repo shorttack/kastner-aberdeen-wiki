@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'standard-current', 'notes': 'MPEG-4 compression remains an active, widely-used standard. MPEG-4 Part 10 (H.264/AVC) is the most widely deployed video codec globally. MPEG-4 Part 2 is still used. H.265/HEVC and AV1 are newer but MPEG-4 standards remain current.', 'source': 'General knowledge / ISO/IEC standards'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # MPEG-4 Video Compression
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Software application to convert MPEG-4 files to SD-compatible format planned for release — [[study-dct-oct.-4-hot-topic-b61c0d]]
+- Software application to convert MPEG-4 files to SD-compatible format planned for release `[ps=0]` — [[study-dct-oct.-4-hot-topic-b61c0d]]

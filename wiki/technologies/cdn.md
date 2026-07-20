@@ -13,8 +13,8 @@ lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.88
-prescience_obs_count: 8
+prescience_mean: 3.82
+prescience_obs_count: 11
 ---
 
 # Content Delivery Network (CDN)
@@ -29,9 +29,9 @@ prescience_obs_count: 8
 - With a CDN we needed fewer servers less room less power and less floor space to meet performance thresholds `[ps=5]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
 - Next stage of Web application delivery will benefit greatly from central management of rules applied on distributed basis `[ps=5]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
 - CDNs increase flexibility improve response times for end-users and lower scalability costs for Web operations `[ps=5]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
+- Traffic filtering and intrusion detection offloaded because everything goes through Mirror Image network `[ps=4]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
+- By not focusing on scaling bandwidth server or security issues team could enhance products faster `[ps=4]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
 - Price was a huge issue; Mirror Image willing to build pricing model accounting for growth trajectory over time `[ps=3]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
 - Three major CDN vendors proved they could accelerate site offload data centers and reach consumers worldwide with similar pricing `[ps=3]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
+- Mirror Image improved significantly the site performance; can scale very cost-effectively `[ps=3]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
 - MI staff is almost a part of my staff; MI support team helps resolve problems whether or not from Mirror Image `[ps=0]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
-- Traffic filtering and intrusion detection offloaded because everything goes through Mirror Image network — [[study-mirror-image-profile-v2-050404-97e2a6]]
-- By not focusing on scaling bandwidth server or security issues team could enhance products faster — [[study-mirror-image-profile-v2-050404-97e2a6]]
-- Mirror Image improved significantly the site performance; can scale very cost-effectively — [[study-mirror-image-profile-v2-050404-97e2a6]]

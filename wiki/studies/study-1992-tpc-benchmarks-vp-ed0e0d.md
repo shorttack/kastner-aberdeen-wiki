@@ -16,12 +16,12 @@ source_file: "1992-TPC-Benchmarks-VP.docx"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 0.5
-prescience_obs_count: 24
+prescience_mean: 0.62
+prescience_obs_count: 32
 ---
 
 # Better Performance and Lower Prices Through TPC Benchmarks
@@ -41,11 +41,17 @@ _Published 1992, author **Peter S. Kastner / Aberdeen Group**, type **white-pape
 ## Top observations
 
 - Under public review; expected approval summer 1992 `[ps=5]`
+- De facto industry standard for measuring commercial performance and price-performance `[ps=4]`
+- 50% throughput increase; 3x price-performance improvement `[ps=4]`
 - Early price-performance leader; overtaken by DEC, HP, IBM by 1992 `[ps=4]`
 - Mandate TPC-A results in RFPs; use independent auditor for large acquisitions `[ps=3]`
+- 36.5 `[ps=0]`
 - 7.7 `[ps=0]`
 - 79% industry drop in K$/TPS-A `[ps=0]`
+- 6 changes in 2.5 months involving 6 different suppliers `[ps=0]`
+- 28 TPS-A for $214K total system cost `[ps=0]`
 - 7.69 `[ps=0]`
+- 10.71 `[ps=0]`
 - 200+ `[ps=0]`
 - 27 `[ps=0]`
 - From 31.90 to 10.71 (threefold improvement) `[ps=0]`
@@ -59,9 +65,3 @@ _Published 1992, author **Peter S. Kastner / Aberdeen Group**, type **white-pape
 - Published 1985 in Datamation anonymously by ~20 academics and industry developers `[ps=0]`
 - Late 1988 `[ps=0]`
 - Within 20% from MicroVAX 3100 entry-level to VAX 6000-640 `[ps=0]`
-- Aberdeen Group has audited several TPC benchmarks `[ps=0]`
-- Advanced from also-ran to serious-contender `[ps=0]`
-- Approaching $7.5K/TPS-A; expected slow near 6.5K by 1994 `[ps=0]`
-- 90% of transactions complete in <2 seconds; 10+ connected users per TPS-A `[ps=0]`
-- Sum of hardware, software, maintenance for server, network, and terminals over 5-year period `[ps=0]`
-- De facto industry standard for measuring commercial performance and price-performance

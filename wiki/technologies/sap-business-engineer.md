@@ -12,9 +12,9 @@ era: "1996-2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # SAP Business Engineer (BE)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- BE models not all integrated; new processes cannot be created outside R/3; modification of supplied processes not supported; external processes not includable in enterprise model — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
+- BE models not all integrated; new processes cannot be created outside R/3; modification of supplied processes not supported; external processes not includable in enterprise model `[ps=2]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]

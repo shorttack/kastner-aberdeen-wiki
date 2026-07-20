@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.36
-prescience_obs_count: 22
+prescience_mean: 3.32
+prescience_obs_count: 25
 ---
 
 # Microsoft Windows NT 5.0: A Planning Guide
@@ -51,17 +51,17 @@ _Published 1998, author **Aberdeen Group (Wayne Kernochan lead; 11 contributing 
 - Benefits will be slow to arrive and unevenly distributed across enterprise types; careful planning is mandatory `[ps=4]`
 - Active Directory problems mean mid- and large-sized organizations will need major effort to deploy NT beyond the workgroup `[ps=4]`
 - NT 5.0 with 40M lines of code and CE integration positions as platform for future of all Windows releases — corporate server to embedded `[ps=4]`
+- NT 5.0 release will occur in frantic atmosphere of Year 2000 concerns and Internet hype; IS should not allow these issues to distract from NT 5.0 migration planning `[ps=4]`
 - MMC and Snap-ins represent new administrative paradigm requiring ISV tool development; tools not available at NT 5.0 FCS `[ps=4]`
 - Should have greatest OS-upgrade impact on all types of enterprises at least since the heyday of the mainframe; and perhaps the greatest impact ever `[ps=3]`
 - NT 5.0 has as much as 40 million lines of code `[ps=3]`
 - Enterprise Edition with enhanced scalability projected within a year of NT 5.0 FCS; 64-bit version planned for Intel IA-64 when Merced reaches mass market `[ps=3]`
 - Kerberos; PKI; and SSO added to NT 5.0; but Microsoft has not shown signs of resolving heterogeneous interoperability — Aberdeen recommends other suppliers for mixed environments `[ps=3]`
+- Microsoft best game in town for Internet/Intranet scaling applications; NT 5.0 will strengthen but not fully deliver on Internet infrastructure promise `[ps=3]`
 - NT 5.0 Workstation requires 64 MB RAM; users upgrading desktops will need to rebuild file systems — major inconvenience multiplied across enterprise's thousands of desktops `[ps=3]`
 - NT 5.0 storage management capabilities likely to be a pleasant surprise; one-stop storage shopping and reduced labor burden `[ps=3]`
 - Early implementers who have not preplanned and pretested will face major enterprise-implementation problems similar to NT 3.5.1 and NT 4.0 `[ps=3]`
 - Systems Management Server 2.0 part of ZAW — requires large ISV customization before yielding value `[ps=3]`
+- Microsoft plans 64-bit NT 5.0 for Intel IA-64 when Merced reaches mass market; potentially dramatic performance improvements `[ps=2]`
 - NT 5.0 improvements will make it comparable to some midrange environments; but will not fully arrive until 1 year (best case) or 2 years (Aberdeen worst-case) post-FCS `[ps=-1]`
 - Windows 2000 achieved significant enterprise adoption but was largely superseded by Windows XP (Oct 2001) and Server 2003 within 3 years; confirming Aberdeen's prediction of uneven and slow benefits `[ps=-1]`
-- Microsoft best game in town for Internet/Intranet scaling applications; NT 5.0 will strengthen but not fully deliver on Internet infrastructure promise
-- Microsoft plans 64-bit NT 5.0 for Intel IA-64 when Merced reaches mass market; potentially dramatic performance improvements
-- NT 5.0 release will occur in frantic atmosphere of Year 2000 concerns and Internet hype; IS should not allow these issues to distract from NT 5.0 migration planning

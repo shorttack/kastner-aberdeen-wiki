@@ -14,7 +14,7 @@ lifecycle_current: "mainstream"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # High Availability (HA) Clustering
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- SPARCcluster 1000/2000 PDB and SPARCcluster HA `[ps=0]` — [[study-aberdeen-1995-sun-microsystems-computer-company]]
 - Netra s/i for Systems Management and Internet access; SPARCcluster for HA and PDB `[ps=0]` — [[study-aberdeen-1995-sun-microsystems-computer-company]]
-- SPARCcluster 1000/2000 PDB and SPARCcluster HA — [[study-aberdeen-1995-sun-microsystems-computer-company]]

@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Symmetric Multiprocessing (SMP) Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Suppliers divided: proprietary >4-way now vs. waiting for Intel standard 8-way chipset; few NT apps exploit multi-threading — [[study-ntserv~1-56bd94]]
+- Suppliers divided: proprietary >4-way now vs. waiting for Intel standard 8-way chipset; few NT apps exploit multi-threading `[ps=3]` — [[study-ntserv~1-56bd94]]

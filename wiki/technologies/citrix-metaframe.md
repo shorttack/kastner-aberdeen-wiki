@@ -12,9 +12,9 @@ era: "1995-2005"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Citrix MetaFrame
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'MetaFrame is holding up. ... It is still doing quite well, and it shows a lot of signs of life ahead of it. That takes some of the pressure off Citrix's efforts to diversify.' — [[study-sun-sentinel-citrix-templeton-staying-20-b645c7]]
+- 'MetaFrame is holding up. ... It is still doing quite well, and it shows a lot of signs of life ahead of it. That takes some of the pressure off Citrix's efforts to diversify.' `[ps=4]` — [[study-sun-sentinel-citrix-templeton-staying-20-b645c7]]

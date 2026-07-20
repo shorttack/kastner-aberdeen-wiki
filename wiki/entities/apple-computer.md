@@ -13,8 +13,8 @@ successor: "Apple Inc. (renamed January 2007, dropped 'Computer')"
 years_active: "1976-present"
 occurrence_count: 25
 prescience_max: 5.0
-prescience_mean: 2.06
-prescience_obs_count: 65
+prescience_mean: 1.99
+prescience_obs_count: 82
 ---
 
 # Apple Computer, Inc. / Apple Inc.
@@ -33,6 +33,7 @@ prescience_obs_count: 65
 - Alpha, HP-PA, IBM PowerPC, Sun and Intel Itanium 2 all had 64-bit workstations first `[ps=5]` — [[study-dct-apple-powermac-g5-2003-06]]
 - G5 renovates Apple base rather than attacks PC world `[ps=5]` — [[study-dct-apple-powermac-g5-2003-06]]
 - Apple discontinued Xserve in January 2011 — confirming Kastner's 'channels and acceptance' caution; Apple reverted to non-rack-mount Mac mini/Mac Pro server-class offerings `[ps=5]` — [[study-hostingtech-apple-xserve-asia-zieger-200-052af6]]
+- Mac share ~15-20% global desktop by 2020-2025; Linux desktop remains 2-4% `[ps=5]` — [[study-mac-keeps-lead-on-linux-7-e3bcbf]]
 - No major management issues anticipated during limited-duration leave `[ps=5]` — [[study-mac-news-business-is-apple-prepared-for-727ea9]]
 - Tim Cook became CEO on Aug 24, 2011; Jobs died Oct 5, 2011. Transition widely regarded as orderly `[ps=5]` — [[study-mac-news-business-is-apple-prepared-for-727ea9]]
 - Apple discontinued Xserve in January 2011 without further major HPC wins; Apple effectively exited supercomputing by late 2000s `[ps=5]` — [[study-mac-news-computers-us-army-drafts-apple-c2f6f9]]
@@ -48,4 +49,3 @@ prescience_obs_count: 65
 - G5 will renovate existing Apple enterprise customer base; not a mass-market PC attack vehicle `[ps=4]` — [[study-dct-apple-powermac-g5-2003-06-mx]]
 - Indirect channel partners not strong enough to win large enterprise deals `[ps=4]` — [[study-linux-news-enterprise-systems-apple-s-en-a8fdd0]]
 - Apple will turn up the heat via specialized markets (verticals) inside enterprises, not head-on F500 plays `[ps=4]` — [[study-mac-news-enterprise-systems-apple-s-ente-59fab0]]
-- Solid foothold at universities `[ps=4]` — [[study-mac-news-science-the-science-of-this-yea-bb35b4]]

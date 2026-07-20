@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 9
+prescience_mean: 2.25
+prescience_obs_count: 12
 ---
 
 # HP Can Boost SOA Offerings with Acquisition of Mercury
@@ -42,13 +42,13 @@ _Published 2006, author **Peter S. Kastner**, type **employer-record**._
 
 - mainframes heavily involved in enterprise-size ($1B+) company SOA plans `[ps=4]`
 - SOA affects entire design-code-test-deploy-maintain application lifecycle `[ps=4]`
+- Aberdeen recommended IT governance as requirement for successful enterprise SOA strategy `[ps=4]`
 - HP likely to remain on acquisitive path; BEA relationship could yield interesting discussions `[ps=4]`
 - IBM showing positive growth and financial performance in SOA area `[ps=4]`
+- bulk of market needs considerable education on IT governance `[ps=3]`
+- 90% of all companies will exit 2006 with SOA activities at least underway `[ps=2]`
 - HP takes giant step closer to IBM; distances from CA and BMC `[ps=2]`
 - Mercury acquired Systinet (SOA registry) in January 2006 `[ps=0]`
 - 3,000 employees `[ps=0]`
 - OpenView integration cycle scheduled over next 18 months `[ps=0]`
 - large enterprises with complex networks, multi-site computing, many IT development projects `[ps=0]`
-- 90% of all companies will exit 2006 with SOA activities at least underway
-- bulk of market needs considerable education on IT governance
-- Aberdeen recommended IT governance as requirement for successful enterprise SOA strategy

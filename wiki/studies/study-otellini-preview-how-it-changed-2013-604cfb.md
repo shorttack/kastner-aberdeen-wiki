@@ -16,12 +16,12 @@ source_file: "Preview-of-How-the-IT-Industry-Chan....-Kastner-on-Technology-copy
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.09
-prescience_obs_count: 11
+prescience_mean: 1.17
+prescience_obs_count: 12
 ---
 
 # How the IT Industry Changed Under Intel's Paul Otellini (Kastner Blog Preview)
@@ -43,6 +43,7 @@ _Published 2013, author **Peter S. Kastner**, type **topic-analysis**._
 - Desktop drove industry for 25 years until notebooks and [phones] `[ps=4]`
 - Multi-core PC born 2006 in Core 2 Duo `[ps=3]`
 - Power-efficiency initiative matures with 4th-gen Core (Haswell) `[ps=3]`
+- AMD over 52% US retail share `[ps=2]`
 - Odd years = new architecture; even years = new smaller process `[ps=2]`
 - $34.2B, up 13.5% from 2003 `[ps=0]`
 - #46 on Fortune 100 `[ps=0]`
@@ -51,4 +52,3 @@ _Published 2013, author **Peter S. Kastner**, type **topic-analysis**._
 - 14nm 'improvement of five processing nodes' `[ps=0]`
 - 10X more power-efficient processors `[ps=0]`
 - 40-year Intel career `[ps=0]`
-- AMD over 52% US retail share

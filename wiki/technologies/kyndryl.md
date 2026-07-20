@@ -12,9 +12,9 @@ era: "2021-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Kyndryl Holdings
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- IBM spun out managed infrastructure services as Kyndryl in November 2021; NYSE: KD `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
 - Kyndryl spinout 2021 lets IBM refocus on hybrid cloud and AI without managed-infrastructure drag `[ps=4]` — [[study-2026-kastner-ibm-longitudinal]]
-- IBM spun out managed infrastructure services as Kyndryl in November 2021; NYSE: KD — [[study-2026-kastner-ibm-longitudinal]]

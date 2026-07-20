@@ -12,9 +12,9 @@ status: "acquired"
 successor: "unknown"
 years_active: "1977-late 1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Numetrix Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 30m_estimated_285_sites — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- 30m_estimated_285_sites `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]

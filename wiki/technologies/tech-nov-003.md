@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "ubiquitous"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 2
+prescience_mean: 4.0
+prescience_obs_count: 3
 ---
 
 # LDAP (Lightweight Directory Access Protocol)
@@ -26,4 +26,4 @@ prescience_obs_count: 2
 
 - NDS to embrace LDAP as standards-based front-end to meta-directory `[ps=5]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
 - LDAP consortium of 40+ vendors endorsed LDAP as internet directory protocol in April 1996 `[ps=4]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- NDS fully LDAP-enabled; eDirectory became leading LDAP directory server — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- NDS fully LDAP-enabled; eDirectory became leading LDAP directory server `[ps=3]` — [[study-1997-novell-directory-to-the-network-str-048b05]]

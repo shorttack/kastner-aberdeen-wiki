@@ -12,9 +12,9 @@ era: "1986-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "[DEFERRED]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Unisys 2200
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- wounded — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]
+- wounded `[ps=0]` — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]

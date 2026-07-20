@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.74
-prescience_obs_count: 19
+prescience_mean: 2.83
+prescience_obs_count: 24
 ---
 
 # Progress Software's WebSpeed: Business Transaction Processing On The Internet
@@ -40,6 +40,7 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
+- Progress Software survived; WebSpeed became legacy; company pivoted to OpenEdge, Telerik, Corticon `[ps=5]`
 - Developers can rewrap existing stored procedures as web objects; reuse field-proven legacy apps `[ps=5]`
 - Internet development tool merging proven Progress CADE with TP-monitor-like web middleware `[ps=4]`
 - Transaction Agents maintain state across browser disconnects; enables full client-server transaction robustness `[ps=4]`
@@ -51,7 +52,11 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Positive user authentication + SecurID randomly generated access codes during secure transactions `[ps=4]`
 - Generates information for runtime merge processing; allows web pages to change based on data `[ps=4]`
 - Authentication technology provider integrating with web development platforms `[ps=4]`
+- Transaction Server provides two-phase commit for multi-database data integrity; rolls back on failure `[ps=3]`
 - 4GL superior to immature Java for complex data-intensive programming in 1996 `[ps=3]`
+- Internet toolsets lead in web authoring but lack traditional database technology and legacy integration `[ps=3]`
+- Drag-and-drop VPE; rapid creation of data-based web forms; links database schemas `[ps=3]`
+- Products using proven technology will succeed; WebSpeed adds proven scalability to internet `[ps=2]`
 - Visual Basic is major CADE; lags in crucial Internet application technology support `[ps=2]`
 - Proven technology; adds data-intensive application scalability via state/TP-monitor support plus CADE productivity `[ps=2]`
 - $200 million `[ps=0]`
@@ -59,8 +64,3 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Workshop: Windows 95/NT; Transaction Server: NT, Sun Solaris, Digital Unix, IBM AIX `[ps=0]`
 - DB2/400, Oracle, PROGRESS databases `[ps=0]`
 - Supports Microsoft IIS and Netscape servers; open architecture `[ps=0]`
-- Transaction Server provides two-phase commit for multi-database data integrity; rolls back on failure
-- Products using proven technology will succeed; WebSpeed adds proven scalability to internet
-- Progress Software survived; WebSpeed became legacy; company pivoted to OpenEdge, Telerik, Corticon
-- Internet toolsets lead in web authoring but lack traditional database technology and legacy integration
-- Drag-and-drop VPE; rapid creation of data-based web forms; links database schemas

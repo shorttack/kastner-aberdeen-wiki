@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 4.33
-prescience_obs_count: 3
+prescience_mean: 3.75
+prescience_obs_count: 4
 ---
 
 # IT manufacturing / services outsourcing to China
@@ -27,4 +27,4 @@ prescience_obs_count: 3
 - The US CHIPS and Science Act (signed Aug 9 2022, $52B semiconductor subsidies) explicitly targeted the China-manufacturing-concentration risk Kastner flagged in 2003; Apple shifted iPhone assembly diversification to India 2022-2024; TSMC committed to US and Japan fabs. `[ps=5]` — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]
 - This isn't the first time China has stiff-armed the world on a major global health issue. `[ps=4]` — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]
 - COVID-19 (2020) vividly validated Kastner's 2003 China-basket warning: factory shutdowns in Wuhan/Hubei early 2020 triggered severe global tech supply shocks; catalyzed the Biden/Trump era semiconductor CHIPS Act (2022), friend-shoring to Vietnam/India/Mexico, and TSMC Arizona fab buildout. `[ps=4]` — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]
-- Tech companies, which heretofore had rushed to outsource to China because of the quality and low cost, are now rethinking whether they can put all their high-tech eggs in the China basket. — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]
+- Tech companies, which heretofore had rushed to outsource to China because of the quality and low cost, are now rethinking whether they can put all their high-tech eggs in the China basket. `[ps=2]` — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]

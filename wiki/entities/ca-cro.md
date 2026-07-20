@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "2001-2018"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 5
 ---
 
 # CA Client Relations Organization (CRO)
@@ -24,8 +24,8 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Achieving first-rate customer satisfaction and trust `[ps=2]` — [[study-2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7]]
+- Customer testimonials provided as primary evidence of CRO success `[ps=2]` — [[study-2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7]]
+- Highly effective in achieving first-rate customer satisfaction and trust `[ps=1]` — [[study-2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7]]
 - Non-quota-carrying group of service professionals `[ps=0]` — [[study-2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7]]
 - Service professionals carry no sales quota `[ps=0]` — [[study-2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7]]
-- Achieving first-rate customer satisfaction and trust — [[study-2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7]]
-- Highly effective in achieving first-rate customer satisfaction and trust — [[study-2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7]]
-- Customer testimonials provided as primary evidence of CRO success — [[study-2002-ca-does-the-right-thing-customers-say-cro-rocks-1fc1d7]]

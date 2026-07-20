@@ -12,9 +12,9 @@ status: "defunct"
 successor: "Aberdeen Group (acquired by Harte-Hanks 2006)"
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # ETI Content/Publications (Aberdeen)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Methodology + Quantitative Model + Macroeconomic Data + Qualitative Data Model + Structured Interview development + Outbound Marketing + Telesales team + Field sales training + On-site sales calls — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
+- Methodology + Quantitative Model + Macroeconomic Data + Qualitative Data Model + Structured Interview development + Outbound Marketing + Telesales team + Field sales training + On-site sales calls `[ps=0]` — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]

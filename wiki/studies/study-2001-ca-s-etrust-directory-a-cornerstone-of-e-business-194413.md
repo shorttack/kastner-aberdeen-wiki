@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.5
-prescience_obs_count: 10
+prescience_mean: 2.42
+prescience_obs_count: 12
 ---
 
 # CA's eTrust Directory: A Cornerstone of e-Business Infrastructure
@@ -46,9 +46,9 @@ _Published 2001, author **Jim Hurley**, type **market-study**._
 - With eTrust, IS executives can turn security into a handmaiden that serves business procedures and policies rather than being held hostage to technology-focused access controls `[ps=3]`
 - Integrated suite (eTrust whole > sum of parts) provides advantage over unconnected point security products `[ps=3]`
 - CA is 'one of the only suppliers that can realistically be considered a trusted, one-stop, enterprise-class supplier of security solutions' `[ps=2]`
+- CA eTrust is 'well ahead of what most other suppliers can offer' for integrated enterprise security `[ps=2]`
 - IS can transform security from disconnected piece-parts into production-grade risk management whole by deploying eTrust `[ps=2]`
 - eTrust Directory provides cornerstone LDAP directory infrastructure for e-business security integration `[ps=2]`
+- CA is staking its claim as the dominant enterprise-class, one-stop security supplier `[ps=2]`
 - Covers: security, policy, risk, management, PKI, antivirus, intrusion detection, certificate, signature, VPN, filtering, authentication, authorization, firewall, sandbox `[ps=0]`
 - Aberdeen Group, Inc. material copyright 1996-2001 `[ps=0]`
-- CA eTrust is 'well ahead of what most other suppliers can offer' for integrated enterprise security
-- CA is staking its claim as the dominant enterprise-class, one-stop security supplier

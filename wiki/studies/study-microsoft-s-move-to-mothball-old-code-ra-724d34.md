@@ -16,12 +16,12 @@ source_file: "Microsoft-s-Move-To-Mothball-Old-Code-Raises-Concerns-7.webarchive
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.67
-prescience_obs_count: 6
+prescience_mean: 2.71
+prescience_obs_count: 7
 ---
 
 # Microsoft's Move To Mothball Old Code Raises Concerns
@@ -44,6 +44,6 @@ _Published 2002, author **Sharon Gaudin (Datamation / itmanagement.earthweb.com)
 - Microsoft will say they've been advising enterprise customers for years to move to Windows NT - based on newer 32-bit code. `[ps=4]`
 - Kastner and the article imply the old-code retirement is necessary for Microsoft to earn credibility on security. `[ps=4]`
 - 'I think it's the only answer they could give and still be true to the mantra of: if we find security-prone problems in our code, we will fix it.' Code otherwise working is being ripped out because it has fundamental security flaws. `[ps=3]`
+- Microsoft announced policy of ripping out legacy pre-NT code rather than patching individual vulnerabilities. `[ps=3]`
 - Tens of millions still using Windows 9x, including millions still on Windows 95. `[ps=0]`
 - 'What will have trouble and what won't depends on what Microsoft finds and what replaces the legacy code. If the new code operates the same…' `[ps=0]`
-- Microsoft announced policy of ripping out legacy pre-NT code rather than patching individual vulnerabilities.

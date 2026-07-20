@@ -3,7 +3,7 @@ title: "Victorious Incumbents Vow Change For CA"
 slug: "study-informationweek-ca-victorious-incumbents-143e3b"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "informationweek-ca-victorious-incumbents-143e3b"
 author: "David Joachim"
@@ -16,12 +16,12 @@ source_file: "Victorious-Incumbents-Vow-Change-For-CA-CA-InformationWeek.webarch
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 4.0
+prescience_mean: 1.4
+prescience_obs_count: 5
 ---
 
 # Victorious Incumbents Vow Change For CA
@@ -40,8 +40,8 @@ _Published 2001, author **David Joachim**, type **news-article**._
 
 ## Top observations
 
+- I'm very pleased. The idea of splitting up the company was absurd `[ps=4]`
+- CA has been trying with a fair amount of desperation to rid itself of the long standing pejorative that CA screws its customers `[ps=3]`
+- CA continually tweaks its sales and support organization and I certainly don't consider it to be a result of the Wyly thing at all `[ps=0]`
 - Wyly proxy challenge defeated; Wang/Kumar board retained `[ps=0]`
 - Analysts agree changes would have occurred regardless of proxy fight `[ps=0]`
-- CA has been trying with a fair amount of desperation to rid itself of the long standing pejorative that CA screws its customers
-- CA continually tweaks its sales and support organization and I certainly don't consider it to be a result of the Wyly thing at all
-- I'm very pleased. The idea of splitting up the company was absurd

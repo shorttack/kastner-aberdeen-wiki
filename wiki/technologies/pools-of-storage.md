@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 8
 prescience_max: 4.0
-prescience_mean: 0.76
-prescience_obs_count: 17
+prescience_mean: 0.81
+prescience_obs_count: 21
 ---
 
 # Pools of Storage Framework
@@ -31,8 +31,12 @@ prescience_obs_count: 17
 
 - Unlike ILM software, Pools of Storage can be implemented now; has value proposition beyond TCO/ROI `[ps=4]` — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
 - But market is not yet buying in pools. `[ps=4]` — [[study-aberdeen-preso-for-emc-final-storage-5-d855b8]]
+- Online (Transactional Processing); Midline (Fixed Content); Nearline (Disk Backup/Staging/Spooling); Offline (Tape Archive) `[ps=3]` — [[study-08-phase2-project-kickoff-2ea711]]
 - A pool is a homogeneous group of storage hardware that meets service level requirements for access to data with a certain level of capital and management intensity; target of ILM process `[ps=3]` — [[study-09-maxtor-workshop-prep-guide-a218dc]]
 - Quantified cost-per-GB and bottom-line benefit model will be primary mechanism for customer ILM adoption `[ps=2]` — [[study-18-maxtor-strategy-event-template-faeb40]]
+- All players in the Serial Storage ecosystem will adopt Maxtor's 'Pools' lexicon as imperative to successfully launching midline storage within a year `[ps=1]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- [UNVERIFIED] `[ps=0]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- Endorsement for Pools of Storage required from industry publications in US and Europe and from at least four Fortune 500 company CIOs `[ps=0]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
 - [UNVERIFIED] `[ps=0]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
 - Presentations to user storage groups including SNIA as part of evangelism phase `[ps=0]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
 - Gain internal consensus on Pools of Storage messaging; establish strategic foundations; provide tools to validate new efficiencies `[ps=0]` — [[study-08-phase2-project-kickoff-2ea711]]
@@ -45,7 +49,3 @@ prescience_obs_count: 17
 - Spread the PoS/midline message; influence component-maker partners `[ps=0]` — [[study-17-maxtor-tool-decision-components-d9c2fb]]
 - [UNVERIFIED] `[ps=0]` — [[study-18-maxtor-strategy-event-template-faeb40]]
 - 3/4 of respondents moderately-to-very familiar with the concept of Pools of Storage. `[ps=0]` — [[study-aberdeen-preso-for-emc-final-storage-5-d855b8]]
-- 1/3 of respondents believe they have no fixed-content or static data — a drag on the midline pool. `[ps=0]` — [[study-aberdeen-preso-for-emc-final-storage-5-d855b8]]
-- All players in the Serial Storage ecosystem will adopt Maxtor's 'Pools' lexicon as imperative to successfully launching midline storage within a year — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- Endorsement for Pools of Storage required from industry publications in US and Europe and from at least four Fortune 500 company CIOs — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
-- [UNVERIFIED] — [[study-03-contract-pools-of-storage-phase2-a47fd3]]

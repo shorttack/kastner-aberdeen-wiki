@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream"
 lifecycle_current: "legacy-supported"
 occurrence_count: 15
 prescience_max: 4.0
-prescience_mean: 0.86
-prescience_obs_count: 7
+prescience_mean: 1.25
+prescience_obs_count: 8
 ---
 
 # Intel Celeron processor
@@ -30,6 +30,7 @@ prescience_obs_count: 7
 ## Top observations
 
 - Avoid Celeron-class or 233 MHz Pentium II inventory close-outs `[ps=4]` — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
+- Celeron CPUs consistently hold lowest price point under $600 `[ps=4]` — [[study-dct-intel-processor-prices-2003-01]]
 - Kastner identifies Intel Celeron attack as AMD's worst nightmare: $600 class previously an AMD toehold is now back in the hands of Celerons; $900 price category loaded with P4s after post-Thanksgiving AMD wins `[ps=2]` — [[study-dct-weekly-2003-01-05-mx]]
 - 1.3 GHz Celeron -> 1.7 GHz Celeron at same price `[ps=0]` — [[study-dct-dceit-observations-2002-06]]
 - Intel Celeron PCs consistently priced under $600; Celeron 1.7 GHz under $450 after P4 1.8 GHz dropped to under $900 in August 2002 `[ps=0]` — [[study-dct-intel-processor-prices-2003-01-mx]]
@@ -48,4 +49,3 @@ prescience_obs_count: 7
 - Dell Dimension 2300LE: $589 (2002-08-18) -> $688 (2002-08-24); delta $+99 (+17%); min $589 / max $688 over 2 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
 - Dell Smartstep 150D: $688 (2002-07-29) -> $688 (2002-08-11); delta $+0 (+0%); min $688 / max $688 over 2 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
 - eMachines T1220: $400 (2002-07-29) -> $400 (2002-09-15); delta $+0 (+0%); min $400 / max $500 over 7 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]
-- eMachines T1221: $400 (2002-08-31) -> $400 (2002-09-29); delta $+0 (+0%); min $400 / max $475 over 4 obs; CPU Celeron — [[study-dct-access-pc-deals-2002-2003]]

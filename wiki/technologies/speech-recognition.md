@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Speech Recognition Technology
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Speech recognition technologies will soon become more commonplace in healthcare `[ps=5]` — [[study-health~1-056358]]
 - Significant progress made by suppliers with discipline-specific continuous speech dictation; IBM MedSpeak for Radiology cited `[ps=4]` — [[study-health~1-056358]]
-- Speech recognition technologies will soon become more commonplace in healthcare — [[study-health~1-056358]]

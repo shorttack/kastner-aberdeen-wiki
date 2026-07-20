@@ -13,8 +13,8 @@ successor: "Peregrine (2001); BMC (2002)"
 years_active: "1990-2002"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 2
+prescience_mean: 4.33
+prescience_obs_count: 3
 ---
 
 # Remedy Corporation
@@ -26,4 +26,4 @@ prescience_obs_count: 2
 
 - Acquired by Peregrine Systems (2001) during Peregrine's acquisition spree; Peregrine filed bankruptcy (2002) due to accounting fraud; Remedy assets sold to BMC Software for $355M (November 2002); Remedy ARS became BMC Remedy ITSM `[ps=5]` — [[study-1997-cis-report-ba825e]]
 - Action Request System; leading internal help desk platform; strong workflow capabilities `[ps=4]` — [[study-1997-cis-report-ba825e]]
-- Remedy positioned as leading internal help desk/ITSM vendor; Action Request System dominant — [[study-1997-cis-report-ba825e]]
+- Remedy positioned as leading internal help desk/ITSM vendor; Action Request System dominant `[ps=4]` — [[study-1997-cis-report-ba825e]]

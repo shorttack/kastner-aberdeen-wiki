@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 2
+prescience_mean: 3.33
+prescience_obs_count: 3
 ---
 
 # SCADA (Supervisory Control and Data Acquisition)
@@ -26,4 +26,4 @@ prescience_obs_count: 2
 
 - SCADA systems as core energy management infrastructure requiring modernization `[ps=5]` — [[study-utilities-transformed-it-696ffb]]
 - Mature; new versions of controls systems will link to heterogeneous environments for ERP purposes `[ps=5]` — [[study-utilit~1-0596b5]]
-- Partnered to market transmission trading service for utilities; IBM is lead integrator for Western Exchange — [[study-utilit~1-0596b5]]
+- Partnered to market transmission trading service for utilities; IBM is lead integrator for Western Exchange `[ps=0]` — [[study-utilit~1-0596b5]]

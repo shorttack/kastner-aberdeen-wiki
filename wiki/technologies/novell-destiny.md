@@ -12,9 +12,9 @@ era: "1993"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Novell/USL Destiny
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Compete with Microsoft over next 3-5 years via integrated LAN, desktop, server OS — [[study-nti-4-nextgen-os-timing-1993-a45049]]
+- Compete with Microsoft over next 3-5 years via integrated LAN, desktop, server OS `[ps=3]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]

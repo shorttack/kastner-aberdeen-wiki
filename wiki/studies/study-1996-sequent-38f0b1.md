@@ -16,12 +16,12 @@ source_file: "1996 Sequent.pptx"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.04
-prescience_obs_count: 27
+prescience_mean: 2.97
+prescience_obs_count: 35
 ---
 
 # Emerging Technologies: Assessing Strategic Benefits
@@ -41,6 +41,7 @@ _Published 1996, author **Peter S. Kastner**, type **presentation**._
 ## Top observations
 
 - Sequent acquired by IBM for approximately $810M; NUMA technology integrated into IBM x-series servers `[ps=5]`
+- ATM largely displaced by Gigabit Ethernet for LAN; retained niche in telecom WANs `[ps=5]`
 - Technology equals productivity; superior use of technology leads to superior corporate returns `[ps=4]`
 - Direct IS to lower SG&A by 20% for 70% PBT improvement; lower COGS by 5% for 27% PBT improvement `[ps=4]`
 - Today's system software and customer applications are not cluster-enabled; require re-engineering `[ps=4]`
@@ -54,14 +55,13 @@ _Published 1996, author **Peter S. Kastner**, type **presentation**._
 - Huge advantages to IS Buy vs. Make strategy `[ps=4]`
 - x86 servers displaced most proprietary Unix and mainframe systems for enterprise workloads, confirming Intel-standard thesis `[ps=4]`
 - Oracle Parallel Server cited as example of cluster software complexity; requires special versions and careful architecture `[ps=4]`
+- Builds on Intel's highly competitive, highly economical microprocessors and SMP building-blocks `[ps=4]`
 - Complexity of distributed computing must be hidden by IT to keep costs and manageability under control `[ps=4]`
+- Four levels: Level 1 Client, Level 2 Workgroup, Level 3 OLTP, Level 4 IS Enterprise Operations `[ps=3]`
 - Four-step process: Decide, Analyze, Transact, Report -- mapped to DSS, Brain, OLTP/Workflow, Messaging `[ps=3]`
+- 20% SG&A reduction yields 70% PBT improvement `[ps=3]`
+- Enterprises harshly driven to cut SG&A while raising productivity; new multi-tier architectures demand new breed of enterprise superservers `[ps=3]`
 - AMD Opteron and Intel Xeon adopted NUMA architecture as standard for multi-socket servers `[ps=3]`
 - Digital Equipment Corporation acquired by Compaq for $9.6B; VAXcluster technology phased out `[ps=3]`
 - Multi-tier (3-tier) client-server architectures demand enterprise superservers `[ps=2]`
-- Engineering elegance delivering scalability with minimal overhead and no application software changes `[ps=2]`
-- Will be a benchmark for high-end commercial computing leadership into the 21st century `[ps=2]`
-- NUMA-Q will extend Intel-standard to well beyond even traditional mainframes while preserving software investments `[ps=2]`
-- Cheap, infinite network bandwidth with ATM by 2001 `[ps=2]`
-- New multi-tier architectures demand enterprise superservers for OLTP, DSS, and messaging workloads `[ps=2]`
-- Well understood technology with new chip-set accelerators and inexpensive engineering `[ps=0]`
+- Good to 4 processors; fair to 8; few do more than 10 well; Sequent does very well `[ps=2]`

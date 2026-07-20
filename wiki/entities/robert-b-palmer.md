@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Robert B. Palmer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Analysts speculated Steul might have been a victim of the loss debacle as Palmer sought stronger financial leadership — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]
+- Analysts speculated Steul might have been a victim of the loss debacle as Palmer sought stronger financial leadership `[ps=0]` — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]

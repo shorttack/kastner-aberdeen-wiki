@@ -16,12 +16,12 @@ source_file: "Perspective 041304.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.47
-prescience_obs_count: 15
+prescience_mean: 1.85
+prescience_obs_count: 20
 ---
 
 # Intel's Itanium: Ready and Desirable for Mainframe-Class Workloads
@@ -40,12 +40,17 @@ _Published 2004, author **Peter S. Kastner**, type **topic-analysis**._
 
 ## Top observations
 
+- Mainframe hardware + software licensing perceived as more expensive than open systems `[ps=4]`
+- Surround / Offload / Replace / Migrate `[ps=4]`
 - Replace strategy has cultural resistance and long implementation time `[ps=4]`
+- 40% looking to offload or surround mainframes `[ps=3]`
 - Xeon-based mainframe solutions already in production 1+ years `[ps=3]`
 - IBM increasingly discounting mainframe prices `[ps=3]`
 - Largest payback: CPU-intensive workloads (batch, data warehousing, analytics) `[ps=3]`
+- Most success stories just reaching production in Q1-2004 `[ps=3]`
 - More scalable, more cost-effective, more flexible, smaller footprint, more programmer-productive `[ps=2]`
 - DB2 on Intel multiprocessor more cost-effective than mainframe VM-based allocation `[ps=2]`
+- Itanium 2 superior to Xeon; comparable or superior to mainframe `[ps=1]`
 - Straightforward; no code changes required `[ps=1]`
 - AMD Opteron seen as less real-world-tested `[ps=1]`
 - Linux on mainframe less manageable and less performant `[ps=1]`
@@ -55,8 +60,3 @@ _Published 2004, author **Peter S. Kastner**, type **topic-analysis**._
 - Significant but doable `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - 98 qualified mainframe users surveyed `[ps=0]`
-- 40% looking to offload or surround mainframes
-- Itanium 2 superior to Xeon; comparable or superior to mainframe
-- Mainframe hardware + software licensing perceived as more expensive than open systems
-- Surround / Offload / Replace / Migrate
-- Most success stories just reaching production in Q1-2004

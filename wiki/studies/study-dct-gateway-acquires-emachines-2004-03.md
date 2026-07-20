@@ -16,12 +16,12 @@ source_file: "Gateway-Acquires-eMachines-7.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.41
-prescience_obs_count: 17
+prescience_mean: 2.47
+prescience_obs_count: 19
 ---
 
 # Gateway's Acquisition of eMachines Bodes Well
@@ -43,6 +43,7 @@ _Published 2004, author **Peter S. Kastner**, type **dct**._
 - 235000000 `[ps=5]`
 - went private 3 years before 2004 acquisition `[ps=5]`
 - Gateway will over time deemphasize and likely exit 170-store chain `[ps=5]`
+- results have not justified management's confidence in retail strategy `[ps=4]`
 - ongoing decline in core PC sales has made life difficult `[ps=4]`
 - Dell is 'gorilla' in North American PC marketplace `[ps=4]`
 - stays in PC value segment (low price) `[ps=4]`
@@ -51,11 +52,10 @@ _Published 2004, author **Peter S. Kastner**, type **dct**._
 - eMachines success reason HP became price-aggressive last year `[ps=2]`
 - Gateway high-end all-in-one media center + eMachines low-end = full-line HP competitor `[ps=2]`
 - eMachines relationship with retailers enables more Gateway DCE sales with less apparent captive-brand conflict `[ps=2]`
+- astute and timely move to expand distribution channel `[ps=2]`
 - Gateway leader in plasma TVs could gain electronics-altar placement in big-box stores `[ps=1]`
 - Gateway one of the innovative leaders in delivering digital consumer technology `[ps=1]`
 - privately-held `[ps=0]`
 - #2 brand in retail stores in United States `[ps=0]`
 - 170 retail showrooms `[ps=0]`
 - major shelf space at Best Buy, Circuit City, CompUSA `[ps=0]`
-- results have not justified management's confidence in retail strategy
-- astute and timely move to expand distribution channel

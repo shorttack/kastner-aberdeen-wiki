@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Full-Text Search Database Extensions
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- text-search on comments fields can extract repeated information defying today RDBMS query capabilities — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]
+- text-search on comments fields can extract repeated information defying today RDBMS query capabilities `[ps=3]` — [[study-aberdeen-1995-universal-servers-rdbms-technology-next-decade]]

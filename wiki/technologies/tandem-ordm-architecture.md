@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 11
+prescience_mean: 3.08
+prescience_obs_count: 12
 ---
 
 # Tandem Object Relational Data Mining Architecture
@@ -28,6 +28,7 @@ prescience_obs_count: 11
 - Coding the data — formatting data to work best with selected algorithm `[ps=5]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
 - Compaq acquired Tandem in 1997; ORDM architecture was deprioritized; de facto standard SQL data mining interface goal not achieved; Oracle/Microsoft/Informix did not adopt the standard `[ps=5]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
 - Data-manipulation functions integrated into RDBMS; enterprise executes against data directly in warehouse; no flat-file extract required `[ps=4]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
+- Data scrubbing — removing data and field inconsistencies `[ps=4]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
 - Algorithm execution and results review; re-tuning model and re-running algorithm iteratively `[ps=4]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
 - Parallel-scalable architecture; 5 integrated data mining partner algorithms; solutions packages with vertical templates; consulting services — end-to-end capability `[ps=3]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
 - Create de facto standard SQL interface between data mining tools and RDBMS using SQL extensions `[ps=2]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
@@ -35,4 +36,3 @@ prescience_obs_count: 11
 - ORDM increases overall reliability of supplier code; saves data mining suppliers from writing redundant code; encourages more value-added development `[ps=2]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
 - Tandem's ORDM architecture will become an end-to-end enterprise weapon for competitive advantage; Aberdeen believes enterprises can look to it as the standard solution `[ps=1]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
 - Object Relational Data Mining architecture available Q3 1997 on ServerWare/NT and Himalaya; credit card/micromerchandising/claims packages available without SQL extensions immediately `[ps=0]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
-- Data scrubbing — removing data and field inconsistencies — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]

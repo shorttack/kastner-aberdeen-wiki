@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 4
 prescience_max: 5.0
-prescience_mean: 1.45
-prescience_obs_count: 11
+prescience_mean: 1.33
+prescience_obs_count: 12
 ---
 
 # Design-Time Governance
@@ -29,10 +29,10 @@ prescience_obs_count: 11
 - Apply design-time governance to create library of tested documented reusable components `[ps=4]` — [[study-soa-web-services-2007-c3297b]]
 - 48% BIC use design-time governance to foster reusability vs 33% others `[ps=3]` — [[study-soa-web-services-2007-c3297b]]
 - 48% `[ps=0]` — [[study-ra-soa-2007-97c147]]
+- 39% `[ps=0]` — [[study-ra-soa-2007-97c147]]
 - 26% `[ps=0]` — [[study-ra-soa-2007-97c147]]
 - 49% `[ps=0]` — [[study-ra-soa-2007-97c147]]
 - 36% `[ps=0]` — [[study-ra-soa-2007-97c147]]
 - 15% `[ps=0]` — [[study-ra-soa-2007-97c147]]
 - 52% of ALM practitioners have SOA governance for BOTH design and run-time operations vs. 29% of overall survey and 29% of Best in Class `[ps=0]` — [[study-soa-lifecycle-perspective-1ff953]]
 - 47% of Best-in-Class use design-time governance to promote reuse vs 33% average `[ps=0]` — [[study-soa-web-services-2007-c3297b]]
-- 39% — [[study-ra-soa-2007-97c147]]

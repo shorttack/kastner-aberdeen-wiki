@@ -13,8 +13,8 @@ successor: "IBM (acquired database division 2001)"
 years_active: "1980-2001"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 2.0
+prescience_obs_count: 3
 ---
 
 # Informix Software
@@ -25,5 +25,5 @@ prescience_obs_count: 1
 ## Top observations
 
 - MetaCube discontinued after IBM acquired Informix database division for $1B in 2001; IBM focused on DB2+Cognos for BI `[ps=4]` — [[study-1997-informix-metacube-4.0--relational-o-23491d]]
-- Forthcoming release leveraging Informix DSA — [[study-1997-informix-metacube-4.0--relational-o-23491d]]
-- MetaCube 4.0 positioned as competitive ROLAP solution for enterprise DSS — [[study-1997-informix-metacube-4.0--relational-o-23491d]]
+- MetaCube 4.0 positioned as competitive ROLAP solution for enterprise DSS `[ps=2]` — [[study-1997-informix-metacube-4.0--relational-o-23491d]]
+- Forthcoming release leveraging Informix DSA `[ps=0]` — [[study-1997-informix-metacube-4.0--relational-o-23491d]]

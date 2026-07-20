@@ -16,12 +16,12 @@ source_file: "HP-Analyst-Phone-Call-6.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.61
-prescience_obs_count: 31
+prescience_mean: 2.66
+prescience_obs_count: 32
 ---
 
 # HP Pre-Summit Analyst Phone Call — Kastner Feedback
@@ -42,6 +42,7 @@ _Published 2003, author **Peter S. Kastner (Aberdeen Group, Chief Research Offic
 
 - HP's home networked video initiative (circa 2003) did not succeed as a major market. HP launched digital entertainment/media center products but the home networked video market was slow to develop. Mass-market home video networking was not realized until streaming services (Netflix, Hulu 2007-2010) and HDTV adoption. `[ps=5]`
 - HP message of 'low total-cost-of-ownership provider' — not heard, not believable. `[ps=4]`
+- Reduced-complexity message: believable on consumer side; lesser on IPG; no proof points on ESG; only marginal on services. `[ps=4]`
 - Adaptive Enterprise is too IT-facing and too little business-executive-management-facing. `[ps=4]`
 - Adaptive Enterprise is an ESG and Services initiative; PSG and IPG not tied in. `[ps=4]`
 - Analysts want beef — 'too much vision and not enough what-can-I-do-and-how-can-I-do-it.' `[ps=4]`
@@ -64,4 +65,3 @@ _Published 2003, author **Peter S. Kastner (Aberdeen Group, Chief Research Offic
 - HP tries to buy channel partner loyalty — probably not enough. `[ps=2]`
 - HP is dropping the ball by waiting for home networked video market to evolve — letting Sony and others set standards. `[ps=2]`
 - Primary focus: PSG and IPG; as Chief Research Officer, covers HP as a company. `[ps=0]`
-- HP corporate messages have been 'very simplistic' and not communicated or drilled down at AR/analyst-facing events. `[ps=0]`

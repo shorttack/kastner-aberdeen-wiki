@@ -16,12 +16,12 @@ source_file: "1997 Progress Version 8.2 Development Environment pr.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 3.0
-prescience_mean: 0.38
-prescience_obs_count: 8
+prescience_mean: 0.6
+prescience_obs_count: 15
 ---
 
 # Progress Version 8.2 Development Environment
@@ -40,18 +40,18 @@ _Published 1997, author **Aberdeen Group (Karen D. Moser)**, type **market-study
 
 ## Top observations
 
+- High — enterprise-scale deployment supported `[ps=3]`
 - Progress 8.2 positioned to exploit Java and Web for new application building `[ps=3]`
+- Progress OpenEdge developed WebSpeed and Java interoperability through early 2000s `[ps=3]`
 - Scalability, flexibility, performance, legacy integration, multi-tier, OLTP support `[ps=0]`
 - Numerous enhancements in v8.2 vs prior versions `[ps=0]`
+- High-availability improvements included in v8.2 `[ps=0]`
+- Powerful new suite of reporting tools included `[ps=0]`
+- Extended deployment option added in v8.2 `[ps=0]`
+- Required for enterprise ADE selection `[ps=0]`
 - Required for enterprise ADE selection `[ps=0]`
 - Required for enterprise ADE selection `[ps=0]`
 - Critical differentiator in 1997 ADE market `[ps=0]`
 - Required for enterprise ADE selection `[ps=0]`
 - Required for enterprise ADE selection `[ps=0]`
-- High — enterprise-scale deployment supported
-- High-availability improvements included in v8.2
-- Powerful new suite of reporting tools included
-- Extended deployment option added in v8.2
-- Progress OpenEdge developed WebSpeed and Java interoperability through early 2000s
-- Required for enterprise ADE selection
-- Recommended — brings new performance and scalability improvements to enterprise users
+- Recommended — brings new performance and scalability improvements to enterprise users `[ps=0]`

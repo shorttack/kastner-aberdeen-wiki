@@ -12,9 +12,9 @@ era: "1999-2002"
 lifecycle_at_study: "active-product"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: 2.0
+prescience_max: 4.0
 prescience_mean: 2.0
-prescience_obs_count: 1
+prescience_obs_count: 3
 ---
 
 # CA Jasmine TND (Jasmine ii)
@@ -24,6 +24,6 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Internet-as-ultimate-platform-for-customer-focused-e-commerce `[ps=4]` — [[study-ca-jasmine-ii-brochure-kastner-endorseme-6588be]]
 - intelligence-everywhere-makes-CA-one-stop-shop `[ps=2]` — [[study-ca-jasmine-ii-brochure-kastner-endorseme-6588be]]
-- MP78610799 — [[study-ca-jasmine-ii-brochure-kastner-endorseme-6588be]]
-- Internet-as-ultimate-platform-for-customer-focused-e-commerce — [[study-ca-jasmine-ii-brochure-kastner-endorseme-6588be]]
+- MP78610799 `[ps=0]` — [[study-ca-jasmine-ii-brochure-kastner-endorseme-6588be]]

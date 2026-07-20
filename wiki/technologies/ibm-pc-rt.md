@@ -12,9 +12,9 @@ era: "1986-1991"
 lifecycle_at_study: "introduced"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # IBM PC RT (RT/PC)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM offering Polygen products on PC RT to bolster one of the least respected workstation lines in the industry — [[study-conflicting-trends-computational-chemistry-fe5c31]]
-- Polygen announced port of product line to IBM PC RT workstation — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- IBM offering Polygen products on PC RT to bolster one of the least respected workstation lines in the industry `[ps=4]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- Polygen announced port of product line to IBM PC RT workstation `[ps=0]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]

@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.3
-prescience_obs_count: 10
+prescience_mean: 2.06
+prescience_obs_count: 18
 ---
 
 # Peter Kastner's Wish List
@@ -43,18 +43,18 @@ _Published 2002, author **Peter S. Kastner**, type **dct**._
 - 42in plasma HDTV >$5000 in 2002 `[ps=5]`
 - bulk-scan photos/slides/negatives for digital archive `[ps=4]`
 - rate of improvement in graphics processors 'stunning this year' `[ps=4]`
+- ATI and nVidia innovate and compete, driving GPU advances `[ps=4]`
+- dozen wind/temp/precip metrics with PC long-term storage `[ps=4]`
+- 30-year micro-climate tracking to distinguish climate zone 6B vs 7A `[ps=4]`
 - use AvantGo to read cached web pages during commute `[ps=3]`
 - all-in-one with 17in LCD, 'tip of the hat to Apple' `[ps=3]`
 - GeForce FX horsepower platform for next Windows 3D user interface `[ps=3]`
+- PC-HDTV bridge economical alternative to Samsung 42in plasma `[ps=2]`
 - industrial designs like Profile 4 help Gateway return to fiscal health `[ps=1]`
 - powerful Pocket PC 'without breaking the bank' `[ps=0]`
+- Outlook 2002 shipped with Axim X5 `[ps=0]`
 - DCF-660w 802.11 CF adapter enables roaming-and-synced Pocket PC `[ps=0]`
 - decent new PC monitors $200 and up `[ps=0]`
-- Outlook 2002 shipped with Axim X5
-- PC-HDTV bridge economical alternative to Samsung 42in plasma
-- Intel 3.06GHz HT P4 customizable option on Profile 4
-- Profile 4 XL 'great platform for Windows XP Media Center'
-- ATI and nVidia innovate and compete, driving GPU advances
-- dozen wind/temp/precip metrics with PC long-term storage
-- 30-year micro-climate tracking to distinguish climate zone 6B vs 7A
-- gadget wish list as DCT market signal
+- Intel 3.06GHz HT P4 customizable option on Profile 4 `[ps=0]`
+- Profile 4 XL 'great platform for Windows XP Media Center' `[ps=0]`
+- gadget wish list as DCT market signal `[ps=0]`

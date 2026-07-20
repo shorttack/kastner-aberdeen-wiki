@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'High-availability and performance clustering remains fundamental to enterprise computing. Technologies like Kubernetes, Pacemaker, and proprietary HA clustering are actively used and developed.', 'source': 'General IT infrastructure'}"
 occurrence_count: 4
 prescience_max: 4.0
-prescience_mean: 2.5
-prescience_obs_count: 12
+prescience_mean: 2.46
+prescience_obs_count: 13
 ---
 
 # High-Availability / Performance Clustering
@@ -32,8 +32,8 @@ prescience_obs_count: 12
 - Clusters are used primarily for high availability and secondarily for resource sharing. `[ps=3]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - The target workload exceeds traditional SMP and many clusters, and the platform must absorb 15%-20% annual business-volume growth `[ps=3]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
 - Tandem should lead in distributed, object-based computing because it understands parallel messaging and loose coupling better than rivals. `[ps=2]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
+- Traditional SMP and cluster implementations are ill-suited to efficient scalability `[ps=2]` — [[study-1996-sequent-38f0b1]]
 - near-linear scaling of transaction processing `[ps=2]` — [[study-intel-infiband-wp--edit-psk-5-22f-a2c551]]
 - [DEFERRED] `[ps=0]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - [DEFERRED] `[ps=0]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - 3-tier claims architecture targets 8,000 users across 500 offices and headquarters `[ps=0]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
-- Traditional SMP and cluster implementations are ill-suited to efficient scalability — [[study-1996-sequent-38f0b1]]

@@ -12,9 +12,9 @@ era: "1999-2007"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "legacy-superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Office 2000
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Office 2000 delayed beyond expected Q1 1999; represents 40% of Microsoft profits; key feature: move in/out of HTML for Intranet posting — [[study-trends99-18726b]]
+- Office 2000 delayed beyond expected Q1 1999; represents 40% of Microsoft profits; key feature: move in/out of HTML for Intranet posting `[ps=3]` — [[study-trends99-18726b]]

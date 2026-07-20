@@ -16,12 +16,12 @@ source_file: "2010 Intel vPro Daily Globe.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.14
-prescience_obs_count: 28
+prescience_mean: 0.4
+prescience_obs_count: 40
 ---
 
 # 2010 Business Computers Leave the Starting Gate
@@ -40,9 +40,13 @@ _Published 2010, author **Peter S. Kastner**, type **article**._
 
 ## Top observations
 
+- business-norm `[ps=4]`
+- active-mainstream `[ps=4]`
+- fortune-500-hacking `[ps=4]`
 - smb-lack-of-specialists `[ps=4]`
 - 2 `[ps=0]`
 - 4 `[ps=0]`
+- 90 `[ps=0]`
 - 4 `[ps=0]`
 - 8 `[ps=0]`
 - server-class-circa-2000 `[ps=0]`
@@ -51,17 +55,13 @@ _Published 2010, author **Peter S. Kastner**, type **article**._
 - hardware-instructions `[ps=0]`
 - universal-standard `[ps=0]`
 - mainstream-business `[ps=0]`
+- default-enabled `[ps=0]`
 - 500 `[ps=0]`
 - 2500 `[ps=0]`
+- full-remote-support `[ps=0]`
 - smb-expansion `[ps=0]`
+- full-remote-diagnosis-and-repair `[ps=0]`
 - cost-effective-third-party `[ps=0]`
 - essential-for-distributed-workforce `[ps=0]`
 - remote-lockdown-and-recovery `[ps=0]`
-- T-series;W510;ThinkCentre-M90 `[ps=0]`
-- Latitude-13;Precision-M6500;Vostro-430 `[ps=0]`
-- Elitebook-8540p;Elitebook-8440p;Compaq-Elite-8100 `[ps=0]`
-- spend-smart;do-more;be-more-secure `[ps=0]`
-- manageability-partner `[ps=0]`
-- manageability-partner `[ps=0]`
-- manageability-partner `[ps=0]`
-- manageability-partner `[ps=0]`
+- <1000 `[ps=0]`

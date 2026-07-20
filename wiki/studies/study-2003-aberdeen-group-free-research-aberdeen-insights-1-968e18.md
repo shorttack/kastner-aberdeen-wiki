@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.07
-prescience_obs_count: 30
+prescience_mean: 3.05
+prescience_obs_count: 38
 ---
 
 # Aberdeen Group Free Research: Aberdeen InSights Catalog (2001-2003)
@@ -49,19 +49,19 @@ _Published 2003, author **Aberdeen Group (Multiple Authors)**, type **publicatio
 - Linux became dominant server OS by mid-2000s; now runs majority of cloud infrastructure `[ps=4]`
 - Shakeout in wireless LAN market started; many vendors will not remain in market a year from now `[ps=4]`
 - WiFi market consolidated; Broadcom, Atheros, Intel emerged dominant; many early vendors exited `[ps=4]`
+- Global 3G rollout significantly delayed from 2001 projections; mass-market 3G emerged ~2007-2009 `[ps=4]`
 - Pocket PC will eclipse Palm OS as leading handheld platform by 2005 `[ps=4]`
+- Neither won; smartphone revolution (iPhone 2007) rendered both obsolete; prediction was incorrect `[ps=4]`
 - Nextel Boost subsidiary expected to help company be a key player in mobile youth market `[ps=4]`
+- Baan sold by Invensys to SSA Global 2003; eventually acquired by Infor; viability prediction broadly correct short-term `[ps=4]`
 - Agile and Extreme Programming promote development reengineering rather than just control `[ps=4]`
 - Enterprise IT planners should maintain open mind toward using IP for storage networking `[ps=4]`
+- Siebel 7.5 exposes business processes as Web services; methodology-driven CRM `[ps=4]`
+- Overall economics, top-line revenues, and profitability must improve before IT purchasing resumes `[ps=4]`
 - Corporate spending on PLM technology will grow during flat economy `[ps=4]`
 - Aberdeen optimistic about U.S. telecom market in 2003 but requires serious clean-up effort `[ps=4]`
 - Formerly over-hyped personalization market gave personalization a bad reputation; reset underway `[ps=4]`
+- SAP story compelling at SAPPHIRE; Aberdeen believes this lion is not ready to cede its hegemony `[ps=4]`
 - Aberdeen field experience at odds with NY Times negative view of Computer Associates viability `[ps=4]`
 - Exodus filed bankruptcy Sept 2001; C&W acquired assets for $850M `[ps=3]`
 - Growing number of IT buyers will divert resources from broad CRM suites to e-mail-centric customer lifecycle messaging `[ps=3]`
-- Microsoft has significant .NET technical progress but still cannot answer IT's fundamental question: 'What is it?' `[ps=3]`
-- Standards are the only true path to the Holy Grail of an IT utility `[ps=3]`
-- Worldwide BPM spending forecast and analysis (2001-2005) published; sector uses workflow-related solutions in grander domains `[ps=3]`
-- Only legacy application web enablement and web servicizing by upgrade-in-place will cost-effectively allow access to key enterprise information `[ps=2]`
-- Baan appears on sound financial footing after turnaround under Invensys `[ps=1]`
-- ~100 InSight briefs published Feb 2001 – Feb 2003 `[ps=0]`

@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'CRM is a core enterprise software category. Salesforce, Microsoft Dynamics, HubSpot dominate. Market growing with AI integration.', 'source': 'pre-verified'}"
 occurrence_count: 53
 prescience_max: 5.0
-prescience_mean: 0.92
-prescience_obs_count: 461
+prescience_mean: 0.93
+prescience_obs_count: 462
 ---
 
 # Customer Relationship Management (CRM)
@@ -38,6 +38,7 @@ prescience_obs_count: 461
 - Best-in-class retailers are increasingly turning to technology to solve this conundrum by extending customer touch points out into the body of the store, `[ps=5]` — [[study-ra-pointsofservice-pr-2858-838bf8]]
 - **Cross-Channel Inventory, Order and Sales Status –** Information on inventory, order and sales status delivered in real-time is critical for all retailers, regardless of industry sub-segment: Figure 4 shows retailer-identified critical capabilities in today’s multi-channel world. `[ps=5]` — [[study-ra-pointsofservice-pr-2858-838bf8]]
 - Truly best in class retailers are getting delivery status back to the home office in real-time, where the customer can either look up the status of their order on line, or call customer service for an updated delivery window. `[ps=5]` — [[study-ra-pointsofservice-pr-2858-838bf8]]
+- Consumer empowerment driving increased IT spending on retail automation CRM and analytics by savvy retailers both online and in stores `[ps=5]` — [[study-technology-themes-2003-04]]
 - |**Applying Customer**|| |---|---| |**Intelligence**|| |**_Success Strategies for_**|In Q4 2005, Aberdeen surveyed hundreds of enterprises to benchmark| |**_Leveraging Customer_**|how Customer Intelligence is extracted, managed, analyzed and applied| |**_Intelligence Q1 2006_**|toward profitable growth and found dramatic room for improvement.| ||Aberdeen research revealed that 74% of the best-in-c `[ps=4]` — [[study-2006-researchpreviewci-f551f1]]
 - This research revealed that best-in-class marketers _consistently_ demonstrate higher performance across KEY business and marketing metrics, they also measure specific metrics that directly link marketing efforts and overall business goals. `[ps=4]` — [[study-2007-ra-cmo-smemme-la-3607-eff289]]
 - Technologies that will yield best-in-class results _must_ enable integration of data and enhance sophistication of marketing processes in order to add value. `[ps=4]` — [[study-2007-ra-cmo-smemme-la-3607-eff289]]
@@ -48,4 +49,3 @@ prescience_obs_count: 461
 - Figure 4 demonstrates that companies that implement prediction capabilities realize higher ROMI. `[ps=4]` — [[study-2007-ra-cmo-smemme-la-3607-eff289]]
 - However, if an organization is unable to track or measure the effectiveness of each interaction per customer, it will have a significant impact on its ability to understand which message, offer, touch-point, or number of interactions influences their customers’ purchasing decisions and, ultimately, customer acquisition and profitability rates (Figure 5). `[ps=4]` — [[study-2007-ra-cmo-smemme-la-3607-eff289]]
 - Best in class companies are the most likely able to track customers and integrate touch-points; permitting a closed-loop approach which raises campaign sophistication. `[ps=4]` — [[study-2007-ra-cmo-smemme-la-3607-eff289]]
-- Not surprisingly, companies that leveraged technology and business processes to plan and create marketing initiatives were rewarded with higher ROMI and gross annual sales (Figure 3).Conversely, the consequences of not employing technology are clear. `[ps=4]` — [[study-2007-ra-cmo-smemme-la-3607-eff289]]

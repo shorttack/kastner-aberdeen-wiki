@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Pay-Per-View / Video On Demand
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Rapid growth expected as analog channels converted to digital — [[study-aberdeen-1996-omnibox-interactive-broadcasting-network]]
+- Rapid growth expected as analog channels converted to digital `[ps=4]` — [[study-aberdeen-1996-omnibox-interactive-broadcasting-network]]

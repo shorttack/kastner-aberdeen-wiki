@@ -12,9 +12,9 @@ era: "1955-1975"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Core Memory
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Programmers had to manage core memory cycles explicitly; efficient use of memory was economically critical at $360/hour. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- Programmers had to manage core memory cycles explicitly; efficient use of memory was economically critical at $360/hour. `[ps=0]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]

@@ -16,12 +16,12 @@ source_file: "Omnibox97.docx"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "low"
 prescience_5y_enum: "low"
 prescience_max: 5.0
-prescience_mean: 0.4
-prescience_obs_count: 25
+prescience_mean: 0.63
+prescience_obs_count: 30
 ---
 
 # OmniBox International Confidential Business Plan
@@ -42,10 +42,15 @@ _Published 1997, author **OmniBox International / Peter S. Kastner (consulting)*
 
 - ~60 million cable customers in US; roughly half subscribe to pay services `[ps=5]`
 - At least 10 digital channels per analog channel; 100-to-1 video image shrinkage; side-by-side analog and digital broadcast `[ps=4]`
+- $8.00 per album (average retail $9.95) `[ps=3]`
+- Handles credit card transaction processing: real-time PPV, two-step purchases, mail-order, admin functions (shipping auth, revenue reporting) `[ps=3]`
+- Provides Inferno OS for set-top boxes and PCs; co-marketing agreement; negotiating synergistic business ventures `[ps=2]`
 - 5,000,000 homes in Year 1 (1996) `[ps=1]`
+- 27,500,000 homes by Year 4 (1999) `[ps=1]`
 - $10 million equity investment `[ps=0]`
 - $2 million (through development stage) `[ps=0]`
 - $201,550,000 `[ps=0]`
+- $474,265,000 `[ps=0]`
 - $756,707,333 `[ps=0]`
 - $1,171,498,000 `[ps=0]`
 - $13,094,417 `[ps=0]`
@@ -60,8 +65,3 @@ _Published 1997, author **OmniBox International / Peter S. Kastner (consulting)*
 - Under $200 for base module; ~$50-$75 for accessory modules `[ps=0]`
 - 53 countries in Middle East, Asia, Africa in first JV (finalized); Europe, N/S America to follow `[ps=0]`
 - 9% of customer homes (Cinemax-level) in participating systems `[ps=0]`
-- Company positions itself as early leader in interactive TV and PC-based e-commerce; $10M investment to turn profitable in Year 1 `[ps=0]`
-- unknown `[ps=0]`
-- 78 capital contributing stockholders Oct 1994; Thomas A. Bush controls 70.67% (6,886,872 shares); $974,068 raised through issuance of common stock `[ps=0]`
-- At least 30% lower per-channel cost vs. competition for purchase and installation `[ps=0]`
-- $(8,148,652) cumulative earnings deficit as of 1994 balance sheet `[ps=0]`

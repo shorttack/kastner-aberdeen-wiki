@@ -12,9 +12,9 @@ era: "1998-2006"
 lifecycle_at_study: "mature"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Maxtor Atlas SCSI Disk Drive
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- High-End SCSI (Atlas); high-speed storage; direct/NAS/SAN attached; random data access; high I/O performance — [[study-19-maxline-data-timeline-slide-6e6572]]
-- High-end Performance Storage / On-Line Server; high-speed; direct/NAS/SAN attached; random access; high I/O — [[study-19-maxline-data-timeline-slide-6e6572]]
+- High-End SCSI (Atlas); high-speed storage; direct/NAS/SAN attached; random data access; high I/O performance `[ps=3]` — [[study-19-maxline-data-timeline-slide-6e6572]]
+- High-end Performance Storage / On-Line Server; high-speed; direct/NAS/SAN attached; random access; high I/O `[ps=0]` — [[study-19-maxline-data-timeline-slide-6e6572]]

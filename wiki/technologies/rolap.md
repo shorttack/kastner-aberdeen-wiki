@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 3
-prescience_max: 3.0
-prescience_mean: 2.5
-prescience_obs_count: 2
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # Relational OLAP (ROLAP)
@@ -26,6 +26,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- ROLAP leverages mainstream scalable-parallel RDBMSs; eliminates need for enterprise to maintain non-mainstream technologies; benefits from hardware parallelism innovations `[ps=4]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
 - ROLAP became the dominant architecture for modern EPM tools; Oracle, SAP, IBM all moved to RDBMS-based approaches; proprietary MOLAP engines declined; Aberdeen's assessment proved correct `[ps=3]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
 - ROLAP approach eliminates need for non-mainstream technologies; positions enterprises to benefit from continual innovations in hardware parallelism and VLDB technology `[ps=2]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
-- ROLAP leverages mainstream scalable-parallel RDBMSs; eliminates need for enterprise to maintain non-mainstream technologies; benefits from hardware parallelism innovations — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]

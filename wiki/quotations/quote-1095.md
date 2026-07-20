@@ -1,6 +1,7 @@
 ---
 title: Quote 1095 — AP ()
 type: quotation
+page_type: quotation
 slug: quote-1095
 row_id: 1095
 author: "Peter S. Kastner"

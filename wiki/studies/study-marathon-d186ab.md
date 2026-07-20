@@ -16,12 +16,12 @@ source_file: "MARATHON.PPT"
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.86
-prescience_obs_count: 22
+prescience_mean: 0.76
+prescience_obs_count: 25
 ---
 
 # How I'd Succeed as a Marathon Sales Exec
@@ -47,6 +47,7 @@ _Published 1998, author **Peter S. Kastner**, type **market-study**._
 - local general-business speeches and country-club schmoozing `[ps=2]`
 - time is right for Marathon Endurance `[ps=2]`
 - 25% `[ps=0]`
+- gaining market share in mission-critical `[ps=0]`
 - weak / niche ('Stratus Radio') `[ps=0]`
 - weak / distracted post-acquisition `[ps=0]`
 - weak relative to Endurance `[ps=0]`
@@ -54,7 +55,9 @@ _Published 1998, author **Peter S. Kastner**, type **market-study**._
 - customer inertia / skepticism `[ps=0]`
 - 99.9% availability arithmetic `[ps=0]`
 - buy Microsofties a latte and demo `[ps=0]`
+- engage OEM partners `[ps=0]`
 - retail in-store servers and logistics `[ps=0]`
+- health care `[ps=0]`
 - public safety and command and control `[ps=0]`
 - utilities deregulation `[ps=0]`
 - financial services `[ps=0]`
@@ -62,6 +65,3 @@ _Published 1998, author **Peter S. Kastner**, type **market-study**._
 - local ISPs (example: Yahoo) `[ps=0]`
 - Microsoft BackOffice VARs `[ps=0]`
 - emerging workload requiring HA `[ps=0]`
-- gaining market share in mission-critical
-- engage OEM partners
-- health care

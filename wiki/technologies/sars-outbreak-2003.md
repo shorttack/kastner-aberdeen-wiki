@@ -13,8 +13,8 @@ lifecycle_at_study: "new"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 3
 prescience_max: 3.0
-prescience_mean: 0.64
-prescience_obs_count: 11
+prescience_mean: 1.07
+prescience_obs_count: 15
 ---
 
 # SARS coronavirus outbreak (2003)
@@ -24,10 +24,14 @@ prescience_obs_count: 11
 
 ## Top observations
 
+- At a minimum, the SARS epidemic will cause schedule slippages and disrupt the aggressive growth plans that global electronics companies have for the affected geographies. `[ps=3]` — [[study-sars-high-tech-monday-update-monday-apri-ac0cb5]]
+- At a minimum, the SARS epidemic will cause schedule slippages and disrupt the aggressive growth plans that global electronics companies have for the affected geographies. `[ps=3]` — [[study-sars-puts-an-end-to-business-as-usual-in-6b0471]]
 - Kurzfristig haben wir es mit einer Unterbrechung des Reiseverkehrs von Führungskräften und Verkaufsmitarbeitern nach und aus Asien zu tun. (Short term we are dealing with disruption of executive and sales travel to and from Asia.) `[ps=3]` — [[study-sars-wirft-schatten-uber-elektronische-b-bf33b6]]
+- Sollten die Quarantänemaßnahmen jedoch zunehmen, wird das einen erheblichen Einfluss auf die Weltwirtschaft haben. Dann wird nichts mehr hergestellt — weder Kondensatoren noch Weihnachtsgeschenke. (If quarantine measures escalate it will have a significant impact on the world economy. Then nothing will be manufactured — neither capacitors nor Christmas gifts.) `[ps=3]` — [[study-sars-wirft-schatten-uber-elektronische-b-bf33b6]]
 - Worst case, it could result in major supply-chain disruptions and another downdraft for an already challenged industry. `[ps=2]` — [[study-sars-high-tech-monday-update-monday-apri-ac0cb5]]
 - Worst case, it could result in major supply-chain disruptions and another downdraft for an already challenged industry. `[ps=2]` — [[study-sars-puts-an-end-to-business-as-usual-in-6b0471]]
 - Motorola was ordered by Singapore officials to temporarily close its factory when an employee developed SARS-like symptoms. `[ps=0]` — [[study-sars-high-tech-monday-update-monday-apri-ac0cb5]]
+- Intel briefly shut its Hong Kong offices. `[ps=0]` — [[study-sars-high-tech-monday-update-monday-apri-ac0cb5]]
 - Hewlett-Packard briefly shut its Hong Kong offices. `[ps=0]` — [[study-sars-high-tech-monday-update-monday-apri-ac0cb5]]
 - 1,804 worldwide cases and 62 deaths as of April 1, 2003; 182 new cases and 4 new deaths in the prior 24 hours. `[ps=0]` — [[study-sars-puts-an-end-to-business-as-usual-in-6b0471]]
 - Hong Kong showed the greatest increase with 155 new cases reported and 3 deaths between March 31 and April 1. `[ps=0]` — [[study-sars-puts-an-end-to-business-as-usual-in-6b0471]]
@@ -35,7 +39,3 @@ prescience_obs_count: 11
 - Sun Microsystems indefinitely postponed its SunNetwork 2003 conference originally scheduled for Shanghai April 8-9, 2003, citing health concerns. `[ps=0]` — [[study-sars-puts-an-end-to-business-as-usual-in-6b0471]]
 - Intel cancelled its Intel Developer Forum (IDF) conferences in Taipei and Beijing; CEO Craig Barrett had been scheduled to keynote Taipei. IDF Tokyo and IDF Bangalore proceeded as planned. `[ps=0]` — [[study-sars-puts-an-end-to-business-as-usual-in-6b0471]]
 - Motorola temporarily closed the night shift at a Singapore factory (communication equipment manufacturing), with 532 workers affected, after an employee was hospitalized with SARS. `[ps=0]` — [[study-sars-wirft-schatten-uber-elektronische-b-bf33b6]]
-- At a minimum, the SARS epidemic will cause schedule slippages and disrupt the aggressive growth plans that global electronics companies have for the affected geographies. — [[study-sars-high-tech-monday-update-monday-apri-ac0cb5]]
-- Intel briefly shut its Hong Kong offices. — [[study-sars-high-tech-monday-update-monday-apri-ac0cb5]]
-- At a minimum, the SARS epidemic will cause schedule slippages and disrupt the aggressive growth plans that global electronics companies have for the affected geographies. — [[study-sars-puts-an-end-to-business-as-usual-in-6b0471]]
-- Sollten die Quarantänemaßnahmen jedoch zunehmen, wird das einen erheblichen Einfluss auf die Weltwirtschaft haben. Dann wird nichts mehr hergestellt — weder Kondensatoren noch Weihnachtsgeschenke. (If quarantine measures escalate it will have a significant impact on the world economy. Then nothing will be manufactured — neither capacitors nor Christmas gifts.) — [[study-sars-wirft-schatten-uber-elektronische-b-bf33b6]]

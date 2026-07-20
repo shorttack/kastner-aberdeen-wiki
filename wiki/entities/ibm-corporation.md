@@ -13,8 +13,8 @@ successor: "IBM (ongoing)"
 years_active: "1911-present"
 occurrence_count: 14
 prescience_max: 5.0
-prescience_mean: 1.78
-prescience_obs_count: 93
+prescience_mean: 1.61
+prescience_obs_count: 124
 ---
 
 # IBM Corporation
@@ -29,6 +29,7 @@ prescience_obs_count: 93
 
 ## Top observations
 
+- Assured once-and-only-once delivery with connection independence `[ps=5]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Internet/Intranet adding new TP patterns for e-commerce `[ps=5]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Enterprises facing proliferating data archipelagoes requiring ever-faster merging of larger data streams `[ps=5]` — [[study-1997-ibm-information-integration-family--29351c]]
 - Key value: reuse information integration middleware across recurring projects vs. one-off builds `[ps=5]` — [[study-1997-ibm-information-integration-family--29351c]]
@@ -42,10 +43,9 @@ prescience_obs_count: 93
 - Electronic mail is the logical first step in collaboration rollout, and top executives should use it first; IBM is cited as an example. `[ps=4]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - Most popular TP monitor worldwide `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Very-large-database data-warehousing proven `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Migration path for IBM mainframe shops to network computing `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Will add third-party and IBM tools for ORBs and commercial-messaging applications `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Will continue integrating products and development tools with the Internet `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Java application servers (WebSphere, JBoss, WebLogic) confirmed TP-monitor pattern at Internet scale `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- CICS Gateway for Java; Web and Lotus Notes integration `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Large data types up to 2 GB; Relational Extenders for complex types `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- IMS accessible via Web browser through Internet Connection Server / MQSeries gateway `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Log-based capture to staging area then apply to destination; minimizes production database impact `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]
-- State management via variable substitution for OLTP transactions across web connections `[ps=4]` — [[study-1997-ibm-information-integration-family--29351c]]

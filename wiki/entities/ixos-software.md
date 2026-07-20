@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Open Text"
 years_active: "1989-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # iXOS Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SAP strategic partner; operated Competence Center for R/3 on Windows NT — [[study-sequent-sap-sequen~1-7f70e4]]
+- SAP strategic partner; operated Competence Center for R/3 on Windows NT `[ps=0]` — [[study-sequent-sap-sequen~1-7f70e4]]

@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 2
+prescience_mean: 4.0
+prescience_obs_count: 3
 ---
 
 # Customer Relationship Management (CRM)
@@ -26,4 +26,4 @@ prescience_obs_count: 2
 
 - Oracle acquired Siebel Systems January 2006 for $5.85 billion; Siebel achieved peak CRM market share of 45% circa 2002 `[ps=5]` — [[study-1997-crm-siebel-systems-pr-569e52]]
 - Aberdeen expects Siebel to capitalize on ability to help forward-looking organizations increase revenues while driving down costs in growing CIS market `[ps=4]` — [[study-1997-crm-siebel-systems-pr-569e52]]
-- CRM market projected to reach $16.8 billion by 2003; Siebel dominated with ~45% market share at peak circa 2002 — [[study-1997-crm-siebel-systems-pr-569e52]]
+- CRM market projected to reach $16.8 billion by 2003; Siebel dominated with ~45% market share at peak circa 2002 `[ps=3]` — [[study-1997-crm-siebel-systems-pr-569e52]]

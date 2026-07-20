@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.27
-prescience_obs_count: 11
+prescience_mean: 4.25
+prescience_obs_count: 12
 ---
 
 # Network Storage: Obtaining the Payoff for Your Enterprise
@@ -44,6 +44,7 @@ _Published 1997, author **David Hill (Aberdeen Group)**, type **Technology Viewp
 - NAS and SAN became dominant enterprise storage; cloud storage extended the model to internet scale `[ps=5]`
 - Manageability as key requirement for network storage architecture `[ps=5]`
 - AWS S3 launched 2006 extending network storage to cloud scale; validates server-independent storage model `[ps=5]`
+- Traditional storage architectures will soon become inadequate for Global 2000 enterprises `[ps=4]`
 - Enterprises that fail to adopt network storage will overpay for storage `[ps=4]`
 - New network storage facilities should have greater server independence than previous generations `[ps=4]`
 - Throughput as key requirement for network storage architecture `[ps=4]`
@@ -51,4 +52,3 @@ _Published 1997, author **David Hill (Aberdeen Group)**, type **Technology Viewp
 - Most Global 2000 enterprises using decades-old storage architectures as of 1997 `[ps=4]`
 - New high-data-volume applications will trigger storage architecture failures `[ps=4]`
 - Traditional DAS architectures were largely displaced by NAS/SAN in Global 2000 enterprises by 2005 `[ps=3]`
-- Traditional storage architectures will soon become inadequate for Global 2000 enterprises

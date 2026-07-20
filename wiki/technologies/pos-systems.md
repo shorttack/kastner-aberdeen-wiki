@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "current"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 1.0
+prescience_obs_count: 4
 ---
 
 # Point-of-Sale (POS) Systems
@@ -25,6 +25,6 @@ prescience_obs_count: 1
 ## Top observations
 
 - Restaurant bookkeeping department that required three people through a summer season to reconcile 10,000 pieces of paper can now be automated by a POS system on a tablet in a hostess stand. `[ps=4]` — [[study-volume-1-ch10-the-long-view-1966-2026]]
-- 2.3 trillion USD — [[study-retail~1-d5de79]]
-- 11 billion USD — [[study-retail~1-d5de79]]
-- scalability, functionality, extensibility, vendor viability, security, price — [[study-retail~1-d5de79]]
+- 2.3 trillion USD `[ps=0]` — [[study-retail~1-d5de79]]
+- 11 billion USD `[ps=0]` — [[study-retail~1-d5de79]]
+- scalability, functionality, extensibility, vendor viability, security, price `[ps=0]` — [[study-retail~1-d5de79]]

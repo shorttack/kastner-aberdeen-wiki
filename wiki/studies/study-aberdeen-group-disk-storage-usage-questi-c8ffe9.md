@@ -16,12 +16,12 @@ source_file: "Aberdeen Group Disk Storage Usage Questionnaire.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.89
-prescience_obs_count: 19
+prescience_mean: 1.04
+prescience_obs_count: 27
 ---
 
 # Aberdeen Group Disk Storage Usage Questionnaire (v1)
@@ -42,9 +42,13 @@ _Published 2003, author **Peter S. Kastner; David Hill (Aberdeen Group)**, type 
 
 - Q8: Number of on-disk copies (excluding parity RAID) plus tape copies — directly measures copy proliferation `[ps=4]`
 - Q11: Despite capacity growing faster than speed, will you still move to larger capacity disks? `[ps=4]`
+- Q19-Q20: Backup window length (or online backup); specific issues — running out of window, job failure rate `[ps=4]`
+- Q7(e) remote mirroring vs. Q7(f) remote copying — treated as distinct protection methods `[ps=4]`
 - Q1: Total disk available (GB or TB) — server-only; PC/workstations excluded `[ps=3]`
 - Q4: Four-way split — internal DAS / external DAS / SAN / NAS — measured in GB/TB `[ps=3]`
+- Q10: Would you accept (a) higher-capacity/slightly-less-performance or (b) same-size/similar-performance for cold data migration? `[ps=3]`
 - SAN listed before NAS in architecture breakout — implicit ordering by enterprise primacy `[ps=3]`
+- Telephone survey questionnaire — version 1 of RAMP quantitative instrument `[ps=0]`
 - Q2: Actual used storage (GB/TB); Q3: Maximum desired utilization (%) `[ps=0]`
 - Q5: Expected storage growth in next 12 months (%) `[ps=0]`
 - Q6: Storage mapped to OS — mainframe / Unix / Windows / Other (GB/TB per OS) `[ps=0]`
@@ -52,16 +56,12 @@ _Published 2003, author **Peter S. Kastner; David Hill (Aberdeen Group)**, type 
 - Q9: What percentage of online data does not need highest-availability storage? (closed transactions / old e-mail) `[ps=0]`
 - Q12: Do you allow multiple applications to share an array? `[ps=0]`
 - Q13: SCSI / FC / ATA percentage breakout with drive sizes and rotational speeds `[ps=0]`
+- Q14: Do you have performance bottlenecks? If yes: CPU / storage / network. If no: expect future bottleneck? `[ps=0]`
 - Q15-Q18: Formal SLA existence / informal criteria / consequences of unavailability and performance degradation `[ps=0]`
 - Q21: nearline storage / active archiving / mezzanine storage — tested for awareness `[ps=0]`
 - Q22: Local / Regional / National / International / Global — five-level geographic scope `[ps=0]`
 - Q23: CIO / CTO / IS Director-Manager / Technical Specialist / Hardware Engineer / Software Engineer / Programmer / Systems Analyst / DBA / Other `[ps=0]`
 - Q25: Revenue from <$10M to >$5B in 9 bands `[ps=0]`
+- Q26: IT budget from <$1M to >$500M in 9 bands `[ps=0]`
 - Q27: CIO reports to CFO / President-CEO / Other `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- Telephone survey questionnaire — version 1 of RAMP quantitative instrument
-- Q10: Would you accept (a) higher-capacity/slightly-less-performance or (b) same-size/similar-performance for cold data migration?
-- Q14: Do you have performance bottlenecks? If yes: CPU / storage / network. If no: expect future bottleneck?
-- Q19-Q20: Backup window length (or online backup); specific issues — running out of window, job failure rate
-- Q26: IT budget from <$1M to >$500M in 9 bands
-- Q28: 25 industry verticals from Aerospace to Wholesale Trade
+- Q28: 25 industry verticals from Aerospace to Wholesale Trade `[ps=0]`

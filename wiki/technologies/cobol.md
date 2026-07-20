@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream-legacy"
 lifecycle_current: "{'lifecycle_current': 'legacy-supported', 'notes': 'COBOL remains in heavy use in banking, insurance, and government, processing ~70-80% of world's business transactions. Not used for new projects but actively maintained on mainframes. Reached TIOBE Top 10 in 2024.', 'source': 'https://zmainframes.com/zlog/cobol-in-2024-is-it-still-relevant-or-a-dying-language/'}"
 occurrence_count: 13
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 15
+prescience_mean: 2.81
+prescience_obs_count: 16
 ---
 
 # COBOL (Common Business-Oriented Language)
@@ -44,8 +44,8 @@ prescience_obs_count: 15
 - no `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
 - 2900 programs migrated in 15 months without rewrite `[ps=0]` — [[study-intelitaniummfewp1[1]-773ea2]]
 - Siegel confirmed the One-Instruction Switch optimization was achievable in COBOL, not just assembly. `[ps=0]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- Two Cosmos experts delivered 25 million lines of bug-free COBOL code in one year. `[ps=0]` — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
 - Chase IT project produced 400 written COBOL programs with no system flow chart — [[study-adl-commercial-engagements-kastner-1972-1979-b8b001]]
 - Design documents and COBOL code written in English; forms documents translated by professional translators — [[study-adl-commercial-engagements-kastner-1972-1979-b8b001]]
 - Peter Kastner's wife Kate (COBOL programmer) joined the UFRJ project; ADL paid two reduced stipends — [[study-adl-commercial-engagements-kastner-1972-1979-b8b001]]
 - Barbara Kruesi volunteered from ADLS as third COBOL programmer on UFRJ — [[study-adl-commercial-engagements-kastner-1972-1979-b8b001]]
-- HM's new order-entry/inventory system was so flawed that bookstores refused to pay invoices and physical inventory failed audits; HM could not close books and risked NYSE suspension — [[study-adl-commercial-engagements-kastner-1972-1979-b8b001]]

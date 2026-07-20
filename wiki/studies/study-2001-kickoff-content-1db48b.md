@@ -3,7 +3,7 @@ title: "Aberdeen Group 2001 Kickoff — Enhanced Practice Opportunities"
 slug: "study-2001-kickoff-content-1db48b"
 page_type: "study"
 tags: ["type/study", "collection/employer-record"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "2001-kickoff-content-1db48b"
 author: "Peter S. Kastner / Aberdeen Group"
@@ -19,9 +19,9 @@ relevance: "high"
 study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 4.0
+prescience_mean: 0.8
+prescience_obs_count: 5
 ---
 
 # Aberdeen Group 2001 Kickoff — Enhanced Practice Opportunities
@@ -40,8 +40,8 @@ _Published 2001, author **Peter S. Kastner / Aberdeen Group**, type **employer-r
 
 ## Top observations
 
+- e-Learning listed as Enhanced Practice Opportunity (Level 3-4) `[ps=4]`
+- Year 2000 Aberdeen Group Source: Aberdeen Group © 2000 (January 2001 kickoff) `[ps=0]`
+- Level 1 (X): Practice Definition — bio, practice summary/white paper, core services (RAMPs, collateral development, customer education, MarCom support) `[ps=0]`
+- Levels 2-4: Reports; Retainers; Multi-Client Studies; Survey Services; Field Sales Training; e-Learning; e-Profiles; Cross-Group Retainers `[ps=0]`
 - e-Profiles listed as Enhanced Practice Opportunity (Level 3-4) `[ps=0]`
-- Year 2000 Aberdeen Group Source: Aberdeen Group © 2000 (January 2001 kickoff)
-- Level 1 (X): Practice Definition — bio, practice summary/white paper, core services (RAMPs, collateral development, customer education, MarCom support)
-- Levels 2-4: Reports; Retainers; Multi-Client Studies; Survey Services; Field Sales Training; e-Learning; e-Profiles; Cross-Group Retainers
-- e-Learning listed as Enhanced Practice Opportunity (Level 3-4)

@@ -13,8 +13,8 @@ lifecycle_at_study: "vendor-marketing-claim"
 lifecycle_current: "superseded"
 occurrence_count: 2
 prescience_max: 2.0
-prescience_mean: 0.22
-prescience_obs_count: 9
+prescience_mean: 0.2
+prescience_obs_count: 10
 ---
 
 # Tandem TopGun (March 1987)
@@ -33,4 +33,4 @@ prescience_obs_count: 9
 - 10-15 `[ps=0]` — [[study-kastner-tandem-topgun-et1-analysis-1987--a3a09c]]
 - 5 `[ps=0]` — [[study-kastner-tandem-topgun-et1-analysis-1987--a3a09c]]
 - 6 options: do similar test; ignore; raise stakes; deemphasize ET-1; devise own standard; embrace RAMP-C `[ps=0]` — [[study-kastner-tandem-topgun-et1-analysis-1987--a3a09c]]
-- 8% (16-cpu); 10% (32-cpu) — [[study-kastner-tandem-topgun-et1-analysis-1987--a3a09c]]
+- 8% (16-cpu); 10% (32-cpu) `[ps=0]` — [[study-kastner-tandem-topgun-et1-analysis-1987--a3a09c]]

@@ -11,7 +11,7 @@ vendor: "DEC/Compaq"
 era: "1992-2004"
 lifecycle_at_study: "mature"
 lifecycle_current: "discontinued"
-occurrence_count: 1
+occurrence_count: 2
 prescience_max: null
 prescience_mean: null
 prescience_obs_count: 0

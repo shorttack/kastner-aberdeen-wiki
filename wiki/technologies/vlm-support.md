@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Very Large Memory (VLM) Support
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Future release of SQL Server on future release of NT will support Very Large Memories `[ps=4]` — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]
-- Oracle and Informix supported VLM on Digital Equipment's Unix on Alpha for over a year before Microsoft's announcement — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]
+- Oracle and Informix supported VLM on Digital Equipment's Unix on Alpha for over a year before Microsoft's announcement `[ps=2]` — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]

@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "production"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Corporate workforce reduction / restructuring
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 15% U.S. workforce reduction (~1,600 employees); primarily manufacturing and administration; sales force untouched — [[study-wsj-honeywell-bull-layoffs-kastner-1989-9faf05]]
+- 15% U.S. workforce reduction (~1,600 employees); primarily manufacturing and administration; sales force untouched `[ps=0]` — [[study-wsj-honeywell-bull-layoffs-kastner-1989-9faf05]]

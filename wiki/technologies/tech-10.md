@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "active-growth"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 2
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Informix Universal Server (IUS)
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Best ORDBMS framework in DataBlades; same searchable data types as IBM `[ps=2]` — [[study-cab199-1-2-0cb163]]
 - denormalization `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]
-- Best ORDBMS framework in DataBlades; same searchable data types as IBM — [[study-cab199-1-2-0cb163]]

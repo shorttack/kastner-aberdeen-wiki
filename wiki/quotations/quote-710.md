@@ -1,6 +1,7 @@
 ---
 title: Quote 710 — Computerworld (1989-07-24)
 type: quotation
+page_type: quotation
 slug: quote-710
 row_id: 710
 author: "Peter S. Kastner"

@@ -13,8 +13,8 @@ lifecycle_at_study: "growth-1999"
 lifecycle_current: "ubiquitous"
 occurrence_count: 28
 prescience_max: 5.0
-prescience_mean: 0.93
-prescience_obs_count: 243
+prescience_mean: 1.04
+prescience_obs_count: 257
 ---
 
 # E-Commerce Infrastructure
@@ -32,6 +32,7 @@ prescience_obs_count: 243
 - Web site search is a minimum competitive requirement for online commerce as indicated by the 96% of eCommerce web sites that currently have or will have a search tool in place in the next twenty-four months. `[ps=5]` — [[study-ra-web-site-search-3910-5f9297]]
 - Web site search is a minimum competitive requirement for online commerce as indicated by the 96% of eCommerce web sites that currently have or will have a search tool in place in the next twenty-four months. `[ps=5]` — [[study-ra-web-site-search-3910-sli-16eb05]]
 - • Analytics derived from search are valuable. 72% of Best-in-Class use this data to improve SEO practices and 64% use analytics data to influence marketing campaigns. `[ps=5]` — [[study-ra-web-site-search-3910-sli-16eb05]]
+- Aberdeen scaled years (1997-2001) were dominated by the internet boom and e-commerce infrastructure build-out. `[ps=5]` — [[study-volume-1-appendix-career-timeline]]
 - Four major trends: Internet/intranet/extranet development; component production/assembly; distributed-app deployment; modeling/repositories `[ps=4]` — [[study-1999pr~2-cd0049]]
 - 66% of respondents claim that field service is either “very” or "extremely” important to their operational and financial performance, while only 13% state the same level of satisfaction with their field service operations. `[ps=4]` — [[study-ra-lbs-sd-3599-736223]]
 - • 69% of firms aim to purchase/upgrade technology to automate portions of their field service operations. `[ps=4]` — [[study-ra-lbs-sd-3599-736223]]
@@ -48,4 +49,3 @@ prescience_obs_count: 243
 - • Search tools convert shoppers to buyers at conversion rates of 5% or higher for 60% of companies that track this metric. `[ps=4]` — [[study-ra-web-site-search-3910-5f9297]]
 - 62% of Best-in-Class companies continually fine-tune search to satisfy customers and meet their financial goals. `[ps=4]` — [[study-ra-web-site-search-3910-5f9297]]
 - Although search is a ubiquitous technology, producing accurate and relevant results remains a top pressure for 78% of survey respondents who seek to deliver search tools to enhance the customer experience. `[ps=4]` — [[study-ra-web-site-search-3910-5f9297]]
-- can be accomplished to some degree by internal Search Engine Optimization (SEO) techniques, which are used by 58% of all respondents to produce better results both internally and externally. `[ps=4]` — [[study-ra-web-site-search-3910-5f9297]]

@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.54
-prescience_obs_count: 13
+prescience_mean: 2.53
+prescience_obs_count: 17
 ---
 
 # The Business Value in IT Outsourcing
@@ -40,7 +40,9 @@ _Published 2006, author **Peter S. Kastner, Aberdeen Group**, type **employer-re
 
 ## Top observations
 
+- Saving money: most expected benefit; palming off dysfunctional IT on naïve outsourcer is a pipe dream `[ps=4]`
 - IT resource constraints: lack of talent, costly talent, staff turnover, wrong skill-sets `[ps=4]`
+- Culture wars: LOB management fed up with IT intransigence; outsourcing as 'blow it up' nuclear option `[ps=4]`
 - Up to 30% of IT outsourcing engagements seriously misaligned; customers may not realize it `[ps=4]`
 - 50-67% of IT outsourcing contracts running at sub-optimal levels `[ps=4]`
 - Only 5-10% of multi-million dollar IT outsourcing agreements drive all anticipated business value `[ps=4]`
@@ -49,11 +51,9 @@ _Published 2006, author **Peter S. Kastner, Aberdeen Group**, type **employer-re
 - 50% of Best-in-Class measure ROI after every application change vs. 25% for Laggards `[ps=3]`
 - Many enterprises have never done a serious make-or-buy outsourcing decision on any IT segment `[ps=3]`
 - Cannot name a single company that has outsourced IT and not learned painful lessons `[ps=3]`
+- Focusing on core competencies: decision that IT excellence is best achieved by an outsider `[ps=2]`
 - Time-to-market concern in highly competitive industries where IT agility is critical `[ps=0]`
 - Best-in-Class: 20% of respondents; Average: 50%; Laggard: 30% `[ps=0]`
+- Aberdeen tracking IT planning and outsourcing issues quantitatively since 2004 `[ps=0]`
 - Over 2,000 companies surveyed on IT in past two years `[ps=0]`
 - Report will benchmark all-size companies in Global 5000 across all industries `[ps=0]`
-- Focusing on core competencies: decision that IT excellence is best achieved by an outsider
-- Saving money: most expected benefit; palming off dysfunctional IT on naïve outsourcer is a pipe dream
-- Culture wars: LOB management fed up with IT intransigence; outsourcing as 'blow it up' nuclear option
-- Aberdeen tracking IT planning and outsourcing issues quantitatively since 2004

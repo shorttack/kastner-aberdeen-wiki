@@ -13,8 +13,8 @@ successor: "Encore Real-Time Computing (Gores Technology Group, 1998); liquidate
 years_active: "1983-1999"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 2
+prescience_mean: 1.67
+prescience_obs_count: 3
 ---
 
 # Encore Computer Corporation
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - Encore failed commercially; Series 90 did not displace IBM mainframes; company liquidated January 1999 `[ps=5]` — [[study-1988-encore-oltp-market-tps-needs-deee45]]
+- Aberdeen believes commercial Series 90 can address wider database/data-communications commercial markets with outstanding price/performance in multiples of IBM mainframes `[ps=1]` — [[study-1988-encore-oltp-market-tps-needs-deee45]]
 - Price/performance advantage over IBM 3090 mainframes; targets high-end commercial OLTP `[ps=-1]` — [[study-1988-encore-oltp-market-tps-needs-deee45]]
-- Aberdeen believes commercial Series 90 can address wider database/data-communications commercial markets with outstanding price/performance in multiples of IBM mainframes — [[study-1988-encore-oltp-market-tps-needs-deee45]]

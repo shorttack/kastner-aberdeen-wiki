@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "emerging-in-enterprise"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: 1.0
-prescience_mean: 1.0
-prescience_obs_count: 1
+prescience_max: 2.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Object-Oriented Programming Tools
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- SCRUM will help IS unlock OOP potential; most IS orgs still not planning to use OOP for mission-critical apps `[ps=2]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
 - OO tools required for SCRUM to be more than theoretical vision; tools that didn't exist even one year ago `[ps=1]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
-- SCRUM will help IS unlock OOP potential; most IS orgs still not planning to use OOP for mission-critical apps — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]

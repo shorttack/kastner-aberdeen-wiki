@@ -16,12 +16,12 @@ source_file: "Citrix-oltp-thin-client-2002-May-5.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.73
-prescience_obs_count: 11
+prescience_mean: 2.4
+prescience_obs_count: 15
 ---
 
 # Staying the course — Citrix CEO Mark Templeton expects to survive slump
@@ -41,8 +41,12 @@ _Published 2002, author **Christine Winter (South Florida Sun-Sentinel, business
 ## Top observations
 
 - $591.6M (FY ended Dec 31 2001) `[ps=5]`
+- 1997 agreement paid Citrix $175M in royalties — expired May 2002 `[ps=5]`
 - 'We intend to be in a better position than ever to become that billion-dollar software company that we know we are.' `[ps=5]`
 - Citrix Systems acquired by Vista Equity Partners and Evergreen Coast Capital 2022; merged with TIBCO to form Cloud Software Group; previously >$3B revenue, $23B market cap `[ps=5]`
+- Templeton: blames IT spending environment, 'not poor execution, as before' `[ps=4]`
+- 'Citrix has been tarred with the brush of a terrible economy, but we believe its strategy is sound. They are one of the few companies that can provide the kind of software that they do.' `[ps=4]`
+- 'MetaFrame is holding up. ... It is still doing quite well, and it shows a lot of signs of life ahead of it. That takes some of the pressure off Citrix's efforts to diversify.' `[ps=4]`
 - Citrix revenue exceeded $1B by 2006 — vindicating both Templeton's commitment and Kastner's strategy-soundness call `[ps=4]`
 - Sales $142.3M; adjusted net earnings 16¢/share `[ps=0]`
 - Down nearly 50% since January 2002 prior to article `[ps=0]`
@@ -51,7 +55,3 @@ _Published 2002, author **Christine Winter (South Florida Sun-Sentinel, business
 - 1,900 employees; CTXS on Nasdaq; HQ Fort Lauderdale `[ps=0]`
 - Recently spent $55M on two new buildings to consolidate workers from four scattered sites `[ps=0]`
 - Templeton thinks investors and industry have taken a 'wait and see' attitude about Citrix's move into a challenging new product line `[ps=0]`
-- 1997 agreement paid Citrix $175M in royalties — expired May 2002
-- Templeton: blames IT spending environment, 'not poor execution, as before'
-- 'Citrix has been tarred with the brush of a terrible economy, but we believe its strategy is sound. They are one of the few companies that can provide the kind of software that they do.'
-- 'MetaFrame is holding up. ... It is still doing quite well, and it shows a lot of signs of life ahead of it. That takes some of the pressure off Citrix's efforts to diversify.'

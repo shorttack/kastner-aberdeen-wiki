@@ -12,9 +12,9 @@ era: "2001-2007"
 lifecycle_at_study: "mature"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Sun Fire 6800
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- iSeries 840 (1-24 way, $860-1,555K, $2.0B revenue) ↔ Sun Fire 6800 — [[study-sun-as400-market-data-2002-5faa8f]]
+- iSeries 840 (1-24 way, $860-1,555K, $2.0B revenue) ↔ Sun Fire 6800 `[ps=3]` — [[study-sun-as400-market-data-2002-5faa8f]]

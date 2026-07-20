@@ -12,9 +12,9 @@ era: "2011-2019"
 lifecycle_at_study: "growth"
 lifecycle_current: "divested (smartphone modem unit sold to Apple 2019, $1B)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Infineon Wireless Solutions (WLS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Intel acquired Infineon wireless unit 2010 — [[study-otellini-intel-techpinions-2013-917213]]
+- Intel acquired Infineon wireless unit 2010 `[ps=4]` — [[study-otellini-intel-techpinions-2013-917213]]

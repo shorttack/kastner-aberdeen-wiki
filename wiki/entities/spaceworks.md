@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "unknown"
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: 4.0
-prescience_mean: 2.5
-prescience_obs_count: 4
+prescience_max: 5.0
+prescience_mean: 2.38
+prescience_obs_count: 8
 ---
 
 # SpaceWorks Inc.
@@ -24,11 +24,11 @@ prescience_obs_count: 4
 
 ## Top observations
 
+- SpaceWorks shut down operations abruptly in May 2001 after fifth round of financing failed to materialize `[ps=5]` — [[study-spaceworks-ordermanager-d51dab]]
 - Positioned on completeness + rapid implementation + legacy enterprise integration; targeted mid-to-large organizations and CSPs `[ps=4]` — [[study-spaceworks-ordermanager-d51dab]]
+- Real-time transaction processing interoperation between web-based sales channel and legacy systems `[ps=4]` — [[study-spaceworks-ordermanager-d51dab]]
 - Product functionality and pricing positions it for mid-to-large sized organizations and Commerce Service Providers offering hosting `[ps=4]` — [[study-spaceworks-ordermanager-d51dab]]
 - Implied viable B2B e-commerce platform for wholesale distribution; Aberdeen publication as endorsement `[ps=2]` — [[study-spaceworks-ordermanager-d51dab]]
+- Demonstrated good scalability in early implementations `[ps=0]` — [[study-spaceworks-ordermanager-d51dab]]
 - Suitable for hosted multi-seller Commerce Server Provider (CSP) environments `[ps=0]` — [[study-spaceworks-ordermanager-d51dab]]
-- Real-time transaction processing interoperation between web-based sales channel and legacy systems — [[study-spaceworks-ordermanager-d51dab]]
-- Demonstrated good scalability in early implementations — [[study-spaceworks-ordermanager-d51dab]]
-- Computer products, food and beverage, pharmaceutical and medical supplies, industrial parts and equipment, consumer electronics manufacturers — [[study-spaceworks-ordermanager-d51dab]]
-- SpaceWorks shut down operations abruptly in May 2001 after fifth round of financing failed to materialize — [[study-spaceworks-ordermanager-d51dab]]
+- Computer products, food and beverage, pharmaceutical and medical supplies, industrial parts and equipment, consumer electronics manufacturers `[ps=0]` — [[study-spaceworks-ordermanager-d51dab]]

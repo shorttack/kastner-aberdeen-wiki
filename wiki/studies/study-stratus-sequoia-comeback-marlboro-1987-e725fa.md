@@ -3,7 +3,7 @@ title: "Sequoia Surprises Competition With Comeback — Marlboro Enterprise / Hu
 slug: "study-stratus-sequoia-comeback-marlboro-1987-e725fa"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "stratus-sequoia-comeback-marlboro-1987-e725fa"
 author: "Scott McLennan (Marlboro Enterprise / Hudson Daily Sun)"
@@ -16,12 +16,12 @@ source_file: "image00002-3.jpg"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 3.0
-prescience_mean: 1.0
-prescience_obs_count: 3
+prescience_max: 4.0
+prescience_mean: 1.86
+prescience_obs_count: 7
 ---
 
 # Sequoia Surprises Competition With Comeback — Marlboro Enterprise / Hudson Daily Sun, 16 October 1987 (PSK at Stratus quoted)
@@ -40,10 +40,10 @@ _Published 1987, author **Scott McLennan (Marlboro Enterprise / Hudson Daily Sun
 
 ## Top observations
 
+- Stratus has the upper hand in the OLTP market; the company does not intend to complacently watch Sequoia `[ps=4]`
+- IBM agreed in 1987 to buy and resell Stratus products — first time IBM had turned to another vendor for hardware/software OLTP products `[ps=3]`
 - OLTP is the fastest growing segment of the computer industry `[ps=3]`
+- Computer companies are in the business of solving problems, and success is dependent upon solutions; a better abstract idea is not going to have customers beating a trail to your door `[ps=3]`
 - $17 billion/year per Stratus (Kastner) `[ps=0]`
 - ~55% of OLTP market 1987 per Stratus (Kastner) `[ps=0]`
-- IBM agreed in 1987 to buy and resell Stratus products — first time IBM had turned to another vendor for hardware/software OLTP products
-- Computer companies are in the business of solving problems, and success is dependent upon solutions; a better abstract idea is not going to have customers beating a trail to your door
-- Stratus has the upper hand in the OLTP market; the company does not intend to complacently watch Sequoia
-- The marketplace tends to be unforgiving, and its easy to run out of money
+- The marketplace tends to be unforgiving, and its easy to run out of money `[ps=0]`

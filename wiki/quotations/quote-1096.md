@@ -1,6 +1,7 @@
 ---
 title: Quote 1096 — Inc. ()
 type: quotation
+page_type: quotation
 slug: quote-1096
 row_id: 1096
 author: "Peter S. Kastner"

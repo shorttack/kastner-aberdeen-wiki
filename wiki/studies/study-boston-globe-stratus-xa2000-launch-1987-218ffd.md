@@ -16,12 +16,12 @@ source_file: "XA2000-2-2-87-launch-Boston-Globe-10.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.17
-prescience_obs_count: 6
+prescience_mean: 0.88
+prescience_obs_count: 8
 ---
 
 # Boston Globe — 'Stratus' new computer line aimed at rival Digital' (XA2000 launch, Ronald Rosenberg, 1987-02-02)
@@ -44,7 +44,7 @@ _Published 1987, author **Ronald Rosenberg (Boston Globe Staff)**, type **newspa
 - Increasingly Digital is becoming more of a factor and over time we expect them to be our biggest competitor `[ps=2]`
 - 50 `[ps=0]`
 - 40 `[ps=0]`
+- 15 `[ps=0]`
+- $261,000-$1,000,000 `[ps=0]`
 - We have tripled the high end of our computer performance and reduced the cost per transaction by half `[ps=0]`
 - 14.5% of $124M FY revenue `[ps=0]`
-- 15
-- $261,000-$1,000,000

@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.43
-prescience_obs_count: 7
+prescience_mean: 2.4
+prescience_obs_count: 10
 ---
 
 # Next Steps in SOA: Applications on the Network
@@ -40,13 +40,13 @@ _Published 2006, author **Peter S. Kastner**, type **employer-record**._
 
 ## Top observations
 
+- distributes and decouples processing from data center to network edge and anywhere in-between `[ps=4]`
 - requires new balance between architectural readiness and business value realization `[ps=4]`
 - network infrastructure taking on new application-layer roles `[ps=4]`
 - moving from data packets to XML-based content routing and Web Services request messaging `[ps=3]`
 - SOA middleware now delivered inside XML-aware appliances `[ps=3]`
+- SOA security in web services and XML processing identified as key finding area `[ps=3]`
 - SOA on network requires new clarity of roles between application architect and network architect `[ps=3]`
 - total reach in excess of 1 million value chain executives `[ps=0]`
+- third in ongoing series of Aberdeen SOA reports `[ps=0]`
 - broad-based survey of IT organizations plus one-on-one interviews `[ps=0]`
-- distributes and decouples processing from data center to network edge and anywhere in-between
-- third in ongoing series of Aberdeen SOA reports
-- SOA security in web services and XML processing identified as key finding area

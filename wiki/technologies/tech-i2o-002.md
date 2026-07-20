@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "Mainstream"
 lifecycle_current: "Evolved to x86-64/modern servers"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Intel Architecture (IA-32) Server
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Demand for device driver portability and intelligent distributed I/O processing drives I2O development — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]
+- Demand for device driver portability and intelligent distributed I/O processing drives I2O development `[ps=3]` — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]

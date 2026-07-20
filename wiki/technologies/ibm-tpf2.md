@@ -12,9 +12,9 @@ era: "1979-present-as-z-tpf"
 lifecycle_at_study: "current-1985"
 lifecycle_current: "active-as-z-tpf"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IBM TPF2 (Transaction Processing Facility 2)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Tandem V.2/V.5 cost/TPS substantially lower than IBM TPF2 in COBOL-vs-assembly comparison — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]
+- Tandem V.2/V.5 cost/TPS substantially lower than IBM TPF2 in COBOL-vs-assembly comparison `[ps=3]` — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]

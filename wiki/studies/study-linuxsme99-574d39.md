@@ -16,12 +16,12 @@ source_file: "LinuxSME99.docx"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.69
-prescience_obs_count: 16
+prescience_mean: 0.8
+prescience_obs_count: 20
 ---
 
 # Multiclient Study: Is Linux Already a Viable Alternative OS for Small Business?
@@ -43,6 +43,8 @@ _Published 1999, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 - Viable alternative in cost-effective reliable solutions `[ps=4]`
 - Likely front-runner for e-commerce solutions for small businesses `[ps=4]`
 - Estimated 50 million businesses globally `[ps=3]`
+- Buyers will not care about underlying OS if solution is cost-effective and reliable `[ps=3]`
+- Emerging; small business segment seen as early adopter alongside large enterprises `[ps=2]`
 - unknown `[ps=0]`
 - $20M to $100M annual revenue `[ps=0]`
 - 25 on-site interviews planned `[ps=0]`
@@ -50,13 +52,11 @@ _Published 1999, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 - $28,000 `[ps=0]`
 - $20,000 `[ps=0]`
 - $10,000 `[ps=0]`
+- IBM included Linux as alternative OS on small business website `[ps=0]`
 - unknown `[ps=0]`
 - Aberdeen reserves right to cancel if insufficient sponsor interest by Oct 1 1999 `[ps=0]`
 - Findings proprietary to subscribers for 3 months after completion `[ps=0]`
 - Well positioned after early-1999 G2500 Linux adoption study; now pursuing SMB `[ps=0]`
 - January 31, 2000 `[ps=0]`
 - Over 45 research analysts `[ps=0]`
-- Emerging; small business segment seen as early adopter alongside large enterprises
-- IBM included Linux as alternative OS on small business website
-- Buyers will not care about underlying OS if solution is cost-effective and reliable
-- unknown
+- unknown `[ps=0]`

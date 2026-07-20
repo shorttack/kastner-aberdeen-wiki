@@ -14,7 +14,7 @@ years_active: "2000s-2010s"
 occurrence_count: 3
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 3
 ---
 
 # Perry Donham
@@ -29,6 +29,6 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Author: Perry Donham, Director, Enterprise Integration Research (perry.donham@aberdeen.com) `[ps=0]` — [[study-aberdeen-ra-modernizing-legacy-2007-52a27a]]
+- Author: Perry Donham, Director, Enterprise Integration Research (perry.donham@aberdeen.com) `[ps=0]` — [[study-aberdeen-ra-soa-middleware-2007-68f39b]]
 - Perry Donham, Director, Enterprise Applications Research, perry.donham@aberdeen.com `[ps=0]` — [[study-aberdeen-rb-testing-soa-web-apps-2007-e2096f]]
-- Author: Perry Donham, Director, Enterprise Integration Research (perry.donham@aberdeen.com) — [[study-aberdeen-ra-modernizing-legacy-2007-52a27a]]
-- Author: Perry Donham, Director, Enterprise Integration Research (perry.donham@aberdeen.com) — [[study-aberdeen-ra-soa-middleware-2007-68f39b]]

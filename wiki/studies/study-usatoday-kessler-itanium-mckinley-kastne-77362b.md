@@ -16,12 +16,12 @@ source_file: "Intel-Itanium-quote-2002-3-USA-Today-3.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.11
-prescience_obs_count: 9
+prescience_mean: 1.73
+prescience_obs_count: 11
 ---
 
 # Intel Antes Up $1B on Success of Itanium Line (USA Today)
@@ -47,7 +47,7 @@ _Published 2002, author **Michelle Kessler (USA Today)**, type **trade-press-fea
 - new version every year through 2005 `[ps=2]`
 - ~$1 billion, six years `[ps=0]`
 - $1,000-$4,000 per chip `[ps=0]`
+- few thousand first-gen units `[ps=0]`
 - yes per industry watchers `[ps=0]`
+- months per business-grade program `[ps=0]`
 - USA Today McLean VA, circ 2,241,677 `[ps=0]`
-- few thousand first-gen units
-- months per business-grade program

@@ -16,12 +16,12 @@ source_file: "1996 Bull_s Sagister_ Datacenter-Disciplined UNIX for Business-Cri
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.05
-prescience_obs_count: 21
+prescience_mean: 1.72
+prescience_obs_count: 25
 ---
 
 # Bull's Sagister: Datacenter-Disciplined UNIX for Business-Critical Applications
@@ -55,13 +55,13 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Aberdeen assesses Sagister as 'must-have' product for running production UNIX applications in enterprise datacenters `[ps=1]`
 - RS/6000 SP lacks reliability, manageability, load balancing, availability, backup/restore, ease-of-administration, or security features of Sagister `[ps=1]`
 - CA-Unicenter provides similar operations functionality but lacks event management, HA functions, common graphical command icons, and Function Sets `[ps=1]`
+- Bull has over 15 years of experience implementing UNIX systems in customer operations `[ps=0]`
+- Approximately 200 individuals assigned to the Sagister project `[ps=0]`
 - Single 6-8 processor node; supports up to 2,000 PC clients; suited for prototyping and development `[ps=0]`
 - Two-node system; 12-16 processors; supports up to 3,000 PC clients; Aberdeen's recommended production system `[ps=0]`
+- Four-node FDDI-interconnected; up to 32 PowerPC processors; supports up to 5,000 users; very large databases `[ps=0]`
 - First major Sagister application Function Set; adds security, automated ops, HA, backup, event management to SAP R/3 `[ps=0]`
 - AIX 4.1 allows 10,000+ packaged applications to run on Sagister `[ps=0]`
 - 1995 revenues FF 26,656M; net profit FF 306M — first profit since 1988 `[ps=0]`
+- CLAM HACMP supports 8-node clusters; planned 16 shortly, 32 by end of 1997 `[ps=0]`
 - Bull will support up to 16 CPUs per system by end of 1997 (from current 8 CPUs max in SMP) `[ps=0]`
-- Bull has over 15 years of experience implementing UNIX systems in customer operations
-- Approximately 200 individuals assigned to the Sagister project
-- Four-node FDDI-interconnected; up to 32 PowerPC processors; supports up to 5,000 users; very large databases
-- CLAM HACMP supports 8-node clusters; planned 16 shortly, 32 by end of 1997

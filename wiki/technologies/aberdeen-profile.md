@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream"
 lifecycle_current: "discontinued"
 occurrence_count: 2
 prescience_max: 3.0
-prescience_mean: 0.75
-prescience_obs_count: 4
+prescience_mean: 0.6
+prescience_obs_count: 5
 ---
 
 # Aberdeen Profile Report
@@ -26,6 +26,6 @@ prescience_obs_count: 4
 
 - 6-8 page document printed on Aberdeen Profile paper stock; delivered electronically as HTML/PDF `[ps=3]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
 - $17,500 (500 copies included); eVersion $15,000; combo $22,500 `[ps=0]` — [[study-aberdeen-productization-pricing-and-survey-research-program-2000-b7b001]]
+- $25,000 ($20,000 research + $5,000 publication) `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
 - 500-999: $5.00/copy; 1,000-2,499: $3.25; 2,500-4,999: $2.25; 5,000-7,499: $1.50; 7,500-9,999: $1.25; 10,000+: $1.10 `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
 - Massachusetts governing law; arbitration by three arbitrators under American Arbitration Association rules; 2-year confidentiality period `[ps=0]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
-- $25,000 ($20,000 research + $5,000 publication) — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]

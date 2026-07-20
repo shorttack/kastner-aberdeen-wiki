@@ -12,9 +12,9 @@ status: "operating"
 successor: ""
 years_active: "1958-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # American Science & Engineering, Inc. (AS&E)
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ASEP was a two-way power-line communications system controlled by a Data General Eclipse S-230 minicomputer with 256K core memory — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
-- Data General Eclipse S-230 with 256K core memory served as ASEP system controller — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
+- ASEP was a two-way power-line communications system controlled by a Data General Eclipse S-230 minicomputer with 256K core memory `[ps=0]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
+- Data General Eclipse S-230 with 256K core memory served as ASEP system controller `[ps=0]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
 - Kastner led team auditing FORTRAN source of pioneering AS&E Computer-Aided Tomography (CAT) product to avoid radiation overexposure — [[study-adl-commercial-engagements-kastner-1972-1979-b8b001]]

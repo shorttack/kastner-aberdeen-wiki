@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1979-1981"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Bernie Bradstreet
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Corporate counsel Bernie Bradstreet patiently explained why Prime would not sue New Jersey over a clearly non-compliant bid. — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Corporate counsel Bernie Bradstreet patiently explained why Prime would not sue New Jersey over a clearly non-compliant bid. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]

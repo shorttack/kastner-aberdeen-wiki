@@ -13,8 +13,8 @@ successor: "unknown"
 years_active: "maxtor-midline-evaluation-a8d823"
 occurrence_count: 30
 prescience_max: 5.0
-prescience_mean: 2.89
-prescience_obs_count: 71
+prescience_mean: 2.92
+prescience_obs_count: 95
 ---
 
 # Peter S. Kastner
@@ -39,6 +39,9 @@ prescience_obs_count: 71
 - Up to 30% of IT outsourcing engagements seriously misaligned; customers may not realize it `[ps=4]` — [[study-business-value-outsourcing-57ce57]]
 - 50-67% of IT outsourcing contracts running at sub-optimal levels `[ps=4]` — [[study-business-value-outsourcing-57ce57]]
 - Only 5-10% of multi-million dollar IT outsourcing agreements drive all anticipated business value `[ps=4]` — [[study-business-value-outsourcing-57ce57]]
+- To be Y2K-safe by 1/1/2000: Y2K-safe applications in place by 9/30/98 for 5 quarters of testing/cutover; 12-month renovation/replacement program started by 9/30/97. `[ps=4]` — [[study-ca-y2k-cfo-executive-exchange-1997-c59ca4]]
+- The Aug 2003 PC Deals commentary kept recommending Athlon XP as the value play through August 2003 without anticipating the 64-bit transition. My current view: AMD was way early on 64-bit — OS support was years away. It was not a compelling buying factor at time of purchase and maybe even at end of product life for an August 2003 purchase. `[ps=4]` — [[study-dct-memoir-athlon-64-prescience-2003]]
+- Medium prescience — the Aug 2003 PC Deals commentary's silence on Athlon 64 was a forecasting miss (industry inflection not surfaced), but the Athlon XP recommendation produced a correct outcome for the consumer-value buyer because OS and application support for 64-bit lagged well past the purchase's useful life; the miss was real but non-material `[ps=4]` — [[study-dct-memoir-athlon-64-prescience-2003]]
 - This episode illustrates a reusable distinction: 'market-timing prescience' (did the analyst call the architectural inflection?) and 'consumer-utility prescience' (did acting on the recommendation produce good outcomes over the purchase's lifecycle?). The two can diverge, as here. Future retrospective assessment of technology recommendations should score both axes separately. `[ps=4]` — [[study-dct-memoir-athlon-64-prescience-2003]]
 - Programmer productivity stuck at 1970s level at many shops — legacy application spaghetti-code soaks up enormous talent for trivial gains `[ps=4]` — [[study-enterprise-integration-perspective-2-cb6165]]
 - Technologies contributing to KW productivity: collaboration, messaging, smart phones, laptops, podcasting, conferencing, enterprise portals, project management and compliance, ERP, SFA, CRM `[ps=4]` — [[study-enterprise-integration-perspective-2-cb6165]]
@@ -46,6 +49,3 @@ prescience_obs_count: 71
 - Leading companies will translate lessons from scientific massively parallel computing into a grid for commercial computing; linked to real-time operational analysis and decision-making `[ps=4]` — [[study-enterprise-integration-perspective-2-cb6165]]
 - Mobility technology technically mature enough in 2006 but many enterprises have only tepid reactive strategy for generating business value `[ps=4]` — [[study-enterprise-integration-perspective-2-cb6165]]
 - Enterprise WAN and related managed services may be an outsourcing candidate `[ps=4]` — [[study-enterprise-integration-perspective-2-cb6165]]
-- Changes within IT organization required to mirror service-delivery aspects of SOA `[ps=4]` — [[study-soa-aon-webinar-31973c]]
-- Inflexibility — monolithic design makes change difficult `[ps=4]` — [[study-soa-bpm-legacy-renewal-bce60f]]
-- Poor user experience — outdated interfaces do not meet modern user expectations `[ps=4]` — [[study-soa-bpm-legacy-renewal-bce60f]]

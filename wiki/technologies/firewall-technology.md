@@ -12,9 +12,9 @@ era: "1991-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Firewall Technology
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Incorrectly configured routers, web servers, applications, operating environments, modems on internal sub-networks can shatter protective safeguards without warning — [[study-aberdeen-1996-iss-internet-security-systems]]
+- Incorrectly configured routers, web servers, applications, operating environments, modems on internal sub-networks can shatter protective safeguards without warning `[ps=5]` — [[study-aberdeen-1996-iss-internet-security-systems]]

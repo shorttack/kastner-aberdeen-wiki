@@ -16,12 +16,12 @@ source_file: "Outsourcing Application Development and Maintenance.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.35
-prescience_obs_count: 23
+prescience_mean: 2.09
+prescience_obs_count: 35
 ---
 
 # Outsourcing Application Development and Maintenance: Joining Cost Savings with IT Human Asset Management
@@ -42,26 +42,26 @@ _Published 2006, author **Aberdeen Group**, type **benchmark**._
 
 - Y2K remediation gave India IT industry global foothold `[ps=5]`
 - Managing outsourced staff requires specialized skills `[ps=5]`
+- 82% of NA respondents cite cost-cutting as driver `[ps=4]`
 - 76% say vendor mgmt costs higher than expected `[ps=4]`
+- 75% cite reducing IT operating costs `[ps=4]`
 - 38% cite communication/cultural gaps `[ps=4]`
 - 80% of BIC dedicated more management resources `[ps=4]`
 - BIC: retain strategic work, involve business units in provider management `[ps=4]`
 - China, Eastern Europe, Brazil, Canada, Mexico emerging as ADM alternatives `[ps=4]`
+- Best in Class have cross-functional relationship management team `[ps=4]`
 - Near-shore trend driven by time zone and knowledge transfer needs `[ps=4]`
 - 26% savings vs. in-house `[ps=3]`
 - 36% cite same time zone proximity as important `[ps=3]`
 - Mid-market prioritizes expertise over cost savings `[ps=3]`
 - 42% of NA outsourcing to India `[ps=3]`
+- Java/web site development #1 outsource target `[ps=3]`
 - Shared development speeds learning exponentially `[ps=3]`
 - 65% of NA companies sensitive to language/culture gaps `[ps=3]`
 - 56% savings vs. in-house `[ps=2]`
+- ~2% savings vs. in-house `[ps=2]`
+- Outsource development before maintenance for new practitioners `[ps=2]`
 - 80% of respondents `[ps=0]`
 - 49% improvement `[ps=0]`
+- 67% of projects on or below budget `[ps=0]`
 - 46% of application development `[ps=0]`
-- 55% of application maintenance `[ps=0]`
-- Slightly more satisfied with India providers `[ps=0]`
-- 63% cite enabling IT strategic focus `[ps=0]`
-- 37% cite gaining superior expertise `[ps=0]`
-- ~125 enterprises `[ps=0]`
-- ~2% savings vs. in-house
-- 67% of projects on or below budget

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM (2008)"
 years_active: "1969-2008"
 occurrence_count: 2
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 3.0
+prescience_mean: 1.0
+prescience_obs_count: 3
 ---
 
 # Sun Microsystems
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Aberdeen maintains that Cognos Impromptu, in its present mature release, has stronger features for allowing administrators to disseminate metadata changes throughout the enterprise compared to the Virtual Data Warehouse. `[ps=3]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - high-end report writer `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]
 - Cognos is retooling Impromptu and its Powerplay desktop multidimensional database into a single tool and must undergo the usual stress testing of a first release. `[ps=0]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
-- Aberdeen maintains that Cognos Impromptu, in its present mature release, has stronger features for allowing administrators to disseminate metadata changes throughout the enterprise compared to the Virtual Data Warehouse. — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]

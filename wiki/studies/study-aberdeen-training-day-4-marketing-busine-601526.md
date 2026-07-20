@@ -16,12 +16,12 @@ source_file: "Marketing-and-Business-new-hire-2000.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.12
-prescience_obs_count: 26
+prescience_mean: 1.05
+prescience_obs_count: 37
 ---
 
 # Marketing and Business Development Basics (Twelve Vital Hours, Session 4)
@@ -41,10 +41,13 @@ _Published 2000, author **Peter S. Kastner / John Logan / Thomas Willmott / Aber
 ## Top observations
 
 - The best prospect is a satisfied client; follow your satisfied clients from job to job `[ps=5]`
+- Trust means always being honest and objective; telling client 'You are the best' is easy but if market share declines, trust is broken `[ps=4]`
 - Trust means respecting client confidence; clients will not trust you in future if you break another firm's NDA, even in your enthusiasm `[ps=4]`
 - Trust means doing what you say you will do and quickly disclosing what Aberdeen cannot do `[ps=4]`
 - Based on company's Product Life Cycle stage, current industry dynamics, and strengths/weaknesses of supplier's offering, ask questions rather than give instant analysis `[ps=4]`
 - If not working on a project, you should be writing; best writing is communicating a vision of market dynamics or writing a Profile or Impact on spec `[ps=4]`
+- What functionality, distribution channels, and other attributes (pricing) must our product have to be successful? What market segments should we target? `[ps=3]`
+- What additional products, services, distribution channels, target markets should we add to further fuel growth rates and outflank competition? Who should we consider acquiring? `[ps=3]`
 - The more suppliers you meet with, the more projects you will obtain; the more Aberdeen publications you author, the more projects you will obtain `[ps=3]`
 - Ask for business — potential clients are expecting you to; it is the only way a business transaction can be started `[ps=3]`
 - Clients hire on trust; they never get to see results until after a project is complete `[ps=2]`
@@ -54,14 +57,11 @@ _Published 2000, author **Peter S. Kastner / John Logan / Thomas Willmott / Aber
 - We have heard the initial market response to our value proposition. Could Aberdeen tell us what it really means and where we should invest our resources for success? `[ps=0]`
 - What factors are stopping prospective buyers from acquiring products from us? How can we cross the chasm? `[ps=0]`
 - How can we differentiate our products and services so that the majority of IS decision makers will see us as the safe choice for the future? `[ps=0]`
+- How does our firm become or remain #1 in our marketplace? `[ps=0]`
+- How do we maintain the loyalty of our installed base and hold off competition from alternative technologies? `[ps=0]`
 - How do we motivate our installed base to continue to invest in our products to maximize the return on their past investments? `[ps=0]`
 - What should we do to rebuild momentum? And if we cannot, how can we best extend product's life while using key assets to enter new, high growth markets? `[ps=0]`
 - Suppliers find it difficult to know how to do business with Aberdeen `[ps=0]`
 - If not optimistic, odds are very slim that the firm will engage Aberdeen at end of this meeting; do not write a Profile on a product that is inappropriate for the market `[ps=0]`
 - Aberdeen can help leverage your marketing messages through an independent perspective in the form of a Profile; fee approximately $15,000; if findings contrary to expectations, no requirement to publish `[ps=0]`
 - Aberdeen does not churn out paper; $15,000/year: 2 consulting days on-site, quarterly telephone updates, telephone inquiries, all practice area publications `[ps=0]`
-- Aberdeen will not work on projects where there is a potential conflict of interest between two different clients `[ps=0]`
-- Expenses are invoiced separately; Aberdeen takes no markup on expenses `[ps=0]`
-- Aberdeen will begin work based on verbal approval and will patiently wait for formal Purchase Order `[ps=0]`
-- Proposals/Prospects 90+ days; Work in Progress 45-90 days; Invoices Out 0-45 days; $ Received: Current `[ps=0]`
-- Show Time — Please present to the class; analysts describe a supplier, their messages, analyst analysis, and verbally propose an Aberdeen service to the group `[ps=0]`

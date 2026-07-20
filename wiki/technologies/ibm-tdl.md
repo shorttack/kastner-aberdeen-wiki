@@ -12,9 +12,9 @@ era: "1994-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM Transition Data Link (TDL)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Average of one day to migrate from System/36 to Advanced 36 using IBM Transition Data Link (TDL); TDL transfers data at 45MB per hour — [[study-aberdeen-1996-evaluating-system36-migration-strategies]]
+- Average of one day to migrate from System/36 to Advanced 36 using IBM Transition Data Link (TDL); TDL transfers data at 45MB per hour `[ps=0]` — [[study-aberdeen-1996-evaluating-system36-migration-strategies]]

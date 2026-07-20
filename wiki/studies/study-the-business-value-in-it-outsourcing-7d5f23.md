@@ -16,12 +16,12 @@ source_file: "The Business Value in IT Outsourcing.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.13
-prescience_obs_count: 15
+prescience_mean: 1.94
+prescience_obs_count: 17
 ---
 
 # The Business Value in IT Outsourcing
@@ -48,6 +48,7 @@ _Published 2006, author **Peter S. Kastner**, type **white-paper**._
 - Misjudging ability to manage outsourcer; poor SLA metrics; confusing low cost with value; inflexible contract language `[ps=4]`
 - Ranges from simple app outsourcing (e-mail) to full BPO of major processes (general ledger, accounts payable) `[ps=4]`
 - High; prior research indicates widespread dissatisfaction with outsourcing `[ps=4]`
+- 56% measure ROI after every application change `[ps=1]`
 - Many enterprises have never done a serious make-or-buy outsourcing decision on any IT segment `[ps=0]`
 - Up to 30% of IT outsourcing engagements `[ps=0]`
 - 25% measure after each upgrade; 25% sometimes; 50% never `[ps=0]`
@@ -55,6 +56,5 @@ _Published 2006, author **Peter S. Kastner**, type **white-paper**._
 - Over 2,000 companies surveyed on IT in past two years `[ps=0]`
 - SLAs, Governance, Preparation, Transition, Operations, Change Management, Pricing, Conflict Resolution, Metrics `[ps=0]`
 - Global 5000 companies across all industries, all sizes `[ps=0]`
-- 56% measure ROI after every application change
+- [UNVERIFIED] `[ps=0]`
 - 50-67% of contracts sub-optimal; only 5-10% fully optimal
-- [UNVERIFIED]

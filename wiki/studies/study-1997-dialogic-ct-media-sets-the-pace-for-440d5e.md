@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.36
-prescience_obs_count: 22
+prescience_mean: 1.68
+prescience_obs_count: 25
 ---
 
 # Dialogic® CT Media™ Sets The Pace For Open-Standards Computer Telephony Development
@@ -43,8 +43,11 @@ _Published 1997, author **Aberdeen Group**, type **Vendor Profile**._
 - ECTF S.100 framework was ultimately superseded by H.323 and SIP VoIP standards. CT Media was not the long-term standard; SIP became the dominant telephony protocol by 2005-2010. `[ps=5]`
 - The CT/telecom software market expanded dramatically through open standards, primarily VoIP rather than ECTF S.100. Market expansion was confirmed but via different standards than originally anticipated. `[ps=5]`
 - Brooktrout was acquired by EAS Group in 2005, merged into Cantata Technology, then acquired by Dialogic Group in 2007, matching the predicted acquisition path exactly. `[ps=5]`
+- ECTF S.300 and S.400 standards never achieved significant market adoption. VoIP/SIP architecture replaced the ECTF framework before these standards gained traction. `[ps=5]`
 - Standards-based customer demand `[ps=4]`
+- CT will transition to broader market via open standards `[ps=4]`
 - Business decision not just technology choice `[ps=3]`
+- Open platform / ecosystem enabler `[ps=3]`
 - CT Media will expand the CT market `[ps=2]`
 - Intel acquired Dialogic for approximately $780 million in 1999, validating Aberdeen's assessment of CT infrastructure value. `[ps=2]`
 - De facto call control standard `[ps=2]`
@@ -62,6 +65,3 @@ _Published 1997, author **Aberdeen Group**, type **Vendor Profile**._
 - Complete `[ps=0]`
 - Founding member `[ps=0]`
 - S.100 support by 1998 `[ps=0]`
-- Open platform / ecosystem enabler
-- CT will transition to broader market via open standards
-- ECTF S.300 and S.400 standards never achieved significant market adoption. VoIP/SIP architecture replaced the ECTF framework before these standards gained traction.

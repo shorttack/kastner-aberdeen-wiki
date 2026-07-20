@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "production"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # R&D-to-revenue ratio
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Honeywell Bull R&D spending to be trimmed to ~10.5% of revenue — [[study-wsj-honeywell-bull-layoffs-kastner-1989-9faf05]]
+- Honeywell Bull R&D spending to be trimmed to ~10.5% of revenue `[ps=0]` — [[study-wsj-honeywell-bull-layoffs-kastner-1989-9faf05]]

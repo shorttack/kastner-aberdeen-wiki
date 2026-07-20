@@ -12,9 +12,9 @@ era: "1996-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Stratm Technology (ST)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- High-performance ASICs for ATM switching; complete ABR support; virtual path trunking; weighted fair queuing; multicast; higher density lower cost ATM switching — [[study-1997-cisco-s-core-products-business-inte-bd8697]]
+- High-performance ASICs for ATM switching; complete ABR support; virtual path trunking; weighted fair queuing; multicast; higher density lower cost ATM switching `[ps=2]` — [[study-1997-cisco-s-core-products-business-inte-bd8697]]

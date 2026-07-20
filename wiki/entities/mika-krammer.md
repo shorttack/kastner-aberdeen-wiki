@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Mika Krammer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- When measured in terms of usability, affordability, and support, Microsoft solutions score lower in surveys than competitive offerings from Intuit and salesforce.com. — [[study-processor-editorial-article-much-in-stor-660f27]]
+- When measured in terms of usability, affordability, and support, Microsoft solutions score lower in surveys than competitive offerings from Intuit and salesforce.com. `[ps=2]` — [[study-processor-editorial-article-much-in-stor-660f27]]

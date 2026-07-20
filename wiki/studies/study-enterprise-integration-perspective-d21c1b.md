@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.64
-prescience_obs_count: 11
+prescience_mean: 2.42
+prescience_obs_count: 12
 ---
 
 # Why Aberdeen Group is Focusing on Enterprise IT Integration
@@ -50,5 +50,5 @@ _Published 2006, author **Peter S. Kastner**, type **employer-record**._
 - SOA is a good vehicle for virtualizing processing, storage, and network components `[ps=2]`
 - majority of development by ~2010 `[ps=0]`
 - 15% of IT budget freed with lower software maintenance costs `[ps=0]`
+- tens of millions of lines of code discarded in 2004 `[ps=0]`
 - fact-based benchmarking, best practices, technology solution selection and implementation studies `[ps=0]`
-- tens of millions of lines of code discarded in 2004

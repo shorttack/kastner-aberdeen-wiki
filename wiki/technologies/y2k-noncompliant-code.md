@@ -12,9 +12,9 @@ era: "1960s-1999"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-remediated"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Y2K-noncompliant date code
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'Kastner flew into London last week with a guilty secret. While working at Chase Manhattan Bank in 1973, he wrote a system which he knew would not be year 2000-compliant.' — Computing — [[study-tool-vendors-neglect-intranet-computing--97bde3]]
+- 'Kastner flew into London last week with a guilty secret. While working at Chase Manhattan Bank in 1973, he wrote a system which he knew would not be year 2000-compliant.' — Computing `[ps=4]` — [[study-tool-vendors-neglect-intranet-computing--97bde3]]

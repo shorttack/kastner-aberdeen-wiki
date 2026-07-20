@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.75
-prescience_obs_count: 4
+prescience_mean: 4.67
+prescience_obs_count: 6
 ---
 
 # Editor's Buffer (October 1997)
@@ -40,9 +40,9 @@ _Published 1997, author **Editor, Database Programming & Design (Miller Freeman)
 
 ## Top observations
 
+- Java was thought to offer ODBMS vendors an excellent opportunity — but this was compromised by economic necessity with JDBC-first orientation. `[ps=5]`
 - Kastner framing implies that commercial RDBMS market will consolidate to IBM / Oracle / Microsoft dominance over the following 5-10 years. `[ps=5]`
 - By 2010 IBM (DB2), Oracle, and Microsoft SQL Server dominated commercial RDBMS; Sybase acquired by SAP (2010), Informix by IBM (2001), Ingres by CA then independent. Cloud players (AWS RDS, etc.) entered thereafter. `[ps=5]`
 - ODBMS did not displace RDBMS; Object Design was acquired by Progress (2003); remaining ODBMS tools became niche embedded/edge solutions. `[ps=5]`
+- Tough competition facing database vendors not named IBM, Oracle, or Microsoft. `[ps=4]`
 - Atwood cites economics and marketing as the major reasons ODBMS has yet to impact the mainstream. `[ps=4]`
-- Tough competition facing database vendors not named IBM, Oracle, or Microsoft.
-- Java was thought to offer ODBMS vendors an excellent opportunity — but this was compromised by economic necessity with JDBC-first orientation.

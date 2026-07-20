@@ -14,7 +14,7 @@ lifecycle_current: "legacy-supplanted"
 occurrence_count: 27
 prescience_max: 5.0
 prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # DDR SDRAM (DDR266/333/400)
@@ -30,6 +30,7 @@ prescience_obs_count: 1
 ## Top observations
 
 - DDR faster than plain SDRAM `[ps=5]` — [[study-dct-why-aberdeen-follows-pc-deals-2002]]
+- DDR266: 2.1 GB/s per channel; DDR333: 2.6 GB/s; DDR400: 3.2 GB/s, often dual-channel for 6.4 GB/s peak. DDR has ~2x bandwidth of ordinary SDRAM. `[ps=5]` — [[study-planningforemergingindustry-6-40decb]]
 - Aberdeen's Corporate PC Specifications Processor 2.0 GHz Memory 256 DDR HDD 40 GB (7200 RPM) Optical CD-ROM Monitor None Ethernet 10/100 or better Modem None OS Windows XP Pro Warranty 3-Year NBD or better Productivity Office XP (Word, Excel, Outlook, Publi... — [[study-dct-business-2002-11-pc-deals]]
 - Aberdeen Group's Enterprise Reference Desktop PC With the upgrade this month to the microprocessor speed, our current recommendation for mainstream desktop personal computers that offer the best combination of price, value, and longevity is: • Microprocesso... — [[study-dct-business-2002-12-17-pc-deals]]
 - Aberdeen Group's Enterprise Reference Desktop PC With the upgrade this month to the microprocessor speed, our current recommendation for mainstream desktop personal computers that offer the best combination of price, value, and longevity is: • Microprocesso... — [[study-dct-business-2002-12-19-pc-deals]]
@@ -48,4 +49,3 @@ prescience_obs_count: 1
 - Starting at $1,700, the Pavilion 864n comes with a 2.66 GHz Pentium 4, 512 MB DDR memory, a 160 GB hard drive, DVD+RW/CD-RW combo, Creative labs Audigy sound, personal video recorder software, and an nVidia GeForce 4 MX440 graphics card. — [[study-dct-weekly-2003-03-23]]
 - The chipset also supports dual data paths to DDR memory. — [[study-dct-weekly-2003-04-13]]
 - Dell is blowing away the competition this week with a 2.4 GHz Pentium 4, 256 MB DDR memory, 30 GB value hard drive, a DVD-ROM, and a 17" monitor. — [[study-dct-weekly-2003-04-20]]
-- Dell This week's deals at Dell for the 2350 include a free CD burner in the second bay, a free upgrade to a 60 GB hard drive, and a free upgrade to 256 MB of DDR memory. — [[study-dct-weekly-2003-05-11]]

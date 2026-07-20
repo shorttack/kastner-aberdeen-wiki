@@ -16,12 +16,12 @@ source_file: "SD-Memory-Cards-to-Drive-Market-for-Digital-Content.webarchive"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 6
+prescience_mean: 3.25
+prescience_obs_count: 8
 ---
 
 # SD Memory Cards to Drive Market for Digital Content
@@ -43,8 +43,8 @@ _Published 2003, author **Dan Muse, PDAStreet / internet.com**, type **news-arti
 - SD memory cards are likely to continue becoming a widespread means of storing and transporting digital content. This is particularly true given the combination of technology and widespread industry support that the SD Memory Card enjoys. `[ps=5]`
 - Aberdeen Group conducted 'Consumer Adoption of Memory Cards: A Qualitative Study' for the Internet Home Alliance, indicating continued growth in consumer adoption and SD as leading format for storing/transporting digital content. `[ps=5]`
 - SD memory cards lead all other formats both in terms of number of products and number of product categories, with over 1,300 SD-enabled products available worldwide. `[ps=4]`
+- SD cards in 2003 held from 8MB (entry-level) to 4GB (expected end of 2004); devices include PDAs, digital cameras, camcorders, MP3 players, and mobile phones. `[ps=4]`
+- SD / microSD cumulative shipments exceeded tens of billions of units by 2020, making it the most-shipped removable-storage format in history — fully vindicating Aberdeen/Kastner 2003 thesis. `[ps=4]`
 - The Internet Home Alliance (IHA) disbanded around 2008 as connected-home development shifted to Wi-Fi / Bluetooth standards bodies and individual retailers (Best Buy Geek Squad, Apple HomeKit). Aberdeen-for-IHA research was not continued under that commissioner. `[ps=4]`
 - The SD format held a 25 percent US market share in the first half of 2003, per Aberdeen. `[ps=0]`
 - 512MB SD Card can store up to 7,000 JPG images, up to 3 hours of MPEG-4 video, and up to 11 hours of digital music, per Panasonic. `[ps=0]`
-- SD cards in 2003 held from 8MB (entry-level) to 4GB (expected end of 2004); devices include PDAs, digital cameras, camcorders, MP3 players, and mobile phones.
-- SD / microSD cumulative shipments exceeded tens of billions of units by 2020, making it the most-shipped removable-storage format in history — fully vindicating Aberdeen/Kastner 2003 thesis.

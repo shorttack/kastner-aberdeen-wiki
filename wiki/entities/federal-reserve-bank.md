@@ -13,8 +13,8 @@ successor: ""
 years_active: "1913-present"
 occurrence_count: 3
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 2
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # Federal Reserve Bank
@@ -30,6 +30,6 @@ prescience_obs_count: 2
 ## Top observations
 
 - The Federal Reserve Bank employed half a million people to sort checks every night in 1960; now employs a small fraction for vastly larger transaction volumes. `[ps=4]` — [[study-volume-1-ch10-the-long-view-1966-2026]]
+- Every single check was touched by human hands at minimum half a dozen times before being returned to account holder. `[ps=3]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Nearly half a million people employed every night to sort checks through the financial system circa 1960. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Every single check was touched by human hands at minimum half a dozen times before being returned to account holder. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Commerce was extraordinarily labor intensive; making an airline reservation required a half-hour phone call and a trip to a travel agent to collect a physical ticket. — [[study-volume-1-introduction-physics-of-the-machine]]

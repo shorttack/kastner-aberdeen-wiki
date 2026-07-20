@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.42
-prescience_obs_count: 19
+prescience_mean: 4.32
+prescience_obs_count: 25
 ---
 
 # True Enterprise Data Knowledge Through Integrated Data Marts
@@ -46,22 +46,22 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Aberdeen advocates RDBMS-based architecture over proprietary multidimensional databases for enterprise data marts; RDBMS provides flexibility and integration path `[ps=5]`
 - Standalone data marts: frequently commandeered by business units; adequately answer short-term objectives but prove shortsighted; risk of contradictory business rules `[ps=5]`
 - RDBMS-driven technology is the preferred foundation; parallel-scalable hardware and RDBMS combine to create enterprise-capable warehouse platform `[ps=5]`
+- Aberdeen identifies distinct data mart themes: sales/marketing, financial, manufacturing, supply chain — each requiring subject-specific modeling with common enterprise metrics `[ps=5]`
 - Data transformation specialists (Prism Solutions et al.) provide critical ETL capabilities; short-term consulting engagements with suppliers a viable jump-start strategy `[ps=5]`
 - Proprietary multidimensional database technologies optimize for domain-specific queries but create proprietary lock-in; RDBMS preferred for enterprise integration `[ps=5]`
 - Begin with one data mart addressing a single subject area that links into an RDBMS-driven enterprise whole `[ps=4]`
 - Enterprise must work from high-level model and common business metrics before building individual data marts `[ps=4]`
+- Use iterative method of building a road map for the enterprise to follow; each data mart funds the next `[ps=4]`
 - Involve end users throughout design; data marts must reflect business drivers embedded in end-user behavior `[ps=4]`
+- Use Rapid Application Deployment to maintain business momentum; demonstrate ROI early to secure continued funding `[ps=4]`
 - Early attempts at monolithic enterprise-wide warehouses failed due to rapidly changing business dynamics toppling top-down models `[ps=4]`
+- Enterprise policy of encouraged fragmentation could be disastrous for the business; competitive disadvantage from incompatible data marts `[ps=4]`
 - Enterprises that followed integrated model begin generating ROI that underwrites subsequent data mart efforts; project-by-project experience creates compounding value `[ps=4]`
 - IS executives must build data access systems that reflect business drivers embedded in end-user behavior; IT-driven warehouses miss this requirement `[ps=4]`
 - Aberdeen predicts integrated data mart approach (subject-by-subject building toward enterprise warehouse) will prove superior to standalone or top-down approaches `[ps=4]`
 - Hub-and-spoke data warehouse architecture (matching Aberdeen's integrated model) became the dominant enterprise BI pattern through 2000s; standalone data marts caused exactly the fragmentation Aberdeen warned about `[ps=4]`
 - Aberdeen: enterprises moving away from integrated spirit will squander ROI and be ill-prepared for competitive battles `[ps=4]`
+- 'Data swamp' problem became widespread by 2013-2015 as unmanaged data lakes replicated exactly the fragmentation Aberdeen warned about; data governance and data catalog tools emerged to address this `[ps=4]`
 - 'Factory ready' data infrastructure requires: parallel-scalable hardware, RDBMS, ETL tools, and data quality/transformation capabilities before data mart build `[ps=4]`
 - Global trading, global risk assessment, and competitive intelligence needs cited as primary business drivers accelerating data mart adoption in 1996 `[ps=4]`
-- Use iterative method of building a road map for the enterprise to follow; each data mart funds the next
-- Use Rapid Application Deployment to maintain business momentum; demonstrate ROI early to secure continued funding
-- NCR, Tandem, and Prism Solutions positioned as providers of industry-specific data warehouse templates and short-term consulting engagements
-- Enterprise policy of encouraged fragmentation could be disastrous for the business; competitive disadvantage from incompatible data marts
-- 'Data swamp' problem became widespread by 2013-2015 as unmanaged data lakes replicated exactly the fragmentation Aberdeen warned about; data governance and data catalog tools emerged to address this
-- Aberdeen identifies distinct data mart themes: sales/marketing, financial, manufacturing, supply chain — each requiring subject-specific modeling with common enterprise metrics
+- NCR, Tandem, and Prism Solutions positioned as providers of industry-specific data warehouse templates and short-term consulting engagements `[ps=3]`

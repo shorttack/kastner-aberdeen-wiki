@@ -12,9 +12,9 @@ era: "2002-2010"
 lifecycle_at_study: "new"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Davis Vantage Pro Plus
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- dozen wind/temp/precip metrics with PC long-term storage — [[study-dct-kastner-wish-list-2002-12]]
+- dozen wind/temp/precip metrics with PC long-term storage `[ps=4]` — [[study-dct-kastner-wish-list-2002-12]]

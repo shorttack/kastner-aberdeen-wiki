@@ -16,12 +16,12 @@ source_file: "segment-priorities-7.doc"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.85
-prescience_obs_count: 13
+prescience_mean: 2.14
+prescience_obs_count: 21
 ---
 
 # DCT Segment Priorities Matrix (Home / Work / Mobile)
@@ -42,9 +42,15 @@ _Published 2002, author **Peter S. Kastner**, type **dct**._
 
 - Desktop MHz goes from 2.2 to 3.6 in 18 months `[ps=5]`
 - Pentium 4 reached 3.6 GHz with the Prescott F-series / Pentium 4 560 launched June 21 2004 (3.6 GHz) — within the anticipated timeline; NetBurst hit its 3.8 GHz ceiling with P4 570J by November 2004 before thermal limits forced the architectural pivot to Core. `[ps=5]`
+- Multiple PCs drives need for home networking `[ps=4]`
 - 2002 will be a banner year for home networks `[ps=4]`
+- Usability a huge issue — wireless not the only choice `[ps=4]`
+- PVR, TV/stereo convergence, games, digital appliances `[ps=4]`
 - 4 technology categories x 3 contexts (Home/Work/Mobile) `[ps=3]`
+- Usability in system bundles an issue `[ps=3]`
 - WiFi, PNA, Powerline, Ethernet, home automation `[ps=3]`
+- WiFi 802.11a `[ps=3]`
+- In 2002, making a TV and stereo work with a PC is difficult `[ps=3]`
 - In 2003, PCs integrate well with TV/stereo `[ps=2]`
 - Pentium 4 laptops are major performance improvement `[ps=2]`
 - Desktop, laptop, tablet `[ps=0]`
@@ -52,12 +58,6 @@ _Published 2002, author **Peter S. Kastner**, type **dct**._
 - Personal firewalls, security, OS, utilities, personal messaging, AOL/MSN services `[ps=0]`
 - Office `[ps=0]`
 - PIM `[ps=0]`
+- Relief on the way in 2003 — what are the tradeoffs by buying now? `[ps=0]`
 - Location `[ps=0]`
-- Multiple PCs drives need for home networking
-- Usability in system bundles an issue
-- Usability a huge issue — wireless not the only choice
-- WiFi 802.11a
-- PVR, TV/stereo convergence, games, digital appliances
-- In 2002, making a TV and stereo work with a PC is difficult
-- Relief on the way in 2003 — what are the tradeoffs by buying now?
-- Laptop, PDA
+- Laptop, PDA `[ps=0]`

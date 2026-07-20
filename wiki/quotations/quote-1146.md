@@ -1,6 +1,7 @@
 ---
 title: Quote 1146 — E-Commerce Times ()
 type: quotation
+page_type: quotation
 slug: quote-1146
 row_id: 1146
 author: "Peter S. Kastner"

@@ -12,9 +12,9 @@ era: "1975-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Customer Information Systems (CIS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Customer information systems as core utility billing and customer management application — [[study-utilities-transformed-it-696ffb]]
+- Customer information systems as core utility billing and customer management application `[ps=4]` — [[study-utilities-transformed-it-696ffb]]

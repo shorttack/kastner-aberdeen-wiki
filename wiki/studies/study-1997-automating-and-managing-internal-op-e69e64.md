@@ -16,12 +16,12 @@ source_file: "1997 Automating and Managing Internal Operations wp.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.62
-prescience_obs_count: 16
+prescience_mean: 2.57
+prescience_obs_count: 21
 ---
 
 # Automating and Managing Internal Operations
@@ -43,21 +43,21 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 - Highly adaptable; call logging, tracking, escalation, notification, problem resolution, reporting `[ps=5]`
 - Rapid and continuous modification capability `[ps=5]`
 - Open system with exposed APIs for enterprise integration `[ps=5]`
+- Highly and easily adaptable application `[ps=4]`
 - Wide data source and format access (multi-platform, multi-database) `[ps=4]`
 - Ability to embed business rules and procedures `[ps=4]`
 - Ease of customization and high adaptability cited by all customers interviewed `[ps=4]`
+- Help desk identified as natural starting point for internal operations automation `[ps=4]`
+- 9 categories: IT support, facilities, SLA tracking, asset management, inventory, procurement, defect tracking, personnel resource management, policy notification `[ps=4]`
 - Remedy grew to 7,000+ customers; acquired by Peregrine for $1B (2001), then sold to BMC Software for $355M (2002); ITSM market converged as predicted but under ServiceNow leadership by 2010s `[ps=4]`
 - Consolidated operations management will rapidly move up planning agenda of senior executives `[ps=4]`
 - Intuitive universal user interface `[ps=3]`
 - Multi-table joins without SQL; Direct SQL for cross-enterprise database links `[ps=3]`
 - Remedy expected to become leading supplier of Consolidated Operations Management applications `[ps=2]`
 - 3,000+ customers by early 1997 `[ps=0]`
+- 53% of sales to existing customers (first 3 quarters 1996) `[ps=0]`
 - New screen widgets, view management, HTML User's Guide `[ps=0]`
+- Automotive, computers, chemicals/pharma, energy/utilities, financial services, government, telecom, education `[ps=0]`
 - Inventory management, purchase order management, stock reordering, password/network address tracking, asset tracking, change management `[ps=0]`
 - AR System v3.0 added pre-defined keywords to simplify embedding workflow processes and business rules `[ps=0]`
 - ITSM market grew substantially; Gartner ITSM predictions for $9.4B by 2000 were directionally correct; ServiceNow founded 2004 on same COM premise; market reached $14B+ by 2015 `[ps=-1]`
-- 53% of sales to existing customers (first 3 quarters 1996)
-- Highly and easily adaptable application
-- Help desk identified as natural starting point for internal operations automation
-- 9 categories: IT support, facilities, SLA tracking, asset management, inventory, procurement, defect tracking, personnel resource management, policy notification
-- Automotive, computers, chemicals/pharma, energy/utilities, financial services, government, telecom, education

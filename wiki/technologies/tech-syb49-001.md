@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Declining/Legacy"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Sybase SQL Server 4.9
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- End of support within 18 months — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
+- End of support within 18 months `[ps=3]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]

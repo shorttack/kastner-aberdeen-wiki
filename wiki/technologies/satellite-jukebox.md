@@ -12,9 +12,9 @@ era: "1997-2000"
 lifecycle_at_study: "pre-commercial"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Satellite JukeBox
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $8.00 per album (average retail $9.95) — [[study-omnibox97-53bcfe]]
+- $8.00 per album (average retail $9.95) `[ps=3]` — [[study-omnibox97-53bcfe]]

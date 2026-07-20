@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream"
 lifecycle_current: "ubiquitous"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 2.5
-prescience_obs_count: 2
+prescience_mean: 1.67
+prescience_obs_count: 3
 ---
 
 # Enterprise Application Software
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - Software and services growing as share; hardware share declining `[ps=5]` — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]
+- Aberdeen barometer tracks deployment of new technologies across verticals `[ps=0]` — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]
 - huge change in direction `[ps=0]` — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]
-- Aberdeen barometer tracks deployment of new technologies across verticals — [[study-1998-industry-dynamics-in-u-s-it-usage-and-spending-199-26aed6]]

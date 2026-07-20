@@ -13,8 +13,8 @@ lifecycle_at_study: "dominant"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Online Transaction Processing (OLTP) systems are the backbone of transactional business applications. Modern OLTP runs on relational databases (Oracle, SQL Server, PostgreSQL) and cloud-native databases. Actively used and developed.', 'source': 'General knowledge'}"
 occurrence_count: 5
 prescience_max: 5.0
-prescience_mean: 0.69
-prescience_obs_count: 36
+prescience_mean: 0.57
+prescience_obs_count: 44
 ---
 
 # OLTP (Online Transaction Processing)

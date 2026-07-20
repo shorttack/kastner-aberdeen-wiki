@@ -16,12 +16,12 @@ source_file: "Transmeta-unveils-smaller-microprocessors-8.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.8
-prescience_obs_count: 5
+prescience_mean: 2.25
+prescience_obs_count: 8
 ---
 
 # Transmeta unveils smaller microprocessors (Crusoe TM5700/TM5900 launch)
@@ -41,10 +41,10 @@ _Published 2004, author **Gillian Law**, type **news-article**._
 ## Top observations
 
 - Up to 1 GHz x86-compatible performance `[ps=5]`
+- No — Transmeta exited processor business 2005 (focused on IP licensing after Efficeon losses), sold IP assets to Novafora 2008, ceased operating 2009. Performance and design-win shortfalls validated Kastner's 'not good enough' thesis. `[ps=5]`
+- 'Transmeta has run into customer concerns over performance with the TM5800, for example in Hewlett-Packards TC100 tablet. Users expect more performance than Transmeta has been able to deliver.' — Kastner `[ps=4]`
 - Kastner had not been briefed about the new, embedded version of the Crusoe processor but said the power of the processors to date has 'not been good enough for many of todays applications.' — Kastner `[ps=4]`
 - 21mm x 21mm (0.8-inch square); 50% smaller than TM5800 `[ps=0]`
+- 512KB L2 write-back cache (TM5900); 256KB (TM5700); 64KB I-cache + 64KB D-cache; integrated Northbridge; 64-bit DDR SDRAM controller; 32-bit PCI controller `[ps=0]`
 - Reference platform based on TM5900 available in Q1 2004 with schematics, design guides, processor specifications, device drivers `[ps=0]`
 - HP TC100 tablet used TM5800; cited by Kastner as performance-complaint venue `[ps=0]`
-- 512KB L2 write-back cache (TM5900); 256KB (TM5700); 64KB I-cache + 64KB D-cache; integrated Northbridge; 64-bit DDR SDRAM controller; 32-bit PCI controller
-- 'Transmeta has run into customer concerns over performance with the TM5800, for example in Hewlett-Packards TC100 tablet. Users expect more performance than Transmeta has been able to deliver.' — Kastner
-- No — Transmeta exited processor business 2005 (focused on IP licensing after Efficeon losses), sold IP assets to Novafora 2008, ceased operating 2009. Performance and design-win shortfalls validated Kastner's 'not good enough' thesis.

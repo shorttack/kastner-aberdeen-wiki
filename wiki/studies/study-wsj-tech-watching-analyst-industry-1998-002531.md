@@ -16,12 +16,12 @@ source_file: "Analyst-market-1998-03-WSJ-9.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.6
-prescience_obs_count: 15
+prescience_mean: 1.74
+prescience_obs_count: 19
 ---
 
 # Tech Watching Is Fast Becoming an Industry to Watch (Wall Street Journal, March 19, 1998)
@@ -44,18 +44,18 @@ _Published 1998, author **William M. Bulkeley (The Wall Street Journal)**, type 
 - HP computer division $4M/year analyst subscriptions; salespeople pressure vendors ('pay your basic ransom') `[ps=4]`
 - You're buying expertise that it doesn't make sense to have full time on staff `[ps=4]`
 - In 1986 a Gartner analyst predicted 4 companies (IBM, AT&T, Fujitsu, Hitachi) would dominate the computer universe by 1996 — only IBM remains a player `[ps=4]`
+- 135 analysts; 'Best market numbers, building consulting'; main buyer = computer makers, Wall St. `[ps=3]`
 - 75 analysts; 'Internet delivery, sharp analysis'; main buyer = CIOs and below `[ps=3]`
 - The giant; tries to cover all IT issues; main buyer = everyone in IT `[ps=3]`
+- Traditional consultants like McKinsey 'are only selling their time — they're like dentists'; Forrester boosts profit via publishing/conference leverage `[ps=3]`
+- If Hewitt had followed Meta/Gartner advice to replace IBM mainframes with distributed Unix 5 years ago, we couldn't do what we're doing today `[ps=3]`
 - Cut $60,000/year Gartner subscription; gathers equivalent content from the Internet `[ps=2]`
 - U.S. computer-industry research firms' revenue to rise ~28% in 1998 to $3 billion `[ps=0]`
 - $511.2M 1997 revenue, +30% YoY; 550 analysts; Stamford CT `[ps=0]`
 - $51.2M 1997 revenue, +38% YoY; 111 analysts; Stamford CT `[ps=0]`
 - $40.4M 1997 revenue, +62% YoY; 75 analysts; Cambridge MA `[ps=0]`
 - 35 analysts/researchers; positioned as 'marketing consulting, training'; main buyer = computer makers `[ps=0]`
+- 100 analysts; 'Opinionated telecom experts'; main buyer = telecom/network buyers `[ps=0]`
 - 75 analysts; 'Trend-spotting'; main buyer = CIOs, marketers `[ps=0]`
 - Gideon Gartner left and set up Giga Group in 1995; competes with his former firm `[ps=0]`
 - Worldwide sales of IT computers/software to reach $835 billion in 1998, +10% `[ps=0]`
-- 135 analysts; 'Best market numbers, building consulting'; main buyer = computer makers, Wall St.
-- 100 analysts; 'Opinionated telecom experts'; main buyer = telecom/network buyers
-- Traditional consultants like McKinsey 'are only selling their time — they're like dentists'; Forrester boosts profit via publishing/conference leverage
-- If Hewitt had followed Meta/Gartner advice to replace IBM mainframes with distributed Unix 5 years ago, we couldn't do what we're doing today

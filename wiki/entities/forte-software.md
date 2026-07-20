@@ -11,7 +11,7 @@ sector: "Application Development Tools"
 status: "acquired"
 successor: "Sun Microsystems (1999), then Oracle (2010)"
 years_active: "1991-1999"
-occurrence_count: 7
+occurrence_count: 8
 prescience_max: 4.0
 prescience_mean: 0.86
 prescience_obs_count: 7

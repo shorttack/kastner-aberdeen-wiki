@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Snap Server 4200 is a legacy NAS model from the early Snap Appliance era. Discontinued along with the broader early SnapServer product line.', 'source': 'https://www.parkplacetechnologies.com/eosl/family/snapserver/'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Snap Server 4200
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 320 GB to 1 TB (4x ATA-100 disks) — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
+- 320 GB to 1 TB (4x ATA-100 disks) `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]

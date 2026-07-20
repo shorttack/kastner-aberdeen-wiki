@@ -14,7 +14,7 @@ lifecycle_current: "legacy-end-of-life"
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 4
+prescience_obs_count: 5
 ---
 
 # Stratus XA2000 series
@@ -26,6 +26,6 @@ prescience_obs_count: 4
 
 - 50 `[ps=0]` — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]
 - 40 `[ps=0]` — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]
+- $261,000-$1,000,000 `[ps=0]` — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]
 - We have tripled the high end of our computer performance and reduced the cost per transaction by half `[ps=0]` — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]
 - Kastner led market and product team for XA 2000 announcement before departing; machines built on Motorola 68020 processors. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
-- $261,000-$1,000,000 — [[study-boston-globe-stratus-xa2000-launch-1987--218ffd]]

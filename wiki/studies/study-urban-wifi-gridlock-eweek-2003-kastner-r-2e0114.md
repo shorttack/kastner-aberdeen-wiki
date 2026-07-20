@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 4.33
-prescience_obs_count: 3
+prescience_mean: 3.17
+prescience_obs_count: 6
 ---
 
 # Urban Wi-Fi Gridlock Predicted To Arrive in 2004 (Kastner/Aberdeen report)
@@ -43,6 +43,6 @@ _Published 2003, author **eWEEK staff**, type **news-article**._
 - Kastner's framing implicitly validated 5GHz as escape path — 802.11a never mass-adopted standalone, but 802.11n/ac/ax all leveraged 5GHz to escape 2.4GHz congestion, culminating in Wi-Fi 6E/7 (6GHz) in 2020s. `[ps=5]`
 - 'New purchases are going to 802.11g because of the improved throughput, but theres absolutely no improvement in the interface.' — Kastner `[ps=4]`
 - No — crash averted by rapid 802.11n (2007-2009) adoption, widespread 5GHz migration, improved rate-adaptation, and mesh/enterprise-controller architectures. But interference issues did become real and sustained in 2.4GHz by 2007-2010. Partial validation. `[ps=4]`
-- 'Interference in urban Wi-Fi nets is close at hand. The more powerful or advanced flavors of 802.11 wont be a help to users, because they are automatically dumbed down by other access points.' — Kastner
-- Report title: 'The Urban Wi-Fi Crash of 2004.' Predicts urban-hot-spot interference will threaten users as overlapping access points multiply in 'the shadows'.
-- Aberdeen Group report titled 'The Urban Wi-Fi Crash of 2004' by Peter Kastner
+- 'Interference in urban Wi-Fi nets is close at hand. The more powerful or advanced flavors of 802.11 wont be a help to users, because they are automatically dumbed down by other access points.' — Kastner `[ps=3]`
+- Report title: 'The Urban Wi-Fi Crash of 2004.' Predicts urban-hot-spot interference will threaten users as overlapping access points multiply in 'the shadows'. `[ps=2]`
+- Aberdeen Group report titled 'The Urban Wi-Fi Crash of 2004' by Peter Kastner `[ps=1]`

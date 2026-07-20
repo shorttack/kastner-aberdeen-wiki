@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Radio-Frequency Handhelds
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Two primary modes: RF handhelds and DEC VT 100/200 terminals in emulation mode — neither is client/server — [[study-ie-appendix-jones-wms-memo-2e5d6c]]
+- Two primary modes: RF handhelds and DEC VT 100/200 terminals in emulation mode — neither is client/server `[ps=3]` — [[study-ie-appendix-jones-wms-memo-2e5d6c]]

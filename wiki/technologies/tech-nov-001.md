@@ -12,9 +12,9 @@ era: "1993-2011"
 lifecycle_at_study: "growth"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: 2.0
-prescience_mean: 0.8
-prescience_obs_count: 5
+prescience_max: 5.0
+prescience_mean: 1.57
+prescience_obs_count: 7
 ---
 
 # Novell Directory Services (NDS)
@@ -24,10 +24,10 @@ prescience_obs_count: 5
 
 ## Top observations
 
+- NDS single sign-on spanning multiple servers and applications with unified object-based user profile `[ps=5]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
 - De facto enterprise meta-directory candidate `[ps=2]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- NDS for NT to be delivered mid-1997 `[ps=2]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
 - NDS positioned to become de facto enterprise meta-directory standard `[ps=1]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
 - Oracle agreed to use NDS authentication and management on all shared platforms `[ps=1]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
 - NDS for NT shipped 1997; Microsoft Active Directory shipped with Windows 2000 in February 2000 `[ps=0]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
 - 60 million NDS users by end of 1999 per IDC estimate `[ps=0]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- NDS for NT to be delivered mid-1997 — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- NDS single sign-on spanning multiple servers and applications with unified object-based user profile — [[study-1997-novell-directory-to-the-network-str-048b05]]

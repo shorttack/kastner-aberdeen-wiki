@@ -16,7 +16,7 @@ source_file: "transcript Tandem airport commercial.md"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "not-applicable"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: null

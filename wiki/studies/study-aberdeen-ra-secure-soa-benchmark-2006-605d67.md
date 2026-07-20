@@ -16,12 +16,12 @@ source_file: "RA_SecureSOA_SQ_030706b-7.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.67
-prescience_obs_count: 3
+prescience_mean: 2.25
+prescience_obs_count: 4
 ---
 
 # The Secure Service-Oriented Architecture Benchmark Report
@@ -41,6 +41,6 @@ _Published 2006, author **Stacey Quandt**, type **benchmark-report**._
 ## Top observations
 
 - Secure SOA solutions facilitate change, shared services, and federated identity as core enterprise patterns `[ps=5]`
+- SOA creates business benefits within an existing application infrastructure. An SOA platform restructures the business value chain, which creates new pressures for secure business process flow control, metadata management, and service management within and between partner organizations. `[ps=4]`
 - Report differentiates Best-in-Class secure-SOA companies from Industry Average and Laggards via PACE framework (Pressures, Actions, Capabilities, Enablers) `[ps=0]`
 - Lead analyst: Stacey Quandt, Research Director, Security Solutions and Services `[ps=0]`
-- SOA creates business benefits within an existing application infrastructure. An SOA platform restructures the business value chain, which creates new pressures for secure business process flow control, metadata management, and service management within and between partner organizations.

@@ -16,12 +16,12 @@ source_file: "Kaiser Permanente RAMP Interview for Maxtor Project.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.4
-prescience_obs_count: 20
+prescience_mean: 1.79
+prescience_obs_count: 33
 ---
 
 # RAMP Interview: Kaiser Permanente (Maxtor Midline Storage Study)
@@ -42,26 +42,26 @@ _Published 2003, author **Peter S. Kastner, David Hill**, type **market-study**.
 
 - Refurbishing interfaces between healthcare systems is enormous time and effort `[ps=5]`
 - Storage demands increasing significantly for healthcare organizations `[ps=5]`
+- Automated Medical Record Initiative with Epoch `[ps=4]`
 - collection of separate healthcare companies under Kaiser name `[ps=4]`
 - Migration at more than one site is not just replacement of one system; requires replicating function across regions `[ps=4]`
+- Billing, patient records, clinical records — all must interface `[ps=4]`
+- HIPAA will drive increasing storage requirements and retention complexity `[ps=4]`
+- Kaiser is an extreme case but represents numerous problems healthcare companies face going forward `[ps=4]`
+- Kaiser faces same economic pressures across all business units — no cycle diversification `[ps=4]`
+- storage demand increasing for healthcare organizations; complex environment `[ps=4]`
 - hand-entered; higher error rate `[ps=3]`
+- massive training for all contractors `[ps=3]`
 - Applications are the tail that wags the storage dog `[ps=3]`
 - regional; each region has own IT organization `[ps=3]`
+- Kaiser wants improved business rules in Regions Outside California `[ps=3]`
 - Kaiser will not be able to move to an information utility because IT environment will be chaotic `[ps=1]`
+- not viable; IT too chaotic for strategic storage planning `[ps=1]`
 - $22B `[ps=0]`
+- 100000 `[ps=0]`
 - IBM mainframe `[ps=0]`
 - Homegrown system; HR, patient, cost data; predates claims adjustment and outpatient `[ps=0]`
 - 2200-3000 California users `[ps=0]`
 - Northern California only `[ps=0]`
+- scanned into system `[ps=0]`
 - much stricter; more comprehensive; business has more control `[ps=0]`
-- opportunistic based upon application `[ps=0]`
-- CIO reports to CIO who is also Chief Administrative Officer `[ps=0]`
-- huge costing database on mainframe hierarchical DB; some non-mainframe feeds `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- IT user of storage; not storage manager `[ps=0]`
-- long-standing agreements; runs like clockwork `[ps=0]`
-- 100000
-- scanned into system
-- Automated Medical Record Initiative with Epoch
-- massive training for all contractors
-- Billing, patient records, clinical records — all must interface

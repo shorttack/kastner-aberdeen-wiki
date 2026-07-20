@@ -16,12 +16,12 @@ source_file: "2001 Aberdeen Group _ Blades_ An Evolution in Server Density.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.25
-prescience_obs_count: 8
+prescience_mean: 2.0
+prescience_obs_count: 10
 ---
 
 # Blades: An Evolution in Server Density
@@ -45,8 +45,8 @@ _Published 2001, author **Tom Manter**, type **market-study**._
 - Plug-in server cards offering better control and utilization of processing power `[ps=3]`
 - Back-end SAN architecture critical to blade server success `[ps=3]`
 - Blade servers provide economic relief for IT executives `[ps=3]`
+- 30% to 50% cost savings for edge deployments `[ps=2]`
 - Success depends on effective supplier and IS buyer design of blade-server and back-end storage architectures `[ps=0]`
 - Acquired by HP in October 2005 for undisclosed sum `[ps=0]`
 - Free research with sponsor registration disclosure `[ps=0]`
-- 30% to 50% cost savings for edge deployments
-- 50% of worldwide blade server factory revenue by Q1 2011
+- 50% of worldwide blade server factory revenue by Q1 2011 `[ps=0]`

@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Acquired by Hewlett-Packard 1995"
 years_active: "1982-1995"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Convex Computer Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- over 60 sites - leadership in minisupercomputer segment — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- over 60 sites - leadership in minisupercomputer segment `[ps=0]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]

@@ -16,12 +16,12 @@ source_file: "contract-Aberdeen_Engaglementltr_rev1_0202041.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
-prescience_max: 4.0
-prescience_mean: 1.25
-prescience_obs_count: 28
+prescience_max: 5.0
+prescience_mean: 1.4
+prescience_obs_count: 35
 ---
 
 # Aberdeen Group Engagement Letter — Maxtor Pools of Storage Executive Evangelism Program
@@ -40,16 +40,20 @@ _Published 2003, author **Peter S. Kastner; Sandra Tubbs / Aberdeen Group**, typ
 
 ## Top observations
 
+- Enterprise customers must feel TCO pain of storing fixed content on highly priced drives designed for speed instead of capacity; best use of capital = place data in right storage pool `[ps=5]`
 - SAS/SATA backplane enabling plug-play-populate of any mix of SAS and SATA drives proposed as the efficient system for Pools of Storage in detached storage and arrays `[ps=4]`
 - Must prevent misperception that Pools of Storage means hierarchical storage management (HSM) `[ps=4]`
 - TCO pain of storing fixed content on expensive high-speed drives designed for speed instead of capacity `[ps=4]`
 - Online (Transactional Processing); Midline (Fixed Content); Nearline (Disk Backup and Staging); Offline (Tape Archive) `[ps=4]`
 - Midline solutions fill a vacuum for fixed content with an economic and scalable set of products within a year `[ps=4]`
+- By 2006 Warner Bros running multi-tiered FC/SATA/tape environment; Wikibon 2011 estimated SATA holds 85% of enterprise data and 40% of spend by 2015 `[ps=4]`
 - SAS/SATA mixed backplanes became the universal enterprise server standard from 2004; every enterprise server ships with mixed backplanes today `[ps=3]`
 - If ILM is 'getting control over storage' then Pools of Storage is the economic and flexibility 'best approach' `[ps=3]`
 - ILM became a core concept in enterprise data management; adopted by EMC NetApp Dell and others as standard product feature framework `[ps=3]`
+- Quantifies TCO impact with 3 implementation paths: conservative; industry norm; aggressive `[ps=3]`
 - Lexicon creation — establishing four named Pools of Storage (Online Midline Nearline Offline) as industry standard vocabulary `[ps=2]`
 - Maxtor will align specific HDD brands with each of the four Pools of Storage; empowering Maxtor to have significant voice in next-generation enterprise storage `[ps=2]`
+- Successfully launching a new storage category of midline storage within a year `[ps=2]`
 - All players in Serial Storage ecosystem must adopt Maxtor's Pools lexicon `[ps=1]`
 - Serial Storage in a Box — Maxtor positioned to have significant voice in this next-generation enterprise storage paradigm through Pools of Storage lexicon leadership `[ps=1]`
 - Pools of Storage Executive Evangelism Program `[ps=0]`
@@ -58,10 +62,6 @@ _Published 2003, author **Peter S. Kastner; Sandra Tubbs / Aberdeen Group**, typ
 - $6000 (phases 1-3) + $3500 (phase 4) `[ps=0]`
 - November 17 2003 `[ps=0]`
 - December 9 2003; Shrewsbury MA `[ps=0]`
+- January 9 2004 `[ps=0]`
 - Endorsement required from industry publications in US and Europe and from at least four Fortune 500 CIOs `[ps=0]`
 - East-coast US; West-coast US; two cities in England; continental Europe `[ps=0]`
-- Press; industry trade associations; trade shows; SNIA user storage groups; online seminars; early adopter face-to-face interviews; Web Center of Excellence `[ps=0]`
-- 100-250 Internet surveys plus 5-8 face-to-face or telephone interviews; merge with April 2003 Aberdeen survey results `[ps=0]`
-- Web-based ILM Pools of Storage Decision Tool; Microsoft IIS + SQL Server 2000; 3-month Aberdeen hosting; Call to Action PDF capture `[ps=0]`
-- Aberdeen retains sole copyright in ILM/Pools of Storage Decision Tool; Competitive Value Prospect Tool; and Phase 3 White Paper; Maxtor receives paid-up perpetual non-exclusive license `[ps=0]`
-- Peter Kastner (EVP); Stan Elbaum (VP Strategic Solutions); David Hill (Research Director); Kerri Conrad (Director Sales Training Solutions); Sandra Tubbs (SVP signatory) `[ps=0]`

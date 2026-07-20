@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1974-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Institutional Venture Partners (IVP)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $1.7 million — [[study-businessweek-stratus-launch-fail-safe-ba-82c028]]
+- $1.7 million `[ps=0]` — [[study-businessweek-stratus-launch-fail-safe-ba-82c028]]

@@ -12,9 +12,9 @@ era: "2001-2007"
 lifecycle_at_study: "current"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Outlook 2002
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Outlook 2002 shipped with Axim X5 — [[study-dct-kastner-wish-list-2002-12]]
+- Outlook 2002 shipped with Axim X5 `[ps=0]` — [[study-dct-kastner-wish-list-2002-12]]

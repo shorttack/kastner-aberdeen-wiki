@@ -12,9 +12,9 @@ era: "2006"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'IT outsourcing maturity models remain an active conceptual and analytical framework used by organizations and researchers.', 'source': 'pre-verified'}"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 1.0
+prescience_mean: 0.33
+prescience_obs_count: 3
 ---
 
 # IT Outsourcing Maturity Model
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- 56% measure ROI after every application change `[ps=1]` — [[study-the-business-value-in-it-outsourcing-7d5f23]]
 - 25% measure after each upgrade; 25% sometimes; 50% never `[ps=0]` — [[study-the-business-value-in-it-outsourcing-7d5f23]]
 - 0% after each upgrade; 10% sometimes; 20%+ never `[ps=0]` — [[study-the-business-value-in-it-outsourcing-7d5f23]]
-- 56% measure ROI after every application change — [[study-the-business-value-in-it-outsourcing-7d5f23]]

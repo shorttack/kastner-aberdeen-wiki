@@ -14,7 +14,7 @@ lifecycle_current: "dominant"
 occurrence_count: 1
 prescience_max: 4.0
 prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Electronic Medical Record (EMR)
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Most EMR solutions operate on departmental level vs. enterprise-wide; some enterprise-wide versions emerging; 'who owns the data' unresolved `[ps=4]` — [[study-health~1-056358]]
 - Single electronic patient record shared across the enterprise will someday emerge as an operational and technical reality `[ps=4]` — [[study-health~1-056358]]
-- Most EMR solutions operate on departmental level vs. enterprise-wide; some enterprise-wide versions emerging; 'who owns the data' unresolved — [[study-health~1-056358]]

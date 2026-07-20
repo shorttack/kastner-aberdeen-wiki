@@ -16,12 +16,12 @@ source_file: "1997 Aberdeen Picks The Right Tools for Year 2000 tvp.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
-prescience_obs_count: 8
+prescience_obs_count: 10
 ---
 
 # Aberdeen Picks The Right Tools for Year 2000
@@ -40,6 +40,7 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 
 ## Top observations
 
+- Large and pervasive (100B LOC); hard to detect (multiple languages, missing documentation/source code); time-consuming to fix; interdependence makes parallel fixing difficult `[ps=5]`
 - Y2K is hard to detect due to many programming styles, languages, and environments that often lack key information such as documentation or source code `[ps=5]`
 - Y2K tool market collapsed after 2000; many vendors went out of business or pivoted; Aberdeen's skepticism about tool vendor claims proved warranted — effectiveness varied widely `[ps=5]`
 - Minimum 100 billion lines of code to check worldwide `[ps=4]`
@@ -47,6 +48,5 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 - Aberdeen establishing criteria-based evaluation of Y2K tool vendors to cut through hype and identify credible solutions with measurable effectiveness `[ps=4]`
 - Y2K represents a once-in-generation technology crisis requiring massive sustained effort; tool selection critical to outcome `[ps=4]`
 - IS buyers have a right to be skeptical about Y2K solutions; hard to understand why a two-digit date causes massive problems; fog of supplier hype and expert alarmism `[ps=3]`
+- Irresponsible not to fix: bottom-line negative impact on company, suppliers, and customers; system can 'lose' transactions or data; legal liability `[ps=3]`
 - Worldwide Y2K spending totaled approximately $100 billion ($365 per US resident); spending peaked 1998-1999; transition on 1/1/2000 passed without major systemic failures; Aberdeen's scale estimates proved directionally accurate `[ps=3]`
-- Large and pervasive (100B LOC); hard to detect (multiple languages, missing documentation/source code); time-consuming to fix; interdependence makes parallel fixing difficult
-- Irresponsible not to fix: bottom-line negative impact on company, suppliers, and customers; system can 'lose' transactions or data; legal liability

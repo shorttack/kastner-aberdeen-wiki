@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.12
-prescience_obs_count: 8
+prescience_mean: 2.2
+prescience_obs_count: 10
 ---
 
 # Oracle And Dell Take Aim At Midsize Businesses
@@ -42,11 +42,11 @@ _Published 2004, author **Larry Greenemeier (InformationWeek / Network Computing
 
 - Dell did grow to be one of the top two x86 server vendors globally; PowerEdge lineup remains Dell flagship server family. `[ps=5]`
 - Dell strategy: many data centers will proliferate inexpensive Intel-based servers to meet growing IT demands rather than consolidate onto fewer, more expensive servers. `[ps=4]`
+- Close relationship with Oracle won't affect Dell's relationship with Microsoft because Oracle's Standard Edition One is not a direct competitor with Microsoft. `[ps=3]`
 - Oracle discontinued Standard Edition One and merged it into Standard Edition 2 in 2014 — SMB database strategy continued under different branding. `[ps=3]`
+- The pre-installation arrangement between Dell and Oracle will be particularly useful to small and midsize companies; although it could take only 15 minutes for these companies to have the Oracle database installed at a later time, it could be an expensive 15 minutes if they have to hire a service provider. `[ps=2]`
 - The nine-month head start for Dell could translate into 1 million shipments; as the leader in the low-end server market, Dell will be able to take the exclusivity period to the bank. `[ps=2]`
 - Oracle-Dell also expanded partnership into China; Oracle certifying PowerEdge servers with Red Flag DC 4.0 Linux and Oracle Database 10g at Oracle China Development Center in Beijing. `[ps=2]`
 - We have no more important partner than Dell. `[ps=1]`
 - Oracle granted Dell the exclusive right (through 2004 year-end) to deliver preinstalled Oracle Standard Edition One on PowerEdge 2600/2650 running Red Hat Linux or Windows; pricing starts at $4,108 for 5/10/25/unlimited user variations. `[ps=0]`
 - Dell has 30,000 customers running Oracle database software on Dell servers — double the number doing so a year ago. `[ps=0]`
-- The pre-installation arrangement between Dell and Oracle will be particularly useful to small and midsize companies; although it could take only 15 minutes for these companies to have the Oracle database installed at a later time, it could be an expensive 15 minutes if they have to hire a service provider.
-- Close relationship with Oracle won't affect Dell's relationship with Microsoft because Oracle's Standard Edition One is not a direct competitor with Microsoft.

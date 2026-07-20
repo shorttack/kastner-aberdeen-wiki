@@ -1,3 +1,5 @@
 *.tmp
 .obsidian/workspace*
 .DS_Store
+data/embeddings.parquet
+data/_validated/

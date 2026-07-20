@@ -13,8 +13,8 @@ successor: "HP Inc. + Hewlett Packard Enterprise"
 years_active: "1939-present (post-2015 split)"
 occurrence_count: 6
 prescience_max: 5.0
-prescience_mean: 2.52
-prescience_obs_count: 33
+prescience_mean: 2.5
+prescience_obs_count: 36
 ---
 
 # HP (Hewlett-Packard)
@@ -31,6 +31,7 @@ prescience_obs_count: 33
 
 - HP's home networked video initiative (circa 2003) did not succeed as a major market. HP launched digital entertainment/media center products but the home networked video market was slow to develop. Mass-market home video networking was not realized until streaming services (Netflix, Hulu 2007-2010) and HDTV adoption. `[ps=5]` — [[study-hp-analyst-phone-call-6-204870]]
 - HP message of 'low total-cost-of-ownership provider' — not heard, not believable. `[ps=4]` — [[study-hp-analyst-phone-call-6-204870]]
+- Reduced-complexity message: believable on consumer side; lesser on IPG; no proof points on ESG; only marginal on services. `[ps=4]` — [[study-hp-analyst-phone-call-6-204870]]
 - Adaptive Enterprise is too IT-facing and too little business-executive-management-facing. `[ps=4]` — [[study-hp-analyst-phone-call-6-204870]]
 - Adaptive Enterprise is an ESG and Services initiative; PSG and IPG not tied in. `[ps=4]` — [[study-hp-analyst-phone-call-6-204870]]
 - Analysts want beef — 'too much vision and not enough what-can-I-do-and-how-can-I-do-it.' `[ps=4]` — [[study-hp-analyst-phone-call-6-204870]]
@@ -44,8 +45,7 @@ prescience_obs_count: 33
 - Not yet the leader in connectivity/end-to-end processing ('radical simplicity'); Internet Home Alliance research showed more customer-faced interaction needed. `[ps=4]` — [[study-hp-analyst-phone-call-6-204870]]
 - HP consumer service and support only mediocre; echoed by big PC-magazine survey; 'HP's PCs break too often.' `[ps=4]` — [[study-hp-analyst-phone-call-6-204870]]
 - HP 'wears so many different hats'; Carly has different messages for consumer, IT exec, and enterprise exec audiences — of necessity. `[ps=4]` — [[study-hp-analyst-phone-call-6-204870]]
+- HP OpenView provides bottoms-up view of enterprise; Tivoli provides top-down view based on IT management policies/procedures `[ps=3]` — [[study-aberdeen-1996-ibm-tivoli]]
 - HP named as a competitive threat. `[ps=3]` — [[study-dell-services-kastner-051904-4-87b363]]
 - HP Services can handle individual projects but lacks capacity for Fortune 500 company transformation. `[ps=3]` — [[study-hp-analyst-phone-call-6-204870]]
 - HP was very late to market with Centrino-based notebooks; has products but has not earned stripes in 'Mobility as a lifestyle.' `[ps=3]` — [[study-hp-analyst-phone-call-6-204870]]
-- HP is a leader in digital imaging and photography. `[ps=3]` — [[study-hp-analyst-phone-call-6-204870]]
-- Too much HP business comes from installed base — implies trouble generating new customers. `[ps=3]` — [[study-hp-analyst-phone-call-6-204870]]

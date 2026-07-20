@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "active"
 lifecycle_current: "ODBC remains a widely used database connectivity standard"
 occurrence_count: 2
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # ODBC (Open Database Connectivity)
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Gateways to data sources vs. ODBC as competing approaches `[ps=3]` — [[study-software-market-safegu~1-ea7453]]
 - IQ/LiveWeb supports ODBC access to all major RDBMSs including Oracle, Sybase, Informix, DB2 family, Red Brick, Progress `[ps=0]` — [[study-aberdeen-1996-iq-software-www-reporting]]
-- Gateways to data sources vs. ODBC as competing approaches — [[study-software-market-safegu~1-ea7453]]

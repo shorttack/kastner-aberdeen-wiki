@@ -16,12 +16,12 @@ source_file: "Stratus-quote-1982-03-8.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 3.0
-prescience_mean: 0.5
-prescience_obs_count: 6
+prescience_mean: 0.38
+prescience_obs_count: 8
 ---
 
 # Lawrence Eagle-Tribune: Stratus Expands in Europe with $40 Million Olivetti OEM Deal — Earliest Public Pete Kastner Stratus Quote (March 1982)
@@ -42,9 +42,9 @@ _Published 1982, author **Robert Schneider (The Lawrence Eagle-Tribune)**, type 
 
 - Most sales volume in later years; Stratus cannot build $40M of computers in 1982; Olivetti needs time to integrate `[ps=3]`
 - Pete Kastner, Stratus communications director `[ps=0]`
+- Olivetti must meet $46M minimum volume to retain marketing rights; Stratus retains right to open international sales offices on 90-days notice `[ps=0]`
 - 30 systems shipped in 1982 at $150,000-$300,000 each `[ps=0]`
 - $6.7M from Bank of America, Institutional Venture Partners, General Electric, Olivetti, and others `[ps=0]`
 - Four firms shipped, including West Lynn Creamery and Thom McAn Shoe Co. `[ps=0]`
 - John Morgridge, Stratus marketing vice-president `[ps=0]`
-- Olivetti must meet $46M minimum volume to retain marketing rights; Stratus retains right to open international sales offices on 90-days notice
-- $172,000 typical config (4MB memory, dual i43MB disks, 600 lpm printer, mag tape, COBOL + VOS licenses)
+- $172,000 typical config (4MB memory, dual i43MB disks, 600 lpm printer, mag tape, COBOL + VOS licenses) `[ps=0]`

@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1995-2003"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Giga Group
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $13 to $3 — [[study-aberdeen-training-day-1-522863]]
+- $13 to $3 `[ps=0]` — [[study-aberdeen-training-day-1-522863]]

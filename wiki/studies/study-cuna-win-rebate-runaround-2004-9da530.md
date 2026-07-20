@@ -16,12 +16,12 @@ source_file: "Win-the-Rebate-Runaround.webarchive"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.33
-prescience_obs_count: 3
+prescience_mean: 1.75
+prescience_obs_count: 4
 ---
 
 # Win the Rebate Runaround
@@ -42,5 +42,5 @@ _Published 2004, author **Jan Garkey**, type **news-feature**._
 
 - Do manufacturers hope consumers will forget about redeeming the rebate? Absolutely. A lot of people do forget about it. `[ps=4]`
 - Only 40% of consumers submit rebates they are entitled to, 40% submit the rebate and successfully get a check, and 20% have problems `[ps=3]`
+- More than 50,000 consumers experienced delays of up to six months or more between January 2001 and January 2002 despite company claims of $20-$100 rebates within eight weeks `[ps=0]`
 - FTC compelled Philips to pay all shoppers with valid claims within 10 days `[ps=0]`
-- More than 50,000 consumers experienced delays of up to six months or more between January 2001 and January 2002 despite company claims of $20-$100 rebates within eight weeks

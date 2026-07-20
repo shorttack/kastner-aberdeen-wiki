@@ -16,12 +16,12 @@ source_file: "Traveling-With-Centrino-3.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 0.54
-prescience_obs_count: 13
+prescience_mean: 1.32
+prescience_obs_count: 19
 ---
 
 # Traveling With Centrino
@@ -40,12 +40,18 @@ _Published 2003, author **Peter S. Kastner**, type **dct**._
 
 ## Top observations
 
+- Centrino becoming mainstream for business laptops `[ps=5]`
 - thin-and-light, tablet, executive-performance Centrino models coming `[ps=5]`
+- wireless infrastructure springing up rapidly in hotels and meeting places `[ps=5]`
+- 11 Mbps 802.11b today, 802.11a summer 2003, 802.11g next year `[ps=4]`
+- desktop users moving to notebook feel 2 GHz P4 equivalent `[ps=4]`
 - prefer distance at 1 Mbps over 11 Mbps at 30 feet `[ps=2]`
+- $300 million Centrino launch campaign `[ps=0]`
 - Pentium M + chipset + wireless radio `[ps=0]`
 - 6.2 `[ps=0]`
 - 1400 x 1050 pixels, 15in LCD `[ps=0]`
 - 512MB DDR, 1.5 GHz Pentium M `[ps=0]`
+- 14.8V 4200 mAh standard + optional multibay battery `[ps=0]`
 - 4 pounds preferred; 'confirmed thin-and-light guy' `[ps=0]`
 - standard battery plays DVD movie plus 1hr+ email `[ps=0]`
 - typical day ends with 40%+ battery remaining `[ps=0]`
@@ -53,9 +59,3 @@ _Published 2003, author **Peter S. Kastner**, type **dct**._
 - 3 notebooks per 7 desktops in US corporate 2003 `[ps=0]`
 - Centrino notebooks deliver better ROI at lower TCO than replaced models `[ps=0]`
 - three coast-to-coast trips during the review period `[ps=0]`
-- $300 million Centrino launch campaign
-- 11 Mbps 802.11b today, 802.11a summer 2003, 802.11g next year
-- 14.8V 4200 mAh standard + optional multibay battery
-- desktop users moving to notebook feel 2 GHz P4 equivalent
-- Centrino becoming mainstream for business laptops
-- wireless infrastructure springing up rapidly in hotels and meeting places

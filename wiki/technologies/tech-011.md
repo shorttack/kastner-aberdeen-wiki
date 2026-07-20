@@ -12,9 +12,9 @@ era: "mature at study"
 lifecycle_at_study: "active"
 lifecycle_current: "active-niche"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # MAPI Service Provider Interface (SPI)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 77% more expensive at high end — [[study-1992-tpc-benchmarks-vp-745fa1]]
+- 77% more expensive at high end `[ps=0]` — [[study-1992-tpc-benchmarks-vp-745fa1]]

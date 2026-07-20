@@ -16,12 +16,12 @@ source_file: "Retail_BI_Benchmark-Survey-and-Hypothesis-12.ppt"
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.8
-prescience_obs_count: 5
+prescience_mean: 1.5
+prescience_obs_count: 6
 ---
 
 # The Retail Business Intelligence Benchmark Studies: Hypothesis and Survey
@@ -44,5 +44,5 @@ _Published 2006, author **Paula Rosenblum**, type **research-design-deck**._
 - Hypothesis qualifies the value of scorecarding the retail organism as a whole, rather than just measuring individual parts `[ps=4]`
 - Retailers that have adopted or are considering adoption of advanced BI; targeting GMMs, VPs of Store Operations, VPs of Supply Chain, CIOs `[ps=0]`
 - Survey distribution via Integrated Solutions for Retailers (ISR) and RIS News partnerships `[ps=0]`
+- May 30, 2006 planned publication for the resulting Retail BI Benchmark Report `[ps=0]`
 - Paula Rosenblum, Aberdeen Group retail analyst, March 2006 `[ps=0]`
-- May 30, 2006 planned publication for the resulting Retail BI Benchmark Report

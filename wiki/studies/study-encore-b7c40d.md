@@ -16,12 +16,12 @@ source_file: "Encore.docx"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "low"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 13
+prescience_obs_count: 18
 ---
 
 # OLTP Market Analysis for Encore Computer Series 90
@@ -53,8 +53,8 @@ _Published 1990, author **Peter S. Kastner**, type **market-study**._
 -  `[ps=0]`
 -  `[ps=0]`
 -  `[ps=0]`
-- 
-- 
-- 
-- 
-- 
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`

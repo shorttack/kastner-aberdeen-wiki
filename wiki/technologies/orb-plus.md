@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "active"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # HP ORB Plus
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP planned to release ORB Plus in H1 1996 to enable CORBA-compliant C++ applications with C++ SoftBench — [[study-aberdeen-1995-hp-softbench]]
+- HP planned to release ORB Plus in H1 1996 to enable CORBA-compliant C++ applications with C++ SoftBench `[ps=0]` — [[study-aberdeen-1995-hp-softbench]]

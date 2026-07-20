@@ -16,12 +16,12 @@ source_file: "2002 A Kinder, Gentler Larry Ellison_ Oracle Presents New Face to 
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.9
-prescience_obs_count: 10
+prescience_mean: 1.73
+prescience_obs_count: 11
 ---
 
 # A Kinder, Gentler Larry Ellison? Oracle Presents New Face to Its User Community
@@ -45,9 +45,9 @@ _Published 2002, author **Katherine Jones**, type **market-study**._
 - e-Business Suite positioned as strategic upgrade destination for installed base `[ps=4]`
 - Continued installed-base retention through EBS 12.2 with support through 2030+ `[ps=4]`
 - Presenting softer face to user community; less combative `[ps=2]`
+- Largely absent `[ps=0]`
 - Stark realities of current enterprise software market driving conservative strategy `[ps=0]`
 - San Diego `[ps=0]`
 - Predicted to be the central upgrade vehicle for existing Oracle customers `[ps=0]`
 - Premier Support ended December 2013; sustaining support extended through December 2014 `[ps=0]`
 - More evident than prior years `[ps=0]`
-- Largely absent

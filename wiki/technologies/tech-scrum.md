@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "mainstream"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.9
-prescience_obs_count: 10
+prescience_mean: 2.92
+prescience_obs_count: 13
 ---
 
 # SCRUM Methodology
@@ -30,10 +30,10 @@ prescience_obs_count: 10
 - IS organizations must adopt ISV-style rapid development or face growing frustration with management demands `[ps=4]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
 - SCRUM is not a passing fad or one-shot fix; ISVs using it for sustained competitive advantage `[ps=4]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
 - Backlog: approved modifications from prior Sprint assigned to teams at start of next Sprint period `[ps=4]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
+- adopting SCRUM would be radical departure from traditional methods for most in-house enterprise development groups `[ps=4]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
+- New technology not proprietary—competitors use same tools; SCRUM/speed-to-deliver is the competitive differentiator `[ps=4]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
 - SCRUM/Agile adopted by majority of software development teams globally; Scrum.org holds ADM trademarks `[ps=3]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
+- Booch, Rumbaugh, Jacobson created Unify Metamodel underpinning SCRUM intellectual basis `[ps=1]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
 - SCRUM named for rugby action (forwards quickly move ball via team skill/strength); not an acronym `[ps=0]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
 - Burlington, Massachusetts `[ps=0]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
 - Volume 8/Number 17, December 7, 1995 `[ps=0]` — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
-- adopting SCRUM would be radical departure from traditional methods for most in-house enterprise development groups — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
-- Booch, Rumbaugh, Jacobson created Unify Metamodel underpinning SCRUM intellectual basis — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]
-- New technology not proprietary—competitors use same tools; SCRUM/speed-to-deliver is the competitive differentiator — [[study-aberdeen-1995-upgrading-isv-methodology-enterprise-application-development]]

@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1999-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Ed Black
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Covered enterprise applications and business intelligence; became cornerstone of Kastner’s practice expansion alongside Kernochan. — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
+- Covered enterprise applications and business intelligence; became cornerstone of Kastner’s practice expansion alongside Kernochan. `[ps=4]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]

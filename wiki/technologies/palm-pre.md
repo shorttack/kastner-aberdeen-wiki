@@ -13,8 +13,8 @@ lifecycle_at_study: "new"
 lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 2
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # Palm Pre
@@ -26,4 +26,4 @@ prescience_obs_count: 2
 
 - HP acquired Palm Inc. for $1.2B on 2010-04-28; webOS smartphone development discontinued 2011-2012; webOS later sold to LG 2013 for TV use `[ps=5]` — [[study-palm-pre-199-really-299-cloudave-a0a25f]]
 - forget rebates, which are just a Big Fat Lie. it's time for true transparency: call it what it is, $299 or $199 `[ps=4]` — [[study-palm-pre-199-really-299-cloudave-a0a25f]]
-- $299.99 two-year price minus $100 mail-in rebate = $199.99 final price; launched Jun 6 2009 on Sprint — [[study-palm-pre-199-really-299-cloudave-a0a25f]]
+- $299.99 two-year price minus $100 mail-in rebate = $199.99 final price; launched Jun 6 2009 on Sprint `[ps=0]` — [[study-palm-pre-199-really-299-cloudave-a0a25f]]

@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # 28 U.S.C. §1782 foreign-proceedings discovery
@@ -25,5 +25,5 @@ prescience_obs_count: 1
 ## Top observations
 
 - ZF Automotive US Inc. v. Luxshare (2022) narrowed Intel v. AMD by holding that §1782 does not apply to private commercial arbitrations — though it continues to apply to foreign government/administrative investigations of the kind Kastner flagged. `[ps=5]` — [[study-supreme-court-orders-intel-documents-rel-e6e110]]
-- This is an oddball legal situation where the EU has not requested documents from a sealed Alabama litigation, but AMD wants a California court to force their disclosure anyway. The Supreme Court now says California gets to decide what is disclosed to Europe. — [[study-supreme-court-orders-intel-documents-rel-e6e110]]
-- There are broad and troubling ramifications to this decision for multinational companies who have competitors — which includes all the large tech companies. — [[study-supreme-court-orders-intel-documents-rel-e6e110]]
+- There are broad and troubling ramifications to this decision for multinational companies who have competitors — which includes all the large tech companies. `[ps=2]` — [[study-supreme-court-orders-intel-documents-rel-e6e110]]
+- This is an oddball legal situation where the EU has not requested documents from a sealed Alabama litigation, but AMD wants a California court to force their disclosure anyway. The Supreme Court now says California gets to decide what is disclosed to Europe. `[ps=0]` — [[study-supreme-court-orders-intel-documents-rel-e6e110]]

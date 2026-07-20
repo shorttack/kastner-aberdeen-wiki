@@ -12,9 +12,9 @@ era: "1977-1995"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Superminicomputer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 16.7 percent of $210M — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- 16.7 percent of $210M `[ps=0]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]

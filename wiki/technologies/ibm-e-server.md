@@ -12,9 +12,9 @@ era: "2000-2005"
 lifecycle_at_study: "growing"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM E-server
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM E-server Analyst Symposium earlier in spring 2001 introduced initial eLiza messaging; this workshop extended messaging beyond what was delivered there. — [[study-ibm-messaging-workshop-report-final-9-ef7fbc]]
+- IBM E-server Analyst Symposium earlier in spring 2001 introduced initial eLiza messaging; this workshop extended messaging beyond what was delivered there. `[ps=0]` — [[study-ibm-messaging-workshop-report-final-9-ef7fbc]]

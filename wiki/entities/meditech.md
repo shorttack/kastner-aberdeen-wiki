@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1969-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Medical Information Technology Inc. (MEDITECH)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 1200+ customers; 1997 software license revenues $193M; founded 1969; transitioned from proprietary minicomputer/mainframe to distributed environments — [[study-health~1-056358]]
+- 1200+ customers; 1997 software license revenues $193M; founded 1969; transitioned from proprietary minicomputer/mainframe to distributed environments `[ps=3]` — [[study-health~1-056358]]

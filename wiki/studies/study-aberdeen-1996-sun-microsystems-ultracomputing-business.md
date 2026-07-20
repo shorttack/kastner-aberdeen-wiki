@@ -16,12 +16,12 @@ source_file: "1996 Sun Microsystems Computer Company_ UltraComputing for Busines
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.29
-prescience_obs_count: 17
+prescience_mean: 2.55
+prescience_obs_count: 20
 ---
 
 # Sun Microsystems Computer Company: UltraComputing for Business
@@ -41,13 +41,16 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 ## Top observations
 
 - Aberdeen forecasts another significant increase in Sun's revenues from commercial accounts for 1996 `[ps=5]`
+- Sun achieved peak revenues of ~$15B by FY2001; commercial Unix server leadership maintained through late 1990s before internet bust `[ps=5]`
 - Aberdeen opinion: Sun has again set industry vision for important emerging IS opportunity with Java internet/intranet applications `[ps=5]`
 - Java became the dominant enterprise application runtime; billions of devices; Oracle acquired Sun for $7.4B largely for Java IP `[ps=5]`
 - Sun's 'network is the computer' concept derided in mid-1980s is now a de facto standard for distributed information systems design `[ps=5]`
 - Java has taken the ISV community including industry giants by storm; many business-critical applications expected within following months `[ps=4]`
 - Three-pillar commercial strategy: BusinessWare (ERP/transactional), Customer Management Solutions, Decision Warehouse (analytics) `[ps=4]`
+- Ability to efficiently and cost-effectively scale system as needs grow `[ps=4]`
 - Ability to keep total system availability 7x24 `[ps=4]`
 - Pure Unix play with Solaris 2.5 at center stage; no OS identity crisis unlike multi-platform competitors `[ps=4]`
+- Ability of software packages to work well with total system solution `[ps=3]`
 - Sun professional services specializes in building links between existing production applications and new distributed Java applets `[ps=3]`
 - Over $2 billion in sales from commercial applications market in 1995 `[ps=0]`
 - $5.1 billion in revenues for 9 months ending March 1996, up nearly 20% over prior year `[ps=0]`
@@ -57,6 +60,3 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - New Internet-based electronic commerce programs announced March 1996; Netra servers for remote e-commerce deployment `[ps=0]`
 - Sun has contributed to more than a dozen worldwide standards organizations; extensive ISV partner network `[ps=0]`
 - New Enterprise Server line is totally new design inside and out; not a simple update of older SPARCservers `[ps=0]`
-- Sun achieved peak revenues of ~$15B by FY2001; commercial Unix server leadership maintained through late 1990s before internet bust
-- Ability to efficiently and cost-effectively scale system as needs grow
-- Ability of software packages to work well with total system solution

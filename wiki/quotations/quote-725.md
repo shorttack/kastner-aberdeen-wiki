@@ -1,6 +1,7 @@
 ---
 title: Quote 725 — Computerworld (1992-11-23)
 type: quotation
+page_type: quotation
 slug: quote-725
 row_id: 725
 author: "Peter S. Kastner"

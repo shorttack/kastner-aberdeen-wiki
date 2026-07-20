@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 3.33
-prescience_obs_count: 3
+prescience_mean: 3.25
+prescience_obs_count: 4
 ---
 
 # Dell Supply Chain Management (SCM)
@@ -26,5 +26,5 @@ prescience_obs_count: 3
 
 - apet_will_become_standard_category `[ps=4]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
 - scm_standard_enterprise_category_by_2000 `[ps=4]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- Viewing Dell as storage integrator (not OEM) explains its efforts to simplify disk array, tape, and software selection `[ps=3]` — [[study-dell-storage-profile-2004]]
 - Superior SCM techniques and ability to quickly pass cost reductions to customer are Dell's key ongoing advantages `[ps=2]` — [[study-dell-storage-profile-2004]]
-- Viewing Dell as storage integrator (not OEM) explains its efforts to simplify disk array, tape, and software selection — [[study-dell-storage-profile-2004]]

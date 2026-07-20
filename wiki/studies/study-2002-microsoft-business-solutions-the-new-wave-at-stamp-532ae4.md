@@ -16,12 +16,12 @@ source_file: "2002 Microsoft Business Solutions - The New Wave at Stampede.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 0.67
-prescience_obs_count: 12
+prescience_mean: 1.07
+prescience_obs_count: 14
 ---
 
 # Microsoft Business Solutions - The New Wave at Stampede
@@ -41,7 +41,9 @@ _Published 2002, author **Katherine Jones**, type **market-study**._
 ## Top observations
 
 - became Dynamics NAV then Dynamics 365 Business Central; actively sold `[ps=5]`
+- renamed Microsoft Dynamics 2006; became leading SME ERP suite `[ps=4]`
 - faces significant challenges from ISVs and competing ERP vendors `[ps=3]`
+- positioned to become dominant SME ERP platform `[ps=3]`
 - surround strategy `[ps=0]`
 - small to midsize enterprises (SMEs) `[ps=0]`
 - value-added resellers (VARs) `[ps=0]`
@@ -52,5 +54,3 @@ _Published 2002, author **Katherine Jones**, type **market-study**._
 - $1.33 billion `[ps=0]`
 - 2001 `[ps=0]`
 - discontinued 2008; users migrated to GP `[ps=0]`
-- positioned to become dominant SME ERP platform
-- renamed Microsoft Dynamics 2006; became leading SME ERP suite

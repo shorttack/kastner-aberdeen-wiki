@@ -12,9 +12,9 @@ era: "1997-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Wireless LAN (802.11 / Wi-Fi)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- XP makes connecting to wireless LANs 'a snap' — zero-configuration wireless — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
+- XP makes connecting to wireless LANs 'a snap' — zero-configuration wireless `[ps=4]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]

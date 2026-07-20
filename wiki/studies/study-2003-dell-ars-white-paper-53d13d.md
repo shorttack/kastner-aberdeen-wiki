@@ -16,12 +16,12 @@ source_file: "2003-dell-ars-white-paper-53d13d.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.13
-prescience_obs_count: 31
+prescience_mean: 0.1
+prescience_obs_count: 40
 ---
 
 # Dell Asset Recovery Services: An Effective Solution to a Very Real Problem
@@ -44,6 +44,7 @@ _Published 2003, author **Aberdeen Group**, type **white-paper**._
 - $387+ `[ps=0]`
 - $49/unit `[ps=0]`
 - $69/unit `[ps=0]`
+- 9.6%/month `[ps=0]`
 - 400M+ units `[ps=0]`
 - >25% `[ps=0]`
 - $1M+ `[ps=0]`
@@ -53,15 +54,14 @@ _Published 2003, author **Aberdeen Group**, type **white-paper**._
 - 6h+ `[ps=0]`
 - $12-$198/unit `[ps=0]`
 - $368/year `[ps=0]`
+- 36 months `[ps=0]`
+- rising `[ps=0]`
+- confirmed `[ps=0]`
 - predicted `[ps=0]`
+- confirmed `[ps=0]`
+- increasing `[ps=0]`
 - confirmed `[ps=0]`
 - increasing `[ps=0]`
 - confirmed `[ps=0]`
 - recommended `[ps=0]`
 - logistics/disposition/reporting `[ps=0]`
-- 40 units `[ps=0]`
-- confirmed `[ps=0]`
-- confirmed `[ps=0]`
-- confirmed `[ps=0]`
-- experience/track-record/geography/financial-strength `[ps=0]`
-- recommended `[ps=0]`

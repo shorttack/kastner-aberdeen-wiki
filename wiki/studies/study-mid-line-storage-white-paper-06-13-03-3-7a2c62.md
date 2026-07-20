@@ -16,12 +16,12 @@ source_file: "Mid-Line-Storage-White-Paper-06-13-03-3.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.93
-prescience_obs_count: 30
+prescience_mean: 1.9
+prescience_obs_count: 40
 ---
 
 # Mid-Line Disk Storage: Emerging as Significant Cost-Saving Opportunity
@@ -47,21 +47,21 @@ _Published 2003, author **Peter S. Kastner / Aberdeen Group**, type **white-pape
 - IT must adopt QoS perspective and formal/informal SLAs to differentiate storage tiers `[ps=5]`
 - 2x to 8x; up to 300 GB per ATA vs 142/72/36 GB per FC/SCSI `[ps=4]`
 - ~half the cost per GB `[ps=4]`
+- Enterprise-class acceptable; negligible availability gap vs high-perf when RAID applied `[ps=4]`
 - Required for automated tiering; greatest savings with auto-migration online->midline->tape `[ps=4]`
 - 1. Embedded in array/appliance (incremental), 2. Proactive pyramid planning (strategic) `[ps=4]`
 - Major disk drive manufacturers, storage systems suppliers, early adopters all supporting `[ps=4]`
+- Lower capacity and much higher cost vs ATA; misused for inactive fixed content `[ps=4]`
 - Emerging concept for point-in-time restore; complements mid-line disk `[ps=4]`
+- Eliminates tape drive/media errors; higher backup completion rate via RAID; simplifies admin `[ps=4]`
+- 60% `[ps=3]`
 - RAM (volatile), High-Perf Disk (FC/SCSI), Mid-Line Disk (ATA), Tape (off-line) `[ps=3]`
 - High — query intensive, primarily sequential reads; cost-per-GB compelling `[ps=3]`
+- Partial — if read/write data can be clearly segregated; best for new implementations `[ps=3]`
 - "Quiet storage revolution" — trend recognized but enterprises still learning best use `[ps=3]`
 - >50% `[ps=0]`
 - >20% immediately; >50% eventually `[ps=0]`
 - 75% `[ps=0]`
+- >60% `[ps=0]`
 - 20% `[ps=0]`
 - ~67% `[ps=0]`
-- ~50% `[ps=0]`
-- ~50% `[ps=0]`
-- >80% `[ps=0]`
-- $7,000-$10,000 `[ps=0]`
-- $15,000-$20,000 `[ps=0]`
-- >$100,000 off deals formerly $500,000+ `[ps=0]`

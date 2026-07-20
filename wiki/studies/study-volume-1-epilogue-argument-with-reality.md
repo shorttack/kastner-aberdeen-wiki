@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.78
-prescience_obs_count: 32
+prescience_mean: 2.56
+prescience_obs_count: 41
 ---
 
 # Epilogue: The Argument with Reality
@@ -40,6 +40,7 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 
 ## Top observations
 
+- Genuine technical breakthrough followed by organizational resistance, economic friction, and human misalignment making adoption slower, messier, more expensive than engineers predicted. `[ps=5]`
 - Cloud, SaaS, and AI are genuine transitions that will encounter same organizational inertia, misaligned incentives, gap between architecture and enterprise willingness to reorganize. `[ps=5]`
 - Constraint is whether human organization can decide what to do, govern how to do it, and absorb consequences at scale—not whether machine can perform the task. `[ps=5]`
 - Open standards were obvious to many analysts by 1985, yet proprietary minicomputer to Unix transition took longer due to commodity hardware margin compression. `[ps=5]`
@@ -56,12 +57,11 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 - Predicted data analytics would become a strategic capability—correct, but later than forecast; organizational resistance to cross-functional data integration deeper than models captured. `[ps=4]`
 - Correctly forecast technology transitions; largely misforecast human ones. Organizational resistance to data integration was deeper and more durable than frameworks captured. `[ps=4]`
 - Correctly understood published research was a marketing asset, not just a product—anticipated content marketing by fifteen years. `[ps=4]`
+- Technical credibility opened doors that market analysis could not. `[ps=4]`
 - Venture-backed Aberdeen was a different firm from partnership-era Aberdeen—more capable in some dimensions, less distinctive in most that had mattered. `[ps=4]`
 - By leaving Aberdeen in 2008, inversion nearly complete: compute abundant; scarce resource was judgment—understanding what technology does in the hands of a real organization. `[ps=4]`
 - AI inference on commodity hardware; foundation models available to any developer with a credit card. Constraint is not whether machine can do the thing but whether organization can govern it. `[ps=4]`
 - To live inside the machine for fifty years is to learn that technology is only one part of the system. The rest is economics, institutions, incentives, and human nature. `[ps=4]`
+- Every microsecond saved, every instruction eliminated, every core dump decoded was an act of economic conservation in 1969. `[ps=4]`
 - Half-million Federal Reserve employees who touched paper nightly replaced by electronic clearing settling in seconds. `[ps=3]`
-- CPU time at $360/hr vs. annual salary $7,200: machine was scarce, human labor was cheap. Every saved microsecond was economic conservation. `[ps=2]`
-- The Harte-Hanks acquisition created wealth and destroyed culture, more or less simultaneously. `[ps=0]`
-- $360 per hour in 1969. `[ps=0]`
-- $7,200 per year. `[ps=0]`
+- Fault-tolerant niche defended not by patents but by difficulty of making 'uptime' viscerally real to a buying committee and by the 'pull the board' demonstration. `[ps=3]`

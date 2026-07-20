@@ -14,7 +14,7 @@ years_active: "1921-present"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Land O'Lakes, Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- negative `[ps=0]` — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]
 - May 1993 seminar attendee `[ps=0]` — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]
-- negative — [[study-aberdeen-managing-is-amidst-it-chaos-lan-05ea75]]

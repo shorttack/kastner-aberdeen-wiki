@@ -12,9 +12,9 @@ era: "2002-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel D1D Fab
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Day 1 12:00-12:50 PM: Sign in / Lunch / D1D Fab Window Tour. — [[study-peter-kastner-10-bde195]]
+- Day 1 12:00-12:50 PM: Sign in / Lunch / D1D Fab Window Tour. `[ps=0]` — [[study-peter-kastner-10-bde195]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Sony/Philips JV"
 years_active: "1990-2003"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # InterTrust Technologies Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- One of few vendors providing comprehensive digital rights management solutions; ~9 years in business — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
-- Acquired by Sony/Philips joint venture for $453M in 2002 — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- One of few vendors providing comprehensive digital rights management solutions; ~9 years in business `[ps=3]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
+- Acquired by Sony/Philips joint venture for $453M in 2002 `[ps=0]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]

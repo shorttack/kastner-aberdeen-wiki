@@ -13,8 +13,8 @@ successor: "Rackable Systems acquired SGI assets from bankruptcy for $42.5M in 2
 years_active: "1982-2009"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 1.6
-prescience_obs_count: 5
+prescience_mean: 1.14
+prescience_obs_count: 7
 ---
 
 # Silicon Graphics Computer Systems (SGI)
@@ -29,5 +29,5 @@ prescience_obs_count: 5
 - SGI is now a serious player in high-end commercial OLTP markets `[ps=1]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
 - 28 64-bit 195-MHz MIPS R10000 CPUs `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
 - 13 gigabytes main memory `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
-- 2.4237 terabytes (576 4.2-GB SCSI disk adapters) — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
-- 21500 Silicon Graphics workstations — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
+- 2.4237 terabytes (576 4.2-GB SCSI disk adapters) `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
+- 21500 Silicon Graphics workstations `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]

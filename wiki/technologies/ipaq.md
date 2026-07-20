@@ -12,9 +12,9 @@ era: "2000-2007"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 3
-prescience_max: 3.0
-prescience_mean: 1.5
-prescience_obs_count: 2
+prescience_max: 4.0
+prescience_mean: 2.25
+prescience_obs_count: 4
 ---
 
 # Compaq iPaq Pocket PC
@@ -24,7 +24,7 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- iPaq is major player in fastest-growing PDA segment `[ps=4]` — [[study-dct-hp-compaq-pcs-insight-2001-09]]
 - $550 iPaq PDA costs less to make than a $550 low-end PC — more profitable sale `[ps=3]` — [[study-dct-hp-compaq-pcs-insight-2001-09]]
+- iPaq (from Compaq) identified as HP mobile device strength in enterprise mobility `[ps=2]` — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]
 - Leading Pocket PC hardware vendor `[ps=0]` — [[study-2001-pdas-in-the-enterprise-analyzing-supplier-viabilit-b2c1d0]]
-- iPaq (from Compaq) identified as HP mobile device strength in enterprise mobility — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]
-- iPaq is major player in fastest-growing PDA segment — [[study-dct-hp-compaq-pcs-insight-2001-09]]

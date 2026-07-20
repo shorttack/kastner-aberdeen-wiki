@@ -16,12 +16,12 @@ source_file: "Computer-is-down-adds-Stratus-7.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.86
-prescience_obs_count: 7
+prescience_mean: 1.3
+prescience_obs_count: 10
 ---
 
 # Stratus 'The computer is down' ad reprints (Continuous Processing campaign, c.1984-1985)
@@ -45,8 +45,8 @@ _Published 1985, author **Stratus Computer marketing (Kastner-era; Kastner named
 - 'Designed not to fail; not once every two weeks, or once every 200 weeks, or once every 2,000 weeks' `[ps=3]`
 - Stratus claim: hardware-based fault tolerance from chip-level redundancy adds 'a mere fraction to our cost, and absolutely nothing to your purchase price' `[ps=1]`
 - $446,350 — comparably configured (memory, disk, comm lines) plus fault tolerance INCLUDED `[ps=0]`
+- $707,897 — same comparable config; $/TPS $7,079 (highest in comparison) `[ps=0]`
 - $437,754 — same comparable config; $/TPS $6,840 `[ps=0]`
+- $656,889 — same comparable config; $/TPS $5,999 `[ps=0]`
 - $3,571 per transaction-per-second — best in 4-vendor comparison; less than half of IBM/HP `[ps=0]`
-- $707,897 — same comparable config; $/TPS $7,079 (highest in comparison)
-- $656,889 — same comparable config; $/TPS $5,999
-- Ad copy reads: 'For information contact your local Stratus sales office, or call Peter Kastner in Massachusetts at (617) 460-2192 or toll-free at 1-800-752-4826'
+- Ad copy reads: 'For information contact your local Stratus sales office, or call Peter Kastner in Massachusetts at (617) 460-2192 or toll-free at 1-800-752-4826' `[ps=0]`

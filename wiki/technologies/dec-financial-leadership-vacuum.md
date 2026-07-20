@@ -12,9 +12,9 @@ era: "1994"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # DEC financial-leadership vacuum 1994
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Steul 'had stepped into a job that nobody in the company wanted' — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]
+- Steul 'had stepped into a job that nobody in the company wanted' `[ps=0]` — [[study-nyt-dec-steul-loses-another-top-official-8f8883]]

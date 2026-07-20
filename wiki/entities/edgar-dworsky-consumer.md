@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Edgar Dworsky
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- The shadier ones are actually making it increasingly harder for shoppers to redeem their rebate offers, says Edgar Dworsky... A common ploy? Ever shortening mail-in deadlines. Sometimes you'll have just 14 days from time of purchase. `[ps=3]` — [[study-great-rebate-debate-smartmoney-grant-80650c]]
 - Be sure to keep a copy of all the paperwork. That way, should your original get lost or rejected, you can most likely re-submit `[ps=0]` — [[study-great-rebate-debate-smartmoney-grant-80650c]]
-- The shadier ones are actually making it increasingly harder for shoppers to redeem their rebate offers, says Edgar Dworsky... A common ploy? Ever shortening mail-in deadlines. Sometimes you'll have just 14 days from time of purchase. — [[study-great-rebate-debate-smartmoney-grant-80650c]]

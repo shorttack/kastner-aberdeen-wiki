@@ -16,12 +16,12 @@ source_file: "How-PSA-Was-Codified.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.2
-prescience_obs_count: 20
+prescience_mean: 1.84
+prescience_obs_count: 25
 ---
 
 # How PSA Was Codified: The Evolution of Professional Services Automation
@@ -40,11 +40,16 @@ _Published 2025, author **Ryan Kelly**, type **category-creation-record**._
 
 ## Top observations
 
+- March 1999: Dave Hofferberth publishes first PSA whitepaper at Aberdeen Group, naming and codifying PSA as a software category `[ps=5]`
+- Microsoft ships Professional Services Automation product in 2002 `[ps=5]`
 - PSOs tracked time in spreadsheets, managed projects manually, struggled with resource utilization, relied on disconnected financial systems `[ps=5]`
 - PSA includes systemization of business processes and management of a service organization's people and intellectual assets; captures planning, knowledge management, resource allocation, communication uniquely found in service organizations `[ps=4]`
 - Professional Services Automation: Increasing Service Organizations' Profitability and Productivity `[ps=4]`
 - By 2003, Hofferberth's PSA advocacy ensured it remained the global standard despite Gartner SPO and PeopleSoft ESA campaigns `[ps=4]`
+- Gartner 2025 PSA definition: PSA is the integration of planning, resource management, project management and project accounting for service organizations `[ps=4]`
+- 6.1% increase in project margins (from 32.4% to 38.5%) `[ps=4]`
 - Wang & Swanson (2007): category creation takes collective effort from vendors, analysts, and early adopters; no single actor can claim full ownership `[ps=4]`
+- Next evolution of PSA: predictive insights, AI-driven service automation, real-time decision-making `[ps=4]`
 - Dave Hofferberth recognized as 'Father of PSA' by industry leaders for his research and education that transformed the industry `[ps=3]`
 - Niku releases first version of PSA product; founder Farzad Dibachi approaches Aberdeen Group to write defining whitepaper `[ps=0]`
 - Project management, resource planning, time tracking, billing, financial forecasting `[ps=0]`
@@ -60,8 +65,3 @@ _Published 2025, author **Ryan Kelly**, type **category-creation-record**._
 - 5.1 day reduction in Days Sales Outstanding (from 44.6 to 39.5) `[ps=0]`
 - $8.96 million (+12.4%) increase in professional services revenue per firm on average `[ps=0]`
 - For four years post-1999 whitepaper, Hofferberth traveled to Europe every month, meeting vendors, analysts, and PS leaders to educate and shape PSA adoption `[ps=0]`
-- March 1999: Dave Hofferberth publishes first PSA whitepaper at Aberdeen Group, naming and codifying PSA as a software category
-- Microsoft ships Professional Services Automation product in 2002
-- Gartner 2025 PSA definition: PSA is the integration of planning, resource management, project management and project accounting for service organizations
-- 6.1% increase in project margins (from 32.4% to 38.5%)
-- Next evolution of PSA: predictive insights, AI-driven service automation, real-time decision-making

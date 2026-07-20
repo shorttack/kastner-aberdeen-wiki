@@ -16,7 +16,7 @@ source_file: "transcript SARS NBC Nightly News segment (4_3_2003).md"
 license: "CC-BY-NC-SA-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "not-applicable"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: null

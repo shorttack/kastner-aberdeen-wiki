@@ -21,7 +21,7 @@ prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 4
 ---
 
 # Aberdeen's Competitive Landscape — CP 100 Builds
@@ -41,6 +41,6 @@ _Published 2000, author **Peter S. Kastner / Aberdeen Group**, type **employer-r
 ## Top observations
 
 - 7-slide build sequence of Aberdeen's Competitive Landscape diagram `[ps=0]`
+- Graphical build slides; CP 100 Builds format; 7 progressive reveal steps of competitive landscape `[ps=0]`
+- Aberdeen's Competitive Landscape visualization; implies positioning vs Gartner, IDC, Forrester, Meta, Giga and niche analysts `[ps=0]`
 - 'CP 100 Builds' naming convention; 100-step build animation format; used for competitive positioning diagrams in presentations `[ps=0]`
-- Graphical build slides; CP 100 Builds format; 7 progressive reveal steps of competitive landscape
-- Aberdeen's Competitive Landscape visualization; implies positioning vs Gartner, IDC, Forrester, Meta, Giga and niche analysts

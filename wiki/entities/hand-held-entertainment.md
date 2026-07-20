@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "ZVUE Corp (renamed); company ceased operations circa 2009–2010 after financial losses"
 years_active: "2003-present"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 3
+prescience_max: 2.0
+prescience_mean: 0.4
+prescience_obs_count: 5
 ---
 
 # Hand Held Entertainment (ZVUE)
@@ -24,8 +24,8 @@ prescience_obs_count: 3
 
 ## Top observations
 
+- Licensed audio and video programming on preprogrammed SD cards; proprietary compression `[ps=2]` — [[study-dct-oct.-4-hot-topic-b61c0d]]
 - $99 including earphones and one SD card with one video title `[ps=0]` — [[study-dct-oct.-4-hot-topic-b61c0d]]
 - 256MB SD card holds 4 hours of video (two full-length movies) in proprietary MPEG-4 compression `[ps=0]` — [[study-dct-oct.-4-hot-topic-b61c0d]]
 - 8+ hours on four AA batteries `[ps=0]` — [[study-dct-oct.-4-hot-topic-b61c0d]]
-- Software application to convert MPEG-4 files to SD-compatible format planned for release — [[study-dct-oct.-4-hot-topic-b61c0d]]
-- Licensed audio and video programming on preprogrammed SD cards; proprietary compression — [[study-dct-oct.-4-hot-topic-b61c0d]]
+- Software application to convert MPEG-4 files to SD-compatible format planned for release `[ps=0]` — [[study-dct-oct.-4-hot-topic-b61c0d]]

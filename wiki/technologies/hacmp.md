@@ -13,8 +13,8 @@ lifecycle_at_study: "active"
 lifecycle_current: "HACMP continues as IBM PowerHA SystemMirror"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # IBM HACMP (High Availability Cluster Multi-Processing)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - HACMP clustering now thrives with AIX 4; significant improvement over AIX 3 compatibility `[ps=4]` — [[study-aberdeen-1996-ibm-aix-4-not-your-fathers-325]]
-- CLAM HACMP supports 8-node clusters; planned 16 shortly, 32 by end of 1997 — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
+- CLAM HACMP supports 8-node clusters; planned 16 shortly, 32 by end of 1997 `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]

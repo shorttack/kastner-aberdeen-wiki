@@ -16,12 +16,12 @@ source_file: "CA-proxy-quote-2001-9-4.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 8
+prescience_mean: 2.27
+prescience_obs_count: 11
 ---
 
 # CA Team Victorious — 'New' CA emerges from proxy battle with outside monitors and more
@@ -40,7 +40,9 @@ _Published 2001, author **Stan Gibson (eWeek)**, type **trade-press-article**._
 
 ## Top observations
 
+- Sanjay Kumar pleaded guilty 2006 to obstruction of justice and securities fraud charges relating to CA accounting practices; sentenced to 12 years prison (2006) `[ps=5]`
 - CA Technologies (renamed 2010) acquired by Broadcom 2018 for $18.9B — ending CA's independent existence after the 2001 governance reform package failed to prevent further upheaval `[ps=5]`
+- CA stock underperforming; Wang/Kumar enriched themselves; CA employees alienated; CA customers disaffected `[ps=4]`
 - New plan lets customers sign long-term contracts but add or subtract specific packages — subscription-flexibility ahead of its time `[ps=4]`
 - 'CA's management has changed because the imbroglio gave institutional investors the chance to ask CA, what is going on here?' `[ps=3]`
 - 'We want to be good governance people. We should have governance folks come to the board meeting.' `[ps=2]`
@@ -48,6 +50,4 @@ _Published 2001, author **Stan Gibson (eWeek)**, type **trade-press-article**._
 - 75% of votes cast (preliminary) supported Wang, Kumar, and board nominees `[ps=0]`
 - Initially proposed ousting entire board of 10 directors including Wang and Kumar in favor of new slate `[ps=0]`
 - Hired outside consultants to monitor governance and employee-relations practices; seeking additional outside board members `[ps=0]`
-- CA stock underperforming; Wang/Kumar enriched themselves; CA employees alienated; CA customers disaffected
-- Kastner's eWeek quote part of Aberdeen's 2001 enterprise-software analyst coverage; aligns with broader Aberdeen governance/practices research portfolio
-- Sanjay Kumar pleaded guilty 2006 to obstruction of justice and securities fraud charges relating to CA accounting practices; sentenced to 12 years prison (2006)
+- Kastner's eWeek quote part of Aberdeen's 2001 enterprise-software analyst coverage; aligns with broader Aberdeen governance/practices research portfolio `[ps=0]`

@@ -16,12 +16,12 @@ source_file: "IEEE-DB-Stratus-32-PSK.md"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.62
-prescience_obs_count: 24
+prescience_mean: 2.64
+prescience_obs_count: 28
 ---
 
 # A Fault-Tolerant Transaction Processing Environment (Stratus/32, IEEE Database Engineering, June 1983)
@@ -49,19 +49,19 @@ _Published 1983, author **Peter S. Kastner — Stratus Computer, Inc.**, type **
 - Fully redundant / partially redundant / non-redundant; configurable per module; reconfiguration on-line without affecting running programs `[ps=4]`
 - All VOS service requests have a uniform interface independent of which module performs the work (e.g., file open is identical regardless of disk location) `[ps=4]`
 - On hard failure, maintenance software process automatically calls the Stratus national service center and transmits a data packet with site and failure info; 'Stratus service people know within a minute of customer failures' `[ps=4]`
+- A failed board can be replaced in a running system by a non-technical person without special tools and without affecting any user's program; VOS dynamically reconfigures `[ps=4]`
 - Multi-tasking, multiple transaction servers, large program address space; terminal-handling requesters and application servers can reside anywhere within a system or network of systems `[ps=4]`
 - START / COMMIT / ABORT primitives in TPF; ABORT restores all files to pre-START state regardless of whether data is on a single processing module or distributed `[ps=4]`
 - System administrator can permit, permit-after-network-password, or deny incoming requests on each system node; access-control lists enforced across the network `[ps=4]`
+- Every file has an access-control list of (user-id, rights ∈ {execute, read, read/write}); per-user or per-group; no embedded passwords in programs; enforced regardless of access program/command `[ps=4]`
 - VOS runs in every module; all modules equal; transparent local networking makes the federation appear as a single virtual computer to programs, programmers and users `[ps=3]`
 - Dual StrataLINKs run as parallel separate links; on failure of one, data are retransmitted over the survivor without affecting users `[ps=3]`
+- 'The synergy of hardware-based fault tolerance and high data integrity system software creates an efficient and friendly transaction processing environment.' `[ps=3]`
 - Single CPU board = 4 Motorola 68000s organized as 2 software-visible CPUs; redundant virtual/physical address-translation maps; redundant partner CPU board for board-level fault tolerance `[ps=2]`
 - 'Multiple modules are used only to achieve greater system capacity; they never serve as backup for other modules.' `[ps=1]`
 - Up to 32 processing modules per Stratus system, connected via StrataLINK high-speed coax `[ps=0]`
 - Memory + 2 Motorola 68000 CPUs (software-visible) + ≥1 disk + peripheral controllers; CPU board contains 4 actual 68000 dies (2 self-checking pairs) `[ps=0]`
 - Single 125 nsec cycle-time high-speed bus implemented as two parallel buses with independent data and control-logic paths `[ps=0]`
+- Each board runs two parallel sets of logic; on output, results are compared; mismatch lights red LED, raises bus interrupt, takes board off-line; redundant partner continues; no other component is aware `[ps=0]`
 - Approximately $100 per Motorola 68000 in 1983 `[ps=0]`
 - Redundant config: N MB program-visible memory implemented as 2N MB physical, split across 2 controllers; 64K RAMs on 2MB boards; 375 nsec read cycle; 4-way interleaved; redundancy can be turned on/off dynamically `[ps=0]`
-- Application programs may be written in COBOL, PL/I, BASIC, FORTRAN or Pascal; all language features usable, including I/O statements `[ps=0]`
-- Phase I writes all updated records to disk and sets 'Phase I Commit' flag in file header; original disk image preserved; all involved nodes must report Phase I success before VOS authorizes Phase II commit; restart-salvage detects Phase I Commit flag `[ps=0]`
-- 'Stratus Computer uses hardware to detect failures before incorrect data can corrupt processing and databases. Redundant hardware allows the Stratus/32 to continue processing without performance loss in spite of a component failure.' `[ps=0]`
-- Each board runs two parallel sets of logic; on output, results are compared; mismatch lights red LED, raises bus interrupt, takes board off-line; redundant partner continues; no other component is aware

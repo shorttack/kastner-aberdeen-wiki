@@ -1,6 +1,7 @@
 ---
 title: Quote 790 — The Christian Science Monitor (2002-10-21)
 type: quotation
+page_type: quotation
 slug: quote-790
 row_id: 790
 author: "Peter S. Kastner"

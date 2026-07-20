@@ -16,12 +16,12 @@ source_file: "NCR-Norway-OLTP-RDBMS-1992-7.docx + NCR-Norway-1991-5.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.17
-prescience_obs_count: 12
+prescience_mean: 0.94
+prescience_obs_count: 18
 ---
 
 # NCR Norge AS Open OLTP/RDBMS Mini-Seminar, Oslo, 11 September 1992 — Kastner / Aamodt / Hansen
@@ -43,18 +43,18 @@ _Published 1992, author **Peter S. Kastner (lead lecturer, Aberdeen Group); Sven
 - computer mechanism that changes the state of the enterprise in real-time while using industry standards which support interoperability across a mixture of computing systems `[ps=4]`
 - Open OLTP technically mature enough for serious enterprise consideration `[ps=4]`
 - NCR positioned in high-growth area of open integrated systems based on industry standards `[ps=4]`
+- UNIX V.4 multiprocessor; up to 8 i486-50MHz; ~320 MIPS; 1000+ workstations `[ps=3]`
 - NCR-Independence Technologies TopEND port a milestone `[ps=2]`
 - 11 September 1992 Oslo Norway `[ps=0]`
 - Vice President, Commercial Systems Practice, Aberdeen Group `[ps=0]`
+- DEC / Prime / Stratus marketing+sales head; Arthur D. Little consultant `[ps=0]`
 - Transaction Processing into the 1990s; The Hardware Suppliers (both 1990) `[ps=0]`
+- Evaluating Options in Microprocessor Multiprocessing (1991) `[ps=0]`
+- Apple / ASK Ingres / DEC / HP / NCR / Stratus `[ps=0]`
+- Managing Director, Unix International European division `[ps=0]`
 - Technical Director, Oracle Norge AS `[ps=0]`
 - Administrative Director, NCR Norge AS `[ps=0]`
 - supports Informix/Oracle/Sybase incl. parallel versions `[ps=0]`
 - DnB (Oslo & Bergen) / Fokus Bank / Fellesdata / Sandefjordbanken / Sparebankenes brukerforening `[ps=0]`
+- Statskonsult / Luftforsvarets Forsyningskommando Kjeller `[ps=0]`
 - IDC Norge AS attended Aberdeen-anchored NCR seminar `[ps=0]`
-- DEC / Prime / Stratus marketing+sales head; Arthur D. Little consultant
-- Evaluating Options in Microprocessor Multiprocessing (1991)
-- Apple / ASK Ingres / DEC / HP / NCR / Stratus
-- Managing Director, Unix International European division
-- UNIX V.4 multiprocessor; up to 8 i486-50MHz; ~320 MIPS; 1000+ workstations
-- Statskonsult / Luftforsvarets Forsyningskommando Kjeller

@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.67
-prescience_obs_count: 24
+prescience_mean: 2.84
+prescience_obs_count: 32
 ---
 
 # The Dash to Digital Cash: Enabling Internet Commerce Microtransactions
@@ -44,24 +44,24 @@ _Published 1999, author **Aberdeen Group (revised from Worldscape Strategies)**,
 - Mobile carrier billing for digital content (app stores/ring tones) succeeded; ISP billing did not materialize broadly `[ps=5]`
 - U.S. banks did not spearhead digital cash; PayPal/Stripe/Square succeeded outside traditional banking `[ps=5]`
 - Acquired by Amdocs for $275M in 2006; over 6x annual revenues `[ps=5]`
+- Acquired by FIS Global for $43B in 2019; one of largest payments industry acquisitions `[ps=5]`
+- Spending on the Internet in the U.S. totals in the billions of dollars for 1999 `[ps=5]`
+- Not well suited for numerous small purchases ($0.05-$5); high processing costs disincentivize merchants `[ps=4]`
 - Failed miserably in U.S.; no viable business case for issuers `[ps=4]`
 - Adopted in France/Germany/UK/South Africa/South America due to high credit card fraud and expensive telecom `[ps=4]`
 - Banks showed typically conservative approach; lack of viable business models prevented bank buy-in `[ps=4]`
+- Closed August 31 2001; part of wave of digital currency closures (Flooz/Beenz/CyberGold) `[ps=4]`
 - Greater chance of success for credit card companies with large global installed bases `[ps=4]`
 - Visa (NYSE: V) remains dominant; Visa Direct enables real-time payments globally; market cap ~$500B in 2024 `[ps=4]`
 - MasterCard (NYSE: MA) remains dominant global payments network; market cap ~$400B in 2024 `[ps=4]`
 - Hardware-based chip creates market for trusted PCs; ready-made network for security vendors `[ps=4]`
 - Heavy-wallet approaches not working; lighter versions emerging to maximize user friendliness `[ps=4]`
+- Apple Pay/Google Pay/PayPal became dominant; lighter/mobile wallet approach validated `[ps=4]`
 - Underfunded digital cash providers will find scaling difficult `[ps=4]`
+- One of few vendors providing comprehensive digital rights management solutions; ~9 years in business `[ps=3]`
 - ISPs and telcos expected to be particularly proactive; will deploy digital cash into billing infrastructure within next two years `[ps=2]`
 - Will challenge traditional means of exchanging value but challenge will take time to unfold; 2-3 year momentum build `[ps=2]`
 - Pay-per-use and rent-to-own models for digital content enabled by trusted hardware `[ps=2]`
+- Digital content must be compelling and tailored to wide geographic online consumer base before digital cash succeeds `[ps=2]`
 - ISPs and telcos have billing infrastructure that eliminates credit card processor friction `[ps=2]`
 - Credit cards used for 90% of online purchases `[ps=0]`
-- $5 to $16 depending on microchip memory size `[ps=0]`
-- 1 million users claimed by CyberGold `[ps=0]`
-- Holder of DigiCash patents after DigiCash bankruptcy 1998; digital cash software and service provider `[ps=0]`
-- Went bankrupt; acquired by InfoSpace (now Blucora) in 2002 `[ps=0]`
-- Digital content and commerce enablement for content providers `[ps=0]`
-- International payment processing across multiple currencies and methods `[ps=0]`
-- Not well suited for numerous small purchases ($0.05-$5); high processing costs disincentivize merchants

@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Merged with Stellar to form Stardent 1989; dissolved 1991"
 years_active: "1985-1989"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Ardent Computer Corp.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Founded 1985 as single-user supercomputer/superworkstation pioneer; challenging SGI leadership with Stellar — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- Founded 1985 as single-user supercomputer/superworkstation pioneer; challenging SGI leadership with Stellar `[ps=2]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]

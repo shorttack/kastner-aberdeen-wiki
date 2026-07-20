@@ -12,9 +12,9 @@ status: "acquired"
 successor: "JPMorgan Chase (2004)"
 years_active: "1868-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Bank One
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Handles credit card transaction processing: real-time PPV, two-step purchases, mail-order, admin functions (shipping auth, revenue reporting) — [[study-omnibox97-53bcfe]]
+- Handles credit card transaction processing: real-time PPV, two-step purchases, mail-order, admin functions (shipping auth, revenue reporting) `[ps=3]` — [[study-omnibox97-53bcfe]]

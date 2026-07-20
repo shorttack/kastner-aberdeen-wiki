@@ -16,12 +16,12 @@ source_file: "2000 Oracle The e-Business Supply Chain_ Meeting Cu...r Requiremen
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 4.0
-prescience_mean: 3.89
-prescience_obs_count: 9
+prescience_max: 5.0
+prescience_mean: 4.08
+prescience_obs_count: 13
 ---
 
 # The e-Business Supply Chain: Meeting Customer Requirements in the Internet Economy
@@ -40,16 +40,16 @@ _Published 2000, author **Tim A. Minahan**, type **white-paper**._
 
 ## Top observations
 
+- Oracle E-Business Suite 12.2.15 released 2025; support extended through 2035; still widely deployed enterprise platform `[ps=5]`
+- Ariba acquired by SAP for $4.3 billion in 2012; became SAP Ariba — major supply chain platform `[ps=5]`
 - Must be built on Internet computing architecture `[ps=4]`
+- Must enable universal self-service access `[ps=4]`
 - Must support demand-driven business procedures `[ps=4]`
 - Must provide a common data model for the entire supply chain `[ps=4]`
 - Must enable extensive reporting, analysis, and planning `[ps=4]`
 - Must support integration with vital business systems `[ps=4]`
 - Must provide an open platform for communication, transactions, and collaboration across the entire supply chain `[ps=4]`
+- Must deliver modular or component-based solutions `[ps=4]`
 - Well positioned to deliver comprehensive, fully integrated Internet-based e-Business supply-chain solution `[ps=4]`
 - e-Business winners will leverage Internet to build dynamic supply nets — assembling and adjusting supply chains for rapid response to customer demand `[ps=4]`
 - Oracle positioned as comprehensive e-Business supply chain leader over next 5 years `[ps=3]`
-- Must enable universal self-service access
-- Must deliver modular or component-based solutions
-- Oracle E-Business Suite 12.2.15 released 2025; support extended through 2035; still widely deployed enterprise platform
-- Ariba acquired by SAP for $4.3 billion in 2012; became SAP Ariba — major supply chain platform

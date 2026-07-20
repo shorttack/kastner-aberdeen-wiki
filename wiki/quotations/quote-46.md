@@ -1,6 +1,7 @@
 ---
 title: Quote 46 — Computerworld (1991-09-30)
 type: quotation
+page_type: quotation
 slug: quote-46
 row_id: 46
 author: "Peter S. Kastner"

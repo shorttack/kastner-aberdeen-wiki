@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # IBM Shoebox (speech recognition)
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- 3 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 60 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
-- 3 — [[study-2026-kastner-enterprise-ai-arc]]

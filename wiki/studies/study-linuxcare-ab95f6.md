@@ -16,12 +16,12 @@ source_file: "Linuxcare.docx"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.43
-prescience_obs_count: 14
+prescience_mean: 1.7
+prescience_obs_count: 20
 ---
 
 # Linuxcare, Inc. -- Enterprise Service and Support for All Things Linux
@@ -40,11 +40,16 @@ _Published 1999, author **Peter S. Kastner / Aberdeen Group**, type **white-pape
 
 ## Top observations
 
+- IT departments increasingly using Linux for email, file/print, web servers; emerging for decision support, caching, storage, DNS, web commerce `[ps=5]`
 - Bronze, Silver, Gold, Platinum tiers varying in price, response time, contacts `[ps=5]`
 - Free online interactive support database; searchable answers, FAQs, patches, migration tips `[ps=4]`
 - Within next year IT managers will have Linux alternative in every major application area `[ps=4]`
 - Third-party hardware/software certification; Dell and Compaq DeskPro already certified `[ps=3]`
+- All services in English at time of profile; Asian support facilities targeted for completion (date TBD) `[ps=3]`
 - Founded 1998 as Linux consulting firm; evolved to full enterprise Linux specialist `[ps=2]`
+- Aberdeen views Linuxcare as having proven viability as source of Linux expertise `[ps=2]`
+- Dell contracted Linuxcare for back-end Linux support on OptiPlex, Dimension desktop lines, Precision workstations, PowerEdge Servers `[ps=2]`
+- Supports all Linux hardware platforms: Alpha, Intel, MIPS, PowerPC, Sparc, StrongArm `[ps=2]`
 - Credible source of Linux expertise; should be considered by IT executives deploying Linux as alternative enterprise OS `[ps=2]`
 - Kleiner Perkins Caulfield and Byers chose Linuxcare as first Linux-related investment `[ps=0]`
 - unknown `[ps=0]`
@@ -54,9 +59,4 @@ _Published 1999, author **Peter S. Kastner / Aberdeen Group**, type **white-pape
 - Sarrat (CEO, ex-Cylink/IBM), Pollace (CFO, 30+ yr experience), Nassaur (CIO, ex-E*Trade), Lambs (VP Services, ex-DEC 18yr), Phillips (VP Sales, 25yr) `[ps=0]`
 - unknown `[ps=0]`
 - TurboLinux tapped Linuxcare to provide services/support to North American customers `[ps=0]`
-- Aberdeen views Linuxcare as having proven viability as source of Linux expertise
-- IT departments increasingly using Linux for email, file/print, web servers; emerging for decision support, caching, storage, DNS, web commerce
-- Dell contracted Linuxcare for back-end Linux support on OptiPlex, Dimension desktop lines, Precision workstations, PowerEdge Servers
-- Supports all Linux hardware platforms: Alpha, Intel, MIPS, PowerPC, Sparc, StrongArm
-- All services in English at time of profile; Asian support facilities targeted for completion (date TBD)
-- Andrew Tridgell (original Samba author) is a Linuxcare guru
+- Andrew Tridgell (original Samba author) is a Linuxcare guru `[ps=0]`

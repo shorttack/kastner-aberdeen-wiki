@@ -13,8 +13,8 @@ successor: ""
 years_active: "1968-present"
 occurrence_count: 17
 prescience_max: 5.0
-prescience_mean: 2.18
-prescience_obs_count: 61
+prescience_mean: 2.31
+prescience_obs_count: 80
 ---
 
 # Intel Corporation
@@ -30,6 +30,8 @@ prescience_obs_count: 61
 ## Top observations
 
 - 233 MHz Pentium II with 32MB 'becoming just adequate' `[ps=5]` — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
+- IBM previously sold a server with first-gen Itanium ('Merced') which arrived late and performed poorly; only positioned for developer rebuilds, not real-world use `[ps=5]` — [[study-cnet-shankland-ibm-itanium-x450-2003-c91608]]
+- Core i3/i5/i7 for business and consumer desktops and notebooks `[ps=5]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
 - Xeon for workstations, servers, storage, communications `[ps=5]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
 - Xeon Phi = HPC add-in card with dozens of IA cores, runs Linux, competes with GPU-based AMD/nVidia `[ps=5]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
 - Intel Xeon Phi discontinued 2020 `[ps=5]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
@@ -40,12 +42,10 @@ prescience_obs_count: 61
 - Intel acquired Wind River Systems 2009 `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]
 - Intel acquired McAfee 2010 `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]
 - Intel exited smartphone modem business 2019; sold to Apple $1B `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]
+- 'The company missed the coming iPhone and lost out on a lot of market potential' `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]
 - Intel abandoned tick-tock model in 2016; 10nm delayed multi-year `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]
 - Avoid Celeron-class or 233 MHz Pentium II inventory close-outs `[ps=4]` — [[study-aberdeen-impact-desktop-pc-sirens-1998-14b40c]]
 - Itanium's debut hampered by inability to run older Pentium/Xeon software effectively; Intel addressing with new emulation software `[ps=4]` — [[study-cnet-shankland-ibm-itanium-x450-2003-c91608]]
+- By relying on standard PC technology, Intel is able to price TeamStation below proprietary room systems `[ps=4]` — [[study-informationweek-videoconferencing-boost--b62ff4]]
+- 'Silicon gene-splicing' — application-specific IA variants `[ps=4]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
 - 'Everybody knows the PC replacement cycle has slowed to a crawl' `[ps=4]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- Haswell adds hardware transactional memory — fine-grain parallelism `[ps=4]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- Haswell FP instructions: up to 60% faster scientific/technical computing `[ps=4]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- 'Company missed the coming iPhone and lost out on a lot of market potential. That can't happen again' `[ps=4]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- Marketing shift from NA/Europe to BRIC (Brazil, Russia, India, China) `[ps=4]` — [[study-otellini-intel-techpinions-2013-917213]]
-- Desktop drove industry for 25 years until notebooks and [phones] `[ps=4]` — [[study-otellini-preview-how-it-changed-2013-604cfb]]

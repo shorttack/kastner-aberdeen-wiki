@@ -12,9 +12,9 @@ era: "1989-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: 2.0
-prescience_mean: 0.43
-prescience_obs_count: 7
+prescience_max: 4.0
+prescience_mean: 1.22
+prescience_obs_count: 9
 ---
 
 # Tandem NonStop Himalaya
@@ -24,6 +24,8 @@ prescience_obs_count: 7
 
 ## Top observations
 
+- Logical/physical decoupling of processors from I/O; scales to thousands of processors and millions of device connections `[ps=4]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
+- HPE Integrity NonStop still active in 2026, still processing NYSE transactions and ATM networks; architecture validated over 30 years `[ps=4]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
 - Aberdeen sees Tandem as reinvigorated company with new message worthy of attention; recommends IS planners evaluate ServerNet `[ps=2]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
 - 70% of world's money ($2 trillion/day) processed on Tandem Himalaya `[ps=1]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
 - 66% of all ATM and credit card transactions `[ps=0]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
@@ -31,5 +33,3 @@ prescience_obs_count: 7
 - 50% of all public e-mail transactions `[ps=0]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
 - S70000 (MIPS R10000) doubles performance of predecessor K20000 while cutting costs in half `[ps=0]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
 - AOL using Himalaya as front-end for user login and billing before routing to HTML servers `[ps=0]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
-- Logical/physical decoupling of processors from I/O; scales to thousands of processors and millions of device connections — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
-- HPE Integrity NonStop still active in 2026, still processing NYSE transactions and ATM networks; architecture validated over 30 years — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]

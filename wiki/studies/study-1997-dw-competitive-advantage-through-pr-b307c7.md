@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.55
-prescience_obs_count: 20
+prescience_mean: 2.6
+prescience_obs_count: 30
 ---
 
 # Competitive Advantage Through Prism Metadata Scalability
@@ -42,26 +42,26 @@ _Published 1997, author **Aberdeen Group**, type **Profile**._
 
 - Prism stock crashed from $35 to $2; acquired by Ardent for $42M (fire sale) in Jan 1999 `[ps=5]`
 - More enterprises will demand systematic DW approach as warehouses scale in importance `[ps=5]`
+- Confirmed: DW became universal enterprise infrastructure; cloud DW (Snowflake Redshift BigQuery) emerged 2010s `[ps=5]`
 - Developers ought to leverage content and labor used to create one data mart in others `[ps=5]`
 - Scalability requires managing metadata changes not just database size growth `[ps=4]`
+- Business-driven demand: modify business rules alter data sources add technologies `[ps=4]`
 - Data mart proliferation could choke enterprises relying on non-scalable warehousing techniques `[ps=4]`
 - Robust metadata and tool-driven proficiency is the key to managing new architectures `[ps=4]`
 - Business users build their own web-based views of desired data independently of IS `[ps=4]`
 - Developers reuse particular mappings tables and user exits within mappings `[ps=4]`
+- Metadata management will become critical infrastructure for all enterprise DW `[ps=4]`
+- Confirmed: data catalogs (Collibra Alation) became multi-billion dollar market; metadata governance foundational `[ps=4]`
 - Short iterative steps to create and continuously fine-tune DW information architectures `[ps=4]`
+- Common GUI across all Prism applications; integrates design construction maintenance `[ps=3]`
 - Metadata facility for both business and technical users; CDIF exchange with CASE tools `[ps=3]`
 - CORBA superseded by web services; Prism absorbed before CORBA integration matured `[ps=3]`
+- Unix/NT data marts; Unix-based departmental marts/warehouses; full enterprise warehouses `[ps=3]`
 - Leading supplier to forward-thinking data warehouse users `[ps=2]`
+- HP Intelligent Warehouse exchanges metadata with Prism via CDIF standard `[ps=2]`
+- PLATINUM PR/MVS and R&O Rochade repositories exchange metadata via CDIF `[ps=2]`
 - Prism will integrate with CORBA to distribute and synchronize metadata `[ps=2]`
 - Prism positioned as competitive advantage toolset with strong customer base `[ps=2]`
 - Java and HTML views of metadata for browser users; $2500 for 5 concurrent seats `[ps=0]`
+- 400 customers for data migration technology and consulting services `[ps=0]`
 - 250 data warehouse implementation and consulting engagements inform Iterations methodology `[ps=0]`
-- DB2/MVS, DB2/400, Enscribe, IDMS, IMS, Informix, NonStop SQL, Sybase, Teradata, Oracle (Rdb), Digital RMS, VSAM `[ps=0]`
-- DB2 Parallel Edition, Informix, Microsoft SQL Server, NonStop SQL, Oracle (Rdb), Red Brick Warehouse, Sybase/SQL Server, Teradata `[ps=0]`
-- Logic Works ERwin exports metadata to Prism Warehouse Directory `[ps=0]`
-- $55M projected 1998 revenue with 290 employees `[ps=0]`
-- Business-driven demand: modify business rules alter data sources add technologies
-- Common GUI across all Prism applications; integrates design construction maintenance
-- 400 customers for data migration technology and consulting services
-- HP Intelligent Warehouse exchanges metadata with Prism via CDIF standard
-- PLATINUM PR/MVS and R&O Rochade repositories exchange metadata via CDIF

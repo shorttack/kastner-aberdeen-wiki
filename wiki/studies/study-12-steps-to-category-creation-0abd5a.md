@@ -19,9 +19,9 @@ relevance: "high"
 study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
-prescience_max: 4.0
-prescience_mean: 2.77
-prescience_obs_count: 13
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 15
 ---
 
 # Steps to Category Creation
@@ -40,9 +40,11 @@ _Published 2003, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
+- We cannot control a category; we will fail if we try to 'own' the IP as no one else will want to play; encourage influencers to create modify rename our ideas `[ps=5]`
 - Step 1: Define; Step 2: Differentiate; Step 3: Debunk alternative market evolution; Step 4: Define argument position and messages; Step 5: Deliver to market influencers; Step 6: Create awareness and reinforcement; Step 7: Evangelize with end-user influencers; Step 8: Measure it and report it; Step 9: Let influencers take over thought leadership; Step 10: Nurture `[ps=4]`
 - A category is a distinct market segment which is watched and measured independently of other segments by market influencers: Wall Street industry analysts press consultants `[ps=4]`
 - There must be a supportable argument to justify the 'cost' of creating the category; category must have clear definition and differentiation from other segments `[ps=4]`
+- Why won't existing categories evolve to fill the supposed role of the new category? (SCSI capacity increases and good enough ATA filling middle must be addressed) `[ps=4]`
 - If it's measured and reported as a separate category it will likely become a separate category `[ps=4]`
 - Influential end user customers; ecosystem partners; industry associations (SNIA); industry events/trade shows; Wall Street and industry analysts; press `[ps=4]`
 - Key component of awareness building is tracking and reporting on growth and emergence of new category: revenue units industry players `[ps=4]`
@@ -53,5 +55,3 @@ _Published 2003, author **Aberdeen Group**, type **market-study**._
 - Midrange computers; storage area networks; Customer Relationship Management; relational databases; application servers `[ps=0]`
 - Multiple slides contain placeholder text (Midline Definition: [Define here]; [Midline differentiation here]; [David: why won't SCSI fill the middle?]) `[ps=0]`
 - Disguise the source and let analysts buy in; Wall Street: Maxtor starts reporting midline units separately `[ps=-1]`
-- Why won't existing categories evolve to fill the supposed role of the new category? (SCSI capacity increases and good enough ATA filling middle must be addressed)
-- We cannot control a category; we will fail if we try to 'own' the IP as no one else will want to play; encourage influencers to create modify rename our ideas

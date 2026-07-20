@@ -16,12 +16,12 @@ source_file: "To-InfiniBand-and-beyond-cry-firms-Computerworld-2002-5.webarchive
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.14
-prescience_obs_count: 7
+prescience_mean: 2.75
+prescience_obs_count: 8
 ---
 
 # To InfiniBand and beyond, cry firms
@@ -47,4 +47,4 @@ _Published 2002, author **Carly Suppa**, type **news-article**._
 - 'In many instances, [InfiniBand] will replace TCP/IP as the high-speed, server-to-server interconnect technology.' — Kastner `[ps=2]`
 - Kerr: InfiniBand one of the most exciting technologies Dell has seen; absolutely critical in enabling Dell to deliver more scalable systems with standardized interfaces `[ps=2]`
 - ISPs, application service providers, and large web sites with multi-tiered architecture will be initial targets for InfiniBand's functionality `[ps=1]`
-- More than 150 companies worldwide
+- More than 150 companies worldwide `[ps=0]`

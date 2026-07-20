@@ -13,8 +13,8 @@ lifecycle_at_study: "active-crisis"
 lifecycle_current: "patched-in-revised-Pentium"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 1.75
-prescience_obs_count: 8
+prescience_mean: 1.67
+prescience_obs_count: 9
 ---
 
 # Pentium FDIV Bug
@@ -29,7 +29,7 @@ prescience_obs_count: 8
 - industry will get bloodied `[ps=2]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
 - once every 27,000 years `[ps=2]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
 - 1 in 100 million `[ps=2]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
+- once per 24 days `[ps=1]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
 - negative `[ps=0]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
 - seconds vs 15 minutes recalc daily `[ps=0]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
 - you can always contrive situations `[ps=0]` — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]
-- once per 24 days — [[study-usatoday-maney-pentium-fdiv-kastner-1994-13a035]]

@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.75
-prescience_obs_count: 4
+prescience_mean: 3.29
+prescience_obs_count: 7
 ---
 
 # Server Re-centralization / Consolidation
@@ -25,9 +25,9 @@ prescience_obs_count: 4
 ## Top observations
 
 - Virtualization (VMware) and cloud (AWS) realized re-centralization at massive scale `[ps=5]` — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]
+- Organizations have hundreds to thousands of small underutilized servers `[ps=4]` — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]
+- Bring applications onto fewer larger servers `[ps=4]` — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]
 - Bring databases onto fewer larger servers `[ps=4]` — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]
 - Consolidate services for operational control `[ps=4]` — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]
 - Highly reliable servers reduce downtime vs. distributed small servers `[ps=2]` — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]
-- Organizations have hundreds to thousands of small underutilized servers — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]
-- One of today's top IT initiatives — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]
-- Bring applications onto fewer larger servers — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]
+- One of today's top IT initiatives `[ps=0]` — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]

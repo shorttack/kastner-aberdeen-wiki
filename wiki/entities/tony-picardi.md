@@ -12,9 +12,9 @@ status: "active-then"
 successor: ""
 years_active: "1990s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Tony Picardi
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- compelling-advance-in-application-dev-deployment-integration — [[study-ca-jasmine-ii-brochure-kastner-endorseme-6588be]]
+- compelling-advance-in-application-dev-deployment-integration `[ps=2]` — [[study-ca-jasmine-ii-brochure-kastner-endorseme-6588be]]

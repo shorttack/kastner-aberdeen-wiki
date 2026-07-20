@@ -11,10 +11,10 @@ vendor: "Microsoft"
 era: "1991-present"
 lifecycle_at_study: "evolved"
 lifecycle_current: "legacy-supported"
-occurrence_count: 5
+occurrence_count: 6
 prescience_max: 5.0
-prescience_mean: 3.71
-prescience_obs_count: 7
+prescience_mean: 3.33
+prescience_obs_count: 9
 ---
 
 # Microsoft Visual Basic
@@ -32,9 +32,9 @@ prescience_obs_count: 7
 - PowerBuilder adopted by Sybase but never achieved full-featured repository; Visual Basic evolved to VB.NET (2002) with significant breaking changes; both tools lost significant market share to Java and C# as Aberdeen predicted `[ps=5]` — [[study-aberdeen-1996-moving-effectively-next-gen-client-server]]
 - Microsoft Visual Basic cited as low-end CADE competitor; lacks scalability for mission-critical enterprise applications `[ps=4]` — [[study-1997-oracle-developer-2000-client-server-development-en-5f98ce]]
 - VB and PowerBuilder dominant over second-generation CADEs at departmental level `[ps=4]` — [[study-aberdeen-1995-commercial-messaging]]
+- Most popular first-gen CADEs are Microsoft Visual Basic and Sybase/Powersoft PowerBuilder; major users in many cases contemplating new toolsets `[ps=4]` — [[study-aberdeen-1996-moving-effectively-next-gen-client-server]]
 - In short to medium term, users may have serious concerns about VB/PowerBuilder shops' ability to solve first-gen problems without bringing in new toolset `[ps=4]` — [[study-aberdeen-1996-moving-effectively-next-gen-client-server]]
 - Visual Basic lacks team-development, high-level design, and application-modeling features that Designer/2000 provides `[ps=3]` — [[study-1997-oracle-designer-2000-3201a7]]
 - TI-Microsoft initiative shows no signs of finishing; only fruit is TI's administrator-intensive departmental Arranger; Microsoft shows no intention of targeting fully-featured high-end development `[ps=3]` — [[study-aberdeen-1996-moving-effectively-next-gen-client-server]]
 - Complex/data-intensive applications require reversion to 4GL or 3GL scripting; most productivity gains lost for large applications `[ps=3]` — [[study-aberdeen-1996-moving-effectively-next-gen-client-server]]
-- Most popular first-gen CADEs are Microsoft Visual Basic and Sybase/Powersoft PowerBuilder; major users in many cases contemplating new toolsets — [[study-aberdeen-1996-moving-effectively-next-gen-client-server]]
-- Extended deployment option added in v8.2 — [[study-progress-version-8-2-development-environment-3cadac]]
+- Extended deployment option added in v8.2 `[ps=0]` — [[study-progress-version-8-2-development-environment-3cadac]]

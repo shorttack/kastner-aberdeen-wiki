@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.88
-prescience_obs_count: 8
+prescience_mean: 2.83
+prescience_obs_count: 12
 ---
 
 # Unix and NT Application Servers and Workstations: 1997-2000 Projections
@@ -44,11 +44,11 @@ _Published 1997, author **John R. Logan / Aberdeen Group**, type **market-study*
 - NT server unit shipments projected to grow substantially 1997-2000 driven by Y2K and price factors `[ps=5]`
 - Windows NT Server unit shipments grew 80% in 1997 (1.3M units vs 732K in 1996); NT became leading server OS by 1998 `[ps=5]`
 - Unix workstation market declined sharply vs. NT by 2000; Unix server market remained stronger in high-end segments `[ps=5]`
+- Support infrastructure quality cited as differentiating factor between Unix and NT in enterprise decisions `[ps=4]`
+- Unix markets projected to continue in specified segments while NT encroaches; Y2K and support factors analyzed `[ps=4]`
 - Continued price erosion cited as demand stimulant for both NT and Unix segments `[ps=3]`
+- New processor and platform introductions cited as demand driver 1997-2000 `[ps=3]`
 - Worldwide actual shipment data (units) collected and summarized for baseline `[ps=0]`
 - Worldwide actual shipment data (units) collected and summarized for baseline `[ps=0]`
+- Worldwide actual dollar shipments (revenue) for Unix application servers `[ps=0]`
 - Worldwide actual dollar shipments (revenue) for NT application servers `[ps=0]`
-- Worldwide actual dollar shipments (revenue) for Unix application servers
-- New processor and platform introductions cited as demand driver 1997-2000
-- Support infrastructure quality cited as differentiating factor between Unix and NT in enterprise decisions
-- Unix markets projected to continue in specified segments while NT encroaches; Y2K and support factors analyzed

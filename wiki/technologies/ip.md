@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging-dominant"
 lifecycle_current: "dominant"
 occurrence_count: 1
 prescience_max: 2.0
-prescience_mean: 1.0
-prescience_obs_count: 2
+prescience_mean: 0.67
+prescience_obs_count: 3
 ---
 
 # Internet Protocol (IP)
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - Commonly assumed cheaper but incorrect; packet networks face same operational cost drivers `[ps=2]` — [[study-teleco~1-c01702]]
+- $300 million `[ps=0]` — [[study-teleco~1-c01702]]
 - 50% (per UUNet VP Alan Taffel) `[ps=0]` — [[study-teleco~1-c01702]]
-- $300 million — [[study-teleco~1-c01702]]

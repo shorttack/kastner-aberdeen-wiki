@@ -13,8 +13,8 @@ successor: "dissolved 2002 post-Enron"
 years_active: "1913-2002"
 occurrence_count: 3
 prescience_max: 5.0
-prescience_mean: 3.33
-prescience_obs_count: 3
+prescience_mean: 2.5
+prescience_obs_count: 4
 ---
 
 # Arthur Andersen LLC
@@ -32,4 +32,4 @@ prescience_obs_count: 3
 - Arthur Andersen dissolved 2002 following Enron accounting scandal `[ps=5]` — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]
 - Dissolved 2002 following Enron accounting scandal conviction `[ps=5]` — [[study-aberdeen-1997-acceleratedsap-strategy]]
 - Cited as a collaboration user that was both technologically sophisticated and organizationally sophisticated. `[ps=0]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
-- First venture investment by Arthur Andersen audit partnership in firm history — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]
+- First venture investment by Arthur Andersen audit partnership in firm history `[ps=0]` — [[study-1997-the-ec-company-not-your-father-s-edi-c1ebff]]

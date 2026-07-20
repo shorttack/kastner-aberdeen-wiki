@@ -16,12 +16,12 @@ source_file: "RA_SOAGov_3944_PKRS_040307a-8.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.71
-prescience_obs_count: 14
+prescience_mean: 2.06
+prescience_obs_count: 17
 ---
 
 # Management and Governance: Planning for an Optimized SOA Application Lifecycle
@@ -42,10 +42,13 @@ _Published 2007, author **Peter S. Kastner and Rick Saia (Aberdeen Group)**, typ
 
 - Manageability of loosely-coupled services, re-use policies, and security are all most economically designed in rather than bolted on after the fact. Technology for automating management and governance is proving its worth at Best in Class companies. `[ps=5]`
 - Predominant reason: inexperience exacerbated by inadequate tools for automated management and governance of growing plethora and complexity of web services and applications under SOA `[ps=4]`
+- 68% of Best-in-Class achieving positive ROI on SOA investments and seeing lower application development costs; 77% of overall survey has yet to see SOA payback `[ps=4]`
 - Best-in-Class companies have implemented design-time governance and re-use policy to minimize lifecycle service costs compared to 26% overall `[ps=4]`
+- Operational governance ensures that eligible services are given the resources they need, and that performance and security issues are managed. It also helps manage the complexity of loosely-coupled services running on multiple servers in a highly distributed fashion — the hallmark of an SOA. `[ps=4]`
 - The inefficiencies caused by a lack of SOA management and governance lower IT performance, raise current operating costs, and collar IT with long-term software maintenance costs that will endure for decades `[ps=4]`
 - Organizations that are dawdling with web services and with no firm enterprise plan for an SOA are falling behind. Get focused training to bring not just specialists but the whole IT organization up to snuff. SOA is not a fad. It will be with us for decades. `[ps=4]`
 - Between a third and half of the 950 companies surveyed in 2006 are having serious difficulties getting SOA-enabled applications into stable deployment `[ps=3]`
+- Industry: 52% manufacturing/supply-chain (53% of which manufacturing); services (banking, brokerage, insurance, healthcare) 40%; public sector 8% `[ps=3]`
 - Best-in-Class (top 20%) most likely (33%) to have more than two years experience with SOA technology `[ps=0]`
 - More than 80% of Best-in-Class have implemented an automated solution to SOA operations and governance, typically with third-party software `[ps=0]`
 - Close to half of Best-in-Class have set minimizing application software lifecycle costs as a measurable management objective `[ps=0]`
@@ -54,6 +57,3 @@ _Published 2007, author **Peter S. Kastner and Rick Saia (Aberdeen Group)**, typ
 - Company size: 46% large enterprises (>$1B revenue, 27% >$5B); 38% midsize ($50M-$1B); 28% small businesses (<$50M) `[ps=0]`
 - Mindreef products used by over 3,000 customers at over 1,200 organizations worldwide, including 40 of the Fortune 100 `[ps=0]`
 - Filename PKRS_040307a indicates co-authorship by Peter Kastner and Rick Saia (PKRS), Aberdeen Group, March 2007 `[ps=0]`
-- 68% of Best-in-Class achieving positive ROI on SOA investments and seeing lower application development costs; 77% of overall survey has yet to see SOA payback
-- Operational governance ensures that eligible services are given the resources they need, and that performance and security issues are managed. It also helps manage the complexity of loosely-coupled services running on multiple servers in a highly distributed fashion — the hallmark of an SOA.
-- Industry: 52% manufacturing/supply-chain (53% of which manufacturing); services (banking, brokerage, insurance, healthcare) 40%; public sector 8%

@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.44
-prescience_obs_count: 16
+prescience_mean: 2.14
+prescience_obs_count: 21
 ---
 
 # TPC Benchmarks: Users Benefit From Competition (1992 Presentation Notes)
@@ -50,14 +50,14 @@ _Published 1992, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 - 5-year LCS; 10 user terminals per TPS; costs grow as users grow (terminals + history storage); FDC required `[ps=3]`
 - Aggressive pricing to TPC p/p; cost per TPS stable as performance rises; rationalizes VAX pricing; VAX 6640 actually lower cost than 6410 `[ps=3]`
 - Growing from timesharing to OLTP contender; maturing Unix and ALLBASE/SQL; rationalizing HP/UX vs. MPE pricing `[ps=3]`
+- 83% p/p improvement from B to D to E70 series (April 1991 to February 1992) at $17.59/TPS; not flat - more performance costs more per unit `[ps=3]`
+- TPC-A is valid p and p/p compare; enough results for valid sample; ask for results; write into RFPs; hire auditor; use latest results `[ps=3]`
 - 38.2 TPS at $36.50/TPS-A; $1.39M system `[ps=0]`
 - 27.9 TPS at $7.69/TPS-A; $214K system (27 months after HP Jan-1990 result) `[ps=0]`
+- Averaging $9K per TPS-A; Digital VAX 6000 best price/performer in 10-200 TPS range `[ps=0]`
 - $31.90/TPS-A in October 1990 to $10.71/TPS-A in March 1992; 50% improvement in 18 months `[ps=0]`
 - 18% p/p improvement due to new models; 59% better performance due to maturing AIX `[ps=0]`
+- Unisys ran a mainframe-class system on TPC despite IBM's 'not appropriate' stance `[ps=0]`
 - Sun SPARC with Sybase SQL Server participating in TPC competition `[ps=0]`
+- unknown `[ps=0]`
 - Coming benchmark (TPC-C WIC) announced but not yet published `[ps=0]`
-- Averaging $9K per TPS-A; Digital VAX 6000 best price/performer in 10-200 TPS range
-- 83% p/p improvement from B to D to E70 series (April 1991 to February 1992) at $17.59/TPS; not flat - more performance costs more per unit
-- Unisys ran a mainframe-class system on TPC despite IBM's 'not appropriate' stance
-- TPC-A is valid p and p/p compare; enough results for valid sample; ask for results; write into RFPs; hire auditor; use latest results
-- unknown

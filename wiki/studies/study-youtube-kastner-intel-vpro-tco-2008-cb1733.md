@@ -19,9 +19,9 @@ relevance: "medium"
 study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Industry Analyst Discusses Impact of Intel vPro Technology
@@ -40,5 +40,5 @@ _Published 2008, author **Intel Corporation (featuring Peter S. Kastner)**, type
 
 ## Top observations
 
+- Centrino 2 vPro mobile platform launched July 2008; positioned with Core 2 vPro for business-PC TCO `[ps=3]`
 - Industry analyst Peter Kastner discusses impact of Intel vPro technology including giving an overview of total cost of ownership benefits `[ps=0]`
-- Centrino 2 vPro mobile platform launched July 2008; positioned with Core 2 vPro for business-PC TCO

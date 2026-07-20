@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 3.0
-prescience_obs_count: 2
+prescience_mean: 3.5
+prescience_obs_count: 4
 ---
 
 # Less Is More: Stylin' PCs
@@ -40,7 +40,7 @@ _Published 2004, author **Elisa Batista (reporter); Peter Kastner (quoted source
 
 ## Top observations
 
+- 'The next form factor battles are beginning to be fought in the living room' `[ps=4]`
+- Size, quietness, decor, materials have become first-order selling points `[ps=4]`
 - Apple Mac mini (2005), Windows Media Center HTPCs, and Apple TV (2007) validated Kastner's 'living-room battle' framing `[ps=4]`
 - Gateway, Sony, and HP identified as category leaders `[ps=2]`
-- 'The next form factor battles are beginning to be fought in the living room'
-- Size, quietness, decor, materials have become first-order selling points

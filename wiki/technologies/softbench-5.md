@@ -13,8 +13,8 @@ lifecycle_at_study: "active"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 1.59
-prescience_obs_count: 17
+prescience_mean: 1.5
+prescience_obs_count: 24
 ---
 
 # HP C++ SoftBench 5.0
@@ -31,16 +31,16 @@ prescience_obs_count: 17
 - For systems mixing C++, C and COBOL, HP offers COBOL SoftBench and COBOL/C++ SoftBench enabling incremental migration from procedural to OO programming `[ps=3]` — [[study-aberdeen-1995-hp-softbench]]
 - Aberdeen believes SoftBench's team development features and ability to encapsulate third-party tools result in an excellent environment for professional developers building mission-critical applications `[ps=3]` — [[study-aberdeen-1995-hp-softbench]]
 - HP's vision is applications assembled from pre-built components from internal development, third parties, or legacy systems; SoftBench will gain enhanced graphical programming and code maintenance capabilities `[ps=3]` — [[study-aberdeen-1995-hp-softbench]]
+- The static analysis database added in September 1994 SoftBench 4.0 rollout is the key underpinning for the newly-released SoftBench C++ CodeAdvisor and Graphical Editor demonstrating HP's forethought `[ps=3]` — [[study-aberdeen-1995-hp-softbench]]
+- SoftBench 5.0 includes a customizable color ToolBar for frequently used activities improving developer workflow `[ps=3]` — [[study-aberdeen-1995-hp-softbench]]
+- HP is porting Taligent's CommonPoint framework to HP-UX; SoftBench can modify CommonPoint C++ components resulting in customized applications for collaborative desktop use `[ps=2]` — [[study-aberdeen-1995-hp-softbench]]
 - Aberdeen believes C++ SoftBench deserves serious attention from organizations contemplating a transition to object-oriented software development `[ps=2]` — [[study-aberdeen-1995-hp-softbench]]
 - Aberdeen believes organizations that realize the impact of the change in application development and take advantage of SoftBench's advanced features will be the first to turn information systems from a cost center into a revenue engine `[ps=2]` — [[study-aberdeen-1995-hp-softbench]]
+- Aberdeen believes more object-adept SoftBench users will soon want to use CommonPoint to build collaborative desktop applications running on a wide range of hardware platforms `[ps=1]` — [[study-aberdeen-1995-hp-softbench]]
 - SoftBench has 80-plus third-party tools encapsulated into HP's development environment covering the entire software development lifecycle from analysis and design to testing and maintenance `[ps=0]` — [[study-aberdeen-1995-hp-softbench]]
 - SoftBench supports not only HP-UX but also runs on Sun Solaris `[ps=0]` — [[study-aberdeen-1995-hp-softbench]]
+- SoftBench's static analyzer and debugger have gotten particularly high marks from developers interviewed by Aberdeen `[ps=0]` — [[study-aberdeen-1995-hp-softbench]]
 - SoftBench CM supports version control, checkin/checkout, audit trails, change histories and access control and allows parallel work across multiple HP-UX and Solaris servers `[ps=0]` — [[study-aberdeen-1995-hp-softbench]]
 - SoftBench 5.0 supports Informix, DB2/9000, Oracle, Sybase and Allbase databases along with Micro Focus COBOL and CICS `[ps=0]` — [[study-aberdeen-1995-hp-softbench]]
 - SoftBench CM enables developers to collaborate on a project even when distributed across an enterprise `[ps=0]` — [[study-aberdeen-1995-hp-softbench]]
 - SoftBench can build applications that use OSF's Distributed Computing Environment enabling software modules to execute on multiple networked hardware platforms `[ps=0]` — [[study-aberdeen-1995-hp-softbench]]
-- HP offers a two-day basic bootcamp teaching SoftBench fundamentals tailored to programming languages and organizational needs `[ps=0]` — [[study-aberdeen-1995-hp-softbench]]
-- In the first half of 1996 HP plans to roll out ORB Plus to let developers create CORBA-compliant C++ applications with C++ SoftBench `[ps=0]` — [[study-aberdeen-1995-hp-softbench]]
-- SoftBench's static analyzer and debugger have gotten particularly high marks from developers interviewed by Aberdeen — [[study-aberdeen-1995-hp-softbench]]
-- HP provides Object-Oriented Distributed Computing Environment (OODCE) used in conjunction with SoftBench to create applications running on OSF DCE — [[study-aberdeen-1995-hp-softbench]]
-- The static analysis database added in September 1994 SoftBench 4.0 rollout is the key underpinning for the newly-released SoftBench C++ CodeAdvisor and Graphical Editor demonstrating HP's forethought — [[study-aberdeen-1995-hp-softbench]]

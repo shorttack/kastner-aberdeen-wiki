@@ -16,12 +16,12 @@ source_file: "Analysis-of-Intel-Processor-Prices-Jan-2.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 0.86
-prescience_obs_count: 14
+prescience_mean: 1.05
+prescience_obs_count: 19
 ---
 
 # Analysis of Intel Processor Prices in PC Deals (January 2003)
@@ -41,12 +41,17 @@ _Published 2003, author **Peter S. Kastner**, type **dct**._
 ## Top observations
 
 - Q1 2003 spring quarter will force price cuts to move inventory `[ps=5]`
+- Celeron CPUs consistently hold lowest price point under $600 `[ps=4]`
 - near end for 2.0 GHz P4 following 2.4 GHz price drop `[ps=4]`
+- HT processors will NOT eliminate middle 533 MHz P4s like 2.53 GHz anytime soon `[ps=4]`
 - Back-to-school period had best PC deals; Christmas saw price increases `[ps=3]`
 - P4 1.8 GHz dropped below $900 in August 2002 `[ps=0]`
 - 2002-06-12 `[ps=0]`
+- 2002-08-26 `[ps=0]`
 - Celeron 2.0 GHz entered $600 category in November 2002 `[ps=0]`
 - Celeron 1.7 GHz PCs held under $450 `[ps=0]`
+- 2002-08-26 (P4 2.6, 2.66, 2.8 GHz simultaneous release) `[ps=0]`
+- new P4s pushed 1.8/2.0 GHz P4s down $150 to $900 in one month `[ps=0]`
 - P4 2.26 GHz disappeared from PC Deals by October 2002 `[ps=0]`
 - 533 MHz FSB P4 pricing falls independently of 400 MHz FSB P4 pricing `[ps=0]`
 - 2002-11 (P4 3.06 GHz HT introduction) `[ps=0]`
@@ -54,8 +59,3 @@ _Published 2003, author **Peter S. Kastner**, type **dct**._
 - 2.66 and 2.8 GHz P4 remained in same price category for 4+ months after launch `[ps=0]`
 - 3.06 GHz HT creates new $2200-$3000 PC price category `[ps=0]`
 - Dell among sources raising prices during holiday 2002 `[ps=0]`
-- Celeron CPUs consistently hold lowest price point under $600
-- 2002-08-26
-- 2002-08-26 (P4 2.6, 2.66, 2.8 GHz simultaneous release)
-- new P4s pushed 1.8/2.0 GHz P4s down $150 to $900 in one month
-- HT processors will NOT eliminate middle 533 MHz P4s like 2.53 GHz anytime soon

@@ -13,8 +13,8 @@ successor: "iPass Inc. (2006)"
 years_active: "1994-2000s"
 occurrence_count: 1
 prescience_max: 3.0
-prescience_mean: 0.67
-prescience_obs_count: 9
+prescience_mean: 0.6
+prescience_obs_count: 10
 ---
 
 # GoRemote Communications, Inc.
@@ -32,5 +32,5 @@ prescience_obs_count: 9
 - More than 300 `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
 - Starting at $1 per connect hour `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
 - Starting at $60 per month `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
+- Will guarantee service levels and full deployment in less than 90 days `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
 - [UNVERIFIED] `[ps=0]` — [[study-goremote-profile-5-2a-8fa814]]
-- Will guarantee service levels and full deployment in less than 90 days — [[study-goremote-profile-5-2a-8fa814]]

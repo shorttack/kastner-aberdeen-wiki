@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 3.25
-prescience_obs_count: 4
+prescience_mean: 3.2
+prescience_obs_count: 5
 ---
 
 # Remote Node / RAS (Remote Access Server)
@@ -26,6 +26,6 @@ prescience_obs_count: 4
 
 - Remote node solutions dominate corporate remote access environments `[ps=4]` — [[study-when-does-remote-control-benefit-9bd6e4]]
 - Dial-up remote node (RAS) displaced by IPSec VPN over DSL/cable broadband by 2003; modem-era constraints that justified hybrid approach became irrelevant `[ps=4]` — [[study-when-does-remote-control-benefit-9bd6e4]]
+- Move to remote node sacrifices important benefits provided by remote control `[ps=3]` — [[study-when-does-remote-control-benefit-9bd6e4]]
 - Large data volumes stream continuously across slow link; clogs remote pipes for bandwidth-intensive apps `[ps=3]` — [[study-when-does-remote-control-benefit-9bd6e4]]
 - Considered secure because users subject to same LAN security; but captured data streams more harmful than screen/mouse captures `[ps=2]` — [[study-when-does-remote-control-benefit-9bd6e4]]
-- Move to remote node sacrifices important benefits provided by remote control — [[study-when-does-remote-control-benefit-9bd6e4]]

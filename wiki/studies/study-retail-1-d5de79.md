@@ -16,12 +16,12 @@ source_file: "RETAIL~1.DOC"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.81
-prescience_obs_count: 16
+prescience_mean: 0.84
+prescience_obs_count: 25
 ---
 
 # Retail: 1998 Industry Practice Summary
@@ -41,27 +41,27 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 ## Top observations
 
 - client-server dominant `[ps=4]`
+- NT gaining over Unix `[ps=4]`
+- large retailers ahead; smaller lagging `[ps=4]`
 - integration of disparate systems and business processes `[ps=4]`
 - packaged apps will dominate `[ps=4]`
 - Prediction proved accurate; e-commerce became dominant channel within 5 years. `[ps=1]`
+- 2.3 trillion USD `[ps=0]`
+- 11 billion USD `[ps=0]`
 - >70% `[ps=0]`
 - ~14 million individuals `[ps=0]`
+- >1 million `[ps=0]`
 - being maintained not replaced `[ps=0]`
 - shifting from optional to necessity `[ps=0]`
 - critical mandatory channel `[ps=0]`
 - growing importance `[ps=0]`
+- still fairly generic; room for tailoring `[ps=0]`
 - improve merchandising reduce inventory increase sales `[ps=0]`
+- quasi-independent locally staffed corporations `[ps=0]`
 - new market entrants advantaged `[ps=0]`
 - major IT trend for retail `[ps=0]`
 - systems integrator for large retail implementations `[ps=0]`
+- POS systems and enterprise retail solutions `[ps=0]`
 - ERP with retail module; vertical integration `[ps=0]`
 - Windows NT platform and application integration `[ps=0]`
-- 2.3 trillion USD
-- 11 billion USD
-- >1 million
-- NT gaining over Unix
-- still fairly generic; room for tailoring
-- quasi-independent locally staffed corporations
-- large retailers ahead; smaller lagging
-- POS systems and enterprise retail solutions
-- scalability, functionality, extensibility, vendor viability, security, price
+- scalability, functionality, extensibility, vendor viability, security, price `[ps=0]`

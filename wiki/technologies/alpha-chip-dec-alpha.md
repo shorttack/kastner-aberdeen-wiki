@@ -13,8 +13,8 @@ lifecycle_at_study: "Discontinued after HP acquisition of Compaq; last Alpha CPU
 lifecycle_current: "1992"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 1.0
-prescience_obs_count: 7
+prescience_mean: 0.88
+prescience_obs_count: 8
 ---
 
 # Alpha chip (DEC Alpha)
@@ -31,4 +31,4 @@ prescience_obs_count: 7
 - 6 CPUs `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
 - 12 CPUs `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
 - 8.5 terabytes `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
-- 1995-04-11 date — [[study-aberdeen-1995-limd-technology]]
+- 1995-04-11 date `[ps=0]` — [[study-aberdeen-1995-limd-technology]]

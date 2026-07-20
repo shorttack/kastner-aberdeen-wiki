@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.92
-prescience_obs_count: 24
+prescience_mean: 2.57
+prescience_obs_count: 30
 ---
 
 # Digital's Terabyte/Hour NonStop VLDB: Consider The Possibilities
@@ -53,15 +53,15 @@ _Published 1997, author **Aberdeen Group**, type **Viewpoint**._
 - Technology is real; has arrived; delivers significant benefits; demands strategic rethinking `[ps=4]`
 - Fast backup/restore enables dedicated migration server `[ps=4]`
 - Compaq's acquisition of DEC in June 1998 effectively ended NonStop VLDB product development and marketing as predicted. `[ps=4]`
+- EMC acquired Legato Systems for $1.3 billion in 2003. Legato NetWorker became part of EMC and later Dell Technologies portfolio. `[ps=4]`
 - SGI went bankrupt 2006/2009 and never became a backup/restore technology leader. The fast backup market was led by disk-based backup vendors (EMC, NetApp, Symantec), not traditional HPTC vendors. `[ps=4]`
+- High-end Unix or cost-effective Windows NT `[ps=3]`
 - Upper limits to all databases removed; even 10TB can be backed up in one night `[ps=3]`
 - Symantec acquired Open Vision Technologies' backup software in 1999; it became Symantec NetBackup, one of the dominant enterprise backup products for decades. `[ps=3]`
 - SGI among first competitors in fast backup/restore market `[ps=2]`
 - Periodic backup to remote tape bank viable alternative to expensive mirroring `[ps=2]`
+- 400–750 GB/hour `[ps=0]`
 - 3-16% in tests `[ps=0]`
+- 1.5 TB/hour (with 1-2 additional TLIOP channels) `[ps=0]`
 - ~10 GB/hour `[ps=0]`
 - 40-200 GB (depending on update frequency) `[ps=0]`
-- AlphaServer 8400; 8 CPUs; 8 GB RAM; TLIOP with 4 PCI buses; 30 SCSI controllers; 16 tape drives `[ps=0]`
-- Less than 10 terabytes (data warehouses with few updates) `[ps=0]`
-- Under 20 minutes for databases under 100 GB `[ps=0]`
-- 400–750 GB/hour

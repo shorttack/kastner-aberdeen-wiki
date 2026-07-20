@@ -16,12 +16,12 @@ source_file: "2003 Dell and Oracle Boldly Predict the Demise of Big Iron.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.7
-prescience_obs_count: 10
+prescience_mean: 3.82
+prescience_obs_count: 11
 ---
 
 # Dell and Oracle Boldly Predict the Demise of Big Iron
@@ -44,10 +44,10 @@ _Published 2003, author **Robert Dorin**, type **perspective**._
 - Commodity Linux clusters became dominant substrate for cloud computing (AWS, Azure, Google Cloud); prediction correct for new workloads `[ps=5]`
 - Grid computing branded concept was superseded by cloud computing circa 2006-2010; utility computing vision was correct, brand was not `[ps=5]`
 - Oracle identified Linux as fastest growing OS for any deployment; aligned with Dell on commodity server vision `[ps=5]`
+- Systems management identified as key challenge/requirement for large Linux cluster deployments `[ps=5]`
 - Jointly announced shared vision of tomorrow's enterprise data center based on standardized technologies dominated by clusters of small servers running Linux `[ps=4]`
 - Oracle9i RAC enables clustered database on commodity Linux hardware starting at $18,000 `[ps=4]`
 - IBM Z mainframes still active in ~6000 shops worldwide as of 2025; mainframe not demised; prediction was overstated `[ps=4]`
 - Dell and Oracle predict demise of big iron (mainframes/large Unix) in favor of commodity Linux clusters `[ps=3]`
 - Blade servers identified as key form factor for commodity cluster architecture `[ps=2]`
 - Linux clusters starting at $18,000 `[ps=0]`
-- Systems management identified as key challenge/requirement for large Linux cluster deployments

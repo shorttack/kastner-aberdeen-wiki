@@ -13,8 +13,8 @@ lifecycle_at_study: "novel-launching"
 lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.67
-prescience_obs_count: 6
+prescience_mean: 2.0
+prescience_obs_count: 8
 ---
 
 # Itanium (IA-64)
@@ -30,5 +30,5 @@ prescience_obs_count: 6
 - new version every year through 2005 `[ps=2]` — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]
 - ~$1 billion, six years `[ps=0]` — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]
 - $1,000-$4,000 per chip `[ps=0]` — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]
-- few thousand first-gen units — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]
-- months per business-grade program — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]
+- few thousand first-gen units `[ps=0]` — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]
+- months per business-grade program `[ps=0]` — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]

@@ -16,12 +16,12 @@ source_file: "Mac-Keeps-Lead-on-Linux-7.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 4.0
-prescience_mean: 2.33
-prescience_obs_count: 3
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 4
 ---
 
 # Mac Keeps Lead on Linux
@@ -40,7 +40,7 @@ _Published 2004, author **Leander Kahney (reporter, Wired); Peter Kastner and Ti
 
 ## Top observations
 
+- Mac share ~15-20% global desktop by 2020-2025; Linux desktop remains 2-4% `[ps=5]`
 - Considerably lower than Mac ~3% `[ps=4]`
 - Google browser access logs support ~3% Mac figure `[ps=3]`
 - Approximately 3% (Kastner estimate) `[ps=0]`
-- Mac share ~15-20% global desktop by 2020-2025; Linux desktop remains 2-4%

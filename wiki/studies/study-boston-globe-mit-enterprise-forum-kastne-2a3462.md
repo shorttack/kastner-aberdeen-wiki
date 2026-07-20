@@ -21,7 +21,7 @@ prescience_3y_enum: "low"
 prescience_5y_enum: "low"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 3
+prescience_obs_count: 5
 ---
 
 # MIT Enterprise Forum Listing — 'Who Cares if the Computer Breaks' (Peter S. Kastner, Aberdeen Group)
@@ -40,8 +40,8 @@ _Published 1995, author **Ronald Rosenberg (Boston Globe Emerging Business colum
 
 ## Top observations
 
+- Who Cares if the Computer Breaks `[ps=0]`
 - Aberdeen Group, Boston management consulting and research firm `[ps=0]`
 - President Powerstation Technologies Inc. `[ps=0]`
+- $8 members / $12 non-members `[ps=0]`
 - Boston Globe Emerging Business / Ronald Rosenberg `[ps=0]`
-- Who Cares if the Computer Breaks
-- $8 members / $12 non-members

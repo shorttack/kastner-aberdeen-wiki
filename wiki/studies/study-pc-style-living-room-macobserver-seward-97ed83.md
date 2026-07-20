@@ -16,12 +16,12 @@ source_file: "The-Mac-Observer-Just-A-Thought-A-Matter-of-Style-4.webarchive"
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.0
-prescience_obs_count: 3
+prescience_mean: 3.83
+prescience_obs_count: 6
 ---
 
 # Just A Thought: A Matter of Style
@@ -42,7 +42,7 @@ _Published 2004, author **Vern Seward, The Mac Observer (quoting Reuters / Peter
 
 - By 2015 the living-room-content-delivery battle was won by streaming appliances (Apple TV 2007, Roku 2008, Chromecast 2013, Fire TV 2014) — not general-purpose PCs. Windows Media Center was discontinued in Windows 10 (2015). Kastner's broader 'form factor battles in living room' was correct, but the form factor that won was the TV-attached appliance, not the living-room PC. `[ps=5]`
 - 'The next form factor battles are beginning to be fought in the living room' — Peter Kastner, Aberdeen Group, via Reuters `[ps=4]`
+- 'Factors including size and decor suddenly matter a lot' — Kastner noting PC buyers in 2004 started caring about form factor `[ps=4]`
+- Consumers pay $50 more for iPod mini (1/3 the capacity of larger iPod) citing color ('It's pinker') — demonstrates style-primary purchasing in consumer electronics `[ps=4]`
 - 'Why put a PC where it has to compete with other things for your attention? ... adding a computer only makes the relatively simple process of watching TV far more complicated' — Seward `[ps=3]`
-- 'Factors including size and decor suddenly matter a lot' — Kastner noting PC buyers in 2004 started caring about form factor
-- Consumers pay $50 more for iPod mini (1/3 the capacity of larger iPod) citing color ('It's pinker') — demonstrates style-primary purchasing in consumer electronics
-- Reuters/Kastner article predicted PCs would be designed to sit in the living room with less bulk and more style
+- Reuters/Kastner article predicted PCs would be designed to sit in the living room with less bulk and more style `[ps=3]`

@@ -16,12 +16,12 @@ source_file: "Stratus-OEM-1982-06-07-CBN-7.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.17
-prescience_obs_count: 6
+prescience_mean: 1.44
+prescience_obs_count: 9
 ---
 
 # Stratus Banks on Fault-Tolerant Systems' Success — Computer Business News, 7 June 1982 (PSK extensively quoted)
@@ -41,11 +41,11 @@ _Published 1982, author **Peter Bochner (Computer Business News)**, type **press
 ## Top observations
 
 - At least a half dozen or more FT vendors will be shipping by the end of 1983 `[ps=4]`
+- Fault-tolerant market is blossoming from a niche market to a cross market; as more work goes on-line, computers get closer to the heart of business operations and the cost of downtime goes up `[ps=4]`
 - CPU boards use four 68000 chips paired off (OS + user); high-level language for OS keeps code small (several thousand lines) and CPU-portable via code-generator changes; pair-of-pair self-checking `[ps=3]`
+- By 1986, all [broad-based] computer companies will have to offer fault-tolerant systems `[ps=2]`
 - End-user, software-house, and two-year OEM contracts; software houses get fee per system sale and discount but no buy requirement; OEMs are 'first point of contact for customer whose computer has gone down' `[ps=0]`
+- Olivetti to distribute Stratus products in England/France/Italy; OEM-integration agreement; potential $40M by 1985 `[ps=0]`
 - 7% per year (vs industry standard of 10-12%) thanks to remote diagnostics + customer-replaceable boards delivered by cab `[ps=0]`
 - Under-$200,000; positioned vs Prime 750, DEC VAX 11/750, and IBM 4341 Model 1 (against 32-bit minis on price); not directly going after Tandem on price/performance `[ps=0]`
 - Kastner was a former analyst at Arthur D. Little prior to Stratus `[ps=0]`
-- Olivetti to distribute Stratus products in England/France/Italy; OEM-integration agreement; potential $40M by 1985
-- By 1986, all [broad-based] computer companies will have to offer fault-tolerant systems
-- Fault-tolerant market is blossoming from a niche market to a cross market; as more work goes on-line, computers get closer to the heart of business operations and the cost of downtime goes up

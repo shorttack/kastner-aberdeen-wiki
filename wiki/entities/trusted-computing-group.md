@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "2003-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Trusted Computing Group (TCG)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Intel and Microsoft among TCG members; Aberdeen engaged with multiple members — [[study-intel-consumer-lt-10-5-03-580af7]]
+- Intel and Microsoft among TCG members; Aberdeen engaged with multiple members `[ps=0]` — [[study-intel-consumer-lt-10-5-03-580af7]]

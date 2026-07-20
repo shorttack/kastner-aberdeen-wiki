@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Paul McGuckin
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Our view is that HP has executed extremely well integrating the two companies and finding cost savings. I question whether HP can deliver on the promises to users of all their server operating systems. That is a lot of R&D to sustain. — [[study-processor-editorial-article-one-powerhou-aa3f6c]]
+- Our view is that HP has executed extremely well integrating the two companies and finding cost savings. I question whether HP can deliver on the promises to users of all their server operating systems. That is a lot of R&D to sustain. `[ps=4]` — [[study-processor-editorial-article-one-powerhou-aa3f6c]]

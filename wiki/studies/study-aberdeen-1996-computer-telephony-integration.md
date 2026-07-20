@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.33
-prescience_obs_count: 21
+prescience_mean: 3.48
+prescience_obs_count: 23
 ---
 
 # Internet Architecture: Prescription For Success
@@ -40,10 +40,12 @@ _Published 1996, author **Aberdeen Group**, type **white-paper**._
 
 ## Top observations
 
+- Most enterprise data in plain-vanilla format; must define web-presentable data elements and user-friendly interface `[ps=5]`
 - Wide array of e-commerce solutions emerging; IS must move aggressively to integrate into architecture `[ps=5]`
 - 64-bit VLM (>4GB RAM) enables higher performance for data warehousing and mixed OLTP/DSS Internet applications `[ps=5]`
 - Informix + Illustra DataBlades object-relational solution to be merged by 1997 `[ps=5]`
 - Internet electronic commerce promises dramatic decreases in selling costs and new opportunities for customer interaction `[ps=5]`
+- E-commerce transformed retail, financial services, and B2B transactions globally; selling cost reductions materialized as predicted `[ps=5]`
 - Web browser/server become bottlenecks as demand grows; must use TP-monitor-like middleware to bypass `[ps=4]`
 - No vendor has shrink-wrapped solution for all enterprise Internet needs; require Internet-enabled CADEs for customization `[ps=4]`
 - Informix Universal Server (1996) integrated Illustra DataBlades; prediction accurate; Informix acquired by IBM 2001 `[ps=4]`
@@ -61,5 +63,3 @@ _Published 1996, author **Aberdeen Group**, type **white-paper**._
 - Big telecom companies will not deliver major end-user bandwidth increases in near future; 2-way cable not ready `[ps=2]`
 - Many second-generation CADEs will allow highly scalable Internet application development by mid-1996 `[ps=2]`
 - Broadband (DSL, cable) rollout accelerated 1998-2002; Aberdeen's near-term constraint proved partially correct but underestimated speed of cable/DSL `[ps=-1]`
-- Most enterprise data in plain-vanilla format; must define web-presentable data elements and user-friendly interface
-- E-commerce transformed retail, financial services, and B2B transactions globally; selling cost reductions materialized as predicted

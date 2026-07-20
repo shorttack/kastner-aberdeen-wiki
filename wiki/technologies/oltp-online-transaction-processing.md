@@ -12,9 +12,9 @@ era: "1960s-present"
 lifecycle_at_study: "previous-generation"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: 4.0
-prescience_mean: 1.0
-prescience_obs_count: 4
+prescience_max: 5.0
+prescience_mean: 1.5
+prescience_obs_count: 6
 ---
 
 # OLTP (Online Transaction Processing)
@@ -24,9 +24,9 @@ prescience_obs_count: 4
 
 ## Top observations
 
+- OLTP applications in distributed/networked environments where high availability is paramount `[ps=5]` — [[study-stratus-corporate-overview-1982-11-a7e367]]
 - High-availability TP market forecast: $6.4B (1981) → $27B (1986) — 4.2x in 5 years `[ps=4]` — [[study-stratus-corporate-overview-1982-11-a7e367]]
+- 150 `[ps=0]` — [[study-1998-pc-impact-and-metadata-e2a169]]
 - 32 `[ps=0]` — [[study-1998-pc-impact-and-metadata-e2a169]]
 - 2000 `[ps=0]` — [[study-1998-pc-impact-and-metadata-e2a169]]
 - acceptable `[ps=0]` — [[study-1998-pc-impact-and-metadata-e2a169]]
-- 150 — [[study-1998-pc-impact-and-metadata-e2a169]]
-- OLTP applications in distributed/networked environments where high availability is paramount — [[study-stratus-corporate-overview-1982-11-a7e367]]

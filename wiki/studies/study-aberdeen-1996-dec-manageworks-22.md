@@ -3,7 +3,7 @@ title: "ManageWORKS 2.2 Market Profile"
 slug: "study-aberdeen-1996-dec-manageworks-22"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-1996-dec-manageworks-22"
 author: "Aberdeen Group"
@@ -16,12 +16,12 @@ source_file: "1996 DEC - ManageWORKS 2.2 pr.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
-prescience_max: 3.0
-prescience_mean: 1.18
-prescience_obs_count: 17
+prescience_max: 5.0
+prescience_mean: 1.6
+prescience_obs_count: 20
 ---
 
 # ManageWORKS 2.2 Market Profile
@@ -40,7 +40,10 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
+- Digital Equipment Corporation acquired by Compaq in June 1998; ManageWORKS product line discontinued `[ps=5]`
+- Distributed SNMP pollers tasked with collecting status from specified nodes/subnetworks; communicate with Event Manager via TCP/IP socket `[ps=4]`
 - Open partner platform: DEC provides base functionality; partners provide domain-specific applications `[ps=3]`
+- Tightly integrated proprietary product suite; not designed for third-party integration `[ps=3]`
 - User interface for event/network status viewing and monitoring parameter configuration `[ps=3]`
 - Central processor and repository; logs all alerts; forwards SNMP traps to enterprise managers `[ps=3]`
 - Multiple consoles can access same Event Manager data simultaneously (read-only); single console can update; data stored on separate file server `[ps=3]`
@@ -57,6 +60,3 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - OEM licensing allows PC server and comms device vendors to use ManageWORKS as vendor-specific management base `[ps=0]`
 - Configuration management, hardware/software inventory, software distribution, metering, remote control, virus protection `[ps=0]`
 - Performance, accounting, software asset/configuration, network, security, storage, problem, automation management (via partners) `[ps=0]`
-- Tightly integrated proprietary product suite; not designed for third-party integration
-- Digital Equipment Corporation acquired by Compaq in June 1998; ManageWORKS product line discontinued
-- Distributed SNMP pollers tasked with collecting status from specified nodes/subnetworks; communicate with Event Manager via TCP/IP socket

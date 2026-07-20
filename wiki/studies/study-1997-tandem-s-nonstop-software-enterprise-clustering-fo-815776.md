@@ -16,12 +16,12 @@ source_file: "1997 Tandem_s NonStop Software_ Enterprise Clustering For NT, Too 
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.72
-prescience_obs_count: 18
+prescience_mean: 2.7
+prescience_obs_count: 20
 ---
 
 # Tandem's NonStop Software: Enterprise Clustering For NT, Too
@@ -48,15 +48,15 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 - Wolfpack alone will merely better NT Server's position in workgroup/departmental applications; for the foreseeable future Wolfpack alone is no panacea for enterprise `[ps=4]`
 - Mission-critical applications: stock exchanges; telecommunications switches; credit-card transactions; creates $360M+ annual software sales `[ps=4]`
 - Tandem applies 22+ years of parallel-scalable computing experience to NT clusters; targets enterprise-class scalability beyond Wolfpack's 2-node limit `[ps=3]`
+- NonStop Software enables up to 16 NT Server nodes in a cluster vs Wolfpack's 2 nodes `[ps=3]`
 - Parallel query execution via Executor Server Processes; SMP threads; parallel scans and B-tree reads; cluster-aware cost-based optimizer; runs on both Himalaya and NT clusters `[ps=3]`
 - NonStop SQL/MX extensible for new-world operations such as data mining and DataBlades; supports SMP threads and deepest parallel processing `[ps=3]`
 - 1) Extension of Himalaya to Java/Internet; 2) same software on Himalaya and NT; 3) security of Himalaya-driven decision support on NT in future; 4) removal of NT scalability obstacles `[ps=3]`
 - Data access manager; distributed file services; transaction manager; transaction services; storage management facilities — five infrastructure components enabling cross-platform application portability `[ps=3]`
 - Tandem positioning for iTP — demanding combination of OLTP/e-commerce/web applications; 24x7 requirements dictate continued reliance on NonStop-class solutions `[ps=2]`
 - NonStop Software enables no-porting application scalability from NT to Himalaya; protects enterprise investments with single software stack across both platforms `[ps=2]`
+- Tandem has laid the foundation for its entrance into new markets; NonStop Software guarantees howling success among blue-chip installed base `[ps=2]`
 - NonStop Software NT: 6X relative downtime vs Himalaya baseline (1X); NT with Wolfpack Phase 1: 20X; plain NT Server: 50X relative downtime `[ps=0]`
 - 98.8% scalability efficiency across 112 CPUs in TPC-C benchmark (Himalaya K10000); cited from Aberdeen Product Viewpoint July 15 1994 `[ps=0]`
 - BEA Tuxedo API compatible; cluster-wide load balancing; common databases/file system/TP logging; simplifies management of clusters `[ps=0]`
 - Tandem-provided ServerNet message services considerably faster than Wolfpack's TCP/IP Winsock messaging; enables high-bandwidth low-latency cluster interconnect `[ps=0]`
-- NonStop Software enables up to 16 NT Server nodes in a cluster vs Wolfpack's 2 nodes
-- Tandem has laid the foundation for its entrance into new markets; NonStop Software guarantees howling success among blue-chip installed base

@@ -1,6 +1,7 @@
 ---
 title: Quote 911 — Computerworld (1992-06-08)
 type: quotation
+page_type: quotation
 slug: quote-911
 row_id: 911
 author: "Peter S. Kastner"

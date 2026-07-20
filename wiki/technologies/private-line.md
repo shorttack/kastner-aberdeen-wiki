@@ -12,9 +12,9 @@ era: "1960-present"
 lifecycle_at_study: "dominant"
 lifecycle_current: "declining"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Private Line (T1/E1)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $10 billion+ — [[study-teleco~1-c01702]]
+- $10 billion+ `[ps=0]` — [[study-teleco~1-c01702]]

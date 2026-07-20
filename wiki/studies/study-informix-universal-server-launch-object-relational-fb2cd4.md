@@ -16,7 +16,7 @@ source_file: "transcript Informix Universal Server launch (12_1996).md"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "not-applicable"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: null

@@ -14,7 +14,7 @@ lifecycle_current: "active (as NonStop)"
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 4
+prescience_obs_count: 5
 ---
 
 # Oracle Context (Language Processing Engine)
@@ -24,8 +24,8 @@ prescience_obs_count: 4
 
 ## Top observations
 
+- $7.69 K$/TPS-A `[ps=0]` — [[study-1992-tpc-benchmarks-vp-745fa1]]
 - $10.71 K$/TPS-A `[ps=0]` — [[study-1992-tpc-benchmarks-vp-745fa1]]
 - 3x improvement from $31.90 to $10.71 K$/TPS-A `[ps=0]` — [[study-1992-tpc-benchmarks-vp-745fa1]]
 - Disk -24%; memory -25%; 32MB less memory; 25% service discount; lower terminal prices `[ps=0]` — [[study-1992-tpc-benchmarks-vp-745fa1]]
 - DB2/400 recently upgraded `[ps=0]` — [[study-1998as400-1-146289]]
-- $7.69 K$/TPS-A — [[study-1992-tpc-benchmarks-vp-745fa1]]

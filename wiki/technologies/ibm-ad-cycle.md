@@ -13,8 +13,8 @@ lifecycle_at_study: "vendor-strategy"
 lifecycle_current: "abandoned"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # IBM AD/Cycle
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Cross-Life-Cycle-Application-Development-Platform-Repository `[ps=4]` — [[study-aberdeen-multitrak-headlines-context-kas-f941d1]]
-- Became a fiasco; IBM could not deliver promised services; killed mainframe ISV tools market — [[study-nti-9-mainframe-role-1993-77fc40]]
+- Became a fiasco; IBM could not deliver promised services; killed mainframe ISV tools market `[ps=3]` — [[study-nti-9-mainframe-role-1993-77fc40]]

@@ -16,12 +16,12 @@ source_file: "Decision-support-DW-1993-NCR-ORCL-2.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.86
-prescience_obs_count: 7
+prescience_mean: 2.18
+prescience_obs_count: 11
 ---
 
 # Aberdeen Group — Customer-Driven Information Systems (AT&T/NCR + Oracle Seminar, 1993)
@@ -42,12 +42,12 @@ _Published 1993, author **Peter S. Kastner — Vice President, Aberdeen Group, I
 
 - Computer-as-Accounting-Machine-to-Decision-Support `[ps=5]`
 - NCR-acquired-1991-while-owned-by-AT-and-T `[ps=5]`
+- getting-moving-using-information-to-leverage-customers-goals `[ps=4]`
+- Rules-and-Regulations `[ps=4]`
 - Reconstruction-and-Open-Markets `[ps=3]`
+- Oligopoly-and-Pyramid-scheme-financing `[ps=3]`
 - AT-and-T-NCR-and-Oracle-Corp `[ps=0]`
+- 5000000 `[ps=0]`
 - 30 `[ps=0]`
 - 1000-red-summer-dresses-keep-discount-or-ship-to-Boston `[ps=0]`
 - strategic-leverage-empowerment-reengineering `[ps=0]`
-- getting-moving-using-information-to-leverage-customers-goals
-- 5000000
-- Rules-and-Regulations
-- Oligopoly-and-Pyramid-scheme-financing

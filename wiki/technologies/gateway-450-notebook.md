@@ -12,9 +12,9 @@ era: "2003-2005"
 lifecycle_at_study: "new"
 lifecycle_current: "end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Gateway 450 notebook (Centrino)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- High marks for the Gateway 450: excels at performance, battery life, screen visibility, and ability to pull in distant Wi-Fi signals. — [[study-review-gateway-notebook-with-intel-centr-985a73]]
+- High marks for the Gateway 450: excels at performance, battery life, screen visibility, and ability to pull in distant Wi-Fi signals. `[ps=0]` — [[study-review-gateway-notebook-with-intel-centr-985a73]]

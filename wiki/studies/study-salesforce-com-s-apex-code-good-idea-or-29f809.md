@@ -3,7 +3,7 @@ title: "Salesforce.com's Apex Code: Good Idea or Superfluous Code?"
 slug: "study-salesforce-com-s-apex-code-good-idea-or-29f809"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "salesforce.com-s-apex-code-good-idea-or--29f809"
 author: "Robyn Weisman, itmanagement.earthweb.com (Datamation/internet.com)"
@@ -19,9 +19,9 @@ relevance: "high"
 study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
-prescience_max: 3.0
-prescience_mean: 1.67
-prescience_obs_count: 3
+prescience_max: 5.0
+prescience_mean: 2.8
+prescience_obs_count: 5
 ---
 
 # Salesforce.com's Apex Code: Good Idea or Superfluous Code?
@@ -40,8 +40,8 @@ _Published 2007, author **Robyn Weisman, itmanagement.earthweb.com (Datamation/i
 
 ## Top observations
 
+- SaaS became the default enterprise software delivery model by the mid-2010s; Salesforce overtook Oracle as the #1 CRM vendor by 2017 (Gartner) and remains dominant through 2026. `[ps=5]`
+- Customers will be thrilled and amazed as the salesforce.com community demonstrates what is truly possible on demand — the 'Business Web.' Customers will benefit from unprecedented choice and freedom of on-demand applications innovations. `[ps=4]`
 - By 2020 Salesforce had 3M+ certified/registered developers; Apex became the de-facto server-side language of enterprise CRM; AppExchange ecosystem over 5,000 apps. Lock-in concern real but offset by ecosystem scale. `[ps=3]`
 - Clients are scratching their heads at the way salesforce.com is going about its Apex Code push. They like the idea of opening up the application to custom integration, but are perplexed over why salesforce is inventing a new scripting language when Perl, Ruby, and Javascript are already well understood by enterprise developers. `[ps=2]`
 - January 2007: Salesforce.com announced Apex Code developer preview; Apex multi-tenant capabilities isolate faulty code from jamming up the shared platform. `[ps=0]`
-- Customers will be thrilled and amazed as the salesforce.com community demonstrates what is truly possible on demand — the 'Business Web.' Customers will benefit from unprecedented choice and freedom of on-demand applications innovations.
-- SaaS became the default enterprise software delivery model by the mid-2010s; Salesforce overtook Oracle as the #1 CRM vendor by 2017 (Gartner) and remains dominant through 2026.

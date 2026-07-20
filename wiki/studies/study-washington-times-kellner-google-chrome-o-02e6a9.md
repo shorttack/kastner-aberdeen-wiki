@@ -3,7 +3,7 @@ title: "KELLNER: Google to Launch Chrome OS in '09"
 slug: "study-washington-times-kellner-google-chrome-o-02e6a9"
 page_type: "study"
 tags: ["type/study", "collection/news-column"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "washington-times-kellner-google-chrome-o-02e6a9"
 author: "Mark A. Kellner"
@@ -16,12 +16,12 @@ source_file: "Washington-Times-KELLNER-Google-to-launch-Chrome-OS-in-09.webarchi
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 3.0
-prescience_mean: 1.5
-prescience_obs_count: 2
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 5
 ---
 
 # KELLNER: Google to Launch Chrome OS in '09
@@ -40,8 +40,8 @@ _Published 2009, author **Mark A. Kellner**, type **news-column**._
 
 ## Top observations
 
+- Most of the time, Web applications hosted in the cloud work OK; the limiter is network bandwidth, which affects speed and reliability (e.g., data lost in flight). Plus you have to trust your online cloud service to backup and secure your data. `[ps=4]`
+- Many people are using redundant vendors, putting critical family photos on both Google Picassa and HP Snapfish on the assumption that both firms won't crash or go out of business `[ps=3]`
 - Potential flaw in the model: always-on Internet in emerging markets — if there's no Internet connection available, there's no useful netbook functionality besides local games `[ps=3]`
+- Google has a challenging task `[ps=0]`
 - Peter S. Kastner, chief research officer at Scott-Page, a Westport, Mass., technology research firm; 40-year veteran of the technology industry and co-founder of the noted Aberdeen Group `[ps=0]`
-- Most of the time, Web applications hosted in the cloud work OK; the limiter is network bandwidth, which affects speed and reliability (e.g., data lost in flight). Plus you have to trust your online cloud service to backup and secure your data.
-- Google has a challenging task
-- Many people are using redundant vendors, putting critical family photos on both Google Picassa and HP Snapfish on the assumption that both firms won't crash or go out of business

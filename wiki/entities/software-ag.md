@@ -13,8 +13,8 @@ successor: "Silver Lake-owned (2023); now Software AG GmbH"
 years_active: "1969-present"
 occurrence_count: 6
 prescience_max: 4.0
-prescience_mean: 2.48
-prescience_obs_count: 25
+prescience_mean: 2.43
+prescience_obs_count: 28
 ---
 
 # Software AG
@@ -41,11 +41,11 @@ prescience_obs_count: 25
 - Standards-based middleware remains immature and requires ISV support to succeed in insurance `[ps=3]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
 - Insurers will ask where SOM has already run for a year inside an insurance company `[ps=3]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
 - Potential P&C partners include Agena, AMS, Applied, PRC, Allenbrook, and PMSC `[ps=3]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
+- store-and-forward architecture present; full developer APIs not yet provided `[ps=3]` — [[study-aberdeen-1995-commercial-messaging]]
 - Available on HP-UX, IBM AIX, Sun Solaris, SCO Unix, Digital Unix, Windows NT, OS/2; broad cross-platform strategy `[ps=3]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
+- Software AG survived and grew; acquired by Silver Lake in 2023 for €2.2B; ADABAS & Natural being spun off as independent business in 2025 `[ps=3]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
 - Widely used IBM mainframe; recent thrust to HP 9000 and NCR System 3000 `[ps=3]` — [[study-nti-5-development-toolsets-0e71c5]]
 - Insurers still tend to build rather than buy `[ps=2]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
 - Insurers will worry that SOM imposes network-bandwidth, security, and response-time penalties they cannot afford `[ps=2]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
 - Potential life-insurance partners include Continuum, Cybertek, FDP, EZ Data, Sterling Wentworth, and ECTA, while integrator candidates include Andersen, Deloitte & Touche, EDS, and MCI SHL `[ps=2]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
 - Aberdeen recommends IS buyers consider Software AG/Digital for RDBMS and VLM deployments; implies long-term viability `[ps=2]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
-- Near-lights-out automated distributed-database administration; lower cost of ownership than Oracle/DB2 `[ps=2]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
-- 25% of revenues invested in R&D `[ps=2]` — [[study-nti-6-rdbms-technology-48f4aa]]

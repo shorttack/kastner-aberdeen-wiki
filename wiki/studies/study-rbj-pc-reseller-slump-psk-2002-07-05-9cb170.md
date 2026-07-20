@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.83
-prescience_obs_count: 6
+prescience_mean: 2.43
+prescience_obs_count: 7
 ---
 
 # Rochester Business Journal — 'Computer resellers suffering while many delay upgrades' (Kathy Quinn Thomas; PSK Aberdeen Group quoted, 2002-07-05)
@@ -46,4 +46,4 @@ _Published 2002, author **Kathy Quinn Thomas (Rochester Business Journal staff)*
 - Consider it a respite, not a turning point for the U.S. PC market `[ps=4]`
 - Peter Kastner, technology analyst with Boston's Aberdeen Group Inc. `[ps=0]`
 - In the third week in June, three national computer companies—Apple Computer, Advanced Micro Devices Inc. and Intel Corp.—lowered their earnings forecasts for the quarter `[ps=0]`
-- $16.7 million in sales and 45 employees in 2000
+- $16.7 million in sales and 45 employees in 2000 `[ps=0]`

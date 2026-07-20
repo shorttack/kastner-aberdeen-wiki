@@ -12,9 +12,9 @@ era: "2004-2007"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Intel Pentium 4 Prescott (90nm)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 90nm Prescott P4 publicly demoed with PCI Express graphics at the IDF; Q4 2003 ship commitment. — [[study-intel-idf-pk-notes-3-6666da]]
+- 90nm Prescott P4 publicly demoed with PCI Express graphics at the IDF; Q4 2003 ship commitment. `[ps=3]` — [[study-intel-idf-pk-notes-3-6666da]]

@@ -1,6 +1,7 @@
 ---
 title: Quote 1119 — eWEEK ()
 type: quotation
+page_type: quotation
 slug: quote-1119
 row_id: 1119
 author: "Peter S. Kastner"

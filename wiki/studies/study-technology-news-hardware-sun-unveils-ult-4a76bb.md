@@ -16,12 +16,12 @@ source_file: "Technology-News-Hardware-Sun-Unveils-UltraSPARC-IV-Processor.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.91
-prescience_obs_count: 11
+prescience_mean: 3.15
+prescience_obs_count: 13
 ---
 
 # Sun Unveils UltraSPARC IV Processor
@@ -42,8 +42,10 @@ _Published 2003, author **Jay Lyman, TechNewsWorld**, type **news-article**._
 
 - begin shipping in systems during the first half of 2004 `[ps=5]`
 - Oracle confirmed SPARC M8 (2017) as its final SPARC CPU and canceled its M8 successor; effectively ended SPARC roadmap `[ps=5]`
+- Oracle completed acquisition of Sun Microsystems for $7.4B on 2010-01-27 `[ps=5]`
 - Certainly, the message is Sun should reconsider what it's doing with processors. Sun's value doesn't lie in the processor anymore. It lies in the robust systems and infrastructure they're capable of providing. `[ps=4]`
 - 2x performance via multithreading (two UltraSPARC III cores on single die) `[ps=4]`
+- more radical chip multithreading design by 2006, which may increase throughput of today's UltraSPARC IIIi by as many as 15 times `[ps=4]`
 - Intel's Xeon processor is taking a toll on all competitors; the large server market where Sun has historically played well is suffering from the increasing share of lower-cost servers `[ps=4]`
 - To Sun's installed base, UltraSPARC IV has to be competitive. It doesn't have to be world-beating. `[ps=3]`
 - Sun's customers want UltraSPARC IV to be successful so they can continue to feel comfortable investing in Sun and in Sun's real strength, which is Solaris. `[ps=3]`
@@ -51,5 +53,3 @@ _Published 2003, author **Jay Lyman, TechNewsWorld**, type **news-article**._
 - a processor with eight cores on a single-chip die. That's a single chip that can actually execute 32 threads in parallel `[ps=2]`
 - Sun UltraSPARC T1 (Niagara) shipped Nov 2005 with 8 cores, 4 threads/core = 32 threads; design target partially met a year earlier than predicted `[ps=0]`
 - praised the additional cache Sun built into the new UltraSPARC IV, Reynolds said Sun's multithreading technology is still untested in practice `[ps=0]`
-- more radical chip multithreading design by 2006, which may increase throughput of today's UltraSPARC IIIi by as many as 15 times
-- Oracle completed acquisition of Sun Microsystems for $7.4B on 2010-01-27

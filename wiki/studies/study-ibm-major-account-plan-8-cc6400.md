@@ -16,12 +16,12 @@ source_file: "IBM-Major-Account-Plan-8.doc"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 0.52
-prescience_obs_count: 23
+prescience_mean: 0.43
+prescience_obs_count: 28
 ---
 
 # Major Account Plan: IBM (excluding Global Services) — Aberdeen Internal Q3 2001
@@ -47,6 +47,7 @@ _Published 2001, author **Peter S. Kastner, Cindy Murray, Ed Black (Aberdeen Gro
 - IBM has been locked down to Aberdeen for new purchase orders for two quarters. `[ps=0]`
 - Sales executive Cindy Murray was on maternity leave during this period. `[ps=0]`
 - Major account process is surfacing more opportunities into new areas, including a six-figure proposal to IBM's primary market research department. `[ps=0]`
+- Aberdeen has suffered from IBM's apparent historic experience that Aberdeen was a white-paper company at a time when white-papers are an IBM expendable budget item. `[ps=0]`
 - Goal: IBM revenue into every Aberdeen practice area (pod). `[ps=0]`
 - Mix shift from white-papers to ETI content/primary research and Core retainers and consulting. `[ps=0]`
 - Grow Aberdeen-IBM revenues to a $750K run rate by Q4-2002. `[ps=0]`
@@ -57,11 +58,10 @@ _Published 2001, author **Peter S. Kastner, Cindy Murray, Ed Black (Aberdeen Gro
 - Capabilities briefing to IBM Software (Tivoli & WebSphere). `[ps=0]`
 - 2002 quarterly revenue targets: $125K / $150K / $175K / $200K (Q1-Q4). `[ps=0]`
 - 2002 revenue mix target: 20% ETI, 35% amplification, 20% retainers, 25% consulting. `[ps=0]`
+- Goal: get a plan from every practice area manager and execute. `[ps=0]`
 - Q3/4-2001: Aberdeen corporate capabilities presentation to IBM. `[ps=0]`
 - Use Linda Sanford lever to rest of IBM executive team; keep her engaged (example: Sept 5 voicemail by Peter offering to brief her on Aberdeen HP-Compaq analysis). `[ps=0]`
 - Use 20-25% of Cindy's time on IBM through Q1, then measure effectiveness. `[ps=0]`
-- Dedicate 10% of Peter to IBM business development. `[ps=0]`
-- Brief Somers analyst relations team en masse once or twice. `[ps=0]`
-- Invest up to one man-month of ETI research associate time to map IBM's research programs and product campaigns; use as war-room input for strategic and tactical planning. `[ps=0]`
-- Aberdeen has suffered from IBM's apparent historic experience that Aberdeen was a white-paper company at a time when white-papers are an IBM expendable budget item.
-- Goal: get a plan from every practice area manager and execute.
+- Use Peter where appropriate in briefings, projects and sales. `[ps=0]`
+- Attend all IBM analyst conferences and analyst briefings. `[ps=0]`
+- Brief Linda Sanford quarterly plus ad hoc event conference calls (i.e., HP acquires Compaq). `[ps=0]`

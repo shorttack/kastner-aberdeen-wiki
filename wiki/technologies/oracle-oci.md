@@ -12,9 +12,9 @@ era: "2016-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: -0.5
-prescience_obs_count: 2
+prescience_max: 4.0
+prescience_mean: 1.0
+prescience_obs_count: 3
 ---
 
 # Oracle Cloud Infrastructure (OCI)
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Oracle OCI Gen 2 differentiated on security architecture (no shared tenancy for control plane) and price parity with AWS `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
 - ~15 observations 2016–2026 on cloud pivot and OCI `[ps=0]` — [[study-2026-kastner-oracle-longitudinal]]
 - Oracle OCI grew to approximately 4-5% public cloud market share by 2026 — small but profitable and growing `[ps=-1]` — [[study-2026-kastner-oracle-longitudinal]]
-- Oracle OCI Gen 2 differentiated on security architecture (no shared tenancy for control plane) and price parity with AWS — [[study-2026-kastner-oracle-longitudinal]]

@@ -16,12 +16,12 @@ source_file: "2002 CA Does the Right Thing; Customers Say CRO Rocks.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.1
-prescience_obs_count: 10
+prescience_mean: 1.23
+prescience_obs_count: 13
 ---
 
 # CA Does the Right Thing; Customers Say CRO Rocks
@@ -43,13 +43,13 @@ _Published 2001, author **Valerie O'Connell**, type **insight**._
 - Multiple executives convicted of securities fraud related to premature revenue recognition `[ps=5]`
 - Self-initiated comprehensive internal reform covering products/processes/policies/personnel `[ps=2]`
 - Operating below public radar while executing innovative programs `[ps=2]`
+- Achieving first-rate customer satisfaction and trust `[ps=2]`
 - New CA identity will be validated by customer satisfaction improvement `[ps=2]`
+- Customer testimonials provided as primary evidence of CRO success `[ps=2]`
+- Highly effective in achieving first-rate customer satisfaction and trust `[ps=1]`
 - Non-quota-carrying group of service professionals `[ps=0]`
 - Broken products processes policies and personnel `[ps=0]`
 - The new CA `[ps=0]`
 - CRO embodies the values of the new CA `[ps=0]`
 - Acquired by Broadcom for $18.9 billion `[ps=0]`
 - Service professionals carry no sales quota `[ps=0]`
-- Achieving first-rate customer satisfaction and trust
-- Highly effective in achieving first-rate customer satisfaction and trust
-- Customer testimonials provided as primary evidence of CRO success

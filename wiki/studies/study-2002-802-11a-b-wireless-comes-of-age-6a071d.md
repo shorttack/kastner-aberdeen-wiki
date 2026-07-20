@@ -16,12 +16,12 @@ source_file: "2002 802.11a,b Wireless Comes of Age.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.25
-prescience_obs_count: 8
+prescience_mean: 3.08
+prescience_obs_count: 12
 ---
 
 # 802.11a,b Wireless Comes of Age
@@ -43,12 +43,12 @@ _Published 2002, author **Russ Craig**, type **market-study**._
 - Acquired by Qualcomm for $3.1B `[ps=5]`
 - Launched Centrino platform integrating 802.11b/g; major market success `[ps=5]`
 - Coming of age / mainstream adoption `[ps=4]`
+- High-performance at attractive prices `[ps=4]`
 - Front-runner; implied survivor of shakeout `[ps=4]`
+- Emerging; dual-band chipsets enabling broader uptake `[ps=4]`
 - Dominant standard at publication date; mature `[ps=4]`
 - Myriad competitors lining up to challenge Atheros `[ps=4]`
+- Many vendors will not remain in market within 1 year `[ps=3]`
 - Market leader / vendor to beat `[ps=0]`
+- Sold WLAN unit to GlobespanVirata for $365M `[ps=0]`
 - Major competitor lining up to challenge Atheros `[ps=0]`
-- High-performance at attractive prices
-- Many vendors will not remain in market within 1 year
-- Sold WLAN unit to GlobespanVirata for $365M
-- Emerging; dual-band chipsets enabling broader uptake

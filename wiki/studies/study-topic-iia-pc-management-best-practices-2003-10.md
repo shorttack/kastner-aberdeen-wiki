@@ -16,12 +16,12 @@ source_file: "IIA-PC-Rpt-Rough-Draft-10-7-03-6.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.32
-prescience_obs_count: 25
+prescience_mean: 1.4
+prescience_obs_count: 40
 ---
 
 # PC Management Best Practices: A Study of the Total Cost of Operation, Risk, Security, and Audit
@@ -42,26 +42,26 @@ _Published 2003, author **Mark Salamasick, Charles Le Grand**, type **topic-anal
 
 - 70-80% of PC TCO in operations; only 20-30% in acquisition/deployment `[ps=5]`
 - 20-25% cost reduction from PC best practices `[ps=4]`
+- 40 million+ desktops running outdated operating systems `[ps=4]`
 - more than 50% replace PCs 'as needed' or on 4+ year cycle `[ps=4]`
+- approximately 90% of digital attacks target known vulnerabilities `[ps=4]`
+- standardizing on 4-6 application configs = 15-25% IT cost reduction (~$1600/system) `[ps=4]`
 - consolidating client management tools reduces support costs 30%+ `[ps=4]`
 - Fortune 1000 to spend $2.5B on initial SOA compliance; 85% making IT systems changes `[ps=4]`
 - Aberdeen 2003 top-3 PC mgmt ROI best practices includes standard images + software distribution (2 of top 3) `[ps=4]`
 - 'objective of reducing number of standard images should be to get to a few' `[ps=4]`
+- 8000-9000 TCO per system typical enterprise `[ps=3]`
+- approximately 50% differentiate PC risk by applications/processes `[ps=3]`
 - Information Security #1 issue in AICPA 2003 Top Technologies survey `[ps=3]`
+- many Forum participants said they did not maintain reliable PC inventory, preventing adequate TCO analysis `[ps=3]`
+- $4000 per user annual savings (~50% reduction) from automated PC mgmt tools `[ps=2]`
 - Microsoft ending Windows 98 support in 2003 `[ps=1]`
+- 221 responses as of 2003-07-16 `[ps=0]`
+- 2003-07-24 through 2003-07-25 `[ps=0]`
 - Microsoft ending Windows NT 4.0 support in 2003 `[ps=0]`
 - 93% respondents have overall security policy for PCs `[ps=0]`
+- only 33% considered policies/practices tightly controlled `[ps=0]`
 - less than 30% believed organization employed virus-protection best practices `[ps=0]`
 - only 21% had performed wireless cost analysis `[ps=0]`
+- only 30% addressed wireless in PC policy/procedures `[ps=0]`
 - only 58% automatically deliver software patches `[ps=0]`
-- 85% deliver patches as needed rather than on fixed schedule `[ps=0]`
-- over 80% include PC in overall enterprise risk assessment `[ps=0]`
-- 32% replace OS 'as needed'; 54% have no OS upgrade criteria `[ps=0]`
-- 47% have full image backed up for PC recovery `[ps=0]`
-- 56% increase 2001 to 2002 `[ps=0]`
-- 90% of FBI/CSI respondents detected computer security breaches in past year `[ps=0]`
-- report organizes survey and chapters around COSO Internal Control Integrated Framework `[ps=0]`
-- continuation of 1990, 1993, 2001 Systems Assurance and Control projects `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- Director UT Dallas IIA Endorsed Internal Audit Program; prior 20yr Bank of America incl SVP Internet/Intranet and SVP IT Audit; earlier Andersen Consulting senior consultant `[ps=0]`
-- IIA AVP Technology Practices; CIA/CISA/CDP `[ps=0]`

@@ -1,6 +1,7 @@
 ---
 title: Quote 52 — Computerworld (1992-02-17)
 type: quotation
+page_type: quotation
 slug: quote-52
 row_id: 52
 author: "Peter S. Kastner"

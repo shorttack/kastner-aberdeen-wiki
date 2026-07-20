@@ -21,7 +21,7 @@ prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 2.5
-prescience_obs_count: 4
+prescience_obs_count: 6
 ---
 
 # Mac OS vs. Linux: Who's #2?
@@ -42,7 +42,7 @@ _Published 2004, author **Bryan Chaffin and Vern Seward (The Mac Observer); Pete
 
 - Definitions matter: installed seats (incl. piracy/embedded/preload) vs active desktop users produce different rankings `[ps=5]`
 - Mac ~15-20% global desktop; Linux ~2-4%. #2 question settled in favor of Mac `[ps=5]`
+- Considerably lower than Mac ~3% (Kastner) `[ps=4]`
+- HP claims Linux-based laptop will help Linux displace Mac OS as #2 `[ps=1]`
 - ~3 percent `[ps=0]`
 - Google logs support ~3% Mac figure `[ps=0]`
-- Considerably lower than Mac ~3% (Kastner)
-- HP claims Linux-based laptop will help Linux displace Mac OS as #2

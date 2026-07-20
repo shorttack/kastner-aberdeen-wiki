@@ -12,9 +12,9 @@ era: "1988-1995"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # Digital Distributed Transaction Architecture
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Digital Distributed Transaction Architecture: front-end (stimulus capture/forms), transaction server (monitor), resource manager (database); fully distributed in network — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
-- Simple goal: be number one in distributed production systems; eventually replace mainframes as DEC systems become better at handling large jobs — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
-- Distributed TP architecture will cover range from 16 transactions per second (low end) to hundreds of TPS (high end); distribution of stimulus capture + transaction server + DB access — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- Digital Distributed Transaction Architecture: front-end (stimulus capture/forms), transaction server (monitor), resource manager (database); fully distributed in network `[ps=4]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- Distributed TP architecture will cover range from 16 transactions per second (low end) to hundreds of TPS (high end); distribution of stimulus capture + transaction server + DB access `[ps=3]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- Simple goal: be number one in distributed production systems; eventually replace mainframes as DEC systems become better at handling large jobs `[ps=2]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]

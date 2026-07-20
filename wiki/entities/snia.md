@@ -14,7 +14,7 @@ years_active: "1997-present"
 occurrence_count: 3
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # SNIA (Storage Networking Industry Association)
@@ -30,5 +30,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - Presentations to user storage groups including SNIA as part of evangelism phase `[ps=0]` — [[study-03-contract-pools-of-storage-phase2-a47fd3]]
+- Presentations to user storage groups including SNIA planned `[ps=0]` — [[study-08-phase2-project-kickoff-2ea711]]
 - Press; industry trade associations; trade shows; SNIA user storage groups; online seminars; early adopter face-to-face interviews; Web Center of Excellence `[ps=0]` — [[study-maxtor-engagement-letter-nov2003]]
-- Presentations to user storage groups including SNIA planned — [[study-08-phase2-project-kickoff-2ea711]]

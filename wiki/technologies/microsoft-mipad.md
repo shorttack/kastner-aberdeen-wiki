@@ -13,8 +13,8 @@ lifecycle_at_study: "research"
 lifecycle_current: "abandoned"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Microsoft MiPad research prototype
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - MiPad remained a Microsoft Research prototype; never shipped commercially. Speech technology ambitions were partly realized later via Cortana, Azure Speech. `[ps=5]` — [[study-microsoft-s-future-paths-6-f86f30]]
-- Implications of Microsoft's MiPad and 'Dr. Who' speech research initiatives; current technology limitations discussed. — [[study-microsoft-s-future-paths-6-f86f30]]
+- Implications of Microsoft's MiPad and 'Dr. Who' speech research initiatives; current technology limitations discussed. `[ps=0]` — [[study-microsoft-s-future-paths-6-f86f30]]

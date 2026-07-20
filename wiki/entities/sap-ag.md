@@ -13,8 +13,8 @@ successor: "SAP SE (2014 rebranding)"
 years_active: "1972-present"
 occurrence_count: 49
 prescience_max: 5.0
-prescience_mean: 2.36
-prescience_obs_count: 97
+prescience_mean: 2.29
+prescience_obs_count: 126
 ---
 
 # SAP AG (later SAP SE)
@@ -39,6 +39,7 @@ prescience_obs_count: 97
 
 ## Top observations
 
+- HP 9000 Series 800 was original targeted hardware platform for SAP R3 redevelopment `[ps=5]` — [[study-1993-hercules-sap-28344a]]
 - SAP R3 became dominant ERP platform worldwide; SAP became largest enterprise software company globally `[ps=5]` — [[study-1993-hercules-sap-28344a]]
 - Need for R/3 plus complementary products for supply chain and other requirements `[ps=5]` — [[study-1997-teamsap-a3591b]]
 - Global Logo Partners may view SAP standards/controls as challenge to their own successful business models `[ps=5]` — [[study-1997-teamsap-a3591b]]
@@ -51,11 +52,10 @@ prescience_obs_count: 97
 - SAP leveraging ERP installed base to cross-sell CRM functionality `[ps=5]` — [[study-1999-managing-customers-with-next-generation-software-a-a5adc4]]
 - SAP remains largest enterprise application vendor as of 2026; hegemony prediction proved correct `[ps=5]` — [[study-2003-aberdeen-group-free-research-aberdeen-insights-1-968e18]]
 - SAP America near-100% YoY growth; R/3 at 85% of North American revenues; first vendor to $1B; high R&D spend signals continued innovation `[ps=5]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
+- SAP became the global ERP leader, dominating the market through 2000s. R/3 evolved to SAP ECC, then S/4HANA (2015). IBM became SAP's largest customer in 1994 and partnership deepened. SAP SE had revenues of ~$35B by 2023. `[ps=5]` — [[study-aberdeen-1995-ibm-as400-sap-r3]]
 - Not suitable for large-scale reengineering; optimal for standard process adoption `[ps=5]` — [[study-aberdeen-1997-acceleratedsap-strategy]]
 - ASAP became global standard; superseded by SAP Activate methodology for S/4HANA in 2015 `[ps=5]` — [[study-aberdeen-1997-acceleratedsap-strategy]]
 - SAP is a primary ERP vendor requiring professional services for implementation `[ps=5]` — [[study-decision-maker-erp-services-805ce8]]
 - SAP AG is enterprise CSS market leader `[ps=5]` — [[study-informix-dsa-presentation-2-8d5fa3]]
 - Wintel confirmed as viable enterprise platform for mid-range SAP; organizations should evaluate for deployments under 500 users `[ps=5]` — [[study-sap-r-3-on-wintel-servers-712986]]
 - SAP AG acquired Sybase in 2010 for approximately $5.8 billion, integrating Sybase ASE / IQ / Replication Server / mobile platform into SAP's product line — ironic outcome to the 1996 database-certification feud. `[ps=5]` — [[study-sap-sybase-face-off-f2612e]]
-- Customers want rapid business results, not multi-year re-engineering — especially with Y2K and Euro urgency `[ps=4]` — [[study-1997-teamsap-a3591b]]
-- Greater SAP involvement in selection, procurement and full deployment scope `[ps=4]` — [[study-1997-teamsap-a3591b]]

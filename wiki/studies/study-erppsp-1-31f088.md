@@ -16,12 +16,12 @@ source_file: "ERPPSP~1.DOC"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.39
-prescience_obs_count: 23
+prescience_mean: 1.53
+prescience_obs_count: 30
 ---
 
 # ERP Professional Services: 1998 Practice Summary
@@ -41,9 +41,12 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 ## Top observations
 
 - Y2K accelerating client/server ERP migration `[ps=5]`
+- Business growth will remain strong despite Arthur Andersen separation `[ps=5]`
+- Internet enabling supply chain integration for smaller enterprises `[ps=5]`
 - Middle market now adopting ERP `[ps=4]`
 - Phenomenal growth to slow as Fortune 1000 saturated `[ps=4]`
 - EDS not focused on ERP; GM revenue dependency forcing diversification `[ps=4]`
+- Shortage of qualified ERP consultants `[ps=4]`
 - Active M&A in ERP professional services `[ps=3]`
 - Compaq will use Digital expertise for ERP deployment not strategic planning `[ps=3]`
 - Partnering with HP for middle market ERP; needs stronger Oracle/PeopleSoft/Baan practices `[ps=3]`
@@ -56,12 +59,9 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 - >$78 billion `[ps=0]`
 - $24 billion `[ps=0]`
 - $7.5 billion `[ps=0]`
+- >$3.5 billion `[ps=0]`
 - 7% `[ps=0]`
+- ~$370 million `[ps=0]`
 - $120 million `[ps=0]`
+- 2 `[ps=0]`
 - Coming down due to new methodologies and tools `[ps=0]`
-- Will create largest/premier IPSP globally `[ps=0]`
-- More than double over next 2-5 years `[ps=0]`
-- Surpassed industry expectations in manufacturing; acquired Red Pepper `[ps=0]`
-- Leading OEM for ERP deployment despite understating involvement `[ps=0]`
-- >$3.5 billion
-- ~$370 million

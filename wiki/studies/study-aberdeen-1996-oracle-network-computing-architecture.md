@@ -16,12 +16,12 @@ source_file: "1996 Oracle's Network Computing Architecture pr.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.83
-prescience_obs_count: 23
+prescience_mean: 2.8
+prescience_obs_count: 30
 ---
 
 # Oracle's Network Computing Architecture
@@ -47,21 +47,21 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Deploy on client platforms supporting Windows and Internet environments `[ps=4]`
 - Database-level cartridges with direct access to Universal Server stored procedures and query optimizer `[ps=4]`
 - Java integrated into CORBA; developers can use Java/JavaScript alongside C/C++, VB, PL/SQL `[ps=4]`
+- CORBA declined rapidly by 2000s; superseded by XML web services and REST; Oracle shifted accordingly `[ps=4]`
 - Java became dominant enterprise language; Oracle acquired Sun Microsystems (Java) in 2010 `[ps=4]`
 - COM as Microsoft ORB approach; competing with CORBA for distributed object standard `[ps=4]`
 - Communications multiplexing and load balancing bypass CGI bottlenecks for Intranet apps `[ps=4]`
+- Integrates with HP OpenView for global systems administration `[ps=3]`
+- More advanced tools within Developer/2000 for creating and distributing cartridges expected `[ps=3]`
 - Supports HTTP and Netscape IIOP for cross-platform communication `[ps=3]`
 - Allows automatic software deployment across Internet; legacy apps translatable to Internet `[ps=3]`
+- Architecture open to third-party cartridge development; ISVs can sell components in cartridge market `[ps=3]`
+- Integrate multi-tier client-server + Internet + distributed-object via unified cartridge model `[ps=2]`
 - Not a marketecture; straightforward extension of proven Oracle products `[ps=2]`
 - Location-independent component invocation across platforms; bridges Oracle NCA to Microsoft COM `[ps=2]`
+- ICX provides bridges to Microsoft COM; supports both major ORB approaches `[ps=2]`
 - Legacy client-server apps written in Developer/2000 can be translated to Internet with little effort `[ps=2]`
+- Aberdeen recommends ISVs and IS not only prototype but factor NCA into strategies for next 1-2 years `[ps=2]`
 - Aberdeen anticipates Oracle will integrate Microsoft COM more tightly over 1-2 years `[ps=2]`
 - Release of cartridges customized for business functions (finance) and vertical industries expected `[ps=2]`
 - NCA succeeded in establishing Oracle as enterprise internet platform; Oracle grew to dominant position `[ps=2]`
-- Leadership technology suite for ISVs and IS buyers moving into Internet and distributed-object `[ps=2]`
-- Thriving market in vertical/functional cartridges expected within next year `[ps=1]`
-- Relatively low risk: builds on proven Oracle products; wrapping legacy apps as cartridges `[ps=1]`
-- Job scheduling, event management, monitoring, diagnostics, replication management, network management `[ps=0]`
-- Includes web-enabled Developer/2000, Designer/2000, Cartridge Development Kit, Oracle Web Server `[ps=0]`
-- Integrate multi-tier client-server + Internet + distributed-object via unified cartridge model
-- ICX provides bridges to Microsoft COM; supports both major ORB approaches

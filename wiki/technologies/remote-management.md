@@ -14,7 +14,7 @@ lifecycle_current: "mainstream"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Remote Management Technology
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- full-remote-diagnosis-and-repair `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
 - cost-effective-third-party `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
 - essential-for-distributed-workforce `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- full-remote-diagnosis-and-repair — [[study-2010-intel-vpro-daily-globe-6f615e]]

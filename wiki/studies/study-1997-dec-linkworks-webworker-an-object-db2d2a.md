@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.33
-prescience_obs_count: 21
+prescience_mean: 1.71
+prescience_obs_count: 28
 ---
 
 # DEC LinkWorks WebWorker — An Object Framework that Tames the Web
@@ -40,11 +40,16 @@ _Published 1997, author **AberdeenGroup**, type **Vendor Profile**._
 
 ## Top observations
 
+- ibm_will_support_javabeans_and_corba `[ps=5]`
 - compaq_acquired_dec_june_1998 `[ps=5]`
+- renamed_tru64_final_support_ended_2012 `[ps=5]`
 - enterprise_deployment_experience_barrier `[ps=4]`
 - extroverted_apps_higher_roi_than_internal `[ps=4]`
+- web_services_soap_rest_replaced_corba `[ps=4]`
+- java_dominant_enterprise_language `[ps=4]`
 - legacy_programmers_can_transition_to_oo `[ps=4]`
 - rapid_application_development_lower_tco `[ps=3]`
+- ole_automation_integrated `[ps=2]`
 - discontinued_2008_firefox_is_successor `[ps=2]`
 - once_integrated_linkworks_apps_leverageable `[ps=2]`
 - Fortune_1000_widespread `[ps=1]`
@@ -55,13 +60,8 @@ _Published 1997, author **AberdeenGroup**, type **Vendor Profile**._
 - any_web_browser `[ps=0]`
 - less_than_50pct_browsers_support_java `[ps=0]`
 - digital_unix_hp_ux_openvms_aix_nt `[ps=0]`
+- win95_nt_motif_mac_webworker `[ps=0]`
+- oracle_mssql_ingres_informix `[ps=0]`
 - in_progress `[ps=0]`
 - sun_netscape_ibm_microsoft_all_committed `[ps=0]`
 - 6_to_12_months `[ps=0]`
-- linkworks_can_choose_several_implementations `[ps=0]`
-- evolved_to_dotnet_then_deprecated `[ps=0]`
-- aberdeen_urges_companies_to_evaluate `[ps=0]`
-- win95_nt_motif_mac_webworker
-- oracle_mssql_ingres_informix
-- ole_automation_integrated
-- ibm_will_support_javabeans_and_corba

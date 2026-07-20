@@ -13,8 +13,8 @@ successor: "Cisco Webex (Webex by Cisco)"
 years_active: "1995-2007"
 occurrence_count: 3
 prescience_max: 5.0
-prescience_mean: 2.77
-prescience_obs_count: 22
+prescience_mean: 2.85
+prescience_obs_count: 27
 ---
 
 # WebEx Communications, Inc.
@@ -35,17 +35,17 @@ prescience_obs_count: 22
 - Market leader in data-rich online business meetings `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
 - Core platform for live data-rich online business meetings `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
 - Live remote hands-on customer technical support service `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Large online events and web seminars service `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Rolling out April 2002 to address considerable internal training market `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
 - Covers data-rich online meetings, remote support, large events, and training `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
 - WebEx positioned as business communications summit — top-tier utility infrastructure `[ps=4]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
 - Clear leader in high-end Web conferencing `[ps=4]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
 - Acquired by Cisco Systems in 2007 for approximately $3.2 billion; market leadership validated `[ps=4]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
 - Market for online business meetings growing; WebEx best positioned `[ps=3]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- WebEx launches Enterprise Edition packaging/pricing for Fortune 1000 `[ps=3]` — [[study-informationweek-webex-enterprise-collabo-e30ad5]]
 - Private conferencing switched network on top of Internet; utility-grade QoS and security `[ps=3]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
+- 5 new capabilities: UCF, multi-document sharing, Access Anywhere, multipoint video, PDA support `[ps=3]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
 - Noun becoming verb: 'Let's WebEx' `[ps=3]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
 - Positioned to become dominant online meeting standard; making online meetings as straightforward as telephone calls `[ps=3]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
 - Uniquely used by WebEx; ideally suited for live data-rich business communications `[ps=2]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
 - Private-network infrastructure approach uniquely positions WebEx as long-term leader `[ps=2]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- WebEx provides utility-grade QoS; Internet provides none; competitors' erratic response times can be catastrophic `[ps=2]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]
-- WebEx Training Center launched April 2002 as predicted `[ps=0]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- $3.2 billion acquisition at $57/share in May 2007 `[ps=0]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- 5,000+ customers `[ps=0]` — [[study-webex--taking-conferencing-to-the-busine-5b8109]]

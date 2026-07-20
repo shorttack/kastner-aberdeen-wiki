@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 2.0
-prescience_mean: 2.0
-prescience_obs_count: 1
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # HP VISUALIZE Unix Workstations
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - HP VISUALIZE Unix workstations outperform Vectra XW in compute-intensive tasks: CFD, FEA, crash/stress analysis `[ps=2]` — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]
-- 50% of HP Unix workstation sales through direct sales force; 50% through indirect distributors/VARs — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]
+- 50% of HP Unix workstation sales through direct sales force; 50% through indirect distributors/VARs `[ps=0]` — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]

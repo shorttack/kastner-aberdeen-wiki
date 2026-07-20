@@ -13,8 +13,8 @@ lifecycle_at_study: "experimental"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 2
 prescience_max: 2.0
-prescience_mean: 1.0
-prescience_obs_count: 2
+prescience_mean: 0.67
+prescience_obs_count: 3
 ---
 
 # MYCIN
@@ -26,4 +26,4 @@ prescience_obs_count: 2
 
 - MYCIN: rule-based medical diagnosis system; cited as representative commercially significant expert system of the 1980s. `[ps=2]` — [[study-volume-1-ch10-the-long-view-1966-2026]]
 - 4 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
-- 50 — [[study-2026-kastner-enterprise-ai-arc]]
+- 50 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]

@@ -16,12 +16,12 @@ source_file: "1998 Internet Procurement.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.0
-prescience_obs_count: 11
+prescience_mean: 3.13
+prescience_obs_count: 15
 ---
 
 # Internet Procurement
@@ -50,8 +50,8 @@ _Published 1998, author **Aberdeen Group**, type **white-paper**._
 - Pure-play Internet procurement software specialist targeting indirect/non-production goods buying `[ps=4]`
 - B2B e-marketplace and catalog software provider; launched 5M-product catalog; targeted indirect procurement `[ps=4]`
 - Emerging; automated approval routing was key product differentiator for Ariba and Commerce One `[ps=4]`
+- SAP positioned as ERP vendor beginning to integrate internet procurement capabilities; partnered with Commerce One December 1997 `[ps=3]`
+- $150 each or $250 for both reports `[ps=0]`
+- February 1999 (Viewpoint) and April 1999 (White Paper); research from November 1998 `[ps=0]`
 - 12 pages (Viewpoint) + 14 pages (White Paper) `[ps=0]`
-- $150 each or $250 for both reports
-- February 1999 (Viewpoint) and April 1999 (White Paper); research from November 1998
-- Early adopter survey of Internet Procurement automation users; product selection and actual benefits realized
-- SAP positioned as ERP vendor beginning to integrate internet procurement capabilities; partnered with Commerce One December 1997
+- Early adopter survey of Internet Procurement automation users; product selection and actual benefits realized `[ps=0]`

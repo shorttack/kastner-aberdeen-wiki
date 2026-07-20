@@ -16,7 +16,7 @@ source_file: "transcript Crossroads ad 2.md"
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
-study_prescience_enum: "low"
+study_prescience_enum: "not-applicable"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: null

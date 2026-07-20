@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.5
-prescience_obs_count: 6
+prescience_mean: 2.3
+prescience_obs_count: 10
 ---
 
 # DataReach: Finding Business Value in Extracting Data
@@ -42,11 +42,11 @@ _Published 1997, author **David Hill**, type **Vendor Profile**._
 
 - Data warehouses and data marts in open systems environments are the destination for mainframe data `[ps=5]`
 - EMC Corporation acquired by Dell for $67 billion in 2016; became Dell EMC; later Dell Technologies `[ps=5]`
+- Mainframe scheduling and operational constraints limit time available to move data to open systems `[ps=4]`
 - DataReach as a standalone joint product did not achieve sustained commercial success; ETL platforms and broader EAI tools supplanted purpose-built mainframe bypass products `[ps=4]`
+- Traditional data propagation methods for mainframe data may cost more than expected `[ps=3]`
+- Aberdeen believes DataReach will topple mainframe-infrastructure barriers to the free flow of data `[ps=1]`
 - DataReach will help many large enterprises capture business value that might otherwise be lost from mainframe data `[ps=1]`
 - Global 2000 enterprises are the primary target market for DataReach `[ps=0]`
 - EMC provides intelligent storage component of DataReach partnership `[ps=0]`
-- Aberdeen believes DataReach will topple mainframe-infrastructure barriers to the free flow of data
-- Mainframe scheduling and operational constraints limit time available to move data to open systems
-- BMC Software provides data movement software component of DataReach partnership
-- Traditional data propagation methods for mainframe data may cost more than expected
+- BMC Software provides data movement software component of DataReach partnership `[ps=0]`

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "2000s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Ramon Ray
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'Get a good laptop, docking station, external monitor and a few more things... and then ditch your desktop' — [[study-laptop-performance-bottleneck-smallbiz-r-e310b2]]
+- 'Get a good laptop, docking station, external monitor and a few more things... and then ditch your desktop' `[ps=4]` — [[study-laptop-performance-bottleneck-smallbiz-r-e310b2]]

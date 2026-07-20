@@ -16,12 +16,12 @@ source_file: "NTI 2 Open Systems.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.88
-prescience_obs_count: 26
+prescience_mean: 0.97
+prescience_obs_count: 29
 ---
 
 # Open Systems: A Technology Status Report
@@ -40,12 +40,14 @@ _Published 1993, author **Peter S. Kastner, John Logan, Thomas Willmott**, type 
 
 ## Top observations
 
+- Oracle leads independents `[ps=4]`
 - Will accelerate complex high-volume applications `[ps=4]`
 - Applications portability vision too narrow `[ps=4]`
 - Well positioned for next-generation object-oriented systems `[ps=4]`
 - Hopes to regain momentum during balance of 1990s `[ps=4]`
 - Will expand to link distributed systems with triggers, procedures, two-phase commit `[ps=4]`
 - Critical glue with triggers, procedures, two-phase commit `[ps=3]`
+- Will clearly dominate unit shipments as users upgrade to graphical apps `[ps=1]`
 - 65% `[ps=0]`
 - 30 million units in 1993 `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
@@ -63,5 +65,3 @@ _Published 1993, author **Peter S. Kastner, John Logan, Thomas Willmott**, type 
 - [UNVERIFIED] `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - Shifting from supplier to customer `[ps=0]`
-- Fastest growing and most challenging area `[ps=0]`
-- [UNVERIFIED] `[ps=0]`

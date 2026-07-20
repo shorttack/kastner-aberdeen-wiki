@@ -13,8 +13,8 @@ successor: "IBM (acquired database division 2001 for $1B; brand continued as IBM
 years_active: "1980-2001"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 1.57
-prescience_obs_count: 7
+prescience_mean: 2.0
+prescience_obs_count: 8
 ---
 
 # Informix Software Inc.
@@ -25,10 +25,10 @@ prescience_obs_count: 7
 ## Top observations
 
 - Informix benchmark leadership proven by TPC-C result but accounting fraud scandal (1997) undermined company `[ps=5]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
+- Limited follow-through; Informix accounting scandal and SGI commercial difficulties curtailed benchmark activity `[ps=5]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
 - New result establishes Informix leadership claim for 1997 high-end performance `[ps=2]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
 - More performance-increasing benchmarks expected from Informix and SGI `[ps=2]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
 - Continues to deliver outstanding benchmark results; 28-way SMP efficiency demonstrated `[ps=2]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
 - 25309.20 `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
 - $139.04 per tpmC `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
 - $3519012 `[ps=0]` — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]
-- Limited follow-through; Informix accounting scandal and SGI commercial difficulties curtailed benchmark activity — [[study-1997-informix-and-silicon-graphics-reach-98e6ea]]

@@ -1,6 +1,7 @@
 ---
 title: Quote 747 — Computerworld (1994-07-18)
 type: quotation
+page_type: quotation
 slug: quote-747
 row_id: 747
 author: "Peter S. Kastner"

@@ -13,8 +13,8 @@ successor: ""
 years_active: "1911-present"
 occurrence_count: 41
 prescience_max: 5.0
-prescience_mean: 2.12
-prescience_obs_count: 205
+prescience_mean: 2.21
+prescience_obs_count: 276
 ---
 
 # Oracle Corporation
@@ -33,9 +33,11 @@ prescience_obs_count: 205
 - Integrated data warehouse appliances and cloud suites became dominant; Oracle, Microsoft, IBM all pursued bundled approaches; specialized standalone BI vendors (Business Objects, Cognos, Hyperion) were acquired by major platform vendors `[ps=5]` — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
 - Oracle Designer/2000 and Developer/2000 failed to become dominant Internet development tools; Java/J2EE, open source frameworks (Struts, Spring), and later .NET and JavaScript frameworks displaced Oracle's proprietary toolchain by mid-2000s; Oracle Designer reached end of life 2018 `[ps=5]` — [[study-1997-oracle-designer-2000-3201a7]]
 - Oracle8 table partitioning allows dividing tables into smaller chunks for manageability, performance, and reduced downtime `[ps=5]` — [[study-1997-oracle8-the-database-for-network-computing-674c9d]]
+- Oracle will add further object-relational features, further integrate relational and object data, and improve object-access performance over next 1-2 years `[ps=5]` — [[study-1997-oracle8-the-database-for-network-computing-674c9d]]
 - Oracle8i (1998) delivered Java VM integration, XML support, and further OR enhancements; Oracle9i (2001) added RAC and XML DB; predictions proved substantially correct `[ps=5]` — [[study-1997-oracle8-the-database-for-network-computing-674c9d]]
 - Java access to Oracle8 object data to be supported in Oracle 8.1 `[ps=5]` — [[study-1997-oracle8-the-database-for-network-computing-674c9d]]
 - PeopleSoft's Internet strategy succeeded commercially—employee self-service became widely adopted; PeopleSoft grew significantly before being acquired by Oracle for $10.3B in 2005 after hostile takeover; Oracle continues to sell PeopleSoft HCM `[ps=5]` — [[study-1997-peoplesoft-works-the-internet-452445]]
+- Oracle acquired PeopleSoft ($10.3B 2005) and became second-largest ERP vendor; ERP cloud strategy (Fusion) emerged 2006-2011. Oracle retained major market presence despite weakest 1997 modeling capability. `[ps=5]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
 - Oracle9i RAC supersedes Oracle Parallel Server; uses dedicated network for inter-node communication `[ps=5]` — [[study-2001-compaq-tru64-unix-and-oracle9i-clusters-reduce-cos-17b4b2]]
 - Upgrading installed base is core of new license revenue opportunity `[ps=5]` — [[study-2002-a-kinder-gentler-larry-ellison-oracle-presents-new-cb69fb]]
 - Oracle identified Linux as fastest growing OS for any deployment; aligned with Dell on commodity server vision `[ps=5]` — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
@@ -47,5 +49,3 @@ prescience_obs_count: 205
 - Oracle hostile bid for PeopleSoft rationalized as HCM capability acquisition + elimination of primary applications competitor `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]
 - Oracle acquired PeopleSoft January 2005 for $10.3B after 18-month hostile contest; DOJ antitrust challenge failed `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]
 - PeopleSoft HCM and JD Edwards still actively deployed in 2026 — 21 years post-acquisition `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]
-- Oracle 10g introduced Grid Computing branding — Oracle's reframing of multi-server architectures as 'utility computing grid' `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]
-- Oracle Cloud ERP (Fusion Financials) competes with SAP S/4HANA Cloud for large enterprise ERP cloud migrations `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]

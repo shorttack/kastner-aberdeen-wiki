@@ -12,9 +12,9 @@ status: "operating"
 successor: ""
 years_active: "1977-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # US Department of Energy
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DoE estimated most US states would use time-of-day rates within five or six years — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
+- DoE estimated most US states would use time-of-day rates within five or six years `[ps=2]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]

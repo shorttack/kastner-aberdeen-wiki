@@ -16,12 +16,12 @@ source_file: "Inovant RAMP Interview for Maxtor Project.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.57
-prescience_obs_count: 23
+prescience_mean: 0.68
+prescience_obs_count: 34
 ---
 
 # RAMP Interview: Inovant / Visa (Maxtor Midline Storage Study)
@@ -41,27 +41,27 @@ _Published 2003, author **Peter S. Kastner, David Hill**, type **market-study**.
 ## Top observations
 
 - Applications development organizations with cradle-to-grave responsibility may be actual storage decision makers over ops `[ps=4]`
+- Challenge is to change thinking about which applications could use low-cost disk alternatives `[ps=4]`
 - 10TB dispute image app is ideal candidate for lower-cost storage tier if availability barriers overcome `[ps=4]`
+- 5% SCSI / 95% FC `[ps=3]`
+- CPU bottlenecks; no disk bottlenecks `[ps=3]`
 - Windows=100% DAS / Unix-Linux=100% NAS `[ps=2]`
 - very unlikely for primary and SLA-bound storage `[ps=2]`
 - Organizations running customer-facing applications with strong SLAs will not consider low-cost disk for those applications `[ps=1]`
+- 20 TB `[ps=0]`
 - 30% `[ps=0]`
+- $70M `[ps=0]`
 - 10% Windows / 90% Unix-Linux `[ps=0]`
 - 50% `[ps=0]`
+- 75% `[ps=0]`
+- 2 of 7 `[ps=0]`
 - 2 of 7 `[ps=0]`
 - 3 of 7 `[ps=0]`
+- supercritical `[ps=0]`
 - 50% `[ps=0]`
 - 10 TB `[ps=0]`
 - growth as more banks sign up `[ps=0]`
+- DB2 centralized; replication planned `[ps=0]`
 - San Mateo CA (15TB); McLean VA (5TB); Denver CO `[ps=0]`
 - 8-10 `[ps=0]`
-- less than once per year `[ps=0]`
-- EMC `[ps=0]`
-- dedicated full-time storage team `[ps=0]`
-- optical or virtual tape `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- 1 extra via RAID 0+1 `[ps=0]`
-- 4-5 major applications (Web + OLTP) `[ps=0]`
-- 20 TB
-- $70M
+- no problem with window but jobs fail at unacceptable rate `[ps=0]`

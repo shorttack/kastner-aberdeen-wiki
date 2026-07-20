@@ -13,8 +13,8 @@ lifecycle_at_study: "current-2002"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 45
 prescience_max: 5.0
-prescience_mean: 1.31
-prescience_obs_count: 45
+prescience_mean: 1.28
+prescience_obs_count: 46
 ---
 
 # Intel Pentium 4 (2.4 GHz)

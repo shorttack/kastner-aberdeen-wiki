@@ -12,9 +12,9 @@ status: "[DEFERRED]"
 successor: "Acquired by MDL Information Systems -> Elsevier MDL -> Symyx -> Accelrys"
 years_active: "1978-1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Molecular Design Limited
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $25M revenue Aberdeen estimate; 160 domestic plus 100 overseas customers; 220 employees; 1,100 PC-based customers — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- $25M revenue Aberdeen estimate; 160 domestic plus 100 overseas customers; 220 employees; 1,100 PC-based customers `[ps=0]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]

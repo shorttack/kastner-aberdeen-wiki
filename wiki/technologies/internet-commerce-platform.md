@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.9
-prescience_obs_count: 10
+prescience_mean: 3.09
+prescience_obs_count: 11
 ---
 
 # Internet Commerce Platform (Category)
@@ -24,6 +24,7 @@ prescience_obs_count: 10
 
 ## Top observations
 
+- At least one computer hardware vendor at $1 million per day internet run rate `[ps=5]` — [[study-1997-commerce-exchange-pvp-250db8]]
 - Internet commerce grew explosively through 1999-2000 as Aberdeen predicted; Amazon, eBay, and others achieved massive scale; however the dot-com crash (2000-2001) destroyed many first-generation internet retailers `[ps=5]` — [[study-1997-commerce-exchange-pvp-250db8]]
 - Aberdeen expects internet consumers' patience for slow sites to peter out quickly; 10-15 seconds accepted in 1997 but declining rapidly `[ps=5]` — [[study-1997-commerce-exchange-pvp-250db8]]
 - Lack of solution breadth; large-scale interactive sites must be open, scalable, and integrate multiple point products and legacy systems `[ps=4]` — [[study-1997-commerce-exchange-pvp-250db8]]
@@ -34,4 +35,3 @@ prescience_obs_count: 10
 - $520 million emerging Internet goods market; computer hardware and software comprised ~37% `[ps=0]` — [[study-1997-commerce-exchange-pvp-250db8]]
 - Greater than $1 million when requiring complex integration `[ps=0]` — [[study-1997-commerce-exchange-pvp-250db8]]
 - Internet consumers willing to wait 10-15 seconds for page download in 1997 `[ps=0]` — [[study-1997-commerce-exchange-pvp-250db8]]
-- At least one computer hardware vendor at $1 million per day internet run rate — [[study-1997-commerce-exchange-pvp-250db8]]

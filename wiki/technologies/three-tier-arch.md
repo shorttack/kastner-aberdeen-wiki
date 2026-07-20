@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Three-Tier Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Presentation, application logic, database layers partitioned into separate modules dynamically deployed on different hardware — [[study-aberdeen-1996-clarify-inc]]
+- Presentation, application logic, database layers partitioned into separate modules dynamically deployed on different hardware `[ps=5]` — [[study-aberdeen-1996-clarify-inc]]

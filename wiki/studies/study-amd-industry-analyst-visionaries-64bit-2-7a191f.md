@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.86
-prescience_obs_count: 7
+prescience_mean: 3.75
+prescience_obs_count: 8
 ---
 
 # Industry Analyst Visionaries on 64-bit Computing
@@ -46,5 +46,5 @@ _Published 2003, author **AMD (publisher)**, type **vendor-publication**._
 - Let me make clear that 64-bit computing has been around for quite some time now, and in fact the whole UNIX RISC area already is 64-bit capable. We see it being used particularly for handling large, scalable [data]. `[ps=4]`
 - In the next two to three years, one will witness a large set of enterprises going in for 64-bit systems as it offers superior performance in terms of scalability, power and reliability `[ps=4]`
 - I believe that 64-bit technology will bring new and exciting opportunities to the mainstream market. Once you give millions [of users 64-bit, the ecosystem follows]. `[ps=4]`
+- The majority of consumer market for 64-bit computing will arrive at the end of the decade. We expect mainstream desktops to need full 64-bit addressability of RAM by 2010 due to declining memory prices, more OS features, and web services. `[ps=3]`
 - Peter Kastner attributed as Aberdeen Group analyst in AMD industry-visionary curation `[ps=0]`
-- The majority of consumer market for 64-bit computing will arrive at the end of the decade. We expect mainstream desktops to need full 64-bit addressability of RAM by 2010 due to declining memory prices, more OS features, and web services.

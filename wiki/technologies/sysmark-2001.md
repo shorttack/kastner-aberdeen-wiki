@@ -14,7 +14,7 @@ lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'BAPCo SYSmar
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 3
+prescience_obs_count: 4
 ---
 
 # BAPCo SYSmark 2001
@@ -26,5 +26,5 @@ prescience_obs_count: 3
 
 - No Athlon XP 2000+ results filed with BAPCo as of Feb 15, 2002 `[ps=0]` — [[study-amd-profile01-64e43b]]
 - ~33.3% (one-half Office Productivity plus two-thirds Content Creation) `[ps=0]` — [[study-amd-profile01-64e43b]]
+- Intel's own Bapco results exceed AMD-reported Intel scores on same processor `[ps=0]` — [[study-amd-profile01-64e43b]]
 - Business Winstone 2001 (I/O-intensive system benchmark) included to measure processor performance `[ps=0]` — [[study-amd-profile01-64e43b]]
-- Intel's own Bapco results exceed AMD-reported Intel scores on same processor — [[study-amd-profile01-64e43b]]

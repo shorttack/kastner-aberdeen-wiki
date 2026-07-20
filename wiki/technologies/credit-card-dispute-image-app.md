@@ -13,8 +13,8 @@ lifecycle_at_study: "active"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 1.33
-prescience_obs_count: 3
+prescience_mean: 1.0
+prescience_obs_count: 4
 ---
 
 # Credit Card Dispute Image Application
@@ -27,4 +27,4 @@ prescience_obs_count: 3
 - 10TB dispute image app is ideal candidate for lower-cost storage tier if availability barriers overcome `[ps=4]` — [[study-inovant-ramp-interview-for-maxtor-projec-e7f75d]]
 - 10 TB `[ps=0]` — [[study-inovant-ramp-interview-for-maxtor-projec-e7f75d]]
 - growth as more banks sign up `[ps=0]` — [[study-inovant-ramp-interview-for-maxtor-projec-e7f75d]]
-- DB2 centralized; replication planned — [[study-inovant-ramp-interview-for-maxtor-projec-e7f75d]]
+- DB2 centralized; replication planned `[ps=0]` — [[study-inovant-ramp-interview-for-maxtor-projec-e7f75d]]

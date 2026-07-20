@@ -13,8 +13,8 @@ lifecycle_at_study: "Growth"
 lifecycle_current: "Active (AIX 7.3; supported through 2033)"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 3
+prescience_mean: 3.75
+prescience_obs_count: 4
 ---
 
 # AIX (Advanced Interactive eXecutive)
@@ -27,4 +27,4 @@ prescience_obs_count: 3
 - AIX remains active as of 2026; AIX 7.3 supported through 2033; one of last surviving commercial Unix variants `[ps=5]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
 - Sun named as primary Unix competitor to RS/6000 in historical context `[ps=5]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
 - Sun acquired by Oracle for $7.4B in 2010; Solaris/SPARC line eventually wound down `[ps=5]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
-- Study positioned to review IBM Unix market position and S70 strategy fit — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]
+- Study positioned to review IBM Unix market position and S70 strategy fit `[ps=0]` — [[study-1997-ibm-ships-first-64-bit-rs-6000-serv-961e2c]]

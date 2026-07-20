@@ -12,9 +12,9 @@ era: "1969-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
-prescience_max: 2.0
-prescience_mean: 2.0
-prescience_obs_count: 1
+prescience_max: 3.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Software AG ADABAS
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- store-and-forward architecture present; full developer APIs not yet provided `[ps=3]` — [[study-aberdeen-1995-commercial-messaging]]
 - 25% of revenues invested in R&D `[ps=2]` — [[study-nti-6-rdbms-technology-48f4aa]]
-- store-and-forward architecture present; full developer APIs not yet provided — [[study-aberdeen-1995-commercial-messaging]]

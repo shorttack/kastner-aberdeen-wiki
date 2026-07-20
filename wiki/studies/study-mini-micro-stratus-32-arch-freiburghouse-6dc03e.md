@@ -16,12 +16,12 @@ source_file: "Stratus-Arch-Freiburghouse-1982-Mini-Micro-Systems-5.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 6
+prescience_max: 3.0
+prescience_mean: 0.38
+prescience_obs_count: 8
 ---
 
 # Mini-Micro Systems: Robert Freiburghouse on the Stratus/32 Architecture — VOS, StrataLINK, and 'Continuous Processing' (1982)
@@ -40,11 +40,11 @@ _Published 1982, author **Robert Freiburghouse (Stratus Computer)**, type **trad
 
 ## Top observations
 
+- Failed board can be replaced in running system by nontechnical person without special tools `[ps=3]`
 - Robert Freiburghouse, Stratus Computer (architect; bylined author) `[ps=0]`
 - Up to 32 processing modules per system `[ps=0]`
+- 32 MB/sec potential, 16 MB/sec actual; 125-nsec cycle; 32-bit data path `[ps=0]`
 - VAX 11/780 bus runs at 13 MB/sec — Stratus internal bus comparison `[ps=0]`
 - Dual link 2.8 MB/sec; single link 1.4 MB/sec `[ps=0]`
 - 16 MB total (4 MB VOS + 12 MB user) `[ps=0]`
 - $172,000 typical: 4 MB memory, dual i43 MB disks, 600 lpm printer, mag tape, COBOL + VOS licenses `[ps=0]`
-- 32 MB/sec potential, 16 MB/sec actual; 125-nsec cycle; 32-bit data path
-- Failed board can be replaced in running system by nontechnical person without special tools

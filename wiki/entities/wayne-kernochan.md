@@ -11,10 +11,10 @@ sector: "technology research and advisory"
 status: "unknown"
 successor: "unknown"
 years_active: "1990s-present"
-occurrence_count: 3
+occurrence_count: 4
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 4
 ---
 
 # Wayne Kernochan
@@ -29,6 +29,7 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Wayne Kernochan co-authored the vendor-by-vendor scoring in the 1993 RDBMS Report Card, grading Ingres, Oracle, Sybase, and IBM's DB2 best-in-class/worst-in-class by category. `[ps=0]` — [[study-2026-kastner-database-decade-rdbms]]
 - Sole coordinator `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - scalability flexibility Web robustness ever-increasing workloads rapid online upgradeability `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- Deep expertise in database systems and data management; could identify lock-escalation patterns causing performance degradation at scale. — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
+- Deep expertise in database systems and data management; could identify lock-escalation patterns causing performance degradation at scale. `[ps=0]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]

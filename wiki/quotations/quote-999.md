@@ -1,6 +1,7 @@
 ---
 title: Quote 999 — Computerworld (1995-12-18)
 type: quotation
+page_type: quotation
 slug: quote-999
 row_id: 999
 author: "Peter S. Kastner"

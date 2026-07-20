@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.7
-prescience_obs_count: 20
+prescience_mean: 2.81
+prescience_obs_count: 26
 ---
 
 # Management and Governance: Planning for an Optimized SOA Application Lifecycle
@@ -49,19 +49,19 @@ _Published 2007, author **Aberdeen Group**, type **employer-record**._
 - 38% cite SLAs/scaling to production volumes/reliability and availability as stumbling block `[ps=4]`
 - 35% cite debugging problems with complex services and composites as stumbling block `[ps=4]`
 - 34% cite data management of SOA services as problematic `[ps=4]`
+- 42% overall cite management of IT complexity as second driver; 44% of BIC (higher than average due to more experience) `[ps=4]`
+- Banking/brokerage/insurance most focused on compliance governance; manufacturing on operational complexity `[ps=4]`
 - 90% of Global 10,000 organizations have embarked on SOA journeys `[ps=3]`
+- 45% of survey and 46% of supply chain organizations cite developing new business capabilities as top SOA governance driver `[ps=3]`
+- 75% of Best-in-Class unhappy with application development tools and plan to supplement/replace within 6 months `[ps=3]`
+- Re-usage of applications via Web Services: BIC 47%, Average 43%, Laggard 36% `[ps=3]`
 - 40% of IT budget dedicated to application integration; SOA positioned as solution `[ps=3]`
 - Organizations dawdling with web services and no firm SOA plan are falling behind peers `[ps=3]`
 - Without design-time governance, programmers will not reuse services and lifecycle costs will balloon `[ps=3]`
 - None of survey participants will ignore SOA management and governance investments; BIC have it now, Industry Average is planning `[ps=3]`
 - SOA Lite: ~50% of companies; Enterprise SOA: ~30%; ERP SOA: ~20% `[ps=2]`
+- 50% code reuse under SOA governance cuts lines of maintained code in half permanently `[ps=2]`
 - 33% of Best-in-Class have more than 2 years experience with SOA technology `[ps=0]`
 - About 25% of Global 10,000 organizations employing design-time governance `[ps=0]`
 - More than 50% of Best-in-Class have at least 12 months production experience with deployed SOA apps vs 30% of overall survey `[ps=0]`
 - 33% of Best-in-Class have more than 24 months SOA experience vs 12% of overall `[ps=0]`
-- Speed of IT implementations: Laggard 43%, Average 30%, BIC 32% `[ps=0]`
-- 45% of survey and 46% of supply chain organizations cite developing new business capabilities as top SOA governance driver
-- 42% overall cite management of IT complexity as second driver; 44% of BIC (higher than average due to more experience)
-- 75% of Best-in-Class unhappy with application development tools and plan to supplement/replace within 6 months
-- Re-usage of applications via Web Services: BIC 47%, Average 43%, Laggard 36%
-- 50% code reuse under SOA governance cuts lines of maintained code in half permanently

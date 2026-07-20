@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.2
-prescience_obs_count: 5
+prescience_mean: 2.14
+prescience_obs_count: 7
 ---
 
 # Stratus ET1 Functional Specification (May 1, 1986) and Stratus Transaction Processing Benchmarks (June 26, 1986) — Consolidated Stratus 1986 ET1 Corpus
@@ -41,9 +41,9 @@ _Published 1986, author **Stratus Computer (engineering and benchmark documents)
 ## Top observations
 
 - MIPS and Whetstone are inadequate for OLTP; with multiprocessor, MIPS changes as I/O processors are added; transaction benchmarks needed `[ps=5]`
+- TP1 and ET1 are NOT the same benchmark or even a variation; vendor comparisons based on TP1-vs-ET1 results are invalid `[ps=4]`
 - Read X.25 + Read/Rewrite Account/Teller/Branch + Write History sequential + Write X.25 ack `[ps=3]`
 - 2M accounts (200 MB), 2K tellers, 200 branches (per module); access patterns: Account indexed, Teller relative random, Branch relative random `[ps=3]`
 - 85% transactions hit current process branch; remaining 15% dispatched to other modules `[ps=0]`
 - TP1 does 12 physical I/Os per tx; ET1 does 3 — TP1 does ~4x as many physical I/Os as ET1 `[ps=0]`
-- TP1 and ET1 are NOT the same benchmark or even a variation; vendor comparisons based on TP1-vs-ET1 results are invalid
-- 150ms CPU loop + 5 indexed reads + 2 rewrites + 1 sequential log write; PL1 requester, COBOL server; Stratus TPF
+- 150ms CPU loop + 5 indexed reads + 2 rewrites + 1 sequential log write; PL1 requester, COBOL server; Stratus TPF `[ps=0]`

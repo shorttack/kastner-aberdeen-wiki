@@ -13,8 +13,8 @@ lifecycle_at_study: "growing"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'CDN market valued at $23.5B in 2024, projected to reach $71.7B by 2034. Foundational internet infrastructure, evolving with AI and edge computing.', 'source': 'https://www.factmr.com/report/content-delivery-network-market'}"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.29
-prescience_obs_count: 7
+prescience_mean: 3.0
+prescience_obs_count: 9
 ---
 
 # Content Delivery Network (CDN)
@@ -29,7 +29,7 @@ prescience_obs_count: 7
 - fewer servers, less room, less power, less floor space `[ps=4]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
 - rose dramatically 2001-2004 despite vendor shakeout `[ps=4]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
 - IT groups + marketing/e-commerce/creative teams should evaluate distributed application delivery capabilities `[ps=4]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
+- customers need verifiable data before shifting more content/app delivery to CDNs `[ps=4]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
 - one of top CDN vendors post-shakeout `[ps=1]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
 - more than 40 vendors `[ps=0]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
-- fewer than a dozen — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
-- customers need verifiable data before shifting more content/app delivery to CDNs — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
+- fewer than a dozen `[ps=0]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]

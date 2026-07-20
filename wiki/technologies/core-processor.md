@@ -14,7 +14,7 @@ lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Intel Core process
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 5
+prescience_obs_count: 6
 ---
 
 # Intel Core i3/i5/i7 Processors
@@ -29,4 +29,4 @@ prescience_obs_count: 5
 - up to 90% of a full core `[ps=0]` — [[study-intel-2010-vpro-daily-globe-42697e]]
 - 4-way (2 cores + 2 HT) `[ps=0]` — [[study-intel-2010-vpro-daily-globe-42697e]]
 - 8-way (4 cores + 4 HT) `[ps=0]` — [[study-intel-2010-vpro-daily-globe-42697e]]
-- 30-45 days from launch date — [[study-intel-2010-vpro-daily-globe-42697e]]
+- 30-45 days from launch date `[ps=0]` — [[study-intel-2010-vpro-daily-globe-42697e]]

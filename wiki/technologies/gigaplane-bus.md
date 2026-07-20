@@ -12,9 +12,9 @@ era: "1996-2002"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 1
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Sun Gigaplane System Bus
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- 2.6 GBps system bus; thin boards with dual CPUs + memory (up to 2GB/board) + high-speed I/O channels; parallel CPU/I/O/network interconnections approaching mainframe speeds `[ps=4]` — [[study-aberdeen-1996-sun-microsystems-decision-warehouse]]
 - 2.6 GBps Gigaplane bus eliminates memory/disk bottleneck; multiple parallel CPU/I/O/network interconnections; exceeds anything available in comparable Unix systems `[ps=3]` — [[study-aberdeen-1996-sun-microsystems-decision-warehouse]]
-- 2.6 GBps system bus; thin boards with dual CPUs + memory (up to 2GB/board) + high-speed I/O channels; parallel CPU/I/O/network interconnections approaching mainframe speeds — [[study-aberdeen-1996-sun-microsystems-decision-warehouse]]

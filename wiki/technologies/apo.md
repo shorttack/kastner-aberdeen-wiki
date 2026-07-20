@@ -12,9 +12,9 @@ era: "1994-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Advanced Planning and Optimization (APO)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- >$600 million — [[study-erpv2p~1-b15573]]
+- >$600 million `[ps=0]` — [[study-erpv2p~1-b15573]]

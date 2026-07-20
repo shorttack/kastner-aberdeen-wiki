@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1970-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IndustryWeek
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IndustryWeek partnership: Service Parts Management Benchmark Report — go-live Sep 2003; 2,212 downloads to date. — [[study-ibmfinal1-3-720230]]
+- IndustryWeek partnership: Service Parts Management Benchmark Report — go-live Sep 2003; 2,212 downloads to date. `[ps=0]` — [[study-ibmfinal1-3-720230]]

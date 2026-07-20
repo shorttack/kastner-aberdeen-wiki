@@ -12,9 +12,9 @@ era: "1996-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # NC Card (Smart Card)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Smart card (NC Card) + password/PIN; higher security than magnetic stripe; enables VPN — [[study-netcompute-e6c378]]
+- Smart card (NC Card) + password/PIN; higher security than magnetic stripe; enables VPN `[ps=5]` — [[study-netcompute-e6c378]]

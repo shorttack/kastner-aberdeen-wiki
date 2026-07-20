@@ -14,7 +14,7 @@ lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Disk Array / RAID
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Mature staple — primary near-term storage buyer focus `[ps=0]` — [[study-2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb]]
 - 20.6% ($2.65B revenues) `[ps=0]` — [[study-2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb]]
 - $12.89 billion total `[ps=0]` — [[study-2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb]]
-- Mature staple — primary near-term storage buyer focus — [[study-2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb]]

@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Java (Sun/Oracle)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Java remained the dominant enterprise programming language 15 years post-Oracle acquisition — [[study-2026-kastner-oracle-longitudinal]]
+- Java remained the dominant enterprise programming language 15 years post-Oracle acquisition `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]

@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.29
-prescience_obs_count: 7
+prescience_mean: 2.38
+prescience_obs_count: 8
 ---
 
 # Charlotte Observer Andrew Shain Back-to-School PC Buying Guide Citing Aberdeen's Kastner (August 2002)
@@ -44,7 +44,7 @@ _Published 2002, author **Andrew Shain (The Charlotte Observer)**, type **newspa
 - Elementary school: 4-year-old PC will do; high-schoolers may need new PC for entertainment demands `[ps=4]`
 - Apple makes great easy-to-use desktops ($750+) and laptops ($1,300+); small share of consumer PC market `[ps=4]`
 - Parents should consider buying a low-end computer with few gadgets and add capabilities later `[ps=3]`
+- $900 desktop with 128 MB RAM and Celeron — good enough for word processing and Web surfing `[ps=3]`
 - 'Paul Kastner, chief research officer with Aberdeen Group, a Boston technology marketing analysis firm' — likely misprint of Peter Kastner `[ps=0]`
 - $1,300 laptop ~ $900 desktop in performance; less space; need a lock `[ps=0]`
 - Reader pointer: www.aberdeen.com for more buying tips `[ps=0]`
-- $900 desktop with 128 MB RAM and Celeron — good enough for word processing and Web surfing

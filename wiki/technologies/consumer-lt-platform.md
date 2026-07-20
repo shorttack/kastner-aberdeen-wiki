@@ -13,8 +13,8 @@ lifecycle_at_study: "pre-market"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'The 'Consumer LT Platform' was a proposed 2003-era Intel concept for bringing LaGrande Technology (trusted computing) to consumer PCs. It was never shipped as a distinct consumer platform. The technology evolved into Intel TXT for enterprise/vPro use only; a separate consumer-focused version was not released.', 'source': 'known - concept never commercialized as proposed'}"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 2.14
-prescience_obs_count: 7
+prescience_mean: 1.67
+prescience_obs_count: 9
 ---
 
 # Consumer LT Platform (Proposed)
@@ -30,6 +30,6 @@ prescience_obs_count: 7
 - ~$100 per PC retail `[ps=2]` — [[study-intel-consumer-lt-10-5-03-580af7]]
 - US, Canada, Japan, Germany, UK (France/Italy substitute; Mexico optional; China excluded as political case) `[ps=2]` — [[study-intel-consumer-lt-10-5-03-580af7]]
 - North of $150 million annually `[ps=0]` — [[study-intel-consumer-lt-10-5-03-580af7]]
+- Q4-2003 start; 90-120 days to completion; focus groups may start Q1-04 `[ps=0]` — [[study-intel-consumer-lt-10-5-03-580af7]]
 - 3 phases: consumer qualitative, business qualitative, consumer quantitative + tracking `[ps=0]` — [[study-intel-consumer-lt-10-5-03-580af7]]
-- Q4-2003 start; 90-120 days to completion; focus groups may start Q1-04 — [[study-intel-consumer-lt-10-5-03-580af7]]
-- Demographics, early adopter drivers, ID theft fear, psycho-behavioral attributes by culture/country, pricing, distribution channels — [[study-intel-consumer-lt-10-5-03-580af7]]
+- Demographics, early adopter drivers, ID theft fear, psycho-behavioral attributes by culture/country, pricing, distribution channels `[ps=0]` — [[study-intel-consumer-lt-10-5-03-580af7]]

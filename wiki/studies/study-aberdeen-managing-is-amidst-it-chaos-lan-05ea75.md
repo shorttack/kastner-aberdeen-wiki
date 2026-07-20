@@ -16,12 +16,12 @@ source_file: "Land-O-Lakes-workshop-1993-05-MFA-downsizinf-strategy-AAA-4.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.33
-prescience_obs_count: 9
+prescience_mean: 0.3
+prescience_obs_count: 10
 ---
 
 # Managing IS Amidst IT Chaos: A May 1993 Seminar for Land O'Lakes
@@ -41,6 +41,7 @@ _Published 1993, author **Peter S. Kastner (Aberdeen Group)**, type **client-sem
 ## Top observations
 
 - consolidate/cheap-MIPS/outsource/freeze-budgets/downsize-replicated/divisional `[ps=4]`
+- negative `[ps=0]`
 - Aberdeen ref slide `[ps=0]`
 - WSJ 18-Jan-1993 `[ps=0]`
 - 3-5 years out `[ps=0]`
@@ -49,4 +50,3 @@ _Published 1993, author **Peter S. Kastner (Aberdeen Group)**, type **client-sem
 - Vice President, Aberdeen Group, Inc. `[ps=0]`
 - May 1993 seminar attendee `[ps=0]`
 - >=50% of capital expenditure now for IT `[ps=-1]`
-- negative

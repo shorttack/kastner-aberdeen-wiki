@@ -12,9 +12,9 @@ era: "1996-2007"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-acquired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # WebEx Web Conferencing
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Extensively using WebEx + teleconference for client meetings; replacing face-to-face national sales meeting with videoconference — [[study-trends00-6a553a]]
+- Extensively using WebEx + teleconference for client meetings; replacing face-to-face national sales meeting with videoconference `[ps=5]` — [[study-trends00-6a553a]]

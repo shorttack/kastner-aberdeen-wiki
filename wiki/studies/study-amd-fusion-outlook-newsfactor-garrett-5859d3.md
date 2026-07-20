@@ -16,12 +16,12 @@ source_file: "The-Outlook-on-AMD-s-Fusion-Plans-5.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 6
+prescience_mean: 3.14
+prescience_obs_count: 7
 ---
 
 # The Outlook on AMD's Fusion Plans
@@ -43,7 +43,7 @@ _Published 2006, author **David Garrett, NewsFactor**, type **news-article**._
 - 'AMD with ATI can create a one-chip computer that contains the functions that in the past have been in the chipset and the processor. That would allow a much less expensive PC to be made, because you'd have fewer chips to put on the motherboard.' — Peter Kastner, Aberdeen Group `[ps=5]`
 - 'One of the biggest benefits to combining the CPU and GPU on a single chip is not only better overall system performance, but, importantly, more energy efficiency' — Samir Bhavnani, Current Analysis `[ps=5]`
 - 'I don't see this as moving to $200 PCs' — Kastner tempering expectations that Fusion would radically collapse PC prices `[ps=4]`
+- By 2020 the one-chip-computer model (CPU+GPU on one die) was industry-default: Apple M1 SoC (2020), Intel Tiger Lake iGPU, AMD Ryzen APUs, and every smartphone SoC. Kastner's 2006 prediction was fully validated and became the dominant PC architecture. `[ps=4]`
 - AMD Llano (A-series) shipped June 2011 as the first AMD Fusion APU product, integrating Phenom II K10 CPU cores with Radeon HD 6000-series GPU on the same die — approximately 3 years after AMD's original late-2007/early-2008 target `[ps=3]`
 - Fusion products expected to debut in late 2007 or early 2008 according to AMD `[ps=1]`
 - AMD completed $5.4B acquisition of ATI Technologies in the week prior to article (Oct 24 2006 close); Fusion program announced immediately post-close `[ps=0]`
-- By 2020 the one-chip-computer model (CPU+GPU on one die) was industry-default: Apple M1 SoC (2020), Intel Tiger Lake iGPU, AMD Ryzen APUs, and every smartphone SoC. Kastner's 2006 prediction was fully validated and became the dominant PC architecture.

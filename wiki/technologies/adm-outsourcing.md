@@ -14,7 +14,7 @@ lifecycle_current: "mature"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 13
+prescience_obs_count: 15
 ---
 
 # Application Development and Maintenance Outsourcing
@@ -26,6 +26,7 @@ prescience_obs_count: 13
 
 - local-customer-care `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
 - communication-cultural-gaps `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- securing-right-skill-set `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
 - integration-testing-qa-effort `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
 - integration-testing-qa-effort `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
 - communication-cultural-gaps `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
@@ -36,6 +37,5 @@ prescience_obs_count: 13
 - cost-savings-and-strategic-focus `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
 - active-pivoted-to-digital `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
 - active-major-growth `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
+- acquired-dissolved `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
 - growth-phase `[ps=0]` — [[study-2006-unisyswipro-rs-3747-a7e31e]]
-- securing-right-skill-set — [[study-2006-unisyswipro-rs-3747-a7e31e]]
-- acquired-dissolved — [[study-2006-unisyswipro-rs-3747-a7e31e]]

@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'IBM zSeries z990 hardware reached end of support. IBM Z platform continues as z15/z16/z17, but z990 itself is long discontinued.', 'source': 'https://www.ibm.com/support/pages/product-end-service-dates'}"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 1.6
-prescience_obs_count: 5
+prescience_mean: 1.5
+prescience_obs_count: 6
 ---
 
 # IBM zSeries z990 Mainframe
@@ -27,6 +27,6 @@ prescience_obs_count: 5
 - overwhelmingly dominant; zSeries monopoly `[ps=4]` — [[study-intelitaniummfewp1[1]-773ea2]]
 - 49% concerned, 3% satisfied `[ps=3]` — [[study-intelitaniummfewp1[1]-773ea2]]
 - #1 satisfaction; 48% satisfied, 4% concerned `[ps=1]` — [[study-intelitaniummfewp1[1]-773ea2]]
+- mainframe 10-20x greater TCO `[ps=1]` — [[study-intelitaniummfewp1[1]-773ea2]]
 - increasingly discounting to maintain position `[ps=0]` — [[study-intelitaniummfewp1[1]-773ea2]]
 - 24% of mainframe users now have Linux `[ps=0]` — [[study-intelitaniummfewp1[1]-773ea2]]
-- mainframe 10-20x greater TCO — [[study-intelitaniummfewp1[1]-773ea2]]

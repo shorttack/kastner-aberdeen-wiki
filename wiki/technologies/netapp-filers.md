@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # NetApp Filer Hardware (F220/F330/F540)
@@ -24,6 +24,6 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Dedicated single-purpose NAS appliance: no user applications on data server; multiprotocol NFS/CIFS/HTTP `[ps=4]` — [[study-aberdeen-1996-network-appliance-data-appliances]]
 - Application response time degrades as more users share networked data; IS forced to upgrade application servers repeatedly `[ps=4]` — [[study-aberdeen-1996-network-appliance-data-appliances]]
-- Dedicated single-purpose NAS appliance: no user applications on data server; multiprotocol NFS/CIFS/HTTP — [[study-aberdeen-1996-network-appliance-data-appliances]]
-- Revenue approximately evenly split between commercial and technical (CAD/CASE) application environments by 1996 — [[study-aberdeen-1996-network-appliance-data-appliances]]
+- Revenue approximately evenly split between commercial and technical (CAD/CASE) application environments by 1996 `[ps=0]` — [[study-aberdeen-1996-network-appliance-data-appliances]]

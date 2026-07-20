@@ -16,12 +16,12 @@ source_file: "IE-Appendix-Jones-WMS-Memo.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.92
-prescience_obs_count: 12
+prescience_mean: 1.8
+prescience_obs_count: 15
 ---
 
 # Availability of Client/Server WMS in 1994
@@ -45,13 +45,13 @@ _Published 1999, author **Dr. Katherine Jones**, type **expert-report**._
 - Application cleaved such that user-facing portion runs locally and business logic runs on another computer `[ps=4]`
 - DEC VT 100/200 terminals in emulation mode were a standard warehouse communication method `[ps=4]`
 - Manhattan Associates is now a $6B+ market cap NASDAQ-listed supply chain solutions leader `[ps=4]`
+- Two primary modes: RF handhelds and DEC VT 100/200 terminals in emulation mode — neither is client/server `[ps=3]`
+- Manhattan Associates PkMS was the first commercially released client/server WMS — shipped 1995 `[ps=1]`
 - Client/server technology was available in 1994 and before but no commercial WMS products used it `[ps=1]`
 - No commercially available client/server WMS existed in the US marketplace in mid-1994 `[ps=0]`
 - Catalyst used Windows and Vermont Views on RF handhelds in 1993-94 but did not offer true client/server `[ps=0]`
 - Catalyst shipped GUI desktop program in 1996 — first true client/server replacement for VT 200s `[ps=0]`
 - AS/400s were used in a host-dumb terminal environment in 1994 for warehouse management `[ps=0]`
 - Manhattan Associates first installations were in 1991 on both Unix and the AS/400 `[ps=0]`
+- JBA had a host-dumb terminal warehouse management system on the AS/400 in 1994 `[ps=0]`
 - Computer Associates had BOSS warehouse management system on the AS/400 in 1994 `[ps=0]`
-- Two primary modes: RF handhelds and DEC VT 100/200 terminals in emulation mode — neither is client/server
-- Manhattan Associates PkMS was the first commercially released client/server WMS — shipped 1995
-- JBA had a host-dumb terminal warehouse management system on the AS/400 in 1994

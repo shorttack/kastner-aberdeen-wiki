@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # SMTP (Simple Mail Transfer Protocol)
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - unusable `[ps=0]` — [[study-1998-pc-impact-and-metadata-e2a169]]
+- 31147 `[ps=0]` — [[study-1998as400-1-146289]]
 - $109 `[ps=0]` — [[study-1998as400-1-146289]]
-- 31147 — [[study-1998as400-1-146289]]

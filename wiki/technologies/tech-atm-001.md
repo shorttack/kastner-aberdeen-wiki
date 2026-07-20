@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging/Peak"
 lifecycle_current: "Largely Obsolete"
 occurrence_count: 1
-prescience_max: 2.0
-prescience_mean: 2.0
-prescience_obs_count: 2
+prescience_max: 5.0
+prescience_mean: 2.75
+prescience_obs_count: 4
 ---
 
 # ATM (Asynchronous Transfer Mode) Switching
@@ -24,7 +24,7 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- IP/Ethernet/MPLS displaced ATM for most enterprise and carrier applications by mid-2000s `[ps=5]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]
+- World leader in end-to-end multimedia network solutions in the Integrated Enterprise `[ps=2]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]
 - ATM will consolidate multimedia (voice/data/video) traffic on enterprise and carrier backbones `[ps=2]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]
 - Six sigma (99.999%) reliability required for multimedia calls and carrier networks `[ps=2]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]
-- World leader in end-to-end multimedia network solutions in the Integrated Enterprise — [[study-1997-nortel--transforming-business-by-po-3edae6]]
-- IP/Ethernet/MPLS displaced ATM for most enterprise and carrier applications by mid-2000s — [[study-1997-nortel--transforming-business-by-po-3edae6]]

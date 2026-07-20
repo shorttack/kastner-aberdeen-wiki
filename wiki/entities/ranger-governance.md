@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "2001-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Ranger Governance Ltd
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'The Ranger situation is a non-starter with customers' — Kastner predicting Ranger would fail to gain customer traction in the CA proxy fight. — [[study-letter-to-sanjay-kumar-ca-world-2001-d60b1b]]
-- Ranger Governance lost the August 2001 CA proxy contest (~73% of shareholders voted with CA management). — [[study-letter-to-sanjay-kumar-ca-world-2001-d60b1b]]
+- Ranger Governance lost the August 2001 CA proxy contest (~73% of shareholders voted with CA management). `[ps=5]` — [[study-letter-to-sanjay-kumar-ca-world-2001-d60b1b]]
+- 'The Ranger situation is a non-starter with customers' — Kastner predicting Ranger would fail to gain customer traction in the CA proxy fight. `[ps=4]` — [[study-letter-to-sanjay-kumar-ca-world-2001-d60b1b]]

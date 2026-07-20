@@ -16,12 +16,12 @@ source_file: "Archive-1/Computerworld ILM article.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.73
-prescience_obs_count: 15
+prescience_mean: 2.81
+prescience_obs_count: 16
 ---
 
 # Waiting for ILM?
@@ -43,6 +43,7 @@ _Published 2004, author **Peter S. Kastner**, type **expert-report**._
 - Rising terabytes-per-admin ratio as virtualization becomes embedded and automation reduces intervention `[ps=5]`
 - SANs supplemented with NAS now affordable for even small enterprises `[ps=4]`
 - Midline disk at approximately 25% of FC/SCSI cost for moderate random access workloads `[ps=4]`
+- More than 50% of enterprise data is semi-structured or unstructured and seldom changing `[ps=4]`
 - Midline disk-to-disk backup compresses backup times by up to 50% vs tape `[ps=4]`
 - Offline tapes represent an enormous liability in litigation; data retention policy adherence required `[ps=4]`
 - FC/SCSI growth projected to be modest as midline pool absorbs workloads previously on expensive disks `[ps=4]`
@@ -55,4 +56,3 @@ _Published 2004, author **Peter S. Kastner**, type **expert-report**._
 - [UNVERIFIED] `[ps=0]`
 - 45% per year (industry projection) `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
-- More than 50% of enterprise data is semi-structured or unstructured and seldom changing

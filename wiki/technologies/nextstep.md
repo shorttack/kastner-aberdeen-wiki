@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # NeXTSTEP
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Ceasing hardware; porting NextStep to Intel and broader audience `[ps=0]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
 - [UNVERIFIED] `[ps=0]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
-- Ceasing hardware; porting NextStep to Intel and broader audience — [[study-nti-4-nextgen-os-timing-1993-a45049]]

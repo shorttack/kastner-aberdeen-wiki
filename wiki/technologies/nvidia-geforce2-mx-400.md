@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # nVidia GeForce2 MX 400
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Easy; did not require metal bar used for ATI Radeon `[ps=0]` — [[study-nvidia-personal-cinema-lab-report-2002]]
 - Comanche 4 and Ghost Recon — default and gamer settings — met ratings `[ps=0]` — [[study-nvidia-personal-cinema-lab-report-2002]]
-- Easy; did not require metal bar used for ATI Radeon — [[study-nvidia-personal-cinema-lab-report-2002]]

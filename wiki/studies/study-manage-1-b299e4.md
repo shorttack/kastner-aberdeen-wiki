@@ -16,12 +16,12 @@ source_file: "MANAGE~1.DOC"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.15
-prescience_obs_count: 20
+prescience_mean: 1.52
+prescience_obs_count: 23
 ---
 
 # Managed Carrier Services: 1998 Practice Summary
@@ -40,10 +40,13 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 
 ## Top observations
 
+- 150+ countries `[ps=4]`
 - Greater adoption predicted over next 5 years `[ps=4]`
 - Early contracts widely considered failures `[ps=4]`
 - Facilities-based end-to-end providers have market advantage `[ps=4]`
+- Many original experiences disappointing; second contracts written defensively `[ps=4]`
 - 1980: voice VPN; 1985: data VPN; 1988: outsourced networks; 1990s: managed services `[ps=4]`
+- Global enterprises avoid coordinating last-mile with each local telco in every country `[ps=4]`
 - Switched Virtual Circuits and bandwidth-on-demand identified as future trends `[ps=3]`
 - Major network outsourcer taking complete control of network assets and personnel `[ps=3]`
 - Computer traffic typically uses about 10% of network capacity `[ps=1]`
@@ -60,6 +63,3 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 - Global facilities-based data service provider with end-to-end network coverage `[ps=0]`
 - Offers customer-configurable committed information rate (CIR) parameters `[ps=0]`
 - Will Frame Relay and ATM prevail or will IP-based services win long term? `[ps=0]`
-- 150+ countries
-- Many original experiences disappointing; second contracts written defensively
-- Global enterprises avoid coordinating last-mile with each local telco in every country

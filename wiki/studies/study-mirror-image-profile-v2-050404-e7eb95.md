@@ -16,12 +16,12 @@ source_file: "Mirror Image Profile V2 (050404).txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.62
-prescience_obs_count: 13
+prescience_mean: 2.25
+prescience_obs_count: 20
 ---
 
 # Mirror Image Internet Advances Delivery Services for Current and New Customers
@@ -46,17 +46,17 @@ _Published 2004, author **Peter S. Kastner**, type **case-analysis**._
 - fewer servers, less room, less power, less floor space `[ps=4]`
 - rose dramatically 2001-2004 despite vendor shakeout `[ps=4]`
 - IT groups + marketing/e-commerce/creative teams should evaluate distributed application delivery capabilities `[ps=4]`
+- customers need verifiable data before shifting more content/app delivery to CDNs `[ps=4]`
 - allows non-IT groups to manage content delivery directly `[ps=4]`
+- XML rules engine; geotargeting; time-of-day; rotation; wild-card replacement `[ps=3]`
+- traffic filtering/IDS not needed at origin; all via CDN `[ps=2]`
 - minimizes Mirror Image infrastructure costs; translates to lower client costs `[ps=2]`
+- positioned to succeed as CDN evolves to application delivery `[ps=2]`
 - one of top CDN vendors post-shakeout `[ps=1]`
 - more than 40 vendors `[ps=0]`
+- fewer than a dozen `[ps=0]`
+- 75 employees `[ps=0]`
 - 1997 `[ps=0]`
 - more than 5 billion impressions per month (late 2003) `[ps=0]`
 - less than 45 days from request to production `[ps=0]`
-- fewer than a dozen
-- 75 employees
-- traffic filtering/IDS not needed at origin; all via CDN
-- XML rules engine; geotargeting; time-of-day; rotation; wild-card replacement
-- customers need verifiable data before shifting more content/app delivery to CDNs
-- positioned to succeed as CDN evolves to application delivery
-- [UNVERIFIED]
+- [UNVERIFIED] `[ps=0]`

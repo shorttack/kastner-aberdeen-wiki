@@ -14,7 +14,7 @@ lifecycle_current: "unknown"
 occurrence_count: 1
 prescience_max: 4.0
 prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Infinite Resource Planning (IRP)
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Convergence of object orientation, network-centric computing, and Internet `[ps=4]` — [[study-erpv2p~1-b15573]]
 - Within next 3 years major business contested in multi-company value chain competition `[ps=4]` — [[study-erpv2p~1-b15573]]
-- Convergence of object orientation, network-centric computing, and Internet — [[study-erpv2p~1-b15573]]

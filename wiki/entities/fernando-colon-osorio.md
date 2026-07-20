@@ -13,8 +13,8 @@ successor: "unknown"
 years_active: "1980s-1990s"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 2
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # Fernando Colon Osorio
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - High availability VAXcluster reduces downtime to minutes per year vs tens of hours for standalone VAX 8700; achieved via redundant processors and shadowed databases `[ps=4]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- Distributed TP architecture will cover range from 16 transactions per second (low end) to hundreds of TPS (high end); distribution of stimulus capture + transaction server + DB access `[ps=3]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
 - 6600 VAXcluster systems installed worldwide; 16% of all VAX nodes in clusters; 64% of top 200 DEC accounts have VAXcluster installations `[ps=0]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
-- Distributed TP architecture will cover range from 16 transactions per second (low end) to hundreds of TPS (high end); distribution of stimulus capture + transaction server + DB access — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]

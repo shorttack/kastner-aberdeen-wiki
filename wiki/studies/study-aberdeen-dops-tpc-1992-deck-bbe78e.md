@@ -16,12 +16,12 @@ source_file: "1992-DOPS-TPC-3.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.73
-prescience_obs_count: 11
+prescience_mean: 1.12
+prescience_obs_count: 17
 ---
 
 # Aberdeen Group — DOPS and TPC-A/TPC-B benchmark results (1992 deck)
@@ -40,20 +40,20 @@ _Published 1992, author **Peter S. Kastner (Aberdeen Group)**, type **market-stu
 
 ## Top observations
 
+- End-to-End Response Time; Multiple Databases; Multiple Networks; Heterogeneous Hardware; Mixed OLTP & OLDS `[ps=4]`
 - VAX 8830 (1988 best) $1,800K vs VAX 3100-80 (1992 entry) $280K — 85% decline in 3.5 years for 27 tps with relational database (TPC-A-like) `[ps=4]`
 - Distributed heterogeneous environments require new multi-dimensional metrics beyond single-system TPC benchmarks `[ps=4]`
+- DOPS must handle mixed OLTP and Online Decision Support workloads — precursor to HTAP (Hybrid Transactional/Analytical Processing) `[ps=4]`
+- Transactions vs Queries; Production/Snapshot/Test/Runamuck DBs; What does the client do? What does the front end do? No textbook answers `[ps=3]`
+- Bull DPX/2 at ~$450K 5-year lifecycle cost — lowest in comparison `[ps=0]`
 - IBM AS/400 D70 ~$920K 5-year cost for 40 tps-A — highest in the set `[ps=0]`
 - IBM RS/6000 530H ~$620K 5-year cost for 40 tps-A `[ps=0]`
 - HP 9000 957LX ~$680K 5-year cost (49 tps, starred) `[ps=0]`
 - DEC VAX 4000-300 ~$620K 5-year cost for 40 tps-A `[ps=0]`
+- Compaq 486/50L: ~$110K 5-year cost at 39.7-46 tps-B `[ps=0]`
 - DECsystem 5500: ~$160K — outlier high-cost `[ps=0]`
+- HP 9000 807S: ~$105K at 39.7-46 tps-B `[ps=0]`
 - Data General AViiON 4600: ~$102K at 39.7-46 tps-B `[ps=0]`
 - MIPS 3330: ~$110K at 39.7-46 tps-B `[ps=0]`
 - IBM RS/6000 320H: ~$107K at 39.7-46 tps-B `[ps=0]`
 - Sun SPARC Server 2: ~$102K at 39.7-46 tps-B `[ps=0]`
-- End-to-End Response Time; Multiple Databases; Multiple Networks; Heterogeneous Hardware; Mixed OLTP & OLDS
-- Bull DPX/2 at ~$450K 5-year lifecycle cost — lowest in comparison
-- Compaq 486/50L: ~$110K 5-year cost at 39.7-46 tps-B
-- HP 9000 807S: ~$105K at 39.7-46 tps-B
-- Transactions vs Queries; Production/Snapshot/Test/Runamuck DBs; What does the client do? What does the front end do? No textbook answers
-- DOPS must handle mixed OLTP and Online Decision Support workloads — precursor to HTAP (Hybrid Transactional/Analytical Processing)

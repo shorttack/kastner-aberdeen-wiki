@@ -16,12 +16,12 @@ source_file: "video-conferencing-quote-2001-11-7.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 5
+prescience_obs_count: 6
 ---
 
 # Meetings & Conventions Magazine — 'Planners Turn to Tech: Virtual meetings post-Sept 11' (PSK Aberdeen CRO quoted, November 2001)
@@ -45,4 +45,4 @@ _Published 2001, author **M.C. (Meetings & Conventions staff)**, type **trade-pr
 - Implementation of virtual meetings and conferences at Aberdeen increased by 25 percent in the week after the events of Sept. 11 `[ps=0]`
 - The week of the attack, we saw a 49 percent increase in usage over the prior week `[ps=0]`
 - Folsom expects to see 30 to 35 percent more business as a result of the Sept. 11 attacks `[ps=0]`
-- Reported a similar jump in demand
+- Reported a similar jump in demand `[ps=0]`

@@ -13,8 +13,8 @@ successor: "[DEFERRED]"
 years_active: "1969-present"
 occurrence_count: 3
 prescience_max: 5.0
-prescience_mean: 1.1
-prescience_obs_count: 21
+prescience_mean: 1.17
+prescience_obs_count: 23
 ---
 
 # Advanced Micro Devices (AMD)
@@ -32,6 +32,7 @@ prescience_obs_count: 21
 - Methodology is fundamentally flawed and unlikely to be sustained `[ps=5]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
 - Ignores critical platform differences including memory type `[ps=4]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
 - AMD's 1/3-1/3-1/3 office/content/gaming workload mix not representative of many users `[ps=4]` — [[study-amd-profile01-64e43b]]
+- AMD processors are efficient for many applications and do not need GHz-E to deserve market respect `[ps=4]` — [[study-amd-profile01-64e43b]]
 - Assumes specific usage model not applicable to many users `[ps=3]` — [[study-2002-amd-s-gigahertz-equiva-nexperienced-buyers-accept--6f6050]]
 - European ads reported GHz-E model numbers as actual GHz; could constitute deceptive trade practices `[ps=3]` — [[study-amd-profile01-64e43b]]
 - GHz-E methodology projected to break down completely within 90 days of any measurement `[ps=2]` — [[study-amd-profile01-64e43b]]
@@ -45,7 +46,6 @@ prescience_obs_count: 21
 - Athlon XP 2000+ (1.667GHz) rated equivalent to Intel P4 2.0GHz Willamette `[ps=0]` — [[study-amd-profile01-64e43b]]
 - No Athlon XP 2000+ results filed with BAPCo as of Feb 15, 2002 `[ps=0]` — [[study-amd-profile01-64e43b]]
 - ~33.3% (one-half Office Productivity plus two-thirds Content Creation) `[ps=0]` — [[study-amd-profile01-64e43b]]
+- Benchmark results updated after Arthur Andersen audit to include bug fix favoring AMD `[ps=0]` — [[study-amd-profile01-64e43b]]
 - Winbench 2000 uses DirectX 7.0; AMD/Intel systems tested under DirectX 8.1 `[ps=0]` — [[study-amd-profile01-64e43b]]
 - [UNVERIFIED] `[ps=0]` — [[study-amd-profile01-64e43b]]
-- Announced October 2001 as strategic alternative to GHz-E `[ps=0]` — [[study-amd-profile01-64e43b]]
-- Business Winstone 2001 (I/O-intensive system benchmark) included to measure processor performance `[ps=0]` — [[study-amd-profile01-64e43b]]

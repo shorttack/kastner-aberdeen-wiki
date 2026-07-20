@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Epoch Clinical Information System (EHR)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Automated Medical Record Initiative with Epoch — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]
-- Clinical Data Repository migration in 2-3 years — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]
+- Automated Medical Record Initiative with Epoch `[ps=4]` — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]
+- Clinical Data Repository migration in 2-3 years `[ps=0]` — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]

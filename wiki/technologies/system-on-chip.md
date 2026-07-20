@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # System-on-Chip (SoC)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Single probe/socket for digital+analog+RF+mixed — [[study-topic-semiconductor-practice-definition-2002]]
+- Single probe/socket for digital+analog+RF+mixed `[ps=4]` — [[study-topic-semiconductor-practice-definition-2002]]

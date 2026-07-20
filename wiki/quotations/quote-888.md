@@ -1,6 +1,7 @@
 ---
 title: Quote 888 — Computerworld (1990-05-07)
 type: quotation
+page_type: quotation
 slug: quote-888
 row_id: 888
 author: "Peter S. Kastner"

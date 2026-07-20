@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Full-service IT outsourcing remains an active market. Major providers include Accenture, TCS, Infosys, Wipro, Capgemini. Market growing at ~7% CAGR.', 'source': 'pre-verified'}"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 2.5
-prescience_obs_count: 8
+prescience_mean: 2.22
+prescience_obs_count: 9
 ---
 
 # IT Outsourcing (Full-Service)
@@ -32,5 +32,5 @@ prescience_obs_count: 8
 - Many enterprises have never done a serious make-or-buy outsourcing decision on any IT segment `[ps=0]` — [[study-the-business-value-in-it-outsourcing-7d5f23]]
 - Up to 30% of IT outsourcing engagements `[ps=0]` — [[study-the-business-value-in-it-outsourcing-7d5f23]]
 - Global 5000 companies across all industries, all sizes `[ps=0]` — [[study-the-business-value-in-it-outsourcing-7d5f23]]
+- [UNVERIFIED] `[ps=0]` — [[study-the-business-value-in-it-outsourcing-7d5f23]]
 - 50-67% of contracts sub-optimal; only 5-10% fully optimal — [[study-the-business-value-in-it-outsourcing-7d5f23]]
-- [UNVERIFIED] — [[study-the-business-value-in-it-outsourcing-7d5f23]]

@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "2000-2005"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 4.0
+prescience_mean: 1.0
+prescience_obs_count: 4
 ---
 
 # Aberdeen Group Semiconductor Research Practice
@@ -22,7 +22,7 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- 8 (analog/DSP, imaging, embedded, networking, non-commodity memory, microprocessors, sensors, wireless) `[ps=4]` — [[study-topic-semiconductor-practice-definition-2002]]
 - Communications, computers, consumer, telematics `[ps=0]` — [[study-topic-semiconductor-practice-definition-2002]]
 - Fabless + Merchant IDMs `[ps=0]` — [[study-topic-semiconductor-practice-definition-2002]]
-- 8 (analog/DSP, imaging, embedded, networking, non-commodity memory, microprocessors, sensors, wireless) — [[study-topic-semiconductor-practice-definition-2002]]
-- 36 named firms — [[study-topic-semiconductor-practice-definition-2002]]
+- 36 named firms `[ps=0]` — [[study-topic-semiconductor-practice-definition-2002]]

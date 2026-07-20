@@ -14,7 +14,7 @@ lifecycle_current: "rebranded"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # IBM pSeries
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- $5.009B `[ps=0]` — [[study-sun-as400-market-data-2002-5faa8f]]
 - -27% `[ps=0]` — [[study-sun-as400-market-data-2002-5faa8f]]
-- $5.009B — [[study-sun-as400-market-data-2002-5faa8f]]

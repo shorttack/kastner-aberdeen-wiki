@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # Automated Testing Tools (SOA)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 57% of Best-in-Class vs 35% of others use automated testing tools — [[study-soa-web-services-2007-c3297b]]
-- Best-in-Class are twice as likely to use automated requirements-tracking tools vs Laggard — [[study-soa-web-services-2007-c3297b]]
+- 57% of Best-in-Class vs 35% of others use automated testing tools `[ps=4]` — [[study-soa-web-services-2007-c3297b]]
+- Best-in-Class are twice as likely to use automated requirements-tracking tools vs Laggard `[ps=4]` — [[study-soa-web-services-2007-c3297b]]

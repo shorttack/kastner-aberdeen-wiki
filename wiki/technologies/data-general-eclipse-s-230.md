@@ -12,9 +12,9 @@ era: "1977-1990s"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Data General Eclipse S-230 minicomputer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Data General Eclipse S-230 with 256K core memory served as ASEP system controller — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
+- Data General Eclipse S-230 with 256K core memory served as ASEP system controller `[ps=0]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]

@@ -16,12 +16,12 @@ source_file: "1991 Apple C-S.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
 prescience_mean: 2.48
-prescience_obs_count: 21
+prescience_obs_count: 25
 ---
 
 # Front-Ends and Apple Computer in the 1990s
@@ -43,13 +43,16 @@ _Published 1991, author **Peter S. Kastner / Aberdeen Group**, type **consulting
 - Client-server matured by mid-1990s as predicted; World Wide Web arrival 1993-1995 accelerated and disrupted transition `[ps=5]`
 - Apple's market share in this decade unlikely to exceed 15% of business PC market; large MIS shops putting up largest resistance `[ps=5]`
 - Unix workstations are non-starters for corporate MIS desktops; Unix servers attracting increasing interest for price-performance advantages particularly for RDBMS decision support `[ps=5]`
+- Most buyers believe 1994 is when organizations will be fully up to speed with client-server; technology barriers until early 1992 or later `[ps=4]`
 - Over 80% of corporate MIS committed to IBM PC architecture; unwilling to consider Apple for future client-server and front-end projects `[ps=4]`
 - macOS desktop market share ~16% in 2025 (all PCs); Apple enterprise presence grew significantly post-iPhone but fragmented MIS pattern persisted `[ps=4]`
 - ~5 million IBM 3270 terminals declining at 15%-20% per year through 1993; PC replacement of choice `[ps=4]`
 - At 10%-20% of sites, Apple is established supplier with healthy installed base; other 80% have virtually zero Apple visibility `[ps=4]`
 - Dealers taking orders for IBM PCs rather than educating market about Apple; dealers have few incentives to sell Apple when customer says IBM PC `[ps=4]`
 - Apple launched iPhone 2007 and iPad 2010; consumer device success fundamentally changed enterprise adoption patterns; BYOD eliminated historical barriers `[ps=4]`
+- Late and slow; used for multithreading or IBM OfficeVision/2 commitments; SAA still 2 years away `[ps=3]`
 - Novell NetWare is dominant LAN OS; Mac-NetWare 286 support unknown to MIS; Netware 386 Mac connectivity delayed `[ps=3]`
+- Apple has favorable reputation as quality company; buyers seeking flight to safety with highest quality, financially strong, reputable suppliers `[ps=3]`
 - Aberdeen concerned Apple planning fewer than 25 frontware pilots in 1991; Fortune 1000 needs 1991 wake-up call `[ps=2]`
 - Frontware and client-server are mutually exclusive; MIS will either retrofit mainframe app with frontware or rearchitect using client-server `[ps=2]`
 - Aberdeen recommends evaluation of expanded joint marketing with Software AG of Natural Connection for Macintosh for client CASE tools and 4GL `[ps=2]`
@@ -61,7 +64,4 @@ _Published 1991, author **Peter S. Kastner / Aberdeen Group**, type **consulting
 - Largest Mac site in US: 18,000 sold; 2,000 in administration alone; using SAG Natural Connection for frontware `[ps=0]`
 - $175M S&P budget; planning native APPC applications in 1991; productivity tools 1992; common use 1994 `[ps=0]`
 - By 1994, USAA plans $5M+ rewrite of core customer service application using 5,000 client workstations; PS/2 Model 55SX with OS/2 `[ps=0]`
-- Most buyers believe 1994 is when organizations will be fully up to speed with client-server; technology barriers until early 1992 or later
-- Late and slow; used for multithreading or IBM OfficeVision/2 commitments; SAA still 2 years away
-- Apple has favorable reputation as quality company; buyers seeking flight to safety with highest quality, financially strong, reputable suppliers
-- Planning to replace 8,000 broker workstations; three recommended platforms under budgetary consideration; Unisys/CTOS expected to lose contract
+- Planning to replace 8,000 broker workstations; three recommended platforms under budgetary consideration; Unisys/CTOS expected to lose contract `[ps=0]`

@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 3
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 2
+prescience_mean: 2.75
+prescience_obs_count: 4
 ---
 
 # Home Networking (WiFi/Ethernet)
@@ -25,7 +25,7 @@ prescience_obs_count: 2
 ## Top observations
 
 - Challenging environment for young suppliers trying to succeed in this market `[ps=4]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Acronym soup inundating consumers `[ps=4]` — [[study-dct-webinar-announcement-2002-11]]
+- Rapidly rolling out high-margin home networking services to complement broadband `[ps=3]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
 - All current solutions unsatisfactory `[ps=0]` — [[study-dct-webinar-announcement-2002-11]]
-- Rapidly rolling out high-margin home networking services to complement broadband — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
 - ~37 named suppliers — [[study-dct-supplier-list-2002]]
-- Acronym soup inundating consumers — [[study-dct-webinar-announcement-2002-11]]

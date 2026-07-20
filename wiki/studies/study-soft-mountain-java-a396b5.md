@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.29
-prescience_obs_count: 7
+prescience_mean: 3.22
+prescience_obs_count: 9
 ---
 
 # Soft Mountain -- Event Driven Java: The Super-Glue Telecoms Require
@@ -42,10 +42,10 @@ _Published 1997, author **Traver H. Kennedy (Aberdeen Group)**, type **market-st
 
 - Networks increasingly decentralized and non-homogeneous; provisioning and delivering new services is challenged `[ps=5]`
 - Java provides flexibility to combine legacy infrastructure with new application deployment; suitable for telecom integration `[ps=4]`
+- Real-time event-driven software empowering network managers to incorporate variety of network elements and switching platforms `[ps=4]`
 - Java became dominant enterprise middleware platform; used widely in telecom OSS/BSS systems `[ps=4]`
 - New services must integrate with existing billing and management infrastructure `[ps=4]`
 - Electronic commerce and intranet services hinge on sophisticated transaction processing and fool-proof security and reliability `[ps=4]`
+- New groupware/hosting/intelligent network applications are primary revenue opportunity for carriers and ISPs `[ps=2]`
 - Implied viable vendor for telecom integration use case; Aberdeen publication implies endorsement `[ps=2]`
 - No evidence of successful company growth or acquisition; likely dissolved during dot-com era without major footprint `[ps=0]`
-- New groupware/hosting/intelligent network applications are primary revenue opportunity for carriers and ISPs
-- Real-time event-driven software empowering network managers to incorporate variety of network elements and switching platforms

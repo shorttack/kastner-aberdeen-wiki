@@ -13,8 +13,8 @@ successor: ""
 years_active: "1977-present"
 occurrence_count: 4
 prescience_max: 5.0
-prescience_mean: 2.62
-prescience_obs_count: 8
+prescience_mean: 2.78
+prescience_obs_count: 9
 ---
 
 # Lawrence J. Ellison
@@ -30,6 +30,7 @@ prescience_obs_count: 8
 ## Top observations
 
 - PC market continued to grow through 2010; NC devices failed commercially; Ellison prediction refuted on timeline and mechanism `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]
+- ~25 observations 1993–2026 on Larry Ellison as strategic actor `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
 - Larry Ellison and Michael Dell jointly predicted demise of Big Iron (high-end UNIX/mainframe) in favor of commodity x86 Linux clusters `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
 - Big Iron partially displaced by x86 but not eliminated; Oracle subsequently acquired Sun and sold Exadata engineered systems — the most expensive Big Iron in the market `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
 - Microsoft was busily competing with Lotus in spreadsheets and it was unsuccessful. It was competing against WordPerfect in word processing, and Microsoft was unsuccessful. Eventually, Office came out and Microsoft dominated. `[ps=4]` — [[study-peoplesoft-bid-mirrors-lofty-goals-of-or-6be2ec]]
@@ -37,4 +38,3 @@ prescience_obs_count: 8
 - Larry Ellison predicted in 1995 that the PC was dead and would be replaced by the Network Computer within five years `[ps=1]` — [[study-2026-kastner-oracle-longitudinal]]
 - We have no more important partner than Dell. `[ps=1]` — [[study-oracle-and-dell-take-aim-at-midsize-busi-770ea6]]
 - Larry Ellison adopted publicly softer posture toward Oracle Applications customers at AppsWorld 2002 `[ps=0]` — [[study-2026-kastner-oracle-longitudinal]]
-- ~25 observations 1993–2026 on Larry Ellison as strategic actor — [[study-2026-kastner-oracle-longitudinal]]

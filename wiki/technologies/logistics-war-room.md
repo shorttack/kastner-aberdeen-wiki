@@ -12,9 +12,9 @@ era: "2003-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "standard-practice"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Logistics War-Room Planning
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Most have already instituted logistics war room planning exercises — with frequent reports to the CEO. The planning consensus includes rapidly qualifying second and third supply sources outside Asia. — [[study-internetnews-will-sars-infect-high-tech--8569ea]]
+- Most have already instituted logistics war room planning exercises — with frequent reports to the CEO. The planning consensus includes rapidly qualifying second and third supply sources outside Asia. `[ps=2]` — [[study-internetnews-will-sars-infect-high-tech--8569ea]]

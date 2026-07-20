@@ -12,9 +12,9 @@ era: "2000-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Bulk Email Infrastructure (Tunneled)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Defined tunneled bulk-email infrastructure niche; headed startup toward profitability — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]
+- Defined tunneled bulk-email infrastructure niche; headed startup toward profitability `[ps=0]` — [[study-aberdeen-workshop-qualifying-questions-and-success-stories-2001-b6a001]]

@@ -16,12 +16,12 @@ source_file: "CAunic-ltr98.docx"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 14
+prescience_obs_count: 18
 ---
 
 # Computer Associates Unicenter and Jasmine Strategic Assessment
@@ -54,7 +54,7 @@ _Published 1997, author **Peter S. Kastner**, type **consulting-report**._
 -  `[ps=0]`
 -  `[ps=0]`
 -  `[ps=0]`
-- 
-- 
-- 
-- 
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`
+-  `[ps=0]`

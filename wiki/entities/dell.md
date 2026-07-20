@@ -11,10 +11,10 @@ sector: "information technology hardware"
 status: "operating"
 successor: "Dell Technologies (went private 2013; re-listed 2018 via VMware tracking stock)"
 years_active: "1984-present"
-occurrence_count: 71
+occurrence_count: 73
 prescience_max: 5.0
-prescience_mean: 1.74
-prescience_obs_count: 106
+prescience_mean: 1.85
+prescience_obs_count: 138
 ---
 
 # Dell Computer Corporation
@@ -29,7 +29,9 @@ prescience_obs_count: 106
 
 ## Top observations
 
+- Standardizing on LTO-2; emphasizing LTO going forward `[ps=5]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
 - Deserves place at business discussion table for all sizes `[ps=5]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
+- Dell's negative cash-conversion-cycle was a late-1990s achievement (41 days 1994 -> negative 18 by FY2000), NOT a 1984 design feature — the legend gets this wrong. `[ps=5]` — [[study-2026-kastner-compaq-dell-pc-clones-split]]
 - Dell already a leader in Intel servers `[ps=5]` — [[study-dct-hp-compaq-pcs-insight-2001-09]]
 - Drive a standards-based, low-risk transition to 64-bit via Intel-based ecosystem (DDR2 + PCIe + SATA RAID + EM64T). `[ps=5]` — [[study-dell-precision-workstations-3-581e89]]
 - Obtaining satisfactory performance at less cost via midline products is emerging as a major buyer trend `[ps=5]` — [[study-dell-storage-profile-2004]]
@@ -41,11 +43,9 @@ prescience_obs_count: 106
 - Satisfactory performance at less cost (midline storage) `[ps=4]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
 - ATA for fixed content and nearline pools; lower cost `[ps=4]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
 - Deliver industry-leading value; drive standards; move high-end functionality downstream `[ps=4]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
+- CX200→CX300 upgrade: replace controller only; no data migration `[ps=4]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
 - Standardization → larger market → technology refinements → declining costs → next standard `[ps=4]` — [[study-2004-05dell-storage-profile-editpk-05170-3c00b1]]
-- Dell is 'gorilla' in North American PC marketplace `[ps=4]` — [[study-dct-gateway-acquires-emachines-2004-03]]
-- Dell beats even combined HP/Compaq in US `[ps=4]` — [[study-dct-hp-compaq-pcs-insight-2001-09]]
-- Dell and non-traditional CE companies intensify price competition; traditional CE categories becoming even greater bargain `[ps=4]` — [[study-dct-oct.-4-hot-topic-b61c0d]]
-- Settlement Report (per-asset resale/recycle disposition) + Certificate of Disposal (overwrite + shred verification, EPA-compliant). `[ps=4]` — [[study-dell-ars-wp-2-72fd7f]]
-- Pre-configured clustered servers, storage, backup, switches, Windows 2003 or Linux, Oracle 9i RAC or 10g, menu of planning/installation/tuning services including database & application migration; single PO to Dell. `[ps=4]` — [[study-dell-sap-v6-d08820]]
-- Two-node cluster of Dell 6650 4-way servers ~9-16% better performance than 8-way RISC, Xeon, and Itanium SMP competitors for as little as one-third the cost. `[ps=4]` — [[study-dell-sap-v6-d08820]]
-- Dell's server market share grew as predicted. Dell's worldwide server revenue share rose from 7.5% in 2002 to 9.4% in 2004 and 10.3% in 2005, with unit shipment share at 23.3% by end-2005. Dell consistently outperformed the overall market growth rate. `[ps=4]` — [[study-dell-sap-v6-d08820]]
+- Dell's advantage was supply-chain architecture, not price or product; the direct model's working-capital machine let it price a configured box at or below Compaq's channel cost. `[ps=4]` — [[study-2026-kastner-compaq-dell-pc-clones-split]]
+- The same direct-model pattern that decided the desktop showed up in servers: the low end went direct first, exactly as in PCs. `[ps=4]` — [[study-2026-kastner-compaq-dell-pc-clones-split]]
+- Kastner underweighted how fast the 'we can do it ourselves' attitude would spread from the server closet to the whole enterprise desktop. `[ps=4]` — [[study-2026-kastner-compaq-dell-pc-clones-split]]
+- Kastner's home machines embodied the thesis: a Dell 286 (12 MHz, Windows 1.0 demo) and a Gateway 386 ($3,600) with a 1MB board populated from Stratus manufacturing chips — 'I was the market Compaq was about to lose.' `[ps=4]` — [[study-2026-kastner-compaq-dell-pc-clones-split]]

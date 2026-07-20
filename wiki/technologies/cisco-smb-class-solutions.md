@@ -13,8 +13,8 @@ lifecycle_at_study: "new"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 3.0
+prescience_obs_count: 3
 ---
 
 # Cisco SMB Class Solutions Initiative
@@ -25,5 +25,5 @@ prescience_obs_count: 1
 ## Top observations
 
 - Cisco acquired cloud-managed networking vendor Meraki November 2012 for $1.2B, becoming the SMB / mid-market platform Kastner anticipated. `[ps=5]` — [[study-processor-editorial-article-the-momentum-2b093d]]
-- Cisco certainly has the clout to make a difference and reach its goals as an SME provider. — [[study-processor-editorial-article-the-momentum-2b093d]]
-- Cisco SMB Class Solutions Initiative announced April 2004; 36-month IPC leasing/service bundle starting at $5,000/year; includes wireless, VPN, routers, switches, service. — [[study-processor-editorial-article-the-momentum-2b093d]]
+- Cisco certainly has the clout to make a difference and reach its goals as an SME provider. `[ps=4]` — [[study-processor-editorial-article-the-momentum-2b093d]]
+- Cisco SMB Class Solutions Initiative announced April 2004; 36-month IPC leasing/service bundle starting at $5,000/year; includes wireless, VPN, routers, switches, service. `[ps=0]` — [[study-processor-editorial-article-the-momentum-2b093d]]

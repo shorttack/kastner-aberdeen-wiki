@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 3.67
-prescience_obs_count: 6
+prescience_mean: 3.55
+prescience_obs_count: 11
 ---
 
 # Business Process Orientation Changes Application View for Oracle: 'Flows' Define More than Solutions
@@ -41,13 +41,13 @@ _Published 2003, author **Dr. Katherine Jones**, type **perspective**._
 ## Top observations
 
 - Oracle shifting to process-flow orientation where 'flows' define solutions rather than functional modules `[ps=4]`
+- Supporting workflow must make business processes fluid including touchpoints outside the organization itself `[ps=4]`
 - Keys to good business practices include processes specific to vertical markets (government, education, healthcare) `[ps=4]`
 - SAP referenced as benchmark for process-oriented enterprise software approach `[ps=4]`
 - SAP S/4HANA adopted process-flow and simplified data model as core architecture; prediction directionally correct `[ps=4]`
+- CRM identified as key domain requiring process-flow orientation alongside ERP `[ps=4]`
 - ERP must transition from module-centric to flow-centric design to meet customer needs `[ps=4]`
+- Customers think in process terms — how something works within their particular business `[ps=3]`
+- Keys to good business practices include business-generic processes `[ps=3]`
+- Oracle Fusion Applications launched 2011 with process-flow architecture as core design; prediction proved correct `[ps=3]`
 - Oracle's adoption of process-flow architecture will be critical to competitiveness against SAP `[ps=2]`
-- Customers think in process terms — how something works within their particular business
-- Supporting workflow must make business processes fluid including touchpoints outside the organization itself
-- Keys to good business practices include business-generic processes
-- Oracle Fusion Applications launched 2011 with process-flow architecture as core design; prediction proved correct
-- CRM identified as key domain requiring process-flow orientation alongside ERP

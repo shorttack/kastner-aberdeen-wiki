@@ -3,7 +3,7 @@ title: "WebEx Makes A Move On Enterprise Collaboration"
 slug: "study-informationweek-webex-enterprise-collabo-e30ad5"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "informationweek-webex-enterprise-collabo-e30ad5"
 author: "InformationWeek staff"
@@ -16,12 +16,12 @@ source_file: "WebEx-Makes-A-Move-On-Enterprise-Collaboration-Collaboration-Infor
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # WebEx Makes A Move On Enterprise Collaboration
@@ -40,5 +40,5 @@ _Published 2003, author **InformationWeek staff**, type **news-article**._
 
 ## Top observations
 
-- The Enterprise Edition makes it much easier for WebEx's Fortune 1000 clients to allocate the cost of the service across corporate P&Ls, just as they do now with phone bills. It's easier to deploy and easier for a large corporation to handle the accounting and administration of Web service-driven collaboration.
-- WebEx launches Enterprise Edition packaging/pricing for Fortune 1000
+- The Enterprise Edition makes it much easier for WebEx's Fortune 1000 clients to allocate the cost of the service across corporate P&Ls, just as they do now with phone bills. It's easier to deploy and easier for a large corporation to handle the accounting and administration of Web service-driven collaboration. `[ps=4]`
+- WebEx launches Enterprise Edition packaging/pricing for Fortune 1000 `[ps=3]`

@@ -13,8 +13,8 @@ successor: "Adaptec (acquired July 2004; Adaptec then divested the systems busin
 years_active: "1994-2005"
 occurrence_count: 3
 prescience_max: 5.0
-prescience_mean: 0.67
-prescience_obs_count: 27
+prescience_mean: 0.94
+prescience_obs_count: 36
 ---
 
 # Snap Appliance, Inc.
@@ -30,10 +30,15 @@ prescience_obs_count: 27
 ## Top observations
 
 - Adaptec sold its Snap Server and GuardianOS product line to Overland Storage in June 2008 for $3.6M, ending Adaptec's 2004-2008 ownership and effectively closing Adaptec's entry into NAS/storage-systems. `[ps=5]` — [[study-snap-appliance-launches-new-release-of-i-373ab7]]
+- Acquired by Overland Storage in 2008; Overland later merged with Sphere 3D in 2014. Company did not survive as independent entity. `[ps=5]` — [[study-snap-appliance-snapshot-2003]]
+- ATA (inexpensive) `[ps=4]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
 - Together with GuardianOS v3.1, Snap has a solid software offering for its departmental and enterprise servers that can continue to scale as the company expands its hardware product line. `[ps=3]` — [[study-snap-appliance-launches-new-release-of-i-373ab7]]
 - First Snap Servers launched by Meridian Data in 1998; Quantum acquired company in 2000 `[ps=3]` — [[study-snap-appliance-snapshot-2003]]
+- Spun out of Quantum in 2002 as private company; original IPO plans shelved `[ps=3]` — [[study-snap-appliance-snapshot-2003]]
 - Private company with strong product line and 130k+ installed base; positioned for growth in NAS market `[ps=3]` — [[study-snap-appliance-snapshot-2003]]
 - Snap Appliance's S2S v2 is a full-featured replication-for-the-masses solution that will give enterprises the opportunity to protect and easily move data without the significant investment or complexity that was required in the past. `[ps=2]` — [[study-snap-appliance-launches-new-release-of-i-373ab7]]
+- #1 volume leading provider `[ps=2]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
+- world best-selling NAS server `[ps=2]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
 - Number one, volume leading provider of NAS solutions from workgroup to enterprise `[ps=1]` — [[study-snap-appliance-snapshot-2003]]
 - Founded 1994 per company facts sidebar `[ps=1]` — [[study-snap-appliance-snapshot-2003]]
 - GuardianOS v3.1 delivers a 50%+ performance improvement for iSCSI over GuardianOS v3.0, bringing iSCSI throughput more in line with file-sharing NAS throughput on Snap Servers. `[ps=0]` — [[study-snap-appliance-launches-new-release-of-i-373ab7]]
@@ -44,8 +49,3 @@ prescience_obs_count: 27
 - Software partners: APC, Computer Associates, Legato, PowerQuest, SyncSort, Veritas, Sun Microsystems `[ps=0]` — [[study-snap-appliance-snapshot-2003]]
 - Wide variety of comprehensive service programs for all Snap Servers covering support needs `[ps=0]` — [[study-snap-appliance-snapshot-2003]]
 - 130,000+ `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
-- 3TB `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
-- 1.44TB / 2.16TB / 3.0TB `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
-- North America, Europe, Asia Pacific `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
-- SnapOS (proprietary) `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
-- DataKeeper included with every Snap Server `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]

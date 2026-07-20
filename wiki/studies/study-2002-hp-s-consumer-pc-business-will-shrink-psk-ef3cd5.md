@@ -16,12 +16,12 @@ source_file: "2002 HP_s Consumer PC Business Will Shrink PSK.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.0
-prescience_obs_count: 6
+prescience_mean: 1.46
+prescience_obs_count: 13
 ---
 
 # HP's Consumer PC Business Will Shrink
@@ -42,14 +42,14 @@ _Published 2002, author **Peter S. Kastner**, type **insight**._
 
 - HP likely to face challenges in business PC market post-merger `[ps=4]`
 - Dell positioned to gain market share from merged HP-Compaq entity `[ps=4]`
+- Compaq was major PC vendor contributing volume to the merged entity `[ps=4]`
+- Intel cited as key component vendor shaping consumer PC market dynamics `[ps=4]`
+- Combined company will have better PC margins through buying power of greater volume `[ps=2]`
+- Post-merger HP unit volumes will be less than sum of current Compaq and HP levels `[ps=2]`
+- HP consumer PC business will shrink post-merger `[ps=1]`
 - Many assumed combined company volume would exceed sum of parts `[ps=0]`
+- HP reported $2.03B net loss in first combined results following Compaq acquisition `[ps=0]`
+- HP explored options for its $40B Personal Systems Group in 2011 `[ps=0]`
 - Merger requires integration across PC business and retail/consumer and enterprise channels `[ps=0]`
 - Dell unseated HP as PC market leader in Q1 2003 `[ps=-1]`
 - HP annual PC market share 16.4% in 2003 (up from 16% in 2002) — back on top `[ps=-1]`
-- Combined company will have better PC margins through buying power of greater volume
-- Post-merger HP unit volumes will be less than sum of current Compaq and HP levels
-- HP consumer PC business will shrink post-merger
-- Compaq was major PC vendor contributing volume to the merged entity
-- HP reported $2.03B net loss in first combined results following Compaq acquisition
-- HP explored options for its $40B Personal Systems Group in 2011
-- Intel cited as key component vendor shaping consumer PC market dynamics

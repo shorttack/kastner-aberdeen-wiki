@@ -16,12 +16,12 @@ source_file: "1998 The Dollars and Sense of the New Electronic Commerce- Busines
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.6
-prescience_obs_count: 20
+prescience_mean: 2.4
+prescience_obs_count: 25
 ---
 
 # The Dollars and Sense of the New Electronic Commerce: Business-to-Business Electronic Commerce in Transition
@@ -42,6 +42,7 @@ _Published 1998, author **Aberdeen Group (David Alschuler)**, type **market-stud
 
 - Public/private key encryption as internet commerce security foundation `[ps=5]`
 - Ariba identified as leading e-procurement platform with strong market position `[ps=5]`
+- Sterling Commerce positioned as market leader in EDI VAN services `[ps=5]`
 - Commerce One filed for bankruptcy October 6 2004; patents auctioned for $15.5M `[ps=5]`
 - Ariba acquired by SAP AG for $4.3 billion in 2012 as cloud procurement leader `[ps=5]`
 - Traditional EDI suppliers have launched significant new initiatives reflecting different technical and business models `[ps=4]`
@@ -51,17 +52,16 @@ _Published 1998, author **Aberdeen Group (David Alschuler)**, type **market-stud
 - Harbinger positioned as acquisitive EDI VAN transitioning to internet EC `[ps=4]`
 - Most ERP suppliers have launched significant EC initiatives reflecting different technical and business models `[ps=4]`
 - Electronic Commerce is a market in transition with new organizations breaking new ground `[ps=3]`
+- Internet-based EC will become the dominant B2B commerce channel displacing traditional EDI `[ps=3]`
 - Commerce One identified as new internet EC marketplace entrant with high growth potential `[ps=3]`
 - Internet-based B2B commerce (XML/AS2/web services) became dominant; EDI persists only in legacy healthcare/retail `[ps=2]`
 - It is a period of change — of opportunity and risk closely entwined `[ps=0]`
+- 4 months of interviews with major EC suppliers and end users conducted starting March 1998 `[ps=0]`
+- 17 supplier organizations profiled `[ps=0]`
+- Worldwide EDI VAN market (1996) quantified `[ps=0]`
 - Worldwide EDI software and service revenues market growth estimates presented `[ps=0]`
 - Hub-and-spoke EDI network described from both buyer and supplier perspectives `[ps=0]`
 - Premenos acquired by Harbinger for $230M in December 1997 `[ps=0]`
 - GEIS rebranded as GXS in 2000; sold by GE to Francisco Partners 2002; eventually acquired by OpenText 2014 `[ps=0]`
 - Sterling Commerce sold to IBM in 2010 for $1.4B; now IBM Sterling B2B Integrator `[ps=0]`
 - $1495 for 115-page report `[ps=0]`
-- 4 months of interviews with major EC suppliers and end users conducted starting March 1998
-- 17 supplier organizations profiled
-- Worldwide EDI VAN market (1996) quantified
-- Internet-based EC will become the dominant B2B commerce channel displacing traditional EDI
-- Sterling Commerce positioned as market leader in EDI VAN services

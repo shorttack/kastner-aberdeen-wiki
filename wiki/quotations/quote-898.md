@@ -1,6 +1,7 @@
 ---
 title: Quote 898 — Computerworld (1991-09-30)
 type: quotation
+page_type: quotation
 slug: quote-898
 row_id: 898
 author: "Peter S. Kastner"

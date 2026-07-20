@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.58
-prescience_obs_count: 12
+prescience_mean: 1.11
+prescience_obs_count: 18
 ---
 
 # Sun's AS/400 Market Opportunity — Aberdeen Presentation to Sun Microsystems
@@ -41,10 +41,16 @@ _Published 2002, author **Peter Kastner**, type **white-paper**._
 ## Top observations
 
 - Europe is as important as North America `[ps=4]`
+- 85% of revenues through partners; solutions focus `[ps=4]`
+- well tuned to SMB `[ps=4]`
+- poor price-performance; pricey upgrades `[ps=3]`
 - Europe is the key SMB battleground `[ps=2]`
+- Server consolidation + Notes/WebSphere upgrade + mid-market ERP Navision + target <100-employee `[ps=2]`
 - Linux is the lever for iSeries upgrades `[ps=2]`
 - 450,000 machines `[ps=0]`
+- $7.7B HW + $2.6B SW = 23% of IBM HW revenues `[ps=0]`
 - $13.5B `[ps=0]`
+- 1-2-way @ $50-150K `[ps=0]`
 - Sun overlaps iSeries product line (1-32 way, 400-375K TPM-C) `[ps=0]`
 - $1.87B addressable in 2002 `[ps=0]`
 - $924M `[ps=0]`
@@ -52,9 +58,3 @@ _Published 2002, author **Peter Kastner**, type **white-paper**._
 - $452M `[ps=0]`
 - $92M `[ps=0]`
 - 'Freeze your AS/400. Go with Sun for new business apps and Edge (H1).' `[ps=-1]`
-- $7.7B HW + $2.6B SW = 23% of IBM HW revenues
-- 1-2-way @ $50-150K
-- 85% of revenues through partners; solutions focus
-- poor price-performance; pricey upgrades
-- well tuned to SMB
-- Server consolidation + Notes/WebSphere upgrade + mid-market ERP Navision + target <100-employee

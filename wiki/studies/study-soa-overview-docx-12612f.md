@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.89
-prescience_obs_count: 9
+prescience_mean: 3.9
+prescience_obs_count: 10
 ---
 
 # Summary of Peter Kastner's Research on Service-Oriented Architecture (SOA)
@@ -46,7 +46,7 @@ _Published 2024, author **Peter S. Kastner (AI-assisted summary)**, type **ai-re
 - ESB is foundational middleware for SOA; evolving to include governance and management `[ps=4]`
 - Invest in governance and management tools for sustainable long-term SOA value `[ps=4]`
 - The promise of SOA is real but benefits have not been widely distributed `[ps=4]`
+- Kastner's SOA modularity/scalability concepts foundational to microservices architecture evolution `[ps=4]`
 - Faster deployment, easier integration, quicker customization `[ps=3]`
 - Initial IT benefits must precede business benefits in SOA adoption `[ps=3]`
 - Industry in transitional phase; many organizations recognizing limitations of traditional integration `[ps=3]`
-- Kastner's SOA modularity/scalability concepts foundational to microservices architecture evolution

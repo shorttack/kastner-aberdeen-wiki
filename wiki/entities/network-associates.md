@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Intel -> TPG -> McAfee -> STG"
 years_active: "1997-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Network Associates (McAfee)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquiring Magic Solutions for help desk; integrating with McAfee ServiceDesk — [[study-cispra~1-23a333]]
+- Acquiring Magic Solutions for help desk; integrating with McAfee ServiceDesk `[ps=2]` — [[study-cispra~1-23a333]]

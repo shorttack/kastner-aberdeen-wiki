@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Borland (2007)"
 years_active: "1992-2007"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Segue Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Windows-specific testing — indirect competitor — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]
+- Windows-specific testing — indirect competitor `[ps=2]` — [[study-qacenter-automated-software-quality-from-start-to--b7003b]]

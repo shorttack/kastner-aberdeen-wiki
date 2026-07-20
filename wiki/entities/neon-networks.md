@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1993-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # New Era of Networks Inc. (NEON)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NEON must expand beyond financial vertical where custom apps dominate — [[study-middle~1-a64fa0]]
+- NEON must expand beyond financial vertical where custom apps dominate `[ps=4]` — [[study-middle~1-a64fa0]]

@@ -13,8 +13,8 @@ successor: "Acquired by Atos SE in October 2014 for €620M (~$844M)"
 years_active: "1931-2014"
 occurrence_count: 4
 prescience_max: 5.0
-prescience_mean: 1.95
-prescience_obs_count: 19
+prescience_mean: 1.48
+prescience_obs_count: 25
 ---
 
 # Groupe Bull
@@ -41,11 +41,11 @@ prescience_obs_count: 19
 - Bull intends to implement PowerPC 620 processor in Sagister by fall 1996; OS support dependent on IBM/Bull AIX 64-bit efforts `[ps=2]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - IS professionals consistently state UNIX is a step down from GCOS/MVS/VMS in manageability, reliability, availability, security; Sagister fills this gap `[ps=2]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - Aberdeen assesses Sagister as 'must-have' product for running production UNIX applications in enterprise datacenters `[ps=1]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
+- Bull has over 15 years of experience implementing UNIX systems in customer operations `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
+- Approximately 200 individuals assigned to the Sagister project `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - Single 6-8 processor node; supports up to 2,000 PC clients; suited for prototyping and development `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - Two-node system; 12-16 processors; supports up to 3,000 PC clients; Aberdeen's recommended production system `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
+- Four-node FDDI-interconnected; up to 32 PowerPC processors; supports up to 5,000 users; very large databases `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - First major Sagister application Function Set; adds security, automated ops, HA, backup, event management to SAP R/3 `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - AIX 4.1 allows 10,000+ packaged applications to run on Sagister `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - 1995 revenues FF 26,656M; net profit FF 306M — first profit since 1988 `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
-- Bull will support up to 16 CPUs per system by end of 1997 (from current 8 CPUs max in SMP) `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
-- French and Italian Groupe Bull engineers were 'impressive in their technical tenacity and their frustration when terminal emulators misbehaved at critical moments.' `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
-- Bull has over 15 years of experience implementing UNIX systems in customer operations — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]

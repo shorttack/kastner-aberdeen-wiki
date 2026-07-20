@@ -14,7 +14,7 @@ years_active: "1982-1995"
 occurrence_count: 3
 prescience_max: 3.0
 prescience_mean: 3.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Lotus Development Corporation
@@ -30,4 +30,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - IBM Lotus providing enterprise LMS integrated with Lotus Notes groupware platform `[ps=3]` — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]
-- New departmental computing metaphor; message-passing and LAN-based technologies for multi-user apps — [[study-nti-12-client-server-goals-1993-15a519]]
+- New departmental computing metaphor; message-passing and LAN-based technologies for multi-user apps `[ps=3]` — [[study-nti-12-client-server-goals-1993-15a519]]

@@ -16,12 +16,12 @@ source_file: "1997 Forte Enterprise Development Environment pr.pdf"
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 0.61
-prescience_obs_count: 18
+prescience_mean: 0.65
+prescience_obs_count: 20
 ---
 
 # Forte Enterprise Development Environment
@@ -43,6 +43,7 @@ _Published 1997, author **Aberdeen Group**, type **product-profile**._
 - rebranded then discontinued `[ps=5]`
 - viable/growing `[ps=3]`
 - Uniface and Dynasty Technologies cited as closest second-gen HADE peers `[ps=3]`
+- direct sales primary; Digital as reseller `[ps=2]`
 - leader `[ps=0]`
 - $43.5M `[ps=0]`
 - 130% `[ps=0]`
@@ -53,10 +54,9 @@ _Published 1997, author **Aberdeen Group**, type **product-profile**._
 - design-time integration `[ps=0]`
 - strong `[ps=0]`
 - predicted delivery 1998 `[ps=0]`
+- acquired by Sun for $540M `[ps=0]`
 - partitioning+workflow+lifecycle `[ps=0]`
 - FRTE `[ps=0]`
 - EAI and Java/web integration expertise `[ps=0]`
 - joint-development partnership `[ps=0]`
 - well-integrated `[ps=0]`
-- acquired by Sun for $540M
-- direct sales primary; Digital as reseller

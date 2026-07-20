@@ -12,9 +12,9 @@ era: "2005-2016"
 lifecycle_at_study: "new"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Microsoft SQL Server 2005 (codename Yukon)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft SQL Server codename Yukon planned with enhanced scalability, manageability, availability, business intelligence, deeper dev-tool integration. — [[study-processor-editorial-article-much-in-stor-660f27]]
+- Microsoft SQL Server codename Yukon planned with enhanced scalability, manageability, availability, business intelligence, deeper dev-tool integration. `[ps=4]` — [[study-processor-editorial-article-much-in-stor-660f27]]

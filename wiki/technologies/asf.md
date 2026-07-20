@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Application Software Factory (Andersen)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Andersen's Application Software Factory (ASF) methodology was a reasonable development approach — standard for large SI engagements of the era — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
+- Andersen's Application Software Factory (ASF) methodology was a reasonable development approach — standard for large SI engagements of the era `[ps=3]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]

@@ -12,9 +12,9 @@ era: "1991-2005"
 lifecycle_at_study: "Emerging/active"
 lifecycle_current: "Legacy/obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # CORBA (Common Object Request Broker Architecture)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Reaching market alongside Java — [[study-1997-infinite-resource-planning-wp-893815]]
+- Reaching market alongside Java `[ps=0]` — [[study-1997-infinite-resource-planning-wp-893815]]

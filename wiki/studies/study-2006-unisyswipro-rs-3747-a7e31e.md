@@ -16,12 +16,12 @@ source_file: "2006_UnisysWipro_RS_3747.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 3.0
-prescience_mean: 0.12
-prescience_obs_count: 24
+prescience_mean: 0.1
+prescience_obs_count: 30
 ---
 
 # Can Unisys-Wipro Alliance Cover All Outsourcing Bases?
@@ -43,6 +43,7 @@ _Published 2006, author **Aberdeen Group**, type **article**._
 - cost-savings `[ps=3]`
 - local-customer-care `[ps=0]`
 - communication-cultural-gaps `[ps=0]`
+- securing-right-skill-set `[ps=0]`
 - integration-testing-qa-effort `[ps=0]`
 - integration-testing-qa-effort `[ps=0]`
 - communication-cultural-gaps `[ps=0]`
@@ -51,9 +52,12 @@ _Published 2006, author **Aberdeen Group**, type **article**._
 - 43% `[ps=0]`
 - 30% `[ps=0]`
 - 50% `[ps=0]`
+- new-revised-vendor-mgmt-processes `[ps=0]`
 - higher-than-expected `[ps=0]`
+- local-support-subcontractor `[ps=0]`
 - remote-services-prime-contractor `[ps=0]`
 - 20000 `[ps=0]`
+- combines-cost-savings-with-customer-focus `[ps=0]`
 - cheaper-labor-and-high-quality `[ps=0]`
 - top-three-indian-providers `[ps=0]`
 - high-potential `[ps=0]`
@@ -61,7 +65,3 @@ _Published 2006, author **Aberdeen Group**, type **article**._
 - cost-plus-customer-care `[ps=0]`
 - dissolved-or-inactive `[ps=0]`
 - industry-standard `[ps=0]`
-- active-pivoted-to-digital `[ps=0]`
-- active-major-growth `[ps=0]`
-- growth-phase `[ps=0]`
-- securing-right-skill-set

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "3Com (acquired February 1994)"
 years_active: "1990-1994"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Centrum Communications Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Centrum Communications acquired February 1994; brought AccessBuilder product line — [[study-aberdeen-1997-3com-accelerates-remote-access-market]]
+- Centrum Communications acquired February 1994; brought AccessBuilder product line `[ps=5]` — [[study-aberdeen-1997-3com-accelerates-remote-access-market]]

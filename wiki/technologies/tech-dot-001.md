@@ -13,8 +13,8 @@ lifecycle_at_study: "Emerging/Hyped"
 lifecycle_current: "Superseded"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 3.33
-prescience_obs_count: 3
+prescience_mean: 3.4
+prescience_obs_count: 5
 ---
 
 # Distributed Object Technology (DOT)
@@ -26,6 +26,6 @@ prescience_obs_count: 3
 
 - Low performance products `[ps=4]` — [[study-1997-distributed-object-technology--dead-3cf2d1]]
 - Industry has not clearly made business case `[ps=4]` — [[study-1997-distributed-object-technology--dead-3cf2d1]]
+- Partially correct: replaced by web services `[ps=4]` — [[study-1997-distributed-object-technology--dead-3cf2d1]]
+- Products often immature and unintegrated `[ps=3]` — [[study-1997-distributed-object-technology--dead-3cf2d1]]
 - Will deliver long-term benefits `[ps=2]` — [[study-1997-distributed-object-technology--dead-3cf2d1]]
-- Products often immature and unintegrated — [[study-1997-distributed-object-technology--dead-3cf2d1]]
-- Partially correct: replaced by web services — [[study-1997-distributed-object-technology--dead-3cf2d1]]

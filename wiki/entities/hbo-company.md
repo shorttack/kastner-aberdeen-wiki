@@ -12,9 +12,9 @@ status: "acquired"
 successor: "McKesson HBOC (acquired 1999); McKesson Corporation"
 years_active: "1974-1999"
 occurrence_count: 2
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # HBO & Company (HBOC)
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Acquired by McKesson Corporation for $14B in 1999 (McKesson HBOC); subsequent accounting scandal `[ps=5]` — [[study-aberdeen-1997-hp-andover-working-group]]
 - 5500+ employees; 1997 revenues >$1.2B; comprehensive suite for hospitals, physician offices, home health, managed care; partnerships and acquisitions strategy `[ps=0]` — [[study-health~1-056358]]
-- Acquired by McKesson Corporation for $14B in 1999 (McKesson HBOC); subsequent accounting scandal — [[study-aberdeen-1997-hp-andover-working-group]]

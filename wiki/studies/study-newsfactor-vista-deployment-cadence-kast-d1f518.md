@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.6
-prescience_obs_count: 5
+prescience_mean: 2.75
+prescience_obs_count: 8
 ---
 
 # Vista: How Soon Until Deployment?
@@ -42,9 +42,9 @@ _Published 2006, author **David Garrett**, type **news-article**._
 
 - There's no light-switch conversion where everyone turns on Vista one morning `[ps=5]`
 - Vista to be available for companies as early as November 30 along with new versions of Office and Exchange `[ps=5]`
+- Fixes come out every month, not just in service packs `[ps=4]`
+- Features like Vista's much-hyped Aero interface need more horsepower than most business machines currently have `[ps=4]`
+- Companies on a three-year hardware lifecycle buy a fraction of total hardware needs per month — Vista will be fully deployed sometime in 2010 `[ps=1]`
 - Sometime in 2007, Microsoft will likely stop availability of Windows XP in small business systems sold at retail, forcing a Vista switch `[ps=1]`
 - We disagree with Gartner that business needs to wait until 2008 to start deploying Vista `[ps=1]`
 - Vista will be fully deployed sometime in 2010 as new Vista-laden machines replace old XP machines `[ps=1]`
-- Companies on a three-year hardware lifecycle buy a fraction of total hardware needs per month — Vista will be fully deployed sometime in 2010
-- Fixes come out every month, not just in service packs
-- Features like Vista's much-hyped Aero interface need more horsepower than most business machines currently have

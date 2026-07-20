@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.6
-prescience_obs_count: 5
+prescience_mean: 2.83
+prescience_obs_count: 6
 ---
 
 # Mac or PC? Windows Security Issues Help Some Users Choose
@@ -41,8 +41,8 @@ _Published 2004, author **Kevin Maney**, type **news-column**._
 ## Top observations
 
 - Apple says Macintosh sales lifted by Windows security concerns `[ps=4]`
+- Businesses are too heavily invested in Microsoft-based software to switch `[ps=4]`
 - Individuals might be tempted to switch to Mac for reasons that didn't exist a couple years ago `[ps=4]`
 - No one has lost their job for keeping Windows `[ps=3]`
 - Switching from Windows to Mac costs are huge and potentially career-threatening for most CIOs `[ps=2]`
 - 5,000 new viruses aimed at Windows in first half of 2004 `[ps=0]`
-- Businesses are too heavily invested in Microsoft-based software to switch

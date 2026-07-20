@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 3.0
+prescience_mean: 0.75
+prescience_obs_count: 4
 ---
 
 # Cornell School of Hotel Administration
@@ -24,7 +24,7 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Several months of effort produced an elegant design and an infeasible implementation — the tabulator could not execute required conditional logic. `[ps=3]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- First Friday concert: The Beach Boys; second: The Rolling Stones; fourth: Bob Dylan. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Front desk ran on an NCR paper-tape cash register; cash procedures nearly identical to Cape Cod restaurant. No plans to change. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Upper-class accounting team used donated IBM punch-card tabulating equipment to automate Hotel Ezra Cornell (HEC) weekend books. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- First Friday concert: The Beach Boys; second: The Rolling Stones; fourth: Bob Dylan. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Several months of effort produced an elegant design and an infeasible implementation — the tabulator could not execute required conditional logic. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

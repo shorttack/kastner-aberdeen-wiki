@@ -16,12 +16,12 @@ source_file: "03-Contract-Pools-of-Storage-Phase2.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.1
-prescience_obs_count: 20
+prescience_mean: 1.27
+prescience_obs_count: 30
 ---
 
 # Pools of Storage Executive Evangelism Program — Phase 2 Contract
@@ -42,26 +42,26 @@ _Published 2003, author **Aberdeen Group / Peter Kastner**, type **employer-reco
 
 - A SAS/SATA backplane allowing plug play and population of any mix of SAS and SATA drives in detached storage arrays — next-generation enterprise storage packaging `[ps=5]`
 - On-line (Transactional Processing) / Mid-line (Fixed Content) / Near-Line (Disk Backup & Staging & Spooling) / Off-line (Tape Archive) `[ps=4]`
+- Maxtor and Aberdeen have mutually identified launching new midline storage category within a year (by end 2004) as imperative `[ps=4]`
 - Maxtor must prevent misperception that Pools of Storage means hierarchical storage management (HSM) — it is a set of systems adapting to business objectives `[ps=4]`
 - Enterprise customers must feel the TCO pain of storing fixed content on highly priced drives designed for speed instead of capacity `[ps=4]`
 - Value-based decision tools published to public web sites to validate efficiencies in capital and labor from Pools of Storage program `[ps=4]`
+- Plan to create web site Center of Excellence on Pools of Storage where users can learn model savings and learn best practices `[ps=4]`
+- Pools of Storage must be an integral part of enterprise ILM; not just a standalone storage reorganization concept `[ps=4]`
+- If ILM is 'getting control over storage' then Pools of Storage is the economic and flexibility 'best approach' `[ps=3]`
+- All players in the Serial Storage ecosystem will adopt Maxtor's 'Pools' lexicon as imperative to successfully launching midline storage within a year `[ps=1]`
 - In synchronization with external program Maxtor aligns specific HDD brands with Pools of Storage — empowering Maxtor to have significant voice in next-generation enterprise storage `[ps=1]`
 - [UNVERIFIED] `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Endorsement for Pools of Storage required from industry publications in US and Europe and from at least four Fortune 500 company CIOs `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - $114000 total project cost across four phases `[ps=0]`
 - $20000 payment on facilitation of Phase 1 Strategy Workshop `[ps=0]`
 - $10000 payment on delivery of Phase 2 approval copies `[ps=0]`
 - $20000 payment on delivery of Phase 2 final copies — January 9 2004 `[ps=0]`
+- $24000 total for message testing phases (survey instrument $8K + report $8K + white paper $8K) `[ps=0]`
+- Press tour of east-coast west-coast and two cities in England and continental Europe to evangelize Pools of Storage white paper coordinated by Aberdeen PR counsel `[ps=0]`
 - Aberdeen to prepare detailed plan schedule and budget for sustained program throughout 2004 to build market awareness around Pools of Storage `[ps=0]`
 - Presentations to user storage groups including SNIA as part of evangelism phase `[ps=0]`
 - Aberdeen retains sole copyright ownership of Phase 3 white paper; it will be publicly displayed with Aberdeen logo and note of Maxtor's sponsorship `[ps=0]`
 - 100-250 internet surveys plus 5-8 face-to-face or telephone interviews testing attractiveness and resonance of proposed Pools of Storage messages `[ps=0]`
-- Program goal includes gaining internal Maxtor consensus on Pools of Storage messaging in the bigger picture of ILM — implies internal misalignment `[ps=0]`
-- Tool to generate highly qualified and information-rich leads from users for Maxtor sales team `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- Face-to-face interviews with early adopters of Pools of Storage and publication of best practices in storage pools `[ps=0]`
-- If ILM is 'getting control over storage' then Pools of Storage is the economic and flexibility 'best approach'
-- All players in the Serial Storage ecosystem will adopt Maxtor's 'Pools' lexicon as imperative to successfully launching midline storage within a year
-- Maxtor and Aberdeen have mutually identified launching new midline storage category within a year (by end 2004) as imperative
-- Endorsement for Pools of Storage required from industry publications in US and Europe and from at least four Fortune 500 company CIOs
-- [UNVERIFIED]

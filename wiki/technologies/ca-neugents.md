@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 4.0
 prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # CA Neugents
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Neugents analyze business-data conditions over time and optimize knowledge-worker analysis and decision-making; alert on unusual patterns; predict future conditions. `[ps=4]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
 - Neugents remained a niche pattern-recognition technology within CA's systems-management stack; did not become the pervasive 'predictive agents' layer the 1999 profile implied, but the intellectual thread (predictive analytics on telemetry data) later matured into mainstream AIOps. `[ps=4]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
-- Neugents analyze business-data conditions over time and optimize knowledge-worker analysis and decision-making; alert on unusual patterns; predict future conditions. — [[study-ca-interbiz-bizworks-profile-054f3c]]

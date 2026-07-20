@@ -13,8 +13,8 @@ lifecycle_at_study: "launched"
 lifecycle_current: "retired"
 occurrence_count: 1
 prescience_max: 3.0
-prescience_mean: 1.5
-prescience_obs_count: 2
+prescience_mean: 1.0
+prescience_obs_count: 3
 ---
 
 # Aberdeen Enterprise Management Practice
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - strategic market positioning pricing and messaging; go-to-market planning and channel preparation; bullet-proofing sales and marketing programs; primary qualitative market research; development and delivery of street-strength sales training; market-readying and coaching of technology executives; ghost-writing of white papers and speeches; facilitation of end-user focus groups; speaking engagements `[ps=3]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- Sole named team member of Enterprise Management practice `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - WBEM and CIM standards; unified systems/network/application management; Enterprise Management TCO; Internet vs. legacy systems mix; directories XML and Java impact `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- Sole named team member of Enterprise Management practice — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]

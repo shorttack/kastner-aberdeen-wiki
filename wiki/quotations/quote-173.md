@@ -1,6 +1,7 @@
 ---
 title: Quote 173 — Computerworld (1996-01-02)
 type: quotation
+page_type: quotation
 slug: quote-173
 row_id: 173
 author: "Peter S. Kastner"

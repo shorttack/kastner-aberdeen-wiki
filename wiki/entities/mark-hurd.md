@@ -12,9 +12,9 @@ status: "deceased"
 successor: ""
 years_active: "1956-2019"
 occurrence_count: 2
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # Mark V. Hurd
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Mark Hurd courted Randy Mott when Hurd was CEO of NCR; now as HP CEO he enticed Mott to HP — which is why HP will (quietly) become a major Teradata customer. `[ps=2]` — [[study-on-computers-tips-good-news-for-ncr-dell-1943c5]]
 - Mark Hurd rose from NCR VP Marketing (1997) to NCR CEO (2003), to HP CEO (2005-2010), to Oracle co-CEO (2014-2019). Deceased October 2019. This InformationWeek article is an early primary source on Hurd. `[ps=0]` — [[study-server-deal-turns-rivals-into-allies-seq-bdc3af]]
-- Mark Hurd courted Randy Mott when Hurd was CEO of NCR; now as HP CEO he enticed Mott to HP — which is why HP will (quietly) become a major Teradata customer. — [[study-on-computers-tips-good-news-for-ncr-dell-1943c5]]

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Renee Fraser
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- It's a wonderful trigger for purchasing, because it gives people the perception that they're saving money. The reality is that consumers pay full price. — [[study-rebates-spur-buyers-but-many-don-t-colle-2aaa2e]]
+- It's a wonderful trigger for purchasing, because it gives people the perception that they're saving money. The reality is that consumers pay full price. `[ps=4]` — [[study-rebates-spur-buyers-but-many-don-t-colle-2aaa2e]]

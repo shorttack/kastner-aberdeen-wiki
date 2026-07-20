@@ -1,6 +1,7 @@
 ---
 title: Quote 1180 — AP ()
 type: quotation
+page_type: quotation
 slug: quote-1180
 row_id: 1180
 author: "Peter S. Kastner"

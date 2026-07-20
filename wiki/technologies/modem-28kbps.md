@@ -12,9 +12,9 @@ era: "1994-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # 28.8 kbps Dial-Up Modem
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 28.8 kbps; most remote connections run at this speed — [[study-when-does-remote-control-benefit-9bd6e4]]
+- 28.8 kbps; most remote connections run at this speed `[ps=2]` — [[study-when-does-remote-control-benefit-9bd6e4]]

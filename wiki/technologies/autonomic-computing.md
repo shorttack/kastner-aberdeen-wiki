@@ -14,7 +14,7 @@ lifecycle_current: "{'lifecycle_current': 'evolved', 'notes': 'IBM Autonomic Com
 occurrence_count: 1
 prescience_max: 4.0
 prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # IBM Autonomic Computing
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- In five to ten years, one of the big paybacks will be computers managing computers and running business processes automatically; people taken out of the loop, focused on exceptions. `[ps=4]` — [[study-ibm-messaging-workshop-report-final-9-ef7fbc]]
 - Autonomic computing, AIOps, Kubernetes operators, cloud auto-scaling, and self-healing infrastructure realized this prediction in the 2010s-2020s, with further acceleration from ML-driven operations and AI agents in the 2020s. `[ps=4]` — [[study-ibm-messaging-workshop-report-final-9-ef7fbc]]
-- In five to ten years, one of the big paybacks will be computers managing computers and running business processes automatically; people taken out of the loop, focused on exceptions. — [[study-ibm-messaging-workshop-report-final-9-ef7fbc]]

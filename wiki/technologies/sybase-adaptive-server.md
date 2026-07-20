@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Sybase Adaptive Server Enterprise 11.5
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Suffering from marketplace dynamics despite good product; mobile and tools products driving fortunes — [[study-dbmspr~1-7c854e]]
+- Suffering from marketplace dynamics despite good product; mobile and tools products driving fortunes `[ps=3]` — [[study-dbmspr~1-7c854e]]

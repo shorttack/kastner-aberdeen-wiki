@@ -16,12 +16,12 @@ source_file: "Microsoft-HomeStation-6.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.67
-prescience_obs_count: 12
+prescience_mean: 2.4
+prescience_obs_count: 15
 ---
 
 # Microsoft HomeStation — Analyst Briefing Notes
@@ -45,13 +45,13 @@ _Published 2002, author **Peter S. Kastner**, type **dct**._
 - Home server bridging traditional PC with home stereo and TV `[ps=4]`
 - PVR, jukebox, TV scheduler, games, messaging, photo album `[ps=4]`
 - Start with Xbox — PC, controller, TV/monitor support, Ethernet, DVD `[ps=4]`
+- Add Terminal Server support to drive Mira tablets and MS remote controls `[ps=4]`
 - $1.5B hardware player — mice, WebTV, Xbox `[ps=3]`
 - $300-$400 remote controller and lightweight Internet browser `[ps=3]`
 - Probably nVidia (analog/digital already in XP) — cost will be trivial `[ps=2]`
 - Replace Windows 2000 with XP 2.0 (aka Longwood) on HomeStation `[ps=1]`
 - HomeStation is a stealthy way to become a major PC vendor `[ps=1]`
+- The UI for HomeStation `[ps=0]`
+- Development well advanced; demonstrated at CES 2002 `[ps=0]`
 - www.Microsoft.com/freestyle `[ps=0]`
 - $79 remote ties PC to stereo, TV, and HomeStation (mostly the latter) `[ps=0]`
-- Add Terminal Server support to drive Mira tablets and MS remote controls
-- The UI for HomeStation
-- Development well advanced; demonstrated at CES 2002

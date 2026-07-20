@@ -12,9 +12,9 @@ era: "1990-2002"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # PLATINUM Forest & Trees
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- RiskAdvisor desktop modules based on PLATINUM Forest & Trees decision-support software; Windows 3.1+; approx 300 different views of information — [[study-platinum-riskadvisor-ec30de]]
+- RiskAdvisor desktop modules based on PLATINUM Forest & Trees decision-support software; Windows 3.1+; approx 300 different views of information `[ps=0]` — [[study-platinum-riskadvisor-ec30de]]

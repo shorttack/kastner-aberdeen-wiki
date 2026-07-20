@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Computer Associates (CA)"
 years_active: "2000-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Aprisma Management Technologies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aprisma (holding Spectrum) acquired by Concord Communications; Concord acquired by CA Technologies (Computer Associates) for $350M; Spectrum still exists as CA Spectrum / Broadcom Spectrum as of 2024 — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]
+- Aprisma (holding Spectrum) acquired by Concord Communications; Concord acquired by CA Technologies (Computer Associates) for $350M; Spectrum still exists as CA Spectrum / Broadcom Spectrum as of 2024 `[ps=5]` — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]

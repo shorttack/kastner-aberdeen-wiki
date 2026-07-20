@@ -12,9 +12,9 @@ era: "early-2000s"
 lifecycle_at_study: "current-2002"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Celeron / 128 MB RAM Desktop Baseline ($900)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $900 desktop with 128 MB RAM and Celeron — good enough for word processing and Web surfing — [[study-charlotte-observer-shain-back-to-school--4ec261]]
+- $900 desktop with 128 MB RAM and Celeron — good enough for word processing and Web surfing `[ps=3]` — [[study-charlotte-observer-shain-back-to-school--4ec261]]

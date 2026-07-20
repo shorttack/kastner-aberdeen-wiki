@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 3
 prescience_max: 4.0
-prescience_mean: 2.2
-prescience_obs_count: 5
+prescience_mean: 2.5
+prescience_obs_count: 6
 ---
 
 # Blade Servers
@@ -25,8 +25,8 @@ prescience_obs_count: 5
 ## Top observations
 
 - datacenters will gradually become JBOR (just a bunch of racks) `[ps=4]` — [[study-enterprise-integration-perspective-d21c1b]]
+- Largely validated; HP/IBM/Dell shipped IBA-capable blade systems 2003-2004 `[ps=4]` — [[study-infiniband-data-center-wp-2002]]
 - Dozens of blades in rack create cabling rat's nest; server-to-server bandwidth and latency become performance limiters `[ps=4]` — [[study-infiniband-data-center-wp-2002]]
 - Blade servers identified as key form factor for commodity cluster architecture `[ps=2]` — [[study-2003-dell-and-oracle-boldly-predict-the-demise-of-big-i-073fba]]
 - All major suppliers offering IBA-enabled blades by 2003 `[ps=1]` — [[study-infiniband-data-center-wp-2002]]
 - 12 processing blades with redundant switched backplane and common power `[ps=0]` — [[study-infiniband-data-center-wp-2002]]
-- Largely validated; HP/IBM/Dell shipped IBA-capable blade systems 2003-2004 — [[study-infiniband-data-center-wp-2002]]

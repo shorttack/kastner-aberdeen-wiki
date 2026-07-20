@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1988-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Standard Performance Evaluation Corporation (SPEC)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen recommends AMD examine SPECcpu 2000 before advancing TPI — [[study-amd-profile01-64e43b]]
+- Aberdeen recommends AMD examine SPECcpu 2000 before advancing TPI `[ps=3]` — [[study-amd-profile01-64e43b]]

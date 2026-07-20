@@ -14,7 +14,7 @@ lifecycle_current: "Lotus Approach discontinued; Lotus suite absorbed into IBM p
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Microsoft SQL Server 7
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Greater than 13000 TPC-C on NT `[ps=0]` — [[study-cab199-1-2-0cb163]]
-- Highly aggressive pricing — [[study-cab199-1-2-0cb163]]
+- Highly aggressive pricing `[ps=0]` — [[study-cab199-1-2-0cb163]]

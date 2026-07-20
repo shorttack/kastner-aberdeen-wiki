@@ -16,12 +16,12 @@ source_file: "15-Classification-Key-Applications.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.1
-prescience_obs_count: 10
+prescience_mean: 2.33
+prescience_obs_count: 15
 ---
 
 # Classification of Key Applications by Storage Category
@@ -43,15 +43,15 @@ _Published 2003, author **Aberdeen Group (David Hill)**, type **case-analysis**.
 - Different application access patterns justify different storage tiers with distinct cost-performance profiles `[ps=5]`
 - After creation content is fixed — ideally inalterable; read-only `[ps=4]`
 - Application I/O analysis supports distinct midline storage tier between FC and desktop ATA `[ps=4]`
+- Sequential-read BI queries are over-provisioned on high-performance random-I/O SCSI storage `[ps=4]`
+- Write-once read-few email pattern creates accumulating storage demand suited to lower-cost nearline `[ps=4]`
 - Eight enterprise application categories mapped to storage access characteristics `[ps=3]`
 - Update intensive — both reads and writes with focus on writes `[ps=3]`
+- Write once; read once to many times `[ps=3]`
+- Read-only access of previously-created large bit-mapped files `[ps=3]`
 - Web apps primarily read-biased which reduces need for high-write-performance premium storage `[ps=2]`
 - Mix of writes and reads — updating for transactions plus random reads `[ps=0]`
 - Query intensive — primarily sequential reads `[ps=0]`
 - Primarily random reads with a little transaction processing `[ps=0]`
 - Mix of reads and writes on large pieces of data `[ps=0]`
-- Write once; read once to many times
-- Read-only access of previously-created large bit-mapped files
-- [UNVERIFIED]
-- Sequential-read BI queries are over-provisioned on high-performance random-I/O SCSI storage
-- Write-once read-few email pattern creates accumulating storage demand suited to lower-cost nearline
+- [UNVERIFIED] `[ps=0]`

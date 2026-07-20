@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Geac Computer (1999)"
 years_active: "1982-1999"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # JBA International
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- JBA had a host-dumb terminal warehouse management system on the AS/400 in 1994 — [[study-ie-appendix-jones-wms-memo-2e5d6c]]
+- JBA had a host-dumb terminal warehouse management system on the AS/400 in 1994 `[ps=0]` — [[study-ie-appendix-jones-wms-memo-2e5d6c]]

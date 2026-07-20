@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.15
-prescience_obs_count: 13
+prescience_mean: 1.0
+prescience_obs_count: 15
 ---
 
 # Mid-Market Must Flex More Muscle in IT Outsourcing
@@ -52,6 +52,6 @@ _Published 2006, author **Rick Saia**, type **employer-record**._
 - Best in Class: 71%; Mid-Market: 47% `[ps=0]`
 - Best in Class: 41%; Mid-Market: 6% `[ps=0]`
 - Best in Class: 18%; Mid-Market: 12% `[ps=0]`
+- Best in Class: 31%; Mid-Market: 31% `[ps=0]`
+- Best in Class: 14%; Mid-Market: 17% `[ps=0]`
 - Best in Class: 24%; Mid-Market: 31% `[ps=0]`
-- Best in Class: 31%; Mid-Market: 31%
-- Best in Class: 14%; Mid-Market: 17%

@@ -13,8 +13,8 @@ lifecycle_at_study: "declining"
 lifecycle_current: "divested"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # IBM Watson Health
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - IBM Watson Health data and analytics products sold to Francisco Partners in 2022 `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
-- Watson Health will transform oncology decision support and become the standard for AI-assisted diagnosis — [[study-2026-kastner-ibm-longitudinal]]
+- Watson Health will transform oncology decision support and become the standard for AI-assisted diagnosis `[ps=1]` — [[study-2026-kastner-ibm-longitudinal]]

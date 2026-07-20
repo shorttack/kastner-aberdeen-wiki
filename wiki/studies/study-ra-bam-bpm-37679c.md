@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 46
+prescience_obs_count: 62
 ---
 
 # The Business Activity Monitoring Benchmark Report: The Eyes and Ears of BPM
@@ -43,10 +43,13 @@ _Published 2006, author **Peter S. Kastner, Aberdeen Group**, type **employer-re
 - 18% `[ps=0]`
 - 10% `[ps=0]`
 - 9% `[ps=0]`
+- 12% `[ps=0]`
 - 2x `[ps=0]`
 - 94% `[ps=0]`
 - 87% `[ps=0]`
+- 30% `[ps=0]`
 - 35% `[ps=0]`
+- 20% `[ps=0]`
 - 24% `[ps=0]`
 - 25% `[ps=0]`
 - 18% `[ps=0]`
@@ -58,10 +61,7 @@ _Published 2006, author **Peter S. Kastner, Aberdeen Group**, type **employer-re
 - 65% `[ps=0]`
 - 67% `[ps=0]`
 - 65% `[ps=0]`
+- 80% `[ps=0]`
+- 75% `[ps=0]`
+- 58% `[ps=0]`
 - 40% `[ps=0]`
-- BIC 26% vs Laggard 17% `[ps=0]`
-- Yes `[ps=0]`
-- 70% `[ps=0]`
-- 43% `[ps=0]`
-- 70%+ `[ps=0]`
-- 83% `[ps=0]`

@@ -16,12 +16,12 @@ source_file: "NCR-Oracle-speech-psk-199x-10.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.67
-prescience_obs_count: 6
+prescience_mean: 0.57
+prescience_obs_count: 7
 ---
 
 # Oracle / AT&T-NCR 'Transitioning to Customer-Driven Information Solutions' 8-City Seminar Tour, Fall 1993 — Kastner Keynote
@@ -46,4 +46,4 @@ _Published 1993, author **Oracle Corporation (sponsor); AT&T/NCR (co-sponsor); P
 - manufacturing / banking / financial services / healthcare / government `[ps=0]`
 - Boston-based computer-systems, software, and communications consulting and research organization `[ps=0]`
 - 8:30 registration / 9:00 intro / 9:10 Kastner keynote / 10:15 AT&T-NCR + Oracle / 11:15 case studies / 11:45 Q&A / 12:00 close `[ps=0]`
-- marketed as AT&T/NCR in fall 1993 brochures
+- marketed as AT&T/NCR in fall 1993 brochures `[ps=0]`

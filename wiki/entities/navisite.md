@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Time Warner Telecom"
 years_active: "2003-2012"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # NaviSite Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NaviSite acquired Interliant assets in May 2003 for approximately $7M cash/credits; included managed messaging/collaboration/hosting/security businesses and UK operations — [[study-1997-the-business-value-of-applications-hosting-e92e09]]
+- NaviSite acquired Interliant assets in May 2003 for approximately $7M cash/credits; included managed messaging/collaboration/hosting/security businesses and UK operations `[ps=0]` — [[study-1997-the-business-value-of-applications-hosting-e92e09]]

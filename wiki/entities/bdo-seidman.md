@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # BDO Seidman
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- BDO Seidman audited Aberdeen Group financial statements from 2004 through 2006 — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
+- BDO Seidman audited Aberdeen Group financial statements from 2004 through 2006 `[ps=0]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]

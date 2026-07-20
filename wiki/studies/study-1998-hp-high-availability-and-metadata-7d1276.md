@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.22
-prescience_obs_count: 27
+prescience_mean: 0.29
+prescience_obs_count: 35
 ---
 
 # Aberdeen Group Flash Report: High Availability Marketing Messages
@@ -41,27 +41,27 @@ _Published 1998, author **Peter Kastner; Thomas Willmott; John Logan**, type **a
 ## Top observations
 
 - broaden-beyond-unix-oltp `[ps=4]`
+- continued-as-hpe-serviceguard `[ps=4]`
 - defendable-and-sustainable `[ps=2]`
 - 40 `[ps=0]`
 - credible `[ps=0]`
 - 12-18 `[ps=0]`
 - average `[ps=0]`
+- recommended `[ps=0]`
 - unavailable `[ps=0]`
+- recommended `[ps=0]`
 - did-not-occur `[ps=0]`
 - transition-away-recommended `[ps=0]`
 - low-among-executives `[ps=0]`
 - not-pursued `[ps=0]`
 - poor-to-fair `[ps=0]`
 - absent `[ps=0]`
+- rack-mounted-clusters-only `[ps=0]`
 - not-pursued `[ps=0]`
 - installed-base-only `[ps=0]`
 - longer-term `[ps=0]`
 - confirmed-gradual `[ps=0]`
 - high `[ps=0]`
 - high `[ps=0]`
-- challenging `[ps=0]`
-- critical-for-end-to-end `[ps=0]`
-- critical-for-end-to-end `[ps=0]`
-- acquired `[ps=0]`
-- mainstream-in-cloud `[ps=0]`
-- still-active-but-contextualized `[ps=0]`
+- direct-and-indirect `[ps=0]`
+- telcos-finance-retail `[ps=0]`

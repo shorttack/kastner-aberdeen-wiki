@@ -16,12 +16,12 @@ source_file: "WatchIT-video-program-presenter-2002-4-9.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.33
-prescience_obs_count: 3
+prescience_mean: 1.4
+prescience_obs_count: 5
 ---
 
 # WatchIT.com April 2002 lineup — PSK as Aberdeen Chief Research Officer presenter on 'Microsoft's Future Paths' (with Jackson Shaw and Isaac Ro)
@@ -42,6 +42,6 @@ _Published 2002, author **WatchIT.com Customer Operations Group (program lineup)
 
 - Microsoft's next generation of operating systems - code-named Blackcomb and Longhorn - as well as the emerging Tablet PC, and advances in speech recognition, knowledge management and storage `[ps=4]`
 - WatchIT.com — E-Learning for IT and Business Professionals; Syosset NY; subscription video `[ps=3]`
+- Chief Research Officer `[ps=0]`
 - Research Analyst, Aberdeen Group `[ps=0]`
-- Chief Research Officer
-- Lead Product Manager for the Windows .NET Server Solutions Group at Microsoft
+- Lead Product Manager for the Windows .NET Server Solutions Group at Microsoft `[ps=0]`

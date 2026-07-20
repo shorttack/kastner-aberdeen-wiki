@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Cisco Systems (2007)"
 years_active: "1995-2007"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # WebEx Communications, Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Reported a similar jump in demand — [[study-meetings-conventions-virtual-meetings-ps-c1b097]]
-- Cisco Systems acquired WebEx Communications for $3.2 billion in March 2007; WebEx became central to Cisco's UC/collaboration portfolio (Cisco Jabber, Webex Teams, Webex Meetings). — [[study-tech-investor-instant-messaging-goes-cor-1a14c2]]
+- Cisco Systems acquired WebEx Communications for $3.2 billion in March 2007; WebEx became central to Cisco's UC/collaboration portfolio (Cisco Jabber, Webex Teams, Webex Meetings). `[ps=5]` — [[study-tech-investor-instant-messaging-goes-cor-1a14c2]]
+- Reported a similar jump in demand `[ps=0]` — [[study-meetings-conventions-virtual-meetings-ps-c1b097]]

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1845-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # State of Florida - HRS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Florida cancelled EDS contract after spending $110 million for non-performance on precisely the technical areas Kastner had predicted were inadequate — [[study-psk-litigate98-72601c]]
+- Florida cancelled EDS contract after spending $110 million for non-performance on precisely the technical areas Kastner had predicted were inadequate `[ps=0]` — [[study-psk-litigate98-72601c]]

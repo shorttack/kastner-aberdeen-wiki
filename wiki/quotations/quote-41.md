@@ -1,6 +1,7 @@
 ---
 title: Quote 41 — Computerworld (1991-08-05)
 type: quotation
+page_type: quotation
 slug: quote-41
 row_id: 41
 author: "Peter S. Kastner"

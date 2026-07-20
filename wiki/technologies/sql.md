@@ -12,9 +12,9 @@ era: "1974-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "SQL remains the dominant relational database query language; ANSI/ISO standard continuously updated"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # SQL (Structured Query Language)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Core enterprise data still in hierarchical IMS files; SQL bridges required — [[study-nti-5-development-toolsets-0e71c5]]
+- Core enterprise data still in hierarchical IMS files; SQL bridges required `[ps=3]` — [[study-nti-5-development-toolsets-0e71c5]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Microsoft (2002)"
 years_active: "1984-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Navision AS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $1.3B cash and stock — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]
+- $1.3B cash and stock `[ps=0]` — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]

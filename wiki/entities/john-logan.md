@@ -11,7 +11,7 @@ sector: "technology research / analyst"
 status: "unknown [REVIEW]"
 successor: "[DEFERRED]"
 years_active: "1987 (Yankee Group)"
-occurrence_count: 5
+occurrence_count: 6
 prescience_max: 2.0
 prescience_mean: 0.75
 prescience_obs_count: 4

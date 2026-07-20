@@ -14,7 +14,7 @@ lifecycle_current: "rebranded-to-Microsoft-Dynamics"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Microsoft ERP (pre-Dynamics)
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- $1.3B cash and stock `[ps=0]` — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]
 - $1.1B Dec 2000 `[ps=0]` — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]
-- $1.3B cash and stock — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]

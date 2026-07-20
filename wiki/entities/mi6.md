@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1909-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # MI6 (Secret Intelligence Service)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Co-vetted Kastner with CIA for GCHQ site access in Cheltenham. — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Co-vetted Kastner with CIA for GCHQ site access in Cheltenham. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]

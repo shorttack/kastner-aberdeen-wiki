@@ -1,6 +1,7 @@
 ---
 title: Quote 239 — InformationWeek (2002-05-13)
 type: quotation
+page_type: quotation
 slug: quote-239
 row_id: 239
 author: "Peter S. Kastner"

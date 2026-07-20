@@ -12,9 +12,9 @@ era: "2004"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Mirror Image Smart Content Services Platform was a proprietary offering tied to Mirror Image Internet, which was absorbed/wound down in early 2000s.', 'source': 'https://en.wikipedia.org/wiki/Mirror_Image_Internet'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Mirror Image Smart Content Services Platform
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- XML rules engine; geotargeting; time-of-day; rotation; wild-card replacement — [[study-mirror-image-profile-v2-(050404)-e7eb95]]
+- XML rules engine; geotargeting; time-of-day; rotation; wild-card replacement `[ps=3]` — [[study-mirror-image-profile-v2-(050404)-e7eb95]]

@@ -16,12 +16,12 @@ source_file: "1995 The Novell Predicament mvp.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.1
-prescience_obs_count: 21
+prescience_mean: 3.14
+prescience_obs_count: 28
 ---
 
 # The Novell Predicament
@@ -40,15 +40,20 @@ _Published 1995, author **Aberdeen Group**, type **market-viewpoint**._
 
 ## Top observations
 
+- NT Server unit sales ramping; PC server suppliers reporting NetWare sales decline vs NT growth `[ps=5]`
+- little evidence NDS will achieve widespread acceptance outside Novell installed base `[ps=5]`
+- acquired by Attachmate Group for $2.2B in April 2011; 882 patents sold to Microsoft consortium for $450M `[ps=5]`
 - Windows NT and successors (2000/2003) became dominant enterprise network OS; NetWare marginalized `[ps=5]`
 - Portable NetWare, AppWare, Tuxedo acquisition, UnixWare, WordPerfect—all failed `[ps=5]`
 - few ISVs actively porting applications to NetWare; ISVs look elsewhere `[ps=5]`
 - IBM acquired Lotus Development Corporation for $3.5B in 1995 `[ps=5]`
 - IT managers standardizing on Windows NT Workstation as desktop; expect NT Server to replace NetWare file/print `[ps=4]`
+- 3 principal failures: annual tactic changes, technical execution failures, ISV attrition `[ps=4]`
 - excellent cross-platform interoperability for Novell+NT+Unix; hierarchical management view `[ps=4]`
 - further erosion of Novell enterprise position projected `[ps=4]`
 - LDAP will become de-facto directory services standard for Internet `[ps=4]`
 - LDAP became universal directory protocol; embedded in Active Directory, OpenLDAP, all major systems `[ps=4]`
+- GroupWise lost groupware war to Exchange/Notes; retained only legacy Novell-loyal customers `[ps=4]`
 - Must make NDS best on NT bar none; open new markets to dominate; embrace NT not fight it `[ps=4]`
 - revenue declines confirmed; Aberdeen analysis confirms declining trend `[ps=4]`
 - Active Directory shipped in Windows 2000; became dominant enterprise directory service `[ps=4]`
@@ -58,10 +63,5 @@ _Published 1995, author **Aberdeen Group**, type **market-viewpoint**._
 - Either Novell fully integrates NDS with NT or Microsoft delivers OLE Directory interoperating with NDS `[ps=2]`
 - Microsoft OLE Directory Services will succeed because OLE-enabled applications drag it into enterprise `[ps=1]`
 - SMP, distributed print, systems management, improved IP support `[ps=0]`
+- Volume 9/Number 14, August 9, 1995 `[ps=0]`
 - Novell GroupWise vs IBM Notes vs HP OpenMail vs Microsoft Exchange vs Netscape CollabraShare `[ps=0]`
-- enviable marketshare, strong worldwide service/support, established indirect channel, fast file/print servers `[ps=0]`
-- Attachmate (2011) acquired by Micro Focus (2014) acquired by OpenText (2023) `[ps=0]`
-- 3 principal failures: annual tactic changes, technical execution failures, ISV attrition
-- NT Server unit sales ramping; PC server suppliers reporting NetWare sales decline vs NT growth
-- little evidence NDS will achieve widespread acceptance outside Novell installed base
-- acquired by Attachmate Group for $2.2B in April 2011; 882 patents sold to Microsoft consortium for $450M

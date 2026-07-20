@@ -12,9 +12,9 @@ era: "2001-2006"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IBM POWER4
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM delivered first dual-core POWER4-based systems three years prior (2001); second-generation dual-core shipped spring 2004. — [[study-intel-longlivedualcore-revised-5-fa8298]]
+- IBM delivered first dual-core POWER4-based systems three years prior (2001); second-generation dual-core shipped spring 2004. `[ps=3]` — [[study-intel-longlivedualcore-revised-5-fa8298]]

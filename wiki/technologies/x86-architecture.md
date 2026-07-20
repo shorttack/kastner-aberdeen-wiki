@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 3
 prescience_max: 5.0
-prescience_mean: 4.67
-prescience_obs_count: 3
+prescience_mean: 3.8
+prescience_obs_count: 5
 ---
 
 # x86 instruction-set architecture
@@ -26,6 +26,6 @@ prescience_obs_count: 3
 
 - Minicomputer era ended not because hardware got worse, but because economics of standardized x86 and open OSes overwhelmed performance/integration advantages of proprietary platforms. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
 - Economics of standardized x86 architecture plus open operating systems would overwhelm the performance and integration advantages of all proprietary minicomputer platforms. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Controversial in 1990, obvious by 2000. Cost advantages of standardized x86 components manufactured at volume were overwhelming against proprietary platforms. `[ps=5]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
 - Companies that read the x86/open OS shift early survived; Prime’s leadership was not among them; the others became acquisition targets or museum pieces. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
-- Intel had roughly 80 percent of the market for chips that run personal computers and 90 percent of worldwide revenue share as of mid-2004; AMD held about 16.8 percent market share. — [[study-supreme-court-orders-intel-documents-rel-e6e110]]
-- Controversial in 1990, obvious by 2000. Cost advantages of standardized x86 components manufactured at volume were overwhelming against proprietary platforms. — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
+- Intel had roughly 80 percent of the market for chips that run personal computers and 90 percent of worldwide revenue share as of mid-2004; AMD held about 16.8 percent market share. `[ps=0]` — [[study-supreme-court-orders-intel-documents-rel-e6e110]]

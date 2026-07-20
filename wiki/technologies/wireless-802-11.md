@@ -12,9 +12,9 @@ era: "1997-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IEEE 802.11 Wireless LAN
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Wireless occupies niche; 802.11 ratification improves interoperability; bandwidth approaching 10 Mbps — [[study-networ~1-96462b]]
+- Wireless occupies niche; 802.11 ratification improves interoperability; bandwidth approaching 10 Mbps `[ps=3]` — [[study-networ~1-96462b]]

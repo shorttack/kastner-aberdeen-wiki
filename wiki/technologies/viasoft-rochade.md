@@ -12,9 +12,9 @@ era: "1990-2000"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Viasoft Rochade Repository
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Core technology tying process steps and technologies together; IT asset warehouse for programs/applications/enterprise information — [[study-1997-viasoft-y2k-c2e540]]
+- Core technology tying process steps and technologies together; IT asset warehouse for programs/applications/enterprise information `[ps=4]` — [[study-1997-viasoft-y2k-c2e540]]

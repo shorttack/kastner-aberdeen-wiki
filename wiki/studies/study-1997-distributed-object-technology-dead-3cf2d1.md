@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.73
-prescience_obs_count: 11
+prescience_mean: 2.87
+prescience_obs_count: 15
 ---
 
 # Distributed Object Technology: Dead Skunk Or Live Wire
@@ -45,13 +45,13 @@ _Published 1997, author **Jeanine Fournier**, type **Technology Viewpoint**._
 - Immature/Overhyped `[ps=4]`
 - Low performance products `[ps=4]`
 - Industry has not clearly made business case `[ps=4]`
+- Partially correct: replaced by web services `[ps=4]`
+- Modular code/data objects enable flexibility `[ps=4]`
 - Strategic future value confirmed `[ps=3]`
+- Products often immature and unintegrated `[ps=3]`
 - Internet will be key deployment target for DOT `[ps=3]`
 - Will deliver long-term benefits `[ps=2]`
+- CORBA implied as viable standard path `[ps=2]`
 - Limited/Contested `[ps=0]`
 - Limited/Contested `[ps=0]`
 - Adopt DOT pragmatically for Internet apps `[ps=0]`
-- Products often immature and unintegrated
-- Partially correct: replaced by web services
-- CORBA implied as viable standard path
-- Modular code/data objects enable flexibility

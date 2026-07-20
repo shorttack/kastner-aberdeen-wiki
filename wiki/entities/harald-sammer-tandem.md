@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Harald Sammer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Harald Sammer led 1000-tps group in Frankfurt, W. Germany — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]
+- Harald Sammer led 1000-tps group in Frankfurt, W. Germany `[ps=0]` — [[study-ftsn-serlin-tandem-txp-et1-benchmarks-19-ea6530]]

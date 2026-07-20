@@ -13,8 +13,8 @@ successor: "Absorbed into IBM (1996-1998); technology became part of VisualAge"
 years_active: "1992-1998"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 1.67
-prescience_obs_count: 3
+prescience_mean: 2.25
+prescience_obs_count: 4
 ---
 
 # Taligent
@@ -24,7 +24,7 @@ prescience_obs_count: 3
 
 ## Top observations
 
+- CommonPoint failed commercially due to extreme learning curve; Taligent dissolved into IBM January 1998; technology merged into Java efforts not C++ SoftBench path `[ps=4]` — [[study-aberdeen-1995-hp-softbench]]
 - Well positioned for next-generation object-oriented systems `[ps=4]` — [[study-nti-2-open-systems-1dd3af]]
 - Aberdeen predicted more OO-adept SoftBench users would use CommonPoint to build collaborative desktop applications on wide hardware range `[ps=1]` — [[study-aberdeen-1995-hp-softbench]]
 - [UNVERIFIED] `[ps=0]` — [[study-nti-2-open-systems-1dd3af]]
-- CommonPoint failed commercially due to extreme learning curve; Taligent dissolved into IBM January 1998; technology merged into Java efforts not C++ SoftBench path — [[study-aberdeen-1995-hp-softbench]]

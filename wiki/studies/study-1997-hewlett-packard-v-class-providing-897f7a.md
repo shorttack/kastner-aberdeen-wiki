@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 0.43
-prescience_obs_count: 14
+prescience_mean: 0.38
+prescience_obs_count: 21
 ---
 
 # Hewlett-Packard V-Class: Providing Enterprise Customers With the Power Path They Need
@@ -41,23 +41,23 @@ _Published 1997, author **Aberdeen Group**, type **product-profile**._
 ## Top observations
 
 - discontinued 2003 `[ps=5]`
+- significant enterprise adoption by 2001 `[ps=2]`
 - not viable this millennium `[ps=1]`
+- ~50% `[ps=0]`
 - 15.36 GB/sec `[ps=0]`
+- 16 PA-8200 processors `[ps=0]`
 - 3416 QppD `[ps=0]`
+- 2009 QppD `[ps=0]`
 - 1361 QppD `[ps=0]`
 - >14000 tpm `[ps=0]`
 - November 1997 `[ps=0]`
 - 60-90% OLTP improvement `[ps=0]`
 - 1999 `[ps=0]`
 - 1999 possible `[ps=0]`
+- shipped November 1997 as scheduled `[ps=0]`
+- 2001 (delayed 2 years) `[ps=0]`
 - Acquired by Compaq for $9.6B (June 1998) `[ps=0]`
+- up to 16 V2200 nodes = 256 processors `[ps=0]`
 - 99.95% availability (4.5 hrs unplanned downtime/year) `[ps=0]`
 - 100% trade-in for T600/K-Class `[ps=0]`
 - <7500 tpm (4-way 604e) `[ps=0]`
-- ~50%
-- 16 PA-8200 processors
-- 2009 QppD
-- shipped November 1997 as scheduled
-- 2001 (delayed 2 years)
-- significant enterprise adoption by 2001
-- up to 16 V2200 nodes = 256 processors

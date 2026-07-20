@@ -16,12 +16,12 @@ source_file: "RDBMS for IBM POWERA~1.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.3
-prescience_obs_count: 40
+prescience_mean: 2.41
+prescience_obs_count: 44
 ---
 
 # Power Academy RDBMS Sales Training
@@ -54,14 +54,14 @@ _Published 1996, author **Peter S. Kastner**, type **benchmark**._
 - Scale towards glass house in 1997; challenge: gaining trust of IT executives for enterprise-class computing `[ps=4]`
 - Avoids head-to-head battles; sells via VAR/ISV; best fit RS/6000 uniprocessor or small SMP; modest scalability `[ps=4]`
 - Specialist in decision support RDBMSs; pre-calculated joins; small struggling company; best with IBM RS/6000 SMP for data warehouse; not for OLTP `[ps=4]`
+- Mine is better than yours; store anything; WG/personal/wireless; replication = distributed; more OLTP performance; TPC-D = decision support; better administration; tool wars round 3 `[ps=4]`
+- Full 2-way DRDA, ODBC; limited non-IBM gateways; best choice in IBM homogeneous world `[ps=4]`
 - No comparable OO CADE tools; more limited ISV selection than Informix, Oracle and Sybase `[ps=4]`
 - DB2 for AIX 2 engine functionally improved; Data Propagator for mainframe-RS/6000; good performance/price-performance; outstanding OLTP with CICS/Ensina/Tuxedo; HACMP+SP2 scalability `[ps=4]`
+- Oracle service revenues 52%; Informix service revenues 25% — Informix limited in scope `[ps=4]`
 - Behind Oracle, Sybase, and Informix; not much of market factor outside installed base; hard to sell as number four `[ps=3]`
 - Perception is DB2/6000 is not world-class; must shatter perceptions of limited scalability; limited cross-platform support `[ps=3]`
 - Oracle 7.3 is still performance champion; good scalability story from desktop to SP2 & ES/9000; broad gateways; tons of services `[ps=3]`
 - Momentum is downwards but could recover in 1996; 1980s architecture running out of steam; very high sales force turnover in 1995 `[ps=3]`
 - Competitive but not leading on SMP; only compatible SMP and MPP story except AT&T; good async replication via Data Propagator `[ps=3]`
 - Fast moving into searchable audio, video, user-defined data types; same searchable data types as Informix in 1996 `[ps=3]`
-- RDBMS engine looks dated; no 2nd gen client-server tools; service/consulting drive makes ISV partnering tough; unfocused across Hollywood/multimedia/TV set-tops `[ps=2]`
-- Tied with Informix for #2 RDBMS on SAP applications (behind Oracle) `[ps=2]`
-- $2.74 billion `[ps=0]`

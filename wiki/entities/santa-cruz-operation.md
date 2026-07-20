@@ -12,9 +12,9 @@ status: "renamed"
 successor: "Sold Unix business to Caldera (2001); SCO name acquired by Caldera (renamed SCO Group); original SCO became Tarantella -> acquired by Sun 2005"
 years_active: "1979-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Santa Cruz Operation (SCO)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Not expected to participate in a major way — [[study-nti-3-pc-and-ws-1993-17d49b]]
+- Not expected to participate in a major way `[ps=0]` — [[study-nti-3-pc-and-ws-1993-17d49b]]

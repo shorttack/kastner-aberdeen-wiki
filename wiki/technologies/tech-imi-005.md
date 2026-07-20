@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "dominant"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Supply Chain Management (SCM) Software
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - OOT will enable electronically-enabled virtual enterprises and true supply chain management `[ps=4]` — [[study-1997-object-technology-meets-demand-mana-551c84]]
-- Aberdeen Fortune-class clients extending across supply chains and realizing need for next paradigm shift — objects — [[study-1997-object-technology-meets-demand-mana-551c84]]
+- Aberdeen Fortune-class clients extending across supply chains and realizing need for next paradigm shift — objects `[ps=2]` — [[study-1997-object-technology-meets-demand-mana-551c84]]

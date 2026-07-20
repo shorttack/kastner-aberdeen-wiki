@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'legacy-supported', 'notes': 'CGI (Common Gateway Interface) is technically functional and still used on some legacy servers, but has largely been replaced by FastCGI, WSGI, and modern server-side frameworks. Still supported by Apache/Nginx but not recommended for new development.', 'source': 'https://blog.apolocloud.net/cgi-common-gateway-interface-the-power/'}"
 occurrence_count: 6
 prescience_max: 5.0
-prescience_mean: 3.75
-prescience_obs_count: 4
+prescience_mean: 3.62
+prescience_obs_count: 8
 ---
 
 # Common Gateway Interface (CGI)
@@ -30,11 +30,11 @@ prescience_obs_count: 4
 ## Top observations
 
 - CGI was displaced by application servers (Java EE, PHP, Rails, Node, etc.) within a decade; Kastner's implicit pointer to limitations of raw CGI was correct. `[ps=5]` — [[study-ca-internet-app-dev-sales-training-1996-48db9c]]
+- moving_to_app_server_partitioning `[ps=4]` — [[study-aberdeen-1996-3com-reconciling-clientserver-development-internet]]
 - CGI lacks robust transaction processing features necessary to scale without help `[ps=4]` — [[study-aberdeen-1996-progress-software-webspeed-internet]]
+- CGI is a single-threaded bottleneck for communicating from web server to applications; must be replaced by multi-threaded alternatives for enterprise BI `[ps=4]` — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]
+- CGI single-threaded bottleneck must be replaced by multi-threaded alternative for enterprise-scale web BI `[ps=4]` — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]
 - CGI positioned as current server-side scripting standard; implicitly foreshadows need for richer application servers. `[ps=4]` — [[study-ca-internet-app-dev-sales-training-1996-48db9c]]
+- CGI being replaced by ORBs and gateways `[ps=2]` — [[study-1996-electronic-commerce-25d31b]]
 - CGI is standard mechanism for web servers to communicate with applications; used for on-the-fly HTML translation and report presentation `[ps=2]` — [[study-aberdeen-1996-iq-software-www-reporting]]
-- CGI being replaced by ORBs and gateways — [[study-1996-electronic-commerce-25d31b]]
-- moving_to_app_server_partitioning — [[study-aberdeen-1996-3com-reconciling-clientserver-development-internet]]
-- CGI is a single-threaded bottleneck for communicating from web server to applications; must be replaced by multi-threaded alternatives for enterprise BI — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]
-- CGI single-threaded bottleneck must be replaced by multi-threaded alternative for enterprise-scale web BI — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]
 - SSL security became standard by 1997; CGI replaced by ISAPI/NSAPI and FastCGI by 1997-1998; DHTML/JavaScript addressed browser limitations; all major obstacles resolved within Aberdeen's 1-2 year timeline — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]

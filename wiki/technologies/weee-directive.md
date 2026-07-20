@@ -14,7 +14,7 @@ lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 5.0
 prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # WEEE Directive (EU)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Aberdeen expects legally acceptable level of e-waste tolerance will continue to tighten; companies may be held retroactively accountable. `[ps=5]` — [[study-dell-ars-wp-2-72fd7f]]
-- E-waste regulation tightened significantly around 2002-2003. The EU WEEE Directive (2002/96/EC) was issued in 2003 and required implementation by August 2004-2005. California enacted the Electronic Waste Recycling Act of 2003 (SB 20). This represented a major tightening of e-waste regulation, validating Aberdeen's prediction. — [[study-dell-ars-wp-2-72fd7f]]
+- E-waste regulation tightened significantly around 2002-2003. The EU WEEE Directive (2002/96/EC) was issued in 2003 and required implementation by August 2004-2005. California enacted the Electronic Waste Recycling Act of 2003 (SB 20). This represented a major tightening of e-waste regulation, validating Aberdeen's prediction. `[ps=5]` — [[study-dell-ars-wp-2-72fd7f]]

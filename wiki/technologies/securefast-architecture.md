@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # SecureFast VLAN Architecture
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - SecureFast VLAN technology documented in RFC 2643 (August 1999) but Cabletron's proprietary policy-management approach did not become a market standard; technology dissolved with Cabletron reorganization `[ps=5]` — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
-- Time-of-day/day-of-week access control; call-level accounting; connection-oriented security — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]
+- Time-of-day/day-of-week access control; call-level accounting; connection-oriented security `[ps=3]` — [[study-1997-cabletron-and-ipsilon--linking-secu-adba48]]

@@ -13,8 +13,8 @@ lifecycle_at_study: "declining"
 lifecycle_current: "obsolete"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 5
+prescience_mean: 4.83
+prescience_obs_count: 6
 ---
 
 # Application Service Provider (ASP) Model
@@ -29,4 +29,4 @@ prescience_obs_count: 5
 - Salesforce.com became dominant CRM vendor; SaaS/cloud delivery became industry standard `[ps=5]` — [[study-1999-crm-professional-services-rpt-96bf13]]
 - Significant majority of ASPs will be seeking additional funding rounds; many will fail `[ps=5]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
 - Most first-generation ASPs did fail; model pivoted to SaaS by mid-2000s `[ps=5]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
-- HSP market at crossroads: slow adoption and strategy changes opening door for market reordering — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- HSP market at crossroads: slow adoption and strategy changes opening door for market reordering `[ps=4]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

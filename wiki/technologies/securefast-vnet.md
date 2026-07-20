@@ -12,9 +12,9 @@ era: "1990-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # SecureFast Virtual Networking (SecureFast VNET)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SecureFast VLAN technology documented in RFC 2643 (August 1999) demonstrating technical maturity; technology became obsolete with Cabletron's reorganization in 2000-2001; not adopted as a broad industry standard — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]
+- SecureFast VLAN technology documented in RFC 2643 (August 1999) demonstrating technical maturity; technology became obsolete with Cabletron's reorganization in 2000-2001; not adopted as a broad industry standard `[ps=4]` — [[study-1997-cabletron--discovering-the-beacon-u-2d44d5]]

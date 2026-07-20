@@ -16,12 +16,12 @@ source_file: "1997 TME 10 Security Management pr.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.4
-prescience_obs_count: 15
+prescience_mean: 2.7
+prescience_obs_count: 20
 ---
 
 # TME 10 Security Management: Mainframe-class Security for Enterprise Network Computing
@@ -41,7 +41,11 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 ## Top observations
 
 - Role-based access control (RBAC) using system-independent security profile-records distributed over network; non-intrusive installation without taking servers down `[ps=4]`
+- Solutions non-interoperable placing additional burden on IS budget and deployment schedules `[ps=4]`
+- Solutions technology-focused instead of organizational and business-process focused `[ps=4]`
+- Passwords (default); DCE and Kerberos for admin roles; time-of-day/day-of-week login restrictions; location-based login restrictions; password quality enforcement `[ps=4]`
 - Four-element RBAC: system-wide policies; group authorizations; role authorizations; IT resources — all managed centrally via security profile-records `[ps=4]`
+- Security profile-records pushed to subscribing nodes enabling local operation with central management; TACF for Unix partitions root account privileges to prevent compromise `[ps=4]`
 - Plans to add ACF2/TOP SECRET on mainframe; Oracle/Informix/Sybase databases; OS/2; DCE; web servers; smart card/public-key authentication; SSO; secure commerce `[ps=4]`
 - IBM evolved TME 10 into IBM Tivoli Identity Manager (2001) and later IBM Security Identity Manager; Tivoli brand phased out 2013; technology survived as IBM Security Verify `[ps=4]`
 - RACF described as proven mainframe security; enterprise desire is RACF-equivalent for distributed computing `[ps=4]`
@@ -51,12 +55,8 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 - DCE and Kerberos described as complicated and brittle security protocols requiring expensive lengthy in-house integration `[ps=3]`
 - Tivoli had competitive disadvantage because it could not deliver production-grade security services that competitors already provided `[ps=2]`
 - TME 10 SM will serve as cornerstone for integrating security components; IS decision makers can depend on it for managing security through IT transitions `[ps=2]`
+- Aberdeen recommends IS executives 'run — not walk — to evaluate the TME 10 Security Management solution' `[ps=2]`
 - Supports HP-UX/RISC; IBM OS/390-RACF and AIX/RISC; Windows NT Server/Intel; Novell NetWare; SunOS and Solaris/RISC — via TME v3.1+ `[ps=0]`
 - Most solutions limited to protecting one operating environment (NetWare-only / Unix-only / NT-only / OS/390-only) requiring separate admin per platform `[ps=0]`
 - Partner Exchange (TPE) program with 12+ security ISV partners to integrate point solutions: Axent; Cybersafe; Checkpoint Software; Cygnus; Dynasoft; Haystack Labs; IBM; ICL; ISS; Mergent; Memco; Trusted Information Systems `[ps=0]`
 - Tivoli Systems acquired by IBM for $743M in 1996 before this study was published; study written under IBM ownership `[ps=0]`
-- Solutions non-interoperable placing additional burden on IS budget and deployment schedules
-- Solutions technology-focused instead of organizational and business-process focused
-- Passwords (default); DCE and Kerberos for admin roles; time-of-day/day-of-week login restrictions; location-based login restrictions; password quality enforcement
-- Security profile-records pushed to subscribing nodes enabling local operation with central management; TACF for Unix partitions root account privileges to prevent compromise
-- Aberdeen recommends IS executives 'run — not walk — to evaluate the TME 10 Security Management solution'

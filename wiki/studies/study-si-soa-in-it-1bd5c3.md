@@ -21,7 +21,7 @@ prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 28
+prescience_obs_count: 35
 ---
 
 # For Mid-Size Enterprises SOA's Benefits Begin with IT
@@ -40,14 +40,19 @@ _Published 2006, author **Rick Saia, Aberdeen Group**, type **employer-record**.
 
 ## Top observations
 
+- 70 organizations `[ps=0]`
 - 50% `[ps=0]`
 - 27% `[ps=0]`
 - 37% `[ps=0]`
 - 49% `[ps=0]`
+- 39% `[ps=0]`
 - 44% `[ps=0]`
 - 40% `[ps=0]`
 - 48% `[ps=0]`
 - 43% `[ps=0]`
+- 27% `[ps=0]`
+- 29% `[ps=0]`
+- 24% `[ps=0]`
 - 16% `[ps=0]`
 - 17% `[ps=0]`
 - 15% `[ps=0]`
@@ -60,8 +65,3 @@ _Published 2006, author **Rick Saia, Aberdeen Group**, type **employer-record**.
 - 40% `[ps=0]`
 - 36% `[ps=0]`
 - 18% `[ps=0]`
-- 26% `[ps=0]`
-- 23% `[ps=0]`
-- 32% `[ps=0]`
-- 28% `[ps=0]`
-- 24% `[ps=0]`

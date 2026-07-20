@@ -12,9 +12,9 @@ era: "1998"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # SAS Enterprise Miner
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SAS Enterprise Miner has supplanted many third-party suppliers' data mining environments of choice in CRM systems; SEMMA methodology considered leading approach — [[study-dssune~1-cbf6e3]]
+- SAS Enterprise Miner has supplanted many third-party suppliers' data mining environments of choice in CRM systems; SEMMA methodology considered leading approach `[ps=2]` — [[study-dssune~1-cbf6e3]]

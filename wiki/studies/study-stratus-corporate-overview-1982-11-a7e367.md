@@ -16,12 +16,12 @@ source_file: "Corporate-Overview-Stratus-11-1982-8.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.1
-prescience_obs_count: 10
+prescience_mean: 3.25
+prescience_obs_count: 12
 ---
 
 # Stratus Computer Corporate Overview, November 1982
@@ -40,6 +40,7 @@ _Published 1982, author **Stratus Computer, Inc. (corporate marketing — Kastne
 
 ## Top observations
 
+- OLTP applications in distributed/networked environments where high availability is paramount `[ps=5]`
 - Banking/securities/finance, manufacturing, services, government, distribution — all needing OLTP `[ps=5]`
 - John P. Morgridge (Stratus VP Marketing 1982) became CEO of Cisco Systems in 1988 — a major industry move that the 1982 document foreshadows by describing his marketing/planning capabilities `[ps=5]`
 - Stratus survived as independent vendor through 2014; later as Stratus Technologies under Penguin Solutions — among very few 1980s minicomputer-era companies still extant `[ps=5]`
@@ -47,8 +48,7 @@ _Published 1982, author **Stratus Computer, Inc. (corporate marketing — Kastne
 - High-availability TP market forecast: $6.4B (1981) → $27B (1986) — 4.2x in 5 years `[ps=4]`
 - 20-40 percent growth predicted for terminals, superminis, 32-bit minis in OEM and end-user CDP markets `[ps=4]`
 - Founders averaged ~20 years experience; depth from HP, Honeywell, Data General gave team capacity for 'planned rapid growth' `[ps=4]`
+- Cowen/Datamation 1982/83 survey of 6,700 minicomputer buyers ranks hardware reliability as #1 selection factor `[ps=3]`
 - By September 1982: domestic sales/support in Boston, Chicago, Dallas, Houston, Los Angeles, New York/New Jersey, San Francisco, Tampa, Washington DC `[ps=0]`
 - Multi-year agreement March 1982; Olivetti receives marketing rights in selected countries in Europe, South America, and Africa; shipments begin April 1982; expected to exceed $40,000,000 by 1985 `[ps=0]`
 - Document dates to Kastner's Stratus employer era (1981-1985); reflects positioning that Kastner helped articulate as marketing/sales support staff `[ps=0]`
-- OLTP applications in distributed/networked environments where high availability is paramount
-- Cowen/Datamation 1982/83 survey of 6,700 minicomputer buyers ranks hardware reliability as #1 selection factor

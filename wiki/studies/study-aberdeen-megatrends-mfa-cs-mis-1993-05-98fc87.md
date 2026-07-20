@@ -16,12 +16,12 @@ source_file: "Trends-MFA-CS-MIS-1993-05-4.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.75
-prescience_obs_count: 4
+prescience_mean: 3.43
+prescience_obs_count: 7
 ---
 
 # Aberdeen Group 'Harnessing the Megatrends of [the 90s]' MFA-CS-MIS deck (May 1993, Aberdeen institutional)
@@ -41,9 +41,9 @@ _Published 1993, author **Aberdeen Group (no individual presenter named on extra
 ## Top observations
 
 - Simply put, the flip side of the new super-low-cost computing units being delivered by the new computing industry is a huge integration task — but also a tremendous business opportunity. The smart companies are laying the foundation now for doing this kind of integration work. `[ps=5]`
+- Three-tier plus is state-of-the-art (consistent with 1991 Logan + 1992 PSK SNR) `[ps=5]`
+- Up to 50% of capital expenditure is now for IT `[ps=4]`
 - Object technology becomes a requirement 3-5 years out `[ps=4]`
 - If MIS is the competitive advantage of the 1990s, mainframes do not provide a differentiator. New mainframes are not good long-term investment. `[ps=3]`
 - Consolidate data centers; Cheap MIPS - used or non-IBM; Outsource - particularly static applications; Freeze/lower MIS budgets; Downsize with replicated systems; Non-MIS divisional/departmental installations `[ps=3]`
-- Up to 50% of capital expenditure is now for IT
-- 95,000 MIPS / 5,100 CPUs / $22.8M / 250 WMIPs
-- Three-tier plus is state-of-the-art (consistent with 1991 Logan + 1992 PSK SNR)
+- 95,000 MIPS / 5,100 CPUs / $22.8M / 250 WMIPs `[ps=0]`

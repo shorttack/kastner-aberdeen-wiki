@@ -12,9 +12,9 @@ status: "merged"
 successor: "Acquired by Circuit City 2004; later collapsed"
 years_active: "1986-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # RadioShack Canada (InterTAN Inc.)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Christmas 2001: RadioShack Canada couldn't meet demand for Pentium-4 systems — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
+- Christmas 2001: RadioShack Canada couldn't meet demand for Pentium-4 systems `[ps=0]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]

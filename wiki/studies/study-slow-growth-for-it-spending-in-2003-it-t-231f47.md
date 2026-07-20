@@ -16,12 +16,12 @@ source_file: "Slow-Growth-For-IT-Spending-In-2003-IT-Trends-InformationWeek.weba
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.11
-prescience_obs_count: 9
+prescience_mean: 3.1
+prescience_obs_count: 10
 ---
 
 # Slow Growth For IT Spending In 2003
@@ -47,6 +47,6 @@ _Published 2003, author **Gregg Keizer, Techweb News / InformationWeek**, type *
 - Through the 2010s and 2020s, Linux desktop market share remained ~2-3% globally (StatCounter) despite Ubuntu, ChromeOS-as-Linux-derivative, and post-Windows-8 user frustration — fully validating Kastner's 2003 skepticism. `[ps=4]`
 - US IT employment data 2003-2015 show substantial shift of application development and back-office IT work to India/Philippines; Kastner's 'economic threat' framing was broadly borne out in narrow IT-services occupations though overall US tech employment grew. `[ps=4]`
 - That's a horse of a completely different color, and a potential economic threat to the livelihood of a lot of Americans. `[ps=3]`
+- Ultimately, psychology and not technology will determine the growth rate for IT spending this year. `[ps=3]`
 - IBM announced a $2.5 billion outsourcing deal with Deutsche Bank in late 2002. `[ps=0]`
 - IBM announced a $5 billion outsourcing deal with J.P. Morgan Chase & Co. in late 2002. `[ps=0]`
-- Ultimately, psychology and not technology will determine the growth rate for IT spending this year.

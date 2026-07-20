@@ -12,9 +12,9 @@ era: "1972-2000"
 lifecycle_at_study: "declining"
 lifecycle_current: "[DEFERRED]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM VM operating system
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- dead — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]
+- dead `[ps=0]` — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]

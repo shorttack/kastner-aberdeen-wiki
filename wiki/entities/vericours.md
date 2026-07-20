@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: "[DEFERRED]"
 years_active: "2004-2008-approx"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Vericours, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kastner cited as 'analyst for Vericours' — not Aberdeen Group. Likely a post-Aberdeen consulting affiliation circa 2005-2007; may also reflect editorial error. — [[study-open-tpc-database-benchmarks-9-058487]]
+- Kastner cited as 'analyst for Vericours' — not Aberdeen Group. Likely a post-Aberdeen consulting affiliation circa 2005-2007; may also reflect editorial error. `[ps=0]` — [[study-open-tpc-database-benchmarks-9-058487]]

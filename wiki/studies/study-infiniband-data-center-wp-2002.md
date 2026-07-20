@@ -16,12 +16,12 @@ source_file: "intel-infiband-wp--edit-psk-5-22f-a2c551"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.75
-prescience_obs_count: 24
+prescience_mean: 2.88
+prescience_obs_count: 32
 ---
 
 # InfiniBand Architecture: Planning the Next-Generation Data Center
@@ -48,8 +48,15 @@ _Published 2002, author **Peter S. Kastner**, type **white-paper**._
 - Bandwidth scales as number of I/O ports increases; IBA overcomes shared bus bandwidth ceiling `[ps=5]`
 - IBA/Mellanox critical for NVIDIA AI/ML training clusters; NVIDIA acquired Mellanox for $6.9B in 2019-2020 `[ps=5]`
 - 500 MB/s per link minimum scaling to 6 GB/s; 12-wire config reaches 30 Gb/s `[ps=4]`
+- Largely validated; HP/IBM/Dell shipped IBA-capable blade systems 2003-2004 `[ps=4]`
 - Dozens of blades in rack create cabling rat's nest; server-to-server bandwidth and latency become performance limiters `[ps=4]`
 - Virtual Lanes allow QoS multiplexing on same physical link; every switch acts as QoS director `[ps=4]`
+- Decouples CPU from I/O controller; extends distance from inches to kilometers `[ps=4]`
+- Enterprise production deployment possible starting 2003; first-gen HW/SW available late 2002 `[ps=4]`
+- Aberdeen research identifies fabric topology as preferred architecture for storage networking `[ps=4]`
+- IBA well positioned to become transport of choice for inter-processor communications and server clustering `[ps=4]`
+- Phased deployment beginning 2003; HCA silicon on system board by late 2003 `[ps=3]`
+- FC is an early network storage I/O protocol providing superior performance; IBA will route FC traffic and coexist initially `[ps=3]`
 - Large enterprise and research data centers where greatest need for expanded I/O bandwidth exists `[ps=3]`
 - IBA >70% of TOP500 supercomputers by mid-2010s; dominant AI/ML training cluster fabric `[ps=3]`
 - iSCSI cited as example of storage-over-IP architecture trend aligned with IBA's fabric model `[ps=3]`
@@ -58,10 +65,3 @@ _Published 2002, author **Peter S. Kastner**, type **white-paper**._
 - ~50% TCO reduction; ~70% lower I/O management costs `[ps=2]`
 - Leading manufacturers (Compaq/HP Dell IBM Unisys) to deliver servers with embedded HCA by 2003 `[ps=2]`
 - All major suppliers offering IBA-enabled blades by 2003 `[ps=1]`
-- 133 MB/s shared by all devices on bus `[ps=0]`
-- 200+ technology sponsors `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- Three: Host Channel Adapter (HCA) + Target Channel Adapter (TCA) + Switches/Routers `[ps=0]`
-- 12 processing blades with redundant switched backplane and common power `[ps=0]`
-- Compaq acquired by HP in 2002 during paper publication period `[ps=0]`
-- Phased deployment beginning 2003; HCA silicon on system board by late 2003

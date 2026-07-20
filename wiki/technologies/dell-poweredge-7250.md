@@ -12,9 +12,9 @@ era: "2004-2008"
 lifecycle_at_study: "new"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Dell PowerEdge 7250
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Dell announced PowerEdge 7250 high-end 4-way Itanium server — [[study-internetnews-veritas-itanium-believer-20-2ff4eb]]
+- Dell announced PowerEdge 7250 high-end 4-way Itanium server `[ps=0]` — [[study-internetnews-veritas-itanium-believer-20-2ff4eb]]

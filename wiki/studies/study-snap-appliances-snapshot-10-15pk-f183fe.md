@@ -3,7 +3,7 @@ title: "Aberdeen Vendor SnapShot: Snap Appliance Inc."
 slug: "study-snap-appliances-snapshot-10-15pk-f183fe"
 page_type: "study"
 tags: ["type/study", "collection/case-analysis"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "snap-appliances-snapshot-10-15pk-f183fe"
 author: "Peter S. Kastner"
@@ -16,12 +16,12 @@ source_file: "Snap Appliances snapshot 10-15pk.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 14
+prescience_max: 4.0
+prescience_mean: 0.38
+prescience_obs_count: 21
 ---
 
 # Aberdeen Vendor SnapShot: Snap Appliance Inc.
@@ -40,24 +40,24 @@ _Published 2003, author **Peter S. Kastner**, type **case-analysis**._
 
 ## Top observations
 
+- ATA (inexpensive) `[ps=4]`
+- #1 volume leading provider `[ps=2]`
+- world best-selling NAS server `[ps=2]`
 - 130,000+ `[ps=0]`
+- re-privatized from Quantum subsidiary `[ps=0]`
 - 1998 `[ps=0]`
 - 3TB `[ps=0]`
 - 1.44TB / 2.16TB / 3.0TB `[ps=0]`
+- SMB and enterprises with minimal IT staffing `[ps=0]`
 - North America, Europe, Asia Pacific `[ps=0]`
 - SnapOS (proprietary) `[ps=0]`
+- GuardianOS (Linux-based) `[ps=0]`
 - DataKeeper included with every Snap Server `[ps=0]`
 - Server-to-Server Sync available `[ps=0]`
 - creatively covered all mid-line storage categories envisaged by Aberdeen `[ps=0]`
+- 320 GB to 1 TB (4x ATA-100 disks) `[ps=0]`
 - dual gigabit Ethernet `[ps=0]`
 - ADS and NIS `[ps=0]`
 - exclusively through manufacturers, distributors and resellers `[ps=0]`
 - unknown [REVIEW] `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
-- #1 volume leading provider
-- re-privatized from Quantum subsidiary
-- world best-selling NAS server
-- ATA (inexpensive)
-- SMB and enterprises with minimal IT staffing
-- GuardianOS (Linux-based)
-- 320 GB to 1 TB (4x ATA-100 disks)

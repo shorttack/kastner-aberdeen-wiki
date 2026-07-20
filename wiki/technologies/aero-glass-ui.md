@@ -12,9 +12,9 @@ era: "2006-2012"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Windows Vista Aero Glass UI
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Features like Vista's much-hyped Aero interface need more horsepower than most business machines currently have — [[study-newsfactor-vista-deployment-cadence-kast-d1f518]]
+- Features like Vista's much-hyped Aero interface need more horsepower than most business machines currently have `[ps=4]` — [[study-newsfactor-vista-deployment-cadence-kast-d1f518]]

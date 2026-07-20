@@ -16,12 +16,12 @@ source_file: "DECtp-on-VAXclusters-thoughts-1988-03-5.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 7
+prescience_obs_count: 8
 ---
 
 # DEC Zahavi Memo: Debit-Credit Benchmark on VAXclusters (March 1988)
@@ -44,7 +44,7 @@ _Published 1988, author **Bill Zahavi, DEC TP Systems Performance Analysis (HYPE
 - 15 `[ps=0]`
 - 7.5 `[ps=0]`
 - flat-files-only-RMS-Hash `[ps=0]`
+- not-available-in-DEC-stack `[ps=0]`
 - excluded-from-Style-3 `[ps=0]`
 - TP-Databases-VMS `[ps=0]`
 - HYPER-BZAHAVI-MRO1-1-A65 `[ps=0]`
-- not-available-in-DEC-stack

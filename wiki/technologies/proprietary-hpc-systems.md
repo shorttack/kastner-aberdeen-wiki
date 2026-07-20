@@ -14,7 +14,7 @@ lifecycle_current: "legacy-supported"
 occurrence_count: 1
 prescience_max: 5.0
 prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Proprietary HPC Systems (SGI, Cray, Sun)
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Linux will be successful alternative to proprietary systems in HPC `[ps=5]` — [[study-2001-is-linux-domination-of-the-high-perform-computing--0d06ef]]
 - SGI filed bankruptcy 2006 (emerged 2007); Cray survived as niche vendor; Sun Solaris HPC largely displaced `[ps=5]` — [[study-2001-is-linux-domination-of-the-high-perform-computing--0d06ef]]
-- Linux will be successful alternative to proprietary systems in HPC — [[study-2001-is-linux-domination-of-the-high-perform-computing--0d06ef]]

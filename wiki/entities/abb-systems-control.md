@@ -12,9 +12,9 @@ status: "active"
 successor: "ABB Group (parent active)"
 years_active: "1988-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # ABB Systems Control Division
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Strong global presence; unique position to support large facilities engineering contracts with IT — [[study-utilit~1-0596b5]]
+- Strong global presence; unique position to support large facilities engineering contracts with IT `[ps=0]` — [[study-utilit~1-0596b5]]

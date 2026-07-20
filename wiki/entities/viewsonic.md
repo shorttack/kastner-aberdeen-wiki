@@ -12,9 +12,9 @@ status: "operating"
 successor: "[DEFERRED]"
 years_active: "1987-present"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 2.0
+prescience_mean: 1.0
+prescience_obs_count: 2
 ---
 
 # ViewSonic
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- PC-HDTV bridge economical alternative to Samsung 42in plasma `[ps=2]` — [[study-dct-kastner-wish-list-2002-12]]
 - decent new PC monitors $200 and up `[ps=0]` — [[study-dct-kastner-wish-list-2002-12]]
-- PC-HDTV bridge economical alternative to Samsung 42in plasma — [[study-dct-kastner-wish-list-2002-12]]

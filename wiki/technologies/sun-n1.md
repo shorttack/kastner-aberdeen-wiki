@@ -12,9 +12,9 @@ era: "2002-2008"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Sun N1 Grid Architecture
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Active development to reduce data center costs and complexity `[ps=4]` — [[study-2003-a-view-of-sun-s-2003-worldwide-analyst-conference-206a10]]
 - Discontinued after Oracle acquisition; concepts absorbed into Oracle cloud strategy `[ps=0]` — [[study-2003-a-view-of-sun-s-2003-worldwide-analyst-conference-206a10]]
-- Active development to reduce data center costs and complexity — [[study-2003-a-view-of-sun-s-2003-worldwide-analyst-conference-206a10]]

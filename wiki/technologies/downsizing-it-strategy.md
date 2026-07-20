@@ -13,8 +13,8 @@ lifecycle_at_study: "active-strategy-trend"
 lifecycle_current: "absorbed-into-server-consolidation-then-cloud"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.5
-prescience_obs_count: 2
+prescience_mean: 1.67
+prescience_obs_count: 3
 ---
 
 # IT Downsizing
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - migrating-computer-functions-from-central-mainframe-to-dispersed-systems `[ps=5]` — [[study-aberdeen-multitrak-headlines-context-kas-f941d1]]
+- three-year-migration-with-SI-taking-dev-risk `[ps=0]` — [[study-aberdeen-multitrak-headlines-context-kas-f941d1]]
 - low-cost-spoiler-for-mainframe-competitors `[ps=0]` — [[study-aberdeen-multitrak-headlines-context-kas-f941d1]]
-- three-year-migration-with-SI-taking-dev-risk — [[study-aberdeen-multitrak-headlines-context-kas-f941d1]]

@@ -16,12 +16,12 @@ source_file: "Warranty-Week-Dell-s-Warranty-Policies-12-May-2003.webarchive"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 9
+prescience_mean: 1.64
+prescience_obs_count: 11
 ---
 
 # Dell's Warranty Policies
@@ -46,8 +46,8 @@ _Published 2003, author **Eric Arnum**, type **trade-publication-analysis**._
 - Three-year-NBD warranty becomes enterprise-procurement default `[ps=4]`
 - We price all vendors with three-year, next business day service as a means of leveling the configuration playing field `[ps=0]`
 - 2.4 GHz Pentium 4, 256 MB RAM, 40 GB HDD, CD-ROM, 15- or 17-inch monitor, Ethernet `[ps=0]`
+- Dell OptiPlex GX260 fits Aberdeen reference model precisely `[ps=0]`
 - $129 for three-year extended warranty on Dimension desktops; $199 on Inspiron laptops `[ps=0]`
 - Revenue climbed 13.6% to $35.4 billion in fiscal year ended January 2003 `[ps=0]`
+- EPS increased from $0.46 to $0.80 `[ps=0]`
 - Gross margin rose from 17.7% (FY02) to 17.9% (FY03) `[ps=0]`
-- Dell OptiPlex GX260 fits Aberdeen reference model precisely
-- EPS increased from $0.46 to $0.80

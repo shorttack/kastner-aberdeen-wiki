@@ -13,8 +13,8 @@ successor: ""
 years_active: "1960s-1980s"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 5
+prescience_mean: 1.67
+prescience_obs_count: 6
 ---
 
 # Robert A. Siegel
@@ -29,4 +29,4 @@ prescience_obs_count: 5
 - An applications programmer manages physical machine resources: disk spin, core memory cycle, card reader click. Code is choreography of hardware. `[ps=2]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
 - Robert A. Siegel later architected the Wang VS operating system after leaving PHI. `[ps=0]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
 - Siegel confirmed the One-Instruction Switch optimization was achievable in COBOL, not just assembly. `[ps=0]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
-- Brilliant, abrasive mentor. Did not teach syntax; taught physics of the machine—physical resources of disk, memory, card reader. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- Brilliant, abrasive mentor. Did not teach syntax; taught physics of the machine—physical resources of disk, memory, card reader. `[ps=0]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]

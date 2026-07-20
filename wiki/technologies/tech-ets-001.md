@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "Growth"
 lifecycle_current: "Active (renamed IBM MQ 2014; v9.4 released June 2024)"
 occurrence_count: 1
-prescience_max: 4.0
-prescience_mean: 1.0
-prescience_obs_count: 4
+prescience_max: 5.0
+prescience_mean: 2.17
+prescience_obs_count: 6
 ---
 
 # MQSeries
@@ -24,9 +24,9 @@ prescience_obs_count: 4
 
 ## Top observations
 
+- Assured once-and-only-once delivery with connection independence `[ps=5]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Will add third-party and IBM tools for ORBs and commercial-messaging applications `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Covers both IBM and non-IBM sites via open middleware interoperability `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Unix, OS/2, Windows NT, Digital VAX, MVS/ESA servers; Unix/DOS/OS/2/Win95/NT clients `[ps=0]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Performance approaching RPC `[ps=0]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
 - Renamed and expanded; ORB integrations added `[ps=0]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Assured once-and-only-once delivery with connection independence — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
-- Covers both IBM and non-IBM sites via open middleware interoperability — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]

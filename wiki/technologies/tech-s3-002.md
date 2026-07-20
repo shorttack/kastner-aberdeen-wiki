@@ -12,9 +12,9 @@ era: "1989-2021"
 lifecycle_at_study: "Growth"
 lifecycle_current: "Legacy/Evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # TeMiPs (Network Management)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Proactive fault detection before customer visibility — [[study-1997-digital-equipment-corporation-pr-c375a8]]
+- Proactive fault detection before customer visibility `[ps=4]` — [[study-1997-digital-equipment-corporation-pr-c375a8]]

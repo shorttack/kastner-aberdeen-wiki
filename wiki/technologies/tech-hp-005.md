@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # HP NightDIRECTOR
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NightDIRECTOR uses Magic Packet technology (co-developed with AMD) to remotely power on PCs for maintenance without disturbing end users — [[study-1997-desktop-and-systems-management-the--169a9b]]
+- NightDIRECTOR uses Magic Packet technology (co-developed with AMD) to remotely power on PCs for maintenance without disturbing end users `[ps=4]` — [[study-1997-desktop-and-systems-management-the--169a9b]]

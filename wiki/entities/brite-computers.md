@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Brite Computers, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $16.7 million in sales and 45 employees in 2000 — [[study-rbj-pc-reseller-slump-psk-2002-07-05-9cb170]]
+- $16.7 million in sales and 45 employees in 2000 `[ps=0]` — [[study-rbj-pc-reseller-slump-psk-2002-07-05-9cb170]]

@@ -14,7 +14,7 @@ lifecycle_current: "superseded"
 occurrence_count: 1
 prescience_max: 5.0
 prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Windows NT Server
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- NT Server unit sales ramping; PC server suppliers reporting NetWare sales decline vs NT growth `[ps=5]` — [[study-aberdeen-1995-novell-predicament]]
 - Windows NT and successors (2000/2003) became dominant enterprise network OS; NetWare marginalized `[ps=5]` — [[study-aberdeen-1995-novell-predicament]]
-- NT Server unit sales ramping; PC server suppliers reporting NetWare sales decline vs NT growth — [[study-aberdeen-1995-novell-predicament]]

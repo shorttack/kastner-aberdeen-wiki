@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.77
-prescience_obs_count: 13
+prescience_mean: 1.9
+prescience_obs_count: 20
 ---
 
 # IBM Application Development Product Family
@@ -40,23 +40,23 @@ _Published 1997, author **Aberdeen Group**, type **product-profile**._
 
 ## Top observations
 
+- any-language object sharing via common pipe `[ps=4]`
 - IBM installed base with COBOL/3GL legacy; migrating to network computing `[ps=4]`
 - leverage IBM network-computing ecosystem; not standalone tech `[ps=4]`
 - needs cross-platform partitioning repository and auto-deployment `[ps=4]`
 - VisualAge Micro Edition evolved into Eclipse; donated to open source 2001 `[ps=4]`
 - scalability + flexibility + lifecycle + new-tech support `[ps=4]`
+- comm multiplexing and load-balancing for web bottlenecks `[ps=4]`
+- Smalltalk skills transferable to Java `[ps=4]`
+- key to IBM network-computing success `[ps=3]`
 - discontinued; CORBA and J2EE won enterprise middleware `[ps=3]`
 - COBOL, BASIC, C++, Smalltalk, Java (upcoming), Generator `[ps=0]`
 - upcoming 1997 release `[ps=0]`
 - OS/2, AIX, Windows NT, HP-UX servers; OS/2, Win3.1, AIX, NT clients `[ps=0]`
 - platform-independent spec with multi-environment instantiation `[ps=0]`
+- included but declining `[ps=0]`
+- improved productivity and cost savings vs CSP `[ps=0]`
 - application-performance scalability achieved `[ps=0]`
+- discontinued April 30 2007 `[ps=0]`
 - transferred 2005 as VA Smalltalk `[ps=0]`
 - evolved to IBM WebSphere Business Process Manager `[ps=0]`
-- any-language object sharing via common pipe
-- included but declining
-- key to IBM network-computing success
-- improved productivity and cost savings vs CSP
-- discontinued April 30 2007
-- comm multiplexing and load-balancing for web bottlenecks
-- Smalltalk skills transferable to Java

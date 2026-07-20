@@ -1,6 +1,7 @@
 ---
 title: Quote 1100 — Inc. ()
 type: quotation
+page_type: quotation
 slug: quote-1100
 row_id: 1100
 author: "Peter S. Kastner"

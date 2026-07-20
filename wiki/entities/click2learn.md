@@ -13,8 +13,8 @@ successor: "SumTotal Systems (merged 2004)"
 years_active: "1984-2004"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # click2learn.com (formerly Asymetrix)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - click2learn merged with Docent to form SumTotal Systems in March 2004 `[ps=5]` — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]
-- Dominant LMS and authoring platform provider (formerly Asymetrix) — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]
+- Dominant LMS and authoring platform provider (formerly Asymetrix) `[ps=2]` — [[study-1999-e-learning-in-the-enterprise-psk-d0fc8a]]

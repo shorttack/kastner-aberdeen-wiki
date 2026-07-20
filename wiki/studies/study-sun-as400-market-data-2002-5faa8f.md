@@ -16,12 +16,12 @@ source_file: "iSeries-IBM-server-revenue-6.xls + iSeries-pricing-benchmarks-7.xl
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 0.32
-prescience_obs_count: 37
+prescience_mean: 0.49
+prescience_obs_count: 45
 ---
 
 # Sun AS/400 RAMP Supporting Data: IBM Revenue, iSeries Pricing Benchmarks, Installed Base, and US Business Size Statistics
@@ -41,10 +41,14 @@ _Published 2002, author **Peter Kastner**, type **benchmark**._
 ## Top observations
 
 - iSeries merged into Power Systems as IBM i `[ps=5]`
+- Oracle acquired Sun for $7.4B `[ps=5]`
+- iSeries 840 (1-24 way, $860-1,555K, $2.0B revenue) ↔ Sun Fire 6800 `[ps=3]`
 - Sold to Lenovo for $2.1B `[ps=3]`
 - iSeries 250 (1-way, $9-14K base, $250M revenue) ↔ Sun Ultra 10 `[ps=2]`
 - $34B → $75B by 2005 (22% CAGR) `[ps=1]`
 - $23B → $37B by 2005 (12% CAGR) `[ps=1]`
+- $15B → $35B by 2005 (23% CAGR) `[ps=1]`
+- $4B → $11B by 2005 (26% CAGR) `[ps=1]`
 - $33.392B `[ps=0]`
 - $24.137B `[ps=0]`
 - $9.255B `[ps=0]`
@@ -56,12 +60,8 @@ _Published 2002, author **Peter Kastner**, type **benchmark**._
 - $8.348B `[ps=0]`
 - $7.680B `[ps=0]`
 - $5.009B `[ps=0]`
+- $5.009B `[ps=0]`
 - -19% `[ps=0]`
 - -26% `[ps=0]`
 - -27% `[ps=0]`
 - +13% `[ps=0]`
-- iSeries 270 (1-2 way, $12-33K base, $3.5B revenue) ↔ Sun 220R `[ps=0]`
-- iSeries 820 (1-4 way, $64-267K, $2.5B revenue) ↔ Sun V880 `[ps=0]`
-- iSeries 830 (1-8 way, $145-580K, $2.018B revenue) ↔ Sun Fire 4800 `[ps=0]`
-- $10.268B `[ps=0]`
-- $3.962B (38%) `[ps=0]`

@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.77
-prescience_obs_count: 13
+prescience_mean: 1.85
+prescience_obs_count: 20
 ---
 
 # Industri-Matematik International Corp.: Strategic Solution for Fast-Moving, High-Volume Goods Industries
@@ -40,12 +40,19 @@ _Published 1997, author **Aberdeen Group**, type **profile**._
 
 ## Top observations
 
+- Oracle completed hostile acquisition of PeopleSoft for $10.3B in January 2005 `[ps=5]`
 - Baan acquired by Invensys 2000; later became part of Infor via SSA GT `[ps=5]`
+- SAP acquired Business Objects for $6.78B in 2007 `[ps=5]`
 - Must manage: broader product portfolios, multi-national distributors, faster delivery, promotions, lower inventory `[ps=5]`
 - i2 merged with JDA Software 2010; JDA rebranded Blue Yonder 2020; Panasonic acquired 2021 `[ps=5]`
 - Current: read-only browser integration; roadmap: order entry/update, Java interactivity, security `[ps=4]`
+- SAP became dominant ERP suite vendor; market cap ~$250B in 2024 `[ps=4]`
 - Feature-rich promotions management differentiating System ESS in CPG market `[ps=3]`
 - Aberdeen considers IMI well-poised to be leading provider of demand-chain order fulfillment solutions `[ps=2]`
+- $40 million `[ps=0]`
+- $18 million `[ps=0]`
+- $33 million working capital `[ps=0]`
+- 25+ years in order fulfillment; 150+ systems implemented worldwide `[ps=0]`
 - Enterprises with $250M+ annual sales in CPG, consumer/industrial products, wholesale distribution `[ps=0]`
 - IMI to deliver ORB/Java/OO encapsulation of ESS Core Services in V5 starting Q1 1997 `[ps=0]`
 - IMI renamed Aptean AB ~2012; rebranded back to Industri-Matematik International AB March 2019 `[ps=0]`
@@ -53,10 +60,3 @@ _Published 1997, author **Aberdeen Group**, type **profile**._
 - IMI celebrates 60 years in 2026; six acquisitions since 2021; offices in four countries; doubled revenue and headcount `[ps=0]`
 - Significant Fortune 500 customer wins; consistent high scores in CPG demand-chain evaluations `[ps=0]`
 - Positive: manages information flow from customer back through manufacturing enterprise `[ps=-1]`
-- $40 million
-- $18 million
-- $33 million working capital
-- 25+ years in order fulfillment; 150+ systems implemented worldwide
-- SAP became dominant ERP suite vendor; market cap ~$250B in 2024
-- Oracle completed hostile acquisition of PeopleSoft for $10.3B in January 2005
-- SAP acquired Business Objects for $6.78B in 2007

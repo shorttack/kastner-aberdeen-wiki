@@ -16,12 +16,12 @@ source_file: "Microsoft-quote-tablet-2001-12-IW-8.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.7
-prescience_obs_count: 10
+prescience_mean: 0.91
+prescience_obs_count: 11
 ---
 
 # Tablet Offers High Risk, High Reward (InformationWeek on Microsoft Tablet PC launch)
@@ -41,6 +41,7 @@ _Published 2001, author **InformationWeek (cover story; Dec 17, 2001 issue, page
 ## Top observations
 
 - potential is high `[ps=4]`
+- incredibly invested in success `[ps=3]`
 - huge positioning mistake if narrow appliance `[ps=2]`
 - $2,000-$2,500 per unit `[ps=1]`
 - second half 2002 `[ps=0]`
@@ -50,4 +51,3 @@ _Published 2001, author **InformationWeek (cover story; Dec 17, 2001 issue, page
 - wait 6 months after release `[ps=0]`
 - Newton/EO/Lectrice/Pen-Windows `[ps=0]`
 - Acer/Compaq/Fujitsu/NEC + Adobe/Autodesk/Corel/Groove `[ps=0]`
-- incredibly invested in success

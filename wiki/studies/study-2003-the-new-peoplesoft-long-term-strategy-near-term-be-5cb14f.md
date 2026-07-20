@@ -16,12 +16,12 @@ source_file: "2003 The New PeopleSoft_ Long-Term Strategy_ Near-Term Benefits.pd
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "low"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 8
+prescience_mean: 3.08
+prescience_obs_count: 12
 ---
 
 # The New PeopleSoft: Long-Term Strategy, Near-Term Benefits
@@ -41,14 +41,14 @@ _Published 2003, author **Christa Degnan and Tim Minahan**, type **market-study*
 ## Top observations
 
 - Manufacturing, distribution (historically JDE strength) `[ps=5]`
+- Acquired by Oracle December 2004 for $10.3B; long-term strategy terminated `[ps=5]`
 - JDE EnterpriseOne remains actively sold and supported by Oracle as of 2026 `[ps=5]`
 - PeopleSoft HCM and Financials modules still sold by Oracle under Oracle PeopleSoft brand `[ps=5]`
+- Cross-industry capability expansion: each firm brings unique capabilities to previously underserved verticals `[ps=3]`
 - Should note interesting cross-industry capabilities from merger — incremental value from existing suites `[ps=3]`
 - Merger brings real value; consider combined portfolio for enterprise software selection `[ps=3]`
+- Merger promises incremental value delivery from existing suites `[ps=3]`
 - JDE brings real estate management to PeopleSoft's professional services customer base `[ps=2]`
+- PeopleSoft brings strategic sourcing to JDE's manufacturing customer base `[ps=2]`
 - Securing leadership position among global enterprise software vendors `[ps=1]`
 - Professional services (historically PeopleSoft strength) `[ps=0]`
-- Cross-industry capability expansion: each firm brings unique capabilities to previously underserved verticals
-- PeopleSoft brings strategic sourcing to JDE's manufacturing customer base
-- Merger promises incremental value delivery from existing suites
-- Acquired by Oracle December 2004 for $10.3B; long-term strategy terminated

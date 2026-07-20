@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Oracle Supply Chain Management
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle E-Business Suite supply chain positioned as real-time customer-requirement-driven planning platform — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle E-Business Suite supply chain positioned as real-time customer-requirement-driven planning platform `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]

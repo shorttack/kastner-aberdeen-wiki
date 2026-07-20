@@ -16,12 +16,12 @@ source_file: "Archive-2/Intel Centrino PK.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.36
-prescience_obs_count: 14
+prescience_mean: 1.55
+prescience_obs_count: 20
 ---
 
 # Intel's Centrino: Don't Man the Barricades
@@ -43,9 +43,15 @@ _Published 2003, author **Peter S. Kastner**, type **expert-report**._
 - Senior executives, sales/support adopting public wireless before corporate policy exists `[ps=5]`
 - Better performance than Pentium 3 and Pentium 4 mobile `[ps=4]`
 - All major notebook companies rolling out Centrino products `[ps=4]`
+- Centrino/wireless will become standard IT building block `[ps=4]`
+- Dominant microprocessor supplier using marketing and infrastructure spending to drive platform adoption `[ps=4]`
 - ~25% or more of PC units sold to enterprises are notebooks `[ps=3]`
 - 30 minutes per day extra productivity `[ps=3]`
+- Embrace wireless with LEAP/WS2003 hardening; do not ban `[ps=3]`
+- More than a quarter of business Centrinos expected to ship with wireless mini-card removed `[ps=1]`
 - March 12, 2003 `[ps=0]`
+- ~$300 million `[ps=0]`
+- Over 5 hours `[ps=0]`
 - Tens of millions of dollars `[ps=0]`
 - ~$90 from CompUSA `[ps=0]`
 - ~150 feet `[ps=0]`
@@ -54,9 +60,3 @@ _Published 2003, author **Peter S. Kastner**, type **expert-report**._
 - 6 months or less `[ps=0]`
 - 1 hour per day in conjunction with digital record-keeping `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
-- ~$300 million
-- Over 5 hours
-- More than a quarter of business Centrinos expected to ship with wireless mini-card removed
-- Centrino/wireless will become standard IT building block
-- Dominant microprocessor supplier using marketing and infrastructure spending to drive platform adoption
-- Embrace wireless with LEAP/WS2003 hardening; do not ban

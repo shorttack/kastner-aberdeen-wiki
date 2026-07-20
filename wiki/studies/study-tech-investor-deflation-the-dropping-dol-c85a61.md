@@ -21,7 +21,7 @@ prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
 prescience_mean: 4.0
-prescience_obs_count: 4
+prescience_obs_count: 5
 ---
 
 # Tech Investor: Deflation, the dropping dollar, and tech
@@ -43,5 +43,5 @@ _Published 2003, author **Eric Hellweg, CNN/Money**, type **column-opinion**._
 - Kastner cites Dell as the canonical example: unit shipments up almost 30% year-over-year, but revenues up only 18% — the revenue treadmill deflation compels hardware vendors onto. `[ps=5]`
 - It's the 800-pound gorilla in the room, and no one's talking about it. Hardware manufacturers have to produce and sell a lot more units at a lower price to keep up on the revenue treadmill. `[ps=4]`
 - Dell Inc. went private via a $24 billion LBO by Michael Dell and Silver Lake in Oct 2013 — the culmination of the unit-revenue squeeze Kastner identified in 2003 (later exacerbated by the 2008 financial crisis and the post-2010 commodification of PC hardware). `[ps=4]`
+- Tech-hardware price deflation continued structurally through 2003-2015 (PC ASPs dropped, smartphone ASPs flat-to-down outside premium Apple tier, cloud compute prices fell ~30%/year 2010-2015 via AWS et al.) — directly validating Kastner's inherently-deflationary framing. `[ps=4]`
 - The tech industry is inherently deflationary — therefore more resilient than most sectors to macro deflation. `[ps=3]`
-- Tech-hardware price deflation continued structurally through 2003-2015 (PC ASPs dropped, smartphone ASPs flat-to-down outside premium Apple tier, cloud compute prices fell ~30%/year 2010-2015 via AWS et al.) — directly validating Kastner's inherently-deflationary framing.

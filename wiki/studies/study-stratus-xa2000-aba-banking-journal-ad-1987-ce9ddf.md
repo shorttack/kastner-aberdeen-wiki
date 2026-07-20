@@ -16,12 +16,12 @@ source_file: "Stratus-XA2000-ad-9.tiff"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 2.0
-prescience_mean: 1.0
-prescience_obs_count: 2
+prescience_mean: 0.67
+prescience_obs_count: 3
 ---
 
 # Stratus XA2000 'Once Again, Stratus Catches the Competition With Their Computers Down' — ABA Banking Journal Ad, 1987 (PSK as named contact)
@@ -41,5 +41,5 @@ _Published 1987, author **Stratus Computer (corporate marketing — Kastner-era)
 ## Top observations
 
 - Recent independent survey of customers revealed 100% of those surveyed would not even consider changing computer companies `[ps=2]`
+- 50+ transactions per second; 3x XA600 power `[ps=0]`
 - Peter Kastner at (617) 460-2192 — named contact for XA2000 inquiries; address Stratus Computer, 55 Fairbanks Boulevard, Marlboro MA 01752 `[ps=0]`
-- 50+ transactions per second; 3x XA600 power

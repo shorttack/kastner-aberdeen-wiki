@@ -1,6 +1,7 @@
 ---
 title: Quote 980 — Computerworld (1994-06-20)
 type: quotation
+page_type: quotation
 slug: quote-980
 row_id: 980
 author: "Peter S. Kastner"

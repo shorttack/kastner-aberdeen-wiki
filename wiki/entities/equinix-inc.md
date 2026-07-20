@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1998-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Equinix, Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- OC-12 set up at 60 Hudson St. to bring dial-tone service to New York's City Hall (NEON Communications, pro bono) — [[study-telephony-post911-conferencing-psk-2001--0bf283]]
+- OC-12 set up at 60 Hudson St. to bring dial-tone service to New York's City Hall (NEON Communications, pro bono) `[ps=0]` — [[study-telephony-post911-conferencing-psk-2001--0bf283]]

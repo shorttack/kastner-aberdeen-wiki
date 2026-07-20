@@ -13,8 +13,8 @@ successor: ""
 years_active: "1975-present"
 occurrence_count: 22
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 31
+prescience_mean: 1.98
+prescience_obs_count: 41
 ---
 
 # Microsoft Corporation
@@ -35,17 +35,17 @@ prescience_obs_count: 31
 - XP achieved 12-14% adoption in first year; less than 10% of Microsoft's installed base upgraded by end of 2002 per Gartner `[ps=5]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
 - Microsoft is mindshare leader; leveraging desktop dominance to push NT Server; massive ISV/channel recruitment `[ps=5]` — [[study-nospra~1-bd7d6a]]
 - Microsoft delivers on its launch marketing promises for Windows XP `[ps=4]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
+- New high level of support for digital audio, digital video playing, digital moviemaking, and digital photography `[ps=4]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
+- XP makes connecting to wireless LANs 'a snap' — zero-configuration wireless `[ps=4]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
 - XP became most-used Windows version; maintained 35%+ share a decade after launch; still 1.44%+ of devices in 2022 `[ps=4]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
 - For all of the launch marketing hype, this time Microsoft delivers `[ps=4]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
 - Failed: Microsoft pivoted to DCOM/COM+ and rejected CORBA interop; OMG OLE-CORBA bridging standard was published (1999) but never widely implemented; .NET (2002) replaced COM for new development `[ps=4]` — [[study-aberdeen-1995-digital-objectbroker]]
 - Major language supplier; ISV leader `[ps=4]` — [[study-cab199-1-2-0cb163]]
+- NT Server clustering will emerge in 1996, thrive in 1997 (Compaq+Tandem; DEC) `[ps=4]` — [[study-informix-dsa-presentation-2-8d5fa3]]
+- Microsoft Windows 95 is runaway choice as desktop OS; general availability timing later than required `[ps=4]` — [[study-itthar-1-4-32f824]]
 - Microsoft Consulting Services not entering market to be leader but to encourage enterprise NT usage; knowledge shared back to channel `[ps=4]` — [[study-ntpspr~1-728dc3]]
+- Microsoft positioned XP as Personal Information Technology and digital home networking platform `[ps=3]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
 - Modest scalability; no MPP; good on DEC Alpha `[ps=3]` — [[study-cab199-1-2-0cb163]]
 - Great for PC apps; OLE; ODBC `[ps=3]` — [[study-cab199-1-2-0cb163]]
 - Kastner argues that Oracle runs on its own products, including InterOffice, whereas 'that's not true with a Microsoft'; buyers should seek references from fast-growing sites and test whether products were over-promised and have a future. `[ps=2]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - WEP passwords must be converted into hexadecimal — practical user friction point noted `[ps=2]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
-- 75% of corporate PCs still running Windows 95, 98, or NT Workstation by end of 2002 (Gartner) `[ps=2]` — [[study-2001-living-with-windows-xp-media-player-and-wireless-s-02f8a8]]
-- $2,000-$2,500 per unit `[ps=1]` — [[study-informationweek-tablet-pc-microsoft-kast-72320d]]
-- 5 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
-- 25 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
-- Oracle acquiring IRI Software for MDB and query tools `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]

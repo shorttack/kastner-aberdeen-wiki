@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.04
-prescience_obs_count: 96
+prescience_mean: 1.98
+prescience_obs_count: 127
 ---
 
 # Chapter 4: Prime Computer (1979-1981)
@@ -54,14 +54,14 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 - Data General told same correct-short-run, wrong-long-run minicomputer story in its own dialect; ultimately also became an acquisition target. `[ps=5]`
 - DEC told same correct-short-run, wrong-long-run minicomputer story; DEC’s VAX ecosystem ultimately also lost to x86/Unix economics. `[ps=5]`
 - Economics of standardized x86 architecture plus open operating systems would overwhelm the performance and integration advantages of all proprietary minicomputer platforms. `[ps=5]`
+- PROMIS developed by INSLAW in the 1970s under federal grant to automate management of criminal cases. `[ps=5]`
 - Prime was turning from scrappy minicomputer vendor into a fully-fledged Wall Street rocket ship by the time Kastner arrived Thanksgiving 1979. `[ps=5]`
 - Six years as CEO, growing Prime from $10M hopeful to serious growth franchise by time Kastner arrived. `[ps=4]`
 - Sold as 'online banking platform' or 'interactive engineering environment'; customer discovered later they bought a Prime 750 running PRIMOS and INFORMATION. `[ps=4]`
 - Every application built on Pick/INFORMATION was captive to Prime hardware; as open systems and relational DBs grew, lock-in became liability not feature. `[ps=4]`
 - Faster application development, tighter integration, no army of COBOL programmers required. `[ps=4]`
+- Responsiveness: shorter application cycles, tighter integration; mid-sized regional bank could look like national institution on modest minicomputer footprint. `[ps=4]`
 - VARs, OEMs, and ISVs building vertical packages on INFORMATION served as force multipliers; 'PR1ME shops' were an exclusive club with own language and lore. `[ps=4]`
 - Unlike Computer Associates and Informix (later Aberdeen clients), no one from Prime ever went to jail for cooking the books. `[ps=4]`
 - High confidence, high energy, absolute certainty good times would keep rolling; machine printing money, stock up 272%; no appetite for downside scenarios. `[ps=4]`
 - In France, government was roughly half the entire economy; every regional Prime opportunity traced back to Paris. `[ps=4]`
-- Enormous initiative, occasionally creative interpretations of process, and just enough adult supervision to keep everyone out of jail. `[ps=4]`
-- Project was complete rehearsal for Aberdeen Group decade: segment market, identify customer’s actual problem, quantify gap, map competitive landscape. `[ps=4]`

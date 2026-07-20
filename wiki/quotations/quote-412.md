@@ -1,6 +1,7 @@
 ---
 title: Quote 412 — Forbes (2004-01-12)
 type: quotation
+page_type: quotation
 slug: quote-412
 row_id: 412
 author: "Peter S. Kastner"

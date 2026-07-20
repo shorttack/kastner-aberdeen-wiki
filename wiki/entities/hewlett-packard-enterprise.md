@@ -12,9 +12,9 @@ status: "active"
 successor: "active"
 years_active: "2015-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Hewlett Packard Enterprise
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP announced plans in 2014 to separate into HP Inc. and Hewlett Packard Enterprise. — [[study-2026-kastner-dec-longitudinal-22d177]]
+- HP announced plans in 2014 to separate into HP Inc. and Hewlett Packard Enterprise. `[ps=5]` — [[study-2026-kastner-dec-longitudinal-22d177]]

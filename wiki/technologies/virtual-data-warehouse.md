@@ -13,8 +13,8 @@ lifecycle_at_study: "evolved"
 lifecycle_current: "The virtual data warehouse concept evolved into data virtualization and, more recently, data fabric architectures. The specific Intersolv product was discontinued after Merant/Micro Focus restructuring."
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.89
-prescience_obs_count: 19
+prescience_mean: 2.91
+prescience_obs_count: 22
 ---
 
 # Virtual Data Warehouse
@@ -32,15 +32,15 @@ prescience_obs_count: 19
 - The Virtual Data Warehouse will automatically compute different aggregates depending on what other columns have been selected for a query, and allows users to continue to drill down within a query. `[ps=4]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - Aberdeen predicted by end of the decade (by 2000) most enterprises would use some form of complex decision support to develop better understanding of customers `[ps=4]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - Aberdeen believed metadata-driven Virtual Data Warehouse approach can help some organizations eliminate need for physical departmental data warehouse `[ps=4]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
+- Intersolv was acquired by Micro Focus for $534M in June 1998 before achieving high-end market leadership. The combined entity was renamed Merant. DataDirect ODBC technology continued; business intelligence market consolidated around Cognos (IBM), Business Objects (SAP), and Microsoft. Intersolv's prediction did not materialize as independent entity. `[ps=4]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - Aberdeen believes the metadata-driven Virtual Data Warehouse approach can help some organizations eliminate the need for a physical departmental data warehouse. `[ps=3]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - Several early users indicate that the Virtual Data Warehouse is extremely beneficial for building departmental-level decision-support environments and for quickly supplying business users with immediate access to information. `[ps=3]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - Several users say the Virtual Data Warehouse will likely eliminate the need to build some departmental warehouses in the enterprise. `[ps=3]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - Aberdeen believes the Virtual Data Warehouse will be sufficiently robust as a solution for departmental warehouse chores and for applications the enterprise considers vital but not necessarily mission critical. `[ps=3]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - Aberdeen believes the Virtual Data Warehouse can serve as a strong interim tool for enterprises embarking on the multi-month process of building a physical data warehouse. `[ps=3]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
+- Aberdeen concludes the Virtual Data Warehouse can help some organizations eliminate the need for a physical departmental data warehouse, transform third-party applications into a data warehouse, and prepare enterprises for a step-by-step progression into decision support. `[ps=3]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - Aberdeen believes that the Virtual Data Warehouse's principle differentiation is its ability to share its metadata layer with other ODBC-compliant tools, unlike competitors whose metadata layers are tool-specific. `[ps=2]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - Aberdeen believes a rapid re-stratification of the query and reporting marketplace is now under way, making room for Intersolv to occupy a slot as a high-end query and reporting tool. `[ps=2]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
+- Aberdeen believes the Virtual Data Warehouse will likely help refine and reduce the footprint of the physical data warehouse. `[ps=2]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - Aberdeen predicted rapid re-stratification of query/reporting marketplace making room for Intersolv to occupy high-end query and reporting tool slot `[ps=2]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
 - Intersolv Inc. introduced the Virtual Data Warehouse on October 2, 1995. `[ps=0]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
-- The Virtual Data Warehouse uses a blend of source security as well as security set up by the systems administrator, and is based on open database connectivity (ODBC) architecture. `[ps=0]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
-- Prices range from $499 for a single-user system running against a single database to approximately $40,000 for a 20-user server-based Virtual Data Warehouse. `[ps=0]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
-- Aberdeen believes the Virtual Data Warehouse will likely help refine and reduce the footprint of the physical data warehouse. — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]

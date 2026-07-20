@@ -16,12 +16,12 @@ source_file: "OracleROIWhitePaperPROD.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.2
-prescience_obs_count: 20
+prescience_mean: 1.35
+prescience_obs_count: 23
 ---
 
 # Point Solutions Versus Integrated Oracle Applications: The Road to IT Investment ROI
@@ -44,7 +44,9 @@ _Published 2001, author **Peter S. Kastner**, type **white-paper**._
 - Integrated suite recommended for core processes `[ps=4]`
 - Vendor management skill gap in IT `[ps=4]`
 - Future ease of integration promised by XML+OOT `[ps=4]`
+- Common data objects coded differently across point solutions `[ps=4]`
 - Competitive advantage dissipates rapidly as others adopt `[ps=4]`
+- 40% average; up to 70% in some cases `[ps=3]`
 - Best-of-breed cannot deliver durable advantage `[ps=2]`
 - Best-of-breed boom dissipating `[ps=2]`
 - $400 million over 4 years `[ps=0]`
@@ -54,12 +56,10 @@ _Published 2001, author **Peter S. Kastner**, type **white-paper**._
 - 1x license fee `[ps=0]`
 - More than 50% `[ps=0]`
 - Close to software cost (1x) `[ps=0]`
+- 2-3x software cost `[ps=0]`
 - 3-6 months for single point solution `[ps=0]`
 - 16-20 months `[ps=0]`
 - 18-24 months `[ps=0]`
 - Less than 6 months `[ps=0]`
 - Within 1 year of going live `[ps=0]`
 - 7 to 1,500 IT staff; midsize to large `[ps=0]`
-- 40% average; up to 70% in some cases
-- 2-3x software cost
-- Common data objects coded differently across point solutions

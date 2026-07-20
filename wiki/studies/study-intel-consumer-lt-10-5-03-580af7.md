@@ -16,12 +16,12 @@ source_file: "Archive-2/Intel consumer LT 10-5-03.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.72
-prescience_obs_count: 18
+prescience_mean: 1.41
+prescience_obs_count: 22
 ---
 
 # LaGrande Technology — A Proposal: Consumer Market Research for Intel LT
@@ -53,12 +53,12 @@ _Published 2003, author **Peter S. Kastner**, type **expert-report**._
 - North of $150 million annually `[ps=0]`
 - Consumers surveyed on identity theft and privacy concerns when connected to Internet; ongoing basis past year `[ps=0]`
 - At least 6 occasions over last 18 months `[ps=0]`
+- Microsoft in NDA discussions with Aberdeen on related trusted computing technologies `[ps=0]`
+- Intel and Microsoft among TCG members; Aberdeen engaged with multiple members `[ps=0]`
 - US, Japan, Germany, UK, France, China (special), Italy, Canada, Brazil, Mexico `[ps=0]`
+- Q4-2003 start; 90-120 days to completion; focus groups may start Q1-04 `[ps=0]`
 - 3 phases: consumer qualitative, business qualitative, consumer quantitative + tracking `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
+- Demographics, early adopter drivers, ID theft fear, psycho-behavioral attributes by culture/country, pricing, distribution channels `[ps=0]`
 - Concepts discussed at IDF September 2003 `[ps=0]`
 - Face-to-face meeting with Intel within 1-2 weeks to discuss approach `[ps=0]`
-- Microsoft in NDA discussions with Aberdeen on related trusted computing technologies
-- Intel and Microsoft among TCG members; Aberdeen engaged with multiple members
-- Q4-2003 start; 90-120 days to completion; focus groups may start Q1-04
-- Demographics, early adopter drivers, ID theft fear, psycho-behavioral attributes by culture/country, pricing, distribution channels

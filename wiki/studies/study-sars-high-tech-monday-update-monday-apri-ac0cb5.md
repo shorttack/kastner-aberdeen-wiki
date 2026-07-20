@@ -16,12 +16,12 @@ source_file: "SARS-High-Tech-Monday-Update-Monday-April-7-2003.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.4
-prescience_obs_count: 5
+prescience_mean: 1.43
+prescience_obs_count: 7
 ---
 
 # High Tech Monday Update: SARS and the Tech Stock Rally
@@ -41,9 +41,9 @@ _Published 2003, author **Thomson Financial Corporate Group (via PR Newswire)**,
 ## Top observations
 
 - COVID-19 pandemic (2020-2022) caused far greater IT supply-chain disruption than SARS 2003 — factory shutdowns in China, Taiwan, and Malaysia; multi-quarter semiconductor shortages; power-supply and finished-PC backlogs — directly validating Kastner's SARS-era worst-case framing. `[ps=5]`
+- At a minimum, the SARS epidemic will cause schedule slippages and disrupt the aggressive growth plans that global electronics companies have for the affected geographies. `[ps=3]`
 - Worst case, it could result in major supply-chain disruptions and another downdraft for an already challenged industry. `[ps=2]`
 - Motorola was ordered by Singapore officials to temporarily close its factory when an employee developed SARS-like symptoms. `[ps=0]`
+- Intel briefly shut its Hong Kong offices. `[ps=0]`
 - Hewlett-Packard briefly shut its Hong Kong offices. `[ps=0]`
 - Worldwide semiconductor sales fell 3.3% in February 2003 according to the Semiconductor Industry Association. `[ps=0]`
-- At a minimum, the SARS epidemic will cause schedule slippages and disrupt the aggressive growth plans that global electronics companies have for the affected geographies.
-- Intel briefly shut its Hong Kong offices.

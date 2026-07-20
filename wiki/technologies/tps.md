@@ -14,7 +14,7 @@ lifecycle_current: "mature"
 occurrence_count: 1
 prescience_max: 5.0
 prescience_mean: 5.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Transactions Per Second (TPS) metric
@@ -26,4 +26,4 @@ prescience_obs_count: 2
 
 - Transactions Per Second — standard throughput metric defined to enable cross-vendor comparison `[ps=5]` — [[study-tandem-tr-85-2-debitcredit-1985-ca207a]]
 - Whetstones, MIPS, MegaFLOPS, GigaLIPS all focus on CPU — they do not capture TP-system features `[ps=5]` — [[study-tandem-tr-85-2-debitcredit-1985-ca207a]]
-- Paper predicts standard TPS metric will aid system pricing, sales, and purchase — [[study-tandem-tr-85-2-debitcredit-1985-ca207a]]
+- Paper predicts standard TPS metric will aid system pricing, sales, and purchase `[ps=5]` — [[study-tandem-tr-85-2-debitcredit-1985-ca207a]]

@@ -16,12 +16,12 @@ source_file: "EAS-Web-3.doc; Enterprise-Management-4.doc; Kernochan-platform-inf
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.56
-prescience_obs_count: 27
+prescience_mean: 0.54
+prescience_obs_count: 35
 ---
 
 # Aberdeen Group Practice Definitions Compendium — Web/Internal Templates (January 2000)
@@ -40,6 +40,7 @@ _Published 2000, author **Aberdeen Group practice coordinators (multi-author): J
 
 ## Top observations
 
+- e-Business application and Enterprise application markets are the same market — not separate `[ps=4]`
 - push to Internet Application Architectures; continued Integration of Enterprise Application Backbones; moving from Supply Chain Planning to Supply Chain Execution; impacts of ASPs on Application Supplier Business Models and Distribution Strategies `[ps=4]`
 - IT'S THE PROCESS, STUPID — process improvement is real opportunity of e-Business `[ps=3]`
 - strategic market positioning pricing and messaging; go-to-market planning and channel preparation; bullet-proofing sales and marketing programs; primary qualitative market research; development and delivery of street-strength sales training; market-readying and coaching of technology executives; ghost-writing of white papers and speeches; facilitation of end-user focus groups; speaking engagements `[ps=3]`
@@ -47,6 +48,8 @@ _Published 2000, author **Aberdeen Group practice coordinators (multi-author): J
 - EPIC architecture + Windows 2000 + Linux as 2000 disruptive triad `[ps=2]`
 - Lead member of EAS practice team `[ps=0]`
 - Authored four-segment Professional Services taxonomy `[ps=0]`
+- Sole named team member of Enterprise Management practice `[ps=0]`
+- intersection of Web Enterprise Systems Management and Web Infrastructure `[ps=0]`
 - Sole coordinator `[ps=0]`
 - scalability flexibility Web robustness ever-increasing workloads rapid online upgradeability `[ps=0]`
 - Co-coordinator with James Gruener `[ps=0]`
@@ -57,11 +60,8 @@ _Published 2000, author **Aberdeen Group practice coordinators (multi-author): J
 - $728M `[ps=0]`
 - $89M `[ps=0]`
 - $1.1B `[ps=0]`
+- $40M `[ps=0]`
+- $36M `[ps=0]`
 - $5.89B `[ps=0]`
 - $1.3B `[ps=0]`
-- $138M `[ps=0]`
-- Sole author of practice-definition memo To: Peter Kastner January 17 2000 `[ps=0]`
-- $1.0B `[ps=0]`
-- $1.2B `[ps=0]`
-- $0.4B `[ps=0]`
-- Independent Professional Services Suppliers (IPSPs); Independent Software Vendors (ISVs); Original Equipment Manufacturers (OEMs); Resellers and Value-Added Resellers (VARs) `[ps=0]`
+- $188M `[ps=0]`

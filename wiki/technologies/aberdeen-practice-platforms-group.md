@@ -13,8 +13,8 @@ lifecycle_at_study: "launched"
 lifecycle_current: "retired"
 occurrence_count: 1
 prescience_max: 2.0
-prescience_mean: 0.5
-prescience_obs_count: 4
+prescience_mean: 0.4
+prescience_obs_count: 5
 ---
 
 # Aberdeen Platforms Group Practice
@@ -28,4 +28,4 @@ prescience_obs_count: 4
 - Co-coordinator with James Gruener `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - Co-coordinator with Joyce Becknell `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - Enterprise Architectures (servers); Windows 2000/Unix/Linux/IA-64-EPIC/RISC/MAJC platforms; Information appliances; Interconnect (SMP/NUMA/clustering/partitioning); Client Architectures; Workstations/Desktops/Information appliances client-side; Quantitative Platform Research Services `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- Service provider server usage satisfaction and trends; Corporate IT server usage satisfaction and trends; Corporate user and corporate IT client device usage satisfaction and trends; Linux research — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- Service provider server usage satisfaction and trends; Corporate IT server usage satisfaction and trends; Corporate user and corporate IT client device usage satisfaction and trends; Linux research `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]

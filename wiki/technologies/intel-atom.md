@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 3.75
-prescience_obs_count: 4
+prescience_mean: 3.2
+prescience_obs_count: 5
 ---
 
 # Intel Atom
@@ -28,4 +28,4 @@ prescience_obs_count: 4
 - Intel exited smartphone modem business 2019; sold to Apple $1B `[ps=5]` — [[study-otellini-intel-techpinions-2013-917213]]
 - Atom = embedded SoCs, consumer mobile devices, tablets, soon smartphones `[ps=3]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
 - Atom 'soon smartphones' `[ps=2]` — [[study-intel-pulse-check-ia-continuum-2013-3a693f]]
-- Atom + Haswell + 14nm + Infineon will allow Intel to 'stand toe-to-toe' with Qualcomm, nVidia, Samsung in mobile — [[study-otellini-intel-techpinions-2013-917213]]
+- Atom + Haswell + 14nm + Infineon will allow Intel to 'stand toe-to-toe' with Qualcomm, nVidia, Samsung in mobile `[ps=1]` — [[study-otellini-intel-techpinions-2013-917213]]

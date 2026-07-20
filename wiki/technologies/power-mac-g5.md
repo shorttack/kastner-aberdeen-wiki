@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 3.5
-prescience_obs_count: 2
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # Apple Power Mac G5
@@ -26,4 +26,4 @@ prescience_obs_count: 2
 
 - 'Apple will have problems filling G5 orders' but demand will not materially impact overall desktop share `[ps=4]` — [[study-macdailynews-analyst-apple-will-have-pro-54defe]]
 - Mac buyers 'should run, not walk' to check out G5; 'arguably a performance leader' `[ps=3]` — [[study-macdailynews-analyst-apple-will-have-pro-54defe]]
-- USD 1,999 / 2,399 / 2,999 depending on processor speed — [[study-macdailynews-analyst-apple-will-have-pro-54defe]]
+- USD 1,999 / 2,399 / 2,999 depending on processor speed `[ps=0]` — [[study-macdailynews-analyst-apple-will-have-pro-54defe]]

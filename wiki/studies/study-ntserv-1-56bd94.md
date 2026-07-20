@@ -16,12 +16,12 @@ source_file: "NTSERV~1.DOC"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.83
-prescience_obs_count: 18
+prescience_mean: 2.7
+prescience_obs_count: 23
 ---
 
 # Windows NT Server: 1998 Practice Summary
@@ -47,19 +47,19 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 - Windows NT 5.0 to be released sometime in 1999; will add Active Directory `[ps=4]`
 - Alpha holds ~2% of NT server market; reaching 660 MHz by H2 1998; projected 1 GHz by 2000; strong for transaction workloads `[ps=4]`
 - MSCS (Wolfpack) introduced fall 1997; two-node failover only; not full HA; no automatic load balancing `[ps=4]`
+- Dell company to watch in 1998; transitioning from SOHO/SME to enterprise; 8-way rack servers expected by year-end `[ps=4]`
 - Misconception that NT/Intel servers are a Y2K safe harbor is false; require software updates at application/OS/hardware levels `[ps=4]`
+- ~$6 billion in hardware revenue; NT application revenues ~$2 billion `[ps=3]`
 - 50% annual growth for next 4 years; hardware market to grow to $9 billion by 2000 `[ps=3]`
+- Suppliers divided: proprietary >4-way now vs. waiting for Intel standard 8-way chipset; few NT apps exploit multi-threading `[ps=3]`
 - IBM Netfinity (rebranded PC Server) in downward spiral; early 1998 Intel server revenues declining; technology leadership lacking `[ps=3]`
 - HP NetServer line strong in SMP and systems management; 8-way and 16-way architectures in development; co-developing IA-64 with Intel `[ps=3]`
 - Intel microprocessors in >95% of NT servers; IA-32 (Pentium II Xeon for >4-way) and IA-64 (late 1999) roadmap `[ps=3]`
 - NT Server OS shipments to increase 88% in 1998; over 100% in 1999 `[ps=2]`
 - NT remains less robust/scalable/enterprise-ready than mature Unix platforms; second choice for larger mission-critical apps `[ps=2]`
 - NT essentially supports one application per OS copy; keeps NT servers on periphery of larger database environments `[ps=2]`
+- Intel IA-64 (Merced) arriving late 1999; IA-32 to IA-64 conversion likely takes 5+ years `[ps=1]`
+- Itanium shipped June 2001; verify market adoption pace. `[ps=0]`
 - Compaq largest NT/Intel server supplier; ProLiant from entry-level to 4-way and 8-way; direct and indirect model transition `[ps=0]`
 - Digital has largest NT installed base of clustered systems; >1600 certified NT professionals; being acquired by Compaq `[ps=0]`
 - Global Unix application server market $19.6 billion in 1996; projected $40 billion in 2000; 4.5x larger than NT market `[ps=-1]`
-- ~$6 billion in hardware revenue; NT application revenues ~$2 billion
-- Intel IA-64 (Merced) arriving late 1999; IA-32 to IA-64 conversion likely takes 5+ years
-- Itanium shipped June 2001; verify market adoption pace.
-- Suppliers divided: proprietary >4-way now vs. waiting for Intel standard 8-way chipset; few NT apps exploit multi-threading
-- Dell company to watch in 1998; transitioning from SOHO/SME to enterprise; 8-way rack servers expected by year-end

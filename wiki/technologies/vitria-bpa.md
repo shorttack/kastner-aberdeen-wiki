@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "rebranded-Pegasystems"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 2
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # Vitria Business Process Automation (BPA)
@@ -26,4 +26,4 @@ prescience_obs_count: 2
 
 - Vitria's BPA vision aligns with our recent primary research: getting to process excellence by traditional means requires complex, custom, and costly integration of applications `[ps=4]` — [[study-vitria-testimonials-kastner-bpa-soa-rese-93ccae]]
 - Users want better and more timely views into their business processes `[ps=4]` — [[study-vitria-testimonials-kastner-bpa-soa-rese-93ccae]]
-- Goodyear, BP, ALLTEL, KPMG/BearingPoint, MasterBrand, SureWest cited as customers/partners — [[study-vitria-testimonials-kastner-bpa-soa-rese-93ccae]]
+- Goodyear, BP, ALLTEL, KPMG/BearingPoint, MasterBrand, SureWest cited as customers/partners `[ps=0]` — [[study-vitria-testimonials-kastner-bpa-soa-rese-93ccae]]

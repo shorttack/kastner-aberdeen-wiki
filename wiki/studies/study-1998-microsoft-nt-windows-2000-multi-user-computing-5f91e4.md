@@ -16,12 +16,12 @@ source_file: "1998 Microsoft NT:Windows 2000 Multi-User Computing.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.08
-prescience_obs_count: 12
+prescience_mean: 2.67
+prescience_obs_count: 15
 ---
 
 # Microsoft NT/Windows 2000 Multi-User Computing
@@ -48,10 +48,10 @@ _Published 1998, author **Aberdeen Group**, type **market-study**._
 - Windows 2000 positions terminal services as integrated platform feature rather than add-on `[ps=4]`
 - NT 5.0/Windows 2000 will drive significantly increased adoption of multi-user architectures `[ps=4]`
 - Thin-client/server-centric multi-user architectures are now poised to become business-altering competitive weapons `[ps=3]`
+- Multi-user architectures enable managing entire enterprise from a central server `[ps=3]`
 - IS managers must assess systems integration and backward compatibility issues for multi-user deployment `[ps=3]`
 - Aberdeen surveyed dozens of IS managers evaluating NT-based multi-user computing `[ps=0]`
 - IS buyers should evaluate NT multi-user vs. client/server comparative architectural advantages/disadvantages `[ps=0]`
 - NCs, NetPCs, WBTs, servers, networking hardware, Java applications and thin-client enabling technologies all require evaluation `[ps=0]`
-- Multi-user architectures enable managing entire enterprise from a central server
-- Report priced at $895; 90 pages; published April 1999
-- IS managers concerned about investment protection when adopting multi-user NT architecture
+- Report priced at $895; 90 pages; published April 1999 `[ps=0]`
+- IS managers concerned about investment protection when adopting multi-user NT architecture `[ps=0]`

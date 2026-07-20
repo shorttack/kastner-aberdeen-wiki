@@ -13,8 +13,8 @@ successor: "Liquidated January 2009; brand revived as online-only retailer by Sy
 years_active: "1949-2009"
 occurrence_count: 23
 prescience_max: 4.0
-prescience_mean: 0.86
-prescience_obs_count: 7
+prescience_mean: 1.25
+prescience_obs_count: 8
 ---
 
 # Circuit City Stores, Inc.
@@ -29,6 +29,7 @@ prescience_obs_count: 7
 
 ## Top observations
 
+- Challenged by new S&C provider competition `[ps=4]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
 - Threatened; S&C providers have structural advantages over traditional CE channels `[ps=4]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
 - Industry observers say Circuit City also considering private-label addition `[ps=2]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
 - Filed Chapter 11 November 2008; liquidated all US stores March 2009 `[ps=0]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
@@ -36,7 +37,6 @@ prescience_obs_count: 7
 - Circuit City: $100 gift card on AMD desktop and notebook purchases `[ps=0]` — [[study-dct-weekly-2002-12-22-mx]]
 - Circuit City ended great deal on Sony RXA-842 (Athlon 2400+, 512 MB DDR, 80 GB HDD, DVD/CD-RW) at $750 on Saturday; Kastner notes this is the kind of deal expected right after Christmas `[ps=0]` — [[study-dct-weekly-2002-12-22-mx]]
 - Circuit City no longer sells any Sony PCs on its website; all Circuit City AMD Athlon bundled deals include $100 gift cards `[ps=0]` — [[study-dct-weekly-2003-01-19-mx]]
-- Challenged by new S&C provider competition — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
 - Circuit City: $100 gift card after mail-in rebates; 0% interest financing for a year; Kastner expects more incentives as holiday nears — [[study-dct-weekly-2002-12-15-mx]]
 - Circuit City Online features customer reviews on all products; Kastner recommends checking reviews at Circuit City Online, CNet, or Dealtime.com for unbiased critiques before purchase — [[study-dct-weekly-2002-12-30-mx]]
 - All Circuit City AMD Athlon bundled deals include $100 gift cards. Circuit City no longer sells any Sony PCs on its website. — [[study-dct-weekly-2003-01-19]]

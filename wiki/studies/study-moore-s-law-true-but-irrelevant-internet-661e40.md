@@ -16,12 +16,12 @@ source_file: "Moore-s-Law-True-But-Irrelevant-InternetNews.com-9.webarchive"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.67
-prescience_obs_count: 6
+prescience_mean: 3.38
+prescience_obs_count: 8
 ---
 
 # Moore's Law: True But Irrelevant
@@ -44,7 +44,7 @@ _Published 2003, author **David Haskin (InternetNews.com)**, type **news-article
 - Single-thread CPU performance gains slowed meaningfully after ~2005; multi-core and heterogeneous (GPU/NPU) acceleration became primary drivers. Moore's Law as traditionally defined effectively ended c. 2016-2020. `[ps=5]`
 - 'Windows 98 and NT machines are obsolescent. It's pretty provable that workers with those machines can't make use of the productivity improvements in the latest software.' `[ps=4]`
 - Modern PCs routinely run dozens of background processes and, by 2024, on-device AI (Copilot+ PCs) — vindicating Kastner's 2003 prediction. `[ps=4]`
+- 'We recommend that corporate buyers look at Office 2003 because it has better collaboration capabilities that add to productivity.' `[ps=3]`
 - Kastner's argument implies background-workload demand will make CPU performance relevant again on desktop. `[ps=3]`
+- 'Over the long haul, that's penny wise and pound foolish' — warning to IT managers trying to save money by lengthening desktop-PC upgrade cycles. `[ps=2]`
 - 'There isn't software coming out anytime soon that needs more performance on the desktop.' `[ps=1]`
-- 'We recommend that corporate buyers look at Office 2003 because it has better collaboration capabilities that add to productivity.'
-- 'Over the long haul, that's penny wise and pound foolish' — warning to IT managers trying to save money by lengthening desktop-PC upgrade cycles.

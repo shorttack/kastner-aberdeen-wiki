@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Palm Computing Device (PDA)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Significant new niche market; very strong unit sales growth — [[study-dbmspr~1-7c854e]]
+- Significant new niche market; very strong unit sales growth `[ps=0]` — [[study-dbmspr~1-7c854e]]

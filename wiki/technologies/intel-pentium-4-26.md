@@ -12,9 +12,9 @@ era: "2002-2003"
 lifecycle_at_study: "new"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Intel Pentium 4 2.6 GHz
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 2002-08-26 (P4 2.6, 2.66, 2.8 GHz simultaneous release) — [[study-dct-intel-processor-prices-2003-01]]
+- 2002-08-26 (P4 2.6, 2.66, 2.8 GHz simultaneous release) `[ps=0]` — [[study-dct-intel-processor-prices-2003-01]]

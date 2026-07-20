@@ -13,8 +13,8 @@ lifecycle_at_study: "vendor-proprietary"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 3
 prescience_max: 2.0
-prescience_mean: 0.5
-prescience_obs_count: 4
+prescience_mean: 0.33
+prescience_obs_count: 6
 ---
 
 # RAMP-C Benchmark
@@ -26,7 +26,7 @@ prescience_obs_count: 4
 
 - VAX 8830 SMP RAMP-C TP throughput approaches IBM 3090 Model 200E `[ps=2]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
 - Kastner audited the Stratus/IBM proprietary RAMP-C benchmark submission. `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- widely-circulated-and-duplicated-and-verified `[ps=0]` — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]
 - 1 `[ps=0]` — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]
 - anonymous-analyst-said-questionable-aspects `[ps=0]` — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]
-- widely-circulated-and-duplicated-and-verified — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]
-- 2 — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]
+- 2 `[ps=0]` — [[study-wsj-digital-challenges-ibm-tests-bulkele-e2e227]]

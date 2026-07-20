@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.92
-prescience_obs_count: 25
+prescience_mean: 2.0
+prescience_obs_count: 33
 ---
 
 # How To Write A Profile and How To Conduct A RAMP
@@ -40,18 +40,23 @@ _Published 2000, author **Peter S. Kastner / Aberdeen Group**, type **employer-r
 
 ## Top observations
 
+- Kickoff > Primary field research (interviews) > Analysis > Deliverable writing > Client presentation `[ps=4]`
 - Users/prospects/customers of client's technology; typically 10-20 interviews `[ps=4]`
+- One-on-one analyst-client relationship; analyst as trusted advisor `[ps=4]`
 - Open-ended questions; active listening; hypothesis testing; avoid leading questions `[ps=4]`
 - In-depth report on emerging technologies or common end-user problems; educates market on supplier product `[ps=4]`
 - Technology understanding; business analysis; writing; interviewing; client communication; market context `[ps=4]`
 - Aberdeen analyst perspective/opinion publication; shorter than profile; focused on single trend or issue `[ps=4]`
 - Structured agenda; send pre-read; follow up with written summary; document key decisions `[ps=4]`
 - Supplements primary research; never substitutes; used for market context and background `[ps=4]`
+- Telephone interviews; in-person briefings; surveys; trade show intelligence; analyst council input `[ps=4]`
 - Third-party credibility; market positioning; sales force enablement; competitive differentiation `[ps=4]`
 - Fast-moving; confusion-prone; buyer need for trusted third-party guidance; emerging technology cycles `[ps=4]`
+- Executive summary; company overview; product/service review; market positioning; Aberdeen recommendation `[ps=3]`
 - Positive, actionable direction; avoid belittling; translate technology into business benefit language `[ps=3]`
 - Analyst draft > Technical edit > Client fact-check > Aberdeen approval > Publication `[ps=3]`
 - Research report; presentation deck; executive briefing; recommended action plan `[ps=3]`
+- Analysts are primary business developers; relationships lead to consulting revenue `[ps=3]`
 - Monitor Gartner, IDC, Forrester, Meta for conflicting coverage; counter with own analysis `[ps=3]`
 - Objective third-party review of supplier's go-to-market strategy or major product families `[ps=0]`
 - Rapid Accurate Market Positioning — in-depth primary customer and prospect market research and analysis within short time frame `[ps=0]`
@@ -59,9 +64,4 @@ _Published 2000, author **Peter S. Kastner / Aberdeen Group**, type **employer-r
 - $20,000 - $50,000 typical `[ps=0]`
 - Analyst synopsis of how supplier announcement/product intro affects market and supplier future prospects `[ps=0]`
 - Provide objective quotes; background briefings; do not reveal client confidences; maintain analytical independence `[ps=0]`
-- Day 1 (Aberdeen overview, market context); Day 3 (Profile writing, RAMP methodology) `[ps=0]`
-- Maintain analytical independence; client cannot dictate conclusions; may review for factual accuracy only `[ps=0]`
-- Typically 4-8 pages; executive summary 1 page `[ps=0]`
-- Sample representativeness; question neutrality; analysis rigor; actionable recommendations `[ps=0]`
-- Client reprints; Aberdeen website; supplier proposals; analyst council; press briefings `[ps=0]`
-- Technical editing; research database access; competitive intelligence files; marketing support `[ps=0]`
+- Factually accurate; technology placed in business context; recommendations actionable; writing clear and concise `[ps=0]`

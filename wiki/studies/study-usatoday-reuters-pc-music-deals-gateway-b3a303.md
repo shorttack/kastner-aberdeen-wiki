@@ -16,12 +16,12 @@ source_file: "USATODAY.com-More-PC-music-deals-seen-breaking-new-legal-ground.we
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 4
+prescience_mean: 1.67
+prescience_obs_count: 6
 ---
 
 # More PC Music Deals Seen Breaking New Legal Ground
@@ -42,7 +42,7 @@ _Published 2003, author **Reuters (uncredited)**, type **news-article**._
 
 - With Apple shooting off the starting gun the rest of the year will be a catch-up scramble to get product to market and grab Windows PC market share at all costs `[ps=4]`
 - Catch-up scramble to grab Windows PC market share `[ps=4]`
+- I would be surprised if a major PC company was not offering a music service towards the critical Christmas buying season in the fourth quarter `[ps=2]`
 - Legal dispute that threatened to derail Gateway's groundbreaking plan to load music on its computers has been quietly resolved `[ps=0]`
+- Pressplay purchased by Roxio May 2003; to be combined with Napster assets `[ps=0]`
 - Apple and Gateway irked record companies in the past by appearing to promote consumers' right to download songs and burn homemade compilation discs `[ps=0]`
-- I would be surprised if a major PC company was not offering a music service towards the critical Christmas buying season in the fourth quarter
-- Pressplay purchased by Roxio May 2003; to be combined with Napster assets

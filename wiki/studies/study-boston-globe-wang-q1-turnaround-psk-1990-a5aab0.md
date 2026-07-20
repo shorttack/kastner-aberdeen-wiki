@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 3.0
-prescience_mean: 1.0
-prescience_obs_count: 3
+prescience_mean: 0.71
+prescience_obs_count: 7
 ---
 
 # Boston Globe — Wang Labs Q1 turnaround (Jeffrey Krasner; PSK Aberdeen Group quoted, 1990-10)
@@ -41,9 +41,9 @@ _Published 1990, author **Jeffrey Krasner (Boston Globe Staff)**, type **newspap
 ## Top observations
 
 - This is an accomplishment, but the important question is if it can be sustained `[ps=3]`
+- They made real money. Wang should be applauded for coming back from its position in the grave a year ago and reporting some real honest-to-goodness taxable profits. Miller has lived up to his advance billing `[ps=2]`
+- Peter Kastner of The Aberdeen Group, a market-research firm in Boston `[ps=0]`
 - +$0.02 EPS / +$2.6M net income vs -$0.38 EPS / -$62.1M prior year `[ps=0]`
+- Bank-group debt eliminated (down from $575M August 1989) `[ps=0]`
 - Class B +$0.25 to $3.25 (+8%); bonds +$32.50 per $1000 face to $462.50 (+8%); volume 471,200 shares `[ps=0]`
-- Peter Kastner of The Aberdeen Group, a market-research firm in Boston
-- They made real money. Wang should be applauded for coming back from its position in the grave a year ago and reporting some real honest-to-goodness taxable profits. Miller has lived up to his advance billing
-- Bank-group debt eliminated (down from $575M August 1989)
-- PSK endorsement preceded Wang's August 1992 Chapter 11 by 22 months
+- PSK endorsement preceded Wang's August 1992 Chapter 11 by 22 months `[ps=0]`

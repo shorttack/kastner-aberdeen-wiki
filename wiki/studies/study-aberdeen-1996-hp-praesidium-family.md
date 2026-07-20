@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 3.67
-prescience_obs_count: 18
+prescience_mean: 3.55
+prescience_obs_count: 20
 ---
 
 # Hewlett-Packard's Praesidium: A Family of Products To make Business on the Net A Reality
@@ -44,6 +44,7 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - SET protocol was abandoned by 2001; SSL/TLS became the universal payment security standard instead; 3D Secure replaced SET. Aberdeen's implicit preference for flexible crypto frameworks was correct but SET itself failed. `[ps=5]`
 - ImagineCard did not achieve universal adoption; smart card adoption in enterprise remained limited until PKI/FIDO standards era; consumer smart card payments (EMV chip) achieved mainstream adoption but through Visa/Mastercard not HP framework `[ps=5]`
 - Role-and-rules authorization separating identity from back-end; access by app/server/location/time/roles; HA replication; transforms mechanical ACLs into flexible business-logic `[ps=5]`
+- Modular yet integrated security framework: VirtualVault (trusted gateway) + Authorization Server (business-logic) + ICF (crypto framework) + ImagineCard (authentication); business-logic-driven vs mechanical ACL approach `[ps=4]`
 - B1 class SecureWare; protected reference monitor isolates web-server from Intranet resources; roles-based admin eliminating superuser; real-time audit log monitoring; already deployed by Federal banks for Internet banking `[ps=4]`
 - IS executives testing small-scale pilot projects between trading partners; point-solutions found inadequate; internal-commerce-networks physically disconnected from corporate network for security `[ps=4]`
 - Prediction verified: enterprise security market consolidated around integrated frameworks; HP Praesidium products were discontinued but the framework concept prevailed — IAM platforms (RSA, IBM Tivoli, Microsoft IAM) and unified security suites became the industry standard by 2005 `[ps=4]`
@@ -58,5 +59,4 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - ImagineCard may provide features needed for universal adoption as a multi-credential smart card for enterprise and consumer authentication `[ps=2]`
 - HP Praesidium could do for commercial cyber-transactions what vaults did for banks; provides tools for IS executives to secure Intranet and conduct Internet commerce `[ps=2]`
 - ICF resolves national encryption export control impasse; enables per-country crypto policy; protects credentials and message traffic in transit over wire and wireless networks `[ps=2]`
-- Modular yet integrated security framework: VirtualVault (trusted gateway) + Authorization Server (business-logic) + ICF (crypto framework) + ImagineCard (authentication); business-logic-driven vs mechanical ACL approach
-- Designed to resolve national encryption export control impasse; enables enterprises to use politically-approved crypto per political boundary; HP-proposed open standard
+- Designed to resolve national encryption export control impasse; enables enterprises to use politically-approved crypto per political boundary; HP-proposed open standard `[ps=1]`

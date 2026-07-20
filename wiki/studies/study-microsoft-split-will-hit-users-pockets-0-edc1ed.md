@@ -16,12 +16,12 @@ source_file: "Microsoft-split-will-hit-users-pockets-09-Jun-2000-Computing-4.web
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 6
+prescience_mean: 2.25
+prescience_obs_count: 8
 ---
 
 # Microsoft Split Will Hit Users' Pockets
@@ -40,11 +40,11 @@ _Published 2000, author **Linda Leung (Computing UK / vnunet.com)**, type **news
 
 ## Top observations
 
+- Microsoft should open Windows APIs to all developers on equal footing; an independent panel should police compliance — preferable to break-up. `[ps=5]`
 - Kastner analysis implies the remedy imposes costs that will weigh against affirmation; the appellate courts will need to reconsider. `[ps=5]`
 - D.C. Circuit in 2001 unanimously vacated the break-up remedy while largely affirming the underlying antitrust liability; final 2002 consent decree imposed conduct remedies rather than structural break-up. `[ps=5]`
 - $6.8 billion in price hikes over 10 years from the two mini-companies charging separately. `[ps=1]`
+- $43 billion over 10 years including legal costs, restructuring, rebranding, and enterprise integration. `[ps=1]`
 - $20 billion in increased system integration costs for corporate buyers to tie together products from the two companies and third parties. `[ps=1]`
 - Breaking up Microsoft creates 'enormous friction, delay, and uncertainty' in IT adoption; without inter-application integration, consumers and IS professionals face additional costly burdens. `[ps=0]`
 - DOJ proposed splitting Microsoft into separate operating-systems and applications companies; additional remedies included mandatory API disclosure to OEMs and a ban on exclusive arrangements. `[ps=0]`
-- $43 billion over 10 years including legal costs, restructuring, rebranding, and enterprise integration.
-- Microsoft should open Windows APIs to all developers on equal footing; an independent panel should police compliance — preferable to break-up.

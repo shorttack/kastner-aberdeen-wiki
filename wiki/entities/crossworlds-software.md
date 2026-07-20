@@ -12,9 +12,9 @@ status: "acquired"
 successor: "IBM (acquired 2001)"
 years_active: "1995-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # CrossWorlds Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Led EAI market awareness; largest war chest; SAP-to-PeopleSoft integration opportunity — [[study-middle~1-a64fa0]]
+- Led EAI market awareness; largest war chest; SAP-to-PeopleSoft integration opportunity `[ps=0]` — [[study-middle~1-a64fa0]]

@@ -16,12 +16,12 @@ source_file: "SYSTEM~1.DOC"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.35
-prescience_obs_count: 20
+prescience_mean: 2.25
+prescience_obs_count: 24
 ---
 
 # Systems and Network Management: 1998 Practice Summary
@@ -44,15 +44,19 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 - SLA adoption proliferation creates market for innovative point solutions `[ps=5]`
 - majority from third parties; almost all large enterprises augment with home-grown customization `[ps=5]`
 - few enterprises deploy large-scale management without third-party planning and implementation `[ps=4]`
+- senior IS managers and CIOs for enterprise-wide; LOB managers for narrow products `[ps=4]`
 - aggressive and innovative product assaults on aging installed base of previous-generation solutions `[ps=4]`
 - facing limitations as networks evolve rapidly `[ps=4]`
 - 99%+ as minimum standard of acceptable service `[ps=4]`
 - four levels: none / screen-level / event-level / business-centric `[ps=4]`
 - requires massive cultural changes not just additional technology `[ps=4]`
 - critical for success; no supplier can be all things to all organizations `[ps=4]`
+- SPECTRUM network management; Best-of-Breed `[ps=3]`
 - OMEGAMON application performance management; Best-of-Breed `[ps=3]`
 - increasingly price insensitive at high end `[ps=2]`
+- ~20% `[ps=0]`
 - Framework vs. Best-of-Breed `[ps=0]`
+- co-leader of Framework camp `[ps=0]`
 - co-leader of Framework camp `[ps=0]`
 - leader of Best-of-Breed camp `[ps=0]`
 - application management `[ps=0]`
@@ -60,7 +64,3 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 - effective integration, time to value, professional services, product vision `[ps=0]`
 - PATROL; Best-of-Breed camp `[ps=0]`
 - AI pattern recognition first in network management then systems and application management `[ps=-1]`
-- ~20%
-- co-leader of Framework camp
-- senior IS managers and CIOs for enterprise-wide; LOB managers for narrow products
-- SPECTRUM network management; Best-of-Breed

@@ -13,8 +13,8 @@ lifecycle_at_study: "experimental"
 lifecycle_current: "discontinued"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 1.67
-prescience_obs_count: 6
+prescience_mean: 1.25
+prescience_obs_count: 8
 ---
 
 # IBM Deep Blue
@@ -28,7 +28,7 @@ prescience_obs_count: 6
 - IBM decommissioned Deep Blue after 1997 match; technology evolved into HPC research lineage `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
 - 3 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 33 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 3 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 25 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 2 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 25 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
-- 3 — [[study-2026-kastner-enterprise-ai-arc]]
-- 2 — [[study-2026-kastner-enterprise-ai-arc]]

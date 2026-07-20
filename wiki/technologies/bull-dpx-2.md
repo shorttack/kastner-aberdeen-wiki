@@ -12,9 +12,9 @@ era: "1990-1994"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Bull DPX/2
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Bull DPX/2 at ~$450K 5-year lifecycle cost — lowest in comparison — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
+- Bull DPX/2 at ~$450K 5-year lifecycle cost — lowest in comparison `[ps=0]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]

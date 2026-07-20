@@ -12,9 +12,9 @@ era: "1988-1995"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # TPC-A Transaction Benchmark
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP 890-400 has more throughput capability than Hercules' current IBM 3090-200 mainframe — [[study-1993-hercules-sap-28344a]]
+- HP 890-400 has more throughput capability than Hercules' current IBM 3090-200 mainframe `[ps=0]` — [[study-1993-hercules-sap-28344a]]

@@ -16,12 +16,12 @@ source_file: "Archive-1/Copy of HP Camera Lab Journal PROD.doc"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.42
-prescience_obs_count: 12
+prescience_mean: 1.5
+prescience_obs_count: 16
 ---
 
 # Caveat Emptor: HP's Consumer IT Leadership Needs New Focus on Consumers
@@ -41,9 +41,12 @@ _Published 2001, author **Peter S. Kastner**, type **case-analysis**._
 ## Top observations
 
 - Economic law of consumer electronics: cannot afford many support calls and still profit on mass-market products `[ps=5]`
+- A single tech support call costs HP more than the retail price of the camera `[ps=4]`
 - Dissatisfied consumers will go elsewhere for high-tech appliances; HP will lose consumer market share `[ps=4]`
 - Keep instructions simple and predictable; consumer pain tolerance lower than IT professionals `[ps=4]`
 - Programs and devices working with prior Windows may not work under XP; always check support site for XP-specific updates `[ps=4]`
+- HP avowed strategy: lead market in consumer IT including access PCs, imaging, and new CE products `[ps=3]`
+- Consistently high quality photographs over 6 months of use `[ps=0]`
 - ACD See image display software had a missing .dll; unusable as primary image-handler `[ps=0]`
 - HP bundled photo transfer software interferes with Windows XP native camera support; causes photo transfer failure `[ps=0]`
 - HP web site claims XP native support but only works with clean install, not in-place upgrade `[ps=0]`
@@ -52,7 +55,4 @@ _Published 2001, author **Peter S. Kastner**, type **case-analysis**._
 - [UNVERIFIED] `[ps=0]`
 - Fix internal process that facilitated lack-of-instructions fiasco `[ps=0]`
 - Simplify the complex — easy to say, hard to do `[ps=0]`
-- HP avowed strategy: lead market in consumer IT including access PCs, imaging, and new CE products
-- Consistently high quality photographs over 6 months of use
-- A single tech support call costs HP more than the retail price of the camera
-- HP photography web site offers free photo publishing but is hard to find
+- HP photography web site offers free photo publishing but is hard to find `[ps=0]`

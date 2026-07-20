@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 15
 prescience_max: 5.0
-prescience_mean: 1.72
-prescience_obs_count: 18
+prescience_mean: 2.13
+prescience_obs_count: 23
 ---
 
 # CORBA (Common Object Request Broker Architecture)
@@ -30,8 +30,12 @@ prescience_obs_count: 18
 ## Top observations
 
 - Both largely superseded by web services (SOAP/REST) and later microservices; neither CORBA nor DCOM won `[ps=5]` — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
+- CORBA became largely obsolete; never provided mainstream Commercial Messaging `[ps=5]` — [[study-aberdeen-1995-commercial-messaging]]
+- HP did ship ORB+ and CORBA tools for HP-UX in 1996; however HP-UX and SoftBench ecosystem declined through late 1990s as Java and web-based development supplanted C++ toolchain; SoftBench eventually discontinued `[ps=5]` — [[study-aberdeen-1995-hp-softbench]]
 - CORBA and DCOM both largely obsolete by 2005; replaced by XML/SOAP web services and later REST/JSON APIs; the abstraction layer approach InterWorld championed proved correct but manifested differently than 1997 technology battle suggested `[ps=4]` — [[study-1997-commerce-exchange-pvp-250db8]]
+- CORBA declined rapidly by 2000s; superseded by XML web services and REST; Oracle shifted accordingly `[ps=4]` — [[study-aberdeen-1996-oracle-network-computing-architecture]]
 - Major ORBs do not communicate with each other; CORBA and DCOM cannot interoperate `[ps=4]` — [[study-middle~1-a64fa0]]
+- Standardizing types of service requests objects universally provide; object behavior in distributed systems `[ps=4]` — [[study-nti-5-development-toolsets-0e71c5]]
 - 'Object-oriented and Internet-based technology will help to bring down IT ownership costs in the short term, but costs will initially rise... No single request-broker architecture will dominate the industry.' — Kastner `[ps=4]` — [[study-tool-vendors-neglect-intranet-computing--97bde3]]
 - The late 1990s will be dominated by object-oriented software issues. `[ps=3]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - Oracle, BroadVision promoting CORBA; Microsoft pushing DCOM; typical middleware translation gateways create performance hit; Oasis avoids this with neutral abstraction layer `[ps=3]` — [[study-1997-commerce-exchange-pvp-250db8]]
@@ -45,7 +49,3 @@ prescience_obs_count: 18
 - will not provide Commercial Messaging capabilities in near future `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]
 - will not provide Commercial Messaging capabilities in near future `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]
 - HP Distributed Smalltalk (DST) allows building CORBA-compliant Smalltalk systems conforming to OMG CORBA specification using an object request broker `[ps=0]` — [[study-aberdeen-1995-hp-softbench]]
-- Early stage; CORBA work beginning `[ps=0]` — [[study-nti-2-open-systems-1dd3af]]
-- Not until turn of the century (year 2000) `[ps=0]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
-- CORBA became largely obsolete; never provided mainstream Commercial Messaging — [[study-aberdeen-1995-commercial-messaging]]
-- HP did ship ORB+ and CORBA tools for HP-UX in 1996; however HP-UX and SoftBench ecosystem declined through late 1990s as Java and web-based development supplanted C++ toolchain; SoftBench eventually discontinued — [[study-aberdeen-1995-hp-softbench]]

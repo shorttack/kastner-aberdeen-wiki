@@ -14,7 +14,7 @@ lifecycle_current: "mainstream"
 occurrence_count: 1
 prescience_max: 4.0
 prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Directory Services (LDAP/X.500)
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- LDAP and meta-directory fall far short of what is needed `[ps=4]` — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
 - Directory will become repository for desktop/system configs and instrumental in delivering QoS `[ps=4]` — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
-- LDAP and meta-directory fall far short of what is needed — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]

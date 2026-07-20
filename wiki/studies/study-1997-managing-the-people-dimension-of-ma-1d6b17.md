@@ -16,12 +16,12 @@ source_file: "1997 Managing the People Dimension of Major Technology Transitions
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.43
-prescience_obs_count: 14
+prescience_mean: 3.48
+prescience_obs_count: 21
 ---
 
 # Managing the People Dimension of Major Technology Transitions
@@ -40,24 +40,24 @@ _Published 1997, author **Susan Irving**, type **impact-brief**._
 
 ## Top observations
 
+- Education (communication, change management, process training, skills training) consistently named as critical enabler for technology adoption `[ps=5]`
 - Educational investments cut because: difficult to communicate effect of smaller education budget on project outcome `[ps=5]`
+- Most executives found people and process issues far more challenging than technology issues during transitions `[ps=5]`
+- Implicit prediction: change management (people+process dimension) will become a recognized discipline alongside technical project management `[ps=5]`
 - Without training: best case = underutilization; worst case = outright rejection of new system `[ps=4]`
 - Education consistently short-shifted due to cost containment, competitive pressure, and day-to-day operating demands `[ps=4]`
 - Traditional classroom training demand supplanted by universal appeal for on-demand, on-line, real-time, continuous access learning `[ps=4]`
 - Classroom training seen as: too long, not specific enough, overwhelming detail unlikely to be retained `[ps=4]`
 - Respondents demand training tailored to unique project requirements: 'I don't want a least-common-denominator one-size-fits-all approach' `[ps=4]`
 - Prefer local training provider but want consistent global/national/regional delivery capability `[ps=4]`
+- Project managers strongly believe in education value but rarely use ROI measures to demonstrate this to senior management `[ps=4]`
 - Most successful projects implemented disciplined project plans that fully embraced and incorporated education tracks `[ps=4]`
 - Leaders who deferred or eliminated education are 'playing catch up' on the actual technology roll-out `[ps=4]`
 - Aberdeen implicitly predicts on-demand, customized, online training will supplant classroom instruction for enterprise technology transitions `[ps=4]`
 - Prosci ADKAR model (1999), Kotter 8-step model (1996 book), ACMP founded 2011; change management became recognized profession with dedicated certifications and consulting practices worth $10B+ `[ps=4]`
+- Decision-makers require trainers with both educational credentials AND implementation/operational expertise `[ps=3]`
 - E-learning market grew to $35B+ by 2011; corporate LMS market (Cornerstone, SuccessFactors, Saba) became mainstream; LinkedIn Learning, Coursera launched; on-demand fully replaced classroom as primary modality `[ps=3]`
+- 'Humans are built to avoid anxiety so our goal was to get people through the transition with grace and poise' — executive respondent `[ps=3]`
 - HP commissioned Aberdeen interviews with IT executives undergoing major technology transitions, Sep 1996 `[ps=0]`
 - HP engaged Aberdeen to produce research validating HP's training and education services offerings for enterprise technology transitions `[ps=0]`
-- Education (communication, change management, process training, skills training) consistently named as critical enabler for technology adoption
-- Decision-makers require trainers with both educational credentials AND implementation/operational expertise
-- Project managers strongly believe in education value but rarely use ROI measures to demonstrate this to senior management
-- Most executives found people and process issues far more challenging than technology issues during transitions
-- Implicit prediction: change management (people+process dimension) will become a recognized discipline alongside technical project management
-- One-on-one interviews with key project leaders and decision-makers, September 1996; qualitative primary research
-- 'Humans are built to avoid anxiety so our goal was to get people through the transition with grace and poise' — executive respondent
+- One-on-one interviews with key project leaders and decision-makers, September 1996; qualitative primary research `[ps=0]`

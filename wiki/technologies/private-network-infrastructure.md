@@ -14,7 +14,7 @@ lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 2.0
 prescience_mean: 2.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Private Network Infrastructure
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Uniquely used by WebEx; ideally suited for live data-rich business communications `[ps=2]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
-- Utility-grade conferencing infrastructure as competitive moat — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]
+- Utility-grade conferencing infrastructure as competitive moat `[ps=2]` — [[study-2002-webex-taking-conferencing-to-the-business-communic-85e330]]

@@ -14,7 +14,7 @@ lifecycle_current: "Legacy (IBM Informix)"
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Informix Universal Server
@@ -24,8 +24,8 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- 25 DataBlade modules available `[ps=0]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
 - Informix Universal Server combines RDBMS with object-relational DataBlade extensions `[ps=0]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
-- 25 DataBlade modules available — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
 - Phil White (CEO): 'Informix redefines database performance, extending it into new dimensions' — [[study-informix-universal-server-launch-object-relational-fb2cd4]]
 - Shipped to 20-30 customers Sept 30 1996; general availability today (Dec 1996); 'twelve to eighteen months ahead of anybody in the industry' — [[study-informix-universal-server-launch-object-relational-fb2cd4]]
 - Colton + Simmons: Universal Server completes telecom billing-discount query in 6 sec vs ~60 sec on middleware (~10x faster, 'not even using CORBA') — [[study-informix-universal-server-launch-object-relational-fb2cd4]]

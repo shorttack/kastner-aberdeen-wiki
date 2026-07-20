@@ -13,8 +13,8 @@ lifecycle_at_study: "mature-EOL-approaching"
 lifecycle_current: "Windows NT 3.5 end of life 2001; NT kernel architecture evolved through Windows 2000, XP, and into all modern Windows versions."
 occurrence_count: 44
 prescience_max: 5.0
-prescience_mean: 2.4
-prescience_obs_count: 107
+prescience_mean: 2.41
+prescience_obs_count: 135
 ---
 
 # Windows NT Server/Workstation
@@ -35,6 +35,7 @@ prescience_obs_count: 107
 - Windows NT Server unit shipments grew 80% in 1997 (1.3M units vs 732K in 1996); NT became leading server OS by 1998 `[ps=5]` — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
 - NT complexities and shortcomings in scalability; stability; systems management; storage management; security; and directory/domain services drive professional services demand `[ps=5]` — [[study-1998-nt-professional-services-buying-guide-1998-edition-14e452]]
 - DEC acquired by Compaq January 26 1998 for $9.6B — the largest computer merger at the time; DEC's NT Professional Services became Compaq Professional Services `[ps=5]` — [[study-1998-nt-professional-services-buying-guide-1998-edition-14e452]]
+- Data General acquired by EMC Corporation October 1999 for $1.1B `[ps=5]` — [[study-1998-nt-professional-services-buying-guide-1998-edition-14e452]]
 - NT Server's growing role in enterprise and relative decline of other NOS suppliers making IS decisions urgent and strategic `[ps=5]` — [[study-1999pr~2-cd0049]]
 - Stated NT leadership commitment but protecting HP/UX Unix base; no plans for NT on PA-RISC; will await HP/Intel combined chip for enterprise NT `[ps=5]` — [[study-aberdeen-1996-digital-leading-nt-across-enterprise-charge]]
 - Digital acquired by Compaq January 1998 for $9.6B; Digital's NT product line and expertise absorbed into Compaq; independent NT market leadership not achieved `[ps=5]` — [[study-aberdeen-1996-digital-leading-nt-across-enterprise-charge]]
@@ -48,4 +49,3 @@ prescience_obs_count: 107
 - _**“95% of Fortune 1000 Will Have Intranets By 2000” -- Forrester**_ `[ps=5]` — [[study-infrastructure-speech-7f6c5b]]
 - PC approaches workstation in client-server/multiuser; BEST vs BEST in application software `[ps=5]` — [[study-nti-3-pc-and-ws-1993-17d49b]]
 - No tidal wave transition until 1995 `[ps=5]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
-- NT Advanced Server sweeps up from workgroup toward enterprise; ISVs eyeing NT as next step `[ps=5]` — [[study-software-market-safegu~1-ea7453]]

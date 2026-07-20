@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream"
 lifecycle_current: "discontinued"
 occurrence_count: 6
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 10
+prescience_mean: 4.27
+prescience_obs_count: 11
 ---
 
 # Palm OS / Garnet OS
@@ -39,4 +39,4 @@ prescience_obs_count: 10
 - leading first-gen PDA vendor needing wireless upgrade `[ps=4]` — [[study-2002-second-generation-pdas-it-s-high-time-for-wireless-c6563f]]
 - Market leader in PDA OS at risk from Pocket PC momentum `[ps=4]` — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
 - Acquired by HP for $1.2 billion in 2010; webOS discontinued `[ps=4]` — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
-- Windows PDAs will go mainstream next year, replacing Palm-based devices — [[study-dct-hp-compaq-pcs-insight-2001-09]]
+- Windows PDAs will go mainstream next year, replacing Palm-based devices `[ps=2]` — [[study-dct-hp-compaq-pcs-insight-2001-09]]

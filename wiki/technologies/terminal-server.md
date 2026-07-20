@@ -12,9 +12,9 @@ era: "1998-present"
 lifecycle_at_study: "mainstream"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Windows Terminal Server
@@ -22,4 +22,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Add Terminal Server support to drive Mira tablets and MS remote controls — [[study-dct-microsoft-homestation-notes-2002]]
+- Add Terminal Server support to drive Mira tablets and MS remote controls `[ps=4]` — [[study-dct-microsoft-homestation-notes-2002]]

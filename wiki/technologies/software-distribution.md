@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "evolved-to-package-mgmt"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Software Distribution
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Software Distribution — mid ROI tier — [[study-kastner-sipp-pc-lifecycle-dynamics-2003-4395fd]]
+- Software Distribution — mid ROI tier `[ps=0]` — [[study-kastner-sipp-pc-lifecycle-dynamics-2003-4395fd]]

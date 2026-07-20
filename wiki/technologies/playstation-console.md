@@ -12,9 +12,9 @@ era: "1994-"
 lifecycle_at_study: "mature"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Sony PlayStation (console line)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- All moving to PRC — [[study-2003-sars-electronics-supply-chain-ec0375]]
+- All moving to PRC `[ps=4]` — [[study-2003-sars-electronics-supply-chain-ec0375]]

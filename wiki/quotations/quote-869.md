@@ -1,6 +1,7 @@
 ---
 title: Quote 869 — Computerworld (1989-04-03)
 type: quotation
+page_type: quotation
 slug: quote-869
 row_id: 869
 author: "Peter S. Kastner"

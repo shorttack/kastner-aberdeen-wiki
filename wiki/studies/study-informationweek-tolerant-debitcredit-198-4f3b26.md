@@ -16,12 +16,12 @@ source_file: "Debit-Credit-Tolerant-1986-6-9.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
-prescience_max: 4.0
-prescience_mean: 1.38
-prescience_obs_count: 8
+prescience_max: 5.0
+prescience_mean: 1.91
+prescience_obs_count: 11
 ---
 
 # Competitors Find Fault With Tolerant's Performance Claim — Tandem, Stratus argue Eternity performance figures
@@ -40,14 +40,14 @@ _Published 1986, author **Paul E. Schindler Jr. (InformationWEEK staff)**, type 
 
 ## Top observations
 
+- Tandem is OLTP fault-tolerant 'market leader' in 1986 `[ps=5]`
+- Tolerant Systems exited the FT computing business by end of 1980s; failed to gain traction against Tandem and Stratus `[ps=5]`
 - Serlin recommends users run their own benchmarks with transactions of the type they expect to use `[ps=4]`
 - Stratus is 'distant second-place competitor' to Tandem in OLTP fault tolerance `[ps=4]`
 - TP1/ET1 measurements are 'at best ambiguous and always the subject of intense controversy' `[ps=3]`
+- $23,800 per TPS (per Tolerant); claimed beats Tandem ($42,200) and Stratus ($68,700) `[ps=0]`
 - $20,800 per TPS using internal Tandem figures with configurations more comparable to Tolerant `[ps=0]`
 - $23,100 per TPS per Stratus internal figures published by Serlin `[ps=0]`
 - 7 customers own the 24 systems Tolerant has sold so far `[ps=0]`
 - Release 5.0 enables multiple SBBs to be combined into systems with both linear expandability and fault tolerance `[ps=0]`
 - Major vendors that have invested in Tolerant plan to be its resellers (per marketing director Shirley Henry); only exceptions: a few technically sophisticated end users `[ps=0]`
-- $23,800 per TPS (per Tolerant); claimed beats Tandem ($42,200) and Stratus ($68,700)
-- Tandem is OLTP fault-tolerant 'market leader' in 1986
-- Tolerant Systems exited the FT computing business by end of 1980s; failed to gain traction against Tandem and Stratus

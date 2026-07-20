@@ -14,7 +14,7 @@ lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Bull Escala
@@ -26,4 +26,4 @@ prescience_obs_count: 2
 
 - Single 6-8 processor node; supports up to 2,000 PC clients; suited for prototyping and development `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - Two-node system; 12-16 processors; supports up to 3,000 PC clients; Aberdeen's recommended production system `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
-- Four-node FDDI-interconnected; up to 32 PowerPC processors; supports up to 5,000 users; very large databases — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
+- Four-node FDDI-interconnected; up to 32 PowerPC processors; supports up to 5,000 users; very large databases `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]

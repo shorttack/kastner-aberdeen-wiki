@@ -13,8 +13,8 @@ lifecycle_at_study: "early-growth"
 lifecycle_current: "dominant"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 2
+prescience_mean: 4.33
+prescience_obs_count: 3
 ---
 
 # Electronic Health Records (EHR)
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - HITECH Act 2009 mandated EHR meaningful use; Epic and Cerner dominated market `[ps=5]` — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]
+- Public-private key auth, digital signatures, bank balances `[ps=4]` — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]
 - 3 factors: understaffed IS, ISV credibility gap, care-provider organizational transition `[ps=4]` — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]
-- Public-private key auth, digital signatures, bank balances — [[study-1997-digital-&-oracle-s-nci--partners-in-2d680c]]

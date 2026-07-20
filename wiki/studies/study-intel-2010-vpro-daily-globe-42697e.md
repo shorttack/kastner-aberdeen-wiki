@@ -16,12 +16,12 @@ source_file: "Archive-2/Intel 2010 vPro Daily Globe.rtf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.63
-prescience_obs_count: 19
+prescience_mean: 0.83
+prescience_obs_count: 23
 ---
 
 # 2010 Business Computers Leave the Starting Gate
@@ -43,6 +43,8 @@ _Published 2010, author **Peter S. Kastner**, type **expert-report**._
 - Out-of-band; works even when OS is down `[ps=4]`
 - Remote lock + re-enrollment of recovered device `[ps=4]`
 - Ecosystem-based; VMware, Symantec, Citrix, Microsoft partners `[ps=4]`
+- Lost/stolen notebooks with encrypted drives eliminate data liability `[ps=4]`
+- Reduced overhead for secure VPN `[ps=3]`
 - February 4, 2010 `[ps=0]`
 - 32nm `[ps=0]`
 - up to 90% of a full core `[ps=0]`
@@ -52,6 +54,7 @@ _Published 2010, author **Peter S. Kastner**, type **expert-report**._
 - Yes — AES-NI `[ps=0]`
 - High likelihood `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
+- $500 to $2,500+ `[ps=0]`
 - Widespread adoption by large companies `[ps=0]`
 - Small and medium-sized businesses (SMB) `[ps=0]`
 - T series, W510 notebooks, ThinkCentre M90 desktop `[ps=0]`
@@ -59,7 +62,4 @@ _Published 2010, author **Peter S. Kastner**, type **expert-report**._
 - Elitebook 8540p, 8440p, HP Compaq Elite 8100 `[ps=0]`
 - Less than $1,000 `[ps=0]`
 - Spend smart, do more, be more secure `[ps=0]`
-- $500 to $2,500+
-- 30-45 days from launch date
-- Reduced overhead for secure VPN
-- Lost/stolen notebooks with encrypted drives eliminate data liability
+- 30-45 days from launch date `[ps=0]`

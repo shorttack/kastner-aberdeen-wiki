@@ -12,9 +12,9 @@ era: "2008-present"
 lifecycle_at_study: "not-yet-invented"
 lifecycle_current: "dominant-standard"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # HTML5 / JavaScript (successor technology)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Interactive ROI/TCO tools survived and thrived as SaaS-based web applications built in HTML5/JavaScript; Gartner Forrester and vendor marketing teams now standard users of interactive assessment tools — [[study-maxtor-flash-demo-2003]]
+- Interactive ROI/TCO tools survived and thrived as SaaS-based web applications built in HTML5/JavaScript; Gartner Forrester and vendor marketing teams now standard users of interactive assessment tools `[ps=4]` — [[study-maxtor-flash-demo-2003]]

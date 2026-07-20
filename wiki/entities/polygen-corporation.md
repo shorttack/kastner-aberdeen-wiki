@@ -12,9 +12,9 @@ status: "[DEFERRED]"
 successor: "Merged with Molecular Simulations Inc."
 years_active: "1980s-1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Polygen Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Polygen announced port of product line to IBM PC RT workstation — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- Polygen announced port of product line to IBM PC RT workstation `[ps=0]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]

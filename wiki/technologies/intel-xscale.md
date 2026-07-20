@@ -14,7 +14,7 @@ lifecycle_current: "end-of-life"
 occurrence_count: 3
 prescience_max: 5.0
 prescience_mean: 3.0
-prescience_obs_count: 2
+prescience_obs_count: 4
 ---
 
 # Intel XScale ARM-based mobile processor
@@ -25,6 +25,6 @@ prescience_obs_count: 2
 ## Top observations
 
 - Intel sold XScale ARM-based mobile processor business to Marvell for $600M in Jun 2006, exiting the merchant ARM mobile market — paralleling Kastner's 'market is fairly difficult' thesis. Intel focused on x86 Atom for mobile (2008+) which also ultimately failed against Qualcomm/ARM. `[ps=5]` — [[study-technology-news-hardware-samsung-unveils-e689dd]]
+- Intel sold the XScale ARM processor business to Marvell Technology in June 2006 for $600M, abandoning the ARM strategy Kastner had highlighted. Intel remained committed to x86; Hudson fab continued x86 production. `[ps=4]` — [[study-remarks-of-peter-kastner-to-the-massachu-96335b]]
+- IBM is fighting chip giant Intel's two powerhouse processor architectures, x86 and x-Scale, seeking to provide silicon for the next generation of mostly-consumer devices — cell phones, set-top boxes and cameras. `[ps=2]` — [[study-technology-news-hardware-ibm-opens-custo-7fdf18]]
 - Intel is building a whole new multi-billion dollar xScale business around the ARM-architecture microprocessors manufactured in the old Digital Equipment plant in Hudson. `[ps=1]` — [[study-remarks-of-peter-kastner-to-the-massachu-96335b]]
-- Intel sold the XScale ARM processor business to Marvell Technology in June 2006 for $600M, abandoning the ARM strategy Kastner had highlighted. Intel remained committed to x86; Hudson fab continued x86 production. — [[study-remarks-of-peter-kastner-to-the-massachu-96335b]]
-- IBM is fighting chip giant Intel's two powerhouse processor architectures, x86 and x-Scale, seeking to provide silicon for the next generation of mostly-consumer devices — cell phones, set-top boxes and cameras. — [[study-technology-news-hardware-ibm-opens-custo-7fdf18]]

@@ -16,12 +16,12 @@ source_file: "Samsung-Unveils-Fastest-Mobile-CPU-on-the-Market.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 4.0
-prescience_mean: 2.67
-prescience_obs_count: 3
+prescience_max: 5.0
+prescience_mean: 3.4
+prescience_obs_count: 5
 ---
 
 # Samsung Unveils Fastest Mobile CPU on the Market (S3C2440 ARM920T)
@@ -40,8 +40,8 @@ _Published 2004, author **TechNewsWorld staff (repost at great7booksgendocs.blog
 
 ## Top observations
 
+- By 2020, ARM-based SoCs dominated 99%+ of smartphones globally; Apple M1 (2020) extended ARM dominance into PC/Mac; Arm Ltd. went public on Nasdaq in September 2023 at a $54.5B valuation. `[ps=5]`
 - The new CPU will speed and enhance handheld functions, such as encrypting e-mail and compressing digital images. `[ps=4]`
 - Samsung may have difficulty getting the new processor into phones and PDAs unless it is persistent. Breaking into this market is technically hard. `[ps=4]`
+- Samsung launched the Exynos application-processor family in 2011, achieving Tier-1 status in mobile SoCs — validating long-term ARM mobile-CPU competition thesis, though requiring ~7 additional years beyond S3C2440 to reach volume success in phones. `[ps=4]`
 - 32-bit RISC microprocessor using Samsung ARM920T core, 533 MHz clock, 0.13-micron process, 1.3V core voltage, Advanced Microcontroller Bus Architecture `[ps=0]`
-- Samsung launched the Exynos application-processor family in 2011, achieving Tier-1 status in mobile SoCs — validating long-term ARM mobile-CPU competition thesis, though requiring ~7 additional years beyond S3C2440 to reach volume success in phones.
-- By 2020, ARM-based SoCs dominated 99%+ of smartphones globally; Apple M1 (2020) extended ARM dominance into PC/Mac; Arm Ltd. went public on Nasdaq in September 2023 at a $54.5B valuation.

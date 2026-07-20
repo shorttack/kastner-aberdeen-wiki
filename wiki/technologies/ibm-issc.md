@@ -12,9 +12,9 @@ era: "1991-1996"
 lifecycle_at_study: "mature"
 lifecycle_current: "absorbed-into-igs"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM ISSC (Integrated Systems Solutions Corp)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM services revenue will continue growing as enterprise outsourcing matures; IBM GTS will be largest IT services firm — [[study-2026-kastner-ibm-longitudinal]]
+- IBM services revenue will continue growing as enterprise outsourcing matures; IBM GTS will be largest IT services firm `[ps=4]` — [[study-2026-kastner-ibm-longitudinal]]

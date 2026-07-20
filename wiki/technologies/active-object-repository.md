@@ -12,9 +12,9 @@ era: "1996-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Active Object Repository
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Maintains business object methods shared across multiple application suites; combined with multi-level workflow for process models — [[study-aberdeen-1997-lawson-insight-process-orientation-business-management]]
+- Maintains business object methods shared across multiple application suites; combined with multi-level workflow for process models `[ps=3]` — [[study-aberdeen-1997-lawson-insight-process-orientation-business-management]]

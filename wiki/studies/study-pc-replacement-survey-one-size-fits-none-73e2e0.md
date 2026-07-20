@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.89
-prescience_obs_count: 9
+prescience_mean: 2.36
+prescience_obs_count: 11
 ---
 
 # PC Replacement Survey: One Size Fits None
@@ -47,7 +47,7 @@ _Published 2003, author **Peter S. Kastner (Aberdeen Group / InternetWeek)**, ty
 - The schedule is 36 months (desktops), converging with ~42 months for laptops. `[ps=3]`
 - Industries with the stingiest Yankees are healthcare and retail. Manufacturing is around the average, and financial services and - gasp - governments are least likely to wait for something to go wrong. `[ps=3]`
 - Global corporate PC spending recovered strongly 2004-2007; 3-year replacement cycle became the de facto corporate standard through the 2010s. `[ps=3]`
+- By Peter Kastner, the Aberdeen Group (InternetWeek); EVP and Chief Research Officer for the Consumer Digital Technology Practice at Aberdeen Group. `[ps=0]`
+- Aberdeen/InternetWeek survey completed by over 250 readers managing about 750,000 business PCs; top-10 respondents manage over 550,000 users. `[ps=0]`
 - Six deals of 10,000+ PCs totaling 70,000 PCs were done in the last twelve months. `[ps=0]`
 - Three companies are now buying 30,000 PCs each and another handful of big orders bring the forward-looking total to 160,000. `[ps=0]`
-- By Peter Kastner, the Aberdeen Group (InternetWeek); EVP and Chief Research Officer for the Consumer Digital Technology Practice at Aberdeen Group.
-- Aberdeen/InternetWeek survey completed by over 250 readers managing about 750,000 business PCs; top-10 respondents manage over 550,000 users.

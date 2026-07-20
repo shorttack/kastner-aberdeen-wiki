@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Active (data lakehouse partially replaced)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Data Mart
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Routine large-scale decision support access requires RDBMS foundation with scalability — [[study-1997-informix-metacube-4.0--relational-o-23491d]]
+- Routine large-scale decision support access requires RDBMS foundation with scalability `[ps=4]` — [[study-1997-informix-metacube-4.0--relational-o-23491d]]

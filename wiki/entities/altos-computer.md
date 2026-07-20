@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Acer (1990)"
 years_active: "1977-1990"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Altos Computer Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- LXN is an Altos 3068-based product resold by Tandem — 'unprecedented reselling of another company's product' — [[study-stratus-sales-support-competitive-news-1-2aac8d]]
+- LXN is an Altos 3068-based product resold by Tandem — 'unprecedented reselling of another company's product' `[ps=2]` — [[study-stratus-sales-support-competitive-news-1-2aac8d]]

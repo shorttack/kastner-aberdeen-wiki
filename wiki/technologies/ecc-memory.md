@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'ECC memory is actively used in servers, workstations, and increasingly in desktop systems (AMD Ryzen AM5 and Intel W680). ECC Memory market valued at $12.64B in 2024 with 6.6% CAGR.', 'source': 'https://www.maximizemarketresearch.com/market-report/ecc-memory-market/63727/'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # ECC Memory (Error-Correcting Code)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 4x increase in 3 years — [[study-intel-ia2004-pk4-kc-edits-de9c37]]
+- 4x increase in 3 years `[ps=0]` — [[study-intel-ia2004-pk4-kc-edits-de9c37]]

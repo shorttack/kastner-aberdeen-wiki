@@ -16,12 +16,12 @@ source_file: "DEC-Bill-Steul-leaves-CFO-1994-5-11.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.11
-prescience_obs_count: 9
+prescience_mean: 0.91
+prescience_obs_count: 11
 ---
 
 # Digital Equipment Loses Another of Its Top Officials (DEC CFO William Steul resigns)
@@ -48,6 +48,6 @@ _Published 1994, author **Glenn Rifkin (The New York Times)**, type **national-p
 - Edward McDonough (DEC manufacturing VP) — DEC said this was a planned retirement `[ps=0]`
 - Winston Hindle (DEC VP quality/ethics/business practices) — DEC said this was a planned retirement `[ps=0]`
 - Palmer 'conceded he had been caught by surprise by the severity of the loss' `[ps=0]`
+- Steul 'had stepped into a job that nobody in the company wanted' `[ps=0]`
 - Romano was former DEC finance manager and market research director — gave him deep insight into the political vacuum at DEC corporate finance `[ps=0]`
-- Steul 'had stepped into a job that nobody in the company wanted'
-- Analysts speculated Steul might have been a victim of the loss debacle as Palmer sought stronger financial leadership
+- Analysts speculated Steul might have been a victim of the loss debacle as Palmer sought stronger financial leadership `[ps=0]`

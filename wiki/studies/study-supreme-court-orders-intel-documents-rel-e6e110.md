@@ -16,12 +16,12 @@ source_file: "Supreme-Court-Orders-Intel-Documents-Released-InternetNews.com.web
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.8
-prescience_obs_count: 5
+prescience_mean: 2.0
+prescience_obs_count: 8
 ---
 
 # Supreme Court Orders Intel Documents Released
@@ -43,8 +43,8 @@ _Published 2004, author **Michael Singer, InternetNews.com**, type **news-articl
 - The European Commission fined Intel €1.06 billion on May 13 2009 for abuse of dominance — the culmination of the investigation that the 2004 Supreme Court ruling helped enable with access to US-held documents. `[ps=5]`
 - ZF Automotive US Inc. v. Luxshare (2022) narrowed Intel v. AMD by holding that §1782 does not apply to private commercial arbitrations — though it continues to apply to foreign government/administrative investigations of the kind Kastner flagged. `[ps=5]`
 - InternetNews.com was acquired into QuinStreet 2009 and the standalone site was later wound down as QuinStreet consolidated IT news brands; the Jun 21 2004 article survives primarily via webarchive. `[ps=5]`
+- There are broad and troubling ramifications to this decision for multinational companies who have competitors — which includes all the large tech companies. `[ps=2]`
+- This is an oddball legal situation where the EU has not requested documents from a sealed Alabama litigation, but AMD wants a California court to force their disclosure anyway. The Supreme Court now says California gets to decide what is disclosed to Europe. `[ps=0]`
 - Supreme Court ruled 7-1 (Breyer dissenting, O'Connor not participating) to dismiss Intel's petition and uphold the Ninth Circuit order forcing release of some 600,000 pages of Intel documents to the European Commission for its antitrust investigation. `[ps=0]`
+- Intel had roughly 80 percent of the market for chips that run personal computers and 90 percent of worldwide revenue share as of mid-2004; AMD held about 16.8 percent market share. `[ps=0]`
 - EU General Court partially annulled the Intel fine on January 26 2022, finding procedural defects in the Commission's analysis of Intel's rebate practices; case remains ongoing into 2025. `[ps=-1]`
-- This is an oddball legal situation where the EU has not requested documents from a sealed Alabama litigation, but AMD wants a California court to force their disclosure anyway. The Supreme Court now says California gets to decide what is disclosed to Europe.
-- There are broad and troubling ramifications to this decision for multinational companies who have competitors — which includes all the large tech companies.
-- Intel had roughly 80 percent of the market for chips that run personal computers and 90 percent of worldwide revenue share as of mid-2004; AMD held about 16.8 percent market share.

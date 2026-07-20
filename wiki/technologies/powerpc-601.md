@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 4.0
+prescience_obs_count: 2
 ---
 
 # PowerPC 601 Processor
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - PowerPC 600 will not be leading the industry for many years `[ps=5]` — [[study-ibm-rs6000-midran~1-88f049]]
-- Confirmed — PowerPC 601 was first-gen with known limitations; IBM rapidly improved with Power2/Power3; RS/6000 line thrived — [[study-ibm-rs6000-midran~1-88f049]]
+- Confirmed — PowerPC 601 was first-gen with known limitations; IBM rapidly improved with Power2/Power3; RS/6000 line thrived `[ps=3]` — [[study-ibm-rs6000-midran~1-88f049]]

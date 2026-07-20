@@ -12,9 +12,9 @@ era: "1994-2001"
 lifecycle_at_study: "Active/forthcoming release"
 lifecycle_current: "Discontinued (IBM acquired Informix 2001)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Informix MetaCube 4.0
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Forthcoming release leveraging Informix DSA — [[study-1997-informix-metacube-4.0--relational-o-23491d]]
+- Forthcoming release leveraging Informix DSA `[ps=0]` — [[study-1997-informix-metacube-4.0--relational-o-23491d]]

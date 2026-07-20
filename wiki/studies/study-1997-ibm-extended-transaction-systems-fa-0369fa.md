@@ -16,12 +16,12 @@ source_file: "1997 IBM Extended Transaction Systems Family pr.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.74
-prescience_obs_count: 19
+prescience_mean: 2.88
+prescience_obs_count: 25
 ---
 
 # IBM Extended Transaction Systems Family
@@ -41,14 +41,19 @@ _Published 1997, author **Aberdeen Group**, type **Profile**._
 ## Top observations
 
 - Sold by IBM to HCL for $1.8B; lost collaboration market to Microsoft 365 `[ps=5]`
+- Assured once-and-only-once delivery with connection independence `[ps=5]`
 - Internet/Intranet adding new TP patterns for e-commerce `[ps=5]`
 - Most popular TP monitor worldwide `[ps=4]`
 - Very-large-database data-warehousing proven `[ps=4]`
+- Migration path for IBM mainframe shops to network computing `[ps=4]`
 - Will add third-party and IBM tools for ORBs and commercial-messaging applications `[ps=4]`
 - Will continue integrating products and development tools with the Internet `[ps=4]`
 - Java application servers (WebSphere, JBoss, WebLogic) confirmed TP-monitor pattern at Internet scale `[ps=4]`
+- CICS Gateway for Java; Web and Lotus Notes integration `[ps=4]`
 - Large data types up to 2 GB; Relational Extenders for complex types `[ps=4]`
+- Covers both IBM and non-IBM sites via open middleware interoperability `[ps=4]`
 - IMS accessible via Web browser through Internet Connection Server / MQSeries gateway `[ps=4]`
+- Most-used mainframe DBMS `[ps=3]`
 - Web servers creating scalability bottlenecks `[ps=3]`
 - Will extend multimedia capabilities for Web-site and Internet needs `[ps=3]`
 - DB2 UDB shipped with extensive multimedia/XML/Extender support `[ps=3]`
@@ -56,12 +61,7 @@ _Published 1997, author **Aberdeen Group**, type **Profile**._
 - TP-monitor middleware most critical to Internet architecture scalability `[ps=2]`
 - Unix, OS/2, Windows NT, Digital VAX, MVS/ESA servers; Unix/DOS/OS/2/Win95/NT clients `[ps=0]`
 - Performance approaching RPC `[ps=0]`
+- Most popular LAN groupware product `[ps=0]`
 - Renamed and expanded; ORB integrations added `[ps=0]`
 - Encina removed from TXSeries V6.1 in 2006 `[ps=0]`
 - CICS TS 6.3 released September 2025; actively developed with Jakarta EE 10, Spring Boot 3 support `[ps=0]`
-- Most popular LAN groupware product
-- Most-used mainframe DBMS
-- Migration path for IBM mainframe shops to network computing
-- Assured once-and-only-once delivery with connection independence
-- CICS Gateway for Java; Web and Lotus Notes integration
-- Covers both IBM and non-IBM sites via open middleware interoperability

@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.75
-prescience_obs_count: 16
+prescience_mean: 3.73
+prescience_obs_count: 22
 ---
 
 # How Aberdeen Sees the Storage Pyramid Evolving
@@ -42,9 +42,13 @@ _Published 2002, author **David Hill, Aberdeen Group**, type **market-study**._
 
 - Ageing (value/use change as content ages); Freezing (changes from dynamic to fixed); Accumulation (very little old data discarded); Redundancy (more and more copies made) `[ps=5]`
 - Content access follows Zipf's Law: frequency of access follows power law distribution from most to least frequently accessed `[ps=5]`
+- Some analysts say tape is dead; Aberdeen position: there is a place for everything and everything in its place; tape meets streaming data demand `[ps=5]`
+- ATA disk growing to serve active archiving and data protection functions as prices decline relative to FC/SCSI `[ps=5]`
 - RAM-related (memory/solid state/disk cache); High Performance Disk (FC/SCSI); Cost-Effective Disk (ATA); Tape `[ps=4]`
 - Key to change is not only price but impact upon IS processes skill sets and organizational structure `[ps=4]`
 - Data: bits forming bit stream; Information: organized bits a person can recognize; Content: information used for some purpose (decision-making understanding enjoyment) `[ps=4]`
+- Structured (database); Semi-structured (text documents); Unstructured (bitmaps) `[ps=4]`
+- Structured: Sort; Semi-structured: Search; Unstructured: Sense `[ps=4]`
 - Content (along with its distribution) is the long-term competitive differentiator; only one company owns its customer and product history data `[ps=4]`
 - Conception/birth (read/write limited); Youth (high read access); Middle age (infrequent access); Old age (flatlined usage) `[ps=4]`
 - Not all content even of same type ages the same; medical image quickly goes to middle age; video may have longer youth; much content is in middle age `[ps=4]`
@@ -53,12 +57,8 @@ _Published 2002, author **David Hill, Aberdeen Group**, type **market-study**._
 - Physical disk failure (RAID); Logical disk failure (point-in-time copy/backup); Catastrophic site failure (remote mirroring); Unexpected archive demands (offsite archiving) `[ps=4]`
 - Versioning (user copies); Test copy (PIT copy/tape); Historical analysis (data warehouse); Online production copy (broadcast/cached) `[ps=4]`
 - On-site/Off-site by Online/Nearline/Offline; RAM-based: youth; High-perf disk: youth/middle age; ATA disk: middle age to old age `[ps=4]`
+- High-performance: uncompleted end-user tasks/WIP/currently retrieved files/high response time frequency; Cost-effective: completed tasks/older messages/not currently required files `[ps=4]`
 - Even if all four levels cost the same: FC/SCSI would prevail over ATA; RAM-based would prevail over hard disk if scaling issues addressed; hard disk replaces tape only if portability solved `[ps=3]`
 - RAM disk: higher cost/higher capacity/faster/inflexible; FC/SCSI disk: medium cost-capacity-speed; ATA disk: lower cost/higher capacity; Tape: lowest cost/highest capacity/slowest/flexible `[ps=3]`
 - [UNVERIFIED] `[ps=0]`
-- Structured (database); Semi-structured (text documents); Unstructured (bitmaps)
-- Structured: Sort; Semi-structured: Search; Unstructured: Sense
-- High-performance: uncompleted end-user tasks/WIP/currently retrieved files/high response time frequency; Cost-effective: completed tasks/older messages/not currently required files
-- Some analysts say tape is dead; Aberdeen position: there is a place for everything and everything in its place; tape meets streaming data demand
-- [UNVERIFIED]
-- ATA disk growing to serve active archiving and data protection functions as prices decline relative to FC/SCSI
+- [UNVERIFIED] `[ps=0]`

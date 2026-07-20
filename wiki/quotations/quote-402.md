@@ -1,6 +1,7 @@
 ---
 title: Quote 402 — MarketWatch (2003-04-26)
 type: quotation
+page_type: quotation
 slug: quote-402
 row_id: 402
 author: "Peter S. Kastner"

@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # XML Gateways / Adapters
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 65% currently use or plan XML gateways/adapters within 12 months — [[study-esb-in-soa-e002b7]]
+- 65% currently use or plan XML gateways/adapters within 12 months `[ps=4]` — [[study-esb-in-soa-e002b7]]

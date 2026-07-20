@@ -16,12 +16,12 @@ source_file: "Archive-1/2001 HP-Compaq Kastner Insight1.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.07
-prescience_obs_count: 14
+prescience_mean: 1.83
+prescience_obs_count: 18
 ---
 
 # The HP-Compaq Merger: If There's the Will, There's a Way
@@ -40,6 +40,7 @@ _Published 2001, author **Peter S. Kastner**, type **expert-report**._
 
 ## Top observations
 
+- Worried; fear of inward integration focus `[ps=4]`
 - Both offer Unix enterprise server products `[ps=4]`
 - Dell named as key winner `[ps=4]`
 - Enterprise sales vs. channel/dealer vs. consumer retail balance critical `[ps=4]`
@@ -50,11 +51,10 @@ _Published 2001, author **Peter S. Kastner**, type **expert-report**._
 - Invest in retraining sales force; better than cutting costs `[ps=2]`
 - Sun named alongside Dell and IBM `[ps=2]`
 - Storage products (Compaq); Printers (HP) `[ps=0]`
+- Both offer Intel/Windows servers `[ps=0]`
+- Both working with Intel Itanium `[ps=0]`
+- Requires sustained outward customer focus for 2+ years `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - Immediate customer communications with articulated differentiation `[ps=0]`
 - Better not more `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
-- Worried; fear of inward integration focus
-- Both offer Intel/Windows servers
-- Both working with Intel Itanium
-- Requires sustained outward customer focus for 2+ years

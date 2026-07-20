@@ -16,12 +16,12 @@ source_file: "UIT15P.pptx"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.31
-prescience_obs_count: 13
+prescience_mean: 1.9
+prescience_obs_count: 21
 ---
 
 # What's So Important About Infrastructure? (Session UIT15P, CA Unicenter Conference 1999)
@@ -42,22 +42,22 @@ _Published 1999, author **Peter S. Kastner**, type **presentation**._
 
 - Intranet adoption among Fortune 1000 companies was already at or near 95% by 2000-2001, consistent with Forrester Research's widely-cited prediction from 1997-1999. IDC and Gartner data from 2000-2001 confirmed enterprise intranet deployment was nearly universal among large enterprises. `[ps=5]`
 - Vendor-backed architected infrastructure did not achieve broad adoption as a unified framework by 2010. Instead, the market fragmented into cloud computing (AWS launched 2006, Azure 2010), virtualization (VMware), and service-oriented architecture approaches. CA's Unicenter-style integrated management vision was partially realized through IT automation, but not in the form originally predicted. `[ps=5]`
+- 100s to 1000s of networked servers across London, Tokyo, San Francisco, Topeka and telecommuters `[ps=5]`
 - ~85% ongoing operations vs ~15% new applications `[ps=4]`
 - 95% of Fortune 1000 will have intranets by 2000 (Forrester) `[ps=4]`
 - Legacy C/S integration, evolving but not-there standards, N-tier complexities, programmer unfamiliarity `[ps=4]`
+- Remember DCE, DME & OSI? — cautionary; incomplete; behind leading edge `[ps=4]`
 - Architected, vendor-backed common infrastructure yields greatest benefits `[ps=4]`
 - Reality is complex, multi-company; CEO infinite resource planning vision is aspirational `[ps=4]`
+- No new ISV application in 7 years; being surrounded or supplanted `[ps=1]`
 - ~3% of revenue `[ps=0]`
 - Customer satisfaction, fewer empowered users, line data access, operational flexibility, shorter dev cycles `[ps=0]`
 - 8,000 users at 50 offices and headquarters `[ps=0]`
 - 125 Compaq ProLiant 4000 servers per Symmetry SE70 UNIX cluster `[ps=0]`
+- Predictable reliability, outstanding operational efficiency, productivity, manageability `[ps=0]`
+- Great idea, hard to implement `[ps=0]`
 - Bad idea `[ps=0]`
 - Parts yes; whole never; staff never `[ps=0]`
-- Predictable reliability, outstanding operational efficiency, productivity, manageability
-- No new ISV application in 7 years; being surrounded or supplanted
-- Great idea, hard to implement
-- Remember DCE, DME & OSI? — cautionary; incomplete; behind leading edge
-- Good idea; works best with strong central IS
-- Good idea; requires excellent relationship and basis for trust
-- 100s to 1000s of networked servers across London, Tokyo, San Francisco, Topeka and telecommuters
-- 1999-CA-Unicenter.pdf is a printed handout rendering of UIT15P-7.pptx; both are preserved in source/
+- Good idea; works best with strong central IS `[ps=0]`
+- Good idea; requires excellent relationship and basis for trust `[ps=0]`
+- 1999-CA-Unicenter.pdf is a printed handout rendering of UIT15P-7.pptx; both are preserved in source/ `[ps=0]`

@@ -19,9 +19,9 @@ relevance: "medium"
 study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 4.0
-prescience_mean: 2.75
-prescience_obs_count: 4
+prescience_max: 5.0
+prescience_mean: 2.62
+prescience_obs_count: 8
 ---
 
 # Good News for NCR: Dell Loses CIO to HP
@@ -40,11 +40,11 @@ _Published 2005, author **Peter S. Kastner**, type **memoir**._
 
 ## Top observations
 
+- Mott led major HP IT transformation but was ousted in 2011 after Leo Apotheker CEO era; later became GM CIO in 2012. `[ps=5]`
 - Randy Mott was Walmart CIO who used NCR Teradata systems to create the supply-chain gorilla with industry's best real-time decision-making; then lured to Dell for similar work; now moves to HP. `[ps=4]`
 - Part of opinion rests on deep strategic use of Teradata by industry-leading companies betting their business on NCR Teradata. `[ps=4]`
 - Teradata was spun off from NCR as independent company in 2007 — consistent with continued growth trajectory Kastner identified. `[ps=3]`
+- There is no better technology for creating the complex, near-real-time transaction systems that drive supplier-facing and customer-facing operational excellence. `[ps=2]`
+- Mark Hurd courted Randy Mott when Hurd was CEO of NCR; now as HP CEO he enticed Mott to HP — which is why HP will (quietly) become a major Teradata customer. `[ps=2]`
+- Prediction: HP will quietly become a major Teradata customer under Hurd/Mott. `[ps=1]`
 - For the record, I have no financial relationship with NCR. `[ps=0]`
-- There is no better technology for creating the complex, near-real-time transaction systems that drive supplier-facing and customer-facing operational excellence.
-- Mark Hurd courted Randy Mott when Hurd was CEO of NCR; now as HP CEO he enticed Mott to HP — which is why HP will (quietly) become a major Teradata customer.
-- Prediction: HP will quietly become a major Teradata customer under Hurd/Mott.
-- Mott led major HP IT transformation but was ousted in 2011 after Leo Apotheker CEO era; later became GM CIO in 2012.

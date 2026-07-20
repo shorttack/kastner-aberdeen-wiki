@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 2
+prescience_mean: 4.33
+prescience_obs_count: 3
 ---
 
 # Video Streaming Services
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - Streaming services (Netflix Hulu Amazon Prime) converged video onto broadband infrastructure `[ps=5]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Battle over broadband + home networking + personal computing + consumer electronics + video `[ps=4]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
 - Cable will dominate residential broadband delivery `[ps=4]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
-- Battle over broadband + home networking + personal computing + consumer electronics + video — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]

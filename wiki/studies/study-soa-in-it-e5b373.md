@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 88
+prescience_obs_count: 121
 ---
 
 # The SOA in IT Benchmark Report: What CIOs Should Know about How SOA Is Changing IT
@@ -47,21 +47,21 @@ _Published 2005, author **Aberdeen Group (institutional; William Mougayar, VP & 
 - 41% `[ps=0]`
 - $53 billion `[ps=0]`
 - 50% `[ps=0]`
+- 29.6% `[ps=0]`
+- 18.5% `[ps=0]`
 - 12.4% `[ps=0]`
 - 27.3% `[ps=0]`
+- 284 companies `[ps=0]`
 - 64% `[ps=0]`
 - 25% `[ps=0]`
 - ~$30 million `[ps=0]`
 - 23% `[ps=0]`
 - 28% `[ps=0]`
 - 22% `[ps=0]`
+- 29% `[ps=0]`
 - 15% `[ps=0]`
 - 12% `[ps=0]`
+- 26% `[ps=0]`
 - 16% `[ps=0]`
 - 21% `[ps=0]`
 - 14% `[ps=0]`
-- 50% `[ps=0]`
-- 49% `[ps=0]`
-- 67% `[ps=0]`
-- 50% `[ps=0]`
-- 57% `[ps=0]`

@@ -16,12 +16,12 @@ source_file: "NTI 5 Development Toolsets.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.42
-prescience_obs_count: 26
+prescience_mean: 2.47
+prescience_obs_count: 30
 ---
 
 # Selecting and Using Advanced Software Toolsets
@@ -48,6 +48,8 @@ _Published 1993, author **Peter S. Kastner, John Logan, Thomas Willmott**, type 
 - Less visible in market since ASK Computer acquisition `[ps=4]`
 - Language of choice for large-scale mainframe; data centers in maintenance mode `[ps=4]`
 - MIS buyers confused by huge variety of client-server toolsets `[ps=4]`
+- Enhance legacy systems + create strategic applications + continuous staff training `[ps=4]`
+- Standardizing types of service requests objects universally provide; object behavior in distributed systems `[ps=4]`
 - CDD+ repository large base; strategy uncertain post-reorganization `[ps=4]`
 - Pilot workgroup tools must scale to hundreds or thousands of clients `[ps=4]`
 - Will revolutionize industry by end of 1990s `[ps=3]`
@@ -55,13 +57,11 @@ _Published 1993, author **Peter S. Kastner, John Logan, Thomas Willmott**, type 
 - Widely used IBM mainframe; recent thrust to HP 9000 and NCR System 3000 `[ps=3]`
 - Viable 3GL component; mostly-tools-some-C multi-component strategy emerging `[ps=3]`
 - Major GUI alternatives: Windows, Macintosh, Motif, OpenLook; ISVs struggling with multi-GUI expense `[ps=3]`
+- Core enterprise data still in hierarchical IMS files; SQL bridges required `[ps=3]`
 - Traditional strength in DEC and HP installed base `[ps=2]`
 - Powersoft and Gupta lead for Windows/DOS; Forte and Cooperative Solutions for enterprise OLTP `[ps=2]`
 - No universally satisfactory client; organizations dealing with Windows, OS/2, Mac, Unix `[ps=1]`
 - 3-5 years out for production systems from 1993 `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
 - Dramatic revenue growth last several quarters; excellent ISV platform reputation `[ps=0]`
-- Disappointing; being reworked `[ps=0]`
-- Leading Windows GUI builder for PC development `[ps=0]`
-- Full-blown integrated client-server for complex transaction processing `[ps=0]`
-- European BKS Poet, Object Design, Objectivity, Ontos, Servio, Versant offer OODBMS `[ps=0]`

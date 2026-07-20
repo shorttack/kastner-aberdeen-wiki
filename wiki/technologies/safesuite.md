@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 2.3
-prescience_obs_count: 10
+prescience_mean: 2.25
+prescience_obs_count: 12
 ---
 
 # ISS SAFESuite
@@ -26,6 +26,7 @@ prescience_obs_count: 10
 
 - Vulnerability management and security assessment became standard enterprise security practice; SIEM, vulnerability scanners, penetration testing became multi-billion dollar markets `[ps=5]` — [[study-aberdeen-1996-iss-internet-security-systems]]
 - Spending IS budget on security controls without understanding vulnerabilities or continuously monitoring is blindly throwing money away `[ps=5]` — [[study-aberdeen-1996-iss-internet-security-systems]]
+- Commercial packaged security scanner vs SATAN's free Unix-based approach; ready-to-install; no Unix expertise required `[ps=4]` — [[study-aberdeen-1996-iss-internet-security-systems]]
 - ISS's technology appears to be leading the industry; continuously developing new capabilities; security is ongoing arms race `[ps=4]` — [[study-aberdeen-1996-iss-internet-security-systems]]
 - Aberdeen recommends IS organizations building web-based e-commerce applications evaluate SAFEsuite as foundation for comprehensive security program `[ps=3]` — [[study-aberdeen-1996-iss-internet-security-systems]]
 - SAFEsuite comparable to competitors in ease of use/install/configure; outshines with more comprehensive vulnerability coverage, prioritized risk analysis, and update frequency `[ps=3]` — [[study-aberdeen-1996-iss-internet-security-systems]]
@@ -33,6 +34,5 @@ prescience_obs_count: 10
 - Covers all Unix platforms, Windows NT, AS/400, S/390, PC clients, routers, all firewalls, web servers, modems, printers, storage—any IP-connected device `[ps=1]` — [[study-aberdeen-1996-iss-internet-security-systems]]
 - NCSA uses ISS Firewall Scanner as core part of its firewall accreditation program certifying independently-developed firewall products `[ps=0]` — [[study-aberdeen-1996-iss-internet-security-systems]]
 - Operates on Windows NT, HP-UX, IBM AIX, SunOS, Solaris, Intel Linux `[ps=0]` — [[study-aberdeen-1996-iss-internet-security-systems]]
+- Customers include AMP, Chevron, Department of Energy, First Union, Intel, IBM, JC Penney, Lockheed-Martin, MCI, Merck, Motorola, NASA, the Pentagon, Texas Instruments `[ps=0]` — [[study-aberdeen-1996-iss-internet-security-systems]]
 - Leading supplier of third-generation detection and assessment tools; pole position ahead of several other suppliers `[ps=0]` — [[study-vulnerability-assessment-empowering-is-754d9a]]
-- Commercial packaged security scanner vs SATAN's free Unix-based approach; ready-to-install; no Unix expertise required — [[study-aberdeen-1996-iss-internet-security-systems]]
-- Customers include AMP, Chevron, Department of Energy, First Union, Intel, IBM, JC Penney, Lockheed-Martin, MCI, Merck, Motorola, NASA, the Pentagon, Texas Instruments — [[study-aberdeen-1996-iss-internet-security-systems]]

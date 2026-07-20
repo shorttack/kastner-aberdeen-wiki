@@ -1,6 +1,7 @@
 ---
 title: Quote 1103 — PC Advisor ()
 type: quotation
+page_type: quotation
 slug: quote-1103
 row_id: 1103
 author: "Peter S. Kastner"

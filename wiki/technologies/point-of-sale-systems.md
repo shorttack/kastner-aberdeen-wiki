@@ -12,9 +12,9 @@ era: "1973-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Point-of-Sale (POS) Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Mature category; in-store transaction systems well-established but not integrated with back-office — [[study-1998-information-technology-in-the-retail-sector-the-in-33dc54]]
+- Mature category; in-store transaction systems well-established but not integrated with back-office `[ps=4]` — [[study-1998-information-technology-in-the-retail-sector-the-in-33dc54]]

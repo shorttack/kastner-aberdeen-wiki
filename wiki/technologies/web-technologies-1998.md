@@ -12,9 +12,9 @@ era: "1995-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Web Technologies (1998)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Web technologies beginning to integrate with process manufacturing EBA — [[study-process-of-process-eba-335083]]
+- Web technologies beginning to integrate with process manufacturing EBA `[ps=4]` — [[study-process-of-process-eba-335083]]

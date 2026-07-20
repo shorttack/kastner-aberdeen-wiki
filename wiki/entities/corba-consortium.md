@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1989-present"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 5.0
+prescience_mean: 1.67
+prescience_obs_count: 3
 ---
 
 # CORBA Consortium (Object Management Group)
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- CORBA became largely obsolete; never provided mainstream Commercial Messaging `[ps=5]` — [[study-aberdeen-1995-commercial-messaging]]
 - <$10 million `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]
 - will not provide Commercial Messaging capabilities in near future `[ps=0]` — [[study-aberdeen-1995-commercial-messaging]]
-- CORBA became largely obsolete; never provided mainstream Commercial Messaging — [[study-aberdeen-1995-commercial-messaging]]

@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # JD Edwards Strategic Sourcing
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- PeopleSoft brings strategic sourcing to JDE's manufacturing customer base — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]
+- PeopleSoft brings strategic sourcing to JDE's manufacturing customer base `[ps=2]` — [[study-2003-the-new-peoplesoft-long-term-strategy-near-term-be-5cb14f]]

@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.56
-prescience_obs_count: 16
+prescience_mean: 3.5
+prescience_obs_count: 18
 ---
 
 # Why Aberdeen Group is Focusing on Enterprise IT Integration
@@ -50,11 +50,11 @@ _Published 2006, author **Peter S. Kastner**, type **employer-record**._
 - Leading companies will translate lessons from scientific massively parallel computing into a grid for commercial computing; linked to real-time operational analysis and decision-making `[ps=4]`
 - Mobility technology technically mature enough in 2006 but many enterprises have only tepid reactive strategy for generating business value `[ps=4]`
 - Enterprise WAN and related managed services may be an outsourcing candidate `[ps=4]`
+- ~10 years for significant dividends in lower IT lifecycle costs and faster more flexible application changes `[ps=3]`
 - Microsoft discarded tens of millions of lines of code in 2004 to institute programming process change enabling lower lifecycle cost `[ps=3]`
 - Aberdeen's first framework in 1988 — spoke-node-ring (SNR) — foreshadowed client-server and LAN/WAN revolution `[ps=3]`
 - Sun and other server suppliers at risk from Cisco angling to provide intelligent network service networks `[ps=3]`
 - EII is technology that promises to augment traditional data warehouse technology; data warehouses look at older information not where business is or will be `[ps=3]`
+- Chip-maker focus on instructions-per-watt will allow greater density; better cooling technology lowering HVAC demands `[ps=3]`
 - Mostly large companies with RTBI experience consider business value generation so critical that the 'how' becomes a company secret — a competitive weapon `[ps=2]`
 - Will constitute majority of development by turn of decade (~2010) `[ps=0]`
-- ~10 years for significant dividends in lower IT lifecycle costs and faster more flexible application changes
-- Chip-maker focus on instructions-per-watt will allow greater density; better cooling technology lowering HVAC demands

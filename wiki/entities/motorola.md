@@ -14,7 +14,7 @@ years_active: "1928-present"
 occurrence_count: 5
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Motorola, Inc.
@@ -29,7 +29,7 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Temporary closure; 305 workers quarantined `[ps=0]` — [[study-2003-sars-electronics-supply-chain-ec0375]]
 - low `[ps=0]` — [[study-nti-2-open-systems-1dd3af]]
 - 305 `[ps=0]` — [[study-sars2-hot-topic-cf91d4]]
-- Temporary closure; 305 workers quarantined — [[study-2003-sars-electronics-supply-chain-ec0375]]
 - Motorola had already closed a cell phone plant in Singapore due to SARS — [[study-cnbc-sars-electronics-supply-chain-impact-92deff]]

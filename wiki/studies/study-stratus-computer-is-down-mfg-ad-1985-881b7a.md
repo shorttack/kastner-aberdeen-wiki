@@ -3,7 +3,7 @@ title: "Stratus 'The Computer is Down' Manufacturing Plant-Floor Ad, 1985 — PS
 slug: "study-stratus-computer-is-down-mfg-ad-1985-881b7a"
 page_type: "study"
 tags: ["type/study", "collection/advertisement"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "stratus-computer-is-down-mfg-ad-1985-881b7a"
 author: "Stratus Computer (corporate marketing — Kastner-era)"
@@ -16,12 +16,12 @@ source_file: "Stratus-ad-1985-6.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # Stratus 'The Computer is Down' Manufacturing Plant-Floor Ad, 1985 — PSK as named contact
@@ -40,6 +40,6 @@ _Published 1985, author **Stratus Computer (corporate marketing — Kastner-era)
 
 ## Top observations
 
+- 98.5% reliability standard means computerized manufacturing system goes down once every two weeks on statistical average — 'unthinkable' for modern manufacturing `[ps=4]`
 - Stratus XA400: $446,350 / 125 perf / $3,571 per unit. IBM 4381: $707,897 / 100 / $7,079. HP 3000/68: $437,754 / 64 / $6,840. DEC VAX 11/782: $656,889 / 109 / $5,999. Stratus best on price/performance with FT included. `[ps=0]`
 - Peter Kastner in Massachusetts at (617) 460-2192 or toll-free 1-800-752-4826 — named contact for manufacturing-sales inquiries `[ps=0]`
-- 98.5% reliability standard means computerized manufacturing system goes down once every two weeks on statistical average — 'unthinkable' for modern manufacturing

@@ -14,7 +14,7 @@ lifecycle_current: "legacy-supported"
 occurrence_count: 21
 prescience_max: 5.0
 prescience_mean: 2.18
-prescience_obs_count: 33
+prescience_obs_count: 44
 ---
 
 # Proprietary Unix (Solaris, AIX, HP-UX)
@@ -36,16 +36,16 @@ prescience_obs_count: 33
 - Prime in 1980 could not imagine an Intel-based server running Unix making their minicomputer architecture economically irrelevant; Kastner saw it coming. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
 - Open standards were obvious to many analysts by 1985, yet proprietary minicomputer to Unix transition took longer due to commodity hardware margin compression. `[ps=5]` — [[study-volume-1-epilogue-argument-with-reality]]
 - HP just spent $350 million on StorageApps, and Compaq has a large emotional and dollar commitment to the undelivered VersaStor. `[ps=4]` — [[study-09010006-f43488]]
+- Support infrastructure quality cited as differentiating factor between Unix and NT in enterprise decisions `[ps=4]` — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
+- Unix markets projected to continue in specified segments while NT encroaches; Y2K and support factors analyzed `[ps=4]` — [[study-1997-unix-and-nt-application-servers-and-workstations-1-29257b]]
+- Unix-server DBMS revenue now greater than mainframe revenues `[ps=4]` — [[study-jungle-1-5-675c58]]
 - Unix-server DBMS revenue now greater than mainframe revenues `[ps=4]` — [[study-jungle-6-7af8b7]]
 - By 1988, most midrange suppliers had to offer Unix-compliant OS to compete; now compete on middleware quality `[ps=4]` — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
 - Applications portability vision too narrow `[ps=4]` — [[study-nti-2-open-systems-1dd3af]]
 - Workstations with RISC/Unix for mid-to-high end technical users in 1993 `[ps=4]` — [[study-nti-3-pc-and-ws-1993-17d49b]]
+- Unix derivatives employed in majority of new multi-user systems `[ps=4]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
 - Full swing for new applications; RDBMS dominant glue `[ps=4]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
 - Evolutionary not revolutionary process `[ps=4]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]
 - Proprietary platforms doomed; Unix and x86 to dominate. Outcome: correct on direction but Unix fragmentation persisted; Linux won via open licensing not technical standardization. `[ps=4]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]
+- Open systems transition correctly predicted. `[ps=4]` — [[study-volume-1-ch10-the-long-view-1966-2026]]
 - Margin compression was mathematically inevitable; no vendor found a durable strategy against commodity hardware. Open standards obvious to many by 1985. `[ps=4]` — [[study-volume-1-epilogue-argument-with-reality]]
-- Predicted Unix would standardize cleanly; instead Linux won on licensing, not elegance. `[ps=4]` — [[study-volume-1-epilogue-argument-with-reality]]
-- Mature market; variants capable of single enterprise-size applications `[ps=3]` — [[study-software-market-safegu~1-ea7453]]
-- IBM TP software only works on mainframe — not on PCs or workstations; users doing end-user computing and TP need two sets of devices and two networks `[ps=1]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
-- Workstation BEST; PC POOR `[ps=1]` — [[study-nti-3-pc-and-ws-1993-17d49b]]
-- Expected Unix standardization to succeed more cleanly. Instead Linux won via open licensing and community development, not technical standardization. Unix remained fragmented per vendor. `[ps=1]` — [[study-volume-1-ch07-founding-aberdeen-1988-1997]]

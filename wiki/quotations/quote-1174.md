@@ -1,6 +1,7 @@
 ---
 title: Quote 1174 — AP ()
 type: quotation
+page_type: quotation
 slug: quote-1174
 row_id: 1174
 author: "Peter S. Kastner"

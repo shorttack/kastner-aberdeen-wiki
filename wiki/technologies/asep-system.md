@@ -12,9 +12,9 @@ era: "1979-1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "superseded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # ASEP — Two-Way Power-Line Communications System
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ASEP was a two-way power-line communications system controlled by a Data General Eclipse S-230 minicomputer with 256K core memory — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]
+- ASEP was a two-way power-line communications system controlled by a Data General Eclipse S-230 minicomputer with 256K core memory `[ps=0]` — [[study-adl-ase-asep-two-way-power-communications-1979-b8c001]]

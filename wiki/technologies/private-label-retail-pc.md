@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging-2002"
 lifecycle_current: "ubiquitous-via-amazon-walmart"
 occurrence_count: 1
 prescience_max: 3.0
-prescience_mean: 1.25
-prescience_obs_count: 4
+prescience_mean: 1.17
+prescience_obs_count: 6
 ---
 
 # Private-Label / House-Brand Retail PCs
@@ -25,8 +25,8 @@ prescience_obs_count: 4
 ## Top observations
 
 - Second- and third-time PC buyers know enough to accept house brands, especially if built from components by well-known makers such as Intel `[ps=3]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
+- Don't believe retailers have the inherent competency to create and manage a brand, particularly in after-sale service `[ps=2]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
 - Industry observers say Circuit City also considering private-label addition `[ps=2]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
 - April 2002 launch of $2,300 fluorescent green/blue gaming PCs for teenagers `[ps=0]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
+- Christmas 2001: RadioShack Canada couldn't meet demand for Pentium-4 systems `[ps=0]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
 - Quit selling its own house brand; added eMachines full desktop line `[ps=0]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
-- Christmas 2001: RadioShack Canada couldn't meet demand for Pentium-4 systems — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
-- Don't believe retailers have the inherent competency to create and manage a brand, particularly in after-sale service — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]

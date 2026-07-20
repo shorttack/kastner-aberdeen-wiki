@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 3.0
-prescience_obs_count: 10
+prescience_mean: 2.67
+prescience_obs_count: 12
 ---
 
 # Khalix 2.1
@@ -32,7 +32,7 @@ prescience_obs_count: 10
 - Must scale from desktop to SMP/MPP; non-intrusive; adjustable from root calculation logic across all modules `[ps=4]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
 - Khalix prepared to exploit emerging 64-bit technology; benefits from scalable-parallel databases; can scale up and speed up with demand via affordable processor increments `[ps=3]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
 - Parent/child relationships create hierarchical structure for consolidations; drag-and-drop hierarchy editor; graphical expression of chart of accounts `[ps=3]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
+- With Khalix 2.1 Longview Solutions has guaranteed itself a worthy position on technology buyers' must-RFP shortlist of financial management/analysis software `[ps=2]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
 - Basic LAN site license (up to 50 users): $145,000; additional $95,000 for data warehouse components on RDBMSs `[ps=0]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
 - Longview plans to introduce fully Web-enabled version of Khalix by third quarter 1997 `[ps=0]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
-- With Khalix 2.1 Longview Solutions has guaranteed itself a worthy position on technology buyers' must-RFP shortlist of financial management/analysis software — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
-- Khalix did evolve with web capabilities; company grew through reference accounts and reached enterprise customers globally; web roadmap delivery consistent with stated plans — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]
+- Khalix did evolve with web capabilities; company grew through reference accounts and reached enterprise customers globally; web roadmap delivery consistent with stated plans `[ps=0]` — [[study-aberdeen-1996-khalix-financial-awareness-competitive-advantage]]

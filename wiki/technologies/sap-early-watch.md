@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # SAP EarlyWatch
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Proactive system diagnostics program recognizing and remedying potential problems early — [[study-1997-teamsap-a3591b]]
+- Proactive system diagnostics program recognizing and remedying potential problems early `[ps=4]` — [[study-1997-teamsap-a3591b]]

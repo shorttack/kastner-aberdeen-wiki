@@ -12,9 +12,9 @@ era: "1997"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Siebel Tools
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Siebel Tools allows graphical configuration of application to unique requirements without altering source code; modular N-tiered architecture using configurable business objects (BusObjects) — [[study-1997-crm-siebel-systems-pr-569e52]]
+- Siebel Tools allows graphical configuration of application to unique requirements without altering source code; modular N-tiered architecture using configurable business objects (BusObjects) `[ps=4]` — [[study-1997-crm-siebel-systems-pr-569e52]]

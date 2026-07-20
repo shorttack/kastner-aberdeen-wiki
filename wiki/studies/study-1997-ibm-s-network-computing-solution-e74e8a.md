@@ -16,12 +16,12 @@ source_file: "1997 IBM's Network Computing Solution_ _Energize Your Enterprise p
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
-study_prescience_enum: "low"
+study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.43
-prescience_obs_count: 14
+prescience_mean: 3.67
+prescience_obs_count: 18
 ---
 
 # IBM's Network Computing Solution: Energize Your Enterprise
@@ -40,12 +40,16 @@ _Published 1997, author **Aberdeen Group**, type **profile**._
 
 ## Top observations
 
+- Automated e-commerce and supply-chain integration predicted as major benefit of network computing `[ps=5]`
 - CORBA failed to dominate; displaced by XML Web Services (SOAP), then REST APIs `[ps=5]`
+- E-commerce became multi-trillion dollar global sector; Aberdeen prediction highly accurate `[ps=5]`
 - Legacy data access and integration identified as critical for network computing ROI `[ps=5]`
 - Oracle acquired Sun Microsystems in 2010 for $7.4B including Java and MySQL `[ps=5]`
 - MQSeries renamed WebSphere MQ 2002; renamed IBM MQ 2014; active enterprise messaging platform `[ps=5]`
 - Personal Comms, Business Intelligence, Information Integration, App Dev, Systems Mgmt, Extended Transaction Services `[ps=4]`
 - Most commonly implemented TP environment worldwide (CICS); MQ 20+ industry platforms `[ps=4]`
+- N-tier client-server cited as key new architecture alongside distributed-object and Internet thin-client `[ps=4]`
+- BI identified as core network computing value proposition; data warehousing and analytics `[ps=4]`
 - Internet thin-client and web-based architecture became dominant; IBM's prediction accurate `[ps=4]`
 - Comprehensive integrated suite vs point-solutions; migration path from legacy; service-led `[ps=4]`
 - IBM endorsing Java server-to-client development with VisualAge; opposing ActiveX/Microsoft `[ps=4]`
@@ -54,7 +58,3 @@ _Published 1997, author **Aberdeen Group**, type **profile**._
 - IBM endorsing CORBA + Java Beans for distributed object architecture `[ps=2]`
 - Web browsers/servers/applets; TP-monitor scaling; Intranet migration; legacy integration `[ps=0]`
 - Manages mixed heterogeneous environments; integrates SMS, NetView, OpenView, NetManager `[ps=0]`
-- Automated e-commerce and supply-chain integration predicted as major benefit of network computing
-- E-commerce became multi-trillion dollar global sector; Aberdeen prediction highly accurate
-- N-tier client-server cited as key new architecture alongside distributed-object and Internet thin-client
-- BI identified as core network computing value proposition; data warehousing and analytics

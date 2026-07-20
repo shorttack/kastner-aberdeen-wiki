@@ -1,6 +1,7 @@
 ---
 title: Quote 955 — Computerworld (1993-06-14)
 type: quotation
+page_type: quotation
 slug: quote-955
 row_id: 955
 author: "Peter S. Kastner"

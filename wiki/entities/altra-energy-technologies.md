@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "ChemConnect acquired natural gas liquids exchange; software sold to Caminus (2001)"
 years_active: "1996-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Altra Energy Technologies LLC
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Altra Energy Technologies positioned as internet-based natural gas liquids trading exchange — [[study-utilities-transformed-it-696ffb]]
+- Altra Energy Technologies positioned as internet-based natural gas liquids trading exchange `[ps=5]` — [[study-utilities-transformed-it-696ffb]]

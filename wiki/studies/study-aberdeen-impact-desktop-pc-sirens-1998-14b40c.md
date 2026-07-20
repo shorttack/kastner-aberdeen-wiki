@@ -16,12 +16,12 @@ source_file: "PC-Impact-8.docx"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.5
-prescience_obs_count: 12
+prescience_mean: 2.25
+prescience_obs_count: 16
 ---
 
 # Don't Fall for the Siren-Song Price of Under-powered Desktop PCs (Aberdeen Impact)
@@ -47,12 +47,12 @@ _Published 1998, author **Peter S. Kastner**, type **white-paper**._
 - Upgrade to Windows NT 5.0 in 2000 `[ps=4]`
 - Avoid Celeron-class or 233 MHz Pentium II inventory close-outs `[ps=4]`
 - Intranet/Internet/Extranet updates (push); e-mail tidal wave; shared workgroup access; systems mgmt SNMP `[ps=4]`
+- Windows 95 OSR2 or 98; TCP/IP+NetBEUI; Office 97; IE 4.0; Outlook 98; SNMP agent; antivirus; workflow apps `[ps=3]`
+- IS executives captivated by sub-$1,000 PCs; some buying home computers `[ps=3]`
 - Pentium II up to 450 MHz `[ps=0]`
 - Typical new corp PC: 150 MHz, 32MB memory, $2,000+ `[ps=0]`
 - 'Virtual memory usage on my own PC is about 60MB' `[ps=0]`
 - Microsoft-Intel 1999 PC Standard: min 300 MHz, 32 MB `[ps=0]`
+- 400 MHz Pentium II, 128 MB memory, 17" monitor at $1,800-$2,000 `[ps=0]`
+- Recommended config will support Office 2000 and IE 5.0 in 1999 `[ps=0]`
 - Windows 2000 released Feb 2000 with 64MB min RAM requirement `[ps=0]`
-- Windows 95 OSR2 or 98; TCP/IP+NetBEUI; Office 97; IE 4.0; Outlook 98; SNMP agent; antivirus; workflow apps
-- 400 MHz Pentium II, 128 MB memory, 17" monitor at $1,800-$2,000
-- Recommended config will support Office 2000 and IE 5.0 in 1999
-- IS executives captivated by sub-$1,000 PCs; some buying home computers

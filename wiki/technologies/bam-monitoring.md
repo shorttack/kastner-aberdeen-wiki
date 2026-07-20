@@ -14,7 +14,7 @@ lifecycle_current: "mature"
 occurrence_count: 4
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 8
+prescience_obs_count: 9
 ---
 
 # Business Activity Monitoring / Business Intelligence Tools
@@ -32,4 +32,4 @@ prescience_obs_count: 8
 - qualitative `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
 - 25% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
 - 36% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
-- 55% — [[study-ra-bpm-2007-890201]]
+- 55% `[ps=0]` — [[study-ra-bpm-2007-890201]]

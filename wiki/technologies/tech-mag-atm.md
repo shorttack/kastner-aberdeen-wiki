@@ -13,8 +13,8 @@ lifecycle_at_study: "Emerging/Growing"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 2
+prescience_mean: 1.5
+prescience_obs_count: 4
 ---
 
 # Magellan ATM Switches (Vector/Concorde/Passport)
@@ -25,6 +25,6 @@ prescience_obs_count: 2
 ## Top observations
 
 - Nortel Magellan Passport enables true multimedia network carrying voice, data, and video for telemedicine `[ps=4]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]
+- Magellan ATM/Frame Relay switches #1 in multimedia networking `[ps=2]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]
+- $435,000 per year in reduced line costs for 1,600-user 10-county frame relay network `[ps=0]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]
 - 24-36 months payback for Nortel Magellan multimedia network `[ps=0]` — [[study-1997-nortel--transforming-business-by-po-3edae6]]
-- Magellan ATM/Frame Relay switches #1 in multimedia networking — [[study-1997-nortel--transforming-business-by-po-3edae6]]
-- $435,000 per year in reduced line costs for 1,600-user 10-county frame relay network — [[study-1997-nortel--transforming-business-by-po-3edae6]]

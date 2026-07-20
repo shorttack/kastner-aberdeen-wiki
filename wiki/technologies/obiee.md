@@ -14,7 +14,7 @@ lifecycle_current: "superseded-by-oracle-analytics-cloud"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Oracle BI / OBIEE (Oracle Business Intelligence Enterprise Edition)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - 3 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
-- 27 — [[study-2026-kastner-enterprise-ai-arc]]
+- 27 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]

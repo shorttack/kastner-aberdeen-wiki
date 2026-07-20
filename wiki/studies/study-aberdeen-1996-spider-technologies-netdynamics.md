@@ -16,12 +16,12 @@ source_file: "1996 The Artful Web They Weave_ Spider Technologies_ NetDynamics.p
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.21
-prescience_obs_count: 19
+prescience_mean: 3.27
+prescience_obs_count: 22
 ---
 
 # The Artful Web They Weave: Spider Technologies' NetDynamics
@@ -43,6 +43,7 @@ _Published 1996, author **Aberdeen Group**, type **white-paper**._
 - Eliminates CGI process start/stop overhead; multithreaded; load balances across multiple DB servers; query optimization on SQL construction `[ps=5]`
 - Acquired by Sun Microsystems July 1998 for approximately $160-170M in stock; NetDynamics became Sun Application Server `[ps=5]`
 - Aberdeen urges enterprises to simultaneously deploy transactive Internet apps while building long-term architectural foundation for Web OLTP `[ps=5]`
+- CGI single-threaded model will become increasingly inadequate as web traffic grows; bypass architectures required `[ps=5]`
 - CGI's single-threaded limitations prevent session optimization; browser/server paradigm becomes bottleneck as traffic increases `[ps=4]`
 - Cross-category positioning: more web-focused than C/S toolset providers; more toolset-complete than middleware providers; multi-RDBMS vs. RDBMS suppliers `[ps=4]`
 - Aberdeen urges: architecture must include TP-monitor-like middleware for scalable commercial web-database applications `[ps=4]`
@@ -52,13 +53,12 @@ _Published 1996, author **Aberdeen Group**, type **white-paper**._
 - CGI rendered obsolete for high-traffic applications by 2000; FastCGI, mod_perl, servlet containers all bypassed CGI model `[ps=4]`
 - Reinvented TP monitor as RAD-toolset-plus-monitor designed specifically for web; earlier and more elegantly than most competitors `[ps=3]`
 - Automatically creates server-side Java code for application runtime; vendor-independent; leverages Java's multithreaded execution `[ps=3]`
+- Integrates via CGI and Netscape NSAPI; SQL-based native RDBMS interfaces; application-level security bridge `[ps=3]`
 - Visual drag-and-drop Windows 95 environment; code generation from templates; Java class library integration; write-once multi-platform `[ps=3]`
 - Committing a sizable portion of next-generation client/server applications to NetDynamics and Java `[ps=3]`
 - Aberdeen: NetDynamics warrants thorough evaluation by any IS buyer deploying commercial-strength web-database applications `[ps=3]`
+- As Java increasingly becomes the focus of Web development, NetDynamics Java integration represents significant opportunity `[ps=3]`
 - Load balancing across multiple database servers from multiple vendors; SQL-based native interfaces to all major RDBMSs `[ps=3]`
 - 45 employees; $10.9 million first-round funding from Hummer Winblad Venture Partners `[ps=0]`
 - Large corporate customers include Merrill Lynch, ABB, and Harvard Medical School `[ps=0]`
 - Alliances with Informix, Sybase, Oracle, Silicon Graphics, Sun, and Hewlett-Packard `[ps=0]`
-- Integrates via CGI and Netscape NSAPI; SQL-based native RDBMS interfaces; application-level security bridge
-- As Java increasingly becomes the focus of Web development, NetDynamics Java integration represents significant opportunity
-- CGI single-threaded model will become increasingly inadequate as web traffic grows; bypass architectures required

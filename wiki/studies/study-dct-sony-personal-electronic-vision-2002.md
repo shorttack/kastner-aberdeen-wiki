@@ -16,12 +16,12 @@ source_file: "Sony-Personal-Electronic-Technology-Vision4-30V2-4.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.77
-prescience_obs_count: 13
+prescience_mean: 1.95
+prescience_obs_count: 19
 ---
 
 # Personal Electronic Technology Vision — Sony Client Presentation
@@ -42,20 +42,20 @@ _Published 2002, author **Peter S. Kastner**, type **dct**._
 
 - BT + WiFi-x + Cellular + GPS/Maps + Audio `[ps=5]`
 - Internet access + location-based services `[ps=5]`
+- Plug and Play Imperative `[ps=4]`
 - Display/play audio/video anywhere in house on demand from central repository `[ps=4]`
+- Good UX + value-added systems + seamless P&P + superb support + field upgrades `[ps=4]`
 - Same form factor across home/work/play `[ps=4]`
+- End-user requirements -> vendor hypotheses -> test/refine `[ps=3]`
+- High (PCs/printers/phones) + Low (appliance/security) `[ps=3]`
 - High-end CE (Tweeter/home theater) for demos/missionary sales + kiosks/canned demos in traditional channels `[ps=3]`
 - Base + answering machine + VOIP phones `[ps=2]`
+- This fall to 3+ years out `[ps=0]`
 - Home, in transit, and at work `[ps=0]`
+- Upgradability (need and benefit) `[ps=0]`
 - Customer support model `[ps=0]`
 - Cable+xDSL+satellite+STB+HDTV tuner+router+firewall+Ethernet+WLAN+comm controller `[ps=0]`
 - Audio + video storage + DVD + CDRW + VCR input `[ps=0]`
 - Listed in Sony home product vision `[ps=0]`
 - Category confusion around system components; need system shelf space `[ps=0]`
 - Financing system sales; installed-base marketing `[ps=0]`
-- This fall to 3+ years out
-- End-user requirements -> vendor hypotheses -> test/refine
-- Plug and Play Imperative
-- Upgradability (need and benefit)
-- High (PCs/printers/phones) + Low (appliance/security)
-- Good UX + value-added systems + seamless P&P + superb support + field upgrades

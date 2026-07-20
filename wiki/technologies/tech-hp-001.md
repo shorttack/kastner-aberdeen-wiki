@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.86
-prescience_obs_count: 7
+prescience_mean: 2.75
+prescience_obs_count: 8
 ---
 
 # Desktop Management Interface (DMI)
@@ -29,6 +29,6 @@ prescience_obs_count: 7
 - Aberdeen projects HP DMI-based management combined with best practices could reduce total cost of PC ownership by 50% or more `[ps=3]` — [[study-1997-desktop-and-systems-management-the--169a9b]]
 - IS managers have PCs on 3-5 year tax depreciation schedules; need to extend life by 2 years beyond 3-year major technology cycles `[ps=3]` — [[study-1997-desktop-and-systems-management-the--169a9b]]
 - DMI certification will become a de facto industry standard for desktop management; Aberdeen expects DMI to be a major competitive differentiator in 1997 `[ps=2]` — [[study-1997-desktop-and-systems-management-the--169a9b]]
+- DMTF sponsors annual DMI compliance bake-off to certify supplier compliance; certification is a competitive differentiator `[ps=2]` — [[study-1997-desktop-and-systems-management-the--169a9b]]
 - IS buyers have made DMI adherence a checklist item for PC purchases; failure to implement means no sale `[ps=2]` — [[study-1997-desktop-and-systems-management-the--169a9b]]
 - DMTF has more than 122 PC hardware and software supplier members beyond steering committee `[ps=0]` — [[study-1997-desktop-and-systems-management-the--169a9b]]
-- DMTF sponsors annual DMI compliance bake-off to certify supplier compliance; certification is a competitive differentiator — [[study-1997-desktop-and-systems-management-the--169a9b]]

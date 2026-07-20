@@ -12,9 +12,9 @@ status: "Active (Private)"
 successor: "BMC Software (Thoma Bravo portfolio)"
 years_active: "1980-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # BMC Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- BMC Software provides data movement software component of DataReach partnership — [[study-1997-datareach--finding-business-value-i-34f0a6]]
+- BMC Software provides data movement software component of DataReach partnership `[ps=0]` — [[study-1997-datareach--finding-business-value-i-34f0a6]]

@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 4.0
-prescience_obs_count: 7
+prescience_mean: 3.89
+prescience_obs_count: 9
 ---
 
 # Remote Control Architecture
@@ -29,7 +29,7 @@ prescience_obs_count: 7
 - 10% or higher concentration of mobile users needing LAN application access when out of office `[ps=4]` — [[study-when-does-remote-control-benefit-9bd6e4]]
 - IT needs to provide continuous support to remote users `[ps=4]` — [[study-when-does-remote-control-benefit-9bd6e4]]
 - Data interception by outsiders is a concern `[ps=4]` — [[study-when-does-remote-control-benefit-9bd6e4]]
+- Remote control implementation on the rise as business users frustrated with 28.8kbps data streaming `[ps=4]` — [[study-when-does-remote-control-benefit-9bd6e4]]
 - Remote Desktop Protocol (RDP) and Citrix ICA became dominant enterprise remote access; remote node/dial-up displaced by VPN over broadband by 2003-2005 `[ps=4]` — [[study-when-does-remote-control-benefit-9bd6e4]]
+- Almost continuous but small traffic flow; only GUIs mouse movements and keystrokes traverse link `[ps=3]` — [[study-when-does-remote-control-benefit-9bd6e4]]
 - Software/systems upgraded every 90-120 days `[ps=3]` — [[study-when-does-remote-control-benefit-9bd6e4]]
-- Almost continuous but small traffic flow; only GUIs mouse movements and keystrokes traverse link — [[study-when-does-remote-control-benefit-9bd6e4]]
-- Remote control implementation on the rise as business users frustrated with 28.8kbps data streaming — [[study-when-does-remote-control-benefit-9bd6e4]]

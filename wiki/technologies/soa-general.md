@@ -13,8 +13,8 @@ lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 3
 prescience_max: 5.0
-prescience_mean: 1.69
-prescience_obs_count: 26
+prescience_mean: 1.79
+prescience_obs_count: 29
 ---
 
 # Service-Oriented Architecture (SOA)
@@ -26,7 +26,9 @@ prescience_obs_count: 26
 
 - Successful SOA requires strong focus on business needs and IT-business alignment `[ps=5]` — [[study-soa-overview-docx-12612f]]
 - IT-business alignment is crucial for maximizing benefits of both BPM and SOA `[ps=5]` — [[study-soa-with-bpm-docx-1211c7]]
+- Over half of respondents predict 50%+ of software will be SOA-based in five years `[ps=4]` — [[study-soa-aon-webinar-31973c]]
 - Changes within IT organization required to mirror service-delivery aspects of SOA `[ps=4]` — [[study-soa-aon-webinar-31973c]]
+- Companies Are Bullish on SOA Adoption, But the Market is Immature `[ps=4]` — [[study-soa-aon-webinar-31973c]]
 - Integration and complexity management identified as primary SOA driver `[ps=4]` — [[study-soa-overview-docx-12612f]]
 - Invest in governance and management tools for sustainable long-term SOA value `[ps=4]` — [[study-soa-overview-docx-12612f]]
 - The promise of SOA is real but benefits have not been widely distributed `[ps=4]` — [[study-soa-overview-docx-12612f]]
@@ -41,6 +43,4 @@ prescience_obs_count: 26
 - 12.4% of IT budget on software maintenance (vs. 27.3% average); -15pp advantage `[ps=0]` — [[study-soa-aon-webinar-31973c]]
 - Development of new business capabilities or products: 50% of respondents `[ps=0]` — [[study-soa-aon-webinar-31973c]]
 - Management of IT complexity: 44% of respondents `[ps=0]` — [[study-soa-aon-webinar-31973c]]
-- IT cost of delivering/building new applications: 64% of respondents tracking `[ps=0]` — [[study-soa-aon-webinar-31973c]]
-- 54% of respondents tracking IT budget as percent of revenues `[ps=0]` — [[study-soa-aon-webinar-31973c]]
-- Q4 2006: Enterprise Integration Strategies and Best Practices for the Mid-Market `[ps=0]` — [[study-soa-aon-webinar-31973c]]
+- Alignment with the business: 37% of respondents `[ps=0]` — [[study-soa-aon-webinar-31973c]]

@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream"
 lifecycle_current: "evolved"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Web Services
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Evaluate existing IT infrastructure extensibility; focus on reusing apps through web services `[ps=5]` — [[study-soa-overview-docx-12612f]]
-- Re-usage of applications via Web Services: 43% of respondents — [[study-soa-aon-webinar-31973c]]
+- Re-usage of applications via Web Services: 43% of respondents `[ps=0]` — [[study-soa-aon-webinar-31973c]]

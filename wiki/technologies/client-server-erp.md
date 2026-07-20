@@ -14,7 +14,7 @@ lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 4.0
 prescience_mean: 4.0
-prescience_obs_count: 3
+prescience_obs_count: 4
 ---
 
 # Client-Server ERP Architecture
@@ -26,5 +26,5 @@ prescience_obs_count: 3
 
 - Full OO/Internet-enabled next-generation ERP estimated 2.5-5 years away (i.e. `[ps=4]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
 - OO component / internet-enabled ERP estimated as the future within 2.5-5 years `[ps=4]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
+- SAP NetWeaver (2004) and Oracle E-Business Suite 11i (2000) delivered internet-enabled ERP; timing broadly correct but Baan did not participate meaningfully `[ps=4]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
 - All three vendors provide competitive general discrete manufacturing functionality as baseline; differentiation occurs at Integration and Innovation levels `[ps=4]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
-- SAP NetWeaver (2004) and Oracle E-Business Suite 11i (2000) delivered internet-enabled ERP; timing broadly correct but Baan did not participate meaningfully — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]

@@ -14,7 +14,7 @@ years_active: "1990s-present"
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # David Hill
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Research Director; primary contributor to ILM/Pools strategy workshop and messaging interviews `[ps=0]` — [[study-08-phase2-project-kickoff-2ea711]]
 - 35+ years IT experience; ran Data General's IT corporate data center; ran EMC market research organization `[ps=0]` — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
-- Research Director; primary contributor to ILM/Pools strategy workshop and messaging interviews — [[study-08-phase2-project-kickoff-2ea711]]

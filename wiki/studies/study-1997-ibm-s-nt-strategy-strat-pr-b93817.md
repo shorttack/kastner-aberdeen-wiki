@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.27
-prescience_obs_count: 15
+prescience_mean: 2.38
+prescience_obs_count: 21
 ---
 
 # IBM's NT Strategy: Moving NT Upscale with Enterprise-grade Solutions, Middleware, and Services
@@ -41,23 +41,23 @@ _Published 1997, author **Aberdeen Group**, type **profile**._
 ## Top observations
 
 - Aberdeen surveys indicate Java will become very popular development environment `[ps=5]`
+- MQSeries renamed WebSphere MQ 2002; IBM MQ 2014; remains active enterprise middleware `[ps=5]`
 - Java became dominant enterprise development language; IBM was major Java proponent `[ps=5]`
 - Microsoft Exchange gradually dominated enterprise email/collaboration; Notes declined to niche `[ps=5]`
+- 1.56 million NT Server licenses shipped in 1998 (IDC); 50% more than Novell NetWare; 2x combined UNIX `[ps=5]`
 - Compaq would need at least 5 years to match IBM global support infrastructure `[ps=4]`
 - Growing enterprise acceptance of MQSeries as defacto store-and-forward standard `[ps=4]`
+- HP acquired Compaq for $25B in 2002 after declining market position vs Dell `[ps=4]`
 - IBM: more mature, bridges existing CICS environments, 25+ years CICS + 10+ years Encina `[ps=4]`
 - Dual track: sell pure-Microsoft NT AND alternative IBM middleware/apps; service-led differentiation `[ps=4]`
 - IBM positions DB2 as 20+ year mature product vs relatively young SQL Server `[ps=3]`
+- IBM aims to be leader in NT desktops, servers, solutions, middleware, and professional services `[ps=2]`
 - ~35% `[ps=0]`
+- ~16% `[ps=0]`
 - 1,200 `[ps=0]`
 - 100,000+ in 159 countries `[ps=0]`
+- 725,000+ `[ps=0]`
 - 1,450,000 (doubling from 1996) `[ps=0]`
 - IBM + partners aim for 20% of NT services market by 1998 `[ps=0]`
 - IBM did not achieve NT market leadership; remained #3 (Compaq 13%, Dell 11%, IBM 8% in 3Q 1999) `[ps=0]`
 - 6,000 direct sales representatives globally `[ps=0]`
-- ~16%
-- 725,000+
-- IBM aims to be leader in NT desktops, servers, solutions, middleware, and professional services
-- HP acquired Compaq for $25B in 2002 after declining market position vs Dell
-- MQSeries renamed WebSphere MQ 2002; IBM MQ 2014; remains active enterprise middleware
-- 1.56 million NT Server licenses shipped in 1998 (IDC); 50% more than Novell NetWare; 2x combined UNIX

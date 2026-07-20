@@ -13,8 +13,8 @@ lifecycle_at_study: "launched"
 lifecycle_current: "retired"
 occurrence_count: 1
 prescience_max: 3.0
-prescience_mean: 0.33
-prescience_obs_count: 9
+prescience_mean: 0.25
+prescience_obs_count: 12
 ---
 
 # Aberdeen Data Knowledge / Decision Support / Knowledge Management Practice
@@ -30,9 +30,9 @@ prescience_obs_count: 9
 - $728M `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - $89M `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - $1.1B `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- $40M `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- $36M `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - $5.89B `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - $1.3B `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
+- $188M `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
 - $138M `[ps=0]` — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- $40M — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- $36M — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]
-- $188M — [[study-aberdeen-practice-definitions-compendium-2000-b7a001]]

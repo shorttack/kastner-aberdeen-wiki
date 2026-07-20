@@ -16,12 +16,12 @@ source_file: "2003 The Top 10 Security Suppliers.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.67
-prescience_obs_count: 12
+prescience_mean: 1.87
+prescience_obs_count: 15
 ---
 
 # The Top 10 Security Suppliers
@@ -42,7 +42,9 @@ _Published 2003, author **Jim Hurley**, type **market-study**._
 
 - Enterprise security division sold to Broadcom for $10.7B in 2019; consumer unit became NortonLifeLock `[ps=5]`
 - Multi-dimensional: solutions + geographies + channels + industries + channels-to-market `[ps=4]`
+- Suppliers must grow via multiple solution sectors `[ps=4]`
 - Suppliers must pursue international geographies `[ps=4]`
+- Suppliers must leverage multiple channels `[ps=4]`
 - Suppliers must diversify go-to-market channels `[ps=4]`
 - Suppliers must target specific industry verticals `[ps=3]`
 - $16.3 billion (products and services) `[ps=0]`
@@ -50,8 +52,6 @@ _Published 2003, author **Jim Hurley**, type **market-study**._
 - 36% of spending `[ps=0]`
 - 350+ privately held suppliers `[ps=0]`
 - 10% of total spending `[ps=0]`
+- 16% across all solution sectors (now ended) `[ps=0]`
 - 12% of $6B worldwide security market (#1 per IDC) `[ps=0]`
 - Worldwide network security appliance and software revenue topped $3.7B in 2004; +30% from 2003 `[ps=0]`
-- 16% across all solution sectors (now ended)
-- Suppliers must grow via multiple solution sectors
-- Suppliers must leverage multiple channels

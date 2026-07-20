@@ -12,9 +12,9 @@ era: "1994-1998"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: 3.0
-prescience_mean: 1.29
-prescience_obs_count: 14
+prescience_max: 5.0
+prescience_mean: 1.69
+prescience_obs_count: 16
 ---
 
 # ManageWORKS 2.2
@@ -24,6 +24,8 @@ prescience_obs_count: 14
 
 ## Top observations
 
+- Digital Equipment Corporation acquired by Compaq in June 1998; ManageWORKS product line discontinued `[ps=5]` — [[study-aberdeen-1996-dec-manageworks-22]]
+- Distributed SNMP pollers tasked with collecting status from specified nodes/subnetworks; communicate with Event Manager via TCP/IP socket `[ps=4]` — [[study-aberdeen-1996-dec-manageworks-22]]
 - Open partner platform: DEC provides base functionality; partners provide domain-specific applications `[ps=3]` — [[study-aberdeen-1996-dec-manageworks-22]]
 - User interface for event/network status viewing and monitoring parameter configuration `[ps=3]` — [[study-aberdeen-1996-dec-manageworks-22]]
 - Central processor and repository; logs all alerts; forwards SNMP traps to enterprise managers `[ps=3]` — [[study-aberdeen-1996-dec-manageworks-22]]
@@ -38,5 +40,3 @@ prescience_obs_count: 14
 - Event Manager acts as processor/repository; pollers distribute across network; console provides UI `[ps=0]` — [[study-aberdeen-1996-dec-manageworks-22]]
 - OEM licensing allows PC server and comms device vendors to use ManageWORKS as vendor-specific management base `[ps=0]` — [[study-aberdeen-1996-dec-manageworks-22]]
 - Performance, accounting, software asset/configuration, network, security, storage, problem, automation management (via partners) `[ps=0]` — [[study-aberdeen-1996-dec-manageworks-22]]
-- Digital Equipment Corporation acquired by Compaq in June 1998; ManageWORKS product line discontinued — [[study-aberdeen-1996-dec-manageworks-22]]
-- Distributed SNMP pollers tasked with collecting status from specified nodes/subnetworks; communicate with Event Manager via TCP/IP socket — [[study-aberdeen-1996-dec-manageworks-22]]

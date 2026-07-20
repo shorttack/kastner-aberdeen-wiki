@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.93
-prescience_obs_count: 14
+prescience_mean: 3.88
+prescience_obs_count: 16
 ---
 
 # The Mainframe Revival: Short Lived or Long Term?
@@ -47,12 +47,12 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Study does not predict complete displacement of UNIX/NT servers; mainframe positioned for high-volume OLTP, batch, and mission-critical scenarios `[ps=5]`
 - After a period of decline, mainframe business is recovering `[ps=4]`
 - New generation mainframes: dramatically lower priced, less bulky, no plumbing required, substantially less electricity `[ps=4]`
+- Leading contender in mainframe market; G3/G4 represents modernized competitive enterprise solution `[ps=4]`
 - Large UNIX server farms require proportionally larger system administration staffs; management complexity underestimated `[ps=4]`
 - Mainframes handle workload peaks more efficiently through dynamic resource allocation within single system image `[ps=4]`
 - Mainframe availability metrics (five-nines and above) remain superior to clustered UNIX alternatives `[ps=4]`
 - New clustering technology offers cost-effective alternative to large UNIX server farms `[ps=3]`
 - Primary IBM-compatible mainframe alternative; competitive pricing against IBM; focused on existing IBM mainframe customer base `[ps=3]`
+- Amdahl Corporation dissolved in 2000; ceased mainframe operations; Fujitsu absorbed remaining assets `[ps=3]`
 - New mainframes can run UNIX and Windows NT applications in addition to legacy applications `[ps=2]`
 - Viable alternative mainframe vendor with Millennium series; competitive with IBM S/390 `[ps=2]`
-- Leading contender in mainframe market; G3/G4 represents modernized competitive enterprise solution
-- Amdahl Corporation dissolved in 2000; ceased mainframe operations; Fujitsu absorbed remaining assets

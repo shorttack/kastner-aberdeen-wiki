@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Heterogeneous Platform Integration
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enables isolation from back-end differences in network protocols/databases/operating systems — [[study-1998-enterprise-application-integration-advanced-techno-71496c]]
+- Enables isolation from back-end differences in network protocols/databases/operating systems `[ps=4]` — [[study-1998-enterprise-application-integration-advanced-techno-71496c]]

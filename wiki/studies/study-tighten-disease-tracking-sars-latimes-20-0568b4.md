@@ -16,12 +16,12 @@ source_file: "Tighten-Disease-Tracking-of-SARS-4.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.29
-prescience_obs_count: 7
+prescience_mean: 2.0
+prescience_obs_count: 8
 ---
 
 # Tighten Disease Tracking (SARS editorial)
@@ -45,6 +45,6 @@ _Published 2003, author **Los Angeles Times editorial board**, type **editorial*
 - 'It is hard to imagine that bioterrorism could be countered until the containment of diseases like SARS is mastered.' — LA Times editorial `[ps=4]`
 - 'If the disease is not brought under control soon, the manufacturing of Chinese products from electronics to Christmas toys may be severely affected.' — Kastner `[ps=3]`
 - 1,804 people in 17 countries; up to 62 deaths; California 20 suspected cases, 0 deaths `[ps=0]`
+- 129 probable/suspected cases; 6 fatal `[ps=0]`
 - Intel closed Hong Kong offices during outbreak `[ps=0]`
 - HP closed Hong Kong offices during outbreak `[ps=0]`
-- 129 probable/suspected cases; 6 fatal

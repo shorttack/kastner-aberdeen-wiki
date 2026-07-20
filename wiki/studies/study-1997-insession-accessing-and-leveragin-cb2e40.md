@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.9
-prescience_obs_count: 10
+prescience_mean: 3.15
+prescience_obs_count: 13
 ---
 
 # Insession — Accessing and Leveraging Enterprise Transaction Systems
@@ -40,16 +40,16 @@ _Published 1997, author **Jeanine Fournier / Aberdeen Group**, type **Product Pr
 
 ## Top observations
 
+- Organizations will need to leverage existing host-based ETS for extended period `[ps=5]`
 - Confirmed: mainframe ETS systems (CICS, IMS, NonStop) remain in active use 2025; legacy integration still multi-billion dollar market `[ps=5]`
 - Provide software enabling integration of heterogeneous distributed environments with host-based systems `[ps=4]`
 - Organizations want to preserve and leverage investments in ETS and associated data `[ps=4]`
+- Competitive pressures drive IS to build new applications rapidly and cost-effectively `[ps=4]`
 - New applications must adapt to Internet requirements and promote higher-level programming `[ps=4]`
 - Enterprise-scale distributed accessware will be a requirement for competitive IS organizations `[ps=4]`
 - Confirmed: middleware/integration market grew substantially; evolved from EAI to ESB to API management; IBM MQ, Tibco, MuleSoft, etc. `[ps=4]`
 - New distributed applications need accessware to bridge client-server and host-based systems `[ps=4]`
+- Insession ICE enables communication across incompatible computing systems including mainframes and internet `[ps=3]`
 - Insession effective for organizations preserving ETS investments while integrating new distributed environments `[ps=0]`
 - Insession acquired by ACI Worldwide (Transaction Systems Architects); became Insession Technologies business unit contributing ~13% of ACI revenue through 2005; ICE product renamed ICE/XS `[ps=0]`
 - Niche middleware vendor targeting large organizations with heterogeneous ETS/distributed environments `[ps=0]`
-- Competitive pressures drive IS to build new applications rapidly and cost-effectively
-- Organizations will need to leverage existing host-based ETS for extended period
-- Insession ICE enables communication across incompatible computing systems including mainframes and internet

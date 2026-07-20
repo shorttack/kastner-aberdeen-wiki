@@ -14,7 +14,7 @@ lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # HP NetServer LX Pro
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- 900 users; 4,544 SAPS; 272,667 dialogue steps/hour; WinNT 3.51; 2,048 MB RAM `[ps=0]` — [[study-sap-r-3-on-wintel-servers-712986]]
 - 774 users; 3,900 SAPS; 234,000 dialogue steps/hour; WinNT 4.0; 2,048 MB RAM `[ps=0]` — [[study-sap-r-3-on-wintel-servers-712986]]
-- 900 users; 4,544 SAPS; 272,667 dialogue steps/hour; WinNT 3.51; 2,048 MB RAM — [[study-sap-r-3-on-wintel-servers-712986]]

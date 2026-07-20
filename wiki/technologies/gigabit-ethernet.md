@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Gigabit Ethernet is mature and widely deployed. Now part of multi-gig standards (2.5G, 5G, 10GbE). Still the dominant LAN standard for endpoint connectivity.', 'source': 'General networking'}"
 occurrence_count: 3
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 3
+prescience_mean: 2.25
+prescience_obs_count: 4
 ---
 
 # Gigabit Ethernet (1 Gbps)
@@ -26,5 +26,5 @@ prescience_obs_count: 3
 
 - Gigabit Ethernet is attractive alternative to ATM for Ethernet backbone users; ATM not accepted end-to-end `[ps=5]` — [[study-networ~1-96462b]]
 - In excess of $24 billion; fastest growing IT segment `[ps=4]` — [[study-networ~1-96462b]]
+- 20-30% send/receive improvement `[ps=0]` — [[study-intel-ia2004-pk4-kc-edits-de9c37]]
 - dual gigabit Ethernet `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
-- 20-30% send/receive improvement — [[study-intel-ia2004-pk4-kc-edits-de9c37]]

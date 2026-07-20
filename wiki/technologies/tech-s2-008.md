@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "Mature"
 lifecycle_current: "Obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # RDBMS / Relational Database Management
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Majority of healthcare IS on proprietary mainframe/minicomputer; client-server not yet on all cylinders — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]
+- Majority of healthcare IS on proprietary mainframe/minicomputer; client-server not yet on all cylinders `[ps=4]` — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]

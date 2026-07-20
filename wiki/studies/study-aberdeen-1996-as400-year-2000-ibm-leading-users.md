@@ -16,12 +16,12 @@ source_file: "1996 AS:400 and the Year 2000- IBM Leading Users Across an Unknown
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.2
-prescience_obs_count: 20
+prescience_mean: 2.79
+prescience_obs_count: 29
 ---
 
 # AS/400 and the Year 2000: IBM Leading Users Across an Unknown Chasm
@@ -40,28 +40,28 @@ _Published 1996, author **Aberdeen Group**, type **market-viewpoint**._
 
 ## Top observations
 
+- as400_y2k_transition_successful `[ps=5]`
+- no_silver_bullet_y2k_solution `[ps=5]`
+- as400_rebranded_iseries_2000 `[ps=5]`
 - replacing_working_systems_rare `[ps=5]`
 - programmers_hardcoded_19_in_year_dates `[ps=5]`
+- different_applications_use_different_date_coding `[ps=5]`
 - y2k_did_accelerate_some_platform_consolidation `[ps=5]`
 - os400_v3_year_2000_safe `[ps=4]`
+- developing_vulnerability_assessment_software `[ps=4]`
 - y2k_leadership_will_increase_user_loyalty `[ps=4]`
+- no_single_fix_confirmed_massive_industry_effort `[ps=4]`
 - y2k_costs_must_be_expensed_not_capitalized `[ps=4]`
 - requires_senior_executive_and_mis_management `[ps=4]`
+- scarce_and_increasing_cost_of_resources `[ps=4]`
 - making_customers_aware_of_y2k_issues `[ps=4]`
 - enterprise_finds_predicament_larger_every_time `[ps=4]`
 - requested_isv_compliance_statements `[ps=3]`
+- as400_as_migration_safe_haven `[ps=3]`
+- other_hw_suppliers_unsure_reluctant_to_act `[ps=2]`
 - y2k_safe_haven_will_attract_migrations `[ps=2]`
 - published_compliant_software_list `[ps=0]`
 - recruiting_y2k_professional_service_orgs `[ps=0]`
 - 1940_to_2039 `[ps=0]`
 - publicly_released_date_calculation_algorithms `[ps=0]`
 - doing_all_that_hw_supplier_can_do `[ps=0]`
-- impact_different_for_each_enterprise `[ps=0]`
-- continuously_surfacing_problems `[ps=0]`
-- os400_pre_v3_returned_ambiguous_year_dates `[ps=0]`
-- required_manual_date_input_after_jan_1_2000 `[ps=0]`
-- developing_vulnerability_assessment_software
-- as400_y2k_transition_successful
-- no_silver_bullet_y2k_solution
-- no_single_fix_confirmed_massive_industry_effort
-- as400_as_migration_safe_haven

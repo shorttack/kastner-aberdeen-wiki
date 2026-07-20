@@ -1,6 +1,7 @@
 ---
 title: Quote 750 — Computerworld (1994-09-12)
 type: quotation
+page_type: quotation
 slug: quote-750
 row_id: 750
 author: "Peter S. Kastner"

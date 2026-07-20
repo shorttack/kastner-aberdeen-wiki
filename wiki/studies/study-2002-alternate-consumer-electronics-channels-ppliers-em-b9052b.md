@@ -16,12 +16,12 @@ source_file: "2002 Alternate Consumer Electronics Channels...ppliers Emerge, Thr
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.57
-prescience_obs_count: 7
+prescience_mean: 2.83
+prescience_obs_count: 12
 ---
 
 # Alternate Consumer Electronics Channels and Suppliers Emerge, Threatening Incumbents
@@ -41,14 +41,14 @@ _Published 2002, author **Russ Craig**, type **market-study**._
 ## Top observations
 
 - Challenged by new S&C provider competition `[ps=4]`
+- Challenged by new S&C provider competition `[ps=4]`
+- Threatened by S&C provider hardware distribution `[ps=4]`
+- Provide complementary hardware to increase service consumption and customer lock-in `[ps=4]`
 - Threatened; S&C providers have structural advantages over traditional CE channels `[ps=4]`
+- Emerging alternative CE channel with subscriber lock-in hardware `[ps=4]`
 - Emerging technologies will increase long-term impact on CE channels `[ps=4]`
 - Emerging channel through DSL modem and set-top hardware bundling `[ps=3]`
 - Roku, Amazon Fire TV, Apple TV displaced traditional CE channels for video hardware `[ps=3]`
 - Filed Chapter 11 November 2008; liquidated all US stores March 2009 `[ps=0]`
 - Active; transformed to omnichannel model; Q4 FY26 earnings reported March 2026 `[ps=0]`
-- Challenged by new S&C provider competition
-- Threatened by S&C provider hardware distribution
-- Provide complementary hardware to increase service consumption and customer lock-in
-- Emerging alternative CE channel with subscriber lock-in hardware
-- Multiple structural advantages cited
+- Multiple structural advantages cited `[ps=0]`

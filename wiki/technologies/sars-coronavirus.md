@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-controlled"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 2.4
-prescience_obs_count: 5
+prescience_mean: 1.71
+prescience_obs_count: 7
 ---
 
 # SARS coronavirus (SARS-CoV, 2003)
@@ -28,6 +28,6 @@ prescience_obs_count: 5
 - Not fulfilling promise to provide WHO with daily provincial reports on disease progress `[ps=4]` — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]
 - 'It is hard to imagine that bioterrorism could be countered until the containment of diseases like SARS is mastered.' — LA Times editorial `[ps=4]` — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]
 - Intel canceled developer conferences in Beijing and Taipei because attendees were afraid to travel to the region; Sun postponed Shanghai conference; Motorola briefly closed a Singapore factory. `[ps=0]` — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]
+- Microchip Technology blamed SARS (among other factors) for its Q1 2003 earnings warning — SARS's first appearance in a public-company earnings call. `[ps=0]` — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]
 - 1,804 people in 17 countries; up to 62 deaths; California 20 suspected cases, 0 deaths `[ps=0]` — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]
-- Microchip Technology blamed SARS (among other factors) for its Q1 2003 earnings warning — SARS's first appearance in a public-company earnings call. — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]
-- 129 probable/suspected cases; 6 fatal — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]
+- 129 probable/suspected cases; 6 fatal `[ps=0]` — [[study-tighten-disease-tracking-sars-latimes-20-0568b4]]

@@ -16,12 +16,12 @@ source_file: "1998 Enterprise Application Integration- Advanced Technologies and
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.47
-prescience_obs_count: 15
+prescience_mean: 1.94
+prescience_obs_count: 18
 ---
 
 # Enterprise Application Integration: Advanced Technologies and a Sense of Process
@@ -40,11 +40,14 @@ _Published 1998, author **Peter S. Kastner, Ed Black, Jeanine Fournier**, type *
 
 ## Top observations
 
+- EAI extends beyond traditional middleware providing flexible reusable architecture vs one-time per-application fix `[ps=5]`
 - Acquired by Vista Equity Partners for $4.3 billion in December 2014 `[ps=5]`
 - Acquired by IBM in 2001 for process integration capabilities `[ps=5]`
 - New and distinct market in early stages of formation `[ps=4]`
+- Enables isolation from back-end differences in network protocols/databases/operating systems `[ps=4]`
 - EAI deployment will impact enterprise total application portfolio and supply chain planning and execution `[ps=4]`
 - While EAI market has received media attention its popularly understood constituency and enterprise value remains at best misunderstood `[ps=4]`
+- Integrating popular enterprise applications (not just data) is revolutionary differentiation of EAI `[ps=4]`
 - $1 billion `[ps=0]`
 - $7.85 billion (2014) `[ps=0]`
 - 20 EAI suppliers profiled in December 1998 report `[ps=0]`
@@ -55,6 +58,3 @@ _Published 1998, author **Peter S. Kastner, Ed Black, Jeanine Fournier**, type *
 - TIBCO IPO on July 14 1999 raising $109.5 million `[ps=0]`
 - Many profiled suppliers are start-up ventures seeking large scale enterprise opportunities `[ps=0]`
 - Four-month research program including interviews with EAI suppliers/EBA providers/consulting firms and early-adopter users `[ps=0]`
-- EAI extends beyond traditional middleware providing flexible reusable architecture vs one-time per-application fix
-- Enables isolation from back-end differences in network protocols/databases/operating systems
-- Integrating popular enterprise applications (not just data) is revolutionary differentiation of EAI

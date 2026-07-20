@@ -16,12 +16,12 @@ source_file: "RB-soa-web-apps-11.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 4
+prescience_mean: 3.2
+prescience_obs_count: 5
 ---
 
 # Testing SOA and Web Services Applications: How Different Can It Be?
@@ -42,6 +42,6 @@ _Published 2007, author **Perry Donham**, type **research-brief**._
 
 - Unit and functional testing no longer enough; integration testing becomes critical for SOA applications `[ps=5]`
 - Testing/QA consistently top-of-list concern: 43% in ESB/Middleware Benchmark July 2006; 48% planned new testing strategies in SOA Middleware study June 2007 `[ps=4]`
+- Performance and versioning testing add to the mix, creating ingredients for significant QA-department change `[ps=4]`
 - Orchestration testing emerges as a critical new piece of overall SOA testing strategy `[ps=3]`
 - Perry Donham, Director, Enterprise Applications Research, perry.donham@aberdeen.com `[ps=0]`
-- Performance and versioning testing add to the mix, creating ingredients for significant QA-department change

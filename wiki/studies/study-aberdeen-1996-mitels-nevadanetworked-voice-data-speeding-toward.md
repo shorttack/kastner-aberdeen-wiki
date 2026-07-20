@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.47
-prescience_obs_count: 17
+prescience_mean: 2.59
+prescience_obs_count: 22
 ---
 
 # Mitel's NeVaDa (Networked Voice and Data) – Speeding Toward Convergence
@@ -40,7 +40,9 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
+- Evolution: proprietary PBX → modular distributed nodes → open-standards call server on broadband backbone `[ps=5]`
 - Enables CTI multimedia applications at desktop cost-effectively via single IT-centric infrastructure `[ps=5]`
+- IT view of the world is and will continue to be the de facto communications model; voice must integrate into IT `[ps=5]`
 - True convergence of voice, data, and video in single IT-centric infrastructure will occur `[ps=5]`
 - Initial distrust of telecom vendors in IT community; perception of lacking integration/software skills `[ps=4]`
 - CTI arena becoming increasingly competitive; must implement vision quickly and effectively `[ps=4]`
@@ -48,17 +50,15 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - OC-3 fiber optic (155 Mbps) backbone integrating voice and LAN packet data; ATM cells for voice+data multiplexing `[ps=3]`
 - Ethernet, Token Ring, FDDI, and 100 Base-T in switched or shared media modes `[ps=3]`
 - Managed from UNIX workstation running HP OpenView; unified management interface for end-to-end control `[ps=3]`
+- Open standards + Token Ring + Ethernet support + strategic IT partnerships (DEC, Intel, Microsoft, Madge) `[ps=3]`
 - Eliminates wiring redundancies by combining voice and data on single OC-3 backbone `[ps=3]`
 - Adding ports does not affect existing ones (Madge Networks LAN switching characteristic) `[ps=3]`
 - VERIFIED — VoIP (SIP/H.323) fully replaced PBX by ~2010; UCaaS (Teams, Zoom, Webex) fulfills unified multimedia vision `[ps=3]`
 - Enterprise users investigating migration to ATM and SONET for high-speed on-demand multimedia LAN/WAN `[ps=2]`
+- Must secure ATM technology to meet proposed ATM-enabled upgrade in timely fashion `[ps=2]`
 - Mitel can achieve CTI market leadership if it implements vision quickly and secures ATM technology `[ps=1]`
+- Data and telecom systems still separate in most organizations `[ps=0]`
 - Up to 192 voice ports per peripheral node `[ps=0]`
 - T1/E1 DSU links and PRI gateways via SX-2000 LIGHT DSU nodes `[ps=0]`
 - Filed bankruptcy April 2003; operational business acquired by Network Technology/Ringdale 2006 `[ps=0]`
 - Survived via multiple restructurings; became significant UC vendor; acquired Aastra (2013), ShoreTel (2017); filed Ch.11 Mar 2025, exited Jun 2025 `[ps=-1]`
-- Data and telecom systems still separate in most organizations
-- Evolution: proprietary PBX → modular distributed nodes → open-standards call server on broadband backbone
-- Open standards + Token Ring + Ethernet support + strategic IT partnerships (DEC, Intel, Microsoft, Madge)
-- Must secure ATM technology to meet proposed ATM-enabled upgrade in timely fashion
-- IT view of the world is and will continue to be the de facto communications model; voice must integrate into IT

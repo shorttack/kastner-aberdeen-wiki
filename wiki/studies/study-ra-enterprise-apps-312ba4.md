@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 64
+prescience_obs_count: 82
 ---
 
 # Achieving More Value from Enterprise Applications
@@ -42,12 +42,17 @@ _Published 2006, author **Peter S. Kastner, Aberdeen Group**, type **employer-re
 
 - $143 billion `[ps=0]`
 - More than 50% `[ps=0]`
+- At least two-thirds `[ps=0]`
 - confirmed `[ps=0]`
+- 35% `[ps=0]`
+- 30% `[ps=0]`
 - 14% `[ps=0]`
+- 12% `[ps=0]`
 - 9% `[ps=0]`
 - 55% `[ps=0]`
 - 23% `[ps=0]`
 - 8% `[ps=0]`
+- 7% `[ps=0]`
 - 6% `[ps=0]`
 - 31% `[ps=0]`
 - 20% `[ps=0]`
@@ -55,13 +60,8 @@ _Published 2006, author **Peter S. Kastner, Aberdeen Group**, type **employer-re
 - 10% `[ps=0]`
 - 17% `[ps=0]`
 - 4% `[ps=0]`
+- 25% `[ps=0]`
 - 19% `[ps=0]`
 - 15% `[ps=0]`
 - 11% `[ps=0]`
 - 11% `[ps=0]`
-- 49% `[ps=0]`
-- 40% `[ps=0]`
-- 34% `[ps=0]`
-- 33% `[ps=0]`
-- 42% `[ps=0]`
-- 41% `[ps=0]`

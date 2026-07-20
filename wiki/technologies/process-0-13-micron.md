@@ -12,9 +12,9 @@ era: "2001-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # 0.13-micron process
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 0.20um DRAM and 0.40um SRAM phaseout Q4 2001 — [[study-dct-personal-it-forecast-research-2001]]
+- 0.20um DRAM and 0.40um SRAM phaseout Q4 2001 `[ps=1]` — [[study-dct-personal-it-forecast-research-2001]]

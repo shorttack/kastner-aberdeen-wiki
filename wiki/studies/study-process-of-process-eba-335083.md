@@ -16,12 +16,12 @@ source_file: "1998 The 'Process of Process'- EBA in the Process Manufacturing In
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.64
-prescience_obs_count: 14
+prescience_mean: 1.67
+prescience_obs_count: 18
 ---
 
 # The "Process of Process": EBA in the Process Manufacturing Industries
@@ -42,19 +42,19 @@ _Published 1998, author **Aberdeen Group**, type **market-study**._
 
 - Tracking products through production as core competitive requirement `[ps=5]`
 - Improving ROI by reducing cycle times and improving inventory management `[ps=4]`
+- Web technologies beginning to integrate with process manufacturing EBA `[ps=4]`
 - Many leading EBA suppliers without genuine process manufacturing modules will face market pressure from specialists `[ps=4]`
 - Choosing the right EBA supplier presents a formidable challenge for process manufacturers `[ps=3]`
 - Leading EBA suppliers claim process manufacturing presence but lack process-specific applications `[ps=3]`
+- Catch-weight management `[ps=3]`
 - Component technology driving EBA architecture evolution `[ps=3]`
 - SAP acquired process-specific vendors (Synavant for pharma; IS-PI modules) closing capability gaps `[ps=1]`
 - Reducing order-through-delivery time `[ps=0]`
+- Potency control `[ps=0]`
 - Temperature regulation `[ps=0]`
 - Shelf life management `[ps=0]`
+- Capacity planning `[ps=0]`
 - Regulatory compliance tracking `[ps=0]`
 - 90-page primary research report with in-depth supplier analysis `[ps=0]`
 - $895 `[ps=0]`
 - Report identifies factors critical to user success and supplier success in process EBA market `[ps=0]`
-- Potency control
-- Capacity planning
-- Catch-weight management
-- Web technologies beginning to integrate with process manufacturing EBA

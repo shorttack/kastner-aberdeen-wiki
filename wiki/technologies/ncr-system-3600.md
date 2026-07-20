@@ -14,7 +14,7 @@ lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # NCR System 3600
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - >400 System 3600 and DBC/1012 systems `[ps=0]` — [[study-ncr-att-wsj-massively-parallel-processin-f1f0a8]]
-- boost performance/reliability/functionality — [[study-ncr-att-wsj-massively-parallel-processin-f1f0a8]]
+- boost performance/reliability/functionality `[ps=0]` — [[study-ncr-att-wsj-massively-parallel-processin-f1f0a8]]

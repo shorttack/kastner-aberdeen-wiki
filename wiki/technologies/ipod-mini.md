@@ -12,9 +12,9 @@ era: "2004-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Apple iPod mini
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Consumers pay $50 more for iPod mini (1/3 the capacity of larger iPod) citing color ('It's pinker') — demonstrates style-primary purchasing in consumer electronics — [[study-pc-style-living-room-macobserver-seward-97ed83]]
+- Consumers pay $50 more for iPod mini (1/3 the capacity of larger iPod) citing color ('It's pinker') — demonstrates style-primary purchasing in consumer electronics `[ps=4]` — [[study-pc-style-living-room-macobserver-seward-97ed83]]

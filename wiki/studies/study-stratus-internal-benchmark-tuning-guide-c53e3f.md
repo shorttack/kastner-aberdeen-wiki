@@ -16,12 +16,12 @@ source_file: "Stratus-1985-benchmark-tuning-guide-4.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.0
-prescience_obs_count: 4
+prescience_mean: 0.8
+prescience_obs_count: 5
 ---
 
 # Stratus Internal Benchmark Tuning Guide: TP-1 Results on XA600/XA400/FT200 (Stratus Internal Use Only, 1985)
@@ -42,6 +42,6 @@ _Published 1985, author **Stratus Computer (internal engineering documentation)*
 
 - Task metering had no measurable effect; cache utilization significantly impacts performance; multiple server copies greatly improve performance `[ps=4]`
 - 5.0 tps; 2.1 sec avg / 3.3 sec 90th-percentile response; 80% CPU / 40% disk `[ps=0]`
+- 3.4 tps; 1.8 sec avg / 2.7 sec 90th-percentile; 80% CPU / 25% disk `[ps=0]`
 - 1.7 tps; 2.1 sec avg / 3.5 sec 90th-percentile; 85% CPU / 18% disk `[ps=0]`
 - 5 indexed reads + 2 indexed rewrites + 1 sequential log write per tx; 5000-cycle requester loop, 200-cycle server loop; 30s sleep +/- 5s; no screen I/O, no comms `[ps=0]`
-- 3.4 tps; 1.8 sec avg / 2.7 sec 90th-percentile; 80% CPU / 25% disk

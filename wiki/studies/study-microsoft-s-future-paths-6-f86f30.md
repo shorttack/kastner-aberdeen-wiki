@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.18
-prescience_obs_count: 11
+prescience_mean: 2.92
+prescience_obs_count: 12
 ---
 
 # Microsoft's Future Paths
@@ -50,5 +50,5 @@ _Published 2002, author **Kathleen Koch (host); Peter Kastner & Isaac Ro (Aberde
 - Program compares Microsoft's Pocket PC to Palm Pilot; Microsoft pursuing a two-pronged approach and targeted markets distinct from Palm's. `[ps=3]`
 - Kastner explains how unified storage (the WinFS relational-storage vision) fits into Microsoft's Blackcomb plans. `[ps=2]`
 - Provides Kastner's guidance on how enterprise buyers should approach Windows upgrades for 2002 and beyond given Longhorn/Blackcomb horizon. `[ps=0]`
+- Implications of Microsoft's MiPad and 'Dr. Who' speech research initiatives; current technology limitations discussed. `[ps=0]`
 - Kastner introduces Aberdeen's ACTR (Adopt / Contain / Train / Retire) technology-decision model for enterprise planning. `[ps=0]`
-- Implications of Microsoft's MiPad and 'Dr. Who' speech research initiatives; current technology limitations discussed.

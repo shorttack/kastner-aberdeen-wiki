@@ -13,8 +13,8 @@ lifecycle_at_study: "Active (host-based legacy)"
 lifecycle_current: "Active (modernization ongoing)"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 2
+prescience_mean: 4.67
+prescience_obs_count: 3
 ---
 
 # Enterprise Transaction Systems (ETS)
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Organizations will need to leverage existing host-based ETS for extended period `[ps=5]` — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
 - Confirmed: mainframe ETS systems (CICS, IMS, NonStop) remain in active use 2025; legacy integration still multi-billion dollar market `[ps=5]` — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
 - Organizations want to preserve and leverage investments in ETS and associated data `[ps=4]` — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
-- Organizations will need to leverage existing host-based ETS for extended period — [[study-1997-insession---accessing-and-leveragin-cb2e40]]

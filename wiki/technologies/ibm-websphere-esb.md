@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IBM WebSphere ESB
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- IBM WebSphere: 37% primary ESB vendor for BIC; 22% primary SOA vendor overall — [[study-esb-0617-5cc5fa]]
+- IBM WebSphere: 37% primary ESB vendor for BIC; 22% primary SOA vendor overall `[ps=3]` — [[study-esb-0617-5cc5fa]]

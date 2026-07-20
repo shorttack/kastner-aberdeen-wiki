@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.52
-prescience_obs_count: 23
+prescience_mean: 2.5
+prescience_obs_count: 30
 ---
 
 # Mirror Image Internet: A Pioneer in Content Distribution Network Services
@@ -46,6 +46,8 @@ _Published 2004, author **Aberdeen Group**, type **profile**._
 - With a CDN we needed fewer servers less room less power and less floor space to meet performance thresholds `[ps=5]`
 - Next stage of Web application delivery will benefit greatly from central management of rules applied on distributed basis `[ps=5]`
 - CDNs increase flexibility improve response times for end-users and lower scalability costs for Web operations `[ps=5]`
+- Traffic filtering and intrusion detection offloaded because everything goes through Mirror Image network `[ps=4]`
+- By not focusing on scaling bandwidth server or security issues team could enhance products faster `[ps=4]`
 - Working with Mirror Image on adding adaptive content action rules to improve geotargeting and ad rotation `[ps=4]`
 - Customer programs content rules based on geotargeting time of day place in rotation and wild card image replacements `[ps=4]`
 - IT and Web operations can remove themselves from being key masters of content delivery; non-IT staff insert content directly `[ps=4]`
@@ -53,15 +55,13 @@ _Published 2004, author **Aberdeen Group**, type **profile**._
 - Regional data center approach minimizes infrastructure costs and increases control security and manageability `[ps=3]`
 - Price was a huge issue; Mirror Image willing to build pricing model accounting for growth trajectory over time `[ps=3]`
 - Three major CDN vendors proved they could accelerate site offload data centers and reach consumers worldwide with similar pricing `[ps=3]`
+- Mirror Image improved significantly the site performance; can scale very cost-effectively `[ps=3]`
+- Smart Content platform positioned as next evolution of CDN services enabling non-IT content management `[ps=3]`
+- Smart Content platform did not achieve widespread adoption; Mirror Image acquired before full market penetration `[ps=3]`
 - Mirror Image Internet acquired by Limelight Networks in 2006 `[ps=1]`
 - Limelight Networks rebranded as Edgio in 2022; Edgio filed for bankruptcy in 2024 `[ps=1]`
 - Parent company Xcelera.com dissolved circa 2007 `[ps=1]`
+- More than 40 CDN vendors tracked by Aberdeen in 2001 `[ps=0]`
 - Fewer than a dozen CDN vendors remained by 2004 `[ps=0]`
 - More than 5 billion impressions per month `[ps=0]`
 - 14000 buyers and sellers connected through Fastclick Ad Network `[ps=0]`
-- Chose Mirror Image for centralized yet distributed architecture ease of implementation high flexibility and strong reporting `[ps=0]`
-- Mirror Image moved from request to production level monitoring tool in less than 45 days `[ps=0]`
-- MI staff is almost a part of my staff; MI support team helps resolve problems whether or not from Mirror Image `[ps=0]`
-- 75 employees `[ps=0]`
-- More than 40 CDN vendors tracked by Aberdeen in 2001
-- Traffic filtering and intrusion detection offloaded because everything goes through Mirror Image network

@@ -12,9 +12,9 @@ era: "1993-1996"
 lifecycle_at_study: "announced"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Sybase System 10
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Challenge Oracle for enterprise-class RDBMS leadership; gateways, replication server, network admin `[ps=3]` — [[study-nti-6-rdbms-technology-48f4aa]]
 - $300+ million (public company) `[ps=0]` — [[study-nti-6-rdbms-technology-48f4aa]]
-- Challenge Oracle for enterprise-class RDBMS leadership; gateways, replication server, network admin — [[study-nti-6-rdbms-technology-48f4aa]]

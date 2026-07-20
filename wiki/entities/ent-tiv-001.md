@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "IBM (1996)"
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Tivoli Systems Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Informix-OnLine 8.0 merges admin with Tivoli network management via SNMP — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
+- Informix-OnLine 8.0 merges admin with Tivoli network management via SNMP `[ps=2]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]

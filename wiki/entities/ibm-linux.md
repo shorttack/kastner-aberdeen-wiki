@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1911-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Linux replacing Unix in specific market segments and application areas — [[study-2000-linux-multi-client-study-29e6cf]]
+- Linux replacing Unix in specific market segments and application areas `[ps=4]` — [[study-2000-linux-multi-client-study-29e6cf]]

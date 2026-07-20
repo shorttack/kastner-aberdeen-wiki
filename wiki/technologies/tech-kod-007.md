@@ -12,9 +12,9 @@ era: "1930s-2000s"
 lifecycle_at_study: "Active / Declining"
 lifecycle_current: "Near-obsolete (niche archival use only)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Microfilm / COM (Computer Output to Microfilm)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Document imaging and work management entering new stage of explosive growth; production-level capabilities now deliverable at lower price points to distributed departmental environments — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]
+- Document imaging and work management entering new stage of explosive growth; production-level capabilities now deliverable at lower price points to distributed departmental environments `[ps=4]` — [[study-1997-kodak-completes-wang-software-acqui-e78bb4]]

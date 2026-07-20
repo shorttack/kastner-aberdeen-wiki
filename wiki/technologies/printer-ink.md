@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Inkjet/printer ink consumables
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Ink annuity on profitable printers — [[study-dct-hp-compaq-pcs-insight-2001-09]]
+- Ink annuity on profitable printers `[ps=4]` — [[study-dct-hp-compaq-pcs-insight-2001-09]]

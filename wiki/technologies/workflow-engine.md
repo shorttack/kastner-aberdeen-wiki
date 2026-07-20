@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.67
+prescience_obs_count: 3
 ---
 
 # Workflow Engine / Process Automation
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Customers think in process terms — how something works within their particular business — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
-- Supporting workflow must make business processes fluid including touchpoints outside the organization itself — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
-- CRM identified as key domain requiring process-flow orientation alongside ERP — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
+- Supporting workflow must make business processes fluid including touchpoints outside the organization itself `[ps=4]` — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
+- CRM identified as key domain requiring process-flow orientation alongside ERP `[ps=4]` — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]
+- Customers think in process terms — how something works within their particular business `[ps=3]` — [[study-2003-business-process-orientation-changes-ap-le-flows-d-ed067c]]

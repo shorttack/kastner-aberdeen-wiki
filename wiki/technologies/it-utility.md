@@ -12,9 +12,9 @@ era: "2002-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # IT Utility / Storage Utility
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Storage will evolve toward utility computing model `[ps=5]` — [[study-2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb]]
 - AWS S3 launched March 2006 as first mass-market storage utility `[ps=4]` — [[study-2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb]]
-- Storage will evolve toward utility computing model — [[study-2003-storage-trends-what-will-be-hot-in-2003-and-beyond-cd0aeb]]

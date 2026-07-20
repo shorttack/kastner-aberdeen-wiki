@@ -16,12 +16,12 @@ source_file: "2002 IT Spending Shows Encouraging Signs.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.5
-prescience_obs_count: 10
+prescience_mean: 2.33
+prescience_obs_count: 12
 ---
 
 # IT Spending Shows Encouraging Signs
@@ -46,9 +46,9 @@ _Published 2002, author **Hugh Bishop, James Tsai**, type **market-study**._
 - incremental growth expected `[ps=4]`
 - incremental growth expected `[ps=4]`
 - security software became largest IT spending growth category 2003-2006 `[ps=4]`
+- incremental growth expected `[ps=3]`
+- +3.4% `[ps=0]`
 - cautious optimism `[ps=0]`
 - positive contributor to benchmark `[ps=0]`
 - part of benchmark group post-merger `[ps=0]`
 - top-20 IT supplier Q3 financial results `[ps=0]`
-- +3.4%
-- incremental growth expected

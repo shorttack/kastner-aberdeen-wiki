@@ -16,12 +16,12 @@ source_file: "2000 KPMG Creating a Successful dot.com_ The Devil Is in the Detai
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "low"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 7
+prescience_mean: 2.3
+prescience_obs_count: 10
 ---
 
 # Creating a Successful dot.com: The Devil Is in the Details
@@ -42,11 +42,11 @@ _Published 2000, author **Stephen Lane**, type **white-paper**._
 
 - Traditional firms must redesign strategy, processes, and technology to compete in Internet economy `[ps=5]`
 - Consulting firms restructuring practices to deliver e-business advisory services `[ps=5]`
+- NASDAQ peaked March 2000 (just 5 weeks after publication), fell 78% by Oct 2002; most dot-coms failed `[ps=5]`
 - Pure-play dot-coms face operational scaling challenges as they grow `[ps=4]`
+- Early dot-com winners face commoditization as followers copy business models `[ps=3]`
+- KPMG Consulting well-positioned to capture e-business consulting market as premier provider `[ps=1]`
 - Launched Microsoft Dot.com Practice — co-branded e-business consulting offering with Microsoft `[ps=0]`
 - Focused on helping existing and would-be dot.com companies deal with Internet economy challenges `[ps=0]`
 - KPMG Consulting renamed BearingPoint 2002; US operations filed Chapter 11 bankruptcy Feb 2009 `[ps=0]`
 - Vendor-sponsored white paper (KPMG Consulting sponsor); not independent research `[ps=0]`
-- Early dot-com winners face commoditization as followers copy business models
-- KPMG Consulting well-positioned to capture e-business consulting market as premier provider
-- NASDAQ peaked March 2000 (just 5 weeks after publication), fell 78% by Oct 2002; most dot-coms failed

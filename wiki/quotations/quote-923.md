@@ -1,6 +1,7 @@
 ---
 title: Quote 923 — Computerworld (1992-08-24)
 type: quotation
+page_type: quotation
 slug: quote-923
 row_id: 923
 author: "Peter S. Kastner"

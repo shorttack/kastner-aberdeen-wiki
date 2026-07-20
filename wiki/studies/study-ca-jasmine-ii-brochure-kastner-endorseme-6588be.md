@@ -16,12 +16,12 @@ source_file: "dev-BI-client-CA-Jasmine-1999-8.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 3
+prescience_mean: 1.88
+prescience_obs_count: 8
 ---
 
 # CA Jasmine ii Brochure: The Intelligent Information Infrastructure (Kastner Endorsement, 1999)
@@ -40,11 +40,11 @@ _Published 1999, author **Computer Associates International — corporate market
 
 ## Top observations
 
+- Internet-as-ultimate-platform-for-customer-focused-e-commerce `[ps=4]`
 - forthcoming-pattern-recognition-predictive-agents `[ps=4]`
 - intelligence-everywhere-makes-CA-one-stop-shop `[ps=2]`
+- compelling-advance-in-application-dev-deployment-integration `[ps=2]`
+- contract-monitoring-system-using-Neugents `[ps=2]`
+- Charles-Wang-Sanjay-Kumar-leadership `[ps=1]`
 - Vice-President-Aberdeen-Group `[ps=0]`
-- compelling-advance-in-application-dev-deployment-integration
-- contract-monitoring-system-using-Neugents
-- MP78610799
-- Charles-Wang-Sanjay-Kumar-leadership
-- Internet-as-ultimate-platform-for-customer-focused-e-commerce
+- MP78610799 `[ps=0]`

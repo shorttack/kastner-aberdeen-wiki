@@ -12,9 +12,9 @@ era: "1970s-2003"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Online Transaction Processing (OLTP)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Update-intensive (both reads and writes; focus on writes) — [[study-maxtor-ramp-interview-guide-first-draft-c68ebd]]
+- Update-intensive (both reads and writes; focus on writes) `[ps=0]` — [[study-maxtor-ramp-interview-guide-first-draft-c68ebd]]

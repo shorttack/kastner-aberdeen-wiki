@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "shipping"
 lifecycle_current: "deprecated"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # Frame relay networking (telecom carrier service)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- AT&T and WorldCom frame relay network outages were a hot topic — [[study-telephony-post911-conferencing-psk-2001--0bf283]]
+- AT&T and WorldCom frame relay network outages were a hot topic `[ps=1]` — [[study-telephony-post911-conferencing-psk-2001--0bf283]]

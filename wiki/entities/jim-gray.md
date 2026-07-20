@@ -11,7 +11,7 @@ sector: "database-systems-research"
 status: "deceased-2007"
 successor: "Lost at sea 2007"
 years_active: "1944-2007"
-occurrence_count: 2
+occurrence_count: 3
 prescience_max: 5.0
 prescience_mean: 1.67
 prescience_obs_count: 3

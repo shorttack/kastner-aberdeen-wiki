@@ -12,9 +12,9 @@ era: "1990-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Cable Set-Top Box
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Provide complementary hardware to increase service consumption and customer lock-in — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
+- Provide complementary hardware to increase service consumption and customer lock-in `[ps=4]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]

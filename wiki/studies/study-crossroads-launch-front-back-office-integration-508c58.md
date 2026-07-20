@@ -16,7 +16,7 @@ source_file: "transcript Crossroads launch (June1997).md"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "low"
+study_prescience_enum: "not-applicable"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: null

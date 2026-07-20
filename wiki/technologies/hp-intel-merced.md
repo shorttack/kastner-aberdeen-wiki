@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 3.67
-prescience_obs_count: 3
+prescience_mean: 3.75
+prescience_obs_count: 4
 ---
 
 # HP-Intel P7/Merced (Itanium)
@@ -26,5 +26,5 @@ prescience_obs_count: 3
 
 - MPE/iX was never ported to Itanium/Merced; HP 3000 EOL announced instead `[ps=5]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
 - Itanium (Merced) shipped in servers in 2001; 3 years later than predicted `[ps=5]` — [[study-aberdeen-1996-hp-9000-enterprise-server-64bit-pa8000]]
+- Anticipated mid-1998 delivery in servers `[ps=4]` — [[study-aberdeen-1996-hp-9000-enterprise-server-64bit-pa8000]]
 - By year 2000 HP will design Merced processors into HP 3000 and rewrite MPE/iX `[ps=1]` — [[study-aberdeen-1996-hp-3000-increasing-customers-successes]]
-- Anticipated mid-1998 delivery in servers — [[study-aberdeen-1996-hp-9000-enterprise-server-64bit-pa8000]]

@@ -12,9 +12,9 @@ era: "2004-2015"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 3
-prescience_max: 4.0
-prescience_mean: 3.0
-prescience_obs_count: 2
+prescience_max: 5.0
+prescience_mean: 3.75
+prescience_obs_count: 4
 ---
 
 # Enterprise SOA — commercial middleware suite
@@ -24,7 +24,7 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Enterprise SOA — a suite of middleware for mission-critical and complex installations, best suited for mid-to-large companies. `[ps=5]` — [[study-soa-adoption-at-90-percent-c9c4ec]]
+- SOA: directionally right, five years early. `[ps=4]` — [[study-volume-1-ch10-the-long-view-1966-2026]]
 - SOA: directionally right, five years early — characteristic of the systematic analytical bias of correctly identifying direction but underestimating adoption friction. `[ps=4]` — [[study-volume-1-ch10-the-long-view-1966-2026]]
 - 2006 surveys showed companies following 'Enterprise SOA' strategy (ESB) can scale more easily with lower short- and long-term costs by investing in all aspects of SOA infrastructure software and IT staff training `[ps=2]` — [[study-soa-lifecycle-perspective-1ff953]]
-- Enterprise SOA — a suite of middleware for mission-critical and complex installations, best suited for mid-to-large companies. — [[study-soa-adoption-at-90-percent-c9c4ec]]
-- SOA: directionally right, five years early. — [[study-volume-1-ch10-the-long-view-1966-2026]]

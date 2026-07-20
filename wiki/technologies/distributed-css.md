@@ -12,9 +12,9 @@ era: "mid-1990s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Distributed Client/Server Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- data_and_processing_across_multiple_servers — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]
+- data_and_processing_across_multiple_servers `[ps=5]` — [[study-aberdeen-1996-app-dun-bradstreet-software-smartstrtogether-better]]

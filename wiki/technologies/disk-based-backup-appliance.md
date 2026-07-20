@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 2
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 4.0
+prescience_mean: 1.33
+prescience_obs_count: 3
 ---
 
 # Disk-Based Backup Appliance (ATA)
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Eliminates tape drive/media errors; higher backup completion rate via RAID; simplifies admin `[ps=4]` — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
 - $7,000-$10,000 `[ps=0]` — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
 - ATA-based: $20K-$30K vs SCSI-based: $35K-$50K `[ps=0]` — [[study-midline-storage-white-paper-jun2003]]
-- Eliminates tape drive/media errors; higher backup completion rate via RAID; simplifies admin — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]

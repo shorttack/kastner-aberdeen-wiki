@@ -16,12 +16,12 @@ source_file: "The-Death-of-the-CRT-Monitor-News-and-Analysis-by-PC-Magazine-8.tx
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 9
+prescience_mean: 2.83
+prescience_obs_count: 12
 ---
 
 # The Death of the CRT Monitor
@@ -43,12 +43,12 @@ _Published 2002, author **Cade Metz, PC Magazine**, type **news-article**._
 - LCD sales at $800 million a month, with roughly 2 million displays selling for an average price of $400 each `[ps=5]`
 - Because there's often a latency when it comes to displaying full-motion video on an LCD, games freaks and DVD aficionados are going to quibble with the picture and probably will stick with CRTs for the time being `[ps=5]`
 - Major CRT monitor manufacturers exited by 2008; last Sony CRT TV production ended 2008; CRT PC monitors essentially unavailable in retail by 2010 `[ps=5]`
+- In 2003, they say, we'll finally see LCDs outnumber CRTs as the standard monitor sold with PCs. `[ps=4]`
 - There are still issues with watching movies or video clips on the Internet, but response time is getting better and better `[ps=4]`
 - By 2006, LCDs will outnumber CRTs by 5 to 1. `[ps=4]`
 - LCDs account for only 40 percent of the desktop display market, with roughly 2 million units sold per month `[ps=3]`
+- LCD market share at around 29 percent `[ps=3]`
 - 2003 was the first year LCD monitor shipments exceeded CRT monitor shipments per DisplaySearch/iSuppli tracking `[ps=1]`
 - 3 percent in the first quarter of 2000 `[ps=0]`
 - 5 percent in early 2001 `[ps=0]`
-- LCD market share at around 29 percent
-- 21 percent in January of this year
-- In 2003, they say, we'll finally see LCDs outnumber CRTs as the standard monitor sold with PCs.
+- 21 percent in January of this year `[ps=0]`

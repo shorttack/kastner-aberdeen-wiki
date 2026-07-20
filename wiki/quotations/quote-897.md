@@ -1,6 +1,7 @@
 ---
 title: Quote 897 — Computerworld (1991-08-05)
 type: quotation
+page_type: quotation
 slug: quote-897
 row_id: 897
 author: "Peter S. Kastner"

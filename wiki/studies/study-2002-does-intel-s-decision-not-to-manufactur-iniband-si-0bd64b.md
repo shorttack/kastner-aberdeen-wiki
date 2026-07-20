@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.1
-prescience_obs_count: 10
+prescience_mean: 3.15
+prescience_obs_count: 13
 ---
 
 # Does Intel's Decision Not To Manufacture InfiniBand Silicon Damage the Initiative?
@@ -46,10 +46,10 @@ _Published 2002, author **Russ Craig, Peter S. Kastner**, type **insight**._
 - PCI Express became universal server bus standard replacing PCI and AGP `[ps=5]`
 - Intel's exit is good for the InfiniBand ecosystem (contrary to other opinions) `[ps=4]`
 - InfiniBand initiative will not be damaged by Intel's exit `[ps=4]`
+- Specialist silicon vendors positioned to fill gap left by Intel `[ps=4]`
+- Many industry observers believe Intel's decision will cause InfiniBand to stall `[ps=3]`
 - Intel's decision is good for Intel `[ps=3]`
+- Important next-generation data-center I/O initiative supported by IT industry broadly `[ps=3]`
 - Scheduled for production launch late 2002 `[ps=1]`
 - Intel cancelled plans to supply silicon for InfiniBand interface adapters `[ps=0]`
 - InfiniBand market estimated at $18.28 billion in 2024 projected to grow at 40% CAGR `[ps=-1]`
-- Many industry observers believe Intel's decision will cause InfiniBand to stall
-- Specialist silicon vendors positioned to fill gap left by Intel
-- Important next-generation data-center I/O initiative supported by IT industry broadly

@@ -16,12 +16,12 @@ source_file: "1995-Commercial-Messaging_-The-Keystone-Of-S...-Computing-An-Execu
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.03
-prescience_obs_count: 30
+prescience_mean: 2.4
+prescience_obs_count: 42
 ---
 
 # Commercial Messaging: The Keystone Of Strategic Long-Term Distributed Computing
@@ -42,26 +42,26 @@ _Published 1995, author **Aberdeen Group**, type **white-paper**._
 
 - will proliferate for specific user needs; more suppliers at all levels will enter market `[ps=5]`
 - renamed IBM MQ; remained active enterprise messaging platform for 30+ years `[ps=5]`
+- CORBA became largely obsolete; never provided mainstream Commercial Messaging `[ps=5]`
 - verified; became dominant messaging paradigm (Apache Kafka, RabbitMQ, AWS SNS/SQS, Azure Service Bus) `[ps=5]`
+- acquired by Sybase 1995; then SAP 2010; PowerBuilder continues as Appeon PowerBuilder `[ps=5]`
 - IBM MQSeries did achieve dominant enterprise messaging position; renamed IBM MQ in 2014; still a top enterprise messaging platform in 2026 `[ps=5]`
 - e-mail is by far most frequent use; technology invisible to users `[ps=4]`
+- growing mass of networking-limited legacy applications; costly retrofit or early rearchitecting required `[ps=4]`
 - no one-stop shop; market not yet developed for full bundled solution from single supplier `[ps=4]`
 - VB and PowerBuilder dominant over second-generation CADEs at departmental level `[ps=4]`
 - openness; broad scope of applicability; customizability; ability to evolve as market matures `[ps=4]`
 - multithreading; multiple queues; effective caching and memory management; pointer-passing vs. copying; administrative reconfiguration `[ps=4]`
+- APIs for wide range of tasks; coding and testing support; design tools for Queue Manager placement on enterprise internetwork `[ps=4]`
+- potentially on verge of major increase in strategic importance to enterprise IS `[ps=4]`
+- users will eventually see Commercial Messaging as applicable to most or all legacy and new applications `[ps=4]`
 - Commercial Messaging + enterprise-wide directory/name service + enterprise-wide systems management `[ps=4]`
+- verified; enterprise integration and API modernization debt became multi-billion dollar challenge `[ps=4]`
 - Aberdeen predicts IBM MQSeries will dominate enterprise commercial messaging; recommends immediate adoption as enterprise infrastructure `[ps=4]`
 - Aberdeen predicts that companies not adopting Commercial Messaging will accumulate a growing mass of legacy networking-limited applications requiring costly retrofits `[ps=4]`
+- Confirmed: enterprises that delayed messaging adoption faced costly SOA/ESB modernization projects in 2000s; message broker architectures became multi-billion dollar market (IBM WebSphere MQ, TIBCO, webMethods) `[ps=4]`
+- Unix, AS/400, MVS/ESA, Tandem; Windows/DOS client; Windows 95 and NT upcoming; TCP/IP, SNA, NetBIOS, DECnet simultaneous `[ps=3]`
+- store-and-forward architecture present; full developer APIs not yet provided `[ps=3]`
 - well integrated into toolset; pub/sub present; messaging not easily portable to applications outside toolset `[ps=3]`
 - underutilized; IS not yet taking effective advantage `[ps=3]`
 - staged: (1) skeleton on directory nodes, (2) 2/3/4-tier LAN deployment, (3) WAN extension for targets of opportunity `[ps=3]`
-- <$100 million `[ps=0]`
-- ~$1 billion `[ps=0]`
-- ~$1 billion `[ps=0]`
-- $100-200 million `[ps=0]`
-- <$10 million `[ps=0]`
-- hundred-million range `[ps=0]`
-- will not provide Commercial Messaging capabilities in near future `[ps=0]`
-- will not provide Commercial Messaging capabilities in near future `[ps=0]`
-- focused on e-mail market; transaction support planned within 2 years; not a full Commercial Messaging product `[ps=0]`
-- outstanding example; repartitions and rebundles components online transparently with Commercial Messaging `[ps=0]`

@@ -16,12 +16,12 @@ source_file: "it-budget-realities-benchmark-1b1313.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.33
-prescience_obs_count: 33
+prescience_mean: 1.51
+prescience_obs_count: 45
 ---
 
 # The Strategic Enterprise IT Budget Realities Benchmark Report
@@ -43,11 +43,17 @@ _Published 2004, author **Bill Malik**, type **benchmark-report**._
 - Pressure to cut IT expenses `[ps=4]`
 - Key corporate data is fragmented `[ps=4]`
 - Sustained IT alignment with business strategic priorities `[ps=4]`
+- Inadequate or inconsistent expertise across spend categories `[ps=4]`
 - Consolidate data and provide unified visibility `[ps=4]`
+- CobiT-style IT process model `[ps=4]`
 - IT acquisition and lifecycle ill-defined and owned by separate lines of business `[ps=4]`
 - Corporate IT lifecycle standards exist but numerous exceptions tolerated `[ps=4]`
+- Use a portfolio strategy that blends in-source/outsource and buy/ASP `[ps=4]`
+- Ad hoc problem-specific if at all; no way to break down IT cost drivers `[ps=4]`
 - Leadership team attention to minimal but key set of business-relevant metrics developed with user executives `[ps=4]`
+- outsourcing may mask problems rather than solve them `[ps=4]`
 - Best-in-class see sustaining IT alignment as top pressure; customer demand third `[ps=4]`
+- continuous measurement will become best practice `[ps=4]`
 - Continuous monitoring became industry standard `[ps=4]`
 - Establish customer-centric service levels `[ps=3]`
 - Corporate IT lifecycle standardized enforced enterprise-wide `[ps=3]`
@@ -55,13 +61,7 @@ _Published 2004, author **Bill Malik**, type **benchmark-report**._
 - 15% `[ps=0]`
 - 25% `[ps=0]`
 - 10% `[ps=0]`
+- 25% `[ps=0]`
 - Business customers demanding new capabilities `[ps=0]`
 - Eliminate redundant non-value-adding IT costs `[ps=0]`
 - 65% `[ps=0]`
-- 58% `[ps=0]`
-- 57% `[ps=0]`
-- 67% `[ps=0]`
-- 60% `[ps=0]`
-- Buy everything and maintain/operate in house `[ps=0]`
-- 74.3% `[ps=0]`
-- 0% `[ps=0]`

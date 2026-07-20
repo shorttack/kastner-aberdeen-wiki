@@ -16,12 +16,12 @@ source_file: "1997 Object Databases Such As O2 ODMG_ Time To Take A Second Look 
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
-study_prescience_enum: "low"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 3.4
-prescience_obs_count: 10
+prescience_mean: 3.33
+prescience_obs_count: 12
 ---
 
 # Object Databases Such As O2 ODMG: Time To Take A Second Look
@@ -42,6 +42,7 @@ _Published 1997, author **Wayne Kernochan / Aberdeen Group**, type **Product Vie
 
 - IDC 1999: OODBMS $211M vs RDBMS/ORDBMS $11.1B; OODBMS never achieved mainstream status `[ps=5]`
 - O2 Technology acquired by Informix in 1998; technology later absorbed by IBM via 2001 Informix acquisition `[ps=5]`
+- Object databases retained specialized niches in CAD/CAM telecom scientific computing; NoSQL document stores addressed web use cases `[ps=5]`
 - Relational databases remained dominant; object-relational extensions by Oracle and IBM addressed complex-data needs `[ps=5]`
 - ODMG disbanded 2001 after transitioning Java binding work to Java Data Objects (JDO) specification `[ps=4]`
 - Component objects proven key to order-of-magnitude productivity improvements in developer-driven competitive applications `[ps=4]`
@@ -50,5 +51,4 @@ _Published 1997, author **Wayne Kernochan / Aberdeen Group**, type **Product Vie
 - IS buyers should factor object databases into buying decisions for wider range of mission-critical applications `[ps=2]`
 - Internet has insatiable appetite for large quantities of objects requiring OODBMS capabilities `[ps=2]`
 - Best suited for complex-data in data marts; multimedia Internet; rapidly changing applications; business model implementations `[ps=2]`
-- O2 Technology positioned as strong alternative to relational databases for new IS applications
-- Object databases retained specialized niches in CAD/CAM telecom scientific computing; NoSQL document stores addressed web use cases
+- O2 Technology positioned as strong alternative to relational databases for new IS applications `[ps=1]`

@@ -16,12 +16,12 @@ source_file: "Compaq-HP-quote-2002-4-SIA-6.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.67
-prescience_obs_count: 9
+prescience_mean: 2.55
+prescience_obs_count: 11
 ---
 
 # Compaq Vows Support for Himalaya Post-HP (Securities Industry News)
@@ -44,10 +44,10 @@ _Published 2002, author **Maria Trombly (Securities Industry News)**, type **tra
 - Nasdaq spokesman: 'Our CIO has been in discussions with Compaq and they have reassured us that they will continue to support and have direct investments in the Himalaya line.' `[ps=5]`
 - Merged company will be spending next year reorganizing while competitors move ahead with new products and services `[ps=4]`
 - 'The top 500 combined customers of HP and Compaq should continue to see very high levels of sales and support. But those below the 500 who may have been higher up in the pecking order of the smaller company may see less support.' `[ps=4]`
+- HPE NonStop platform continues to operate the world's exchanges and securities processing in 2025 — Kastner's middle-path forecast (preserve top, friction below) more accurate than Travis's 'starve to death' prediction `[ps=4]`
 - Power 106 of the world's 120 stock exchanges `[ps=3]`
 - 'We've already assured all of our customers, on every product front, that they can count on our ongoing long-term support.' `[ps=2]`
 - 'HP doesn't have anything directly to replace the Himalaya, [but] there is a risk that it will get shoved aside and starved to death. I think it behooves people to start looking for alternatives.' `[ps=2]`
 - Includes J.D. Edwards, Prudential Securities, T.D. Waterhouse, Nasdaq Stock Market `[ps=0]`
+- Kastner recommends IT organizations at major financial firms plan on holding information-exchange meetings so newly-assigned people can come up to speed on present and future needs `[ps=0]`
 - 95% of world's securities transactions go through Compaq Himalaya mainframes `[ps=-1]`
-- Kastner recommends IT organizations at major financial firms plan on holding information-exchange meetings so newly-assigned people can come up to speed on present and future needs
-- HPE NonStop platform continues to operate the world's exchanges and securities processing in 2025 — Kastner's middle-path forecast (preserve top, friction below) more accurate than Travis's 'starve to death' prediction

@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Greg Sullivan
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft product manager Greg Sullivan articulated why small businesses are migrating toward XP. — [[study-pc-refresh-or-refurb-smb-computing-6-37f090]]
+- Microsoft product manager Greg Sullivan articulated why small businesses are migrating toward XP. `[ps=4]` — [[study-pc-refresh-or-refurb-smb-computing-6-37f090]]

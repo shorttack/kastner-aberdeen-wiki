@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 71
+prescience_max: 2.0
+prescience_mean: 0.02
+prescience_obs_count: 90
 ---
 
 # The Composite Applications Benchmark Report: How SOA Standards Are Accelerating Business Change
@@ -40,6 +40,8 @@ _Published 2006, author **Rick Saia and Peter S. Kastner, Aberdeen Group**, type
 
 ## Top observations
 
+- 40% `[ps=2]`
+- 40% `[ps=0]`
 - ~135 enterprises `[ps=0]`
 - 34% `[ps=0]`
 - 32% `[ps=0]`
@@ -48,11 +50,13 @@ _Published 2006, author **Rick Saia and Peter S. Kastner, Aberdeen Group**, type
 - 28% `[ps=0]`
 - 23% `[ps=0]`
 - 63% `[ps=0]`
+- 56% `[ps=0]`
 - 48% `[ps=0]`
 - 31% `[ps=0]`
 - 60% `[ps=0]`
 - 49% `[ps=0]`
 - 43% `[ps=0]`
+- 40% `[ps=0]`
 - 31% `[ps=0]`
 - 51% `[ps=0]`
 - 52% `[ps=0]`
@@ -61,7 +65,3 @@ _Published 2006, author **Rick Saia and Peter S. Kastner, Aberdeen Group**, type
 - 48% `[ps=0]`
 - 25% `[ps=0]`
 - 24% `[ps=0]`
-- 22% `[ps=0]`
-- 38% `[ps=0]`
-- 3 to 9 months `[ps=0]`
-- More than 9 months `[ps=0]`

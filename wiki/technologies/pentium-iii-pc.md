@@ -14,7 +14,7 @@ lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Pentium III 
 occurrence_count: 2
 prescience_max: 5.0
 prescience_mean: 2.0
-prescience_obs_count: 7
+prescience_obs_count: 9
 ---
 
 # Pentium III PC
@@ -26,10 +26,10 @@ prescience_obs_count: 7
 
 - Storing aging IT equipment creates financial liability (depreciation + storage) plus legal liability (data breach risk) `[ps=5]` — [[study-2003-dell-asset-recovery-services-white--142827]]
 - Integrate disposal costs into total cost of ownership models from point of acquisition; act swiftly to maximize residual value `[ps=4]` — [[study-2003-dell-asset-recovery-services-white--142827]]
+- 36-month lifecycle cited as reference for cost calculations; enterprises typically replace PCs on 3-4 year cycles `[ps=4]` — [[study-2003-dell-asset-recovery-services-white--142827]]
 - At least $387 per PC for proper do-it-yourself disposal `[ps=3]` — [[study-2003-dell-asset-recovery-services-white--142827]]
 - Each PC contains lead (CRTs), cadmium, mercury and other hazardous materials requiring special disposal handling `[ps=3]` — [[study-2003-dell-asset-recovery-services-white--142827]]
 - 9.6% per month based on resale/recycling value `[ps=0]` — [[study-2003-dell-asset-recovery-services-white--142827]]
+- $368 per PC per year `[ps=0]` — [[study-2003-dell-asset-recovery-services-white--142827]]
 - $368 per year `[ps=0]` — [[study-dell-ars-white-paper-prod-7-11m-c60434]]
 - Can exceed 25% of initial PC acquisition cost; up to 32% for $1,200 PC and monitor `[ps=-1]` — [[study-2003-dell-asset-recovery-services-white--142827]]
-- $368 per PC per year — [[study-2003-dell-asset-recovery-services-white--142827]]
-- 36-month lifecycle cited as reference for cost calculations; enterprises typically replace PCs on 3-4 year cycles — [[study-2003-dell-asset-recovery-services-white--142827]]

@@ -16,12 +16,12 @@ source_file: "USATODAY.com-Small-is-huge-in-PCs-these-days.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.5
-prescience_obs_count: 4
+prescience_mean: 1.67
+prescience_obs_count: 6
 ---
 
 # Small Is Huge in PCs These Days
@@ -40,9 +40,9 @@ _Published 2004, author **Kenneth Li (Reuters)**, type **news-article**._
 
 ## Top observations
 
+- The next form factor battles are beginning to be fought in the living room `[ps=4]`
 - Factors including size and decor suddenly matter a lot `[ps=4]`
 - Gateway, Sony, HP and a handful of lesser-known manufacturers leading the charge to shrink the PC `[ps=2]`
 - 1.2 million units shipped in 2003 `[ps=0]`
+- 32.1 million units expected by 2008 `[ps=0]`
 - Champagne gold-exterior Gateway 901 Family Room Media Center costs between $1,000 and $2,000 `[ps=0]`
-- The next form factor battles are beginning to be fought in the living room
-- 32.1 million units expected by 2008

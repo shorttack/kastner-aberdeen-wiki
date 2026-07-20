@@ -16,12 +16,12 @@ source_file: "Review-Gateway-Notebook-With-Intel-Centrino-Chipset-Packs-Wi-Fi-Po
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 3
+prescience_mean: 2.57
+prescience_obs_count: 7
 ---
 
 # Review: Gateway Notebook With Intel Centrino Chipset Packs Wi-Fi Power
@@ -40,10 +40,10 @@ _Published 2003, author **Peter S. Kastner (Aberdeen Group), for InternetWeek / 
 
 ## Top observations
 
+- Designed from the get-go to maximize effective performance while squeezing every watt out of batteries, the Centrino platform is becoming mainstream for business laptops. `[ps=5]`
 - IEEE 802.11g ratified June 2003 (matching Kastner timing); widespread enterprise deployment by 2004-2005. `[ps=5]`
 - 802.11b at 11 Mbps today, with 802.11a this summer and 802.11g next year. `[ps=4]`
+- By 2006 most enterprise business laptops shipped with Centrino branding; Intel led the corporate mobile-CPU market unchallenged until ARM/Apple Silicon emergence in the 2020s. `[ps=4]`
+- High marks for the Gateway 450: excels at performance, battery life, screen visibility, and ability to pull in distant Wi-Fi signals. `[ps=0]`
+- Intel's $300 million Centrino 'unwired experience' ad campaign. `[ps=0]`
 - Centrino notebooks are not yet a common sight on airplanes or in corporate conference rooms. `[ps=0]`
-- Designed from the get-go to maximize effective performance while squeezing every watt out of batteries, the Centrino platform is becoming mainstream for business laptops.
-- High marks for the Gateway 450: excels at performance, battery life, screen visibility, and ability to pull in distant Wi-Fi signals.
-- Intel's $300 million Centrino 'unwired experience' ad campaign.
-- By 2006 most enterprise business laptops shipped with Centrino branding; Intel led the corporate mobile-CPU market unchallenged until ARM/Apple Silicon emergence in the 2020s.

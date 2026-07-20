@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "Hewlett-Packard (merged 2002)"
 years_active: "1982-2002"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Compaq Computer Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Compaq Intelligent Manageability is described as a proprietary solution requiring Compaq hardware and an invitation program for third-party ISVs — [[study-1997-desktop-and-systems-management-the--169a9b]]
+- Compaq Intelligent Manageability is described as a proprietary solution requiring Compaq hardware and an invitation program for third-party ISVs `[ps=3]` — [[study-1997-desktop-and-systems-management-the--169a9b]]

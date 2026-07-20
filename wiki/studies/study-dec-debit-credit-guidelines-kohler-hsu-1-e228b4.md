@@ -16,12 +16,12 @@ source_file: "DECtp-debit-credit-guidelines-1987-12-3.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.89
-prescience_obs_count: 9
+prescience_mean: 0.73
+prescience_obs_count: 11
 ---
 
 # DEC Proposed Debit-Credit Benchmark Guidelines (Kohler/Hsu, Dec 1987)
@@ -43,11 +43,11 @@ _Published 1987, author **Walt Kohler & Yun-Ping Hsu, DEC HPS/OLTP Systems Perfo
 - 95th-percentile-1-second `[ps=4]`
 - distributed-lock-manager-cross-branch-traffic `[ps=4]`
 - 11 `[ps=0]`
+- HPS::KASTNER `[ps=0]`
 - COMPANY CONFIDENTIAL `[ps=0]`
 - co-author `[ps=0]`
 - co-author `[ps=0]`
+- DATAMATION-April-1985-Anon-et-al `[ps=0]`
 - 8 `[ps=0]`
 - branch-office-FEP `[ps=0]`
 - formal-database-debit-credit `[ps=0]`
-- HPS::KASTNER
-- DATAMATION-April-1985-Anon-et-al

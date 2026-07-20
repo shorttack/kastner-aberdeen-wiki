@@ -16,12 +16,12 @@ source_file: "Archive-1/DCT Oct. 4 hot topic.doc"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.31
-prescience_obs_count: 13
+prescience_mean: 1.29
+prescience_obs_count: 17
 ---
 
 # New Consumer Electronics Categories Appear in Time for Christmas
@@ -44,16 +44,16 @@ _Published 2003, author **Russ Craig**, type **topic-analysis**._
 - Dell and non-traditional CE companies intensify price competition; traditional CE categories becoming even greater bargain `[ps=4]`
 - Live Art animated still scenes; converts blank HDTV screen into art gallery; intuitive UI `[ps=4]`
 - Ethernet + WiFi; CF, SD, SmartMedia, XD, Memory Stick card slots `[ps=3]`
+- Aberdeen expected Sony to announce pocket video player; Hand Held Entertainment (founded Feb 2003) announced first `[ps=3]`
 - Fuel cells poised to be alternate power sources for all kinds of portable technology; fuel-cell cell phone rumored in Asia by end of 2003 `[ps=2]`
+- Licensed audio and video programming on preprogrammed SD cards; proprietary compression `[ps=2]`
 - $99 including earphones and one SD card with one video title `[ps=0]`
 - $1,359 (Clie $599 + 1GB Memory Stick Pro $500 + accessory $260) `[ps=0]`
 - 256MB SD card holds 4 hours of video (two full-length movies) in proprietary MPEG-4 compression `[ps=0]`
 - 8+ hours on four AA batteries `[ps=0]`
+- $499.99 player plus $69.99 per Live Art pack `[ps=0]`
 - 5 hours (prototype shown at WPC Expo Tokyo, September 17, 2003) `[ps=0]`
 - On sale 2004; 40-hour version in 2005 `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - $300-$500 and up (expected launch, not yet announced) `[ps=0]`
-- $499.99 player plus $69.99 per Live Art pack
-- Aberdeen expected Sony to announce pocket video player; Hand Held Entertainment (founded Feb 2003) announced first
-- Software application to convert MPEG-4 files to SD-compatible format planned for release
-- Licensed audio and video programming on preprogrammed SD cards; proprietary compression
+- Software application to convert MPEG-4 files to SD-compatible format planned for release `[ps=0]`

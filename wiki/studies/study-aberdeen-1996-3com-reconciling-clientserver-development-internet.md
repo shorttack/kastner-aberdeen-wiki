@@ -16,12 +16,12 @@ source_file: "1996 3Com_ Reconciling Client_Server Development and the Internet 
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.9
-prescience_obs_count: 20
+prescience_mean: 2.2
+prescience_obs_count: 25
 ---
 
 # Reconciling Client/Server Development and the Internet
@@ -41,11 +41,15 @@ _Published 1996, author **Aberdeen Group**, type **impact-report**._
 ## Top observations
 
 - net_development_seeming_important `[ps=5]`
+- acquired_by_hp_2_7b `[ps=5]`
 - internet_info_services_becoming_imperative `[ps=5]`
 - j2ee_dominates_enterprise `[ps=4]`
 - web_enabled_cs_tools_will_win `[ps=4]`
+- moving_to_app_server_partitioning `[ps=4]`
 - j2ee_iis_apache_confirmed `[ps=4]`
 - web_enable_cs_tools_single_strategy `[ps=4]`
+- ideal_for_catalogs_product_literature `[ps=4]`
+- tcp_ip_opens_doors_to_suppliers `[ps=4]`
 - blend_cs_ergonomics_with_free_net_data `[ps=4]`
 - mixed_cs_tools_evolved_web_enabled `[ps=3]`
 - sessions_intrinsic_to_cs_not_browser `[ps=3]`
@@ -58,10 +62,6 @@ _Published 1996, author **Aberdeen Group**, type **impact-report**._
 - predefined_db_queries_hr `[ps=0]`
 - emerging_labor_saving_hybrid_apps `[ps=0]`
 - 1990s_client_for_the_masses `[ps=0]`
+- 3com_sponsored_report `[ps=0]`
 - look_anew_at_best_cs_tool_suppliers `[ps=0]`
 - web_server_to_app_server_partitioning `[ps=0]`
-- moving_to_app_server_partitioning
-- 3com_sponsored_report
-- acquired_by_hp_2_7b
-- ideal_for_catalogs_product_literature
-- tcp_ip_opens_doors_to_suppliers

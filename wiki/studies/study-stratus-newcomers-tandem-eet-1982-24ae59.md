@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.5
-prescience_obs_count: 4
+prescience_mean: 2.6
+prescience_obs_count: 10
 ---
 
 # Newcomers Invade Fault-Tolerant Field, But Tandem Has Big Lead — Electronic Engineering Times, 24 May 1982 (PSK quoted)
@@ -41,12 +41,12 @@ _Published 1982, author **Electronic Engineering Times staff**, type **press-art
 ## Top observations
 
 - $208M; ~total domination of fault-tolerant market `[ps=4]`
+- $2.6B annual sales by 1988 per Strategic Business Services `[ps=4]`
+- Four systems per month — below Tandem's pace, but Kastner argues design features and price will make Stratus a heavyweight `[ps=4]`
+- ~106% revenue growth annually for past three years; targets $1B by 1985 (~20% market share) `[ps=3]`
+- Stratus has already taken away some orders from Tandem — sold to a dairy company and a shoe-store chain `[ps=3]`
+- ~$100M industry sales (CPU hardware + peripherals specifically packaged with FT systems) per Strategic Business Services Nov 1981 survey 'Survivable Systems: Pitfalls and Opportunities' `[ps=2]`
 - $5B annual volume by 1985 (including software) per Dataquest `[ps=2]`
 - Every component is self-checking during each operating cycle; absolutely no user-software is involved in making existing applications fault-tolerant `[ps=2]`
 - Stratus has faster computational ability and bigger memory system thanks to 32-bit capability vs Tandem's 16-bit internal data paths `[ps=2]`
-- ~$100M industry sales (CPU hardware + peripherals specifically packaged with FT systems) per Strategic Business Services Nov 1981 survey 'Survivable Systems: Pitfalls and Opportunities'
-- ~106% revenue growth annually for past three years; targets $1B by 1985 (~20% market share)
-- $2.6B annual sales by 1988 per Strategic Business Services
-- Stratus has already taken away some orders from Tandem — sold to a dairy company and a shoe-store chain
-- Four systems per month — below Tandem's pace, but Kastner argues design features and price will make Stratus a heavyweight
-- Minimum-configuration Stratus is ~$110,000 below the $260,000 equivalent Tandem package
+- Minimum-configuration Stratus is ~$110,000 below the $260,000 equivalent Tandem package `[ps=0]`

@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supplanted"
 occurrence_count: 29
 prescience_max: 5.0
-prescience_mean: 2.66
-prescience_obs_count: 59
+prescience_mean: 2.74
+prescience_obs_count: 70
 ---
 
 # Service-Oriented Architecture (SOA)
@@ -43,6 +43,7 @@ prescience_obs_count: 59
 - SOA affects entire design-code-test-deploy-maintain application lifecycle `[ps=4]` — [[study-hp-mercury-soa-2006-pdf-80785e]]
 - IBM showing positive growth and financial performance in SOA area `[ps=4]` — [[study-hp-mercury-soa-2006-pdf-80785e]]
 - One-third of organizations planning four or more SOA projects in 2006 `[ps=4]` — [[study-ma-ibm-webify-5e0d4b]]
+- distributes and decouples processing from data center to network edge and anywhere in-between `[ps=4]` — [[study-next-steps-soa-2006-0fdea1]]
 - SOA takes planning, lest IT fall into what we call an 'accidental architecture.' If IT takes a project-by-project approach to implementing SOA, they must pay particular attention to the SOA infrastructure and tools they pick. `[ps=4]` — [[study-q-a-achieving-more-value-from-enterprise-d1d7dd]]
 - Three key considerations for SOA infrastructure and tools: cross-platform, cross-process, cross-application capabilities. `[ps=4]` — [[study-q-a-achieving-more-value-from-enterprise-d1d7dd]]
 - Microservices era (2015-present) repeatedly produced accidental architectures at scale (microservices sprawl, distributed monoliths); teams adopted service meshes and platform engineering to contain, validating Kastner's 2006 warning. `[ps=4]` — [[study-q-a-achieving-more-value-from-enterprise-d1d7dd]]
@@ -50,4 +51,3 @@ prescience_obs_count: 59
 - SOA is broadly seen as a real technology step forward, with the largest companies, who have the biggest integration problems, leading the way. `[ps=4]` — [[study-soa-adoption-at-90-percent-c9c4ec]]
 - By 2015-2020, SOA and ESBs were largely displaced by REST microservices, cloud-native API gateways (AWS API Gateway, Kong, Apigee), and iPaaS (MuleSoft, Boomi, Workato) — though integration still consumed a sizeable portion of IT budgets, validating the underlying Kastner thesis that integration is structurally expensive. `[ps=4]` — [[study-soa-adoption-at-90-percent-c9c4ec]]
 - Multiple industry surveys (Salesforce MuleSoft State of Integration, Gartner, IDC) show integration consuming 25-40% of IT spend through 2023 — Kastner's 40% figure remained durable as the approximate integration-tax on enterprise IT. `[ps=4]` — [[study-soa-adoption-at-90-percent-c9c4ec]]
-- SOA is broadly seen as a real technology step forward, with the largest companies — who have the biggest integration problems — leading the way. `[ps=4]` — [[study-soa-adoption-eats-up-40-per-cent-of-it-r-d0cf12]]

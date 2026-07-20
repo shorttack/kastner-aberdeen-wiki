@@ -12,9 +12,9 @@ era: "1999-present"
 lifecycle_at_study: "announced"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: 1.0
-prescience_mean: 1.0
-prescience_obs_count: 1
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Active Directory
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Active Directory with Windows 2000 became dominant enterprise directory standard `[ps=5]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
 - Active Directory announced but not available; mid-1998 target cited `[ps=1]` — [[study-1997-novell-directory-to-the-network-str-048b05]]
-- Active Directory with Windows 2000 became dominant enterprise directory standard — [[study-1997-novell-directory-to-the-network-str-048b05]]

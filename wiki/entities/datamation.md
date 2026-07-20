@@ -14,7 +14,7 @@ years_active: "1957-present"
 occurrence_count: 3
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Datamation / internet.com
@@ -30,4 +30,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Datamation 1-Mar-1994 page 32 `[ps=0]` — [[study-datamation-informix-dsa-ad-aberdeen-cite-a9f18d]]
-- Condensed version published in Datamation April 1, 1985 — [[study-tandem-tr-85-2-debitcredit-1985-ca207a]]
+- Condensed version published in Datamation April 1, 1985 `[ps=0]` — [[study-tandem-tr-85-2-debitcredit-1985-ca207a]]

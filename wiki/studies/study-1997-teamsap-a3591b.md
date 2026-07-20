@@ -16,12 +16,12 @@ source_file: "1997 teamsap wp.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.44
-prescience_obs_count: 18
+prescience_mean: 3.35
+prescience_obs_count: 23
 ---
 
 # TeamSAP: SAP's Mantra For Assuring Customer Success
@@ -46,20 +46,20 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 - AcceleratedSAP evolved into SAP Activate methodology (2015); continues as standard SAP implementation framework for S/4HANA `[ps=5]`
 - SAP S/4HANA generally available 2015; built exclusively on HANA in-memory database; successor to R/3 and ECC `[ps=5]`
 - Online competency center for SAP, partner, and customer knowledge transfer `[ps=5]`
+- SAP as coach throughout full R/3 lifecycle; coordinated network of products, processes, people `[ps=4]`
 - Customers want rapid business results, not multi-year re-engineering — especially with Y2K and Euro urgency `[ps=4]`
 - Greater SAP involvement in selection, procurement and full deployment scope `[ps=4]`
 - First branded implementation solutions directly supported by SAP; SAP-derived resource estimates; shared project strategies; standardized across geographies `[ps=4]`
+- Largest SAP implementation partners; 300 Andersen technicians specialized in Siebel/SAP installation by 1997; take project lead `[ps=4]`
 - Lack of clear formula for SAP involvement level beyond basic coaching; risk of duplicated efforts with partners `[ps=4]`
 - Andersen Consulting rebranded as Accenture in January 2001; remains world's largest management consulting firm `[ps=4]`
 - Joint Development Partners (co-development with SAP); Certified Interface Partners (certified interoperability) `[ps=4]`
+- Proactive system diagnostics program recognizing and remedying potential problems early `[ps=4]`
 - AcceleratedSAP Partner; Powered By AcceleratedSAP (Global Logo); Certified Business Solutions (sub-$200M revenue) `[ps=3]`
 - Comprehensive QA for Business Framework with SAP + partner software components `[ps=3]`
+- TeamSAP will provide real benefit to customers seeking rapid and ongoing R/3 results `[ps=3]`
 - Ability to turn on a dime — simultaneously reengineer and gain rapid operational improvements `[ps=2]`
 - >7,000 companies worldwide `[ps=0]`
 - >40% growth rate `[ps=0]`
+- $2.4 billion (38% increase) `[ps=0]`
 - Businesses with annual revenues under $200 million `[ps=0]`
-- $2.4 billion (38% increase)
-- SAP as coach throughout full R/3 lifecycle; coordinated network of products, processes, people
-- Largest SAP implementation partners; 300 Andersen technicians specialized in Siebel/SAP installation by 1997; take project lead
-- TeamSAP will provide real benefit to customers seeking rapid and ongoing R/3 results
-- Proactive system diagnostics program recognizing and remedying potential problems early

@@ -12,9 +12,9 @@ era: "1985-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # ARM architecture embedded CPU
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Samsung launched the Exynos application-processor family in 2011, achieving Tier-1 status in mobile SoCs — validating long-term ARM mobile-CPU competition thesis, though requiring ~7 additional years beyond S3C2440 to reach volume success in phones. — [[study-samsung-unveils-fastest-mobile-cpu-on-th-c34fad]]
-- By 2020, ARM-based SoCs dominated 99%+ of smartphones globally; Apple M1 (2020) extended ARM dominance into PC/Mac; Arm Ltd. went public on Nasdaq in September 2023 at a $54.5B valuation. — [[study-samsung-unveils-fastest-mobile-cpu-on-th-c34fad]]
+- By 2020, ARM-based SoCs dominated 99%+ of smartphones globally; Apple M1 (2020) extended ARM dominance into PC/Mac; Arm Ltd. went public on Nasdaq in September 2023 at a $54.5B valuation. `[ps=5]` — [[study-samsung-unveils-fastest-mobile-cpu-on-th-c34fad]]
+- Samsung launched the Exynos application-processor family in 2011, achieving Tier-1 status in mobile SoCs — validating long-term ARM mobile-CPU competition thesis, though requiring ~7 additional years beyond S3C2440 to reach volume success in phones. `[ps=4]` — [[study-samsung-unveils-fastest-mobile-cpu-on-th-c34fad]]

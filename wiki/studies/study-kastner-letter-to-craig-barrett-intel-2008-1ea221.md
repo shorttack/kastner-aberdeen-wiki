@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.29
-prescience_obs_count: 14
+prescience_mean: 2.5
+prescience_obs_count: 16
 ---
 
 # Letter to Craig Barrett on Intel's 'Next Billion' Initiative: Field Observations from Haiti and Brazil
@@ -40,12 +40,14 @@ _Published 2008, author **Peter S. Kastner**, type **memoir**._
 
 ## Top observations
 
+- Two Haitian cities: total AC power grid failures at least once a day, at random times, duration minutes to hours `[ps=5]`
 - OLPC Foundation wound down by 2014; XO tablet failed; project achieved <3M units vs 150M target `[ps=5]`
 - Third world demand for Microsoft software surprisingly high due to job-skill development `[ps=4]`
 - Child laptops (EePC, ClassMate, OLPC) of lower demand/interest than desktops in third world `[ps=4]`
 - Limited screen real estate (less than VGA) is a usability problem `[ps=4]`
 - Concern for theft/loss; lack of capital for loss replacement drives preference for desktops `[ps=3]`
 - Classroom PCs must come without IT infrastructure — no trained admins available `[ps=3]`
+- Intel should grow trained IT staff as third-world PC market evolves `[ps=3]`
 - Intel ClassMate PC discontinued ~2012 `[ps=3]`
 - Kastner 'strongly concurs with Intel's efforts through ClassMate PC, Intel Teach, and market-driven products aimed at the next billion' `[ps=2]`
 - Integrate UPS into PC power supply for emerging markets: filtered DC power + ride-through `[ps=2]`
@@ -54,5 +56,3 @@ _Published 2008, author **Peter S. Kastner**, type **memoir**._
 - 20-PC classroom in Jacmel, Haiti required $25K installed infrastructure (35 Kw diesel, industrial AC, overhead cable, UPS per seat) `[ps=0]`
 - Additional $10K fundraising for solar-powered battery bank and inverter `[ps=0]`
 - Plurality want desktops with large (19") LCDs to sit two students per PC `[ps=0]`
-- Two Haitian cities: total AC power grid failures at least once a day, at random times, duration minutes to hours
-- Intel should grow trained IT staff as third-world PC market evolves

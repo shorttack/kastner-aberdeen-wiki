@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Mike Hathaway
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- This new server makes it actually cheaper because you don't have to buy additional components; iMacs used as servers lack redundancy — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]
+- This new server makes it actually cheaper because you don't have to buy additional components; iMacs used as servers lack redundancy `[ps=3]` — [[study-svbi-apple-xserve-kastner-2002-05-17-1398db]]

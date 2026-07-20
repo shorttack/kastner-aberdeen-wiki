@@ -16,12 +16,12 @@ source_file: "DEC-Bill-Steul-leaves-1994-5-BGlobe-10.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.29
-prescience_obs_count: 7
+prescience_mean: 0.9
+prescience_obs_count: 10
 ---
 
 # Digital's top finance chief quits (DEC CFO William Steul resigns)
@@ -42,11 +42,11 @@ _Published 1994, author **Aaron Zitner (The Boston Globe)**, type **trade-press-
 
 - DEC sold to Compaq Computer in 1998 for $9.6B — the consolidation Kastner predicted in 1989 WSJ quote (Honeywell Bull article) extended to DEC `[ps=5]`
 - DEC's financial accounting system 'is so arcane and quite specific to the history that Digital has passed through. To bring in an outsider to decipher that would be tough to do.' Also: 'is broken in many ways and needs to be fixed.' `[ps=4]`
+- $183M loss announced April 15, 1994; stock plummeted; analysts criticized DEC's inability to predict its own results `[ps=0]`
 - DEC CFO William M. Steul, 51, resigned May 1994; 22-year DEC veteran; CFO since June 1992 `[ps=0]`
+- DEC worldwide sales chief Edward E. Lucente (also #2 exec) left days after April 15 loss `[ps=0]`
 - Vincent J. Mullarkey, 46, corporate controller (joined DEC 1971), promoted to VP/CFO `[ps=0]`
 - 'The only financial experience Vin has ever had was with Digital. I don't believe he brings the broad perspective that is necessary there or the cash management skills the company is going to need.' `[ps=0]`
+- Romano was a former DEC employee — gives him insider perspective on the financial-organization politics `[ps=0]`
 - Steul's predecessor at DEC was James Osterhoff (Ford Motor recruit) — 'highly regarded for imposing financial discipline' `[ps=0]`
 - Steul named CFO by Olsen in June 1992, weeks before board asked Olsen to resign as president — 'rise had been controversial because he had not worked in the finance operation for more than a decade' `[ps=0]`
-- $183M loss announced April 15, 1994; stock plummeted; analysts criticized DEC's inability to predict its own results
-- DEC worldwide sales chief Edward E. Lucente (also #2 exec) left days after April 15 loss
-- Romano was a former DEC employee — gives him insider perspective on the financial-organization politics

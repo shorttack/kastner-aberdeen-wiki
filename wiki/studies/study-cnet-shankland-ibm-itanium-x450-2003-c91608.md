@@ -16,12 +16,12 @@ source_file: "IBM-s-Itanium-server-goes-on-sale-CNET-News-2.webarchive"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.1
-prescience_obs_count: 10
+prescience_mean: 2.36
+prescience_obs_count: 11
 ---
 
 # IBM's Itanium server goes on sale
@@ -42,6 +42,7 @@ _Published 2003, author **Stephen Shankland**, type **news-article**._
 
 - Xeon-based systems likely will bring in more revenue for at least the next five years `[ps=5]`
 - IBM's Itanium support trails that of rival Hewlett-Packard, which is betting the company on Itanium `[ps=5]`
+- IBM previously sold a server with first-gen Itanium ('Merced') which arrived late and performed poorly; only positioned for developer rebuilds, not real-world use `[ps=5]`
 - Itanium's debut hampered by inability to run older Pentium/Xeon software effectively; Intel addressing with new emulation software `[ps=4]`
 - IBM had to release its Itanium product soon, given the plans it announced last week to sell some servers using AMD's Opteron processor. IBM had to have a strong Intel 32-bit and 64-bit product line in order not to confuse customers into thinking that there's some unannounced transition to AMD in the cards. `[ps=2]`
 - Itanium acceptance means IBM contends with four server processor families: Xeon/Itanium (xSeries), Power4 (pSeries/iSeries), proprietary z (zSeries) `[ps=2]`
@@ -50,4 +51,3 @@ _Published 2003, author **Stephen Shankland**, type **news-article**._
 - Prices for x450 begin at $25,999 for single-processor; most customers pay ~$38,000 for setup with two 1GHz Itanium 2 processors with 3MB cache `[ps=0]`
 - Larger 16-processor x450 sibling using Madison Itanium 2 6M and second-gen EXA due by end of year `[ps=0]`
 - Aberdeen Group analyst Peter Kastner `[ps=0]`
-- IBM previously sold a server with first-gen Itanium ('Merced') which arrived late and performed poorly; only positioned for developer rebuilds, not real-world use

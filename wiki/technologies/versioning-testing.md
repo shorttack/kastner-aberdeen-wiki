@@ -12,9 +12,9 @@ era: "2005-present"
 lifecycle_at_study: "growth"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Service Versioning / Compatibility Testing
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Performance and versioning testing add to the mix, creating ingredients for significant QA-department change — [[study-aberdeen-rb-testing-soa-web-apps-2007-e2096f]]
+- Performance and versioning testing add to the mix, creating ingredients for significant QA-department change `[ps=4]` — [[study-aberdeen-rb-testing-soa-web-apps-2007-e2096f]]

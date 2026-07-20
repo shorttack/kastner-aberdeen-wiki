@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "[DEFERRED]"
 years_active: "1996-2001"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # CyberGold
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Closed August 31 2001; part of wave of digital currency closures (Flooz/Beenz/CyberGold) `[ps=4]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
 - 1 million users claimed by CyberGold `[ps=0]` — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]
-- Closed August 31 2001; part of wave of digital currency closures (Flooz/Beenz/CyberGold) — [[study-1999-digitalcash-the-dash-to-digital-cash-enabling-inte-23732b]]

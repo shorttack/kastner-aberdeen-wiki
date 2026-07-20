@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 3.25
-prescience_obs_count: 8
+prescience_mean: 3.11
+prescience_obs_count: 9
 ---
 
 # Baan IV (ERP)
@@ -31,5 +31,5 @@ prescience_obs_count: 8
 - Process-architected application basis; portable across RDBMS platforms; Orgware models directly generate executable system `[ps=3]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
 - BAAN IV classified as 'Dynamic-ERP'; competitors classified as 'Static-ERP' `[ps=2]` — [[study-aberdeen-1996-baan-changes-rules-erp-game]]
 - Aberdeen believes Baan enjoys at least a 12-month advantage over major ERP competitors `[ps=2]` — [[study-aberdeen-1996-baan-changes-rules-erp-game]]
+- Aberdeen recommends Baan be on every serious ERP evaluation shortlist `[ps=2]` — [[study-aberdeen-1996-baan-changes-rules-erp-game]]
 - Covers manufacturing, finance, distribution, transportation, services, and project management `[ps=0]` — [[study-aberdeen-1996-baan-changes-rules-erp-game]]
-- Aberdeen recommends Baan be on every serious ERP evaluation shortlist — [[study-aberdeen-1996-baan-changes-rules-erp-game]]

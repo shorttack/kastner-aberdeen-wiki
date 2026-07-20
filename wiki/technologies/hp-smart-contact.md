@@ -12,9 +12,9 @@ era: "1996-2001"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: 2.0
-prescience_mean: 1.25
-prescience_obs_count: 4
+prescience_max: 3.0
+prescience_mean: 1.6
+prescience_obs_count: 5
 ---
 
 # HP Smart Contact
@@ -24,8 +24,8 @@ prescience_obs_count: 4
 
 ## Top observations
 
+- HP exited contact center software market in early 2000s; Smart Contact discontinued; HP restructured and divested software units `[ps=3]` — [[study-hp-smart-contact-b3c359]]
 - Collaborative best-of-breed: HP provides CCM plus partner ecosystem with single point of contact for CIS deployment `[ps=2]` — [[study-hp-smart-contact-b3c359]]
 - User organizations turning to HP when building customer-focused contact centers for competitive advantage `[ps=2]` — [[study-hp-smart-contact-b3c359]]
 - HP in excellent position to capitalize on integrated contact center mandate with Smart Contact `[ps=1]` — [[study-hp-smart-contact-b3c359]]
 - Unique combination of advanced middleware + professional services + hardware + networking + partner software `[ps=0]` — [[study-hp-smart-contact-b3c359]]
-- HP exited contact center software market in early 2000s; Smart Contact discontinued; HP restructured and divested software units — [[study-hp-smart-contact-b3c359]]

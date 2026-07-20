@@ -16,7 +16,7 @@ source_file: "transcript Sybase XI launch.md"
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "not-applicable"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: null

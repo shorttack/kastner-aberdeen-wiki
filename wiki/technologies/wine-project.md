@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # WINE (Windows compatibility layer for Linux)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Project underway to allow Linux to run Windows applications — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]
+- Project underway to allow Linux to run Windows applications `[ps=4]` — [[study-1999-aberdeengroup-newsletter-april-1999-d157ec]]

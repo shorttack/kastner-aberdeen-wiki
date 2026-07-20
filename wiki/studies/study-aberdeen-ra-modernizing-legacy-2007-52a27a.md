@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.67
-prescience_obs_count: 3
+prescience_mean: 2.0
+prescience_obs_count: 4
 ---
 
 # Modernizing Legacy Applications: Maximizing the Investment
@@ -43,4 +43,4 @@ _Published 2007, author **Perry Donham**, type **benchmark-report**._
 - Best-in-Class enterprises maximize legacy-system investment through modernization rather than rip-and-replace `[ps=4]`
 - Mid-2000s preferred modernization approach is wrapping legacy systems with SOA/web-service endpoints to enable reuse without replacement `[ps=4]`
 - Aberdeen PACE framework applied to legacy-modernization Pressures, Actions, Capabilities, and Enablers `[ps=0]`
-- Author: Perry Donham, Director, Enterprise Integration Research (perry.donham@aberdeen.com)
+- Author: Perry Donham, Director, Enterprise Integration Research (perry.donham@aberdeen.com) `[ps=0]`

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Nortel Networks (1998) -> Amdocs (2001)"
 years_active: "1992-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Clarify Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Profiled CIS supplier; focused on customer support and CRM; later acquired by Nortel for $2.1B in 1998 — [[study-aberdeen-1996-managing-customers-next-gen-helpdesk]]
+- Profiled CIS supplier; focused on customer support and CRM; later acquired by Nortel for $2.1B in 1998 `[ps=4]` — [[study-aberdeen-1996-managing-customers-next-gen-helpdesk]]

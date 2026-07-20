@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.2
-prescience_obs_count: 10
+prescience_mean: 1.07
+prescience_obs_count: 14
 ---
 
 # BAPco SYSmark 2012: Why AMD Dropped Out and What the Benchmark Actually Measures
@@ -43,14 +43,14 @@ _Published 2011, author **Peter S. Kastner**, type **white-paper**._
 - AMD dropped out of BAPco non-profit in June 2011 'with much sturm und drang' `[ps=5]`
 - AMD endorses only benchmarks 'based on real-world computing models and software applications' `[ps=4]`
 - Office Productivity, Media Creation, Web Development, Data/Financial Analysis, 3D Modeling, System Management `[ps=3]`
+- 'SYSmark 2012' is built on 2010 application versions — backward-looking, not forward-looking `[ps=3]`
+- AMD A8-3850 Llano: 91 overall `[ps=0]`
+- Intel Sandy Bridge Pentium 840: 98 `[ps=0]`
 - Intel Core i3-2120: 127 `[ps=0]`
 - Intel Core i5-2500: 166 `[ps=0]`
 - AMD Phenom II 1100T (6-core + ATI 4290): 122 `[ps=0]`
 - Intel Pentium G620T: 79 `[ps=0]`
+- SYSmark 2012 reference = 100 (Core i3-540 Clarkdale) `[ps=0]`
 - 20 years of collaborative modeling; 26-phase development process `[ps=0]`
 - BAPco licenses actual application source code (Office, AutoCAD, Acrobat, IE) and assembles into fragments `[ps=0]`
 - i5-2500 integrated graphics barely loses to ATI 4920 discrete in 3D; wins overall by 44 points `[ps=0]`
-- AMD A8-3850 Llano: 91 overall
-- Intel Sandy Bridge Pentium 840: 98
-- SYSmark 2012 reference = 100 (Core i3-540 Clarkdale)
-- 'SYSmark 2012' is built on 2010 application versions — backward-looking, not forward-looking

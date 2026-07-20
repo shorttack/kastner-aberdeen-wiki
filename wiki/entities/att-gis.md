@@ -13,8 +13,8 @@ successor: "NCR Corporation (1997)"
 years_active: "1991-1996"
 occurrence_count: 5
 prescience_max: 4.0
-prescience_mean: 1.11
-prescience_obs_count: 9
+prescience_mean: 1.0
+prescience_obs_count: 10
 ---
 
 # AT&T Global Information Solutions (formerly NCR)
@@ -36,6 +36,6 @@ prescience_obs_count: 9
 - ~$7.0 billion `[ps=0]` — [[study-1995-midrange-oltp-platform-overview-pyr-44c8e4]]
 - Revenues flat for several years; financial results running in the red `[ps=0]` — [[study-1995-midrange-oltp-platform-overview-pyr-44c8e4]]
 - secondary_competitor_with_3600 `[ps=0]` — [[study-aberdeen-1995-rdbms-cray-research-inc]]
+- August 1994: AT&T GIS announced plan to bring NT into enterprise with scalability, manageability, reliability, serviceability features `[ps=0]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
 - ~$4.2 billion `[ps=0]` — [[study-ibm-rs6000-midran~1-88f049]]
 - $1.2 billion in 1994 `[ps=0]` — [[study-ibm-rs6000-midran~1-88f049]]
-- August 1994: AT&T GIS announced plan to bring NT into enterprise with scalability, manageability, reliability, serviceability features — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]

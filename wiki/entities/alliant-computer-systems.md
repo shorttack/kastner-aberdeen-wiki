@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "[DEFERRED]"
 years_active: "1982-1992"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Alliant Computer Systems Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 25 sites and more on order — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- 25 sites and more on order `[ps=0]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]

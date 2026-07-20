@@ -19,9 +19,9 @@ relevance: "medium"
 study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
-prescience_max: 4.0
-prescience_mean: 1.33
-prescience_obs_count: 3
+prescience_max: 5.0
+prescience_mean: 1.8
+prescience_obs_count: 5
 ---
 
 # Stratus 'TP-1 Performance Model' internal benchmark guide (1983, Stratus internal)
@@ -40,8 +40,8 @@ _Published 1983, author **Stratus Computer engineering (uncredited)**, type **in
 
 ## Top observations
 
+- Cache utilization significant; disk type/count/file-size dominant; multiple server copies help; server priority > requester priority `[ps=5]`
 - Requester (COBOL/TPF) + Server (PL/1) pattern; transactions on delay interval; no screen/comm I/O; duplicated servers; varied file types/sizes `[ps=4]`
 - 2.9 `[ps=0]`
+- 2.3 `[ps=0]`
 - 1.8 `[ps=0]`
-- 2.3
-- Cache utilization significant; disk type/count/file-size dominant; multiple server copies help; server priority > requester priority

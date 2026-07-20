@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: 2.0
-prescience_mean: 2.0
-prescience_obs_count: 1
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Uninterruptible Power Supply
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Two Haitian cities: total AC power grid failures at least once a day, at random times, duration minutes to hours `[ps=5]` — [[study-kastner-letter-to-craig-barrett-intel-2008-1ea221]]
 - Integrate UPS into PC power supply for emerging markets: filtered DC power + ride-through `[ps=2]` — [[study-kastner-letter-to-craig-barrett-intel-2008-1ea221]]
-- Two Haitian cities: total AC power grid failures at least once a day, at random times, duration minutes to hours — [[study-kastner-letter-to-craig-barrett-intel-2008-1ea221]]

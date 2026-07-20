@@ -13,8 +13,8 @@ successor: "CA Inc. (2006) -> CA Technologies (2010) -> Broadcom acquired 2018"
 years_active: "1976–present"
 occurrence_count: 3
 prescience_max: 5.0
-prescience_mean: 1.75
-prescience_obs_count: 32
+prescience_mean: 1.7
+prescience_obs_count: 33
 ---
 
 # Computer Associates International, Inc. (CA)

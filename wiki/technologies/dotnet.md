@@ -11,7 +11,7 @@ vendor: "Microsoft"
 era: "2002-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
-occurrence_count: 2
+occurrence_count: 3
 prescience_max: 5.0
 prescience_mean: 2.67
 prescience_obs_count: 3

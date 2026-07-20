@@ -12,9 +12,9 @@ era: "1994-2005"
 lifecycle_at_study: "deprecated"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # IBM DB2 Text Extender
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3 — [[study-2026-kastner-enterprise-ai-arc]]
-- 27 — [[study-2026-kastner-enterprise-ai-arc]]
+- 3 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 27 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]

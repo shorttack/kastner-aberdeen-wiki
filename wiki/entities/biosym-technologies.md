@@ -12,9 +12,9 @@ status: "[DEFERRED]"
 successor: "Acquired by MSI -> Accelrys -> Dassault Systemes BIOVIA"
 years_active: "1984-1995"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # BIOSYM Technologies, Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- September 1988: 8 members paying $60,000 annually to fund 12 BIOSYM scientists and programmers for polymer property prediction methods — [[study-conflicting-trends-computational-chemistry-fe5c31]]
-- Discover $30-100K (intro 8/86), Insight $40K (intro 8/86) on VAX/E&S/Sun/SGI; 15% annual maintenance — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- September 1988: 8 members paying $60,000 annually to fund 12 BIOSYM scientists and programmers for polymer property prediction methods `[ps=0]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- Discover $30-100K (intro 8/86), Insight $40K (intro 8/86) on VAX/E&S/Sun/SGI; 15% annual maintenance `[ps=0]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]

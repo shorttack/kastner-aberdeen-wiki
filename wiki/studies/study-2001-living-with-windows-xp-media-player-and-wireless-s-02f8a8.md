@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.88
-prescience_obs_count: 8
+prescience_mean: 3.82
+prescience_obs_count: 11
 ---
 
 # Living with Windows XP Media Player and Wireless Support
@@ -44,10 +44,10 @@ _Published 2001, author **Peter S. Kastner**, type **market-study**._
 - Almost all previous Windows users are going to enjoy living with Windows XP `[ps=5]`
 - XP achieved 12-14% adoption in first year; less than 10% of Microsoft's installed base upgraded by end of 2002 per Gartner `[ps=5]`
 - Microsoft delivers on its launch marketing promises for Windows XP `[ps=4]`
+- New high level of support for digital audio, digital video playing, digital moviemaking, and digital photography `[ps=4]`
+- XP makes connecting to wireless LANs 'a snap' — zero-configuration wireless `[ps=4]`
 - XP became most-used Windows version; maintained 35%+ share a decade after launch; still 1.44%+ of devices in 2022 `[ps=4]`
 - For all of the launch marketing hype, this time Microsoft delivers `[ps=4]`
+- Microsoft positioned XP as Personal Information Technology and digital home networking platform `[ps=3]`
 - WEP passwords must be converted into hexadecimal — practical user friction point noted `[ps=2]`
 - 75% of corporate PCs still running Windows 95, 98, or NT Workstation by end of 2002 (Gartner) `[ps=2]`
-- New high level of support for digital audio, digital video playing, digital moviemaking, and digital photography
-- XP makes connecting to wireless LANs 'a snap' — zero-configuration wireless
-- Microsoft positioned XP as Personal Information Technology and digital home networking platform

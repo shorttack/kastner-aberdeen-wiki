@@ -12,9 +12,9 @@ era: "2001-2003"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'P2P music download (Kazaa et al.) is discontinued as a mainstream platform. Known answer applied.', 'source': 'known'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # P2P Music Download (Kazaa)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kazaa and P2P widely used by respondents under 35; downloaded to PC then burned to CD — [[study-iha-full-report---draft-jul-28-41de81]]
+- Kazaa and P2P widely used by respondents under 35; downloaded to PC then burned to CD `[ps=3]` — [[study-iha-full-report---draft-jul-28-41de81]]

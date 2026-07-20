@@ -14,7 +14,7 @@ years_active: "1988-1996"
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Open Software Foundation (OSF)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Response to AT&T/Sun Unix alliance threat `[ps=0]` — [[study-nti-2-open-systems-1dd3af]]
-- Future in greater jeopardy than ever — [[study-nti-4-nextgen-os-timing-1993-a45049]]
+- Future in greater jeopardy than ever `[ps=0]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]

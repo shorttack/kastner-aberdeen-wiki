@@ -16,12 +16,12 @@ source_file: "MOCKUP~1.DOC"
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.29
-prescience_obs_count: 7
+prescience_mean: 2.6
+prescience_obs_count: 10
 ---
 
 # Network Operating Systems: 1998 Practice Summary — Mockup/Template
@@ -41,12 +41,12 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 ## Top observations
 
 - IS managers reviewing plans for Banyan VINES and Digital PathWorks migrations `[ps=5]`
+- Is Novell still a viable company and is NetWare still a viable product? `[ps=4]`
 - Most mid- and large-sized organizations have multi-tier hardware and software with one or more NOSes installed `[ps=4]`
+- NT Server's growing role in enterprise and decline of other suppliers making IS decisions urgent `[ps=4]`
 - Issue is not which NOS to install but how to get pieces to interoperate and whether to pursue NOS unification `[ps=4]`
 - With advent of Internet and intranets what is the role of the NOS? Is the NOS dead? `[ps=3]`
+- Core of most Fortune 1000 networks is a welter of LANs each with its own NOS `[ps=2]`
 - Is IBM going to abandon OS/2 Warp Server? `[ps=0]`
 - Is NT Server going to rule the world near term and long term? `[ps=0]`
 - File and Print Services, Directory Services, Network and Systems Management, Security `[ps=0]`
-- Is Novell still a viable company and is NetWare still a viable product?
-- NT Server's growing role in enterprise and decline of other suppliers making IS decisions urgent
-- Core of most Fortune 1000 networks is a welter of LANs each with its own NOS

@@ -16,12 +16,12 @@ source_file: "2002 Undercutting and Upselling_ Dell_s Foray into the Handheld Ma
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 3.67
-prescience_obs_count: 12
+prescience_mean: 3.59
+prescience_obs_count: 17
 ---
 
 # Undercutting and Upselling: Dell's Foray into the Handheld Market
@@ -40,20 +40,20 @@ _Published 2002, author **Isaac Ro, Peter Kastner**, type **market-study**._
 
 ## Top observations
 
+- Dell poised to enter PDA market with Pocket PC device `[ps=5]`
 - Handspring acquired by Palm in 2003 for $169M `[ps=5]`
 - Sony competing on premium features and design vs Dell price play `[ps=5]`
+- Sony exited US PDA market in 2004 `[ps=5]`
 - Dell discontinued entire Axim PDA line in April 2007 `[ps=5]`
 - Smartphone category (iPhone 2007) displaced PDA market entirely `[ps=5]`
 - Market leader in PDA OS at risk from Pocket PC momentum `[ps=4]`
 - Acquired by HP for $1.2 billion in 2010; webOS discontinued `[ps=4]`
 - Handspring at risk as Dell enters market; weaker position `[ps=4]`
+- Microsoft Pocket PC gaining enterprise adoption vs Palm OS `[ps=4]`
+- Dell launched Axim X5 Pocket PC at $299 in October 2002 `[ps=3]`
 - Low-price direct-sales undercutting of incumbent PDA vendors `[ps=3]`
 - Dell's direct model applied to handheld market as price disruptor `[ps=3]`
 - Underdeveloped enterprise PDA market ripe for price catalyst `[ps=2]`
 - Low-priced Pocket PC device with adequate features `[ps=2]`
 - Enterprise PDA adoption expected to accelerate with lower price points `[ps=2]`
-- Dell poised to enter PDA market with Pocket PC device
-- Dell launched Axim X5 Pocket PC at $299 in October 2002
-- $279-$299 base price
-- Microsoft Pocket PC gaining enterprise adoption vs Palm OS
-- Sony exited US PDA market in 2004
+- $279-$299 base price `[ps=0]`

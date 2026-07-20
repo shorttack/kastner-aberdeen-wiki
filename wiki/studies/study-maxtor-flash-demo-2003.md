@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.4
-prescience_obs_count: 10
+prescience_mean: 2.67
+prescience_obs_count: 12
 ---
 
 # Maxtor Midline Storage Interactive Demo (Adobe Flash)
@@ -42,13 +42,13 @@ _Published 2003, author **Aberdeen Group / Maxtor Corporation**, type **interact
 
 - SWF binary format requires Flash Player to render; Flash EOL means the demo is no longer playable without emulation (e.g. Ruffle); historical artifact of early interactive content marketing `[ps=5]`
 - Macromedia Flash 6 compressed binary SWF; binary file — direct text extraction not possible `[ps=4]`
+- Early example (2003) of interactive analyst/consulting content as a sales tool; demonstrates Aberdeen's willingness to create interactive digital deliverables for clients `[ps=4]`
 - Visualization of storage pyramid tiers positioning SATA/ATA midline drives between FC high-end storage and desktop/tape storage `[ps=4]`
 - Interactive analyst-created content tools will become standard in enterprise technology marketing; ROI/TCO visualization tools prove value to buyers `[ps=4]`
 - Adobe Flash reached end-of-life December 31 2020; all major browsers removed Flash support; billions of SWF files became inaccessible `[ps=4]`
+- Interactive ROI/TCO tools survived and thrived as SaaS-based web applications built in HTML5/JavaScript; Gartner Forrester and vendor marketing teams now standard users of interactive assessment tools `[ps=4]`
 - Aberdeen Group functioning not just as analyst/researcher but as interactive content production studio; unusual for analyst firm in 2003 `[ps=3]`
 - Likely includes ILM/cost comparison elements consistent with the white paper; ROI/TCO visualization of midline storage savings `[ps=0]`
 - Sales enablement tool for Maxtor CMO Stephen DiFranco's midline storage initiative; used in press/analyst interactions and at trade shows to visualize storage hierarchy `[ps=0]`
 - Corresponds to 'Pools of Storage Decision Tool' and/or 'Competitive Value Prospect Tool' described in Attachment A of engagement letter; part of Phase 2 toolkit deliverables `[ps=0]`
 - Interactive demo served as a tangible visual anchor for the abstract 'Pools of Storage' concept; made the four-tier storage hierarchy concrete and communicable `[ps=0]`
-- Early example (2003) of interactive analyst/consulting content as a sales tool; demonstrates Aberdeen's willingness to create interactive digital deliverables for clients
-- Interactive ROI/TCO tools survived and thrived as SaaS-based web applications built in HTML5/JavaScript; Gartner Forrester and vendor marketing teams now standard users of interactive assessment tools

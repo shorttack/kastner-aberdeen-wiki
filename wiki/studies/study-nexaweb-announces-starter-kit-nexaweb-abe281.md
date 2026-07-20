@@ -16,12 +16,12 @@ source_file: "Nexaweb-Announces-Starter-Kit-Nexaweb.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "low"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.25
-prescience_obs_count: 4
+prescience_mean: 2.57
+prescience_obs_count: 7
 ---
 
 # Nexaweb Announces Enterprise Web 2.0 Starter Kit for Building Mission-Critical Composite and Mashup Ajax Applications
@@ -43,7 +43,7 @@ _Published 2007, author **Nexaweb Technologies, Inc. (press release)**, type **p
 - Nexaweb ceased operating by 2012; Apache XAP retired to the Apache Attic in 2011; the enterprise Ajax RIA category was displaced by HTML5, SPAs (Angular/React), and mobile apps. `[ps=5]`
 - Chief recommendations: proper planning, starting small on a project or departmental basis, investing in development tools for the long term. `[ps=4]`
 - Analyst framing implies Ajax/Enterprise Web 2.0 will become the default enterprise client paradigm for composite business apps. `[ps=4]`
+- Enterprise Web 2.0 and Rich Internet Applications are quickly becoming the tool of choice because they deliver on IT business drivers such as faster implementation, business process transformation agility, and lower integration complexity and risk. `[ps=3]`
+- Positioned as an incremental, inexpensive on-ramp to Ajax and Enterprise Web 2.0 for enterprise developers building composite and mashup applications. `[ps=2]`
+- Nexaweb Enterprise Web 2.0 Starter Kit launched at $17,500 including the EW2.0 Platform, Eclipse-based IDE, and unlimited deployment via Apache XAP. `[ps=0]`
 - Starter Kit uses Apache XAP framework as the open-source Ajax platform under the commercial EW2.0 stack. `[ps=0]`
-- Enterprise Web 2.0 and Rich Internet Applications are quickly becoming the tool of choice because they deliver on IT business drivers such as faster implementation, business process transformation agility, and lower integration complexity and risk.
-- Nexaweb Enterprise Web 2.0 Starter Kit launched at $17,500 including the EW2.0 Platform, Eclipse-based IDE, and unlimited deployment via Apache XAP.
-- Positioned as an incremental, inexpensive on-ramp to Ajax and Enterprise Web 2.0 for enterprise developers building composite and mashup applications.

@@ -16,12 +16,12 @@ source_file: "Sequent SAP SEQUEN~1.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.5
-prescience_obs_count: 12
+prescience_mean: 0.4
+prescience_obs_count: 15
 ---
 
 # The Strategic R/3 Solution for the Enterprise
@@ -45,13 +45,13 @@ _Published 1996, author **Sequent Computer Systems**, type **benchmark**._
 - 800 `[ps=0]`
 - 51% `[ps=0]`
 - Yes `[ps=0]`
+- 900 `[ps=0]`
 - 800 `[ps=0]`
+- 1000 `[ps=0]`
 - Only independently certified SAP R/3 SD benchmark on NT & UNIX `[ps=0]`
+- SAP strategic partner; operated Competence Center for R/3 on Windows NT `[ps=0]`
 - Supported both Windows NT and UNIX for SAP R/3 `[ps=0]`
 - 2.2d `[ps=0]`
 - 20 `[ps=0]`
 - FDDI Ring `[ps=0]`
 - Compaq ProLiant 4000s (x2) `[ps=0]`
-- 900
-- 1000
-- SAP strategic partner; operated Competence Center for R/3 on Windows NT

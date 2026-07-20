@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "rising"
 lifecycle_current: "evolved"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 3
+prescience_max: 5.0
+prescience_mean: 1.25
+prescience_obs_count: 4
 ---
 
 # Open Online Transaction Processing
@@ -24,7 +24,7 @@ prescience_obs_count: 3
 
 ## Top observations
 
+- Commercial Client-Server Applications: Entering the Mainstream `[ps=5]` — [[study-aberdeen-open-online-transaction-process-ea272f]]
 - Online TP Into the 1990s: The Hardware Suppliers `[ps=0]` — [[study-aberdeen-open-online-transaction-process-ea272f]]
 - On-Line Transaction Processing in Open Systems `[ps=0]` — [[study-aberdeen-open-online-transaction-process-ea272f]]
 - Aberdeen Group 1990 `[ps=0]` — [[study-aberdeen-open-online-transaction-process-ea272f]]
-- Commercial Client-Server Applications: Entering the Mainstream — [[study-aberdeen-open-online-transaction-process-ea272f]]

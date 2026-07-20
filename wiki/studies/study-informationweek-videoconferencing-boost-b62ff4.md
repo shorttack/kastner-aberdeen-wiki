@@ -16,12 +16,12 @@ source_file: "Videoconferencing-Boost-9.webarchive"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
-prescience_max: 4.0
-prescience_mean: 1.4
-prescience_obs_count: 5
+prescience_max: 5.0
+prescience_mean: 2.29
+prescience_obs_count: 7
 ---
 
 # Videoconferencing Boost — Intel TeamStation
@@ -40,10 +40,10 @@ _Published 1998, author **Mary E. Thyfault**, type **news-article**._
 
 ## Top observations
 
+- As the costs come down, this technology will be fundamental to communications in the 21st century `[ps=5]`
 - PC technology and filtering software compress video, send over low-speed line, decompress at other end — creating less jerky video presentation `[ps=4]`
+- By relying on standard PC technology, Intel is able to price TeamStation below proprietary room systems `[ps=4]`
 - People have had this wonderful suite of applications at their desktop, then you walk into a conference room and you're faced with 1950s technology `[ps=3]`
 - $9,999 base; $11,999 including monitor; vs $20,000 for proprietary room systems `[ps=0]`
 - Six North American cities, five European cities, and Singapore `[ps=0]`
 - Caterpillar projects 1,000 videoconferencing users by mid-1999 `[ps=0]`
-- As the costs come down, this technology will be fundamental to communications in the 21st century
-- By relying on standard PC technology, Intel is able to price TeamStation below proprietary room systems

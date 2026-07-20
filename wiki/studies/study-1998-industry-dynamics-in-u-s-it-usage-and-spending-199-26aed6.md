@@ -16,12 +16,12 @@ source_file: "1998 Industry Dynamics in U.S. IT Usage and Spending, 1998 rpt.pdf
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.71
-prescience_obs_count: 21
+prescience_mean: 2.04
+prescience_obs_count: 28
 ---
 
 # Industry Dynamics in U.S. IT Usage and Spending, 1998
@@ -45,11 +45,17 @@ _Published 1998, author **Aberdeen Group**, type **market-study**._
 - High relative to revenue; travel industry was early internet adopter `[ps=5]`
 - Software and services growing as share; hardware share declining `[ps=5]`
 - Internet will prove most valuable in B2B supply chain rather than consumer retail `[ps=5]`
+- Global IT outsourcing market exceeded $300B annually by 2019; grew in every major vertical `[ps=5]`
+- Financial services sector leads all verticals in IT spending intensity and adoption of new technologies `[ps=5]`
 - High; sector is itself an IT producer driving above-average internal IT investment `[ps=4]`
+- Universal commercial Internet adoption achieved by 2005; B2B e-commerce exceeded $1T by 2002 `[ps=4]`
+- IT outsourcing will continue to grow across all verticals `[ps=4]`
 - IT spending heavily skewed toward larger enterprises in all verticals `[ps=4]`
+- Declining but persistent; tracked via Aberdeen Mainframe Barometer `[ps=3]`
 - Three barometers: Internet adoption; mainframe usage; outsourcing adoption — novel proprietary metrics `[ps=3]`
 - $995 `[ps=0]`
 - 106 pages `[ps=0]`
+- December 1998 `[ps=0]`
 - Combined phone, fax, and Internet survey administered autumn 1998 `[ps=0]`
 - Emerging — Aberdeen Internet Barometer introduced to track adoption `[ps=0]`
 - Growing; tracked via Aberdeen Outsourcing Barometer `[ps=0]`
@@ -59,9 +65,3 @@ _Published 1998, author **Aberdeen Group**, type **market-study**._
 - Analyzed by internal vs. external and hardware vs. software/services `[ps=0]`
 - Analyzed by internal vs. external and hardware vs. software/services `[ps=0]`
 - Analyzed; lower than financial services but growing with e-commerce adoption `[ps=0]`
-- Internal vs. external x hardware vs. software/services 2x2 matrix applied per vertical `[ps=0]`
-- Identified verticals with highest near-term (1999-2000) IT spending growth potential `[ps=0]`
-- December 1998
-- Declining but persistent; tracked via Aberdeen Mainframe Barometer
-- Universal commercial Internet adoption achieved by 2005; B2B e-commerce exceeded $1T by 2002
-- IT outsourcing will continue to grow across all verticals

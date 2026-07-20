@@ -13,8 +13,8 @@ successor: "Unknown (small ROLAP startup)"
 years_active: "1980-2001"
 occurrence_count: 3
 prescience_max: 4.0
-prescience_mean: 0.93
-prescience_obs_count: 15
+prescience_mean: 0.94
+prescience_obs_count: 17
 ---
 
 # Informix Corporation
@@ -34,6 +34,7 @@ prescience_obs_count: 15
 - Informix wins most head-to-head benchmarks it competes in `[ps=2]` — [[study-cab199-1-2-0cb163]]
 - XPS architecture widely praised for elegance `[ps=2]` — [[study-cab199-1-2-0cb163]]
 - Good scalability to 8 processors on SMP; many TPC-Cs `[ps=2]` — [[study-cab199-1-2-0cb163]]
+- Best ORDBMS framework in DataBlades; same searchable data types as IBM `[ps=2]` — [[study-cab199-1-2-0cb163]]
 - Informix named as supported DataJoiner join target via open-server operations `[ps=0]` — [[study-1997-ibm-information-integration-family--29351c]]
 - key ROLAP supplier `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]
 - three vendors offer distinct dimensional modeling approaches `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]
@@ -41,8 +42,7 @@ prescience_obs_count: 15
 - Limited resources and customer base `[ps=0]` — [[study-cab199-1-2-0cb163]]
 - No-consulting policy slowed large enterprise growth `[ps=0]` — [[study-cab199-1-2-0cb163]]
 - Behind in replication; fair in gateways `[ps=0]` — [[study-cab199-1-2-0cb163]]
+- 30% `[ps=0]` — [[study-cab199-1-2-0cb163]]
 - 15% `[ps=0]` — [[study-cab199-1-2-0cb163]]
 - 15% `[ps=0]` — [[study-cab199-1-2-0cb163]]
 - 15% `[ps=0]` — [[study-cab199-1-2-0cb163]]
-- 30% — [[study-cab199-1-2-0cb163]]
-- Best ORDBMS framework in DataBlades; same searchable data types as IBM — [[study-cab199-1-2-0cb163]]

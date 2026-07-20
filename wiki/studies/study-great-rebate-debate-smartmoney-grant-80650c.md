@@ -16,12 +16,12 @@ source_file: "The-Great-Rebate-Debate-at-SmartMoney.com-10.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.8
-prescience_obs_count: 5
+prescience_mean: 2.78
+prescience_obs_count: 9
 ---
 
 # The Great Rebate Debate
@@ -40,12 +40,12 @@ _Published 2006, author **Kelli B. Grant, SmartMoney**, type **news-article**._
 
 ## Top observations
 
+- Staples Easy Rebates became fully online submission by 2008, eliminating mail-in requirement entirely `[ps=5]`
 - SmartMoney magazine ceased print publication Sep 2012; content merged into WSJ personal-finance online; smartmoney.com URL redirected to WSJ `[ps=5]`
+- The dirty little secret of the industry has been that 40% of consumers don't file the rebate and that 20% bungle the paperwork `[ps=4]`
 - Outright fraud is less common nowadays for mail-in rebates... the FTC goes after companies that don't send out rebates in a timely manner or fail to deliver on them at all `[ps=4]`
+- Mail-in rebates collapsed from $10B annually (2002) to <$500M by early 2020s per industry trackers; replaced by instant rebates, cashback cards, gift cards, and online-activation codes `[ps=4]`
+- The shadier ones are actually making it increasingly harder for shoppers to redeem their rebate offers, says Edgar Dworsky... A common ploy? Ever shortening mail-in deadlines. Sometimes you'll have just 14 days from time of purchase. `[ps=3]`
 - If you have a problem, complain and complain loud... call the customer service lines of the manufacturer and of the retailer. They will want to preserve that customer relationship. `[ps=0]`
 - Staples' Easy Rebates — most rebates can be activated by just entering two numbers from your store receipt on an online form `[ps=0]`
 - Be sure to keep a copy of all the paperwork. That way, should your original get lost or rejected, you can most likely re-submit `[ps=0]`
-- The dirty little secret of the industry has been that 40% of consumers don't file the rebate and that 20% bungle the paperwork
-- The shadier ones are actually making it increasingly harder for shoppers to redeem their rebate offers, says Edgar Dworsky... A common ploy? Ever shortening mail-in deadlines. Sometimes you'll have just 14 days from time of purchase.
-- Staples Easy Rebates became fully online submission by 2008, eliminating mail-in requirement entirely
-- Mail-in rebates collapsed from $10B annually (2002) to <$500M by early 2020s per industry trackers; replaced by instant rebates, cashback cards, gift cards, and online-activation codes

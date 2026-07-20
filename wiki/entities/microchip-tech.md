@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1989-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Microchip Technology Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microchip Technology blamed SARS (among other factors) for its Q1 2003 earnings warning — SARS's first appearance in a public-company earnings call. — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]
+- Microchip Technology blamed SARS (among other factors) for its Q1 2003 earnings warning — SARS's first appearance in a public-company earnings call. `[ps=0]` — [[study-tech-investor-is-sars-sickening-tech-apr-850937]]

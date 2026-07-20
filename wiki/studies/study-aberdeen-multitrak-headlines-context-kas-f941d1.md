@@ -16,12 +16,12 @@ source_file: "Dev-DOPS-1991-09-Multitrak-9.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 9
+prescience_mean: 1.8
+prescience_obs_count: 10
 ---
 
 # Aberdeen Group — Putting Headlines In Context (Multitrak User's Group, Sep 1991)
@@ -46,7 +46,7 @@ _Published 1991, author **Peter S. Kastner — Vice-President, Aberdeen Group, I
 - CASE-workstation-on-LAN `[ps=4]`
 - deck-page-Spoke-Node-Ring-Planning-Model `[ps=0]`
 - 100-MIPS-vs-10-LOC-per-day `[ps=0]`
+- three-year-migration-with-SI-taking-dev-risk `[ps=0]`
 - low-cost-spoiler-for-mainframe-competitors `[ps=0]`
 - Vice-President-Aberdeen-Group `[ps=0]`
 - DEC-Prime-Computer-Stratus-Computer-Arthur-D-Little `[ps=0]`
-- three-year-migration-with-SI-taking-dev-risk

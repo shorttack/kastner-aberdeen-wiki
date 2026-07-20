@@ -16,12 +16,12 @@ source_file: "Tech-Investor-Is-SARS-sickening-tech-Apr.-10-2003.webarchive"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 6
+prescience_mean: 2.5
+prescience_obs_count: 8
 ---
 
 # Tech Investor: Is SARS sickening tech?
@@ -44,7 +44,7 @@ _Published 2003, author **Eric Hellweg, CNN/Money**, type **column-opinion**._
 - Goods are moving freely, and we haven't seen changes in commodity spot prices, which might indicate a decrease in supply. `[ps=4]`
 - This isn't the first time China has stiff-armed the world on a major global health issue. `[ps=4]`
 - COVID-19 (2020) vividly validated Kastner's 2003 China-basket warning: factory shutdowns in Wuhan/Hubei early 2020 triggered severe global tech supply shocks; catalyzed the Biden/Trump era semiconductor CHIPS Act (2022), friend-shoring to Vietnam/India/Mexico, and TSMC Arizona fab buildout. `[ps=4]`
+- Tech companies, which heretofore had rushed to outsource to China because of the quality and low cost, are now rethinking whether they can put all their high-tech eggs in the China basket. `[ps=2]`
 - First Albany analyst Auguste Richard cut his 2003 semiconductor revenue growth forecast from 8% to zero growth, blaming SARS and the Iraq war — saying SARS effects will be bigger than the war. `[ps=1]`
 - Intel canceled developer conferences in Beijing and Taipei because attendees were afraid to travel to the region; Sun postponed Shanghai conference; Motorola briefly closed a Singapore factory. `[ps=0]`
-- Tech companies, which heretofore had rushed to outsource to China because of the quality and low cost, are now rethinking whether they can put all their high-tech eggs in the China basket.
-- Microchip Technology blamed SARS (among other factors) for its Q1 2003 earnings warning — SARS's first appearance in a public-company earnings call.
+- Microchip Technology blamed SARS (among other factors) for its Q1 2003 earnings warning — SARS's first appearance in a public-company earnings call. `[ps=0]`

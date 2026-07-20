@@ -16,12 +16,12 @@ source_file: "2001 Aberdeen Group _ Recent Publications PSK.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.3
-prescience_obs_count: 33
+prescience_mean: 3.34
+prescience_obs_count: 44
 ---
 
 # Aberdeen Group Recent Publications — Peter S. Kastner Edition (2001)
@@ -49,9 +49,15 @@ _Published 2001, author **Peter S. Kastner (compiler); multiple Aberdeen Group a
 - HP completed acquisition of Compaq in May 2002 for ~$25B `[ps=5]`
 - SAP remains #1 ERP vendor globally with >400,000 customers in 2025 `[ps=5]`
 - Despite downturn: customers, security, and software infrastructure driving spending `[ps=5]`
+- Enterprise WLANs need security/management systems to become enterprise-strength `[ps=5]`
+- IT faces challenge balancing best-practices functionality vs integration and support costs of enterprise application portfolio `[ps=5]`
+- Internet-based procurement automation can dramatically reduce costs and process cycles for operational goods `[ps=5]`
 - Commerce One filed for bankruptcy in 2004; BayanTrade model did not scale `[ps=5]`
+- Great Plains became Microsoft Dynamics GP; Microsoft Dynamics became multi-billion dollar ERP/CRM business `[ps=5]`
 - Linux will join IBM z/OS and Microsoft Windows as primary server OSs before end of decade (2010) `[ps=4]`
+- Linux dominated TOP500 HPC list by 2004+; became primary server OS by 2010 `[ps=4]`
 - SAP is 'Once and Future King' — not ready to cede ERP market hegemony `[ps=4]`
+- HSP market at crossroads: slow adoption and strategy changes opening door for market reordering `[ps=4]`
 - DSO, anthrax postal disruption will likely increase appeal for EBPP and e-payment technologies near term `[ps=4]`
 - EBPP market grew significantly through 2005-2010; now dominant billing method in US `[ps=4]`
 - Offshore software development industry highly diverse; globalization and localization key dynamics `[ps=4]`
@@ -59,9 +65,3 @@ _Published 2001, author **Peter S. Kastner (compiler); multiple Aberdeen Group a
 - EMA offers antidote to down economy; significant market opportunity calculated by Aberdeen `[ps=4]`
 - Microsoft Great Plains: widening product breadth, international growth, up-market enterprise sales, likely new mid-market CRM contender `[ps=4]`
 - Customer Interaction Management outsourcing is savvy approach in uncertain 2001 business climate `[ps=4]`
-- Windows XP became most widely deployed OS in history; Microsoft supported until April 2014 `[ps=3]`
-- Microsoft's entry into CRM is single biggest threat AND single largest opportunity in market `[ps=3]`
-- Net markets can succeed using Aberdeen's liquidity measurement framework to identify leaders `[ps=3]`
-- Informatica's analytical applications help enterprises understand cross-enterprise implications of departmental strategy shifts `[ps=3]`
-- Microsoft Dynamics became #2 CRM market share by 2015; Salesforce #1 but Microsoft major challenger `[ps=2]`
-- CA ITRM provides basis for running IT as a cohesive business entity; integrated but modular `[ps=2]`

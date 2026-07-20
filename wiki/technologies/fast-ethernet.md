@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 2
 ---
 
 # Fast Ethernet (100BASE-T)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 3Com shipped Fast Ethernet (100BaseTX) uplink cards for LANplex in 1996 as predicted; Fast Ethernet became dominant LAN technology by 1998 — [[study-aberdeen-1995-3com-lanplex-2500]]
-- Fast Ethernet adopted as primary upgrade from 10 Mbps; 10/100 NIC prices at 10 Mbps levels — [[study-networ~1-96462b]]
+- 3Com shipped Fast Ethernet (100BaseTX) uplink cards for LANplex in 1996 as predicted; Fast Ethernet became dominant LAN technology by 1998 `[ps=5]` — [[study-aberdeen-1995-3com-lanplex-2500]]
+- Fast Ethernet adopted as primary upgrade from 10 Mbps; 10/100 NIC prices at 10 Mbps levels `[ps=5]` — [[study-networ~1-96462b]]

@@ -12,9 +12,9 @@ era: "1969-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 2
+prescience_max: 5.0
+prescience_mean: 3.75
+prescience_obs_count: 4
 ---
 
 # Code Generation / Automated Code Generation
@@ -24,7 +24,7 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Cosmos showed the right answer to Brooks's Law was tools that made each programmer more powerful, not more programmers. `[ps=5]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
+- Cosmos was an early form of low-code development, enabling PHI to deploy systems at scale and speed impossible with conventional programming teams. `[ps=4]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
 - Code generator sidesteps Brooks's Law coordination overhead; produces code faster than any team with perfect architectural consistency—a force multiplier. `[ps=3]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
 - Frederick Brooks argued adding programmers to a late project makes it later; coordination cost grows faster than productivity added. Code generation sidesteps this. `[ps=3]` — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
-- Cosmos was an early form of low-code development, enabling PHI to deploy systems at scale and speed impossible with conventional programming teams. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]
-- Cosmos showed the right answer to Brooks's Law was tools that made each programmer more powerful, not more programmers. — [[study-volume-1-ch02-physics-of-the-machine-1969-1972]]

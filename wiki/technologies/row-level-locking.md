@@ -12,9 +12,9 @@ era: "1988-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Row-level locking (DBMS concurrency)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sybase's not supporting row-level locking was a deal-breaker for SAP. There was a lot of hope at Sybase that they would be able to do some sort of patch to enable SAP to work with their database, but it did not happen. — [[study-sap-sybase-face-off-f2612e]]
+- Sybase's not supporting row-level locking was a deal-breaker for SAP. There was a lot of hope at Sybase that they would be able to do some sort of patch to enable SAP to work with their database, but it did not happen. `[ps=5]` — [[study-sap-sybase-face-off-f2612e]]

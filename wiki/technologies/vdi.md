@@ -14,7 +14,7 @@ lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'VDI is active. Kno
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 4
+prescience_obs_count: 7
 ---
 
 # Virtual Desktop Infrastructure (VDI)
@@ -25,9 +25,9 @@ prescience_obs_count: 4
 ## Top observations
 
 - -20.4% `[ps=0]` — [[study-desktop-virtualization-roi---aberdeen-8fa168]]
+- -11.7% `[ps=0]` — [[study-desktop-virtualization-roi---aberdeen-8fa168]]
 - 2.9 `[ps=0]` — [[study-desktop-virtualization-roi---aberdeen-8fa168]]
+- -23.4% `[ps=0]` — [[study-desktop-virtualization-roi---aberdeen-8fa168]]
 - 1.0 hours `[ps=0]` — [[study-desktop-virtualization-roi---aberdeen-8fa168]]
+- 0.9 hours of work `[ps=0]` — [[study-desktop-virtualization-roi---aberdeen-8fa168]]
 - >644,000 companies benchmarked over two decades `[ps=0]` — [[study-desktop-virtualization-roi---aberdeen-8fa168]]
-- -11.7% — [[study-desktop-virtualization-roi---aberdeen-8fa168]]
-- -23.4% — [[study-desktop-virtualization-roi---aberdeen-8fa168]]
-- 0.9 hours of work — [[study-desktop-virtualization-roi---aberdeen-8fa168]]

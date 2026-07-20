@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.69
-prescience_obs_count: 26
+prescience_mean: 3.6
+prescience_obs_count: 30
 ---
 
 # e-Learning in the Enterprise
@@ -55,7 +55,9 @@ _Published 1999, author **Peter S. Kastner**, type **market-study**._
 - Emerging; enabling technology for self-paced enterprise learning; clear advantages over classroom `[ps=4]`
 - Mature but declining; being superseded by web-based delivery `[ps=4]`
 - Leading e-learning content and courseware provider with library-based subscription model `[ps=4]`
+- Major professional services firm deploying internal e-learning at enterprise scale `[ps=4]`
 - SmartForce merged with SkillSoft in September 2002; combined company became leading enterprise e-learning platform `[ps=4]`
+- Enterprises' competitive economic advantage is related to education and knowledge `[ps=4]`
 - Businesses running on Internet time require training delivery that matches speed of change `[ps=4]`
 - COVID-19 pandemic (2020) caused overnight shift of all enterprise training to virtual/online; e-learning became mandatory `[ps=4]`
 - e-Learning will have approximately one-third of total training market by 2002 `[ps=3]`
@@ -63,5 +65,3 @@ _Published 1999, author **Peter S. Kastner**, type **market-study**._
 - Travel costs consume up to 40% of average corporate training budget `[ps=3]`
 - IBM Lotus providing enterprise LMS integrated with Lotus Notes groupware platform `[ps=3]`
 - Classroom training and TBT will reach approximately equal share of training opportunities by 2002 `[ps=2]`
-- Dominant e-learning authoring tool vendor (Authorware; Flash; Director) `[ps=2]`
-- e-Learning market grew far beyond $10B forecast; global corporate e-learning market exceeded $200B by 2019 `[ps=2]`

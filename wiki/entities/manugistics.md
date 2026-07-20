@@ -14,7 +14,7 @@ years_active: "1969-2006"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Manugistics Group
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- 50m_reported_60pct_apet `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
 - acquired_jda_software `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
-- 50m_reported_60pct_apet — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]

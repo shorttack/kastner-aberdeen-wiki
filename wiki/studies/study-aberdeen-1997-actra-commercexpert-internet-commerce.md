@@ -16,12 +16,12 @@ source_file: "1997 Actra -- No Longer an Internet Commerce...tra's CommerceXpert
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
-prescience_max: 4.0
-prescience_mean: 1.11
-prescience_obs_count: 9
+prescience_max: 5.0
+prescience_mean: 1.47
+prescience_obs_count: 15
 ---
 
 # No Longer an Internet Commerce Paper Tiger, Actra's CommerceXpert is Now in the Hunt
@@ -40,18 +40,18 @@ _Published 1997, author **David Alschuler, Aberdeen Group**, type **market-study
 
 ## Top observations
 
+- Netscape acquired by AOL for $4.2B in 1998; Netscape brand discontinued 2008 `[ps=5]`
 - Spring 1997: Aberdeen questioned whether Actra could deliver — 'Runs great on the overhead projector' `[ps=4]`
+- Channel-only distribution via Netscape and GEIS; no dedicated Actra sales force `[ps=3]`
 - Shipped to Beta and GA; best-of-breed candidate in Internet EDI market `[ps=2]`
+- Shipped to Beta and GA; best-of-breed candidate in sales-to-order automation `[ps=2]`
+- Delivered to early customers; best-of-breed candidate in procurement automation `[ps=2]`
 - Work in progress but formidable when combined; individually best-of-breed candidates `[ps=1]`
 - Other suppliers in B2B Internet commerce market are now looking over their shoulders towards Sunnyvale `[ps=1]`
 - CommerceXpert is now a formidable offering; distribution via Netscape/GEIS gives market leadership potential `[ps=1]`
 - Netscape+GEIS channel combination creates distribution advantage competitors cannot easily replicate `[ps=1]`
 - Delivered 4 major products on or near promised dates in 5-month window `[ps=0]`
+- ~200 employees `[ps=0]`
+- Netscape acquired GEIS share in Actra for $56M stock (Nov 1997); Actra absorbed into Netscape; products rebranded Netscape CommerceXpert `[ps=0]`
 - 4 of 5 planned products shipped to Beta/GA within 5-month window (Apr to Nov 1997) `[ps=0]`
 - $56 million in Netscape stock (1.7M shares at ~$33/share) `[ps=0]`
-- Channel-only distribution via Netscape and GEIS; no dedicated Actra sales force
-- Shipped to Beta and GA; best-of-breed candidate in sales-to-order automation
-- Delivered to early customers; best-of-breed candidate in procurement automation
-- ~200 employees
-- Netscape acquired GEIS share in Actra for $56M stock (Nov 1997); Actra absorbed into Netscape; products rebranded Netscape CommerceXpert
-- Netscape acquired by AOL for $4.2B in 1998; Netscape brand discontinued 2008

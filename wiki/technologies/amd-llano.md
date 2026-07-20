@@ -12,9 +12,9 @@ era: "2011-2013"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # AMD A8-3850 (Llano)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- AMD A8-3850 Llano: 91 overall — [[study-bapco-sysmark-2012-benchmark-post-a40084]]
+- AMD A8-3850 Llano: 91 overall `[ps=0]` — [[study-bapco-sysmark-2012-benchmark-post-a40084]]

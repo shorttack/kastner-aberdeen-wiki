@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # TME 10 Enterprise Console
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Remote branch sites provided same consistent policies and procedures as corporate sites without bloated staff expense `[ps=4]` — [[study-aberdeen-1996-ibm-tivoli]]
-- TME 10 EC removes administrators from details of underlying technology; manages according to enterprise policy; provides integrated unified view of IT resources — [[study-aberdeen-1996-ibm-tivoli]]
+- TME 10 EC removes administrators from details of underlying technology; manages according to enterprise policy; provides integrated unified view of IT resources `[ps=3]` — [[study-aberdeen-1996-ibm-tivoli]]

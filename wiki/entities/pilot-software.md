@@ -12,9 +12,9 @@ status: "acquired"
 successor: "SAP AG (via Platinum Equity -> Accrue Software)"
 years_active: "1986-2007"
 occurrence_count: 1
-prescience_max: 4.0
-prescience_mean: 1.76
-prescience_obs_count: 17
+prescience_max: 5.0
+prescience_mean: 1.94
+prescience_obs_count: 18
 ---
 
 # Pilot Software Inc.
@@ -24,6 +24,7 @@ prescience_obs_count: 17
 
 ## Top observations
 
+- Web-driven functionality will extend OLAP to more users than enterprises have been able to cost-justify in the past `[ps=5]` — [[study-pilot-internet-publisher-51e601]]
 - Multi-tiered server-centric architecture: browser -> Web Server -> Pilot Internet Publisher -> Pilot Analysis Server -> MDB `[ps=4]` — [[study-pilot-internet-publisher-51e601]]
 - Comprehensive suite: Internet Publisher + Analysis Server + Discovery Server (data mining) + Desktop + Designer + Sales & Marketing Library + Excel Add-In `[ps=4]` — [[study-pilot-internet-publisher-51e601]]
 - Multidimensional Database (MDB) organizes data in typical business terms: revenues/costs/gross margins vs. customers/products/regions/time `[ps=4]` — [[study-pilot-internet-publisher-51e601]]
@@ -41,4 +42,3 @@ prescience_obs_count: 17
 - 350 employees worldwide `[ps=0]` — [[study-pilot-internet-publisher-51e601]]
 - Pilot Software acquired by SAP AG in February 2007; product rebranded SAP Strategy Management `[ps=0]` — [[study-pilot-internet-publisher-51e601]]
 - Pilot planned mid-1997 delivery of advanced Selector Object using Java and ActiveX for hierarchical dimension navigation `[ps=0]` — [[study-pilot-internet-publisher-51e601]]
-- Web-driven functionality will extend OLAP to more users than enterprises have been able to cost-justify in the past — [[study-pilot-internet-publisher-51e601]]

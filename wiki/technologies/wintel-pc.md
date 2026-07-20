@@ -13,8 +13,8 @@ lifecycle_at_study: "dominant"
 lifecycle_current: "mature"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 4.5
+prescience_obs_count: 2
 ---
 
 # Wintel PC (Windows+Intel Desktop)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Kastner's implicit framing: Wintel PC remains the default for general enterprise desktop use; NC/NetPC fit limited use cases. `[ps=5]` — [[study-ca-acapulco-cio-pcs-ncs-netpcs-1997-552b4c]]
-- Wintel PC remained the dominant enterprise desktop architecture through the 2000s; was later complemented (not replaced) by thin-client/VDI, Chromebooks, and web-SaaS — vindicating Kastner's 1997 framing over the decade. — [[study-ca-acapulco-cio-pcs-ncs-netpcs-1997-552b4c]]
+- Wintel PC remained the dominant enterprise desktop architecture through the 2000s; was later complemented (not replaced) by thin-client/VDI, Chromebooks, and web-SaaS — vindicating Kastner's 1997 framing over the decade. `[ps=4]` — [[study-ca-acapulco-cio-pcs-ncs-netpcs-1997-552b4c]]

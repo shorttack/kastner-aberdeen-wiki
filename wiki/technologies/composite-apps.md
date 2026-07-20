@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "declined"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Composite Business Process Applications
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Changing technology landscape as SOA development integrates with legacy applications and development tools — [[study-soa-aon-webinar-31973c]]
+- Changing technology landscape as SOA development integrates with legacy applications and development tools `[ps=4]` — [[study-soa-aon-webinar-31973c]]

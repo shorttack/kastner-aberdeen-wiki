@@ -16,12 +16,12 @@ source_file: "State Street RAMP Interview for Maxtor Project.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.62
-prescience_obs_count: 24
+prescience_mean: 0.43
+prescience_obs_count: 35
 ---
 
 # State Street RAMP Interview for Maxtor Project
@@ -46,22 +46,22 @@ _Published 2003, author **Peter S. Kastner; David Hill**, type **market-study**.
 - Low-cost storage = 'overall good TCO'; active archiving = 'follow business rules to move data'; mezzanine/nearline = unknown `[ps=3]`
 - Greater than $5 billion `[ps=0]`
 - $129 million `[ps=0]`
+- Reports to President/CEO `[ps=0]`
 - Approximately 1 TB `[ps=0]`
 - Approximately 600 GB `[ps=0]`
+- 15% `[ps=0]`
 - 80% `[ps=0]`
 - 100% SAN (Unix) `[ps=0]`
+- 70-80% `[ps=0]`
 - 20-30% `[ps=0]`
 - EMC Symmetrix (RAID-1) `[ps=0]`
 - EMC Symmetrix → DMX `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
 - All production systems replicated to second data center `[ps=0]`
 - Read-write (not seldom-written) `[ps=0]`
+- Read-only `[ps=0]`
+- Read-only or seldom-written `[ps=0]`
 - Not read-only (part of workflow) `[ps=0]`
 - 6 out of 7 `[ps=0]`
-- Not yet discussed `[ps=0]`
-- 12 AM to 6 AM (6 hours) `[ps=0]`
-- 10 years `[ps=0]`
-- Longer than desired `[ps=0]`
-- CDW (Client Data Warehouse / ODS) `[ps=0]`
-- Likely to purchase even with SLA obligations to outside clients `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- Reports to President/CEO
+- 2 out of 7 `[ps=0]`
+- 7 out of 7 — maximum likelihood `[ps=0]`

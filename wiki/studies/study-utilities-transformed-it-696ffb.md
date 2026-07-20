@@ -16,12 +16,12 @@ source_file: "1998 Utilities Transformed- The Role of IT in Reshaping the Energy
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.38
-prescience_obs_count: 21
+prescience_mean: 3.3
+prescience_obs_count: 30
 ---
 
 # Utilities Transformed: The Role of IT in Reshaping the Energy Business, 1998 Edition
@@ -44,6 +44,7 @@ _Published 1998, author **Aberdeen Group (Barton Taylor)**, type **market-study*
 - Large customers using internet to access meter data and analyze usage to lower costs and track payments for multiple sites `[ps=5]`
 - SCADA systems as core energy management infrastructure requiring modernization `[ps=5]`
 - Year 2000 (Y2K) compliance cited as major near-term IT challenge for utilities `[ps=5]`
+- Altra Energy Technologies positioned as internet-based natural gas liquids trading exchange `[ps=5]`
 - Andersen Consulting LLP positioned as leading management and IT consulting firm for utilities `[ps=5]`
 - Transition to open systems cited as major IT trend impacting utility IT infrastructure decisions `[ps=5]`
 - Information technology is the means for an evolution from conservative market structures to competitive markets for transmission and power `[ps=4]`
@@ -52,16 +53,15 @@ _Published 1998, author **Aberdeen Group (Barton Taylor)**, type **market-study*
 - AMR creates near-term market opportunities for meter data services and competitive power marketing `[ps=4]`
 - Companies selling meter network data service (without selling power commodities) as pure IT strategy `[ps=4]`
 - Multiple application categories identified: EMS/SCADA transaction management facilities management GIS CIS call centers AMR `[ps=4]`
+- Geographic Information Systems extensively used in utility facilities management `[ps=4]`
 - Object technology cited as key architectural trend for utility software modernization `[ps=4]`
 - Ultimate winners in energy will be companies able to harness information technology rather than simply low-cost producers `[ps=4]`
 - Call centers for energy companies resemble other industries but require unique functions and integration `[ps=4]`
+- Customer information systems as core utility billing and customer management application `[ps=4]`
+- Electricity and natural gas represent the largest market yet to be deregulated `[ps=3]`
+- BBS-based trading systems used to deregulate natural gas cited as IT precedent for electricity deregulation `[ps=3]`
+- AMR evolved into Advanced Metering Infrastructure (AMI); smart meters deployed to 100M+ US homes by 2020; internet meter access standard `[ps=3]`
+- Energy information platforms (Itron Meter Intelligence; Oracle Utilities; GridPoint) emerged exactly as predicted; data monetization became standard `[ps=3]`
+- Industry participants are generation firms (GENCOs) transmission companies (TRANSCOs) distribution companies (DISCOs) power marketers and energy service companies `[ps=3]`
 - ERP adaptation for utilities in progress with supply chain management as key application `[ps=3]`
 - CellNet Data Systems positioned as leading wireless AMR network provider `[ps=3]`
-- OASIS electricity transmission reservation management system in active development `[ps=0]`
-- Operational challenges for OASIS systems identified `[ps=0]`
-- $895 for 102-page report with 10 explanatory illustrations `[ps=0]`
-- Energy companies with strong IT capabilities (smart grid operators; competitive retailers; data platforms) outperformed pure commodity players; Enron's collapse showed over-reliance on trading without IT infrastructure `[ps=-1]`
-- Electricity and natural gas represent the largest market yet to be deregulated
-- BBS-based trading systems used to deregulate natural gas cited as IT precedent for electricity deregulation
-- AMR evolved into Advanced Metering Infrastructure (AMI); smart meters deployed to 100M+ US homes by 2020; internet meter access standard
-- Energy information platforms (Itron Meter Intelligence; Oracle Utilities; GridPoint) emerged exactly as predicted; data monetization became standard

@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "declined"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Network Application Processing (NAP)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Lines between network and software architecture blurring due to SOA and XML traffic `[ps=4]` — [[study-soa-aon-webinar-31973c]]
-- Network traffic shifting from binary data packets to XML-based content routing and web services messaging due to SOA — [[study-soa-aon-webinar-31973c]]
+- Network traffic shifting from binary data packets to XML-based content routing and web services messaging due to SOA `[ps=2]` — [[study-soa-aon-webinar-31973c]]

@@ -13,8 +13,8 @@ successor: "n/a"
 years_active: "1861-present"
 occurrence_count: 4
 prescience_max: 5.0
-prescience_mean: 2.67
-prescience_obs_count: 6
+prescience_mean: 2.29
+prescience_obs_count: 7
 ---
 
 # Massachusetts Institute of Technology (MIT)
@@ -35,8 +35,8 @@ prescience_obs_count: 6
 - Three-machine pipeline (cards in, tape to mainframe, results back) defined the economics of computing for the next decade. `[ps=3]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Reader-printer workhorse: ingested punch-card batches, wrote to magnetic tape at 800 bpi, printed mainframe output. 'The loading dock.' `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Dedicated development machine with attached graphics workstation and trackball — 'an exotic luxury in 1966.' `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Base FORTRAN airflow-analysis code written on the MIT 360/65 was still embedded in climate models as late as the 2020s. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Trained as a computer operator at MIT in 1966 — [[study-volume-1-about-the-author]]
 - ELIZA was being built in the same building where Kastner trained at MIT in 1966 — [[study-volume-1-about-the-author]]
 - Project MAC was laying the foundations of modern timesharing in the same MIT building where Kastner trained — [[study-volume-1-about-the-author]]
-- Base FORTRAN airflow-analysis code written on the MIT 360/65 was still embedded in climate models as late as the 2020s. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Kastner's understanding of computing's social role developed gradually at MIT. — [[study-volume-1-introduction-physics-of-the-machine]]

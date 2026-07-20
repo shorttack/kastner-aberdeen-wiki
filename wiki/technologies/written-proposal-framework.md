@@ -14,7 +14,7 @@ lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 4
 ---
 
 # Aberdeen Written Proposal Framework
@@ -24,7 +24,7 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Cover letter + Intro + Background + Scope of Work + Work Tasks + Cost and Duration + Expenses + General Provisions + Staff Responsibility + Acceptance + Appendix A (Aberdeen blurb) + Appendix B (Resumes) `[ps=0]` — [[study-aberdeen-training-day-4-marketing-busine-601526]]
 - Expenses are invoiced separately; Aberdeen takes no markup on expenses `[ps=0]` — [[study-aberdeen-training-day-4-marketing-busine-601526]]
 - Aberdeen will begin work based on verbal approval and will patiently wait for formal Purchase Order `[ps=0]` — [[study-aberdeen-training-day-4-marketing-busine-601526]]
-- Cover letter + Intro + Background + Scope of Work + Work Tasks + Cost and Duration + Expenses + General Provisions + Staff Responsibility + Acceptance + Appendix A (Aberdeen blurb) + Appendix B (Resumes) — [[study-aberdeen-training-day-4-marketing-busine-601526]]
-- Aberdeen blurb: \\Aberdeen1\Marketing\Blurbs\; Resumes: \\Aberdeen1\Marketing\Bios\ — [[study-aberdeen-training-day-4-marketing-busine-601526]]
+- Aberdeen blurb: \\Aberdeen1\Marketing\Blurbs\; Resumes: \\Aberdeen1\Marketing\Bios\ `[ps=0]` — [[study-aberdeen-training-day-4-marketing-busine-601526]]

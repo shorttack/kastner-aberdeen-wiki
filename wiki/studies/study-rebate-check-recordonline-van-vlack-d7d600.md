@@ -16,12 +16,12 @@ source_file: "The-rebate-check-is-in-the-mail-or-is-it-4.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.83
-prescience_obs_count: 6
+prescience_mean: 3.0
+prescience_obs_count: 7
 ---
 
 # The (rebate) check is in the mail – or is it?
@@ -44,6 +44,6 @@ _Published 2003, author **Jon Van Vlack, Times Herald-Record**, type **news-arti
 - 60 percent of all consumers entitled to a rebate never get the refund. Manufacturers see increased sales, retailers get more sales at full price, and even the government benefits — it collects more sales tax because the tax levy is computed on higher, full-retail prices. `[ps=4]`
 - Rebates motivate people to buy at full price, and many consumers never send in their rebates for redemption. Manufacturers have the better of two worlds when they use rebates. `[ps=4]`
 - Rebates are a marketing game... the game is rigged `[ps=4]`
+- 40% don't file the rebate and 20% bungle the paperwork — 60% total breakage (SmartMoney 2006) `[ps=4]`
 - last year rebate offers amounted to more than $10 billion `[ps=0]`
 - The Washington Post recently noted that 15 percent of all consumers entitled to a rebate never complete the process `[ps=0]`
-- 40% don't file the rebate and 20% bungle the paperwork — 60% total breakage (SmartMoney 2006)

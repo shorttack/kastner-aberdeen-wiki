@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: ""
 years_active: "circa-2001"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Andrew Winer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- I'm very pleased. The idea of splitting up the company was absurd — [[study-informationweek-ca-victorious-incumbents-143e3b]]
+- I'm very pleased. The idea of splitting up the company was absurd `[ps=4]` — [[study-informationweek-ca-victorious-incumbents-143e3b]]

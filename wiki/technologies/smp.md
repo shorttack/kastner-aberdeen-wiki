@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "unknown"
 occurrence_count: 7
 prescience_max: 5.0
-prescience_mean: 2.25
-prescience_obs_count: 12
+prescience_mean: 2.23
+prescience_obs_count: 13
 ---
 
 # SMP (Symmetric Multiprocessing)
@@ -35,10 +35,10 @@ prescience_obs_count: 12
 - SMP scales well to 4 processors, fairly to 8, and rarely beyond 10 in commercial systems. `[ps=4]` — [[study-1994-surfing-the-parallel-architectures--c52d66]]
 - Good scaling to 4 processors; fair to 8; diminishing returns beyond 10 `[ps=4]` — [[study-1996-sequent-38f0b1]]
 - Advanced servers based upon multiple microprocessor architectures will become standard server platforms of mid-to-late 1990s `[ps=4]` — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
+- Good to 4 processors; fair to 8; few do more than 10 well; Sequent does very well `[ps=2]` — [[study-1996-sequent-38f0b1]]
 - Well understood technology with new chip-set accelerators and inexpensive engineering `[ps=0]` — [[study-1996-sequent-38f0b1]]
 - Established credibility in 1995 `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
 - $540 million `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
 - 20% `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
 - [UNVERIFIED] `[ps=0]` — [[study-nti-11-distributed-midrange-servers-1993-dedd19]]
 - [UNVERIFIED] `[ps=0]` — [[study-nti-12-client-server-goals-1993-15a519]]
-- Good to 4 processors; fair to 8; few do more than 10 well; Sequent does very well — [[study-1996-sequent-38f0b1]]

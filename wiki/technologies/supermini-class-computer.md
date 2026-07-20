@@ -12,9 +12,9 @@ era: "1970s-1990s"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Supermini-class computer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Cowen/Datamation 1982/83 survey of 6,700 minicomputer buyers ranks hardware reliability as #1 selection factor — [[study-stratus-corporate-overview-1982-11-a7e367]]
+- Cowen/Datamation 1982/83 survey of 6,700 minicomputer buyers ranks hardware reliability as #1 selection factor `[ps=3]` — [[study-stratus-corporate-overview-1982-11-a7e367]]

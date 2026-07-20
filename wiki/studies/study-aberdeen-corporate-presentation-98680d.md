@@ -16,12 +16,12 @@ source_file: "Aberdeen Corporate Presentation.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.29
-prescience_obs_count: 14
+prescience_mean: 1.22
+prescience_obs_count: 18
 ---
 
 # Aberdeen Group Market Analysis and Positioning Services for Business Technology — Corporate Presentation
@@ -43,18 +43,18 @@ _Published 2000, author **Peter S. Kastner / Aberdeen Group**, type **employer-r
 - Analyst meets privately with clients at relevant trade shows; walks show floor; discusses competition positioning `[ps=5]`
 - Retainer-based interactive service; one-on-one custom access to Aberdeen analyst when needed; core of service offerings `[ps=4]`
 - e-Learning-based sales training as part of Strategy Acceleration services `[ps=4]`
+- Professional Services Automation; IT e-Business; Collaborative Product Commerce; Supply Chain; CRM; Security; Enterprise Systems; Data/Knowledge Applications; Mobile/Handheld; Communications Service Providers; Personal Storage; Next Gen Networks; Application Platforms `[ps=4]`
 - Rapidly changing technologies; market confusion slows adoption; need differentiation in crowded market `[ps=3]`
 - Advisory firms distribute to 3,000 clients only; Aberdeen ships up to 100,000 copies; web-based global reach `[ps=2]`
 - 1988 `[ps=0]`
 - Provide services to technology suppliers establishing leadership in emerging technology markets; foundation of all engagements is primary market research `[ps=0]`
+- Boston, Palo Alto, Ft. Collins, Amsterdam `[ps=0]`
 - Market research; dialogue with players; technology in business context; vision; actionable strategies `[ps=0]`
 - Strategy Validation; in-depth primary customer/prospect research within short time frame `[ps=0]`
+- Single analyst; cross-group engagement; primary market research; publications; webcasts; ongoing advisory services `[ps=0]`
 - Profiles; Impacts; Viewpoints; Executive Briefing Papers; Research Reports; White Papers `[ps=0]`
 - Think > Plan > Do: Market Knowledge > Go-to-Market Positioning > Messaging Strategy > Readiness > Vision `[ps=0]`
 - Consultant-level analysts with deep technology expertise; 1:1 relationship; thought leaders `[ps=0]`
+- Primary market research is foundation of all engagements; qualitative and quantitative `[ps=0]`
 - Executive-level interactive dialogues; on-site; single or multiple analysts; lifecycle model `[ps=0]`
 - Credible third-party source for PR and press release efforts; objective quotes and background briefings `[ps=0]`
-- Boston, Palo Alto, Ft. Collins, Amsterdam
-- Single analyst; cross-group engagement; primary market research; publications; webcasts; ongoing advisory services
-- Professional Services Automation; IT e-Business; Collaborative Product Commerce; Supply Chain; CRM; Security; Enterprise Systems; Data/Knowledge Applications; Mobile/Handheld; Communications Service Providers; Personal Storage; Next Gen Networks; Application Platforms
-- Primary market research is foundation of all engagements; qualitative and quantitative

@@ -16,12 +16,12 @@ source_file: "data know.ppt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 0.75
-prescience_obs_count: 16
+prescience_mean: 0.76
+prescience_obs_count: 21
 ---
 
 # Expanding the Data Knowledge Practice
@@ -41,12 +41,16 @@ _Published 2000, author **Bob Moran**, type **other-research**._
 ## Top observations
 
 - Acceptance reduces base DSS cost but increases user population; encourages supplier pricing changes; apex suppliers acquire smaller companies `[ps=5]`
+- Suppliers beginning to embed analytical components within applications but still failing to meet vertical-industry challenge `[ps=4]`
 - Web encouraged companies to gather external information; most enterprises lack integration experience; third-party suppliers must teach best data practices `[ps=4]`
 - Oracle 8i-driven warehouse as center of e-business universe; 81 schemas; embedded BI embedded mining `[ps=3]`
 - $985 million `[ps=0]`
 - $193 million; CAGR 58% to $761M by 2003 `[ps=0]`
+- $859 million; CAGR 39% to $2.307B by 2003 `[ps=0]`
+- $543 million; CAGR 34% to $1.307B by 2003 `[ps=0]`
 - $66 million; CAGR 15% to $118M by 2003 `[ps=0]`
 - $821 million; CAGR 35% to $2.004B by 2003 `[ps=0]`
+- $30 million; CAGR 81% to $131M by 2003 `[ps=0]`
 - $27 million; CAGR 89% to $129M by 2003 `[ps=0]`
 - $4.742 billion; CAGR 24% to $9.041B by 2003 `[ps=0]`
 - $8.266 billion; CAGR 45% to $18.168B by 2003 `[ps=0]`
@@ -54,10 +58,6 @@ _Published 2000, author **Bob Moran**, type **other-research**._
 - $132 million; CAGR 43% to $384M by 2002 `[ps=0]`
 - $117 million; CAGR 18% to $192M by 2002 `[ps=0]`
 - $1.233 billion; CAGR 29% to $2.592B by 2002 `[ps=0]`
+- Revenue $301M (FY1999); Q3 revenue $83.7M; 50% of new BI licenses for e-business `[ps=0]`
 - Revenue $730M; 53% gross margin; 30% of revenue from Internet data services `[ps=0]`
 - Add retainers via new analysts; average one $10K written project per current retainer = $250K; increase cross-group productivity with CRM SCM CPC `[ps=0]`
-- $859 million; CAGR 39% to $2.307B by 2003
-- $543 million; CAGR 34% to $1.307B by 2003
-- $30 million; CAGR 81% to $131M by 2003
-- Revenue $301M (FY1999); Q3 revenue $83.7M; 50% of new BI licenses for e-business
-- Suppliers beginning to embed analytical components within applications but still failing to meet vertical-industry challenge

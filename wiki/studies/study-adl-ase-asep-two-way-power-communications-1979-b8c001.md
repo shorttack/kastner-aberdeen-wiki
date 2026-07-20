@@ -16,12 +16,12 @@ source_file: "ADP-ASE-meters-3.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.57
-prescience_obs_count: 7
+prescience_mean: 2.82
+prescience_obs_count: 11
 ---
 
 # ADL Client AS&E ASEP: Two-Way Power-Line Communications and Time-of-Day Metering (1979)
@@ -43,11 +43,11 @@ _Published 1979, author **Peter S. Kastner**, type **employer-record**._
 - Abbott (AS&E VP): 'If electrical usage reaches dangerous levels, the system is capable of turning off blocks of non-essential electrical loads' to avert major problems `[ps=5]`
 - Time-of-day rates intended to enable consumers to save by shifting washing-machine, dryer, and water-heater use to evenings or weekends `[ps=5]`
 - Florida Power Corp piloted dynamic rate system charging customers peak rates only when peak levels actually reached, polling meters as often as every 30 minutes `[ps=4]`
+- Wisconsin Electric used ASEP to control water heaters in 154,000 homes plus remotely meter customers `[ps=4]`
 - Florida Power & Light planned ASEP for residential AC/heating system and electrical-water-heater control `[ps=4]`
 - Annis (AS&E president): time-of-day rating supports the national goal of energy conservation `[ps=4]`
 - Two-way ASEP system prevents electrical brownouts and blackouts by operating over existing power lines, an already-in-place communications medium `[ps=3]`
+- DoE estimated most US states would use time-of-day rates within five or six years `[ps=2]`
+- ASEP was a two-way power-line communications system controlled by a Data General Eclipse S-230 minicomputer with 256K core memory `[ps=0]`
+- Data General Eclipse S-230 with 256K core memory served as ASEP system controller `[ps=0]`
 - Utilities in Missouri, New Jersey, Minnesota, and California also implemented ASEP; ~12 states using such systems experimentally `[ps=0]`
-- ASEP was a two-way power-line communications system controlled by a Data General Eclipse S-230 minicomputer with 256K core memory
-- Data General Eclipse S-230 with 256K core memory served as ASEP system controller
-- Wisconsin Electric used ASEP to control water heaters in 154,000 homes plus remotely meter customers
-- DoE estimated most US states would use time-of-day rates within five or six years

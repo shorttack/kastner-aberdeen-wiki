@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1909-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Audi AG
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Audi AG switched from RISC-based servers to HP Integrity servers running Itanium 2 dual-processor systems for car-ventilation-system design. Audi spokesperson: 'Better price-performance and increase our ability to perform a wide range of what-if scenarios to discover more innovative designs.' — [[study-technology-news-hardware-intel-updates-i-a018d7]]
+- Audi AG switched from RISC-based servers to HP Integrity servers running Itanium 2 dual-processor systems for car-ventilation-system design. Audi spokesperson: 'Better price-performance and increase our ability to perform a wide range of what-if scenarios to discover more innovative designs.' `[ps=0]` — [[study-technology-news-hardware-intel-updates-i-a018d7]]

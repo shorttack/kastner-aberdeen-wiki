@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.43
-prescience_obs_count: 7
+prescience_mean: 3.56
+prescience_obs_count: 9
 ---
 
 # Consolidated Operations Management (COM)
@@ -26,10 +26,10 @@ prescience_obs_count: 7
 
 - Rapid and continuous modification capability `[ps=5]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - Open system with exposed APIs for enterprise integration `[ps=5]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
+- Highly and easily adaptable application `[ps=4]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - Wide data source and format access (multi-platform, multi-database) `[ps=4]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - Ability to embed business rules and procedures `[ps=4]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
+- 9 categories: IT support, facilities, SLA tracking, asset management, inventory, procurement, defect tracking, personnel resource management, policy notification `[ps=4]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - Consolidated operations management will rapidly move up planning agenda of senior executives `[ps=4]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - Intuitive universal user interface `[ps=3]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - ITSM market grew substantially; Gartner ITSM predictions for $9.4B by 2000 were directionally correct; ServiceNow founded 2004 on same COM premise; market reached $14B+ by 2015 `[ps=-1]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
-- Highly and easily adaptable application — [[study-1997-automating-and-managing-internal-op-e69e64]]
-- 9 categories: IT support, facilities, SLA tracking, asset management, inventory, procurement, defect tracking, personnel resource management, policy notification — [[study-1997-automating-and-managing-internal-op-e69e64]]

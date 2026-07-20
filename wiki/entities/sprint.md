@@ -12,9 +12,9 @@ status: "acquired"
 successor: "T-Mobile (2020)"
 years_active: "1899-2020"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sprint Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Sprint's Internet Passport service uses Portal Infranet — [[study-portal-99-fe5656]]
+- Sprint's Internet Passport service uses Portal Infranet `[ps=0]` — [[study-portal-99-fe5656]]

@@ -16,12 +16,12 @@ source_file: "1997 Marathon's Endurance™ 4000_ imp PSK.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.61
-prescience_obs_count: 18
+prescience_mean: 2.52
+prescience_obs_count: 21
 ---
 
 # Marathon's Endurance 4000: Bringing Fault Tolerance to NT Servers & Clusters
@@ -49,15 +49,15 @@ _Published 1997, author **Peter S. Kastner**, type **impact-brief**._
 - NT Server was never designed to run mission-critical applications without failing; no general purpose OS makes that claim `[ps=4]`
 - As more enterprise application 'jewels' hosted on NT servers, risk of significant business disruption rises exponentially as servers 'deployed like popcorn' `[ps=4]`
 - 99.99% application uptime — approximately two orders of magnitude improvement over standard NT server `[ps=3]`
+- Each half connected by optical fiber up to 1.5 kilometers (1 mile) apart — building/campus-scale disaster recovery `[ps=3]`
 - CEs synchronized by memory copy; IOPs synchronized by automatic disk copy when failed component replaced; true continuous processing `[ps=3]`
+- Marathon Technologies succeeded; HP announced reseller agreement for Endurance 6200 (successor) in 2000; First Options of Chicago used Marathon for trading apps; Aberdeen analyst Joe Clabby confirmed '5 nines of availability in NT industry' `[ps=3]`
 - 'Well-architected, affordable, hardware-based solution' that adds value 'as if by magic' to shrink-wrapped applications on standard Intel hardware `[ps=3]`
 - If Endurance 4000 passes hardware compatibility tests, it will be 'breakaway leader' in the new 'fault-tolerant NT servers and clusters' category `[ps=2]`
+- $24,995 `[ps=0]`
 - 4 servers: 2 lock-stepped Computing Elements (CE) + 2 I/O Processors (IOP); all Pentium Pro class `[ps=0]`
 - NT OS and all shrink-wrapped applications unaware of Endurance 4000; no special application versions required `[ps=0]`
 - Wolfpack or other cluster software can run on Endurance-hardened servers `[ps=0]`
 - Compaq, Dell, HP, IBM, Micron — major Pentium Pro server platforms tested `[ps=0]`
 - No true fault-tolerant solution existed in NT cluster market at time of study; only Wolfpack (not yet shipped) or cluster middleware requiring special app versions `[ps=0]`
 - Endurance 4000 includes port to alert external alarm system upon failure `[ps=0]`
-- $24,995
-- Each half connected by optical fiber up to 1.5 kilometers (1 mile) apart — building/campus-scale disaster recovery
-- Marathon Technologies succeeded; HP announced reseller agreement for Endurance 6200 (successor) in 2000; First Options of Chicago used Marathon for trading apps; Aberdeen analyst Joe Clabby confirmed '5 nines of availability in NT industry'

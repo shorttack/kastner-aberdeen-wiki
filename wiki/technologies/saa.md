@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # IBM SAA (Systems Application Architecture)
@@ -23,4 +23,4 @@ prescience_obs_count: 1
 ## Top observations
 
 -  `[ps=0]` — [[study-10ibmiss-f66945]]
--  — [[study-10ibmiss-f66945]]
+-  `[ps=0]` — [[study-10ibmiss-f66945]]

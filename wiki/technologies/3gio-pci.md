@@ -12,9 +12,9 @@ era: "2002-2003"
 lifecycle_at_study: "pre-market"
 lifecycle_current: "{'lifecycle_current': 'succeeded', 'notes': '3GIO (Third Generation I/O) was the development codename for what became PCI Express. Formally renamed PCI Express in April 2002. Not a separate technology - it became PCIe.', 'source': 'https://news.microsoft.com/source/2002/04/17/pci-sig-introduces-pci-express-tm-formerly-3gio-high-speed-serial-interconnect-specification/'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # 3GIO (Third Generation I/O / PCI Express predecessor)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- complementary: 3GIO replaces PCI; IBA handles I/O connectivity beyond motherboard — [[study-intel-infiband-wp--edit-psk-5-22f-a2c551]]
+- complementary: 3GIO replaces PCI; IBA handles I/O connectivity beyond motherboard `[ps=3]` — [[study-intel-infiband-wp--edit-psk-5-22f-a2c551]]

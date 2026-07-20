@@ -12,9 +12,9 @@ status: "retired"
 successor: ""
 years_active: "1973-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Justin Rattner
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Day 2 11:00-11:50 AM: Justin Rattner (Intel Senior Fellow; VP; Director of Corporate Technology Group and Intel CTO). — [[study-peter-kastner-10-bde195]]
+- Day 2 11:00-11:50 AM: Justin Rattner (Intel Senior Fellow; VP; Director of Corporate Technology Group and Intel CTO). `[ps=0]` — [[study-peter-kastner-10-bde195]]

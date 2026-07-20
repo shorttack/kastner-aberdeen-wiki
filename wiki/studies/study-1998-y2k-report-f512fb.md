@@ -16,12 +16,12 @@ source_file: "1998 Y2K report.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.6
-prescience_obs_count: 20
+prescience_mean: 1.75
+prescience_obs_count: 28
 ---
 
 # Y2K Software Tools Providers 1998
@@ -46,7 +46,12 @@ _Published 1998, author **Andrew Bochman; Management Support Technology, Inc.**,
 - Majority dissolved or absorbed; category became obsolete `[ps=5]`
 - Many waited until 1998 to begin in earnest `[ps=4]`
 - Will begin affecting non-US enterprises as soon as late 1998 `[ps=4]`
+- Primary platform requiring remediation due to COBOL date handling `[ps=4]`
+- No robust Y2K project management tooling existed `[ps=4]`
+- Lack of end-to-end tool comprehensiveness `[ps=4]`
 - Mature — several years on market with refined methodologies `[ps=3]`
+- Applying longer-term code fixes (windowing vs expansion) `[ps=3]`
+- Majority started 1-3 years prior (1995-1997) `[ps=2]`
 - Certain disaster if remediation deferred to 1999 `[ps=1]`
 - Finding all date-sensitive code instances `[ps=0]`
 - Last-chance validation of fixed code `[ps=0]`
@@ -58,10 +63,5 @@ _Published 1998, author **Andrew Bochman; Management Support Technology, Inc.**,
 - Profiled as strong Y2K remediation provider `[ps=0]`
 - Profiled as strong Y2K tools provider `[ps=0]`
 - Profiled as strong Y2K tools provider `[ps=0]`
-- Profiled as strong Y2K automated tools provider `[ps=0]`
-- Based on hundreds of supplier interviews and BA&A services `[ps=0]`
-- Majority started 1-3 years prior (1995-1997)
-- Primary platform requiring remediation due to COBOL date handling
-- Applying longer-term code fixes (windowing vs expansion)
-- No robust Y2K project management tooling existed
-- Lack of end-to-end tool comprehensiveness
+- Profiled as strong Y2K tools provider `[ps=0]`
+- Profiled as strong Y2K tools provider `[ps=0]`

@@ -12,9 +12,9 @@ status: "active"
 successor: "Yankee Group (2003) -> Interarbor Solutions (founder, 2005-present)"
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Dana Gardner
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'It's a lot easier to sell to a whole country vis-a-vis a government than it is to go company by company and house by house. It's a very interesting way to approach a market.' — Dana Gardner, Yankee Group — [[study-comdex-2003-sun-aggressive-seattletimes--9ca4dd]]
+- 'It's a lot easier to sell to a whole country vis-a-vis a government than it is to go company by company and house by house. It's a very interesting way to approach a market.' — Dana Gardner, Yankee Group `[ps=2]` — [[study-comdex-2003-sun-aggressive-seattletimes--9ca4dd]]

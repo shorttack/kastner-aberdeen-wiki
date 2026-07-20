@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.25
-prescience_obs_count: 4
+prescience_mean: 2.33
+prescience_obs_count: 6
 ---
 
 # Tandem Opens Up
@@ -41,8 +41,8 @@ _Published 1996, author **Barbara DePompa, InformationWeek #563**, type **news-a
 ## Top observations
 
 - Compaq Computer Corporation acquired Tandem Computers in June 1997 for approximately $3 billion in stock — just 17 months after this article; Compaq itself was acquired by HP in May 2002. `[ps=5]`
+- HPE NonStop systems (the Tandem NonStop line) continue in 2025 as a niche high-end fault-tolerant platform for banking, telecom, stock exchanges — now on x86 hardware rather than proprietary NonStop silicon; a durable but narrow survivor of the 1996 pivot. `[ps=5]`
 - Tandem's ServerNet technology, together with Intel NGIO and IBM Future I/O, merged into the InfiniBand Trade Association's InfiniBand standard (1999) — validating Pieper's strategy of licensing ServerNet and Kastner's open-systems endorsement. `[ps=3]`
 - Pieper says the key to Tandem's long-term success is to build partnerships that let its advanced software run on other manufacturers' computers — exploiting NonStop fault-tolerant capabilities and ServerNet technology in Unix and Windows NT environments. `[ps=1]`
+- [Pieper's] background at Unix Systems Labs and Software AG means he knows open systems and production computing requirements. `[ps=0]`
 - Tandem named Roel Pieper (39) president and CEO on Jan 8 1996, replacing founder Jim Treybig who agreed to step down in October 1995 after a 72% quarterly earnings drop amid product delays. `[ps=0]`
-- [Pieper's] background at Unix Systems Labs and Software AG means he knows open systems and production computing requirements.
-- HPE NonStop systems (the Tandem NonStop line) continue in 2025 as a niche high-end fault-tolerant platform for banking, telecom, stock exchanges — now on x86 hardware rather than proprietary NonStop silicon; a durable but narrow survivor of the 1996 pivot.

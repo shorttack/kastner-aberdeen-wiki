@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 3
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 4.0
+prescience_mean: 2.75
+prescience_obs_count: 4
 ---
 
 # Internal IT Help Desk Software
@@ -24,7 +24,7 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Help desk identified as natural starting point for internal operations automation `[ps=4]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
+- Customer support/service and help desk diverging from SFA path `[ps=4]` — [[study-1998-cis-report-customer-interaction-software-631068]]
+- Help Desk judged by how quickly problems were resolved `[ps=3]` — [[study-2001-ca-s-it-resource-management-solutions-p-ing-it-ope-0855b8]]
 - IT operations judged by how smoothly things ran `[ps=0]` — [[study-2001-ca-s-it-resource-management-solutions-p-ing-it-ope-0855b8]]
-- Help desk identified as natural starting point for internal operations automation — [[study-1997-automating-and-managing-internal-op-e69e64]]
-- Customer support/service and help desk diverging from SFA path — [[study-1998-cis-report-customer-interaction-software-631068]]
-- Help Desk judged by how quickly problems were resolved — [[study-2001-ca-s-it-resource-management-solutions-p-ing-it-ope-0855b8]]

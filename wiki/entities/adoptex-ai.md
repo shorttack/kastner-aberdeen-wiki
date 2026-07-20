@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "2024-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Adoptex AI
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Kastner involved with an AI adoption startup in post-Aberdeen period. — [[study-volume-1-appendix-career-timeline]]
+- Kastner involved with an AI adoption startup in post-Aberdeen period. `[ps=0]` — [[study-volume-1-appendix-career-timeline]]

@@ -1,6 +1,7 @@
 ---
 title: Quote 1183 —  ()
 type: quotation
+page_type: quotation
 slug: quote-1183
 row_id: 1183
 author: "Peter S. Kastner"

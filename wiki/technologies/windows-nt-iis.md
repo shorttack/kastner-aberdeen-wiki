@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Internet Information Server 2.0 (IIS)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft claims IIS 2.0 is 40% faster than version 1.0; bundled with NT Server NOS installation — [[study-aberdeen-1996-microsoft-windows-nt-server-40]]
-- Suitability as Internet platform because of built-in Web server (IIS) — [[study-aberdeen-1996-microsoft-windows-nt-server-40]]
+- Suitability as Internet platform because of built-in Web server (IIS) `[ps=4]` — [[study-aberdeen-1996-microsoft-windows-nt-server-40]]
+- Microsoft claims IIS 2.0 is 40% faster than version 1.0; bundled with NT Server NOS installation `[ps=0]` — [[study-aberdeen-1996-microsoft-windows-nt-server-40]]

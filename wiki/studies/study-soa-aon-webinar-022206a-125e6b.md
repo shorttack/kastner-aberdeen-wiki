@@ -16,12 +16,12 @@ source_file: "soa-aon-webinar-022206a-125e6b.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 53
+prescience_obs_count: 54
 ---
 
 # Enterprise Integration Technology: Aberdeen Group's Market Trends & Research for 2006

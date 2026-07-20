@@ -16,12 +16,12 @@ source_file: "1997 IBM Information Integration Family pr.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.1
-prescience_obs_count: 21
+prescience_mean: 2.92
+prescience_obs_count: 25
 ---
 
 # IBM Information Integration Family
@@ -45,6 +45,8 @@ _Published 1997, author **Aberdeen Group**, type **Profile**._
 - Log-based capture to staging area then apply to destination; minimizes production database impact `[ps=4]`
 - State management via variable substitution for OLTP transactions across web connections `[ps=4]`
 - Full enterprise data integration is 'difficult if not impossible'; focused data marts achieve competitive advantage `[ps=4]`
+- 1997 plans to add SQL-3 standard support and mimic advanced operations on DBMSs lacking them `[ps=4]`
+- Will enable 'write-once' apps accessing multiple legacy backend databases over Intranet `[ps=4]`
 - Absorbed into IBM DB2 Replication; log-based CDC pattern validated by entire industry `[ps=4]`
 - Visual Programming Environment due next year (1998) for rapid development; further Java capabilities `[ps=4]`
 - Net.data superseded by WebSphere Application Server and JSP/servlet model circa 2000-2002 `[ps=4]`
@@ -57,11 +59,9 @@ _Published 1997, author **Aberdeen Group**, type **Profile**._
 - Applications do not change when underlying architecture changes — open-server API features `[ps=3]`
 - DB2 serves as hub for heterogeneous replication when combined with DataJoiner and DataPropagator `[ps=3]`
 - Will add further support for traditional RDBMS scalability technologies such as cursors and governors `[ps=2]`
+- DB2, Oracle, Informix, Sybase, Microsoft SQL Server, IMS, VSAM `[ps=0]`
 - DB2-to-Sybase, DB2-to-Oracle, Oracle-to-DB2, Oracle-to-Oracle confirmed customer deployments `[ps=0]`
 - DataJoiner absorbed into IBM DB2 Information Integrator (~2002); later InfoSphere Federation Server `[ps=0]`
 - Informix named as supported DataJoiner join target via open-server operations `[ps=0]`
 - Supports push from laptop or pull from central server for mobile/laptop replication `[ps=0]`
-- DB2, Oracle, Informix, Sybase, Microsoft SQL Server, IMS, VSAM
-- 1997 plans to add SQL-3 standard support and mimic advanced operations on DBMSs lacking them
-- Will enable 'write-once' apps accessing multiple legacy backend databases over Intranet
-- Sybase SQL Server supported as DataJoiner target; PowerBuilder can invoke DataJoiner
+- Sybase SQL Server supported as DataJoiner target; PowerBuilder can invoke DataJoiner `[ps=0]`

@@ -12,9 +12,9 @@ era: "1995-2015"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Computer-Telephony Integration (CTI) within CIS
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CTI identified as important additional CIS technology — [[study-1998-cis-report-customer-interaction-software-631068]]
+- CTI identified as important additional CIS technology `[ps=4]` — [[study-1998-cis-report-customer-interaction-software-631068]]

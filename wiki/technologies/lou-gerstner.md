@@ -12,9 +12,9 @@ era: "1993-2002"
 lifecycle_at_study: "mature"
 lifecycle_current: "retired"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Lou Gerstner (IBM CEO)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Lou Gerstner became IBM CEO 1993 and reversed the planned company breakup; pivoted to services strategy — [[study-2026-kastner-ibm-longitudinal]]
+- Lou Gerstner became IBM CEO 1993 and reversed the planned company breakup; pivoted to services strategy `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]

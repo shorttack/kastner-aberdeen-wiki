@@ -12,9 +12,9 @@ era: "1982-1990s"
 lifecycle_at_study: "production"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # DEC VAX 11/782
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- $656,889 — same comparable config; $/TPS $5,999 — [[study-stratus-computer-is-down-ad-reprints-c19-903ebf]]
+- $656,889 — same comparable config; $/TPS $5,999 `[ps=0]` — [[study-stratus-computer-is-down-ad-reprints-c19-903ebf]]

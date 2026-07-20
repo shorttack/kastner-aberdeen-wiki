@@ -1,6 +1,7 @@
 ---
 title: Quote 404 — MarketWatch (2003-04-26)
 type: quotation
+page_type: quotation
 slug: quote-404
 row_id: 404
 author: "Peter S. Kastner"

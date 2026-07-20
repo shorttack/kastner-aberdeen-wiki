@@ -13,8 +13,8 @@ lifecycle_at_study: "pre-release"
 lifecycle_current: "production"
 occurrence_count: 5
 prescience_max: 5.0
-prescience_mean: 2.48
-prescience_obs_count: 27
+prescience_mean: 2.52
+prescience_obs_count: 29
 ---
 
 # Customer Behavior Analysis
@@ -43,9 +43,9 @@ prescience_obs_count: 27
 - Used collaboration to extend management and control across widely separated sites. `[ps=4]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - Used collaboration to extend management and control across widely separated sites. `[ps=4]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - Ideal groupware should be portable, high-performance, scalable, easy to use, efficient in protocol design, and strong in distributed management, distributed security, and legacy interoperability. `[ps=4]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
+- parallel_not_replacement `[ps=4]` — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
 - There will be two types of organizations in the future: the quick and the dead. `[ps=3]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - An enterprise groupware strategy cannot come from the IT department alone and requires senior-management direction. `[ps=3]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
+- workgroup_departmental_small_business `[ps=2]` — [[study-1997-commercial-risc-unix-1996-mvp-711569]]
 - $1.7 billion `[ps=0]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - $5.5 billion `[ps=0]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
-- 15% per year `[ps=0]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
-- 25,000 calls eliminated `[ps=0]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]

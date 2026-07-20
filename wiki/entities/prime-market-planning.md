@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "absorbed into Computervision; dissolved with Prime"
 years_active: "1979-1981"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Prime Market Planning and Management Department
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Peter Schlegel ran group; Kastner covered commercial vertical markets; Steve Franson worked alongside; lasted only as long as Thanksgiving leftovers before reorganization. — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Peter Schlegel ran group; Kastner covered commercial vertical markets; Steve Franson worked alongside; lasted only as long as Thanksgiving leftovers before reorganization. `[ps=0]` — [[study-volume-1-ch04-prime-computer-1979-1981]]

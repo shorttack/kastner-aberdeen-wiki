@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Fujitsu Granpower
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- 34117 `[ps=0]` — [[study-1998as400-1-146289]]
 - Y57883/tpmC `[ps=0]` — [[study-1998as400-1-146289]]
-- 34117 — [[study-1998as400-1-146289]]

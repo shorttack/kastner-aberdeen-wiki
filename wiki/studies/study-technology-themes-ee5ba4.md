@@ -16,12 +16,12 @@ source_file: "Archive-4/Technology themes.doc"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.71
-prescience_obs_count: 17
+prescience_mean: 2.75
+prescience_obs_count: 20
 ---
 
 # IT Technology Themes and Trends
@@ -43,6 +43,8 @@ _Published 2003, author **Peter S. Kastner**, type **topic-analysis**._
 - Large firms own dozens of redundant/overlapping software products; multi-million dollar unused purchases `[ps=5]`
 - RFID tags, automated replenishment, enhanced parcel tracking driven by modern consumer `[ps=5]`
 - Extended value chains vastly complicating enterprise management; partner autonomy conflicts `[ps=5]`
+- Some firms may revert to private status due to compliance costs `[ps=5]`
+- Skyrocketing due to compliance, replication, PC data proliferation `[ps=4]`
 - Early/emerging; new thinking about tiered storage pools `[ps=4]`
 - Increasing in retail automation, CRM, analytics `[ps=4]`
 - Executive committee now controls budget; wants high-ROI projects implementable in weeks not months `[ps=4]`
@@ -53,11 +55,9 @@ _Published 2003, author **Peter S. Kastner**, type **topic-analysis**._
 - Uncertain; hotspot investments hard to profit without corporate laptop adoption growth `[ps=3]`
 - Significant; fewer processors per server reducing per-processor license revenue `[ps=1]`
 - ~30% of enterprise computers are laptops; few takers for dramatic increase `[ps=1]`
+- ~30% per year `[ps=0]`
 - ~1/3 consider themselves IT-savvy; another 1/3 at least competent `[ps=0]`
 - Several hundred thousand to several million dollars per year per affected business `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
-- ~30% per year
-- Skyrocketing due to compliance, replication, PC data proliferation
 - CIOs seeing integration costs favoring single-vendor suites
-- Some firms may revert to private status due to compliance costs

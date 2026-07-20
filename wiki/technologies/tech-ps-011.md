@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Active"
 lifecycle_current: "Deprecated"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # CDIF (Common Data Interchange Format)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP Intelligent Warehouse exchanges metadata with Prism via CDIF standard — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
-- PLATINUM PR/MVS and R&O Rochade repositories exchange metadata via CDIF — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
+- HP Intelligent Warehouse exchanges metadata with Prism via CDIF standard `[ps=2]` — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
+- PLATINUM PR/MVS and R&O Rochade repositories exchange metadata via CDIF `[ps=2]` — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]

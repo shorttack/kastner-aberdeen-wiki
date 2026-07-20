@@ -1,6 +1,7 @@
 ---
 title: Quote 1171 — Inc. ()
 type: quotation
+page_type: quotation
 slug: quote-1171
 row_id: 1171
 author: "Peter S. Kastner"

@@ -13,8 +13,8 @@ lifecycle_at_study: "vendor-strategy"
 lifecycle_current: "abandoned"
 occurrence_count: 2
 prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 2
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # IBM SAA (Systems Application Architecture)
@@ -26,4 +26,4 @@ prescience_obs_count: 2
 
 - IBM SAA described as 'still undelivered' in February 1992; Sapiens modularity fulfills what SAA promised `[ps=3]` — [[study-1992-sapiens-and-metadata-0608b6]]
 - New CEO interested in stock price performance; Aberdeen believes this portends disinvestment from mainframes `[ps=3]` — [[study-nti-9-mainframe-role-1993-77fc40]]
-- No clear client-server path despite 1987 promises; did not fulfill vision — [[study-nti-9-mainframe-role-1993-77fc40]]
+- No clear client-server path despite 1987 promises; did not fulfill vision `[ps=2]` — [[study-nti-9-mainframe-role-1993-77fc40]]

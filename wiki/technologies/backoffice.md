@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 3
 prescience_max: 4.0
-prescience_mean: 2.67
-prescience_obs_count: 9
+prescience_mean: 2.5
+prescience_obs_count: 10
 ---
 
 # Microsoft BackOffice
@@ -31,6 +31,6 @@ prescience_obs_count: 9
 - 'Scant help for executives designing for today's IT projects' — much of Scalability Day demonstrations depended on next year's software `[ps=3]` — [[study-1997-microsoft-nt-scalability-day--the-e-6460e2]]
 - Microsoft has not shown AS/400 users economic advantage for 18-24 month multi-million dollar migration to NT `[ps=3]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
 - Microsoft shifted focus to Internet strategy (consistent with Gates' 'Road Ahead' and .NET pivot); BackOffice as AS/400 replacement faded from priority by 1997-1998 `[ps=2]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
+- Microsoft's AS/400 attack program will be relegated to back-burner by 1997; viewed as the 1995 challenge that was not `[ps=1]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
 - BackOffice product deliverables estimated to account for approximately $500 million of Microsoft's 1995 revenues `[ps=0]` — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]
 - Still needs solving `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
-- Microsoft's AS/400 attack program will be relegated to back-burner by 1997; viewed as the 1995 challenge that was not — [[study-aberdeen-1996-ibm-as400-vs-microsoft-nt-server]]

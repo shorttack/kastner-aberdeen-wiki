@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 5
 prescience_max: 5.0
-prescience_mean: 4.0
-prescience_obs_count: 5
+prescience_mean: 3.11
+prescience_obs_count: 9
 ---
 
 # Windows XP Media Center Edition
@@ -29,14 +29,14 @@ prescience_obs_count: 5
 
 ## Top observations
 
+- Windows XP Media Center Edition — sold only via selected OEMs `[ps=5]` — [[study-dct-microsoft-media-center-rollout-2002-08]]
 - First shown by Bill Gates at CES January 2002 under codename 'Freestyle' `[ps=5]` — [[study-dct-microsoft-media-center-rollout-2002-08]]
 - Media Center PCs to reach market in time for Christmas season 2002 `[ps=5]` — [[study-dct-microsoft-media-center-rollout-2002-08]]
 - Windows XP Media Center Edition OEM rollout confirmed: HP, Dell, Gateway, Sony, Toshiba all shipped MCE SKUs through 2003-2005; MCE was folded into Vista Home Premium/Ultimate (2007) and Windows 7 (2009) as mainstream features. Last standalone MCE was 2005 Edition; 'Windows Media Center' app removed from Windows 10 (2015) as streaming displaced DVR-centric use case. `[ps=5]` — [[study-dct-microsoft-media-center-rollout-2002-08]]
 - The 'living room battle' Kastner described was ultimately won not by media-center PCs but by dedicated streaming boxes (Roku, Apple TV, Chromecast, Fire TV) and smart TVs with built-in apps — superseding the Windows Media Center PC paradigm which Microsoft discontinued in Windows 10. `[ps=5]` — [[study-small-is-huge-in-pcs-these-days-blog-arc-655851]]
+- May be adequate if users avoid aftermarket apps and peripherals `[ps=3]` — [[study-dct-microsoft-media-center-rollout-2002-08]]
+- Profile 4 XL 'great platform for Windows XP Media Center' `[ps=0]` — [[study-dct-kastner-wish-list-2002-12]]
 - Not first PC-in-living-room attempt, but 'strongest push to date' `[ps=0]` — [[study-dct-microsoft-media-center-rollout-2002-08]]
-- Profile 4 XL 'great platform for Windows XP Media Center' — [[study-dct-kastner-wish-list-2002-12]]
-- Windows XP Media Center Edition — sold only via selected OEMs — [[study-dct-microsoft-media-center-rollout-2002-08]]
-- May be adequate if users avoid aftermarket apps and peripherals — [[study-dct-microsoft-media-center-rollout-2002-08]]
+- Champagne-gold-exterior Gateway 901 Family Room Media Center, priced $1,000-$2,000, resembles high-end stereo component, includes DVD-R drive, HDTV/audio connectors, runs Microsoft Windows Media Center Edition. `[ps=0]` — [[study-small-is-huge-in-pcs-these-days-blog-arc-655851]]
 - Simply trade in a 300MHz or faster Windows based desktop at the time of purchasing your new machine to cash in on the savings. — [[study-dct-weekly-2002-10-27]]
 - New this week is HP's second generation media-oriented desktop, featuring Microsoft's media center edition of Windows XP. — [[study-dct-weekly-2003-03-23]]
-- Champagne-gold-exterior Gateway 901 Family Room Media Center, priced $1,000-$2,000, resembles high-end stereo component, includes DVD-R drive, HDTV/audio connectors, runs Microsoft Windows Media Center Edition. — [[study-small-is-huge-in-pcs-these-days-blog-arc-655851]]

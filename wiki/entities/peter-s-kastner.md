@@ -13,8 +13,8 @@ successor: "[none]"
 years_active: "1981-1987 (at Stratus)"
 occurrence_count: 259
 prescience_max: 5.0
-prescience_mean: 2.19
-prescience_obs_count: 529
+prescience_mean: 2.17
+prescience_obs_count: 738
 ---
 
 # Peter S. Kastner
@@ -33,6 +33,7 @@ prescience_obs_count: 529
 - A simple ROI spreadsheet is the wrong tool for collaboration because benefits are broad, diffuse, and often appear negative in narrow models. `[ps=5]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - Economics of standardized x86 architecture plus open OS would overcome proprietary minicomputers `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - Itanium will not displace x86 in server market; tracked across 17 archive observations of slippage `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Commercial Client-Server Applications: Entering the Mainstream `[ps=5]` — [[study-aberdeen-open-online-transaction-process-ea272f]]
 - Manageability of loosely-coupled services, re-use policies, and security are all most economically designed in rather than bolted on after the fact. Technology for automating management and governance is proving its worth at Best in Class companies. `[ps=5]` — [[study-aberdeen-ra-soa-management-governance-20-ff6a2c]]
 - 'AMD with ATI can create a one-chip computer that contains the functions that in the past have been in the chipset and the processor. That would allow a much less expensive PC to be made, because you'd have fewer chips to put on the motherboard.' — Peter Kastner, Aberdeen Group `[ps=5]` — [[study-amd-fusion-outlook-newsfactor-garrett-5859d3]]
 - Drivers: declining memory prices, more OS features (security, virtualization), and web-services-driven application growth requiring larger memory footprints `[ps=5]` — [[study-amd-industry-analyst-visionaries-64bit-2-7a191f]]
@@ -45,7 +46,6 @@ prescience_obs_count: 529
 - Right now, people are not going to alter their TVs to fit them for interactive TV functions `[ps=5]` — [[study-ect-news-whatever-happened-interactive-t-7446fd]]
 - Our assumption is that the disease can and will be halted by aggressive public health actions going forward `[ps=5]` — [[study-electronic-news-videoconferencing-sars-c-044642]]
 - Mixed — did NOT broadly displace TCP/IP in enterprise server-to-server. Substantively validated in HPC (top-500 supercomputers majority-InfiniBand by 2010s) and AI-training clusters (NVIDIA acquired Mellanox 2019 for $6.9B; InfiniBand HDR/NDR the dominant fabric for GPU training 2022-2026). Enterprise storage adopted RoCE/iWARP-over-Ethernet as alternative. `[ps=5]` — [[study-infiniband-and-beyond-computerworld-supp-200261]]
+- As the costs come down, this technology will be fundamental to communications in the 21st century `[ps=5]` — [[study-informationweek-videoconferencing-boost--b62ff4]]
 - 'Quad-core becomes really exciting for the many IT organizations that are looking at server consolidation through virtualization' — Kastner on enterprise server driver `[ps=5]` — [[study-intel-quad-core-outlook-newsfactor-garre-c32252]]
 - 'On a server, which can use multiple cores, almost by nature this should be very attractive for a huge percentage of volume server shipments' — Kastner on quad-core server TAM `[ps=5]` — [[study-intel-quad-core-outlook-newsfactor-garre-c32252]]
-- SARS is a very real problem, but at the moment it seems unlikely to untrack either the global electronics industry, or the U.S. economy `[ps=5]` — [[study-internetnews-will-sars-infect-high-tech--8569ea]]
-- Security used to be one program on the mainframe. Now, security issues are rampant as distributed systems create enormous complexity. Further, TCP/IP, for all its benefits, opens enormous holes in any LAN or WAN environment. Is this a problem solved by Line of Business Managers or by the CIO? Can it be solved? `[ps=5]` — [[study-kastner-jrl-trends-1999-pk-responses-f4c5a4]]

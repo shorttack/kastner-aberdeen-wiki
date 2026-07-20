@@ -12,9 +12,9 @@ era: "2002-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Flat-Rate Mobile Data Plan
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Flat-rate data plans are here; focus on MMS and gaming applications; consolidation in North America imminent — [[study-dct-webinar-nov-2002]]
+- Flat-rate data plans are here; focus on MMS and gaming applications; consolidation in North America imminent `[ps=3]` — [[study-dct-webinar-nov-2002]]

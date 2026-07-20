@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1998-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # DataCore Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Storage virtualization exploits existing storage capacity and leverages IS skills to raise storage ROI — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- Storage virtualization exploits existing storage capacity and leverages IS skills to raise storage ROI `[ps=4]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

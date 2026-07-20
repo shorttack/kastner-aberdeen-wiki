@@ -16,12 +16,12 @@ source_file: "14-Formulas-Disaster-Scenario.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.5
-prescience_obs_count: 18
+prescience_mean: 1.7
+prescience_obs_count: 20
 ---
 
 # Formulas for Disaster Recovery Scenario
@@ -42,9 +42,11 @@ _Published 2003, author **Aberdeen Group**, type **case-analysis**._
 
 - Benefits = (admin cost savings) + (additional revenue from New solution) + (opportunity cost savings) [optionally plus acquisition cost difference] `[ps=4]`
 - Cost/GB (online disk) * GB online + cost/GB (nearline tape) * GB nearline + cost/GB (offline tape) * GB offline `[ps=4]`
+- Cost/GB online * GB online + cost/GB midline * GB midline + cost/GB nearline disk * GB nearline disk + cost/GB nearline tape * GB nearline tape + cost/GB offline tape * GB offline tape `[ps=4]`
 - Online book/CD seller modeled on Amazon.com; 50000 customers/hour; $20-30/order; $1.5M revenue/hour at risk; crash during peak business hours `[ps=4]`
 - Additional revenue for New Solution = customers served/hour * $/customer * recovery time saved `[ps=4]`
 - Stage 3: disk/disk recovery time (New Way); Stage 4: disk/tape - disk/disk recovery time; Stage 5: Old Way - New Way recovery time (1/2 to 2/3 of Old Way) `[ps=4]`
+- Downtime = Outage Time + Recovery Time; one-minute electrical disruption + 5 minutes boot = 6 minute constant outage time for both scenarios `[ps=3]`
 - GB online (New) + GB midline (New) = GB online (Old); GB nearline disk (New) + GB nearline tape (New) = GB nearline tape (Old) `[ps=2]`
 - Recovery time (New Way) = max(disk/disk recovery time, disk/tape recovery time); disk/disk: GB online / 1600 GB/hr; disk/tape: GB midline / 800 GB/hr; parallel execution `[ps=2]`
 - 20TB nearline disk: $100K at $5/GB; 4-drive 100-slot tape library: $85K + $10K media = $95K; combo $195K `[ps=2]`
@@ -58,5 +60,3 @@ _Published 2003, author **Aberdeen Group**, type **case-analysis**._
 - $31.60/GB (HDS 9980V with 146GB disks) `[ps=0]`
 - $13.30/GB (EMC CX600 with 146GB disks) `[ps=0]`
 - $9.30/GB `[ps=0]`
-- Cost/GB online * GB online + cost/GB midline * GB midline + cost/GB nearline disk * GB nearline disk + cost/GB nearline tape * GB nearline tape + cost/GB offline tape * GB offline tape
-- Downtime = Outage Time + Recovery Time; one-minute electrical disruption + 5 minutes boot = 6 minute constant outage time for both scenarios

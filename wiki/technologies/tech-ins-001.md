@@ -12,9 +12,9 @@ era: "1990s-2010s"
 lifecycle_at_study: "Active"
 lifecycle_current: "Legacy/niche (renamed ICE/XS in ACI)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Insession ICE (Interoperability and Connectivity Engine)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Insession ICE enables communication across incompatible computing systems including mainframes and internet — [[study-1997-insession---accessing-and-leveragin-cb2e40]]
+- Insession ICE enables communication across incompatible computing systems including mainframes and internet `[ps=3]` — [[study-1997-insession---accessing-and-leveragin-cb2e40]]

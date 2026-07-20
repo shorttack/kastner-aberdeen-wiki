@@ -12,9 +12,9 @@ era: "1992-2010"
 lifecycle_at_study: "Dominant (WAN)"
 lifecycle_current: "Obsolete (replaced by MPLS/broadband)"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # Frame Relay
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Frame Relay largely replaced by MPLS and broadband internet by mid-2000s; enterprise WAN market shifted to MPLS VPNs; Frame Relay revenues peaked around 2000 `[ps=5]` — [[study-1997-managing-corporate-internet-access--ae26d9]]
 - Frame Relay cited as most widely used transmission uplink technology currently being selected by ISP customers `[ps=0]` — [[study-1997-managing-corporate-internet-access--ae26d9]]
-- Frame Relay largely replaced by MPLS and broadband internet by mid-2000s; enterprise WAN market shifted to MPLS VPNs; Frame Relay revenues peaked around 2000 — [[study-1997-managing-corporate-internet-access--ae26d9]]

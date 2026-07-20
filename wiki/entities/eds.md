@@ -14,7 +14,7 @@ years_active: "[DEFERRED]"
 occurrence_count: 7
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 3
+prescience_obs_count: 4
 ---
 
 # EDS (Electronic Data Systems)
@@ -29,10 +29,10 @@ prescience_obs_count: 3
 
 ## Top observations
 
+- E-commerce only 2% of revenues in 1997 `[ps=0]` — [[study-ecpspr~1-4968bf]]
 - $110 million contract for complex distributed human resources computer system for State of Florida `[ps=0]` — [[study-psk-litigate98-72601c]]
 - EDS sued Florida HRS for $46 million in unpaid bills; HRS countersued that EDS had failed to deliver `[ps=0]` — [[study-unisys-florida-hrs-expert-witness-tallah-5b4524]]
 - EDS and IBM both bid on the $200M Florida statewide human services application RFP; EDS was a losing bidder alongside Unisys. `[ps=0]` — [[study-volume-1-ch09-expert-witness-technology-on-trial-1992-2015]]
-- E-commerce only 2% of revenues in 1997 — [[study-ecpspr~1-4968bf]]
 - QA responsibility rests with 75+ solutions centers and SBUs; not mandated from corporate level; CM&P organization since 1988 develops guidelines and templates — [[study-ie-appendix-lane-qa-research-e594cb]]
 - PM2 (ISO-influenced project management 2nd generation) and SC3 (SEI-based system lifecycle 3rd iteration since 1988); neither CMM-certified nor ISO-compliant — [[study-ie-appendix-lane-qa-research-e594cb]]
 - More than 75 solutions centers plus strategic account groups and strategic business units — [[study-ie-appendix-lane-qa-research-e594cb]]

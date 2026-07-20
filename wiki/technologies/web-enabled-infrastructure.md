@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Web-Enabled Technology Infrastructure
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Y2K is about competitive advantage (shelf space, market position) as much as technology; senior executives must lead — [[study-aberdeen-1996-enterprise-executives-year-2000-solution]]
+- Y2K is about competitive advantage (shelf space, market position) as much as technology; senior executives must lead `[ps=3]` — [[study-aberdeen-1996-enterprise-executives-year-2000-solution]]

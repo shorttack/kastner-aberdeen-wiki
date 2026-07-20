@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Remote Job Entry (56 kbps telephone line)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - The 360/65 was, in effect, Cornell's cloud — a concept that would not have a name for another forty years. `[ps=4]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Remote job entry over a 56 kbps dedicated telephone line from Upson Hall to Langmuir Labs data center. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Remote job entry over a 56 kbps dedicated telephone line from Upson Hall to Langmuir Labs data center. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

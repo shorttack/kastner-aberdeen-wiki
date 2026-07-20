@@ -12,9 +12,9 @@ status: "active"
 successor: "[none]"
 years_active: "1995-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # World Trade Organization (WTO)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Signed November 1997; eliminated bilateral accounting rates; opened foreign competition in basic services — [[study-teleco~1-c01702]]
+- Signed November 1997; eliminated bilateral accounting rates; opened foreign competition in basic services `[ps=3]` — [[study-teleco~1-c01702]]

@@ -12,9 +12,9 @@ era: "1990s-2003"
 lifecycle_at_study: "mature"
 lifecycle_current: "current"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # Personal Productivity / Email Storage
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Write once; read once to many times — [[study-15-classification-key-applications-55b6be]]
-- Write-once read-few email pattern creates accumulating storage demand suited to lower-cost nearline — [[study-15-classification-key-applications-55b6be]]
-- Write-once / read-once-to-many times — personal productivity category — [[study-maxtor-ramp-interview-guide-first-draft-c68ebd]]
+- Write-once read-few email pattern creates accumulating storage demand suited to lower-cost nearline `[ps=4]` — [[study-15-classification-key-applications-55b6be]]
+- Write once; read once to many times `[ps=3]` — [[study-15-classification-key-applications-55b6be]]
+- Write-once / read-once-to-many times — personal productivity category `[ps=1]` — [[study-maxtor-ramp-interview-guide-first-draft-c68ebd]]

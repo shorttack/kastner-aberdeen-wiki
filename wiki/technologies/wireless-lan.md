@@ -12,9 +12,9 @@ era: "1997-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Wireless LAN (WLAN)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enterprise WLANs need security/management systems to become enterprise-strength — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- Enterprise WLANs need security/management systems to become enterprise-strength `[ps=5]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

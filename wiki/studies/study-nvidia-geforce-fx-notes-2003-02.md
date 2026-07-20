@@ -16,12 +16,12 @@ source_file: "nVidia GeForce FX.doc"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.64
-prescience_obs_count: 14
+prescience_mean: 1.45
+prescience_obs_count: 20
 ---
 
 # nVidia GeForce FX Product-Line Briefing Notes
@@ -45,18 +45,18 @@ _Published 2003, author **Peter S. Kastner**, type **topic-analysis**._
 - Power, precision, programmability `[ps=4]`
 - Vertex and pixel shaders across the line; 128-bit precision; hardware pixel/vertex shaders into mainstream (Dawn, Doom III) `[ps=4]`
 - Will outperform GeForce 4 Ti 4600 at $399 `[ps=4]`
+- Very modular: mobile, low cost $99 (NV34) up through high-end `[ps=3]`
+- Replaces GeForce Ti 4200 low end and MX; 2x GeForce 4 MX 440 64MB `[ps=2]`
+- Announced March 6; ships April `[ps=1]`
 - 1.5x ATI Radeon 9500 `[ps=1]`
 - Lacks compression and other high-end features `[ps=1]`
+- High-end future; under May 11 NDA `[ps=0]`
 - 20 GB/s — 2x NV30 (2nd gen compression/caching, 2nd gen pixel shader, AGP 8x, clocks ≥ NV30) `[ps=0]`
 - 2x Ti4200; 4-pipe engine; 0.13 micron TSMC; AGP 8x; DDR1; lossless compression continues `[ps=0]`
 - $179 at 128MB — 'pretty aggressive' `[ps=0]`
+- No OEMs to announce yet — PR later; production silicon rev A01 `[ps=0]`
 - Full cinematix; 128-bit; vertex and pixel shaders; dual RAMDACs 350 MHz 2048x1356; MPEG decoder; DDR1; 0.15 micron TSMC; 128MB standard `[ps=0]`
 - $99 price point `[ps=0]`
 - End February 2003 `[ps=0]`
 - $399 — 'more than a 4600'; product name 5800 `[ps=0]`
-- Very modular: mobile, low cost $99 (NV34) up through high-end
-- Announced March 6; ships April
-- High-end future; under May 11 NDA
-- No OEMs to announce yet — PR later; production silicon rev A01
-- Replaces GeForce Ti 4200 low end and MX; 2x GeForce 4 MX 440 64MB
-- [UNVERIFIED]
+- [UNVERIFIED] `[ps=0]`

@@ -16,12 +16,12 @@ source_file: "1996 IBM_ The Transformation From Business Machines To Information
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.39
-prescience_obs_count: 18
+prescience_mean: 2.67
+prescience_obs_count: 27
 ---
 
 # IBM: The Transformation From Business Machines To Information-Service Solutions
@@ -40,28 +40,28 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
+- OS/2's lack of ISV support and proprietary perception will continue to limit IBM's desktop influence `[ps=5]`
 - By early 2000s IBM became leader in IT services and consulting; $7B+ cost avoidance 1996-1998; services dominant revenue driver `[ps=5]`
+- 30% annual growth for past 4 years in customer-intimate professional services `[ps=4]`
 - Revenue up 4.4% but hardware declined 0.6%; services (ex-maintenance) up 26.4% `[ps=4]`
 - IBM commits to fulfilling any customer request for information-service solutions including using competitor products (HP Unix, Microsoft BackOffice) `[ps=4]`
+- Unified IBM presentation replacing former competing hardware divisions (S/390, AS/400, RS/6000, PC server) fighting in front of customers `[ps=4]`
 - Installed in almost every Global 500 datacenter; knows customers' infrastructure, staff, and business processes `[ps=4]`
 - IBM sold more Notes licenses in first 6 months of ownership than Lotus had in previous 6 years; Domino Notes (internet version) extends value `[ps=4]`
 - Replication of implementations combined with Network Computing migration will increase revenues by >$8B/year in foreseeable future `[ps=4]`
+- OS/2 discontinued; IBM ended development support 2006; Aberdeen's prediction of strategic liability proved correct `[ps=4]`
+- IBM's Network Computing vision prefigured cloud computing and service-oriented architecture; IBM led enterprise services market through 2000s `[ps=4]`
 - Be first source for installed base's next-generation information solutions; Network Computing supplier of choice globally `[ps=3]`
+- Closest to truly global organization: unified industry solution groups treating global customer operations as single IT project; local presence in smaller metropolitan areas `[ps=3]`
 - Excellent for Global Services desktop deployments but lacks ISV support for Microsoft Office 95; perception of proprietary strategy haunts IBM `[ps=3]`
 - Independent professional service providers will downplay IBM offerings as Global Services competes against them; ISVs will view IBM as competitor `[ps=3]`
 - IBM is the largest business phoenix — rising and soaring from near disaster — we may ever have the pleasure to observe `[ps=3]`
+- Investment community may begin to evaluate IBM as services provider and award higher P/E ratio than hardware companies receive `[ps=3]`
 - Most complete IT product line of any company; 25% of R&D staff required annually to work with customers via Global Services `[ps=2]`
+- Employees hardened by 1990s layoffs; motivated to prove value; no entitlement culture remaining `[ps=2]`
 - Follower in RDBMS functionality and performance vs Oracle, Sybase, Informix; IS decision makers value best-in-class `[ps=2]`
 - Y2K may be bigger and more profitable than Network Computing opportunity; IBM ideally positioned for Y2K Global Services engagement `[ps=2]`
+- $71.9 billion (12.1% increase over 1994) `[ps=0]`
 - $4.2 billion (38.3% earnings increase over 1994) `[ps=0]`
 - $20.1B revenue; $29B backlog; 100,000 employees (of 225,000 total IBM) `[ps=0]`
 - 100,000 at study; on-track for 110,000 by end 1996; 45% of IBM total employees `[ps=0]`
-- 140 functional areas replicable; planned increase to 170+ `[ps=0]`
-- IBM spun off infrastructure services as Kyndryl (2021); consulting retained as IBM Consulting; Aberdeen had warned against spin-off `[ps=0]`
-- $71.9 billion (12.1% increase over 1994)
-- 30% annual growth for past 4 years in customer-intimate professional services
-- Unified IBM presentation replacing former competing hardware divisions (S/390, AS/400, RS/6000, PC server) fighting in front of customers
-- Closest to truly global organization: unified industry solution groups treating global customer operations as single IT project; local presence in smaller metropolitan areas
-- Employees hardened by 1990s layoffs; motivated to prove value; no entitlement culture remaining
-- OS/2's lack of ISV support and proprietary perception will continue to limit IBM's desktop influence
-- OS/2 discontinued; IBM ended development support 2006; Aberdeen's prediction of strategic liability proved correct

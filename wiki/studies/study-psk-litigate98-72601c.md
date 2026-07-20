@@ -16,12 +16,12 @@ source_file: "PSK-litigate98.docx"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 8
+prescience_obs_count: 15
 ---
 
 # Aberdeen Group Litigation Support Experience Summary (c.1998)
@@ -40,18 +40,18 @@ _Published 1998, author **Peter S. Kastner / Aberdeen Group**, type **employer-r
 
 ## Top observations
 
+- Staff support for plaintiff CCI; reviewed RISC-Unix technical documentation; competitive analysis; performance theory; proposed expert witness `[ps=0]`
+- Settled with substantial damages in favor of plaintiff (CCI) `[ps=0]`
 - Technical and project management assessment for defense of American Software; framework for trial; possible damage analysis `[ps=0]`
 - IBM AS/400, IBM 3090 mainframe, application software development, SNA networking, project management, downsized computing user market (GTE Spectrum project) `[ps=0]`
 - Computer software development breach of contract `[ps=0]`
+- Plaintiff expert witness on design and performance of distributed IBM mainframe computer systems `[ps=0]`
 - $110 million contract for complex distributed human resources computer system for State of Florida `[ps=0]`
+- Plaintiff (Unisys) not sustained in formal protest `[ps=0]`
+- EDS proposal technically inadequate in areas of distributed IBM mainframe system design and performance `[ps=0]`
+- Florida cancelled EDS contract after spending $110 million for non-performance on precisely the technical areas Kastner had predicted were inadequate `[ps=0]`
 - Plaintiff alleged trademark infringement on 'crossroads' name conflicting with plaintiff's technology conference name; demanded preliminary injunction `[ps=0]`
+- Multi-million dollar company branding campaign recently completed `[ps=0]`
 - Judge cited Kastner affidavit in denying preliminary injunction to plaintiff `[ps=0]`
 - Settled out of court `[ps=0]`
 - Significant experience in litigation support across computer performance, software development, distributed systems, and trademark domains `[ps=0]`
-- Staff support for plaintiff CCI; reviewed RISC-Unix technical documentation; competitive analysis; performance theory; proposed expert witness
-- Settled with substantial damages in favor of plaintiff (CCI)
-- Plaintiff expert witness on design and performance of distributed IBM mainframe computer systems
-- Plaintiff (Unisys) not sustained in formal protest
-- EDS proposal technically inadequate in areas of distributed IBM mainframe system design and performance
-- Florida cancelled EDS contract after spending $110 million for non-performance on precisely the technical areas Kastner had predicted were inadequate
-- Multi-million dollar company branding campaign recently completed

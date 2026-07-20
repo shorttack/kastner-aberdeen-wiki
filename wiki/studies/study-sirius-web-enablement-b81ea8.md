@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 8
+prescience_mean: 4.0
+prescience_obs_count: 12
 ---
 
 # Sirius – The Case For Web Enablement By Mainframe Upgrade
@@ -46,9 +46,9 @@ _Published 1997, author **Wayne Kernochan (Aberdeen Group)**, type **market-stud
 - IBM mainframe (z/OS) remains in active production at major banks and government agencies nearly 30 years after study `[ps=5]`
 - Computer Corporation of America acquired by Rocket Software in March 2010; Model 204 rebranded as Rocket M204 `[ps=5]`
 - Rewrite — write application from scratch on Web server `[ps=4]`
+- Senior IS managers should reconsider rewriting or migrating mainframe apps; use new mainframe-software tools to web-enable in place `[ps=4]`
 - In-place web-enablement offers cost-effective Internet connectivity with minimal impact on production environment `[ps=4]`
+- Tools arriving and improving; Janus Web Server cited as key example `[ps=3]`
+- Migrate and upgrade — move mainframe app to web server then web-enable it `[ps=3]`
 - Product expected to improve and gain adoption for mainframe web-enablement `[ps=3]`
-- Tools arriving and improving; Janus Web Server cited as key example
-- Migrate and upgrade — move mainframe app to web server then web-enable it
-- Migration or rewriting results in applications that are less scalable and robust than original mainframe apps
-- Senior IS managers should reconsider rewriting or migrating mainframe apps; use new mainframe-software tools to web-enable in place
+- Migration or rewriting results in applications that are less scalable and robust than original mainframe apps `[ps=2]`

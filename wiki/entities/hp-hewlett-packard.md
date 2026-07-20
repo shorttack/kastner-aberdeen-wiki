@@ -3,7 +3,7 @@ title: "Hewlett-Packard Company"
 slug: "hp-hewlett-packard"
 page_type: "entity"
 tags: ["type/entity", "entity-type/company"]
-tier: 2
+tier: 1
 source_csv: "_master_entities.csv"
 entity_id: "hp-hewlett-packard"
 entity_type: "company"
@@ -20,6 +20,11 @@ prescience_obs_count: 2
 # Hewlett-Packard Company
 
 > C110 and 712/100 Unix workstations benchmarked; HP J210 priced at $34,980 vs Alpha XL at $17,413
+
+
+## Summary
+
+
 
 
 ## Top observations

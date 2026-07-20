@@ -13,8 +13,8 @@ successor: "Unknown"
 years_active: "1990s-late 1990s"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 7
+prescience_mean: 2.88
+prescience_obs_count: 8
 ---
 
 # Objective Communications Inc.
@@ -29,6 +29,6 @@ prescience_obs_count: 7
 - Objective should cultivate partnerships beyond telcos — ISPs NC players PC manufacturers cable companies `[ps=4]` — [[study-1997-objective-communications--vidmodem--f3351f]]
 - Single-sideband FM enabling real-time bidirectional broadcast quality NTSC PAL S-VHS video and stereo audio over twisted pair `[ps=3]` — [[study-1997-objective-communications--vidmodem--f3351f]]
 - IS shops with high-bandwidth WAN infrastructure should trial VidModem to fast-track multimedia learning curve `[ps=3]` — [[study-1997-objective-communications--vidmodem--f3351f]]
+- Switch handles 5 to 100 users; interfaces with ATM ISDN coax DSS `[ps=2]` — [[study-1997-objective-communications--vidmodem--f3351f]]
 - Overcomes bandwidth CPU drain installation complexity and cost barriers of existing computer-analog integration schemes `[ps=2]` — [[study-1997-objective-communications--vidmodem--f3351f]]
 - Below $3000 per user in useful configuration `[ps=0]` — [[study-1997-objective-communications--vidmodem--f3351f]]
-- Switch handles 5 to 100 users; interfaces with ATM ISDN coax DSS — [[study-1997-objective-communications--vidmodem--f3351f]]

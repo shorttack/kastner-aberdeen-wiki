@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1995-present"
 occurrence_count: 2
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # VeriSign
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Three valid DNS management approaches: fully in-house, outsourced managed DNS, hybrid `[ps=4]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
 - leading PKI and digital certificate services provider `[ps=0]` — [[study-securi~1-3e7ced]]
-- Three valid DNS management approaches: fully in-house, outsourced managed DNS, hybrid — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

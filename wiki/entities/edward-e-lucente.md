@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-2000s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Edward E. Lucente
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DEC worldwide sales chief Edward E. Lucente (also #2 exec) left days after April 15 loss — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]
+- DEC worldwide sales chief Edward E. Lucente (also #2 exec) left days after April 15 loss `[ps=0]` — [[study-boston-globe-dec-steul-cfo-resigns-1994-4013c6]]

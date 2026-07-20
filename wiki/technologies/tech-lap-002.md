@@ -12,9 +12,9 @@ era: "1980s-2000s"
 lifecycle_at_study: "Active"
 lifecycle_current: "Superseded by RDP/VPN/cloud"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Remote Control Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Remote control is superior to remote node for large database-oriented applications over low-bandwidth connections — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]
+- Remote control is superior to remote node for large database-oriented applications over low-bandwidth connections `[ps=4]` — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]

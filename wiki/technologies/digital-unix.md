@@ -12,9 +12,9 @@ era: "1993-1999"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Digital Unix (Tru64)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- High-end 64-bit Unix for decision-support, data warehouses; 32-bit NT not expected to compete in 64-bit market for several years — [[study-aberdeen-1996-digital-leading-nt-across-enterprise-charge]]
+- High-end 64-bit Unix for decision-support, data warehouses; 32-bit NT not expected to compete in 64-bit market for several years `[ps=4]` — [[study-aberdeen-1996-digital-leading-nt-across-enterprise-charge]]

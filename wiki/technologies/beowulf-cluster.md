@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Beowulf Cluster Architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Linux cluster commodity approach enables HPC cost reduction vs. proprietary parallel systems — [[study-2001-is-linux-domination-of-the-high-perform-computing--0d06ef]]
+- Linux cluster commodity approach enables HPC cost reduction vs. proprietary parallel systems `[ps=5]` — [[study-2001-is-linux-domination-of-the-high-perform-computing--0d06ef]]

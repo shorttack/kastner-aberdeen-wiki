@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.75
-prescience_obs_count: 4
+prescience_mean: 3.5
+prescience_obs_count: 8
 ---
 
 # AMD's Opteron at the One-Year Mark
@@ -40,11 +40,11 @@ _Published 2004, author **Jay Lyman, TechNewsWorld**, type **news-article**._
 
 ## Top observations
 
+- Intel will have identical 64-bit computing, so you can be sure the competitive fray will result later on this year. `[ps=5]`
 - Intel officially announced EM64T (later Intel 64) Feb 2004 and shipped production Nocona-core Xeon with EM64T Jun 2004, expanded through 2004-2005 — exactly matching Kastner's 'later this year' prediction. `[ps=5]`
 - AMD x86 server share peaked near 25% in late 2006 with Opteron Rev F / Barcelona positioning, driven by HP/IBM/Sun/Dell (Dell adopted Opteron May 2006) — validating Kastner's 'sweet spot' call. AMD lost ground to Intel Core / Nehalem 2008-2017, then recovered with EPYC 2017+. `[ps=5]`
+- Customers are saying that Opteron is a damn good chip at a great price, which has allowed HP and IBM to deliver value servers. Coming out of a recession, IT organizations are more value-conscious, and AMD has hit a sweet spot. `[ps=4]`
+- Gartner's Martin Reynolds: 'It's a price-performance story. When you get an Opteron box, you get a lot of capability for what you pay, so it's just cost-effective.' `[ps=4]`
+- IDC VP Vernon Turner: OEMs who have added AMD Opteron processor-based servers to their portfolios have expanded their addressable market for the x86 marketplace; Opteron gives enterprise customers flexibility, scalability, and investment protection of an industry-standard server platform. `[ps=4]`
 - Kastner downplayed the role of 64-bit computing in Opteron's success, adding that machines capable of the higher-level computations typically have more processors than Opteron currently covers. `[ps=1]`
 - In Opteron's first year, OEMs HP, IBM, Sun Microsystems, and Fujitsu Siemens shipped Opteron-based servers. AMD announced expansion to the four-way server datacenter market and low-power HE (55W) / EE (30W) variants. `[ps=0]`
-- Customers are saying that Opteron is a damn good chip at a great price, which has allowed HP and IBM to deliver value servers. Coming out of a recession, IT organizations are more value-conscious, and AMD has hit a sweet spot.
-- Intel will have identical 64-bit computing, so you can be sure the competitive fray will result later on this year.
-- Gartner's Martin Reynolds: 'It's a price-performance story. When you get an Opteron box, you get a lot of capability for what you pay, so it's just cost-effective.'
-- IDC VP Vernon Turner: OEMs who have added AMD Opteron processor-based servers to their portfolios have expanded their addressable market for the x86 marketplace; Opteron gives enterprise customers flexibility, scalability, and investment protection of an industry-standard server platform.

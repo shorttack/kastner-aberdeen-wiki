@@ -16,12 +16,12 @@ source_file: "Stratus-XA2000-CW-1987-02-11.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.78
-prescience_obs_count: 9
+prescience_mean: 1.0
+prescience_obs_count: 10
 ---
 
 # Computerworld: Stratus Readies XA2000 Series to Take on Tandem High-End — Pete Kastner on Floating-Point + Yankee Group's Henkel on VLX/3090 Class (February 1987)
@@ -41,6 +41,7 @@ _Published 1987, author **James Connolly (Computerworld staff)**, type **trade-p
 ## Top observations
 
 - Questioned how long IBM will maintain its relationship with Stratus if Stratus continues to compete with 3090 mainframes `[ps=4]`
+- Selling into a market that has an insatiable appetite for tps; 45% annual growth over next 5 years `[ps=3]`
 - First time Stratus has gotten into the VLX or IBM 3090 class in OLTP performance `[ps=2]`
 - 68881 designed to help OLTP users perform financial modeling; NO plans to enter scientific or engineering markets `[ps=1]`
 - Peter S. Kastner, manager of marketing support programs for Stratus `[ps=0]`
@@ -49,4 +50,3 @@ _Published 1987, author **James Connolly (Computerworld staff)**, type **trade-p
 - 3x XA600 ET-1; 2.5x XA600 TP-1 `[ps=0]`
 - Up to 64 MB memory, 64 KB cache, 128 MB virtual address space, 46 GB disk `[ps=0]`
 - $260K-$500K Model 110; $770K-$1.1M Model 140; transaction-per-second cost half of earlier products `[ps=0]`
-- Selling into a market that has an insatiable appetite for tps; 45% annual growth over next 5 years

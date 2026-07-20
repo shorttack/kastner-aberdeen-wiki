@@ -1,6 +1,7 @@
 ---
 title: Quote 1104 — Inc. ()
 type: quotation
+page_type: quotation
 slug: quote-1104
 row_id: 1104
 author: "Peter S. Kastner"

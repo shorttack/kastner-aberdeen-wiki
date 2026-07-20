@@ -12,9 +12,9 @@ era: "1999-2010"
 lifecycle_at_study: "pre-release"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 0.5
+prescience_obs_count: 2
 ---
 
 # Intel IA-64 Architecture (Merced/Itanium)
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Intel IA-64 (Merced) arriving late 1999; IA-32 to IA-64 conversion likely takes 5+ years — [[study-ntserv~1-56bd94]]
-- Itanium shipped June 2001; verify market adoption pace. — [[study-ntserv~1-56bd94]]
+- Intel IA-64 (Merced) arriving late 1999; IA-32 to IA-64 conversion likely takes 5+ years `[ps=1]` — [[study-ntserv~1-56bd94]]
+- Itanium shipped June 2001; verify market adoption pace. `[ps=0]` — [[study-ntserv~1-56bd94]]

@@ -16,12 +16,12 @@ source_file: "01-DiFranco-Report-on-Aberdeen-Group-Research.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.08
-prescience_obs_count: 24
+prescience_mean: 1.93
+prescience_obs_count: 30
 ---
 
 # Report on Aberdeen Group Research into New Category for MaXLine
@@ -50,18 +50,18 @@ _Published 2003, author **Stephen DiFranco**, type **market-study**._
 - Multiple government regulations (HIPAA + SEC) will require enterprises to create fixed-content data warehouses creating a compliance-driven market `[ps=4]`
 - There will be industry debate creating a battlefield for category creation — multiple problems the midline category can resolve `[ps=4]`
 - Maxtor needs support of system vendors to lead midline category creation — vendor ecosystem essential `[ps=4]`
+- DiFranco commissioned Aberdeen to research whether 'fixed content' storage could be defined as a new category and whether MaXLine could be positioned as the principal brand `[ps=3]`
+- Most surveyed storage systems are 50-60% filled; expansion triggered at 80% fill `[ps=3]`
 - Surveyed companies (banking finance insurance) have greatest adoption of SAN networks and largest data centers `[ps=3]`
 - DiFranco explicitly states he has no interest in shrinking the SCSI TAM; midline should create new opportunities not replace on-line storage `[ps=3]`
 - Aberdeen described as 'a respected research company that actively participates in setting Enterprise data-center strategies for Fortune 500 companies' `[ps=2]`
+- Aberdeen created the CRM category for Siebel generating a $2B revenue stream before any competitor could field a competing application `[ps=1]`
 - $2B revenue stream attributed to Aberdeen-led CRM category creation `[ps=1]`
 - HIPAA regulations under consideration will likely require US enterprises to create fixed-content data warehouses with real-time access `[ps=1]`
+- With Aberdeen research + vocal customer advocates + leading research firm + system vendor support Maxtor can lead the midline category and position MaXLine as the brand of choice `[ps=1]`
+- 70 companies interviewed including Fortune 1000 companies and government agencies `[ps=0]`
 - Approximately 50% of sample had revenues over $1B; mix included smaller companies and divisions `[ps=0]`
 - 90% of respondents reported to their company's CEO or CFO — strategic thinkers responsible for data center operations and economics `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- Aberdeen identified as expert in identifying and launching hardware and software industry categories — key selection criterion `[ps=0]`
-- Plan to include publicity + speaking opportunities + customer leverage + analyst promotion to position MaXLine as principal midline brand `[ps=0]`
-- DiFranco will invite Aberdeen to present commissioned research to the team in Shrewsbury MA with Robert Wise attending `[ps=0]`
-- DiFranco commissioned Aberdeen to research whether 'fixed content' storage could be defined as a new category and whether MaXLine could be positioned as the principal brand

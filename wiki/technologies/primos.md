@@ -12,9 +12,9 @@ era: "1972-1990s"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # PRIMOS
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'The user interface to PRIMOS bothers a number of customers in different vertical markets. We have lost business because of ease-of-use issues. We are often second rated to DEC VAX.' — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
-- 'A cross-market requirement exists for realtime features. Competitively, DEC has specified a trivial realtime requirements as a means of forcing out Prime.' — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
+- 'The user interface to PRIMOS bothers a number of customers in different vertical markets. We have lost business because of ease-of-use issues. We are often second rated to DEC VAX.' `[ps=4]` — [[study-prime-industry-product-5-year-plan-1981-0a3546]]
+- 'A cross-market requirement exists for realtime features. Competitively, DEC has specified a trivial realtime requirements as a means of forcing out Prime.' `[ps=3]` — [[study-prime-industry-product-5-year-plan-1981-0a3546]]

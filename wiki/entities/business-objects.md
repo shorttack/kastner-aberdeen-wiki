@@ -13,8 +13,8 @@ successor: "Business Objects -> SAP"
 years_active: "1939–present"
 occurrence_count: 5
 prescience_max: 5.0
-prescience_mean: 1.67
-prescience_obs_count: 3
+prescience_mean: 1.0
+prescience_obs_count: 5
 ---
 
 # Business Objects S.A.
@@ -31,6 +31,6 @@ prescience_obs_count: 3
 
 - Business Objects cited as leading standalone BI competitor `[ps=5]` — [[study-1997-oracle-data-mart-suite-for-nt-926845]]
 - high-end report writer `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]
+- Business Objects is preparing the early 1996 release of Mercury, a decision-support system combining intelligent metadata with desktop microcubes to create a virtual multidimensional environment. `[ps=0]` — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
+- Competitor in frame-based reporting; has not yet delivered three-tier architecture as of 1996 `[ps=0]` — [[study-aberdeen-1996-iq-software-www-reporting]]
 - Business Objects EII revenue estimate: $15 million (2003 projected) `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]
-- Business Objects is preparing the early 1996 release of Mercury, a decision-support system combining intelligent metadata with desktop microcubes to create a virtual multidimensional environment. — [[study-aberdeen-1995-intersolv-virtual-data-warehouse]]
-- Competitor in frame-based reporting; has not yet delivered three-tier architecture as of 1996 — [[study-aberdeen-1996-iq-software-www-reporting]]

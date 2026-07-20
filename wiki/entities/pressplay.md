@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Roxio (2003) -> renamed Napster 2.0"
 years_active: "2001-2003"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Pressplay
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Pressplay purchased by Roxio May 2003; to be combined with Napster assets — [[study-usatoday-reuters-pc-music-deals-gateway--b3a303]]
+- Pressplay purchased by Roxio May 2003; to be combined with Napster assets `[ps=0]` — [[study-usatoday-reuters-pc-music-deals-gateway--b3a303]]

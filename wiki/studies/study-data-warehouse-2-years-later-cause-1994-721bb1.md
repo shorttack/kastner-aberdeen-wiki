@@ -16,12 +16,12 @@ source_file: "The-Data-Warehouse-2-Years-Later...-Lessons-Learned-7.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.17
-prescience_obs_count: 6
+prescience_mean: 2.38
+prescience_obs_count: 8
 ---
 
 # The Data Warehouse: 2 Years Later... Lessons Learned
@@ -41,10 +41,10 @@ _Published 1994, author **John D. Porter and John J. Rome, Arizona State Univers
 ## Top observations
 
 - The question for corporations and higher education is not simply whether to build a warehouse, but when. `[ps=5]`
+- By 2000, enterprise data warehouses were standard across Fortune 1000; Teradata, Oracle, IBM DB2, Sybase IQ, Red Brick all had large installed bases; warehouse industry revenue exceeded $5B annually by 1999 `[ps=4]`
 - Snowflake IPO (2020) at $70B+; Google BigQuery, Amazon Redshift, Databricks lakehouse all multi-billion-dollar platforms by 2024; 'every company' runs data warehouses `[ps=4]`
 - All companies will build [a data warehouse] in the next five years. `[ps=2]`
 - A data warehouse is often the first client/server application that institutions attempt. `[ps=2]`
+- All companies will build [a data warehouse] in the next five years = universal adoption by 1999 `[ps=2]`
 - Two years ago, ASU initiated a project that brought together student, financial and human resources data in an integrated data warehouse. `[ps=0]`
 - CAUSE merged with Educom on 1998-07-01 to form EDUCAUSE; represents consolidation of higher-ed IT professional associations `[ps=0]`
-- All companies will build [a data warehouse] in the next five years = universal adoption by 1999
-- By 2000, enterprise data warehouses were standard across Fortune 1000; Teradata, Oracle, IBM DB2, Sybase IQ, Red Brick all had large installed bases; warehouse industry revenue exceeded $5B annually by 1999

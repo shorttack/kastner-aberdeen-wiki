@@ -16,12 +16,12 @@ source_file: "Sequent.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.5
-prescience_obs_count: 18
+prescience_mean: 1.77
+prescience_obs_count: 30
 ---
 
 # Sequent Servers and Data General Servers
@@ -40,28 +40,28 @@ _Published 1994, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
+- $354 million (fiscal 1993) `[ps=5]`
+- At risk — financial losses and sub-$500M revenue make survival uncertain `[ps=5]`
+- Confirmed risk — Sequent's financial fragility noted; acquired by IBM July 1999 for $810M due to inability to sustain independently `[ps=5]`
 - Motorola 88K chipset identified as approaching end of life `[ps=5]`
+- Confirmed — Motorola 88K officially EOL January 1998; Data General forced to transition to Intel; DG acquired by EMC 1999 `[ps=5]`
 - Best-in-class SMP parallelism up to 30 processors `[ps=4]`
+- Under-$500-million size; financial losses; lack of long-term profitability `[ps=4]`
 - $1 billion (fiscal 1993) `[ps=4]`
 - Motorola 88K EOL creates serious platform continuity risk for DG `[ps=4]`
 - Reported loss in 1Q94; financial problems cited as key customer concern `[ps=4]`
 - Positioning NT on Intel for early adopters while maintaining UNIX leadership `[ps=3]`
 - Aggressive pricing/price-performance as primary differentiator `[ps=3]`
+- Government, health-care, finance, retail, and telecomm; strong in medical via VARs `[ps=2]`
 - 30 `[ps=0]`
 - 183.34 tps-A `[ps=0]`
 - 1002.37 tps-A `[ps=0]`
 - $85,000 `[ps=0]`
+- $171,100 `[ps=0]`
 - $469,800 `[ps=0]`
+- $13,200 (WinServer 500) to $246,900 (WinServer 5000) `[ps=0]`
+- 6-month exclusivity on Informix DSA parallelism `[ps=0]`
 - Just moved up to UNIX V.4 `[ps=0]`
+- 16 `[ps=0]`
 - 130.9 tps-A `[ps=0]`
 - $5,780 per tps-A `[ps=0]`
-- 523.64 tps-A `[ps=0]`
-- 2 TB `[ps=0]`
-- 2-4 system clustering supported `[ps=0]`
-- $354 million (fiscal 1993)
-- $171,100
-- $13,200 (WinServer 500) to $246,900 (WinServer 5000)
-- Under-$500-million size; financial losses; lack of long-term profitability
-- 6-month exclusivity on Informix DSA parallelism
-- At risk — financial losses and sub-$500M revenue make survival uncertain
-- Confirmed risk — Sequent's financial fragility noted; acquired by IBM July 1999 for $810M due to inability to sustain independently

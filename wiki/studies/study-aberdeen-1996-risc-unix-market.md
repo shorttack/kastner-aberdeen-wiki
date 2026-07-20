@@ -16,12 +16,12 @@ source_file: "1995-Commercial-Multiuser-Risc_Unix-1995_-High-Growth-and-HP-Domin
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.05
-prescience_obs_count: 55
+prescience_mean: 1.0
+prescience_obs_count: 74
 ---
 
 # Commercial, Multiuser Risc/Unix 1995: High Growth and HP Dominate
@@ -43,25 +43,25 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Start or continue 64-bit Unix transition `[ps=5]`
 - NT Server captured departmental/workgroup segment (shipments tripling 1995-1997) but Unix held enterprise OLTP and mission-critical deployments through 2000. NT 4.0 shipped April 1996 as predicted. Unix held ~717K server units in 1997 with 15% modest growth. Prediction confirmed for 1996-1998 period: NT complemented, did not displace RISC/Unix for business-critical production apps. `[ps=5]`
 - Y2K drove significant server infrastructure investment 1998-2000. IBM pSeries Unix revenue grew 28% in 2000, 49% in Q4 2000 (IBM Annual Report 2000). However much Y2K spending was split across RISC/Unix, Windows NT, and emerging Linux x86 rather than purely benefiting RISC/Unix. The opportunity materialized but was shared across platforms. `[ps=5]`
+- All major RISC/Unix vendors delivered significant production Unix improvements in 1996-1998: HP-UX 10.20 (1996) with improved POSIX; AIX 4.2 (1996) with 64-bit support; Solaris 2.6/7 (1997/1998) with large files and 64-bit; Digital Unix 4.0 with enhanced clustering. POSIX Single Specification v2 (1997) consolidated Unix standards. Prediction confirmed. `[ps=5]`
 - 4 factors: installed base, partnering, technology roadmap, executive trust `[ps=4]`
 - Will gain further share in 1996 `[ps=4]`
+- RDBMS advances; integrated ERP applications; Windows 3.1/PC client-server `[ps=4]`
 - Invest in maturing MPP for large-scale enterprise deployments `[ps=4]`
 - RISC/Unix 1996; NT not for at least 4 more years `[ps=4]`
 - Continuing opportunity to replace mainframes before Y2K `[ps=4]`
 - Increase workgroup interoperability (NetWare and NT Server) `[ps=4]`
+- RISC/Unix market growth slowed significantly below predicted 40%+ in 1996-1997. NT Server shipments grew from 393K (1995) to 732K (1996) to 1.3M units (1997) vs Unix 717K units (IDC 1997). Overall server market grew only 10.8% in 1996-1997 versus 40%+ RISC/Unix growth in 1995. Linux x86 emergence accelerated RISC/Unix deceleration. Prediction not confirmed. `[ps=4]`
 - DEC Alpha was already 64-bit (since 1992). HP shipped PA-8000 64-bit processors in 1996 for HP-UX. Sun shipped UltraSPARC-II with Solaris 7 64-bit in 1998. IBM AIX 4.2 (1996) added 64-bit addressing. All major RISC/Unix vendors (except IBM being already in AS/400 64-bit path) transitioned to 64-bit within 12-18 months as predicted. `[ps=4]`
 - Workgroup interoperability improved significantly 1996-1998: HP-UX Advanced Server for NT integration; IBM AIX and NT integration tools; Samba protocol (Unix-NT file sharing) matured rapidly; Novell NetWare for Unix expanded. NT integration became standard RISC/Unix feature by 1997. Prediction confirmed. `[ps=4]`
 - MPP platforms matured significantly 1996-1998: IBM RS/6000 SP became IBM's Deep Blue platform (1997 chess victory); DEC TruCluster advanced; Oracle RAC emerged as software-based alternative to MPP hardware; Sequent NUMA-Q advanced. However proprietary MPP was ultimately displaced by commodity Linux clusters in 2000s. Prediction confirmed for 1996-1998 period. `[ps=4]`
 - Invest in maturing MPP platforms for very large-scale deployments `[ps=3]`
+- HP maintained Unix server market leadership through 1996-1997. According to IDC, HP was the worldwide leader in technical Unix server shipments and revenue in 1996 and first half of 1998. HP PA-8000 64-bit systems shipped 1996-1998 maintained competitive edge. Prediction confirmed. `[ps=3]`
 - Not even debated; assumed safe choice for $25M+ revenue enterprises `[ps=2]`
 - Will NOT slow RISC/Unix for business-critical apps `[ps=2]`
 - $14.3 billion `[ps=0]`
+- $10.0 billion `[ps=0]`
+- 43% `[ps=0]`
+- 25% `[ps=0]`
 - ~5% `[ps=0]`
-- 57% `[ps=0]`
-- 49% `[ps=0]`
-- 45% `[ps=0]`
-- 1st (six consecutive years) `[ps=0]`
-- Well-supported with upgrade utilities `[ps=0]`
-- 1998 `[ps=0]`
-- Q2 1996 `[ps=0]`
-- Named #1 performer over all U.S. companies `[ps=0]`
+- Core platform components only `[ps=0]`

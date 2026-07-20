@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Cisco"
 years_active: "1993-1999"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 5.0
+prescience_mean: 2.5
+prescience_obs_count: 2
 ---
 
 # GeoTel Communications
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Acquired by Cisco for approximately $2 billion in June 1999 `[ps=5]` — [[study-1998-communicating-business-intelligence-through-comput-0290b1]]
 - Leader in software solutions for distributed voice call centers `[ps=0]` — [[study-1998-communicating-business-intelligence-through-comput-0290b1]]
-- Acquired by Cisco for approximately $2 billion in June 1999 — [[study-1998-communicating-business-intelligence-through-comput-0290b1]]

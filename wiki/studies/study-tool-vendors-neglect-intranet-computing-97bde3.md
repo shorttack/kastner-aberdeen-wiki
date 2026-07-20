@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.67
-prescience_obs_count: 6
+prescience_mean: 3.89
+prescience_obs_count: 9
 ---
 
 # Tool vendors neglect intranet needs (Kastner three-year IT predictions)
@@ -41,11 +41,11 @@ _Published 1996, author **Douglas Hayward**, type **news-article**._
 ## Top observations
 
 - Yes — Novell market share collapsed 1996-2003 as Windows NT/2000/Active Directory displaced NetWare/NDS in corporate directories. Novell acquired by Attachmate 2011, then Micro Focus 2014, then OpenText 2023. NDS rebranded eDirectory and exists in legacy niche. `[ps=5]`
+- No — Corel's brief 1996-1997 Java-office initiative (Corel Office for Java) was abandoned. NC market itself collapsed by 2000. WordPerfect remained Win32 native. `[ps=5]`
+- 'Development of intranet environments will be delayed until tools vendors treat browsers as the equal of Windows clients. IT departments dont have enough resources to develop applications that people want, because they are having to develop them twice — once for existing client-server, and once for intranet. Thats just mad. People are going to have to put pressure on tools developers to create new `[ps=4]`
 - Yes — SaaS/web-app dominance from ~1999 onwards (Salesforce 1999, Gmail 2004, Microsoft 365 web 2010s), capped by Electron/Chromium desktop adoption. Browsers/Chromium now dominant enterprise-app delivery medium. `[ps=4]`
 - 'Object-oriented and Internet-based technology will help to bring down IT ownership costs in the short term, but costs will initially rise... No single request-broker architecture will dominate the industry.' — Kastner `[ps=4]`
+- 'Kastner flew into London last week with a guilty secret. While working at Chase Manhattan Bank in 1973, he wrote a system which he knew would not be year 2000-compliant.' — Computing `[ps=4]`
 - 'We are dealing with new technologies for which the industry doesnt yet have proper methodologies. That means costs will increase briefly as we go through the learning curve, but they will come down significantly over the longer term.' — Kastner `[ps=4]`
 - 'You wont necessarily need Novells Directory Services if you have a corporate intranet with a white pages facility that lists all your users and their email addresses. I am distressed with Novells inability to see the threats to its position over the last few years.' — Kastner `[ps=3]`
 - 'Network computer vendors will bundle WordPerfect with their devices after Corel rewrites the application in Java.' — Kastner `[ps=2]`
-- 'Development of intranet environments will be delayed until tools vendors treat browsers as the equal of Windows clients. IT departments dont have enough resources to develop applications that people want, because they are having to develop them twice — once for existing client-server, and once for intranet. Thats just mad. People are going to have to put pressure on tools developers to create new
-- No — Corel's brief 1996-1997 Java-office initiative (Corel Office for Java) was abandoned. NC market itself collapsed by 2000. WordPerfect remained Win32 native.
-- 'Kastner flew into London last week with a guilty secret. While working at Chase Manhattan Bank in 1973, he wrote a system which he knew would not be year 2000-compliant.' — Computing

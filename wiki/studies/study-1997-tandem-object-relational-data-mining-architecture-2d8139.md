@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.59
-prescience_obs_count: 17
+prescience_mean: 2.86
+prescience_obs_count: 21
 ---
 
 # Tandem Object Relational Data Mining Architecture: Making The Data Mining Promise A Reality
@@ -43,7 +43,10 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 - Determine what data will likely return best results — precedes algorithm execution `[ps=5]`
 - Coding the data — formatting data to work best with selected algorithm `[ps=5]`
 - Compaq acquired Tandem in 1997; ORDM architecture was deprioritized; de facto standard SQL data mining interface goal not achieved; Oracle/Microsoft/Informix did not adopt the standard `[ps=5]`
+- ServerWare discontinued after Compaq acquisition; NT-based product line did not survive consolidation `[ps=5]`
+- Tandem Computers acquired by Compaq for approximately $3B in 1997; became NonStop server division `[ps=5]`
 - Data-manipulation functions integrated into RDBMS; enterprise executes against data directly in warehouse; no flat-file extract required `[ps=4]`
+- Data scrubbing — removing data and field inconsistencies `[ps=4]`
 - Algorithm execution and results review; re-tuning model and re-running algorithm iteratively `[ps=4]`
 - Three initial solutions packages: credit card marketing; micromerchandising (market basket analysis); claims analysis `[ps=4]`
 - In-database analytics became dominant approach in modern MPP systems (Teradata, Greenplum, Vertica, Snowflake, BigQuery); Tandem's architectural vision proven correct `[ps=4]`
@@ -52,12 +55,9 @@ _Published 1997, author **Aberdeen Group**, type **white-paper**._
 - Create de facto standard SQL interface between data mining tools and RDBMS using SQL extensions `[ps=2]`
 - Scales from SMP to MPP as data mining demands grow; runs on ServerWare/NT or Himalaya servers `[ps=2]`
 - ORDM increases overall reliability of supplier code; saves data mining suppliers from writing redundant code; encourages more value-added development `[ps=2]`
+- ORDM on ServerWare/NT will enable cost-sensitive scale from Windows NT to Himalaya in cost-sensitive increments `[ps=2]`
 - Tandem's ORDM architecture will become an end-to-end enterprise weapon for competitive advantage; Aberdeen believes enterprises can look to it as the standard solution `[ps=1]`
 - Five data mining partners integrated into ORDM: Angoss (KnowledgeSEEKER); Data Distilleries (Data Surveyor); Magnify (PATTERN:Detect/Profit); NeoVista (Decision Series); Syllogic (DM Tool/MP) `[ps=0]`
 - Object Relational Data Mining architecture available Q3 1997 on ServerWare/NT and Himalaya; credit card/micromerchandising/claims packages available without SQL extensions immediately `[ps=0]`
 - 98.8% scalability across 112 CPUs in TPC-C benchmark — cited from Aberdeen 1994 Product Viewpoint on Himalaya K10000 `[ps=0]`
 - $360M+ annual software sales cited; key accounts in finance/insurance/retail/telecoms `[ps=0]`
-- Data scrubbing — removing data and field inconsistencies
-- ORDM on ServerWare/NT will enable cost-sensitive scale from Windows NT to Himalaya in cost-sensitive increments
-- ServerWare discontinued after Compaq acquisition; NT-based product line did not survive consolidation
-- Tandem Computers acquired by Compaq for approximately $3B in 1997; became NonStop server division

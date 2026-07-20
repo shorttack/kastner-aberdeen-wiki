@@ -12,9 +12,9 @@ era: "1976-"
 lifecycle_at_study: "mature"
 lifecycle_current: "niche"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Supercomputer
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 7.1 percent of $210M — [[study-conflicting-trends-computational-chemistry-fe5c31]]
-- August 1988 IBM began installing vector facilities adding Mflops to top-of-the-line 3090 mainframes — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- 7.1 percent of $210M `[ps=0]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- August 1988 IBM began installing vector facilities adding Mflops to top-of-the-line 3090 mainframes `[ps=0]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]

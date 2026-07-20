@@ -14,7 +14,7 @@ years_active: "1930s-present"
 occurrence_count: 5
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 5
 ---
 
 # Bull (Groupe Bull)
@@ -30,7 +30,7 @@ prescience_obs_count: 2
 ## Top observations
 
 - Led TPC-A price-performance below $10K/TPS-A in Q1 1992 `[ps=0]` — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
+- dead `[ps=0]` — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]
+- $300 million `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
+- Bull DPX/2 at ~$450K 5-year lifecycle cost — lowest in comparison `[ps=0]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
 - Bull DPX/2 leads TPC-A price-performance `[ps=0]` — [[study-tpc2-92-c2a45c]]
-- dead — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]
-- $300 million — [[study-aberdeen-1996-risc-unix-market]]
-- Bull DPX/2 at ~$450K 5-year lifecycle cost — lowest in comparison — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]

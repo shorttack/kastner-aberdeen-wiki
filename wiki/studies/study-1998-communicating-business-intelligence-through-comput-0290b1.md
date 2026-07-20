@@ -16,12 +16,12 @@ source_file: "1998 Communicating Business Intelligence Through Computer-Telephon
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.08
-prescience_obs_count: 12
+prescience_mean: 3.39
+prescience_obs_count: 18
 ---
 
 # Communicating Business Intelligence Through Computer-Telephony Integration
@@ -40,21 +40,21 @@ _Published 1998, author **Bill Hills**, type **market-study**._
 
 ## Top observations
 
+- Use data network information to control routing and handling of telephone network messaging events `[ps=5]`
+- Identified as new option beginning to challenge circuit-switched telephony `[ps=5]`
+- Acquired by Cisco for approximately $2 billion in June 1999 `[ps=5]`
 - Intel acquired Dialogic for $780 million in 1999 `[ps=5]`
 - Nortel filed for bankruptcy January 2009; patents sold `[ps=5]`
+- VoIP became dominant enterprise telephony protocol; traditional PBX market in sustained decline from 2008 `[ps=5]`
 - Traditionally call-center only; now beginning enterprise-wide deployment `[ps=4]`
 - CTI will have large impact on traditional PBX telephony device market `[ps=4]`
 - VoIP/packet-switched telephony replaced traditional PBX as dominant enterprise telephony by 2010 `[ps=4]`
 - Use information embedded in telephony event to trigger activities in data network `[ps=4]`
+- Deliver data in multiple formats (text/voice/video/images) combined with multiple messaging event types `[ps=4]`
 - Emerging class of CTI platform redefining on-premise telephony architecture `[ps=4]`
 - Strategic management of customers identified as primary driver of CTI adoption `[ps=4]`
 - CTI will redefine how user organizations architect and build on-premise telephony networks `[ps=3]`
 - Emerging convergence trend for CTI `[ps=0]`
 - Leader in software solutions for distributed voice call centers `[ps=0]`
 - 16 CTI suppliers profiled `[ps=0]`
-- Use data network information to control routing and handling of telephone network messaging events
-- Deliver data in multiple formats (text/voice/video/images) combined with multiple messaging event types
-- Identified as new option beginning to challenge circuit-switched telephony
-- Acquired by Cisco for approximately $2 billion in June 1999
-- $895 for 79-page report with 5 illustrations
-- VoIP became dominant enterprise telephony protocol; traditional PBX market in sustained decline from 2008
+- $895 for 79-page report with 5 illustrations `[ps=0]`

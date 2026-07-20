@@ -16,12 +16,12 @@ source_file: "Ad-launch-CW-1981-7.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.11
-prescience_obs_count: 9
+prescience_mean: 1.9
+prescience_obs_count: 10
 ---
 
 # The Fault Tolerant Revolution — Stratus/32 launch advertisement
@@ -46,7 +46,7 @@ _Published 1981, author **Stratus Computer, Inc. (marketing; Peter S. Kastner er
 - 3 benefits: (1) prevent fault contamination, (2) eliminate complex recovery software, (3) reduce repair time via failed-component pinpointing `[ps=3]`
 - Software FT 'robs' system resources via checkpointing at 4 levels (OS, user, file, terminal); hardware FT eliminates this burden `[ps=2]`
 - VOS with DMS, CRT command language, COBOL, Basic, PL/1, X.25 networking, IBM communications, full-screen editor, symbolic debugger, word processing `[ps=2]`
+- $130,000 fully-duplexed, 2MB memory, peripherals, and software included `[ps=0]`
 - 17 Strathmore Road, Natick MA 01760; HQ marketing 617-653-1466 ext. 32 `[ps=0]`
 - Ad dates to Kastner's Stratus Computer marketing tenure (early 1980s) `[ps=0]`
 - Ad appears in Computerworld — the dominant IT trade weekly in 1981 `[ps=0]`
-- $130,000 fully-duplexed, 2MB memory, peripherals, and software included

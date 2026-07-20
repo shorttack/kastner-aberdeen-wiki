@@ -16,12 +16,12 @@ source_file: "Stratus-XA20001987-02-02-CW-10.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.43
-prescience_obs_count: 7
+prescience_mean: 2.12
+prescience_obs_count: 8
 ---
 
 # Stratus Readies XA2000 Series to Take on Tandem High End — Computerworld, 2 February 1987 (PSK + Foster quoted)
@@ -46,5 +46,5 @@ _Published 1987, author **James Connolly (Computerworld)**, type **press-article
 - Henkel doubted Stratus had enough application and data base software to support high-performance transaction processing, particularly in growth areas such as manufacturing `[ps=4]`
 - Both Stratus and Tandem claim 50+ TPS; Stratus designed XA2000 for 45% annual growth in OLTP market over 5 years to >50 TPS averages `[ps=0]`
 - Model 110 = 15 TPS; Model 120 = 27-29 TPS; Model 130 = 37-40 TPS; Model 140 = 47-53 TPS (ET-1 benchmark) `[ps=0]`
+- Single 40-slot chassis Models 110-140; Motorola 68020 16-MHz + 68881 coprocessor; VOS 6.0 with 32-bit data path; 64MB memory, 64KB cache, 128MB virtual address, 46GB disk; Model 140 has four tightly-coupled duplicated CPUs `[ps=0]`
 - $260,000-$500,000 Model 110; $770,000-$1.1M Model 140; transaction-per-second cost half of earlier Stratus products `[ps=0]`
-- Single 40-slot chassis Models 110-140; Motorola 68020 16-MHz + 68881 coprocessor; VOS 6.0 with 32-bit data path; 64MB memory, 64KB cache, 128MB virtual address, 46GB disk; Model 140 has four tightly-coupled duplicated CPUs

@@ -11,10 +11,10 @@ sector: "Software / Operating Systems"
 status: "active"
 successor: ""
 years_active: "1990s-late1990s"
-occurrence_count: 116
+occurrence_count: 117
 prescience_max: 5.0
-prescience_mean: 2.68
-prescience_obs_count: 273
+prescience_mean: 2.6
+prescience_obs_count: 342
 ---
 
 # Microsoft Corporation
@@ -48,4 +48,4 @@ prescience_obs_count: 273
 - Security architecture gaps will require significant patching investment before suitable for highest-sensitivity deployments `[ps=5]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
 - Achieved dominant enterprise position; Windows Server 2003 became most deployed enterprise OS by 2004-2005 `[ps=5]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
 - Almost all previous Windows users are going to enjoy living with Windows XP `[ps=5]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
-- Targets both SOHO users seeking consumer media features and enterprise seeking W2K stability `[ps=5]` — [[study-2001-upgrading-to-windows-xp-a-long-and-winding-road-ps-81e090]]
+- Great Plains became Microsoft Dynamics GP; Microsoft Dynamics became multi-billion dollar ERP/CRM business `[ps=5]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.65
-prescience_obs_count: 17
+prescience_mean: 1.86
+prescience_obs_count: 28
 ---
 
 # Data Integration Management in Heterogeneous Computing Environments
@@ -41,15 +41,22 @@ _Published 1997, author **AberdeenGroup**, type **Vendor Profile**._
 ## Top observations
 
 - integral_part_of_it_infrastructure `[ps=5]`
+- etl_evolved_to_elt_in_cloud_era `[ps=5]`
 - y2k_largely_averted_significant_migration_occurred `[ps=5]`
+- virtually_any_dbms_or_file_system `[ps=4]`
+- scripting_engine_power_drives_automation `[ps=4]`
+- graphical_point_and_click_interface `[ps=4]`
 - enterprise_scalability_effective_integration `[ps=4]`
 - must_support_distributed_programming_environments `[ps=4]`
 - acquired_market_consolidated `[ps=4]`
+- became_mainstream_cloud_dw_dominant `[ps=4]`
 - data_warehousing_y2k_erp_implementation_acquisitions `[ps=3]`
 - large_scale_migration_legacy_access_mergers `[ps=3]`
+- evaluate_for_project_and_persistent_enterprise_value `[ps=3]`
 - 25.5 `[ps=0]`
 - 50_to_100 `[ps=0]`
 - 13 `[ps=0]`
+- 12 `[ps=0]`
 - c_cobol_rpg_abap4_and_proprietary `[ps=0]`
 - metastore_mdx_browsing_reporting `[ps=0]`
 - bidirectional_legacy_access_scripting_metadata `[ps=0]`
@@ -57,11 +64,4 @@ _Published 1997, author **AberdeenGroup**, type **Vendor Profile**._
 - data_integration_management_specialist `[ps=0]`
 - success_first_methodology `[ps=0]`
 - strategic_alliance_partners_program `[ps=0]`
-- 12
-- virtually_any_dbms_or_file_system
-- scripting_engine_power_drives_automation
-- graphical_point_and_click_interface
-- major_driver_for_eti_extract
-- became_mainstream_cloud_dw_dominant
-- etl_evolved_to_elt_in_cloud_era
-- acquired_ardent_software_1998
+- major_driver_for_eti_extract `[ps=0]`

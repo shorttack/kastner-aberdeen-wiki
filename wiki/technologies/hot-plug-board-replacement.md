@@ -12,9 +12,9 @@ era: "1982-present"
 lifecycle_at_study: "newly-launched-1982"
 lifecycle_current: "ubiquitous"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Hot-Pluggable Board Replacement (no tools, non-tech personnel)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Failed board can be replaced in running system by nontechnical person without special tools — [[study-mini-micro-stratus-32-arch-freiburghouse-6dc03e]]
+- Failed board can be replaced in running system by nontechnical person without special tools `[ps=3]` — [[study-mini-micro-stratus-32-arch-freiburghouse-6dc03e]]

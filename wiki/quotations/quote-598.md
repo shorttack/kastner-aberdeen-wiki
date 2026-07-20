@@ -1,6 +1,7 @@
 ---
 title: Quote 598 — Kastner Blog ()
 type: quotation
+page_type: quotation
 slug: quote-598
 row_id: 598
 author: "Peter S. Kastner"

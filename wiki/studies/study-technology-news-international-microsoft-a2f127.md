@@ -16,12 +16,12 @@ source_file: "Technology-News-International-Microsoft-Vows-To-Appeal-EU-Ruling-2
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.38
-prescience_obs_count: 8
+prescience_mean: 3.36
+prescience_obs_count: 11
 ---
 
 # Microsoft Vows To Appeal EU Ruling
@@ -44,10 +44,10 @@ _Published 2004, author **Elizabeth Millard, E-Commerce Times**, type **news-art
 - $2B Microsoft payment to Sun for technology licensing in Apr 2004 `[ps=5]`
 - about as much chance of success as it did before. It's a long shot. But they'll definitely fight every step of the way. `[ps=5]`
 - Court of First Instance ruled against Microsoft on 2007-09-17, upholding EC's antitrust decision and fine `[ps=5]`
+- How Microsoft does business has been determined as legal in the U.S. So, for the EU to set a totally different standard for business conduct threatens not only Microsoft, but every other global company as well. `[ps=4]`
 - They could have paid. Doing an appeal was not their only option. But paying would have meant they couldn't address the issues of law and commerce that they're seeking to clarify now. `[ps=4]`
+- the impact of the commission's decision goes beyond Microsoft and toward other companies `[ps=4]`
 - Digital Markets Act (DMA) 2022 entered force Mar 2024; designated Microsoft/Apple/Google/Meta/Amazon/ByteDance as gatekeepers; fines against Google cumulative $8.25B through 2023; Apple €1.8B DMA fine 2024 `[ps=3]`
+- it will be interesting to note which companies emerge as allies to the Redmond-based giant; Microsoft has many 'silent friends' who might become vocal as the case goes forward `[ps=2]`
 - 5 years of EU investigation preceded the ruling `[ps=0]`
 - It's quite a chunk of change. They won't pay it one minute before it's due. `[ps=0]`
-- it will be interesting to note which companies emerge as allies to the Redmond-based giant; Microsoft has many 'silent friends' who might become vocal as the case goes forward
-- How Microsoft does business has been determined as legal in the U.S. So, for the EU to set a totally different standard for business conduct threatens not only Microsoft, but every other global company as well.
-- the impact of the commission's decision goes beyond Microsoft and toward other companies

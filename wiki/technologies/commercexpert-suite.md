@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 1.0
-prescience_mean: 0.67
-prescience_obs_count: 6
+prescience_mean: 0.57
+prescience_obs_count: 7
 ---
 
 # CommerceXpert Suite
@@ -29,5 +29,5 @@ prescience_obs_count: 6
 - CommerceXpert is now a formidable offering; distribution via Netscape/GEIS gives market leadership potential `[ps=1]` — [[study-aberdeen-1997-actra-commercexpert-internet-commerce]]
 - Netscape+GEIS channel combination creates distribution advantage competitors cannot easily replicate `[ps=1]` — [[study-aberdeen-1997-actra-commercexpert-internet-commerce]]
 - Delivered 4 major products on or near promised dates in 5-month window `[ps=0]` — [[study-aberdeen-1997-actra-commercexpert-internet-commerce]]
+- Netscape acquired GEIS share in Actra for $56M stock (Nov 1997); Actra absorbed into Netscape; products rebranded Netscape CommerceXpert `[ps=0]` — [[study-aberdeen-1997-actra-commercexpert-internet-commerce]]
 - 4 of 5 planned products shipped to Beta/GA within 5-month window (Apr to Nov 1997) `[ps=0]` — [[study-aberdeen-1997-actra-commercexpert-internet-commerce]]
-- Netscape acquired GEIS share in Actra for $56M stock (Nov 1997); Actra absorbed into Netscape; products rebranded Netscape CommerceXpert — [[study-aberdeen-1997-actra-commercexpert-internet-commerce]]

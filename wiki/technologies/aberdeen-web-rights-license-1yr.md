@@ -12,9 +12,9 @@ era: "1998-2001"
 lifecycle_at_study: "active"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Aberdeen 1-Year Web Rights License
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Non-exclusive 1-year license commencing on final HTML/PDF delivery date; intranet or WWW posting permitted — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]
+- Non-exclusive 1-year license commencing on final HTML/PDF delivery date; intranet or WWW posting permitted `[ps=3]` — [[study-aberdeen-proposal-templates-and-retainer-strategy-2001-b6b001]]

@@ -14,7 +14,7 @@ lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Tolerant Eternity series
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- $23,800 per TPS (per Tolerant); claimed beats Tandem ($42,200) and Stratus ($68,700) `[ps=0]` — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
 - 7 customers own the 24 systems Tolerant has sold so far `[ps=0]` — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
 - Major vendors that have invested in Tolerant plan to be its resellers (per marketing director Shirley Henry); only exceptions: a few technically sophisticated end users `[ps=0]` — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]
-- $23,800 per TPS (per Tolerant); claimed beats Tandem ($42,200) and Stratus ($68,700) — [[study-informationweek-tolerant-debitcredit-198-4f3b26]]

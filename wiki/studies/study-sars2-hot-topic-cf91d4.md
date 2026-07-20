@@ -16,12 +16,12 @@ source_file: "SARS2 hot topic.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 0.95
-prescience_obs_count: 19
+prescience_mean: 1.16
+prescience_obs_count: 25
 ---
 
 # SARS May Impact Global Electronics Industry
@@ -40,13 +40,17 @@ _Published 2003, author **Russ Craig and Peter Kastner**, type **topic-analysis*
 
 ## Top observations
 
+- denied outbreak initially; not forthcoming `[ps=5]`
 - unlikely to close until stabilized; measured in months `[ps=5]`
 - schedule slippages certain at minimum `[ps=4]`
+- should contemplate economic consequences of supply chain failure `[ps=4]`
 - air freight more vulnerable; sea shipments can cross Pacific symptom-free `[ps=4]`
 - All production moved to PRC `[ps=3]`
+- critical `[ps=2]`
 - will slow rush to China; benefit from still having own factories `[ps=2]`
 - 52 `[ps=0]`
 - 37% `[ps=0]`
+- 65 `[ps=0]`
 - 11% `[ps=0]`
 - 85%+ `[ps=0]`
 - 8 `[ps=0]`
@@ -54,14 +58,10 @@ _Published 2003, author **Russ Craig and Peter Kastner**, type **topic-analysis*
 - yes - barred employees `[ps=0]`
 - 792 cases / 34 deaths `[ps=0]`
 - 48 cases in 5 cities and counties `[ps=0]`
+- ~100 cases/day `[ps=0]`
 - 100% manufactured in PRC `[ps=0]`
 - months of 24x7 work `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - significant ongoing `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
-- 65
-- ~100 cases/day
-- critical
-- denied outbreak initially; not forthcoming
-- should contemplate economic consequences of supply chain failure
-- ~$1 trillion
+- ~$1 trillion `[ps=0]`

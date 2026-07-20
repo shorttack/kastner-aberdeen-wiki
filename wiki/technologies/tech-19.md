@@ -13,8 +13,8 @@ lifecycle_at_study: "active-mature"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 1.2
-prescience_obs_count: 5
+prescience_mean: 1.0
+prescience_obs_count: 10
 ---
 
 # Sybase SQL Server / System 11
@@ -25,12 +25,12 @@ prescience_obs_count: 5
 ## Top observations
 
 - 1980s architecture runs out of steam; needs System 11 now `[ps=4]` — [[study-cab199-1-2-0cb163]]
+- Poor scalability in SMP `[ps=4]` — [[study-cab199-1-2-0cb163]]
 - Best gateway breadth overall; most flexible `[ps=2]` — [[study-cab199-1-2-0cb163]]
 - client-side MDB handling few megabytes `[ps=0]` — [[study-aberdeen-1995-data-warehouse-olap]]
+- System 11 improves scalability markedly; good on uniprocessor `[ps=0]` — [[study-cab199-1-2-0cb163]]
 - Momentum is downwards but could recover in 1996 `[ps=0]` — [[study-cab199-1-2-0cb163]]
 - 25% `[ps=0]` — [[study-cab199-1-2-0cb163]]
-- Poor scalability in SMP — [[study-cab199-1-2-0cb163]]
-- System 11 improves scalability markedly; good on uniprocessor — [[study-cab199-1-2-0cb163]]
-- 20% — [[study-cab199-1-2-0cb163]]
-- 25% — [[study-cab199-1-2-0cb163]]
-- 5% — [[study-cab199-1-2-0cb163]]
+- 20% `[ps=0]` — [[study-cab199-1-2-0cb163]]
+- 25% `[ps=0]` — [[study-cab199-1-2-0cb163]]
+- 5% `[ps=0]` — [[study-cab199-1-2-0cb163]]

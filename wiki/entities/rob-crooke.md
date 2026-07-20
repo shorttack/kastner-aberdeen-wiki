@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1990s-2020s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Rob Crooke
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Day 1 3:30-3:55 PM: Rob Crooke (VP; GM of Business Client Group). — [[study-peter-kastner-10-bde195]]
+- Day 1 3:30-3:55 PM: Rob Crooke (VP; GM of Business Client Group). `[ps=0]` — [[study-peter-kastner-10-bde195]]

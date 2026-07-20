@@ -12,9 +12,9 @@ era: "1996-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # CiscoSecure
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Triple-A security: authorization, authentication, accounting + NAT via TACACS+; per-user access control at server level — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]
+- Triple-A security: authorization, authentication, accounting + NAT via TACACS+; per-user access control at server level `[ps=3]` — [[study-aberdeen-1996-ciscos-access-business-unit-crystallizes-vision]]

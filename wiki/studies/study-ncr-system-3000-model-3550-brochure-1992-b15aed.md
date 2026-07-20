@@ -16,12 +16,12 @@ source_file: "NCR-System-3000-1992-brochure-3.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.8
-prescience_obs_count: 5
+prescience_mean: 1.33
+prescience_obs_count: 6
 ---
 
 # NCR System 3000 / Model 3550 Open Cooperative Computing Brochure (1992)
@@ -40,9 +40,9 @@ _Published 1992, author **NCR Corporation (vendor product brochure)**, type **ve
 
 ## Top observations
 
+- Hot-pluggable disks; RAID; dual-port memory; fault-resilient design `[ps=4]`
 - Several times mainframe performance for less cost `[ps=4]`
 - 200 MB/sec aggregate bandwidth at 25 MHz `[ps=0]`
 - Up to 8x Intel486 50 MHz; aggregate ~320 MIPS `[ps=0]`
 - Uniprocessor through multiprocessor; tightly to loosely coupled `[ps=0]`
 - UNIX System V Release 4 across System 3000 family `[ps=0]`
-- Hot-pluggable disks; RAID; dual-port memory; fault-resilient design

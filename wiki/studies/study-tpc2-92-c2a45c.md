@@ -16,12 +16,12 @@ source_file: "TPC2-92.docx"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.57
-prescience_obs_count: 7
+prescience_mean: 1.5
+prescience_obs_count: 10
 ---
 
 # Here Come the Hot Boxes: Unix/RDBMS TPC-A Performance Analysis (1992)
@@ -41,12 +41,12 @@ _Published 1992, author **Peter S. Kastner / Aberdeen Group**, type **market-stu
 ## Top observations
 
 - Changed in 1992: Unix/RDBMS contenders now lead TPC-A price-performance `[ps=5]`
+- TPC-B lacks terminal connectivity to applications that users want measured; many market-leading computers missing from TPC-B list `[ps=4]`
 - Contenders have sufficiently improved software efficiencies to support terminal user counts demanded by high-end TPC-A throughput `[ps=4]`
 - Unix/RDBMS competition will more often run TPC-A (three reasons given) `[ps=2]`
 - Unix/RDBMS hot boxes were surprisingly missing from 1991's TPC-A price-performance leadership list `[ps=0]`
 - Bull DPX/2 leads TPC-A price-performance `[ps=0]`
 - Sun Sparcserver leads TPC-A price-performance `[ps=0]`
+- Well under $10K/TPS-A `[ps=0]`
+- AviiOn 5225 led TPC-A briefly but has so far failed to crack the $10K/TPS-A price-performance barrier `[ps=0]`
 - unknown `[ps=0]`
-- Well under $10K/TPS-A
-- AviiOn 5225 led TPC-A briefly but has so far failed to crack the $10K/TPS-A price-performance barrier
-- TPC-B lacks terminal connectivity to applications that users want measured; many market-leading computers missing from TPC-B list

@@ -1,12 +1,12 @@
 {
-  "build_completed_at": "2026-07-14T23:36:06.097584+00:00",
+  "build_completed_at": "2026-07-19T05:03:31.664814+00:00",
   "phase_1": {
     "archive_masters": "/Users/scott/Desktop/Archive/aberdeen-group-archive",
     "derived": {
       "collections_aggregated": 9,
       "entities_with_occurrences": 1456,
-      "obs_with_prescience_score": 17316,
-      "studies_with_prescience_obs": 1332,
+      "obs_with_prescience_score": 21575,
+      "studies_with_prescience_obs": 1335,
       "studies_with_pub_year": 1517,
       "techs_with_occurrences": 3087
     },
@@ -49,7 +49,7 @@
       "_master_prescience_scores.csv": {
         "cols": 12,
         "file": "_master_prescience_scores.csv",
-        "rows": 17569
+        "rows": 21828
       },
       "_master_prescience_short_horizon.csv": {
         "cols": 16,
@@ -96,7 +96,7 @@
       {
         "cols": 12,
         "name": "prescience_scores",
-        "rows": 17569
+        "rows": 21828
       },
       {
         "cols": 9,
@@ -141,7 +141,7 @@
     ],
     "phase": 1,
     "phase_name": "load_csvs",
-    "ran_at": "2026-07-14T23:13:32.275324+00:00",
+    "ran_at": "2026-07-18T22:05:41.943269+00:00",
     "version": "v3",
     "wiki": "/Users/scott/Repos/kastner-aberdeen-wiki"
   },
@@ -149,7 +149,7 @@
     "duckdb_path": "db/kastner.duckdb",
     "phase": 2,
     "phase_name": "build_data_layer",
-    "ran_at": "2026-07-14T23:13:32.411115+00:00",
+    "ran_at": "2026-07-18T22:05:42.084365+00:00",
     "version": "v5",
     "view_rowcounts": {
       "v_codes": 1297,
@@ -159,49 +159,49 @@
       "v_entities": 3324,
       "v_entities_with_observation_count": 3324,
       "v_entity_studies": 4044,
-      "v_high_holistic_prescience": 507,
-      "v_holistic_prescience_distribution": 5,
+      "v_high_holistic_prescience": 140,
+      "v_holistic_prescience_distribution": 4,
       "v_known_entities": 3329,
       "v_known_technologies": 4396,
-      "v_low_confidence_prescience": 1749,
+      "v_low_confidence_prescience": 2028,
       "v_methodology_codes": 408,
       "v_observations": 25196,
       "v_observations_by_year": 114,
-      "v_observations_with_prescience": 17316,
+      "v_observations_with_prescience": 21575,
       "v_observations_with_sh": 25196,
       "v_prescience_by_decade": 6,
-      "v_prescience_raw": 17569,
+      "v_prescience_raw": 21828,
       "v_prescience_sh": 17030,
       "v_sh_3y_distribution": 6,
       "v_sh_5y_distribution": 6,
       "v_studies": 1517,
       "v_studies_by_decade": 6,
-      "v_studies_with_high_prescience": 887,
-      "v_studies_with_prescience": 1332,
+      "v_studies_with_high_prescience": 913,
+      "v_studies_with_prescience": 1335,
       "v_studies_with_sh_verdicts": 798,
       "v_tech_studies": 5507,
       "v_technologies": 4401,
       "v_technologies_by_lifecycle": 4401,
       "v_technology_category_codes": 8,
-      "v_top_prescient_studies": 629
+      "v_top_prescient_studies": 677
     }
   },
   "phase_3": {
     "by_type": {
       "code": 1297,
-      "entity": 3316,
-      "study": 1511,
-      "technology": 4393
+      "entity": 3324,
+      "study": 1517,
+      "technology": 4401
     },
     "limit_llm": 0,
-    "pages_emitted": 10517,
+    "pages_emitted": 10539,
     "phase": 3,
     "phase_name": "generate_vault",
-    "ran_at": "2026-07-13T16:43:32.934907+00:00",
+    "ran_at": "2026-07-19T04:44:29.103909+00:00",
     "skip_llm": false,
     "tier1_counts_planned": {
       "entity": 200,
-      "study": 881,
+      "study": 913,
       "technology": 150
     },
     "version": "v2"
@@ -217,19 +217,19 @@
     },
     "phase": 4,
     "phase_name": "generate_indices",
-    "ran_at": "2026-07-14T23:17:18.779386+00:00",
+    "ran_at": "2026-07-19T04:44:30.049812+00:00",
     "version": "v2"
   },
   "phase_5": {
-    "elapsed_sec": 1125.2,
+    "elapsed_sec": 1139.4,
     "model": "bge-m3",
-    "pages_embedded": 10930,
-    "pages_with_page_type": 10595,
-    "pages_with_title": 10930,
-    "pages_with_vector": 10930,
+    "pages_embedded": 10944,
+    "pages_with_page_type": 10944,
+    "pages_with_title": 10944,
+    "pages_with_vector": 10944,
     "phase": 5,
     "phase_name": "embeddings",
-    "ran_at": "2026-07-14T23:36:05.957306+00:00",
+    "ran_at": "2026-07-19T05:03:31.516771+00:00",
     "schema_columns": [
       "page_path",
       "page_type",
@@ -252,6 +252,6 @@
     ],
     "phase": 6,
     "phase_name": "emit_scaffolding",
-    "ran_at": "2026-07-14T23:36:06.097363+00:00"
+    "ran_at": "2026-07-19T05:03:31.664631+00:00"
   }
 }

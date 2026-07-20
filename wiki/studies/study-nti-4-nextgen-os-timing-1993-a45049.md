@@ -16,12 +16,12 @@ source_file: "NTI 4 NextGen OS Timing 1993.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.5
-prescience_obs_count: 22
+prescience_mean: 2.2
+prescience_obs_count: 30
 ---
 
 # Timing Your Move to Next Generation Operating Systems
@@ -45,12 +45,15 @@ _Published 1993, author **Peter S. Kastner, John Logan, Thomas Willmott**, type 
 - No tidal wave transition until 1995 `[ps=5]`
 - Single-tasking OS insufficient for robust client-server applications `[ps=5]`
 - 486 Intel DOS/Windows or Macintosh through mid-1994 `[ps=5]`
+- Unix derivatives employed in majority of new multi-user systems `[ps=4]`
 - Oracle seen as likely source of systems software for distributed processing `[ps=4]`
 - Shipped 1 million units; difficulty attracting ISV support `[ps=4]`
 - First units available in 1993 despite slippage `[ps=4]`
 - Full swing for new applications; RDBMS dominant glue `[ps=4]`
 - Evolutionary not revolutionary process `[ps=4]`
+- DEC and Sequent alliances on Windows NT; potential NCR or HP broader relationship `[ps=4]`
 - Confused and overpopulated; test and prototype multiple options in 1993 `[ps=4]`
+- Compete with Microsoft over next 3-5 years via integrated LAN, desktop, server OS `[ps=3]`
 - Business as usual; lion's share IBM MVS `[ps=2]`
 - Windows/DOS will engulf character-based environment within one year `[ps=2]`
 - HP/UX 9.0 robust multi-threaded; IBM AIX uniprocessor only; Sun Solaris transitioning `[ps=2]`
@@ -59,9 +62,6 @@ _Published 1993, author **Peter S. Kastner, John Logan, Thomas Willmott**, type 
 - Not until turn of the century (year 2000) `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
-- Not key factor in decision-making in 1993 or even 1994 `[ps=0]`
-- Compaq (SystemPro/SCO), NCR 3450/3550, Sequent Symmetry/Dynix, Unisys U/6000 `[ps=0]`
-- 10 million units shipped; will continue gaining in popularity `[ps=0]`
-- [UNVERIFIED]
-- Unix derivatives employed in majority of new multi-user systems
-- Future in greater jeopardy than ever
+- Future in greater jeopardy than ever `[ps=0]`
+- [UNVERIFIED] `[ps=0]`
+- Currently unaligned; will shape base technology over next two years `[ps=0]`

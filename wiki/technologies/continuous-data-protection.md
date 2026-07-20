@@ -14,7 +14,7 @@ lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 2
 prescience_max: 4.0
 prescience_mean: 4.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Continuous Data Protection (CDP)
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Continuous data protection (CDP) that quickly restores data to any point in time is an emerging concept enabled by mid-line disk `[ps=4]` — [[study-04-mid-line-storage-v2-whitepaper-7db9bc]]
 - [UNVERIFIED] `[ps=4]` — [[study-04-mid-line-storage-v2-whitepaper-7db9bc]]
 - Emerging concept for point-in-time restore; complements mid-line disk `[ps=4]` — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
-- Continuous data protection (CDP) that quickly restores data to any point in time is an emerging concept enabled by mid-line disk — [[study-04-mid-line-storage-v2-whitepaper-7db9bc]]

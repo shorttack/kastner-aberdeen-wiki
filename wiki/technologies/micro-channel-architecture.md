@@ -12,9 +12,9 @@ era: "1987-mid-1990s"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # IBM Micro Channel Architecture (MCA)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 8 primary + 8 optional Micro Channel slots — [[study-ncr-3000-cabinet-engineering-diagram-199-fa564f]]
+- 8 primary + 8 optional Micro Channel slots `[ps=0]` — [[study-ncr-3000-cabinet-engineering-diagram-199-fa564f]]

@@ -12,9 +12,9 @@ era: "1993-2005"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 2
+prescience_max: 5.0
+prescience_mean: 4.33
+prescience_obs_count: 3
 ---
 
 # Common Gateway Interface (CGI)
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- CGI single-threaded model will become increasingly inadequate as web traffic grows; bypass architectures required `[ps=5]` — [[study-aberdeen-1996-spider-technologies-netdynamics]]
 - CGI's single-threaded limitations prevent session optimization; browser/server paradigm becomes bottleneck as traffic increases `[ps=4]` — [[study-aberdeen-1996-spider-technologies-netdynamics]]
 - CGI rendered obsolete for high-traffic applications by 2000; FastCGI, mod_perl, servlet containers all bypassed CGI model `[ps=4]` — [[study-aberdeen-1996-spider-technologies-netdynamics]]
-- CGI single-threaded model will become increasingly inadequate as web traffic grows; bypass architectures required — [[study-aberdeen-1996-spider-technologies-netdynamics]]

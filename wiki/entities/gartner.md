@@ -14,7 +14,7 @@ years_active: "1979-present"
 occurrence_count: 4
 prescience_max: 2.0
 prescience_mean: 1.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Gartner Group / Gartner, Inc.
@@ -30,8 +30,8 @@ prescience_obs_count: 2
 ## Top observations
 
 - Aberdeen helped create CRM category which took off once Gartner bought in and made it their own; apply same model to midline `[ps=2]` — [[study-12-steps-to-category-creation-0abd5a]]
+- IDC or Gartner start reporting midline metrics by Q3 2004 `[ps=1]` — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
 - [UNVERIFIED] `[ps=0]` — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
-- IDC or Gartner start reporting midline metrics by Q3 2004 — [[study-10-maxtor-workshop-02-09-eod-53f22b]]
 - DCT 2003 commentary treated Gartner's +6.6% IT spending forecast as optimistic; implied read closer to +5%. — [[study-dct-memoir-ramp-vs-dct-prescience-2026]]
 - Actual 2003 IT spending ~5.3%; Kastner's skeptical read closer to actual than Gartner's headline. — [[study-dct-memoir-ramp-vs-dct-prescience-2026]]
 - 7.7% — [[study-dct-q1-2003-pc-shipments]]

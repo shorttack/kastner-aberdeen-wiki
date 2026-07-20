@@ -16,12 +16,12 @@ source_file: "1998 CIS Report customer interaction software.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.17
-prescience_obs_count: 12
+prescience_mean: 3.0
+prescience_obs_count: 18
 ---
 
 # Managing Customers with Next-Generation Software Applications: 1998 Edition (CIS Report)
@@ -46,15 +46,15 @@ _Published 1998, author **Hugh Bishop, Chris Fletcher, Chris Martins, Chris Pavl
 - Nortel acquired Clarify for $2.1B in October 1999 `[ps=5]`
 - CIS integration with enterprise business applications is a rapidly emerging trend `[ps=4]`
 - Core established module; market leaders competing on integration depth `[ps=4]`
+- Customer support/service and help desk diverging from SFA path `[ps=4]`
 - Remote access and data replication/synchronization enabling field CIS use `[ps=4]`
+- CTI identified as important additional CIS technology `[ps=4]`
+- Organizations using CIS are pulling ahead in customer satisfaction and profitability `[ps=4]`
+- Emerging application targeting sales professionals focused on quota and commissions `[ps=4]`
 - New CIS category rapidly gaining mindshare; critical for end-user adoption `[ps=3]`
 - Embryonic in terms of actual revenues `[ps=3]`
 - Fourth annual report (since approximately 1994) `[ps=0]`
 - Over 50 `[ps=0]`
+- $895 for 211-page report with 20 illustrations `[ps=0]`
 - Vantive acquired by PeopleSoft for $433M October 1999 `[ps=0]`
-- $895 for 211-page report with 20 illustrations
-- Customer support/service and help desk diverging from SFA path
-- CTI identified as important additional CIS technology
-- Number 1 front office software maker
-- Organizations using CIS are pulling ahead in customer satisfaction and profitability
-- Emerging application targeting sales professionals focused on quota and commissions
+- Number 1 front office software maker `[ps=0]`

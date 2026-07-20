@@ -12,9 +12,9 @@ era: "1982-1990s"
 lifecycle_at_study: "newly-launched-1982"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Stratus OEM International Distribution Channel
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Olivetti must meet $46M minimum volume to retain marketing rights; Stratus retains right to open international sales offices on 90-days notice — [[study-stratus-olivetti-40m-deal-eagle-tribune--b7e3b1]]
+- Olivetti must meet $46M minimum volume to retain marketing rights; Stratus retains right to open international sales offices on 90-days notice `[ps=0]` — [[study-stratus-olivetti-40m-deal-eagle-tribune--b7e3b1]]

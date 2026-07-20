@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.94
-prescience_obs_count: 16
+prescience_mean: 2.35
+prescience_obs_count: 23
 ---
 
 # Migrating From Sybase SQL Server 4.9 To Informix: An Attractive Alternative
@@ -40,26 +40,26 @@ _Published 1997, author **Aberdeen Group**, type **Vendor Profile**._
 
 ## Top observations
 
+- Acquired by SAP for $5.8 billion in July 2010 `[ps=5]`
 - Informix database sold to IBM for $1 billion in 2001 after accounting fraud scandal `[ps=5]`
+- Informix accounting fraud scandal in 1997; CEO Phillip White later convicted `[ps=5]`
 - Financial difficulties may threaten long-term viability `[ps=4]`
+- Strong candidate to be a long-term RDBMS market player `[ps=4]`
 - Migration to System 11 requires hardware expansion, stored procedure rewrites, administrator retraining `[ps=4]`
+- Web servers and data marts must scale beyond 8-processor SMP limits `[ps=4]`
 - RDBMS market will support only 2-3 major players long-term `[ps=4]`
 - Oracle, Microsoft SQL Server, IBM DB2/PostgreSQL dominate; Informix and Sybase acquired `[ps=4]`
+- End of support within 18 months `[ps=3]`
 - Informix-OnLine provides superior SMP scalability vs. Sybase System 11 `[ps=3]`
 - Informix migration requires few changes due to compatibility tooling `[ps=2]`
 - Informix attractive to Internet providers as web database server `[ps=2]`
+- Informix-OnLine 8.0 merges admin with Tivoli network management via SNMP `[ps=2]`
 - Informix has strong VAR channel for mid-market customers `[ps=2]`
 - Informix-OnLine supports row-level locking; Sybase System 11 does not `[ps=1]`
 - Less than 4% of $13B RDBMS market `[ps=0]`
+- 25 DataBlade modules available `[ps=0]`
 - DB-Lib converter planned for 2Q97 release `[ps=0]`
 - 85% of Sybase users expected on System 11 within one year `[ps=0]`
 - Informix-OnLine XPS supports parallel scans, sorts, aggregates, joins, index builds, backup/restore `[ps=0]`
 - Informix Universal Server combines RDBMS with object-relational DataBlade extensions `[ps=0]`
 - Informix-OnLine supports three asynchronous replication types: high-availability, discrete, continuous `[ps=0]`
-- End of support within 18 months
-- Acquired by SAP for $5.8 billion in July 2010
-- Strong candidate to be a long-term RDBMS market player
-- 25 DataBlade modules available
-- Web servers and data marts must scale beyond 8-processor SMP limits
-- Informix-OnLine 8.0 merges admin with Tivoli network management via SNMP
-- Informix accounting fraud scandal in 1997; CEO Phillip White later convicted

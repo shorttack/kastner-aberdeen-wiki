@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # ALR Revolution
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- 13089 `[ps=0]` — [[study-1998as400-1-146289]]
 - $36 `[ps=0]` — [[study-1998as400-1-146289]]
-- 13089 — [[study-1998as400-1-146289]]

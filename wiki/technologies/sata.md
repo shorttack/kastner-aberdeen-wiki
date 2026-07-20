@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 12
+prescience_mean: 2.77
+prescience_obs_count: 13
 ---
 
 # Serial ATA (SATA)
@@ -34,6 +34,6 @@ prescience_obs_count: 12
 - There is no place in the datacenter for lower availability at the application level simply because the storage uses capacity-oriented technology `[ps=3]` — [[study-05-idc-sata-report-0872b8]]
 - Capacity-oriented disk storage poses little near or medium term threat to tape; in fact larger disk capacity means more data to transfer to tape for archiving `[ps=2]` — [[study-05-idc-sata-report-0872b8]]
 - Internal ATA storage revenue: $283M (2003) growing to $313M (2007) at 2.5% CAGR; share 4.2% to 4.5% `[ps=1]` — [[study-05-idc-sata-report-0872b8]]
+- [UNVERIFIED] `[ps=0]` — [[study-05-idc-sata-report-0872b8]]
 - 4563 TB total enterprise storage across 49 qualifying interviews (one disqualified); grand total by vertical market `[ps=0]` — [[study-05-idc-sata-report-0872b8]]
 - [UNVERIFIED] `[ps=0]` — [[study-05-idc-sata-report-0872b8]]
-- [UNVERIFIED] — [[study-05-idc-sata-report-0872b8]]

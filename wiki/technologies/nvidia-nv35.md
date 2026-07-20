@@ -14,7 +14,7 @@ lifecycle_current: "legacy"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # nVidia NV35 (GeForce FX 5900)
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- High-end future; under May 11 NDA `[ps=0]` — [[study-nvidia-geforce-fx-notes-2003-02]]
 - 20 GB/s — 2x NV30 (2nd gen compression/caching, 2nd gen pixel shader, AGP 8x, clocks ≥ NV30) `[ps=0]` — [[study-nvidia-geforce-fx-notes-2003-02]]
-- High-end future; under May 11 NDA — [[study-nvidia-geforce-fx-notes-2003-02]]

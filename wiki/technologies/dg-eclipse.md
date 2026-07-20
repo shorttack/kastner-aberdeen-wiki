@@ -12,9 +12,9 @@ era: "1974-1988"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Data General Eclipse
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- dead — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]
+- dead `[ps=0]` — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]
 - USM Corporation litigation reached courts approximately 9 months after Kastner's architectural diagnosis — [[study-management-skills-learned-1969-3e75d0]]

@@ -16,12 +16,12 @@ source_file: "Oracle-AppsWorld-Insight-edit-4.doc"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.69
-prescience_obs_count: 16
+prescience_mean: 2.65
+prescience_obs_count: 17
 ---
 
 # A Kinder, Gentler Larry Ellison? Oracle Turns New Face to Its User Community
@@ -51,9 +51,9 @@ _Published 2002, author **Katherine Jones (Aberdeen Group)**, type **market-stud
 - Oracle renewed its 'we'll do it for you' outsourcing pledge to users, even offering to buy back customer investment in hardware and IT staff to support the application suite. `[ps=3]`
 - Aberdeen expects customers to respond positively to many components of Oracle's service and hosting propositions. `[ps=3]`
 - Customer loyalty and support helps companies weather crises (witness Baan); can only help Oracle as well. `[ps=3]`
+- Oracle claimed outsourcing to Oracle can save customers 31% to 84% on IT infrastructure costs (vendor-cited ranges). `[ps=2]`
 - Across all enterprise environments, the pace of keeping current with revision releases is declining (2002). `[ps=2]`
 - Approximately 50% of Oracle client base (~1,500 customers) still on a 10x release of the applications suite. `[ps=0]`
 - Oracle claimed product and service response time can improve by as much as 50% when Oracle manages and maintains its own software. `[ps=0]`
 - Senior executive Mark Barranchea moved from heading CRM to spearhead a newly created top-level customer-care and relations role. `[ps=0]`
 - Larry Ellison's tone at Apps World was markedly more conciliatory toward partners and customers than in prior years ('A Kinder, Gentler Larry Ellison?'). `[ps=0]`
-- Oracle claimed outsourcing to Oracle can save customers 31% to 84% on IT infrastructure costs (vendor-cited ranges).

@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.79
-prescience_obs_count: 24
+prescience_mean: 2.04
+prescience_obs_count: 27
 ---
 
 # Aligning IT to Business Processes: How BPM is Complementing ERP and Custom Applications
@@ -40,10 +40,13 @@ _Published 2007, author **Aberdeen Group**, type **employer-record**._
 
 ## Top observations
 
+- Over 51% employ manual processes to meet customer requirements; 63% use spreadsheets for critical business process functions `[ps=4]`
 - 37% use legacy mainframe applications to manage critical business process functions `[ps=4]`
 - 67% indicate will use SOA technology and web services as glue to tie BPM to ERP and enterprise applications `[ps=4]`
 - More than 2/3 of supply-chain-intensive industries say ERP systems impede visibility due to customized workarounds `[ps=4]`
 - 63% of supply-chain companies say teams can't adjust to culture change needed for reusable services vs 45% overall `[ps=4]`
+- 62% cite need to support new agile business processes as top SOA driver `[ps=4]`
+- 44% cite ERP system or supply chain solution not providing desired functionality as SOA driver `[ps=4]`
 - 63% consider ability to integrate into any system with critical data as very important IT capability `[ps=4]`
 - Only 15% believe applications afford desired flexibility they need today `[ps=3]`
 - More than 50% of surveyed companies turning to BPM in 2007 `[ps=3]`
@@ -62,6 +65,3 @@ _Published 2007, author **Aberdeen Group**, type **employer-record**._
 - 54% of Best-in-Class have SOA projects underway vs 33% Industry Average and 32% Laggard `[ps=0]`
 - BPM tool satisfaction: 17% Best-in-Class vs 6% Industry Average vs 3% Laggard `[ps=0]`
 - 43% cite lower cost integration and application upgrades as SOA driver `[ps=0]`
-- Mid-size organizations more likely than small or large to cite organizational and technical impediments to progress `[ps=0]`
-- 51% of respondents say ERP systems or best-of-breed supply chain solutions don't provide adequate functionality `[ps=-1]`
-- Over 51% employ manual processes to meet customer requirements; 63% use spreadsheets for critical business process functions

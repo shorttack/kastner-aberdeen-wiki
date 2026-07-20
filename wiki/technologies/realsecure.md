@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # ISS RealSecure
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Real-time intrusion monitoring; monitors packet flow; recognizes attack patterns; responds from email notification to connection termination `[ps=5]` — [[study-aberdeen-1996-iss-internet-security-systems]]
-- State-of-the-art intrusion detection; capable of stopping vandals and software projectiles before damage occurs — [[study-vulnerability-assessment-empowering-is-754d9a]]
+- State-of-the-art intrusion detection; capable of stopping vandals and software projectiles before damage occurs `[ps=1]` — [[study-vulnerability-assessment-empowering-is-754d9a]]

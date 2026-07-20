@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1984-"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Compal Electronics
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Barred employee travel to PRC and HK until epidemic controlled — [[study-2003-sars-electronics-supply-chain-ec0375]]
+- Barred employee travel to PRC and HK until epidemic controlled `[ps=4]` — [[study-2003-sars-electronics-supply-chain-ec0375]]

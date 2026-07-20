@@ -12,9 +12,9 @@ era: "2001-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # SAP Enterprise Portal
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Will compete effectively in enterprise portal segment — [[study-2001-sap-the-once-and-future-king-fe2827]]
+- Will compete effectively in enterprise portal segment `[ps=4]` — [[study-2001-sap-the-once-and-future-king-fe2827]]

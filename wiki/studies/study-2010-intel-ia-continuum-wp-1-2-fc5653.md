@@ -16,12 +16,12 @@ source_file: "Archive-1/2010 Intel IA Continuum WP-1 2.rtf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.68
-prescience_obs_count: 22
+prescience_mean: 1.71
+prescience_obs_count: 28
 ---
 
 # Intel's IA Continuum Strategy Anticipates a Much Broader Computing Market
@@ -46,22 +46,22 @@ _Published 2010, author **Peter S. Kastner**, type **white-paper**._
 - Expect billion-dollar SOC market share towards end of decade `[ps=4]`
 - ~10% smartphones today; growing to ~90% by end of decade `[ps=4]`
 - Rackspace and electrical requirements are hard barriers to expansion `[ps=4]`
+- No longer about personal computers; about making computing personal `[ps=4]`
+- Most difficult technology challenge; programmers slow to parallelize `[ps=4]`
 - Big hype trend; Salesforce.com as leading example `[ps=3]`
 - Far from a write-off; can be significant HPC business `[ps=3]`
+- 20 GHz over 6 cores (12 threads); most powerful consumer chip ever `[ps=3]`
 - Approaching 1 billion processors/year `[ps=2]`
 - #2 architecture for mission-critical; behind IBM mainframe/Power `[ps=2]`
 - Approaching 1 billion units/year by mid-decade `[ps=1]`
+- [UNVERIFIED] `[ps=0]`
 - ~150 million chips/year `[ps=0]`
 - ~10 million processors/year `[ps=0]`
 - Hundreds of millions invested 2003-2005 `[ps=0]`
 - 35 million units growing to 60 million by late decade `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
+- Moblin merged with Nokia MeeGo; CE-oriented open-source Linux `[ps=0]`
 - CE system integration and embedded/real-time specialist acquired 2009 `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - 48-core IA chip demonstrated December 2009; each core runs own virtual OS with TCP/IP `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
-- DAHL companies = ~1/3 of Intel business by units; channel = majority and growing faster `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- [UNVERIFIED]
-- Moblin merged with Nokia MeeGo; CE-oriented open-source Linux
-- No longer about personal computers; about making computing personal

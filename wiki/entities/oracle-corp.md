@@ -13,8 +13,8 @@ successor: "[DEFERRED]"
 years_active: "1977-present"
 occurrence_count: 7
 prescience_max: 5.0
-prescience_mean: 2.4
-prescience_obs_count: 20
+prescience_mean: 2.38
+prescience_obs_count: 21
 ---
 
 # Oracle Corporation
@@ -42,10 +42,10 @@ prescience_obs_count: 20
 - Aberdeen expects customers to respond positively to many components of Oracle's service and hosting propositions. `[ps=3]` — [[study-oracle-appsworld-insight-edit-4-813c2e]]
 - Paper concludes: 'Oracle provides such an application suite, enabled with comprehensive intra-enterprise and business-to-business best practice business processes designed to generate a sustainable benefit stream.' `[ps=3]` — [[study-oracleroiwhitepaperprod-7-bcf73f]]
 - Oracle-Dell also expanded partnership into China; Oracle certifying PowerEdge servers with Red Flag DC 4.0 Linux and Oracle Database 10g at Oracle China Development Center in Beijing. `[ps=2]` — [[study-oracle-and-dell-take-aim-at-midsize-busi-770ea6]]
+- Oracle claimed outsourcing to Oracle can save customers 31% to 84% on IT infrastructure costs (vendor-cited ranges). `[ps=2]` — [[study-oracle-appsworld-insight-edit-4-813c2e]]
 - Oracle announced Oracle Unbreakable Linux — support for RHEL-compatible Linux at lower fees than Red Hat charges. `[ps=0]` — [[study-novell-and-microsoft-good-for-business-4-59404e]]
 - Oracle granted Dell the exclusive right (through 2004 year-end) to deliver preinstalled Oracle Standard Edition One on PowerEdge 2600/2650 running Red Hat Linux or Windows; pricing starts at $4,108 for 5/10/25/unlimited user variations. `[ps=0]` — [[study-oracle-and-dell-take-aim-at-midsize-busi-770ea6]]
 - Approximately 50% of Oracle client base (~1,500 customers) still on a 10x release of the applications suite. `[ps=0]` — [[study-oracle-appsworld-insight-edit-4-813c2e]]
 - Oracle claimed product and service response time can improve by as much as 50% when Oracle manages and maintains its own software. `[ps=0]` — [[study-oracle-appsworld-insight-edit-4-813c2e]]
 - Senior executive Mark Barranchea moved from heading CRM to spearhead a newly created top-level customer-care and relations role. `[ps=0]` — [[study-oracle-appsworld-insight-edit-4-813c2e]]
 - Larry Ellison's tone at Apps World was markedly more conciliatory toward partners and customers than in prior years ('A Kinder, Gentler Larry Ellison?'). `[ps=0]` — [[study-oracle-appsworld-insight-edit-4-813c2e]]
-- Oracle announced a $5.1 billion hostile takeover bid for PeopleSoft the prior week; rare hostile takeover in software industry; Ellison expressed little interest in PeopleSoft products, more in customers. `[ps=0]` — [[study-peoplesoft-bid-mirrors-lofty-goals-of-or-6be2ec]]

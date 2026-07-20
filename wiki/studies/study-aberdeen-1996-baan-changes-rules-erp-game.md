@@ -16,12 +16,12 @@ source_file: "1996 BAAN Changes the Rules of the ERP Game apr.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "low"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.69
-prescience_obs_count: 16
+prescience_mean: 2.6
+prescience_obs_count: 20
 ---
 
 # BAAN Changes the Rules of the ERP Game with Dynamic Enterprise Modeling
@@ -47,16 +47,16 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Three key criteria: process-oriented, best-practices-based, supports continuous business improvement `[ps=4]`
 - True Dynamic-ERP must encompass a continually changing business model (new, reconfigured or time-phased) `[ps=4]`
 - Static ERP customers invest in upfront modeling that does not carry through to implemented system due to serial, disconnected process `[ps=4]`
+- Aberdeen asserts Static-ERP must give way to Dynamic-ERP with internet enablement capabilities `[ps=4]`
 - Aberdeen concludes that inherently dynamic BPM capability is 'the key value-added technology' for next-century manufacturing ERP `[ps=3]`
+- Two model types: Reference Model (industry best practices) and Project Model (company-specific) `[ps=3]`
 - BAAN IV classified as 'Dynamic-ERP'; competitors classified as 'Static-ERP' `[ps=2]`
 - Must generate customized executable system without manually setting system parameters, auth codes or user interfaces `[ps=2]`
 - Aberdeen believes Baan enjoys at least a 12-month advantage over major ERP competitors `[ps=2]`
+- Aberdeen recommends Baan be on every serious ERP evaluation shortlist `[ps=2]`
 - Technology leadership + marketing agility + strategic wins (Boeing) to displace incumbent ERP vendors `[ps=2]`
+- Orgware is an important decision factor for companies choosing Baan solutions `[ps=0]`
 - Up to 450 customer-specific production-ready business objects, functions and workflows `[ps=0]`
 - Four components: Business Function Model, Business Process Model, Business Organization Model, BAAN IV Configurator `[ps=0]`
 - Must completely re-generate and link underlying business objects encompassing application logic flow `[ps=0]`
 - Covers manufacturing, finance, distribution, transportation, services, and project management `[ps=0]`
-- Orgware is an important decision factor for companies choosing Baan solutions
-- Aberdeen recommends Baan be on every serious ERP evaluation shortlist
-- Aberdeen asserts Static-ERP must give way to Dynamic-ERP with internet enablement capabilities
-- Two model types: Reference Model (industry best practices) and Project Model (company-specific)

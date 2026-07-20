@@ -11,10 +11,10 @@ sector: "Enterprise IT Hardware/Software"
 status: "Acquired by Oracle"
 successor: "Harte-Hanks (2008); Spiceworks Ziff Davis (later)"
 years_active: "1911-present"
-occurrence_count: 68
+occurrence_count: 69
 prescience_max: 5.0
-prescience_mean: 1.59
-prescience_obs_count: 164
+prescience_mean: 1.62
+prescience_obs_count: 206
 ---
 
 # Sun Microsystems Computer Corporation (SMCC)
@@ -41,11 +41,11 @@ prescience_obs_count: 164
 - Linux/x86 displaced Solaris/SPARC as enterprise standard; Oracle continued strong Linux support `[ps=5]` — [[study-2003-a-view-of-sun-s-2003-worldwide-analyst-conference-206a10]]
 - Sun became a leading Unix data warehouse platform through the late 1990s-early 2000s; UltraSPARC/Solaris widely used for Oracle data warehouses. Sun's position weakened after 2003 as x86/Linux and commodity hardware eroded Unix server market; acquired by Oracle 2010. `[ps=5]` — [[study-aberdeen-1996-sun-microsystems-decision-warehouse]]
 - Aberdeen forecasts another significant increase in Sun's revenues from commercial accounts for 1996 `[ps=5]` — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]
+- Sun achieved peak revenues of ~$15B by FY2001; commercial Unix server leadership maintained through late 1990s before internet bust `[ps=5]` — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]
 - Aberdeen opinion: Sun has again set industry vision for important emerging IS opportunity with Java internet/intranet applications `[ps=5]` — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]
 - Java became the dominant enterprise application runtime; billions of devices; Oracle acquired Sun for $7.4B largely for Java IP `[ps=5]` — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]
 - Sun's 'network is the computer' concept derided in mid-1980s is now a de facto standard for distributed information systems design `[ps=5]` — [[study-aberdeen-1996-sun-microsystems-ultracomputing-business]]
 - Sun announced at Comdex 2003 it would build Sun Fire servers using AMD Opteron 64-bit processors, with early-access units shipping to developers in 2003 and volume in 2004 `[ps=5]` — [[study-comdex-2003-sun-aggressive-seattletimes--9ca4dd]]
 - Sun pitched Niagara as recapture strategy for users who switched to low-cost Windows/Linux x86 via multithreading and power consumption advantages. `[ps=5]` — [[study-niagara-sun-s-palaver-starter-and-diy-mp-158f17]]
+- Sun never captured meaningful AS/400 displacement share before Oracle acquisition; iSeries continued as IBM i on Power Systems `[ps=5]` — [[study-sun-as400-main-report-2002-c37e2a]]
 - Oracle acquired Sun Microsystems for $7.4B in 2010 `[ps=5]` — [[study-sun-as400-main-report-2002-c37e2a]]
-- begin shipping in systems during the first half of 2004 `[ps=5]` — [[study-technology-news-hardware-sun-unveils-ult-4a76bb]]
-- Oracle confirmed SPARC M8 (2017) as its final SPARC CPU and canceled its M8 successor; effectively ended SPARC roadmap `[ps=5]` — [[study-technology-news-hardware-sun-unveils-ult-4a76bb]]

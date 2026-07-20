@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "2000-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Avanade Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Accenture 70%, Microsoft <20% — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]
+- Accenture 70%, Microsoft <20% `[ps=3]` — [[study-psbj-meisner-microsoft-consulting-acquis-7b85c8]]

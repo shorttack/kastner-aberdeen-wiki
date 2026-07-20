@@ -16,12 +16,12 @@ source_file: "1997 The Compaq Siebel Global Alliance_ An E...roach to Customer I
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 4.0
-prescience_mean: 1.4
-prescience_obs_count: 5
+prescience_max: 5.0
+prescience_mean: 2.11
+prescience_obs_count: 9
 ---
 
 # The Compaq Siebel Global Alliance: An Enterprise Approach to Customer Interaction Software
@@ -40,12 +40,12 @@ _Published 1997, author **Aberdeen Group**, type **strategy-profile**._
 
 ## Top observations
 
+- HP acquired Compaq for approximately $19-25 billion in May 2002 `[ps=5]`
+- Enterprise-grade sales force automation and customer service/support `[ps=4]`
 - High implementation risk, cost, and complexity without vendor partnership `[ps=4]`
 - Global hardware-software partnership for enterprise CIS deployment `[ps=3]`
+- Alliance will reduce implementation risk, cost, and time for CIS deployments `[ps=2]`
+- 45% CRM market share at peak `[ps=1]`
 - Pre-sales, post-sales, and implementation support for Siebel on Compaq hardware `[ps=0]`
 - Large-scale enterprise organizations `[ps=0]`
 - Oracle acquired Siebel for $5.85 billion in January 2006 `[ps=0]`
-- Enterprise-grade sales force automation and customer service/support
-- Alliance will reduce implementation risk, cost, and time for CIS deployments
-- 45% CRM market share at peak
-- HP acquired Compaq for approximately $19-25 billion in May 2002

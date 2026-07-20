@@ -12,9 +12,9 @@ era: "1996-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # TME 10 Software Distribution
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Controls distribution of software patches, updates, upgrades from central location to any managed Tivoli system (from OS/390 to desktops) — [[study-aberdeen-1996-ibm-tivoli]]
+- Controls distribution of software patches, updates, upgrades from central location to any managed Tivoli system (from OS/390 to desktops) `[ps=4]` — [[study-aberdeen-1996-ibm-tivoli]]

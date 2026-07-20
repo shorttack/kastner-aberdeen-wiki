@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "La Mancha Group/Wyndham (motel brand); Restaurants franchised then ceased operations (last closed 2022)"
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Howard Johnson's
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Adopted Robert Chase's restaurant/hotel simulation for management training. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Adopted Robert Chase's restaurant/hotel simulation for management training. `[ps=4]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

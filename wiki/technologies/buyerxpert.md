@@ -12,9 +12,9 @@ era: "1997-1998"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # BuyerXpert
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Delivered to early customers; best-of-breed candidate in procurement automation — [[study-aberdeen-1997-actra-commercexpert-internet-commerce]]
+- Delivered to early customers; best-of-breed candidate in procurement automation `[ps=2]` — [[study-aberdeen-1997-actra-commercexpert-internet-commerce]]

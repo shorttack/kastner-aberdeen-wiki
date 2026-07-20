@@ -16,12 +16,12 @@ source_file: "1996 Blyth's REN Architecture_ A Prescription for IT Success pr.pd
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "low"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.59
-prescience_obs_count: 17
+prescience_mean: 2.68
+prescience_obs_count: 22
 ---
 
 # Blyth's REN Architecture: A Prescription for IT Success
@@ -48,17 +48,17 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Web development middleware market commoditized by 2000; ASP.NET, PHP, Java EE dominated; Blyth's products could not scale to mainstream adoption `[ps=4]`
 - Word-of-mouth growth + VAR channel + early 'Net market entry; avoid HTML server and page-generation commodity; focus on mission-critical Net middleware `[ps=4]`
 - IS professionals will soon be 'up to their necks in a swamp of immature Net development products'; will favor high-end tools `[ps=4]`
+- Component marketplace: Blyth + customers + third parties submit components for negotiated payments — buy vs. make decision `[ps=4]`
 - Net application development requires same rigor and tool classes as client-server; most developers not yet aware of this `[ps=4]`
+- Second-generation CADE with application logic partitioning, deeper OO, templates/wizards, SQL-aware objects `[ps=4]`
+- Vista-based user/group privilege system controlling table and column-level access for web database queries `[ps=3]`
 - Never became IT household name; renamed Omnis Technology (1997), Raining Data (2000), TigerLogic (2008); sold to Cliftech Solutions in 2017 `[ps=3]`
+- Past success inhibited by less-than-stellar distribution and marketing; must ensure Net developers discover the company `[ps=3]`
 - Industrial-strength, complex business applications; cross-platform Windows/OS2/Mac; binary compatible `[ps=2]`
+- Successful REN execution could propel Blyth from respected-but-small vendor to IT household name `[ps=1]`
 - More comprehensive Net development vision than competition: dual-track traditional + Net client-server `[ps=0]`
 - Development tools (traditional + Net) `[ps=0]`
 - Database tools (traditional + Net) `[ps=0]`
 - Web Enabler demonstrated accessing FedEx parcel-tracking website and updating internal database automatically `[ps=0]`
 - Aberdeen believes Blyth has a twelve month or more advantage over most competitors on Web Enabler-style functionality `[ps=0]`
 - Named customers include Barclays Bank, Federal Express, Harvard University, Lockheed Martin, Northern Telecom `[ps=0]`
-- Vista-based user/group privilege system controlling table and column-level access for web database queries
-- Successful REN execution could propel Blyth from respected-but-small vendor to IT household name
-- Component marketplace: Blyth + customers + third parties submit components for negotiated payments — buy vs. make decision
-- Second-generation CADE with application logic partitioning, deeper OO, templates/wizards, SQL-aware objects
-- Past success inhibited by less-than-stellar distribution and marketing; must ensure Net developers discover the company

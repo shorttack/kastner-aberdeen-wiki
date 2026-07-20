@@ -14,7 +14,7 @@ lifecycle_current: "active"
 occurrence_count: 2
 prescience_max: 4.0
 prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Internet/Intranet Application Platform
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Described as large-scale and rapidly growing; no specific TAM figure cited `[ps=4]` — [[study-1997-unify-vision-8fcfc3]]
-- Companies amassing digital data creating information warehouses that are dispersed and hard to manage — industry-wide problem — [[study-perspecta-inc-september-1997-b8e81d]]
+- Companies amassing digital data creating information warehouses that are dispersed and hard to manage — industry-wide problem `[ps=4]` — [[study-perspecta-inc-september-1997-b8e81d]]

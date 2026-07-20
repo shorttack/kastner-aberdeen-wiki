@@ -12,9 +12,9 @@ status: "active"
 successor: "PlanView (independent then Vista Equity)"
 years_active: "1989-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # PlanView Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enterprise portfolio and resource planning for IT and professional services — [[study-1999-professional-services-automation-rpt-10e22b]]
+- Enterprise portfolio and resource planning for IT and professional services `[ps=4]` — [[study-1999-professional-services-automation-rpt-10e22b]]

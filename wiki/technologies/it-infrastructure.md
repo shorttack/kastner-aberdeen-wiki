@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream"
 lifecycle_current: "active"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 4.0
-prescience_obs_count: 5
+prescience_mean: 3.83
+prescience_obs_count: 6
 ---
 
 # Enterprise IT Infrastructure
@@ -29,4 +29,4 @@ prescience_obs_count: 5
 - Fragmented piecemeal infrastructure = 'chaos'; consolidated architectural program = 'cosmos'. Kastner argues for cosmos. `[ps=4]` — [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1]]
 - The chaos-vs-cosmos framing re-emerged in multiple subsequent cycles: cloud-service sprawl (2015-2020), SaaS sprawl (2018-2024), and AI-tool sprawl (2024-present). Prediction verified as a structural recurrence. `[ps=4]` — [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1]]
 - IT spending grew 9% in 2003 (after approximately flat 2002 and -8% 2001); recovery materialized `[ps=3]` — [[study-2002-it-purchasing-the-view-from-the-end-of-the-tunnel--f63cde]]
-- Increase customer satisfaction; empower fewer users; increase line access to data; increase operational flexibility; shorten application-development cycle time. — [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1]]
+- Increase customer satisfaction; empower fewer users; increase line access to data; increase operational flexibility; shorten application-development cycle time. `[ps=3]` — [[study-ca-infrastructure-speech-chaos-or-cosmos-9cdfb1]]

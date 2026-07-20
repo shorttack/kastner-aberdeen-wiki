@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Emerging (new release)"
 lifecycle_current: "Defunct/Absorbed"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Prism Warehouse Executive
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Common GUI across all Prism applications; integrates design construction maintenance — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
+- Common GUI across all Prism applications; integrates design construction maintenance `[ps=3]` — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]

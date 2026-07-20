@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "early-growth"
 lifecycle_current: "dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 2
 ---
 
 # Electronic Commerce / Web Commerce
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Automated e-commerce and supply-chain integration predicted as major benefit of network computing — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
-- E-commerce became multi-trillion dollar global sector; Aberdeen prediction highly accurate — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
+- Automated e-commerce and supply-chain integration predicted as major benefit of network computing `[ps=5]` — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
+- E-commerce became multi-trillion dollar global sector; Aberdeen prediction highly accurate `[ps=5]` — [[study-1997-ibm’s-network-computing-solution----e74e8a]]

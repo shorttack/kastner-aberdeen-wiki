@@ -16,12 +16,12 @@ source_file: "2001 HP-CPQ Merger collection.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.76
-prescience_obs_count: 25
+prescience_mean: 1.9
+prescience_obs_count: 30
 ---
 
 # HP's Acquisition of Compaq: Beyond the Naysayers, the Promise and the Opportunity
@@ -40,7 +40,9 @@ _Published 2001, author **Peter Kastner; Robert Dorin; Bill Claybrook; Aberdeen 
 
 ## Top observations
 
+- New HP must create order in high-end Unix platform strategy — HP-UX and Tru64 require rationalization `[ps=5]`
 - HP discontinued Tru64 advanced features Dec 2004; migrated to HP-UX on Itanium; many Tru64 developers laid off `[ps=5]`
+- Capellas predicted PC division would return to profitability in H1 FY2003 `[ps=5]`
 - HP planned to migrate Unix customer base from RISC (Alpha/PA-RISC) to HP-UX on Itanium `[ps=5]`
 - Intel discontinued Itanium in 2021; HP's Itanium-based Unix strategy failed to achieve dominance `[ps=5]`
 - HP split into HP Inc. (consumer/printing) and Hewlett Packard Enterprise (servers/services) in November 2015 `[ps=5]`
@@ -50,18 +52,16 @@ _Published 2001, author **Peter Kastner; Robert Dorin; Bill Claybrook; Aberdeen 
 - Dell targeting more computer resellers instead of just selling directly — channel expansion `[ps=4]`
 - Significant upside potential for synergy in many areas; primary focus must be clarity of message and execution excellence `[ps=3]`
 - HP/Compaq combination presents prescription for storage success — combined storage portfolio is complementary `[ps=3]`
+- HP/Compaq combined IT services must offer more than size; service mix quality critical `[ps=3]`
 - Success must stem from the PC business — Compaq's Wintel strategy should be adopted by new HP `[ps=2]`
 - Partial success: merger cost savings exceeded targets by 30% in H2 2002 ($651M vs plan), but Fiorina ousted Feb 2005; HP split into HP Inc. and HPE in 2015 `[ps=0]`
 - PC sales dropped 19% to $4.8B in first combined quarter (Q3 FY2002); Personal Systems cut operating loss by 50%+ sequentially in Q4 FY2002 `[ps=0]`
 - HP reported 18th consecutive quarter of Linux market-share leadership in Q4 FY2002 `[ps=0]`
 - 17% sequential increase in on-line storage revenues; strong StorageWorks wins including $200M with Ericsson `[ps=0]`
 - Technology services revenue fell 7% to $3B in first combined quarter — services underperformed `[ps=0]`
+- HP/Compaq must focus on customer outreach, clarity of messages, and marketing execution excellence; programs should start immediately `[ps=0]`
 - We've kept our eye on the ball. We did well. `[ps=0]`
 - $16.5 billion (vs. $18.6B combined year-earlier) `[ps=0]`
 - $18.0 billion (vs $16.5B prior quarter — 9% sequential increase) `[ps=0]`
 - $651 million in H2 2002 — 30% above plan; 12,500 net workforce reductions, 25% above plan `[ps=0]`
-- 30% worldwide server market share per Gartner Dataquest (leading all vendors) `[ps=0]`
-- Printing systems revenue increased 10% to $4.7 billion — most profitable division `[ps=0]`
-- Big computer systems revenue fell 22% to $3.8 billion; $422M operating loss called 'unacceptable' by Capellas `[ps=0]`
-- 30 largest new contracts averaged $120M+ each; totaling $3.7B in new long-term revenue `[ps=0]`
-- 15,000 net workforce reductions planned; 4,740 eliminated in first quarter post-merger `[ps=0]`
+- 58% sequential revenue increase in Q4 FY2002; HP ranked #1 on TOP500 Supercomputer Sites enterprise category `[ps=0]`

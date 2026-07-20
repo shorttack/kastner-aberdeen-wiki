@@ -12,9 +12,9 @@ status: "active"
 successor: "[DEFERRED]"
 years_active: "1999-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Marc Benioff
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Customers will be thrilled and amazed as the salesforce.com community demonstrates what is truly possible on demand — the 'Business Web.' Customers will benefit from unprecedented choice and freedom of on-demand applications innovations. — [[study-salesforce.com-s-apex-code-good-idea-or--29f809]]
+- Customers will be thrilled and amazed as the salesforce.com community demonstrates what is truly possible on demand — the 'Business Web.' Customers will benefit from unprecedented choice and freedom of on-demand applications innovations. `[ps=4]` — [[study-salesforce.com-s-apex-code-good-idea-or--29f809]]

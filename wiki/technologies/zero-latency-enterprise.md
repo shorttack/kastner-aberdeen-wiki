@@ -12,9 +12,9 @@ era: "2001-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Zero Latency Enterprise (ZLE)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ZLE framework positions HP as real-time enterprise infrastructure provider — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]
+- ZLE framework positions HP as real-time enterprise infrastructure provider `[ps=2]` — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]

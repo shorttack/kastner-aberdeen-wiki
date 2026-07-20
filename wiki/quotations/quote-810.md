@@ -1,6 +1,7 @@
 ---
 title: Quote 810 — MarketWatch (2003-04-26)
 type: quotation
+page_type: quotation
 slug: quote-810
 row_id: 810
 author: "Peter S. Kastner"

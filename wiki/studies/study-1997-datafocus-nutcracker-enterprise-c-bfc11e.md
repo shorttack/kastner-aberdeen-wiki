@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.1
-prescience_obs_count: 21
+prescience_mean: 1.3
+prescience_obs_count: 30
 ---
 
 # DataFocus' NuTCRACKER: Enterprise-Class Unix Applications for NT
@@ -41,7 +41,11 @@ _Published 1997, author **AberdeenGroup**, type **Executive White Paper**._
 ## Top observations
 
 - nt_evolved_windows_server_remains_enterprise_platform `[ps=5]`
+- 10x_improvement_100k_sgi_vs_10k_nt `[ps=4]`
+- if_need_to_move_unix_to_nt_look_to_datafocus `[ps=4]`
+- largely_displaced_by_linux_x86_not_just_nt `[ps=4]`
 - wsl_windows_subsystem_for_linux_replaced_posix `[ps=4]`
+- containerization_docker_became_dominant `[ps=4]`
 - unix_apps_on_nt_servers_including_computationally_intensive `[ps=3]`
 - performance_enhancement_and_multi_platform_dev_env `[ps=3]`
 - accelerated_path_lower_opex_improved_perf_no_retraining `[ps=3]`
@@ -49,19 +53,15 @@ _Published 1997, author **AberdeenGroup**, type **Executive White Paper**._
 - economically_dead_nt_will_replace `[ps=2]`
 - prevents_win32_integration `[ps=1]`
 - 7 `[ps=0]`
+- 1994 `[ps=0]`
 - May_1997 `[ps=0]`
 - less_than_1_day `[ps=0]`
+- 1_month_or_more `[ps=0]`
 - 75000_to_110000 `[ps=0]`
 - 100x_improvement `[ps=0]`
 - 8th_to_11th_platform_for_workstations `[ps=0]`
 - 1st_2nd_or_3rd_nt_server `[ps=0]`
+- 40k_to_200k_less_expensive `[ps=0]`
+- 220000 `[ps=0]`
 - microsoft_industry_solutions_group_member `[ps=0]`
 - thread_safe_multi_processor_pentium_validation `[ps=0]`
-- too_costly_lengthy_risky `[ps=0]`
-- acquired_ptc_may_2011 `[ps=0]`
-- hard_to_find_expensive_impossible_to_retain `[ps=0]`
-- policy_wonk_standard_check_off_item_rarely_deployed `[ps=0]`
-- 1994
-- 1_month_or_more
-- 10x_improvement_100k_sgi_vs_10k_nt
-- 40k_to_200k_less_expensive

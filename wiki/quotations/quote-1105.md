@@ -1,6 +1,7 @@
 ---
 title: Quote 1105 — Inc. ()
 type: quotation
+page_type: quotation
 slug: quote-1105
 row_id: 1105
 author: "Peter S. Kastner"

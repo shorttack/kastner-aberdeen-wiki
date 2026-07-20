@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "partially-divested"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 4
+prescience_mean: 2.86
+prescience_obs_count: 7
 ---
 
 # IBM Watson (Jeopardy / NLP era)
@@ -24,10 +24,10 @@ prescience_obs_count: 4
 
 ## Top observations
 
+- Watson AI over-promised; Watson Health sold; Red Hat acquisition; Kyndryl spinout; hybrid cloud / quantum bets active `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
+- IBM Watson defeated Jeopardy champions Ken Jennings and Brad Rutter in February 2011 `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
 - Watson AI represents IBM's most visible prediction miss — both from IBM's own marketing claims and from analyst expectations; Watson Health failure and WatsonX reboot are the clearest IBM outcome reversals in the post-2010 archive `[ps=5]` — [[study-2026-kastner-ibm-longitudinal]]
 - IBM Watson will be the enterprise AI platform across financial services, healthcare, and government `[ps=2]` — [[study-2026-kastner-ibm-longitudinal]]
+- Watson will dominate enterprise AI in healthcare and financial services `[ps=2]` — [[study-2026-kastner-ibm-longitudinal]]
 - IBM Watson would become the world's leading enterprise AI platform, especially in healthcare and regulated industries `[ps=1]` — [[study-2026-kastner-ibm-longitudinal]]
 - 7 matching observations (Watson keyword narrow; AI keyword too broad) `[ps=0]` — [[study-2026-kastner-ibm-longitudinal]]
-- Watson AI over-promised; Watson Health sold; Red Hat acquisition; Kyndryl spinout; hybrid cloud / quantum bets active — [[study-2026-kastner-ibm-longitudinal]]
-- IBM Watson defeated Jeopardy champions Ken Jennings and Brad Rutter in February 2011 — [[study-2026-kastner-ibm-longitudinal]]
-- Watson will dominate enterprise AI in healthcare and financial services — [[study-2026-kastner-ibm-longitudinal]]

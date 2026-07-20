@@ -16,12 +16,12 @@ source_file: "why-you-need-to-replace-those-windows-98-and-nt-ma-9b9622.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 25
+prescience_obs_count: 32
 ---
 
 # Why You Need To Replace Those Windows 98 And NT Machines
@@ -41,27 +41,27 @@ _Published 2003, author **Peter S. Kastner**, type **market-study**._
 ## Top observations
 
 - 50000000+ `[ps=0]`
+- $1250 `[ps=0]`
 - $1400 `[ps=0]`
 - $2 `[ps=0]`
 - 33% `[ps=0]`
+- 2003-06-30 `[ps=0]`
 - 2004-01-16 `[ps=0]`
+- 5 years `[ps=0]`
 - stable `[ps=0]`
+- improved `[ps=0]`
 - pre-release `[ps=0]`
 - 18 months `[ps=0]`
 - 800 MHz `[ps=0]`
+- mainstream `[ps=0]`
 - active `[ps=0]`
 - none `[ps=0]`
 - none `[ps=0]`
+- unacceptable `[ps=0]`
 - negligence potential `[ps=0]`
 - prudent-to-stupid transition `[ps=0]`
 - Y2K remediation `[ps=0]`
 - critical `[ps=0]`
 - expected reduction `[ps=0]`
 - lower for new PCs `[ps=0]`
-- mid-2003 auspicious `[ps=0]`
-- confirmed `[ps=0]`
-- confirmed `[ps=0]`
-- confirmed `[ps=0]`
-- two-part `[ps=0]`
-- elevated `[ps=0]`
-- 5 years `[ps=0]`
+- completed `[ps=0]`

@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Managed DNS Services
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Three valid DNS management approaches: fully in-house, outsourced managed DNS, hybrid — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- Three valid DNS management approaches: fully in-house, outsourced managed DNS, hybrid `[ps=4]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

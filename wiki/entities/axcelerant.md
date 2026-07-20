@@ -12,9 +12,9 @@ status: "unknown"
 successor: "[DEFERRED]"
 years_active: "1990s-2003"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Axcelerant
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Acquired late 2003; added fixed broadband capability for teleworkers and branch offices — [[study-goremote-profile-5-2a-8fa814]]
+- Acquired late 2003; added fixed broadband capability for teleworkers and branch offices `[ps=3]` — [[study-goremote-profile-5-2a-8fa814]]

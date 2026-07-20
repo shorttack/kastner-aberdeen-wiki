@@ -12,9 +12,9 @@ era: "2007-2011"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Intel officially abandoned MeeGo mobile OS in September 2011, shifting to Tizen (with Samsung). Nokia dropped MeeGo for Windows Phone in early 2011. The Nokia N9 was the only consumer device shipped. MeeGo/Moblin is fully discontinued.', 'source': 'https://uk.pcmag.com/news/113098/intel-ditches-meego-mobile-os-for-html5-centric-tizen'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Moblin / MeeGo Linux
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Moblin merged with Nokia MeeGo; CE-oriented open-source Linux — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]
+- Moblin merged with Nokia MeeGo; CE-oriented open-source Linux `[ps=0]` — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]

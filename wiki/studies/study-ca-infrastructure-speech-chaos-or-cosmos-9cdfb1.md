@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.89
-prescience_obs_count: 9
+prescience_mean: 3.91
+prescience_obs_count: 11
 ---
 
 # IT Infrastructure: Are We Building Chaos or Cosmos? (CA-sponsored infrastructure keynote, 1998)
@@ -40,6 +40,7 @@ _Published 1998, author **Peter S. Kastner**, type **employer-record**._
 
 ## Top observations
 
+- US enterprises spend ~3% of revenue or value-added on IS (information systems). `[ps=5]`
 - CEO views 15% new-apps as incremental change and business driver; CFO and CIO view 85% ongoing-ops as area to be closely managed and controlled. `[ps=5]`
 - Fragmented-infrastructure-vs-consolidate tension is a recurring enterprise IT-strategy theme, not a 1998-specific concern. `[ps=5]`
 - Data warehouse identified as a specific infrastructure component warranting architectural attention. `[ps=5]`
@@ -48,6 +49,5 @@ _Published 1998, author **Peter S. Kastner**, type **employer-record**._
 - The ~85/15 ongoing-ops-vs-new-apps ratio is stable over time and will continue to characterize enterprise IT spending. `[ps=4]`
 - The 85/15 (or nearby 80/20) ongoing-ops-vs-new-apps ratio has held up remarkably well across decades (confirmed by subsequent Gartner, IDC, and Aberdeen data through the 2000s-2010s). Kastner prediction verified. `[ps=4]`
 - The chaos-vs-cosmos framing re-emerged in multiple subsequent cycles: cloud-service sprawl (2015-2020), SaaS sprawl (2018-2024), and AI-tool sprawl (2024-present). Prediction verified as a structural recurrence. `[ps=4]`
+- Increase customer satisfaction; empower fewer users; increase line access to data; increase operational flexibility; shorten application-development cycle time. `[ps=3]`
 - CA sponsored distribution of this Kastner infrastructure speech; consistent with the CA-Aberdeen retainer-era analyst-relations practice. `[ps=0]`
-- US enterprises spend ~3% of revenue or value-added on IS (information systems).
-- Increase customer satisfaction; empower fewer users; increase line access to data; increase operational flexibility; shorten application-development cycle time.

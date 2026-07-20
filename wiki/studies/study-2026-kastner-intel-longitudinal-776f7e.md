@@ -16,12 +16,12 @@ source_file: "intel_longitudinal_study_source.md"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.93
-prescience_obs_count: 75
+prescience_mean: 2.1
+prescience_obs_count: 96
 ---
 
 # Intel Corporation Across Five Decades of the Kastner Archive: Technology Emergence, Decline, and the x86 Market Calls
@@ -44,9 +44,11 @@ _Published 2026, author **Peter S. Kastner (assembled with Perplexity Computer u
 - Standardized x86 + open OS + volume economics will displace proprietary minicomputer/server architectures `[ps=5]`
 - Economics of standardized x86 architecture plus open OS would overcome proprietary minicomputers `[ps=5]`
 - x86 servers displaced most proprietary Unix and mainframe systems `[ps=5]`
+- Intel sold XScale ARM processor business to Marvell for $600M — ARM was economic-winner in mobile despite Intel x86 dominance in server `[ps=5]`
 - IA-64 never achieved mass market `[ps=5]`
 - 3.06 GHz HT P4 shipped 2002-11-14; 3.2 GHz June 2003 `[ps=5]`
 - P4 with HT became dominant Intel desktop CPU `[ps=5]`
+- Pentium 4 reached 3.6 GHz with Prescott / P4 560 June 2004 `[ps=5]`
 - Shipped EM64T in Xeon/P4 in 2004-2005 `[ps=5]`
 - Core 2 Duo Conroe July 2006, ending P4 era `[ps=5]`
 - Centrino + long battery life mainstream business laptops `[ps=5]`
@@ -54,6 +56,8 @@ _Published 2026, author **Peter S. Kastner (assembled with Perplexity Computer u
 - Intel exited smartphone modem business; sold to Apple $1B `[ps=5]`
 - Intel abandoned tick-tock model 2016; 10nm delayed multi-year — beginning of Phase 3 challenger period `[ps=5]`
 - Sold XScale ARM mobile to Marvell `[ps=5]`
+- Intel abandoned MeeGo September 2011 for Tizen with Samsung `[ps=5]`
+- Sofia/Broxton SoCs cancelled `[ps=5]`
 - Sold to Apple $1B `[ps=5]`
 - Cancelled as consumer GPU December 2009; research continued `[ps=5]`
 - Technology evolved into Xeon Phi `[ps=5]`
@@ -61,7 +65,3 @@ _Published 2026, author **Peter S. Kastner (assembled with Perplexity Computer u
 - Hardware-rooted security + remote management would become standard for enterprise PCs `[ps=5]`
 - Economics of standardized x86 architecture plus open OS would overcome proprietary minicomputers `[ps=5]`
 - Itanium will not displace x86 in server market; tracked across 17 archive observations of slippage `[ps=5]`
-- x86 + open OS + volume economics displace proprietary systems; thesis fully validated by 2005 `[ps=4]`
-- Tick-tock delivers predictable gains; mobile attempted and fails; Itanium drags; Atom doesn't scale; smartphone exit `[ps=4]`
-- Intel's cost-parity claim; never achieved `[ps=4]`
-- Rapid mainstream adoption; launched March 12 2003; mainstream by end 2003 `[ps=4]`

@@ -12,9 +12,9 @@ era: "1985-2000"
 lifecycle_at_study: "declining"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # BBS-Based Commodity Trading Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- BBS-based trading systems used to deregulate natural gas cited as IT precedent for electricity deregulation — [[study-utilities-transformed-it-696ffb]]
+- BBS-based trading systems used to deregulate natural gas cited as IT precedent for electricity deregulation `[ps=3]` — [[study-utilities-transformed-it-696ffb]]

@@ -12,9 +12,9 @@ status: "dissolved"
 successor: ""
 years_active: "2000-2005"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # ReefEdge Inc.
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Small WLAN security startup competing in adolescent market `[ps=4]` — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
 - ReefEdge dissolved circa 2005; Blue Socket offered rebates to stranded customers `[ps=0]` — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
-- Small WLAN security startup competing in adolescent market — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]

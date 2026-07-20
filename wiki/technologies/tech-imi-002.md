@@ -14,7 +14,7 @@ lifecycle_current: "dominant"
 occurrence_count: 1
 prescience_max: 5.0
 prescience_mean: 4.0
-prescience_obs_count: 3
+prescience_obs_count: 4
 ---
 
 # Object-Oriented Technology (OOT)
@@ -26,5 +26,5 @@ prescience_obs_count: 3
 
 - Java and component-based frameworks became dominant for enterprise application development by 2000s `[ps=5]` — [[study-1997-object-technology-meets-demand-mana-551c84]]
 - Objects further segment client and server sides into intelligent components that cooperatively interact on business process basis `[ps=4]` — [[study-1997-object-technology-meets-demand-mana-551c84]]
+- IS buyers must keep business revolution and technology revolution in sync simultaneously `[ps=4]` — [[study-1997-object-technology-meets-demand-mana-551c84]]
 - Object technology will deliver impressive gains in conducting business particularly for Demand Chain Management `[ps=3]` — [[study-1997-object-technology-meets-demand-mana-551c84]]
-- IS buyers must keep business revolution and technology revolution in sync simultaneously — [[study-1997-object-technology-meets-demand-mana-551c84]]

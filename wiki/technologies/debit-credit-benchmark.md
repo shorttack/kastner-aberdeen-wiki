@@ -13,8 +13,8 @@ lifecycle_at_study: "industry-defacto-standard"
 lifecycle_current: "superseded-by-TPC-A-and-TPC-C"
 occurrence_count: 6
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 12
+prescience_mean: 1.75
+prescience_obs_count: 16
 ---
 
 # Debit-Credit benchmark (DC/ET1/TP1)
@@ -33,15 +33,15 @@ prescience_obs_count: 12
 - 95th-percentile-1-second `[ps=4]` — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
 - TP1=Debit-Credit=Gray `[ps=4]` — [[study-dec-notes-tp1-debit-credit-thread-1987-1-5815dc]]
 - scope-for-artistic-interpretation `[ps=4]` — [[study-dec-notes-tp1-debit-credit-thread-1987-1-5815dc]]
+- stating-TPS-without-percentile-and-time-is-like-stereo-without-frequency-response `[ps=4]` — [[study-dec-notes-tp1-debit-credit-thread-1987-1-5815dc]]
 - Called the 'four-minute mile' of enterprise computing; every serious OLTP vendor obsessed with it; single test score could define competitive position for years. `[ps=4]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
 - A vendor could claim 500 TPS by selecting workloads that favored their architecture, excluding real-deployment overhead; every vendor won its own benchmark; customers had no trustworthy comparison basis. `[ps=4]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
 - 11 `[ps=0]` — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
+- DATAMATION-April-1985-Anon-et-al `[ps=0]` — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
 - fully-qualified-all-presentation-services-in-SUT `[ps=0]` — [[study-dec-primer-comparing-debit-credit-tests--c30cfa]]
 - use-Style-3-for-vendor-comparison `[ps=0]` — [[study-dec-primer-comparing-debit-credit-tests--c30cfa]]
 - 15 `[ps=0]` — [[study-dec-zahavi-debit-credit-vaxclusters-1988-1a9e2e]]
+- Simulates bank account transaction processing; measures TPS with 100 virtual terminals per claimed 1 TPS; requires 10,000 virtual users for 100 TPS claim; response time under one second. `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
+- Kastner had extensive debit-credit benchmark experience from Stratus vs. Tandem competitive engagements. `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
 - Kastner gained extensive debit-credit benchmark experience during his six years at Stratus, competing against Tandem in OLTP fault-tolerant markets. `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
 - DEC debit-credit cost-per-transaction <1/3 IBM mainframe cost, ~2x Tandem cost `[ps=-1]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
-- DATAMATION-April-1985-Anon-et-al — [[study-dec-debit-credit-guidelines-kohler-hsu-1-e228b4]]
-- stating-TPS-without-percentile-and-time-is-like-stereo-without-frequency-response — [[study-dec-notes-tp1-debit-credit-thread-1987-1-5815dc]]
-- Simulates bank account transaction processing; measures TPS with 100 virtual terminals per claimed 1 TPS; requires 10,000 virtual users for 100 TPS claim; response time under one second. — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
-- Kastner had extensive debit-credit benchmark experience from Stratus vs. Tandem competitive engagements. — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

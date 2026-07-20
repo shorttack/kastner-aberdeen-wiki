@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 3
 prescience_max: 4.0
-prescience_mean: 2.71
-prescience_obs_count: 7
+prescience_mean: 2.22
+prescience_obs_count: 9
 ---
 
 # Tandem ServerNet Interconnect
@@ -29,7 +29,7 @@ prescience_obs_count: 7
 - Fault tolerance and self-checking inherent to architecture `[ps=4]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
 - Fast I/O turnaround for quicker transaction response times `[ps=4]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
 - Configurable in hypercubes, meshes and trees `[ps=3]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
+- 150 terabytes per second theoretical data-connection bandwidth `[ps=1]` — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
 - Tandem-provided ServerNet message services considerably faster than Wolfpack's TCP/IP Winsock messaging; enables high-bandwidth low-latency cluster interconnect `[ps=0]` — [[study-1997-tandem-s-nonstop-software-enterprise-clustering-fo-815776]]
 - $250 million `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]
-- 32% — [[study-aberdeen-1996-risc-unix-market]]
-- 150 terabytes per second theoretical data-connection bandwidth — [[study-aberdeen-1996-tandem-vision-21st-century-electronic-business]]
+- 32% `[ps=0]` — [[study-aberdeen-1996-risc-unix-market]]

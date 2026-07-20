@@ -12,9 +12,9 @@ era: "1997-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # PeopleSoft Supply Chain Collaborator
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internet EDI complement for ad hoc supply chain planning; bi-directional buyer-supplier data exchange; available as freeware — [[study-1997-peoplesoft-works-the-internet-452445]]
+- Internet EDI complement for ad hoc supply chain planning; bi-directional buyer-supplier data exchange; available as freeware `[ps=3]` — [[study-1997-peoplesoft-works-the-internet-452445]]

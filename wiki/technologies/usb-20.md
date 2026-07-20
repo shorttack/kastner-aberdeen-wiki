@@ -12,9 +12,9 @@ era: "2000-present"
 lifecycle_at_study: "new"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # USB 2.0
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 5 USB ports, FireWire 800, gigabit Ethernet, optical digital and analog audio — [[study-dct-apple-powermac-g5-2003-06]]
+- 5 USB ports, FireWire 800, gigabit Ethernet, optical digital and analog audio `[ps=0]` — [[study-dct-apple-powermac-g5-2003-06]]

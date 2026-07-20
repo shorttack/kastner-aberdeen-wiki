@@ -16,12 +16,12 @@ source_file: "2000 Enterprise Application Integration1.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.6
-prescience_obs_count: 5
+prescience_mean: 2.8
+prescience_obs_count: 10
 ---
 
 # Enterprise Application Integration: Evolving to Meet e-Business Demands
@@ -41,12 +41,12 @@ _Published 2000, author **Tom Dwyer**, type **market-study**._
 ## Top observations
 
 - EAI market will consolidate as e-Business demands reshape supplier landscape `[ps=5]`
+- EAI and e-Commerce are the two most important CIO initiatives in the Global 2000 for 2000 `[ps=4]`
+- Convergence between e-Business Integration (eBI) and traditional EAI is reshaping best practices for the Extended Enterprise `[ps=4]`
 - EAI suppliers must evolve strategies to incorporate e-Business capabilities `[ps=4]`
 - webMethods acquired by Software AG for $546M (2007); TIBCO taken private by Vista Equity (2014); IBM MQ remained dominant `[ps=4]`
+- Cloud integration platforms (MuleSoft founded 2006; Boomi founded 2000; Dell Boomi acquired 2010) fulfilled eBI vision; MuleSoft acquired by Salesforce for $6.5B in 2018 `[ps=4]`
+- e-Commerce is the greatest challenge currently facing traditional EAI suppliers `[ps=3]`
 - 50 EAI supplier profiles in Third Edition (up from 19 in prior edition) `[ps=0]`
+- Report reviews 1998 predictions for 1999 and how they played out `[ps=0]`
 - Report priced at $2000 for 203-page market study `[ps=0]`
-- EAI and e-Commerce are the two most important CIO initiatives in the Global 2000 for 2000
-- e-Commerce is the greatest challenge currently facing traditional EAI suppliers
-- Convergence between e-Business Integration (eBI) and traditional EAI is reshaping best practices for the Extended Enterprise
-- Report reviews 1998 predictions for 1999 and how they played out
-- Cloud integration platforms (MuleSoft founded 2006; Boomi founded 2000; Dell Boomi acquired 2010) fulfilled eBI vision; MuleSoft acquired by Salesforce for $6.5B in 2018

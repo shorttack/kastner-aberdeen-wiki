@@ -13,8 +13,8 @@ lifecycle_at_study: "current"
 lifecycle_current: "legacy-supported"
 occurrence_count: 3
 prescience_max: 3.0
-prescience_mean: 0.83
-prescience_obs_count: 6
+prescience_mean: 0.71
+prescience_obs_count: 7
 ---
 
 # CA Unicenter TNG (The Next Generation)
@@ -30,6 +30,6 @@ prescience_obs_count: 6
 - 7,000+ customers `[ps=0]` — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]
 - Third-largest independent software company; $4B+ annual revenue; revenues grew from ~$1.2B to $4B in seven years `[ps=0]` — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]
 - CA acquired Digital Equipment's Polycenter management products and tightly integrated them with CA management console `[ps=0]` — [[study-1997-ca-s-unicenter-tng-framework-pk-apr-50d15f]]
+- co-leader of Framework camp `[ps=0]` — [[study-system~1-36ba8c]]
 -  — [[study-caprop1-98-5d69fd]]
 -  — [[study-caprop1-98-5d69fd]]
-- co-leader of Framework camp — [[study-system~1-36ba8c]]

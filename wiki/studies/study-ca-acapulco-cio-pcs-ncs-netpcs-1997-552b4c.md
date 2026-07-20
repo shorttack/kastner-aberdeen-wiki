@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.86
-prescience_obs_count: 7
+prescience_mean: 4.0
+prescience_obs_count: 10
 ---
 
 # PCs, NCs, and NetPCs — Where Do We Go From Here? (CA Acapulco CIO Conference 1997)
@@ -43,10 +43,10 @@ _Published 1997, author **Peter S. Kastner**, type **employer-record**._
 - Kastner's implicit framing: Wintel PC remains the default for general enterprise desktop use; NC/NetPC fit limited use cases. `[ps=5]`
 - Network Computer suited for narrow task-worker / kiosk use cases; unlikely to displace fat-client PC for knowledge workers. `[ps=5]`
 - NetPC as Microsoft/Intel compromise between PC and NC unlikely to establish a durable category. `[ps=5]`
+- Network Computer failed as a commercial category; Oracle/Sun's NC effort wound down by 2000. Kastner prediction verified. `[ps=5]`
 - NetPC failed to establish a durable commercial category; Microsoft and Intel quietly abandoned NetPC branding by 1999. Kastner prediction verified. `[ps=5]`
 - Expanded internal communications (intranets); expanded external communications (extranets); JIT supply chain; globalization eliminating distances. `[ps=4]`
+- Wintel PC remained the dominant enterprise desktop architecture through the 2000s; was later complemented (not replaced) by thin-client/VDI, Chromebooks, and web-SaaS — vindicating Kastner's 1997 framing over the decade. `[ps=4]`
+- Intranets framed as a primary desktop investment driver — consistent with actual enterprise intranet adoption 1997-2003. `[ps=4]`
 - Analyze -> Decide -> Transact -> Report framework taught as the new desktop workflow model. `[ps=3]`
 - Desktop business drivers; PC/NC/NetPC choice dilemma; Microsoft/Intel approach; Network Computing approach; where each architecture is best suited. `[ps=0]`
-- Wintel PC remained the dominant enterprise desktop architecture through the 2000s; was later complemented (not replaced) by thin-client/VDI, Chromebooks, and web-SaaS — vindicating Kastner's 1997 framing over the decade.
-- Network Computer failed as a commercial category; Oracle/Sun's NC effort wound down by 2000. Kastner prediction verified.
-- Intranets framed as a primary desktop investment driver — consistent with actual enterprise intranet adoption 1997-2003.

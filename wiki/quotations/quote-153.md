@@ -1,6 +1,7 @@
 ---
 title: Quote 153 — Computerworld (1994-07-18)
 type: quotation
+page_type: quotation
 slug: quote-153
 row_id: 153
 author: "Peter S. Kastner"

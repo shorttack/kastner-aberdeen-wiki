@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # KFC (Kentucky Fried Chicken)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Adopted Robert Chase's Cornell simulation programs for management training. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Adopted Robert Chase's Cornell simulation programs for management training. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

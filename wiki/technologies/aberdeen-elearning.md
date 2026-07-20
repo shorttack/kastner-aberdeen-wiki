@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 5
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 3
+prescience_mean: 3.2
+prescience_obs_count: 5
 ---
 
 # Aberdeen eLearning Division
@@ -29,8 +29,8 @@ prescience_obs_count: 3
 
 ## Top observations
 
+- e-Learning listed as Enhanced Practice Opportunity (Level 3-4) `[ps=4]` — [[study-2001-kickoff-content-1db48b]]
 - Analyst provides customized strategy acceleration including e-Learning-based sales training; enables sales teams to improve and shorten sales efforts `[ps=4]` — [[study-aberdeen-corporate-collateral-combined-1-9674e4]]
 - e-Learning-based sales training as part of Strategy Acceleration services `[ps=4]` — [[study-aberdeen-corporate-presentation-98680d]]
 - e-Learning-based sales training for client sales forces `[ps=4]` — [[study-aberdeen-overview-presentation-v10-29-a665b8]]
-- e-Learning listed as Enhanced Practice Opportunity (Level 3-4) — [[study-2001-kickoff-content-1db48b]]
-- Leading Telecomm Supplier; Computer Systems Supplier; E-Commerce Applications; Application supplier repositioning; four years as new-hire sales rep technology training content providers at leading software company — [[study-aberdeen-corporate-collateral-2001-v2-b4b001]]
+- Leading Telecomm Supplier; Computer Systems Supplier; E-Commerce Applications; Application supplier repositioning; four years as new-hire sales rep technology training content providers at leading software company `[ps=0]` — [[study-aberdeen-corporate-collateral-2001-v2-b4b001]]

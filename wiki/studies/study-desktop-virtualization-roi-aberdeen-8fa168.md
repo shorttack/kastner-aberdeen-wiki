@@ -16,12 +16,12 @@ source_file: "desktop virtualization ROI - Aberdeen.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 0.39
-prescience_obs_count: 18
+prescience_mean: 0.61
+prescience_obs_count: 28
 ---
 
 # Measuring the Returns from a Desktop Virtualization Program
@@ -40,28 +40,28 @@ _Published 2011, author **Dick Csaplar**, type **benchmark**._
 
 ## Top observations
 
+- Primarily operational rather than financial `[ps=4]`
 - Large enterprises primary adopters; small/mid-sized organizations just beginning `[ps=4]`
+- 60% with virtualization vs. 11% without `[ps=3]`
+- 45% with virtualization vs. 4% without `[ps=3]`
 - Expert recommendation against deploying to easiest groups first `[ps=3]`
+- 76 organizations `[ps=0]`
+- 45% `[ps=0]`
 - 80% `[ps=0]`
 - 31% `[ps=0]`
 - 34% `[ps=0]`
 - 10% of respondents (all small ops <100 employees) `[ps=0]`
 - 69% of respondents `[ps=0]`
 - 57% of respondents `[ps=0]`
+- 57% of respondents `[ps=0]`
 - 50% of respondents `[ps=0]`
 - -20.4% `[ps=0]`
+- -11.7% `[ps=0]`
 - 2.9 `[ps=0]`
+- -23.4% `[ps=0]`
 - 1.0 hours `[ps=0]`
+- 0.9 hours of work `[ps=0]`
 - 7.2 / 10 `[ps=0]`
 - 55% with virtualization vs. 11% without `[ps=0]`
 - 45% with virtualization vs. 19% without `[ps=0]`
 - 40% with virtualization vs. 7% without `[ps=0]`
-- 39% with virtualization vs. 8% without `[ps=0]`
-- >644,000 companies benchmarked over two decades `[ps=0]`
-- 76 organizations
-- 45%
-- 57% of respondents
-- -11.7%
-- -23.4%
-- 0.9 hours of work
-- 60% with virtualization vs. 11% without

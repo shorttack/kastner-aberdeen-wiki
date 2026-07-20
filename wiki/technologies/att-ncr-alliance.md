@@ -12,9 +12,9 @@ era: "1991-1996"
 lifecycle_at_study: "current-1993"
 lifecycle_current: "ended-1996-spinoff"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # AT&T-NCR Combined Operations
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- marketed as AT&T/NCR in fall 1993 brochures — [[study-oracle-att-ncr-customer-driven-seminar-t-b9f539]]
+- marketed as AT&T/NCR in fall 1993 brochures `[ps=0]` — [[study-oracle-att-ncr-customer-driven-seminar-t-b9f539]]

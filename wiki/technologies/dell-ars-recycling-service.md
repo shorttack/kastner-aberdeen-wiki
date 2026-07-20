@@ -14,7 +14,7 @@ lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Dell Asset Recover
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 4
+prescience_obs_count: 7
 ---
 
 # Dell Asset Recovery Services - Recycling
@@ -24,10 +24,10 @@ prescience_obs_count: 4
 
 ## Top observations
 
+- $49 per unit `[ps=0]` — [[study-dell-ars-white-paper-prod-7-11m-c60434]]
 - Dell ARS $395K ($79/unit) vs DIY $1.94M ($387/unit); savings $1.54M `[ps=0]` — [[study-dell-ars-white-paper-prod-7-11m-c60434]]
 - 40 units `[ps=0]` — [[study-dell-ars-white-paper-prod-7-11m-c60434]]
 - $49 per system (SKU 310-4253, ARRECBX) `[ps=0]` — [[study-dell-sd2-final-d6e78c]]
+- $49 per system (SKU 960-1838, ARRECPAL) `[ps=0]` — [[study-dell-sd2-final-d6e78c]]
 - $59 per system (SKU 960-1839, ARRECPM) `[ps=0]` — [[study-dell-sd2-final-d6e78c]]
-- $49 per unit — [[study-dell-ars-white-paper-prod-7-11m-c60434]]
-- $49 per system (SKU 960-1838, ARRECPAL) — [[study-dell-sd2-final-d6e78c]]
-- Any brand: desktops, notebooks, servers, storage, networking, monitors, printers, projectors, peripherals — [[study-dell-sd2-final-d6e78c]]
+- Any brand: desktops, notebooks, servers, storage, networking, monitors, printers, projectors, peripherals `[ps=0]` — [[study-dell-sd2-final-d6e78c]]

@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.86
-prescience_obs_count: 7
+prescience_mean: 3.73
+prescience_obs_count: 11
 ---
 
 # Desktop PCs in Decline as Notebooks Surge
@@ -44,10 +44,10 @@ _Published 2004, author **Jay Lyman, TechNewsWorld**, type **news-article**._
 - 40 percent of users will count a notebook or tablet PC as their primary device `[ps=5]`
 - This multiplicity of devices will force software vendors to focus on information synchronization as well as 'thinning' or 'roaming' applications that enable users to access their information independent of the device they are using. `[ps=5]`
 - Global notebook shipments exceeded desktop shipments for the first time in 2008 per IDC data (Q3 2008 was inflection quarter) `[ps=5]`
+- By 2007, the average user will interact regularly with at least four distinct computing devices -- a personal home PC, smart digital entertainment system, corporate computer and mobile information device `[ps=4]`
 - In the U.S., we're forecasting portables to compose 47 percent of all PC shipments in 2007 `[ps=4]`
+- worldwide PC shipments hit record numbers last quarter, driven by notebooks `[ps=4]`
+- by 2006, just 45 percent of corporate users will be primarily dependent on a desktop machine `[ps=3]`
+- By 2010, notebooks reached 70%+ of all PC shipments globally per IDC/Gartner tracking `[ps=3]`
 - 15 percent will be using thin clients or other information appliances, such as handhelds `[ps=2]`
 - trends will help move the tablet form factor into the mainstream by 2006, when one-third of all corporate notebooks will include tablet capabilities. `[ps=1]`
-- by 2006, just 45 percent of corporate users will be primarily dependent on a desktop machine
-- By 2007, the average user will interact regularly with at least four distinct computing devices -- a personal home PC, smart digital entertainment system, corporate computer and mobile information device
-- worldwide PC shipments hit record numbers last quarter, driven by notebooks
-- By 2010, notebooks reached 70%+ of all PC shipments globally per IDC/Gartner tracking

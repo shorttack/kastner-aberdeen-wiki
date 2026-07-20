@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "Oracle (2010)"
 years_active: "1982-2010"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # SunSoft (Sun Microsystems)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- NDS single sign-on spanning multiple servers and applications with unified object-based user profile — [[study-1997-novell-directory-to-the-network-str-048b05]]
+- NDS single sign-on spanning multiple servers and applications with unified object-based user profile `[ps=5]` — [[study-1997-novell-directory-to-the-network-str-048b05]]

@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.8
-prescience_obs_count: 5
+prescience_mean: 2.0
+prescience_obs_count: 7
 ---
 
 # Microsoft Spends a Bunch on Patents — But Is It Worth It?
@@ -44,6 +44,6 @@ _Published 2004, author **Kevin Maney**, type **news-column**._
 - Microsoft gets less respect and visibility for what they are doing in pure research than they deserve `[ps=4]`
 - Office and Windows remain Microsoft's long-standing moneymakers despite R&D spend `[ps=4]`
 - Xbox has not turned into a megahit despite R&D investment `[ps=1]`
+- 528 patents `[ps=0]`
 - approximately $9.5 million per patent `[ps=0]`
-- 528 patents
-- more than $5 billion
+- more than $5 billion `[ps=0]`

@@ -16,12 +16,12 @@ source_file: "Representing-Aberdeen-new-hire-2000-3.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.52
-prescience_obs_count: 29
+prescience_mean: 1.41
+prescience_obs_count: 34
 ---
 
 # How To Represent Aberdeen and Yourself (Twelve Vital Hours, Session 2)
@@ -43,6 +43,7 @@ _Published 2000, author **Peter S. Kastner / John Logan / Thomas Willmott / Aber
 - Founders wanted a name implying IT as tool for business advantage, not domain of high priests of mainframe computing `[ps=4]`
 - Experienced Aberdeen analysts have been burned: positive and negative analysis, only negative printed; quotes taken out of context; confidential info printed `[ps=4]`
 - There is a thin line between when suppliers are getting to know Aberdeen/analyst before acquiring services and when they are looking for free advice continuously `[ps=4]`
+- Try to relax them at the start by getting off the subject; talk family, hobbies, travel; say something nice; ease tension `[ps=4]`
 - PR representative: gets paid to schedule meetings; gets to keep client if analyst says nice things; may act as court reporter or take active role `[ps=4]`
 - Has never used brochures; business comes from word-of-mouth; web site is living brochure `[ps=3]`
 - Trade weeklies have a noon Thursday deadline; expect calls on Wednesday; product announcements are typically on Tuesdays `[ps=3]`
@@ -62,6 +63,5 @@ _Published 2000, author **Peter S. Kastner / John Logan / Thomas Willmott / Aber
 - Founded over 12 years ago (implies founding ~1988) `[ps=0]`
 - Multiple structured practice areas; analysts share findings at Friday staff meetings to build Aberdeen research consensus `[ps=0]`
 - Analysts share findings from practice areas at Friday staff meetings to build Aberdeen research consensus `[ps=0]`
-- Never say or imply that Aberdeen will write positive comments if a supplier becomes a client — that's extortion `[ps=0]`
-- Investors Business Daily does not like to quote individual analysts; Business Week quotes analysts on a relatively rare basis `[ps=0]`
-- Keep the session interactive; base comments on 'Aberdeen research shows...' where possible `[ps=0]`
+- Profile: objective review of supplier go-to-market strategy; Viewpoint: analyst opinion; Impact: market-effect synopsis `[ps=0]`
+- Target audience: supplier executives who do not yet know Aberdeen or whose knowledge comes from intermediaries (PR firms, press quotes) `[ps=0]`

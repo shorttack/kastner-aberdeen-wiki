@@ -1,6 +1,7 @@
 ---
 title: Quote 421 — Computerworld (2002-11-18)
 type: quotation
+page_type: quotation
 slug: quote-421
 row_id: 421
 author: "Peter S. Kastner"

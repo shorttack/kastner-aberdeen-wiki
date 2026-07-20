@@ -12,9 +12,9 @@ era: "1961-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Unisys A Series / MCP
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ClearPath A Series (MCP) customers can implement client/server at sensible pace; path to new cost-effective CMOS upgrades — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]
+- ClearPath A Series (MCP) customers can implement client/server at sensible pace; path to new cost-effective CMOS upgrades `[ps=4]` — [[study-aberdeen-1996-unisys-clears-path-a-series-os2200]]

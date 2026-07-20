@@ -12,9 +12,9 @@ era: "1997-present"
 lifecycle_at_study: "growing"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IBM DB2 Universal Database Version 5.0
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Will expand overall share particularly on IBM servers; will emerge as BI and e-commerce leader — [[study-dbmspr~1-7c854e]]
+- Will expand overall share particularly on IBM servers; will emerge as BI and e-commerce leader `[ps=4]` — [[study-dbmspr~1-7c854e]]

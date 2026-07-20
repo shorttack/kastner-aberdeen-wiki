@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 2
+prescience_mean: 2.67
+prescience_obs_count: 3
 ---
 
 # SOA Middleware Takes the Lead: Picking Up Where Web Services Leaves Off
@@ -42,4 +42,4 @@ _Published 2007, author **Perry Donham**, type **benchmark-report**._
 
 - SOA middleware picks up where raw web services leave off, providing the platform layer needed for enterprise-scale SOA `[ps=4]`
 - ESB cited as the mid-2000s enterprise integration backbone for reuse, governance, and operational management of services `[ps=4]`
-- Author: Perry Donham, Director, Enterprise Integration Research (perry.donham@aberdeen.com)
+- Author: Perry Donham, Director, Enterprise Integration Research (perry.donham@aberdeen.com) `[ps=0]`

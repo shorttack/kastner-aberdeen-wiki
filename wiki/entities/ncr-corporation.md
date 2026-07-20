@@ -13,8 +13,8 @@ successor: "Spun out of AT&T 1996; later split NCR/NCR Voyix 2023"
 years_active: "1884-present"
 occurrence_count: 21
 prescience_max: 5.0
-prescience_mean: 1.38
-prescience_obs_count: 47
+prescience_mean: 1.47
+prescience_obs_count: 58
 ---
 
 # NCR Corporation
@@ -37,15 +37,15 @@ prescience_obs_count: 47
 - NCR/Teradata became leading enterprise data warehouse platform in late 1990s; NT-based data marts proliferated broadly as predicted `[ps=4]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
 - IT decision makers primary motivation: NT enables faster competitive response than legacy mainframe `[ps=4]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
 - IS decision makers sought single standard OS platform across hardware; reduced management complexity `[ps=4]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
+- Hot-pluggable disks; RAID; dual-port memory; fault-resilient design `[ps=4]` — [[study-ncr-system-3000-model-3550-brochure-1992-b15aed]]
 - Several times mainframe performance for less cost `[ps=4]` — [[study-ncr-system-3000-model-3550-brochure-1992-b15aed]]
 - NCR offers broad compatible server coverage, strong TPC price/performance, a stable UNIX implementation, and strong vertical-market presence in retail and banking. `[ps=3]` — [[study-1995-midrange-oltp-platform-overview-pyr-44c8e4]]
+- NCR, Tandem, and Prism Solutions positioned as providers of industry-specific data warehouse templates and short-term consulting engagements `[ps=3]` — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
+- Windows NT Server 4.0 Enterprise Edition (Sept 1997) supported 8-way SMP clustering; SQL Server 7.0 (1998) supported 8+ CPUs `[ps=3]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
 - NCR became major Microsoft partner for enterprise solutions; Teradata/NT integration was commercially successful through late 1990s `[ps=3]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
 - NCR (infrastructure + consulting + industry templates) + MicroStrategy (ROLAP toolset) = 'warehouse-supplier synergy' model for enterprise Web DSS `[ps=3]` — [[study-aberdeen-1996-web-warehouses-dss-for-masses]]
 - $25,000-$45,000 low-cost fault-tolerant POS systems `[ps=3]` — [[study-computerworld-fault-tolerant-market-1987-fc3dca]]
+- Reigning monarch in decision support; WorldMark 4700 handles up to 600GB; 5150 for larger; 128-node scalability; prices now compare favorably to Unix competitors `[ps=3]` — [[study-dssune~1-cbf6e3]]
+- UNIX V.4 multiprocessor; up to 8 i486-50MHz; ~320 MIPS; 1000+ workstations `[ps=3]` — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]
 - CICS interoperability for migrating mainframe TP workloads `[ps=3]` — [[study-ncr-topend-tp-monitor-brochure-1992-eeea31]]
-- NCR to provide NT-based data mart solutions starting with NT Server 4.0; data-mart-up/down routing to Teradata `[ps=2]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NCR is an 'experienced, fail-safe choice for NT-based OLTP application deployments' `[ps=2]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NCR LifeKeeper/TOP END enabled IS to commit to enterprise-grade SLAs, including external customer-facing guarantees `[ps=2]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]
-- NCR-Independence Technologies TopEND port a milestone `[ps=2]` — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]
-- NCR smartly positioned for High Availability Transaction Processing NT market; largest installed NT site running Exchange `[ps=2]` — [[study-ntpspr~1-728dc3]]
-- AT&T-NCR + Oracle financial stability to partner for years to come; jointly forming SBUs `[ps=2]` — [[study-oracle-att-ncr-pittsburgh-seminar-letter-98b0a4]]
+- NT/SQL Server to scale to 8 CPUs with NT Server 4.0 (fall 1996); 12-16 CPUs by mid-1997 `[ps=2]` — [[study-aberdeen-1996-ncr-fail-safe-enterprise-nt]]

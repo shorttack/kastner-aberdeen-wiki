@@ -12,9 +12,9 @@ era: "1978-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Intel x86 Processor
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Intel cited as key component vendor shaping consumer PC market dynamics — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
+- Intel cited as key component vendor shaping consumer PC market dynamics `[ps=4]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]

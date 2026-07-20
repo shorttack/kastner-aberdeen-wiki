@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.8
-prescience_obs_count: 10
+prescience_mean: 2.55
+prescience_obs_count: 11
 ---
 
 # Unisys 'Benchmark Gorilla' Sets New SAP Standard on Windows- and Intel-based ES7000 Database Server
@@ -48,6 +48,6 @@ _Published 2001, author **Robert Dorin**, type **market-study**._
 - Windows and SQL Server scalability addressed by Unisys benchmark series `[ps=3]`
 - Benchmark gorilla — systematic pursuit of industry performance records to establish credibility `[ps=2]`
 - ES7000 positioned as attractive option for high-end applications given performance and reliability `[ps=2]`
+- 24000 SD concurrent users `[ps=0]`
 - 32-processor Intel-based server `[ps=0]`
 - Multiple SAP benchmarks announced by Unisys in 2001 to address scalability question `[ps=0]`
-- 24000 SD concurrent users

@@ -16,12 +16,12 @@ source_file: "Launch-BW-11-16-1981-5.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 0.56
-prescience_obs_count: 9
+prescience_mean: 0.42
+prescience_obs_count: 12
 ---
 
 # A Fail-Safe Entry That's a Bargain (Stratus Computer launch coverage)
@@ -47,8 +47,8 @@ _Published 1981, author **BusinessWeek (McGraw-Hill)**, type **trade-press-launc
 - $148,000 `[ps=0]`
 - ~$264,000 `[ps=0]`
 - >$12,000 `[ps=0]`
+- $6.7 million `[ps=0]`
+- $1.7 million `[ps=0]`
 - up to 21% faster `[ps=0]`
+- ~$10 million expected, profitable `[ps=0]`
 - ~$100 million `[ps=0]`
-- $6.7 million
-- $1.7 million
-- ~$10 million expected, profitable

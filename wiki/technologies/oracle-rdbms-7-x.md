@@ -14,7 +14,7 @@ lifecycle_current: "1992"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Oracle RDBMS 7.x
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - 20 x-times `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
+- 40 x-times `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
 - 200 x-times `[ps=0]` — [[study-aberdeen-1995-limd-technology]]
-- 40 x-times — [[study-aberdeen-1995-limd-technology]]

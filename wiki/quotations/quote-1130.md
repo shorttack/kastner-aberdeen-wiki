@@ -1,6 +1,7 @@
 ---
 title: Quote 1130 — Inc. ()
 type: quotation
+page_type: quotation
 slug: quote-1130
 row_id: 1130
 author: "Peter S. Kastner"

@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'PCI-X was superseded by PCI Express. No longer manufactured; discontinued from all modern server platforms.', 'source': 'General technology history'}"
 occurrence_count: 5
 prescience_max: 5.0
-prescience_mean: 3.5
-prescience_obs_count: 4
+prescience_mean: 2.33
+prescience_obs_count: 6
 ---
 
 # PCI-X (incl. PCI-X 2.0)
@@ -33,5 +33,5 @@ prescience_obs_count: 4
 - PCI Express (PCIe) — not IBA — became the universal server I/O bus; IBA coexisted as an external fabric rather than replacing internal I/O `[ps=5]` — [[study-infiniband-data-center-wp-2002]]
 - PCI-X doubles PCI to 1.06 GB/s at 133MHz. PCI-X 2.0 proposes 266MHz (2.1 GB/s peak) and 533MHz (4.2 GB/s peak). PCI-X 266 not in production before 2004; PCI-X 533 still in spec development. `[ps=4]` — [[study-planningforemergingindustry-6-40decb]]
 - three PCI-X I/O slots for server-grade peripherals `[ps=0]` — [[study-dct-apple-powermac-g5-2003-06]]
-- 1.06 GB/second at 133 MHz — [[study-intel-ia2004-pk4-kc-edits-de9c37]]
-- 532 MB/second (parallel PCI) — [[study-intel-infiband-wp--edit-psk-5-22f-a2c551]]
+- 1.06 GB/second at 133 MHz `[ps=0]` — [[study-intel-ia2004-pk4-kc-edits-de9c37]]
+- 532 MB/second (parallel PCI) `[ps=0]` — [[study-intel-infiband-wp--edit-psk-5-22f-a2c551]]

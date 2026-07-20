@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 3.5
-prescience_obs_count: 2
+prescience_mean: 2.25
+prescience_obs_count: 4
 ---
 
 # Analyst: 'Apple will have problems filling' G5 orders; demand 'will not impact Apple's market position'
@@ -42,5 +42,5 @@ _Published 2003, author **Wrolstad (reporter, via NewsFactor/MacDailyNews); Pete
 
 - 'Apple will have problems filling G5 orders' but demand will not materially impact overall desktop share `[ps=4]`
 - Mac buyers 'should run, not walk' to check out G5; 'arguably a performance leader' `[ps=3]`
-- USD 1,999 / 2,399 / 2,999 depending on processor speed
-- G5 heat/yield problems forced Apple-Intel transition (announced 2005, completed Aug 2006); last PowerPC Mac discontinued 2006
+- G5 heat/yield problems forced Apple-Intel transition (announced 2005, completed Aug 2006); last PowerPC Mac discontinued 2006 `[ps=2]`
+- USD 1,999 / 2,399 / 2,999 depending on processor speed `[ps=0]`

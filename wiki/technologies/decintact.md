@@ -13,8 +13,8 @@ lifecycle_at_study: "active-product"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 3
 prescience_max: 4.0
-prescience_mean: 2.33
-prescience_obs_count: 3
+prescience_mean: 1.75
+prescience_obs_count: 4
 ---
 
 # DECintact (Integrated Application Control)
@@ -27,5 +27,5 @@ prescience_obs_count: 3
 - User security profiles, terminal security profiles, and GEOG attribute provide geographic entitlement: certain functions accessible only from specific terminals (e.g., bank officer sensitive functions only at home office) `[ps=4]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
 - DECintact used in banking: data entry clerks, verify/repair application, Fedwire Xmt queue sending to Federal Reserve; demonstrates exactly-once semantics for distributed queues `[ps=3]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
 - flat-files-only-RMS-Hash `[ps=0]` — [[study-dec-zahavi-debit-credit-vaxclusters-1988-1a9e2e]]
+- 1988 `[ps=0]` — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]
 - 6 TPS (MicroVAX 3600) to 53 TPS (dual VAX 8810s) — [[study-dectp-genspark-research2-4-a09a82]]
-- 1988 — [[study-dtj-v03-01-tp-and-fault-tolerant-1991-cf078c]]

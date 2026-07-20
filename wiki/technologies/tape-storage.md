@@ -14,7 +14,7 @@ lifecycle_current: "legacy-supported"
 occurrence_count: 1
 prescience_max: 5.0
 prescience_mean: 5.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Magnetic Tape Storage
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Tape; low-speed storage; direct/SAN attached; sequential data access; removable media; low I/O performance `[ps=5]` — [[study-19-maxline-data-timeline-slide-6e6572]]
-- Off-Line Storage / Tape Library; low-speed; removable; sequential; low I/O — [[study-19-maxline-data-timeline-slide-6e6572]]
+- Off-Line Storage / Tape Library; low-speed; removable; sequential; low I/O `[ps=5]` — [[study-19-maxline-data-timeline-slide-6e6572]]

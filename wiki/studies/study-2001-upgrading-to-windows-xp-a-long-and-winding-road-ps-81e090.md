@@ -16,12 +16,12 @@ source_file: "2001 Upgrading to Windows XP_ A Long and Winding Road PSK.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.18
-prescience_obs_count: 11
+prescience_mean: 2.92
+prescience_obs_count: 12
 ---
 
 # Upgrading to Windows XP: A Long and Winding Road
@@ -51,4 +51,4 @@ _Published 2001, author **Peter S. Kastner**, type **market-study**._
 - $200 million marketing program backing Windows XP launch `[ps=0]`
 - WEP wireless LAN (Agere/ORiNOCO) tested during upgrade — driver/compatibility challenges noted `[ps=0]`
 - New XP PC costing around $1000 should be a bargain `[ps=0]`
-- WEP used as wireless security standard in tested SOHO network configuration
+- WEP used as wireless security standard in tested SOHO network configuration `[ps=0]`

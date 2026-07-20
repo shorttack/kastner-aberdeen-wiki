@@ -12,9 +12,9 @@ era: "2002-2004"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sun Project Orion
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- In development as part of Sun's cost/complexity reduction strategy — [[study-2003-a-view-of-sun-s-2003-worldwide-analyst-conference-206a10]]
+- In development as part of Sun's cost/complexity reduction strategy `[ps=0]` — [[study-2003-a-view-of-sun-s-2003-worldwide-analyst-conference-206a10]]

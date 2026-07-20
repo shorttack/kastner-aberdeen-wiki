@@ -14,7 +14,7 @@ lifecycle_current: "legacy-end-of-life"
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Bull DPS 7000
@@ -24,6 +24,6 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Kastner audited three models of Groupe Bull DPS 7000 and 6000 systems across the United States, Italy, and France. `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
 - French and Italian Groupe Bull engineers were 'impressive in their technical tenacity and their frustration when terminal emulators misbehaved at critical moments.' `[ps=0]` — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]
 -  — [[study-bull1990-d-c-benchmarks-8b5d9c]]
-- Kastner audited three models of Groupe Bull DPS 7000 and 6000 systems across the United States, Italy, and France. — [[study-volume-1-ch06-dec-mainframes-last-stand-1987-1988]]

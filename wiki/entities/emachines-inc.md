@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Gateway (2004), then Acer"
 years_active: "1998-2013"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # eMachines Inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Don't believe retailers have the inherent competency to create and manage a brand, particularly in after-sale service — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]
+- Don't believe retailers have the inherent competency to create and manage a brand, particularly in after-sale service `[ps=2]` — [[study-wsj-mcwilliams-private-label-pcs-2002-05-bdab0a]]

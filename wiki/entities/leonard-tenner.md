@@ -12,9 +12,9 @@ status: "unknown [REVIEW]"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Leonard Tenner
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- If Hewitt had followed Meta/Gartner advice to replace IBM mainframes with distributed Unix 5 years ago, we couldn't do what we're doing today — [[study-wsj-tech-watching-analyst-industry-1998-002531]]
+- If Hewitt had followed Meta/Gartner advice to replace IBM mainframes with distributed Unix 5 years ago, we couldn't do what we're doing today `[ps=3]` — [[study-wsj-tech-watching-analyst-industry-1998-002531]]

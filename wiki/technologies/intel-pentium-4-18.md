@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Intel Pentium 4 1.8 GHz
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - P4 1.8 GHz dropped below $900 in August 2002 `[ps=0]` — [[study-dct-intel-processor-prices-2003-01]]
-- new P4s pushed 1.8/2.0 GHz P4s down $150 to $900 in one month — [[study-dct-intel-processor-prices-2003-01]]
+- new P4s pushed 1.8/2.0 GHz P4s down $150 to $900 in one month `[ps=0]` — [[study-dct-intel-processor-prices-2003-01]]

@@ -13,8 +13,8 @@ successor: "Invensys (2000); SSA Global (2003); Infor (2006)"
 years_active: "1978-2003"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.33
-prescience_obs_count: 9
+prescience_mean: 2.18
+prescience_obs_count: 11
 ---
 
 # Baan Corporation
@@ -30,8 +30,8 @@ prescience_obs_count: 9
 - Process-architected application basis; portable across RDBMS platforms; Orgware models directly generate executable system `[ps=3]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
 - Orgware can create hundreds of customer-specific production-ready BAAN IV business objects; functions and workflows from process models — shorter implementation times; reduced costs `[ps=3]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
 - Technology-led vertical innovator; process-architected application basis; Orgware differentiates `[ps=2]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
+- Baan ahead in delivering flexible accessible near-realtime continuous improvement environment for vertical industry innovation `[ps=2]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
 - If Baan continues technology-led strategy it will remain among ERP market leaders a decade hence (c. 2007) `[ps=1]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
+- Not only maintained but extended technology and market position; Orgware 12-24 month lead `[ps=1]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
 - 12 to 18 months ahead `[ps=0]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
 - 18 to 24 months ahead `[ps=0]` — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
-- Baan ahead in delivering flexible accessible near-realtime continuous improvement environment for vertical industry innovation — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]
-- Not only maintained but extended technology and market position; Orgware 12-24 month lead — [[study-1997-vertical-industry-solutions-baan-leads-in-innovati-f12724]]

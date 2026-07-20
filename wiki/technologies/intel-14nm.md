@@ -12,9 +12,9 @@ era: "2014-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Intel 14nm Process
@@ -22,4 +22,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Forthcoming 14nm process 2014 — [[study-otellini-intel-techpinions-2013-917213]]
+- Forthcoming 14nm process 2014 `[ps=4]` — [[study-otellini-intel-techpinions-2013-917213]]

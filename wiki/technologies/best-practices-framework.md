@@ -14,7 +14,7 @@ lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 4.0
 prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Best Practices Frameworks
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Captured architectural decisions, org structures, vendor selections, and PM approaches from successful deployments as reusable frameworks `[ps=4]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
 - Best practices frameworks represented knowledge management before that term became fashionable — systematic capture and reuse of insights across a larger analyst population. `[ps=4]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
-- Captured architectural decisions, org structures, vendor selections, and PM approaches from successful deployments as reusable frameworks — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]

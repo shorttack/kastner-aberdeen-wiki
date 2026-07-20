@@ -16,12 +16,12 @@ source_file: "1997 Intelligent I_O Initiative_ Scaling Bandwidth for System Perf
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "low"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.46
-prescience_obs_count: 13
+prescience_mean: 2.67
+prescience_obs_count: 15
 ---
 
 # Intelligent I/O Initiative: Scaling Bandwidth for System Performance
@@ -43,9 +43,11 @@ _Published 1997, author **James Gruener / Aberdeen Group**, type **Executive Whi
 - I2O failed to achieve broad adoption; I2O SIG dissolved; standard abandoned by early 2000s `[ps=5]`
 - I2O-Ready never became a mainstream procurement criterion; label disappeared from server specifications by 2002 `[ps=5]`
 - PCI bus bandwidth is insufficient for high-performance server I/O workloads `[ps=5]`
+- Windows 2000 included limited I2O support but it was not widely used; Windows XP/Server 2003 effectively dropped I2O `[ps=5]`
 - IA-64 (Itanium) failed to achieve mainstream server adoption; I2O IA-64 relevance never materialized `[ps=5]`
 - PCI-Express (PCIe) released 2004 with dramatically higher bandwidth; solved problem I2O tried to address `[ps=4]`
 - Novell NetWare 5 (1998) included I2O support and was the primary OS where I2O achieved any adoption `[ps=4]`
+- Demand for device driver portability and intelligent distributed I/O processing drives I2O development `[ps=3]`
 - I2O will be an important functional capability for servers in the near future `[ps=1]`
 - Acquiring I2O-Ready should be a requirement for IS planners upgrading OS or buying new Intel servers `[ps=1]`
 - Windows OS upgrades cited as I2O adoption driver; next releases or service patches will support I2O `[ps=1]`
@@ -53,5 +55,3 @@ _Published 1997, author **James Gruener / Aberdeen Group**, type **Executive Whi
 - Leading Intel server suppliers now shipping I2O-Ready products `[ps=0]`
 - Steering committee includes 3Com Compaq HP Intel Microsoft NetFRAME Novell Symbios Logic `[ps=0]`
 - I2O separates OS-specific Module Service Module (OSM) from device Hardware Device Module (HDM) `[ps=0]`
-- Demand for device driver portability and intelligent distributed I/O processing drives I2O development
-- Windows 2000 included limited I2O support but it was not widely used; Windows XP/Server 2003 effectively dropped I2O

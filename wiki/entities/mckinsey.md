@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1926-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # McKinsey & Company
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- McKinsey had advised IE on strategic options — the consulting engagement preceded and informed the Andersen IT engagement — [[study-kastner-ie-v-andersen-expert-report-3de98a]]
+- McKinsey had advised IE on strategic options — the consulting engagement preceded and informed the Andersen IT engagement `[ps=0]` — [[study-kastner-ie-v-andersen-expert-report-3de98a]]

@@ -16,12 +16,12 @@ source_file: "Casale EVP-5.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.0
-prescience_obs_count: 16
+prescience_mean: 0.9
+prescience_obs_count: 21
 ---
 
 # Hypergrowth Balance Sheets - Neglected Stepchildren?
@@ -44,11 +44,16 @@ _Published 1983, author **Charles T. Casale**, type **market-study**._
 - Balance sheets neglected by Wall Street and company management; P/E focus dominates `[ps=4]`
 - Numbers are useful but not to the degree of precision that some wish; comparison of original vs restated figures reveals limitations `[ps=4]`
 - Inventory = 40 cents/dollar (cost); Receivables = $1.00/dollar (revenue); three inventory categories vs one receivables category; 10-Q required for detail `[ps=3]`
+- Continued receivables/balance sheet deterioration expected if Cost Push mode persists `[ps=3]`
+- Actual revenue $478M vs plan $460M; +4% above plan; 56% YoY growth `[ps=0]`
+- EPS $2.75 actual vs $2.75 plan; zero variance `[ps=0]`
 - Actual receivables $190M vs plan $146M; +30% above plan `[ps=0]`
 - 90 days `[ps=0]`
 - Q1: 102 days; Q2: 107 days; Q3: 113 days; Q4: 123 days `[ps=0]`
 - $500M `[ps=0]`
 - $320M (common stock $200M + retained earnings $120M) `[ps=0]`
+- $180M (notes to banks $3M, AP $47M, accrued $40M, deferred taxes $35M, LT debt $55M) `[ps=0]`
+- 60% (inventory carried at 40 cents on the sales dollar) `[ps=0]`
 - Steady 100-102 days under balanced shipment plan `[ps=0]`
 - Considerably less than 100 days (precise figure not stated) `[ps=0]`
 - Under 90 days `[ps=0]`
@@ -56,8 +61,3 @@ _Published 1983, author **Charles T. Casale**, type **market-study**._
 - Receivables quality unchanged; stated increase is presentation artifact `[ps=0]`
 - EVP 1-5 focused on hypergrowth phenomenon; series is aperiodic, issued in response to current investor interest topics `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
-- Actual revenue $478M vs plan $460M; +4% above plan; 56% YoY growth
-- EPS $2.75 actual vs $2.75 plan; zero variance
-- $180M (notes to banks $3M, AP $47M, accrued $40M, deferred taxes $35M, LT debt $55M)
-- 60% (inventory carried at 40 cents on the sales dollar)
-- Continued receivables/balance sheet deterioration expected if Cost Push mode persists

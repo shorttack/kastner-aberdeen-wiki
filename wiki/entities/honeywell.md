@@ -12,9 +12,9 @@ status: "active"
 successor: "Bull / NEC (1991)"
 years_active: "1955-1991"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Honeywell Information Systems
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- John Morgridge was ex-Honeywell before joining Stratus as VP Sales and Marketing. — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]
+- John Morgridge was ex-Honeywell before joining Stratus as VP Sales and Marketing. `[ps=0]` — [[study-volume-1-ch05-stratus-fault-tolerant-wars-1981-1987]]

@@ -1,6 +1,7 @@
 ---
 title: Quote 1099 — AP ()
 type: quotation
+page_type: quotation
 slug: quote-1099
 row_id: 1099
 author: "Peter S. Kastner"

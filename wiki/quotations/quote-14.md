@@ -1,6 +1,7 @@
 ---
 title: Quote 14 — Computerworld (1989-03-13)
 type: quotation
+page_type: quotation
 slug: quote-14
 row_id: 14
 author: "Peter S. Kastner"

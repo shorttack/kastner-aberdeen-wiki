@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.92
-prescience_obs_count: 13
+prescience_mean: 2.87
+prescience_obs_count: 15
 ---
 
 # Microsoft: The Joker of Enterprise IS Computing
@@ -44,14 +44,14 @@ _Published 1997, author **John R. Logan**, type **executive-viewpoint**._
 - BackOffice bundle discontinued ca. 2002; individual products (Exchange, SQL Server, SharePoint) became enterprise standards in their own right; but Oracle/SAP remained dominant for ERP/database; 'all-Microsoft enterprise' vision partially realized but not the mainframe/Unix wholesale replacement claimed `[ps=5]`
 - Enterprise IS market in 1997: Unix servers dominant at high end; AS/400 strong in mid-market; mainframes in financial services/government; NT growing at workgroup/departmental level `[ps=5]`
 - Microsoft's transition under Satya Nadella (2014+) from Windows-centric to cloud-first acknowledged the DNA problem Logan identified; Azure, Office 365, Teams eventually resolved the enterprise cultural gap; Microsoft became a $3T company by 2024 with enterprise cloud as core `[ps=5]`
+- Microsoft has done a superlative job of meeting users' needs and requirements for desktop computing `[ps=4]`
 - Mainframes, Unix servers, AS/400s are characterized as production-quality enterprise platforms; Microsoft products are not yet in this category `[ps=4]`
 - Microsoft's marketing message: NT Server and BackOffice ready to replace mainframes, Unix servers, AS/400s and every other enterprise-level production-quality platform `[ps=3]`
 - Microsoft's historical desktop orientation is not directly transferable to enterprise IS computing `[ps=3]`
 - Business unit executives and IS professionals should collaborate to build consensus on where AND where NOT to use Microsoft products beyond the desktop `[ps=3]`
 - Microsoft as 'Joker' in enterprise IS — wildcard that can disrupt but not reliably deliver; desktop excellence does not equal enterprise IS competence `[ps=2]`
+- Aberdeen research has yet to discover enterprises, including Microsoft itself, with history of successfully running mission-critical applications on Microsoft's products `[ps=1]`
 - Microsoft does not demonstrate understanding of or commitment to: planning, support, product compatibility, and management requirements of senior enterprise IS executives `[ps=1]`
 - Aberdeen helps clients understand why Microsoft's desktop orientation is not transferable to enterprise IS; intended to help executives build consensus on where/where not to use Microsoft beyond desktop `[ps=1]`
 - Implicit prediction: Microsoft's desktop-oriented culture will impede enterprise IS adoption; enterprises should carefully scope where Microsoft is appropriate beyond desktop `[ps=1]`
 - Executive Viewpoint series, Volume 10/Number 20; VP-level Aberdeen publication targeting enterprise IS strategy `[ps=0]`
-- Microsoft has done a superlative job of meeting users' needs and requirements for desktop computing
-- Aberdeen research has yet to discover enterprises, including Microsoft itself, with history of successfully running mission-critical applications on Microsoft's products

@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.62
-prescience_obs_count: 13
+prescience_mean: 3.15
+prescience_obs_count: 20
 ---
 
 # IBM's Solution-Centric Global Healthcare Industry Practice - Just What the Doctor Ordered
@@ -41,22 +41,22 @@ _Published 1997, author **Aberdeen Group**, type **viewpoint**._
 ## Top observations
 
 - IBM sold Watson Health data/analytics products for ~$1B after $5B investment; 7000 staff at peak `[ps=5]`
+- IBM spun out managed infrastructure services as Kyndryl in 2021 `[ps=5]`
+- Dragon Medical (Nuance) became market leader; IBM MedSpeak discontinued `[ps=5]`
 - HITECH Act 2009 mandated EHR meaningful use; Epic and Cerner dominated market `[ps=5]`
 - 3 factors: understaffed IS, ISV credibility gap, care-provider organizational transition `[ps=4]`
 - Positive: reduces radiology report turnaround from days to minutes `[ps=4]`
 - Addresses critical pharma need; streamlines data collection, decreases time-to-market `[ps=4]`
 - Provider directory, member services, health info, nurse line e-mail for plan members `[ps=4]`
+- Platform + services integrator positioning; compete via ISV partnerships not solo product `[ps=4]`
+- Country-management structure replaced with 11 vertical industry groups including Global Healthcare `[ps=4]`
+- Majority of healthcare IS on proprietary mainframe/minicomputer; client-server not yet on all cylinders `[ps=4]`
+- Combination of EIS, benchmark analytics, clinical performance tracking with APM consulting `[ps=4]`
 - ISVs will derive 20-40% of revenue from services to succeed `[ps=3]`
+- IBM predicted to sustain healthcare leadership role via services + partner ecosystem `[ps=3]`
 - Notes-based system providing immediate secure access to high-risk patient data `[ps=3]`
 - CIOs reluctant to work with ISVs; do not want to double a startup's revenues `[ps=2]`
 - $15.9 billion `[ps=0]`
 - 24.8% YoY increase `[ps=0]`
 - 200+ employees `[ps=0]`
 - ~450 physicians linked in health network covering ~half of state covered lives `[ps=0]`
-- IBM predicted to sustain healthcare leadership role via services + partner ecosystem
-- IBM spun out managed infrastructure services as Kyndryl in 2021
-- Dragon Medical (Nuance) became market leader; IBM MedSpeak discontinued
-- Platform + services integrator positioning; compete via ISV partnerships not solo product
-- Country-management structure replaced with 11 vertical industry groups including Global Healthcare
-- Majority of healthcare IS on proprietary mainframe/minicomputer; client-server not yet on all cylinders
-- Combination of EIS, benchmark analytics, clinical performance tracking with APM consulting

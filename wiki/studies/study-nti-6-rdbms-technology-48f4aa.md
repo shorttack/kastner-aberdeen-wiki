@@ -16,12 +16,12 @@ source_file: "NTI 6 RDBMS technology.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 21
+prescience_mean: 2.1
+prescience_obs_count: 30
 ---
 
 # RDBMS Report Card
@@ -43,25 +43,25 @@ _Published 1993, author **Peter S. Kastner, John Logan, Thomas Willmott**, type 
 - IS executives changing from hardware-oriented to software-platform-oriented decision criteria `[ps=5]`
 - Primary software platform for enterprise IS infrastructure; unifies mainframe, midrange, and desktop `[ps=4]`
 - Can support 99.99% of all real-world OLTP applications `[ps=4]`
+- First time Oracle demonstrated true technical leadership `[ps=4]`
+- Oracle best-in-class; none lacking `[ps=4]`
 - Oracle indisputable best-in-class `[ps=4]`
 - Continued divergence among leading suppliers in approaching client-server marketplace over next 5 years `[ps=4]`
+- Business maturity + technical leadership will help Oracle gain ever greater share in 1993 `[ps=4]`
 - RDBMS technology provides true competitive advantages to enterprises with skill and determination to master it `[ps=4]`
 - Aggressive MS-Windows client support; best-in-class client-server dev tools `[ps=3]`
+- Challenge Oracle for enterprise-class RDBMS leadership; gateways, replication server, network admin `[ps=3]`
 - Software AG, Informix, Oracle lead; none lacking for 95%+ of applications `[ps=3]`
 - Informix and Ingres best; Progress least capable `[ps=3]`
+- Unix RDBMS standard; champion of speed and portability; VAR tool of choice at low end `[ps=2]`
 - 25% of revenues invested in R&D `[ps=2]`
+- Sybase and Ingres best-in-class; Progress lacking `[ps=2]`
+- Oracle best-in-class in open interfaces; truly committed to openness `[ps=2]`
 - Ingres, Oracle, Informix all best-in-class; none lacking `[ps=2]`
 - Aberdeen recommends new IBM CEO focus on RDBMS as top product priority immediately `[ps=2]`
 - Worst-in-class across all platforms (DB2, QS/400, OS/2 Data Manager) `[ps=1]`
 - Ingres best-in-class; all others far behind `[ps=1]`
 - Reduces application development code by up to 35% `[ps=0]`
 - Over $1.2 billion `[ps=0]`
-- $300+ million (public company) `[ps=0]`
-- $80 million `[ps=0]`
-- All major vendors implementing; no single implementation stands out `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- Market leader; largest installed base
-- First time Oracle demonstrated true technical leadership
-- Approximately $250 million
-- Challenge Oracle for enterprise-class RDBMS leadership; gateways, replication server, network admin
+- Market leader; largest installed base `[ps=0]`
+- Approximately $250 million `[ps=0]`

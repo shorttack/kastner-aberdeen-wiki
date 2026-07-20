@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.12
-prescience_obs_count: 17
+prescience_mean: 3.36
+prescience_obs_count: 22
 ---
 
 # Professional Services Automation: Increasing Efficiencies and Profitability in Professional Services Organizations
@@ -41,14 +41,19 @@ _Published 1999, author **David Hofferberth**, type **market-study**._
 ## Top observations
 
 - End-to-end project lifecycle tracking from proposal to delivery `[ps=5]`
+- Connecting project delivery to billing and revenue recognition `[ps=5]`
 - Engineering firms and advertising agencies as PSA targets `[ps=5]`
 - PSA vendor targeting consulting firms and IT organizations `[ps=5]`
 - Acquired by Computer Associates (CA Technologies) for $350M in 2005 `[ps=5]`
 - PSA market projected to grow through 2003 with significant efficiency gains `[ps=4]`
 - PSA solutions have same potential for services orgs that MRP/ERP had for manufacturing `[ps=4]`
+- Core PSA function automating professional time recording and expense reporting `[ps=4]`
 - Matching staff skills to project requirements across the organization `[ps=4]`
+- IT consulting and systems integration firms as primary PSA target `[ps=4]`
 - Law firms and legal services organizations as PSA target `[ps=4]`
 - IT resource management and PSA platform for enterprise IT departments `[ps=4]`
+- Enterprise portfolio and resource planning for IT and professional services `[ps=4]`
+- ERP giant extending project/services capabilities to compete in PSA `[ps=4]`
 - SAP competing in PSA via PS (Professional Services) module in R/3 `[ps=4]`
 - PSA market will consolidate as larger ERP and specialist vendors acquire smaller players `[ps=4]`
 - Acquired by Compuware for $100M in April 2004 `[ps=4]`
@@ -57,8 +62,3 @@ _Published 1999, author **David Hofferberth**, type **market-study**._
 - Report contains competitive landscape and buyer selection guide for PSA purchasing decisions `[ps=0]`
 - 14 comprehensive profiles plus 10 additional PSA solution providers identified `[ps=0]`
 - PSA/PPM market matured into standard enterprise software category; Gartner covers as distinct Magic Quadrant `[ps=-1]`
-- Core PSA function automating professional time recording and expense reporting
-- Connecting project delivery to billing and revenue recognition
-- IT consulting and systems integration firms as primary PSA target
-- Enterprise portfolio and resource planning for IT and professional services
-- ERP giant extending project/services capabilities to compete in PSA

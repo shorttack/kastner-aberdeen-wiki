@@ -16,12 +16,12 @@ source_file: "Consumer-PC-Deals-7.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.12
-prescience_obs_count: 17
+prescience_mean: 1.0
+prescience_obs_count: 19
 ---
 
 # Why Aberdeen Is Following Consumer PC Deals — DCT Practice Methodology
@@ -51,11 +51,11 @@ _Published 2002, author **Peter S. Kastner**, type **dct**._
 - Makes sense for high-end Pentium 4 only `[ps=0]`
 - 56Kb standard `[ps=0]`
 - 10/100 Ethernet standard `[ps=0]`
+- 40GB entry / 80GB multimedia `[ps=0]`
 - 19 inch flat-panel 'to die for' `[ps=0]`
 - $50 and up `[ps=0]`
 - List - rebates + shipping (ex-sales tax) `[ps=0]`
 - Adjusted several times per week `[ps=0]`
+- Six coupons low-side for store purchase `[ps=0]`
 - No head-to-head competition `[ps=0]`
 - Open research question (post-Compaq merger) `[ps=0]`
-- 40GB entry / 80GB multimedia
-- Six coupons low-side for store purchase

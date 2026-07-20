@@ -16,12 +16,12 @@ source_file: "10IBMiss.docx"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 26
+prescience_obs_count: 30
 ---
 
 # Ten Issues for IBM Mainframe MIS Executives

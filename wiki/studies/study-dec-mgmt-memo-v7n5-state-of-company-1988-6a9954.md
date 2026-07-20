@@ -16,12 +16,12 @@ source_file: ""
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.55
-prescience_obs_count: 40
+prescience_mean: 1.71
+prescience_obs_count: 48
 ---
 
 # MGMT MEMO Volume 7, Number 5 — Digital's State of the Company Meeting
@@ -44,13 +44,18 @@ _Published 1988, author **Digital Equipment Corporation (Richard Seltzer, editor
 - Market surveys are a serious danger; customers only want what they have seen; that's not where new ideas come from `[ps=4]`
 - Seven times more commercial computing users than technical users; DEC must win commercial desktop business while keeping technical users `[ps=4]`
 - 90-95% of TP actions must complete in 1-2 seconds; systems are 'bet your business' applications requiring near-zero downtime `[ps=4]`
+- Digital Distributed Transaction Architecture: front-end (stimulus capture/forms), transaction server (monitor), resource manager (database); fully distributed in network `[ps=4]`
 - High availability VAXcluster reduces downtime to minutes per year vs tens of hours for standalone VAX 8700; achieved via redundant processors and shadowed databases `[ps=4]`
 - Tandem is recognized TP leader with magnificent marketing; offers low-cost high-performance expandable TP and good distributed relational DB; but proprietary language/OS and narrow TP focus `[ps=4]`
+- EasyNet: one network, 445 locations, 32 countries, 28000 computers, 80000 users; same network for end-user computing, production computing, and software development `[ps=4]`
 - One Company One Strategy One Message — Leading the Way to Enterprise-Wide Computing `[ps=3]`
 - MS-DOS, OS/2, IBM SNA, Cray supercomputing, and Apple Macintosh named as non-DEC architecture targets for NAS `[ps=3]`
 - Converting an IBM PC-AT to run OS/2 may cost as much as $8000 (per Computerworld March 7 issue) `[ps=3]`
 - Common user interface + common programming interface + X Windows industry standard + quick delivery — four-part workstation software strategy `[ps=3]`
+- Over 50 internal software projects implementing DECwindows applications; hundreds of active users; training hundreds of external developers `[ps=3]`
+- Distributed TP architecture will cover range from 16 transactions per second (low end) to hundreds of TPS (high end); distribution of stimulus capture + transaction server + DB access `[ps=3]`
 - The mainframe terminal-network model is becoming economically as well as technologically obsolete; mainframe business is not growing; cost of networking rising while distributed computing cost falls `[ps=3]`
+- VMS is more modern than Unix — 12 years old vs Unix 19 years old; VMS designed for the whole job to last almost forever `[ps=2]`
 - Sell VMS and Unix (ULTRIX) with equal enthusiasm; they are not equal but serve different purposes `[ps=2]`
 - Analysts predicted death of terminals replaced by PCs — that didn't happen; terminals remain preferred for many applications; shipping 500000+ terminals this year `[ps=2]`
 - DEC became fastest-growing workstation vendor in industry FY1988; surpassed Sun Microsystems growth rate; leaped over Apollo to number two position `[ps=2]`
@@ -58,10 +63,5 @@ _Published 1988, author **Digital Equipment Corporation (Richard Seltzer, editor
 - DEC announced joint development with Apple; bringing Apple desktop systems into DEC enterprise-wide computing environment; 'just one part of our approach' `[ps=2]`
 - As DECwindows becomes a de facto standard... the environment will become that much more productive `[ps=2]`
 - Digital is a leader in transaction processing with enterprise-wide networking and VAXcluster family; DECtp announced as major product initiative `[ps=2]`
+- Simple goal: be number one in distributed production systems; eventually replace mainframes as DEC systems become better at handling large jobs `[ps=2]`
 - IBM has major mainframe TP market share but multiple OS/TP/DB/network systems, highest cost of ownership, and no distributed TP products today `[ps=2]`
-- In the 1990s most people will need enterprise-wide computing; DEC will be the leader and primary vendor; will be ready with world's best networking, most useful software environment, best desktop products `[ps=2]`
-- Strengthen position relative to IBM and assume leadership role in enterprise-wide information systems `[ps=1]`
-- OSI networking standards will replace IBM SNA as enterprise networking standard; SNA described as closed, complex, hierarchical — not meeting real needs `[ps=1]`
-- Only company that can integrate TP, office, decision support and timesharing in a single environment; widest range of systems without software changes `[ps=1]`
-- IBM TP software only works on mainframe — not on PCs or workstations; users doing end-user computing and TP need two sets of devices and two networks `[ps=1]`
-- 120000+ `[ps=0]`

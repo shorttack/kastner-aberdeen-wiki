@@ -16,12 +16,12 @@ source_file: "IBM RS6000 MIDRAN~1.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.77
-prescience_obs_count: 26
+prescience_mean: 1.81
+prescience_obs_count: 31
 ---
 
 # RS/6000 RDBMS Sales Training
@@ -46,22 +46,22 @@ _Published 1995, author **Peter S. Kastner**, type **benchmark**._
 - Alpha/NT looks like a rosy future but lacks 1995 revenues to sustain the company `[ps=5]`
 - Partially confirmed — Alpha/NT had brief success but DEC acquired by Compaq 1998; Alpha discontinued by HP 2004 `[ps=5]`
 - Oracle acquires RDB and installed base; Oracle and Digital increasing strategic commitments; Oracle is LIMD database `[ps=4]`
+- Expect RS/6000 growth to continue in 1995 as datacenter managers experiment with RS/6000 Tier-2 surround strategies `[ps=4]`
 - Partially confirmed — SP2 had moderate commercial success; IBM shifted to Linux clusters and BladeCenter `[ps=4]`
 - IBM professional services orgs help customers implement RISC/UNIX-based open client-server computing `[ps=3]`
 - Complex decision support, LAN server consolidation, OLTP; 380 ISV promises to port RDBMSs and applications `[ps=3]`
+- HP is mainframe alternative leader and trusted supplier for Unix transition; 3 years as Top Gun; getting arrogant and sloppy `[ps=3]`
 - Failure to properly manage Teradata for big customers resulted in backlash and opened data warehousing/complex DSS opportunities `[ps=3]`
 - RS/6000 with DB2 is neither the fastest nor least expensive option; RDBMS ISVs fear IBM will switch customers to low-priced DB2 `[ps=3]`
+- Confirmed — PowerPC 601 was first-gen with known limitations; IBM rapidly improved with Power2/Power3; RS/6000 line thrived `[ps=3]`
 - Real-world scalability of applications very poor on all Sun workstations and servers; Solaris transition problems in 1994 `[ps=1]`
 - $10 billion `[ps=0]`
 - 19% `[ps=0]`
 - $2 billion `[ps=0]`
+- 52% `[ps=0]`
 - $200 million `[ps=0]`
+- 45% `[ps=0]`
 - $4.5 billion `[ps=0]`
 - 60% `[ps=0]`
 - 3% `[ps=0]`
 - 150% `[ps=0]`
-- ~$2.5 billion (~20% of company) `[ps=0]`
-- 35% to 50% decline `[ps=0]`
-- 10% `[ps=0]`
-- ~$1.1 billion (~20% of Sun) `[ps=0]`
-- ~$4.2 billion `[ps=0]`

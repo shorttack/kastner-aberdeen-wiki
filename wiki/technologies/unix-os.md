@@ -14,7 +14,7 @@ lifecycle_current: "legacy-supported"
 occurrence_count: 2
 prescience_max: 4.0
 prescience_mean: 4.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Unix (commercial variants)
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- R&D project underway to port Sapiens to Unix; requires rewriting runtime kernel from IBM assembler to C/C++ `[ps=4]` — [[study-1992-sapiens-and-metadata-0608b6]]
 - Successfully ported to Unix and then to client-server; eventually to web-based and SaaS delivery `[ps=4]` — [[study-1992-sapiens-and-metadata-0608b6]]
 - Unix occupying high-end server market that Linux is predicted to displace `[ps=4]` — [[study-2001-linux-is-on-the-move-up-6bf089]]
-- R&D project underway to port Sapiens to Unix; requires rewriting runtime kernel from IBM assembler to C/C++ — [[study-1992-sapiens-and-metadata-0608b6]]

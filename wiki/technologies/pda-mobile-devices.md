@@ -12,9 +12,9 @@ era: "1993-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Personal Digital Assistants (PDAs) and Mobile Devices
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Growing role for PDAs and mobile in CRM field operations and data access — [[study-1999-managing-customers-with-next-generation-software-a-a5adc4]]
+- Growing role for PDAs and mobile in CRM field operations and data access `[ps=5]` — [[study-1999-managing-customers-with-next-generation-software-a-a5adc4]]

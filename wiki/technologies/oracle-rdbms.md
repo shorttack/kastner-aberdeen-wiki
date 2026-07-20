@@ -11,10 +11,10 @@ vendor: "Oracle Corporation"
 era: "1979-present"
 lifecycle_at_study: "industry-standard"
 lifecycle_current: "still-shipping"
-occurrence_count: 5
+occurrence_count: 6
 prescience_max: 5.0
-prescience_mean: 2.12
-prescience_obs_count: 16
+prescience_mean: 2.17
+prescience_obs_count: 18
 ---
 
 # Oracle Database (RDBMS)
@@ -30,6 +30,7 @@ prescience_obs_count: 16
 ## Top observations
 
 - Object-relational databases did NOT displace Oracle RDBMS `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle's core RDBMS franchise is the single most durable technology asset in the Kastner archive — surviving four decades of predicted displacement events with zero confirmed market exits `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]
 - Oracle RDBMS remained dominant enterprise database through 2026 `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
 - Oracle held approximately 35% of RDBMS market revenue 1993 `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
 - Kastner 1993 RDBMS Report Card graded Oracle7 as market leader across performance / portability / SQL compliance / developer tools `[ps=4]` — [[study-2026-kastner-oracle-longitudinal]]
@@ -40,9 +41,9 @@ prescience_obs_count: 16
 - InterOffice gains value from integration with Oracle RDBMS, ConText, video services, and OLAP. `[ps=2]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - NoSQL databases will erode Oracle's enterprise RDBMS dominance by 2015 `[ps=2]` — [[study-2026-kastner-oracle-longitudinal]]
 - Object-relational databases (ODBMS) will displace relational by 2000 `[ps=1]` — [[study-2026-kastner-oracle-longitudinal]]
+- Working with John Logan, the author negotiated simultaneously with HP ('here's a Sun conquest on a platter') and Oracle ('here's a Sybase conquest on a platter'), securing hardware and database at ten basis points over the federal GSA catalog price — the lowest price in the USA. `[ps=0]` — [[study-2026-kastner-database-decade-rdbms]]
 - 215 `[ps=0]` — [[study-2026-kastner-oracle-longitudinal]]
 - ~60 observations 1988–2026 `[ps=0]` — [[study-2026-kastner-oracle-longitudinal]]
 - Oracle Database and cloud services revenue approximately $20B annually as of FY2026 `[ps=0]` — [[study-2026-kastner-oracle-longitudinal]]
 - Leading RDBMS supplier evaluated in DORS buying guide `[ps=0]` — [[study-aberdeen-1996-distributed-open-rdbms-buying-guide]]
 - Oracle Corporation 1991 `[ps=0]` — [[study-aberdeen-open-online-transaction-process-ea272f]]
-- Oracle's core RDBMS franchise is the single most durable technology asset in the Kastner archive — surviving four decades of predicted displacement events with zero confirmed market exits — [[study-2026-kastner-oracle-longitudinal]]

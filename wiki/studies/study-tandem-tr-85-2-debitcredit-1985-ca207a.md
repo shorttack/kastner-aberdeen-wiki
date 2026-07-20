@@ -16,12 +16,12 @@ source_file: "A-Measure-of-Transaction-Processing-Power-Tandem-85.2-4.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.57
-prescience_obs_count: 7
+prescience_mean: 2.82
+prescience_obs_count: 11
 ---
 
 # A Measure of Transaction Processing Power (Tandem Technical Report 85.2)
@@ -40,14 +40,14 @@ _Published 1985, author **Anon et al (Jim Gray and ~24 TP-industry co-authors; T
 
 ## Top observations
 
+- Simple interactive transaction processing application used to define TPS throughput measure `[ps=5]`
 - Transactions Per Second — standard throughput metric defined to enable cross-vendor comparison `[ps=5]`
 - Whetstones, MIPS, MegaFLOPS, GigaLIPS all focus on CPU — they do not capture TP-system features `[ps=5]`
+- Paper predicts standard TPS metric will aid system pricing, sales, and purchase `[ps=5]`
 - Transaction Processing Performance Council formed 1988; TPC-A standardized DebitCredit-style benchmark published 1989 `[ps=5]`
+- Measures system input/output performance via elapsed batch time `[ps=3]`
 - Bulk-data-movement utility benchmark measuring I/O `[ps=3]`
 - Five-year capital cost of system equipment exclusive of communications lines, terminals, development and operations `[ps=0]`
 - 'Anon et al' — two dozen people active in transaction processing including academics, vendors, and users `[ps=0]`
+- Condensed version published in Datamation April 1, 1985 `[ps=0]`
 - Kastner (then at Stratus) used ET-1/TP-1 as the standard Stratus-vs-Tandem price/performance comparison framework — see 1986 ET1-vs-TP1 dossier `[ps=0]`
-- Simple interactive transaction processing application used to define TPS throughput measure
-- Measures system input/output performance via elapsed batch time
-- Paper predicts standard TPS metric will aid system pricing, sales, and purchase
-- Condensed version published in Datamation April 1, 1985

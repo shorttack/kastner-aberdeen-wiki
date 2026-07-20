@@ -16,12 +16,12 @@ source_file: "1996 Frame Relay Access Devices pr.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.12
-prescience_obs_count: 17
+prescience_mean: 2.0
+prescience_obs_count: 18
 ---
 
 # Frame Relay Access Devices
@@ -52,9 +52,9 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Enterprises with SNA traffic >40% or performance-sensitive SNA will benefit greatly from FRADs over routers; routers far less efficient at SNA traffic handling `[ps=2]`
 - Single consistent FRAD product line for enterprise data interconnect; TurboFRAD (branch), OmniFRAD (hub), NetFRAD (carrier); Matrix VC switching architecture `[ps=0]`
 - RFC 1490 FRAD: 9 bytes/frame; TCP/IP SDLC encapsulation (router): 70 bytes; DLS (router): 50 bytes. Routers consume 50%+ of SNA frame at peak loading. `[ps=0]`
+- One customer moved from 'maybe 5 users' with prior FRAD to 10x increase using OmniFRAD RISC architecture `[ps=0]`
 - Standard 4 ports; max 8 ports; routes IP/IPX; RFC 1490; flash storage; 1 Ethernet or Token Ring LAN `[ps=0]`
 - Standard 2 T-1 or 4 serial; max 22 T-1 or 96 serial; carrier solution; 2 hard drives; 2 Ethernet and/or Token Ring `[ps=0]`
 - Only FRADs using all available bandwidth of frame relay line; local SNA acknowledgment reduces WAN load; transparent backup reroutes around network failures `[ps=0]`
 - Private/hybrid frame relay edge switch with backbone switch capabilities plus multiprotocol FRAD and routing functions; SNMP-managed via OmniView on HP OpenView `[ps=0]`
 - IBM and Netlink have nationwide service agreement enabling quick response for SNA network customers; Anixter as global SI partner `[ps=0]`
-- One customer moved from 'maybe 5 users' with prior FRAD to 10x increase using OmniFRAD RISC architecture

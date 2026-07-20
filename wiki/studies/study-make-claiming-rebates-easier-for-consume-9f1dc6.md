@@ -16,12 +16,12 @@ source_file: "Make-claiming-rebates-easier-for-consumers-Consumer-Reports-7.weba
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 2
+prescience_mean: 1.5
+prescience_obs_count: 4
 ---
 
 # Make claiming rebates easier for consumers (CA SB 1154 support letter)
@@ -41,6 +41,6 @@ _Published 2004, author **Shelley Curran (Consumers Union / Consumer Reports); P
 ## Top observations
 
 - Consumers forget about rebates, miss documentation deadlines, or don't submit all required materials `[ps=4]`
+- Mail-in rebates gradually replaced by instant rebates, automatic cashback, and point-of-sale discounts through 2010s `[ps=2]`
+- Approximately 40% (cited in surrounding advocacy literature; letter context) `[ps=0]`
 - Consumers Union urges CA Gov to sign SB 1154 (Figueroa) to simplify rebate claims `[ps=0]`
-- Approximately 40% (cited in surrounding advocacy literature; letter context)
-- Mail-in rebates gradually replaced by instant rebates, automatic cashback, and point-of-sale discounts through 2010s

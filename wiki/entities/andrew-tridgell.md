@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Andrew Tridgell
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Andrew Tridgell (original Samba author) is a Linuxcare guru — [[study-linuxcare-ab95f6]]
-- Andrew Tridgell (original Samba author) employed as Linux guru at Linuxcare — [[study-linuxcare-profile-1999]]
+- Andrew Tridgell (original Samba author) is a Linuxcare guru `[ps=0]` — [[study-linuxcare-ab95f6]]
+- Andrew Tridgell (original Samba author) employed as Linux guru at Linuxcare `[ps=0]` — [[study-linuxcare-profile-1999]]

@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.22
-prescience_obs_count: 9
+prescience_mean: 3.45
+prescience_obs_count: 11
 ---
 
 # Silicon Graphics Origin Servers: A Highly Scalable Product With Potential For The Enterprise
@@ -40,8 +40,10 @@ _Published 1997, author **Aberdeen Group (Wayne Kernochan)**, type **market-stud
 
 ## Top observations
 
+- Improvements in IS support and service required for enterprise acceptance `[ps=5]`
 - SGI filed Chapter 11 bankruptcy in May 2006; failed to overcome workstation-culture and enterprise support barriers; commodity Linux/Intel clusters displaced high-end Unix workstations `[ps=5]`
 - SGI beginning all-out push to focus on enterprise-scale business customers; improving IS support/service; customizing for vertical markets (financial/telecom) `[ps=4]`
+- SGI must overcome its technical-workstation culture to succeed in enterprise commercial markets `[ps=4]`
 - Scalability is the key constraint for data-intensive competitive-advantage solutions; server hardware becoming the bottleneck `[ps=4]`
 - SGI recognizing increasing shift from technical/workstation revenues to commercial revenues; beginning enterprise push `[ps=4]`
 - Highly scalable with high-bandwidth bus; VLM and complex-data support; strong TPC-C benchmark results `[ps=3]`
@@ -49,5 +51,3 @@ _Published 1997, author **Aberdeen Group (Wayne Kernochan)**, type **market-stud
 - SGI particularly strong in financial and telecommunications verticals; customization for these markets underway `[ps=2]`
 - SGI servers could become attractive alternative for high-end data warehouses, web servers, and ORDBMS applications if cultural and support barriers are overcome `[ps=2]`
 - Recent barnburner TPC-C benchmark result cited as proof of commercial-scale performance `[ps=2]`
-- SGI must overcome its technical-workstation culture to succeed in enterprise commercial markets
-- Improvements in IS support and service required for enterprise acceptance

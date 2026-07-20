@@ -12,9 +12,9 @@ era: "1980s-"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Molecular Modeling
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Discover $30-100K (intro 8/86), Insight $40K (intro 8/86) on VAX/E&S/Sun/SGI; 15% annual maintenance — [[study-conflicting-trends-computational-chemistry-fe5c31]]
+- Discover $30-100K (intro 8/86), Insight $40K (intro 8/86) on VAX/E&S/Sun/SGI; 15% annual maintenance `[ps=0]` — [[study-conflicting-trends-computational-chemistry-fe5c31]]

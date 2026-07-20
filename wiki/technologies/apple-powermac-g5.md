@@ -13,8 +13,8 @@ lifecycle_at_study: "new"
 lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 5
+prescience_mean: 1.67
+prescience_obs_count: 6
 ---
 
 # Apple Power Mac G5
@@ -29,4 +29,4 @@ prescience_obs_count: 5
 - supports up to 8 GB DDR-400 SDRAM `[ps=0]` — [[study-dct-apple-powermac-g5-2003-06]]
 - $3998 configured Power Mac G5 (dual 2GHz, 512MB, 160GB SATA, SuperDrive, ATI 9800 Pro, 17in Studio Display) `[ps=0]` — [[study-dct-apple-powermac-g5-2003-06]]
 - single-processor 1.6 GHz, no monitor, starts at $1999 `[ps=0]` — [[study-dct-apple-powermac-g5-2003-06]]
-- enterprise Mac users should benchmark work files on G5 — [[study-dct-apple-powermac-g5-2003-06]]
+- enterprise Mac users should benchmark work files on G5 `[ps=0]` — [[study-dct-apple-powermac-g5-2003-06]]

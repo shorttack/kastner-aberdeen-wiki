@@ -12,9 +12,9 @@ era: "2002-2005"
 lifecycle_at_study: "new"
 lifecycle_current: "discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # ViewSonic NextVision N6
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- PC-HDTV bridge economical alternative to Samsung 42in plasma — [[study-dct-kastner-wish-list-2002-12]]
+- PC-HDTV bridge economical alternative to Samsung 42in plasma `[ps=2]` — [[study-dct-kastner-wish-list-2002-12]]

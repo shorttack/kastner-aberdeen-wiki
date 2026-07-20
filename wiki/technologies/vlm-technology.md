@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 6
+prescience_mean: 3.89
+prescience_obs_count: 9
 ---
 
 # VLM (Very Large Memory) Technology
@@ -28,8 +28,8 @@ prescience_obs_count: 6
 - 10-100x performance improvement for in-memory database operations over non-VLM systems `[ps=5]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
 - VLM technology extends high-performance database to broader enterprise applications; orders-of-magnitude improvements achievable `[ps=5]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
 - VLM enables ultra-high-performance OLTP by keeping hot data in main memory `[ps=5]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
+- In-memory databases (SAP HANA 2011, Redis, Memcached, VoltDB) became mainstream; Aberdeen's directional prediction proved accurate `[ps=4]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
 - VLM enables effective end-user access to larger databases with complex queries `[ps=4]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
 - 32-bit architectures address less than 1GB main memory; 64-bit Alpha increases addressable memory by several orders of magnitude `[ps=3]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
-- VLM costs less than adding another system or solid-state disk; boosts topped-out SMP systems — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
-- In-memory databases (SAP HANA 2011, Redis, Memcached, VoltDB) became mainstream; Aberdeen's directional prediction proved accurate — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
-- VLM delivers competitive advantage for ERP including SAP R/3 at medium enterprise scale — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
+- VLM costs less than adding another system or solid-state disk; boosts topped-out SMP systems `[ps=2]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]
+- VLM delivers competitive advantage for ERP including SAP R/3 at medium enterprise scale `[ps=2]` — [[study-aberdeen-1996-software-ag-digital-high-performance-solutions]]

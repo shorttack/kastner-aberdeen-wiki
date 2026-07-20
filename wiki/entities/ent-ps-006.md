@@ -12,9 +12,9 @@ status: "Acquired"
 successor: "Computer Associates (CA) 1999"
 years_active: "1987-1999"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # PLATINUM technology inc.
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- PLATINUM PR/MVS and R&O Rochade repositories exchange metadata via CDIF — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
+- PLATINUM PR/MVS and R&O Rochade repositories exchange metadata via CDIF `[ps=2]` — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]

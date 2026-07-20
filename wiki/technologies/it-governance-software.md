@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # IT Governance Software
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- bulk of market needs considerable education on IT governance — [[study-hp-mercury-soa-2006-pdf-80785e]]
-- Aberdeen recommended IT governance as requirement for successful enterprise SOA strategy — [[study-hp-mercury-soa-2006-pdf-80785e]]
+- Aberdeen recommended IT governance as requirement for successful enterprise SOA strategy `[ps=4]` — [[study-hp-mercury-soa-2006-pdf-80785e]]
+- bulk of market needs considerable education on IT governance `[ps=3]` — [[study-hp-mercury-soa-2006-pdf-80785e]]

@@ -16,12 +16,12 @@ source_file: "Intel-fail-quote-psk-1994-USA-Today-2.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.11
-prescience_obs_count: 9
+prescience_mean: 1.82
+prescience_obs_count: 11
 ---
 
 # Intel May Get Chip on Its Shoulder (USA Today on IBM-Intel Pentium FDIV battle)
@@ -46,8 +46,8 @@ _Published 1994, author **Kevin Maney (USA Today)**, type **trade-press-feature*
 - industry will get bloodied `[ps=2]`
 - once every 27,000 years `[ps=2]`
 - 1 in 100 million `[ps=2]`
+- once per 24 days `[ps=1]`
 - negative `[ps=0]`
 - seconds vs 15 minutes recalc daily `[ps=0]`
+- down 2% closing $60.625, 16M shares traded `[ps=0]`
 - you can always contrive situations `[ps=0]`
-- once per 24 days
-- down 2% closing $60.625, 16M shares traded

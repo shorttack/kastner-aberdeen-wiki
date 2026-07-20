@@ -12,9 +12,9 @@ era: "1994-2001"
 lifecycle_at_study: "Active"
 lifecycle_current: "Discontinued (evolved into IBM Informix IDS)"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Informix Dynamic Scalable Architecture (DSA)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DSA enables intelligent sharing of resource-intensive tasks between RDBMS and OLAP — [[study-1997-informix-metacube-4.0--relational-o-23491d]]
+- DSA enables intelligent sharing of resource-intensive tasks between RDBMS and OLAP `[ps=4]` — [[study-1997-informix-metacube-4.0--relational-o-23491d]]

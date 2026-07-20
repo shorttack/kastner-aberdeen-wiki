@@ -3,7 +3,7 @@ title: "Open Online Transaction Processing: An Enterprise Manager's Guide"
 slug: "study-aberdeen-open-online-transaction-process-ea272f"
 page_type: "study"
 tags: ["type/study", "collection/vendor-funded-aberdeen-paper-fragment"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "aberdeen-open-online-transaction-process-ea272f"
 author: "Peter S. Kastner (Aberdeen Group), funded by NCR Corporation"
@@ -16,12 +16,12 @@ source_file: "NCR-1991-title-page-11.docx + NCR-1991-sources-10.docx"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 9
+prescience_max: 5.0
+prescience_mean: 0.45
+prescience_obs_count: 11
 ---
 
 # Open Online Transaction Processing: An Enterprise Manager's Guide
@@ -40,6 +40,8 @@ _Published 1991, author **Peter S. Kastner (Aberdeen Group), funded by NCR Corpo
 
 ## Top observations
 
+- Commercial Client-Server Applications: Entering the Mainstream `[ps=5]`
+- Aberdeen Group, Inc. `[ps=0]`
 - NCR-funded `[ps=0]`
 - Online TP Into the 1990s: The Hardware Suppliers `[ps=0]`
 - Evaluating Options in Microprocessor Multiprocessing `[ps=0]`
@@ -49,5 +51,3 @@ _Published 1991, author **Peter S. Kastner (Aberdeen Group), funded by NCR Corpo
 - On-Line Transaction Processing in Open Systems `[ps=0]`
 - Oracle Corporation 1991 `[ps=0]`
 - Aberdeen Group 1990 `[ps=0]`
-- Aberdeen Group, Inc.
-- Commercial Client-Server Applications: Entering the Mainstream

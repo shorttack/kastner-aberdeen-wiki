@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.26
-prescience_obs_count: 31
+prescience_mean: 2.38
+prescience_obs_count: 45
 ---
 
 # Enterprise Information Integration: The New Way to Leverage E-information (Second Edition)
@@ -43,6 +43,7 @@ _Published 2003, author **Aberdeen Group**, type **employer-record**._
 - EAI market: $2.2B (2002), $2.6B (2003 projected), $3.0B (2004 projected) `[ps=4]`
 - Content management market: $1.2B (2002), $1.6B (2003 projected), $2.0B (2004 projected) `[ps=4]`
 - Slight web site disadvantage can cause 10-20% of installed base to walk away even in early e-commerce era `[ps=4]`
+- For every $1 spent on EII software licenses, $1.25 to $1.50 spent on professional services for implementation `[ps=4]`
 - Web-servicized EII solution can provide easier access by other Web services to local, remote, and cross-company data `[ps=4]`
 - Wide array of ETL tools from Compuware, Data Junction, ETI, Sybase, TIBCO, and webMethods; applicable as base technology for wide variety of information aggregation needs `[ps=4]`
 - All major enterprise database suppliers offer extensive data warehousing support: IBM, Microsoft, Oracle, Sybase, plus NCR-Teradata `[ps=4]`
@@ -50,18 +51,17 @@ _Published 2003, author **Aberdeen Group**, type **employer-record**._
 - EII visibility grown dramatically over last year, especially due to IBM's announcement of Information Integrator products `[ps=4]`
 - EII typically lacks persistence technology; combination of EII and ODS is better than either separately for data-store size and performance; EII/mid-tier ODS enables 'have it your way' architecture `[ps=4]`
 - IT buyers should assess existing information aggregation tools, supplement where necessary, create long-range plan to use EII as ongoing effort to amass metadata about all enterprise data sources `[ps=4]`
+- Suppliers should implement full-fledged information aggregation tool set combining data migration, replication/ETL, data warehouse, ODS, and EII tools with guidance on when to use each `[ps=4]`
 - EII today is project-specific, seeking to simplify developer interfaces; portals, web services making cross-database queries as initial EII implementations `[ps=4]`
+- EII will form part of larger information aggregation market delivering tools for strategic information management over next 2 years `[ps=4]`
 - EII projected to grow to $250M+ market within 2 years if major hardware/database suppliers successfully enter market `[ps=3]`
+- EII to become key technology in $7.5 billion market as incorporated in portal, EAI, BI, and BPI solutions `[ps=3]`
+- Database administration costs now dominate TCO of applications below 500-user level and continue to increase in importance for all sizes `[ps=3]`
 - EII is now a market separate from EAI and ETL; distinction driven by need to integrate information across enterprise as strategic infrastructure decision `[ps=3]`
+- Business benefit of EII increases exponentially with successive integration of each related application and database `[ps=3]`
 - Aberdeen expects all EII suppliers to wrap transactions in XML within next 2 years (by 2005) `[ps=3]`
+- EII solutions provide specific value-add to enterprise portal upgrades by enabling cross-database data and transactions, simplifying developer job `[ps=3]`
+- Distinct EII market exists, beginning 'high-end user per-project' stage; driven by need to rationalize multiple database access to cut admin costs and leverage cross-database proprietary information `[ps=3]`
 - Idea of enterprise operational data store pioneered by Unisys; now generally accepted across industry `[ps=3]`
+- Six enabling technologies for EII in 2003: application servers, Java, XML, database administration technologies, enterprise portals, and Web services `[ps=3]`
 - Many EII suppliers have experience in data integration and data warehouse ETL; ETL tools recently appeared in offerings of EII suppliers `[ps=3]`
-- EII enables three high-priority e-business initiatives: CRM, e-business integration across supply chain, and web-based employee productivity applications `[ps=3]`
-- EII can serve as focal point for gathering unprecedented amount of metadata about enterprise proprietary information; potential for cross-data-source administration `[ps=3]`
-- MetaMatrix is Cadillac of EII solutions — comprehensive features, developer/admin support, sophisticated cross-database application development `[ps=2]`
-- Progress Corp: ObjectStore XML database (mid-tier ODS), PeerDirect InnerEdge/OuterEdge replication (ETL/migration), SonicMQ XML messaging, OpenEdge embedded infrastructure — combination covers multiple EII-related categories `[ps=2]`
-- EII suppliers establishing alliances with Big Five PSOs (Andersen Consulting, Deloitte & Touche, Ernst & Young, KPMG, PricewaterhouseCoopers) and HP and Sun `[ps=2]`
-- IBM EII revenue estimate: $60 million (2003 projected) `[ps=0]`
-- Business Objects EII revenue estimate: $15 million (2003 projected) `[ps=0]`
-- MetaMatrix EII revenue estimate: $10 million (2003 projected) `[ps=0]`
-- Venetica EII revenue estimate: $7-10 million (2003 projected) `[ps=0]`

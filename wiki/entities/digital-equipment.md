@@ -13,8 +13,8 @@ successor: "Acquired by Compaq 1998; then HP 2002"
 years_active: "1957-1998"
 occurrence_count: 23
 prescience_max: 5.0
-prescience_mean: 1.05
-prescience_obs_count: 59
+prescience_mean: 1.09
+prescience_obs_count: 66
 ---
 
 # Digital Equipment Corporation (DEC)
@@ -33,9 +33,11 @@ prescience_obs_count: 59
 - Digital not yet out of restructuring woods; has yet to establish critical mass for long-term viability; Alpha/NT looks rosy but lacks 1995 revenues to sustain `[ps=5]` — [[study-ibm-rs6000-midran~1-88f049]]
 - Alpha/NT looks like a rosy future but lacks 1995 revenues to sustain the company `[ps=5]` — [[study-ibm-rs6000-midran~1-88f049]]
 - Partially confirmed — Alpha/NT had brief success but DEC acquired by Compaq 1998; Alpha discontinued by HP 2004 `[ps=5]` — [[study-ibm-rs6000-midran~1-88f049]]
+- 50% throughput increase; 3x price-performance improvement `[ps=4]` — [[study-1992-tpc-benchmarks-vp-ed0e0d]]
 - Digital TruCluster with Oracle 7.3 may provide highest throughput of any UNIX platform including Sagister; but Digital has not developed datacenter operational capabilities `[ps=4]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - VAX 8830 (1988 best) $1,800K vs VAX 3100-80 (1992 entry) $280K — 85% decline in 3.5 years for 27 tps with relational database (TPC-A-like) `[ps=4]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
 - DECnet's distributed peer model contrasted with SNA's hierarchical mainframe-centric model `[ps=4]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- Digital Equipment exemplifies shared disk failover architecture `[ps=4]` — [[study-ft-mitfor~1-a56a9d]]
 - Oracle acquires RDB and installed base; Oracle and Digital increasing strategic commitments; Oracle is LIMD database `[ps=4]` — [[study-ibm-rs6000-midran~1-88f049]]
 - Digital Equipment Corporation acquired by Compaq for $9.6B; VAXcluster technology phased out `[ps=3]` — [[study-1996-sequent-38f0b1]]
 - Rick Case (DEC): VAX 8830 nearly matches IBM 3090 Model 200E TP throughput at ~1/5 the cost `[ps=3]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
@@ -45,7 +47,5 @@ prescience_obs_count: 59
 - TruClusters: new clustering + MPP technology on AlphaServer; not quad-based `[ps=3]` — [[study-sequent-s-numa-q-2000-solutions-77a77c]]
 - Aggressive pricing to TPC p/p; cost per TPS stable as performance rises; rationalizes VAX pricing; VAX 6640 actually lower cost than 6410 `[ps=3]` — [[study-tpcbench92-139998]]
 - VAX 8830 SMP RAMP-C TP throughput approaches IBM 3090 Model 200E `[ps=2]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
+- #4 NT; Alpha maintained 10-50% performance lead over Intel for floating-point NT workstations `[ps=2]` — [[study-workst~1-d22401]]
 - Kastner: DEC has <5% of TP market today, projected to triple by 1990s `[ps=1]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
-- Kastner predicts DEC TP share will triple from <5% to ~15% by early 1990s on the strength of VAX/ACMS `[ps=1]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
-- DEC becomes the preferred TP vendor in the 1990s (Aberdeen Group / Logan, 1988) `[ps=1]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]
-- ACMS captures meaningful TP monitor share in the 1990s as VAX TP workloads scale `[ps=1]` — [[study-dec-blue-monday-internal-sales-training-dectp-vs-ibm-0021cc]]

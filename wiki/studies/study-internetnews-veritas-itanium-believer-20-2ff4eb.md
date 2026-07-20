@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.33
-prescience_obs_count: 6
+prescience_mean: 1.14
+prescience_obs_count: 7
 ---
 
 # VERITAS a Believer in Itanium
@@ -46,4 +46,4 @@ _Published 2004, author **Clint Boulton**, type **news-article**._
 - Running Linux on Intel Itanium platform will become wildly successful `[ps=1]`
 - Some 400 applications have been certified on the architecture `[ps=0]`
 - VERITAS extended support for Intel Itanium 2 platform on Red Hat Linux 3.0 `[ps=0]`
-- Dell announced PowerEdge 7250 high-end 4-way Itanium server
+- Dell announced PowerEdge 7250 high-end 4-way Itanium server `[ps=0]`

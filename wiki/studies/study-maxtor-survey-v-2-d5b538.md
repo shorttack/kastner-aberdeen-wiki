@@ -16,12 +16,12 @@ source_file: "Maxtor Survey.v.2.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.05
-prescience_obs_count: 22
+prescience_mean: 0.97
+prescience_obs_count: 30
 ---
 
 # Maxtor RAMP Disk Storage Usage Questionnaire v2
@@ -45,23 +45,23 @@ _Published 2003, author **Peter S. Kastner; David Hill (Aberdeen Group)**, type 
 - Q10: Has your current storage supplier discussed low-cost disk options with you? (Supplier name?) `[ps=4]`
 - Q16: Five specific backup failure modes — offline window / job failure rate / cannot guarantee restore / management burden / restore time too long `[ps=4]`
 - Q9(a) states cost reduction ""on the order of 50%"" for higher-capacity / less-available option `[ps=4]`
+- Survey deployed Q1 2003 — implies ATA adoption was at near-zero baseline in enterprise; survey measures inflection point readiness `[ps=4]`
 - Q8: What percent of total storage is the read-only/seldom-written data? `[ps=3]`
+- Q1 and Q4.3 treat Unix, Linux, and 'open systems' as a single category `[ps=2]`
+- Telephone survey questionnaire — version 2; refined and streamlined from v1 `[ps=0]`
+- Q4.1-Q4.3: Per-OS capacity share / DAS-SAN-NAS mix / 12-month growth / max fill rate — separately for mainframe / Windows / Unix `[ps=0]`
 - Q4.2 and Q4.3 use identical structure; both excluded from mainframe category `[ps=0]`
 - Q5: Online disk copies (excluding original) / tape copies (each generation = one copy) `[ps=0]`
 - Q7: What applications fall under the read-only/seldom-written category? (Open-ended) `[ps=0]`
+- Q9: Rate willingness to trade off on 3 scenarios (1=unwilling to tradeoff; 7=sign me up today) `[ps=0]`
 - Q9(a): Higher capacity + slightly less performance + slightly less availability + ~50% cost reduction `[ps=0]`
 - Q9(b): Current disk sizes + current performance + slightly less availability + ~30% cost reduction `[ps=0]`
+- Q9(c): Current disk size + current performance + current availability + ~30% cost reduction `[ps=0]`
+- Q11: If yes [vendor discussed low-cost options] — plans to purchase in next 12 months (1=Not at all; 7=Already have) `[ps=0]`
 - Q12: How often do you restore one or more volumes from storage failure — weekly / monthly / quarterly / semi-annually / annually / less than annually `[ps=0]`
 - Q14: Single applications with very large non-volatile/static data — video data / images / data warehouse detailed / old e-mails `[ps=0]`
 - Q15: SCSI / FC / ATA percentage + drive sizes + rotational speeds — open-systems disk arrays only `[ps=0]`
+- Q17: Active archiving / online archiving / mezzanine storage / nearline storage / low-cost storage — all five tested `[ps=0]`
 - Q9's three scenarios implicitly test whether midline is a substitute (Scenario C) or complement (Scenarios A/B) for existing storage `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - Survey jumps from Q12 to Q14 — Q13 missing or removed in v2 revision `[ps=0]`
-- Q10 asks for supplier name when vendor has discussed low-cost disk — competitive intelligence design `[ps=0]`
-- [UNVERIFIED] `[ps=0]`
-- Q4.1(d) / Q4.2(d) / Q4.3(d): Maximum desired fill rate per OS platform `[ps=0]`
-- Q17 tests both 'active archiving' and 'online archiving' as separate terms `[ps=0]`
-- Q9 lower anchor 1 = 'unwilling to tradeoff' — not 'very unwilling' or 'strongly disagree' `[ps=0]`
-- Telephone survey questionnaire — version 2; refined and streamlined from v1
-- Q4.1-Q4.3: Per-OS capacity share / DAS-SAN-NAS mix / 12-month growth / max fill rate — separately for mainframe / Windows / Unix
-- Q9: Rate willingness to trade off on 3 scenarios (1=unwilling to tradeoff; 7=sign me up today)

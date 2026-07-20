@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.56
-prescience_obs_count: 9
+prescience_mean: 1.7
+prescience_obs_count: 10
 ---
 
 # Solving the Needs of Integrated Contact Centers with Hewlett-Packard Smart Contact
@@ -42,6 +42,7 @@ _Published 1997, author **Hugh Bishop (Aberdeen Group)**, type **market-study**.
 
 - Integrated solutions centers increasingly viewed as critical piece in achieving highest customer service levels `[ps=4]`
 - HP takes collaborative approach combining best-of-breed partner software with its own CCM `[ps=3]`
+- HP exited contact center software market in early 2000s; Smart Contact discontinued; HP restructured and divested software units `[ps=3]`
 - Collaborative best-of-breed: HP provides CCM plus partner ecosystem with single point of contact for CIS deployment `[ps=2]`
 - HP's CCM is the most important element; partner software integrated around HP's proprietary middleware layer `[ps=2]`
 - User organizations turning to HP when building customer-focused contact centers for competitive advantage `[ps=2]`
@@ -49,4 +50,3 @@ _Published 1997, author **Hugh Bishop (Aberdeen Group)**, type **market-study**.
 - Unique combination of advanced middleware + professional services + hardware + networking + partner software `[ps=0]`
 - HP split into HP Inc. (hardware/printing) and Hewlett Packard Enterprise (services/enterprise technology) in November 2015 `[ps=0]`
 - Organizations forging closer customer relationships must consistently provide highest levels of service and support `[ps=0]`
-- HP exited contact center software market in early 2000s; Smart Contact discontinued; HP restructured and divested software units

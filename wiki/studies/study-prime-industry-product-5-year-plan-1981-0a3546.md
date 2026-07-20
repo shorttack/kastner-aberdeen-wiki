@@ -16,12 +16,12 @@ source_file: "prime_industry_product_5_year_plan_1981-2.md (pp.1-16); prime_5yr_
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.17
-prescience_obs_count: 35
+prescience_mean: 2.0
+prescience_obs_count: 45
 ---
 
 # Prime Computer — Industry Product Requirements Plan (Five-Year Plan, July 1981, COMPANY CONFIDENTIAL)
@@ -48,6 +48,7 @@ _Published 1981, author **Peter Kastner & Others — Prime Computer Inc., Market
 - 'Gateway to industry standard local networks like IEEE and Ethernet' as Other Communications requirement. `[ps=5]`
 - Computational, Timesharing/Program Development, CAD/CAM, Office Automation, Transaction Processing, Query (DB & Batch), Prime Information (small business) `[ps=4]`
 - 'Stand-alone TP system sold to small and medium companies will require applications packages and support such that we recommend a channel of distribution strategy using system builders and dealers.' `[ps=4]`
+- 'The user interface to PRIMOS bothers a number of customers in different vertical markets. We have lost business because of ease-of-use issues. We are often second rated to DEC VAX.' `[ps=4]`
 - $8,000-$10,000 1984 entry level; full networking and Prime host access; benchmarked vs. Xerox 820 / AM Jacquard / AMX 90 / Apollo Domain / Three Rivers PERQ / Convergent `[ps=4]`
 - 'Prime's excellent communications capabilities can be enhanced so that Prime provides a computer which translates one word processor's communications to what is understandable by another vendor's word processor, facilitating the movement of documents in the many organizations with mixed vendor's equipment. We recommend that Prime pursue this niche.' `[ps=4]`
 - Direct sales to medium/large/major petroleum; system builders/dealers/joint marketers for small/medium; segments prioritized: production (oil & gas accounting), refining, exploration, R&D, OA. `[ps=4]`
@@ -57,11 +58,10 @@ _Published 1981, author **Peter Kastner & Others — Prime Computer Inc., Market
 - 'The OA product has been plagued with several problems: stability, low word processing functionality, lack of networking and ease of use.' `[ps=3]`
 - 'We usually only see one competitor when computational timesharing is called for, albeit that competitor is DEC's VAX' `[ps=3]`
 - (1) Marketing & Development aligned with corporate strategies; (2) Prime can make-or-buy needed products; (3) Feature prioritization is iterative; (4) Market Planning lacks expertise/charter for full functional product specs; (5) Development timing & resource limits ignored; (6) Defining what is needed, not necessarily what is feasible. `[ps=3]`
+- Acquired by Unisys 1988; standalone reference workstation supplanted by IBM PC and Sun. `[ps=3]`
+- 'A cross-market requirement exists for realtime features. Competitively, DEC has specified a trivial realtime requirements as a means of forcing out Prime.' `[ps=3]`
+- 'DEC will remain the competitive benchmark indefinitely, and we see the competition increasing in intensity as DEC broadens its product line and matures its software.' `[ps=2]`
 - 'Prime offers price benefits over mainframes, functionality and communications benefits over stand-alone workstations, and performance benefits over networked micros.' `[ps=2]`
 - 'Avoid competing with large mainframes for core application business. Niche market in bank administration, personal computing, timesharing and communications capabilities. OA can make us unique. Sell to large banks in money market cities in the U.S. and Europe.' `[ps=2]`
 - 1. FORTRAN; 2. COBOL; 3. Pascal; 4. PL/I; 5. BASIC; 6. RPG; 7. C; 8. Ada; 9. APL et al. `[ps=2]`
-- 'We do not foresee significant corporate revenue streams from TP at Fortune 1000-type firms before 1984' — slow but progressive growth from pilots `[ps=1]`
-- Acquired by HP 1989; Domain workstation line wound down — Prime never effectively competed. `[ps=1]`
-- 217.0 `[ps=0]`
-- 1193.1 `[ps=0]`
-- 81% of $1,458M corporate goal (forecast) `[ps=0]`
+- 'Consider developing an emulator for IBM's TSO. Would strengthen Prime's mainframe offload strategy by making IBM interactive programmers instantly productive on Prime.' `[ps=2]`

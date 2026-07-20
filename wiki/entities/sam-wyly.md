@@ -12,9 +12,9 @@ status: "deceased-by-this-corpus [REVIEW]"
 successor: ""
 years_active: "1960s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Sam Wyly
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- CA stock underperforming; Wang/Kumar enriched themselves; CA employees alienated; CA customers disaffected — [[study-eweek-ca-team-victorious-proxy-fight-200-c424f4]]
+- CA stock underperforming; Wang/Kumar enriched themselves; CA employees alienated; CA customers disaffected `[ps=4]` — [[study-eweek-ca-team-victorious-proxy-fight-200-c424f4]]

@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.88
-prescience_obs_count: 67
+prescience_mean: 1.69
+prescience_obs_count: 95
 ---
 
 # Chapter 6: Digital Equipment Corporation — The Mainframe's Last Stand (1987–1988)
@@ -48,12 +48,15 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 - VAX architecture was 'magnificent — one of the great minicomputer designs ever produced.' But the battle DEC was winning (mini vs. mainframe) was not the defining war of the 1990s. `[ps=5]`
 - Ken Olsen, DEC's founder, famously resisted Unix, workstations, and x86 architecture throughout the late 1980s and early 1990s. `[ps=5]`
 - 'The mainframe had not been the last stand, it turned out. It was the second-to-last stand.' — referring to VAX/minicomputer era as the actual last stand before x86 dominance. `[ps=5]`
+- Aberdeen spent much of the next decade documenting 'the collapse of the proprietary minicomputer era and the rise of the open, standards-based, x86-dominated enterprise infrastructure.' `[ps=5]`
+- Online Transaction Processing was 'still an IBM mainframe franchise' for banking, insurance, retail, and financial services as of 1987. `[ps=4]`
 - The SNA Tax: hidden overhead in IBM's mainframe architecture costing enterprise customers millions of dollars they couldn't see. `[ps=4]`
 - Called the 'four-minute mile' of enterprise computing; every serious OLTP vendor obsessed with it; single test score could define competitive position for years. `[ps=4]`
 - A vendor could claim 500 TPS by selecting workloads that favored their architecture, excluding real-deployment overhead; every vendor won its own benchmark; customers had no trustworthy comparison basis. `[ps=4]`
 - Kastner leaked Digital's TPC leadership position to MIS Week on August 8, 1988; once DEC's commitment was public, other vendors faced a binary choice: join or explain refusal to compete on a level field. `[ps=4]`
 - TPC transformed the OLTP market: vendors could no longer claim self-serving results; CIOs had objective, auditable data; benchmark became standard in every enterprise server RFP for a decade. `[ps=4]`
 - The war that would define the 1990s was x86-versus-everything-else; DEC beat IBM's mainframe pricing in OLTP; within four years x86 servers would beat DEC's VAX pricing in the same argument. `[ps=4]`
+- By 1990, Compaq and others were building x86 servers delivering competitive OLTP throughput at a fraction of DEC VAX pricing. `[ps=4]`
 - DEC, which showed the industry how to use objective benchmarks to displace the mainframe, was itself displaced by x86 vendors using those same TPC benchmarks against proprietary minicomputers. `[ps=4]`
 - Left DEC for Aberdeen with the x86 displacement observation 'fully formed'; Aberdeen spent much of the next decade documenting the collapse of the proprietary minicomputer era. `[ps=4]`
 - Kastner's Yankee Group report stated multiprocessor Intel 386 systems were 'appearing on the horizon'; by 1988 DECtp launch those systems were already arriving. `[ps=4]`
@@ -62,6 +65,3 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 - The SNA Tax was the hidden overhead buried in IBM's mainframe architecture 'costing enterprise customers millions of dollars they couldn’t see.' `[ps=4]`
 - Once DEC's TPC commitment was public (August 8, 1988 MIS Week), every other serious OLTP vendor faced binary choice — join the standard or explain to customers why they refused. 'The fence cleared quickly.' `[ps=4]`
 - Moore's Law was 'finally meeting the economics of departmental transaction processing' by 1987, making Intel 386-based multiprocessor servers viable for OLTP. `[ps=4]`
-- Leak to MIS Week served a 'precise purpose': once DEC's commitment was public, every other serious OLTP vendor faced a binary choice — join the standard or explain refusal to customers. `[ps=4]`
-- DEC's hand was stronger than team realized: multiprocessor VAX 8200 + transaction-friendly Rdb + acquired OLTP transaction monitor. `[ps=3]`
-- VAX running OLTP database with clean transaction architecture delivered comparable throughput to IBM 3090 at a small fraction of the cost. `[ps=3]`

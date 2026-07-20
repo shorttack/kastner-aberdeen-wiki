@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.0
-prescience_obs_count: 4
+prescience_mean: 3.8
+prescience_obs_count: 5
 ---
 
 # Tech Bucks Trend, Hack Threats Up
@@ -44,4 +44,4 @@ _Published 2002, author **Wired staff**, type **news-article**._
 - IDC named IT security among the top 10 enterprise tech trends for 2003 `[ps=4]`
 - Utility/on-demand computing among IDC top 10 enterprise tech trends `[ps=4]`
 - IDC projects worldwide IT spending growth of 6% in 2003 `[ps=3]`
-- 6% growth would be totally unsustainable in this economy. Aberdeen places IT spending growth at 3%.
+- 6% growth would be totally unsustainable in this economy. Aberdeen places IT spending growth at 3%. `[ps=3]`

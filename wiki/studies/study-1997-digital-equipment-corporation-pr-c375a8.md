@@ -16,12 +16,12 @@ source_file: "1997 Digital Equipment Corporation pr.pdf"
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
-study_prescience_enum: "low"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.95
-prescience_obs_count: 21
+prescience_mean: 2.25
+prescience_obs_count: 28
 ---
 
 # Digital Equipment Corporation — Telecommunications Market Profile
@@ -44,13 +44,20 @@ _Published 1997, author **Aberdeen Group**, type **Vendor Profile**._
 - Nokia acquired Vienna Systems for approximately $90 million in December 1998, entering the IP telephony gateway market as predicted. `[ps=5]`
 - CMG and Logica merged in 2002 to form LogicaCMG, creating a ~$3 billion revenue IT services firm. LogicaCMG was later acquired by CGI Group in 2012. `[ps=5]`
 - Compaq announced Alpha processor phase-out in 2001 and sold Alpha IP to Intel. HP continued limited Alpha sales until the last system sold in April 2007. `[ps=5]`
+- Nortel filed for Chapter 11 bankruptcy in January 2009. Nortel's patent portfolio was sold for $4.5 billion in 2011. `[ps=5]`
+- 7x24 worldwide; 2-hour response time `[ps=4]`
+- Proactive fault detection before customer visibility `[ps=4]`
 - Unified multi-service billing from single mechanism `[ps=4]`
 - Computing, communications, new media convergence `[ps=4]`
 - Increasing use in wireless/cellular for roaming and phone personality `[ps=4]`
 - Software supports multiple gateways; open APIs; TAPI `[ps=3]`
 - Partner-led ecosystem; systems integration focus `[ps=3]`
+- Intelligent Network, TMN, CC&B, Broadband Services `[ps=3]`
+- Lucent acquired Kenan Systems for approximately $1.48 billion in stock in 1999. Kenan was later transferred to Amdocs. The acquisition validated Aberdeen's view of Kenan as premium telecom billing software. `[ps=3]`
 - European market leader for messaging `[ps=2]`
+- Alpha will differentiate DIGITAL from 32-bit competitors `[ps=2]`
 - Billing rate processing not possible with 32-bit Intel `[ps=1]`
+- Will expand presence in key telco segments `[ps=1]`
 - 2,000,000+ `[ps=0]`
 - 50% faster on Alpha `[ps=0]`
 - Start-up; relied on DIGITAL brand for credibility `[ps=0]`
@@ -58,10 +65,3 @@ _Published 1997, author **Aberdeen Group**, type **Vendor Profile**._
 - Slow due to legacy analog incompatibility `[ps=0]`
 - Well-positioned with best-in-class partners `[ps=0]`
 - Vienna products to ship to DIGITAL customers Spring 1997 `[ps=0]`
-- CMG service platform soon to be certified by Ericsson `[ps=0]`
-- Multiple best-in-breed ISV partnerships; CGI, CMG, Dialogic, Kenan, Vienna `[ps=0]`
-- 1968 `[ps=0]`
-- 7x24 worldwide; 2-hour response time
-- Proactive fault detection before customer visibility
-- Intelligent Network, TMN, CC&B, Broadband Services
-- Will expand presence in key telco segments

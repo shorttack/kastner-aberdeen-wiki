@@ -13,8 +13,8 @@ successor: "Computervision spinoff (1988-1992); Computervision acquired by Param
 years_active: "[DEFERRED]"
 occurrence_count: 13
 prescience_max: 5.0
-prescience_mean: 2.52
-prescience_obs_count: 64
+prescience_mean: 2.38
+prescience_obs_count: 88
 ---
 
 # Prime Computer, Inc.
@@ -39,13 +39,13 @@ prescience_obs_count: 64
 - You didn’t sell a 750 or a 50-series; you sold 'an on-line banking platform' or 'an interactive engineering environment.' `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
 - Economics of standardized x86 architecture plus open operating systems would overwhelm the performance and integration advantages of all proprietary minicomputer platforms. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
 - Prime was turning from scrappy minicomputer vendor into a fully-fledged Wall Street rocket ship by the time Kastner arrived Thanksgiving 1979. `[ps=5]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- By the time Kastner joined Prime in 1979, compute was escaping the glass house. `[ps=5]` — [[study-volume-1-ch10-the-long-view-1966-2026]]
 - Kastner was at Prime Computer at the peak of minicomputer market and observed 4GL emergence, 1979-1981. `[ps=4]` — [[study-volume-1-appendix-career-timeline]]
 - Sold as 'online banking platform' or 'interactive engineering environment'; customer discovered later they bought a Prime 750 running PRIMOS and INFORMATION. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
 - Every application built on Pick/INFORMATION was captive to Prime hardware; as open systems and relational DBs grew, lock-in became liability not feature. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
 - Faster application development, tighter integration, no army of COBOL programmers required. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Responsiveness: shorter application cycles, tighter integration; mid-sized regional bank could look like national institution on modest minicomputer footprint. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
 - VARs, OEMs, and ISVs building vertical packages on INFORMATION served as force multipliers; 'PR1ME shops' were an exclusive club with own language and lore. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
 - High confidence, high energy, absolute certainty good times would keep rolling; machine printing money, stock up 272%; no appetite for downside scenarios. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
 - In France, government was roughly half the entire economy; every regional Prime opportunity traced back to Paris. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
-- Enormous initiative, occasionally creative interpretations of process, and just enough adult supervision to keep everyone out of jail. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
-- Prime INFORMATION was genuinely ahead of conventional COBOL-based systems for commercial applications in 1980, yet ultimately lost due to proprietary architecture. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
-- Every INFORMATION application created customer lock-in; asset in good times, strategic prison when relational databases gathered force in mid-1980s. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]
+- Local Prime manager in Japan played tour guide through a government landscape dense with ministries and procurement rituals. `[ps=4]` — [[study-volume-1-ch04-prime-computer-1979-1981]]

@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.9
-prescience_obs_count: 21
+prescience_mean: 2.13
+prescience_obs_count: 23
 ---
 
 # Pilot Internet Publisher: A Foundation for Web-Enabled OLAP
@@ -41,9 +41,11 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 ## Top observations
 
 - Three areas: reduced maintenance/installation; cost avoidance (no fat-client); desktop platform independence `[ps=5]`
+- Web-driven functionality will extend OLAP to more users than enterprises have been able to cost-justify in the past `[ps=5]`
 - Adding new user requires only browser and network access — not fat-client software installation — enabling large-population deployment cost-justification `[ps=5]`
 - Multi-tiered server-centric architecture: browser -> Web Server -> Pilot Internet Publisher -> Pilot Analysis Server -> MDB `[ps=4]`
 - Comprehensive suite: Internet Publisher + Analysis Server + Discovery Server (data mining) + Desktop + Designer + Sales & Marketing Library + Excel Add-In `[ps=4]`
+- Microsoft OLAP Services (1999) and later SQL Server Analysis Services became dominant web-OLAP platform; Pilot's web-OLAP approach was commercially validated but market consolidated to Microsoft/Oracle/IBM `[ps=4]`
 - Multidimensional Database (MDB) organizes data in typical business terms: revenues/costs/gross margins vs. customers/products/regions/time `[ps=4]`
 - Pilot rejected standard CGI in favor of Microsoft ISAPI for faster and more secure query responses `[ps=3]`
 - Specifically tuned for retail and financial services — promotional effectiveness and risk management `[ps=3]`
@@ -61,5 +63,3 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 - Pilot Software acquired by SAP AG in February 2007; product rebranded SAP Strategy Management `[ps=0]`
 - Pilot planned mid-1997 delivery of advanced Selector Object using Java and ActiveX for hierarchical dimension navigation `[ps=0]`
 - Integrates information and technology to create business insight; focuses on healthcare / media / high-tech growth markets `[ps=0]`
-- Web-driven functionality will extend OLAP to more users than enterprises have been able to cost-justify in the past
-- Microsoft OLAP Services (1999) and later SQL Server Analysis Services became dominant web-OLAP platform; Pilot's web-OLAP approach was commercially validated but market consolidated to Microsoft/Oracle/IBM

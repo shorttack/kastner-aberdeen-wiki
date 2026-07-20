@@ -16,12 +16,12 @@ source_file: "2003-intel-consumer-lt-10-5-8c346e.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 21
+prescience_max: 3.0
+prescience_mean: 0.11
+prescience_obs_count: 28
 ---
 
 # LaGrande Technology: A Proposal for Consumer Market Research
@@ -40,28 +40,28 @@ _Published 2003, author **Peter S. Kastner**, type **market-research-proposal**.
 
 ## Top observations
 
+- business-adoption-spillover `[ps=3]`
 - $150M+ `[ps=0]`
 - 10M+ units `[ps=0]`
 - $100 per PC `[ps=0]`
 - business-only `[ps=0]`
 - consumer-expansion `[ps=0]`
+- LT + OS + applications `[ps=0]`
+- privacy-and-identity-protection `[ps=0]`
 - b2c-value-chains `[ps=0]`
+- b2b-value-chains `[ps=0]`
 - hardware and software must be ubiquitous `[ps=0]`
 - identity-theft-fear `[ps=0]`
 - virus-scares `[ps=0]`
 - intra-family-privacy `[ps=0]`
+- online-trust `[ps=0]`
 - varies-by-country `[ps=0]`
 - secure-vs-ordinary `[ps=0]`
+- perceived-turn-off `[ps=0]`
 - US; Canada; Japan; Germany; UK; France; Italy; China; Brazil; Mexico `[ps=0]`
 - 74% `[ps=0]`
 - political-special-case `[ps=0]`
+- evolving-with-experience `[ps=0]`
 - Intel TXT `[ps=0]`
 - limited `[ps=0]`
 - mandatory `[ps=0]`
-- ubiquitous `[ps=0]`
-- enabled-by-default `[ps=0]`
-- confirmed `[ps=0]`
-- LT + OS + applications
-- privacy-and-identity-protection
-- b2b-value-chains
-- online-trust

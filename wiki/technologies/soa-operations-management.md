@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "evolved"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 2.67
-prescience_obs_count: 3
+prescience_mean: 3.0
+prescience_obs_count: 5
 ---
 
 # SOA Operations Management
@@ -26,6 +26,6 @@ prescience_obs_count: 3
 
 - 38% cite SLAs/scaling to production volumes/reliability and availability as stumbling block `[ps=4]` — [[study-soa-governance-626545]]
 - 35% cite debugging problems with complex services and composites as stumbling block `[ps=4]` — [[study-soa-governance-626545]]
+- 42% overall cite management of IT complexity as second driver; 44% of BIC (higher than average due to more experience) `[ps=4]` — [[study-soa-governance-626545]]
+- SLAs scaling to production volumes, reliability and availability: cited by 37% as challenge `[ps=3]` — [[study-soa-lifecycle-perspective-1ff953]]
 - Purchase or plan to purchase SOA operations management software: 28% response `[ps=0]` — [[study-soa-lifecycle-perspective-1ff953]]
-- 42% overall cite management of IT complexity as second driver; 44% of BIC (higher than average due to more experience) — [[study-soa-governance-626545]]
-- SLAs scaling to production volumes, reliability and availability: cited by 37% as challenge — [[study-soa-lifecycle-perspective-1ff953]]

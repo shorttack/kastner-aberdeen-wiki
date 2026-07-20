@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1980s-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Global 2000 Enterprises
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- EAI and e-Commerce are the two most important CIO initiatives in the Global 2000 for 2000 — [[study-2000-enterprise-application-integration1-9e1eca]]
+- EAI and e-Commerce are the two most important CIO initiatives in the Global 2000 for 2000 `[ps=4]` — [[study-2000-enterprise-application-integration1-9e1eca]]

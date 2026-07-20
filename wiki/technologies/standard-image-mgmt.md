@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Standard Image / Policy-based Image Management
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Aberdeen Best Practices Prioritized by ROI (faster to slower): Standard Images on Common Platforms (highest ROI) — [[study-kastner-sipp-pc-lifecycle-dynamics-2003-4395fd]]
+- Aberdeen Best Practices Prioritized by ROI (faster to slower): Standard Images on Common Platforms (highest ROI) `[ps=4]` — [[study-kastner-sipp-pc-lifecycle-dynamics-2003-4395fd]]

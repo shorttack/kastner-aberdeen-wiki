@@ -13,8 +13,8 @@ lifecycle_at_study: "dominant"
 lifecycle_current: "legacy-still-shipping"
 occurrence_count: 4
 prescience_max: 4.0
-prescience_mean: 3.0
-prescience_obs_count: 5
+prescience_mean: 2.14
+prescience_obs_count: 7
 ---
 
 # Sun Solaris (USL V.4 MP)
@@ -29,5 +29,5 @@ prescience_obs_count: 5
 - Investors are likely to interpret Sun's results as being on the edge of respectability as the company has been hovering near breakeven for three quarters. `[ps=3]` — [[study-sun-micro-slammed-as-quarterly-report-di-e9ee61]]
 - We're seeing the second quarter of the year was not a turnaround quarter for Sun. But anyone who gives up on Sun would be making a big mistake, as they have a huge, loyal base of customers. `[ps=2]` — [[study-sun-micro-slammed-as-quarterly-report-di-e9ee61]]
 - We're seeing the second quarter of the year was not a turnaround quarter for Sun. But anyone who gives up on Sun would be making a big mistake, as they have a huge, loyal base of customers. `[ps=2]` — [[study-sun-shares-tumble-in-pre-market-trading--000d37]]
-- Extremely late but targeting 1993 completion — [[study-nti-3-pc-and-ws-1993-17d49b]]
-- [UNVERIFIED] — [[study-nti-3-pc-and-ws-1993-17d49b]]
+- Extremely late but targeting 1993 completion `[ps=0]` — [[study-nti-3-pc-and-ws-1993-17d49b]]
+- [UNVERIFIED] `[ps=0]` — [[study-nti-3-pc-and-ws-1993-17d49b]]

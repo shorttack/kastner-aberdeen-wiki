@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # IBM MedSpeak/Radiology
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - 5 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
-- 25 — [[study-2026-kastner-enterprise-ai-arc]]
+- 25 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]

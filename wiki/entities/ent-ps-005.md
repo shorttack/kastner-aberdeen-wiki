@@ -12,9 +12,9 @@ status: "Active (split)"
 successor: "HP Inc. and HPE"
 years_active: "1939-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # Hewlett-Packard
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- HP Intelligent Warehouse exchanges metadata with Prism via CDIF standard — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]
+- HP Intelligent Warehouse exchanges metadata with Prism via CDIF standard `[ps=2]` — [[study-1997-dw-competitive-advantage-through-pr-b307c7]]

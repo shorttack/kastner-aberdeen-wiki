@@ -12,9 +12,9 @@ era: "1998-"
 lifecycle_at_study: "growing"
 lifecycle_current: "current"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Large File Distribution (MP3 / Video)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Read-only access of previously-created large bit-mapped files — [[study-15-classification-key-applications-55b6be]]
+- Read-only access of previously-created large bit-mapped files `[ps=3]` — [[study-15-classification-key-applications-55b6be]]

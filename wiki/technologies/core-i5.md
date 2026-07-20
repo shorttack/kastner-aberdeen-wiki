@@ -14,7 +14,7 @@ lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 4
+prescience_obs_count: 5
 ---
 
 # Intel Core i5
@@ -25,7 +25,7 @@ prescience_obs_count: 4
 ## Top observations
 
 - 2 `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
+- 90 `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
 - 4 `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
 - 1-2 `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
 - crisp-response `[ps=0]` — [[study-2010-intel-vpro-daily-globe-6f615e]]
-- 90 — [[study-2010-intel-vpro-daily-globe-6f615e]]

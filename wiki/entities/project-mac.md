@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "MIT CSAIL"
 years_active: "1963-1999"
 occurrence_count: 1
-prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_max: 5.0
+prescience_mean: 4.33
+prescience_obs_count: 3
 ---
 
 # Project MAC (MIT)
@@ -24,6 +24,6 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Researchers argued about artificial intelligence 'with a fervor that felt more like religion than engineering.' `[ps=5]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
 - Developing foundations of timesharing and multiuser computing that would eventually produce the Multics operating system. `[ps=4]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Researchers argued about artificial intelligence 'with a fervor that felt more like religion than engineering.' — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Project MAC developed foundations of timesharing and multiuser computing that produced Multics; researchers argued about AI with 'religious fervor.' — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Project MAC developed foundations of timesharing and multiuser computing that produced Multics; researchers argued about AI with 'religious fervor.' `[ps=4]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

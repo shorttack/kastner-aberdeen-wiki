@@ -16,12 +16,12 @@ source_file: "Portal-99.docx"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.53
-prescience_obs_count: 15
+prescience_mean: 2.55
+prescience_obs_count: 20
 ---
 
 # Portal's Infranet -- Real-Time Customer Management and Billing Pays Dividends to ISPs, Internet-Based Businesses
@@ -40,23 +40,23 @@ _Published 1999, author **Peter S. Kastner / Aberdeen Group**, type **white-pape
 
 ## Top observations
 
+- N-tier application servers; object-oriented; load balancing; 4-level firewall; backup servers at each tier; complete API set `[ps=4]`
 - Solect targeted smaller ISPs (up to 30K subscribers); single server limitation; few extensibility features; shrink-wrapped `[ps=4]`
 - Portal is Oracle Business Alliance Partner; Oracle actively co-markets with Portal `[ps=4]`
 - ISP data access services becoming commodity; ISPs must expand to value-added services beyond data access `[ps=4]`
 - Brand-name driven shake-out; big get bigger; small specialize; highly dynamic environment `[ps=4]`
 - Registration, authentication/authorization, activity tracking, event rating/pricing, billing, customer management, business reporting `[ps=3]`
+- Enhanced rating process architecture; real-time volume/tier model; unlimited branded service customers; Web-based brand interfaces; panel-based flexible design `[ps=3]`
 - Pay-by-the-subscriber; 25,000-subscriber entry point; fixed cost increments as business grows; no per-server license penalty `[ps=3]`
+- Second-generation Internet business billing leader; ISP market 25,000+ subscribers `[ps=3]`
 - Kenan has telephony billing experience; acquired by Lucent; moving into Energy/Utilities; 2/3 of revenue from services; Portal argues real-time event handling superiority `[ps=3]`
 - HP joint marketing; demonstrated Infranet scalability on Unix platforms via ITM-B benchmark `[ps=3]`
 - Portal-Cisco development of metered billing applications using Cisco Netflow technology; plus IP telephony gateway support (VocalTec, Skywave) `[ps=3]`
+- Multi-database support including Oracle Rdb and SQL Server 7; multi-threaded invoicing (HTML, XML, DOC1 formats) `[ps=3]`
 - Medium-to-large ISPs with 25,000+ subscribers; online/internet-based services; IP telephony providers; gaming companies; content providers; billing service bureaus `[ps=3]`
 - Tight integration with NT Server, SQL Server 7, MCIS; Microsoft worked extensively with Portal `[ps=2]`
 - Under no circumstances should IT consider replicating Infranet's functionality themselves; Infranet is Aberdeen's first choice for traditional and new-breed ISPs `[ps=2]`
 - Founded 1985; ran ISP operation for 10 years; released first Infranet in May 1996; IPO May 6 1999 NASDAQ: PRSF; 400+ employees worldwide `[ps=0]`
 - CompuServe uses Infranet for customer management and billing `[ps=0]`
+- Sprint's Internet Passport service uses Portal Infranet `[ps=0]`
 - unknown `[ps=0]`
-- N-tier application servers; object-oriented; load balancing; 4-level firewall; backup servers at each tier; complete API set
-- Enhanced rating process architecture; real-time volume/tier model; unlimited branded service customers; Web-based brand interfaces; panel-based flexible design
-- Second-generation Internet business billing leader; ISP market 25,000+ subscribers
-- Sprint's Internet Passport service uses Portal Infranet
-- Multi-database support including Oracle Rdb and SQL Server 7; multi-threaded invoicing (HTML, XML, DOC1 formats)

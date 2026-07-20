@@ -12,9 +12,9 @@ era: "2001-2010"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # WAP Seamless Handoff
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Seamless hand-off between WAPs is one of three essential capabilities for WLAN security — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
+- Seamless hand-off between WAPs is one of three essential capabilities for WLAN security `[ps=2]` — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]

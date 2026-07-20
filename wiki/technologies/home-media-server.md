@@ -12,9 +12,9 @@ era: "2001-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # Home Media Server
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Diverse; no dominant approach yet — [[study-dct-webinar-announcement-2002-11]]
-- Aberdeen view to be presented — [[study-dct-webinar-announcement-2002-11]]
+- Diverse; no dominant approach yet `[ps=0]` — [[study-dct-webinar-announcement-2002-11]]
+- Aberdeen view to be presented `[ps=0]` — [[study-dct-webinar-announcement-2002-11]]

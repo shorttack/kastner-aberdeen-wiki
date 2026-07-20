@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.14
-prescience_obs_count: 7
+prescience_mean: 1.9
+prescience_obs_count: 10
 ---
 
 # A View of Sun's 2003 Worldwide Analyst Conference
@@ -42,11 +42,11 @@ _Published 2003, author **Bill Claybrook; Dan Tanner**, type **perspective**._
 
 - Sun acquired by Oracle 2010; SPARC/Solaris reduced to legacy status; no major new releases after Solaris 11.4 (2018) `[ps=5]`
 - Linux/x86 displaced Solaris/SPARC as enterprise standard; Oracle continued strong Linux support `[ps=5]`
+- Active development to reduce data center costs and complexity `[ps=4]`
 - Solaris on SPARC will remain flagship for foreseeable future `[ps=3]`
 - Solaris on SPARC designated flagship OS for foreseeable future `[ps=2]`
+- In development as part of Sun's cost/complexity reduction strategy `[ps=0]`
 - Altering Linux strategy to be more attractive to users `[ps=0]`
 - Drive down data center costs and complexity `[ps=0]`
 - Discontinued after Oracle acquisition; concepts absorbed into Oracle cloud strategy `[ps=0]`
-- Active development to reduce data center costs and complexity
-- In development as part of Sun's cost/complexity reduction strategy
-- 2003 Worldwide Analyst Conference, San Francisco; attendees included industry analysts
+- 2003 Worldwide Analyst Conference, San Francisco; attendees included industry analysts `[ps=0]`

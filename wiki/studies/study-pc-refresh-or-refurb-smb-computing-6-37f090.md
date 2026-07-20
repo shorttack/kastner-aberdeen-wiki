@@ -16,12 +16,12 @@ source_file: "PC-Refresh-or-Refurb-SMB-Computing-6.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 2.33
-prescience_obs_count: 6
+prescience_mean: 2.57
+prescience_obs_count: 7
 ---
 
 # Refresh or Refurb?
@@ -41,9 +41,9 @@ _Published 2003, author **SmallBusinessComputing.com (internet.com)**, type **ne
 ## Top observations
 
 - Windows XP Pro Service Pack 1 is out in the field and working well indeed. No stability problems here. It's a great client operating system on today's more powerful desktops and laptops. `[ps=4]`
+- Microsoft product manager Greg Sullivan articulated why small businesses are migrating toward XP. `[ps=4]`
 - Windows XP became the dominant corporate desktop OS 2004-2010; remained deployed in enterprises until Microsoft EOL in April 2014. `[ps=4]`
 - It's time to crank up the planning for the recession-disrupted PC replacement cycle and with the 21st century. `[ps=3]`
 - Mid-year is an auspicious time for starting or accelerating a PC replacement cycle with Windows XP. `[ps=3]`
 - We could not afford the aggravation and potential disruption to our knowledge-worker-driven business of not doing so. Tough medicine, we concluded, but common sense. `[ps=0]`
 - Aberdeen Group refreshed its own PC fleet to Windows XP to avoid disruption and establish case-study credibility for its client recommendations. `[ps=0]`
-- Microsoft product manager Greg Sullivan articulated why small businesses are migrating toward XP.

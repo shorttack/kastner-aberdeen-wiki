@@ -12,9 +12,9 @@ era: "1980s-1990s"
 lifecycle_at_study: "shipping"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Tandem TMF (Transaction Monitoring Facility)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 0.4 audit msgs/tx; 0.5 checkpoints/tx — [[study-kastner-tandem-topgun-et1-analysis-1987--a3a09c]]
+- 0.4 audit msgs/tx; 0.5 checkpoints/tx `[ps=0]` — [[study-kastner-tandem-topgun-et1-analysis-1987--a3a09c]]

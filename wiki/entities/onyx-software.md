@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Consona Corporation (2004)"
 years_active: "1994-2004"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # ONYX Software
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Remained independent as mid-market CRM; acquired by Consona Corporation (August 2006); Consona merged with CDC Software forming Aptean (2012); Onyx brand largely faded — [[study-1997-cis-report-ba825e]]
+- Remained independent as mid-market CRM; acquired by Consona Corporation (August 2006); Consona merged with CDC Software forming Aptean (2012); Onyx brand largely faded `[ps=5]` — [[study-1997-cis-report-ba825e]]

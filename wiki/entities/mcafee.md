@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Acquired by Intel 2011; spun off as McAfee 2017; acquired by Symphony Technology Group 2021"
 years_active: "1987-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # McAfee Associates
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Tightly integrated proprietary product suite; not designed for third-party integration — [[study-aberdeen-1996-dec-manageworks-22]]
+- Tightly integrated proprietary product suite; not designed for third-party integration `[ps=3]` — [[study-aberdeen-1996-dec-manageworks-22]]

@@ -16,12 +16,12 @@ source_file: "2001 HP Camera Lab Journal PROD.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.68
-prescience_obs_count: 19
+prescience_mean: 1.6
+prescience_obs_count: 20
 ---
 
 # Caveat Emptor: HP's Consumer IT Leadership Needs New Focus on Consumers
@@ -58,5 +58,5 @@ _Published 2001, author **Peter Kastner**, type **lab-journal**._
 - HP documentation failed entirely to address XP compatibility for in-place upgrade users `[ps=0]`
 - Windows XP became most successful Windows version; reached end-of-life April 2014 after 12+ years `[ps=0]`
 - consistently high quality photographs `[ps=0]`
+- ROM upgrade failed due to XP disk formatting process corrupting camera digital media `[ps=0]`
 - many unhappy HP camera owners who upgrade to Windows XP plus bundled PC+camera purchasers at risk `[ps=0]`
-- ROM upgrade failed due to XP disk formatting process corrupting camera digital media

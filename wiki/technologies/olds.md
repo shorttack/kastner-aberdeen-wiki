@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # OLDS — Online Decision Support
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- DOPS must handle mixed OLTP and Online Decision Support workloads — precursor to HTAP (Hybrid Transactional/Analytical Processing) — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
+- DOPS must handle mixed OLTP and Online Decision Support workloads — precursor to HTAP (Hybrid Transactional/Analytical Processing) `[ps=4]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]

@@ -12,9 +12,9 @@ status: "active"
 successor: "acquired by Vector Capital 2003, then KKR 2019 -> Alludo 2022"
 years_active: "1985-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Corel Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- No — Corel's brief 1996-1997 Java-office initiative (Corel Office for Java) was abandoned. NC market itself collapsed by 2000. WordPerfect remained Win32 native. — [[study-tool-vendors-neglect-intranet-computing--97bde3]]
+- No — Corel's brief 1996-1997 Java-office initiative (Corel Office for Java) was abandoned. NC market itself collapsed by 2000. WordPerfect remained Win32 native. `[ps=5]` — [[study-tool-vendors-neglect-intranet-computing--97bde3]]

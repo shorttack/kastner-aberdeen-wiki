@@ -12,9 +12,9 @@ era: "1970-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # IT capacity planning / performance modeling
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TeamQuest whitepaper distinguishes three capacity-planning approaches: capacity benchmarking (expensive load testing), capacity trending (quick linear/statistical), and capacity modeling (both simulation and analytic queueing). Modeling is positioned as the only approach permitting evaluation of alternative solutions before implementation. — [[study-teamquest-8-ec015b]]
+- TeamQuest whitepaper distinguishes three capacity-planning approaches: capacity benchmarking (expensive load testing), capacity trending (quick linear/statistical), and capacity modeling (both simulation and analytic queueing). Modeling is positioned as the only approach permitting evaluation of alternative solutions before implementation. `[ps=3]` — [[study-teamquest-8-ec015b]]

@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 3
+prescience_obs_count: 4
 ---
 
 # IBM Expert System Products (OPS5 / ART / KEE)
@@ -25,6 +25,6 @@ prescience_obs_count: 3
 ## Top observations
 
 - 3 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 35 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 2 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 27 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
-- 35 — [[study-2026-kastner-enterprise-ai-arc]]

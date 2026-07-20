@@ -12,9 +12,9 @@ era: "2000-2003"
 lifecycle_at_study: "emerging"
 lifecycle_current: "{'lifecycle_current': 'active', 'notes': 'Home area network evolved to smart home. Known answer applied.', 'source': 'known'}"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # Home Area Network / Home LAN
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Identified as ultimate goal by multiple respondents; frustration with cable proliferation `[ps=4]` — [[study-iha-full-report---draft-jul-28-41de81]]
 - Only a few respondents have LANs; wireless transfer limited to PDAs only `[ps=0]` — [[study-iha-full-report---draft-jul-28-41de81]]
-- Identified as ultimate goal by multiple respondents; frustration with cable proliferation — [[study-iha-full-report---draft-jul-28-41de81]]

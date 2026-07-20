@@ -3,7 +3,7 @@ title: "World IT Spending 2002-2005: Timing the Recovery"
 slug: "study-world-it-spending-2002-2005-2265a2"
 page_type: "study"
 tags: ["type/study", "collection/market-study"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "world-it-spending-2002-2005-2265a2"
 author: "Aberdeen Group"
@@ -16,12 +16,12 @@ source_file: "IT-Spending-2002-Print-v4.17-8.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 17
+prescience_max: 5.0
+prescience_mean: 0.31
+prescience_obs_count: 26
 ---
 
 # World IT Spending 2002-2005: Timing the Recovery
@@ -40,28 +40,28 @@ _Published 2002, author **Aberdeen Group**, type **market-study**._
 
 ## Top observations
 
+- Global IT spending resumed growth post-2001 through 2005; magnitudes varied but recovery directionally validated `[ps=5]`
+- 8.6% CAGR 2002-2005 Intel servers for Medium (100-999) `[ps=3]`
 - $1,117.3B `[ps=0]`
 - $1,200.0B `[ps=0]`
 - $1,202.5B `[ps=0]`
+- $1,239.7B `[ps=0]`
 - $1,360.6B `[ps=0]`
 - $1,422.9B `[ps=0]`
+- $475.7B `[ps=0]`
 - $578.2B `[ps=0]`
 - $377.4B `[ps=0]`
+- $410.5B `[ps=0]`
 - $251.8B `[ps=0]`
 - $310.9B `[ps=0]`
 - $65.7B `[ps=0]`
 - $83.5B `[ps=0]`
 - $545.1B `[ps=0]`
+- $592.9B `[ps=0]`
+- $228.9B `[ps=0]`
 - $312.3B `[ps=0]`
+- $428.6B `[ps=0]`
 - $517.7B `[ps=0]`
+- 17.4% CAGR 2002-2005 Intel servers for SMB (1-99 employees) `[ps=0]`
 - 9.5% CAGR 2002-2005 all servers for SMB `[ps=0]`
 - 12.8% CAGR 2002-2005 Intel servers for Large (1000+) `[ps=0]`
-- 10.2% CAGR 2002-2005 Intel servers for Government `[ps=0]`
-- $1,239.7B
-- $1,298.7B
-- $475.7B
-- $410.5B
-- $592.9B
-- $228.9B
-- $428.6B
-- 17.4% CAGR 2002-2005 Intel servers for SMB (1-99 employees)

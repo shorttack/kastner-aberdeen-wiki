@@ -16,12 +16,12 @@ source_file: "1997 The New AS_400e series apr.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.75
-prescience_obs_count: 20
+prescience_mean: 1.73
+prescience_obs_count: 26
 ---
 
 # The New AS/400e series: Breaking Current Enterprise Scalability Barriers And Historic Perceptions
@@ -40,6 +40,7 @@ _Published 1997, author **Aberdeen Group**, type **announcement-profile**._
 
 ## Top observations
 
+- Lotus Domino and Java scheduled for general availability Q1 1998 in native mode `[ps=5]`
 - OS/400 renamed i5/OS (2004) then IBM i (2008); still in active development IBM i 7.5 (2022) `[ps=5]`
 - System i and System p merged into IBM Power Systems in April 2008; IBM i continues as OS option `[ps=5]`
 - IBM rebranded AS/400 to eServer iSeries in 2000; continued to gain e-business workloads `[ps=4]`
@@ -48,20 +49,19 @@ _Published 1997, author **Aberdeen Group**, type **announcement-profile**._
 - AS/400e = integrated OS+DB+hardware; Unix/NT = component building blocks `[ps=3]`
 - Never having to say 'ready in 6-12 months' — integrated stack enables fast Unix-competing deployment `[ps=3]`
 - Native Domino allows dynamic DB2/400 data pull into web-based e-business applications `[ps=3]`
+- IBM porting each new Java release to AS/400e as soon as possible; object-based OS/400 highly complementary `[ps=3]`
 - Positioned in top 3-5 absolute commercial performance leaders for real-world production `[ps=2]`
 - Never having to say 'sorry, out of capacity' — 12-way SMP eliminates NT prototype failure mode `[ps=2]`
+- Ethical Hackers Association unable to penetrate AS/400e web security `[ps=2]`
 - IBM has every possibility of re-igniting AS/400 revenue growth to over 20% per year for at least several years `[ps=1]`
 - 25,000+ transactions per minute `[ps=0]`
 - Slightly over 23,000 tpm `[ps=0]`
 - 2,400 concurrent users `[ps=0]`
 - 4.6x (overall); 2x per-processor uniprocessor throughput `[ps=0]`
+- 70% further improvement over current 12-way `[ps=0]`
 - 40% faster system rebuild; 60% faster IPL `[ps=0]`
+- 20 GB main memory `[ps=0]`
 - 450,000 systems shipped to date `[ps=0]`
+- 85,000-100,000 System/36s still in production `[ps=0]`
 - ~250,000 proprietary midrange computers needing Y2K replacement `[ps=0]`
 - Publicly declared intent to port all server-based applications to AS/400e `[ps=0]`
-- 40%-45% price/performance improvement per year as AS/400 division goal `[ps=0]`
-- 70% further improvement over current 12-way
-- 20 GB main memory
-- 85,000-100,000 System/36s still in production
-- Lotus Domino and Java scheduled for general availability Q1 1998 in native mode
-- Ethical Hackers Association unable to penetrate AS/400e web security

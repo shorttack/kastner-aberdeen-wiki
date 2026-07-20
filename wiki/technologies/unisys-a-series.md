@@ -14,7 +14,7 @@ lifecycle_current: "{'lifecycle_current': 'legacy-supported', 'source': 'Known �
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Unisys A-Series
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- wounded `[ps=0]` — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]
 - 12% increase in installations for 1992 `[ps=0]` — [[study-nti-9-mainframe-role-1993-77fc40]]
 - SCAMP microprocessor, CCE software, rack-mount with industry-standard interfaces; Oracle, Unix server, PC LAN compatible `[ps=0]` — [[study-nti-9-mainframe-role-1993-77fc40]]
-- wounded — [[study-199x-y2k-live-dead-wounded-platforms-835ea1]]

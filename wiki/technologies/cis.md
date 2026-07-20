@@ -13,8 +13,8 @@ lifecycle_at_study: "growing"
 lifecycle_current: "mature"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.8
-prescience_obs_count: 5
+prescience_mean: 3.83
+prescience_obs_count: 6
 ---
 
 # Customer Interaction Software (CIS)
@@ -25,8 +25,8 @@ prescience_obs_count: 5
 ## Top observations
 
 - Vertical industry focus growing in importance as new markets targeted `[ps=5]` — [[study-cispra~1-23a333]]
+- CIS suppliers will announce decision support alliances or capabilities within 18 months `[ps=4]` — [[study-cispra~1-23a333]]
 - CIS generates revenues; ERP/financials reduce costs — CIS impact is order-of-magnitude greater `[ps=4]` — [[study-cispra~1-23a333]]
 - Start single module, get executive consensus, emphasize call quality over quantity, ensure legacy integration `[ps=4]` — [[study-cispra~1-23a333]]
 - 2-5 years for complete CIS deployment `[ps=3]` — [[study-cispra~1-23a333]]
 - Smaller suppliers will exit or be acquired; users will buy only from market leaders `[ps=3]` — [[study-cispra~1-23a333]]
-- CIS suppliers will announce decision support alliances or capabilities within 18 months — [[study-cispra~1-23a333]]

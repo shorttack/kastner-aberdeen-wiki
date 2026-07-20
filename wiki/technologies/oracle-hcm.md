@@ -12,9 +12,9 @@ era: "1988-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Oracle Human Capital Management (HCM)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Oracle HCM Cloud competes with Workday for cloud HCM market; PeopleSoft acquisition (2005) provided the HCM capability foundation — [[study-2026-kastner-oracle-longitudinal]]
+- Oracle HCM Cloud competes with Workday for cloud HCM market; PeopleSoft acquisition (2005) provided the HCM capability foundation `[ps=5]` — [[study-2026-kastner-oracle-longitudinal]]

@@ -14,7 +14,7 @@ lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # OpenAI GPT-4
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- 5 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 43 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
-- 5 — [[study-2026-kastner-enterprise-ai-arc]]

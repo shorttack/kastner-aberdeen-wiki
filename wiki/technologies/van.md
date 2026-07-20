@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "declining"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Value-Added Network (VAN)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internet threatens to outflank highly profitable VANs; EDI/VAN integrators must embrace internet to survive — [[study-ecpspr~1-4968bf]]
+- Internet threatens to outflank highly profitable VANs; EDI/VAN integrators must embrace internet to survive `[ps=4]` — [[study-ecpspr~1-4968bf]]

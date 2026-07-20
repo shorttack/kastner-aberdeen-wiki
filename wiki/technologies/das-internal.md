@@ -12,9 +12,9 @@ era: "1980s-2003"
 lifecycle_at_study: "mature"
 lifecycle_current: "legacy-active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Internal Direct-Attached Storage (DAS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Internal DAS / External DAS / SAN / NAS — four-way breakout — [[study-maxtor-ramp-interview-guide-first-draft-c68ebd]]
+- Internal DAS / External DAS / SAN / NAS — four-way breakout `[ps=3]` — [[study-maxtor-ramp-interview-guide-first-draft-c68ebd]]

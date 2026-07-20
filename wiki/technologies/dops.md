@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 3.67
+prescience_obs_count: 3
 ---
 
 # DOPS — Distributed Online Processing Systems (Aberdeen framework)
@@ -24,6 +24,6 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- End-to-End Response Time; Multiple Databases; Multiple Networks; Heterogeneous Hardware; Mixed OLTP & OLDS `[ps=4]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
 - Distributed heterogeneous environments require new multi-dimensional metrics beyond single-system TPC benchmarks `[ps=4]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
-- End-to-End Response Time; Multiple Databases; Multiple Networks; Heterogeneous Hardware; Mixed OLTP & OLDS — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
-- Transactions vs Queries; Production/Snapshot/Test/Runamuck DBs; What does the client do? What does the front end do? No textbook answers — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]
+- Transactions vs Queries; Production/Snapshot/Test/Runamuck DBs; What does the client do? What does the front end do? No textbook answers `[ps=3]` — [[study-aberdeen-dops-tpc-1992-deck-bbe78e]]

@@ -16,12 +16,12 @@ source_file: "Engaging-Aberdeen-Workshop-2-5.doc; Briefing-Workshop-3-16-2.doc; 
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.53
-prescience_obs_count: 19
+prescience_mean: 0.43
+prescience_obs_count: 28
 ---
 
 # Aberdeen AAS Operational Playbooks (August 2001): Engaging Aberdeen Workshop, Briefing Workshop, Market Knowledge Methodology, and Activity Methodologies
@@ -43,11 +43,16 @@ _Published 2001, author **Aberdeen Group / Peter S. Kastner (program owner)**, t
 - Gather information on supplier; complete vendor/product profile template; coordinate team for major accounts `[ps=4]`
 - Ensure consistent briefing methodology; train on mechanics and Q&A; provide specific tools to capture supplier information `[ps=3]`
 - Supplier internal marketing material; supplier website; S1 filings; MSN investor.com/Quicken.com; trade publications; financial analyst reports; chat rooms; competitor websites `[ps=3]`
+- Aberdeen positioned against Gartner, META Group, Forrester, IDC `[ps=2]`
 - Ensure all employees understand who Aberdeen is and how it differentiates from competitors `[ps=0]`
 - Positioning; Branding; Lifecycle Consulting Model `[ps=0]`
 - Research Made Personal `[ps=0]`
 - Step 1: determine client needs via sales data sheet and qualifying questions; Step 2: propose product via sales scenarios; Step 3: handle client questions `[ps=0]`
+- Workshop includes 'And Always' (best practices) and 'And Never' (worst practices) sections `[ps=0]`
+- A planned meeting between Aberdeen Analysts/Account Managers and IT suppliers `[ps=0]`
+- Analysts must understand the role of the supplier's PR representative before the briefing `[ps=0]`
 - Reconcile scheduling; take agenda control; brief Aberdeen overview; introduce practice area; clarify NDA ground rules `[ps=0]`
+- Stay awake and ask questions; specific tips for evaluating supplier presentations during briefing `[ps=0]`
 - Reflect and summarize what was heard in briefing; present pitch to client for follow-on engagement `[ps=0]`
 - Workshop includes explicit 'Always' best practices and 'Never' prohibitions sections `[ps=0]`
 - Dedicated Briefing Sales Strategies section concludes the Briefing Workshop manual `[ps=0]`
@@ -55,13 +60,8 @@ _Published 2001, author **Aberdeen Group / Peter S. Kastner (program owner)**, t
 - Competitive Analysis; Competitive Landscape; Product Analysis (SWOT); Market Overview (trends, segmentation, size, drivers, growth, strategic shifts); Current Positioning Analysis (current position, internal market perception) `[ps=0]`
 - Task time: 1/2 day; performed by Research Associate `[ps=0]`
 - I. Introduction/Get Acquainted; II. Market Overview; III. Market Attractiveness; IV. Positioning Strategy; V. Messaging & Communications; VI. Channel & Partnership; VII. Review & Next Steps `[ps=0]`
+- 4-6 page assessment report; analysis must demonstrate vision and thought leadership in the client's market `[ps=0]`
 - 2 hours; teleconference with client to identify additional data needs `[ps=0]`
 - 1 day; on-site meeting reviewing client technology, strategy, business plan, and operating plans `[ps=0]`
-- Review corporate presentation on-site; allow client to elaborate in their own words; provide critique of presentation `[ps=0]`
-- What market is the client going after? Is this the best market? Is the client addressing the right market in the right way with the right breadth? `[ps=0]`
-- Aberdeen positioned against Gartner, META Group, Forrester, IDC
-- Workshop includes 'And Always' (best practices) and 'And Never' (worst practices) sections
-- A planned meeting between Aberdeen Analysts/Account Managers and IT suppliers
-- Analysts must understand the role of the supplier's PR representative before the briefing
-- Stay awake and ask questions; specific tips for evaluating supplier presentations during briefing
-- 4-6 page assessment report; analysis must demonstrate vision and thought leadership in the client's market
+- Market Overview: 1/2 day; Competitive Analysis: 1/2 day; Product Analysis (SWOT): 1/2 day; Current Position Analysis: 1/2 day `[ps=0]`
+- Ability to conduct SWOT analysis on competitors; ability to capture data relating to the client's competition `[ps=0]`

@@ -16,12 +16,12 @@ source_file: "1998 Information Technology in the Retail Sector- The Integration 
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.94
-prescience_obs_count: 17
+prescience_mean: 3.12
+prescience_obs_count: 24
 ---
 
 # Information Technology in the Retail Sector: The Integration Imperative
@@ -43,9 +43,15 @@ _Published 1998, author **Susan Rinehart and Donald Bellomy (Aberdeen Group)**, 
 - Over 90% of U.S. retail companies employ fewer than 20 individuals `[ps=5]`
 - Walmart's integrated supply chain and IT systems enabled sustained dominance; became world's largest retailer through IT-driven efficiency `[ps=5]`
 - Kmart failed to integrate IT systems; filed Chapter 11 bankruptcy in January 2002; unable to compete with Walmart `[ps=5]`
+- Internet will become a significant retail sales channel requiring integration with physical operations `[ps=5]`
 - IT spending heavily skewed toward larger enterprises `[ps=4]`
+- SCM is first of five retail IT operational divisions identified by Aberdeen `[ps=4]`
+- IT managers must leverage technology investment from cost center into strategic tool for new revenue opportunities `[ps=4]`
+- All retailers share severe margin pressure regardless of category `[ps=4]`
+- Integration of siloed IT systems is the defining strategic imperative for retail competitiveness `[ps=4]`
 - IT requirements of apparel stores differ markedly from supermarkets; unique characteristics by retail category `[ps=4]`
 - Emerging; supply chain integration was major unmet need in retail in 1998 `[ps=4]`
+- Mature category; in-store transaction systems well-established but not integrated with back-office `[ps=4]`
 - Emerging; data warehousing and retail analytics nascent in 1998 `[ps=4]`
 - Retailers that integrate IT across five divisions will gain sustainable competitive advantage; those that don't will decline `[ps=4]`
 - Sears Holdings filed Chapter 11 in October 2018; failure to execute digital integration was major factor `[ps=4]`
@@ -56,11 +62,5 @@ _Published 1998, author **Susan Rinehart and Donald Bellomy (Aberdeen Group)**, 
 - In-store systems (POS) is third of five retail IT divisions `[ps=0]`
 - Decision support analytics is fourth of five retail IT divisions `[ps=0]`
 - Corporate administration IT is fifth of five retail IT divisions `[ps=0]`
+- IT suppliers must recognize emerging retail business/technology needs to plan solutions for current and future requirements `[ps=0]`
 - $895 (discounted to $495) `[ps=0]`
-- SCM is first of five retail IT operational divisions identified by Aberdeen
-- IT managers must leverage technology investment from cost center into strategic tool for new revenue opportunities
-- IT suppliers must recognize emerging retail business/technology needs to plan solutions for current and future requirements
-- All retailers share severe margin pressure regardless of category
-- Integration of siloed IT systems is the defining strategic imperative for retail competitiveness
-- Mature category; in-store transaction systems well-established but not integrated with back-office
-- Internet will become a significant retail sales channel requiring integration with physical operations

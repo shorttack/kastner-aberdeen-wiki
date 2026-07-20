@@ -13,8 +13,8 @@ lifecycle_at_study: "pre-beta"
 lifecycle_current: "obsolete-superseded"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Windows 2000 Datacenter Server
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Datacenter Server will pique IT's interest; their response will be — Call me when it's ready `[ps=4]` — [[study-informationweek-windows-2000-high-end-am-4ccdae]]
-- Datacenter Server has not begun beta testing and isn't due until three months after Microsoft ships the initial Windows 2000 releases, which have been delayed — [[study-informationweek-windows-2000-high-end-am-4ccdae]]
+- Datacenter Server has not begun beta testing and isn't due until three months after Microsoft ships the initial Windows 2000 releases, which have been delayed `[ps=3]` — [[study-informationweek-windows-2000-high-end-am-4ccdae]]

@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.36
-prescience_obs_count: 22
+prescience_mean: 1.77
+prescience_obs_count: 31
 ---
 
 # Application Lifecycle Management: Used by the Best of the Best in Class
@@ -43,25 +43,25 @@ _Published 2007, author **Rick Saia; Peter S. Kastner**, type **employer-record*
 - Debugging problems with complex services and composites: cited by 37% as challenge `[ps=5]`
 - Between one-third and half of ~1,000 companies surveyed having serious difficulties moving SOA-enabled applications into stable deployment `[ps=4]`
 - Predominant reason: inadequate tools for automated management and governance of growing plethora and complexity of web services and applications; exacerbated by inexperience `[ps=4]`
+- 35% of all respondents saw SOA development costs increase `[ps=4]`
+- Establishment of operational security, governance, and management: cited by 45% of survey base as top challenge `[ps=4]`
+- Data management of SOA services is problematic: cited by 33% as challenge `[ps=4]`
 - 48% of ALM-focused organizations have annual revenue >$1 billion — Global 1000 lead the pack `[ps=4]`
 - For 42% of ALM companies, SOA governance is an update to existing IT governance processes `[ps=4]`
+- 50% of ALM companies want to ensure uniform and consistent policy application across the organization as driver for SOA governance `[ps=4]`
 - Lack of SOA management and governance lowers IT performance, raises current operating costs, and collars IT with long-term software maintenance costs that will endure for decades `[ps=4]`
+- 20% of ALM-focused organizations saw SOA development costs increase `[ps=3]`
+- Security issues different from those of older IT: cited by 38% as challenge `[ps=3]`
+- SLAs scaling to production volumes, reliability and availability: cited by 37% as challenge `[ps=3]`
 - Developing new business capabilities or new products and services: top driver for SOA management and governance `[ps=3]`
 - 2006 surveys showed companies following 'Enterprise SOA' strategy (ESB) can scale more easily with lower short- and long-term costs by investing in all aspects of SOA infrastructure software and IT staff training `[ps=2]`
+- 68% of ALM-focused organizations decreased SOA development costs over last 12 months `[ps=0]`
 - 46% of Best in Class organizations decreased SOA development costs over last 12 months `[ps=0]`
 - 25% of all respondents decreased SOA development costs over last 12 months `[ps=0]`
 - 12% of ALM-focused organizations had no change in SOA development costs `[ps=0]`
 - 44% of Best in Class had no change in SOA development costs `[ps=0]`
 - QA testing and deployment stage problems spill over into production: cited by 31% as challenge `[ps=0]`
+- Revised application lifecycle processes and responsibilities: 45% chose as top response `[ps=0]`
 - Engaged third-party IT services consulting, evaluation, and assessments: 41% response `[ps=0]`
 - Purchase or plan to purchase SOA operations management software: 28% response `[ps=0]`
 - Purchase or plan to purchase SOA security software: 26% response `[ps=0]`
-- Average investment: $2.68 million; average payback: $3.45 million; ROI: +29% `[ps=0]`
-- Average investment: $1.37 million; average payback: $1.18 million; ROI: -14% `[ps=0]`
-- 12% of survey respondents are actively engaged in application lifecycle management for SOA `[ps=0]`
-- 57% of ALM practitioners have had SOA services deployed for more than 1 year vs. 31% of overall survey `[ps=0]`
-- 29% of ALM practitioners have >100 SOA services deployed vs. 11% of overall survey `[ps=0]`
-- 52% of ALM practitioners have SOA governance for BOTH design and run-time operations vs. 29% of overall survey and 29% of Best in Class `[ps=0]`
-- 68% of ALM-focused organizations decreased SOA development costs over last 12 months
-- 20% of ALM-focused organizations saw SOA development costs increase
-- 35% of all respondents saw SOA development costs increase

@@ -13,8 +13,8 @@ lifecycle_at_study: "pre-release"
 lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.56
-prescience_obs_count: 9
+prescience_mean: 2.5
+prescience_obs_count: 10
 ---
 
 # BizWorks Framework
@@ -31,6 +31,6 @@ prescience_obs_count: 9
 - BizWorks or BizWorks agents can be installed at modest cost with no intrusion at suppliers and customers; provides data translation, management, and security through the extended supply chain. `[ps=3]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
 - BizWorks positioned as creating a NEW CLASS of business applications rather than competing with existing EAI (data/process automation) products. `[ps=2]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
 - BizWorks applications/agents will operate on a wide variety of platforms, easing B2B interoperability issues. `[ps=2]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
+- Implementing the functional equivalent of BizWorks would require years, assuming it were even possible. `[ps=2]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
 - CA better suited to keeping BizWorks technology current with expected torrent of technology changes. `[ps=1]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
 - Framework (cross-platform messaging); Agents (real-time business-condition collection/analysis); Visualization; Neugents (pattern recognition); Integration with Unicenter TNG/Jasmine. `[ps=0]` — [[study-ca-interbiz-bizworks-profile-054f3c]]
-- Implementing the functional equivalent of BizWorks would require years, assuming it were even possible. — [[study-ca-interbiz-bizworks-profile-054f3c]]

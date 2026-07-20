@@ -1,6 +1,7 @@
 ---
 title: Quote 290 — CNET News.com (2003-04-29)
 type: quotation
+page_type: quotation
 slug: quote-290
 row_id: 290
 author: "Peter S. Kastner"

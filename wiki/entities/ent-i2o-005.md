@@ -12,9 +12,9 @@ status: "Active (public)"
 successor: "N/A"
 years_active: "1975-present"
 occurrence_count: 1
-prescience_max: 1.0
-prescience_mean: 1.0
-prescience_obs_count: 1
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 2
 ---
 
 # Microsoft Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Windows 2000 included limited I2O support but it was not widely used; Windows XP/Server 2003 effectively dropped I2O `[ps=5]` — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]
 - Windows OS upgrades cited as I2O adoption driver; next releases or service patches will support I2O `[ps=1]` — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]
-- Windows 2000 included limited I2O support but it was not widely used; Windows XP/Server 2003 effectively dropped I2O — [[study-1997-intelligent-i-o-initiative--scaling-aae222]]

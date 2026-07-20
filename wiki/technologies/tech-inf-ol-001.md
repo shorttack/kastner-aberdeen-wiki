@@ -13,8 +13,8 @@ lifecycle_at_study: "Current/Growing"
 lifecycle_current: "Legacy (IBM Informix)"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 2.4
-prescience_obs_count: 5
+prescience_mean: 2.33
+prescience_obs_count: 6
 ---
 
 # Informix-OnLine
@@ -28,5 +28,5 @@ prescience_obs_count: 5
 - Oracle, Microsoft SQL Server, IBM DB2/PostgreSQL dominate; Informix and Sybase acquired `[ps=4]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
 - Informix migration requires few changes due to compatibility tooling `[ps=2]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
 - Informix attractive to Internet providers as web database server `[ps=2]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
+- Informix-OnLine 8.0 merges admin with Tivoli network management via SNMP `[ps=2]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
 - Informix-OnLine supports three asynchronous replication types: high-availability, discrete, continuous `[ps=0]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
-- Informix-OnLine 8.0 merges admin with Tivoli network management via SNMP — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]

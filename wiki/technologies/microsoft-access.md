@@ -12,9 +12,9 @@ era: "1992-present"
 lifecycle_at_study: "active-limited"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Sybase Navigation Server
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Navigation Server platform-limited to NCR 3600; SP2 version imminent — [[study-cab199-1-2-0cb163]]
+- Navigation Server platform-limited to NCR 3600; SP2 version imminent `[ps=0]` — [[study-cab199-1-2-0cb163]]

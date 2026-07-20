@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 2.2
-prescience_obs_count: 5
+prescience_mean: 1.62
+prescience_obs_count: 8
 ---
 
 # Blade server form factor
@@ -27,8 +27,8 @@ prescience_obs_count: 5
 - 15.2% of quarterly worldwide server revenues by Q1 2011 `[ps=5]` — [[study-2001-aberdeen-group-blades-an-evolution-in-server-densi-b56557]]
 - Plug-in server cards offering better control and utilization of processing power `[ps=3]` — [[study-2001-aberdeen-group-blades-an-evolution-in-server-densi-b56557]]
 - Blade servers provide economic relief for IT executives `[ps=3]` — [[study-2001-aberdeen-group-blades-an-evolution-in-server-densi-b56557]]
+- 30% to 50% cost savings for edge deployments `[ps=2]` — [[study-2001-aberdeen-group-blades-an-evolution-in-server-densi-b56557]]
 - Success depends on effective supplier and IS buyer design of blade-server and back-end storage architectures `[ps=0]` — [[study-2001-aberdeen-group-blades-an-evolution-in-server-densi-b56557]]
 - Acquired by HP in October 2005 for undisclosed sum `[ps=0]` — [[study-2001-aberdeen-group-blades-an-evolution-in-server-densi-b56557]]
-- 30% to 50% cost savings for edge deployments — [[study-2001-aberdeen-group-blades-an-evolution-in-server-densi-b56557]]
-- 50% of worldwide blade server factory revenue by Q1 2011 — [[study-2001-aberdeen-group-blades-an-evolution-in-server-densi-b56557]]
-- Two InSights published Nov 2001: Manter (density/cost) and Tanner (SAN virtualization pairing) — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- 50% of worldwide blade server factory revenue by Q1 2011 `[ps=0]` — [[study-2001-aberdeen-group-blades-an-evolution-in-server-densi-b56557]]
+- Two InSights published Nov 2001: Manter (density/cost) and Tanner (SAN virtualization pairing) `[ps=0]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

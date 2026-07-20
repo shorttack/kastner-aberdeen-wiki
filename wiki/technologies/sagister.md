@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.67
-prescience_obs_count: 15
+prescience_mean: 2.35
+prescience_obs_count: 17
 ---
 
 # Sagister
@@ -37,7 +37,7 @@ prescience_obs_count: 15
 - IS professionals consistently state UNIX is a step down from GCOS/MVS/VMS in manageability, reliability, availability, security; Sagister fills this gap `[ps=2]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - Aberdeen assesses Sagister as 'must-have' product for running production UNIX applications in enterprise datacenters `[ps=1]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - CA-Unicenter provides similar operations functionality but lacks event management, HA functions, common graphical command icons, and Function Sets `[ps=1]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
+- Bull has over 15 years of experience implementing UNIX systems in customer operations `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
+- Approximately 200 individuals assigned to the Sagister project `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - 1995 revenues FF 26,656M; net profit FF 306M — first profit since 1988 `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
 - Bull will support up to 16 CPUs per system by end of 1997 (from current 8 CPUs max in SMP) `[ps=0]` — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
-- Bull has over 15 years of experience implementing UNIX systems in customer operations — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]
-- Approximately 200 individuals assigned to the Sagister project — [[study-aberdeen-1996-bulls-sagister-datacenterdisciplined-unix-businesscritical-applications]]

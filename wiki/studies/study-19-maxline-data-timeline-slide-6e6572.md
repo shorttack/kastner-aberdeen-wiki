@@ -16,12 +16,12 @@ source_file: "19-MaXLine-Data-Timeline-Slide.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 7
+prescience_mean: 2.6
+prescience_obs_count: 15
 ---
 
 # MaXLine in the Data Center Spectrum: Data Value vs. Duration Positioning Slide
@@ -41,17 +41,17 @@ _Published 2003, author **Maxtor Corporation**, type **employer-record**._
 ## Top observations
 
 - Tape; low-speed storage; direct/SAN attached; sequential data access; removable media; low I/O performance `[ps=5]`
+- Off-Line Storage / Tape Library; low-speed; removable; sequential; low I/O `[ps=5]`
 - Two axes: Data Value (Y-axis: high to low) and Data Duration (X-axis: minutes to years) `[ps=4]`
+- MaXLine; medium-speed bulk storage; network attached; sequential & random data access; low cost per GB; moderate I/O performance `[ps=4]`
 - Near-Line Storage / Content Storage; network attached; sequential and random access `[ps=4]`
 - ATA positioned in spectrum below MaXLine toward consumer/low-reliability zone `[ps=4]`
+- A distinct disk-based nearline tier (MaXLine) will emerge between high-performance SCSI and tape in enterprise data centers `[ps=4]`
 - Sequential and random data access (both) — unlike tape which is sequential-only `[ps=4]`
+- High-End SCSI (Atlas); high-speed storage; direct/NAS/SAN attached; random data access; high I/O performance `[ps=3]`
+- Two-axis (Data Value / Data Duration) model will be adopted as the standard way to classify storage tiers `[ps=2]`
+- High-end Performance Storage / On-Line Server; high-speed; direct/NAS/SAN attached; random access; high I/O `[ps=0]`
 - Low cost per GB `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
-- High-End SCSI (Atlas); high-speed storage; direct/NAS/SAN attached; random data access; high I/O performance
-- MaXLine; medium-speed bulk storage; network attached; sequential & random data access; low cost per GB; moderate I/O performance
-- High-end Performance Storage / On-Line Server; high-speed; direct/NAS/SAN attached; random access; high I/O
-- Off-Line Storage / Tape Library; low-speed; removable; sequential; low I/O
-- A distinct disk-based nearline tier (MaXLine) will emerge between high-performance SCSI and tape in enterprise data centers
-- Two-axis (Data Value / Data Duration) model will be adopted as the standard way to classify storage tiers
-- [UNVERIFIED]
-- Network attached (vs Atlas which is direct/NAS/SAN)
+- [UNVERIFIED] `[ps=0]`
+- Network attached (vs Atlas which is direct/NAS/SAN) `[ps=0]`

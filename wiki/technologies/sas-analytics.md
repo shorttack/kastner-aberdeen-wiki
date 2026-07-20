@@ -14,7 +14,7 @@ lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # SAS (Statistical Analysis System)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - 2200-3000 California users `[ps=0]` — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]
-- long-standing SLAs — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]
+- long-standing SLAs `[ps=0]` — [[study-kaiser-permanente-ramp-interview-for-max-8e4033]]

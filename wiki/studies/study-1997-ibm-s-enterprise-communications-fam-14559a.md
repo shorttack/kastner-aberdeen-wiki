@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.06
-prescience_obs_count: 16
+prescience_mean: 2.11
+prescience_obs_count: 18
 ---
 
 # IBM Network Computing: Enterprise Communications Family
@@ -40,6 +40,7 @@ _Published 1997, author **Aberdeen Group**, type **profile**._
 
 ## Top observations
 
+- Obsolete by mid-2000s; TCP/IP won outright without bridging layer `[ps=5]`
 - ATM failed to gain broad enterprise LAN/WAN adoption; displaced by Gigabit Ethernet and MPLS `[ps=5]`
 - Positive: native sockets implementation improves TCP/IP performance on mainframe `[ps=4]`
 - Positive: smaller software footprint, better performance than encapsulation `[ps=3]`
@@ -54,7 +55,6 @@ _Published 1997, author **Aberdeen Group**, type **profile**._
 - Positive outlook: expected to grow for high-bandwidth applications `[ps=0]`
 - Supported via AnyNet: SNA over TCP/IP and TCP/IP over SNA gateways `[ps=0]`
 - Predicted to remain important via multiprotocol bridging strategies `[ps=0]`
+- Distributed CS end-of-support announced April 2024; z/OS version continued `[ps=0]`
 - Server-side (CS/2, CS/NT, CS/AIX, OS/400, NetWare, CS/MVS) + client-side (Personal Communications) `[ps=0]`
 - Performance/scalability; open flexibility; robustness; ease of migration `[ps=0]`
-- Distributed CS end-of-support announced April 2024; z/OS version continued
-- Obsolete by mid-2000s; TCP/IP won outright without bridging layer

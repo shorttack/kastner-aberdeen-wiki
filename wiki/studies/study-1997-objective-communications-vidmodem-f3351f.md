@@ -16,12 +16,12 @@ source_file: "1997 Objective Communications_ VidModem Technology im.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "low"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 3.27
-prescience_obs_count: 15
+prescience_mean: 3.24
+prescience_obs_count: 17
 ---
 
 # Breakthrough: Objective Communications' VidModem Technology Transforms The Phone Line Into A Two-Way, Broadcast-Quality Multi-Medium
@@ -44,6 +44,7 @@ _Published 1997, author **Patricia Borns / Aberdeen Group**, type **Technology I
 - VidModem and ATM service both declined; IP-based broadband and internet video bypassed the telco ATM path entirely `[ps=5]`
 - Objective Communications did not survive as independent company; VidModem technology displaced by IP video `[ps=4]`
 - Telephone carriers lined up behind VidModem for ATM promotion but dependency on telco buildout poses risk (like ISDN) `[ps=4]`
+- H.323 SIP and IP video conferencing displaced analog approaches; Cisco Polycom Tandberg dominated enterprise video `[ps=4]`
 - Objective should cultivate partnerships beyond telcos — ISPs NC players PC manufacturers cable companies `[ps=4]`
 - Zoom Microsoft Teams Google Meet WebRTC-based platforms fulfilled enterprise multimedia vision Aberdeen described `[ps=4]`
 - DSL used same twisted pair for broadband internet enabling IP video — different solution same physical medium insight `[ps=4]`
@@ -52,8 +53,7 @@ _Published 1997, author **Patricia Borns / Aberdeen Group**, type **Technology I
 - Best suited for call centers banking/finance ATM kiosks medical/imaging manufacturing shop floor military/field training `[ps=3]`
 - VidModem enables CTVI — Computer Telephony Video Integration — seamless segue from phone call to videoconference to document sharing `[ps=3]`
 - Existing twisted pair phone wire viable as multimedia transport with VidModem — no rewiring required `[ps=3]`
+- Switch handles 5 to 100 users; interfaces with ATM ISDN coax DSS `[ps=2]`
 - Overcomes bandwidth CPU drain installation complexity and cost barriers of existing computer-analog integration schemes `[ps=2]`
 - VidModem scales more easily than current multimedia-to-desktop solutions as IS upgrades WAN or incorporates different appliances `[ps=2]`
 - Below $3000 per user in useful configuration `[ps=0]`
-- Switch handles 5 to 100 users; interfaces with ATM ISDN coax DSS
-- H.323 SIP and IP video conferencing displaced analog approaches; Cisco Polycom Tandberg dominated enterprise video

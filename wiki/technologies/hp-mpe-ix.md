@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: ""
 lifecycle_current: "end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 2
 ---
 
 # HP MPE/iX
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
--  — [[study-hptpc92-2fd423]]
--  — [[study-hptpc92-2fd423]]
+-  `[ps=0]` — [[study-hptpc92-2fd423]]
+-  `[ps=0]` — [[study-hptpc92-2fd423]]

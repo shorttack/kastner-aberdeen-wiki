@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 1.0
-prescience_obs_count: 4
+prescience_mean: 0.8
+prescience_obs_count: 5
 ---
 
 # Operational Data Store (ODS)
@@ -28,4 +28,4 @@ prescience_obs_count: 4
 - 24% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
 - 63% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
 - 14% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
-- qualitative — [[study-ra-bpm-2006-f5a558]]
+- qualitative `[ps=0]` — [[study-ra-bpm-2006-f5a558]]

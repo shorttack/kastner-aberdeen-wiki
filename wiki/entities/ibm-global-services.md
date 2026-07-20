@@ -13,8 +13,8 @@ successor: "Kyndryl (infrastructure spin-off 2021) + IBM Consulting"
 years_active: "1991-present"
 occurrence_count: 6
 prescience_max: 5.0
-prescience_mean: 1.58
-prescience_obs_count: 19
+prescience_mean: 1.95
+prescience_obs_count: 22
 ---
 
 # IBM Global Services
@@ -29,8 +29,11 @@ prescience_obs_count: 19
 
 ## Top observations
 
+- IBM spun out managed infrastructure services as Kyndryl in 2021 `[ps=5]` — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]
 - By early 2000s IBM became leader in IT services and consulting; $7B+ cost avoidance 1996-1998; services dominant revenue driver `[ps=5]` — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]
+- IBM's E-Business initiative unifies all marketing, product, and services strategies under single theme `[ps=4]` — [[study-1999pr~1-c5516b]]
 - IBM likely world's largest provider of IT-related professional services and business strategic planning `[ps=4]` — [[study-1999pr~1-c5516b]]
+- 30% annual growth for past 4 years in customer-intimate professional services `[ps=4]` — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]
 - Replication of implementations combined with Network Computing migration will increase revenues by >$8B/year in foreseeable future `[ps=4]` — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]
 - Formidable competitor; all competitors challenged to overcome IBM's dominant services position `[ps=4]` — [[study-teleco~1-c01702]]
 - IBM customers cite reliability as primary reason for purchasing IBM professional services; pricing secondary consideration `[ps=3]` — [[study-1999pr~1-c5516b]]
@@ -46,6 +49,3 @@ prescience_obs_count: 19
 - Aberdeen estimates IBM derives ~$11.5 billion annually in product support revenues `[ps=0]` — [[study-1999pr~1-c5516b]]
 - $20.1B revenue; $29B backlog; 100,000 employees (of 225,000 total IBM) `[ps=0]` — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]
 - 100,000 at study; on-track for 110,000 by end 1996; 45% of IBM total employees `[ps=0]` — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]
-- 140 functional areas replicable; planned increase to 170+ `[ps=0]` — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]
-- IBM spun off infrastructure services as Kyndryl (2021); consulting retained as IBM Consulting; Aberdeen had warned against spin-off `[ps=0]` — [[study-aberdeen-1996-ibm-transformation-business-machines-information-service]]
-- IBM spun out managed infrastructure services as Kyndryl in 2021 — [[study-1997-ibm-s-solution-centric-global-healt-7a073f]]

@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 0.77
-prescience_obs_count: 35
+prescience_mean: 0.73
+prescience_obs_count: 45
 ---
 
 # Intel's Itanium: Ready and Desirable for Mainframe-Class Workloads
@@ -46,10 +46,15 @@ _Published 2004, author **Aberdeen Group**, type **white-paper**._
 - Partially correct via x86-64 `[ps=4]`
 - Ready for mainframe-class workloads `[ps=3]`
 - 50-70% native performance `[ps=2]`
+- 2x or more on same workload `[ps=2]`
+- 64% believe capable `[ps=2]`
+- 30-100% better than Xeon `[ps=1]`
 - Xeon/Itanium cost parity planned `[ps=1]`
 - 10-20x greater for mainframe `[ps=1]`
+- Unfounded per users `[ps=1]`
 - Not comparable to Intel alternative `[ps=1]`
 - 7x over 3 years `[ps=0]`
+- discontinued `[ps=0]`
 - 1000+ key business applications `[ps=0]`
 - 50+ platforms `[ps=0]`
 - 24% `[ps=0]`
@@ -60,8 +65,3 @@ _Published 2004, author **Aberdeen Group**, type **white-paper**._
 - 2900 programs in 1.25 years `[ps=0]`
 - no `[ps=0]`
 - close to order of magnitude `[ps=0]`
-- one-third of mainframe `[ps=0]`
-- 3 months `[ps=0]`
-- Main barrier cited `[ps=0]`
-- Less real-world-tested `[ps=0]`
-- 98 respondents `[ps=0]`

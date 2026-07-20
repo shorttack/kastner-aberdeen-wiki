@@ -1,6 +1,7 @@
 ---
 title: Quotations Corpus v1 — Index
 type: methodology
+page_type: methodology
 slug: quotations-corpus-v1
 author: Peter S. Kastner
 scorer_version: quotations_corpus_v1

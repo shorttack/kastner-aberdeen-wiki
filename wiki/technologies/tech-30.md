@@ -12,9 +12,9 @@ era: "1995–1999"
 lifecycle_at_study: "active-standard"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 2.0
+prescience_mean: 2.0
+prescience_obs_count: 1
 ---
 
 # TPC-D Benchmark
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- TPC-D equals decision support — industry theme — [[study-cab199-1-2-0cb163]]
+- TPC-D equals decision support — industry theme `[ps=2]` — [[study-cab199-1-2-0cb163]]

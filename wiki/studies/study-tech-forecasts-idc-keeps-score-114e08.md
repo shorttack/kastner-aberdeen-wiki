@@ -16,12 +16,12 @@ source_file: "Tech-Forecasts-IDC-Keeps-Score.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.0
-prescience_obs_count: 4
+prescience_mean: 4.17
+prescience_obs_count: 6
 ---
 
 # Tech Forecasts: IDC Keeps Score
@@ -41,8 +41,8 @@ _Published 2002, author **Elisa Batista, Wired**, type **news-article**._
 ## Top observations
 
 - Worldwide IT spending grew approximately 5-6% in 2003 per subsequent IDC 2004 data — broadly validating the IDC forecast discussed here, though well below pre-dot-com trend. `[ps=5]`
+- Windows XP became the most widely-deployed Windows release in history, remaining a meaningful share of enterprise and consumer installs until Microsoft ended support on April 8 2014 — vindicating Kastner's 'stable operating system' framing. `[ps=5]`
 - IDC forecasts companies will replace outdated hardware next year (2003) and projects a 6% IT-spending increase — revised after its 2001 forecast of a 2002 rebound missed by a year. `[ps=4]`
 - Competing analysts project closer to 3% 2003 IT-spending growth — half the IDC forecast — reflecting continued industry skepticism about the pace of post-dot-com recovery. `[ps=4]`
+- Jupiter Research analysts report 82% of executives say their companies use web services in some capacity — Jupiter warns the term has been bandied about so much it has reached 'hysteria levels.' `[ps=4]`
 - They did get that one right. Because it is a stable operating system, the Windows XP launch came and went without much brouhaha. `[ps=3]`
-- Jupiter Research analysts report 82% of executives say their companies use web services in some capacity — Jupiter warns the term has been bandied about so much it has reached 'hysteria levels.'
-- Windows XP became the most widely-deployed Windows release in history, remaining a meaningful share of enterprise and consumer installs until Microsoft ended support on April 8 2014 — vindicating Kastner's 'stable operating system' framing.

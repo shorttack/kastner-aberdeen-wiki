@@ -13,8 +13,8 @@ lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 3
 prescience_max: 4.0
-prescience_mean: 0.16
-prescience_obs_count: 95
+prescience_mean: 0.13
+prescience_obs_count: 117
 ---
 
 # Business Process Management Suite (BPM)
@@ -34,13 +34,13 @@ prescience_obs_count: 95
 - 63% of supply-chain companies lack IT governance/process systems to ensure SOA success vs 43% overall `[ps=0]` — [[study-bpm-align-business-f76616]]
 - BPM tool satisfaction: 17% Best-in-Class vs 6% Industry Average vs 3% Laggard `[ps=0]` — [[study-bpm-align-business-f76616]]
 - Mid-size organizations more likely than small or large to cite organizational and technical impediments to progress `[ps=0]` — [[study-bpm-align-business-f76616]]
+- 30% `[ps=0]` — [[study-ra-bam-bpm-37679c]]
 - 58% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
 - 160+ Global 5000 enterprises `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
 - 30 `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
 - 42% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
+- 50% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
 - 18% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
+- 10% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
+- 9% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
 - 12% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
-- 87% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
-- 84% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
-- 5% `[ps=0]` — [[study-ra-bpm-2006-f5a558]]
-- $101K-$500K `[ps=0]` — [[study-ra-bpm-2006-f5a558]]

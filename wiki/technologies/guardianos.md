@@ -14,7 +14,7 @@ lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'GuardianOS (
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # GuardianOS (Linux-based)
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Linux-based OS for departmental and enterprise Snap Servers; snapshots and Windows ADS support; same ease of use as workgroup SnapOS `[ps=0]` — [[study-snap-appliance-snapshot-2003]]
-- GuardianOS (Linux-based) — [[study-snap-appliances-snapshot-10-15pk-f183fe]]
+- GuardianOS (Linux-based) `[ps=0]` — [[study-snap-appliances-snapshot-10-15pk-f183fe]]

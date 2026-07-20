@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "mature"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # Urban Wi-Fi hotspot (2003-era)
@@ -25,5 +25,5 @@ prescience_obs_count: 1
 ## Top observations
 
 - No — crash averted by rapid 802.11n (2007-2009) adoption, widespread 5GHz migration, improved rate-adaptation, and mesh/enterprise-controller architectures. But interference issues did become real and sustained in 2.4GHz by 2007-2010. Partial validation. `[ps=4]` — [[study-urban-wifi-gridlock-eweek-2003-kastner-r-2e0114]]
-- Report title: 'The Urban Wi-Fi Crash of 2004.' Predicts urban-hot-spot interference will threaten users as overlapping access points multiply in 'the shadows'. — [[study-urban-wifi-gridlock-eweek-2003-kastner-r-2e0114]]
-- Aberdeen Group report titled 'The Urban Wi-Fi Crash of 2004' by Peter Kastner — [[study-urban-wifi-gridlock-eweek-2003-kastner-r-2e0114]]
+- Report title: 'The Urban Wi-Fi Crash of 2004.' Predicts urban-hot-spot interference will threaten users as overlapping access points multiply in 'the shadows'. `[ps=2]` — [[study-urban-wifi-gridlock-eweek-2003-kastner-r-2e0114]]
+- Aberdeen Group report titled 'The Urban Wi-Fi Crash of 2004' by Peter Kastner `[ps=1]` — [[study-urban-wifi-gridlock-eweek-2003-kastner-r-2e0114]]

@@ -16,12 +16,12 @@ source_file: "Video-conferencing-post-911-Zoom-quote-6.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 2.17
-prescience_obs_count: 6
+prescience_mean: 1.75
+prescience_obs_count: 8
 ---
 
 # Telephony Magazine — 'Early hopes quickly dashed: Post-attack demand for conferencing and hosting services may be fleeting' (Vincent Ryan; PSK Aberdeen CRO quoted, 2001-09-24)
@@ -44,7 +44,7 @@ _Published 2001, author **Vincent Ryan (Telephony staff)**, type **trade-press-f
 - Changing the communications habits of businesses won't be easy `[ps=4]`
 - Our [telecom] world has been so depressed and beat up that the impact from these [terrorism] events is going to be negligible `[ps=3]`
 - chief research officer for Aberdeen Group `[ps=2]`
+- AT&T and WorldCom frame relay network outages were a hot topic `[ps=1]`
 - Vendors selling videoconferencing equipment could see their sales expand by as much as 35 percent in the fourth quarter of 2001 `[ps=0]`
 - Department of Justice decides not to block Polycom/PictureTel merger `[ps=0]`
-- OC-12 set up at 60 Hudson St. to bring dial-tone service to New York's City Hall (NEON Communications, pro bono)
-- AT&T and WorldCom frame relay network outages were a hot topic
+- OC-12 set up at 60 Hudson St. to bring dial-tone service to New York's City Hall (NEON Communications, pro bono) `[ps=0]`

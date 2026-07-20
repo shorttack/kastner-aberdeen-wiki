@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "current"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'NetBench was a file serving benchmark from Ziff Davis; the benchmark program has been discontinued and is no longer actively maintained or used for current systems.', 'source': 'General benchmark history'}"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 1.0
+prescience_mean: 1.0
+prescience_obs_count: 1
 ---
 
 # NetBench 7.01 File Serving Benchmark
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Linux 20% less throughput than Wintel — [[study-intelitaniummfewp1[1]-773ea2]]
+- Linux 20% less throughput than Wintel `[ps=1]` — [[study-intelitaniummfewp1[1]-773ea2]]

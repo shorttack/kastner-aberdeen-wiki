@@ -12,9 +12,9 @@ era: "1994-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Direct Broadcast Satellite (DBS)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Emerging alternative CE channel with subscriber lock-in hardware — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]
+- Emerging alternative CE channel with subscriber lock-in hardware `[ps=4]` — [[study-2002-alternate-consumer-electronics-channels-ppliers-em-b9052b]]

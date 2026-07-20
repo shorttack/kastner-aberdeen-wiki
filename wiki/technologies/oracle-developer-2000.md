@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 2.0
-prescience_obs_count: 12
+prescience_mean: 1.85
+prescience_obs_count: 13
 ---
 
 # Oracle Developer/2000
@@ -36,4 +36,4 @@ prescience_obs_count: 12
 - Advanced 4GL including Forms/Graphics/GUIs, Reports, procedure building, connectivity tools, and server-based development tools `[ps=0]` — [[study-1997-oracle-developer-2000-client-server-development-en-5f98ce]]
 - Oracle Forms provides forms generation with PL/SQL support; runs on Windows, Unix, and Web via Java `[ps=0]` — [[study-1997-oracle-developer-2000-client-server-development-en-5f98ce]]
 - Developer/2000 front-end runs on Windows 95/NT/3.x; server side on Unix and major platforms `[ps=0]` — [[study-1997-oracle-developer-2000-client-server-development-en-5f98ce]]
-- Developer/2000 is a refinement of Oracle's second-generation Cooperative Development Environment (CDE 2) — [[study-1997-oracle-developer-2000-client-server-development-en-5f98ce]]
+- Developer/2000 is a refinement of Oracle's second-generation Cooperative Development Environment (CDE 2) `[ps=0]` — [[study-1997-oracle-developer-2000-client-server-development-en-5f98ce]]

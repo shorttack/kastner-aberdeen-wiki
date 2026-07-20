@@ -16,12 +16,12 @@ source_file: "Mid-Line-Storage-White-Paper-06-13-03-3.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.97
-prescience_obs_count: 29
+prescience_mean: 3.2
+prescience_obs_count: 40
 ---
 
 # Mid-Line Disk Storage Emerging as Significant Cost-Saving Opportunity
@@ -48,20 +48,20 @@ _Published 2003, author **Peter Kastner; David Hill / Aberdeen Group**, type **w
 - In 30TB+ FC environments: savings greater than $100K off deals formerly $300K+ `[ps=4]`
 - Over 25% of enterprise storage buyers showed high willingness to purchase higher-capacity/lower-cost disks `[ps=4]`
 - Nearly 50% showed moderate willingness to purchase higher-capacity/lower-cost disks `[ps=4]`
+- 75% of storage buyers are moderately or highly likely to buy mid-line storage in the coming year `[ps=4]`
 - ~40% of respondents said highly likely to purchase low-cost disk storage `[ps=4]`
 - 60% of respondents have single applications with very large non-changing/static data (video images data warehouse detailed data old e-mails) `[ps=4]`
+- ~50% of respondents said backup management is a burden `[ps=4]`
 - ~50% of respondents would not guarantee all critical data can be restored on a given day `[ps=4]`
+- Level 1 (top): Solid-state disks (ultra-performance); Level 2: High-performance FC/SCSI (mission-critical OLTP); Level 3: Mid-line ATA (fixed content aged data); Level 4 (bottom): Tape (backup/restore off-site) `[ps=4]`
+- Over half of enterprise data will eventually fall into the mid-line `[ps=4]`
 - Wikibon 2011 estimated SATA high-capacity disks would hold 85% of enterprise data and 40% of storage spend by 2015 `[ps=4]`
 - Traditional OLTP (order entry): update-intensive; keep on high-performance disk; closed transactions (shipped orders) may move to midline `[ps=4]`
+- Contemporary mixed applications (e.g. SAP/R3): mix of writes and reads; if data can be segregated mid-line may work for static portions `[ps=4]`
+- Query-intensive (sequential reads); mid-line storage can play a significant role; compelling cost-per-GB argument `[ps=4]`
 - X-rays MRIs: fixed after creation; low access frequency; midline sufficient. Large distribution files (MP3 video): read-only copies; midline or high-perf depending on performance requirements `[ps=4]`
 - 1. Embedded in array or storage appliance (incremental case-by-case); 2. Proactive architectural planning (strategic storage pyramid review) `[ps=4]`
 - IT must adopt QoS perspective; not all applications require same service levels; create formal or informal SLAs; long-term: storage utility as part of information utility `[ps=4]`
 - Enterprises that manage ILM effectively will: cut disk storage costs; balance performance to need; focus IT administrator resources; achieve greater scalability and flexibility `[ps=4]`
-- By 2006 Warner Bros running multi-tiered FC/SATA/tape environment; tiered storage became standard feature of every enterprise storage product (EMC NetApp Dell etc.) `[ps=4]`
-- Most data is in middle age where value is less and where mid-line disk is most appropriate `[ps=4]`
-- SCSI disks can reach more than 5x the cost of ATA disks `[ps=3]`
-- More than half of enterprises are completely run online using Fibre Channel (FC) and SCSI disks `[ps=2]`
-- Aberdeen's 4 Pools lexicon (Online Midline Nearline Offline) became industry standard terminology; 'nearline' storage remains standard enterprise storage vocabulary `[ps=2]`
-- 75 face-to-face and telephone interviews with storage managers at companies with $1B+ revenue; includes several Fortune 50-size businesses `[ps=0]`
-- Storage accessed by servers using: mainframe; Windows; Unix/Linux `[ps=0]`
-- ATA disks have 2-8x storage capacity of FC/SCSI; up to 300 GB per ATA disk compared to 142/72/36 GB per FC/SCSI disk `[ps=0]`
+- Mid-line storage is a 'quiet' storage revolution; enterprises are still learning how to best use the new tier `[ps=4]`
+- Time and technology have arrived for mid-line storage to become a critical and cost-effective component of every enterprise storage strategy `[ps=4]`

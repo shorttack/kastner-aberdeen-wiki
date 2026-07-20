@@ -16,12 +16,12 @@ source_file: "Preview-of-On-the-Impact-of-Paul-Ot....-Kastner-on-Technology-copy
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "low"
 prescience_5y_enum: "low"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 5
+prescience_max: 3.0
+prescience_mean: 0.38
+prescience_obs_count: 8
 ---
 
 # On the Impact of Paul Otellini's CEO Years at Intel (Kastner Blog Preview)
@@ -40,11 +40,11 @@ _Published 2013, author **Peter S. Kastner**, type **topic-analysis**._
 
 ## Top observations
 
+- Multi-core PC born 2006 in Core 2 Duo `[ps=3]`
+- Title retitled from 'How the IT Industry Changed Under Intel's Paul Otellini' (Apr 17) to 'On the Impact of Paul Otellini's CEO Years at Intel' (Apr 19) `[ps=0]`
 - $34.2B, up 13.5% `[ps=0]`
 - #46 on Fortune 100 `[ps=0]`
 - Over 52% US retail share `[ps=0]`
 - Right-hand turn pivot concept `[ps=0]`
+- 90nm `[ps=0]`
 - Odd = architecture; even = process `[ps=0]`
-- Title retitled from 'How the IT Industry Changed Under Intel's Paul Otellini' (Apr 17) to 'On the Impact of Paul Otellini's CEO Years at Intel' (Apr 19)
-- Multi-core PC born 2006 in Core 2 Duo
-- 90nm

@@ -16,7 +16,7 @@ source_file: "transcript CNBC 8_6_1994 Technology Edge show.md"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "not-applicable"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "high"
 prescience_max: null

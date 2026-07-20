@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.47
-prescience_obs_count: 17
+prescience_mean: 2.44
+prescience_obs_count: 18
 ---
 
 # IBM + Webify = Industry SOA Application Jumpstart
@@ -51,10 +51,10 @@ _Published 2006, author **Peter S. Kastner**, type **employer-record**._
 - Webify provides pre-built customizable SOA parts, models, and business policies for insurance, healthcare, banking, and telecom markets `[ps=3]`
 - IBM with Webify is in a class of its own — vertical-market application components represent a viable adjunct to ERP systems from SAP/Oracle/Infor/Lawson `[ps=3]`
 - Oracle process-model-driven Fusion applications expected next year (2007) `[ps=3]`
+- Vitria's vertical applications may gain more consideration now that IBM is blessing the concept of flexible customization `[ps=2]`
 - HP has had outstanding vertical process models on the shelf for three years and now, with Mercury Interactive acquisition SOA infrastructure, is better positioned to enter next-gen application space — but has not yet done so `[ps=2]`
 - Enterprise application programmer executives (especially healthcare and insurance) should evaluate IBM-Webify vs. Eclipse or Microsoft Visual Studio on metric of lifecycle lines of code written `[ps=2]`
 - ~50% of survey participants building SOA applications using web services and lightweight SOA tools (SOA Lite) `[ps=0]`
 - Building new composite applications across custom-built and/or third-party applications using general-purpose SOA development tools `[ps=0]`
 - Initial Webify solutions for IBM WebSphere and IBM Rational will cover insurance and healthcare; subsequent solutions for banking, telecom, and public sector under development `[ps=0]`
 - Webify enables IBM to hold business transformation discussions at boardroom level; time-to-market conversations with application programming managers; software lifecycle costs conversations with CIOs `[ps=0]`
-- Vitria's vertical applications may gain more consideration now that IBM is blessing the concept of flexible customization

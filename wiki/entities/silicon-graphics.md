@@ -13,8 +13,8 @@ successor: "Bankruptcy 2006; assets acquired by Rackable Systems (2009 for $25M)
 years_active: "1981-2009"
 occurrence_count: 9
 prescience_max: 5.0
-prescience_mean: 2.57
-prescience_obs_count: 14
+prescience_mean: 2.94
+prescience_obs_count: 17
 ---
 
 # Silicon Graphics, Inc. (SGI)
@@ -29,9 +29,12 @@ prescience_obs_count: 14
 
 ## Top observations
 
+- SGI exited traditional Unix workstation market by early 2000s; company filed bankruptcy in 2006 and 2009; acquired by Rackable Systems 2009, then HPE 2016 `[ps=5]` — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]
+- Improvements in IS support and service required for enterprise acceptance `[ps=5]` — [[study-silicon-graphics-origin-servers-a-high-duct-with-p-447a86]]
 - SGI filed Chapter 11 bankruptcy in May 2006; failed to overcome workstation-culture and enterprise support barriers; commodity Linux/Intel clusters displaced high-end Unix workstations `[ps=5]` — [[study-silicon-graphics-origin-servers-a-high-duct-with-p-447a86]]
 - Aberdeen: Vectra XW poses a legitimate price/performance threat to low-end Unix workstations; SGI/Sun Unix-only stance is a risk `[ps=4]` — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]
 - SGI beginning all-out push to focus on enterprise-scale business customers; improving IS support/service; customizing for vertical markets (financial/telecom) `[ps=4]` — [[study-silicon-graphics-origin-servers-a-high-duct-with-p-447a86]]
+- SGI must overcome its technical-workstation culture to succeed in enterprise commercial markets `[ps=4]` — [[study-silicon-graphics-origin-servers-a-high-duct-with-p-447a86]]
 - SGI recognizing increasing shift from technical/workstation revenues to commercial revenues; beginning enterprise push `[ps=4]` — [[study-silicon-graphics-origin-servers-a-high-duct-with-p-447a86]]
 - Declining market share; financial and management turmoil; undercut by Sun HP and NT-on-Intel `[ps=4]` — [[study-workst~1-d22401]]
 - Highly scalable with high-bandwidth bus; VLM and complex-data support; strong TPC-C benchmark results `[ps=3]` — [[study-silicon-graphics-origin-servers-a-high-duct-with-p-447a86]]
@@ -43,7 +46,4 @@ prescience_obs_count: 14
 - Silicon Graphics maintains Unix-only position in technical computing; no NT commitment `[ps=1]` — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]
 - 500-600 tpm `[ps=0]` — [[study-aberdeen-1996-hp-9000-enterprise-server-64bit-pa8000]]
 - Acquired by Silicon Graphics 1992 `[ps=0]` — [[study-nti-2-open-systems-1dd3af]]
-- SGI exited traditional Unix workstation market by early 2000s; company filed bankruptcy in 2006 and 2009; acquired by Rackable Systems 2009, then HPE 2016 — [[study-aberdeen-1996-hp-vectra-xw-personal-workstation]]
 - New backup/restore technology assessed positively — [[study-aberdeen-1997-aberdeen-group-impacts]]
-- SGI must overcome its technical-workstation culture to succeed in enterprise commercial markets — [[study-silicon-graphics-origin-servers-a-high-duct-with-p-447a86]]
-- Improvements in IS support and service required for enterprise acceptance — [[study-silicon-graphics-origin-servers-a-high-duct-with-p-447a86]]

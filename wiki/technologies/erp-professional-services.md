@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.14
-prescience_obs_count: 7
+prescience_mean: 2.75
+prescience_obs_count: 8
 ---
 
 # ERP Professional Services
@@ -29,6 +29,6 @@ prescience_obs_count: 7
 - Hardware vs. software vs. management consulting background differentiates firms `[ps=4]` — [[study-decision-maker-erp-services-805ce8]]
 - Supporting services as secondary ERP professional services category `[ps=4]` — [[study-decision-maker-erp-services-805ce8]]
 - Cost of ERP professional services is a primary decision variable for IT buyers `[ps=4]` — [[study-decision-maker-erp-services-805ce8]]
+- 20 ERP professional services firms profiled `[ps=0]` — [[study-decision-maker-erp-services-805ce8]]
 - Are professional services needed at all? `[ps=0]` — [[study-decision-maker-erp-services-805ce8]]
 - Services firms use tools and methodologies to speed up deployment process `[ps=0]` — [[study-decision-maker-erp-services-805ce8]]
-- 20 ERP professional services firms profiled — [[study-decision-maker-erp-services-805ce8]]

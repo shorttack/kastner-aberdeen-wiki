@@ -12,9 +12,9 @@ era: "1991-2005"
 lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Rapid Application Deployment (RAD)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Use Rapid Application Deployment to maintain business momentum; demonstrate ROI early to secure continued funding — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]
+- Use Rapid Application Deployment to maintain business momentum; demonstrate ROI early to secure continued funding `[ps=4]` — [[study-aberdeen-1996-enterprise-data-knowledge-integrated-data-marts]]

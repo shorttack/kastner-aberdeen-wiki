@@ -13,8 +13,8 @@ lifecycle_at_study: "Emerging"
 lifecycle_current: "Defunct"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 2.17
-prescience_obs_count: 6
+prescience_mean: 1.6
+prescience_obs_count: 10
 ---
 
 # System ESS (Enterprise Supply System)
@@ -27,10 +27,10 @@ prescience_obs_count: 6
 - Backup/restore will go from commodity to strategic capability `[ps=5]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
 - First-mover; ½ to 1-year technology lead `[ps=4]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
 - Compaq's acquisition of DEC in June 1998 effectively ended NonStop VLDB product development and marketing as predicted. `[ps=4]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
+- High-end Unix or cost-effective Windows NT `[ps=3]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
+- 400–750 GB/hour `[ps=0]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
 - 3-16% in tests `[ps=0]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
+- 1.5 TB/hour (with 1-2 additional TLIOP channels) `[ps=0]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
+- Oracle, Informix, Sybase, Microsoft SQL Server, SAP R/3 `[ps=0]` — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
 - Enterprises with $250M+ annual sales in CPG, consumer/industrial products, wholesale distribution `[ps=0]` — [[study-1997-industry-matematik-international-co-c398bc]]
 - Significant Fortune 500 customer wins; consistent high scores in CPG demand-chain evaluations `[ps=0]` — [[study-1997-industry-matematik-international-co-c398bc]]
-- 400–750 GB/hour — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
-- 1.5 TB/hour (with 1-2 additional TLIOP channels) — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
-- Oracle, Informix, Sybase, Microsoft SQL Server, SAP R/3 — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]
-- High-end Unix or cost-effective Windows NT — [[study-1997-digital-s-terabyte-hour-nonstop-vld-ce92ca]]

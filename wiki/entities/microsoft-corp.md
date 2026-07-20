@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1975-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft Pocket PC gaining enterprise adoption vs Palm OS — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]
+- Microsoft Pocket PC gaining enterprise adoption vs Palm OS `[ps=4]` — [[study-2002-undercutting-and-upselling-dell-s-foray-into-the-h-3d70b1]]

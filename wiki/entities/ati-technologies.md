@@ -12,9 +12,9 @@ status: "acquired-by-amd-2006"
 successor: "merged into AMD Oct 2006 (acquisition closed Oct 24 2006)"
 years_active: "1985-2006"
 occurrence_count: 4
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 4.0
+prescience_mean: 2.0
+prescience_obs_count: 2
 ---
 
 # ATI Technologies Inc.
@@ -29,8 +29,8 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- ATI and nVidia innovate and compete, driving GPU advances `[ps=4]` — [[study-dct-kastner-wish-list-2002-12]]
 - Postponed due to SARS (K.Y. Ho) `[ps=0]` — [[study-2003-sars-electronics-supply-chain-ec0375]]
-- ATI and nVidia innovate and compete, driving GPU advances — [[study-dct-kastner-wish-list-2002-12]]
 - PCs & Peripherals — graphics/semiconductor — [[study-dct-supplier-list-2002]]
 - $80 — [[study-dct-video-market-segmentation-2002]]
 - $165 — [[study-dct-video-market-segmentation-2002]]

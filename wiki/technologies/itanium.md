@@ -13,8 +13,8 @@ lifecycle_at_study: "post-Alpha migration target"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Intel Itanium processor line was discontinued. Last Itanium system shipped in 2021. HP-UX and Itanium-based systems reached end of support.', 'source': 'General knowledge / Intel product announcements'}"
 occurrence_count: 6
 prescience_max: 5.0
-prescience_mean: 1.7
-prescience_obs_count: 20
+prescience_mean: 1.31
+prescience_obs_count: 29
 ---
 
 # Intel Itanium 64-bit processor
@@ -40,14 +40,14 @@ prescience_obs_count: 20
 - Ready for mainframe-class workloads `[ps=3]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
 - Itanium identified as key strategic pillar for HP enterprise server differentiation `[ps=2]` — [[study-2002-the-new-hp-stands-up-to-be-counted-psk-35453a]]
 - 50-70% native performance `[ps=2]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
+- 64% believe capable `[ps=2]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
+- 30-100% better than Xeon `[ps=1]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
 - Xeon/Itanium cost parity planned `[ps=1]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
+- Unfounded per users `[ps=1]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
+- Both working with Intel Itanium `[ps=0]` — [[study-2001-hp-compaq-kastner-insight1-d6dc38]]
 - 7x over 3 years `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
+- discontinued `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
 - 1000+ key business applications `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
 - 50+ platforms `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
 - Main barrier cited `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
 - 31% most likely `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
-- 66% `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
-- 40% `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
-- Preferred over replace `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
-- Batch and technical/scientific `[ps=0]` — [[study-2004-03-intelitaniummfewp11.doc-618d4a]]
-- discontinued/legacy-supported `[ps=0]` — [[study-2026-kastner-dec-longitudinal-22d177]]

@@ -20,8 +20,8 @@ study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.58
-prescience_obs_count: 19
+prescience_mean: 1.52
+prescience_obs_count: 27
 ---
 
 # Digital & Oracle's NCI: Partners in Practical Network Computing
@@ -43,6 +43,9 @@ _Published 1997, author **Aberdeen Group**, type **Vendor Profile**._
 - NetPC will have little change on PC direction over 18 months `[ps=5]`
 - Compaq acquired DEC for $9.6 billion in June 1998, the largest tech acquisition at the time, as predicted. `[ps=5]`
 - Oracle acquired Sun Microsystems for $7.4 billion, completed January 2010, as predicted. `[ps=5]`
+- Public-private key auth, digital signatures, bank balances `[ps=4]`
+- The NC architectural thesis was vindicated by cloud computing (Google Chromebook 2011, AWS/Azure cloud desktops, VDI/DaaS). The vision of centralized computing with thin clients was realized approximately 12-15 years after the NC concept failed. `[ps=4]`
+- Oracle shut down NCI (Network Computer Inc.) in 1999 after spending approximately $175 million. The NC concept failed in the 1997-1999 timeframe as predicted. `[ps=3]`
 - Intel replaced StrongARM with XScale architecture in 2000. XScale dominated Pocket PCs and PDAs until ARM Cortex architecture superseded it circa 2007. `[ps=3]`
 - Most comprehensive NC software suite in industry `[ps=2]`
 - Software integrator for OEM hardware partners `[ps=2]`
@@ -51,17 +54,14 @@ _Published 1997, author **Aberdeen Group**, type **Vendor Profile**._
 - Sufficient headroom for 5-year depreciation including video/Internet telephony `[ps=2]`
 - Likely to be viewed as one of the premier NC solutions by end of 1997 `[ps=1]`
 - Digital has opportunity to become one of NC industry's overall hardware leaders in 1997 `[ps=1]`
+- $5,000–$15,000 `[ps=0]`
 - 4th highest volume worldwide `[ps=0]`
+- Under $50 `[ps=0]`
+- ~6 watts `[ps=0]`
 - >2x throughput `[ps=0]`
 - Wolf in sheep's clothing `[ps=0]`
 - Less than 500K `[ps=0]`
 - 10 (Ten Commandments) `[ps=0]`
 - $125 `[ps=0]`
-- Intel acquired DEC's semiconductor division (Hudson fab) and StrongARM technology for $700 million as part of patent lawsuit settlement in October 1997. Intel shipped StrongARM SA-1100 in 1998. `[ps=0]`
-- Dumb terminals and Intel 286/386/486 PCs unable to run Windows 95 `[ps=0]`
-- $5,000–$15,000
-- Under $50
-- ~6 watts
-- Public-private key auth, digital signatures, bank balances
-- NC manufactured by Funai and Aranex; distributed via terminal channels
-- Financial services, broad service industry, manufacturing floor, field service
+- NC manufactured by Funai and Aranex; distributed via terminal channels `[ps=0]`
+- Financial services, broad service industry, manufacturing floor, field service `[ps=0]`

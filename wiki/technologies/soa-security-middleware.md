@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # SOA Security Middleware
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 34% — [[study-ra-composite-apps-289c2f]]
+- 34% `[ps=0]` — [[study-ra-composite-apps-289c2f]]

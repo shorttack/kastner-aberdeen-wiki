@@ -14,7 +14,7 @@ lifecycle_current: "discontinued"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 5
+prescience_obs_count: 6
 ---
 
 # Gateway 450
@@ -27,6 +27,6 @@ prescience_obs_count: 5
 - 6.2 `[ps=0]` — [[study-dct-traveling-with-centrino-2003-05]]
 - 1400 x 1050 pixels, 15in LCD `[ps=0]` — [[study-dct-traveling-with-centrino-2003-05]]
 - 512MB DDR, 1.5 GHz Pentium M `[ps=0]` — [[study-dct-traveling-with-centrino-2003-05]]
+- 14.8V 4200 mAh standard + optional multibay battery `[ps=0]` — [[study-dct-traveling-with-centrino-2003-05]]
 - standard battery plays DVD movie plus 1hr+ email `[ps=0]` — [[study-dct-traveling-with-centrino-2003-05]]
 - typical day ends with 40%+ battery remaining `[ps=0]` — [[study-dct-traveling-with-centrino-2003-05]]
-- 14.8V 4200 mAh standard + optional multibay battery — [[study-dct-traveling-with-centrino-2003-05]]

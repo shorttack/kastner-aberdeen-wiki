@@ -3,7 +3,7 @@ title: "Gateway Goes Gigabit, Wireless"
 slug: "study-technology-news-hardware-gateway-goes-gi-4af738"
 page_type: "study"
 tags: ["type/study", "collection/news-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "technology-news-hardware-gateway-goes-gi-4af738"
 author: "Kirk L. Kroeker, TechNewsWorld"
@@ -19,9 +19,9 @@ relevance: "medium"
 study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
-prescience_max: 3.0
-prescience_mean: 1.75
-prescience_obs_count: 4
+prescience_max: 5.0
+prescience_mean: 2.67
+prescience_obs_count: 6
 ---
 
 # Gateway Goes Gigabit, Wireless
@@ -40,9 +40,9 @@ _Published 2004, author **Kirk L. Kroeker, TechNewsWorld**, type **news-article*
 
 ## Top observations
 
+- SMB cloud-managed Wi-Fi became a multi-billion-dollar category Kastner identified: Ubiquiti (UniFi 2010+), Cisco Meraki ($1.2B Cisco acquisition 2012), HPE Aruba Instant, Juniper Mist, Cambium, TP-Link Omada. Gateway failed to capture this market. `[ps=5]`
+- Acer acquired Gateway for $710M in Oct 2007 — the Gateway enterprise networking line Kastner praised was retired after the acquisition, with Acer focusing Gateway branding on consumer PCs. The SMB-networking opportunity Kastner identified was captured instead by Ubiquiti (IPO 2011), Cisco Meraki (acquired $1.2B 2012), and HPE Aruba. `[ps=4]`
 - Gateway announced its launch 'in the aftermath of a major announcement about shutting all its retail stores' — the Gateway Country stores closure Apr 2004. The enterprise networking push was part of Gateway's pivot from consumer retail to commercial channels following the eMachines acquisition. `[ps=3]`
 - In both their price and functionality, Gateway is taking a disruptive approach with these two new wireless [access points]. Many wireless vendors are ignoring the pleas of small- and medium-sized businesses, who desire enterprise security and much more simplicity in setup. SMBs clearly stand to benefit from these new Gateway [access points]. `[ps=2]`
 - IDC's Maximilian Flisi: Gateway is building out its comprehensive line of systems and networking products to provide a complete solution; these new switches will serve as an effective add-on sale, although Gateway's managed line is priced competitively and may be a lead purchase driver for many customers. `[ps=2]`
 - Gateway 7200 Series entry-level 7201-16 priced under US$100; 7600 Series 7601-24.2 10/100 switch $399; 7601-48.2 48-port 10/100/1000 gigabit $799. Broadcom-based Layer 2; SNMP, 8,000 MAC entries, IGMP snooping, port trunking/mirroring. `[ps=0]`
-- Acer acquired Gateway for $710M in Oct 2007 — the Gateway enterprise networking line Kastner praised was retired after the acquisition, with Acer focusing Gateway branding on consumer PCs. The SMB-networking opportunity Kastner identified was captured instead by Ubiquiti (IPO 2011), Cisco Meraki (acquired $1.2B 2012), and HPE Aruba.
-- SMB cloud-managed Wi-Fi became a multi-billion-dollar category Kastner identified: Ubiquiti (UniFi 2010+), Cisco Meraki ($1.2B Cisco acquisition 2012), HPE Aruba Instant, Juniper Mist, Cambium, TP-Link Omada. Gateway failed to capture this market.

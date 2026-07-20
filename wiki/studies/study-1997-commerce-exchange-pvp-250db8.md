@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.95
-prescience_obs_count: 20
+prescience_mean: 3.13
+prescience_obs_count: 23
 ---
 
 # Commerce eXchange Answers The 'Show Me The Internet Money!' Challenge
@@ -40,8 +40,10 @@ _Published 1997, author **Aberdeen Group**, type **product-viewpoint**._
 
 ## Top observations
 
+- At least one computer hardware vendor at $1 million per day internet run rate `[ps=5]`
 - Major commercial site deployable in weeks to months vs. in-house projects spanning a year or more `[ps=5]`
 - Fortune 1000 corporations use EDI for access to legacy data and common format for purchase orders, invoices, other business transactions `[ps=5]`
+- InterWorld Technology Ventures went public then pivoted to B2B; merged with DynamicWeb Enterprises (April 2000) creating eB2B Commerce, Inc.; eB2B filed Chapter 11 bankruptcy (October 2004); Commerce eXchange platform dissolved `[ps=5]`
 - Internet commerce grew explosively through 1999-2000 as Aberdeen predicted; Amazon, eBay, and others achieved massive scale; however the dot-com crash (2000-2001) destroyed many first-generation internet retailers `[ps=5]`
 - Digital software delivery (InterWorld's Digital Delivery product concept) proved highly prescient; Apple App Store (2008), Steam (2003), and digital distribution became the dominant software distribution model; InterWorld's technology did not survive but the market category exploded `[ps=5]`
 - Aberdeen expects internet consumers' patience for slow sites to peter out quickly; 10-15 seconds accepted in 1997 but declining rapidly `[ps=5]`
@@ -51,6 +53,7 @@ _Published 1997, author **Aberdeen Group**, type **product-viewpoint**._
 - Aberdeen believes InterWorld's technology vision reflects major trend toward OO programming and distributed transaction processing for networked businesses `[ps=4]`
 - Distributed OO transaction processing for e-commerce proved directionally correct; modern e-commerce platforms (Shopify, Salesforce Commerce, Magento) use microservices/distributed architectures; however CORBA/DCOM specifically gave way to REST APIs and web services `[ps=4]`
 - CORBA and DCOM both largely obsolete by 2005; replaced by XML/SOAP web services and later REST/JSON APIs; the abstraction layer approach InterWorld championed proved correct but manifested differently than 1997 technology battle suggested `[ps=4]`
+- Comprehensive enterprise internet retail solution with no technology strings attached; abstraction layer protects against single technology lock-in; supports CORBA, DCOM, multiple databases, EDI `[ps=3]`
 - Oracle, BroadVision promoting CORBA; Microsoft pushing DCOM; typical middleware translation gateways create performance hit; Oasis avoids this with neutral abstraction layer `[ps=3]`
 - Transaction engine; application portfolio; scalable open architecture; management/customization tools; single vendor relationship to limit supplier finger-pointing `[ps=3]`
 - Production-class distributed transaction processing; remote object marshaling limits network communication; avoids messaging queue bottlenecks; CORBA/DCOM neutral via abstraction layer `[ps=2]`
@@ -60,6 +63,3 @@ _Published 1997, author **Aberdeen Group**, type **product-viewpoint**._
 - Internet consumers willing to wait 10-15 seconds for page download in 1997 `[ps=0]`
 - Technology-savvy Broderbund uses InterWorld Digital Delivery for electronic software distribution `[ps=0]`
 - Sells 20,000+ computer products and distributes Microsoft software titles using Commerce eXchange `[ps=0]`
-- At least one computer hardware vendor at $1 million per day internet run rate
-- Comprehensive enterprise internet retail solution with no technology strings attached; abstraction layer protects against single technology lock-in; supports CORBA, DCOM, multiple databases, EDI
-- InterWorld Technology Ventures went public then pivoted to B2B; merged with DynamicWeb Enterprises (April 2000) creating eB2B Commerce, Inc.; eB2B filed Chapter 11 bankruptcy (October 2004); Commerce eXchange platform dissolved

@@ -13,8 +13,8 @@ lifecycle_at_study: "mature"
 lifecycle_current: "mature"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 0.5
-prescience_obs_count: 4
+prescience_mean: 1.1
+prescience_obs_count: 10
 ---
 
 # Consumer Personal Computer
@@ -25,12 +25,12 @@ prescience_obs_count: 4
 ## Top observations
 
 - Dell positioned to gain market share from merged HP-Compaq entity `[ps=4]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
+- Compaq was major PC vendor contributing volume to the merged entity `[ps=4]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
+- Combined company will have better PC margins through buying power of greater volume `[ps=2]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
+- Post-merger HP unit volumes will be less than sum of current Compaq and HP levels `[ps=2]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
+- HP consumer PC business will shrink post-merger `[ps=1]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
 - Many assumed combined company volume would exceed sum of parts `[ps=0]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
+- HP reported $2.03B net loss in first combined results following Compaq acquisition `[ps=0]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
+- HP explored options for its $40B Personal Systems Group in 2011 `[ps=0]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
 - Dell unseated HP as PC market leader in Q1 2003 `[ps=-1]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
 - HP annual PC market share 16.4% in 2003 (up from 16% in 2002) — back on top `[ps=-1]` — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
-- Combined company will have better PC margins through buying power of greater volume — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
-- Post-merger HP unit volumes will be less than sum of current Compaq and HP levels — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
-- HP consumer PC business will shrink post-merger — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
-- Compaq was major PC vendor contributing volume to the merged entity — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
-- HP reported $2.03B net loss in first combined results following Compaq acquisition — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]
-- HP explored options for its $40B Personal Systems Group in 2011 — [[study-2002-hp-s-consumer-pc-business-will-shrink-psk-ef3cd5]]

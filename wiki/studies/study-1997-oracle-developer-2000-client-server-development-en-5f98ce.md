@@ -16,12 +16,12 @@ source_file: "1997 Oracle Developer_2000 Client-Server Development Environment p
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 1.87
-prescience_obs_count: 15
+prescience_mean: 1.89
+prescience_obs_count: 18
 ---
 
 # Oracle Developer/2000 Client-Server Development Environment
@@ -41,6 +41,7 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 ## Top observations
 
 - Microsoft Visual Basic cited as low-end CADE competitor; lacks scalability for mission-critical enterprise applications `[ps=4]`
+- PowerBuilder cited as high-end CADE competitor; strong in corporate IS but lacks Oracle's database integration depth `[ps=4]`
 - Best suited for medium-scale to high-end data-intensive and mission-critical applications; effective down to workgroup level `[ps=4]`
 - Oracle Developer/2000 (Forms/Reports) maintained large installed base but failed to win new Internet development projects; Java/J2EE, .NET, and PHP dominated web development by 2005; Forms extended support ended 2023 `[ps=4]`
 - Widest range of scalable application development capabilities among CADEs; targets medium-to-large data-intensive mission-critical client/server `[ps=3]`
@@ -49,12 +50,11 @@ _Published 1997, author **Aberdeen Group**, type **market-study**._
 - Developer/2000 enables application deployment with Java interfaces over World Wide Web `[ps=2]`
 - Developer/2000 is the CADE component of Oracle's Network Computing Architecture; uses cartridge approach for Internet deployment `[ps=2]`
 - Developer/2000 encompasses transaction processing, decision support, and multi-platform connectivity `[ps=2]`
+- Developer/2000 supports Java interfaces for web deployment without requiring all developers to learn Java `[ps=2]`
 - Developer/2000 with Web Cartridge and Java interfaces will position Oracle as leading Internet application development platform `[ps=1]`
 - Advanced 4GL including Forms/Graphics/GUIs, Reports, procedure building, connectivity tools, and server-based development tools `[ps=0]`
 - Oracle Forms provides forms generation with PL/SQL support; runs on Windows, Unix, and Web via Java `[ps=0]`
 - Oracle Reports provides sophisticated report generation from simple tabular to complex cross-tab and matrix formats `[ps=0]`
 - Oracle Graphics provides chart and graph generation tightly integrated with Forms and Reports `[ps=0]`
 - Developer/2000 front-end runs on Windows 95/NT/3.x; server side on Unix and major platforms `[ps=0]`
-- PowerBuilder cited as high-end CADE competitor; strong in corporate IS but lacks Oracle's database integration depth
-- Developer/2000 supports Java interfaces for web deployment without requiring all developers to learn Java
-- Developer/2000 is a refinement of Oracle's second-generation Cooperative Development Environment (CDE 2)
+- Developer/2000 is a refinement of Oracle's second-generation Cooperative Development Environment (CDE 2) `[ps=0]`

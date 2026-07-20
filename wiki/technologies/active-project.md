@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "current"
 lifecycle_current: "unknown [REVIEW]"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Active Project (Imaging/Project Mgmt)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Windows SAN; backup issues present — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]
+- Windows SAN; backup issues present `[ps=0]` — [[study-timex-ramp-interview-for-maxtor-project-8c1b71]]

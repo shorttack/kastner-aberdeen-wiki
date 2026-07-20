@@ -1,6 +1,7 @@
 ---
 title: Quote 1000 — Computerworld (1996-01-02)
 type: quotation
+page_type: quotation
 slug: quote-1000
 row_id: 1000
 author: "Peter S. Kastner"

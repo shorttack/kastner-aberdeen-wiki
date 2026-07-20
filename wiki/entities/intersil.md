@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Renesas Electronics"
 years_active: "1967-2017"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Intersil Corporation
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Many vendors will not remain in market within 1 year — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]
-- Sold WLAN unit to GlobespanVirata for $365M — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]
+- Many vendors will not remain in market within 1 year `[ps=3]` — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]
+- Sold WLAN unit to GlobespanVirata for $365M `[ps=0]` — [[study-2002-802-11a-b-wireless-comes-of-age-6a071d]]

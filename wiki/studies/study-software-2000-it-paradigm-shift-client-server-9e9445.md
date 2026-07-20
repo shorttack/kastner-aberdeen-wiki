@@ -16,7 +16,7 @@ source_file: "transcript Software 2000.md"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "not-applicable"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: null

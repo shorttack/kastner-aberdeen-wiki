@@ -13,8 +13,8 @@ successor: "unknown"
 years_active: "1980s-1990s"
 occurrence_count: 1
 prescience_max: 3.0
-prescience_mean: 1.67
-prescience_obs_count: 3
+prescience_mean: 2.0
+prescience_obs_count: 4
 ---
 
 # Roger Heinen
@@ -25,6 +25,6 @@ prescience_obs_count: 3
 ## Top observations
 
 - Common user interface + common programming interface + X Windows industry standard + quick delivery — four-part workstation software strategy `[ps=3]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
+- Over 50 internal software projects implementing DECwindows applications; hundreds of active users; training hundreds of external developers `[ps=3]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
 - As DECwindows becomes a de facto standard... the environment will become that much more productive `[ps=2]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
 - X Windows managed by MIT-sponsored X Windows Consortium; DEC is member along with 23 other prominent computer vendors `[ps=0]` — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]
-- Over 50 internal software projects implementing DECwindows applications; hundreds of active users; training hundreds of external developers — [[study-dec-mgmt-memo-v7n5-state-of-company-1988-6a9954]]

@@ -16,12 +16,12 @@ source_file: "Mobile-banking-may-render-cash-obsolete-in-the-US-The-Boston-Globe
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.4
-prescience_obs_count: 5
+prescience_mean: 3.33
+prescience_obs_count: 6
 ---
 
 # The Digital Wallet: Mobile Banking May Render Credit Cards and Cash Obsolete
@@ -44,5 +44,5 @@ _Published 2009, author **Hiawatha Bray (Boston Globe)**, type **feature-article
 - 'I don't have to be tethered to a desktop anymore. Everything I can do on a Web browser, I can do on my iPhone.' `[ps=4]`
 - Adding RFID/NFC chip to phones enables retail tap-to-pay; 'that would be one step closer to removing currency from my life... It's as simple as that. Convenience.' `[ps=4]`
 - It will be years before most US retailers can accept cellphone payments. `[ps=4]`
+- 'Unfortunately, your cellphone can't give you cash.' `[ps=3]`
 - Kastner (61, Westport MA consumer-electronics consultant) whips out iPhone and taps icon to connect to Bank of America; checks balances and pays bills while travelling or boating on Westport River. `[ps=0]`
-- 'Unfortunately, your cellphone can't give you cash.'

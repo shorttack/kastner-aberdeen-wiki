@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1983-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # George Colony
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Traditional consultants like McKinsey 'are only selling their time — they're like dentists'; Forrester boosts profit via publishing/conference leverage — [[study-wsj-tech-watching-analyst-industry-1998-002531]]
+- Traditional consultants like McKinsey 'are only selling their time — they're like dentists'; Forrester boosts profit via publishing/conference leverage `[ps=3]` — [[study-wsj-tech-watching-analyst-industry-1998-002531]]

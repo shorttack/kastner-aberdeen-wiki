@@ -14,7 +14,7 @@ lifecycle_current: "legacy-end-of-life"
 occurrence_count: 3
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 7
+prescience_obs_count: 8
 ---
 
 # Magnetic Tape (off-line storage)
@@ -24,6 +24,7 @@ prescience_obs_count: 7
 
 ## Top observations
 
+- >60% `[ps=0]` — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
 - 20% `[ps=0]` — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
 - ~67% `[ps=0]` — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
 - ~50% `[ps=0]` — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
@@ -31,5 +32,4 @@ prescience_obs_count: 7
 - >80% `[ps=0]` — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
 - Kastner debugged Burroughs code in 104-degree heat; air conditioners stripped from building; notes stained with sweat, ink ran. `[ps=0]` — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
 - Brazilian customs inspector unspooled magnetic tape reel on floor searching for forbidden images; tape at 800 bpi looks nothing like a photograph. `[ps=0]` — [[study-volume-1-ch03-physics-of-consulting-1972-1979]]
-- >60% — [[study-mid-line-storage-white-paper-06-13-03-3-7a2c62]]
 - A customs inspector in Rio unspooled magnetic tape onto an airport floor—cited as one of the more simply human stories in the memoir. — [[study-volume-1-introduction-physics-of-the-machine]]

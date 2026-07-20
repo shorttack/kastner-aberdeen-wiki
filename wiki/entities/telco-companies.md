@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1876-present"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Telco Providers
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Shared gateway services enabling multiple home/SOHO points to share broadband — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]
+- Shared gateway services enabling multiple home/SOHO points to share broadband `[ps=5]` — [[study-2002-cable-and-telco-companies-battle-for-home-internet-2baa0b]]

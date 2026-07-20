@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "growing"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Hierarchical Storage Management (HSM)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- non-mainframe HSM implementation cited as strategic question — [[study-storag~1-262bc7]]
+- non-mainframe HSM implementation cited as strategic question `[ps=3]` — [[study-storag~1-262bc7]]

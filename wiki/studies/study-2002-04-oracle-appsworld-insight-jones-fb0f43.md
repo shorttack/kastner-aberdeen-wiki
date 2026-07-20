@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.25
-prescience_obs_count: 12
+prescience_mean: 3.35
+prescience_obs_count: 17
 ---
 
 # A Kinder, Gentler Larry Ellison? Oracle Turns New Face to Its User Community
@@ -44,16 +44,16 @@ _Published 2002, author **Katherine Jones**, type **industry-insight**._
 - ERP SaaS/cloud adoption trajectory was validated. Cloud ERP grew from near-zero in 2002 to majority of new ERP deployments by 2015-2020. Oracle Cloud ERP, SAP S/4HANA Cloud, Workday, and NetSuite all became major players. By 2019, cloud ERP adoption rate reached ~38% with strong growth trajectory. `[ps=5]`
 - Oracle's outsourcing campaign progressing on global basis, not limited to North America `[ps=5]`
 - Prior integration and customization investments, re-implementation requirements, organizational change management; initial Oracle 11i QA problems further dampened enthusiasm `[ps=4]`
+- Oracle 11i enables daily close for any part of organization; concept of virtual close growing in financial circles; Lawson Software users had this capability earlier `[ps=4]`
 - Virtual close growing primarily to facilitate shorter period-end closing cycles, more timely financial results, improved decision-making; should appeal to Oracle users `[ps=4]`
+- Oracle shifted from exclusive hosting model to encouraging partners for application management; Larry Ellison now pushes partner ecosystem `[ps=4]`
 - ASP providers at Apps World claimed positive customer response and growth in outsourcing-seeking users; Aberdeen expects customers to respond positively `[ps=4]`
+- Newest version = basic platform for extended functionality; upgrade unlocks additional revenue opportunities within installed base `[ps=4]`
 - Aberdeen: generating and maintaining customer loyalty helps companies weather crises; witness Baan `[ps=4]`
+- Businesses won't be rushed for reasons relating to economy, general slowdown in IT investment, and magnitude of upgrade effort (post-dot-com bust context) `[ps=4]`
 - Apps World marked rapprochement with Oracle Application User Group (OAUG); previously strained relationship `[ps=4]`
+- Oracle claims outsourcing to Oracle saves 31% to 84% on IT infrastructure costs; service response improves up to 50% `[ps=2]`
 - New focus on customers: 11i customers testifying onstage; Mark Barranchea moved from CRM to spearhead customer care; new top-level customer care role created `[ps=2]`
 - Keeping up with revision release is declining across all enterprise business environments today (2002) `[ps=2]`
 - Different feel: no major new product announcements; emphasis on installed base satisfaction and upgrade pathways to 11i `[ps=0]`
 - Approximately 50% of Oracle client base (approx. 1,500 customers) using 10x release not yet upgraded to 11i `[ps=0]`
-- Oracle 11i enables daily close for any part of organization; concept of virtual close growing in financial circles; Lawson Software users had this capability earlier
-- Oracle shifted from exclusive hosting model to encouraging partners for application management; Larry Ellison now pushes partner ecosystem
-- Oracle claims outsourcing to Oracle saves 31% to 84% on IT infrastructure costs; service response improves up to 50%
-- Newest version = basic platform for extended functionality; upgrade unlocks additional revenue opportunities within installed base
-- Businesses won't be rushed for reasons relating to economy, general slowdown in IT investment, and magnitude of upgrade effort (post-dot-com bust context)

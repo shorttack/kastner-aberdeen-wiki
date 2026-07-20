@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.89
-prescience_obs_count: 18
+prescience_mean: 2.82
+prescience_obs_count: 22
 ---
 
 # Internet Sales: Virtual Corporations, Real Profit
@@ -44,9 +44,11 @@ _Published 1998, author **Chris Stevens (Aberdeen Group)**, type **market-study*
 - Digital payment enabling convergence of physical and virtual corporations; PayPal launched same year `[ps=5]`
 - Internet pure-play retailer; started books; expanding to consumer electronics and general merchandise by 1998 `[ps=5]`
 - Consumer auction marketplace; IPO in 1998; model distinct from retailer-operated storefronts `[ps=5]`
+- eBay still active with $75B GMV in 2024; profitable but significantly outpaced by Amazon and mass-market retailers `[ps=5]`
 - Acquired by AOL for $4.2B in November 1998; IE won browser wars by 2000; Netscape brand discontinued by 2008 `[ps=5]`
 - Internet enables 'virtual corporation' model delivering real profit through digital channel integration `[ps=5]`
 - Described as early mainstream adoption phase with well-publicized success stories `[ps=4]`
+- Staggering success stories driving double-digit growth rates; company executives delegating commerce site development to marketing and IS managers `[ps=4]`
 - Working with available consumer bandwidth is a key challenge limiting shopping experience quality `[ps=4]`
 - Emerging category; Aberdeen taxonomy organizes internet storefront platforms for selection guidance `[ps=3]`
 - Portal-to-commerce pivot; acquired Viaweb in 1998 for Yahoo Stores; positioned as e-commerce infrastructure provider `[ps=3]`
@@ -54,11 +56,9 @@ _Published 1998, author **Chris Stevens (Aberdeen Group)**, type **market-study*
 - Browser wars between Netscape Navigator and Microsoft IE defining internet access UX; outcome critical to e-commerce adoption `[ps=3]`
 - Amazon achieved $638B net sales and $2.4T market cap by 2024; most valuable retailer in history `[ps=2]`
 - U.S. e-commerce reached $960B in 2021; nearly 20% of all retail sales conducted online `[ps=1]`
+- Broadband (DSL and cable) achieved majority U.S. household penetration by 2005; resolved shopping experience constraint `[ps=1]`
+- $1495 `[ps=0]`
 - 170 pages; 39 explanatory illustrations `[ps=0]`
 - Sold computer store unit to Cyberian Outpost in 1998 to focus on First Auction; gradually subsumed by larger players `[ps=0]`
 - Emerging online marketing strategies including portals `[ps=0]`
 - Total 1998 online retail revenues expected to surpass $13 billion `[ps=-1]`
-- $1495
-- Staggering success stories driving double-digit growth rates; company executives delegating commerce site development to marketing and IS managers
-- Broadband (DSL and cable) achieved majority U.S. household penetration by 2005; resolved shopping experience constraint
-- eBay still active with $75B GMV in 2024; profitable but significantly outpaced by Amazon and mass-market retailers

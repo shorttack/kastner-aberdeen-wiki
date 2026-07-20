@@ -16,12 +16,12 @@ source_file: "1996 SQA Suite 5.0_ Innovative, Integrated, Automated Testing Tool
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.83
-prescience_obs_count: 12
+prescience_mean: 3.45
+prescience_obs_count: 20
 ---
 
 # SQA Suite 5.0: Innovative, Integrated, Automated Testing Tools
@@ -44,19 +44,19 @@ _Published 1996, author **Aberdeen Group**, type **market-study**._
 - Ability to integrate with third-party tools and adapt to multiple development environments `[ps=5]`
 - Enterprise IS migrating development to Windows NT; 32-bit testing becoming mandatory `[ps=5]`
 - Positioned as serious contender in testing arena; aggressive product enhancement schedule `[ps=4]`
+- Acquired by Rational Software in late 1996/early 1997 for ~$300M; viability confirmed by premium acquisition `[ps=4]`
+- Tool must withstand rigorous trials with immature code to gather maximum information during development `[ps=4]`
 - Support for testing very large applications and load testing capacity `[ps=4]`
 - Ability to handle changes in test scripts during execution and leverage existing scripts `[ps=4]`
 - Integrated defect management with priority assignment and resolution tracking `[ps=4]`
+- Comprehensive test data reporting with historical analysis capability `[ps=4]`
 - Testing must be integral part of development cycle; without continuous testing apps will be more costly, delayed, buggier `[ps=4]`
 - Windows-only automated testing; differentiated from cross-platform competitors `[ps=3]`
+- Shortened from 2-3 years to less than 1 year due to 4GL tools `[ps=3]`
+- Aberdeen predicts every technology buyer will consider automated testing tools within two years `[ps=3]`
 - Automated testing tools became standard by 1998-2000; entire category grew substantially; CI/CD practices embedded by 2005 `[ps=3]`
 - Cross-platform testing strategy with Unix and Windows support; WinRunner product `[ps=3]`
+- Repository-based suite pricing; individual product or full suite purchase options `[ps=3]`
 - SQA Suite uniquely able to test OLE-enabled components and ActiveX objects in Windows environment `[ps=2]`
-- Shortened from 2-3 years to less than 1 year due to 4GL tools
-- Aberdeen predicts every technology buyer will consider automated testing tools within two years
-- Acquired by Rational Software in late 1996/early 1997 for ~$300M; viability confirmed by premium acquisition
-- Tool must withstand rigorous trials with immature code to gather maximum information during development
-- Comprehensive test data reporting with historical analysis capability
-- SQA uniquely leverages test scripts across both 16-bit and 32-bit without modification
-- Aberdeen strongly suggests IS managers serious about delivering robust client-server applications evaluate SQA Suite
-- Repository-based suite pricing; individual product or full suite purchase options
+- Aberdeen strongly suggests IS managers serious about delivering robust client-server applications evaluate SQA Suite `[ps=2]`
+- SQA uniquely leverages test scripts across both 16-bit and 32-bit without modification `[ps=0]`

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Reefedge -> Juniper Networks (acquired 2005)"
 years_active: "2000-2005"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Reefedge
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Enterprise WLANs need security/management systems to become enterprise-strength — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]
+- Enterprise WLANs need security/management systems to become enterprise-strength `[ps=5]` — [[study-2001-aberdeen-group-recent-publications-psk-2be54d]]

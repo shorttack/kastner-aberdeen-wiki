@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.36
-prescience_obs_count: 11
+prescience_mean: 3.54
+prescience_obs_count: 13
 ---
 
 # IT Purchasing: The View From the End of the Tunnel
@@ -43,13 +43,13 @@ _Published 2002, author **Peter S. Kastner**, type **insight**._
 - Security is a key technology priority for post-recession IT spending `[ps=5]`
 - CRM is a key technology priority for post-recession IT spending `[ps=5]`
 - IT security became one of fastest-growing IT spending categories from 2003 onward `[ps=5]`
+- CRM software market recovered strongly from 2003; Salesforce.com led cloud CRM boom `[ps=5]`
 - Top 20 IT company revenues suggest spending at or near the trough of current IT recession `[ps=4]`
 - IT spending will pick up from current trough; recovery is coming `[ps=4]`
 - EAI (Enterprise Application Integration) is a key technology priority for post-recession IT spending `[ps=4]`
 - Recovery timing is critical; early movers on structural changes will capture market share `[ps=4]`
+- 2002 represents trough year for IT recession that began in 2001 following dot-com bust `[ps=4]`
 - Out-of-step IT suppliers will lose market share when spending recovers `[ps=3]`
 - IT spending grew 9% in 2003 (after approximately flat 2002 and -8% 2001); recovery materialized `[ps=3]`
 - IT management must recognize key directional changes as industry emerges from recession `[ps=0]`
 - Organizations must recognize structural IT management changes to avoid missed opportunities `[ps=0]`
-- CRM software market recovered strongly from 2003; Salesforce.com led cloud CRM boom
-- 2002 represents trough year for IT recession that began in 2001 following dot-com bust

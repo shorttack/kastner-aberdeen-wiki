@@ -16,12 +16,12 @@ source_file: "Apple-Mac-G5-hot-topic-5.doc"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.0
-prescience_obs_count: 14
+prescience_mean: 1.79
+prescience_obs_count: 19
 ---
 
 # Apple Ships Hot PowerMac G5
@@ -46,6 +46,9 @@ _Published 2003, author **Peter S. Kastner**, type **dct**._
 - IBM fabricates PowerPC G5 (PPC 970) for Apple `[ps=5]`
 - G5 is workstation, not confused with high-end home PC `[ps=4]`
 - 2.0 GHz G5 loses to Xeon and P4 in integer `[ps=4]`
+- dual-G5 beats Xeon and P4 in integer, handily wins floating point `[ps=3]`
+- Mac-centric apps like PhotoShop benefit from G5 `[ps=3]`
+- 2.0 GHz G5 beats Intel Xeon and P4 in floating point `[ps=0]`
 - supports up to 8 GB DDR-400 SDRAM `[ps=0]`
 - $3998 configured Power Mac G5 (dual 2GHz, 512MB, 160GB SATA, SuperDrive, ATI 9800 Pro, 17in Studio Display) `[ps=0]`
 - single-processor 1.6 GHz, no monitor, starts at $1999 `[ps=0]`
@@ -53,9 +56,6 @@ _Published 2003, author **Peter S. Kastner**, type **dct**._
 - latest P4 has 800 MHz front-side bus `[ps=0]`
 - three PCI-X I/O slots for server-grade peripherals `[ps=0]`
 - 8x AGP support with latest ATI and nVidia cards `[ps=0]`
+- 5 USB ports, FireWire 800, gigabit Ethernet, optical digital and analog audio `[ps=0]`
+- enterprise Mac users should benchmark work files on G5 `[ps=0]`
 - hopes for economic recovery coda suggests post-dotcom business caution `[ps=0]`
-- 2.0 GHz G5 beats Intel Xeon and P4 in floating point
-- dual-G5 beats Xeon and P4 in integer, handily wins floating point
-- Mac-centric apps like PhotoShop benefit from G5
-- 5 USB ports, FireWire 800, gigabit Ethernet, optical digital and analog audio
-- enterprise Mac users should benchmark work files on G5

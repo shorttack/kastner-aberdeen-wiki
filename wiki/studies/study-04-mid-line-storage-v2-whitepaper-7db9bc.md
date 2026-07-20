@@ -16,12 +16,12 @@ source_file: "04-Mid-Line-Storage-V2-WhitePaper.txt"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.07
-prescience_obs_count: 30
+prescience_mean: 3.18
+prescience_obs_count: 34
 ---
 
 # Mid-Line Disk Storage Emerging As Significant Cost-Saving Opportunity
@@ -44,6 +44,7 @@ _Published 2003, author **Aberdeen Group**, type **white-paper**._
 - ATA disks cost approximately half the price per gigabyte compared to FC/SCSI disks `[ps=5]`
 - At least 20% of enterprise data fits mid-line definition per survey respondents — Aberdeen believes more than half will eventually fall into mid-line `[ps=5]`
 - IT organizations need to focus on information life cycle and how content progressively moves through storage tiers as a function of value and access requirements `[ps=5]`
+- Value and use of content change as content ages (birth/youth/middle age/old age); access drops dramatically as data ages `[ps=5]`
 - As data amount increases frequency of access to particular piece drops; compliance with new regulations will further reinforce this tendency `[ps=5]`
 - More copies being made of content to ensure faster access and better data protection `[ps=5]`
 - Price of FC and SCSI drives has fallen dramatically but price elasticity curve economics still apply — mid-line is less costly and does backup/restore job as well `[ps=5]`
@@ -55,13 +56,12 @@ _Published 2003, author **Aberdeen Group**, type **white-paper**._
 - SCSI-based 2TB disk backup appliance: $15000-$20000; ATA-based equivalent: $7000-$10000 — roughly half price `[ps=4]`
 - Content changes from dynamic to fixed as updates cease — becoming read-only and therefore fixed content `[ps=4]`
 - Aberdeen believes more than half of enterprise data will eventually fall into mid-line tier `[ps=4]`
+- Mid-line can be added to existing DAS SAN and NAS products eliminating concerns about radical change in conservative IT environment `[ps=4]`
 - Mid-line storage may actually expand the market by making it more cost-effective to build a data warehouse/data mart or do data mining `[ps=4]`
+- Continuous data protection (CDP) that quickly restores data to any point in time is an emerging concept enabled by mid-line disk `[ps=4]`
 - [UNVERIFIED] `[ps=4]`
 - IT organizations must think about storage from a quality of service (QoS) perspective — not all applications require the same service levels `[ps=4]`
 - More than 80% said when offline backups are used they could have a problem with the length of the backup window `[ps=3]`
 - Nearly two-thirds of respondents said restoring critical data takes longer than they would like `[ps=3]`
+- In large FC-based disk array environments (>30 TB) saving more than $100000 off a $500000 deal still very significant even if percentage savings less dramatic `[ps=3]`
 - Most data is in 'middle age' where value is less — mid-line disk is most appropriate; data in middle age is typically frozen making lower performance adequate `[ps=3]`
-- More than half of enterprises completely run on Fibre Channel and SCSI disks — the 'all-hammer-all-nail' problem `[ps=3]`
-- More than 60% of respondents report data restorations performed more than once a year; 20% monthly or more frequently `[ps=0]`
-- 60% of respondents reported having applications with very large non-changing/static data such as video images data warehouse detail data and old email `[ps=0]`
-- 60% of respondents reported their current storage supplier had discussed low-cost storage options with them `[ps=0]`

@@ -13,8 +13,8 @@ successor: ""
 years_active: "1968-present"
 occurrence_count: 30
 prescience_max: 5.0
-prescience_mean: 2.08
-prescience_obs_count: 91
+prescience_mean: 2.12
+prescience_obs_count: 116
 ---
 
 # Intel Corporation
@@ -33,9 +33,11 @@ prescience_obs_count: 91
 - Standardized x86 + open OS + volume economics will displace proprietary minicomputer/server architectures `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - Economics of standardized x86 architecture plus open OS would overcome proprietary minicomputers `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - x86 servers displaced most proprietary Unix and mainframe systems `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Intel sold XScale ARM processor business to Marvell for $600M — ARM was economic-winner in mobile despite Intel x86 dominance in server `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - IA-64 never achieved mass market `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - 3.06 GHz HT P4 shipped 2002-11-14; 3.2 GHz June 2003 `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - P4 with HT became dominant Intel desktop CPU `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Pentium 4 reached 3.6 GHz with Prescott / P4 560 June 2004 `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - Shipped EM64T in Xeon/P4 in 2004-2005 `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - Core 2 Duo Conroe July 2006, ending P4 era `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - Centrino + long battery life mainstream business laptops `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
@@ -43,9 +45,7 @@ prescience_obs_count: 91
 - Intel exited smartphone modem business; sold to Apple $1B `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - Intel abandoned tick-tock model 2016; 10nm delayed multi-year — beginning of Phase 3 challenger period `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - Sold XScale ARM mobile to Marvell `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Intel abandoned MeeGo September 2011 for Tizen with Samsung `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
+- Sofia/Broxton SoCs cancelled `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - Sold to Apple $1B `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
 - Cancelled as consumer GPU December 2009; research continued `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- Technology evolved into Xeon Phi `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- Intel discontinued Xeon Phi 2020 — NVIDIA CUDA won AI compute `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- Hardware-rooted security + remote management would become standard for enterprise PCs `[ps=5]` — [[study-2026-kastner-intel-longitudinal-776f7e]]
-- If you look at the cost of maintaining and supporting PCs in the enterprise, one of the big components is having to get a human being to go and actually touch that computer. So there has really been a big push to provide remote management and administration across the network. `[ps=5]` — [[study-small-business-intel-targets-smbs-with-r-2cd3ec]]

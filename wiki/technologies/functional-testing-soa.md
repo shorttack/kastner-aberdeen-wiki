@@ -14,7 +14,7 @@ lifecycle_current: "mature"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_obs_count: 3
 ---
 
 # Automated Functional Testing for SOA/Web Services
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - 48% `[ps=0]` — [[study-ra-soa-2007-97c147]]
+- 42% `[ps=0]` — [[study-ra-soa-2007-97c147]]
 - 29% `[ps=0]` — [[study-ra-soa-2007-97c147]]
-- 42% — [[study-ra-soa-2007-97c147]]

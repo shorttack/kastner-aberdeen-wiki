@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "defunct"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 4.5
-prescience_obs_count: 2
+prescience_mean: 3.75
+prescience_obs_count: 4
 ---
 
 # Smart Content Services Platform
@@ -26,5 +26,5 @@ prescience_obs_count: 2
 
 - Non-IT groups empowered with direct control over content delivery reducing IT mediation burden `[ps=5]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
 - IT and Web operations can remove themselves from being key masters of content delivery; non-IT staff insert content directly `[ps=4]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
-- Smart Content platform positioned as next evolution of CDN services enabling non-IT content management — [[study-mirror-image-profile-v2-050404-97e2a6]]
-- Smart Content platform did not achieve widespread adoption; Mirror Image acquired before full market penetration — [[study-mirror-image-profile-v2-050404-97e2a6]]
+- Smart Content platform positioned as next evolution of CDN services enabling non-IT content management `[ps=3]` — [[study-mirror-image-profile-v2-050404-97e2a6]]
+- Smart Content platform did not achieve widespread adoption; Mirror Image acquired before full market penetration `[ps=3]` — [[study-mirror-image-profile-v2-050404-97e2a6]]

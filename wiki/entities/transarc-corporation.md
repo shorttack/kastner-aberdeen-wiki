@@ -12,9 +12,9 @@ status: "Acquired by IBM"
 successor: "IBM (Encina folded into TXSeries)"
 years_active: "1987-1997"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Transarc Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Covers both IBM and non-IBM sites via open middleware interoperability — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]
+- Covers both IBM and non-IBM sites via open middleware interoperability `[ps=4]` — [[study-1997-ibm-extended-transaction-systems-fa-0369fa]]

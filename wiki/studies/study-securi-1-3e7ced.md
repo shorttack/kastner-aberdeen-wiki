@@ -16,12 +16,12 @@ source_file: "SECURI~1.DOC"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.85
-prescience_obs_count: 20
+prescience_mean: 1.88
+prescience_obs_count: 24
 ---
 
 # Information Security: 1998 Practice Summary
@@ -42,9 +42,11 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 
 - larger suppliers with capital acquiring innovative smaller suppliers `[ps=5]`
 - few will emerge before 2000 enabling integrated I&A and IAC `[ps=5]`
+- commoditizing; fragmenting to high-end and low-end; embedding into routers `[ps=4]`
 - Prediction proved accurate; Check Point maintained high-end while low-end commoditized. `[ps=4]`
 - replacing expensive leased lines; ROI in 1-3 months `[ps=4]`
 - want consolidation; no single supplier dense enough yet `[ps=4]`
+- key business executives commonly involved alongside IS executive `[ps=4]`
 - Web computing requires security unlike client-server `[ps=4]`
 - IS will spend more on professional services for security `[ps=4]`
 - web-based I&A will drive spending through 2000 as enterprise integrates customers and partners `[ps=4]`
@@ -55,12 +57,10 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 - Identity credentials and authentication systems — $1.928 billion `[ps=0]`
 - Anti-virus and applet controls — $890 million `[ps=0]`
 - Firewall and network access controls — $429 million `[ps=0]`
+- Information access controls — $343 million `[ps=0]`
 - will go mainstream by 1999 with automated rules-engines `[ps=0]`
+- declining rate; moving to gateway; unit volumes shrinking `[ps=0]`
 - access-control solutions vs. risk-management solutions `[ps=0]`
 - IS decision makers do NOT expect Microsoft `[ps=0]`
 - leading firewall and VPN vendor `[ps=0]`
 - leading PKI and digital certificate services provider `[ps=0]`
-- Information access controls — $343 million
-- commoditizing; fragmenting to high-end and low-end; embedding into routers
-- declining rate; moving to gateway; unit volumes shrinking
-- key business executives commonly involved alongside IS executive

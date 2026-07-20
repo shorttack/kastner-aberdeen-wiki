@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 3.25
-prescience_obs_count: 4
+prescience_mean: 3.71
+prescience_obs_count: 7
 ---
 
 # Dell Asset Recovery Services (ARS)
@@ -25,9 +25,9 @@ prescience_obs_count: 4
 ## Top observations
 
 - Environmental regulations and data privacy requirements governing IT asset disposal will tighten significantly in coming years `[ps=5]` — [[study-2003-dell-asset-recovery-services-white--142827]]
+- Dell Asset Recovery Services remains active in 2024 with updated lifecycle assessment reports and expanded environmental compliance services `[ps=5]` — [[study-2003-dell-asset-recovery-services-white--142827]]
 - Over $1 million per year savings with asset recovery program `[ps=4]` — [[study-2003-dell-asset-recovery-services-white--142827]]
+- Environmental regulations governing e-waste are proliferating; enterprises face penalties for improper disposal of hazardous materials (lead, cadmium, mercury) in PCs `[ps=4]` — [[study-2003-dell-asset-recovery-services-white--142827]]
 - Dell ARS will become a model for secure compliant cost-effective IT asset disposition; enterprises adopting proactive asset recovery strategies will save millions `[ps=4]` — [[study-2003-dell-asset-recovery-services-white--142827]]
+- EU WEEE Directive, US state e-waste laws (30+ states), GDPR/CCPA data destruction requirements all enacted post-2003; regulations tightened as predicted `[ps=4]` — [[study-2003-dell-asset-recovery-services-white--142827]]
 - $49 per unit plus $30 for packing and moving `[ps=0]` — [[study-2003-dell-asset-recovery-services-white--142827]]
-- Environmental regulations governing e-waste are proliferating; enterprises face penalties for improper disposal of hazardous materials (lead, cadmium, mercury) in PCs — [[study-2003-dell-asset-recovery-services-white--142827]]
-- Dell Asset Recovery Services remains active in 2024 with updated lifecycle assessment reports and expanded environmental compliance services — [[study-2003-dell-asset-recovery-services-white--142827]]
-- EU WEEE Directive, US state e-waste laws (30+ states), GDPR/CCPA data destruction requirements all enacted post-2003; regulations tightened as predicted — [[study-2003-dell-asset-recovery-services-white--142827]]

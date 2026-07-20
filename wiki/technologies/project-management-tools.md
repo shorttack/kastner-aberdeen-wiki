@@ -12,9 +12,9 @@ era: "1990s-present"
 lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # IT Project Management Tools
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- No robust Y2K project management tooling existed — [[study-1998-y2k-report-f512fb]]
+- No robust Y2K project management tooling existed `[ps=4]` — [[study-1998-y2k-report-f512fb]]

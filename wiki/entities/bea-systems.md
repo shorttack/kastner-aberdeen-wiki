@@ -12,9 +12,9 @@ status: "dissolved"
 successor: "Oracle Corporation (January 2008)"
 years_active: "1995-2008"
 occurrence_count: 4
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 3.0
+prescience_mean: 0.75
+prescience_obs_count: 4
 ---
 
 # BEA Systems, Inc.
@@ -29,7 +29,7 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Market dominant position in TUXEDO TP monitor; aggressive acquisition strategy `[ps=3]` — [[study-middle~1-a64fa0]]
+- BEA EII revenue estimate: $25 million (2003 projected) `[ps=0]` — [[study-aberdeen-eii-2003-ea3f1a]]
 - BEA Systems (AquaLogic): 57% primary ESB vendor for BIC; 14% primary SOA vendor overall `[ps=0]` — [[study-esb-0617-5cc5fa]]
 - BEA Systems promoted SOA platforms with full-page trade press campaigns by 2004-2005 `[ps=0]` — [[study-volume-1-ch08-aberdeen-go-go-years-1998-2006]]
-- BEA EII revenue estimate: $25 million (2003 projected) — [[study-aberdeen-eii-2003-ea3f1a]]
-- Market dominant position in TUXEDO TP monitor; aggressive acquisition strategy — [[study-middle~1-a64fa0]]

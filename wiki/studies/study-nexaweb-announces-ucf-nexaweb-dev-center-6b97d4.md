@@ -16,12 +16,12 @@ source_file: "Nexaweb-Announces-UCF-Nexaweb-Dev-Center-2.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.75
-prescience_obs_count: 4
+prescience_mean: 3.5
+prescience_obs_count: 6
 ---
 
 # Nexaweb Delivers Industry's First Universal Client Framework with New Nexaweb Enterprise Web 2.0 Platform
@@ -40,9 +40,9 @@ _Published 2006, author **Nexaweb Technologies, Inc. (press release)**, type **p
 
 ## Top observations
 
+- There is a monumental application development and modernization movement happening across the global IT community; users demand richer experience and businesses face intense pressure to extend legacy apps by migrating to Web infrastructure. `[ps=5]`
+- Two drivers: (1) user demand for richer experience; (2) enterprise pressure to extend legacy life through Web migration. `[ps=5]`
 - UCF and similar multi-runtime frameworks lost relevance as HTML5/JavaScript SPAs unified the client, and Java applets/WebStart deprecated; Nexaweb ceased 2012. `[ps=5]`
 - Nexaweb launched the industry-first Universal Client Framework — zero-install, lets developers use Ajax or Java technology to deploy enterprise-class composite apps over the Web. `[ps=2]`
 - UCF allows enterprise developers to deploy using an Ajax- or Java-client based on business objectives; both clients download in seconds to a standard browser and cache on-demand. `[ps=2]`
 - Implicit in Kastner endorsement: universal-client frameworks (write-once-deploy-many-runtimes) will be a durable enterprise-RIA strategy. `[ps=2]`
-- There is a monumental application development and modernization movement happening across the global IT community; users demand richer experience and businesses face intense pressure to extend legacy apps by migrating to Web infrastructure.
-- Two drivers: (1) user demand for richer experience; (2) enterprise pressure to extend legacy life through Web migration.

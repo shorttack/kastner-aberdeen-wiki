@@ -3,7 +3,7 @@ title: "Opteron's First Year All About Linux - But What About Later?"
 slug: "study-linuxplanet-reports-opteron-s-first-year-40c423"
 page_type: "study"
 tags: ["type/study", "collection/press-article"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "linuxplanet-reports-opteron-s-first-year-40c423"
 author: "LinuxPlanet staff (reporter); Peter Kastner and Tom Halfhill (quoted sources)"
@@ -16,12 +16,12 @@ source_file: "LinuxPlanet-Reports-Opteron-s-First-Year-All-About-Linux-But-What-
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_max: 5.0
+prescience_mean: 3.0
+prescience_obs_count: 4
 ---
 
 # Opteron's First Year All About Linux - But What About Later?
@@ -40,7 +40,7 @@ _Published 2004, author **LinuxPlanet staff (reporter); Peter Kastner and Tom Ha
 
 ## Top observations
 
+- Intel shipped EM64T (64-bit extension) in Xeon/Pentium 4 in 2004-2005; Windows x64 Edition shipped April 2005 `[ps=5]`
+- Scientific/technical computing segment leading Opteron adoption `[ps=4]`
+- Windows likely to dominate x86-64 once mainstream, though Linux may retain higher share than on 32-bit `[ps=3]`
 - 'A pond made up right now of only a few thousand enthusiasts' `[ps=0]`
-- Scientific/technical computing segment leading Opteron adoption
-- Windows likely to dominate x86-64 once mainstream, though Linux may retain higher share than on 32-bit
-- Intel shipped EM64T (64-bit extension) in Xeon/Pentium 4 in 2004-2005; Windows x64 Edition shipped April 2005

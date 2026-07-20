@@ -12,9 +12,9 @@ era: "1996-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # Tandem ServerWare
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- ORDM on ServerWare/NT will enable cost-sensitive scale from Windows NT to Himalaya in cost-sensitive increments — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
-- ServerWare discontinued after Compaq acquisition; NT-based product line did not survive consolidation — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
+- ServerWare discontinued after Compaq acquisition; NT-based product line did not survive consolidation `[ps=5]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]
+- ORDM on ServerWare/NT will enable cost-sensitive scale from Windows NT to Himalaya in cost-sensitive increments `[ps=2]` — [[study-1997-tandem-object-relational-data-mining-architecture-2d8139]]

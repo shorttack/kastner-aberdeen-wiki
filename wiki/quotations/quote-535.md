@@ -1,6 +1,7 @@
 ---
 title: Quote 535 — Kastner Blog ()
 type: quotation
+page_type: quotation
 slug: quote-535
 row_id: 535
 author: "Peter S. Kastner"

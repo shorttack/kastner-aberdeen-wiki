@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 5.0
-prescience_obs_count: 2
+prescience_mean: 3.5
+prescience_obs_count: 4
 ---
 
 # Stratus Press Release — William Foster ACM Annual Conference Speech, 27 October 1982 (Kastner as media contact)
@@ -42,5 +42,5 @@ _Published 1982, author **Stratus Computer (corporate communications — Kastner
 
 - By using multiple 16 or 32 bit processor chips executing in parallel, major advances in price, performance, and reliability have been achieved... systems using the latest high performance microprocessor chips can distribute work over many processor chips, and system performance can be easily enhanced by adding more chips `[ps=5]`
 - Like the vacuum tube, the transistor, and the gate array, the processor chip has become a high level building block in the most advanced high performance computers `[ps=5]`
-- Parallel processing has allowed us to increase the reliability of on-line systems by 10 to 100 times, a level of reliability which is mandatory as society increases its dependence on computers
-- Peter Kastner served as Stratus' named press contact for executive thought-leadership announcements (per this PR document)
+- Parallel processing has allowed us to increase the reliability of on-line systems by 10 to 100 times, a level of reliability which is mandatory as society increases its dependence on computers `[ps=4]`
+- Peter Kastner served as Stratus' named press contact for executive thought-leadership announcements (per this PR document) `[ps=0]`

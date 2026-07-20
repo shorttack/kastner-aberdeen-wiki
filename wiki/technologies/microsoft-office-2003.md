@@ -12,9 +12,9 @@ era: "2003-2014"
 lifecycle_at_study: "new"
 lifecycle_current: "end-of-life"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Office 2003
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 'We recommend that corporate buyers look at Office 2003 because it has better collaboration capabilities that add to productivity.' — [[study-moore-s-law-true-but-irrelevant-internet-661e40]]
+- 'We recommend that corporate buyers look at Office 2003 because it has better collaboration capabilities that add to productivity.' `[ps=3]` — [[study-moore-s-law-true-but-irrelevant-internet-661e40]]

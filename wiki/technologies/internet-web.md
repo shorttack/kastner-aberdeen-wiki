@@ -13,8 +13,8 @@ lifecycle_at_study: "growth"
 lifecycle_current: "dominant"
 occurrence_count: 3
 prescience_max: 5.0
-prescience_mean: 2.83
-prescience_obs_count: 6
+prescience_mean: 3.0
+prescience_obs_count: 7
 ---
 
 # Internet / World Wide Web
@@ -28,6 +28,6 @@ prescience_obs_count: 6
 - Electronic commerce will proliferate across supplier-to-consumer, business-to-business, and supplier-to-intermediary channels `[ps=5]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
 - An electronic insurance supply chain is inevitable but gradual, and software linking insurers, agencies, and reinsurers should be high value `[ps=4]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
 - Aberdeen estimates over 70% of all physicians use the Internet for research `[ps=4]` — [[study-health~1-056358]]
+- Within 12-18 months, forward-looking health plans will provide online functionality for claims processing and payment `[ps=4]` — [[study-health~1-056358]]
 - 15 million users `[ps=0]` — [[study-1996-oracle-interoffice-workgroup-collab-4e68a3]]
 - Insurance distribution is moving toward banks and internet-based low-cost channels `[ps=-1]` — [[study-199x-us-insurance-industry-overview-saga-6ce857]]
-- Within 12-18 months, forward-looking health plans will provide online functionality for claims processing and payment — [[study-health~1-056358]]

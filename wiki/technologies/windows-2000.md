@@ -13,8 +13,8 @@ lifecycle_at_study: "mainstream"
 lifecycle_current: "legacy-unsupported"
 occurrence_count: 5
 prescience_max: 5.0
-prescience_mean: 3.59
-prescience_obs_count: 22
+prescience_mean: 3.44
+prescience_obs_count: 25
 ---
 
 # Microsoft Windows 2000
@@ -42,10 +42,10 @@ prescience_obs_count: 22
 - Cost per transaction minute dropped from ~$300 three years prior to <$50 on Unix/NT platforms as of 1999 `[ps=4]` — [[study-1999pr~1-c5516b]]
 - Partially met — Windows 2000 Datacenter supports 32-way SMP; trails Unix at 64-way+ `[ps=4]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
 - Partially met — improved clustering and failover; still below Unix five-nines `[ps=4]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
+- Partially met — improved Unix/mainframe interop but proprietary protocols remain `[ps=4]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
 - Met — large MCSE-certified workforce available `[ps=4]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
 - Blaster worm (Aug 2003) and Sasser (2004) caused billions in damages; security prediction validated `[ps=4]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
 - Thin-client/server-centric multi-user architectures are now poised to become business-altering competitive weapons `[ps=3]` — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]
 - IS managers must assess systems integration and backward compatibility issues for multi-user deployment `[ps=3]` — [[study-1998-microsoft-nt-windows-2000-multi-user-computing-5f91e4]]
+- Windows 2000 infrastructure, ERP/Supply Chain, CIS/Data Knowledge, Education ranked as top four IS buyer demand areas per Aberdeen surveys `[ps=3]` — [[study-1999pr~1-c5516b]]
 - Met — MMC and WMI provide unified management console `[ps=3]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]
-- We have a new research report on this subject. Note also that Office 2000 will arrive later than expected Q1 and Office represents 40% of Microsoft's profits. Key feature of Office 2000 is ability to move into and out of HTML — great for Intranet posting. `[ps=3]` — [[study-kastner-jrl-trends-1999-pk-responses-f4c5a4]]
-- $895 per copy `[ps=0]` — [[study-2000-is-windows-nt-windows-2000-enterprise-ready-91f2cb]]

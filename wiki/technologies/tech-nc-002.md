@@ -12,9 +12,9 @@ era: "1996"
 lifecycle_at_study: "Introduction"
 lifecycle_current: "Obsolete (succeeded by cloud PC/VDI standards)"
 occurrence_count: 1
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 2.0
+prescience_mean: 0.67
+prescience_obs_count: 3
 ---
 
 # NC Reference Profile 1
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- Apple co-announced NC Reference Profile; developing Mac NC (Pippin) `[ps=2]` — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]
 - IBM, Oracle, Sun, Apple, Netscape co-announced NC Reference Profile 1 on May 20, 1996 `[ps=0]` — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]
 - Netscape Navigator 3.0 expected natively implemented in Network Station Q2 1997 `[ps=0]` — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]
-- Apple co-announced NC Reference Profile; developing Mac NC (Pippin) — [[study-1997-ibm-when-a-pc-is-simply-platform-ov-5e9364]]

@@ -12,9 +12,9 @@ era: "1990s-2000s"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Windows File/Application Storage
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 82%; 35% have >70% Windows storage — [[study-maxtor-survey-report-5-20c-0f458e]]
+- 82%; 35% have >70% Windows storage `[ps=0]` — [[study-maxtor-survey-report-5-20c-0f458e]]

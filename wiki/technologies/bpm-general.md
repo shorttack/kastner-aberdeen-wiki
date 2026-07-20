@@ -12,9 +12,9 @@ era: "2000s"
 lifecycle_at_study: "growth"
 lifecycle_current: "mature"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 4
 ---
 
 # Business Process Management (BPM)
@@ -24,7 +24,7 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- BPM enhances organizational agility and market responsiveness — [[study-soa-with-bpm-docx-1211c7]]
-- Management support, IT skills adequacy, systems integration complexity — [[study-soa-with-bpm-docx-1211c7]]
-- Governance and management tools essential for BPM/SOA oversight and control — [[study-soa-with-bpm-docx-1211c7]]
-- BPM and SOA industries experiencing significant growth; organizations recognizing limits of traditional IT — [[study-soa-with-bpm-docx-1211c7]]
+- BPM enhances organizational agility and market responsiveness `[ps=4]` — [[study-soa-with-bpm-docx-1211c7]]
+- Management support, IT skills adequacy, systems integration complexity `[ps=4]` — [[study-soa-with-bpm-docx-1211c7]]
+- Governance and management tools essential for BPM/SOA oversight and control `[ps=4]` — [[study-soa-with-bpm-docx-1211c7]]
+- BPM and SOA industries experiencing significant growth; organizations recognizing limits of traditional IT `[ps=4]` — [[study-soa-with-bpm-docx-1211c7]]

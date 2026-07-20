@@ -12,9 +12,9 @@ status: "unknown"
 successor: ""
 years_active: "1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # SSDS (School district case study — not a vendor)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- SSDS profiled as NIS provider for Wake County Public School System case study — [[study-1998-network-integration-services-report-f75108]]
+- SSDS profiled as NIS provider for Wake County Public School System case study `[ps=0]` — [[study-1998-network-integration-services-report-f75108]]

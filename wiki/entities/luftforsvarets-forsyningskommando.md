@@ -12,9 +12,9 @@ status: "restructured"
 successor: "Various Norwegian Defence Logistics restructurings"
 years_active: "1944-2008"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Luftforsvarets Forsyningskommando
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Statskonsult / Luftforsvarets Forsyningskommando Kjeller — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]
+- Statskonsult / Luftforsvarets Forsyningskommando Kjeller `[ps=0]` — [[study-ncr-norge-open-oltp-rdbms-seminar-1992-0-7f5414]]

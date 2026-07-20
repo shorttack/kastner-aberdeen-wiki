@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 2
 prescience_max: 5.0
-prescience_mean: 2.75
-prescience_obs_count: 8
+prescience_mean: 2.44
+prescience_obs_count: 9
 ---
 
 # Fixed Content / Fixed-Content Storage
@@ -32,4 +32,4 @@ prescience_obs_count: 8
 - HIPAA regulations under consideration will likely require US enterprises to create fixed-content data warehouses with real-time access `[ps=1]` — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
 - [UNVERIFIED] `[ps=0]` — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
 - [UNVERIFIED] `[ps=0]` — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
-- [UNVERIFIED] — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]
+- [UNVERIFIED] `[ps=0]` — [[study-01-difranco-report-on-aberdeen-group-res-444a19]]

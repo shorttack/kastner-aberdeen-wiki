@@ -12,9 +12,9 @@ era: "1990s"
 lifecycle_at_study: "Mainstream"
 lifecycle_current: "Mature/Mainstream"
 occurrence_count: 1
-prescience_max: 3.0
-prescience_mean: 3.0
-prescience_obs_count: 1
+prescience_max: 4.0
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # SMP Scalability (Symmetric Multiprocessing)
@@ -24,5 +24,5 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- Web servers and data marts must scale beyond 8-processor SMP limits `[ps=4]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
 - Informix-OnLine provides superior SMP scalability vs. Sybase System 11 `[ps=3]` — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]
-- Web servers and data marts must scale beyond 8-processor SMP limits — [[study-1997-migrating-from-sybase-sql-server-4.-d7b1d0]]

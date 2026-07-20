@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 3.0
-prescience_obs_count: 15
+prescience_mean: 3.05
+prescience_obs_count: 22
 ---
 
 # HP's Networking Vision: Designed with Workgroups in Mind
@@ -44,21 +44,21 @@ _Published 1996, author **Aberdeen Group**, type **white-paper**._
 - 100VG lost to 100Base-T as dominant fast Ethernet standard; 100Base-T became universal by late 1990s `[ps=5]`
 - HP Workgroup Networks Division reorganized; ProCurve brand emerged for HP networking; HPE later acquired Aruba (2015) and Juniper (2025) `[ps=5]`
 - SMB networking market grew strongly through late 1990s-2000s; switched Ethernet dominated; HP ProCurve was successful `[ps=5]`
+- Mixed Environments: technology hodgepodge requiring interoperability; varying speed and performance needs `[ps=4]`
 - Group Decision-Making: augmented by consensus rather than single IT expert directive `[ps=4]`
 - Workgroup-first: workgroups as building blocks for enterprise networks; standards-based interoperability `[ps=4]`
 - Timing is right for HP's approach; workgroup-ready networking solutions will define next purchase wave `[ps=4]`
+- Leader in 10Base-T stackable hubs, high-speed hubs, NICs, and network printers `[ps=3]`
 - 10Base-T (10 Mbps) too slow for multimedia/videoconferencing; driving demand for 100VG and 100Base-T `[ps=3]`
 - Lack of Pre-Planning: networks built department by department with no coordination or uniformity `[ps=3]`
+- Guerrilla Networking: constrained budgets; resourceful network managers wearing many hats `[ps=3]`
+- Full solution set: connectivity products, PCs, printers, servers, scanners, network management as complete workgroup solution `[ps=3]`
 - Scalable 10/100 Mbps; shared and switched configurations; supported by HP `[ps=3]`
 - Market success in both Windows and Unix versions; backed by exemplary service and support `[ps=3]`
+- HP's networking vision firmly taps into market realities; workgroup premise confirmed by customer interviews `[ps=3]`
+- Low maintenance, standardized equipment, easy installation, reliability, good security; 5-year technology life expectancy `[ps=3]`
+- Corporations gravitating to one-stop solutions; HP full solution set positions well for this trend `[ps=3]`
 - 100VG will remain relevant for SMB workgroup upgrades alongside 100Base-T `[ps=1]`
 - Small to mid-sized organizations; networks 50 to 1,000+ nodes `[ps=0]`
 - Home-Grown: networks designed in-house due to limited resources; wiring done by maintenance staff `[ps=0]`
 - HP leader in 10Base-T hub market; contributed to 10Base-T wiring standards `[ps=0]`
-- Leader in 10Base-T stackable hubs, high-speed hubs, NICs, and network printers
-- Mixed Environments: technology hodgepodge requiring interoperability; varying speed and performance needs
-- Guerrilla Networking: constrained budgets; resourceful network managers wearing many hats
-- Full solution set: connectivity products, PCs, printers, servers, scanners, network management as complete workgroup solution
-- HP's networking vision firmly taps into market realities; workgroup premise confirmed by customer interviews
-- Low maintenance, standardized equipment, easy installation, reliability, good security; 5-year technology life expectancy
-- Corporations gravitating to one-stop solutions; HP full solution set positions well for this trend

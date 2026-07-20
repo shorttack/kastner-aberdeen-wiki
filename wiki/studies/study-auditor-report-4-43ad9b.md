@@ -16,12 +16,12 @@ source_file: "Archive-1/auditor_report_4.doc"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 4.0
-prescience_mean: 0.33
-prescience_obs_count: 18
+prescience_mean: 0.29
+prescience_obs_count: 21
 ---
 
 # Eclipsys SunriseXA 3.3 Meets Subsecond Response Time Objective
@@ -44,6 +44,7 @@ _Published 2004, author **Peter S. Kastner**, type **benchmark**._
 - Viable; sufficient throughput and headroom demonstrated `[ps=3]`
 - 65,637 transactions `[ps=0]`
 - >1,000 transactions per minute `[ps=0]`
+- 40% `[ps=0]`
 - 0.54s avg (geom); 1.62s 99th pct; 6,525 transactions `[ps=0]`
 - 0.12s avg (geom); 0.36s 99th pct; 17,986 transactions `[ps=0]`
 - 0.09s avg (geom); 0.25s 99th pct; 21,549 transactions `[ps=0]`
@@ -51,13 +52,12 @@ _Published 2004, author **Peter S. Kastner**, type **benchmark**._
 - 0.18s avg (geom); 0.62s 99th pct; 6,504 transactions `[ps=0]`
 - 8 of 82 transaction types `[ps=0]`
 - 11.85 seconds `[ps=0]`
+- 721,158 transactions over 715 minutes `[ps=0]`
 - 82 different transaction types `[ps=0]`
+- Acceptable; response times similar to LoadRunner results on Pentium III 750-MHz 256MB via 11-Mbps wireless `[ps=0]`
 - Sub-2-second for all transaction types `[ps=0]`
 - Early summer 2004 `[ps=0]`
 - [UNVERIFIED] `[ps=0]`
 - No perceptible change in response time or throughput when SUT disconnected from wider network `[ps=0]`
 - 2.50 seconds avg; 99th percentile 6.74 seconds `[ps=0]`
 - 6,000-bed hospital at 5,000 orders/hour = 2.27x busiest known real hospital (2,200 orders/hour) `[ps=-1]`
-- 40%
-- 721,158 transactions over 715 minutes
-- Acceptable; response times similar to LoadRunner results on Pentium III 750-MHz 256MB via 11-Mbps wireless

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Nortel Networks (2000)"
 years_active: "1996-2000"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Alteon Networks
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Alteon profiled as high-speed networking newcomer focused on Gigabit Ethernet switches — [[study-networ~1-96462b]]
+- Alteon profiled as high-speed networking newcomer focused on Gigabit Ethernet switches `[ps=4]` — [[study-networ~1-96462b]]

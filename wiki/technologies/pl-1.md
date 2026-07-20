@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-end-of-life"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # PL/1 (Programming Language One)
@@ -25,5 +25,5 @@ prescience_obs_count: 1
 ## Top observations
 
 - Designed in mid-1960s to unify FORTRAN's mathematical capability with COBOL's structured data handling — powerful but extremely new in 1967. `[ps=4]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Only one programming job available; required PL/1 experience. Nobody had it in 1967; job went elsewhere. — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
-- Asking for experienced PL/1 programmers in 1967 was 'roughly equivalent to asking for experienced ChatGPT programmers in 2020.' — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Asking for experienced PL/1 programmers in 1967 was 'roughly equivalent to asking for experienced ChatGPT programmers in 2020.' `[ps=3]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]
+- Only one programming job available; required PL/1 experience. Nobody had it in 1967; job went elsewhere. `[ps=0]` — [[study-volume-1-ch01-waiting-for-automation-1960-1969]]

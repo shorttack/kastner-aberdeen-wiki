@@ -12,9 +12,9 @@ status: "unknown"
 successor: "unknown"
 years_active: "1990s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Quinta Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- 250 Gbits/in2 — [[study-storag~1-262bc7]]
+- 250 Gbits/in2 `[ps=4]` — [[study-storag~1-262bc7]]

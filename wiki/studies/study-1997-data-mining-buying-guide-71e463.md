@@ -16,12 +16,12 @@ source_file: "1997 Data Mining Buying Guide.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.43
-prescience_obs_count: 23
+prescience_mean: 1.53
+prescience_obs_count: 30
 ---
 
 # Enterprise Data Mining Buying Guide: 1997 Edition
@@ -43,25 +43,25 @@ _Published 1997, author **David Hill & Robert Moran / AberdeenGroup**, type **Ma
 - will_systematize_value_extraction_from_databases `[ps=5]`
 - increased_revenue_decreased_costs_via_customer_programs `[ps=5]`
 - became_enterprise_mainstream_as_machine_learning_ai `[ps=5]`
+- still_accurate_80pct_of_ml_work_is_data_prep `[ps=5]`
 - vertical_industry_focus `[ps=4]`
+- financial_services_retail_telecom_other `[ps=4]`
+- line_of_business_led_cross_functional_team `[ps=4]`
 - financial_services_retail_telecom `[ps=4]`
 - deep_learning_llms_dominant `[ps=4]`
 - business_issue_should_improve_bottom_line `[ps=4]`
 - emerging_technology_careful_vendor_selection_needed `[ps=3]`
 - 75 `[ps=0]`
+- server_platforms `[ps=0]`
 - algorithm_breadth_and_depth `[ps=0]`
 - lifecycle_arch_ease_services_company_strength `[ps=0]`
 - pricing `[ps=0]`
 - prediction_classification `[ps=0]`
 - prediction `[ps=0]`
+- affinity_grouping `[ps=0]`
 - scales_to_large_databases `[ps=0]`
 - filed_chapter_11_august_1994 `[ps=0]`
 - scalable_commercial_grade_vs_research_tools `[ps=0]`
 - retail_financial_insurance `[ps=0]`
+- significant_differences_require_careful_evaluation `[ps=0]`
 - already_bankrupt_1994_limited_viability `[ps=0]`
-- acquired_by_yahoo_1996 `[ps=0]`
-- acquired_accrue_1999_then_jda_2001 `[ps=0]`
-- peterson_2013_then_datawatch_2018_then_altair `[ps=0]`
-- acquired_spss_2000_spss_acquired_ibm_2009 `[ps=-1]`
-- server_platforms
-- financial_services_retail_telecom_other

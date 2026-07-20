@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 0.8
-prescience_obs_count: 5
+prescience_mean: 0.67
+prescience_obs_count: 6
 ---
 
 # Cisco AS5200 Universal Access Server
@@ -29,4 +29,4 @@ prescience_obs_count: 5
 - Over 700 customers including 10 major telcos, 5 ISPs, several IXC services `[ps=0]` — [[study-aberdeen-1996-remote-access-cisco-untold-story]]
 - Units per customer on new orders tripled since August 1996 `[ps=0]` — [[study-aberdeen-1996-remote-access-cisco-untold-story]]
 - Integrates CSU, communications server, channel bank, modems, switch, router in single chassis; fully digital `[ps=0]` — [[study-aberdeen-1996-remote-access-cisco-untold-story]]
-- 48 integrated modems (PRI/T1) or 60 modems (PRI/E1) per chassis — [[study-aberdeen-1996-remote-access-cisco-untold-story]]
+- 48 integrated modems (PRI/T1) or 60 modems (PRI/E1) per chassis `[ps=0]` — [[study-aberdeen-1996-remote-access-cisco-untold-story]]

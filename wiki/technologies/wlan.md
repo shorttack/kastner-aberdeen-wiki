@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "active"
 occurrence_count: 2
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 2
+prescience_mean: 3.6
+prescience_obs_count: 5
 ---
 
 # Wireless LAN (WLAN)
@@ -25,7 +25,7 @@ prescience_obs_count: 2
 ## Top observations
 
 - As wireless LAN access increases so too do the problems of IT administrators `[ps=4]` — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
+- Adolescent market expected to mature through vendor consolidation `[ps=4]` — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
 - Most specialist WLAN security startups dissolved or acquired by 2010; Cisco, Aruba, Motorola dominated `[ps=4]` — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
-- Market described as adolescent — growing but lacking mature security solutions — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
-- Adolescent market expected to mature through vendor consolidation — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
-- High (PCs/printers/phones) + Low (appliance/security) — [[study-dct-sony-personal-electronic-vision-2002]]
+- Market described as adolescent — growing but lacking mature security solutions `[ps=3]` — [[study-2002-wireless-lan-security-an-adolescent-market-88de03]]
+- High (PCs/printers/phones) + Low (appliance/security) `[ps=3]` — [[study-dct-sony-personal-electronic-vision-2002]]

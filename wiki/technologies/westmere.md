@@ -12,9 +12,9 @@ era: "2010"
 lifecycle_at_study: "new"
 lifecycle_current: "{'lifecycle_current': 'discontinued', 'notes': 'Intel Westmere (32nm Nehalem) processor architecture reached end of sale in June 2014 (for Westmere-EP in Cisco UCS servers) with last date of support June 30, 2019. The microarchitecture generation is fully discontinued.', 'source': 'https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-b-series-blade-servers/eos-eol-notice-c51-730609.html'}"
 occurrence_count: 2
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 2
+prescience_max: 3.0
+prescience_mean: 1.0
+prescience_obs_count: 3
 ---
 
 # Intel Westmere (32nm Nehalem)
@@ -24,6 +24,6 @@ prescience_obs_count: 2
 
 ## Top observations
 
+- 20 GHz over 6 cores (12 threads); most powerful consumer chip ever `[ps=3]` — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]
 - 32nm `[ps=0]` — [[study-intel-2010-vpro-daily-globe-42697e]]
 - 1-2 kWh `[ps=0]` — [[study-intel-2010-vpro-daily-globe-42697e]]
-- 20 GHz over 6 cores (12 threads); most powerful consumer chip ever — [[study-2010-intel-ia-continuum-wp-1-2-fc5653]]

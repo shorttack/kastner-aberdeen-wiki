@@ -16,12 +16,12 @@ source_file: "Rebates-spur-buyers-but-many-don-t-collect-The-Honolulu-Advertiser
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.2
-prescience_obs_count: 5
+prescience_mean: 3.57
+prescience_obs_count: 7
 ---
 
 # Rebates spur buyers but many don't collect
@@ -41,9 +41,9 @@ _Published 2004, author **Lorrie Grant (USA Today) via The Honolulu Advertiser**
 ## Top observations
 
 - A rebate worth 10 percent of list price costs manufacturer 5 percent if only half of buyers claim it. `[ps=5]`
+- Best Buy, Circuit City (liquidated 2009), Dell, and others largely abandoned mail-in rebates in favor of instant-savings and promotional pricing by 2015; Kastner 40% non-redemption finding remained durable reference. `[ps=5]`
 - Two people out of five never bother to apply for the rebate. `[ps=4]`
+- It's a wonderful trigger for purchasing, because it gives people the perception that they're saving money. The reality is that consumers pay full price. `[ps=4]`
 - Consumers treat rebates as a discount at the time of purchase, but their post-purchase behavior is that they don't redeem them. `[ps=4]`
 - Anything you can do to get consumers to buy your product vs. your competitor is a valuable tool, because differentiation is very hard to buy. Your rebates make your products stand out against other highly commoditized products. `[ps=3]`
 - FTC rules require rebate checks to be mailed within 30 days unless the sponsor specifies longer — most do, usually 6-8 weeks. `[ps=0]`
-- It's a wonderful trigger for purchasing, because it gives people the perception that they're saving money. The reality is that consumers pay full price.
-- Best Buy, Circuit City (liquidated 2009), Dell, and others largely abandoned mail-in rebates in favor of instant-savings and promotional pricing by 2015; Kastner 40% non-redemption finding remained durable reference.

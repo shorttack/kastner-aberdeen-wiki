@@ -12,9 +12,9 @@ era: "1988-present"
 lifecycle_at_study: "early-commercial"
 lifecycle_current: "mainstream"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Automated Meter Reading (AMR)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Provide new distribution mechanism feeding back-end billing and operational support; strategic IT asset — [[study-utilit~1-0596b5]]
+- Provide new distribution mechanism feeding back-end billing and operational support; strategic IT asset `[ps=4]` — [[study-utilit~1-0596b5]]

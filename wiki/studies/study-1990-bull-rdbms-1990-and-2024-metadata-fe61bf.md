@@ -16,12 +16,12 @@ source_file: "1990 Bull RDBMS 1990 and 2024 Metadata.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 2.65
-prescience_obs_count: 17
+prescience_mean: 2.55
+prescience_obs_count: 20
 ---
 
 # Ingres/Sybase Customer Satisfaction Survey for Bull Corporate Strategy & Marketing
@@ -42,6 +42,7 @@ _Published 1990, author **Peter S. Kastner / Aberdeen Group**, type **survey-rep
 
 - Ingres sold to ASK Group (1990), CA (1994), spun out (2005), became Actian (2011); acquired by HCL for $330M (2018); Ingres 12.0 active in 2024 `[ps=5]`
 - Oracle became world's largest RDBMS vendor; Oracle Database market share ~28% of RDBMS market in 2024 `[ps=5]`
+- Sun Microsystems acquired by Oracle Corporation for $7.4B in 2010 `[ps=5]`
 - Bull should establish Application Implementation Business Center for RDBMS adoption support; revenue from training, design, implementation, upgrade support, SI `[ps=4]`
 - Both Ingres v6 and Sybase v4 applications are just now going into production or within next 3 months; high-performance OLTP not yet proved at scale `[ps=4]`
 - Even most advanced RDBMS users not achieving mainframe-level performance; high-performance OLTP migration confidence high for near term `[ps=4]`
@@ -53,10 +54,9 @@ _Published 1990, author **Peter S. Kastner / Aberdeen Group**, type **survey-rep
 - Ingres users extremely satisfied; many Sybase customers would prefer Ingres; no Ingres users reported reliability problems `[ps=2]`
 - Aberdeen recommends Ingres as preferred supplier; Ingres 6.3 earliest version Bull should select; Sybase only if marketing capability is priority `[ps=2]`
 - Aberdeen predicts Ingres 6.3 as reliable, stable preferred supplier for Bull; Ingres customers show higher loyalty than Sybase `[ps=2]`
+- Almost every contact volunteered rejection of Oracle due to basic architectural weaknesses for high-performance OLTP `[ps=1]`
 - Ingres version 6 provides all growth path customers can implement today (especially with Knowledge Manager); Cadre/Ingres CASE tools anticipated `[ps=1]`
+- Trade press reported Salomon moving IMS to Sybase; Aberdeen interview revealed Salomon wished it had chosen Ingres instead `[ps=0]`
 - SAP acquired Sybase for $5.8 billion (July 2010); became SAP Adaptive Server Enterprise `[ps=0]`
 - Ingres users believe deficiencies in version 5 corrected in version 6; v6 gained tremendous additional customer satisfaction and loyalty `[ps=0]`
 - All 10 customers believed their supplier did not have resources for envisioned product functionality and support services `[ps=0]`
-- Almost every contact volunteered rejection of Oracle due to basic architectural weaknesses for high-performance OLTP
-- Trade press reported Salomon moving IMS to Sybase; Aberdeen interview revealed Salomon wished it had chosen Ingres instead
-- Sun Microsystems acquired by Oracle Corporation for $7.4B in 2010

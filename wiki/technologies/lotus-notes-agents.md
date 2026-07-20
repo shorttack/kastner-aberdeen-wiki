@@ -14,7 +14,7 @@ lifecycle_current: "active-as-hcl"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 3
+prescience_obs_count: 4
 ---
 
 # Lotus Notes Scripted Agents
@@ -25,6 +25,6 @@ prescience_obs_count: 3
 ## Top observations
 
 - 2 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
+- 33 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 2 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
 - 26 `[ps=0]` — [[study-2026-kastner-enterprise-ai-arc]]
-- 33 — [[study-2026-kastner-enterprise-ai-arc]]

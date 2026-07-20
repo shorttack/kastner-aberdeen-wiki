@@ -3,7 +3,7 @@ title: "A Primer on Comparing Debit Credit Tests (Kastner, DEC CSG, 1988)"
 slug: "study-dec-primer-comparing-debit-credit-tests-c30cfa"
 page_type: "study"
 tags: ["type/study", "collection/internal-competitive-marketing-paper"]
-tier: 2
+tier: 1
 source_csv: "_master_studies.csv"
 study_id: "dec-primer-comparing-debit-credit-tests--c30cfa"
 author: "Peter S. Kastner — DEC Corporate Systems Group, Competitive Marketing Programs"
@@ -16,12 +16,12 @@ source_file: "DEC-debit-credit-primer-PSK-1988.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
-prescience_max: 0.0
-prescience_mean: 0.0
-prescience_obs_count: 9
+prescience_max: 4.0
+prescience_mean: 0.36
+prescience_obs_count: 11
 ---
 
 # A Primer on Comparing Debit Credit Tests (Kastner, DEC CSG, 1988)
@@ -40,6 +40,7 @@ _Published 1988, author **Peter S. Kastner — DEC Corporate Systems Group, Comp
 
 ## Top observations
 
+- 70-pct-cpu-utilization-in-house-rule `[ps=4]`
 - fully-qualified-all-presentation-services-in-SUT `[ps=0]`
 - use-Style-3-for-vendor-comparison `[ps=0]`
 - 40 `[ps=0]`
@@ -49,5 +50,4 @@ _Published 1988, author **Peter S. Kastner — DEC Corporate Systems Group, Comp
 - 15-17 `[ps=0]`
 - 2.5 `[ps=0]`
 - 6.5 `[ps=0]`
-- 70-pct-cpu-utilization-in-house-rule
-- DEC-CSG-Competitive-Marketing-Programs
+- DEC-CSG-Competitive-Marketing-Programs `[ps=0]`

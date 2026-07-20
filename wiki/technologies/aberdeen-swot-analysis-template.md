@@ -12,9 +12,9 @@ era: "2001"
 lifecycle_at_study: "launch"
 lifecycle_current: "legacy-discontinued"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 3
 ---
 
 # Aberdeen SWOT Analysis Template
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Market Overview: 1/2 day; Competitive Analysis: 1/2 day; Product Analysis (SWOT): 1/2 day; Current Position Analysis: 1/2 day — [[study-aas-operational-playbooks-aug-2001-b5a001]]
-- Ability to conduct SWOT analysis on competitors; ability to capture data relating to the client's competition — [[study-aas-operational-playbooks-aug-2001-b5a001]]
-- Scalability; flexibility; extensibility; usability; industry acceptance; efficiency; integration; technological innovation; reliability; manageability; security — [[study-aas-operational-playbooks-aug-2001-b5a001]]
+- Market Overview: 1/2 day; Competitive Analysis: 1/2 day; Product Analysis (SWOT): 1/2 day; Current Position Analysis: 1/2 day `[ps=0]` — [[study-aas-operational-playbooks-aug-2001-b5a001]]
+- Ability to conduct SWOT analysis on competitors; ability to capture data relating to the client's competition `[ps=0]` — [[study-aas-operational-playbooks-aug-2001-b5a001]]
+- Scalability; flexibility; extensibility; usability; industry acceptance; efficiency; integration; technological innovation; reliability; manageability; security `[ps=0]` — [[study-aas-operational-playbooks-aug-2001-b5a001]]

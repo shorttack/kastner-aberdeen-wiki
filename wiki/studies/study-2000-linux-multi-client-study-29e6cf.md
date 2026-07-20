@@ -16,12 +16,12 @@ source_file: "2000 Linux Multi-Client Study.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.07
-prescience_obs_count: 15
+prescience_mean: 2.29
+prescience_obs_count: 17
 ---
 
 # Linux Multi-Client Study
@@ -45,6 +45,8 @@ _Published 2000, author **Aberdeen Group**, type **market-study**._
 - Caldera became SCO Group (2002), filed controversial Linux IP lawsuits, declared bankruptcy 2007 `[ps=5]`
 - Gaining acceptance; present in significant minority of Global 2000 IT environments `[ps=4]`
 - Linux replacing Windows NT in specific market segments and application areas `[ps=4]`
+- Linux replacing Unix in specific market segments and application areas `[ps=4]`
+- Support gaps identified as key adoption barrier for enterprise Linux `[ps=4]`
 - Preferred distributors identified; Red Hat and SUSE expected to lead `[ps=4]`
 - Linux holds 44.8% server OS market share (2024); powers 100% of TOP500 supercomputers; runs 49.2% of cloud workloads `[ps=4]`
 - ~400 Global 2000 firms interviewed `[ps=0]`
@@ -55,5 +57,3 @@ _Published 2000, author **Aberdeen Group**, type **market-study**._
 - Most important difficulties in deploying Linux documented via survey `[ps=0]`
 - Question posed: Is Linux going to be a contender in the desktop market? `[ps=0]`
 - $16,000 electronic corporate license `[ps=0]`
-- Linux replacing Unix in specific market segments and application areas
-- Support gaps identified as key adoption barrier for enterprise Linux

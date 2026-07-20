@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.25
-prescience_obs_count: 8
+prescience_mean: 1.8
+prescience_obs_count: 10
 ---
 
 # Remedy Action Request System (AR System)
@@ -30,7 +30,7 @@ prescience_obs_count: 8
 - Multi-table joins without SQL; Direct SQL for cross-enterprise database links `[ps=3]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - Remedy expected to become leading supplier of Consolidated Operations Management applications `[ps=2]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - 3,000+ customers by early 1997 `[ps=0]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
+- 53% of sales to existing customers (first 3 quarters 1996) `[ps=0]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - New screen widgets, view management, HTML User's Guide `[ps=0]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
+- Automotive, computers, chemicals/pharma, energy/utilities, financial services, government, telecom, education `[ps=0]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
 - Inventory management, purchase order management, stock reordering, password/network address tracking, asset tracking, change management `[ps=0]` — [[study-1997-automating-and-managing-internal-op-e69e64]]
-- 53% of sales to existing customers (first 3 quarters 1996) — [[study-1997-automating-and-managing-internal-op-e69e64]]
-- Automotive, computers, chemicals/pharma, energy/utilities, financial services, government, telecom, education — [[study-1997-automating-and-managing-internal-op-e69e64]]

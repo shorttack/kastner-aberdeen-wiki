@@ -14,7 +14,7 @@ years_active: "1980s-present"
 occurrence_count: 1
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 1
+prescience_obs_count: 2
 ---
 
 # Linda Sanford
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - Use Linda Sanford lever to rest of IBM executive team; keep her engaged (example: Sept 5 voicemail by Peter offering to brief her on Aberdeen HP-Compaq analysis). `[ps=0]` — [[study-ibm-major-account-plan-8-cc6400]]
-- Brief Linda Sanford quarterly plus ad hoc event conference calls (i.e., HP acquires Compaq). — [[study-ibm-major-account-plan-8-cc6400]]
+- Brief Linda Sanford quarterly plus ad hoc event conference calls (i.e., HP acquires Compaq). `[ps=0]` — [[study-ibm-major-account-plan-8-cc6400]]

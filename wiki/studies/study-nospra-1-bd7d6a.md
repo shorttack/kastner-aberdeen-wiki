@@ -16,12 +16,12 @@ source_file: "NOSPRA~1.DOC"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "low"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 3.44
-prescience_obs_count: 18
+prescience_mean: 3.25
+prescience_obs_count: 20
 ---
 
 # Network Operating Systems: 1998 Practice Summary
@@ -52,11 +52,11 @@ _Published 1998, author **Aberdeen Group**, type **other-research**._
 - NOS implementations so complex they often require outside assistance; especially true for NT Server enterprise deployments `[ps=4]`
 - Novell is still technology and market-share NOS leader; not a dead company; NetWare 5 expected summer 1998 `[ps=3]`
 - IBM not anticipating significant market share gains; maintaining installed base; $30B IBM revenue relies on OS/2 `[ps=3]`
+- Sales of all three major NOS vendors increased over past two years as market expands and orgs upgrade/consolidate `[ps=3]`
 - IntranetWare provides extensive improvements to platform/print/file/application/security; good Internet integration `[ps=3]`
 - More IT decisions based on emotional/political reasons rather than careful assessment; risks now capable of destroying companies `[ps=3]`
 - NT Server has almost non-existent security at Windows desktop level vs. very adequate Unix and IBM/Novell NOS `[ps=2]`
 - Vast majority of NT Server NOS sales are in workgroup; few network managers seriously consider it as enterprise NOS `[ps=2]`
 - NetWare 5 launch on track; beta testing on schedule; customer feedback favorable; good chance to recapture mindshare `[ps=1]`
 - OS/2 Warp Server excellent for file/print; exceeds NT Server functionality even with NT extra-cost utilities `[ps=1]`
-- Verify NetWare 5 reception and market impact.
-- Sales of all three major NOS vendors increased over past two years as market expands and orgs upgrade/consolidate
+- Verify NetWare 5 reception and market impact. `[ps=0]`

@@ -16,12 +16,12 @@ source_file: "Analysis-Asian-virus-casts-shadow-over-supply-chain-2.webarchive"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 5.0
-prescience_mean: 1.36
-prescience_obs_count: 14
+prescience_mean: 1.7
+prescience_obs_count: 20
 ---
 
 # Asian Virus Casts Shadow Over Supply Chain: SARS Impact on Asia/Pacific Semiconductor and Electronics Manufacturing
@@ -41,9 +41,13 @@ _Published 2003, author **Russ Craig; Peter S. Kastner**, type **white-paper**._
 ## Top observations
 
 - Disruption of airplane flights carrying high-value/rush electronics `[ps=5]`
+- All moving to PRC `[ps=4]`
+- Barred employee travel to PRC and HK until epidemic controlled `[ps=4]`
 - Single-source dependence: laptop assembly cannot ship without PRC power supply `[ps=4]`
 - Ships not significantly delayed once at sea; <10-day incubation `[ps=4]`
+- PPE, semi, consumer electronics shortages 2020-2022 confirmed Kastner-Craig no-second-source thesis `[ps=4]`
 - The deceit of the PRC government in hiding what has become a serious global health threat will not be quickly forgotten. `[ps=4]`
+- Dependable supply is an 'oft-overlooked rule' of the electronics industry; SARS may break it `[ps=3]`
 - Years to dispel new level of suspicion by investors of government's ability to protect investments `[ps=2]`
 - Literally months of 24-7 work; 'nuclear winter' for semi/electronics `[ps=1]`
 - 37% / $52 billion `[ps=0]`
@@ -51,12 +55,8 @@ _Published 2003, author **Russ Craig; Peter S. Kastner**, type **white-paper**._
 - 85%+ `[ps=0]`
 - 8 plants with commitments to NEC, Philips, Oki, Elpida, Infineon `[ps=0]`
 - 792 reported cases, 34 deaths `[ps=0]`
+- Temporary closure; 305 workers quarantined `[ps=0]`
 - Postponed due to SARS (K.Y. Ho) `[ps=0]`
 - 1,000+ people; schools closed `[ps=0]`
+- ~100 new cases per day `[ps=0]`
 - Japanese/Korean firms will slow their rush to PRC; Western firms face disrupted chains now `[ps=-1]`
-- All moving to PRC
-- Temporary closure; 305 workers quarantined
-- Barred employee travel to PRC and HK until epidemic controlled
-- ~100 new cases per day
-- Dependable supply is an 'oft-overlooked rule' of the electronics industry; SARS may break it
-- PPE, semi, consumer electronics shortages 2020-2022 confirmed Kastner-Craig no-second-source thesis

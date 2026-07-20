@@ -16,12 +16,12 @@ source_file: "Mac-News-Business-Apple-Intel-Marriage-Made-in-Heaven-8.webarchive
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.0
-prescience_obs_count: 3
+prescience_mean: 2.0
+prescience_obs_count: 5
 ---
 
 # Apple-Intel: Marriage Made in Heaven?
@@ -41,7 +41,7 @@ _Published 2007, author **Pam Baker (reporter, MacNewsWorld); Peter Kastner (quo
 ## Top observations
 
 - 'I just don't see a problem here' — no integration, quality, or market risk identified `[ps=4]`
+- Intel-Mac era (2006-2020) generally considered strategic success; Mac share grew from 2.5% (2006) to 7-10% (2019) `[ps=4]`
+- Easier virtualization/dual-boot between OS X and Windows XP driving Mac purchases `[ps=3]`
 - Mac sales up 4x industry average in Q2-2006 `[ps=0]`
 - Last PowerPC Mac (Power Mac G5) discontinued August 2006 `[ps=-1]`
-- Easier virtualization/dual-boot between OS X and Windows XP driving Mac purchases
-- Intel-Mac era (2006-2020) generally considered strategic success; Mac share grew from 2.5% (2006) to 7-10% (2019)

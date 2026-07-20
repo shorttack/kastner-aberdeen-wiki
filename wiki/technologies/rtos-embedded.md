@@ -12,9 +12,9 @@ era: "1995-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Real-Time Operating System (embedded)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Integrated software platform and development environment for broadband access gateways: RTOS + embedded web server + Ethernet + USB + xDSL + DOCSIS + voice/multimedia + home networking options (802.11a/b/g, HomePNA, Bluetooth, HomePlug) — [[study-dct-dceit-practice-v6-2002]]
+- Integrated software platform and development environment for broadband access gateways: RTOS + embedded web server + Ethernet + USB + xDSL + DOCSIS + voice/multimedia + home networking options (802.11a/b/g, HomePNA, Bluetooth, HomePlug) `[ps=4]` — [[study-dct-dceit-practice-v6-2002]]

@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.1
-prescience_obs_count: 88
+prescience_mean: 2.03
+prescience_obs_count: 100
 ---
 
 # Chapter 5: Stratus Computer — Six Years in the Fault-Tolerant Wars (1981-1987)
@@ -42,6 +42,7 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 
 - Stratus hardware fault tolerance hides failures from software entirely; application runs without awareness of failure event. `[ps=5]`
 - Calculate cost of downtime per hour, compare to price premium for fault-tolerant hardware, determine when the math works. `[ps=5]`
+- VP of Sales and Marketing at Stratus; ex-Honeywell; direct, likable, very funny; later became Cisco's first non-founder CEO. `[ps=5]`
 - John Morgridge later became Cisco's first non-founder CEO and built that company into a generation-defining enterprise. `[ps=5]`
 - Report predicted microprocessor-based OLTP price-performance was about to explode — Moore's Law meeting economics of departmental/distributed transaction processing. `[ps=5]`
 - 'Red lights sell more than white papers.' You could argue against a benchmark. You could not argue against a machine still running after you just pulled a CPU board. `[ps=5]`
@@ -64,4 +65,3 @@ _Published 2026, author **Peter S. Kastner**, type **memoir**._
 - If the US Air Force trusted this machine inside a mountain during a nuclear threat, it could handle a department store's credit card authorizations. `[ps=4]`
 - Report predicted displacement of the mainframe was inevitable as microprocessor-based OLTP price-performance improved. `[ps=4]`
 - 'Your ATM network loses $400,000 of transaction revenue per hour... our hardware costs $180,000 more' is an argument. 'We prevent downtime' is a claim. `[ps=4]`
-- Launched into banking because downtime math was visible; telecom breakthrough came from sideways observation in men's room. Market planning staying in conference rooms misses oblique angles. `[ps=4]`

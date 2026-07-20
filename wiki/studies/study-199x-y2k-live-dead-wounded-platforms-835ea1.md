@@ -16,12 +16,12 @@ source_file: "MSTY2K-1.pptx"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: ""
 prescience_5y_enum: ""
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 0.23
+prescience_obs_count: 22
 ---
 
 # Y2K Live, Dead & Wounded
@@ -34,25 +34,25 @@ _Published 1998, author **Peter S. Kastner (Aberdeen Group)**, type **topic-anal
 
 ## Top observations
 
-- living
-- living
-- living
-- living
-- living
-- living
-- dead
-- dead
-- dead
-- dead
-- dead
-- dead
-- wounded
-- wounded
-- wounded
-- wounded
-- wounded
-- wounded
-- wounded
-- wounded
-- attractive: bank loan customers; insurance agencies; reinsurers; wholesalers
-- unattractive: state and local government; life-and-death applications; manufacturing shop floor
+- attractive: bank loan customers; insurance agencies; reinsurers; wholesalers `[ps=3]`
+- unattractive: state and local government; life-and-death applications; manufacturing shop floor `[ps=2]`
+- living `[ps=0]`
+- living `[ps=0]`
+- living `[ps=0]`
+- living `[ps=0]`
+- living `[ps=0]`
+- living `[ps=0]`
+- dead `[ps=0]`
+- dead `[ps=0]`
+- dead `[ps=0]`
+- dead `[ps=0]`
+- dead `[ps=0]`
+- dead `[ps=0]`
+- wounded `[ps=0]`
+- wounded `[ps=0]`
+- wounded `[ps=0]`
+- wounded `[ps=0]`
+- wounded `[ps=0]`
+- wounded `[ps=0]`
+- wounded `[ps=0]`
+- wounded `[ps=0]`

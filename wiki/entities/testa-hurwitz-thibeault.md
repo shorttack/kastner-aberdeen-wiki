@@ -12,9 +12,9 @@ status: "merged"
 successor: "Testa Hurwitz & Thibeault -> Brown Rudnick (2005)"
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Testa, Hurwitz & Thibeault
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Testa, Hurwitz & Thibeault, 125 High Street, Boston MA 02110 — [[study-testahur95-330c0c]]
+- Testa, Hurwitz & Thibeault, 125 High Street, Boston MA 02110 `[ps=0]` — [[study-testahur95-330c0c]]

@@ -16,12 +16,12 @@ source_file: "2003 Storage Trends_ What Will Be Hot in 2003 - And Beyond.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 4.0
-prescience_mean: 1.73
-prescience_obs_count: 11
+prescience_max: 5.0
+prescience_mean: 2.13
+prescience_obs_count: 15
 ---
 
 # Storage Trends: What Will Be Hot in 2003 — And Beyond
@@ -40,18 +40,18 @@ _Published 2002, author **David Hill**, type **market-study**._
 
 ## Top observations
 
+- Storage will evolve toward utility computing model `[ps=5]`
 - Data center will be re-architected via storage automation for resource pooling and policy-driven management `[ps=4]`
 - Strong — buyers will focus on storage staples including SAN `[ps=4]`
 - Strong — NAS among storage staples buyers will continue buying `[ps=4]`
+- Continued relevance for backup/restore in near-term `[ps=4]`
+- Became foundational — virtualization enabled by 2010; 72% of orgs at least 25% virtual `[ps=4]`
 - AWS S3 launched March 2006 as first mass-market storage utility `[ps=4]`
 - Single-image global file system will emerge as data center infrastructure `[ps=3]`
 - Emerging — listed as key storage technology to watch in 2003+ `[ps=0]`
+- Mature staple — primary near-term storage buyer focus `[ps=0]`
 - Will become key enabling technology for data center re-architecture `[ps=0]`
 - 31.2% revenue share in open SAN market `[ps=0]`
 - 15.7% year-over-year growth `[ps=0]`
 - 20.6% ($2.65B revenues) `[ps=0]`
 - $12.89 billion total `[ps=0]`
-- Continued relevance for backup/restore in near-term
-- Mature staple — primary near-term storage buyer focus
-- Storage will evolve toward utility computing model
-- Became foundational — virtualization enabled by 2010; 72% of orgs at least 25% virtual

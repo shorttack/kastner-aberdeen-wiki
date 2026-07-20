@@ -19,9 +19,9 @@ relevance: "medium"
 study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
-prescience_max: 4.0
-prescience_mean: 3.47
-prescience_obs_count: 17
+prescience_max: 5.0
+prescience_mean: 3.61
+prescience_obs_count: 23
 ---
 
 # Melding Financial Operations and Analytics: The New Financial Battleground
@@ -40,6 +40,8 @@ _Published 2003, author **Alex Veytsel**, type **industry-insight**._
 
 ## Top observations
 
+- Software will cry wolf at innocuous patterns without knowledge of customized business arrangements; risk of alert fatigue `[ps=5]`
+- Sarbanes-Oxley Act is accelerating convergence between financial value chain management (FVCM) and financial analytics software `[ps=4]`
 - FVCM (Financial Value Chain Management) and analytics convergence did occur, though under different branding. The CPM (Corporate Performance Management) market formed by 2005-2010, combining financial close, budgeting, consolidation, and analytics. Vendors like Hyperion (acquired Oracle 2007), Cognos (IBM 2008), and Cartesis (Oracle 2007) embodied this convergence. `[ps=4]`
 - SEC-demanded information nuggets cannot be found by mining traditional financial sources; enterprises must discover knowledge in operational systems `[ps=4]`
 - Financial analytics vendors, FVCM specialists, and ERP companies each have strengths and weaknesses for SOX solutions `[ps=4]`
@@ -47,19 +49,17 @@ _Published 2003, author **Alex Veytsel**, type **industry-insight**._
 - Great insight into operational metrics; weakness: must add executive-level aggregation and strong BI partner for analytical capability `[ps=4]`
 - ERP vendors control the general ledger — key data source for FVCM and financial analytics; enter as fast followers; breadth over depth; safe CIO choice `[ps=4]`
 - Enterprises need both top-down (pull data through central analytics) and bottom-up (push facts from operational level to management) FVCM strategies `[ps=4]`
+- Department-level FVCM purchases make data discovery and audit a key element in integration; data quality issues will surface during integration `[ps=4]`
+- Event stream management (ESM) is methodology for routing and prioritizing events to manage flood of compliance alerts throughout the enterprise `[ps=4]`
 - FVCM specialist vendors did add analytics capabilities by 2010. Kyriba (XRT spinoff) expanded from treasury to cash analytics. Basware added analytics to AP automation. Bottomline Technologies added analytics. The prediction of analytics expansion was partially validated. `[ps=4]`
 - Many SOX demands also make for good business: timely alerts of cash crunch or materially significant events; financial transparency as business benefit beyond compliance `[ps=4]`
+- Companies must avoid costs and notoriety of being a Sarbanes-Oxley test case; financial transparency will prove beneficial beyond compliance burden `[ps=4]`
 - Data cleansing software needed to juxtapose and reconcile conflicting, redundant, and incomplete records before FVCM integration `[ps=4]`
 - Current financial analytics and ERP vendors will have first shot at soothing fears of executives who must now certify filings personally `[ps=4]`
 - Sarbanes-Oxley Act compelling public companies to direct financial analysis tools at financial value chain sooner than expected; most cannot handle accelerated timeframes alone `[ps=4]`
 - SOX compliance requirements will force most public companies to join financial analytics and FVCM technologies sooner than expected `[ps=3]`
 - ERP vendors control general ledger — key data source for much of FVCM and financial analytics; unique competitive advantage `[ps=3]`
 - Reporting can pinpoint metrics like breakdown of days sales outstanding (DSO) identifying time to collect and bottlenecks extending that process `[ps=3]`
+- Aberdeen categorizes this insight under Corporate Performance Management (CPM) coverage area `[ps=3]`
 - If ERP/analytics vendors fail to deliver systematic compliance infrastructure, innovative FVCM suppliers will add analytic capability or re-forge financial value chain as compliance anchor `[ps=2]`
 - Drill-down and drill-across mechanisms make difference between well-oiled disclosure function and one that moves in fits and starts `[ps=0]`
-- Sarbanes-Oxley Act is accelerating convergence between financial value chain management (FVCM) and financial analytics software
-- Department-level FVCM purchases make data discovery and audit a key element in integration; data quality issues will surface during integration
-- Event stream management (ESM) is methodology for routing and prioritizing events to manage flood of compliance alerts throughout the enterprise
-- Software will cry wolf at innocuous patterns without knowledge of customized business arrangements; risk of alert fatigue
-- Companies must avoid costs and notoriety of being a Sarbanes-Oxley test case; financial transparency will prove beneficial beyond compliance burden
-- Aberdeen categorizes this insight under Corporate Performance Management (CPM) coverage area

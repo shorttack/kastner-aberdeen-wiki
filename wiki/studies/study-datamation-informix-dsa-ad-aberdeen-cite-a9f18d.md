@@ -16,12 +16,12 @@ source_file: "Informix-ad-psk-quote-1994-03.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 3.0
-prescience_mean: 1.0
-prescience_obs_count: 7
+prescience_mean: 0.88
+prescience_obs_count: 8
 ---
 
 # Technology That's As Dynamic As Your Organization (Informix Dynamic Scalable Architecture full-page ad)
@@ -44,7 +44,7 @@ _Published 1994, author **Informix Software (full-page advertisement, Datamation
 - may vault Informix past competitors `[ps=2]`
 - ahead of Oracle and Sybase in MP support `[ps=2]`
 - high `[ps=0]`
+- Hyatt deploying SMP across organization `[ps=0]`
 - expects impressive performance gains `[ps=0]`
 - 1-800-688-IFMX ext 18 `[ps=0]`
 - Datamation 1-Mar-1994 page 32 `[ps=0]`
-- Hyatt deploying SMP across organization

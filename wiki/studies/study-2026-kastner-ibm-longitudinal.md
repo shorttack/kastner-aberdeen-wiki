@@ -16,12 +16,12 @@ source_file: "ibm_longitudinal_study_source.md"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.65
-prescience_obs_count: 88
+prescience_mean: 2.79
+prescience_obs_count: 117
 ---
 
 # IBM Corporation Across Six Decades of the Kastner Archive: Mainframe Survival, Platform Pivots, and the Services Transformation
@@ -41,27 +41,27 @@ _Published 2026, author **Peter S. Kastner (assembled with Perplexity Computer u
 ## Top observations
 
 - Gerstner cancels breakup; services pivot; AS/400 survival; OS/2 abandoned; Linux bet; IBM buys PwC Consulting `[ps=5]`
+- Watson AI over-promised; Watson Health sold; Red Hat acquisition; Kyndryl spinout; hybrid cloud / quantum bets active `[ps=5]`
+- IBM mainframe evolved to zSeries (2000) then IBM Z; never discontinued; 2022 z16 still actively sold `[ps=5]`
 - IBM z16 (2022) active; z17 roadmap confirmed; mainframe revenue still $2B+ annually `[ps=5]`
 - iSeries merged into Power Systems as IBM i in 2008; architecture continues on POWER hardware `[ps=5]`
 - IBM sold x86/Netfinity server business to Lenovo for $2.1B in 2014; exited commodity x86 `[ps=5]`
+- AIX 7.3 released 2022; actively maintained; AIX on POWER10 current 2026 `[ps=5]`
+- IBM OS/2 Warp missed the window; can never recover market from Windows 95 `[ps=5]`
+- OS/2 is being abandoned despite operational stability; enterprise installed base will dwindle without ISV support `[ps=5]`
+- IBM's OS/2 vs NT strategy and lack of developer marketing will permanently cede the client OS market `[ps=5]`
 - IBM ended all OS/2 support in December 2006; confirmed OS/2 exit `[ps=5]`
 - IBM sold ThinkPad and PC division to Lenovo for $1.75B in 2005 `[ps=5]`
 - IBM sold Netfinity/x86 server business to Lenovo for $2.1B in 2014; second Lenovo divestiture `[ps=5]`
 - OS/2 will continue in loyal IBM accounts for client-server through mid-decade `[ps=5]`
+- IBM VisualAge discontinued April 30 2007; Eclipse IDE lineage preserved `[ps=5]`
+- IBM sold Notes/Domino to HCL Technologies in 2019; HCL Domino 14 current 2026 `[ps=5]`
+- IBM would pivot from hardware firm to services-led company, with services becoming majority of revenue `[ps=5]`
+- Lou Gerstner became IBM CEO 1993 and reversed the planned company breakup; pivoted to services strategy `[ps=5]`
 - By early 2000s IBM became the world's largest IT services firm; services exceeded 50% of revenue `[ps=5]`
+- IBM spun out managed infrastructure services as Kyndryl in November 2021; NYSE: KD `[ps=5]`
+- Post-Kyndryl IBM focused on hybrid cloud and AI; IBM Consulting retained professional services `[ps=5]`
 - IBM acquired Red Hat for $34B in 2019; largest IBM acquisition; Red Hat operating independently `[ps=5]`
 - Red Hat OpenShift is IBM's primary hybrid-cloud delivery vehicle 2026; 4,000+ customers `[ps=5]`
 - IBM Deep Blue defeated world chess champion Garry Kasparov in May 1997 match `[ps=5]`
-- IBM Watson Health data and analytics products sold to Francisco Partners in 2022 `[ps=5]`
-- IBM rebranded Watson as watsonx AI platform in 2023; includes watsonx.ai, watsonx.data, watsonx.governance `[ps=5]`
-- IBM closed $34B Red Hat acquisition in July 2019; largest acquisition in IBM history `[ps=5]`
-- IBM launched publicly accessible quantum computing via cloud in May 2016; first public quantum computer `[ps=5]`
-- IBM Eagle 127-qubit processor released November 2021; first processor beyond 100 qubits `[ps=5]`
-- IBM Condor 1121-qubit processor released December 2023; largest superconducting quantum processor `[ps=5]`
-- IBM ended all OS/2 support December 2006 `[ps=5]`
-- IBM sold Notes/Domino to HCL 2019 after 24-year ownership `[ps=5]`
-- IBM SNA largely displaced by TCP/IP across enterprise by 2000; legacy maintained in finance `[ps=5]`
-- IBM decommissioned Deep Blue after 1997 match; technology evolved into HPC research lineage `[ps=5]`
-- IBM under Gerstner will pivot successfully to services as hardware revenues decline `[ps=5]`
-- OS/2 Warp missed the window; can never recover `[ps=5]`
-- Watson AI represents IBM's most visible prediction miss — both from IBM's own marketing claims and from analyst expectations; Watson Health failure and WatsonX reboot are the clearest IBM outcome reversals in the post-2010 archive `[ps=5]`
+- IBM Watson defeated Jeopardy champions Ken Jennings and Brad Rutter in February 2011 `[ps=5]`

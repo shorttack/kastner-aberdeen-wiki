@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "1990s-2010s"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # Deborah Conrad
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- months per business-grade program — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]
+- months per business-grade program `[ps=0]` — [[study-usatoday-kessler-itanium-mckinley-kastne-77362b]]

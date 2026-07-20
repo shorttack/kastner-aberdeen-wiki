@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: "2015-present"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # OpenAI
@@ -24,6 +24,6 @@ prescience_obs_count: 0
 
 ## Top observations
 
+- LLMs (2020-2026): GPT, Claude, Gemini; trained on internet-scale text; demonstrate emergent capabilities not explicitly trained at sufficient scale. `[ps=5]` — [[study-volume-1-ch10-the-long-view-1966-2026]]
 - Compute scarcity has inverted; judgment is now the scarce resource — [[study-2026-kastner-core-arguments-framework-0b0c6b]]
 - From 1968 (when compute was scarce and judgment ubiquitous) to 2026 (when frontier compute is a metered commodity and qualified judgment over messy enterprise data is the binding constraint), the scarce resource has fully inverted. AI-readiness work formalizes this inversion. — [[study-2026-kastner-core-arguments-framework-0b0c6b]]
-- LLMs (2020-2026): GPT, Claude, Gemini; trained on internet-scale text; demonstrate emergent capabilities not explicitly trained at sufficient scale. — [[study-volume-1-ch10-the-long-view-1966-2026]]

@@ -12,9 +12,9 @@ era: "1994-2005"
 lifecycle_at_study: "Growth"
 lifecycle_current: "Succeeded"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # n-tier client-server architecture
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- N-tier client-server cited as key new architecture alongside distributed-object and Internet thin-client — [[study-1997-ibm’s-network-computing-solution----e74e8a]]
+- N-tier client-server cited as key new architecture alongside distributed-object and Internet thin-client `[ps=4]` — [[study-1997-ibm’s-network-computing-solution----e74e8a]]

@@ -20,8 +20,8 @@ study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 4.33
-prescience_obs_count: 6
+prescience_mean: 4.38
+prescience_obs_count: 8
 ---
 
 # Seven Ways to Prepare for the Economic Upturn
@@ -42,9 +42,9 @@ _Published 2004, author **Dan Tynan, InfoWorld**, type **feature-article**._
 
 - One problem many mainframe shops face is the growing number of retirements of old COBOL programmers. Options are to pay them to retain them, hire them back as consultants, or outsource the work to someone else who has a supply of COBOL programmers. `[ps=5]`
 - Outsourcing and offshoring are two of the strategies companies are using to squeeze more out of IT budgets; both require careful management to avoid hollowing out internal capability. `[ps=5]`
+- Sarbanes-Oxley compliance deadlines are driving significant IT investment in financial controls, audit software, and process documentation for 2004. `[ps=5]`
 - By 2006-2008 Indian IT-services wage inflation routinely ran 10-15% annually at Infosys/Wipro/TCS, compressing margins and forcing expansion to Philippines, Eastern Europe, and Tier-2 Indian cities — directly validating Kastner's 2004 two-to-three-year prediction. `[ps=5]`
 - InfoWorld ceased print publication in April 2007, continuing as InfoWorld.com (IDG) — part of a broader shift in IT trade publishing from print to digital. `[ps=5]`
+- Gartner, IDC, and Aberdeen Group forecast U.S. tech budgets up 4 to 8 percent in 2004, signaling the first real post-dot-com-crash recovery. `[ps=4]`
 - NJ Governor Phil Murphy publicly appealed for COBOL programmers in April 2020 when the state's unemployment insurance mainframe system could not handle COVID-era claim volumes — a vivid illustration of the COBOL retirement crisis Kastner flagged in 2004. `[ps=4]`
 - Two or three years down the road, rapid wage inflation in India is likely to erode the economic benefits that are so enticing today. `[ps=2]`
-- Gartner, IDC, and Aberdeen Group forecast U.S. tech budgets up 4 to 8 percent in 2004, signaling the first real post-dot-com-crash recovery.
-- Sarbanes-Oxley compliance deadlines are driving significant IT investment in financial controls, audit software, and process documentation for 2004.

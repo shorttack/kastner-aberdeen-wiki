@@ -12,9 +12,9 @@ era: "1995-2000"
 lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Y2K Conversion / Fix Tools
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Applying longer-term code fixes (windowing vs expansion) — [[study-1998-y2k-report-f512fb]]
+- Applying longer-term code fixes (windowing vs expansion) `[ps=3]` — [[study-1998-y2k-report-f512fb]]

@@ -12,9 +12,9 @@ era: ""
 lifecycle_at_study: "declining"
 lifecycle_current: "legacy-supported"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 1.5
+prescience_obs_count: 2
 ---
 
 # Informix Database
@@ -24,5 +24,5 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Safeway migrated from Informix/Sun to Teradata due to Informix performance limitations and Sun hardware constraints — [[study-safeway-damages-report-draft-b502f4]]
-- Informix acquired by IBM in 2001 for $1B — validating Safeway's decision to migrate away — [[study-safeway-damages-report-draft-b502f4]]
+- Informix acquired by IBM in 2001 for $1B — validating Safeway's decision to migrate away `[ps=3]` — [[study-safeway-damages-report-draft-b502f4]]
+- Safeway migrated from Informix/Sun to Teradata due to Informix performance limitations and Sun hardware constraints `[ps=0]` — [[study-safeway-damages-report-draft-b502f4]]

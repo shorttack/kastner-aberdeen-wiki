@@ -16,12 +16,12 @@ source_file: "DECtp-WSJ-6-17-1988-6.pdf"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 4.0
-prescience_mean: 1.0
-prescience_obs_count: 7
+prescience_mean: 0.91
+prescience_obs_count: 11
 ---
 
 # WSJ — Digital Challenges Tests by IBM Of Firms' Midrange Computers (Bulkeley, 17-Jun-1988)
@@ -42,12 +42,12 @@ _Published 1988, author **William M. Bulkeley — The Wall Street Journal**, typ
 
 - competitive-truth-squads-to-analysts-and-reporters `[ps=4]`
 - indicates-degree-of-desperation-in-this-marketplace `[ps=3]`
+- refused-RAMP-C-source-and-independent-audit `[ps=3]`
 - one-of-the-cheapest-tricks-IBM-could-have-pulled `[ps=0]`
+- widely-circulated-and-duplicated-and-verified `[ps=0]`
 - 1988-06-17 `[ps=0]`
+- 29.8 `[ps=0]`
 - 1 `[ps=0]`
 - 10x `[ps=0]`
 - anonymous-analyst-said-questionable-aspects `[ps=0]`
-- widely-circulated-and-duplicated-and-verified
-- 29.8
-- refused-RAMP-C-source-and-independent-audit
-- 2
+- 2 `[ps=0]`

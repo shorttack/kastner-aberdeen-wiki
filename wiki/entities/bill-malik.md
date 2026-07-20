@@ -14,7 +14,7 @@ years_active: "1974-present"
 occurrence_count: 1
 prescience_max: 4.0
 prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_obs_count: 3
 ---
 
 # Bill Malik
@@ -24,6 +24,6 @@ prescience_obs_count: 1
 
 ## Top observations
 
+- outsourcing may mask problems rather than solve them `[ps=4]` — [[study-it-budget-realities-benchmark-1b1313]]
 - Best-in-class see sustaining IT alignment as top pressure; customer demand third `[ps=4]` — [[study-it-budget-realities-benchmark-1b1313]]
-- outsourcing may mask problems rather than solve them — [[study-it-budget-realities-benchmark-1b1313]]
-- continuous measurement will become best practice — [[study-it-budget-realities-benchmark-1b1313]]
+- continuous measurement will become best practice `[ps=4]` — [[study-it-budget-realities-benchmark-1b1313]]

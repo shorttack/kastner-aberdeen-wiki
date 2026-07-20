@@ -16,12 +16,12 @@ source_file: "SARS-puts-an-end-to-business-as-usual-in-Asia-Computerworld.webarc
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 1.33
-prescience_obs_count: 9
+prescience_mean: 1.5
+prescience_obs_count: 10
 ---
 
 # SARS Puts an End to Business as Usual in Asia
@@ -41,6 +41,7 @@ _Published 2003, author **Sumner Lemon, IDG News Service (Computerworld Australi
 ## Top observations
 
 - Through 2022 (CHIPS Act, ongoing US-China trade tensions) and 2025-2026 (continued tariff and decoupling measures), investor suspicion of PRC supply-chain concentration has remained elevated — directly validating Kastner & Craig's 'years to dispel' forecast. `[ps=5]`
+- At a minimum, the SARS epidemic will cause schedule slippages and disrupt the aggressive growth plans that global electronics companies have for the affected geographies. `[ps=3]`
 - The PRC has not been forthcoming about the situation, and until recently claimed that the outbreak had been contained. The deceit of the PRC government in hiding what has become a serious global health threat will not be quickly forgotten. `[ps=3]`
 - Worst case, it could result in major supply-chain disruptions and another downdraft for an already challenged industry. `[ps=2]`
 - A new level of suspicion by investors of the government's ability to protect investments will take years to dispel. After all, low-cost manufacturing and disrupted supply are oil and water in a just-in-time world. `[ps=2]`
@@ -49,4 +50,3 @@ _Published 2003, author **Sumner Lemon, IDG News Service (Computerworld Australi
 - China had the largest reported number of SARS cases with 806 diagnosed and 34 deaths per WHO; Hong Kong had 685 cases and 16 deaths. `[ps=0]`
 - Sun Microsystems indefinitely postponed its SunNetwork 2003 conference originally scheduled for Shanghai April 8-9, 2003, citing health concerns. `[ps=0]`
 - Intel cancelled its Intel Developer Forum (IDF) conferences in Taipei and Beijing; CEO Craig Barrett had been scheduled to keynote Taipei. IDF Tokyo and IDF Bangalore proceeded as planned. `[ps=0]`
-- At a minimum, the SARS epidemic will cause schedule slippages and disrupt the aggressive growth plans that global electronics companies have for the affected geographies.

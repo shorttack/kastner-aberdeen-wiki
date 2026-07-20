@@ -16,12 +16,12 @@ source_file: "1998 The Decision-Maker's Guide to Professio...rvices Support for 
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "low"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.74
-prescience_obs_count: 19
+prescience_mean: 3.55
+prescience_obs_count: 20
 ---
 
 # The Decision-Maker's Guide to Professional Services Support for ERP Implementations
@@ -57,6 +57,6 @@ _Published 1998, author **Aberdeen Group**, type **market-study**._
 - PeopleSoft is a primary ERP vendor requiring professional services for implementation `[ps=3]`
 - ERP is heading toward and evolving into Supply Chain Management `[ps=3]`
 - Baan is a primary ERP vendor requiring professional services for implementation `[ps=2]`
+- 20 ERP professional services firms profiled `[ps=0]`
 - Are professional services needed at all? `[ps=0]`
 - Services firms use tools and methodologies to speed up deployment process `[ps=0]`
-- 20 ERP professional services firms profiled

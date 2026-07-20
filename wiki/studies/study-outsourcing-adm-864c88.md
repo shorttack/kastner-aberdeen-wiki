@@ -16,12 +16,12 @@ source_file: "source/_raw_text.txt"
 license: "CC-BY-4.0"
 importance: "low"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 66
+prescience_obs_count: 80
 ---
 
 # Outsourcing Application Development and Maintenance: Joining Cost Savings with IT Human Asset Management
@@ -40,6 +40,7 @@ _Published 2006, author **Aberdeen Group**, type **employer-record**._
 
 ## Top observations
 
+- 80% `[ps=0]`
 - 79% `[ps=0]`
 - 73% `[ps=0]`
 - 71% `[ps=0]`
@@ -52,6 +53,7 @@ _Published 2006, author **Aberdeen Group**, type **employer-record**._
 - 36% `[ps=0]`
 - 35% `[ps=0]`
 - 75% `[ps=0]`
+- 63% `[ps=0]`
 - 37% `[ps=0]`
 - 37% `[ps=0]`
 - 56% `[ps=0]`
@@ -60,8 +62,6 @@ _Published 2006, author **Aberdeen Group**, type **employer-record**._
 - 2% `[ps=0]`
 - 5% `[ps=0]`
 - 49% `[ps=0]`
+- 67% `[ps=0]`
 - 22% `[ps=0]`
 - 51% `[ps=0]`
-- 43% `[ps=0]`
-- 43% `[ps=0]`
-- 38% `[ps=0]`

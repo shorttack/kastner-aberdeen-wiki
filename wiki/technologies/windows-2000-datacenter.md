@@ -12,9 +12,9 @@ era: "2000-2005"
 lifecycle_at_study: "mature"
 lifecycle_current: "obsolete"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 3.0
+prescience_mean: 3.0
+prescience_obs_count: 1
 ---
 
 # Windows 2000 Datacenter Server
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Key OS platform for high-end x86 multi-processor consolidation — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]
+- Key OS platform for high-end x86 multi-processor consolidation `[ps=3]` — [[study-2002-beyond-windows-8-way-servers-why-businesses-are-de-6828b2]]

@@ -12,9 +12,9 @@ status: "acquired"
 successor: "Helpsystems / Fortra (2018)"
 years_active: "1991-2018"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # TeamQuest Corporation
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Helpsystems acquired TeamQuest Corporation in 2018; Helpsystems later rebranded as Fortra in 2022; the TeamQuest brand is now subsumed under the Fortra IT-operations portfolio. — [[study-teamquest-8-ec015b]]
+- Helpsystems acquired TeamQuest Corporation in 2018; Helpsystems later rebranded as Fortra in 2022; the TeamQuest brand is now subsumed under the Fortra IT-operations portfolio. `[ps=4]` — [[study-teamquest-8-ec015b]]

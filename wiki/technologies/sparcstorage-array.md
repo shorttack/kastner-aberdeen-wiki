@@ -13,8 +13,8 @@ lifecycle_at_study: "emerging"
 lifecycle_current: "obsolete"
 occurrence_count: 1
 prescience_max: 4.0
-prescience_mean: 4.0
-prescience_obs_count: 1
+prescience_mean: 3.5
+prescience_obs_count: 2
 ---
 
 # SPARCstorage Array 214 RSM
@@ -25,4 +25,4 @@ prescience_obs_count: 1
 ## Top observations
 
 - SPARCstorage arrays with fiber channels; hot-swap HA features; superior MTBF; mission-critical grade I/O; sequential access optimized for data warehouse workloads `[ps=4]` — [[study-aberdeen-1996-sun-microsystems-decision-warehouse]]
-- Hot-swap disk modules, fans, power supplies; 4.2GB drives (3.5 inch backplane); industry-standard fiber channels; RAS Customer Action Team for storage issues; superior MTBF vs competitors — [[study-aberdeen-1996-sun-microsystems-decision-warehouse]]
+- Hot-swap disk modules, fans, power supplies; 4.2GB drives (3.5 inch backplane); industry-standard fiber channels; RAS Customer Action Team for storage issues; superior MTBF vs competitors `[ps=3]` — [[study-aberdeen-1996-sun-microsystems-decision-warehouse]]

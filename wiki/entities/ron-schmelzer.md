@@ -12,9 +12,9 @@ status: "active"
 successor: ""
 years_active: ""
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Ron Schmelzer
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Nexaweb has successfully identified SOA, Web services, database integration, and rich Internet application capabilities provided by Ajax, Java, and .NET as key focus areas for its new Platform 4.5 release. — [[study-outlook-series-david-mcfarlane-nexaweb-p-1dd1b4]]
+- Nexaweb has successfully identified SOA, Web services, database integration, and rich Internet application capabilities provided by Ajax, Java, and .NET as key focus areas for its new Platform 4.5 release. `[ps=4]` — [[study-outlook-series-david-mcfarlane-nexaweb-p-1dd1b4]]

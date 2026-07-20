@@ -12,9 +12,9 @@ era: "1992-1995"
 lifecycle_at_study: "emerging"
 lifecycle_current: "discontinued"
 occurrence_count: 2
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 0.0
+prescience_mean: 0.0
+prescience_obs_count: 1
 ---
 
 # OSF/1
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Future in greater jeopardy than ever — [[study-nti-4-nextgen-os-timing-1993-a45049]]
+- Future in greater jeopardy than ever `[ps=0]` — [[study-nti-4-nextgen-os-timing-1993-a45049]]

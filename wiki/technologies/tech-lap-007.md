@@ -12,9 +12,9 @@ era: "1996-present"
 lifecycle_at_study: "Emerging"
 lifecycle_current: "Dominant"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # VPN (Virtual Private Network)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Broadband adoption post-2000 eliminated dial-up constraints; VPN became standard remote access; LapLink's bandwidth optimization features became less compelling as line speeds increased 100x — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]
+- Broadband adoption post-2000 eliminated dial-up constraints; VPN became standard remote access; LapLink's bandwidth optimization features became less compelling as line speeds increased 100x `[ps=5]` — [[study-1997-laplink-solutions-offer-telecommuti-292aa8]]

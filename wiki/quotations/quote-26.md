@@ -1,6 +1,7 @@
 ---
 title: Quote 26 — Computerworld (1989-10-09)
 type: quotation
+page_type: quotation
 slug: quote-26
 row_id: 26
 author: "Peter S. Kastner"

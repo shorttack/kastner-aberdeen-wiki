@@ -20,8 +20,8 @@ study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 2.5
-prescience_obs_count: 4
+prescience_mean: 2.56
+prescience_obs_count: 9
 ---
 
 # Speaking Event Overview: Who Cares If the Computer Breaks? - Testa Hurwitz & Thibeault (September 1995)
@@ -42,10 +42,10 @@ _Published 1995, author **Peter S. Kastner / Aberdeen Group**, type **consulting
 
 - Society has embraced computer systems to such a degree we cannot work without them; going back to pencil and paper is not possible `[ps=5]`
 - Number of business, social, and government applications that must keep operating regardless of conditions is larger than most understand, and is growing `[ps=5]`
+- Trend towards distributed computing creates more failure opportunities at desktop, workgroup, departmental, and enterprise levels `[ps=5]`
+- Sophisticated industry of hardware, software, and service companies; all thrive on pain and paranoia surrounding computer application failures `[ps=4]`
+- Reliability, availability, and serviceability are major buying criteria for markets from home/small business to largest enterprises `[ps=4]`
 - Who Cares If the Computer Breaks? at Testa, Hurwitz & Thibeault law firm forum `[ps=0]`
 - Group Vice President, Corporate Computing practice `[ps=0]`
-- Sophisticated industry of hardware, software, and service companies; all thrive on pain and paranoia surrounding computer application failures
-- Trend towards distributed computing creates more failure opportunities at desktop, workgroup, departmental, and enterprise levels
-- Reliability, availability, and serviceability are major buying criteria for markets from home/small business to largest enterprises
-- September 12, 1995; Donald L. Anglehart, Esq., Testa Hurwitz & Thibeault
-- Testa, Hurwitz & Thibeault, 125 High Street, Boston MA 02110
+- September 12, 1995; Donald L. Anglehart, Esq., Testa Hurwitz & Thibeault `[ps=0]`
+- Testa, Hurwitz & Thibeault, 125 High Street, Boston MA 02110 `[ps=0]`

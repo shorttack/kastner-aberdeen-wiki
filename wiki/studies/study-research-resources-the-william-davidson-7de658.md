@@ -16,12 +16,12 @@ source_file: "Research-Resources-The-William-Davidson-Institute.webarchive"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "medium"
+study_prescience_enum: "high"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.33
-prescience_obs_count: 3
+prescience_mean: 3.5
+prescience_obs_count: 4
 ---
 
 # WDI Research Resources: Outsourcing Application Development and Maintenance (Saia & Kastner)
@@ -42,5 +42,5 @@ _Published 2006, author **William Davidson Institute at the University of Michig
 
 - Most companies outsource at least some of their IT work, especially application development and maintenance functions — to India, the US, and elsewhere. `[ps=5]`
 - India IT services sector reached ~$200B revenue by 2020 (NASSCOM), dominated by TCS, Infosys, Wipro, HCL, Tech Mahindra, Cognizant — validating Saia & Kastner's framing of outsourcing as a durable structural market. `[ps=5]`
+- Companies are banking on the outsourcing of some of their application-related work to help boost the skills of their internal IT professionals and let them plunge their hands into more strategic initiatives — not all about the money. `[ps=4]`
 - The Aberdeen Saia/Kastner report featured in WDI Research Resources under the Globalization of Services initiative. `[ps=0]`
-- Companies are banking on the outsourcing of some of their application-related work to help boost the skills of their internal IT professionals and let them plunge their hands into more strategic initiatives — not all about the money.

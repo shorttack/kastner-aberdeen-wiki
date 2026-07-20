@@ -12,9 +12,9 @@ era: "1993-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 5.0
+prescience_mean: 5.0
+prescience_obs_count: 1
 ---
 
 # Microsoft Windows API (Win32)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Microsoft should open Windows APIs to all developers on equal footing; an independent panel should police compliance — preferable to break-up. — [[study-microsoft-split-will-hit-users-pockets-0-edc1ed]]
+- Microsoft should open Windows APIs to all developers on equal footing; an independent panel should police compliance — preferable to break-up. `[ps=5]` — [[study-microsoft-split-will-hit-users-pockets-0-edc1ed]]

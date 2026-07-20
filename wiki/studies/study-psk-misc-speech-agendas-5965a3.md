@@ -16,12 +16,12 @@ source_file: "PSK misc speech agendas.pdf"
 license: "CC-BY-4.0"
 importance: "medium"
 relevance: "medium"
-study_prescience_enum: "high"
+study_prescience_enum: "medium"
 prescience_3y_enum: "high"
 prescience_5y_enum: "high"
 prescience_max: 5.0
-prescience_mean: 3.33
-prescience_obs_count: 12
+prescience_mean: 2.87
+prescience_obs_count: 15
 ---
 
 # An Overview of Internet Application Development
@@ -49,9 +49,9 @@ _Published 1996, author **Peter S. Kastner**, type **white-paper**._
 - Customer-driven information systems identified as key trend requiring IT adaptation `[ps=4]`
 - CASE tools referenced as a prior technology that was overpromised to management but underdelivered `[ps=4]`
 - Internet growth and opportunity cited alongside 'fear' — balanced view of Internet's business potential and risks in 1996 `[ps=4]`
+- Distributed Systems Management: Chaos or Cosmos — presentation questioning whether distributed systems can be managed effectively `[ps=3]`
 - Blyth Software user group Dallas explicitly evaluating Internet application development with Aberdeen analyst guidance `[ps=0]`
+- Aberdeen Group presented at Computer Associates events in Madrid and New York circa 1994 `[ps=0]`
 - Aberdeen Group presented on Enterprise Applications for Next Century to CA Senior Management Forum 1995 `[ps=0]`
 - Vision 2000 May 1996: Emerging Technologies: Assessing Strategic Benefits — forward-looking assessment presentation `[ps=0]`
-- Aberdeen Group presented at Computer Associates events in Madrid and New York circa 1994
-- Distributed Systems Management: Chaos or Cosmos — presentation questioning whether distributed systems can be managed effectively
-- Aberdeen Group listed www.aberdeen.com on presentation slides by 1996
+- Aberdeen Group listed www.aberdeen.com on presentation slides by 1996 `[ps=0]`

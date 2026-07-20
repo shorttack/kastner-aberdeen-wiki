@@ -14,7 +14,7 @@ years_active: "1988-2010"
 occurrence_count: 2
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 5
+prescience_obs_count: 6
 ---
 
 # i2 Technologies Inc.
@@ -28,5 +28,5 @@ prescience_obs_count: 5
 - ipo_april_1996_700m_valuation `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
 - acquired_jda_604m `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
 - sap_baan_oracle_andersen_price_waterhouse `[ps=0]` — [[study-aberdeen-1996-advanced-planning-engines-white-paper]]
+- ~$200 million `[ps=0]` — [[study-erpv2p~1-b15573]]
 - Leading fully integrated supply chain management solution; synchronous and asynchronous ERP integration `[ps=0]` — [[study-erpv2p~1-b15573]]
-- ~$200 million — [[study-erpv2p~1-b15573]]

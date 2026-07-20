@@ -13,8 +13,8 @@ lifecycle_at_study: "Emerging"
 lifecycle_current: "Niche/Legacy"
 occurrence_count: 1
 prescience_max: 5.0
-prescience_mean: 2.5
-prescience_obs_count: 2
+prescience_mean: 2.33
+prescience_obs_count: 3
 ---
 
 # CORBA (Common Object Request Broker Architecture)
@@ -25,5 +25,5 @@ prescience_obs_count: 2
 ## Top observations
 
 - CORBA declined to niche status by mid-2000s `[ps=5]` — [[study-1997-distributed-object-technology--dead-3cf2d1]]
+- CORBA implied as viable standard path `[ps=2]` — [[study-1997-distributed-object-technology--dead-3cf2d1]]
 - Limited/Contested `[ps=0]` — [[study-1997-distributed-object-technology--dead-3cf2d1]]
-- CORBA implied as viable standard path — [[study-1997-distributed-object-technology--dead-3cf2d1]]

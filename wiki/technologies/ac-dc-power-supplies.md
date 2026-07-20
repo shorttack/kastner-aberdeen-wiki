@@ -12,9 +12,9 @@ era: "1970s-present"
 lifecycle_at_study: "mature"
 lifecycle_current: "active"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # AC-to-DC switching power supplies
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Guangdong province is home to much of China electronics and IT hardware industry and the source for most of the world AC-to-DC power supplies. — [[study-respiratory-illness-could-restrict-i.t.--c3c523]]
+- Guangdong province is home to much of China electronics and IT hardware industry and the source for most of the world AC-to-DC power supplies. `[ps=4]` — [[study-respiratory-illness-could-restrict-i.t.--c3c523]]

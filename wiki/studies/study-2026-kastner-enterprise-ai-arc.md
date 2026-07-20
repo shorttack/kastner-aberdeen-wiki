@@ -16,12 +16,12 @@ source_file: "enterprise_ai_arc_source.md"
 license: "CC-BY-4.0"
 importance: "high"
 relevance: "high"
-study_prescience_enum: "high"
+study_prescience_enum: "low"
 prescience_3y_enum: "medium"
 prescience_5y_enum: "medium"
 prescience_max: 0.0
 prescience_mean: 0.0
-prescience_obs_count: 58
+prescience_obs_count: 78
 ---
 
 # The Enterprise AI Arc: From XCON (1980) to Oracle 23ai (2024) — Forty-Four Years of AI-Adjacent Product Claims in the Kastner Archive
@@ -41,14 +41,19 @@ _Published 2026, author **Peter S. Kastner (assembled with Perplexity Computer u
 ## Top observations
 
 - 4 `[ps=0]`
+- 50 `[ps=0]`
 - 4 `[ps=0]`
 - 42 `[ps=0]`
 - 3 `[ps=0]`
+- 35 `[ps=0]`
 - 2 `[ps=0]`
 - 27 `[ps=0]`
+- 3 `[ps=0]`
 - 60 `[ps=0]`
+- 4 `[ps=0]`
 - 26 `[ps=0]`
 - 5 `[ps=0]`
+- 25 `[ps=0]`
 - 4 `[ps=0]`
 - 11 `[ps=0]`
 - 4 `[ps=0]`
@@ -57,11 +62,6 @@ _Published 2026, author **Peter S. Kastner (assembled with Perplexity Computer u
 - 25 `[ps=0]`
 - 3 `[ps=0]`
 - 17 `[ps=0]`
+- 5 `[ps=0]`
 - 27 `[ps=0]`
 - 5 `[ps=0]`
-- 25 `[ps=0]`
-- 5 `[ps=0]`
-- 29 `[ps=0]`
-- 2 `[ps=0]`
-- 2 `[ps=0]`
-- 26 `[ps=0]`

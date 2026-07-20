@@ -12,9 +12,9 @@ era: "1980s-present"
 lifecycle_at_study: "Emerging/mainstream"
 lifecycle_current: "Mature/ubiquitous"
 occurrence_count: 1
-prescience_max: null
-prescience_mean: null
-prescience_obs_count: 0
+prescience_max: 4.0
+prescience_mean: 4.0
+prescience_obs_count: 1
 ---
 
 # Object-Oriented Technology (OOT)
@@ -24,4 +24,4 @@ prescience_obs_count: 0
 
 ## Top observations
 
-- Ready for enterprise deployment via Internet context — [[study-1997-infinite-resource-planning-wp-893815]]
+- Ready for enterprise deployment via Internet context `[ps=4]` — [[study-1997-infinite-resource-planning-wp-893815]]

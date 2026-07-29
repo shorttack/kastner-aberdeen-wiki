@@ -40,7 +40,7 @@ logical record:
 
 | Surface | Count | Notes |
 |---|---:|---|
-| Studies | 1,434 | 109 LLM-enriched (Claude Sonnet 4.6); 1,325 templated |
+| Studies | 1,434 | 109 LLM-enriched; 1,325 templated |
 | Entities | 3,207 | 200 LLM-enriched (local qwen3.5:27b); 3,007 templated |
 | Technologies | 4,312 | 150 LLM-enriched (local qwen3.5:27b); 4,162 templated |
 | Codes | 1,292 | Methodology, technology-category, and 32 other dictionary types |
@@ -623,9 +623,8 @@ Ollama into a single command. It is the fastest way to ask a natural-language
 question against the entire vault.
 
 > **Cloud synthesis is not currently available.** The `--cloud` flag is
-> reserved for a future release when an API-key-backed provider (Anthropic,
-> Perplexity Sonar API, OpenAI, or Gemini) is wired in. The default local
-> models below are production-grade for this archive.
+> reserved for a future release when an API-key-backed provider is wired in.
+> The default local models below are production-grade for this archive.
 
 ### Prerequisites
 
@@ -1070,8 +1069,8 @@ re-run with `--commit`.
 ---
 ## 7. Cookbook: hybrid LLM research workflows
 
-Combine DuckDB filtering + local Ollama for synthesis. Cloud LLM (Claude
-Sonnet via `pplx ask`) for cross-page reasoning.
+Combine DuckDB filtering + local Ollama for synthesis. An optional cloud LLM
+can be used for cross-page reasoning.
 
 ### Setup
 
@@ -1121,9 +1120,9 @@ OBSERVATIONS:
 print(ask_local(prompt))
 ```
 
-### Example 29 — Cloud LLM (Claude Sonnet) for cross-study synthesis
+### Example 29 — Optional cloud LLM for cross-study synthesis
 
-If you have Perplexity CLI installed:
+If you have a cloud LLM CLI installed:
 
 ```bash
 # Build a context bundle from DuckDB
@@ -1142,9 +1141,11 @@ with open("/tmp/context.txt", "w") as f:
         f.write(f"  Rationale: {r.study_prescience_rationale}\n\n")
 PY
 
-# Send to Claude
-pplx ask --model claude_sonnet_4_6 --file /tmp/context.txt \
-  "Identify the 3 most consistent themes across these high-prescience Aberdeen studies. For each, name the theme, the timespan it covers, and 2-3 representative studies."
+# Send the context bundle to your cloud LLM of choice, e.g.:
+#   <your-cloud-llm-cli> --file /tmp/context.txt \
+#     "Identify the 3 most consistent themes across these high-prescience
+#      Aberdeen studies. For each, name the theme, the timespan it covers,
+#      and 2-3 representative studies."
 ```
 
 ### Example 30 — RAG over the vault using semantic search + LLM

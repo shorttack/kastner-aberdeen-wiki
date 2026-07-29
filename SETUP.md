@@ -1,7 +1,7 @@
 # Mac Mini Setup — Kastner Aberdeen Wiki
 
 End-to-end setup for the **48GB Mac Mini M4** to query the wiki locally with
-Obsidian + DuckDB + Ollama + Perplexity hybrid. ~30 minutes the first time.
+Obsidian + DuckDB + Ollama, with an optional cloud LLM for synthesis. ~30 minutes the first time.
 
 ---
 
@@ -27,7 +27,7 @@ Then open Obsidian → "Open folder as vault" → pick the `wiki/` subfolder.
 | Local LLM | Ollama + `qwen3:32b`, `qwen3:30b-a3b`, `nomic-embed-text-v2-moe` | Offline chat, embeddings, RAG |
 | Python runtime | Python 3.11 + venv | `scripts/semantic_search.py`, `scripts/reembed.py`, `scripts/verify.py` |
 | Glue | `kw` CLI (this repo) | One-line shortcuts for common workflows |
-| Cloud LLM | Perplexity Desktop (manual) | Cross-archive synthesis + external fact-checking |
+| Cloud LLM (optional) | Any web-connected assistant of your choice (manual) | Cross-archive synthesis + external fact-checking |
 
 Disk footprint: ~50 GB (Ollama models are the bulk — `qwen3:32b` alone is ~20 GB).
 
@@ -105,14 +105,15 @@ After this, `make verify` should pass all 13 checks.
 
 ---
 
-## Step 5 — Install Perplexity Desktop (manual, one-time)
+## Step 5 — Optional: add a cloud LLM (manual, one-time)
 
-1. Download Perplexity Desktop for Mac from
-   [perplexity.ai/desktop](https://www.perplexity.ai/desktop).
-2. Sign in.
-3. Workflow tip: use Perplexity for **cross-archive synthesis** and **external
-   fact-checking** (anything that needs the live web). Use local Ollama for
-   navigation, lookups, and summarizing 1–3 pages.
+1. Optionally install a web-connected LLM assistant of your choice for tasks
+   that need the live web.
+2. Sign in to that tool.
+3. Workflow tip: use the cloud assistant for **cross-archive synthesis** and
+   **external fact-checking** (anything that needs the live web). Use local
+   Ollama for navigation, lookups, and summarizing 1–3 pages. This step is
+   optional — the wiki is fully queryable with local Ollama alone.
 
 ---
 
@@ -183,7 +184,7 @@ git clone https://github.com/shorttack/aberdeen-group-archive.git
 git clone https://github.com/shorttack/kastner-aberdeen-wiki.git wiki-rebuild
 cd wiki-rebuild
 
-# Re-run the build skill from Perplexity Computer, or directly:
+# Regenerate from the archive masters (run the wiki builder directly):
 python <path-to-kastner-wiki-builder-skill>/scripts/build.py \
   --archive ../aberdeen-group-archive \
   --output . \
@@ -208,7 +209,7 @@ git add . && git commit -m "Rebuild from archive snapshot $(date +%F)" && git pu
 | Ollama with `qwen3:30b-a3b` loaded | ~22 GB |
 | Ollama with `qwen3:32b` loaded | ~24 GB |
 | Python venv + semantic_search | ~1 GB |
-| **Safe simultaneous load** | Obsidian + DuckDB + one Ollama model + Perplexity Desktop fits comfortably under 30 GB. |
+| **Safe simultaneous load** | Obsidian + DuckDB + one Ollama model (plus an optional cloud assistant) fits comfortably under 30 GB. |
 
 Avoid running `qwen3:32b` and `qwen3:30b-a3b` simultaneously — Ollama will swap.
 
@@ -217,7 +218,7 @@ Avoid running `qwen3:32b` and `qwen3:30b-a3b` simultaneously — Ollama will swa
 ## What `setup.sh` does NOT do
 
 - It does not install Obsidian (Mac App Store / drag-and-drop GUI app).
-- It does not install Perplexity Desktop.
+- It does not install any cloud LLM assistant.
 - It does not auth you to GitHub — do `gh auth login` once beforehand if you
   want to push wiki edits back.
 - It does not modify `~/.zshrc` — the `kw` helper lives in the repo's venv,
